@@ -1,0 +1,6 @@
+# BEGIN dancer application htaccess
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (.*) /index.pl/$1 [QSA,L]
+# END dancer application htaccess

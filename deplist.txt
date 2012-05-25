@@ -1,3 +1,5 @@
-Time::HiRes
-Mojolicious::Lite
+Test::Base
+YAML
+Dancer
 Plack::Handler::Apache2
+
