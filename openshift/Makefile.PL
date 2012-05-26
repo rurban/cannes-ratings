@@ -3,10 +3,10 @@ use warnings;
 use ExtUtils::MakeMaker;
 
 WriteMakefile(
-    NAME                => 'openshift',
-    AUTHOR              => q{YOUR NAME <youremail@example.com>},
-    VERSION_FROM        => 'lib/openshift.pm',
-    ABSTRACT            => 'YOUR APPLICATION ABSTRACT',
+    NAME                => 'Cannes::rurban',
+    AUTHOR              => q{Reini Urban <rurban@cpanel.net>},
+    VERSION_FROM        => 'lib/Cannes/rurban.pm',
+    ABSTRACT            => 'Cannes Critics Ratings Dancer UI',
     ($ExtUtils::MakeMaker::VERSION >= 6.3002
       ? ('LICENSE'=> 'perl')
       : ()),
