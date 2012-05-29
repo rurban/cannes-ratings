@@ -47,7 +47,7 @@ float: right;
 width: 175px;
 }
 
-#header, #about, #getting-started {
+#header, #about, #intro {
 padding-left: 75px;
 padding-right: 30px;
 }
@@ -100,38 +100,38 @@ margin: 0;
 padding: 10px;
 }
 
-#getting-started {
+#intro {
 border-top: 1px solid #ccc;
 margin-top: 25px;
 padding-top: 15px;
 }
-#getting-started h1 {
+#intro h1 {
 margin: 0;
 font-size: 20px;
 }
-#getting-started h2 {
+#intro h2 {
 margin: 0;
 font-size: 14px;
 font-weight: normal;
 color: #333;
 margin-bottom: 25px;
 }
-#getting-started ol {
+#intro ol {
 margin-left: 0;
 padding-left: 0;
 }
-#getting-started li {
+#intro li {
 font-size: 18px;
 color: #888;
 margin-bottom: 25px;
 }
-#getting-started li h2 {
+#intro li h2 {
 margin: 0;
 font-weight: normal;
 font-size: 18px;
 color: #333;
 }
-#getting-started li p {
+#intro li p {
 color: #555;
 font-size: 13px;
 }
