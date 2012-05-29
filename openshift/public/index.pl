@@ -6,8 +6,8 @@ use Plack::Runner;
 # correctly to the dispatchers, so forcing PSGI and env here 
 # is safer.
 set apphandler => 'PSGI';
-#set environment => 'production';
-set environment => 'development';
+set environment => 'production';
+#set environment => 'development';
 
 my $root = $ENV{'DOCUMENT_ROOT'} || '';
 my @path = ('..', 'openshift', 'bin', 'app.pl');
