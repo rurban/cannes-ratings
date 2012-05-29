@@ -178,10 +178,15 @@ sub _dump {
 	$l=$s>=2.0?"<i>$l</i>":$l;
         $l="<small>$l</small>" if $title{$_}->{num} < 10;
         if ($six and $section{$section}->{$_}->[0] < 6){
-          $six=0; print "-"x25,"\n";}
-        $section{$section}->{$_}->[1]?
-	  $out .= sprintf("%2d. %s [%0.2f/%d %0.1f]\n", $i++, $l, @{$section{$section}->{$_}}):print("    $l [-]\n");
-      } 
+          $six=0; 
+	  $out .= "-"x25;
+	  $out .= "\n";
+	}
+        $out .= $section{$section}->{$_}->[1] 
+	  ? sprintf("%2d. %s [%0.2f/%d %0.1f]\n", 
+		    $i++, $l, @{$section{$section}->{$_}}) 
+	  : sprintf("    $l [-]\n");
+      }
       $out .= "</pre>\n\n"; 
     }
   }
