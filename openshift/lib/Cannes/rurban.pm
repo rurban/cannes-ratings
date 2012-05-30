@@ -8,9 +8,11 @@ our $VERSION = '0.1';
 
 sub _read {
   my $DATA = shift;
-  my @critics = @{$_[0]};
-  my (%critic,$critic,$mag,$cn,$out,@t,%title);
-  for my $c (@critics) {
+  my $critics = shift;
+  my %critic = %{$_[0]};
+  my %title = %{$_[1]};
+  my ($critic,$mag,$cn,$out,@t);
+  for my $c (@$critics) {
     for (split/\n/,$c) { 
       undef $critic;
       if (/^(\S.+) \((.+), (.+?)\)/) {
@@ -237,7 +239,7 @@ sub _dump {
 	  allfilms => \@allfilms,
 	  t => \@t,
 	  title   => \%title,
-	  critics => \%critic,
+	  critic  => \%critic,
 	  numc => $numc, 
 	  numb => scalar(keys(%badcritic))
   };
@@ -251,7 +253,7 @@ sub _list {
   my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
   my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
   my @critics = @{"Cannes::rurban::$year\::critics"};
-  my $vars = _dump( _read($DATA, \@critics) );
+  my $vars = _dump( _read($DATA, \@critics, {}, {}) );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
@@ -268,7 +270,7 @@ get '/2012' => sub {
   _list(2012);
 };
 get '/all' => sub {
-  my $vars = {};
+  my $vars = {}; my (@t, %critic, %title);
   for my $year (qw(2010 2011 2012)) {
     no strict 'refs';
     eval "require Cannes::rurban::$year;" or die "invalid year $year";
@@ -276,12 +278,14 @@ get '/all' => sub {
     my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
     my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
     my @critics = @{"Cannes::rurban::$year\::critics"};
-    $vars = _dump( _read($DATA, \@critics) );
+    my @new = _read($DATA, \@critics, \%critic, \%title);
+    %critic = %{$new[0]}; %title = %{$new[1]};
+    push @t, @{$new[2]};
     $vars->{year} = $year;
     $vars->{HEADER} = $HEADER;
     $vars->{FOOTER} = $FOOTER;
   }
-  template 'index', $vars;
+  template 'index', _dump( \%critic, \%title, \@t);
 };
 get '/' => sub {
   _list(2012);
