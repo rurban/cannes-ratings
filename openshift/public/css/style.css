@@ -27,7 +27,7 @@ text-decoration: none;
 
 #page {
 background-color: #ddd;
-width: 750px;
+width: 900px;
 margin: auto;
 margin-left: auto;
 padding-left: 0px;
@@ -39,7 +39,7 @@ background-color: white;
 border: 3px solid #aaa;
 border-top: none;
 padding: 25px;
-width: 500px;
+width: 650px;
 }
 
 #sidebar {
