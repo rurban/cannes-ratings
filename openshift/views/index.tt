@@ -4,6 +4,7 @@
           <li>
             <h3>Years</h3>
             <ul class="links">
+              <li><a href="/all">All</a></li>
               <li><a href="/2012">2012</a></li>
               <li><a href="/2011">2011</a></li>
               <li><a href="/2010">2010</a></li>
@@ -39,7 +40,7 @@
         </div>
 
         <div id="list">
-	  <% list %>
+	  <% out %>
         </div>
 
         <div id="footer">

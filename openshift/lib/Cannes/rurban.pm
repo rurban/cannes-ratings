@@ -32,7 +32,7 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/[\w\)] [-\x{2013} ]*(\d[\d.]*)/) {
+    } elsif (/[\w\)]:? [-\x{2013} ]*(\d[\d.]*)/) {
       my $x = $1; $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
       $s += $x; $n++; undef $critic;
       if (/^(\S.+) \((.+), (.+?)\)/) {
@@ -64,15 +64,15 @@ sub _dump {
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
     my $section;
-    if ($l =~ / \[Competition\]/) { 
-      $l =~ s/ \[Competition\]//; $section = 'Competition';
+    if ($l =~ / [\[\(]Competition[\]\)]/) { 
+      $l =~ s/ [\[\(]Competition[\]\)]//; $section = 'Competition';
     } else { 
-      $l =~ s/ \[([\w ]+?)\]//; $section = $1;
+      $l =~ s/ [\[\(]([\w ]+?)[\]\)]//; $section = $1;
     }
     $section='Other' if !$section or !$sections{$section};
     $title{$t}->{'section'} = $section; 
     $title{$t}->{'avg'} = $a;
-    $title{$t}->{'num'} = $n; 
+    $title{$t}->{'num'} = $n;
     $title{$t}->{'line'} = $l;
     for my $c (keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
@@ -80,7 +80,7 @@ sub _dump {
       push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
     }
   }
-  my %badcritic;
+  my (%badcritic, @good, @allfilms);
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
@@ -160,7 +160,7 @@ sub _dump {
     my @titles = keys %title;
     for (@titles) {
       if ($title{$_}->{section} and $title{$_}->{section} eq $section) {
-        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev} ]; 
+        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev} ];
         if($title{$_}->{num}) {
 	  $sum += $title{$_}->{avg}; 
 	  $num++
@@ -222,7 +222,17 @@ sub _dump {
     # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
   }
   $out .= "</pre>";
-  return $out;
+  return {out => $out, 
+	  good   => \@good, 
+	  sections => \%sections, 
+	  sectlist => \@sections, 
+	  allfilms => \@allfilms,
+	  t => \@t,
+	  title   => \%title,
+	  critics => \%critic,
+	  numc => $numc, 
+	  numb => scalar(keys(%badcritic))
+  };
 }
 
 sub _list {
@@ -233,12 +243,11 @@ sub _list {
   my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
   my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
   my @critics = @{"Cannes::rurban::$year\::critics"};
-  my $out = _dump( _read($DATA, \@critics) );
-  template 'index', {year => $year, 
-		     HEADER => $HEADER, 
-		     FOOTER => $FOOTER,
-		     list   => $out,
-  };
+  my $vars = _dump( _read($DATA, \@critics) );
+  $vars->{year} = $year;
+  $vars->{HEADER} = $HEADER;
+  $vars->{FOOTER} = $FOOTER;
+  template 'index', $vars;
 }
 
 get '/2010' => sub {
@@ -249,6 +258,22 @@ get '/2011' => sub {
 };
 get '/2012' => sub {
   _list(2012);
+};
+get '/all' => sub {
+  my $vars = {};
+  for my $year (qw(2010 2011 2012)) {
+    no strict 'refs';
+    eval "require Cannes::rurban::$year;" or die "invalid year $year";
+    my $DATA = ${"Cannes::rurban::$year\::DATA"};
+    my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
+    my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
+    my @critics = @{"Cannes::rurban::$year\::critics"};
+    $vars = _dump( _read($DATA, \@critics) );
+    $vars->{year} = $year;
+    $vars->{HEADER} = $HEADER;
+    $vars->{FOOTER} = $FOOTER;
+  }
+  template 'index', $vars;
 };
 get '/' => sub {
   _list(2012);
