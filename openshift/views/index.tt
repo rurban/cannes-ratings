@@ -35,7 +35,7 @@
 
       <div id="content">
         <div id="header">
-          <h1>All Cannes <% year %> critics ratings</h1>
+          <h1>Cannes <% year %> critics ratings</h1>
           <h2>Scaled to 0-10, collected by Reini Urban</h2>
         </div>
 
