@@ -125,7 +125,7 @@ sub _dump {
     }
     $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
   }
-  my $out = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<pre>\n";
+  my $out = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<table id=verygood>\n";
   for (@t) { 
     my $t = $_->[3];
     my $n=$title{$t}->{num};
@@ -136,9 +136,9 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $out .= sprintf("%2d. $l \[$a/$n $s\]\n", $i++);
+    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[$a/$n&nbsp;$s\]</td></tr>\n", $i++);
   }
-  $out .= "</pre>\n\n<h1>Good Films (avg>6, n>3)</h1>\n<pre>\n";
+  $out .= "</table>\n\n<h1>Good Films (avg>6, n>3)</h1>\n<table>\n";
   for (@t) { 
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg}); 
@@ -149,9 +149,9 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $out .= sprintf "%2d. $l \[$a/$n $s\]\n", $i++; 
+    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[$a/$n&nbsp;$s\]</td></tr>\n", $i++);
   }
-  $out .= "</pre>\nThe rest is below 6, unacceptable for Cannes.\n";
+  $out .= "</table>\nThe rest is below 6, unacceptable for Cannes.\n";
 
   $out .= "\n<h1>All official sections</h1>\n\n";
   my %section;
@@ -168,7 +168,7 @@ sub _dump {
       }
     }
     if ($num) { my $i=1; my $six=1;
-      $out .= sprintf("<h2>Ratings for <b>$section [%0.2f/%d]</b></h2>\n<pre>\n", $sum/$num, $num);
+      $out .= sprintf("<h2>Ratings for <b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num);
       for (sort {$section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]}
 	   keys %{$section{$section}}) 
       { 
@@ -178,20 +178,21 @@ sub _dump {
 	$l=$s>=2.0?"<i>$l</i>":$l;
         $l="<small>$l</small>" if $title{$_}->{num} < 10;
         if ($six and $section{$section}->{$_}->[0] < 6){
-          $six=0; 
+          $six=0;
+	  $out .= "<tr><td colspan=3>";
 	  $out .= "-"x25;
-	  $out .= "\n";
+	  $out .= "</td></tr>\n";
 	}
         $out .= $section{$section}->{$_}->[1] 
-	  ? sprintf("%2d. %s [%0.2f/%d %0.1f]\n", 
+	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> <td>[%0.2f/%d&nbsp;%0.1f]</td></tr>\n", 
 		    $i++, $l, @{$section{$section}->{$_}}) 
-	  : sprintf("    $l [-]\n");
+	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n");
       }
-      $out .= "</pre>\n\n"; 
+      $out .= "</table>\n\n"; 
     }
   }
 
-  $out .= "\n<h1>All films</h1>\n\nSorted by avg vote, unfiltered:\n<pre>\n"; 
+  $out .= "\n<h1>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
   $i=1; my $six=1;
   for (sort {$b->[1] <=> $a->[1]} @t) {
     my ($l,$a,$n,$t) = @{$_};
@@ -201,15 +202,22 @@ sub _dump {
     if ($l =~ / \[Competition\]/) { $l =~ s/ \[Competition\]//; $l="<b>$l</b>"; }
     else { $l =~ s/ \[[\w ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
-    if ($six and $n and $a<6.0){$six=0;print "-"x25,"\n"}
-    $out .= $n ? sprintf("%2d. $l \[$a/$n $s\]\n",$i++):"    $l \[-\]\n";
+    if ($six and $n and $a<6.0){
+      $six=0;
+      $out .= "<tr><td colspan=3>";
+      $out .= "-"x25;
+      $out .= "</td></tr>\n";
+    }
+    $out .= $n 
+      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[$a/$n&nbsp;$s\]</td></tr>\n",$i++)
+      :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
   }
 
   my $numc = scalar(keys(%critic));
-  $out .= sprintf "</pre>\n\n<h1>%d/%d Critics</h1>\n\n",
+  $out .= sprintf "</table>\n\n<h1>%d/%d Critics</h1>\n\n",
                   $numc - scalar(keys(%badcritic)),$numc;
   $out .= "<i>filter stddev >2.5 from avg</i>\n";
-  $out .= "stddev name (magazine, cn) numratings <i>±diff</i>\n<pre>\n";
+  $out .= "stddev name (magazine, cn) numratings <i>±diff</i>\n<table>\n";
   for (sort {$critic{$a}->{stddev} <=> $critic{$b}->{stddev}} keys %critic) {
     no warnings;
     my $n = scalar keys( %{$critic{$_}->{title} });
@@ -217,11 +225,11 @@ sub _dump {
     my $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
     $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
     $c = "<small>$c</small>" if $n < 10;
-    $out .= sprintf "%0.2f %s %d <i>%+0.1f</i>\n", 
+    $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td>%d&nbsp;<i>%+0.1f</i></td></tr>\n", 
                     $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
     # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
   }
-  $out .= "</pre>";
+  $out .= "</table>";
   return {out => $out, 
 	  good   => \@good, 
 	  sections => \%sections, 
