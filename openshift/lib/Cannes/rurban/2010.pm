@@ -1,34 +1,34 @@
-package Cannes::rurban::2010;
+package Cannes::rurban::2010; # -*- perl -*-
 
 #!/usr/bin/perl -- -*- perl -*- 
 # Recalc and sort ratings from http://letrasdecine.blogspot.com/2010/05
 # Perl script by Reini Urban (c) 2010
 use utf8;
 our $DATA= <<'EOF';
-"BI, DUNG SO!" Phan Dang Di (Semaine)
+"BI, DUNG SO!" Phan Dang Di [Semaine]
 
-"ARMADILLO" Janus Metz (Semaine) Grand Prix Semaine
+"ARMADILLO" Janus Metz [Semaine] Grand Prix Semaine
 
-"BEDEVILLED" Cheol-soo JANG (Semaine)
+"BEDEVILLED" Cheol-soo JANG [Semaine]
 
-"LE NOM DES GENS" Michel Leclerc (Semaine)
+"LE NOM DES GENS" Michel Leclerc [Semaine]
 
-"COPACABANA" Marc Fitoussi (Semaine)
+"COPACABANA" Marc Fitoussi [Semaine]
 
-"PIEDS NUS SUR LES LIMACES (LILY SOMETIMES)" Fabienne Berthaud (Quinzaine) Art Cinema Award
+"PIEDS NUS SUR LES LIMACES (LILY SOMETIMES)" Fabienne Berthaud [Quinzaine] Art Cinema Award
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 
-"ALL GOOD CHILDREN" Alicia Duffy (Quinzaine)
+"ALL GOOD CHILDREN" Alicia Duffy [Quinzaine]
 
 "UTOMLYONNYE SOLNTSEM 2: PREDSTOYANIE (THE EXODUS - Burnt by the sun 2)" Nikita
- MIKHALKOV (Competition)
+ MIKHALKOV [Competition]
 
 Robert Koehler: (Variety, EE.UU.): 2
 Luciano Monteagudo (Página/12, Argentina): 5
 Francisco Ferreira (O Expresso, Portugal): 1
 
-"SZELÍD TEREMTÉS - A FRANKENSTEIN TERV (TENDER SON - The Frankenstein Project)" Kornél MUNDRUCZÓ (Competition)
+"SZELÍD TEREMTÉS - A FRANKENSTEIN TERV (TENDER SON - The Frankenstein Project)" Kornél MUNDRUCZÓ [Competition]
 
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 1
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
@@ -37,7 +37,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
 
 Robert Koehler: (Variety, EE.UU.): 6
 
-"HAHAHA" HONG Sangsoo (Un Certain Regard)
+"HAHAHA" HONG Sangsoo [Un Certain Regard]
 
 Olivier Père (Director artístico Festival de Locarno, Francia): 6
 Diego Batlle (La Nación, Otros Cines, Argentina): 9
@@ -52,7 +52,7 @@ Rüdiger Suchsland (Frankfurter Allgemeigne Zeitung, Artechock, Alemania): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 8,5
 Francisco Ferreira (O Expresso, Portugal): 8
 
-"HORS LA LOI (OUTSIDE OF THE LAW)" Rachid BOUCHAREB (Competition)
+"HORS LA LOI (OUTSIDE OF THE LAW)" Rachid BOUCHAREB [Competition]
 
 Eugenio Renzi (Independencia, Francia): 5
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
@@ -65,13 +65,13 @@ Violeta Kovacsis (Lumiere, España): 5
 Luciano Monteagudo (Página/12, Argentina): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 
-"TIGER FACTORY" Ming jin Woo (Quinzaine)
+"TIGER FACTORY" Ming jin Woo [Quinzaine]
 
 Paolo Bertolin (Cineforum, Italia): 8
 Robert Koehler: (Variety, EE.UU.): 7
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7
 
-"LUNG BOONMEE RALUEK CHAT (Uncle Boonmee Who Can Recall His Past Lives)" Apichatpong Weerasethakul [FILM OF THE FEST, GRAND PÊCHE, PALME D'OR] (Competition)
+"LUNG BOONMEE RALUEK CHAT (Uncle Boonmee Who Can Recall His Past Lives)" Apichatpong Weerasethakul [Competition] PALME D'OR
 
 Paolo Bertolin (Cineforum, Italia): 10
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 10
@@ -100,7 +100,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 10
 Violeta Kovacsis (Lumiere, España): 9
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 
-"LIFE ABOVE ALL" Oliver Schmitz (Un Certain Regard)
+"LIFE ABOVE ALL" Oliver Schmitz [Un Certain Regard]
 
 Scott Foundas (Filmlinc, EE.UU): 7
 
@@ -116,19 +116,19 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Cristina Nord ( Die Tageszeitung Alemania): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 
-"A ALEGRIA" Felipe Bragança, Marina Meliande (Quinzaine)
+"A ALEGRIA" Felipe Bragança, Marina Meliande [Quinzaine]
 
 Olivier Père (Director artístico Festival de Locarno, Francia): 2
 Roger Alan Koza (La Voz del Interior, Argentina): 2
 Paolo Bertolin (Cineforum, Italia): 3
 
-"PICCO" Philip Koch (Quinzaine)
+"PICCO" Philip Koch [Quinzaine]
 
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 5
 
-"REBECCA H. (RETURN TO THE DOGS)" Lodge Kerrigan (Un Certain Regard)
+"REBECCA H. (RETURN TO THE DOGS)" Lodge Kerrigan [Un Certain Regard]
 
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 8
@@ -148,7 +148,7 @@ Gabe Klinger (The Auteurs Notebook, EE.UU.): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Violeta Kovacsis (Lumiere, España): 8
 
-"SIMON WERNER A DISPARU..." Fabrice Gobert (Un Certain Regard)
+"SIMON WERNER A DISPARU..." Fabrice Gobert [Un Certain Regard]
 
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
@@ -162,7 +162,7 @@ Fernando Ganzo (Lumiére, España): 0
 
 Robert Koehler: (Variety, EE.UU.): 8
 
-"FAIR GAME" Doug Liman (Competition)
+"FAIR GAME" Doug Liman [Competition]
 
 Francisco Ferreira (O Expresso, Portugal): 5,5
 Alejandro G. Calvo (Sensacine.com, España): 6
@@ -181,7 +181,7 @@ Diego Lerer (Clarín, Micropsia, Argentina): 5
 Paolo Bertolin (Cineforum, Italia): 7
 Eugenio Renzi (Independencia, Francia): 5
 
-"OCTUBRE" Diego Vega y Daniel Vega (Un Certain Regard)
+"OCTUBRE" Diego Vega y Daniel Vega [Un Certain Regard]
 
 Luciano Barisone (Panoramiques, Italia): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 6,50
@@ -193,7 +193,7 @@ Robert Koehler: (Variety, EE.UU.): 5
 Alejandro G. Calvo (Sensacine.com, España): 5
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6
 
-"TODOS VOS SODES CAPITANS" Oliver Laxe (Quinzaine)
+"TODOS VOS SODES CAPITANS" Oliver Laxe [Quinzaine]
 
 Olivier Père (Director artístico Festival de Locarno, Francia): 7
 Antoine Thirion (Independencia, Francia): 8
@@ -210,7 +210,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 7,5
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
 Francisco Ferreira (O Expresso, Portugal): 7,5
 
-"LA NOSTRA VITA (OUR LIFE)" Daniele Luchetti (Competition)
+"LA NOSTRA VITA (OUR LIFE)" Daniele Luchetti [Competition]
 
 Alejandro G. Calvo (Sensacine.com, España): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
@@ -236,7 +236,7 @@ Diego Lerer (Clarín, Micropsia, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 5,5
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 
-"ROUTE IRISH" Ken Loach (Competition)
+"ROUTE IRISH" Ken Loach [Competition]
 
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Diego Batlle (La Nación, Otros Cines, Argentina): 7
@@ -258,7 +258,7 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Diego Lerer (Clarín, Micropsia, Argentina): -8- (vistos dos episodios de tres). 
 Scott Foundas (Filmlinc, EE.UU): 9
 
-"SHI (POETRY)" Lee Chang-dong (Competition)
+"SHI (POETRY)" Lee Chang-dong [Competition]
 
 Diego Batlle (La Nación + Otros Cines, Argentina): 9
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
@@ -281,7 +281,7 @@ Scott Foundas (Filmlinc, EE.UU): 10
 Cristina Nord ( Die Tageszeitung Alemania): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
 
-"UDAAN" Vikramaditya Motwane (Un Certain Regard)
+"UDAAN" Vikramaditya Motwane [Un Certain Regard]
 
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 1
@@ -289,7 +289,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 3
 Paolo Bertolin (Cineforum, Italia): 8
 Robert Koehler: (Variety, EE.UU.): 4
 
-"DES HOMMES ET DES DIEUX (OF GODS AND MEN)" Xavier Beauvois (Competition)
+"DES HOMMES ET DES DIEUX (OF GODS AND MEN)" Xavier Beauvois [Competition]
 
 Cristina Nord ( Die Tageszeitung, Alemania): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
@@ -312,7 +312,7 @@ Diego Lerer (Clarín + Micropsia, Argentina): 9
 Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 9,5
 
-"SCHASTYE MOE (MY JOY)" Sergei Loznitsa (Competition)
+"SCHASTYE MOE (MY JOY)" Sergei Loznitsa [Competition]
 
 Diego Batlle (La Nación + Otros Cines, Argentina): 3
 Luciano Monteagudo (Página/12, Argentina): 5
@@ -334,7 +334,7 @@ Manu Yáñez (Fotogramas, España): 6
 Scott Foundas (Filmlinc, EE.UU): 8
 Paolo Bertolin (Cineforum, Italia): 10
 
-"DES FILLES EN NOIR" Jean-Paul Civeyrac (Quinzaine)
+"DES FILLES EN NOIR" Jean-Paul Civeyrac [Quinzaine]
 
 Fernando Ganzo (Lumiere, España): 7
 Diego Batlle (La Nación + Otros Cines, Argentina): 6,5
@@ -343,7 +343,7 @@ Alejandro G. Calvo (Sensacine.com, España): 5
 Robert Koehler (Variety, EE.UU.): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6
 
-"LOS LABIOS" Santiago Loza e Iván Fund (Un Certain Regard)
+"LOS LABIOS" Santiago Loza e Iván Fund [Un Certain Regard]
 
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Diego Batlle (La Nación + Otros Cines, Argentina): 8
@@ -357,7 +357,7 @@ Carlo Chatrian (Panoramiques Duellanti, Italia): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7,5
 
-"BLUE VALENTINE" Derek Cianfrance (Un Certain Regard)
+"BLUE VALENTINE" Derek Cianfrance [Un Certain Regard]
 
 Cristina Nord (Die Tageszeitung, Alemania): 6
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
@@ -381,18 +381,18 @@ Jaime Pena (El Amante + Cahiers du Cinéma España, España): 7,5
 Carlo Chatrian (Panoramiques Duellanti, Italia): 8
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 
-"THE MYHTH OF AMERICAN SLEEPOVER" David Robert Mitchell (Semaine)
+"THE MYHTH OF AMERICAN SLEEPOVER" David Robert Mitchell [Semaine]
 
 Paolo Bertolin (Cineforum, Italia): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
 
-"ILLÉGAL" Olivier Masset-Depasse (Quinzaine)
+"ILLÉGAL" Olivier Masset-Depasse [Quinzaine]
   SACD Prize for best French-language film
 
 Paolo Bertolin (Cineforum, Italia): 7
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 0,001
 
-"SOUND OF NOISE" Ola Simonsson & Johanes Stjärne Nilsson (Semaine)
+"SOUND OF NOISE" Ola Simonsson & Johanes Stjärne Nilsson [Semaine]
 
 Paolo Bertolin (Cineforum, Italia): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 6,5
@@ -414,11 +414,11 @@ Fernando Ganzo (Lumiére, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 9
 Paolo Bertolin (Cineforum, Italia): 8
 
-"TWO GATES OF SLEEP" Alistair Banks Griffin (Quinzaine)
+"TWO GATES OF SLEEP" Alistair Banks Griffin [Quinzaine]
 
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 2
 
-"COPIE CONFORME (CERTIFIED COPY)" Abbas Kiarostami (Competition)
+"COPIE CONFORME (CERTIFIED COPY)" Abbas Kiarostami [Competition]
 
 Carlo Chatrian (Panoramiques Duellanti, Italia): 3
 Emmanuel Burdeau (Mediapart, Francia): 6,5
@@ -442,7 +442,7 @@ Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 8
 Paolo Bertolin (Cineforum, Italia): 7
 
-"FILM SOCIALISME" Jean-Luc Godard (Un Certain Regard)
+"FILM SOCIALISME" Jean-Luc Godard [Un Certain Regard]
 
 Cristina Nord (Die Tageszeitung, Alemania): 8
 Fernando Ganzo (Lumiere, España): 10
@@ -467,13 +467,13 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 0,3
 Francisco Ferreira (O Expresso, Portugal): 10
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 9,5
 
-"ALTING BLIVER GODT IGEN" Christoffer Boe (Quinzaine)
+"ALTING BLIVER GODT IGEN" Christoffer Boe [Quinzaine]
 
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 2
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 3
 Paolo Bertolin (Cineforum, Italia): 6
 
-"HA 'MESHOTET" Avishai Siva (Quinzaine)
+"HA 'MESHOTET" Avishai Siva [Quinzaine]
 
 Diego Batlle (La Nación + Otros Cines, Argentina): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 4
@@ -482,7 +482,7 @@ Cristina Nord (Die Tageszeitung, Alemania): 5
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 4
 
-"AÑO BISIESTO" Michael Rowe (Quinzaine)
+"AÑO BISIESTO" Michael Rowe [Quinzaine]
 
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 5
 Carlo Chatrian (Panoramiques Duellanti, Italia): 4
@@ -491,7 +491,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 6
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 4
 
-"BIUTIFUL" Alejandro González-Iñarritu (Competition)
+"BIUTIFUL" Alejandro González-Iñarritu [Competition]
 
 Roger Alan Koza (La Voz del Interior, Argentina): 3
 Alejandro G. Calvo (Sensacine.com, España): 2
@@ -515,7 +515,7 @@ Scott Foundas (Filmlinc, EE.UU): 0
 Alejandro G. Calvo (Sensacine.com, España): 5
 Scott Foundas (Filmlinc, EE.UU): 0
 
-"O ESTRANHO CASO DA ANGELICA" Manoel Oliveira (Un Certain Regard)
+"O ESTRANHO CASO DA ANGELICA" Manoel Oliveira [Un Certain Regard]
 
 Francisco Ferreira (O Expresso, Portugal): 10
 Scott Foundas (Filmlinc, EE.UU): 10
@@ -542,7 +542,7 @@ Cristina Nord (Die Tageszeitung, Alemania): 8
 Mark Peranson (CinemaScope, Canada): 10,3
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 5
 
-"CARANCHO" Pablo Trapero (Un Certain Regard)
+"CARANCHO" Pablo Trapero [Un Certain Regard]
 
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Diego Batlle (La Nación + Otros Cines, Argentina): 8
@@ -560,7 +560,7 @@ Violeta Kovacsis (Lumiere, España): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 5,5
 Luciano Monteagudo (Página/12, Argentina): 8
 
-"OUTRAGE" Takeshi Kitano (Competition)
+"OUTRAGE" Takeshi Kitano [Competition]
 
 Scott Foundas (Filmlinc, EE.UU): 4
 Alejandro G. Calvo (Sensacine.com, España): 8
@@ -583,7 +583,7 @@ Manu Yáñez (Fotogramas, España): 8
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 6
 Paolo Bertolin (Cineforum, Italia): 8
 
-"HAI SHANG CHUAN QI (I WISH I KNEW)" Jia Zhang-ke (Un Certain Regard)
+"HAI SHANG CHUAN QI (I WISH I KNEW)" Jia Zhang-ke [Un Certain Regard]
 
 Francisco Ferreira (O Expresso, Portugal): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 4
@@ -606,7 +606,7 @@ Scott Foundas (Filmlinc, EE.UU): 7
 Robert Koehler (Variety, EE.UU.): 9
 Paolo Bertolin (Cineforum, Italia): 8
 
-"LE QUATTRO VOLTE" Michelangelo Frammartino (Quinzaine) Best European Film Quinzaine
+"LE QUATTRO VOLTE" Michelangelo Frammartino [Quinzaine] Best European Film Quinzaine
     Palm Dog Award for best performance by a dog
 
 Carlos Reviriego (Cahiers du Cinéma España, España): 10
@@ -620,7 +620,7 @@ Alejandro G. Calvo (Sensacine.com, España): 8
 Diego Batlle (La Nación, Otros Cines, Argentina): 10
 Luciano Monteagudo (Página/12, Argentina): 9
 
-"CLEVELAND CONTRE WALL STREET" Jean-Stèphane Bron (Quinzaine)
+"CLEVELAND CONTRE WALL STREET" Jean-Stèphane Bron [Quinzaine]
 
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 6
@@ -628,7 +628,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 6
 Luciano Barisone (Panoramiques, Italia): 7
 Luciano Monteagudo (Página/12, Argentina): 5
 
-"LA CASA MUDA" Gustavo Hernandez (Quinzaine)
+"LA CASA MUDA" Gustavo Hernandez [Quinzaine]
 
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 0
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 5
@@ -651,7 +651,7 @@ Carlos Reviriego (Cahiers du Cinéma España, España): 4
 Emmanuel Burdeau (Mediapart, Francia): 7
 Olivier Père (Director artístico Festival de Locarno, Francia): 2
 
-"R U THERE" David Verbeek (Un Certain Regard)
+"R U THERE" David Verbeek [Un Certain Regard]
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 7
@@ -662,14 +662,14 @@ Eugenio Renzi (Independencia, Francia): 4
 Luciano Monteagudo (Página/12, Argentina): 7
 Olivier Père (Director artístico Festival de Locarno, Francia): 2
 
-"PAL ADRIENN" Ágnes Kocsis (Un Certain Regard)
+"PAL ADRIENN" Ágnes Kocsis [Un Certain Regard]
 
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Eugenio Renzi (Independencia, Francia): 5
 Luciano Barisone (Panoramiques, Italia): 7
 
-"LA PRINCESSE DE MONTPENSIER (THE PRINCESS OF MONTPENSIER)" Bertrand Tavernier (Competition)
+"LA PRINCESSE DE MONTPENSIER (THE PRINCESS OF MONTPENSIER)" Bertrand Tavernier [Competition]
 
 Francisco Ferreira (O Expresso, Portugal): 1
 Cristina Nord ( Die Tageszeitung Alemania): 5
@@ -685,7 +685,7 @@ Luciano Monteagudo (Página/12, Argentina): 5
 Violeta Kovacsis (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
 
-"SOMOS LO QUE HAY" Jorge Michel Grau (Quinzaine)
+"SOMOS LO QUE HAY" Jorge Michel Grau [Quinzaine]
 
 Roger Alan Koza (La Voz del Interior, Argentina): 4
 Paolo Bertolin (Cineforum, Italia): 8
@@ -706,7 +706,7 @@ Manu Yáñez (Fotogramas, España): 6
 Violeta Kovacsis (Lumiere, España): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7,5
 
-"BELLE ÉPINE" Rebecca Zlotowski (Semaine)
+"BELLE ÉPINE" Rebecca Zlotowski [Semaine]
 
 Fernando Ganzo (Lumiere, España): 6
 Olivier Père (Director artístico Festival de Locarno, Francia): 7
@@ -715,7 +715,7 @@ Robert Koehler: (Variety, EE.UU.): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 8
 Scott Foundas (Filmlinc, EE.UU): 5
 
-"SANDCASTLE" Boo Junfeng (Semaine)
+"SANDCASTLE" Boo Junfeng [Semaine]
 
 Roger Alan Koza (La Voz del Interior, Argentina): 5
 Paolo Bertolin (Cineforum, Italia): 7
@@ -726,7 +726,7 @@ Luciano Barisone (Panoramiques, Italia): 5
 
 Roger Alan Koza (La Voz del Interior, Argentina): 3
 
-"RUBBER" Quentin Dupieux (Semaine)
+"RUBBER" Quentin Dupieux [Semaine]
 
 Olivier Père (Director artístico Festival de Locarno, Francia): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
@@ -742,7 +742,7 @@ Paolo Bertolin (Cineforum, Italia): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 7
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 6
 
-"LES AMOURS IMAGINAIRES (HEARTBEATS)" Xavier Dolan (Un Certain Regard)
+"LES AMOURS IMAGINAIRES (HEARTBEATS)" Xavier Dolan [Un Certain Regard]
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 7
 Olivier Père (Director artístico Festival de Locarno, Francia): 0
@@ -756,7 +756,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Carlo Chatrian (Panoramiques, Duellanti, Italia): España, España): 3
 Violeta Kovacsis (Lumiere, España): 4
 
-"UNTER DIR DIE STADT (THE CITY BELOW)" Christoph Hochhäussler (Un Certain Regard)
+"UNTER DIR DIE STADT (THE CITY BELOW)" Christoph Hochhäussler [Un Certain Regard]
 
 Emmanuel Burdeau (Mediapart, Francia): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
@@ -776,7 +776,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
 Violeta Kovacsis (Lumiere, España): 4
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6,5
 
-"UN HOMME QUI CRIE (A SCREAMING MAN)" Mahamat-Saleh Haroun (Competition)
+"UN HOMME QUI CRIE (A SCREAMING MAN)" Mahamat-Saleh Haroun [Competition]
 
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
 Robert Koehler: (Variety, EE.UU.): 8
@@ -799,7 +799,7 @@ Luciano Monteagudo (Página/12, Argentina): 7
 Violeta Kovacsis (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
 
-"ANOTHER YEAR" Mike Leigh (Competition)
+"ANOTHER YEAR" Mike Leigh [Competition]
 
 Francisco Ferreira (O Expresso, Portugal): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
@@ -837,14 +837,14 @@ Scott Foundas (Filmlinc, EE.UU): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
 Manu Yáñez (Fotogramas, España): 4
 
-"PETIT BÉBÉ JÉSUS DE FLANDR" Gust Van den Berghe (Quinzaine)
+"PETIT BÉBÉ JÉSUS DE FLANDR" Gust Van den Berghe [Quinzaine]
 
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 0
 Eulalia Iglesias (Cahiers du Cinéma España, España): 2
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 0
 Paolo Bertolin (Cineforum, Italia): 4
 
-"LA MIRADA INVISIBLE" Diego Lerman (Quinzaine)
+"LA MIRADA INVISIBLE" Diego Lerman [Quinzaine]
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 7
@@ -859,7 +859,7 @@ Manu Yáñez (Fotogramas, España): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
 
-"AURORA" Cristi Puiu (Un Certain Regard)
+"AURORA" Cristi Puiu [Un Certain Regard]
 
 Alejandro G. Calvo (Sensacine.com, España): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 8
@@ -881,14 +881,14 @@ Carlos Reviriego (Cahiers du Cinéma España, España): 8
 Carlos F. Heredero (Cahiers du Cinéma España, España): 9
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
 
-"SVET-AKE" Aktan Arym Kubat (Quinzaine)
+"SVET-AKE" Aktan Arym Kubat [Quinzaine]
 
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
 Olivier Père (Director artístico Festival de Locarno, Francia): 7
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 6
 Paolo Bertolin (Cineforum, Italia): 8
 
-"UN POISON VIOLENT (A GIFT)" Katell Quillévéré (Quinzaine)
+"UN POISON VIOLENT (A GIFT)" Katell Quillévéré [Quinzaine]
 
 Fernando Ganzo (Lumiere, España): 2
 Diego Lerer (Clarín, Micropsia, Argentina): 4
@@ -905,7 +905,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 4
 Robert Koehler: (Variety, EE.UU.): 4
 Carlos Reviriego (Cahiers du Cinéma España, España): 6
 
-"SHIT YEAR" Cam Archer (Quinzaine)
+"SHIT YEAR" Cam Archer [Quinzaine]
 
 Olivier Père (Festival de Locarno, Francia): 0
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
@@ -917,7 +917,7 @@ Mark Peranson (CinemaScope, Canada): 0,2
 
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 8
 
-"CHATROOM" Hideo Nakata (Un Certain Regard)
+"CHATROOM" Hideo Nakata [Un Certain Regard]
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 3
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
@@ -947,14 +947,14 @@ Scott Foundas (Filmlinc, EE.UU): 2
 Carlos Reviriego (Cahiers du Cinéma España, España): 1
 Carlos F. Heredero (Cahiers du Cinéma España, España): 2
 
-"BENDA BILILI!" Florent de la Tullaye, Renaud Barret (Quinzaine)
+"BENDA BILILI!" Florent de la Tullaye, Renaud Barret [Quinzaine]
 
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 5
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 3
 
  David Gritten 4/5 http://www.telegraph.co.uk/culture/film/cannes-film-festival/7719324/Cannes-Film-Festival-2010-Benda-Bilili-review.html
 
-"MARTI, DUPA CRACIUN  (TUESDAY, AFTER CHRISTMAS)" Radu Muntean (Un Certain Regard)
+"MARTI, DUPA CRACIUN  (TUESDAY, AFTER CHRISTMAS)" Radu Muntean [Un Certain Regard]
 
 Gabe Klinger (The Auteurs Notebook, EE.UU.): 4
 Robert Koehler: (Variety, EE.UU.): 8
@@ -986,7 +986,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Cristina Nord ( Die Tageszeitung Alemania): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 7
 
-"THE HOUSEMAID" Im Sang-soo (Competition)
+"THE HOUSEMAID" Im Sang-soo [Competition]
 
 Luciano Barisone (Panoramiques, Italia): 5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
@@ -1023,7 +1023,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 5
 
-"RIZHAO CHONGQING (CHONGQING BLUES)" Wang Xiaoshuai (Competition)
+"RIZHAO CHONGQING (CHONGQING BLUES)" Wang Xiaoshuai [Competition]
 
 Alejandro G. Calvo (Sensacine.com, España): 3
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
@@ -1046,7 +1046,7 @@ Cristina Nord ( Die Tageszeitung Alemania): 2
 Francisco Ferreira (O Expresso, Portugal): 2
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6
 
-"TOURNÉE (ON TOUR)" Mathieu Amalric (Competition)
+"TOURNÉE (ON TOUR)" Mathieu Amalric [Competition]
 
 Carlo Chatrian (Panoramiques Duellanti, Italia): 7
 Eugenio Renzi (Independencia, Francia): 7,6
@@ -1120,8 +1120,7 @@ Source at http://rurban.xarch.at/film/Cannes2010.txt
 Result at http://rurban.xarch.at/film/Cannes2010.sorted.html
 History at http://github.com/rurban/cannes-critics-ratings/
 
-Other years: <a href=\"http://rurban.xarch.at/film/Cannes2011.sorted.html\">2011</a>, <a href=\"http://rurban.xarch.at/film/Cannes2012.sorted.html\">2012</a>
 </pre>";
 
-$FOOTER =~ s{ http://(.+)\n}{ <a href="http://$1">$1</a>\n}g;
-
+$FOOTER =~ s{http://(.+)\n}{<a href="http://$1">$1</a>\n}g;
+1;

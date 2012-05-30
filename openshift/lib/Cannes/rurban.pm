@@ -12,7 +12,7 @@ sub _read {
   my %critic = %{$_[0]};
   my %title = %{$_[1]};
   my ($critic,$mag,$cn,$out,@t);
-  for my $c (@$critics) {
+  for my $c (@{$critics}) {
     for (split/\n/,$c) { 
       undef $critic;
       if (/^(\S.+) \((.+), (.+?)\)/) {
@@ -55,6 +55,22 @@ sub _read {
   return ( \%critic, \%title, \@t );
 }
 
+sub _detail {
+  my $t = shift;
+  my $h = shift;
+  my $critic = shift;
+  my $out = '';
+  for (sort{$h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]} 
+       keys %{$h->{critic}}) {
+    my $c = $h->{critic}->{$_}->[0];
+    my $n = $_;
+    $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})" if $critic->{$_}->{mag};
+    $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$n</td>"
+      ."<td class=detail>$c</td></tr>\n";
+  }
+  $out;
+}
+
 sub _dump {
   my %critic = %{$_[0]};
   my %title  = %{$_[1]};
@@ -65,12 +81,7 @@ sub _dump {
   @t = sort {$b->[1] <=> $a->[1]} @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
-    my $section;
-    if ($l =~ / [\[\(]Competition[\]\)]/) { 
-      $l =~ s/ [\[\(]Competition[\]\)]//; $section = 'Competition';
-    } else { 
-      $l =~ s/ [\[\(]([\w ]+?)[\]\)]//; $section = $1;
-    }
+    $l =~ s/ \[(.+?)\]//; my $section = $1;
     $section='Other' if !$section or !$sections{$section};
     $title{$t}->{'section'} = $section; 
     $title{$t}->{'avg'} = $a;
@@ -127,18 +138,20 @@ sub _dump {
     }
     $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
   }
-  my $out = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<table id=verygood>\n";
+  my $out = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<table>\n";
   for (@t) { 
     my $t = $_->[3];
-    my $n=$title{$t}->{num};
+    my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
     next if $n<=3 or $a < 7.5; 
-    my $l=$title{$t}->{line};
-    my $s=sprintf("%0.1f",$title{$t}->{stddev});
+    my $l = $title{$t}->{line};
+    my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[$a/$n&nbsp;$s\]</td></tr>\n", $i++);
+    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    $i++;
   }
   $out .= "</table>\n\n<h1>Good Films (avg>6, n>3)</h1>\n<table>\n";
   for (@t) { 
@@ -151,7 +164,9 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[$a/$n&nbsp;$s\]</td></tr>\n", $i++);
+    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    $i++;
   }
   $out .= "</table>\nThe rest is below 6, unacceptable for Cannes.\n";
 
@@ -169,8 +184,9 @@ sub _dump {
 	}
       }
     }
-    if ($num) { my $i=1; my $six=1;
-      $out .= sprintf("<h2>Ratings for <b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num);
+    if ($num) { 
+      my $j=1; my $six=1;
+      $out .= sprintf("<h2><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num);
       for (sort {$section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]}
 	   keys %{$section{$section}}) 
       { 
@@ -186,33 +202,36 @@ sub _dump {
 	  $out .= "</td></tr>\n";
 	}
         $out .= $section{$section}->{$_}->[1] 
-	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> <td>[%0.2f/%d&nbsp;%0.1f]</td></tr>\n", 
-		    $i++, $l, @{$section{$section}->{$_}}) 
+	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> <td>[<a name=\"$i\" href=\"?t=$i#$i\">%0.2f/%d&nbsp;%0.1f</a>]</td></tr>\n", 
+		    $j++, $l, @{$section{$section}->{$_}}) 
 	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n");
+	$out .= _detail($_,$title{$_},\%critic) if params->{t} and params->{t} eq $i;
+	$i++;
       }
-      $out .= "</table>\n\n"; 
+      $out .= "</table>\n\n";
     }
   }
 
   $out .= "\n<h1>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
-  $i=1; my $six=1;
+  my $j=1; my $six=1;
   for (sort {$b->[1] <=> $a->[1]} @t) {
     my ($l,$a,$n,$t) = @{$_};
     next unless $t;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
     $l="<i>$l</i>" if $s>=2.0;
-    if ($l =~ / \[Competition\]/) { $l =~ s/ \[Competition\]//; $l="<b>$l</b>"; }
-    else { $l =~ s/ \[[\w ]+?\]//;}
+    if ($l =~ / \[Competition\]/) { 
+      $l =~ s/ \[Competition\]//; $l="<b>$l</b>";
+    } else { $l =~ s/ \[[\w ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
     if ($six and $n and $a<6.0){
       $six=0;
-      $out .= "<tr><td colspan=3>";
-      $out .= "-"x25;
-      $out .= "</td></tr>\n";
+      $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
     }
     $out .= $n 
-      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[$a/$n&nbsp;$s\]</td></tr>\n",$i++)
+      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
       :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
+    $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    $i++;
   }
 
   my $numc = scalar(keys(%critic));
@@ -288,7 +307,7 @@ get '/all' => sub {
   template 'index', _dump( \%critic, \%title, \@t);
 };
 get '/' => sub {
-  _list(2012);
+  redirect '/2012';
 };
 
 1;

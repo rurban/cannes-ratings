@@ -170,7 +170,14 @@ h1, h2, h3, h4, h5 {
 font-family: sans-serif;
 margin: 1.2em 0 0.6em 0;
 }
-
+#list table {
+width: 100%;
+border-collapse: collapse;
+}
+td.detail {
+background-color: #ffd;
+font-size: 11px;
+}
 p {
 line-height: 1.5em;
 margin: 1.6em 0;

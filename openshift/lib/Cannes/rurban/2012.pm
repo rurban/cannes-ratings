@@ -3848,7 +3848,7 @@ Source at http://rurban.xarch.at/film/Cannes2012.txt
 Result at http://rurban.xarch.at/film/Cannes2012.sorted.html
 History at http://github.com/rurban/cannes-critics-ratings/
 
-Other years: <a href=\"http://rurban.xarch.at/film/Cannes2010.sorted.html\">2010</a>, <a href=\"http://rurban.xarch.at/film/Cannes2011.sorted.html\">2011</a>
 </pre>";
 
+$FOOTER =~ s{http://(.+)\n}{<a href="http://$1">$1</a>\n}g;
 1;
