@@ -3007,6 +3007,7 @@ Christophe Carriére 2.5
 Don Simpson (Smells Like Screen Spirit, USA) 6
 Andrew Schenker (Slant, USA) 6.5
 Reini Urban (facebook, Austria) 4
+Simon Gallagher 6 B
 
 "RENOIR" (Gilles Bourdos) [Un Certain Regard]
 Carlos Reviriego 5.5
