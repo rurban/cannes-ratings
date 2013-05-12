@@ -344,7 +344,7 @@ our $FOOTER = "
 http://micropsia.otroscines.com/
 http://www.ioncinema.com/
 http://www.lefilmfrancais.com/cannes2013/quotidien/
-History at http://github.com/rurban/cannes-critics-ratings/
+History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master
 
 </pre>";
 

@@ -3848,7 +3848,7 @@ http://www.lefilmfrancais.com/cannes2012/quotidien/
 
 Source at http://rurban.xarch.at/film/Cannes2012.txt
 Result at http://rurban.xarch.at/film/Cannes2012.sorted.html
-History at http://github.com/rurban/cannes-critics-ratings/
+History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master
 
 </pre>";
 
