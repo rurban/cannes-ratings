@@ -168,8 +168,8 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
     $i++;
   }
   $out .= ($list ? 
