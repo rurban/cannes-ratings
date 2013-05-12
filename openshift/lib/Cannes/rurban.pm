@@ -311,7 +311,9 @@ get '/all' => sub {
     $vars->{HEADER} = $HEADER;
     $vars->{FOOTER} = $FOOTER;
   }
-  template 'index', _dump( \%critic, \%title, \@t);
+  my $all = _dump( \%critic, \%title, \@t);
+  $all->{year} = "2010-2012";
+  template 'index', $all;
 };
 get '/' => sub {
   redirect '/2013';
