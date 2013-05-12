@@ -138,7 +138,7 @@ sub _dump {
     }
     $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
   }
-  my $out = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<table>\n";
+  my $list = '';
   for (@t) { 
     my $t = $_->[3];
     my $n = $title{$t}->{num};
@@ -149,11 +149,15 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $out .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    if (Dancer::SharedData->request) {
+      $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    }
     $i++;
   }
-  $out .= "</table>\n\n<h1>Good Films (avg>6, n>3)</h1>\n<table>\n";
+  my $h = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<table>\n";
+  my $out = $list ? $h . $list . "</table>\n\n" : '';
+  $list = '';
   for (@t) { 
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg}); 
@@ -168,8 +172,11 @@ sub _dump {
     $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
     $i++;
   }
-  $out .= "</table>\nThe rest is below 6, unacceptable for Cannes.\n";
-
+  $out .= ($list ? 
+	   "<h1>Good Films (avg>6, n>3)</h1>\n<table>\n"
+	   . $list
+	   . "</table>\n<small><i>The rest is below 6, unacceptable for Cannes.</i></small>\n"
+	   : $out);
   $out .= "\n<h1>All official sections</h1>\n\n";
   my %section;
   for my $section (@sections) {
@@ -184,9 +191,11 @@ sub _dump {
 	}
       }
     }
-    if ($num) { 
+    if (1 or $num) {
       my $j=1; my $six=1;
-      $out .= sprintf("<h2><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num);
+      $out .= $num
+	? sprintf("<h2><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
+	: sprintf("<h2><b>$section</b></h2>\n<table>\n");
       for (sort {$section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]}
 	   keys %{$section{$section}}) 
       { 
@@ -230,7 +239,9 @@ sub _dump {
     $out .= $n 
       ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
       :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
-    $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    if (Dancer::SharedData->request) {
+      $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    }
     $i++;
   }
 

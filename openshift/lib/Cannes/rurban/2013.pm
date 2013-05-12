@@ -11,7 +11,7 @@ package Cannes::rurban::2013;
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
 # Published at http://cannes-rurban.rhcloud.com/2013
 # History at https://github.com/rurban/cannes-critics-ratings
-# Perl script by Reini Urban (c) 2010, 2011, 2012
+# Perl script by Reini Urban (c) 2010, 2011, 2012, 2013
 # US ratings:
 # A+ 10   A 9   A- 8
 # B+ 7    B 6   B- 5
@@ -23,6 +23,131 @@ package Cannes::rurban::2013;
 
 use utf8;
 our $DATA= <<'EOF';
+
+"BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
+"BORGMAN" (Alex VAN WARMERDAM) [Competition]
+"GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
+"HELI" (Amat ESCALANTE) [Competition]
+"INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
+"JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
+"JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
+"LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
+"LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
+"LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
+"LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
+"MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
+"NEBRASKA" (Alexander PAYNE) [Competition]
+"ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
+"ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
+"SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
+"THE IMMIGRANT" (James GRAY) [Competition]
+"TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
+"UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
+"WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
+
+UN CERTAIN REGARD
+
+"AS I LAY DYING" (James FRANCO) [Un Certain Regard]
+"BENDS" (Flora LAU) [Un Certain Regard]
+"DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
+"DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
+"FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
+"GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
+"L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
+"L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
+"LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
+"LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
+"MIELE" (Valeria GOLINO) [Un Certain Regard]
+"MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
+"NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
+"OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
+"SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
+"THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
+"TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
+"WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
+
+OUT OF COMPETITION
+
+"ALL IS LOST" (J.C CHANDOR) [Out of Competition]
+"BLOOD TIES" (Guillaume CANET) [Out of Competition]
+"LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
+"THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
+"ZULU" (Jérôme SALLE) [Out of Competition]
+
+MIDNIGHT PROJECTIONS
+
+"BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
+"MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
+
+SPECIAL SCREENINGS
+
+"BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
+"MAX ROSE" (Daniel NOAH) [Special Screening]
+"MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
+"OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
+"SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
+"STOP THE POUNDING HEART" (Roberto MINERVINI) [Special Screening]
+"WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
+
+SEMAINE DE LA CRITIC
+
+"Suzanne" (Katell Quillévéré) [Semaine]
+"Le Démantèlement (The Dismantling)" (Sébastien Pilote) [Semaine]
+"Los Dueños" (Agustín Toscano & Ezequiel Radusky) [Semaine]
+"For Those in Peril" (Paul Wright) [Semaine]
+"The Lunchbox (Dabba)" (Ritesh Batra) [Semaine]
+"The Major" (Yury Bykov) [Semaine]
+"Nos héros sont morts ce soir" (David Perrault) [Semaine]
+"Salvo" (Fabio Grassadonia & Antonio Piazza) [Semaine]
+"3x3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
+"Ain't Them Bodies Saints" (David Lowery) [Semaine]
+"Les Rencontres d’après minuit" (Yann Gonzalez) [Semaine]
+
+CINEFOUNDATION
+
+"ASUNCIÓN" (Camila LUNA TOLEDO) [Cinefoundation]
+"AU-DELÀ DE L’HIVER (AFTER THE WINTER)" (JOW Zhi Wei) [Cinefoundation]
+"BABAGA" (Gan DE LANGE) [Cinefoundation]
+CONTRAFÁBULA DE UNA NIÑA DISECADA (FABLE OF A BLOOD-DRAINED GIRL) directed by Alejandro IGLESIAS MENDIZÁBAL
+"DANSE MACABRE" (Malgorzata RZANEK) [Cinefoundation]
+"DUET" (Navid DANESH) [Cinefoundation]
+"EN ATTENDANT LE DÉGEL (Waiting for the Thaw)" (Sarah HIRTT) [Cinefoundation]
+"EXIL (EXILE)" (Vladilen VIERNY) [Cinefoundation]
+"GOING SOUTH" (Jefferson MONEO) [Cinefoundation]
+"ÎN ACVARIU (IN THE FISHBOWL)" (Tudor Cristian JURGIU) [Cinefoundation]
+"MAÑANA TODAS LAS COSAS (TOMORROW ALL THE THINGS)" (Sebastián SCHJAER) [Cinefoundation]
+"NEEDLE" (Anahita GHAZVINIZADEH) [Cinefoundation]
+"O ŠUNCE (HAM STORY)" (Eliška CHYTKOVÁ) [Cinefoundation]
+"PANDY (PANDAS)" (Matúš VIZÁR) [Cinefoundation]
+"SEON (THE LINE)" (KIM Soo-Jin) [Cinefoundation]
+"STEPSISTER" (Joey IZZO) [Cinefoundation]
+"THE MAGNIFICENT LION BOY" (Ana CARO) [Cinefoundation]
+"THE NORM OF LIFE" (Evgeny BYALO) [Cinefoundation]
+
+QUINZAINE
+
+"The Congress" (Ari Folman) [Quinzaine]
+"The Selfish Giant" (Clio Barnard) [Quinzaine]
+"Un voyageur (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
+"Ugly" (Anurag Kashyap) [Quinzaine]
+"A Strange Course of Events" (Raphaël Nadjari) [Quinzaine]
+"Até ver a luz" (Basil da Cunha) [Quinzaine]
+"Blue Ruin" (Jeremy Saulnier) [Quinzaine]
+"El verano de los peces voladores (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
+"Henri" (Yolande Moreau) [Quinzaine]
+"Ilo ilo" (Anthony Chen) [Quinzaine]
+"Jodorowsky's Dune" (Frank Pavich) [Quinzaine]
+"L'Escale" (Kaveh Bakhtiari) [Quinzaine]
+"La danza de la realidad (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
+"La Fille du 14 juillet (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
+"Les Apaches" (Thierry de Peretti) [Quinzaine]
+"Les Garçons et Guillaume, à table ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
+"Magic Magic" (Sebastián Silva) [Quinzaine]
+"On the Job" (Erik Matti) [Quinzaine]
+"The Last Days on Mars" (Ruairí Robinson) [Quinzaine]
+"Tip Top" (Serge Bozon) [Quinzaine]
+"We Are What We Are" (Jim Mickle) [Quinzaine]
+
 EOF
 
 our @critics;
@@ -191,7 +316,7 @@ Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
 ";
 
-our $HEADDER = <<"EOF";
+our $HEADER = <<"EOF";
 
 <small>Collected and updated daily by Reini Urban, 
 from http://micropsia.otroscines.com/ (Diego Lerer) (la crema), http://www.ioncinema.com/ (okay), Le film français (eclectic), Screen Daily (mainstream), Indiewire (mixed) and more critics.<br>

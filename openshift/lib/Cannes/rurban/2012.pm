@@ -3827,7 +3827,7 @@ Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
 ";
 
-our $HEADDER = <<"EOF";
+our $HEADER = <<"EOF";
 With the help of: 
 <i>"Forth edition of the Apitchang poll of films at Cannes 2012.
 This year with 45 international critics"</i> - Diego Lerer<p>
