@@ -41,7 +41,7 @@
         </div>
 
         <div id="list">
-	  <% out %>
+	  No ratings yet.
         </div>
 
         <div id="footer">

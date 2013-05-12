@@ -276,7 +276,11 @@ sub _list {
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
-  template 'index', $vars;
+  if ($DATA) {
+    template 'index', $vars;
+  } else {
+    template 'notyet', $vars;
+  }
 }
 
 get '/2010' => sub {
@@ -288,9 +292,12 @@ get '/2011' => sub {
 get '/2012' => sub {
   _list(2012);
 };
+get '/2013' => sub {
+  _list(2013);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
-  for my $year (qw(2010 2011 2012)) {
+  for my $year (qw(2010 2011 2012 2013)) {
     no strict 'refs';
     eval "require Cannes::rurban::$year;" or die "invalid year $year";
     my $DATA = ${"Cannes::rurban::$year\::DATA"};
@@ -307,7 +314,7 @@ get '/all' => sub {
   template 'index', _dump( \%critic, \%title, \@t);
 };
 get '/' => sub {
-  redirect '/2012';
+  redirect '/2013';
 };
 
 1;
