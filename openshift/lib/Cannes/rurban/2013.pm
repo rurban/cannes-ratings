@@ -71,7 +71,16 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
+
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
+Stephanie Zacharek (Village Voice, USA) 7
+Todd McCarthy (The Hollywood Reporter, USA) 7
+Scott Foundas (Variety, USA) 6
+Claudia Puig (USA Today, USA) 5
+Eric Kohn (Indiewire, USA) 4.2
+Andrew O'Hehir (Salon.com, USA) 4
+Keith Uhlich (Time Out New York, USA) 4
+
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
 MIDNIGHT PROJECTIONS
@@ -91,17 +100,21 @@ SPECIAL SCREENINGS
 
 SEMAINE DE LA CRITIC
 
-"Suzanne" (Katell Quillévéré) [Semaine]
-"Le Démantèlement (The Dismantling)" (Sébastien Pilote) [Semaine]
-"Los Dueños" (Agustín Toscano & Ezequiel Radusky) [Semaine]
-"For Those in Peril" (Paul Wright) [Semaine]
-"The Lunchbox (Dabba)" (Ritesh Batra) [Semaine]
-"The Major" (Yury Bykov) [Semaine]
-"Nos héros sont morts ce soir" (David Perrault) [Semaine]
-"Salvo" (Fabio Grassadonia & Antonio Piazza) [Semaine]
+"AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
+Sebastian Doggart (Guardian, UK) 10
+Peter Debruge (Variety, USA) 8
+Jordan Hoffman (Film.com, USA) 8.3
+
+"SUZANNE" (Katell Quillévéré) [Semaine]
+"LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
+"LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
+"FOR THOSE IN PERIL" (Paul Wright) [Semaine]
+"THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
+"THE MAJOR" (Yury Bykov) [Semaine]
+"NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
+"SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 "3x3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
-"Ain't Them Bodies Saints" (David Lowery) [Semaine]
-"Les Rencontres d’après minuit" (Yann Gonzalez) [Semaine]
+"LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 
 CINEFOUNDATION
 
