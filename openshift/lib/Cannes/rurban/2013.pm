@@ -51,7 +51,12 @@ UN CERTAIN REGARD
 "BENDS" (Flora LAU) [Un Certain Regard]
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
+
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
+Eric Kohn (Indiewire, USA) 8.3
+Todd McCarthy (The Hollywood Reporter, USA) 8
+Geoff Berkshire (Variety, USA) 5
+
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
@@ -344,7 +349,7 @@ our $FOOTER = "
 http://micropsia.otroscines.com/
 http://www.ioncinema.com/
 http://www.lefilmfrancais.com/cannes2013/quotidien/
-History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master
+History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/
 
 </pre>";
 
