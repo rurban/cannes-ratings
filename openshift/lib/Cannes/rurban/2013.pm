@@ -105,16 +105,16 @@ Sebastian Doggart (Guardian, UK) 10
 Peter Debruge (Variety, USA) 8
 Jordan Hoffman (Film.com, USA) 8.3
 
+"SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 "SUZANNE" (Katell Quillévéré) [Semaine]
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
-"LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
 "FOR THOSE IN PERIL" (Paul Wright) [Semaine]
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
-"THE MAJOR" (Yury Bykov) [Semaine]
-"NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
-"SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
-"3x3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
+"LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
+"NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
+"THE MAJOR" (Yury Bykov) [Semaine]
+"3x3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
 
 CINEFOUNDATION
 
@@ -139,27 +139,27 @@ CONTRAFÁBULA DE UNA NIÑA DISECADA (FABLE OF A BLOOD-DRAINED GIRL) directed by 
 
 QUINZAINE
 
-"The Congress" (Ari Folman) [Quinzaine]
-"The Selfish Giant" (Clio Barnard) [Quinzaine]
-"Un voyageur (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
-"Ugly" (Anurag Kashyap) [Quinzaine]
-"A Strange Course of Events" (Raphaël Nadjari) [Quinzaine]
-"Até ver a luz" (Basil da Cunha) [Quinzaine]
-"Blue Ruin" (Jeremy Saulnier) [Quinzaine]
-"El verano de los peces voladores (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
-"Henri" (Yolande Moreau) [Quinzaine]
-"Ilo ilo" (Anthony Chen) [Quinzaine]
-"Jodorowsky's Dune" (Frank Pavich) [Quinzaine]
-"L'Escale" (Kaveh Bakhtiari) [Quinzaine]
-"La danza de la realidad (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
-"La Fille du 14 juillet (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
-"Les Apaches" (Thierry de Peretti) [Quinzaine]
-"Les Garçons et Guillaume, à table ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
-"Magic Magic" (Sebastián Silva) [Quinzaine]
-"On the Job" (Erik Matti) [Quinzaine]
-"The Last Days on Mars" (Ruairí Robinson) [Quinzaine]
-"Tip Top" (Serge Bozon) [Quinzaine]
-"We Are What We Are" (Jim Mickle) [Quinzaine]
+"THE CONGRESS" (Ari Folman) [Quinzaine]
+"THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
+"UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
+"UGLY" (Anurag Kashyap) [Quinzaine]
+"BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
+"LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
+"JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
+"ILO ILO" (Anthony Chen) [Quinzaine]
+"TIP TOP" (Serge Bozon) [Quinzaine]
+"L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
+"EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
+"LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
+"THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
+"A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
+"WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
+"ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
+"LES APACHES" (Thierry de Peretti) [Quinzaine]
+"LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
+"MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
+"ON THE JOB" (Erik Matti) [Quinzaine]
+"HENRI" (Yolande Moreau) [Quinzaine]
 
 EOF
 
