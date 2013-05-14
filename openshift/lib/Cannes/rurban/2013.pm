@@ -338,8 +338,12 @@ our $HEADER = <<"EOF";
 
 <small>Collected and updated daily by Reini Urban, 
 from http://micropsia.otroscines.com/ (Diego Lerer) (la crema), http://www.ioncinema.com/ (okay), Le film français (eclectic), Screen Daily (mainstream), Indiewire (mixed) and more critics.<br>
-Same as <a href="http://www.facebook.com/notes/reini-urban/cannes-2011-critics/10150578683465012">last years</a>: 0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev]. stddev>2: <i>controversial</i>. Critics with stddev &gt;2.5: filtered out. &lt;10 ratings: small.
-All sections (updated daily, official selection Competition: bold)</small><p>
+
+<b>Ratings</b>: 0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>: stddev>2: <i>controversial</i>. &lt;10 ratings: small. Competition: bold<br>
+All sections updated daily. </small><p>
 
 EOF
 
@@ -353,5 +357,6 @@ History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/
 
 </pre>";
 
-$FOOTER =~ s{http://(.+)\n}{<a href="http://$1">$1</a>\n}g;
+$HEADER =~ s{(https?)://(.+?/) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
 1;
