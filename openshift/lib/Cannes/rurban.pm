@@ -202,11 +202,11 @@ sub _dump {
     $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
     $i++;
   }
-  $out .= ($list ? 
-	   "<h1>Good Films (avg>6, n>3)</h1>\n<table>\n"
+  if ($list) {
+    $out .= "<h1>Good Films (avg>6, n>3)</h1>\n<table>\n"
 	   . $list
-	   . "</table>\n<small><i>The rest is below 6, unacceptable for Cannes.</i></small>\n"
-	   : $out);
+	   . "</table>\n<small><i>The rest is below 6, unacceptable for Cannes.</i></small>\n";
+  }
   $out .= "\n<h1>All official sections</h1>\n\n";
   my %section;
   for my $section (@sections) {
