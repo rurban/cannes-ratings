@@ -80,13 +80,16 @@ OUT OF COMPETITION
 
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
   (US premiered already)
-Stephanie Zacharek (Village Voice, USA) 7
-Todd McCarthy (The Hollywood Reporter, USA) 7
-Scott Foundas (Variety, USA) 6
-Claudia Puig (USA Today, USA) 5
-Eric Kohn (Indiewire, USA) 4.2
-Andrew O'Hehir (Salon.com, USA) 4
-Keith Uhlich (Time Out New York, USA) 4
+Stephanie Zacharek (Village Voice, USA) 7 http://www.villagevoice.com/2013-05-08/film/gatsby-s-sometimes-great-but-not-always-good/full/
+Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.hollywoodreporter.com/movie/great-gatsby/review/451988
+Richard Corliss (Time, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+David Edelstein (New York Magazine-Vulture, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+A.O.Scott (New York Times, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+Scott Foundas (Variety, USA) 6 http://variety.com/2013/film/reviews/the-great-gatsby-review-1200447930/#!1/review-tobey-maguire/
+Claudia Puig (USA Today, USA) 5 http://www.usatoday.com/story/life/movies/2013/05/08/great-gatsby-review/2107037/
+Eric Kohn (Indiewire, USA) 4.2 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+Keith Uhlich (Time Out New York, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
