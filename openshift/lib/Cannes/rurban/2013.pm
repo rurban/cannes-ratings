@@ -111,9 +111,10 @@ SPECIAL SCREENINGS
 SEMAINE DE LA CRITIC
 
 "AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
-Sebastian Doggart (Guardian, UK) 10
-Peter Debruge (Variety, USA) 8
-Jordan Hoffman (Film.com, USA) 8.3
+Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
+Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
+Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
+Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 "SUZANNE" (Katell Quillévéré) [Semaine]
