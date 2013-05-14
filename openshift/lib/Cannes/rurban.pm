@@ -25,7 +25,7 @@ sub _read {
       $critic{$critic}->{mag} = $mag if $mag;
     }
   }
-  my ($title_dir,$a,$n,$title,$s);
+  my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; } #skip
     elsif (/^["“](.+)["”]/) {
@@ -34,9 +34,10 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/[\w\)]:? [-\x{2013} ]*(\d[\d.]*)/) {
+    } elsif (/[\w\)]:? [-\x{2013} ]*(\d[\d.]*)( http.*)?/) {
       my $x = $1; $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
       $s += $x; $n++; undef $critic;
+      $url = $2;
       if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
@@ -48,6 +49,24 @@ sub _read {
       next unless $critic;
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
+      $title{$title}->{review}->{$critic} = $url if $url;
+      $critic{$critic}->{cn} = $cn ? $cn : '';
+      $critic{$critic}->{mag} = $mag ? $mag : '';
+      # review only
+    } elsif (/[\w\)]:? [-\x{2013} ]*(http.*)/) {
+      undef $critic;
+      $url = $1;
+      if (/^(\S.+) \((.+), (\w+?)\)/) {
+	($critic,$mag,$cn) = ($1, $2, $3);
+      } elsif (/^(\S.+) \((.+)\)/) {
+	($critic,$mag,$cn) = ($1,'',$2);
+      } elsif (/^(\S[^\(]+)\s+(\d|http)/) {
+	($critic,$mag,$cn) = ($1,'','');
+	$critic =~ s/ +$//;
+      }
+      next unless $critic;
+      $title{$title}->{critic}->{$critic} = [];
+      $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn ? $cn : '';
       $critic{$critic}->{mag} = $mag ? $mag : '';
     }
@@ -60,10 +79,16 @@ sub _detail {
   my $h = shift;
   my $critic = shift;
   my $out = '';
-  for (sort{$h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]} 
+  for (sort {(defined $h->{critic}->{$b}->[0] and defined  $h->{critic}->{$a}->[0]) ?
+               $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0] : 0}
        keys %{$h->{critic}}) {
-    my $c = $h->{critic}->{$_}->[0];
+    my $c = $h->{critic}->{$_}->[0] ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
+    my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
+    if ($url) {
+      $n = qq(<a href="$url">$n</a>);
+      $c = qq(<a href="$url">$c</a>) if $c;
+    }
     $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})" if $critic->{$_}->{mag};
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$n</td>"
       ."<td class=detail>$c</td></tr>\n";
@@ -89,14 +114,17 @@ sub _dump {
     $title{$t}->{'line'} = $l;
     for my $c (keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
-      push @{$title{$t}->{critic}->{$c}}, $x - $a;
-      push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
+      if ($x) {
+        push @{$title{$t}->{critic}->{$c}}, $x - $a;
+        push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
+      }
     }
   }
   my (%badcritic, @good, @allfilms);
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
+    $critic{$c}->{stddev} = 0;
     unless (@k){delete $critic{$c};next};
     for (@k) {
       my ($x,$a,$d) = @{$critic{$c}->{title}->{$_}};
@@ -133,8 +161,10 @@ sub _dump {
     my $t = $_->[3]; 
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
-      my $v=$title{$t}->{critic}->{$_}->[0]; 
-      $s += ($v-$a)*($v-$a);
+      my $v=$title{$t}->{critic}->{$_}->[0];
+      if ($v) {
+        $s += ($v-$a)*($v-$a);
+      }
     }
     $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
   }
@@ -214,7 +244,9 @@ sub _dump {
 	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> <td>[<a name=\"$i\" href=\"?t=$i#$i\">%0.2f/%d&nbsp;%0.1f</a>]</td></tr>\n", 
 		    $j++, $l, @{$section{$section}->{$_}}) 
 	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n");
-	$out .= _detail($_,$title{$_},\%critic) if params->{t} and params->{t} eq $i;
+        if (Dancer::SharedData->request) {
+          $out .= _detail($_,$title{$_},\%critic) if params->{t} and params->{t} eq $i;
+        }
 	$i++;
       }
       $out .= "</table>\n\n";
@@ -250,16 +282,18 @@ sub _dump {
                   $numc - scalar(keys(%badcritic)),$numc;
   $out .= "<i>filter stddev >2.5 from avg</i>\n";
   $out .= "stddev name (magazine, cn) numratings <i>±diff</i>\n<table>\n";
-  for (sort {$critic{$a}->{stddev} <=> $critic{$b}->{stddev}} keys %critic) {
-    no warnings;
-    my $n = scalar keys( %{$critic{$_}->{title} });
-    next if !($n and $_);
-    my $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
-    $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
-    $c = "<small>$c</small>" if $n < 10;
-    $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td>%d&nbsp;<i>%+0.1f</i></td></tr>\n", 
-                    $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
-    # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
+  if ($numc) {
+    for (sort {(exists $critic{$a}->{stddev} and exists $critic{$b}->{stddev}) ? $critic{$a}->{stddev} <=> $critic{$b}->{stddev} : 0} keys %critic) {
+      no warnings;
+      my $n = scalar keys( %{$critic{$_}->{title} });
+      next if !($n and $_);
+      my $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
+      $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
+      $c = "<small>$c</small>" if $n < 10;
+      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td>%d&nbsp;<i>%+0.1f</i></td></tr>\n", 
+      $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
+      # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
+    }
   }
   $out .= "</table>";
   return {out => $out, 

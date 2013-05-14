@@ -53,6 +53,7 @@ UN CERTAIN REGARD
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
+  (Sundance - Main Prices)
 Eric Kohn (Indiewire, USA) 8.3
 Todd McCarthy (The Hollywood Reporter, USA) 8
 Geoff Berkshire (Variety, USA) 5
@@ -78,6 +79,7 @@ OUT OF COMPETITION
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
+  (US premiered already)
 Stephanie Zacharek (Village Voice, USA) 7
 Todd McCarthy (The Hollywood Reporter, USA) 7
 Scott Foundas (Variety, USA) 6
@@ -162,7 +164,15 @@ QUINZAINE
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
+
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
+  (Sundance)
+Sebastian Doggart (Guardian, UK) 6 http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
+Russ Fischer (slashfilm.com, USA) 7
+Chris Bumbray (joblo.com, USA) 7
+Mark Olsen (LA Times, USA) http://articles.latimes.com/2013/jan/27/entertainment/la-et-mn-sundance-michael-cera-magic-20130126
+Nicolas Bell (Ioncinema.com, Canada) http://www.ioncinema.com/reviews/magic-magic-review
+
 "ON THE JOB" (Erik Matti) [Quinzaine]
 "HENRI" (Yolande Moreau) [Quinzaine]
 
