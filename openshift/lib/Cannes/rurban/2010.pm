@@ -24,7 +24,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 6
 "UTOMLYONNYE SOLNTSEM 2: PREDSTOYANIE (THE EXODUS - Burnt by the sun 2)" Nikita
  MIKHALKOV [Competition]
 
-Robert Koehler: (Variety, EE.UU.): 2
+Robert Koehler: (Variety, USA): 2
 Luciano Monteagudo (Página/12, Argentina): 5
 Francisco Ferreira (O Expresso, Portugal): 1
 
@@ -35,7 +35,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
 
 "THE TREE" Julie Bertuccelli
 
-Robert Koehler: (Variety, EE.UU.): 6
+Robert Koehler: (Variety, USA): 6
 
 "HAHAHA" HONG Sangsoo [Un Certain Regard]
 
@@ -47,7 +47,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Violeta Kovacsis (Lumiere, España): 8
 Luciano Monteagudo (Página/12, Argentina): 9
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 9
-Robert Koehler: (Variety, EE.UU.): 6
+Robert Koehler: (Variety, USA): 6
 Rüdiger Suchsland (Frankfurter Allgemeigne Zeitung, Artechock, Alemania): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 8,5
 Francisco Ferreira (O Expresso, Portugal): 8
@@ -68,7 +68,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 "TIGER FACTORY" Ming jin Woo [Quinzaine]
 
 Paolo Bertolin (Cineforum, Italia): 8
-Robert Koehler: (Variety, EE.UU.): 7
+Robert Koehler: (Variety, USA): 7
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7
 
 "LUNG BOONMEE RALUEK CHAT (Uncle Boonmee Who Can Recall His Past Lives)" Apichatpong Weerasethakul [Competition] PALME D'OR
@@ -88,13 +88,13 @@ Manu Yáñez (Fotogramas, España): 10
 Emmanuel Burdeau (Mediapart, Francia): 9,5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7,5
 Luciano Barisone (Panoramiques, Italia): 8
-Robert Koehler: (Variety, EE.UU.): 10
+Robert Koehler: (Variety, USA): 10
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
-Scott Foundas (Filmlinc, EE.UU): 9
+Scott Foundas (Filmlinc, USA): 9
 Mark Peranson (Cinema Scope, Canada): 13,7
 Cristina Nord ( Die Tageszeitung Alemania): 10
 Francisco Ferreira (O Expresso, Portugal): 10
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 10
+Gabe Klinger (The Auteurs Notebook, USA): 10
 Eugenio Renzi (Independencia, Francia): 9
 Roger Alan Koza (La Voz del Interior, Argentina): 10
 Violeta Kovacsis (Lumiere, España): 9
@@ -102,7 +102,7 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 
 "LIFE ABOVE ALL" Oliver Schmitz [Un Certain Regard]
 
-Scott Foundas (Filmlinc, EE.UU): 7
+Scott Foundas (Filmlinc, USA): 7
 
 "BOXING GYM" Frederick Wiseman
 
@@ -111,7 +111,7 @@ Francisco Ferreira (O Expresso, Portugal): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Paolo Bertolin (Cineforum, Italia): 8
 Alejandro G. Calvo (Sensacine.com, España): 5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
+Gabe Klinger (The Auteurs Notebook, USA): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Cristina Nord ( Die Tageszeitung Alemania): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
@@ -126,7 +126,7 @@ Paolo Bertolin (Cineforum, Italia): 3
 
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 5
+Gabe Klinger (The Auteurs Notebook, USA): 5
 
 "REBECCA H. (RETURN TO THE DOGS)" Lodge Kerrigan [Un Certain Regard]
 
@@ -135,16 +135,16 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
 Emmanuel Burdeau (Mediapart, Francia): 7
 Luciano Barisone (Panoramiques, Italia): 7
-Robert Koehler: (Variety, EE.UU.): 3
+Robert Koehler: (Variety, USA): 3
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
-Scott Foundas (Filmlinc, EE.UU): 0
+Scott Foundas (Filmlinc, USA): 0
 Fernando Ganzo (Lumiére, España): 5
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6,5
 Roger Alan Koza (La Voz del Interior, Argentina): 4
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Paolo Bertolin (Cineforum, Italia): 6
 Alejandro G. Calvo (Sensacine.com, España): 5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 7
+Gabe Klinger (The Auteurs Notebook, USA): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Violeta Kovacsis (Lumiere, España): 8
 
@@ -154,13 +154,13 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
+Gabe Klinger (The Auteurs Notebook, USA): 6
 Eugenio Renzi (Independencia, Francia): 3
 Fernando Ganzo (Lumiére, España): 0
 
 "MYSTERIES OF LISBON" Raul Ruiz
 
-Robert Koehler: (Variety, EE.UU.): 8
+Robert Koehler: (Variety, USA): 8
 
 "FAIR GAME" Doug Liman [Competition]
 
@@ -170,7 +170,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Violeta Kovacsis (Lumiere, España): 2
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
-Robert Koehler: (Variety, EE.UU.): 3
+Robert Koehler: (Variety, USA): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
@@ -189,7 +189,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 8
 Diego Batlle (La Nación, Otros Cines, Argentina): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
-Robert Koehler: (Variety, EE.UU.): 5
+Robert Koehler: (Variety, USA): 5
 Alejandro G. Calvo (Sensacine.com, España): 5
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6
 
@@ -202,12 +202,12 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Luciano Monteagudo (Página/12, Argentina): 7
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 8,5
 Fernando Ganzo (Lumiére, España): 7
-Robert Koehler: (Variety, EE.UU.): 9
+Robert Koehler: (Variety, USA): 9
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6
 Alejandro G. Calvo (Sensacine.com, España): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Diego Batlle (La Nación, Otros Cines, Argentina): 7,5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
+Gabe Klinger (The Auteurs Notebook, USA): 6
 Francisco Ferreira (O Expresso, Portugal): 7,5
 
 "LA NOSTRA VITA (OUR LIFE)" Daniele Luchetti [Competition]
@@ -225,7 +225,7 @@ Violeta Kovacsis (Lumiere, España): 0
 Luciano Monteagudo (Página/12, Argentina): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 1
 Manu Yáñez (Fotogramas, España): 1
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 1
+Gabe Klinger (The Auteurs Notebook, USA): 1
 
 "STONES IN EXILE" Stephen Kijak
 
@@ -248,15 +248,15 @@ Cristina Nord ( Die Tageszeitung Alemania): 2
 "CARLOS" Olivier Assayas
 
 Francisco Ferreira (O Expresso, Portugal): -6-
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 7
+Gabe Klinger (The Auteurs Notebook, USA): 7
 Fernando Ganzo (Lumiére, España): 5,5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 8,5
-Robert Koehler: (Variety, EE.UU.): -8-
+Robert Koehler: (Variety, USA): -8-
 Emmanuel Burdeau (Mediapart, Francia): 4
 Cristina Nord ( Die Tageszeitung Alemania): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Diego Lerer (Clarín, Micropsia, Argentina): -8- (vistos dos episodios de tres). 
-Scott Foundas (Filmlinc, EE.UU): 9
+Scott Foundas (Filmlinc, USA): 9
 
 "SHI (POETRY)" Lee Chang-dong [Competition]
 
@@ -266,18 +266,18 @@ Carlo Chatrian (Panoramiques Duellanti, Italia): 8
 Diego Lerer (Clarín + Micropsia, Argentina): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 9
 Alejandro G. Calvo (Sensacine.com, España): 5
-Scott Foundas (Filmlinc, EE.UU): 9
+Scott Foundas (Filmlinc, USA): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Luciano Monteagudo (Página/12, Argentina): 8
 Luciano Barisone (Panoramiques, Italia): 9
 Paolo Bertolin (Cineforum, Italia): 9
-Robert Koehler: (Variety, EE.UU.): 9
+Robert Koehler: (Variety, USA): 9
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 9
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
 Violeta Kovacsis (Lumiere, España): 7
 Manu Yáñez (Fotogramas, España): 7
-Scott Foundas (Filmlinc, EE.UU): 10
+Scott Foundas (Filmlinc, USA): 10
 Cristina Nord ( Die Tageszeitung Alemania): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
 
@@ -287,14 +287,14 @@ Leonardo D'Espósito (Crítica de la Argentina, Argentina): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 1
 Roger Alan Koza (La Voz del Interior, Argentina): 3
 Paolo Bertolin (Cineforum, Italia): 8
-Robert Koehler: (Variety, EE.UU.): 4
+Robert Koehler: (Variety, USA): 4
 
 "DES HOMMES ET DES DIEUX (OF GODS AND MEN)" Xavier Beauvois [Competition]
 
 Cristina Nord ( Die Tageszeitung, Alemania): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 Francisco Ferreira (O Expresso, Portugal): 8
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 9
+Gabe Klinger (The Auteurs Notebook, USA): 9
 Violeta Kovacsis (Lumiere, España): 9
 Alejandro G. Calvo (Sensacine.com, España): 5
 Fernando Ganzo (Lumiere, España): 7
@@ -303,7 +303,7 @@ Olivier Père (Director artístico Festival de Locarno, Francia): 10
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Paolo Bertolin (Cineforum, Italia): 8
-Robert Koehler (Variety, EE.UU.): 10
+Robert Koehler (Variety, USA): 10
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 8,5
 Luciano Barisone (Panoramiques, Italia): 8
 Diego Batlle (La Nación + Otros Cines, Argentina): 9
@@ -318,20 +318,20 @@ Diego Batlle (La Nación + Otros Cines, Argentina): 3
 Luciano Monteagudo (Página/12, Argentina): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 9
 Alejandro G. Calvo (Sensacine.com, España): 7
-Robert Koehler (Variety, EE.UU.): 6
+Robert Koehler (Variety, USA): 6
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 7
 Luciano Barisone (Panoramiques, Italia): 7
 Francisco Ferreira (O Expresso, Portugal): 3
 Carlo Chatrian (Panoramiques Duellanti, Italia): 5
 Diego Lerer (Clarín + Micropsia, Argentina): 5
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
+Gabe Klinger (The Auteurs Notebook, USA): 6
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 7
 Cristina Nord ( Die Tageszeitung Alemania): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
 Violeta Kovacsis (Lumiere, España): 8
 Manu Yáñez (Fotogramas, España): 6
-Scott Foundas (Filmlinc, EE.UU): 8
+Scott Foundas (Filmlinc, USA): 8
 Paolo Bertolin (Cineforum, Italia): 10
 
 "DES FILLES EN NOIR" Jean-Paul Civeyrac [Quinzaine]
@@ -340,7 +340,7 @@ Fernando Ganzo (Lumiere, España): 7
 Diego Batlle (La Nación + Otros Cines, Argentina): 6,5
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Alejandro G. Calvo (Sensacine.com, España): 5
-Robert Koehler (Variety, EE.UU.): 5
+Robert Koehler (Variety, USA): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6
 
 "LOS LABIOS" Santiago Loza e Iván Fund [Un Certain Regard]
@@ -376,7 +376,7 @@ Fernando Ganzo (Lumiere, España): 7,5
 Diego Batlle (La Nación + Otros Cines, Argentina): 7,5
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
-Robert Koehler (Variety, EE.UU.): 8
+Robert Koehler (Variety, USA): 8
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 7,5
 Carlo Chatrian (Panoramiques Duellanti, Italia): 8
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
@@ -401,14 +401,14 @@ Roger Alan Koza (La Voz del Interior, Argentina): 6,5
 
 Francisco Ferreira (O Expresso, Portugal): 8
 Luciano Monteagudo (Página/12, Argentina): 8
-Scott Foundas (Filmlinc, EE.UU): 10
+Scott Foundas (Filmlinc, USA): 10
 Olivier Père (Director artístico Festival de Locarno, Francia): 9
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Luciano Barisone (Panoramiques, Italia): 8
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Diego Lerer (Clarín + Micropsia, Argentina): 8
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 8
-Robert Koehler: (Variety, EE.UU.): 10
+Gabe Klinger (The Auteurs Notebook, USA): 8
+Robert Koehler: (Variety, USA): 10
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 8,5
 Fernando Ganzo (Lumiére, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 9
@@ -416,7 +416,7 @@ Paolo Bertolin (Cineforum, Italia): 8
 
 "TWO GATES OF SLEEP" Alistair Banks Griffin [Quinzaine]
 
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 2
+Gabe Klinger (The Auteurs Notebook, USA): 2
 
 "COPIE CONFORME (CERTIFIED COPY)" Abbas Kiarostami [Competition]
 
@@ -425,18 +425,18 @@ Emmanuel Burdeau (Mediapart, Francia): 6,5
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 9
 Fernando Ganzo (Lumiere, España): 9,5
-Scott Foundas (Filmlinc, EE.UU): 8
+Scott Foundas (Filmlinc, USA): 8
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
 Eugenio Renzi (Independencia, Francia): 0
 Luciano Barisone (Panoramiques, Italia): 8
-Robert Koehler (Variety, EE.UU.): 4
+Robert Koehler (Variety, USA): 4
 Manu Yáñez (Fotogramas, España): 6
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 8,5
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Alejandro G. Calvo (Sensacine.com, España): 6
 Cristina Nord (Die Tageszeitung, Alemania): 6
 Francisco Ferreira (O Expresso, Portugal): 7,5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 5
+Gabe Klinger (The Auteurs Notebook, USA): 5
 Violeta Kovacsis (Lumiere, España): 6
 Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 8
@@ -446,7 +446,7 @@ Paolo Bertolin (Cineforum, Italia): 7
 
 Cristina Nord (Die Tageszeitung, Alemania): 8
 Fernando Ganzo (Lumiere, España): 10
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 10
+Gabe Klinger (The Auteurs Notebook, USA): 10
 Emmanuel Burdeau (Mediapart, Francia): 9,5
 Sergio Wolf (Director artístico de BAFICI, Argentina): 10
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 10
@@ -456,10 +456,10 @@ Olivier Père (Director artístico Festival de Locarno, Francia): 10
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Luciano Monteagudo (Página/12, Argentina): 10
-Scott Foundas (Filmlinc, EE.UU): 10
+Scott Foundas (Filmlinc, USA): 10
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Eugenio Renzi (Independencia, Francia): 10
-Robert Koehler (Variety, EE.UU.): 10
+Robert Koehler (Variety, USA): 10
 Roger Alan Koza (La Voz del Interior, Argentina): 10
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 10
 Diego Lerer (Clarín + Micropsia, Argentina): 8
@@ -479,7 +479,7 @@ Diego Batlle (La Nación + Otros Cines, Argentina): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 4
 Diego Lerer (Clarín + Micropsia, Argentina): 6
 Cristina Nord (Die Tageszeitung, Alemania): 5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 5
+Gabe Klinger (The Auteurs Notebook, USA): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 4
 
 "AÑO BISIESTO" Michael Rowe [Quinzaine]
@@ -489,7 +489,7 @@ Carlo Chatrian (Panoramiques Duellanti, Italia): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 3
 Roger Alan Koza (La Voz del Interior, Argentina): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 6
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 4
+Gabe Klinger (The Auteurs Notebook, USA): 4
 
 "BIUTIFUL" Alejandro González-Iñarritu [Competition]
 
@@ -503,30 +503,30 @@ Diego Batlle (La Nación + Otros Cines, Argentina): 3
 Violeta Kovacsis (Lumiere, España): 0
 Carlos F. Heredero (Cahiers du Cinéma España, España): 1
 Luciano Barisone (Panoramiques, Italia): 1
-Robert Koehler (Variety, EE.UU.): 1
+Robert Koehler (Variety, USA): 1
 Manu Yáñez (Fotogramas, España): 2
 Diego Lerer (Clarín + Micropsia, Argentina): 3
 Francisco Ferreira (O Expresso, Portugal): 1
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 0
-Scott Foundas (Filmlinc, EE.UU): 0
+Scott Foundas (Filmlinc, USA): 0
 
 "TAMARA DREWE" Stephen Frears
 
 Alejandro G. Calvo (Sensacine.com, España): 5
-Scott Foundas (Filmlinc, EE.UU): 0
+Scott Foundas (Filmlinc, USA): 0
 
 "O ESTRANHO CASO DA ANGELICA" Manoel Oliveira [Un Certain Regard]
 
 Francisco Ferreira (O Expresso, Portugal): 10
-Scott Foundas (Filmlinc, EE.UU): 10
+Scott Foundas (Filmlinc, USA): 10
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 9
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 10
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 8
+Gabe Klinger (The Auteurs Notebook, USA): 8
 Luciano Barisone (Panoramiques, Italia): 9
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Paolo Bertolin (Cineforum. Italia): 9
 Violeta Kovacsis (Lumiere, España): 8
-Robert Koehler (Variety, EE.UU.): 10
+Robert Koehler (Variety, USA): 10
 Olivier Père (Director artístico Festival de Locarno, Francia): 9
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 10
@@ -552,7 +552,7 @@ Fernando Ganzo (Lumiere, España): 5
 Olivier Père (Director artístico Festival de Locarno, Francia): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Luciano Barisone (Panoramiques, Italia): 4
-Robert Koehler (Variety, EE.UU.): 6
+Robert Koehler (Variety, USA): 6
 Manu Yáñez (Fotogramas, España): 7
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 6,5
 Alejandro G. Calvo (Sensacine.com, España): 8
@@ -562,7 +562,7 @@ Luciano Monteagudo (Página/12, Argentina): 8
 
 "OUTRAGE" Takeshi Kitano [Competition]
 
-Scott Foundas (Filmlinc, EE.UU): 4
+Scott Foundas (Filmlinc, USA): 4
 Alejandro G. Calvo (Sensacine.com, España): 8
 Emmanuel Burdeau (Mediapart, Francia): 7
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
@@ -602,8 +602,8 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Cristina Nord (Die Tageszeitung, Alemania): 6
 Luciano Monteagudo (Página/12, Argentina): 6
 Violeta Kovacsis (Lumiere, España): 9
-Scott Foundas (Filmlinc, EE.UU): 7
-Robert Koehler (Variety, EE.UU.): 9
+Scott Foundas (Filmlinc, USA): 7
+Robert Koehler (Variety, USA): 9
 Paolo Bertolin (Cineforum, Italia): 8
 
 "LE QUATTRO VOLTE" Michelangelo Frammartino [Quinzaine] Best European Film Quinzaine
@@ -615,7 +615,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7
 Violeta Kovacsis (Lumiere, España): 9
-Robert Koehler: (Variety, EE.UU.): 10
+Robert Koehler: (Variety, USA): 10
 Alejandro G. Calvo (Sensacine.com, España): 8
 Diego Batlle (La Nación, Otros Cines, Argentina): 10
 Luciano Monteagudo (Página/12, Argentina): 9
@@ -630,9 +630,9 @@ Luciano Monteagudo (Página/12, Argentina): 5
 
 "LA CASA MUDA" Gustavo Hernandez [Quinzaine]
 
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 0
+Gabe Klinger (The Auteurs Notebook, USA): 0
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 5
-Robert Koehler: (Variety, EE.UU.): 0
+Robert Koehler: (Variety, USA): 0
 Alejandro G. Calvo (Sensacine.com, España): 3
 Roger Alan Koza (La Voz del Interior, Argentina): 0
 Carlos F. Heredero (Cahiers du Cinéma España, España): 3
@@ -675,7 +675,7 @@ Francisco Ferreira (O Expresso, Portugal): 1
 Cristina Nord ( Die Tageszeitung Alemania): 5
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Fernando Ganzo (Lumiere, España): 3
-Scott Foundas (Filmlinc, EE.UU): 8
+Scott Foundas (Filmlinc, USA): 8
 Manu Yáñez (Fotogramas, España): 4
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
@@ -697,11 +697,11 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 2
 "INSIDE JOB" Charles Fergusson
 
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
-Robert Koehler: (Variety, EE.UU.): 4
+Robert Koehler: (Variety, USA): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 8,5
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
-Scott Foundas (Filmlinc, EE.UU): 9
+Scott Foundas (Filmlinc, USA): 9
 Manu Yáñez (Fotogramas, España): 6
 Violeta Kovacsis (Lumiere, España): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7,5
@@ -710,10 +710,10 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7,5
 
 Fernando Ganzo (Lumiere, España): 6
 Olivier Père (Director artístico Festival de Locarno, Francia): 7
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
-Robert Koehler: (Variety, EE.UU.): 7
+Gabe Klinger (The Auteurs Notebook, USA): 6
+Robert Koehler: (Variety, USA): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 8
-Scott Foundas (Filmlinc, EE.UU): 5
+Scott Foundas (Filmlinc, USA): 5
 
 "SANDCASTLE" Boo Junfeng [Semaine]
 
@@ -730,13 +730,13 @@ Roger Alan Koza (La Voz del Interior, Argentina): 3
 
 Olivier Père (Director artístico Festival de Locarno, Francia): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
-Robert Koehler: (Variety, EE.UU.): 6
+Robert Koehler: (Variety, USA): 6
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 7
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6,5
 
 "KABOOM" Gregg Araki
 
-Robert Koehler: (Variety, EE.UU.): 7
+Robert Koehler: (Variety, USA): 7
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6
 Paolo Bertolin (Cineforum, Italia): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 7
@@ -760,7 +760,7 @@ Violeta Kovacsis (Lumiere, España): 4
 
 Emmanuel Burdeau (Mediapart, Francia): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
-Robert Koehler: (Variety, EE.UU.): 3
+Robert Koehler: (Variety, USA): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Olivier Père (Director artístico Festival de Locarno, Francia): 5
 Cristina Nord ( Die Tageszeitung Alemania): 6
@@ -778,11 +778,11 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6,5
 
 "UN HOMME QUI CRIE (A SCREAMING MAN)" Mahamat-Saleh Haroun [Competition]
 
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
-Robert Koehler: (Variety, EE.UU.): 8
+Gabe Klinger (The Auteurs Notebook, USA): 6
+Robert Koehler: (Variety, USA): 8
 Alejandro G. Calvo (Sensacine.com, España): 8
 Fernando Ganzo (Lumiere, España): 5
-Scott Foundas (Filmlinc, EE.UU): 6
+Scott Foundas (Filmlinc, USA): 6
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Luciano Barisone (Panoramiques, Italia): 7
@@ -805,7 +805,7 @@ Francisco Ferreira (O Expresso, Portugal): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Alejandro G. Calvo (Sensacine.com, España): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
-Robert Koehler: (Variety, EE.UU.): 1
+Robert Koehler: (Variety, USA): 1
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 4
 Violeta Kovacsis (Lumiere, España): 4
 Diego Lerer (Clarín, Micropsia, Argentina): 4
@@ -813,7 +813,7 @@ Cristina Nord ( Die Tageszeitung Alemania): 2
 Roger Alan Koza (La Voz del Interior, Argentina): 2
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
 Luciano Monteagudo (Página/12, Argentina): 4
-Scott Foundas (Filmlinc, EE.UU): 9
+Scott Foundas (Filmlinc, USA): 9
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2,5
 Luciano Barisone (Panoramiques, Italia): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5,5
@@ -826,14 +826,14 @@ Francisco Ferreira (O Expresso, Portugal): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Luciano Monteagudo (Página/12, Argentina): 5
 Alejandro G. Calvo (Sensacine.com, España): 5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 5
+Gabe Klinger (The Auteurs Notebook, USA): 5
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Violeta Kovacsis (Lumiere, España): 6
-Scott Foundas (Filmlinc, EE.UU): 6
+Scott Foundas (Filmlinc, USA): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
 Manu Yáñez (Fotogramas, España): 4
 
@@ -863,7 +863,7 @@ Carlos Reviriego (Cahiers du Cinéma España, España): 5
 
 Alejandro G. Calvo (Sensacine.com, España): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 8
-Robert Koehler: (Variety, EE.UU.): 7
+Robert Koehler: (Variety, USA): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Cristina Nord (Die Tageszeitung Alemania): 8
@@ -876,7 +876,7 @@ Paolo Bertolin (Cineforum, Italia): 7
 Francisco Ferreira (O Expresso, Portugal): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Luciano Monteagudo (Página/12, Argentina): 8
-Scott Foundas (Filmlinc, EE.UU): 10
+Scott Foundas (Filmlinc, USA): 10
 Carlos Reviriego (Cahiers du Cinéma España, España): 8
 Carlos F. Heredero (Cahiers du Cinéma España, España): 9
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
@@ -899,10 +899,10 @@ Francisco Ferreira (O Expresso, Portugal): 5
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Luciano Monteagudo (Página/12, Argentina): 5
 Alejandro G. Calvo (Sensacine.com, España): 5
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 6
+Gabe Klinger (The Auteurs Notebook, USA): 6
 Emmanuel Burdeau (Mediapart, Francia): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 4
-Robert Koehler: (Variety, EE.UU.): 4
+Robert Koehler: (Variety, USA): 4
 Carlos Reviriego (Cahiers du Cinéma España, España): 6
 
 "SHIT YEAR" Cam Archer [Quinzaine]
@@ -921,7 +921,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 8
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 3
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
-Robert Koehler: (Variety, EE.UU.): 1
+Robert Koehler: (Variety, USA): 1
 Diego Lerer (Clarín, Micropsia, Argentina): 2
 Violeta Kovacsis (Lumiere, España): 2
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
@@ -943,7 +943,7 @@ Violeta Kovacsis (Lumiere, España): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
 Manu Yáñez (Fotogramas, España): 4
 Francisco Ferreira (O Expresso, Portugal): 3
-Scott Foundas (Filmlinc, EE.UU): 2
+Scott Foundas (Filmlinc, USA): 2
 Carlos Reviriego (Cahiers du Cinéma España, España): 1
 Carlos F. Heredero (Cahiers du Cinéma España, España): 2
 
@@ -956,8 +956,8 @@ Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 3
 
 "MARTI, DUPA CRACIUN  (TUESDAY, AFTER CHRISTMAS)" Radu Muntean [Un Certain Regard]
 
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 4
-Robert Koehler: (Variety, EE.UU.): 8
+Gabe Klinger (The Auteurs Notebook, USA): 4
+Robert Koehler: (Variety, USA): 8
 Olivier Père (Director artístico Festival de Locarno, Francia): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Alejandro G. Calvo (Sensacine.com, España): 6
@@ -971,7 +971,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 4
 Cristina Nord ( Die Tageszeitung Alemania): 7
 Francisco Ferreira (O Expresso, Portugal): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 7
-Scott Foundas (Filmlinc, EE.UU): 8
+Scott Foundas (Filmlinc, USA): 8
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
 
 "NOSTALGIA DE LA LUZ" Patricio Guzmán
@@ -990,7 +990,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 7
 
 Luciano Barisone (Panoramiques, Italia): 5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
-Robert Koehler: (Variety, EE.UU.): 3
+Robert Koehler: (Variety, USA): 3
 Eugenio Renzi (Independencia, Francia): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 3
 Olivier Père (Director artístico Festival de Locarno, Francia): 7
@@ -1006,7 +1006,7 @@ Cristina Nord ( Die Tageszeitung Alemania): 2
 Violeta Kovacsis (Lumiere, España): 5
 Paolo Bertolin (Cineforum, Italia): 8
 Francisco Ferreira (O Expresso, Portugal): 5
-Scott Foundas (Filmlinc, EE.UU): 4
+Scott Foundas (Filmlinc, USA): 4
 
 "DRAQUILA - L'ITALIA CHE TREMA" Sabina Guzzanti
 
@@ -1031,7 +1031,7 @@ Luciano Barisone (Panoramiques): 4
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Paolo Bertolin (Cineforum. Italia): 8
 Violeta Kovacsis (Lumiere, España): 5
-Robert Koehler: (Variety, EE.UU.): 3
+Robert Koehler: (Variety, USA): 3
 Emmanuel Burdeau (Mediapart, Francia): 4
 Eugenio Renzi (Independencia, Francia): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
@@ -1061,12 +1061,12 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 8
 Violeta Kovacsis (Lumiere, España): 7
-Robert Koehler (Variety, EE.UU.): 5
+Robert Koehler (Variety, USA): 5
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 7,5
-Scott Foundas (Filmlinc, EE.UU): 5
+Scott Foundas (Filmlinc, USA): 5
 Manu Yáñez (Fotogramas, España): 8
 Luciano Monteagudo (Página/12, Argentina): 6
-Gabe Klinger (The Auteurs Notebook, EE.UU.): 8
+Gabe Klinger (The Auteurs Notebook, USA): 8
 Olivier Père (Director artístico Festival de Locarno, Francia): 4
 Cristina Nord (Die Tageszeitung, Alemania): 5
 Francisco Ferreira (O Expresso, Portugal): 7
@@ -1088,7 +1088,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
 Violeta Kovacsis (Lumiere, España): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 3
-Scott Foundas (Filmlinc, EE.UU): 8 (The film maudit of Cannes already).
+Scott Foundas (Filmlinc, USA): 8 (The film maudit of Cannes already).
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 5
 Manu Yáñez (Fotogramas, España): 3
 Luciano Monteagudo (Página/12, Argentina): 5

@@ -25,29 +25,90 @@ use utf8;
 our $DATA= <<'EOF';
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
+
+Alejandro G. Calvo 
+Alex Vicente 
+Alexandra Zawia
+Ángel Quintana 
+Boris Nelepo
+Carlo Chatrian 
+Carlos Heredero 
+Carlos Reviriego 
+Cecilia Martinez 
+Cristina Nord 
+Dana Linssen 
+Diego Batlle 
+Diego Lerer 
+Eugenio Renzi 
+Eulàlia Iglesias 
+Fernando Ganzo 
+Fernando Juan Lima 
+Francisco Ferreira 
+Jaime Pena 
+José Luis de Lorenzo 
+José Luis Losa 
+Kieron Corless
+Luciano Barisone 
+Luciano Monteagudo 
+Marcelo Alderete 
+Michal Oleszczyk
+Nando Salva 
+Neil Young 
+Pablo O. Scholz
+Paolo Bertolin 
+Paolo Moretti 
+Pedro Butcher 
+Philipp Engel 
+Robert Koehler 
+Roger Alan Koza 
+Rudiger Suchsland 
+Scott Foundas 
+Thomas Fioretti 
+Violeta Kovacsics 
+
 "HELI" (Amat ESCALANTE) [Competition]
+
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
+
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
+
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
+
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
+
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
+
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
+
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
+
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
+
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
+
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
+
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
+
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
+
 "NEBRASKA" (Alexander PAYNE) [Competition]
+
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
+
 "THE IMMIGRANT" (James GRAY) [Competition]
+
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
+
 "LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
+
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
+
 
 UN CERTAIN REGARD
 
 "THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
+
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   (Sundance - Main Prices)
 Eric Kohn (Indiewire, USA) 8.3
@@ -55,26 +116,44 @@ Todd McCarthy (The Hollywood Reporter, USA) 8
 Geoff Berkshire (Variety, USA) 5
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
+
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
+
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
+
 "BENDS" (Flora LAU) [Un Certain Regard]
+
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
+
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
+
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
+
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
+
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
+
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
+
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
+
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
+
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
+
 "NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
+
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
+
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
+
 
 OUT OF COMPETITION
 
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
+
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
+
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
@@ -92,24 +171,32 @@ Keith Uhlich (Time Out New York, USA) 4 http://www.metacritic.com/movie/the-grea
 Diego Batlle 6
 Diego Lerer 6.5
 Eulalia Churches 6
-
+Fernando Ganzo 0
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
 MIDNIGHT PROJECTIONS
 
 "MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
+
 "BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
 
 SPECIAL SCREENINGS
 
 "STOP THE POUNDING HEART" (Roberto MINERVINI) [Special Screening]
+
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
+
 "BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
+
 "SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
+
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
+
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
+
 "MAX ROSE" (Daniel NOAH) [Special Screening]
+
 
 SEMAINE DE LA CRITIC
 
@@ -120,36 +207,66 @@ Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-b
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
+
 "SUZANNE" (Katell Quillévéré) [Semaine]
+
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
+
 "FOR THOSE IN PERIL" (Paul Wright) [Semaine]
+
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
+
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
+
 "LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
+Diego Batlle 7.5
+Diego Lerer  6.5
+
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
+
 "THE MAJOR" (Yury Bykov) [Semaine]
+
 "3x3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
+
 
 QUINZAINE
 
 "THE CONGRESS" (Ari Folman) [Quinzaine]
+
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
+
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
+
 "UGLY" (Anurag Kashyap) [Quinzaine]
+
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
+
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
+
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
+
 "ILO ILO" (Anthony Chen) [Quinzaine]
+
 "TIP TOP" (Serge Bozon) [Quinzaine]
+
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
+
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
+
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
+
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
+
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
+
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
+
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
+
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
+
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
+Fernando Ganzo 7
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
@@ -160,6 +277,7 @@ Mark Olsen (LA Times, USA) http://articles.latimes.com/2013/jan/27/entertainment
 Nicolas Bell (Ioncinema.com, Canada) http://www.ioncinema.com/reviews/magic-magic-review
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
+
 "HENRI" (Yolande Moreau) [Quinzaine]
 
 EOF
@@ -168,50 +286,43 @@ our @critics;
 $critics[0] = "
 Alejandro G. Calvo (Sensacine, España) 
 Alex Vicente (Público, España) 
-Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria) 
-Arthur Mas (Independencia, France) 
+Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria)
+Ángel Quintana (Cahiers du cinema Espana, España)
 Boris Nelepo (Kinote daily, Russia)
-Camille Brunel (Independencia, France) 
 Carlo Chatrian (Duellanti, Panoramiches, Italy) 
 Carlos Heredero (Caimán CDC, España) 
 Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
+Cecilia Martinez (A Sala Llena Online, Argentina) 
 Cristina Nord (Die Tageszeitung, Germany) 
 Dana Linssen (De Filmkrant, Netherlands) 
 Diego Batlle (La Nación, OtrosCines, Argentina) 
 Diego Lerer (Clarín, Micropsia, Argentina) 
 Eugenio Renzi (Independencia, France) 
-Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
+Eulàlia Iglesias (RockDeLux y Caimán CDC, España) 
 Fernando Ganzo (Lumiere, España) 
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
-Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
-Gonzalo de Pedro (Caimán, CDC, España) 
 Jaime Pena (El Amante, España/Argentina) 
-Javier H. Estrada (Caimán CDC, España) 
 José Luis de Lorenzo (A Sala Llena, Argentina) 
-Kong Rithdee (The Bangkok Post, Thailand) 
+José Luis Losa (Cineuropa, España)
+Kieron Corless (Time Out London, UK)
 Luciano Barisone (Duellanti/Panoramiche, Italy) 
 Luciano Monteagudo (Página/12, Argentina) 
-Manu Yáñez (Fotogramas, OtrosCines, España) 
 Marcelo Alderete (Festival de Mar del Plata, Argentina) 
-Martial Pisani (Independencia, France) 
+Michal Oleszczyk (Hammer to Nail, USA)
 Nando Salva (El Periódico, España) 
 Neil Young (Hollywood Reporter, Tribune, UK) 
-Noémie Luciani (Independencia, France) 
-Olivier Père (Les Inrockuptibles, France) 
-Pamela Bienzobas (Mabuse, Chile) 
-Paolo Bertolin (Italy) 
+Pablo O. Scholz (Clarín, Argentina)
+Paolo Bertolin (Venice International Film Festival, Italy) 
 Paolo Moretti (Italy) 
 Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil) 
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Rudiger Suchsland (FAZ, Negativ-film, Germany) 
-Sergio Wolf (BAFICI, Argentina) 
 Scott Foundas (Film Comment, USA) 
 Thomas Fioretti (Independencia, France) 
-Violeta Kovacsics (España) 
-Xavi Serra (Ara, España) 
+Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
 ";
 # ioncinema
 $critics[1] = "
@@ -220,7 +331,7 @@ David Calhoun (The Out London, UK)
 Per Juul Carlsen (Danish National Radio, Denmark) 
 Paola Casella (Europa, Italy) 
 Mike d'Angelo (AV Club, USA) 
-Carlos F. Heredero (Cahiers du cinema Espana, Spain) 
+Carlos F. Heredero (Cahiers du cinema Espana, España) 
 Eric Lavallée (Ioncinema.com, Canada) 
 Fabien Lemercier (Cineeuropa.org, Belgium) 
 Guy Lodge (Variety, InContention, South Africa/USA) 
@@ -305,7 +416,6 @@ Mark Adams (Screen Daily, USA)
 Matt Holmes (Obsessedwithfilm.com, USA) 
 Michael Ghennam (Les Fiches du Cinéma, France)
 Michael Giltz (The Huffington Post, USA) 
-Michal Oleszczyk (Hammer to Nail, USA)
 Nev Pierce (Empire, USA)
 Patrick Heidmann (Cineman, Germany)
 Paul Martin (Indies Movies Online, USA) 
@@ -328,6 +438,22 @@ Sukhdev Sandhu (Telegraph, UK)
 Tim Grierson (Screen International, L.A. Weekly, USA) 
 Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
+";
+# former apichatpoll members
+$critics[5] = "
+Arthur Mas (Independencia, France) 
+Camille Brunel (Independencia, France) 
+Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
+Gonzalo de Pedro (Caimán, CDC, España) 
+Javier H. Estrada (Caimán CDC, España) 
+Kong Rithdee (The Bangkok Post, Thailand) 
+Manu Yáñez (Fotogramas, OtrosCines, España) 
+Martial Pisani (Independencia, France) 
+Noémie Luciani (Independencia, France) 
+Olivier Père (Les Inrockuptibles, France) 
+Pamela Bienzobas (Mabuse, Chile) 
+Sergio Wolf (BAFICI, Argentina) 
+Xavi Serra (Ara, España) 
 ";
 
 our $HEADER = <<"EOF";

@@ -82,7 +82,7 @@ sub _detail {
   for (sort {(defined $h->{critic}->{$b}->[0] and defined  $h->{critic}->{$a}->[0]) ?
                $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0] : 0}
        keys %{$h->{critic}}) {
-    my $c = $h->{critic}->{$_}->[0] ? $h->{critic}->{$_}->[0] : '';
+    my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
     my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
     if ($url) {
@@ -114,7 +114,7 @@ sub _dump {
     $title{$t}->{'line'} = $l;
     for my $c (keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
-      if ($x) {
+      if (defined $x) {
         push @{$title{$t}->{critic}->{$c}}, $x - $a;
         push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
       }
@@ -161,8 +161,8 @@ sub _dump {
     my $t = $_->[3]; 
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
-      my $v=$title{$t}->{critic}->{$_}->[0];
-      if ($v) {
+      my $v = $title{$t}->{critic}->{$_}->[0];
+      if (defined $v) {
         $s += ($v-$a)*($v-$a);
       }
     }
