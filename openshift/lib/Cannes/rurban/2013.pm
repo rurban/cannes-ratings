@@ -67,6 +67,7 @@ Thomas Fioretti
 Violeta Kovacsics 
 
 "HELI" (Amat ESCALANTE) [Competition]
+Diego Batlle 4.5
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
