@@ -39,7 +39,7 @@ Robert Koehler: (Variety, USA): 6
 
 "HAHAHA" HONG Sangsoo [Un Certain Regard]
 
-Olivier Père (Director artístico Festival de Locarno, Francia): 6
+Olivier Père (Director artístico Festival de Locarno, France): 6
 Diego Batlle (La Nación, Otros Cines, Argentina): 9
 Fernando Ganzo (Lumiére, España): 8,21
 Diego Lerer (Clarín, Micropsia, Argentina): 9
@@ -54,7 +54,7 @@ Francisco Ferreira (O Expresso, Portugal): 8
 
 "HORS LA LOI (OUTSIDE OF THE LAW)" Rachid BOUCHAREB [Competition]
 
-Eugenio Renzi (Independencia, Francia): 5
+Eugenio Renzi (Independencia, France): 5
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6
 Francisco Ferreira (O Expresso, Portugal): 2
@@ -85,7 +85,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 10
 Luciano Monteagudo (Página/12, Argentina): 9
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
 Manu Yáñez (Fotogramas, España): 10
-Emmanuel Burdeau (Mediapart, Francia): 9,5
+Emmanuel Burdeau (Mediapart, France): 9,5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7,5
 Luciano Barisone (Panoramiques, Italia): 8
 Robert Koehler: (Variety, USA): 10
@@ -95,7 +95,7 @@ Mark Peranson (Cinema Scope, Canada): 13,7
 Cristina Nord (Die Tageszeitung, Deutschland): 10
 Francisco Ferreira (O Expresso, Portugal): 10
 Gabe Klinger (The Auteurs Notebook, USA): 10
-Eugenio Renzi (Independencia, Francia): 9
+Eugenio Renzi (Independencia, France): 9
 Roger Alan Koza (La Voz del Interior, Argentina): 10
 Violeta Kovacsis (Lumiere, España): 9
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
@@ -106,7 +106,7 @@ Scott Foundas (Filmlinc, USA): 7
 
 "BOXING GYM" Frederick Wiseman
 
-Olivier Père (Director artístico Festival de Locarno, Francia): 5
+Olivier Père (Director artístico Festival de Locarno, France): 5
 Francisco Ferreira (O Expresso, Portugal): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Paolo Bertolin (Cineforum, Italia): 8
@@ -118,7 +118,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 
 "A ALEGRIA" Felipe Bragança, Marina Meliande [Quinzaine]
 
-Olivier Père (Director artístico Festival de Locarno, Francia): 2
+Olivier Père (Director artístico Festival de Locarno, France): 2
 Roger Alan Koza (La Voz del Interior, Argentina): 2
 Paolo Bertolin (Cineforum, Italia): 3
 
@@ -133,7 +133,7 @@ Gabe Klinger (The Auteurs Notebook, USA): 5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
-Emmanuel Burdeau (Mediapart, Francia): 7
+Emmanuel Burdeau (Mediapart, France): 7
 Luciano Barisone (Panoramiques, Italia): 7
 Robert Koehler: (Variety, USA): 3
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
@@ -155,7 +155,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Gabe Klinger (The Auteurs Notebook, USA): 6
-Eugenio Renzi (Independencia, Francia): 3
+Eugenio Renzi (Independencia, France): 3
 Fernando Ganzo (Lumiére, España): 0
 
 "MYSTERIES OF LISBON" Raul Ruiz
@@ -179,7 +179,7 @@ Luciano Barisone (Panoramiques, Italia): 2
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Paolo Bertolin (Cineforum, Italia): 7
-Eugenio Renzi (Independencia, Francia): 5
+Eugenio Renzi (Independencia, France): 5
 
 "OCTUBRE" Diego Vega y Daniel Vega [Un Certain Regard]
 
@@ -195,8 +195,8 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6
 
 "TODOS VOS SODES CAPITANS" Oliver Laxe [Quinzaine]
 
-Olivier Père (Director artístico Festival de Locarno, Francia): 7
-Antoine Thirion (Independencia, Francia): 8
+Olivier Père (Director artístico Festival de Locarno, France): 7
+Antoine Thirion (Independencia, France): 8
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Luciano Monteagudo (Página/12, Argentina): 7
@@ -252,7 +252,7 @@ Gabe Klinger (The Auteurs Notebook, USA): 7
 Fernando Ganzo (Lumiére, España): 5,5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 8,5
 Robert Koehler: (Variety, USA): -8-
-Emmanuel Burdeau (Mediapart, Francia): 4
+Emmanuel Burdeau (Mediapart, France): 4
 Cristina Nord (Die Tageszeitung, Deutschland): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Diego Lerer (Clarín, Micropsia, Argentina): -8- (vistos dos episodios de tres). 
@@ -298,8 +298,8 @@ Gabe Klinger (The Auteurs Notebook, USA): 9
 Violeta Kovacsis (Lumiere, España): 9
 Alejandro G. Calvo (Sensacine.com, España): 5
 Fernando Ganzo (Lumiere, España): 7
-Emmanuel Burdeau (Mediapart, Francia): 9,5
-Olivier Père (Director artístico Festival de Locarno, Francia): 10
+Emmanuel Burdeau (Mediapart, France): 9,5
+Olivier Père (Director artístico Festival de Locarno, France): 10
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Paolo Bertolin (Cineforum, Italia): 8
@@ -369,7 +369,7 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 
 "CHANTRAPAS" Otar Iosselliani
 
-Olivier Père (Festival de Locarno, Francia): 9
+Olivier Père (Festival de Locarno, France): 9
 Francisco Ferreira (O Expresso, Portugal): 8
 Alejandro G. Calvo (Sensacine.com, España): 9,99
 Fernando Ganzo (Lumiere, España): 7,5
@@ -402,7 +402,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 6,5
 Francisco Ferreira (O Expresso, Portugal): 8
 Luciano Monteagudo (Página/12, Argentina): 8
 Scott Foundas (Filmlinc, USA): 10
-Olivier Père (Director artístico Festival de Locarno, Francia): 9
+Olivier Père (Director artístico Festival de Locarno, France): 9
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Luciano Barisone (Panoramiques, Italia): 8
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
@@ -421,13 +421,13 @@ Gabe Klinger (The Auteurs Notebook, USA): 2
 "COPIE CONFORME (CERTIFIED COPY)" Abbas Kiarostami [Competition]
 
 Carlo Chatrian (Panoramiques Duellanti, Italia): 3
-Emmanuel Burdeau (Mediapart, Francia): 6,5
+Emmanuel Burdeau (Mediapart, France): 6,5
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 9
 Fernando Ganzo (Lumiere, España): 9,5
 Scott Foundas (Filmlinc, USA): 8
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
-Eugenio Renzi (Independencia, Francia): 0
+Eugenio Renzi (Independencia, France): 0
 Luciano Barisone (Panoramiques, Italia): 8
 Robert Koehler (Variety, USA): 4
 Manu Yáñez (Fotogramas, España): 6
@@ -447,18 +447,18 @@ Paolo Bertolin (Cineforum, Italia): 7
 Cristina Nord (Die Tageszeitung, Deutschland): 8
 Fernando Ganzo (Lumiere, España): 10
 Gabe Klinger (The Auteurs Notebook, USA): 10
-Emmanuel Burdeau (Mediapart, Francia): 9,5
+Emmanuel Burdeau (Mediapart, France): 9,5
 Sergio Wolf (Director artístico de BAFICI, Argentina): 10
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 10
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 10.9
 Alejandro G. Calvo (Sensacine.com, España): 9
-Olivier Père (Director artístico Festival de Locarno, Francia): 10
+Olivier Père (Director artístico Festival de Locarno, France): 10
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Luciano Monteagudo (Página/12, Argentina): 10
 Scott Foundas (Filmlinc, USA): 10
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
-Eugenio Renzi (Independencia, Francia): 10
+Eugenio Renzi (Independencia, France): 10
 Robert Koehler (Variety, USA): 10
 Roger Alan Koza (La Voz del Interior, Argentina): 10
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 10
@@ -527,7 +527,7 @@ Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Paolo Bertolin (Cineforum. Italia): 9
 Violeta Kovacsis (Lumiere, España): 8
 Robert Koehler (Variety, USA): 10
-Olivier Père (Director artístico Festival de Locarno, Francia): 9
+Olivier Père (Director artístico Festival de Locarno, France): 9
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 10
 Diego Lerer (Clarín + Micropsia, Argentina): 8
@@ -549,7 +549,7 @@ Diego Batlle (La Nación + Otros Cines, Argentina): 8
 Roger Alan Koza (La Voz del Interior, Argentina): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 9
 Fernando Ganzo (Lumiere, España): 5
-Olivier Père (Director artístico Festival de Locarno, Francia): 5
+Olivier Père (Director artístico Festival de Locarno, France): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
 Luciano Barisone (Panoramiques, Italia): 4
 Robert Koehler (Variety, USA): 6
@@ -564,7 +564,7 @@ Luciano Monteagudo (Página/12, Argentina): 8
 
 Scott Foundas (Filmlinc, USA): 4
 Alejandro G. Calvo (Sensacine.com, España): 8
-Emmanuel Burdeau (Mediapart, Francia): 7
+Emmanuel Burdeau (Mediapart, France): 7
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 6
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
@@ -588,7 +588,7 @@ Paolo Bertolin (Cineforum, Italia): 8
 Francisco Ferreira (O Expresso, Portugal): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 4
 Alejandro G. Calvo (Sensacine.com, España): 4
-Emmanuel Burdeau (Mediapart, Francia): 9
+Emmanuel Burdeau (Mediapart, France): 9
 Diego Batlle (La Nación + Otros Cines, Argentina): 9
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 9
@@ -596,7 +596,7 @@ Fernando Ganzo (Lumiere, España): 6
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 6,9
 Diego Lerer (Clarín + Micropsia, Argentina): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
-Eugenio Renzi (Independencia, Francia): 8
+Eugenio Renzi (Independencia, France): 8
 Luciano Barisone (Panoramiques, Italia): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Cristina Nord (Die Tageszeitung, Deutschland): 6
@@ -648,8 +648,8 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 1
 "L'AUTRE MONDE" Gilles Marchand
 
 Carlos Reviriego (Cahiers du Cinéma España, España): 4
-Emmanuel Burdeau (Mediapart, Francia): 7
-Olivier Père (Director artístico Festival de Locarno, Francia): 2
+Emmanuel Burdeau (Mediapart, France): 7
+Olivier Père (Director artístico Festival de Locarno, France): 2
 
 "R U THERE" David Verbeek [Un Certain Regard]
 
@@ -658,15 +658,15 @@ Roger Alan Koza (La Voz del Interior, Argentina): 7
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 4
 Diego Lerer (Clarín, Micropsia, Argentina): 6
-Eugenio Renzi (Independencia, Francia): 4
+Eugenio Renzi (Independencia, France): 4
 Luciano Monteagudo (Página/12, Argentina): 7
-Olivier Père (Director artístico Festival de Locarno, Francia): 2
+Olivier Père (Director artístico Festival de Locarno, France): 2
 
 "PAL ADRIENN" Ágnes Kocsis [Un Certain Regard]
 
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 5
-Eugenio Renzi (Independencia, Francia): 5
+Eugenio Renzi (Independencia, France): 5
 Luciano Barisone (Panoramiques, Italia): 7
 
 "LA PRINCESSE DE MONTPENSIER (THE PRINCESS OF MONTPENSIER)" Bertrand Tavernier [Competition]
@@ -709,7 +709,7 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7,5
 "BELLE ÉPINE" Rebecca Zlotowski [Semaine]
 
 Fernando Ganzo (Lumiere, España): 6
-Olivier Père (Director artístico Festival de Locarno, Francia): 7
+Olivier Père (Director artístico Festival de Locarno, France): 7
 Gabe Klinger (The Auteurs Notebook, USA): 6
 Robert Koehler: (Variety, USA): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 8
@@ -728,7 +728,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 3
 
 "RUBBER" Quentin Dupieux [Semaine]
 
-Olivier Père (Director artístico Festival de Locarno, Francia): 8
+Olivier Père (Director artístico Festival de Locarno, France): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
 Robert Koehler: (Variety, USA): 6
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 7
@@ -745,7 +745,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 6
 "LES AMOURS IMAGINAIRES (HEARTBEATS)" Xavier Dolan [Un Certain Regard]
 
 Diego Batlle (La Nación, Otros Cines, Argentina): 7
-Olivier Père (Director artístico Festival de Locarno, Francia): 0
+Olivier Père (Director artístico Festival de Locarno, France): 0
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 4
 Paolo Bertolin (Cineforum, Italia): 10
@@ -758,11 +758,11 @@ Violeta Kovacsis (Lumiere, España): 4
 
 "UNTER DIR DIE STADT (THE CITY BELOW)" Christoph Hochhäussler [Un Certain Regard]
 
-Emmanuel Burdeau (Mediapart, Francia): 3
+Emmanuel Burdeau (Mediapart, France): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Robert Koehler: (Variety, USA): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 6
-Olivier Père (Director artístico Festival de Locarno, Francia): 5
+Olivier Père (Director artístico Festival de Locarno, France): 5
 Cristina Nord (Die Tageszeitung, Deutschland): 6
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 2
 Alejandro G. Calvo (Sensacine.com, España): 5
@@ -854,7 +854,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 6,5
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6
 Alejandro G. Calvo (Sensacine.com, España): 5
-Emmanuel Burdeau (Mediapart, Francia): 4
+Emmanuel Burdeau (Mediapart, France): 4
 Manu Yáñez (Fotogramas, España): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
@@ -884,7 +884,7 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 "SVET-AKE" Aktan Arym Kubat [Quinzaine]
 
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
-Olivier Père (Director artístico Festival de Locarno, Francia): 7
+Olivier Père (Director artístico Festival de Locarno, France): 7
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 6
 Paolo Bertolin (Cineforum, Italia): 8
 
@@ -900,14 +900,14 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Luciano Monteagudo (Página/12, Argentina): 5
 Alejandro G. Calvo (Sensacine.com, España): 5
 Gabe Klinger (The Auteurs Notebook, USA): 6
-Emmanuel Burdeau (Mediapart, Francia): 7
+Emmanuel Burdeau (Mediapart, France): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 4
 Robert Koehler: (Variety, USA): 4
 Carlos Reviriego (Cahiers du Cinéma España, España): 6
 
 "SHIT YEAR" Cam Archer [Quinzaine]
 
-Olivier Père (Festival de Locarno, Francia): 0
+Olivier Père (Festival de Locarno, France): 0
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
 Paolo Bertolin (Cineforum, Italia): 8
@@ -937,7 +937,7 @@ Alejandro G. Calvo (Sensacine.com, España): 1
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 5
-Emmanuel Burdeau (Mediapart, Francia): 2,2
+Emmanuel Burdeau (Mediapart, France): 2,2
 Cristina Nord (Die Tageszeitung, Deutschland): 2
 Violeta Kovacsis (Lumiere, España): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
@@ -958,7 +958,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 3
 
 Gabe Klinger (The Auteurs Notebook, USA): 4
 Robert Koehler: (Variety, USA): 8
-Olivier Père (Director artístico Festival de Locarno, Francia): 5
+Olivier Père (Director artístico Festival de Locarno, France): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Alejandro G. Calvo (Sensacine.com, España): 6
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 8
@@ -978,7 +978,7 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 
 Luciano Barisone (Panoramiques, Italia): 8
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 8
-Eugenio Renzi (Independencia, Francia): 4
+Eugenio Renzi (Independencia, France): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7,5
 Luciano Monteagudo (Página/12, Argentina): 7
@@ -991,9 +991,9 @@ Roger Alan Koza (La Voz del Interior, Argentina): 7
 Luciano Barisone (Panoramiques, Italia): 5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
 Robert Koehler: (Variety, USA): 3
-Eugenio Renzi (Independencia, Francia): 5
+Eugenio Renzi (Independencia, France): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 3
-Olivier Père (Director artístico Festival de Locarno, Francia): 7
+Olivier Père (Director artístico Festival de Locarno, France): 7
 Alejandro G. Calvo (Sensacine.com, España): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 4
@@ -1012,8 +1012,8 @@ Scott Foundas (Filmlinc, USA): 4
 
 Alejandro G. Calvo (Sensacine.com, España): 3
 Luciano Barisone (Panoramiques, Italia): 5
-Emmanuel Burdeau (Mediapart, Francia): 5
-Eugenio Renzi (Independencia, Francia): 5
+Emmanuel Burdeau (Mediapart, France): 5
+Eugenio Renzi (Independencia, France): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 4
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
@@ -1027,13 +1027,13 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 5
 
 Alejandro G. Calvo (Sensacine.com, España): 3
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
-Luciano Barisone (Panoramiques): 4
+Luciano Barisone (Panoramiques, Italia): 4
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Paolo Bertolin (Cineforum. Italia): 8
 Violeta Kovacsis (Lumiere, España): 5
 Robert Koehler: (Variety, USA): 3
-Emmanuel Burdeau (Mediapart, Francia): 4
-Eugenio Renzi (Independencia, Francia): 4
+Emmanuel Burdeau (Mediapart, France): 4
+Eugenio Renzi (Independencia, France): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Roger Alan Koza (La Voz del Interior, Argentina): 3
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
@@ -1049,8 +1049,8 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
 "TOURNÉE (ON TOUR)" Mathieu Amalric [Competition]
 
 Carlo Chatrian (Panoramiques Duellanti, Italia): 7
-Eugenio Renzi (Independencia, Francia): 7,6
-Emmanuel Burdeau (Mediapart, Francia): 7
+Eugenio Renzi (Independencia, France): 7,6
+Emmanuel Burdeau (Mediapart, France): 7
 Carlos Reviriego (Cahiers du Cinéma España, España): 8
 Alejandro G. Calvo (Sensacine.com, España): 7
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
@@ -1067,14 +1067,14 @@ Scott Foundas (Filmlinc, USA): 5
 Manu Yáñez (Fotogramas, España): 8
 Luciano Monteagudo (Página/12, Argentina): 6
 Gabe Klinger (The Auteurs Notebook, USA): 8
-Olivier Père (Director artístico Festival de Locarno, Francia): 4
+Olivier Père (Director artístico Festival de Locarno, France): 4
 Cristina Nord (Die Tageszeitung, Deutschland): 5
 Francisco Ferreira (O Expresso, Portugal): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 3,5
 
 "ROBIN HOOD" Ridley Scott
 
-Eugenio Renzi (Independencia, Francia): 6,9
+Eugenio Renzi (Independencia, France): 6,9
 Francisco Ferreira (O Expresso, Portugal): 3
 Diego Lerer (Clarín + Micropsia, Argentina): 5
 Diego Batlle (La Nación + Otros Cines, Argentina): 6
@@ -1082,7 +1082,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 2
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 2
 Carlo Chatrian (Panoramiques Duellanti, Italia): 3
 Alejandro G. Calvo (Sensacine.com, España): 3
-Emmanuel Burdeau (Mediapart, Francia): 7
+Emmanuel Burdeau (Mediapart, France): 7
 Carlos Reviriego (Cahiers du Cinéma España, España): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
