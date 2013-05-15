@@ -2250,7 +2250,7 @@ Pascal Merigeau 5
 Danielle Attali 5
 Christophe Carriére 7.5
  Indiewire (1):
-Simo Abrams 3 C
+Simon Abrams 3 C
 
 UN CERTAIN REGARD
 
