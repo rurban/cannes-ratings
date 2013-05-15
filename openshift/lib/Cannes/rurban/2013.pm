@@ -173,7 +173,7 @@ Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gats
 Keith Uhlich (Time Out New York, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Diego Batlle 6
 Diego Lerer 6.5
-Eulalia Churches 6
+Eulàlia Iglesias 6
 Fernando Ganzo 0
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
