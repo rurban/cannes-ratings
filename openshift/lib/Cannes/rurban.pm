@@ -78,6 +78,7 @@ sub _detail {
   my $t = shift;
   my $h = shift;
   my $critic = shift;
+  my $nostrike = shift;
   my $out = '';
   for (sort {!defined $h->{critic}->{$b}->[0] ? -1
 	       : !defined $h->{critic}->{$a}->[0] ? 1
@@ -85,6 +86,10 @@ sub _detail {
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
+    if (substr($c,0,1) eq "-") {
+      $n = "<strike>$n</strike>" unless $nostrike;
+      $c = abs($c);
+    }
     my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
     if ($url) {
       $n = qq(<a href="$url">$n</a>);
@@ -148,11 +153,13 @@ sub _dump {
     for my $t (keys %title) {
       if ($title{$t}->{critic}->{$c}) {
         $title{$t}->{num}--; my ($n,$sum)=($title{$t}->{num},0);
+        my $bak = $title{$t}->{critic}->{$c}->[0];
 	delete $title{$t}->{critic}->{$c};
 	for (keys %{$title{$t}->{critic}}) {
 	  $sum += $title{$t}->{critic}->{$_}->[0];
 	}
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
+        $title{$t}->{critic}->{$c}->[0] = "-$bak";
       }
     }
   }
@@ -286,7 +293,7 @@ sub _dump {
       ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
       :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
     if (Dancer::SharedData->request) {
-      $out .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+      $out .= _detail($t,$title{$t},\%critic,1) if params->{t} and params->{t} eq $i;
     }
     $i++;
   }
