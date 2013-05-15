@@ -158,6 +158,7 @@ Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-stati
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
+Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
 
@@ -335,6 +336,7 @@ QUINZAINE
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
 
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
+Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 
