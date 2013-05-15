@@ -24,6 +24,47 @@ package Cannes::rurban::2013;
 use utf8;
 our $DATA= <<'EOF';
 
+"HELI" (Amat ESCALANTE) [Competition]
+Alejandro G. Calvo 2
+Alex Vicente 
+Alexandra Zawia
+Ángel Quintana 
+Boris Nelepo
+Carlo Chatrian 
+Carlos Heredero 5.5
+Carlos Reviriego 
+Cecilia Martinez 4
+Cristina Nord 
+Dana Linssen 
+Diego Batlle 4.5
+Diego Lerer 
+Eugenio Renzi 
+Eulàlia Iglesias 
+Fernando Ganzo 
+Fernando Juan Lima 5
+Francisco Ferreira 
+Jaime Pena 
+José Luis de Lorenzo 1
+José Luis Losa 
+Kieron Corless
+Luciano Barisone 
+Luciano Monteagudo 
+Marcelo Alderete 
+Michal Oleszczyk
+Nando Salva 4
+Neil Young 5
+Pablo O. Scholz 4.5
+Paolo Bertolin 
+Paolo Moretti 
+Pedro Butcher 
+Philipp Engel 7
+Robert Koehler 
+Roger Alan Koza 
+Rüdiger Suchsland 7.5
+Scott Foundas 
+Thomas Fioretti 
+Violeta Kovacsics 
+
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
 
 Alejandro G. Calvo 
@@ -65,11 +106,6 @@ Rüdiger Suchsland
 Scott Foundas 
 Thomas Fioretti 
 Violeta Kovacsics 
-
-"HELI" (Amat ESCALANTE) [Competition]
-Diego Batlle 4.5
-Neil Young 5
-Rüdiger Suchsland 7.5
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
@@ -171,11 +207,46 @@ Scott Foundas (Variety, USA) 6 http://variety.com/2013/film/reviews/the-great-ga
 Claudia Puig (USA Today, USA) 5 http://www.usatoday.com/story/life/movies/2013/05/08/great-gatsby-review/2107037/
 Eric Kohn (Indiewire, USA) 4.2 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
-Keith Uhlich (Time Out New York, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
-Diego Batlle 6
-Diego Lerer 6.5
-Eulàlia Iglesias 6
-Fernando Ganzo 0
+Keith Uhlich (Time Out New York, USA) 4 http://www.timeout.com/us/film/the-great-gatsby-movie-review
+Alejandro G. Calvo 6.5
+Alex Vicente 
+Alexandra Zawia
+Ángel Quintana 2.5
+Boris Nelepo
+Carlo Chatrian 
+Carlos Heredero  3
+Carlos Reviriego 2
+Cecilia Martinez 5
+Cristina Nord    3
+Dana Linssen 
+Diego Batlle     6
+Diego Lerer      6.5
+Eugenio Renzi 
+Eulàlia Iglesias   6
+Fernando Ganzo     0
+Fernando Juan Lima 8
+Francisco Ferreira 
+Jaime Pena 
+José Luis de Lorenzo 
+José Luis Losa 1
+Kieron Corless
+Luciano Barisone 1
+Luciano Monteagudo 5 
+Marcelo Alderete 
+Michal Oleszczyk
+Nando Salva 7
+Neil Young 
+Pablo O. Scholz 5
+Paolo Bertolin 
+Paolo Moretti 
+Pedro Butcher 
+Philipp Engel 2.5 
+Robert Koehler 
+Roger Alan Koza 
+Rüdiger Suchsland 6.5
+Scott Foundas 
+Thomas Fioretti 
+Violeta Kovacsics 
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
