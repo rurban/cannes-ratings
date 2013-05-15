@@ -331,10 +331,16 @@ our $HEADER = <<"EOF";
 <small>Collected and updated daily by Reini Urban, 
 from http://micropsia.otroscines.com/ (Diego Lerer) (la crema), http://www.ioncinema.com/ (okay), Le film français (eclectic), Screen Daily (mainstream), Indiewire (mixed) and more critics.<br>
 
-<b>Ratings</b>: 0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
 Critics with stddev &gt;2.5: filtered out
 <i>(Filtered to help with inaccuracies with low numbers).</i><br>
-<b>Formatting</b>: stddev>2: <i>controversial</i>. &lt;10 ratings: small. Competition: bold<br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Competition: <b>bold</b><br>
+ <br>
 All sections updated daily. </small><p>
 
 EOF
