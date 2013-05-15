@@ -89,6 +89,10 @@ Claudia Puig (USA Today, USA) 5 http://www.usatoday.com/story/life/movies/2013/0
 Eric Kohn (Indiewire, USA) 4.2 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Keith Uhlich (Time Out New York, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+Diego Batlle 6
+Diego Lerer 6.5
+Eulalia Churches 6
+
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
@@ -329,7 +333,11 @@ Todd McCarthy (The Hollywood Reporter, USA)
 our $HEADER = <<"EOF";
 
 <small>Collected and updated daily by Reini Urban, 
-from http://micropsia.otroscines.com/ (Diego Lerer) (la crema), http://www.ioncinema.com/ (okay), Le film français (eclectic), Screen Daily (mainstream), Indiewire (mixed) and more critics.<br>
+from the ApichatPoll http://www.todaslascriticas.com.ar/cannes (Diego Lerer+Javier Fish) (la crema),
+http://www.ioncinema.com/ (okay),
+Le film français (eclectic),
+Screen Daily (mainstream),
+Indiewire (mixed) and more critics.<br>
 
 <br>
 <b>Ratings</b>:<br>
@@ -348,6 +356,7 @@ EOF
 our $FOOTER = "
 <pre>
 --
+http://www.todaslascriticas.com.ar/cannes
 http://micropsia.otroscines.com/
 http://www.ioncinema.com/
 http://www.lefilmfrancais.com/cannes2013/quotidien/
@@ -355,6 +364,6 @@ History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/
 
 </pre>";
 
-$HEADER =~ s{(https?)://(.+?/) }{<a href="$1://$2">$2</a> }g;
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
 $FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
 1;
