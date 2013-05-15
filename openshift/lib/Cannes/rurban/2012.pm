@@ -58,7 +58,7 @@ Pedro Butcher 7.5
 Philipp Engel 9.1
 Robert Koehler 6
 Roger Alan Koza  8
-Rudiger Suchsland  8
+Rüdiger Suchsland  8
 Scott Foundas  9
 Violeta Kovacsics 7
 Xavi Serra 8
@@ -188,7 +188,7 @@ Pamela Bienzobas 4.5
 Pedro Butcher 5.5
 Philipp Engel 6
 Robert Koehler 4
-Rudiger Suchsland  5
+Rüdiger Suchsland  5
 Scott Foundas  8
 Violeta Kovacsics 2
 Xavi Serra  6
@@ -289,7 +289,7 @@ Pedro Butcher 9.5
 Philipp Engel 10
 Robert Koehler 10
 Roger Alan Koza  9.5
-Rudiger Suchsland  8.5
+Rüdiger Suchsland  8.5
 Sergio Wolf 10
 Scott Foundas  8.5
 Thomas Fioretti 8.3
@@ -403,7 +403,7 @@ Pedro Butcher 8
 Philipp Engel 7
 Robert Koehler 3
 Roger Alan Koza  9.5
-Rudiger Suchsland  7
+Rüdiger Suchsland  7
 Scott Foundas  8
 Violeta Kovacsics 8.5
 Xavi Serra  7.5
@@ -707,7 +707,7 @@ Nando Salva 5
 Pedro Butcher 6
 Philipp Engel 5
 Robert Koehler 7
-Rudiger Suchsland  4.5
+Rüdiger Suchsland  4.5
 Scott Foundas  6.5
 Violeta Kovacsics 4
 Xavi Serra  6
@@ -804,7 +804,7 @@ Pedro Butcher 6
 Philipp Engel 9
 Robert Koehler 6
 Roger Alan Koza  8.5
-Rudiger Suchsland  9.5
+Rüdiger Suchsland  9.5
 Scott Foundas  10
 Violeta Kovacsics 9
 Xavi Serra  7.75
@@ -901,7 +901,7 @@ Neil Young 5 C+
 Pedro Butcher 6.5
 Philipp Engel 7
 Robert Koehler 3
-Rudiger Suchsland  6
+Rüdiger Suchsland  6
 Scott Foundas  4
 Violeta Kovacsics 6
 Xavi Serra  6
@@ -1005,7 +1005,7 @@ Pedro Butcher 7.5
 Philipp Engel 7
 Robert Koehler 8
 Roger Alan Koza  9
-Rudiger Suchsland  6.8
+Rüdiger Suchsland  6.8
 Sergio Wolf 10
 Scott Foundas  5
 Thomas Fioretti 8.5
@@ -1263,7 +1263,7 @@ Manu Yáñez 3
 Martial Pisani 6.5
 Nando Salva 2
 Pedro Butcher 7
-Rudiger Suchsland  4.5
+Rüdiger Suchsland  4.5
 Scott Foundas  7
 Violeta Kovacsics 3
 Xavi Serra  5.5
@@ -1371,7 +1371,7 @@ Manu Yáñez 6.5
 Nando Salva 8
 Pedro Butcher 3
 Robert Koehler 7
-Rudiger Suchsland  4
+Rüdiger Suchsland  4
 Scott Foundas  7.5
 Violeta Kovacsics 6.5
 Xavi Serra  6.5
@@ -1454,7 +1454,7 @@ Neil Young 5 C+
 Pedro Butcher 9
 Robert Koehler 1
 Roger Alan Koza  6.5
-Rudiger Suchsland  4
+Rüdiger Suchsland  4
 Sergio Wolf 4
 Scott Foundas  9
 Violeta Kovacsics 5
@@ -1548,7 +1548,7 @@ Neil Young 3
 Pedro Butcher 4
 Robert Koehler 2
 Roger Alan Koza  3.5
-Rudiger Suchsland  3
+Rüdiger Suchsland  3
 Scott Foundas  4
 Violeta Kovacsics 5
  IonCinema:
@@ -1737,7 +1737,7 @@ Nando Salva 5
 Pedro Butcher 7
 Robert Koehler 2
 Roger Alan Koza  8.7
-Rudiger Suchsland  3.5
+Rüdiger Suchsland  3.5
 Scott Foundas  8
 Violeta Kovacsics 8
 Xavi Serra  6.5
@@ -1830,7 +1830,7 @@ Pedro Butcher 3
 Philipp Engel 6
 Robert Koehler 10
 Roger Alan Koza  9
-Rudiger Suchsland  8
+Rüdiger Suchsland  8
 Scott Foundas  9
 Violeta Kovacsics 3
 Xavi Serra  2
@@ -1943,7 +1943,7 @@ Neil Young 6 B-
 Pedro Butcher 6.5
 Robert Koehler 3
 Roger Alan Koza  4
-Rudiger Suchsland  2.5
+Rüdiger Suchsland  2.5
 Scott Foundas  5.5
 Violeta Kovacsics 2
 Xavi Serra  5.5
@@ -2056,7 +2056,7 @@ Pedro Butcher 2
 Philipp Engel 6.5
 Robert Koehler 7.5
 Roger Alan Koza  7
-Rudiger Suchsland  6.5
+Rüdiger Suchsland  6.5
 Sergio Wolf 3
 Scott Foundas  8
 Violeta Kovacsics 7.5
@@ -2268,7 +2268,7 @@ José Luis de Lorenzo 4
 Neil Young 5 C+
 Robert Koehler 2
 Roger Alan Koza  1
-Rudiger Suchsland  7
+Rüdiger Suchsland  7
  Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 2.5
@@ -2352,7 +2352,7 @@ Javier H. Estrada 5
 Neil Young 7 B
 Pedro Butcher 4
 Roger Alan Koza  6
-Rudiger Suchsland  5
+Rüdiger Suchsland  5
  Other:
 Mike d'Angelo 
   w/o This is an amazing year but UCR does seem kinda blah. Totally generic downtrodden-kid saga
@@ -2449,7 +2449,7 @@ Neil Young 3
 Pedro Butcher 2
 Philipp Engel 6
 Roger Alan Koza  3.5
-Rudiger Suchsland  6.5
+Rüdiger Suchsland  6.5
 Sergio Wolf 4
 Violeta Kovacsics 5.5
 Xavi Serra  6
@@ -2507,7 +2507,7 @@ Diego Lerer 4.4
 Fernando Juan Lima 5
 Nando Salva 3.5
 Roger Alan Koza  3.5
-Rudiger Suchsland  2.5
+Rüdiger Suchsland  2.5
  Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
@@ -2537,7 +2537,7 @@ Diego Lerer 8
 Fernando Juan Lima 7.8
 José Luis de Lorenzo 6
 Luciano Barisone 7
-Rudiger Suchsland  1
+Rüdiger Suchsland  1
 Sergio Wolf 4
  Le film français:
 Stéphanie Lamome 7.5
@@ -2624,7 +2624,7 @@ Diego Batlle 2
 Diego Lerer 2.5
 Luciano Barisone 3
 Roger Alan Koza  1
-Rudiger Suchsland  7
+Rüdiger Suchsland  7
  Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 
@@ -2755,7 +2755,7 @@ Kong Rithdee 5.5
 Nando Salva 5
 Robert Koehler 2
 Roger Alan Koza  6
-Rudiger Suchsland  7.7
+Rüdiger Suchsland  7.7
 Violeta Kovacsics 4
  Le film français:
 Stéphanie Lamome 
@@ -2825,7 +2825,7 @@ Martial Pisani 8.8
 Philipp Engel 4.5
 Robert Koehler 4
 Roger Alan Koza  6.7
-Rudiger Suchsland  6.2
+Rüdiger Suchsland  6.2
 Thomas Fioretti 8.4
 Violeta Kovacsics 6
  Le film français:
@@ -2955,7 +2955,7 @@ Jaime Pena 4.5
 José Luis de Lorenzo 5
 Luciano Barisone 8
 Robert Koehler 5
-Rudiger Suchsland  7
+Rüdiger Suchsland  7
  Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 5
@@ -3056,7 +3056,7 @@ Philipp Engel 8
 
 "LES VOISINS DE DIEU" (Meni Yaesh) [Semaine] Gaul's Society of Authors, Directors and Composers award
 Eulalia Iglesias 3.5
-Rudiger Suchsland  7
+Rüdiger Suchsland  7
  
 "HORS LES MURS" (Damien Lambert) [Semaine]
 Fernando Juan Lima 2
@@ -3170,7 +3170,7 @@ Thomas Fioretti 5.1
 
 "GANGS OF WASSEYPUR" (Anurag Kashyap) [Quinzaine]
 Javier H. Estrada 4.5
-Rudiger Suchsland  7.5
+Rüdiger Suchsland  7.5
 Thomas Fioretti 5.3
 
 "INFANCIA CLANDESTINA" (Benjamín Ávila) [Quinzaine]
@@ -3398,7 +3398,7 @@ José Luis de Lorenzo 4
 Manu Yáñez 5.5
 Nando Salva 4.5
 Pedro Butcher 7.5
-Rudiger Suchsland  6
+Rüdiger Suchsland  6
 Violeta Kovacsics 5.5
 Xavi Serra  6.5
  Indiewire (3):
@@ -3449,7 +3449,7 @@ Diego Batlle 4
 Fernando Juan Lima 9
 Javier H. Estrada 6
 José Luis de Lorenzo 8
-Rudiger Suchsland  10
+Rüdiger Suchsland  10
 Sergio Wolf 6
  Indiewire (2):
 Simon Abrams 
@@ -3493,7 +3493,7 @@ José Luis de Lorenzo 7
 Marcelo Alderete 2
 Nando Salva 4
 Neil Young 6
-Rudiger Suchsland  5
+Rüdiger Suchsland  5
  IndieWire:
 Michal Oleszczyk 6 B
 
@@ -3530,7 +3530,7 @@ Luciano Barisone 6
 Manu Yáñez 6
 Pedro Butcher 6.5
 Philipp Engel 5
-Rudiger Suchsland  6.8
+Rüdiger Suchsland  6.8
 
 "LES INVISIBLES" (Sébastien Lifshitz) [Funciones Especiales]
 Carlo Chatrian 6.01
@@ -3703,7 +3703,7 @@ Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil)
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Rudiger Suchsland (FAZ, Negativ-film, Germany) 
+Rüdiger Suchsland (FAZ, Negativ-film, Germany) 
 Sergio Wolf (BAFICI, Argentina) 
 Scott Foundas (Film Comment, USA) 
 Thomas Fioretti (Independencia, France) 

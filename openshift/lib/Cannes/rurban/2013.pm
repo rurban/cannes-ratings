@@ -61,14 +61,14 @@ Pedro Butcher
 Philipp Engel 
 Robert Koehler 
 Roger Alan Koza 
-Rudiger Suchsland 
+Rüdiger Suchsland 
 Scott Foundas 
 Thomas Fioretti 
 Violeta Kovacsics 
 
 "HELI" (Amat ESCALANTE) [Competition]
 Diego Batlle 4.5
-Rudiger Suchsland 7.5
+Rüdiger Suchsland 7.5
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
@@ -114,9 +114,9 @@ UN CERTAIN REGARD
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   (Sundance - Main Prices)
-Eric Kohn (Indiewire, USA) 8.3
-Todd McCarthy (The Hollywood Reporter, USA) 8
-Geoff Berkshire (Variety, USA) 5
+Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-ryan-cooglers-fruitvale-renders-a-tragic-police-shooting-in-personal-terms
+Todd McCarthy (The Hollywood Reporter, USA) 8 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
+Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
@@ -322,7 +322,7 @@ Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil)
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Rudiger Suchsland (FAZ, Negativ-film, Germany) 
+Rüdiger Suchsland (FAZ, Negativ-film, Germany) 
 Scott Foundas (Film Comment, USA) 
 Thomas Fioretti (Independencia, France) 
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
@@ -488,7 +488,6 @@ our $FOOTER = "
 http://www.todaslascriticas.com.ar/cannes
 http://micropsia.otroscines.com/
 http://www.ioncinema.com/
-http://www.lefilmfrancais.com/cannes2013/quotidien/
 History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/
 
 </pre>";

@@ -48,7 +48,7 @@ Violeta Kovacsis (Lumiere, España): 8
 Luciano Monteagudo (Página/12, Argentina): 9
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 9
 Robert Koehler: (Variety, USA): 6
-Rüdiger Suchsland (Frankfurter Allgemeigne Zeitung, Artechock, Alemania): 9
+Rüdiger Suchsland (Frankfurter Allgemeigne Zeitung, Artechock, Deutschland): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 8,5
 Francisco Ferreira (O Expresso, Portugal): 8
 
@@ -60,7 +60,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 6
 Francisco Ferreira (O Expresso, Portugal): 2
 Diego Lerer (Clarín, Micropsia, Argentina): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
-Cristina Nord ( Die Tageszeitung Alemania): 3
+Cristina Nord (Die Tageszeitung, Deutschland): 3
 Violeta Kovacsis (Lumiere, España): 5
 Luciano Monteagudo (Página/12, Argentina): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
@@ -83,7 +83,7 @@ Leonardo D'Espósito (Crítica de la Argentina, Argentina): 10
 Eulalia Iglesias (Cahiers du Cinéma España, España): 10
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 10
 Luciano Monteagudo (Página/12, Argentina): 9
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
 Manu Yáñez (Fotogramas, España): 10
 Emmanuel Burdeau (Mediapart, Francia): 9,5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7,5
@@ -92,7 +92,7 @@ Robert Koehler: (Variety, USA): 10
 Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Scott Foundas (Filmlinc, USA): 9
 Mark Peranson (Cinema Scope, Canada): 13,7
-Cristina Nord ( Die Tageszeitung Alemania): 10
+Cristina Nord (Die Tageszeitung, Deutschland): 10
 Francisco Ferreira (O Expresso, Portugal): 10
 Gabe Klinger (The Auteurs Notebook, USA): 10
 Eugenio Renzi (Independencia, Francia): 9
@@ -113,7 +113,7 @@ Paolo Bertolin (Cineforum, Italia): 8
 Alejandro G. Calvo (Sensacine.com, España): 5
 Gabe Klinger (The Auteurs Notebook, USA): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
-Cristina Nord ( Die Tageszeitung Alemania): 8
+Cristina Nord (Die Tageszeitung, Deutschland): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 
 "A ALEGRIA" Felipe Bragança, Marina Meliande [Quinzaine]
@@ -125,7 +125,7 @@ Paolo Bertolin (Cineforum, Italia): 3
 "PICCO" Philip Koch [Quinzaine]
 
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 4
 Gabe Klinger (The Auteurs Notebook, USA): 5
 
 "REBECCA H. (RETURN TO THE DOGS)" Lodge Kerrigan [Un Certain Regard]
@@ -173,7 +173,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
 Robert Koehler: (Variety, USA): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 4
 Manu Yáñez (Fotogramas, España): 5
 Luciano Barisone (Panoramiques, Italia): 2
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
@@ -219,11 +219,11 @@ Luciano Barisone (Panoramiques, Italia): 5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 3
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 0,5
 Violeta Kovacsis (Lumiere, España): 0
 Luciano Monteagudo (Página/12, Argentina): 6
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 1
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 1
 Manu Yáñez (Fotogramas, España): 1
 Gabe Klinger (The Auteurs Notebook, USA): 1
 
@@ -243,17 +243,17 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 7
 Luciano Monteagudo (Página/12, Argentina): 6
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 0
 Diego Lerer (Clarín, Micropsia, Argentina): 6
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 
 "CARLOS" Olivier Assayas
 
 Francisco Ferreira (O Expresso, Portugal): -6-
 Gabe Klinger (The Auteurs Notebook, USA): 7
 Fernando Ganzo (Lumiére, España): 5,5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 8,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 8,5
 Robert Koehler: (Variety, USA): -8-
 Emmanuel Burdeau (Mediapart, Francia): 4
-Cristina Nord ( Die Tageszeitung Alemania): 8
+Cristina Nord (Die Tageszeitung, Deutschland): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Diego Lerer (Clarín, Micropsia, Argentina): -8- (vistos dos episodios de tres). 
 Scott Foundas (Filmlinc, USA): 9
@@ -278,7 +278,7 @@ Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
 Violeta Kovacsis (Lumiere, España): 7
 Manu Yáñez (Fotogramas, España): 7
 Scott Foundas (Filmlinc, USA): 10
-Cristina Nord ( Die Tageszeitung Alemania): 8
+Cristina Nord (Die Tageszeitung, Deutschland): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
 
 "UDAAN" Vikramaditya Motwane [Un Certain Regard]
@@ -291,7 +291,7 @@ Robert Koehler: (Variety, USA): 4
 
 "DES HOMMES ET DES DIEUX (OF GODS AND MEN)" Xavier Beauvois [Competition]
 
-Cristina Nord ( Die Tageszeitung, Alemania): 7
+Cristina Nord ( Die Tageszeitung, Deutschland): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 Francisco Ferreira (O Expresso, Portugal): 8
 Gabe Klinger (The Auteurs Notebook, USA): 9
@@ -327,7 +327,7 @@ Diego Lerer (Clarín + Micropsia, Argentina): 5
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Gabe Klinger (The Auteurs Notebook, USA): 6
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 7
-Cristina Nord ( Die Tageszeitung Alemania): 7
+Cristina Nord (Die Tageszeitung, Deutschland): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
 Violeta Kovacsis (Lumiere, España): 8
 Manu Yáñez (Fotogramas, España): 6
@@ -341,25 +341,25 @@ Diego Batlle (La Nación + Otros Cines, Argentina): 6,5
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Alejandro G. Calvo (Sensacine.com, España): 5
 Robert Koehler (Variety, USA): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
 
 "LOS LABIOS" Santiago Loza e Iván Fund [Un Certain Regard]
 
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Diego Batlle (La Nación + Otros Cines, Argentina): 8
 Roger Alan Koza (La Voz del Interior, Argentina): 8
-Cristina Nord (Die Tageszeitung, Alemania): 8
+Cristina Nord (Die Tageszeitung, Deutschland): 8
 Fernando Ganzo (Lumiere, España): 6,5
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 6,5
 Luciano Barisone (Panoramiques, Italia): 5
 Carlo Chatrian (Panoramiques Duellanti, Italia): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7,5
 
 "BLUE VALENTINE" Derek Cianfrance [Un Certain Regard]
 
-Cristina Nord (Die Tageszeitung, Alemania): 6
+Cristina Nord (Die Tageszeitung, Deutschland): 6
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 5,5
 Diego Batlle (La Nación + Otros Cines, Argentina): 7
@@ -384,7 +384,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 "THE MYHTH OF AMERICAN SLEEPOVER" David Robert Mitchell [Semaine]
 
 Paolo Bertolin (Cineforum, Italia): 7
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 
 "ILLÉGAL" Olivier Masset-Depasse [Quinzaine]
   SACD Prize for best French-language film
@@ -409,7 +409,7 @@ Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Gabe Klinger (The Auteurs Notebook, USA): 8
 Robert Koehler: (Variety, USA): 10
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 8,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 8,5
 Fernando Ganzo (Lumiére, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 9
 Paolo Bertolin (Cineforum, Italia): 8
@@ -434,7 +434,7 @@ Manu Yáñez (Fotogramas, España): 6
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 8,5
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Alejandro G. Calvo (Sensacine.com, España): 6
-Cristina Nord (Die Tageszeitung, Alemania): 6
+Cristina Nord (Die Tageszeitung, Deutschland): 6
 Francisco Ferreira (O Expresso, Portugal): 7,5
 Gabe Klinger (The Auteurs Notebook, USA): 5
 Violeta Kovacsis (Lumiere, España): 6
@@ -444,7 +444,7 @@ Paolo Bertolin (Cineforum, Italia): 7
 
 "FILM SOCIALISME" Jean-Luc Godard [Un Certain Regard]
 
-Cristina Nord (Die Tageszeitung, Alemania): 8
+Cristina Nord (Die Tageszeitung, Deutschland): 8
 Fernando Ganzo (Lumiere, España): 10
 Gabe Klinger (The Auteurs Notebook, USA): 10
 Emmanuel Burdeau (Mediapart, Francia): 9,5
@@ -465,12 +465,12 @@ Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 10
 Diego Lerer (Clarín + Micropsia, Argentina): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 0,3
 Francisco Ferreira (O Expresso, Portugal): 10
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 9,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 9,5
 
 "ALTING BLIVER GODT IGEN" Christoffer Boe [Quinzaine]
 
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 2
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 3
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 3
 Paolo Bertolin (Cineforum, Italia): 6
 
 "HA 'MESHOTET" Avishai Siva [Quinzaine]
@@ -478,9 +478,9 @@ Paolo Bertolin (Cineforum, Italia): 6
 Diego Batlle (La Nación + Otros Cines, Argentina): 5
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 4
 Diego Lerer (Clarín + Micropsia, Argentina): 6
-Cristina Nord (Die Tageszeitung, Alemania): 5
+Cristina Nord (Die Tageszeitung, Deutschland): 5
 Gabe Klinger (The Auteurs Notebook, USA): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 4
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 4
 
 "AÑO BISIESTO" Michael Rowe [Quinzaine]
 
@@ -538,9 +538,9 @@ Diego Batlle (La Nación + Otros Cines, Argentina): 7
 Manu Yáñez (Fotogramas, España): 9
 Luciano Monteagudo (Página/12, Argentina): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 8
-Cristina Nord (Die Tageszeitung, Alemania): 8
+Cristina Nord (Die Tageszeitung, Deutschland): 8
 Mark Peranson (CinemaScope, Canada): 10,3
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 5
 
 "CARANCHO" Pablo Trapero [Un Certain Regard]
 
@@ -557,7 +557,7 @@ Manu Yáñez (Fotogramas, España): 7
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 6,5
 Alejandro G. Calvo (Sensacine.com, España): 8
 Violeta Kovacsis (Lumiere, España): 7
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 5,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 5,5
 Luciano Monteagudo (Página/12, Argentina): 8
 
 "OUTRAGE" Takeshi Kitano [Competition]
@@ -574,13 +574,13 @@ Diego Lerer (Clarín + Micropsia, Argentina): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 5
 Luciano Barisone (Panoramiques, Italia): 3
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
-Cristina Nord (Die Tageszeitung, Alemania): 5
+Cristina Nord (Die Tageszeitung, Deutschland): 5
 Luciano Monteagudo (Página/12, Argentina): 6
 Carlo Chatrian (Panoramiques Duellanti, Italia): 6
 Violeta Kovacsis (Lumiere, España): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 6
 Manu Yáñez (Fotogramas, España): 8
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 6
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 6
 Paolo Bertolin (Cineforum, Italia): 8
 
 "HAI SHANG CHUAN QI (I WISH I KNEW)" Jia Zhang-ke [Un Certain Regard]
@@ -599,7 +599,7 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
 Eugenio Renzi (Independencia, Francia): 8
 Luciano Barisone (Panoramiques, Italia): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
-Cristina Nord (Die Tageszeitung, Alemania): 6
+Cristina Nord (Die Tageszeitung, Deutschland): 6
 Luciano Monteagudo (Página/12, Argentina): 6
 Violeta Kovacsis (Lumiere, España): 9
 Scott Foundas (Filmlinc, USA): 7
@@ -638,12 +638,12 @@ Roger Alan Koza (La Voz del Interior, Argentina): 0
 Carlos F. Heredero (Cahiers du Cinéma España, España): 3
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
 Mark Peranson (CinemaScope, Canada): 0 (-2)
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 
 "COUNTDOWN TO ZERO" Lucy Walker
 
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 1
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 1
 
 "L'AUTRE MONDE" Gilles Marchand
 
@@ -672,7 +672,7 @@ Luciano Barisone (Panoramiques, Italia): 7
 "LA PRINCESSE DE MONTPENSIER (THE PRINCESS OF MONTPENSIER)" Bertrand Tavernier [Competition]
 
 Francisco Ferreira (O Expresso, Portugal): 1
-Cristina Nord ( Die Tageszeitung Alemania): 5
+Cristina Nord (Die Tageszeitung, Deutschland): 5
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Fernando Ganzo (Lumiere, España): 3
 Scott Foundas (Filmlinc, USA): 8
@@ -683,7 +683,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 1
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Luciano Monteagudo (Página/12, Argentina): 5
 Violeta Kovacsis (Lumiere, España): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 
 "SOMOS LO QUE HAY" Jorge Michel Grau [Quinzaine]
 
@@ -692,7 +692,7 @@ Paolo Bertolin (Cineforum, Italia): 8
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 0
 Carlos Reviriego (Cahiers du Cinéma España, España): 0
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 2
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 2
 
 "INSIDE JOB" Charles Fergusson
 
@@ -704,7 +704,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Scott Foundas (Filmlinc, USA): 9
 Manu Yáñez (Fotogramas, España): 6
 Violeta Kovacsis (Lumiere, España): 6
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7,5
 
 "BELLE ÉPINE" Rebecca Zlotowski [Semaine]
 
@@ -712,7 +712,7 @@ Fernando Ganzo (Lumiere, España): 6
 Olivier Père (Director artístico Festival de Locarno, Francia): 7
 Gabe Klinger (The Auteurs Notebook, USA): 6
 Robert Koehler: (Variety, USA): 7
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 8
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 8
 Scott Foundas (Filmlinc, USA): 5
 
 "SANDCASTLE" Boo Junfeng [Semaine]
@@ -763,7 +763,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Robert Koehler: (Variety, USA): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Olivier Père (Director artístico Festival de Locarno, Francia): 5
-Cristina Nord ( Die Tageszeitung Alemania): 6
+Cristina Nord (Die Tageszeitung, Deutschland): 6
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 2
 Alejandro G. Calvo (Sensacine.com, España): 5
 Fernando Ganzo (Lumiere, España): 3
@@ -774,7 +774,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
 Luciano Monteagudo (Página/12, Argentina): 6
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
 Violeta Kovacsis (Lumiere, España): 4
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6,5
 
 "UN HOMME QUI CRIE (A SCREAMING MAN)" Mahamat-Saleh Haroun [Competition]
 
@@ -788,7 +788,7 @@ Diego Lerer (Clarín, Micropsia, Argentina): 6
 Luciano Barisone (Panoramiques, Italia): 7
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 7
 Carlos Reviriego (Cahiers du Cinéma España, España): 7
-Cristina Nord ( Die Tageszeitung Alemania): 6
+Cristina Nord (Die Tageszeitung, Deutschland): 6
 Francisco Ferreira (O Expresso, Portugal): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
@@ -797,7 +797,7 @@ Manu Yáñez (Fotogramas, España): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Luciano Monteagudo (Página/12, Argentina): 7
 Violeta Kovacsis (Lumiere, España): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 4
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 4
 
 "ANOTHER YEAR" Mike Leigh [Competition]
 
@@ -809,7 +809,7 @@ Robert Koehler: (Variety, USA): 1
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 4
 Violeta Kovacsis (Lumiere, España): 4
 Diego Lerer (Clarín, Micropsia, Argentina): 4
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 Roger Alan Koza (La Voz del Interior, Argentina): 2
 Carlos F. Heredero (Cahiers du Cinéma España, España): 6
 Luciano Monteagudo (Página/12, Argentina): 4
@@ -818,7 +818,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2,5
 Luciano Barisone (Panoramiques, Italia): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5,5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 6
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 0
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 0
 
 "YOU WILL MEET A TALL DARK STRANGER" Woody Allen
 
@@ -866,7 +866,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 8
 Robert Koehler: (Variety, USA): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
-Cristina Nord (Die Tageszeitung Alemania): 8
+Cristina Nord (Die Tageszeitung Deutschland): 8
 Violeta Kovacsis (Lumiere, España): 8
 Luciano Barisone (Panoramiques, Italia): 8
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
@@ -879,7 +879,7 @@ Luciano Monteagudo (Página/12, Argentina): 8
 Scott Foundas (Filmlinc, USA): 10
 Carlos Reviriego (Cahiers du Cinéma España, España): 8
 Carlos F. Heredero (Cahiers du Cinéma España, España): 9
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 
 "SVET-AKE" Aktan Arym Kubat [Quinzaine]
 
@@ -928,7 +928,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
 Manu Yáñez (Fotogramas, España): 1
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 2
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 2
 
 "WALL STREET: MONEY NEVER SLEEPS" Oliver Stone
 
@@ -938,7 +938,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Emmanuel Burdeau (Mediapart, Francia): 2,2
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 Violeta Kovacsis (Lumiere, España): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
 Manu Yáñez (Fotogramas, España): 4
@@ -968,11 +968,11 @@ Paolo Bertolin (Cineforum. Italia): 8
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Diego Lerer (Clarín, Micropsia, Argentina): 7
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 4
-Cristina Nord ( Die Tageszeitung Alemania): 7
+Cristina Nord (Die Tageszeitung, Deutschland): 7
 Francisco Ferreira (O Expresso, Portugal): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 7
 Scott Foundas (Filmlinc, USA): 8
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 7
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 
 "NOSTALGIA DE LA LUZ" Patricio Guzmán
 
@@ -983,7 +983,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7,5
 Luciano Monteagudo (Página/12, Argentina): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
-Cristina Nord ( Die Tageszeitung Alemania): 7
+Cristina Nord (Die Tageszeitung, Deutschland): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 7
 
 "THE HOUSEMAID" Im Sang-soo [Competition]
@@ -1002,7 +1002,7 @@ Manu Yáñez (Fotogramas, España): 5
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 3
 Eulalia Iglesias (Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 6
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 Violeta Kovacsis (Lumiere, España): 5
 Paolo Bertolin (Cineforum, Italia): 8
 Francisco Ferreira (O Expresso, Portugal): 5
@@ -1021,7 +1021,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Luciano Monteagudo (Página/12, Argentina): 5
 Eulalia Iglesias (Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 5
 
 "RIZHAO CHONGQING (CHONGQING BLUES)" Wang Xiaoshuai [Competition]
 
@@ -1042,9 +1042,9 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 4
 Manu Yáñez (Fotogramas, España): 2
 Luciano Monteagudo (Página/12, Argentina): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 4
-Cristina Nord ( Die Tageszeitung Alemania): 2
+Cristina Nord (Die Tageszeitung, Deutschland): 2
 Francisco Ferreira (O Expresso, Portugal): 2
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Alemania): 6
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
 
 "TOURNÉE (ON TOUR)" Mathieu Amalric [Competition]
 
@@ -1068,9 +1068,9 @@ Manu Yáñez (Fotogramas, España): 8
 Luciano Monteagudo (Página/12, Argentina): 6
 Gabe Klinger (The Auteurs Notebook, USA): 8
 Olivier Père (Director artístico Festival de Locarno, Francia): 4
-Cristina Nord (Die Tageszeitung, Alemania): 5
+Cristina Nord (Die Tageszeitung, Deutschland): 5
 Francisco Ferreira (O Expresso, Portugal): 7
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 3,5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 3,5
 
 "ROBIN HOOD" Ridley Scott
 
@@ -1092,7 +1092,7 @@ Scott Foundas (Filmlinc, USA): 8 (The film maudit of Cannes already).
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 5
 Manu Yáñez (Fotogramas, España): 3
 Luciano Monteagudo (Página/12, Argentina): 5
-Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Alemania): 5
+Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 5
 
 "."
 --
