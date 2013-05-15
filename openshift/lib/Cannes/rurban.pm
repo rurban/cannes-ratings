@@ -15,7 +15,7 @@ sub _read {
   for my $c (@{$critics}) {
     for (split/\n/,$c) { 
       undef $critic;
-      if (/^(\S.+) \((.+), (.+?)\)/) {
+      if (/^(\S.+) \((.+), (.+)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
 	($critic,$mag,$cn) = ($1,'',$2);
@@ -50,8 +50,8 @@ sub _read {
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
       $title{$title}->{review}->{$critic} = $url if $url;
-      $critic{$critic}->{cn} = $cn ? $cn : '';
-      $critic{$critic}->{mag} = $mag ? $mag : '';
+      $critic{$critic}->{cn} = $cn if $cn;
+      $critic{$critic}->{mag} = $mag if $mag;
       # review only
     } elsif (/[\w\)]:? [-\x{2013} ]*(http.*)/) {
       undef $critic;
@@ -67,8 +67,8 @@ sub _read {
       next unless $critic;
       $title{$title}->{critic}->{$critic} = [];
       $title{$title}->{review}->{$critic} = $url;
-      $critic{$critic}->{cn} = $cn ? $cn : '';
-      $critic{$critic}->{mag} = $mag ? $mag : '';
+      $critic{$critic}->{cn} = $cn if $cn;
+      $critic{$critic}->{mag} = $mag if $mag;
     }
   }
   return ( \%critic, \%title, \@t );
