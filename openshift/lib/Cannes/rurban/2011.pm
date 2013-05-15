@@ -22,7 +22,7 @@ our $DATA= <<'EOF';
 
 "Les Biens-aimes / Beloved" Christophe Honoré
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) – 8
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) – 8
 NANDO SALVA (El Periódico, España) – 1
  Indiewire:
 Simon Abrams (Freelance, USA) 5 B-
@@ -39,7 +39,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) -
-CRISTINA NORD (Die Tageszeitung, Germany) – 3.5
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 3.5
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -
 FRANCISCO FERREIRA (Expresso, Portugal) -
@@ -58,7 +58,7 @@ SERGI SANCHEZ (La Razón, España) -
 SARA BRITO (Público, España) -
 SCOTT FOUNDAS (Film Comment, U.S.) -
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  1
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  1
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) -
 NANDO SALVA (El Periódico, España) –  0
@@ -97,7 +97,7 @@ Eduardo Valente (Revista Cinema, Brazil)
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 
 Derek Malcolm (London Evening, UK) 
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 
 Michel Ciment (Positif, France) 1
@@ -113,7 +113,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 7.5
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7
-CRISTINA NORD (Die Tageszeitung, Germany) -
+CRISTINA NORD (Die Tageszeitung, Deutschland) -
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -
 FRANCISCO FERREIRA (Expresso, Portugal) -
@@ -132,7 +132,7 @@ SERGI SANCHEZ (La Razón, España) -
 SARA BRITO (Público, España) – 6.9
 SCOTT FOUNDAS (Film Comment, U.S.) – 10
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  7.50
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  7.50
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) – 5
 NANDO SALVA (El Periódico, España) – 8
@@ -171,7 +171,7 @@ Eduardo Valente (Revista Cinema, Brazil)
 Nick James (Sight & Sound, UK) 9
 David Stratton (The Australian, Australia) 9
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 7.5
 Dennis Lim (The New York Times, USA) 7.5
 Michel Ciment (Positif, France) 9
@@ -199,7 +199,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  2
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 6
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  5.5
-CRISTINA NORD (Die Tageszeitung, Germany) –  1
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  1
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -
 FRANCISCO FERREIRA (Expresso, Portugal) -
@@ -218,7 +218,7 @@ SERGI SANCHEZ (La Razón, España) - 2
 SARA BRITO (Público, España) - 0
 SCOTT FOUNDAS (Film Comment, U.S.) - 2
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  0
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  0
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) - 5
 NANDO SALVA (El Periódico, España) - 0
@@ -257,7 +257,7 @@ Eduardo Valente (Revista Cinema, Brazil) 1.25
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 9
 Derek Malcolm (London Evening, UK) 2.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 
 Michel Ciment (Positif, France) 7.5
@@ -276,18 +276,18 @@ Eric Kohn (indieWIRE) 1.5 D+
 Peter Bradshaw (Guardian, UK) 6
 
 "The Look" Angelina Maccarone [Cannes Classics]
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 7
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 7
 
 "Corman's World" Alex Stapleton
 MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  6
 Simon Reynolds (DigiatSpy, USA) 8
 
 "Blue Bird" Gust Van den Berghe [Quinzaine]
-CRISTINA NORD (Die Tageszeitung, Germany) – 6.8
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 2
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.8
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 2
 
 "Sauna on Moon" Zou Pen [Semaine]
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 5.8
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 5.8
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  5
 ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 6.5
 PAOLO BERTOLIN (Cineforum, Italia) - 5
@@ -298,7 +298,7 @@ JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  2
 
 "Avé" Konstantin Bojano [Semaine]
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.50
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 7.00
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 7.00
 
 "El velador / The Night Watchman" Natalia Almada (6,00) 2 votos [Quinzaine]
 ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
@@ -306,7 +306,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
 
 "My Little Princess" Eva Ionescu [Semaine]
 SERGIO WOLF (BAFICI, Argentina) – 1
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 3.9
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 3.9
 
 "Snowtown" Justin Kurzel [Semaine] (Adelaide) Special Mention
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
@@ -321,7 +321,7 @@ MARCELO ALDERETE  (Mar del Plata Film Festival, Argentina) –  0
 LUCIANO MONTEAGUDO (Página12, Argentina) –  6
 
 "La Conquête (The Conquest)" Xavier Durringer
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  7
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  7
 SERGI SANCHEZ (La Razón, España) – 5.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6
 NANDO SALVA (El Periódico, España) – 3
@@ -341,7 +341,7 @@ DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 4
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) - 3
 FERNANDO JUAN LIMA (El Amante, Argentina) - 2
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  4
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  4
 FERNANDO GANZO (Lumiere, España) – 3
 
 “Return” Liza Johnson [Quinzaine]
@@ -365,7 +365,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 7
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 9
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7.5
-CRISTINA NORD (Die Tageszeitung, Germany) – 7.5
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 7.5
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) – 8
 FRANCISCO FERREIRA (Expresso, Portugal) -
@@ -384,7 +384,7 @@ SERGI SANCHEZ (La Razón, España) - 7
 SARA BRITO (Público, España) -
 SCOTT FOUNDAS (Film Comment, U.S.) -
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) - 8
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 8
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) – 6
 NANDO SALVA (El Periódico, España) -
@@ -422,7 +422,7 @@ Eduardo Valente (Revista Cinema, Brazil) 5
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 5
 Derek Malcolm (London Evening, UK) 2.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 1
 Dennis Lim (The New York Times, USA) 7.5
 Michel Ciment (Positif, France) 7.5
@@ -452,7 +452,7 @@ DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7.5
 VIOLETA KOVACSICS (Diari de Tarragona, España) –  9.3
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 7
 FERNANDO JUAN LIMA (El Amante, Argentina) –  9
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  9.50
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  9.50
 PAMELA BIENZOBAS (Mabuse, Chile) –  6.3
 MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) – 8
 ALEJANDRO G. CALVO (SensaCine, España) –  8
@@ -460,7 +460,7 @@ ALEJANDRO G. CALVO (SensaCine, España) –  8
 "La Nuit, elles dansent" Isabelle Lavigne et Stéphane Thibault (6.00) 4 votos [Quinzaine]
 FERNANDO GANZO (Lumiere, España) –  4
 LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  6
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  6
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  6
 ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) –  8
 
 "Chatrak" Vimukthi Jayasundara (5.92) 6 votos [Quinzaine]
@@ -474,12 +474,12 @@ MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  5
 "L'Exercise de L'Etat / The Minister" Pierre Schoeller (6.05) 10 votos [Un Certain Regard]
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 4.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6.5
-CRISTINA NORD (Die Tageszeitung, Germany) – 6.9
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.9
 KONG RITHDEE (The Bangkok Post. Thailand) – 5.5
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) – 6
 FERNANDO JUAN LIMA (El Amante, Argentina) –  4
 SCOTT FOUNDAS (Film Comment, U.S.) –  6
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  7.1
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  7.1
 CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  6
 
 "Koi no Tsumi / Guilty of Romance" Sion Sono (8.44) 5 votos [Quinzaine]
@@ -497,7 +497,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  8.
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 7.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7.5
-CRISTINA NORD (Die Tageszeitung, Germany) -
+CRISTINA NORD (Die Tageszeitung, Deutschland) -
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -
 FRANCISCO FERREIRA (Expresso, Portugal) -  8.50
@@ -516,7 +516,7 @@ SERGI SANCHEZ (La Razón, España) -
 SARA BRITO (Público, España) -
 SCOTT FOUNDAS (Film Comment, U.S.) -  7
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) -
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) -
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -  8.5
 PABLO O. SCHOLZ (Clarín, Argentina) –  7
 NANDO SALVA (El Periódico, España) -
@@ -542,7 +542,7 @@ LUCIANO MONTEAGUDO (Página12, Argentina) –  9
 ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 8.5
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 6
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  10
-CRISTINA NORD (Die Tageszeitung, Germany) –  8
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  8
 KONG RITHDEE (The Bangkok Post, Thailand) – 8
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
@@ -560,7 +560,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  4
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 8
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7
-CRISTINA NORD (Die Tageszeitung, Germany) –  6.9
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  6.9
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) –  6
 FRANCISCO FERREIRA (Expresso, Portugal) – 7
@@ -579,7 +579,7 @@ SERGI SANCHEZ (La Razón, España) -  8.5
 SARA BRITO (Público, España) - 5.9
 SCOTT FOUNDAS (Film Comment, U.S.) -  3
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) - 7.9
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 7.9
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -  8.99
 PABLO O. SCHOLZ (Clarín, Argentina) –  7
 NANDO SALVA (El Periódico, España) - 7
@@ -617,7 +617,7 @@ Eduardo Valente (Revista Cinema, Brazil)
 Nick James (Sight & Sound, UK) 9
 David Stratton (The Australian, Australia) 7.5
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 7.5
 Dennis Lim (The New York Times, USA) 2.5
 Michel Ciment (Positif, France) 7.5
@@ -647,7 +647,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  4.
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  7.50
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  5.50
-CRISTINA NORD (Die Tageszeitung, Germany) –  4
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  4
 MARKUS KEUSCHNIGG (Die Presse, Austria) - 
 KONG RITHDEE (The Bangkok Post. Thailand) -  4
 FRANCISCO FERREIRA (Expresso, Portugal) -  4
@@ -666,7 +666,7 @@ SERGI SANCHEZ (La Razón, España) -  5
 SARA BRITO (Público, España) - 6
 SCOTT FOUNDAS (Film Comment, U.S.) -  8
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) - 7.9
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 7.9
 ALVARO ARROBA (La Lectora Provisoria, Argentina) –  6.5
 PABLO O. SCHOLZ (Clarín, Argentina) –  6
 NANDO SALVA (El Periódico, España) - 4
@@ -706,7 +706,7 @@ Eduardo Valente (Revista Cinema, Brazil) 2.5
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 1
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 5
 Michel Ciment (Positif, France) 9
@@ -740,7 +740,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Germany) –  7
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  7
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -
 FRANCISCO FERREIRA (Expresso, Portugal) -  2
@@ -759,7 +759,7 @@ SERGI SANCHEZ (La Razón, España) -  6.5
 SARA BRITO (Público, España) - 6.5
 SCOTT FOUNDAS (Film Comment, U.S.) – 9
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  4.5
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  4.5
 ALVARO ARROBA (La Lectora Provisoria, Argentina) –  5.5
 PABLO O. SCHOLZ (Clarín, Argentina) –  4
 NANDO SALVA (El Periódico, España) - 3
@@ -798,7 +798,7 @@ Eduardo Valente (Revista Cinema, Brazil) 6.75
 Nick James (Sight & Sound, UK) 2.5
 David Stratton (The Australian, Australia) 5
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 5
 Michel Ciment (Positif, France) 5
@@ -847,7 +847,7 @@ Chase Whale (Gordon and the Whale) 3 C
 CARLOS HEREDERO (Cahiers du cinéma, España) –  3
 LUCIANO MONTEAGUDO (Página12, Argentina) –  5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6.5
-CRISTINA NORD (Die Tageszeitung, Germany) –  5
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  5
 LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  5
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -  4
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
@@ -872,7 +872,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Germany) -
+CRISTINA NORD (Die Tageszeitung, Deutschland) -
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -
 FRANCISCO FERREIRA (Expresso, Portugal) -  6.5
@@ -891,7 +891,7 @@ SERGI SANCHEZ (La Razón, España) -
 SARA BRITO (Público, España) -
 SCOTT FOUNDAS (Film Comment, U.S.) -
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) – 7.3
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) – 7.3
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) -
 NANDO SALVA (El Periódico, España) -
@@ -917,7 +917,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 6
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  7.50
-CRISTINA NORD (Die Tageszeitung, Germany) -
+CRISTINA NORD (Die Tageszeitung, Deutschland) -
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) - 6
 FRANCISCO FERREIRA (Expresso, Portugal) -
@@ -936,7 +936,7 @@ SERGI SANCHEZ (La Razón, España) - 5
 SARA BRITO (Público, España) - 5
 SCOTT FOUNDAS (Film Comment, U.S.) -
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) - 4
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 4
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) - 6
 NANDO SALVA (El Periódico, España) - 4
@@ -974,7 +974,7 @@ Eduardo Valente (Revista Cinema, Brazil) 5
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 2.5
 Derek Malcolm (London Evening, UK) 2.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 9
 Dennis Lim (The New York Times, USA) 2.5
 Michel Ciment (Positif, France) 1
@@ -1021,7 +1021,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 7.5
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  7
-CRISTINA NORD (Die Tageszeitung, Germany) -
+CRISTINA NORD (Die Tageszeitung, Deutschland) -
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -  6.5
 FRANCISCO FERREIRA (Expresso, Portugal) - 2
@@ -1040,7 +1040,7 @@ SERGI SANCHEZ (La Razón, España) - 5
 SARA BRITO (Público, España) -
 SCOTT FOUNDAS (Film Comment, U.S.) –  8
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) -
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) -
 ALVARO ARROBA (La Lectora Provisoria, Argentina) –  6
 PABLO O. SCHOLZ (Clarín, Argentina) - 5
 NANDO SALVA (El Periódico, España) -
@@ -1078,7 +1078,7 @@ Eduardo Valente (Revista Cinema, Brazil) 3.75
 Nick James (Sight & Sound, UK) 2.5
 David Stratton (The Australian, Australia) 
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 7.5
 Dennis Lim (The New York Times, USA) 5
 Michel Ciment (Positif, France) 7.5
@@ -1092,9 +1092,9 @@ David Calhoun (Time Out London, UK) 4
 
 "Play" Ruben Östlun (6.04) 5 votos [Quinzaine] Séance "Coup de coeur" prize 
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Germany) – 6.9
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.9
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  7.3
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  7.3
 MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  2
 Mike d'Angelo (AV Club, USA) 5.9
 
@@ -1103,7 +1103,7 @@ FERNANDO GANZO (Lumiere, España) –  3.1416
 CARLOS HEREDERO (Cahiers du cinéma, España) -  5
 LUCIANO MONTEAGUDO (Página12, Argentina) –  5
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  5
-CRISTINA NORD (Die Tageszeitung, Germany) –  5
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  5
 KONG RITHDEE (The Bangkok Post. Thailand) –  6
 FRANCISCO FERREIRA (Expresso, Portugal) -  3
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 6.5
@@ -1120,7 +1120,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 9
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 10
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) -10
-CRISTINA NORD (Die Tageszeitung, Germany) –  8
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  8
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -  7.5
 FRANCISCO FERREIRA (Expresso, Portugal) -  7
@@ -1139,7 +1139,7 @@ SERGI SANCHEZ (La Razón, España) - 9
 SARA BRITO (Público, España) – 8.8
 SCOTT FOUNDAS (Film Comment, U.S.) -
 SERGIO WOLF (BAFICI, Argentina) - 8
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) -
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) -
 ALVARO ARROBA (La Lectora Provisoria, Argentina) - 7.9
 PABLO O. SCHOLZ (Clarín, Argentina) –  7
 NANDO SALVA (El Periódico, España) – 8
@@ -1182,7 +1182,7 @@ David Gritten (Telegraph, UK) 8
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 7.5
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 9
 Dennis Lim (The New York Times, USA) 7.5
 Michel Ciment (Positif, France) 7.5
@@ -1220,7 +1220,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  8
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  8
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  8
-CRISTINA NORD (Die Tageszeitung, Germany) –  4.9
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  4.9
 KONG RITHDEE (The Bangkok Post. Thailand) –  7
 FRANCISCO FERREIRA (Expresso, Portugal) -  4
 VIOLETA KOVACSICS (Diari de Tarragona, España) –  6
@@ -1233,7 +1233,7 @@ FERNANDO JUAN LIMA (El Amante, Argentina) –  8
 SARA BRITO (Público, España) –  7.5
 SCOTT FOUNDAS (Film Comment, U.S.) –  8
 SERGIO WOLF (BAFICI, Argentina) –  8
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  6.5
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  6.5
 ALVARO ARROBA (La Lectora Provisoria, Argentina) –  2
 PABLO O. SCHOLZ (Clarín, Argentina) – 6
 MANU YAÑEZ (Fotogramas, España) -  7
@@ -1256,7 +1256,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 1
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Germany) –  6
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  6
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) –  7.5
 FRANCISCO FERREIRA (Expresso, Portugal) - 5.01
@@ -1275,7 +1275,7 @@ SERGI SANCHEZ (La Razón, España) -  7
 SARA BRITO (Público, España) – 6.9
 SCOTT FOUNDAS (Film Comment, U.S.) –  10
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 9.2
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 9.2
 ALVARO ARROBA (La Lectora Provisoria, Argentina) - 4.3
 PABLO O. SCHOLZ (Clarín, Argentina) -  8
 NANDO SALVA (El Periódico, España) - 6
@@ -1323,7 +1323,7 @@ Raffi Asdourian (The Film Stage, USA) 5 B-
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 5
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 9
 Michel Ciment (Positif, France) 9
@@ -1349,7 +1349,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
 MARK PERANSON (Cinema Scope, Canada) -
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  8
-CRISTINA NORD (Die Tageszeitung, Germany) -
+CRISTINA NORD (Die Tageszeitung, Deutschland) -
 MARKUS KEUSCHNIGG (Die Presse, Austria) -
 KONG RITHDEE (The Bangkok Post. Thailand) -  6.5
 FRANCISCO FERREIRA (Expresso, Portugal) - 9
@@ -1368,7 +1368,7 @@ SERGI SANCHEZ (La Razón, España) - 4
 SARA BRITO (Público, España) - 6
 SCOTT FOUNDAS (Film Comment, USA) - 5
 SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) -
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) -
 ALVARO ARROBA (La Lectora Provisoria, Argentina) -
 PABLO O. SCHOLZ (Clarín, Argentina) - 0
 NANDO SALVA (El Periódico, España) - 4
@@ -1390,7 +1390,7 @@ Mike d'Angelo (AV Club, USA) 6.9
 Nick James (Sight & Sound, UK) 1
 David Stratton (The Australian, Australia) 2.5
 Derek Malcolm (London Evening, UK) 2.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 1
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 1
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 2.5
 Dennis Lim (The New York Times, USA) 7.5
 Michel Ciment (Positif, France) 2.5
@@ -1436,7 +1436,7 @@ Chase Whale (Gordon and the Whale, USA) 10 Sundance
 Blake (Bitchin Film Reviews, USA) 8.5 Sundance
 CARLOS HEREDERO (Cahiers du cinéma, España) -  7
 ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
-CRISTINA NORD (Die Tageszeitung, Germany) –  6.50
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  6.50
 VIOLETA KOVACSICS (Diari de Tarragona, España) -  6
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  8
 OLIVIER PERE (Les Inrockuptibles, France) –  8
@@ -1451,7 +1451,7 @@ Paul Martin (Indies Movies Online, USA) 6
 FERNANDO GANZO (Lumiere, España) –  8
 CARLOS HEREDERO (Cahiers du cinéma, España) -  8.5
 LUCIANO MONTEAGUDO (Página12, Argentina) –  9
-CRISTINA NORD (Die Tageszeitung, Germany) –  6.3
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  6.3
 KONG RITHDEE (The Bangkok Post. Thailand) -  6
 FRANCISCO FERREIRA (Expresso, Portugal) – 10
 VIOLETA KOVACSICS (Diari de Tarragona, España) -  7
@@ -1512,7 +1512,7 @@ Kim Voynar (Movie City News, USA) 9 A
 
 "Walk Away Renée" Jonathan Caouette (5.08) 6 votos [Semaine]
 FERNANDO GANZO (Lumiere, España) –  4
-CRISTINA NORD (Die Tageszeitung, Germany) –  6
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  6
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.5
 SERGIO WOLF (BAFICI, Argentina) -  3
 PAMELA BIENZOBAS (Mabuse, Chile) –  6
@@ -1523,11 +1523,11 @@ Eric Kohn (Indiewire, USA) 6.25 B
 CARLOS HEREDERO (Cahiers du cinéma, España) -  7
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 6.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  5
-CRISTINA NORD (Die Tageszeitung, Germany) – 6.5
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.5
 KONG RITHDEE (The Bangkok Post. Thailand) -  6
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -  7
 FERNANDO JUAN LIMA (El Amante, Argentina) -  4
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  2.7
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  2.7
 PABLO O. SCHOLZ (Clarín, Argentina) –  6
 Sukhdev Sandhu (Telegraph, UK) 8
 
@@ -1541,7 +1541,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  6.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 6
-CRISTINA NORD (Die Tageszeitung, Germany)
+CRISTINA NORD (Die Tageszeitung, Deutschland)
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 5
 FRANCISCO FERREIRA (Expresso, Portugal) 2
@@ -1560,7 +1560,7 @@ SERGI SANCHEZ (La Razón, España) –  8
 SARA BRITO (Público, España) 4.5
 SCOTT FOUNDAS (Film Comment, USA)
 SERGIO WOLF (BAFICI, Argentina) 5
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany)
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland)
 ALVARO ARROBA (La Lectora Provisoria, Argentina)
 PABLO O. SCHOLZ (Clarín, Argentina) 6
 NANDO SALVA (El Periódico, España) 6
@@ -1585,7 +1585,7 @@ Raffi Asdourian (The Film Stage, USA) 8 A-
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 9
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 9
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 9
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 2.5
 Michel Ciment (Positif, France) 5
@@ -1627,7 +1627,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 8
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  8
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 8
-CRISTINA NORD (Die Tageszeitung, Germany) – 6.8
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.8
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) –  7
 FRANCISCO FERREIRA (Expresso, Portugal) 7
@@ -1646,7 +1646,7 @@ SERGI SANCHEZ (La Razón, España) –  9
 SARA BRITO (Público, España) 9
 SCOTT FOUNDAS (Film Comment, USA) –  10
 SERGIO WOLF (BAFICI, Argentina) 8
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 8.1
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 8.1
 ALVARO ARROBA (La Lectora Provisoria, Argentina) –  7
 PABLO O. SCHOLZ (Clarín, Argentina) 7
 NANDO SALVA (El Periódico, España) –  8
@@ -1669,7 +1669,7 @@ Kevin Jagernauth (Indiewire's The Playlist, USA) 7.5 B+
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 7.5
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 9
 Dennis Lim (The New York Times, USA) 7.5
 Michel Ciment (Positif, France) 7.5
@@ -1723,7 +1723,7 @@ DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  7
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4
 LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) -  7.3
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) -  7.3
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
 “La Fin du silence” Roland Edzar (3.75) 4 votos [Quinzaine]
@@ -1741,7 +1741,7 @@ JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  3.5
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.5
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  7
 FERNANDO JUAN LIMA (El Amante, Argentina) –  4
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  5
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  5
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 
 “Wu Xia” Peter Ho Sun-Chan (5.78) 9 votos
@@ -1751,7 +1751,7 @@ JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  7
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
 FERNANDO JUAN LIMA (El Amante, Argentina) –  7
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) –  7
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  7
 MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  4
 ALEJANDRO G. CALVO (SensaCine, España) –  7
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
@@ -1769,7 +1769,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  6
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6
-CRISTINA NORD (Die Tageszeitung, Germany) –  5.8
+CRISTINA NORD (Die Tageszeitung, Deutschland) –  5.8
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) –  6.5
 FRANCISCO FERREIRA (Expresso, Portugal) 0
@@ -1788,7 +1788,7 @@ SERGI SANCHEZ (La Razón, España) –  4
 SARA BRITO (Público, España) 6.8
 SCOTT FOUNDAS (Film Comment, USA) –  9
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 7.8
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7.8
 ALVARO ARROBA (La Lectora Provisoria, Argentina) –  0
 PABLO O. SCHOLZ (Clarín, Argentina)  -  8
 NANDO SALVA (El Periódico, España) –  2
@@ -1810,7 +1810,7 @@ ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 5
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 2.5
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 5
 Dennis Lim (The New York Times, USA) 7.5
 Michel Ciment (Positif, France) 2.5
@@ -1846,7 +1846,7 @@ CARLOS HEREDERO (Cahiers du cinéma, España) 8
 LUCIANO MONTEAGUDO (Página12, Argentina) 7
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 6.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
-CRISTINA NORD (Die Tageszeitung, Germany) 7
+CRISTINA NORD (Die Tageszeitung, Deutschland) 7
 KONG RITHDEE (The Bangkok Post. Thailand) –  7
 VIOLETA KOVACSICS (Diari de Tarragona, España) -  7
 JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
@@ -1866,7 +1866,7 @@ DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 4
 SERGI SANCHEZ (La Razón, España) 3
 SARA BRITO (Público, España) 4
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 6.9
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 6.9
 ALEJANDRO G. CALVO (SensaCine, España) 1
 David Calhoun (Time Out London, UK) 2
 Matt Holmes (Obsessedwithfilm.com, USA) 2
@@ -1892,7 +1892,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 6
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España)
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 5.5
-CRISTINA NORD (Die Tageszeitung, Germany) 6.5
+CRISTINA NORD (Die Tageszeitung, Deutschland) 6.5
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 6
 FRANCISCO FERREIRA (Expresso, Portugal) 0
@@ -1911,7 +1911,7 @@ SERGI SANCHEZ (La Razón, España) 6.5
 SARA BRITO (Público, España)
 SCOTT FOUNDAS (Film Comment, USA) 7
 SERGIO WOLF (BAFICI, Argentina) 3
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 7.5
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7.5
 ALVARO ARROBA (La Lectora Provisoria, Argentina) 7
 PABLO O. SCHOLZ (Clarín, Argentina) 5
 NANDO SALVA (El Periódico, España) 6.5
@@ -1934,7 +1934,7 @@ Eric Kohn (Indiewire, USA) 7.5 B+
 Nick James (Sight & Sound, UK) 2.5
 David Stratton (The Australian, Australia) 7.5
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 2.5
 Dennis Lim (The New York Times, USA) 2.5
 Michel Ciment (Positif, France) 2.5
@@ -1969,7 +1969,7 @@ Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 “The Slut” Hagar Ben Asher (5.17) 3 votos [Semaine]
 OLIVIER PERE (Locarno Film Festival, Switzerland) 2
 FERNANDO JUAN LIMA (El Amante, Argentina) 6.50
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 7
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7
 Michael Giltz (The Huffington Post, USA) 5 2/4
 
 “Arirang” Kim Ki-duk (3.89) 14 votos [Un Certain Regard] Main Price UCR
@@ -1982,7 +1982,7 @@ VIOLETA KOVACSICS (Diari de Tarragona, España) 1
 JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 6
 FERNANDO JUAN LIMA (El Amante, Argentina) 4
 NICK JAMES (Sight & Sound, England) – 3
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 6.5
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 6.5
 PABLO O. SCHOLZ (Clarín, Argentina) 4
 PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 5
 PAMELA BIENZOBAS (Mabuse, Chile) 3
@@ -2005,7 +2005,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España)
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-CRISTINA NORD (Die Tageszeitung, Germany) – 2
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 2
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post, Thailand) – 7
 FRANCISCO FERREIRA (Expresso, Portugal)
@@ -2024,7 +2024,7 @@ SERGI SANCHEZ (La Razón, España)
 SARA BRITO (Público, España)
 SCOTT FOUNDAS (Film Comment, USA) – 6
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) 7.5
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7.5
 ALVARO ARROBA (La Lectora Provisoria, Argentina) – 5.5
 PABLO O. SCHOLZ (Clarín, Argentina) – 7
 NANDO SALVA (El Periódico, España)
@@ -2071,7 +2071,7 @@ KONG RITHDEE (The Bangkok Post. Thailand) 7
 LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 7
 CARLO CHATRIAN (Duellanti / Panoramiches, Italy) 7
 FERNANDO JUAN LIMA (El Amante, Argentina) –  8
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) –  7
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  7
 PAMELA BIENZOBAS (Mabuse, Chile) –  6.7
 	  Indiewire:
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4 (2 C-)
@@ -2103,7 +2103,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 7.5
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 8
-CRISTINA NORD (Die Tageszeitung, Germany) – 7.2
+CRISTINA NORD (Die Tageszeitung, Deutschland) – 7.2
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) – 6.5
 FRANCISCO FERREIRA (Expresso, Portugal)
@@ -2122,7 +2122,7 @@ SERGI SANCHEZ (La Razón, España) – 7
 SARA BRITO (Público, España) – 5.9
 SCOTT FOUNDAS (Film Comment, USA) – 7
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ / Negativ, Germany) – 1
+RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 1
 ALVARO ARROBA (La Lectora Provisoria, Argentina) – 9
 PABLO O. SCHOLZ (Clarín, Argentina) – 6
 NANDO SALVA (El Periódico, España) – 7
@@ -2148,7 +2148,7 @@ Eric Kohn (Indiewire, USA) 4 C+
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 7.5
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 7.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 7.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 2.5
 Dennis Lim (The New York Times, USA) 5
 Michel Ciment (Positif, France) 5
@@ -2182,7 +2182,7 @@ Peter Howell (The Toronto Star, USA) 5 B-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 5 B-
 
 “La fée” Dominique Abel, Fiona Gordon and Bruno Romy (6.60) 2 votos [Quinzaine]
-CRISTINA NORD (Die Tageszeitung, Germany) 7
+CRISTINA NORD (Die Tageszeitung, Deutschland) 7
 ARTHUR MAS & MARTIAL PISANI (Independencia, France) 6.2
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) Cloying too-cute cartoony comedy; from France/Belgium; I think it gave everyone in the Quinzane theater diabetes.
 Blake Williams (Ioncinema.com, Canada) 5
@@ -2219,7 +2219,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 6
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España)
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 6
-CRISTINA NORD (Die Tageszeitung, Germany)
+CRISTINA NORD (Die Tageszeitung, Deutschland)
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 6.5
 FRANCISCO FERREIRA (Expresso, Portugal)
@@ -2238,7 +2238,7 @@ SERGI SANCHEZ (La Razón, España)
 SARA BRITO (Público, España)
 SCOTT FOUNDAS (Film Comment, USA)
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (Germany)
+RUDIGER SUCHSLAND (Deutschland)
 ALVARO ARROBA (La Lectora Provisoria, Argentina)
 PABLO O. SCHOLZ (Clarín, Argentina)
 NANDO SALVA (El Periódico, España)
@@ -2266,7 +2266,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 3
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 4
-CRISTINA NORD (Die Tageszeitung, Germany) 3
+CRISTINA NORD (Die Tageszeitung, Deutschland) 3
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 5
 FRANCISCO FERREIRA (Expresso, Portugal) 0
@@ -2285,7 +2285,7 @@ SERGI SANCHEZ (La Razón, España) 0
 SARA BRITO (Público, España) 1
 SCOTT FOUNDAS (Film Comment, USA) 0
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ, Negativ, Germany) 1
+RUDIGER SUCHSLAND (WAZ, Negativ, Deutschland) 1
 ALVARO ARROBA (La Lectora Provisoria, Argentina) 0
 PABLO O. SCHOLZ (Clarín, Argentina) 4
 NANDO SALVA (El Periódico, España) 0
@@ -2307,7 +2307,7 @@ ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 5
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 7.5
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 2.5
 Dennis Lim (The New York Times, USA) 1
 Michel Ciment (Positif, France) 5
@@ -2350,7 +2350,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 7.5
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 6
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
-CRISTINA NORD (Die Tageszeitung, Germany) 6.8
+CRISTINA NORD (Die Tageszeitung, Deutschland) 6.8
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 6
 FRANCISCO FERREIRA (Expresso, Portugal) 6.69
@@ -2369,7 +2369,7 @@ SERGI SANCHEZ (La Razón, España) 6
 SARA BRITO (Público, España) 6.8
 SCOTT FOUNDAS (Film Comment, USA)
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) 7.5
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) 7.5
 ALVARO ARROBA (La Lectora Provisoria, Argentina) 8.5
 PABLO O. SCHOLZ (Clarín, Argentina) 7
 NANDO SALVA (El Periódico, España)
@@ -2409,7 +2409,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 4
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 5.5
-CRISTINA NORD (Die Tageszeitung, Germany) 6
+CRISTINA NORD (Die Tageszeitung, Deutschland) 6
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 6
 FRANCISCO FERREIRA (Expresso, Portugal) 0
@@ -2428,7 +2428,7 @@ SERGI SANCHEZ (La Razón, España) 7
 SARA BRITO (Público, España) 5.5
 SCOTT FOUNDAS (Film Comment, USA) 8
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (FAZ / Negativ, Germany) 4
+RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) 4
 ALVARO ARROBA (La Lectora Provisoria, Argentina) 2
 PABLO O. SCHOLZ (Clarín, Argentina) 6
 NANDO SALVA (El Periódico, España) 5
@@ -2485,7 +2485,7 @@ Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 7.5 B+
 Nick James (Sight & Sound, UK) 7.5
 David Stratton (The Australian, Australia) 5
 Derek Malcolm (London Evening, UK) 7.5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 2.5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 2.5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 7.5
 Dennis Lim (The New York Times, USA) 5
 Michel Ciment (Positif, France) 7.5
@@ -2501,7 +2501,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 4
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 5
-CRISTINA NORD (Die Tageszeitung, Germany) 1
+CRISTINA NORD (Die Tageszeitung, Deutschland) 1
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 6
 FRANCISCO FERREIRA (Expresso, Portugal) 0
@@ -2520,7 +2520,7 @@ SERGI SANCHEZ (La Razón, España) 4
 SARA BRITO (Público, España)
 SCOTT FOUNDAS (Film Comment, USA) 4
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (Germany) 7
+RUDIGER SUCHSLAND (Deutschland) 7
 ALVARO ARROBA (La Lectora Provisoria, Argentina) 2
 PABLO O. SCHOLZ (Clarín, Argentina) 4
 NANDO SALVA (El Periódico, España) 2
@@ -2542,7 +2542,7 @@ ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 4
 Nick James (Sight & Sound, UK) 5
 David Stratton (The Australian, Australia) 5
 Derek Malcolm (London Evening, UK) 5
-Jan Schulz-Ojala (Der Tagesspiegel, Germany) 5
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 5
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 2.5
 Dennis Lim (The New York Times, USA) 5
 Michel Ciment (Positif, France) 2.5
@@ -2594,7 +2594,7 @@ ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 6.5
 MARK PERANSON (Cinema Scope, Canada)
 EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 7
 DIEGO BATLLE (La Nación / OtrosCines, Argentina) 6.5
-CRISTINA NORD (Die Tageszeitung, Germany) 6
+CRISTINA NORD (Die Tageszeitung, Deutschland) 6
 MARKUS KEUSCHNIGG (Die Presse, Austria)
 KONG RITHDEE (The Bangkok Post. Thailand) 5
 FRANCISCO FERREIRA (Expresso, Portugal) 2
@@ -2613,7 +2613,7 @@ SERGI SANCHEZ (La Razón, España) 7
 SARA BRITO (Público, España) 6.5
 SCOTT FOUNDAS (Film Comment, USA) 10
 SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (Germany) 6.5
+RUDIGER SUCHSLAND (Deutschland) 6.5
 ALVARO ARROBA (La Lectora Provisoria, Argentina) 3
 PABLO O. SCHOLZ (Clarín, Argentina) 7
 NANDO SALVA (El Periódico, España) 6.5
@@ -2702,7 +2702,7 @@ Camille Brunel (Independencia, France)
 Carlo Chatrian (Duellanti, Panoramiches, Italy) 
 Carlos Heredero (Caimán CDC, España) 
 Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
-Cristina Nord (Die Tageszeitung, Germany) 
+Cristina Nord (Die Tageszeitung, Deutschland) 
 Dana Linssen (De Filmkrant, Netherlands) 
 Diego Batlle (La Nación, OtrosCines, Argentina) 
 Diego Lerer (Clarín, Micropsia, Argentina) 
@@ -2733,7 +2733,7 @@ Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil)
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Rüdiger Suchsland (FAZ, Negativ-film, Germany) 
+Rüdiger Suchsland (FAZ, Negativ-film, Deutschland) 
 Sergio Wolf (BAFICI, Argentina) 
 Scott Foundas (Film Comment, USA) 
 Thomas Fioretti (Independencia, France) 
@@ -2783,7 +2783,7 @@ $critics[3] = "
 Nick James (Sight & Sound, UK)
 David Stratton (The Australian, Australia)
 Derek Malcolm (London Evening, UK)
-Jan Schulz-Ojala (Der Tagesspiegel, Germany)
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland)
 Jose Carlos Avellar (Escrevercinema.com, Brazil)
 Dennis Lim (The New York Times, USA)
 Michel Ciment (Positif, France)
@@ -2815,7 +2815,7 @@ Elisabeth Quin (Paris Premiere, France)
 Emanuel Levy (EmanuelLevy.com, USA)
 Eric D. Snider (Film.com, USA)
 Eugene Hernandez (Film Society of Lincoln Center, USA) 
-Frédéric Jaeger (critic.de, Germany)
+Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr. (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
 Jon Frosch (France 24, France)
@@ -2834,7 +2834,7 @@ Michael Ghennam (Les Fiches du Cinéma, France)
 Michael Giltz (The Huffington Post, USA) 
 Michal Oleszczyk (Hammer to Nail, USA)
 Nev Pierce (Empire, USA)
-Patrick Heidmann (Cineman, Germany)
+Patrick Heidmann (Cineman, Deutschland)
 Paul Martin (Indies Movies Online, USA) 
 Pete Hammond (Boxoffice Magazine, USA) 
 Peter Bradshaw (Guardian, UK) 
