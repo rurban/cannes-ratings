@@ -79,8 +79,9 @@ sub _detail {
   my $h = shift;
   my $critic = shift;
   my $out = '';
-  for (sort {(defined $h->{critic}->{$b}->[0] and defined  $h->{critic}->{$a}->[0]) ?
-               $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0] : 0}
+  for (sort {!defined $h->{critic}->{$b}->[0] ? -1
+	       : !defined $h->{critic}->{$a}->[0] ? 1
+	       : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]}
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
@@ -221,28 +222,33 @@ sub _dump {
 	}
       }
     }
-    if (1 or $num) {
+    if ($num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
       $out .= $num
 	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
 	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
-      for (sort {$section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]}
-	   keys %{$section{$section}}) 
+      for (sort 
+	   {
+	     !$section{$section}->{$b}->[1] ? -1
+	       : !$section{$section}->{$a}->[1] ? 1
+	       : $section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]
+	   }
+	   keys %{$section{$section}})
       { 
 	my $s=$section{$section}->{$_}->[2];
 	$s=0 unless $s;
 	my $l=$title{$_}->{line};
 	$l=$s>=2.0?"<i>$l</i>":$l;
         $l="<small>$l</small>" if $title{$_}->{num} < 10;
-        if ($six and $section{$section}->{$_}->[0] < 6){
+        if ($six and $section{$section}->{$_}->[0] < 6) {
           $six=0;
 	  $out .= "<tr><td colspan=3>";
 	  $out .= "-"x25;
 	  $out .= "</td></tr>\n";
 	}
-        $out .= $section{$section}->{$_}->[1] 
+        $out .= $section{$section}->{$_}->[1]
 	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> <td>[<a name=\"$i\" href=\"?t=$i#$i\">%0.2f/%d&nbsp;%0.1f</a>]</td></tr>\n", 
 		    $j++, $l, @{$section{$section}->{$_}}) 
 	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n");
@@ -257,7 +263,13 @@ sub _dump {
 
   $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
   my $j=1; my $six=1;
-  for (sort {$b->[1] <=> $a->[1]} @t) {
+  for (sort 
+       {
+	 !$b->[2] ? -1
+	 : !$a->[2] ? 1
+	 : $b->[1] <=> $a->[1]
+       } @t)
+  {
     my ($l,$a,$n,$t) = @{$_};
     next unless $t;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
@@ -285,7 +297,13 @@ sub _dump {
   $out .= "<i>filter stddev >2.5 from avg</i>\n";
   $out .= "stddev name (magazine, cn) numratings <i>±diff</i>\n<table>\n";
   if ($numc) {
-    for (sort {(exists $critic{$a}->{stddev} and exists $critic{$b}->{stddev}) ? $critic{$a}->{stddev} <=> $critic{$b}->{stddev} : 0} keys %critic) {
+    for (sort 
+	 {
+	   !exists $critic{$a}->{stddev} ? 1
+	     : !exists $critic{$b}->{stddev} ? -1 
+	     : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
+	 } keys %critic)
+    {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
