@@ -68,6 +68,7 @@ Violeta Kovacsics
 
 "HELI" (Amat ESCALANTE) [Competition]
 Diego Batlle 4.5
+Rudiger Suchsland 7.5
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
