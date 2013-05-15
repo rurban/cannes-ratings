@@ -185,7 +185,7 @@ sub _dump {
     }
     $i++;
   }
-  my $h = "<h1>Very Good Films (avg>7.5, n>3)</h1>\n<table>\n";
+  my $h = "<h1><a name=\"verygood\"></a> Very Good Films (avg>7.5, n>3)</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
   for (@t) { 
@@ -203,7 +203,7 @@ sub _dump {
     $i++;
   }
   if ($list) {
-    $out .= "<h1>Good Films (avg>6, n>3)</h1>\n<table>\n"
+    $out .= "<h1><a name=\"good\"></a>Good Films (avg>6, n>3)</h1>\n<table>\n"
 	   . $list
 	   . "</table>\n<small><i>The rest is below 6, unacceptable for Cannes.</i></small>\n";
   }
@@ -223,9 +223,11 @@ sub _dump {
     }
     if (1 or $num) {
       my $j=1; my $six=1;
+      my $qsection = lc($section);
+      $qsection =~ s/\W//g;
       $out .= $num
-	? sprintf("<h2><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
-	: sprintf("<h2><b>$section</b></h2>\n<table>\n");
+	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
+	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
       for (sort {$section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]}
 	   keys %{$section{$section}}) 
       { 
@@ -253,7 +255,7 @@ sub _dump {
     }
   }
 
-  $out .= "\n<h1>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
+  $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
   my $j=1; my $six=1;
   for (sort {$b->[1] <=> $a->[1]} @t) {
     my ($l,$a,$n,$t) = @{$_};
@@ -278,7 +280,7 @@ sub _dump {
   }
 
   my $numc = scalar(keys(%critic));
-  $out .= sprintf "</table>\n\n<h1>%d/%d Critics</h1>\n\n",
+  $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
                   $numc - scalar(keys(%badcritic)),$numc;
   $out .= "<i>filter stddev >2.5 from avg</i>\n";
   $out .= "stddev name (magazine, cn) numratings <i>±diff</i>\n<table>\n";
