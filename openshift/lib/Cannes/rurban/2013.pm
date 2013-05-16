@@ -66,7 +66,7 @@ Pablo O. Scholz      4.5
 Alejandro G. Calvo   2
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Mike d'Angelo        4.4      https://twitter.com/gemko/status/334789622339076096
-
+Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -111,6 +111,8 @@ Alejandro G. Calvo
 Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 Erik Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
+Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
+
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -223,7 +225,7 @@ Scott Foundas           http://variety.com/2013/film/reviews/cannes-film-review-
 Graham Fuller (Vanity Fair) http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
 Matt Mueller (Thompson on Hollywood, US) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
-
+Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   Sundance - Main Prices
@@ -234,7 +236,7 @@ Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-stati
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
-  Italy start: Mai 1st
+  (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
@@ -275,7 +277,7 @@ OUT OF COMPETITION
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
-  (US premiered already)
+  (US premiered already May 7)
 Stephanie Zacharek (Village Voice, USA) 7 http://www.villagevoice.com/2013-05-08/film/gatsby-s-sometimes-great-but-not-always-good/full/
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.hollywoodreporter.com/movie/great-gatsby/review/451988
 Richard Corliss (Time, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
@@ -325,6 +327,7 @@ Rüdiger Suchsland    6.5
 Scott Foundas        
 Thomas Fioretti      
 Violeta Kovacsics    
+Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
