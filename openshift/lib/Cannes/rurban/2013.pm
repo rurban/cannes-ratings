@@ -64,6 +64,7 @@ Michal Oleszczyk
 Pablo O. Scholz      4.5
 Alejandro G. Calvo   2
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
+Mike d'Angelo        4.4      https://twitter.com/gemko/status/334789622339076096
 
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
@@ -106,6 +107,7 @@ Eugenio Renzi
 Michal Oleszczyk     
 Pablo O. Scholz      6
 Alejandro G. Calvo   
+Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
@@ -188,7 +190,7 @@ Eugenio Renzi
 Michal Oleszczyk     
 Pablo O. Scholz      
 Alejandro G. Calvo   
-
+David Jenkins       http://www.littlewhitelies.co.uk/features/festivals/cannes-2013-the-bling-ring-review-23895
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   (Sundance - Main Prices)
@@ -386,7 +388,7 @@ Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
 
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
-Fernando Ganzo 7
+Fernando Ganzo    7
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
@@ -514,6 +516,7 @@ David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
 David Gritten (The Telegraph, UK)
+David Jenkins (Little White Lies blog, UK)
 Drew McWeeny (InContention, USA)
 Drew Taylor (The Playlist, USA)
 Eduardo Valente (Revista Cinema, Brazil) 
