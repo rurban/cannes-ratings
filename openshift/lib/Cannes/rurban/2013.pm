@@ -109,6 +109,7 @@ Pablo O. Scholz      6
 Alejandro G. Calvo   
 Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 Erik Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
+Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
