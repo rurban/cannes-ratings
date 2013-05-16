@@ -26,13 +26,13 @@ our $DATA= <<'EOF';
 
 "HELI" (Amat ESCALANTE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409854/year/2013.html
-Roger Alan Koza 
+Roger Alan Koza      
 Diego Batlle         4.5
-Diego Lerer 
-Alex Vicente 
+Diego Lerer          6
+Alex Vicente         
 José Luis de Lorenzo 1
 Cecilia Martinez     4
-Fernando Ganzo 
+Fernando Ganzo       
 Eulàlia Iglesias     6
 Ángel Quintana       
 José Luis Losa       7.5
@@ -40,14 +40,14 @@ Pedro Butcher
 Kieron Corless       
 Luciano Barisone     
 Carlo Chatrian       
-Violeta Kovacsics    
-Luciano Monteagudo   
+Violeta Kovacsics    3
+Luciano Monteagudo   4
 Jaime Pena           4
 Rüdiger Suchsland    7.5
 Carlos Heredero      5.5
 Robert Koehler       4
 Dana Linssen         
-Cristina Nord        
+Cristina Nord        4.5
 Francisco Ferreira   
 Paolo Moretti        
 Neil Young           4.5       http://www.jigsawlounge.co.uk/film/reviews/canas13/
@@ -55,15 +55,22 @@ Scott Foundas
 Marcelo Alderete     
 Alexandra Zawia      
 Boris Nelepo         1
-Carlos Reviriego     
+Carlos Reviriego     6.5
 Fernando Juan Lima   5
 Paolo Bertolin       
 Nando Salva          4
 Philipp Engel        7
 Eugenio Renzi        
-Michal Oleszczyk     
+Michal Oleszczyk     7.5
 Pablo O. Scholz      4.5
 Alejandro G. Calvo   2
+Xavi Serra           5.5
+Guido Castillo       5
+Ronald Rovers        
+Javier H. Estrada    
+Rose Kuo             
+Pamela Bienzobas     
+
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Mike d'Angelo        4.4      https://twitter.com/gemko/status/334789622339076096
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
@@ -74,8 +81,8 @@ Roger Alan Koza
 Diego Batlle         6
 Diego Lerer          6
 Alex Vicente         
-José Luis de Lorenzo 
-Cecilia Martinez     
+José Luis de Lorenzo 7
+Cecilia Martinez     8
 Fernando Ganzo       
 Eulàlia Iglesias     7
 Ángel Quintana       
@@ -85,13 +92,13 @@ Kieron Corless
 Luciano Barisone     
 Carlo Chatrian       
 Violeta Kovacsics    
-Luciano Monteagudo   
+Luciano Monteagudo   5.5
 Jaime Pena           
 Rüdiger Suchsland    
 Carlos Heredero      5
 Robert Koehler       5
 Dana Linssen         
-Cristina Nord        
+Cristina Nord        4
 Francisco Ferreira   
 Paolo Moretti        
 Neil Young           
@@ -99,15 +106,21 @@ Scott Foundas
 Marcelo Alderete     
 Alexandra Zawia      
 Boris Nelepo         3
-Carlos Reviriego     
+Carlos Reviriego     6.5
 Fernando Juan Lima   
 Paolo Bertolin       
 Nando Salva          
-Philipp Engel        
+Philipp Engel        7.5
 Eugenio Renzi        
-Michal Oleszczyk     
+Michal Oleszczyk     6.5
 Pablo O. Scholz      6
 Alejandro G. Calvo   
+Xavi Serra           6
+Guido Castillo       
+Ronald Rovers        
+Javier H. Estrada    
+Rose Kuo             
+Pamela Bienzobas     
 Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 Erik Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
@@ -119,6 +132,50 @@ Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
+Roger Alan Koza      
+Diego Batlle         
+Diego Lerer          
+Alex Vicente         
+José Luis de Lorenzo 
+Cecilia Martinez     
+Fernando Ganzo       
+Eulàlia Iglesias     
+Ángel Quintana       
+José Luis Losa       
+Pedro Butcher        
+Kieron Corless       
+Luciano Barisone     
+Carlo Chatrian       
+Violeta Kovacsics    
+Luciano Monteagudo   
+Jaime Pena           
+Rüdiger Suchsland    
+Carlos Heredero      
+Robert Koehler       
+Dana Linssen         
+Cristina Nord        8
+Francisco Ferreira   
+Paolo Moretti        
+Neil Young           
+Scott Foundas        
+Marcelo Alderete     
+Alexandra Zawia      
+Boris Nelepo         
+Carlos Reviriego     
+Fernando Juan Lima   
+Paolo Bertolin       
+Nando Salva          
+Philipp Engel        
+Eugenio Renzi        
+Michal Oleszczyk     8.5
+Pablo O. Scholz      
+Alejandro G. Calvo   
+Xavi Serra           
+Guido Castillo       
+Ronald Rovers        
+Javier H. Estrada    
+Rose Kuo             
+Pamela Bienzobas     
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -177,10 +234,10 @@ Mike d'Angelo        3.2
 Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-sofia-coppola-the-bling-ring-a-mostly-empty-exercise-in-excess-20130516
 Roger Alan Koza      
 Diego Batlle         7.5
-Diego Lerer          
+Diego Lerer          7
 Alex Vicente         
-José Luis de Lorenzo 
-Cecilia Martinez     
+José Luis de Lorenzo 6
+Cecilia Martinez     6
 Fernando Ganzo       
 Eulàlia Iglesias     5.5
 Ángel Quintana       
@@ -190,13 +247,13 @@ Kieron Corless
 Luciano Barisone     
 Carlo Chatrian       
 Violeta Kovacsics    
-Luciano Monteagudo   
+Luciano Monteagudo   7
 Jaime Pena           
 Rüdiger Suchsland    
 Carlos Heredero      6
 Robert Koehler       
 Dana Linssen         
-Cristina Nord        
+Cristina Nord        5.5
 Francisco Ferreira   
 Paolo Moretti        
 Neil Young           
@@ -208,11 +265,17 @@ Carlos Reviriego
 Fernando Juan Lima   
 Paolo Bertolin       
 Nando Salva          
-Philipp Engel        
+Philipp Engel        2
 Eugenio Renzi        
 Michal Oleszczyk     
 Pablo O. Scholz      
 Alejandro G. Calvo   
+Xavi Serra           5
+Guido Castillo       8
+Ronald Rovers        
+Javier H. Estrada    
+Rose Kuo             
+Pamela Bienzobas     
 Erik Kohn            6   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Peter Bradshaw       6  http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
 Guy Lodge            7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
@@ -232,6 +295,51 @@ Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes
 Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-ryan-cooglers-fruitvale-renders-a-tragic-police-shooting-in-personal-terms
 Todd McCarthy (The Hollywood Reporter, USA) 8 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
 Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
+Roger Alan Koza      
+Diego Batlle         6.5
+Diego Lerer          5.5
+Alex Vicente         
+José Luis de Lorenzo 9
+Cecilia Martinez     7
+Fernando Ganzo       
+Eulàlia Iglesias     
+Ángel Quintana       
+José Luis Losa       
+Pedro Butcher        
+Kieron Corless       
+Luciano Barisone     
+Carlo Chatrian       
+Violeta Kovacsics    
+Luciano Monteagudo   
+Jaime Pena           
+Rüdiger Suchsland    
+Carlos Heredero      
+Robert Koehler       
+Dana Linssen         
+Cristina Nord        
+Francisco Ferreira   
+Paolo Moretti        
+Neil Young           
+Scott Foundas        
+Marcelo Alderete     
+Alexandra Zawia      
+Boris Nelepo         
+Carlos Reviriego     1
+Fernando Juan Lima   
+Paolo Bertolin       
+Nando Salva          2.5
+Philipp Engel        
+Eugenio Renzi        
+Michal Oleszczyk     
+Pablo O. Scholz      6
+Alejandro G. Calvo   
+Xavi Serra           4
+Guido Castillo       6
+Ronald Rovers        
+Javier H. Estrada    
+Rose Kuo             
+Pamela Bienzobas     
+
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
@@ -481,8 +589,10 @@ Robert Koehler (Variety, USA)
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Rüdiger Suchsland (FAZ, Negativ-film, Deutschland) 
 Scott Foundas (Film Comment, USA) 
-Thomas Fioretti (Independencia, France) 
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
+Javier H. Estrada (Caimán CDC, España) 
+Pamela Bienzobas (Mabuse, Chile) 
+Xavi Serra (Ara, España) 
 ";
 # ioncinema
 $critics[1] = "
@@ -579,6 +689,7 @@ Lee Marshall (Screen Daily, USA)
 Mark Adams (Screen Daily, USA)
 Matt Holmes (Obsessedwithfilm.com, USA) 
 Michael Ghennam (Les Fiches du Cinéma, France)
+Michael Sennhauser (SRF, Suisse)
 Michael Giltz (The Huffington Post, USA) 
 Nev Pierce (Empire, USA)
 Patrick Heidmann (Cineman, Deutschland)
@@ -609,16 +720,13 @@ Arthur Mas (Independencia, France)
 Camille Brunel (Independencia, France) 
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
 Gonzalo de Pedro (Caimán, CDC, España) 
-Javier H. Estrada (Caimán CDC, España) 
 Kong Rithdee (The Bangkok Post, Thailand) 
 Manu Yáñez (Fotogramas, OtrosCines, España) 
 Martial Pisani (Independencia, France) 
 Noémie Luciani (Independencia, France) 
 Olivier Père (Les Inrockuptibles, France) 
-Pamela Bienzobas (Mabuse, Chile) 
 Sergio Wolf (BAFICI, Argentina) 
 Thomas Fioretti (Independencia, France) 
-Xavi Serra (Ara, España) 
 ";
 
 our $HEADER = <<"EOF";
