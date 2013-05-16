@@ -34,7 +34,7 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/[\w\)]:? [-\x{2013} ]*(\d[\d.]*)( http.*)?/) {
+    } elsif (/[\w\)]:? [-\x{2013} \t]*(\d[\d.]*)(\s+http[^ ]+)?/) {
       my $x = $1; $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
       $s += $x; $n++; undef $critic;
       $url = $2;
@@ -53,7 +53,7 @@ sub _read {
       $critic{$critic}->{cn} = $cn if $cn;
       $critic{$critic}->{mag} = $mag if $mag;
       # review only
-    } elsif (/[\w\)]:? [-\x{2013} ]*(http.*)/) {
+    } elsif (/[\w\)]:? [-\x{2013} \t]*(http[^ ]+)/) {
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {

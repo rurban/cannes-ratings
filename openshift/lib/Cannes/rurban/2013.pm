@@ -63,6 +63,8 @@ Eugenio Renzi
 Michal Oleszczyk     
 Pablo O. Scholz      4.5
 Alejandro G. Calvo   2
+Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
+
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
 
@@ -147,6 +149,7 @@ UN CERTAIN REGARD
 
 "THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
 Mike d'Angelo        3.2
+Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-sofia-coppola-the-bling-ring-a-mostly-empty-exercise-in-excess-20130516
 Roger Alan Koza      
 Diego Batlle         7.5
 Diego Lerer          
@@ -347,6 +350,7 @@ QUINZAINE
 
 "THE CONGRESS" (Ari Folman) [Quinzaine]
 Alejandro G. Calvo   5
+Jessica Kiang        4.5	http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 
@@ -520,6 +524,7 @@ Eugene Hernandez (Film Society of Lincoln Center, USA)
 Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr. (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
+Jessica Kiang (The Playlist, USA)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Raup (The Film Stage, USA)
