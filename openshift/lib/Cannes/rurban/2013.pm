@@ -190,7 +190,18 @@ Eugenio Renzi
 Michal Oleszczyk     
 Pablo O. Scholz      
 Alejandro G. Calvo   
-David Jenkins       http://www.littlewhitelies.co.uk/features/festivals/cannes-2013-the-bling-ring-review-23895
+Mark Adams (Screen Daily, USA)    http://www.screendaily.com/reviews/the-latest/the-bling-ring/5056168.article
+David Jenkins (Little White Lies blog, UK)   http://www.littlewhitelies.co.uk/features/festivals/cannes-2013-the-bling-ring-review-23895
+Kaleem Aftab (The Independent, UK)   8	http://www.independent.co.uk/arts-entertainment/films/reviews/the-bling-ring-review-emma-watson-leaves-hermoine-behind-in-sofia-coppolas-new-film-8618418.html
+Peter Bradshaw    6  http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
+Cath Clarke (Time Out London, UK) 8 http://www.timeout.com/london/film/the-bling-ring
+Robbie Collin (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cannes-film-festival/10061235/Cannes-2013-The-Bling-Ring-review.html
+Scott Foundas  http://variety.com/2013/film/reviews/cannes-film-review-the-bling-ring-1200482052/
+Graham Fuller (Vanity Fair) http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
+Guy Lodge     7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
+Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
+Matt Mueller (Thompson on Hollywood, US) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
+
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   (Sundance - Main Prices)
@@ -201,6 +212,7 @@ Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-stati
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
+  (Italy start: Mai 1)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
