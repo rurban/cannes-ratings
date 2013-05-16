@@ -25,87 +25,85 @@ use utf8;
 our $DATA= <<'EOF';
 
 "HELI" (Amat ESCALANTE) [Competition]
-Alejandro G. Calvo 2
-Alex Vicente 
-Alexandra Zawia
-Ángel Quintana 
-Boris Nelepo
-Carlo Chatrian 
-Carlos Heredero 5.5
-Carlos Reviriego 
-Cecilia Martinez 4
-Cristina Nord 
-Dana Linssen 
-Diego Batlle 4.5
-Diego Lerer 
-Eugenio Renzi 
-Eulàlia Iglesias 
-Fernando Ganzo 
-Fernando Juan Lima 5
-Francisco Ferreira 
-Jaime Pena 
-José Luis de Lorenzo 1
-José Luis Losa 
-Kieron Corless
-Luciano Barisone 
-Luciano Monteagudo 
-Marcelo Alderete 
-Michal Oleszczyk
-Nando Salva 4
-Neil Young 5 http://www.jigsawlounge.co.uk/film/reviews/canas13/
-Pablo O. Scholz 4.5
-Paolo Bertolin 
-Paolo Moretti 
-Pedro Butcher 
-Philipp Engel 7
-Robert Koehler 
 Roger Alan Koza 
-Rüdiger Suchsland 7.5
-Scott Foundas 
-Thomas Fioretti 
-Violeta Kovacsics 
+Diego Batlle         4.5
+Diego Lerer 
+Alex Vicente 
+José Luis de Lorenzo 1
+Cecilia Martinez     4
+Fernando Ganzo 
+Eulàlia Iglesias     6
+Ángel Quintana       
+José Luis Losa       7.5
+Pedro Butcher        
+Kieron Corless       
+Luciano Barisone     
+Carlo Chatrian       
+Violeta Kovacsics    
+Luciano Monteagudo   
+Jaime Pena           4
+Rüdiger Suchsland    7.5
+Carlos Heredero      5.5
+Robert Koehler       4
+Dana Linssen         
+Cristina Nord        
+Francisco Ferreira   
+Paolo Moretti        
+Neil Young           4.5       http://www.jigsawlounge.co.uk/film/reviews/canas13/
+Scott Foundas        
+Marcelo Alderete     
+Alexandra Zawia      
+Boris Nelepo         1
+Carlos Reviriego     
+Fernando Juan Lima   5
+Paolo Bertolin       
+Nando Salva          4
+Philipp Engel        7
+Eugenio Renzi        
+Michal Oleszczyk     
+Pablo O. Scholz      4.5
+Alejandro G. Calvo   2
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
 
-Alejandro G. Calvo 
-Alex Vicente 
-Alexandra Zawia
-Ángel Quintana 
-Boris Nelepo
-Carlo Chatrian 
-Carlos Heredero 
-Carlos Reviriego 
-Cecilia Martinez 
-Cristina Nord 
-Dana Linssen 
-Diego Batlle 
-Diego Lerer 
-Eugenio Renzi 
-Eulàlia Iglesias 
-Fernando Ganzo 
-Fernando Juan Lima 
-Francisco Ferreira 
-Jaime Pena 
+Roger Alan Koza      
+Diego Batlle         6
+Diego Lerer          6
+Alex Vicente         
 José Luis de Lorenzo 
-José Luis Losa 
-Kieron Corless
-Luciano Barisone 
-Luciano Monteagudo 
-Marcelo Alderete 
-Michal Oleszczyk
-Nando Salva 
-Neil Young 
-Pablo O. Scholz
-Paolo Bertolin 
-Paolo Moretti 
-Pedro Butcher 
-Philipp Engel 
-Robert Koehler 
-Roger Alan Koza 
-Rüdiger Suchsland 
-Scott Foundas 
-Thomas Fioretti 
-Violeta Kovacsics 
+Cecilia Martinez     
+Fernando Ganzo       
+Eulàlia Iglesias     7
+Ángel Quintana       
+José Luis Losa       
+Pedro Butcher        
+Kieron Corless       
+Luciano Barisone     
+Carlo Chatrian       
+Violeta Kovacsics    
+Luciano Monteagudo   
+Jaime Pena           
+Rüdiger Suchsland    
+Carlos Heredero      5
+Robert Koehler       5
+Dana Linssen         
+Cristina Nord        
+Francisco Ferreira   
+Paolo Moretti        
+Neil Young           
+Scott Foundas        
+Marcelo Alderete     
+Alexandra Zawia      
+Boris Nelepo         3
+Carlos Reviriego     
+Fernando Juan Lima   
+Paolo Bertolin       
+Nando Salva          
+Philipp Engel        
+Eugenio Renzi        
+Michal Oleszczyk     
+Pablo O. Scholz      6
+Alejandro G. Calvo   
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
 
@@ -148,6 +146,46 @@ Alejandro G. Calvo 0
 UN CERTAIN REGARD
 
 "THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
+Mike d'Angelo        3.2
+Roger Alan Koza      
+Diego Batlle         7.5
+Diego Lerer          
+Alex Vicente         
+José Luis de Lorenzo 
+Cecilia Martinez     
+Fernando Ganzo       
+Eulàlia Iglesias     5.5
+Ángel Quintana       
+José Luis Losa       
+Pedro Butcher        
+Kieron Corless       
+Luciano Barisone     
+Carlo Chatrian       
+Violeta Kovacsics    
+Luciano Monteagudo   
+Jaime Pena           
+Rüdiger Suchsland    
+Carlos Heredero      6
+Robert Koehler       
+Dana Linssen         
+Cristina Nord        
+Francisco Ferreira   
+Paolo Moretti        
+Neil Young           
+Scott Foundas        
+Marcelo Alderete     
+Alexandra Zawia      
+Boris Nelepo         
+Carlos Reviriego     
+Fernando Juan Lima   
+Paolo Bertolin       
+Nando Salva          
+Philipp Engel        
+Eugenio Renzi        
+Michal Oleszczyk     
+Pablo O. Scholz      
+Alejandro G. Calvo   
+
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   (Sundance - Main Prices)
@@ -209,45 +247,45 @@ Claudia Puig (USA Today, USA) 5 http://www.usatoday.com/story/life/movies/2013/0
 Eric Kohn (Indiewire, USA) 4.2 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Keith Uhlich (Time Out New York, USA) 4 http://www.timeout.com/us/film/the-great-gatsby-movie-review
-Alejandro G. Calvo 6.5
-Alex Vicente 
-Alexandra Zawia
-Ángel Quintana 2.5
-Boris Nelepo
-Carlo Chatrian 
-Carlos Heredero  3
-Carlos Reviriego 2
-Cecilia Martinez 5
-Cristina Nord    3
-Dana Linssen 
-Diego Batlle     6
-Diego Lerer      6.5
-Eugenio Renzi 
-Eulàlia Iglesias   6
-Fernando Ganzo     0
-Fernando Juan Lima 8
-Francisco Ferreira 
-Jaime Pena 
-José Luis de Lorenzo 
-José Luis Losa 1
-Kieron Corless
-Luciano Barisone 1
-Luciano Monteagudo 5 
-Marcelo Alderete 
-Michal Oleszczyk
-Nando Salva 7
-Neil Young 
-Pablo O. Scholz 5
-Paolo Bertolin 
-Paolo Moretti 
-Pedro Butcher 
-Philipp Engel 2.5 
-Robert Koehler 
-Roger Alan Koza 
-Rüdiger Suchsland 6.5
-Scott Foundas 
-Thomas Fioretti 
-Violeta Kovacsics 
+Alejandro G. Calvo   6.5
+Alex Vicente         
+Alexandra Zawia      
+Ángel Quintana       2.5
+Boris Nelepo         6.5
+Carlo Chatrian       
+Carlos Heredero      3
+Carlos Reviriego     2
+Cecilia Martinez     5
+Cristina Nord        3
+Dana Linssen         
+Diego Batlle         6
+Diego Lerer          6.5
+Eugenio Renzi        
+Eulàlia Iglesias     6
+Fernando Ganzo       0
+Fernando Juan Lima   8
+Francisco Ferreira   
+Jaime Pena           
+José Luis de Lorenzo 2
+José Luis Losa       1
+Kieron Corless       
+Luciano Barisone     1
+Luciano Monteagudo   5 
+Marcelo Alderete     
+Michal Oleszczyk     
+Nando Salva          7
+Neil Young           
+Pablo O. Scholz      5
+Paolo Bertolin       
+Paolo Moretti        
+Pedro Butcher        
+Philipp Engel        2.5 
+Robert Koehler       2
+Roger Alan Koza      
+Rüdiger Suchsland    6.5
+Scott Foundas        
+Thomas Fioretti      
+Violeta Kovacsics    
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
@@ -308,6 +346,7 @@ Diego Lerer  6.5
 QUINZAINE
 
 "THE CONGRESS" (Ari Folman) [Quinzaine]
+Alejandro G. Calvo   5
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 
@@ -440,17 +479,19 @@ Danielle Attali (Le Journal du Dimanche, France)
 Christophe Carriére (L'Express, France)
 ";
 # screen daily 0-4
+# http://issuu.com/emap_/docs/screen_cannes_day_1_2013
 $critics[3] = "
-Nick James (Sight & Sound, UK)
-David Stratton (The Australian, Australia)
-Derek Malcolm (London Evening, UK)
-Jan Schulz-Ojala (Der Tagesspiegel, Deutschland)
-Jose Carlos Avellar (Escrevercinema.com, Brazil)
-Dennis Lim (The New York Times, USA)
-Michel Ciment (Positif, France)
-Kate Muir (The Times, UK)
-Bo Green Jensen (Weekandavisen Berlingske, Denmark)
-Screen International (Screen International, USA)
+Nick James (Sight & Sound, UK) 
+David Stratton (The Australian, Australia) 
+Derek Malcolm (London Evening, UK) 
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
+Jose Carlos Avellar (Escrevercinema.com, Brazil) 
+Dennis Lim (The New York Times, USA) 
+Michel Ciment (Positif, France) 
+Kate Muir (The Times, UK) 
+Wendy Ide (The Times, UK) 
+Bo Green Jensen (Weekandavisen Berlingske, Denmark) 
+Screen International (Screen International, USA) 
 ";
 # indiewire + various other
 $critics[4] = "
@@ -530,6 +571,7 @@ Noémie Luciani (Independencia, France)
 Olivier Père (Les Inrockuptibles, France) 
 Pamela Bienzobas (Mabuse, Chile) 
 Sergio Wolf (BAFICI, Argentina) 
+Thomas Fioretti (Independencia, France) 
 Xavi Serra (Ara, España) 
 ";
 
