@@ -28,8 +28,10 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^\s+(.*)/) {
-      $title{$title}->{comment} = $1 if $title; # film comment only
+    elsif (/^\s+(\S.*)/ and $title) { # film comments, links
+      my $cmt = $1;
+      $cmt =~ s{(http:\S+)}{<a href="$1">$1</a>};
+      $title{$title}->{comment} = $cmt;
     } elsif (/^["“](.+)["”]/) {
       my $a = $n ? sprintf("%.02f", $s/$n) : 0;
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
@@ -203,7 +205,7 @@ sub _dump {
   $list = '';
   for (@t) { 
     my $t = $_->[3];
-    my $a=sprintf("%0.2f",$title{$t}->{avg}); 
+    my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num}; 
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
@@ -212,7 +214,9 @@ sub _dump {
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    if (Dancer::SharedData->request) {
+      $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    }
     $i++;
   }
   if ($list) {
@@ -260,13 +264,21 @@ sub _dump {
 	  $out .= "-"x25;
 	  $out .= "</td></tr>\n";
 	}
-        $out .= (($section{$section}->{$_}->[1] or $title{$_}->{comment})
-	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> "
-                    . "<td>[<a name=\"$i\" href=\"?t=$i#$i\">%0.2f/%d&nbsp;%0.1f</a>]</td></tr>\n",
-		    $j++, $l, @{$section{$section}->{$_}}) 
-	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n"));
-        if (Dancer::SharedData->request) {
-          $out .= _detail($_,$title{$_},\%critic) if params->{t} and params->{t} eq $i;
+        my $ns = $section{$section}->{$_}->[1] 
+          ? sprintf("%0.2f/%d&nbsp;%0.1f", @{$section{$section}->{$_}})
+          : '-';
+        my $detail = ($section{$section}->{$_}->[1] or $title{$_}->{comment})
+          ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
+          : "[$ns]";
+        if ($section{$section}->{$_}->[1]) {
+          $out .= sprintf("<tr><td>%2d.</td> <td>%s</td> <td>%s</td></tr>\n", $j++, $l, $detail);
+        } elsif ($title{$_}->{comment}) {
+	  $out .= "<tr><td> </td>    <td>$l</td> <td>$detail</td></tr>\n";
+        } else {
+	  $out .= "<tr><td> </td>    <td>$l</td> <td>[-]</td></tr>\n";
+        }
+        if (Dancer::SharedData->request and params->{t} and params->{t} eq $i) {
+          $out .= _detail($_,$title{$_},\%critic);
         }
 	$i++;
       }
@@ -323,7 +335,7 @@ sub _dump {
       my $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
-      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td>%d&nbsp;<i>%+0.1f</i></td></tr>\n", 
+      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td>%d&nbsp;<i>%+0.1f</i></td></tr>\n",
       $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
       # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
     }

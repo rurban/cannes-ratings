@@ -25,6 +25,7 @@ use utf8;
 our $DATA= <<'EOF';
 
 "HELI" (Amat ESCALANTE) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409854/year/2013.html
 Roger Alan Koza 
 Diego Batlle         4.5
 Diego Lerer 
@@ -68,7 +69,7 @@ Mike d'Angelo        4.4      https://twitter.com/gemko/status/33478962233907609
 
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
-
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
 Roger Alan Koza      
 Diego Batlle         6
 Diego Lerer          6
@@ -112,41 +113,59 @@ Erik Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
 
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
 Alejandro G. Calvo 0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
 
 "THE IMMIGRANT" (James GRAY) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
 
 "LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409865/year/2013.html
 
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
 
 
 UN CERTAIN REGARD
@@ -335,6 +354,7 @@ SPECIAL SCREENINGS
 SEMAINE DE LA CRITIC
 
 "AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
+  (Sundance)
 Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
 Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
