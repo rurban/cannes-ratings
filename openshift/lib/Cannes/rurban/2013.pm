@@ -207,7 +207,7 @@ Matt Mueller (Thompson on Hollywood, US) http://blogs.indiewire.com/thompsononho
 
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
-  (Sundance - Main Prices)
+  Sundance - Main Prices
 Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-ryan-cooglers-fruitvale-renders-a-tragic-police-shooting-in-personal-terms
 Todd McCarthy (The Hollywood Reporter, USA) 8 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
 Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
@@ -215,7 +215,7 @@ Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-stati
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
-  (Italy start: Mai 1)
+  Italy start: Mai 1st
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]

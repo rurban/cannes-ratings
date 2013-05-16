@@ -27,17 +27,20 @@ sub _read {
   }
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
-    if (/^#/) { next; } #skip
-    elsif (/^["“](.+)["”]/) {
+    if (/^#/) { next; }     #skip
+    elsif (/^\s+(.*)/) {
+      $title{$title}->{comment} = $1 if $title; # film comment only
+    } elsif (/^["“](.+)["”]/) {
       my $a = $n ? sprintf("%.02f", $s/$n) : 0;
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/[\w\)]:? [-\x{2013} \t]*(\d[\d.]*)(\s+http[^ ]+)?/) {
+    } elsif (/[\w\)]:? [-\x{2013} \t]*(\d[\d\.]*)(\s+http\S+)?/) {
       my $x = $1; $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
       $s += $x; $n++; undef $critic;
       $url = $2;
+      $url =~ s/^\s+// if $url;
       if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
@@ -52,8 +55,7 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn;
       $critic{$critic}->{mag} = $mag if $mag;
-      # review only
-    } elsif (/[\w\)]:? [-\x{2013} \t]*(http[^ ]+)/) {
+    } elsif (/[\w\)] [-\x{2013} \t]*(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {
@@ -80,6 +82,8 @@ sub _detail {
   my $critic = shift;
   my $nostrike = shift;
   my $out = '';
+  $out .= "<tr><td></td><td colspan=2 class=detail><i>&nbsp;&nbsp; - $h->{comment}</i></td>" if exists $h->{comment};
+
   for (sort {!defined $h->{critic}->{$b}->[0] ? -1
 	       : !defined $h->{critic}->{$a}->[0] ? 1
 	       : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]}
@@ -156,7 +160,8 @@ sub _dump {
         my $bak = $title{$t}->{critic}->{$c}->[0];
 	delete $title{$t}->{critic}->{$c};
 	for (keys %{$title{$t}->{critic}}) {
-	  $sum += $title{$t}->{critic}->{$_}->[0];
+          my $n = $title{$t}->{critic}->{$_}->[0] if exists $title{$t}->{critic}->{$_};
+	  $sum += $n if $n;
 	}
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
         $title{$t}->{critic}->{$c}->[0] = "-$bak";
@@ -223,13 +228,13 @@ sub _dump {
     for (@titles) {
       if ($title{$_}->{section} and $title{$_}->{section} eq $section) {
         $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev} ];
-        if($title{$_}->{num}) {
+        if ($title{$_}->{num}) {
 	  $sum += $title{$_}->{avg}; 
 	  $num++
 	}
       }
     }
-    if ($num) {
+    if (1 or $num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
@@ -255,10 +260,11 @@ sub _dump {
 	  $out .= "-"x25;
 	  $out .= "</td></tr>\n";
 	}
-        $out .= $section{$section}->{$_}->[1]
-	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> <td>[<a name=\"$i\" href=\"?t=$i#$i\">%0.2f/%d&nbsp;%0.1f</a>]</td></tr>\n", 
+        $out .= (($section{$section}->{$_}->[1] or $title{$_}->{comment})
+	  ? sprintf("<tr><td>%2d.</td> <td>%s</td> "
+                    . "<td>[<a name=\"$i\" href=\"?t=$i#$i\">%0.2f/%d&nbsp;%0.1f</a>]</td></tr>\n",
 		    $j++, $l, @{$section{$section}->{$_}}) 
-	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n");
+	  : sprintf("<tr><td> </td> <td>$l</td> <td>[-]</td></tr>\n"));
         if (Dancer::SharedData->request) {
           $out .= _detail($_,$title{$_},\%critic) if params->{t} and params->{t} eq $i;
         }
