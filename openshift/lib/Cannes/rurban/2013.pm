@@ -122,7 +122,7 @@ Javier H. Estrada
 Rose Kuo             
 Pamela Bienzobas     
 Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
-Erik Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
+Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
 
@@ -276,8 +276,8 @@ Ronald Rovers
 Javier H. Estrada    
 Rose Kuo             
 Pamela Bienzobas     
-Erik Kohn            6   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
-Peter Bradshaw       6  http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
+Eric Kohn            6   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
+Peter Bradshaw       6   http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
 Guy Lodge            7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
 Mark Adams (Screen Daily, USA)               http://www.screendaily.com/reviews/the-latest/the-bling-ring/5056168.article
 David Jenkins (Little White Lies blog, UK)   http://www.littlewhitelies.co.uk/features/festivals/cannes-2013-the-bling-ring-review-23895
@@ -593,6 +593,7 @@ Violeta Kovacsics (Caimán Cuadernos de Cine, España)
 Javier H. Estrada (Caimán CDC, España) 
 Pamela Bienzobas (Mabuse, Chile) 
 Xavi Serra (Ara, España) 
+Guido Castillo (Freelance, España)
 ";
 # ioncinema
 $critics[1] = "
