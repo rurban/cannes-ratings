@@ -38,7 +38,7 @@ Eulàlia Iglesias     6
 José Luis Losa       7.5
 Pedro Butcher        
 Kieron Corless       
-Luciano Barisone     
+Luciano Barisone     7
 Carlo Chatrian       
 Violeta Kovacsics    3
 Luciano Monteagudo   4
@@ -89,7 +89,7 @@ Eulàlia Iglesias     7
 José Luis Losa       
 Pedro Butcher        
 Kieron Corless       
-Luciano Barisone     
+Luciano Barisone     6
 Carlo Chatrian       
 Violeta Kovacsics    
 Luciano Monteagudo   5.5
@@ -126,14 +126,10 @@ Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
 
-
-"LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
-  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
-
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
 Roger Alan Koza      
-Diego Batlle         
+Diego Batlle         7.5
 Diego Lerer          
 Alex Vicente         
 José Luis de Lorenzo 
@@ -144,7 +140,7 @@ Eulàlia Iglesias
 José Luis Losa       
 Pedro Butcher        
 Kieron Corless       
-Luciano Barisone     
+Luciano Barisone     8
 Carlo Chatrian       
 Violeta Kovacsics    
 Luciano Monteagudo   
@@ -168,6 +164,54 @@ Nando Salva
 Philipp Engel        
 Eugenio Renzi        
 Michal Oleszczyk     8.5
+Pablo O. Scholz      
+Alejandro G. Calvo   
+Xavi Serra           
+Guido Castillo       
+Ronald Rovers        
+Javier H. Estrada    
+Rose Kuo             
+Pamela Bienzobas     
+Mike d'Angelo        5.9      https://twitter.com/gemko/status/335075307751108608
+
+"LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
+Roger Alan Koza      
+Diego Batlle         
+Diego Lerer          
+Alex Vicente         
+José Luis de Lorenzo 
+Cecilia Martinez     
+Fernando Ganzo       
+Eulàlia Iglesias     
+Ángel Quintana       
+José Luis Losa       
+Pedro Butcher        
+Kieron Corless       
+Luciano Barisone     
+Carlo Chatrian       
+Violeta Kovacsics    
+Luciano Monteagudo   
+Jaime Pena           
+Rüdiger Suchsland    
+Carlos Heredero      
+Robert Koehler       
+Dana Linssen         
+Cristina Nord        
+Francisco Ferreira   
+Paolo Moretti        
+Neil Young           
+Scott Foundas        
+Marcelo Alderete     
+Alexandra Zawia      
+Boris Nelepo         
+Carlos Reviriego     
+Fernando Juan Lima   
+Paolo Bertolin       
+Nando Salva          
+Philipp Engel        
+Eugenio Renzi        
+Michal Oleszczyk     
 Pablo O. Scholz      
 Alejandro G. Calvo   
 Xavi Serra           
@@ -244,7 +288,7 @@ Eulàlia Iglesias     5.5
 José Luis Losa       
 Pedro Butcher        
 Kieron Corless       
-Luciano Barisone     
+Luciano Barisone     4
 Carlo Chatrian       
 Violeta Kovacsics    
 Luciano Monteagudo   7
@@ -265,11 +309,11 @@ Carlos Reviriego
 Fernando Juan Lima   
 Paolo Bertolin       
 Nando Salva          
-Philipp Engel        2
+Philipp Engel        7.5
 Eugenio Renzi        
-Michal Oleszczyk     
+Michal Oleszczyk     2
 Pablo O. Scholz      
-Alejandro G. Calvo   
+Alejandro G. Calvo   7
 Xavi Serra           5
 Guido Castillo       8
 Ronald Rovers        
@@ -307,7 +351,7 @@ Eulàlia Iglesias
 José Luis Losa       
 Pedro Butcher        
 Kieron Corless       
-Luciano Barisone     
+Luciano Barisone     5
 Carlo Chatrian       
 Violeta Kovacsics    
 Luciano Monteagudo   
@@ -339,6 +383,7 @@ Ronald Rovers
 Javier H. Estrada    
 Rose Kuo             
 Pamela Bienzobas     
+Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
 
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
@@ -474,6 +519,7 @@ Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/ai
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
+Neil Young           7
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
 
