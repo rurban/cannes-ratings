@@ -519,7 +519,7 @@ Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/ai
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
-Neil Young           7
+Neil Young           7    https://twitter.com/JigsawLounge/status/335140082728194048
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
 
@@ -544,7 +544,8 @@ QUINZAINE
 
 "THE CONGRESS" (Ari Folman) [Quinzaine]
 Alejandro G. Calvo   5
-Jessica Kiang        4.5	http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
+Jessica Kiang        4.5  http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
+Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright-gets-animated-in-messy-sometimes-mesmerising-the-congress
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 
