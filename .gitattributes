@@ -1,0 +1,4 @@
+*.text diff=text
+*.txt  diff=text
+*.html diff=html
+*.pm   diff=perl
