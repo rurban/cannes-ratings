@@ -7,7 +7,7 @@ package Cannes::rurban::2013;
 # ??
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
 # french: http://www.lefilmfrancais.com/cannes2013/quotidien/ (scale 0-4)
-# http://content.yudu.com/Library/A1wwqk/ScreenCannesDay92012/resources/index.htm (scale 0-4)
+# http://www.screendaily.com/festivals/cannes/cannes-2013-screens-dailies/5056024.article (scale 0-4)
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
 # Published at http://cannes-rurban.rhcloud.com/2013
 # History at https://github.com/rurban/cannes-critics-ratings
@@ -71,10 +71,20 @@ Javier H. Estrada    4.5
 Rose Kuo             
 Pamela Bienzobas     
 Alvaro Arroba        
-
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Mike d'Angelo        4.4      https://twitter.com/gemko/status/334789622339076096
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
+# Screen Daily (0-4)
+Nick James           5
+David Stratton       5
+Derek Malcolm        5
+Jan Schulz-Ojala     5
+Jose Carlos Avellar  7.5
+Dennis Lim           5
+Michel Ciment        5
+Kate Muir/Wendy Ide  7.5
+Bo Green Jensen      7.5
+Screen International 7.5
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -128,6 +138,17 @@ Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 4.5 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-jeune.html
+# Screen Daily (0-4)
+Nick James           7.5
+David Stratton       2.5
+Derek Malcolm        5
+Jan Schulz-Ojala     5
+Jose Carlos Avellar  2.5
+Dennis Lim           2.5
+Michel Ciment        1
+Kate Muir/Wendy Ide  5
+Bo Green Jensen      5
+Screen International 5
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -188,6 +209,7 @@ Rüdiger Suchsland     8
 Nando Salva           8
 Ronald Rovers         7.5
 Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
+Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-past/5056283.article?blocktitle=Latest-Reviews&contentID=592
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
