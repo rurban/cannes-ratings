@@ -477,7 +477,7 @@ Carlo Chatrian        2
 Violeta Kovacsics     
 Luciano Monteagudo    5
 Jaime Pena            5.5
-Rüdiger Suchsland     6.5
+Rüdiger Suchsland     6.5       http://www.negativ-film.de/2013/05/die-letzte-party-cannes-blog-2-folge
 Carlos F. Heredero    3
 Robert Koehler        2
 Dana Linssen          
