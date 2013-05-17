@@ -108,6 +108,28 @@ sub _detail {
   $out;
 }
 
+sub _critic_detail {
+  my $n = shift;
+  my $h = shift;
+  my $out = '';
+  for my $t (keys %{$h->{title}}) {
+    my $f = $h->{title}->{$t};
+    my $c = @$f == 3 ? sprintf("[ %s - %0.2f = %0.2f ]", @$f)
+      : defined($f->[0])
+        ? "[$f->[0]" 
+        : "[-]";
+    $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$t</td>"
+      ."<td class=detail>$c</td></tr>\n";
+  }
+  $out;
+}
+sub _show_detail {
+  my $i = shift;
+  my $t = params->{t} or return undef;;
+  if (($t eq $i) || ($t eq '*')) { return 1; }
+  else { return undef; }
+}
+
 sub _dump {
   my %critic = %{$_[0]};
   my %title  = %{$_[1]};
@@ -195,8 +217,8 @@ sub _dump {
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    if (Dancer::SharedData->request) {
-      $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    if (Dancer::SharedData->request and _show_detail($i)) {
+      $list .= _detail($t,$title{$t},\%critic);
     }
     $i++;
   }
@@ -214,8 +236,8 @@ sub _dump {
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    if (Dancer::SharedData->request) {
-      $list .= _detail($t,$title{$t},\%critic) if params->{t} and params->{t} eq $i;
+    if (Dancer::SharedData->request and _show_detail($i)) {
+      $list .= _detail($t,$title{$t},\%critic);
     }
     $i++;
   }
@@ -277,7 +299,7 @@ sub _dump {
         } else {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td>[-]</td></tr>\n";
         }
-        if (Dancer::SharedData->request and params->{t} and params->{t} eq $i) {
+        if (Dancer::SharedData->request and _show_detail($i)) {
           $out .= _detail($_,$title{$_},\%critic);
         }
 	$i++;
@@ -310,8 +332,8 @@ sub _dump {
     $out .= $n 
       ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
       :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
-    if (Dancer::SharedData->request) {
-      $out .= _detail($t,$title{$t},\%critic,1) if params->{t} and params->{t} eq $i;
+    if (Dancer::SharedData->request and _show_detail($i)) {
+      $out .= _detail($t,$title{$t},\%critic,1);
     }
     $i++;
   }
@@ -319,8 +341,11 @@ sub _dump {
   my $numc = scalar(keys(%critic));
   $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
                   $numc - scalar(keys(%badcritic)),$numc;
-  $out .= "<i>filter stddev >2.5 from avg</i>\n";
-  $out .= "stddev name (magazine, cn) numratings <i>±diff</i>\n<table>\n";
+  $out .= "<i>filter stddev >2.5 from avg</i><br>\n";
+  $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
+* &gt:1.5 over-rater,
+* &lt;-1.5 under-rater,
+* -1.5 - 1.5 deviant ratings in boths directions. e.g. cealing effect\">±diff</i>\n<table>\n";
   if ($numc) {
     for (sort 
 	 {
@@ -335,8 +360,11 @@ sub _dump {
       my $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
-      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td>%d&nbsp;<i>%+0.1f</i></td></tr>\n",
-      $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
+      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td><a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a></td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
+      if (Dancer::SharedData->request and _show_detail($i)) {
+	$out .= _critic_detail($_,$critic{$_});
+      }
+      $i++;
       # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
     }
   }
