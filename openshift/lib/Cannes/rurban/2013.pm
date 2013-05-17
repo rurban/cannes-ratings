@@ -29,7 +29,7 @@ our $DATA= <<'EOF';
 
 "HELI" (Amat ESCALANTE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409854/year/2013.html
-Roger Alan Koza      
+Roger Alan Koza      6
 Diego Batlle         4.5
 Diego Lerer          6
 Alex Vicente         
@@ -39,7 +39,7 @@ Fernando Ganzo
 Eulàlia Iglesias     6
 Ángel Quintana       6
 José Luis Losa       7.5
-Pedro Butcher        
+Pedro Butcher        4
 Kieron Corless       
 Luciano Barisone     7
 Carlo Chatrian       
@@ -66,7 +66,7 @@ Philipp Engel        7
 Eugenio Renzi        
 Michal Oleszczyk     7.5
 Pablo O. Scholz      4.5
-Alejandro G. Calvo   2
+Alejandro G. Calvo   
 Xavi Serra           5.5
 Guido Castillo       5
 Ronald Rovers        7.5
@@ -97,20 +97,19 @@ Till Kadritzke       5       +- http://www.critic.de/film/heli-5547/
 Daniel Kasman        2.5     -- http://jury.critic.de/cannes/ 
 Michael Kienzl       6       +  http://jury.critic.de/cannes/ 
 
-
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
-Roger Koza            
+Roger Koza            5.5
 Diego Batlle          6
 Diego Lerer           6
 Alex Vicente          
 Jose Luis De Lorenzo  7
 Cecilia Martinez      8
 Fernando Ganzo        4
-Eulàlia Iglesias     7
-Ángel Quintana       7
-José Luis Losa       6
-Pedro Butcher         
+Eulàlia Iglesias      7
+Ángel Quintana        7
+José Luis Losa        6
+Pedro Butcher         6
 Kieron Corless        
 Luciano Barisone      6
 Carlo Chatrian        
@@ -130,21 +129,21 @@ Marcelo Alderete
 Alexandra Zawia       6.5
 Boris Nelepo          3
 Carlos Reviriego      6.5
-Fernando Juan Lima    
+Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7.5
 Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      6.5
 Pablo O. Scholz       6
-Alejandro G. Calvo    6
+Alejandro G. Calvo    5.5
 Xavi Serra            6
 Guido Castillo        
 Ronald Rovers         
 Javier H. Estrada     4.5
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         
+Alvaro Arroba        3.5
 Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
@@ -174,17 +173,17 @@ Michael Kienzl       5       +- http://jury.critic.de/cannes/
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
-Roger Koza            
+Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           8.5     http://micropsia.otroscines.com/2013/05/cannes-2013-a-touch-of-sin-de-jia-zhang-ke-competencia/
 Alex Vicente          
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        3
-Eulàlia Iglesias     6.5
-Ángel Quintana       8.5
-José Luis Losa       7
-Pedro Butcher         
+Eulàlia Iglesias      6.5
+Ángel Quintana        8.5
+José Luis Losa        7
+Pedro Butcher         8.5
 Kieron Corless        
 Luciano Barisone      8
 Carlo Chatrian        5
@@ -204,7 +203,7 @@ Marcelo Alderete
 Alexandra Zawia       8.5
 Boris Nelepo          6
 Carlos Reviriego      
-Fernando Juan Lima    
+Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           6.5
 Philip Engel          
@@ -218,7 +217,7 @@ Ronald Rovers         6.5
 Javier H. Estrada     8.5
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         
+Alvaro Arroba         4
 Mike d'Angelo        5.9      https://twitter.com/gemko/status/335075307751108608
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
@@ -234,12 +233,51 @@ Michael Kienzl       7.5     ++  http://www.critic.de/film/a-touch-of-sin-5598/
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
 Mike d'Angelo         8.2     https://twitter.com/gemko/status/335358264902549504
+Roger Koza            
 Diego Batlle          6.5
-Eulàlia Iglesias      6.5
-José Luis Losa        6
-Rüdiger Suchsland     8
+Diego Lerer           6.5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
+Eulàlia Iglesias     6.5
+Ángel Quintana       
+José Luis Losa       6
+Pedro Butcher         1
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            
+Rüdiger Suchsland    8
+Carlos F. Heredero    
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    4.5
+Paolo Bertolin        
 Nando Salva           8
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    
+Xavi Serra            
+Guido Castillo        
 Ronald Rovers         7.5
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         2.5
 Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
 Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-past/5056283.article?blocktitle=Latest-Reviews&contentID=592
 Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-review-the-past-a-mostly-powerful-look-at-the-messiness-of-stasis-20130517
@@ -261,6 +299,7 @@ Michael Kienzl        7.5     ++ http://www.critic.de/film/the-past-5535/
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
+Boris Nelepo          4
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -357,7 +396,7 @@ Ronald Rovers        7.5
 Javier H. Estrada    6.5
 Rose Kuo             
 Pamela Bienzobas     
-Alvaro Arroba        
+Alvaro Arroba        1.5
 Eric Kohn            6   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Peter Bradshaw       6   http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
 Guy Lodge            7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
@@ -419,7 +458,7 @@ Marcelo Alderete
 Alexandra Zawia      1.5
 Boris Nelepo         
 Carlos Reviriego     1
-Fernando Juan Lima   
+Fernando Juan Lima   4
 Paolo Bertolin       
 Nando Salva          1
 Philipp Engel        2.5
@@ -449,7 +488,10 @@ Michael Kienzl       4       -   http://jury.critic.de/cannes/
 Mike d'Angelo        5       https://twitter.com/gemko/status/335358983126798338
 Diego Lerer          5.5
 Eulàlia Iglesias     7.5
+Boris Nelepo         7.5
+Fernando Juan Lima   8
 Alejandro G. Calvo   7
+Alvaro Arroba        7.5
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 Adam Cook            6       + http://jury.critic.de/cannes/
 Arnaud Hee 
@@ -462,6 +504,7 @@ Michael Kienzl
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
+Fernando Juan Lima    3.5
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
 
@@ -556,7 +599,7 @@ Ronald Rovers         6
 Javier H. Estrada     3
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         
+Alvaro Arroba         1.5
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -621,6 +664,7 @@ Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-b
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
+Roger Koza            6
 José Luis Losa        0
 Javier H. Estrada     7
 
@@ -670,9 +714,11 @@ Neil Young            6.5
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
+Roger Koza            6
 Diego Batlle          8
 Luciano Monteagudo    8.5
-Boris Nelepo          5  -
+Boris Nelepo          5
+Alejandro G. Calvo    6
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 
