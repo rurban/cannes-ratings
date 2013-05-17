@@ -96,6 +96,7 @@ Frédéric Jaeger      4       -  http://jury.critic.de/cannes/
 Till Kadritzke       5       +- http://www.critic.de/film/heli-5547/
 Daniel Kasman        2.5     -- http://jury.critic.de/cannes/ 
 Michael Kienzl       6       +  http://jury.critic.de/cannes/ 
+Marc van de Klashorst 4         http://icsfilm.org/news/184-cannes-2013-review-heli
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -116,7 +117,7 @@ Carlo Chatrian
 Violeta Kovacsics     
 Luciano Monteagudo    5.5
 Jaime Pena            5
-Rüdiger Suchsland    7
+Rüdiger Suchsland     7
 Carlos F. Heredero    5
 Robert Koehler        5
 Dana Linssen          
@@ -283,6 +284,7 @@ Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-
 Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-review-the-past-a-mostly-powerful-look-at-the-messiness-of-stasis-20130517
 Beatrice Behn         8       http://www.indiewire.com/film/the-past
 Clementine Gallot     8       http://www.indiewire.com/film/the-past
+Patrick Heidmann      5       http://www.indiewire.com/film/the-past
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
@@ -662,6 +664,12 @@ Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/a
 Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
+Ethan Anderton (FirstShowing.net)       8       http://www.indiewire.com/film/aint-them-bodies-saints
+Don Simpson (Smells Like Screen Spirit) 9       http://www.indiewire.com/film/aint-them-bodies-saints
+Allison Loring (Film School Rejects)    9       http://www.indiewire.com/film/aint-them-bodies-saints
+A.A. Dowd (Time Out Chicago)            4       http://www.indiewire.com/film/aint-them-bodies-saints
+Jordan Raup (The Film Stage)            8       http://www.indiewire.com/film/aint-them-bodies-saints
+
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 Roger Koza            6
@@ -712,6 +720,7 @@ Michael Kienzl
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Neil Young            6.5
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
+Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
