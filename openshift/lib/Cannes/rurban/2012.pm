@@ -62,7 +62,7 @@ Rüdiger Suchsland  8
 Scott Foundas  9
 Violeta Kovacsics 7
 Xavi Serra 8
- IonCinema:
+# IonCinema:
 Christophe Beney 6
 David Calhoun 7
 Per Juul Carlsen 5
@@ -79,7 +79,7 @@ Cédric Succivalli 6
 Clarence Tsui 6
 Blake Williams 5 C+
 Liu Min 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 5
 Fabrice Leclerc 2.5
@@ -95,7 +95,7 @@ Pierre Fornerod 5
 Pascal Merigeau 2.5
 Danielle Attali 5
 Christophe Carriére 5
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 7.5
 Derek Malcolm 7.5
@@ -119,7 +119,7 @@ Pete Hammond (Boxoffice Magazine, USA) 8
 Peter Debruge (Variety, USA) 7
 David Edelstein (New York Magazine-Vulture, USA) 7
 Nev Pierce (Empire, USA) 8
- Indiewire (35):
+# Indiewire (35):
 Simon Abrams 9 A
 Ryland Aldrich 9 A
 Raffi Asdourian 6 B
@@ -151,7 +151,7 @@ Drew Taylor (The Playlist, USA) 9 A
 Anne Thompson 8 A-
 Ignatiy Vishnevetsky (Freelance, USA) 7 B+
 Sarah Watt
- Other:
+# Other:
 Simon Gallagher 8 A-
 David Gritten (The Telegraph, UK) 8
 Alex Billington 7
@@ -192,7 +192,7 @@ Rüdiger Suchsland  5
 Scott Foundas  8
 Violeta Kovacsics 2
 Xavi Serra  6
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 5
 Per Juul Carlsen 8
@@ -209,7 +209,7 @@ Clarence Tsui 7
 Blake Williams 4
 Liu Min 7
 Eric Kohn 7
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 9
 Derek Malcolm 7.5
@@ -220,9 +220,9 @@ Michel Ciment 9
 Kate Muir 7.5
 Bo Green Jensen 7.5
 Screen International 7.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 9
-Arnaud schwartz 5
+Arnaud Schwartz 5
 Fabrice Leclerc 9
 Eric Neuhoff 7.5
 Stéphane Delorme 2.5
@@ -236,7 +236,7 @@ Pierre Fornerod 7.5
 Pascal Merigeau 7.5
 Danielle Attali 9
 Christophe Carriére 7.5
- Indiewire: (23)
+# Indiewire: (23)
 Ryland Aldrich 7 B+ 
 Raffi Asdourian 5 B-
 Anna Bielak 3 C
@@ -253,7 +253,6 @@ Michal Oleszczyk 0.5 D
 Eric D. Snider (Film.com, USA) 7 B+
 Anne Thompson 8 A-
 Sarah Watt (Sunday Star Times, New Zealand) 10 A+
- Other:
 Peter Bradshaw 8
 Simon Gallagher 9 A
 David Gritten (The Telegraph, UK) 8
@@ -295,7 +294,7 @@ Scott Foundas  8.5
 Thomas Fioretti 8.3
 Violeta Kovacsics 9
 Xavi Serra 8.2
- IonCinema:
+# IonCinema:
 Christophe Beney 8
 David Calhoun 4
 Per Juul Carlsen 9
@@ -312,7 +311,7 @@ Clarence Tsui
 Blake Williams 9 A-
 Liu Min 9
 Eric Kohn 8 A-
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 5
 Derek Malcolm 2.5
@@ -323,7 +322,7 @@ Michel Ciment 2.5
 Kate Muir 7.5
 Bo Green Jensen 9
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 2.5
 Fabrice Leclerc 9
@@ -339,7 +338,7 @@ Pierre Fornerod 2.5
 Pascal Merigeau 7.5
 Danielle Attali 7.5
 Christophe Carriére 
- Indiewire (11):
+# Indiewire (11):
 Simon Abrams 
 Ryland Aldrich
 Raffi Asdourian 7 B+
@@ -372,7 +371,7 @@ Drew Taylor
 Anne Thompson 
 Ignatiy Vishnevetsky 
 Sarah Watt
- Other:
+# Other:
 Simon Gallagher 7 B+
 Drew McWeeny 10 A+
 Derek Malcolm (London Evening Standard, UK) 4
@@ -407,7 +406,7 @@ Rüdiger Suchsland  7
 Scott Foundas  8
 Violeta Kovacsics 8.5
 Xavi Serra  7.5
- IonCinema:
+# IonCinema:
 Christophe Beney 4
 David Calhoun
 Per Juul Carlsen 
@@ -424,7 +423,7 @@ Clarence Tsui
 Blake Williams 7
 Liu Min 5
 Eric Kohn 6 B
- Screen Daily:
+# Screen Daily:
 Nick James 7.5
 David Stratton 5
 Derek Malcolm 7.5
@@ -435,7 +434,7 @@ Michel Ciment 7.5
 Kate Muir 5
 Bo Green Jensen 5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 2.5
 Fabrice Leclerc 5
@@ -451,7 +450,7 @@ Pierre Fornerod 2.5
 Pascal Merigeau 2.5
 Danielle Attali 9
 Christophe Carriére 1
- Indiewire: (8)
+# Indiewire: (8)
 Simon Abrams 9 A
 Raffi Asdourian 3 C
 Anna Bielak 2 C-
@@ -464,7 +463,7 @@ Glenn Heath Jr. 5 B
 James Rocchi 8 [4/5]
 Michal Oleszczyk 7
 Anna Tatarska 2 C-
- Other:
+# Other:
 Serge Kaganski (Les Inrockuptibles, France) 10
 Francois Forestier (Le nouvel Observateur, France) 8
 Pierre Murat 8
@@ -496,7 +495,7 @@ Philipp Engel 1
 Scott Foundas  2.5
 Violeta Kovacsics 2
 Xavi Serra  2
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 
 Per Juul Carlsen 
@@ -514,7 +513,7 @@ Clarence Tsui
 Blake Williams 5
 Liu Min 5
 Eric Kohn 1.5 D+
- Screen Daily:
+# Screen Daily:
 Nick James 2.5
 David Stratton 
 Derek Malcolm 
@@ -525,7 +524,7 @@ Michel Ciment 5
 Kate Muir 5
 Bo Green Jensen 5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 2.5
 Arnaud schwartz 1
 Fabrice Leclerc 7.5
@@ -541,7 +540,7 @@ Pierre Fornerod 5
 Pascal Merigeau 2.5
 Danielle Attali 7.5
 Christophe Carriére 
- Indiewire (4):
+# Indiewire (4):
 Simon Abrams 
 Ryland Aldrich
 Raffi Asdourian 
@@ -566,8 +565,7 @@ Patrick Z. McGavin
 Michal Oleszczyk
 Kristy Puchko 
 Jordan Raup 
-James Rocchi 0 F
-  Lurid, humid, squalid and stupid -- a massive failure in every way. bit.ly/KG7wqv
+James Rocchi 0 F   Lurid, humid, squalid and stupid -- a massive failure in every way. bit.ly/KG7wqv
 Jonathan Rosenbaum
 Eric D. Snider
 Anna Tatarska 
@@ -575,7 +573,7 @@ Drew Taylor
 Anne Thompson 
 Ignatiy Vishnevetsky 
 Sarah Watt
- Other:
+# Other:
 Peter Bradshaw (Guardian, UK) 8
 Xan Brooks (Guardian, UK) 0
 Simon Gallagher 4 C+
@@ -610,7 +608,7 @@ Roger Alan Koza  5.5
 Scott Foundas  3
 Violeta Kovacsics 7
 Xavi Serra  7.5
- IonCinema:
+# IonCinema:
 Christophe Beney 0
 David Calhoun
 Per Juul Carlsen 
@@ -627,7 +625,7 @@ Clarence Tsui
 Blake Williams 7
 Liu Min 
 Eric Kohn 7 B+
- Screen Daily:
+# Screen Daily:
 Nick James 7.5
 David Stratton 9
 Derek Malcolm 5
@@ -638,7 +636,7 @@ Michel Ciment 7.5
 Kate Muir 7.5
 Bo Green Jensen 7.5
 Screen International 9
- Le film français:
+# Le film français:
 Stéphanie Lamome 5
 Arnaud schwartz 5
 Fabrice Leclerc 7.5
@@ -654,7 +652,7 @@ Pierre Fornerod 5
 Pascal Merigeau 2.5
 Danielle Attali 1
 Christophe Carriére 
- Indiewire: (17)
+# Indiewire: (17)
 Simon Abrams 7 B+
 Kaleen Aftab 8 A-
 Raffi Asdourian 8 A-
@@ -676,7 +674,7 @@ Eric D. Snider
 Anna Tatarska 4 C+
 Drew Taylor 
 Anne Thompson 5 B-
- Other:
+# Other:
 Peter Bradshaw 8
 James Rocchi 5
 Simon Gallagher 8 A-
@@ -711,7 +709,7 @@ Rüdiger Suchsland  4.5
 Scott Foundas  6.5
 Violeta Kovacsics 4
 Xavi Serra  6
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 5
 Per Juul Carlsen 6
@@ -728,7 +726,7 @@ Clarence Tsui 4
 Blake Williams 6 B-
 Liu Min 5
 Eric Kohn 8 A-
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 5
 Derek Malcolm 5
@@ -739,7 +737,7 @@ Michel Ciment 5
 Kate Muir 5
 Bo Green Jensen 5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 7.5
 Fabrice Leclerc 7.5
@@ -755,7 +753,7 @@ Pierre Fornerod 5
 Pascal Merigeau 5
 Danielle Attali 5
 Christophe Carriére 7.5
- Indiewire: (18)
+# Indiewire: (18)
 Ryland Aldrich 8 A-
 Raffi Asdourian 8 A-
 David Fear 7 B+
@@ -769,7 +767,7 @@ Frédéric Jaeger 8 A-
 Patrick Z. McGavin 4 C+
 Michal Oleszczyk 7 B+
 Sarah Watt 8 A-
- Other:
+# Other:
 Peter Bradshaw 6
 Simon Gallagher 7 B+
 Robbie Collins (The Telegraph, UK) 8
@@ -808,7 +806,7 @@ Rüdiger Suchsland  9.5
 Scott Foundas  10
 Violeta Kovacsics 9
 Xavi Serra  7.75
- IonCinema:
+# IonCinema:
 Christophe Beney 10
 David Calhoun 9
 Per Juul Carlsen 6
@@ -825,7 +823,7 @@ Clarence Tsui 8
 Blake Williams 7
 Liu Min 7
 Eric Kohn 8 A-
- Screen Daily:
+# Screen Daily:
 Nick James 9
 David Stratton 7.5
 Derek Malcolm 7.5
@@ -836,7 +834,7 @@ Michel Ciment 7.5
 Kate Muir 9
 Bo Green Jensen 7.5
 Screen International 9
- Le film français:
+# Le film français:
 Stéphanie Lamome 9
 Arnaud schwartz 9
 Fabrice Leclerc 7.5
@@ -852,7 +850,7 @@ Pierre Fornerod 9
 Pascal Merigeau 7.5
 Danielle Attali 9
 Christophe Carriére 7.5
- Indiewire: (23)
+# Indiewire: (23)
 Simon Abrams 7 B+
 Raffi Asdourian 9 A
 Anna Bielak 7 B+
@@ -873,7 +871,7 @@ Eric D. Snider 6 B
 Anna Tatarska 7 B+
 Drew Taylor 
 Anne Thompson 9 A
- Other:
+# Other:
 Peter Bradshaw 10
 
 "LAWLESS" (John Hillcoat) [Competition]
@@ -905,7 +903,7 @@ Rüdiger Suchsland  6
 Scott Foundas  4
 Violeta Kovacsics 6
 Xavi Serra  6
- IonCinema:
+# IonCinema:
 Christophe Beney 2
 David Calhoun 5
 Per Juul Carlsen 7
@@ -922,7 +920,7 @@ Clarence Tsui 5
 Blake Williams 4 C
 Liu Min 
 Eric Kohn 2 C-
- Screen Daily:
+# Screen Daily:
 Nick James 2.5
 David Stratton 7.5
 Derek Malcolm 5
@@ -933,7 +931,7 @@ Michel Ciment 5
 Kate Muir 5
 Bo Green Jensen 5
 Screen International 5
- Le film français (Des Hommes sans loi)
+# Le film français (Des Hommes sans loi)
 Stéphanie Lamome 7.5
 Arnaud schwartz 5
 Fabrice Leclerc 7.5
@@ -949,7 +947,7 @@ Pierre Fornerod 5
 Pascal Merigeau 2.5
 Danielle Attali 5
 Christophe Carriére 2.5
- Indiewire: (24)
+# Indiewire: (24)
 Ryland Aldrich 8 A-
 Raffi Asdourian 6 B
 Anna Bielak 5 B-
@@ -968,7 +966,7 @@ Michal Oleszczyk 0 F
 Eric D. Snider 6 B
 Anne Thompson 6 B
 Sarah Watt 7 B+
- Other:
+# Other:
 Peter Bradshaw 4
 Simon Gallagher 10 A+
 Robbie Collins (The Telegraph, UK) 6
@@ -1011,7 +1009,7 @@ Scott Foundas  5
 Thomas Fioretti 8.5
 Violeta Kovacsics 7.5
 Xavi Serra  7.25
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 5
 Per Juul Carlsen 2 
@@ -1028,7 +1026,7 @@ Clarence Tsui 3
 Blake Williams 6 B-
 Liu Min 
 Eric Kohn 
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 
 Derek Malcolm 5
@@ -1039,7 +1037,7 @@ Michel Ciment 2.5
 Kate Muir 5
 Bo Green Jensen 7.5
 Screen International 7.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 2.5
 Arnaud schwartz 2.5
 Fabrice Leclerc 
@@ -1055,7 +1053,7 @@ Pierre Fornerod 2.5
 Pascal Merigeau 2.5
 Danielle Attali 1
 Christophe Carriére 1
- Indiewire (11):
+# Indiewire (11):
 Raffi Asdourian
 Anna Bielak
 Alex Billington
@@ -1073,7 +1071,7 @@ Emanuel Levy 7 B+
 Patrick Z. McGavin 7 B+
 Michal Oleszczyk
 Sarah Watt
- Other:
+# Other:
 Peter Bradshaw 6
 
 "DO-NUI MAT (TASTE OF MONEY)" (Im Sangsoo) [Competition]
@@ -1099,7 +1097,7 @@ Roger Alan Koza  2
 Scott Foundas  1
 Violeta Kovacsics 4.5
 Xavi Serra  4.5
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 
 Per Juul Carlsen 
@@ -1116,7 +1114,7 @@ Clarence Tsui
 Blake Williams 
 Liu Min 
 Eric Kohn 
- Screen Daily:
+# Screen Daily:
 Nick James 2.5
 David Stratton 2.5
 Derek Malcolm 
@@ -1127,7 +1125,7 @@ Michel Ciment 5
 Kate Muir 7.5
 Bo Green Jensen 5
 Screen International 2.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -1179,7 +1177,7 @@ Sergio Wolf 9
 Scott Foundas  9
 Violeta Kovacsics 7.5
 Xavi Serra  8
- IonCinema:
+# IonCinema:
 Christophe Beney 4
 David Calhoun 7
 Per Juul Carlsen 4
@@ -1196,7 +1194,7 @@ Clarence Tsui
 Blake Williams 8 B+
 Liu Min 
 Eric Kohn 7 B+
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 5
 Derek Malcolm 7.5
@@ -1207,7 +1205,7 @@ Michel Ciment 7.5
 Kate Muir 7.5
 Bo Green Jensen 5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 2.5
 Arnaud schwartz 2.5
 Fabrice Leclerc 2.5
@@ -1223,7 +1221,7 @@ Pierre Fornerod 1
 Pascal Merigeau 5
 Danielle Attali 1
 Christophe Carriére 2.5
- Indiewire: (16)
+# Indiewire: (16)
 Raffi Asdourian 8 A-
 Anna Bielak
 Alex Billington 8.5 B+
@@ -1241,7 +1239,7 @@ Emanuel Levy
 Patrick Z. McGavin 7 B+
 Michal Oleszczyk
 Sarah Watt 4 C+
- Other:
+# Other:
 Peter Bradshaw 4
 
 "THE ANGELS' SHARE" (Ken Loach) [Competition] Jury Price
@@ -1267,7 +1265,7 @@ Rüdiger Suchsland  4.5
 Scott Foundas  7
 Violeta Kovacsics 3
 Xavi Serra  5.5
- IonCinema:
+# IonCinema:
 Christophe Beney 6
 David Calhoun 
 Per Juul Carlsen 6
@@ -1284,7 +1282,7 @@ Clarence Tsui 4
 Blake Williams 6
 Liu Min 6
 Eric Kohn 4
- Screen Daily:
+# Screen Daily:
 Nick James 7.5
 David Stratton 7.5
 Derek Malcolm 7.5
@@ -1295,7 +1293,7 @@ Michel Ciment 7.5
 Kate Muir 7.5
 Bo Green Jensen 5
 Screen International 7.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 5
 Arnaud schwartz 5
 Fabrice Leclerc 
@@ -1311,7 +1309,7 @@ Pierre Fornerod 5
 Pascal Merigeau 5
 Danielle Attali 7.5
 Christophe Carriére 
- Indiewire (6):
+# Indiewire (6):
 Simon Abrams 3 C-
 Ryland Aldrich
 Raffi Asdourian
@@ -1343,7 +1341,7 @@ Drew Taylor
 Anne Thompson 
 Ignatiy Vishnevetsky 
 Sarah Watt
- Other:
+# Other:
 Peter Bradshaw 8
 Allan Hunter (Screen Daily, USA) 6
 Simon Gallagher 9 A
@@ -1375,7 +1373,7 @@ Rüdiger Suchsland  4
 Scott Foundas  7.5
 Violeta Kovacsics 6.5
 Xavi Serra  6.5
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 
 Per Juul Carlsen 7
@@ -1392,7 +1390,7 @@ Clarence Tsui
 Blake Williams 4 C+
 Liu Min 
 Eric Kohn 5 B
- Screen Daily:
+# Screen Daily:
 Nick James 9
 David Stratton 7.5
 Derek Malcolm 7.5
@@ -1403,7 +1401,7 @@ Michel Ciment 5
 Kate Muir 7.5
 Bo Green Jensen 7.5
 Screen International 9
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 7.5
 Fabrice Leclerc 
@@ -1419,14 +1417,14 @@ Pierre Fornerod 2.5
 Pascal Merigeau 5
 Danielle Attali 2.5
 Christophe Carriére 
- Indiewire: (4)
+# Indiewire: (4)
 Simon Abrams 9 A
 Ryland Aldrich
 Raffi Asdourian 7 B+
 Anna Bielak 2 C-
 Alex Billington  
 Anna Tatarska 7 B+
- Other:
+# Other:
 Peter Bradshaw 8
 
 "BEYOND THE HILLS" (Cristian Mungiu) [Competition] Best screenplay + actresses
@@ -1459,7 +1457,7 @@ Sergio Wolf 4
 Scott Foundas  9
 Violeta Kovacsics 5
 Xavi Serra  6
- IonCinema:
+# IonCinema:
 Christophe Beney 6
 David Calhoun 
 Per Juul Carlsen 5
@@ -1476,7 +1474,7 @@ Clarence Tsui
 Blake Williams 8 A-
 Liu Min 10
 Eric Kohn 6 B
- Screen Daily:
+# Screen Daily:
 Nick James 7.5
 David Stratton 9
 Derek Malcolm 9
@@ -1487,7 +1485,7 @@ Michel Ciment 9
 Kate Muir 5
 Bo Green Jensen 7.5
 Screen International 9
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 7.5
 Fabrice Leclerc 5
@@ -1503,7 +1501,7 @@ Pierre Fornerod 5
 Pascal Merigeau 
 Danielle Attali 2.5
 Christophe Carriére 2.5
- Indiewire: (17)
+# Indiewire: (17)
 Raffi Asdourian 3 C
 Anna Bielak 5 B-
 Alex Billington
@@ -1518,7 +1516,7 @@ Emanuel Levy 9 A
 Patrick Z. McGavin 9 A
 Michal Oleszczyk 2 C-
 Eric D. Snider 1 D
- Other:
+# Other:
 Drew McWeeny (InContention, USA) 2 C-
 Peter Bradshaw 8
 
@@ -1551,7 +1549,7 @@ Roger Alan Koza  3.5
 Rüdiger Suchsland  3
 Scott Foundas  4
 Violeta Kovacsics 5
- IonCinema:
+# IonCinema:
 Christophe Beney 2
 David Calhoun 3
 Per Juul Carlsen 4
@@ -1568,7 +1566,7 @@ Clarence Tsui 6
 Blake Williams 3
 Liu Min 4
 Eric Kohn 5
- Screen Daily:
+# Screen Daily:
 Nick James 2.5
 David Stratton 2.5
 Derek Malcolm 5
@@ -1579,7 +1577,7 @@ Michel Ciment 2.5
 Kate Muir 2.5
 Bo Green Jensen 5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 2.5
 Arnaud schwartz 2.5
 Fabrice Leclerc 
@@ -1606,7 +1604,7 @@ Glenn Heath Jr. 1 D
 Kevin Jagernauth 2 C-
 Patrick Z. McGavin 3 C 
 Michal Oleszczyk 0 F
- Other:
+# Other:
 David Gritten (The Telegraph, UK) 4
 
 "MUD" (Jeff Nichols) [Competition]
@@ -1630,7 +1628,7 @@ Roger Alan Koza  6
 Scott Foundas  7.5
 Violeta Kovacsics 6.5
 Xavi Serra  6.5
- IonCinema:
+# IonCinema:
 Christophe Beney
 David Calhoun
 Per Juul Carlsen 
@@ -1647,7 +1645,7 @@ Clarence Tsui
 Blake Williams 
 Liu Min 
 Eric Kohn 
- Screen Daily:
+# Screen Daily:
 Nick James 
 David Stratton 7.5
 Derek Malcolm 5
@@ -1658,7 +1656,7 @@ Michel Ciment 9
 Kate Muir 7.5
 Bo Green Jensen 5
 Screen International 9
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -1674,7 +1672,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire: (5) 
+# Indiewire: (5) 
 Simon Abrams 3 C "shallow and contrived coming of age story"
 Ryland Aldrich
 Raffi Asdourian 5 B-
@@ -1706,7 +1704,7 @@ Drew Taylor
 Anne Thompson 
 Ignatiy Vishnevetsky 
 Sarah Watt
- Other:
+# Other:
 Peter Bradshaw 6
 
 "VOUS N'AVEZ ENCORE RIEN VU (YOU AIN'T SEEN NOTHIN' YET)" (Alain Resnais) [Competition]
@@ -1741,7 +1739,7 @@ Rüdiger Suchsland  3.5
 Scott Foundas  8
 Violeta Kovacsics 8
 Xavi Serra  6.5
- IonCinema:
+# IonCinema:
 Christophe Beney 8
 David Calhoun 6
 Per Juul Carlsen 
@@ -1758,7 +1756,7 @@ Clarence Tsui 6
 Blake Williams 5 C+
 Liu Min 
 Eric Kohn 6 B
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 5
 Derek Malcolm 7.5
@@ -1769,7 +1767,7 @@ Michel Ciment 9
 Kate Muir 5
 Bo Green Jensen 5
 Screen International 7.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 9
 Fabrice Leclerc 7.5
@@ -1785,7 +1783,7 @@ Pierre Fornerod 7.5
 Pascal Merigeau 7.5
 Danielle Attali 7.5
 Christophe Carriére 9
- Indiewire: (4)
+# Indiewire: (4)
 Raffi Asdourian
 Anna Bielak
 Alex Billington
@@ -1801,7 +1799,7 @@ Emanuel Levy
 Patrick Z. McGavin
 Michal Oleszczyk
 Sarah Watt
- Other:
+# Other:
 Peter Bradshaw 4
 
 "POST TENEBRAS LUX" (Carlos Reygadas) [Competition] Best director
@@ -1834,7 +1832,7 @@ Rüdiger Suchsland  8
 Scott Foundas  9
 Violeta Kovacsics 3
 Xavi Serra  2
- IonCinema:
+# IonCinema:
 Christophe Beney 2
 David Calhoun
 Per Juul Carlsen 6
@@ -1852,7 +1850,7 @@ Clarence Tsui
 Blake Williams 4 C- 
 Liu Min 6
 Eric Kohn 5 B-
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 2.5
 Derek Malcolm 7.5
@@ -1863,7 +1861,7 @@ Michel Ciment 1
 Kate Muir 2.5
 Bo Green Jensen 7.5
 Screen International 7.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 5
 Arnaud schwartz 5
 Fabrice Leclerc 2.5
@@ -1879,7 +1877,7 @@ Pierre Fornerod 1
 Pascal Merigeau 2.5
 Danielle Attali 1
 Christophe Carriére 1
- Indiewire (8):
+# Indiewire (8):
 Simon Abrams 4 C+
 Ryland Aldrich
 Raffi Asdourian 
@@ -1912,7 +1910,7 @@ Drew Taylor
 Anne Thompson 
 Ignatiy Vishnevetsky 
 Sarah Watt
- Other:
+# Other:
 Peter Bradshaw 4
 
 "ON THE ROAD" (Walter Salles) [Competition]
@@ -1947,7 +1945,7 @@ Rüdiger Suchsland  2.5
 Scott Foundas  5.5
 Violeta Kovacsics 2
 Xavi Serra  5.5
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 
 Per Juul Carlsen 5 
@@ -1964,7 +1962,7 @@ Clarence Tsui
 Blake Williams 
 Liu Min 6
 Eric Kohn 6 B
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 7.5
 Derek Malcolm 7.5
@@ -1975,7 +1973,7 @@ Michel Ciment 7.5
 Kate Muir 5
 Bo Green Jensen 7.5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 2.5
 Fabrice Leclerc 
@@ -1991,7 +1989,7 @@ Pierre Fornerod 5
 Pascal Merigeau 7.5
 Danielle Attali 5
 Christophe Carriére 
- Indiewire (15):
+# Indiewire (15):
 Simon Abrams 
 Kaleen Aftab 5 B-
 Ryland Aldrich
@@ -2024,7 +2022,7 @@ Drew Taylor
 Anne Thompson 7 B+
 Ignatiy Vishnevetsky 
 Sarah Watt
- Other:
+# Other:
 Simon Gallagher 2 C-
 Lee Marshall (Screen Daily, USA) 4
 
@@ -2061,7 +2059,7 @@ Sergio Wolf 3
 Scott Foundas  8
 Violeta Kovacsics 7.5
 Xavi Serra  7.5
- IonCinema:
+# IonCinema:
 Christophe Beney 4
 David Calhoun 4
 Per Juul Carlsen 4
@@ -2078,7 +2076,7 @@ Clarence Tsui 4
 Blake Williams 6
 Liu Min 4
 Eric Kohn 
- Screen Daily:
+# Screen Daily:
 Nick James 5
 David Stratton 2.5
 Derek Malcolm 2.5
@@ -2089,7 +2087,7 @@ Michel Ciment 5
 Kate Muir 2.5
 Bo Green Jensen 2.5
 Screen International 5
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 5
 Fabrice Leclerc 2.5
@@ -2105,7 +2103,7 @@ Pierre Fornerod 2.5
 Pascal Merigeau 1
 Danielle Attali 7.5
 Christophe Carriére 5
- Indiewire: (17)
+# Indiewire: (17)
 Ryland Aldrich 8 A-
 Anna Bielak 7 B+
 David Fear 8 A-
@@ -2118,7 +2116,7 @@ Frédéric Jaeger 8 A-
 Patrick Z. McGavin 6 B
 Michal Oleszczyk 2 C-
 Anna Tatarska 8 A-
- Other:
+# Other:
 Peter Bradshaw 6
 Simon Gallagher 2 C-
 Ruta Buciunaite 8
@@ -2148,7 +2146,7 @@ Pedro Butcher 2.5
 Robert Koehler 7.5
 Violeta Kovacsics 2
 Xavi Serra  4
- IonCinema:
+# IonCinema:
 Christophe Beney 0
 David Calhoun 5
 Per Juul Carlsen 8
@@ -2165,7 +2163,7 @@ Clarence Tsui
 Blake Williams 6 B-
 Liu Min 10
 Eric Kohn 
- Screen Daily:
+# Screen Daily:
 Nick James 7.5
 David Stratton 7.5
 Derek Malcolm 7.5
@@ -2176,7 +2174,7 @@ Michel Ciment 5
 Kate Muir 9
 Bo Green Jensen 9
 Screen International 7.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 2.5
 Arnaud schwartz 7.5
 Fabrice Leclerc 2.5
@@ -2192,7 +2190,7 @@ Pierre Fornerod 7.5
 Pascal Merigeau 2.5
 Danielle Attali 5
 Christophe Carriére 5
- Indiewire: (14)
+# Indiewire: (14)
 Raffi Asdourian 6 B
 Anna Bielak
 Alex Billington 4 C+
@@ -2209,14 +2207,14 @@ Patrick Z. McGavin 5 B-
 Michal Oleszczyk
 Anne Thompson 7 B+
 Sarah Watt 6 B
- Other:
+# Other:
 Peter Bradshaw 8
 Ruta Buciunaite 10
 Simon Gallagher 10 A+
 
 "THERESE DESQUEYROUX" (Claude Miller) [Out of Competition]
  forgotten in the todoslascriticas spreadsheet
- IonCinema:
+# IonCinema:
 Christophe Beney 
 David Calhoun 
 Per Juul Carlsen 
@@ -2233,7 +2231,7 @@ Clarence Tsui
 Blake Williams 
 Liu Min 6
 Eric Kohn 
- Le film français:
+# Le film français:
 Stéphanie Lamome 5
 Arnaud schwartz 
 Fabrice Leclerc 5
@@ -2249,7 +2247,7 @@ Pierre Fornerod 5
 Pascal Merigeau 5
 Danielle Attali 5
 Christophe Carriére 7.5
- Indiewire (1):
+# Indiewire (1):
 Simon Abrams 3 C
 
 UN CERTAIN REGARD
@@ -2269,7 +2267,7 @@ Neil Young 5 C+
 Robert Koehler 2
 Roger Alan Koza  1
 Rüdiger Suchsland  7
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 2.5
 Fabrice Leclerc 
@@ -2285,7 +2283,7 @@ Pierre Fornerod 2.5
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire: (4)
+# Indiewire: (4)
 Raffi Asdourian 4 C+
 Anna Bielak
 Alex Billington
@@ -2304,7 +2302,7 @@ Patrick Z. McGavin
 Michal Oleszczyk
 Sarah Watt
 Blake Williams 4 C+
- Other:
+# Other:
 Peter Bradshaw 6
 Simon Gallagher 6 B
 
@@ -2320,7 +2318,7 @@ Kong Rithdee 5
 Luciano Barisone 7
 Robert Koehler 6
 Roger Alan Koza  3.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2353,10 +2351,10 @@ Neil Young 7 B
 Pedro Butcher 4
 Roger Alan Koza  6
 Rüdiger Suchsland  5
- Other:
+# Other:
 Mike d'Angelo 
   w/o This is an amazing year but UCR does seem kinda blah. Totally generic downtrodden-kid saga
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2381,7 +2379,7 @@ Dana Linssen 4.9
 Fernando Juan Lima 7
 Jaime Pena 3
 José Luis de Lorenzo 8
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 7
 Fabrice Leclerc 
@@ -2397,7 +2395,7 @@ Pierre Fornerod
 Pascal Merigeau 2.5
 Danielle Attali 
 Christophe Carriére 
- Indiewire: (2)
+# Indiewire: (2)
 Kaleen Aftab 7 B+
 Ryland Aldrich 5 B-
 
@@ -2406,7 +2404,7 @@ Carlo Chatrian 2
 Diego Batlle 5.5
 Diego Lerer 4.8
 Fernando Ganzo 3
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2422,7 +2420,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire: (1)
+# Indiewire: (1)
 Blake Williams 3 C
 
 "ANTIVIRAL" (Brandon Cronenberg) [Un Certain Regard]
@@ -2453,7 +2451,7 @@ Rüdiger Suchsland  6.5
 Sergio Wolf 4
 Violeta Kovacsics 5.5
 Xavi Serra  6
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2469,7 +2467,7 @@ Pierre Fornerod 1
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire: (13)
+# Indiewire: (13)
 Simon Abrams 6 B
 Raffi Asdourian 4 C+
 Anna Bielak 3 C
@@ -2493,7 +2491,7 @@ Michal Oleszczyk
 Eric D. Snider 5 B-
 Sarah Watt
 Blake Williams 3 C
- Other:
+# Other:
 James Rocchi 5
 Simon Gallagher 7 B+
 
@@ -2508,7 +2506,7 @@ Fernando Juan Lima 5
 Nando Salva 3.5
 Roger Alan Koza  3.5
 Rüdiger Suchsland  2.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2524,7 +2522,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 2.5
- Other:
+# Other:
 Blake Williams 2 C-
 Mike d'Angelo 4.6 - Suleiman's film is typically good, Noé's is scary-sensual, everything else is passable to dreck to Medem.
 
@@ -2539,7 +2537,7 @@ José Luis de Lorenzo 6
 Luciano Barisone 7
 Rüdiger Suchsland  1
 Sergio Wolf 4
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 7.5
 Fabrice Leclerc 
@@ -2555,7 +2553,7 @@ Pierre Fornerod 5
 Pascal Merigeau 7.5
 Danielle Attali 7.5
 Christophe Carriére 7.5
- Indiewire (2):
+# Indiewire (2):
 Michael Ghennam 7 B+
 Aaron Hillis 4 C+
 
@@ -2575,7 +2573,7 @@ Kong Rithdee 6.5
 Marcelo Alderete 4
 Philipp Engel 4.5
 Violeta Kovacsics 5.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 5
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2591,7 +2589,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire (13):
+# Indiewire (13):
 Kaleen Aftab 6 B
 Anna Bielak 5 B-
 Alex Billington 8 A-
@@ -2614,7 +2612,7 @@ Drew Taylor
 Anne Thompson
 Guy Lodge 4 C+
 Eric Kohn 4 C+
- Other:
+# Other:
 Simon Gallagher 2 C-
 Ruta Buciunaite 8
 
@@ -2625,7 +2623,7 @@ Diego Lerer 2.5
 Luciano Barisone 3
 Roger Alan Koza  1
 Rüdiger Suchsland  7
- Le film français:
+# Le film français:
 Stéphanie Lamome 7.5
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2641,7 +2639,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire: (1)
+# Indiewire: (1)
 Kaleen Aftab 8 A-
 
 "AIMER À PERDRE LA RAISON (OUR CHILDREN/LOVING WITHOUT REASON)" (Joachim Lafosse) [Un Certain Regard]
@@ -2656,7 +2654,7 @@ Martial Pisani 1
 Scott Foundas  8
 Thomas Fioretti 3
 Mike d'Angelo W/O
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 7.5
 Fabrice Leclerc 
@@ -2672,7 +2670,7 @@ Pierre Fornerod 7.5
 Pascal Merigeau 5
 Danielle Attali 5
 Christophe Carriére 
- Indiewire: (3)
+# Indiewire: (3)
 Michael Ghennam 5 B
 Frédéric Jaeger 3 C
 Blake Williams 3 C
@@ -2697,7 +2695,7 @@ Martial Pisani 8.1
 Neil Young 6
 Robert Koehler 8
 Roger Alan Koza  8.5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 5
 Fabrice Leclerc 
@@ -2719,7 +2717,7 @@ Carlo Chatrian 5.05
 Diego Batlle 6
 Diego Lerer 5.6
 Luciano Barisone 7
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 5
 Fabrice Leclerc 7.5
@@ -2735,7 +2733,7 @@ Pierre Fornerod 5
 Pascal Merigeau 
 Danielle Attali 5
 Christophe Carriére 
- Indiewire: (1)
+# Indiewire: (1)
 Blake Williams 4 C+
 
 "ELEFANTE BLANCO" (Pablo Trapero) [Un Certain Regard]
@@ -2757,7 +2755,7 @@ Robert Koehler 2
 Roger Alan Koza  6
 Rüdiger Suchsland  7.7
 Violeta Kovacsics 4
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 5
 Fabrice Leclerc 
@@ -2773,11 +2771,11 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Indiewire (3):
+# Indiewire (3):
 Anna Bielak 2 C-
 Michael Ghennam 7 B+
 Patrick Z. McGavin 3 C
- Other:
+# Other:
 Ruta Buciunaite 6
 
 "CONFESSION OF A CHILD OF THE CENTURY" (Sylvie Verheyde) [Un Certain Regard]
@@ -2788,7 +2786,7 @@ Carlos Reviriego 4.5
 Fernando Juan Lima 4.5
 Jaime Pena 4
 Marcelo Alderete 3
- Le film français:
+# Le film français:
 Stéphanie Lamome 5
 Arnaud schwartz 2.5
 Fabrice Leclerc 
@@ -2804,7 +2802,7 @@ Pierre Fornerod 1
 Pascal Merigeau 7.5
 Danielle Attali 
 Christophe Carriére 
- Other:
+# Other:
 Catherine Shoard (Guardian, UK) 2
 
 "11.25 THE DAY MISHIMA CHOSE HIS OWN FATE" (Koji Wakamatsu) [Un Certain Regard]
@@ -2828,7 +2826,7 @@ Roger Alan Koza  6.7
 Rüdiger Suchsland  6.2
 Thomas Fioretti 8.4
 Violeta Kovacsics 6
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -2871,7 +2869,7 @@ Robert Koehler 3 D-
 Sergio Wolf 3
 Scott Foundas  10
 Xavi Serra  5
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 7.4
 Fabrice Leclerc 
@@ -2887,7 +2885,7 @@ Pierre Fornerod 7.5
 Pascal Merigeau 5
 Danielle Attali 
 Christophe Carriére 
- Indiewire (39):
+# Indiewire (39):
 Simon Abrams 8 A-
 Ryland Aldrich 9 A
 Raffi Asdourian 8 A-
@@ -2942,7 +2940,7 @@ Kim Voynar (Movie City News, USA) 9 A
 Ignatiy Vishnevetsky 
 Chase Whale (Twitch Film, MTV's NextMovie, USA) 9 A
 Sarah Watt
- Other:
+# Other:
 Guy Lodge 6 B
 
 "DJECA" (Aida Begic) [Un Certain Regard] UCR Special Jury Mention
@@ -2956,7 +2954,7 @@ José Luis de Lorenzo 5
 Luciano Barisone 8
 Robert Koehler 5
 Rüdiger Suchsland  7
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 5
 Fabrice Leclerc 
@@ -2972,7 +2970,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 
 Christophe Carriére 
- Other:
+# Other:
 Peter Bradshaw 6
 
 "GIMME THE LOOT" (Adam Leon) [Un Certain Regard]
@@ -2987,7 +2985,7 @@ Javier H. Estrada 5.5
 Marcelo Alderete 6
 Pedro Butcher 5
 Scott Foundas  8
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -3003,7 +3001,7 @@ Pierre Fornerod
 Pascal Merigeau 
 Danielle Attali 5
 Christophe Carriére 2.5
- Other:
+# Other:
 Don Simpson (Smells Like Screen Spirit, USA) 6
 Andrew Schenker (Slant, USA) 6.5
 Reini Urban (facebook, Austria) 4
@@ -3013,7 +3011,7 @@ Simon Gallagher 6 B
 Carlos Reviriego 5.5
 Manu Yáñez 5
 Roger Alan Koza  5.8
- Le film français:
+# Le film français:
 Stéphanie Lamome 
 Arnaud schwartz 
 Fabrice Leclerc 
@@ -3035,7 +3033,7 @@ SEMANA DE LA CRÍTICA
 "BROKEN" (Rufus Norris) [Semaine]
 Jaime Pena 3
 Pedro Butcher 1.5
- Other:
+# Other:
 Peter Bradshaw 4
 Derek Malcolm (London Evening Standard, UK) 6
 
@@ -3202,7 +3200,7 @@ Roger Alan Koza  6
 Sergio Wolf 9
 Scott Foundas  7.5
 Violeta Kovacsics 8
- Other:
+# Other:
 Mike d'Angelo 5.6
 
 "LA SIRGA" (William Vega) [Quinzaine]
@@ -3237,7 +3235,7 @@ Sergio Wolf 7
 Scott Foundas  8.5
 Thomas Fioretti 7.6
 Violeta Kovacsics 8.5
- Other:
+# Other:
 Mike d'Angelo 6.8
 Guy Lodge 8.5 A-
 Eric Kohn 9 A
@@ -3275,7 +3273,7 @@ Robert Koehler 8
 Sergio Wolf 3
 Thomas Fioretti 5.5
 Violeta Kovacsics 6.5
- Indiewire:
+# Indiewire:
 Simon Abrams 8 A-
 Raffi Asdourian 8 A-
 Mike d'Angelo 5.8
@@ -3298,9 +3296,9 @@ Javier H. Estrada 6.7
 Marcelo Alderete 7
 Neil Young 8
 Violeta Kovacsics 7
- Indiewire:
+# Indiewire:
 James Rocchi 9 A
- Other:
+# Other:
 Peter Bradshaw 6
 
 "SUEÑO Y SILENCIO" (Jaime Rosales) [Quinzaine]
@@ -3318,7 +3316,7 @@ Robert Koehler 2
 Roger Alan Koza  6
 Violeta Kovacsics 6.5
 Xavi Serra  4.5
- Other:
+# Other:
 Peter Bradshaw 8
 
 "THE WE AND THE I" (Michel Gondry) [Quinzaine]
@@ -3342,7 +3340,7 @@ Philipp Engel 8.5
 Thomas Fioretti 3
 Violeta Kovacsics 7
 Mike d'Angelo 5.2
- Indiewire ():
+# Indiewire ():
 Simon Abrams 
 Ryland Aldrich
 Raffi Asdourian 
@@ -3401,17 +3399,17 @@ Pedro Butcher 7.5
 Rüdiger Suchsland  6
 Violeta Kovacsics 5.5
 Xavi Serra  6.5
- Indiewire (3):
+# Indiewire (3):
 Kaleen Aftab 5 B-
 Michael Ghennam 3 C
 Kevin Jagernauth 2 C-
- Other:
+# Other:
 Mike d'Angelo 5.2
 
 "MADAGASCAR 3, EUROPE'S MOST WANTED" (Eric Darnell y Tom McGrath)
 Diego Lerer 3.2
 Manu Yáñez 3
- Indiewire (2):
+# Indiewire (2):
 Raffi Asdourian 5 B-
 Patrick Heidmann 2 C-
 
@@ -3430,7 +3428,7 @@ Marcelo Alderete 7
 Nando Salva 2
 Philipp Engel 4
 Sergio Wolf 8
- Indiewire (4):
+# Indiewire (4):
 Simon Abrams 
 Kaleen Aftab 
 Ryland Aldrich
@@ -3438,7 +3436,7 @@ Raffi Asdourian 1.5 D
 Stephen Garrett 3 C
 Michael Ghennam 0 F
 Eric D. Snider 0 F
- Other:
+# Other:
 Simon Gallagher 1.5 D+
 
 "AI TO MAKOTO" (Takashi Miike)
@@ -3451,7 +3449,7 @@ Javier H. Estrada 6
 José Luis de Lorenzo 8
 Rüdiger Suchsland  10
 Sergio Wolf 6
- Indiewire (2):
+# Indiewire (2):
 Simon Abrams 
 Kaleen Aftab 
 Ryland Aldrich
@@ -3469,7 +3467,7 @@ José Luis de Lorenzo 2
 Alejandro G. Calvo 2
 Fernando Juan Lima 6
 Luciano Barisone 3
- Other:
+# Other:
 Guy Lodge 8
 Eric Kohn 4 C+
 Simon Gallagher 7 B+
@@ -3512,10 +3510,10 @@ Luciano Barisone 3
 Pedro Butcher 5
 Scott Foundas  3
 Mike d'Angelo
- Indiewire: (2)
+# Indiewire: (2)
 Clementine Gallot 3 C
 Kevin Jagernauth 5 B
- Other:
+# Other:
 Peter Bradshaw 6
 Simon Gallagher 5 B-
 Emanuel Levy 7 B+
@@ -3537,7 +3535,7 @@ Carlo Chatrian 6.01
 Eulalia Iglesias 6.9
 Fernando Juan Lima 7
 Luciano Barisone 6
- Indiewire: (4)
+# Indiewire: (4)
 Anna Bielak 4 C+
 Michael Ghennam 7 B+
 Anna Tatarska 3 C
@@ -3560,7 +3558,7 @@ Manu Yáñez 5
 Marcelo Alderete 6
 Philipp Engel 5
 Sergio Wolf 8
- Indiewire (2):
+# Indiewire (2):
 Michael Ghennam 6 B
 Blake Williams 3 C
 
@@ -3616,7 +3614,7 @@ Roger Alan Koza  7.5
 Sergio Wolf 7
 Violeta Kovacsics 7
 Xavi Serra  6
- Indiewire: (11)
+# Indiewire: (11)
 Simon Abrams 8 A-
 Ryland Aldrich 6 B
 Raffi Asdourian 1 D-
@@ -3640,7 +3638,7 @@ Michal Oleszczyk 7 B+
 Anna Tatarska 5 B-
 Sarah Watt
 Blake Williams 2.6 D+
- Other:
+# Other:
 Ruta Buciunaite 6
 Peter Bradshaw 6
 
@@ -3653,7 +3651,7 @@ Neil Young 6
 "SISTER (L'ENFANT D'EN HAUT)" (Ursula Meier) [Market]
   Berlin
 Mike d'Angelo 6.8
- Indiewire:
+# Indiewire:
 Michal Oleszczyk 6 B
 Eric Kohn 8 A-
 Neil Young 1 D-
