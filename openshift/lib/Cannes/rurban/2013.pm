@@ -34,7 +34,7 @@ José Luis de Lorenzo 1
 Cecilia Martinez     4
 Fernando Ganzo       
 Eulàlia Iglesias     6
-Ángel Quintana       
+Ángel Quintana       6
 José Luis Losa       7.5
 Pedro Butcher        
 Kieron Corless       
@@ -53,7 +53,7 @@ Paolo Moretti
 Neil Young           4.5       http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas        
 Marcelo Alderete     
-Alexandra Zawia      
+Alexandra Zawia      5.5
 Boris Nelepo         1
 Carlos Reviriego     6.5
 Fernando Juan Lima   5
@@ -66,10 +66,11 @@ Pablo O. Scholz      4.5
 Alejandro G. Calvo   2
 Xavi Serra           5.5
 Guido Castillo       5
-Ronald Rovers        
-Javier H. Estrada    
+Ronald Rovers        7.5
+Javier H. Estrada    4.5
 Rose Kuo             
 Pamela Bienzobas     
+Alvaro Arroba        
 
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Mike d'Angelo        4.4      https://twitter.com/gemko/status/334789622339076096
@@ -77,50 +78,51 @@ Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
-Roger Alan Koza      
-Diego Batlle         6
-Diego Lerer          6
-Alex Vicente         
-José Luis de Lorenzo 7
-Cecilia Martinez     8
-Fernando Ganzo       
+Roger Koza            
+Diego Batlle          6
+Diego Lerer           6
+Alex Vicente          
+Jose Luis De Lorenzo  7
+Cecilia Martinez      8
+Fernando Ganzo        4
 Eulàlia Iglesias     7
-Ángel Quintana       
-José Luis Losa       
-Pedro Butcher        
-Kieron Corless       
-Luciano Barisone     6
-Carlo Chatrian       
-Violeta Kovacsics    
-Luciano Monteagudo   5.5
-Jaime Pena           
-Rüdiger Suchsland    
-Carlos Heredero      5
-Robert Koehler       5
-Dana Linssen         
-Cristina Nord        4
-Francisco Ferreira   
-Paolo Moretti        
-Neil Young           
-Scott Foundas        
-Marcelo Alderete     
-Alexandra Zawia      
-Boris Nelepo         3
-Carlos Reviriego     6.5
-Fernando Juan Lima   
-Paolo Bertolin       
-Nando Salva          
-Philipp Engel        7.5
-Eugenio Renzi        
-Michal Oleszczyk     6.5
-Pablo O. Scholz      6
-Alejandro G. Calvo   
-Xavi Serra           6
-Guido Castillo       
-Ronald Rovers        
-Javier H. Estrada    
-Rose Kuo             
-Pamela Bienzobas     
+Ángel Quintana       7
+José Luis Losa       6
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      6
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    5.5
+Jaime Pena            5
+Rüdiger Suchsland    7
+Carlos F. Heredero    5
+Robert Koehler        5
+Dana Linssen          
+Cristina Nord         4
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       6.5
+Boris Nelepo          3
+Carlos Reviriego      6.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           7.5
+Philip Engel          7.5
+Eugenio Renzi         
+Michal Oleszczyk      6.5
+Pablo O. Scholz       6
+Alejandro G. Calvo    
+Xavi Serra            6
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     4.5
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
@@ -129,98 +131,61 @@ Jo Ann Titmarsh (FlickeringMyth.com, UK) 4.5 http://www.flickeringmyth.com/2013/
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
-Roger Alan Koza      
-Diego Batlle         7.5
-Diego Lerer          
-Alex Vicente         
-José Luis de Lorenzo 
-Cecilia Martinez     
-Fernando Ganzo       
-Eulàlia Iglesias     
-Ángel Quintana       
-José Luis Losa       
-Pedro Butcher        
-Kieron Corless       
-Luciano Barisone     8
-Carlo Chatrian       
-Violeta Kovacsics    
-Luciano Monteagudo   
-Jaime Pena           
+Roger Koza            
+Diego Batlle          7.5
+Diego Lerer           8.5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        3
+Eulàlia Iglesias     6.5
+Ángel Quintana       8.5
+José Luis Losa       7
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      8
+Carlo Chatrian        5
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            9
 Rüdiger Suchsland    
-Carlos Heredero      
-Robert Koehler       
-Dana Linssen         
-Cristina Nord        8
-Francisco Ferreira   
-Paolo Moretti        
-Neil Young           
-Scott Foundas        
-Marcelo Alderete     
-Alexandra Zawia      
-Boris Nelepo         
-Carlos Reviriego     
-Fernando Juan Lima   
-Paolo Bertolin       
-Nando Salva          
-Philipp Engel        
-Eugenio Renzi        
-Michal Oleszczyk     8.5
-Pablo O. Scholz      
-Alejandro G. Calvo   
-Xavi Serra           
-Guido Castillo       
-Ronald Rovers        
-Javier H. Estrada    
-Rose Kuo             
-Pamela Bienzobas     
+Carlos F. Heredero    7.5
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         8
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       8.5
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           6.5
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      8.5
+Pablo O. Scholz       
+Alejandro G. Calvo    4
+Xavi Serra            7.5
+Guido Castillo        
+Ronald Rovers         6.5
+Javier H. Estrada     8.5
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Mike d'Angelo        5.9      https://twitter.com/gemko/status/335075307751108608
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
-Roger Alan Koza      
-Diego Batlle         
-Diego Lerer          
-Alex Vicente         
-José Luis de Lorenzo 
-Cecilia Martinez     
-Fernando Ganzo       
-Eulàlia Iglesias     
-Ángel Quintana       
-José Luis Losa       
-Pedro Butcher        
-Kieron Corless       
-Luciano Barisone     
-Carlo Chatrian       
-Violeta Kovacsics    
-Luciano Monteagudo   
-Jaime Pena           
-Rüdiger Suchsland    
-Carlos Heredero      
-Robert Koehler       
-Dana Linssen         
-Cristina Nord        
-Francisco Ferreira   
-Paolo Moretti        
-Neil Young           
-Scott Foundas        
-Marcelo Alderete     
-Alexandra Zawia      
-Boris Nelepo         
-Carlos Reviriego     
-Fernando Juan Lima   
-Paolo Bertolin       
-Nando Salva          
-Philipp Engel        
-Eugenio Renzi        
-Michal Oleszczyk     
-Pablo O. Scholz      
-Alejandro G. Calvo   
-Xavi Serra           
-Guido Castillo       
-Ronald Rovers        
-Javier H. Estrada    
-Rose Kuo             
-Pamela Bienzobas     
+Diego Batlle          6.5
+Eulàlia Iglesias     6.5
+José Luis Losa       6
+Rüdiger Suchsland    8
+Nando Salva           8
+Ronald Rovers         7.5
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -249,6 +214,7 @@ Alejandro G. Calvo 0
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
+Ronald Rovers         8
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -277,24 +243,24 @@ UN CERTAIN REGARD
 "THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
 Mike d'Angelo        3.2
 Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-sofia-coppola-the-bling-ring-a-mostly-empty-exercise-in-excess-20130516
-Roger Alan Koza      
+Roger Koza           
 Diego Batlle         7.5
 Diego Lerer          7
 Alex Vicente         
 José Luis de Lorenzo 6
 Cecilia Martinez     6
-Fernando Ganzo       
+Fernando Ganzo       5
 Eulàlia Iglesias     5.5
-Ángel Quintana       
-José Luis Losa       
+Ángel Quintana       5
+José Luis Losa       6.5
 Pedro Butcher        
 Kieron Corless       
 Luciano Barisone     4
 Carlo Chatrian       
 Violeta Kovacsics    
 Luciano Monteagudo   7
-Jaime Pena           
-Rüdiger Suchsland    
+Jaime Pena           6.5
+Rüdiger Suchsland    8.5
 Carlos Heredero      6
 Robert Koehler       
 Dana Linssen         
@@ -304,12 +270,12 @@ Paolo Moretti
 Neil Young           
 Scott Foundas        
 Marcelo Alderete     
-Alexandra Zawia      
+Alexandra Zawia      3
 Boris Nelepo         
 Carlos Reviriego     
 Fernando Juan Lima   
 Paolo Bertolin       
-Nando Salva          
+Nando Salva          6.5
 Philipp Engel        7.5
 Eugenio Renzi        
 Michal Oleszczyk     2
@@ -317,10 +283,11 @@ Pablo O. Scholz
 Alejandro G. Calvo   7
 Xavi Serra           5
 Guido Castillo       8
-Ronald Rovers        
-Javier H. Estrada    
+Ronald Rovers        7.5
+Javier H. Estrada    6.5
 Rose Kuo             
 Pamela Bienzobas     
+Alvaro Arroba        
 Eric Kohn            6   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Peter Bradshaw       6   http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
 Guy Lodge            7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
@@ -347,16 +314,16 @@ Alex Vicente
 José Luis de Lorenzo 9
 Cecilia Martinez     7
 Fernando Ganzo       
-Eulàlia Iglesias     
-Ángel Quintana       
-José Luis Losa       
+Eulàlia Iglesias     4
+Ángel Quintana       4.5
+José Luis Losa       1
 Pedro Butcher        
 Kieron Corless       
 Luciano Barisone     5
 Carlo Chatrian       
 Violeta Kovacsics    
 Luciano Monteagudo   
-Jaime Pena           
+Jaime Pena           4
 Rüdiger Suchsland    
 Carlos Heredero      
 Robert Koehler       
@@ -367,23 +334,24 @@ Paolo Moretti
 Neil Young           5     https://twitter.com/JigsawLounge/status/335142409858072576
 Scott Foundas        
 Marcelo Alderete     
-Alexandra Zawia      
+Alexandra Zawia      1.5
 Boris Nelepo         
 Carlos Reviriego     1
 Fernando Juan Lima   
 Paolo Bertolin       
-Nando Salva          2.5
-Philipp Engel        
+Nando Salva          1
+Philipp Engel        2.5
 Eugenio Renzi        
 Michal Oleszczyk     
 Pablo O. Scholz      6
-Alejandro G. Calvo   
+Alejandro G. Calvo   4
 Xavi Serra           4
 Guido Castillo       6
 Ronald Rovers        
-Javier H. Estrada    
+Javier H. Estrada    3.5
 Rose Kuo             
 Pamela Bienzobas     
+Alvaro Arroba        
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
@@ -394,6 +362,9 @@ Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
+Diego Lerer          5.5
+Eulàlia Iglesias     7.5
+Alejandro G. Calvo   7
 
 "BENDS" (Flora LAU) [Un Certain Regard]
 
@@ -442,45 +413,51 @@ Claudia Puig (USA Today, USA) 5 http://www.usatoday.com/story/life/movies/2013/0
 Eric Kohn (Indiewire, USA) 4.2 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Keith Uhlich (Time Out New York, USA) 4 http://www.timeout.com/us/film/the-great-gatsby-movie-review
-Alejandro G. Calvo   6.5
-Alex Vicente         
-Alexandra Zawia      
-Ángel Quintana       2.5
-Boris Nelepo         6.5
-Carlo Chatrian       
-Carlos Heredero      3
-Carlos Reviriego     2
-Cecilia Martinez     5
-Cristina Nord        3
-Dana Linssen         
-Diego Batlle         6
-Diego Lerer          6.5
-Eugenio Renzi        
-Eulàlia Iglesias     6
-Fernando Ganzo       0
-Fernando Juan Lima   8
-Francisco Ferreira   
-Jaime Pena           
-José Luis de Lorenzo 2
-José Luis Losa       1
-Kieron Corless       
-Luciano Barisone     1
-Luciano Monteagudo   5 
-Marcelo Alderete     
-Michal Oleszczyk     
-Nando Salva          7
-Neil Young           
-Pablo O. Scholz      5
-Paolo Bertolin       
-Paolo Moretti        
-Pedro Butcher        
-Philipp Engel        2.5 
-Robert Koehler       2
-Roger Alan Koza      
-Rüdiger Suchsland    6.5
-Scott Foundas        
-Thomas Fioretti      
-Violeta Kovacsics    
+Roger Koza            
+Diego Batlle          6
+Diego Lerer           6.5
+Alex Vicente          
+Jose Luis De Lorenzo  2
+Cecilia Martinez      5
+Fernando Ganzo        0
+Eulàlia Iglesias      6
+Ángel Quintana        5
+José Luis Losa        1
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      1
+Carlo Chatrian        2
+Violeta Kovacsics     
+Luciano Monteagudo    5
+Jaime Pena            5.5
+Rüdiger Suchsland     6.5
+Carlos F. Heredero    3
+Robert Koehler        2
+Dana Linssen          
+Cristina Nord         3
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       2
+Boris Nelepo          6.5
+Carlos Reviriego      3
+Fernando Juan Lima    8
+Paolo Bertolin        
+Nando Salva           7
+Philip Engel          4
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       5
+Alejandro G. Calvo    6.5
+Xavi Serra            4
+Guido Castillo        7
+Ronald Rovers         6
+Javier H. Estrada     3
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
@@ -504,6 +481,13 @@ SPECIAL SCREENINGS
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
+Diego Batlle          8
+Fernando Ganzo        7
+Carlo Chatrian        5
+Rüdiger Suchsland    6
+Carlos F. Heredero    6
+Neil Young            6.5
+Alejandro G. Calvo    5
 
 "MAX ROSE" (Daniel NOAH) [Special Screening]
 
@@ -518,6 +502,8 @@ Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-b
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
+José Luis Losa        0
+Javier H. Estrada     7
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
 Neil Young           7    https://twitter.com/JigsawLounge/status/335140082728194048
@@ -531,8 +517,9 @@ Neil Young           7    https://twitter.com/JigsawLounge/status/33514008272819
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 
 "LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
-Diego Batlle 7.5
-Diego Lerer  6.5
+Diego Batlle          7.5
+Diego Lerer           6.5
+Carlo Chatrian        6.5
 
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
 
@@ -544,13 +531,17 @@ Diego Lerer  6.5
 QUINZAINE
 
 "THE CONGRESS" (Ari Folman) [Quinzaine]
-Alejandro G. Calvo   5
 Jessica Kiang        4.5  http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
 Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright-gets-animated-in-messy-sometimes-mesmerising-the-congress
+Alejandro G. Calvo   5
+Rüdiger Suchsland    6
+Carlos F. Heredero   6
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
+Neil Young            6.5
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
+Diego Batlle          8
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 
@@ -582,7 +573,8 @@ Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
 
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
-Fernando Ganzo    7
+Fernando Ganzo       7
+Carlo Chatrian       5
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
@@ -635,6 +627,7 @@ Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil)
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
+Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Rüdiger Suchsland (FAZ, Negativ-film, Deutschland) 
 Scott Foundas (Film Comment, USA) 
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
