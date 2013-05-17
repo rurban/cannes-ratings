@@ -178,6 +178,7 @@ sub _dump {
     for (keys %{$title{$t}->{critic}}) {
       my $v = $title{$t}->{critic}->{$_}->[0];
       if (defined $v) {
+	$v = abs($v);
         $s += ($v-$a)*($v-$a);
       }
     }
