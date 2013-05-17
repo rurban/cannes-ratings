@@ -251,7 +251,7 @@ sub _dump {
   if ($list) {
     $out .= "<h1><a name=\"good\"></a>Good Films (avg>6, n>3)</h1>\n<table>\n"
 	   . $list
-	   . "</table>\n<small><i>The rest is below 6, unacceptable for Cannes.</i></small>\n";
+	   . "</table>\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6.</i></small>\n";
   }
   $out .= "\n<h1>All official sections</h1>\n\n";
   my %section;
