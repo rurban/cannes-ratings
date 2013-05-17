@@ -9,6 +9,7 @@ package Cannes::rurban::2013;
 # french: http://www.lefilmfrancais.com/cannes2013/quotidien/ (scale 0-4)
 # http://www.screendaily.com/festivals/cannes/cannes-2013-screens-dailies/5056024.article (scale 0-4)
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
+# http://www.indiewire.com/critic/
 # Published at http://cannes-rurban.rhcloud.com/2013
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013
@@ -299,7 +300,7 @@ Dana Linssen
 Cristina Nord        5.5
 Francisco Ferreira   
 Paolo Moretti        
-Neil Young           
+Neil Young           4                http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas        
 Marcelo Alderete     
 Alexandra Zawia      3
