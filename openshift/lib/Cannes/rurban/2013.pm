@@ -669,6 +669,12 @@ Don Simpson           9       http://www.indiewire.com/film/aint-them-bodies-sai
 Allison Loring        9       http://www.indiewire.com/film/aint-them-bodies-saints
 A.A. Dowd             4       http://www.indiewire.com/film/aint-them-bodies-saints
 Jordan Raup           8       http://www.indiewire.com/film/aint-them-bodies-saints
+Kyle Smith (New York Post, USA) 1.5     http://www.indiewire.com/film/aint-them-bodies-saints
+Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bodies-saints
+Eric Kohn             9       http://www.indiewire.com/film/aint-them-bodies-saints
+Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bodRodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodRodrigo Perez
+Alex Billington       8       http://www.indiewire.com/film/aint-them-bodRodrigo Perez
+
 
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
