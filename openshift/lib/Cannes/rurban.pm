@@ -117,7 +117,7 @@ sub _critic_detail {
     my $f = $h->{title}->{$t};
     my $c = @$f == 3 ? sprintf("[ %s - %0.2f = %0.2f ]", @$f)
       : defined($f->[0])
-        ? "[$f->[0]" 
+        ? "[ ".$f->[0]." ]" 
         : "[-]";
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$t</td>"
       ."<td class=detail>$c</td></tr>\n";
