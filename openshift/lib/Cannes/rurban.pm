@@ -161,18 +161,24 @@ sub _dump {
     my @k = keys(%{$critic{$c}->{title}});
     $critic{$c}->{stddev} = 0;
     unless (@k){delete $critic{$c};next};
+    my $num = scalar(@k);
     for (@k) {
       my ($x,$a,$d) = @{$critic{$c}->{title}->{$_}};
-      $asum += abs($d) if $d;
-      $sum  += $d if $d;
+      my $n = $title{$_}->{num};
+      if ($n > 1) {
+        $asum += abs($d) if $d;
+        $sum  += $d if $d;
+      } else {
+        $num--;
+      }
     }
     for (@k) {
       my $d = $critic{$c}->{title}->{$_}->[2] || 0;
       $s += ($d * $d);
     }
-    $critic{$c}->{diff} = $sum / scalar(@k);
-    $critic{$c}->{absdiff} = $asum / scalar(@k);
-    $critic{$c}->{stddev}  = sqrt($s / scalar(@k));
+    $critic{$c}->{diff} = $sum / $num;
+    $critic{$c}->{absdiff} = $asum / $num;
+    $critic{$c}->{stddev}  = sqrt($s / $num);
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5; 
   }
   # remove critics from %title if critics->stddev > 2.5.
