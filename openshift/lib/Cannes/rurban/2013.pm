@@ -664,11 +664,11 @@ Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/a
 Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
-Ethan Anderton (FirstShowing.net)       8       http://www.indiewire.com/film/aint-them-bodies-saints
-Don Simpson (Smells Like Screen Spirit) 9       http://www.indiewire.com/film/aint-them-bodies-saints
-Allison Loring (Film School Rejects)    9       http://www.indiewire.com/film/aint-them-bodies-saints
-A.A. Dowd (Time Out Chicago)            4       http://www.indiewire.com/film/aint-them-bodies-saints
-Jordan Raup (The Film Stage)            8       http://www.indiewire.com/film/aint-them-bodies-saints
+Ethan Anderton        8       http://www.indiewire.com/film/aint-them-bodies-saints
+Don Simpson           9       http://www.indiewire.com/film/aint-them-bodies-saints
+Allison Loring        9       http://www.indiewire.com/film/aint-them-bodies-saints
+A.A. Dowd             4       http://www.indiewire.com/film/aint-them-bodies-saints
+Jordan Raup           8       http://www.indiewire.com/film/aint-them-bodies-saints
 
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
@@ -894,9 +894,11 @@ Michael Kienzl (critic.de, D)
 ";
 # indiewire + various other
 $critics[5] = "
+A.A. Dowd (Time Out Chicago, USA)
 Aaron Hillis (GreenCine Daily, USA)
 Alex Billington (FirstShowing.net, USA)
 Allan Hunter (Screen Daily, USA)
+Allison Loring (Film School Rejects, USA)
 Andrei Creţulescu (HBO, Romania) 
 Andrew O'Hehir (Salon.com, USA) 
 Anna Bielak (Smells Like Screen Spirit, USA)
@@ -913,6 +915,7 @@ David Fear (Time Out New York, USA)
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
 David Sterrit (Tikkun Magazine)
+Don Simpson (Smells Like Screen Spirit, USA)
 Drew McWeeny (InContention, USA)
 Drew Taylor (The Playlist, USA)
 Eduardo Valente (Revista Cinema, Brazil) 
@@ -920,6 +923,7 @@ Elisabeth Quin (Paris Premiere, France)
 Emanuel Levy (EmanuelLevy.com, USA)
 Eric D. Snider (Film.com, USA)
 Eugene Hernandez (Film Society of Lincoln Center, USA) 
+Ethan Anderton (FirstShowing.net, USA)
 Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr. (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
