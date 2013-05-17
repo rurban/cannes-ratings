@@ -6,7 +6,7 @@ package Cannes::rurban::2013;
 # Recalc and sort ratings by all cannes critics from
 # ??
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
-# french: http://www.lefilmfrancais.com/cannes2012/quotidien/ (scale 0-4)
+# french: http://www.lefilmfrancais.com/cannes2013/quotidien/ (scale 0-4)
 # http://content.yudu.com/Library/A1wwqk/ScreenCannesDay92012/resources/index.htm (scale 0-4)
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
 # Published at http://cannes-rurban.rhcloud.com/2013
@@ -462,6 +462,22 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
+# Le film français 0-4
+Stéphanie Lamome      5
+Arnaud Schwartz       5
+Fabrice Leclerc       7.5
+Eric Neuhoff          1
+Stéphane Delorme      2.5   
+Thomas Sotinel        2.5
+Philippe Rouyer       2.5
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              5
+Serge Kaganski        1
+Pierre Fornerod       5
+Pascal Merigeau       
+Danielle Attali       5
+Christophe Carriére   2.5
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
@@ -656,11 +672,11 @@ Eric Kohn (Indiewire, USA)
 # Le film français 0-4
 $critics[2] = "
 Stéphanie Lamome (Premiere, France)
-Arnaud schwartz (la Croix, France)
+Arnaud Schwartz (la Croix, France)
 Fabrice Leclerc (Studio ciné live, France)
 Eric Neuhoff (Le Figaro, France)
 Stéphane Delorme (Cahiers du cinema, France)
-Jaques Mandelbaum (Le Monde, France)
+Thomas Sotinel (Le Monde, France)
 Philippe Rouyer (Positif, France)
 Pierre Vavasseur (le Parisien, France)
 Pierre Murat (Telerama, France)
