@@ -112,7 +112,8 @@ sub _critic_detail {
   my $n = shift;
   my $h = shift;
   my $out = '';
-  for my $t (keys %{$h->{title}}) {
+  for my $t (sort {$h->{title}->{$b}->[0] <=> $h->{title}->{$a}->[0]}
+	     keys %{$h->{title}}) {
     my $f = $h->{title}->{$t};
     my $c = @$f == 3 ? sprintf("[ %s - %0.2f = %0.2f ]", @$f)
       : defined($f->[0])
@@ -345,7 +346,7 @@ sub _dump {
   $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
 * &gt:1.5 over-rater,
 * &lt;-1.5 under-rater,
-* -1.5 - 1.5 deviant ratings in boths directions. e.g. cealing effect\">±diff</i>\n<table>\n";
+* -1.5 - 1.5 deviant ratings in boths directions. e.g. ceiling effect\">±diff</i>\n<table>\n";
   if ($numc) {
     for (sort 
 	 {
