@@ -181,9 +181,9 @@ Mike d'Angelo        5.9      https://twitter.com/gemko/status/33507530775110860
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
 Diego Batlle          6.5
-Eulàlia Iglesias     6.5
-José Luis Losa       6
-Rüdiger Suchsland    8
+Eulàlia Iglesias      6.5
+José Luis Losa        6
+Rüdiger Suchsland     8
 Nando Salva           8
 Ronald Rovers         7.5
 
@@ -356,15 +356,15 @@ Mike d'Angelo        w/o      https://twitter.com/gemko/status/33514787161364070
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
+Diego Lerer          5.5
+Eulàlia Iglesias     7.5
+Alejandro G. Calvo   7
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
-Diego Lerer          5.5
-Eulàlia Iglesias     7.5
-Alejandro G. Calvo   7
 
 "BENDS" (Flora LAU) [Un Certain Regard]
 
@@ -481,13 +481,6 @@ SPECIAL SCREENINGS
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
-Diego Batlle          8
-Fernando Ganzo        7
-Carlo Chatrian        5
-Rüdiger Suchsland    6
-Carlos F. Heredero    6
-Neil Young            6.5
-Alejandro G. Calvo    5
 
 "MAX ROSE" (Daniel NOAH) [Special Screening]
 
@@ -573,8 +566,8 @@ Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
 
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
-Fernando Ganzo       7
-Carlo Chatrian       5
+Fernando Ganzo        7
+Carlo Chatrian        5
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
