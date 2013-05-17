@@ -75,7 +75,7 @@ Rose Kuo
 Pamela Bienzobas     
 Alvaro Arroba        
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
-Mike d'Angelo        4.4      https://twitter.com/gemko/status/334789622339076096
+Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 # Screen Daily (0-4)
 Nick James           5
@@ -145,7 +145,7 @@ Javier H. Estrada     4.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba        3.5
-Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
+Mike d'Angelo        6.6 http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
@@ -219,7 +219,7 @@ Javier H. Estrada     8.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         4
-Mike d'Angelo        5.9      https://twitter.com/gemko/status/335075307751108608
+Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
@@ -233,7 +233,7 @@ Michael Kienzl       7.5     ++  http://www.critic.de/film/a-touch-of-sin-5598/
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
-Mike d'Angelo         8.2     https://twitter.com/gemko/status/335358264902549504
+Mike d'Angelo         8.2     http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            
 Diego Batlle          6.5
 Diego Lerer           6.5
@@ -352,7 +352,7 @@ Ronald Rovers         8
 UN CERTAIN REGARD
 
 "THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
-Mike d'Angelo        3.2
+Mike d'Angelo        3.2   http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-sofia-coppola-the-bling-ring-a-mostly-empty-exercise-in-excess-20130516
 Roger Koza           
 Diego Batlle         7.5
@@ -487,7 +487,7 @@ Daniel Kasman
 Michael Kienzl       4       -   http://jury.critic.de/cannes/ 
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
-Mike d'Angelo        5       https://twitter.com/gemko/status/335358983126798338
+Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Diego Lerer          5.5
 Eulàlia Iglesias     7.5
 Boris Nelepo         7.5
@@ -718,6 +718,7 @@ Daniel Kasman
 Michael Kienzl        
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
+Mike d'Angelo         6.8        https://twitter.com/gemko/status/335456583461003265
 Neil Young            6.5
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
