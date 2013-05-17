@@ -7,6 +7,7 @@ package Cannes::rurban::2013;
 # ??
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
 # french: http://www.lefilmfrancais.com/cannes2013/quotidien/ (scale 0-4)
+# http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/cannes-2013-screens-dailies/5056024.article (scale 0-4)
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
 # http://www.indiewire.com/critic/
@@ -21,6 +22,7 @@ package Cannes::rurban::2013;
 # E 0.5   F 0
 # Le film français+Screen Daily 0-4: 0-1, 1-2.5, 2-5, 3-7.5, 4-9
 # British 0-5: x2
+# critic.de +++ 9, ++ 7.5, + 6, +- 5.5, - 5, -- 3.5, --- 1
 
 use utf8;
 our $DATA= <<'EOF';
@@ -86,7 +88,14 @@ Michel Ciment        5
 Kate Muir/Wendy Ide  7.5
 Bo Green Jensen      7.5
 Screen International 7.5
-Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/heli
+Joachim Kurz 	      	        http://www.kino-zeit.de/blog/cannes/heli
+Adam Cook            2.5     -- http://jury.critic.de/cannes/ 
+Arnaud Hee           
+Christoph Huber      2.5     -- http://jury.critic.de/cannes/ 
+Frédéric Jaeger      4       -  http://jury.critic.de/cannes/
+Till Kadritzke       5       +- http://www.critic.de/film/heli-5547/
+Daniel Kasman        2.5     -- http://jury.critic.de/cannes/ 
+Michael Kienzl       6       +  http://jury.critic.de/cannes/ 
 
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
@@ -155,6 +164,13 @@ Screen International 5
 Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
 Patrick Heidmann     6        http://www.indiewire.com/film/jeune-et-jolie
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
+Adam Cook            
+Arnaud Hee           
+Christoph Huber      
+Frédéric Jaeger      6       +  http://www.critic.de/film/jeune-et-jolie-5534/
+Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/ 
+Daniel Kasman        
+Michael Kienzl       5       +- http://jury.critic.de/cannes/ 
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -207,6 +223,13 @@ Mike d'Angelo        5.9      https://twitter.com/gemko/status/33507530775110860
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
+Adam Cook            5       +-  http://jury.critic.de/cannes/
+Arnaud Hee           
+Christoph Huber      9       +++ http://jury.critic.de/cannes/
+Frédéric Jaeger      7.5     ++  http://jury.critic.de/cannes/
+Till Kadritzke       
+Daniel Kasman        7.5     ++  http://jury.critic.de/cannes/
+Michael Kienzl       7.5     ++  http://www.critic.de/film/a-touch-of-sin-5598/
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -225,6 +248,13 @@ Clementine Gallot     8       http://www.indiewire.com/film/the-past
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
+Adam Cook             5       +- http://jury.critic.de/cannes/
+Arnaud Hee            
+Christoph Huber       
+Frédéric Jaeger       9       +++ http://jury.critic.de/cannes/
+Till Kadritzke        6       +
+Daniel Kasman         5       +-
+Michael Kienzl        7.5     ++ http://www.critic.de/film/the-past-5535/
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -250,6 +280,7 @@ Alejandro G. Calvo 0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
+Arnaud Hee            1      --- http://jury.critic.de/cannes/
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -345,6 +376,13 @@ Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
 Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
 Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
+Adam Cook             6       +   http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
+Arnaud Hee            
+Christoph Huber       5       +-  http://jury.critic.de/cannes/
+Frédéric Jaeger       5       +++ http://jury.critic.de/cannes/
+Till Kadritzke        6       +   http://www.critic.de/film/the-bling-ring-5396/
+Daniel Kasman         2.5     --  http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
+Michael Kienzl        5       +-  http://jury.critic.de/cannes/
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   Sundance - Main Prices
@@ -399,6 +437,13 @@ Alvaro Arroba
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
+Adam Cook                     
+Arnaud Hee            
+Christoph Huber       
+Frédéric Jaeger      2.5     --  http://jury.critic.de/cannes/
+Till Kadritzke       4       -   http://jury.critic.de/cannes/ 
+Daniel Kasman         
+Michael Kienzl       4       -   http://jury.critic.de/cannes/ 
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 Mike d'Angelo        5       https://twitter.com/gemko/status/335358983126798338
@@ -406,6 +451,13 @@ Diego Lerer          5.5
 Eulàlia Iglesias     7.5
 Alejandro G. Calvo   7
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
+Adam Cook            6       + http://jury.critic.de/cannes/
+Arnaud Hee 
+Christoph Huber 
+Frédéric Jaeger      7.5     + http://jury.critic.de/cannes/
+Till Kadritzke 
+Daniel Kasman 
+Michael Kienzl 
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
@@ -526,6 +578,13 @@ Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
 Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
+Adam Cook             
+Arnaud Hee           
+Christoph Huber       2.5     --  http://jury.critic.de/cannes/
+Frédéric Jaeger       6       +   http://jury.critic.de/cannes/
+Till Kadritzke        6       +   http://www.critic.de/film/the-great-gatsby-4168/
+Daniel Kasman                 
+Michael Kienzl        4       -   http://jury.critic.de/cannes/
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
@@ -598,6 +657,13 @@ Alejandro G. Calvo   5
 Rüdiger Suchsland    6
 Carlos F. Heredero   6
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
+Adam Cook                     
+Arnaud Hee            2.5     --  http://jury.critic.de/cannes/
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Neil Young            6.5
@@ -606,7 +672,7 @@ Guy Lodge                        http://variety.com/2013/film/reviews/the-selfis
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Diego Batlle          8
 Luciano Monteagudo    8.5
-Boris Nelepo          5
+Boris Nelepo          5  -
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 
@@ -640,6 +706,7 @@ Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
 Fernando Ganzo        7
 Carlo Chatrian        5
+Arnaud Hee            5      +-  http://jury.critic.de/cannes/
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
@@ -653,6 +720,7 @@ Ethan Anderson       3       http://www.indiewire.com/film/magic-magic
 Don Simpson          8       http://www.indiewire.com/film/magic-magic
 Joe Bendel           4       http://www.indiewire.com/film/magic-magic
 Eric Kohn            4       http://www.indiewire.com/film/magic-magic
+Arnaud Hee           2.5     http://jury.critic.de/cannes/
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
 
@@ -759,8 +827,18 @@ Wendy Ide (The Times, UK)
 Bo Green Jensen (Weekandavisen Berlingske, Denmark) 
 Screen International (Screen International, USA) 
 ";
-# indiewire + various other
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics[4] = "
+Adam Cook (MUBI)
+Arnaud Hee (Critikat.com)
+Christoph Huber (Die Presse, AT)
+Frédéric Jaeger (critic.de, D)
+Till Kadritzke (critic.de, D)
+Daniel Kasman (MUBI)
+Michael Kienzl (critic.de, D)
+";
+# indiewire + various other
+$critics[5] = "
 Aaron Hillis (GreenCine Daily, USA)
 Alex Billington (FirstShowing.net, USA)
 Allan Hunter (Screen Daily, USA)
@@ -832,7 +910,7 @@ Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
 ";
 # former apichatpoll members
-$critics[5] = "
+$critics[6] = "
 Arthur Mas (Independencia, France) 
 Camille Brunel (Independencia, France) 
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
@@ -852,7 +930,8 @@ our $HEADER = <<"EOF";
 from the ApichatPoll http://www.todaslascriticas.com.ar/cannes (Diego Lerer+Javier Fish) (la crema),
 http://www.ioncinema.com/ (okay),
 Le film français (eclectic),
-Screen Daily (mainstream),
+http://jury.critic.de/cannes/ (german),
+Screen Daily (US/UK mainstream),
 Indiewire (mixed) and more critics.<br>
 
 <br>
@@ -873,7 +952,6 @@ our $FOOTER = "
 <pre>
 --
 http://www.todaslascriticas.com.ar/cannes
-http://micropsia.otroscines.com/
 http://www.ioncinema.com/
 History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/
 

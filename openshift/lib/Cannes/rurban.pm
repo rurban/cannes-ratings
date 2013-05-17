@@ -189,7 +189,7 @@ sub _dump {
 	  $sum += $n if $n and $n > 0;
 	}
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
-        $title{$t}->{critic}->{$c}->[0] = "-$bak";
+        $title{$t}->{critic}->{$c}->[0] = "-$bak" if $bak;
       }
     }
   }
@@ -200,7 +200,7 @@ sub _dump {
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
       my $v = $title{$t}->{critic}->{$_}->[0];
-      if (defined $v and $v > 0) {
+      if (defined($v) and $v > 0) {
         $s += ($v-$a)*($v-$a);
       }
     }
