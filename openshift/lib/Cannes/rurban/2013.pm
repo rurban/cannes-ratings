@@ -86,6 +86,8 @@ Michel Ciment        5
 Kate Muir/Wendy Ide  7.5
 Bo Green Jensen      7.5
 Screen International 7.5
+Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/heli
+
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -150,8 +152,9 @@ Michel Ciment        1
 Kate Muir/Wendy Ide  5
 Bo Green Jensen      5
 Screen International 5
-Clementine Gallot    3       http://www.indiewire.com/film/jeune-et-jolie
-Patrick Heidmann     6       http://www.indiewire.com/film/jeune-et-jolie
+Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
+Patrick Heidmann     6        http://www.indiewire.com/film/jeune-et-jolie
+Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -219,6 +222,7 @@ Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-revi
 Beatrice Behn         8       http://www.indiewire.com/film/the-past
 Clementine Gallot     8       http://www.indiewire.com/film/the-past
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
+Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -783,6 +787,7 @@ Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr. (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
 Jessica Kiang (The Playlist, USA)
+Joachim Kurz (Kino-Zeit, Deutschland)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Raup (The Film Stage, USA)
