@@ -160,7 +160,7 @@ Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
 Roger Koza            
 Diego Batlle          7.5
-Diego Lerer           8.5
+Diego Lerer           8.5     http://micropsia.otroscines.com/2013/05/cannes-2013-a-touch-of-sin-de-jia-zhang-ke-competencia/
 Alex Vicente          
 Jose Luis De Lorenzo  
 Cecilia Martinez      
@@ -206,6 +206,7 @@ Alvaro Arroba
 Mike d'Angelo        5.9      https://twitter.com/gemko/status/335075307751108608
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
+Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -223,6 +224,7 @@ Beatrice Behn         8       http://www.indiewire.com/film/the-past
 Clementine Gallot     8       http://www.indiewire.com/film/the-past
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
+Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -599,6 +601,7 @@ Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Neil Young            6.5
+Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Diego Batlle          8
@@ -649,6 +652,7 @@ Clementine Gallot    6       http://www.indiewire.com/film/magic-magic
 Ethan Anderson       3       http://www.indiewire.com/film/magic-magic
 Don Simpson          8       http://www.indiewire.com/film/magic-magic
 Joe Bendel           4       http://www.indiewire.com/film/magic-magic
+Eric Kohn            4       http://www.indiewire.com/film/magic-magic
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
 
@@ -791,6 +795,7 @@ Joachim Kurz (Kino-Zeit, Deutschland)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Raup (The Film Stage, USA)
+Justin Chang (Variety, USA)
 Kaleen Aftab (The Independent, UK)
 Karina Longworth (LA Weekly, USA) 
 Keith Uhlich (Time Out New York, USA)
