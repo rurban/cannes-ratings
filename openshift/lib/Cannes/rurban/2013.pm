@@ -125,6 +125,7 @@ Mike d'Angelo        6.6 https://twitter.com/gemko/status/334944057300246529
 Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
+Jo Ann Titmarsh (FlickeringMyth.com, UK) 4.5 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-jeune.html
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -384,7 +385,7 @@ Javier H. Estrada
 Rose Kuo             
 Pamela Bienzobas     
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
-
+Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 
