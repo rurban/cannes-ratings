@@ -218,7 +218,7 @@ Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-
 Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-review-the-past-a-mostly-powerful-look-at-the-messiness-of-stasis-20130517
 Beatrice Behn         8       http://www.indiewire.com/film/the-past
 Clementine Gallot     8       http://www.indiewire.com/film/the-past
-
+Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
