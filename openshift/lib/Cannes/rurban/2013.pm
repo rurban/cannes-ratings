@@ -180,12 +180,14 @@ Mike d'Angelo        5.9      https://twitter.com/gemko/status/33507530775110860
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
+Mike d'Angelo         8.2     https://twitter.com/gemko/status/335358264902549504
 Diego Batlle          6.5
 Eulàlia Iglesias      6.5
 José Luis Losa        6
 Rüdiger Suchsland     8
 Nando Salva           8
 Ronald Rovers         7.5
+Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -356,6 +358,7 @@ Mike d'Angelo        w/o      https://twitter.com/gemko/status/33514787161364070
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
+Mike d'Angelo        5       https://twitter.com/gemko/status/335358983126798338
 Diego Lerer          5.5
 Eulàlia Iglesias     7.5
 Alejandro G. Calvo   7
@@ -529,6 +532,7 @@ Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright
 Alejandro G. Calvo   5
 Rüdiger Suchsland    6
 Carlos F. Heredero   6
+Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Neil Young            6.5
