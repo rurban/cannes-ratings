@@ -149,6 +149,8 @@ Michel Ciment        1
 Kate Muir/Wendy Ide  5
 Bo Green Jensen      5
 Screen International 5
+Clementine Gallot    3       http://www.indiewire.com/film/jeune-et-jolie
+Patrick Heidmann     6       http://www.indiewire.com/film/jeune-et-jolie
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -198,6 +200,8 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Mike d'Angelo        5.9      https://twitter.com/gemko/status/335075307751108608
+Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
+Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -210,6 +214,10 @@ Nando Salva           8
 Ronald Rovers         7.5
 Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
 Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-past/5056283.article?blocktitle=Latest-Reviews&contentID=592
+Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-review-the-past-a-mostly-powerful-look-at-the-messiness-of-stasis-20130517
+Beatrice Behn         8       http://www.indiewire.com/film/the-past
+Clementine Gallot     8       http://www.indiewire.com/film/the-past
+
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -325,6 +333,11 @@ Graham Fuller (Vanity Fair) http://www.vanityfair.com/hollywood/2013/06/movie-re
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
 Matt Mueller (Thompson on Hollywood, US) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
+# Criticwire
+Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
+Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
+Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
+David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   Sundance - Main Prices
@@ -378,12 +391,14 @@ Pamela Bienzobas
 Alvaro Arroba        
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
+Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 Mike d'Angelo        5       https://twitter.com/gemko/status/335358983126798338
 Diego Lerer          5.5
 Eulàlia Iglesias     7.5
 Alejandro G. Calvo   7
+Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
@@ -500,6 +515,10 @@ Pierre Fornerod       5
 Pascal Merigeau       
 Danielle Attali       5
 Christophe Carriére   2.5
+Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
+Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
+Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
+Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
@@ -618,6 +637,10 @@ Russ Fischer (slashfilm.com, USA) 7
 Chris Bumbray (joblo.com, USA) 7
 Mark Olsen (LA Times, USA) http://articles.latimes.com/2013/jan/27/entertainment/la-et-mn-sundance-michael-cera-magic-20130126
 Nicolas Bell (Ioncinema.com, Canada) http://www.ioncinema.com/reviews/magic-magic-review
+Clementine Gallot    6       http://www.indiewire.com/film/magic-magic
+Ethan Anderson       3       http://www.indiewire.com/film/magic-magic
+Don Simpson          8       http://www.indiewire.com/film/magic-magic
+Joe Bendel           4       http://www.indiewire.com/film/magic-magic
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
 
@@ -734,14 +757,17 @@ Andrew O'Hehir (Salon.com, USA)
 Anna Bielak (Smells Like Screen Spirit, USA)
 Anna Tatarska (Fandor, KINO, USA)
 Anne Thompson (Indiewire, USA) 
+Beatrice Behn (Kino-Zeit, Deutschland)
 Brian Brooks (indieWIRE, USA) 
 Chris Knipp (Filmleaf, USA)
 Clementine Gallot (Cahiers du cinema, France)
+Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool)
 David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
+David Sterrit (Tikkun Magazine)
 Drew McWeeny (InContention, USA)
 Drew Taylor (The Playlist, USA)
 Eduardo Valente (Revista Cinema, Brazil) 
