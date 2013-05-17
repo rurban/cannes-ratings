@@ -126,7 +126,7 @@ Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      6.5
 Pablo O. Scholz       6
-Alejandro G. Calvo    
+Alejandro G. Calvo    6
 Xavi Serra            6
 Guido Castillo        
 Ronald Rovers         
@@ -183,7 +183,7 @@ Neil Young
 Scott Foundas         
 Marcelo Alderete      
 Alexandra Zawia       8.5
-Boris Nelepo          
+Boris Nelepo          6
 Carlos Reviriego      
 Fernando Juan Lima    
 Paolo Bertolin        
@@ -304,7 +304,7 @@ Neil Young           4                http://www.jigsawlounge.co.uk/film/reviews
 Scott Foundas        
 Marcelo Alderete     
 Alexandra Zawia      3
-Boris Nelepo         
+Boris Nelepo         5.5
 Carlos Reviriego     
 Fernando Juan Lima   
 Paolo Bertolin       
@@ -560,7 +560,8 @@ José Luis Losa        0
 Javier H. Estrada     7
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
-Neil Young           7    https://twitter.com/JigsawLounge/status/335140082728194048
+Diego Lerer           6.5
+Neil Young            7    https://twitter.com/JigsawLounge/status/335140082728194048
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
 
@@ -597,6 +598,8 @@ Neil Young            6.5
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Diego Batlle          8
+Luciano Monteagudo    8.5
+Boris Nelepo          5
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 
