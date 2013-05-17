@@ -163,7 +163,7 @@ sub _dump {
 	delete $title{$t}->{critic}->{$c};
 	for (keys %{$title{$t}->{critic}}) {
           my $n = $title{$t}->{critic}->{$_}->[0] if exists $title{$t}->{critic}->{$_};
-	  $sum += $n if $n;
+	  $sum += $n if $n and $n > 0;
 	}
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
         $title{$t}->{critic}->{$c}->[0] = "-$bak";
@@ -177,8 +177,7 @@ sub _dump {
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
       my $v = $title{$t}->{critic}->{$_}->[0];
-      if (defined $v) {
-	$v = abs($v);
+      if (defined $v and $v > 0) {
         $s += ($v-$a)*($v-$a);
       }
     }
