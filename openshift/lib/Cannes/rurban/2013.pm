@@ -463,6 +463,8 @@ Isabelle Regnier
 Cédric Succivalli    
 Blake Williams       
 #Neil Young          
+Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
+Kevin Jagernaut      3    http://www.indiewire.com/film/jimmy-picard
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -1103,6 +1105,7 @@ Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
 Michael Kienzl       2.5     http://jury.critic.de/cannes/
 Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
+Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based-filmmaker-jeremy-saulnier-went-from-shooting-corporate-videos-to-premiering-his-movie-blue-ruin-at-cannes
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
@@ -1113,6 +1116,7 @@ Eric Kohn             7        http://www.indiewire.com/article/cannes-review-th
 Christoph Huber      9       http://jury.critic.de/cannes/
 Daniel Kasman        6       http://jury.critic.de/cannes/
 Michael Kienzl       5       http://jury.critic.de/cannes/
+Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Boris Nelepo          4
