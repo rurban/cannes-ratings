@@ -97,6 +97,23 @@ Till Kadritzke       5       +- http://www.critic.de/film/heli-5547/
 Daniel Kasman        2.5     -- http://jury.critic.de/cannes/ 
 Michael Kienzl       6       +  http://jury.critic.de/cannes/ 
 Marc van de Klashorst 4         http://icsfilm.org/news/184-cannes-2013-review-heli
+# ioncinema 0-5
+Nicolas Bell         5
+Christophe Beney     7
+David Calhoun        8
+Per Juul Carlsen     6
+#Mike d'Angelo       5
+Carlos F. Heredero   4
+Aaron Hillis         
+#Eric Kohn           6
+Eric Lavallée        6
+Fabien Lemercier     6
+Guy Lodge            5
+Liu Min              4
+Isabelle Regnier     7
+Cédric Succivalli    
+Blake Williams       5
+#Neil Young          5
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -171,6 +188,23 @@ Frédéric Jaeger      6       +  http://www.critic.de/film/jeune-et-jolie-5534/
 Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/ 
 Daniel Kasman        
 Michael Kienzl       5       +- http://jury.critic.de/cannes/ 
+# ioncinema 0-5
+Nicolas Bell         6
+Christophe Beney     8
+David Calhoun        6
+Per Juul Carlsen     8
+#Mike d'Angelo       7
+Carlos F. Heredero   
+Aaron Hillis         
+#Eric Kohn            
+Eric Lavallée        4
+Fabien Lemercier     6
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     6
+Cédric Succivalli    
+Blake Williams       5
+#Neil Young          
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -230,6 +264,23 @@ Frédéric Jaeger      7.5     ++  http://jury.critic.de/cannes/
 Till Kadritzke       
 Daniel Kasman        7.5     ++  http://jury.critic.de/cannes/
 Michael Kienzl       7.5     ++  http://www.critic.de/film/a-touch-of-sin-5598/
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     8
+David Calhoun        7
+Per Juul Carlsen     2
+#Mike d'Angelo       6
+Carlos F. Heredero   
+Aaron Hillis         
+#Eric Kohn            
+Eric Lavallée        
+Fabien Lemercier     5
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -295,9 +346,27 @@ Frédéric Jaeger       9       +++ http://jury.critic.de/cannes/
 Till Kadritzke        6       +
 Daniel Kasman         5       +-
 Michael Kienzl        7.5     ++ http://www.critic.de/film/the-past-5535/
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Aaron Hillis         
+#Eric Kohn            
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
+Mike d'Angelo        3.5      https://twitter.com/gemko/status/335687316553207809
 Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
@@ -318,9 +387,27 @@ Frédéric Jaeger      7.5     ++ http://jury.critic.de/cannes/
 Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/
 Daniel Kasman        5       +- http://jury.critic.de/cannes/
 Michael Kienzl       
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Aaron Hillis         
+#Eric Kohn            
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
+Mike d'Angelo        4.2      https://twitter.com/gemko/status/335528895363301377
 Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
@@ -343,6 +430,23 @@ Frédéric Jaeger      7.5     ++ http://jury.critic.de/cannes/
 Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/
 Daniel Kasman        
 Michael Kienzl       6       + http://jury.critic.de/cannes/
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Aaron Hillis         
+#Eric Kohn            
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -957,23 +1061,22 @@ Guido Castillo (Freelance, España)
 ";
 # ioncinema
 $critics[1] = "
+Nicolas Bell (Ioncinema.com, Canada)
 Christophe Beney (Palmares magazine, France) 
-David Calhoun (The Out London, UK) 
+David Calhoun (Time Out London, UK) 
 Per Juul Carlsen (Danish National Radio, Denmark) 
-Paola Casella (Europa, Italy) 
 Mike d'Angelo (AV Club, USA) 
 Carlos F. Heredero (Cahiers du cinema Espana, España) 
+Aaron Hillis
+Eric Kohn (Indiewire, USA) 
 Eric Lavallée (Ioncinema.com, Canada) 
 Fabien Lemercier (Cineeuropa.org, Belgium) 
 Guy Lodge (Variety, InContention, South Africa/USA) 
+Liu Min (Sina.com, China) 
 Isabelle Regnier (Le Monde, France) 
-Kevin Jagernauth (Indiewire's The Playlist, USA) 
-James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
 Cédric Succivalli (International Cinephil Society, France) 
 Clarence Tsui (South China Morning Post, Hong Kong) 
 Blake Williams (Ioncinema.com, Canada) 
-Liu Min (Sina.com, China) 
-Eric Kohn (Indiewire, USA) 
 ";
 # Le film français 0-4
 $critics[2] = "
@@ -1020,6 +1123,8 @@ Michael Kienzl (critic.de, D)
 ";
 # indiewire + various other
 $critics[5] = "
+Kevin Jagernauth (Indiewire's The Playlist, USA) 
+James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
 A.A. Dowd (Time Out Chicago, USA)
 Aaron Hillis (GreenCine Daily, USA)
 Alex Billington (FirstShowing.net, USA)
