@@ -22,7 +22,7 @@ package Cannes::rurban::2013;
 # E 0.5   F 0
 # Le film français+Screen Daily 0-4: 0-1, 1-2.5, 2-5, 3-7.5, 4-9
 # British 0-5: x2
-# critic.de +++ 9, ++ 7.5, + 6, +- 5.5, - 5, -- 3.5, --- 1
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 
 use utf8;
 our $DATA= <<'EOF';
@@ -289,7 +289,7 @@ Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
 Adam Cook             5       +- http://jury.critic.de/cannes/
-Arnaud Hee            
+Arnaud Hee            5
 Christoph Huber       
 Frédéric Jaeger       9       +++ http://jury.critic.de/cannes/
 Till Kadritzke        6       +
@@ -311,6 +311,13 @@ Alejandro G. Calvo    5
 Guido Castillo        5
 Ronald Rovers         1
 Alvaro Arroba         4
+Adam Cook            
+Arnaud Hee           
+Christoph Huber 
+Frédéric Jaeger      7.5     ++ http://jury.critic.de/cannes/
+Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/
+Daniel Kasman        5       +- http://jury.critic.de/cannes/
+Michael Kienzl       
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -329,6 +336,13 @@ Alexandra Zawia       5
 Boris Nelepo          4
 Alejandro G. Calvo    7.5
 Guido Castillo        8
+Adam Cook            5       +- http://jury.critic.de/cannes/
+Arnaud Hee           
+Christoph Huber      6       +  http://jury.critic.de/cannes/
+Frédéric Jaeger      7.5     ++ http://jury.critic.de/cannes/
+Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/
+Daniel Kasman        
+Michael Kienzl       6       + http://jury.critic.de/cannes/
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -533,7 +547,7 @@ Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 Adam Cook            6       + http://jury.critic.de/cannes/
 Arnaud Hee 
 Christoph Huber 
-Frédéric Jaeger      7.5     + http://jury.critic.de/cannes/
+Frédéric Jaeger      7.5     ++ http://www.critic.de/film/linconnu-du-lac-5580/
 Till Kadritzke 
 Daniel Kasman 
 Michael Kienzl 
@@ -543,6 +557,13 @@ Michael Kienzl
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Carlos F. Heredero    6
 Fernando Juan Lima    3.5
+Adam Cook            2.5     -- http://jury.critic.de/cannes/
+Arnaud Hee           
+Christoph Huber      
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
@@ -551,6 +572,7 @@ Eulàlia Iglesias     7.5
 Alexandra Zawia       4
 Guido Castillo        6
 Ronald Rovers         3.5
+Frédéric Jaeger      9     +++ http://jury.critic.de/cannes/
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
@@ -744,6 +766,13 @@ Diego Lerer           6.5
 Ángel Quintana       7.5
 Jaime Pena            7
 Neil Young            7    https://twitter.com/JigsawLounge/status/335140082728194048
+Adam Cook            
+Arnaud Hee           4
+Christoph Huber      
+Frédéric Jaeger      
+Till Kadritzke       5
+Daniel Kasman        
+Michael Kienzl       
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
 
@@ -812,9 +841,18 @@ Jaime Pena            3.5
 Marcelo Alderete      2.5
 Boris Nelepo          5
 Alejandro G. Calvo    6
+Adam Cook            
+Arnaud Hee           
+Christoph Huber      6       + http://jury.critic.de/cannes/
+Frédéric Jaeger      4       - http://jury.critic.de/cannes/
+Till Kadritzke       
+Daniel Kasman        4       - http://jury.critic.de/cannes/
+Michael Kienzl       
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
-Kieron Corless        3
+Kieron Corless       3
+Christoph Huber      6       +
+Frédéric Jaeger      2.5     --
 
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
 
