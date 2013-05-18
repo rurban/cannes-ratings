@@ -75,6 +75,8 @@ Rose Kuo
 Pamela Bienzobas     
 Alvaro Arroba        
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
+Ryland Aldrich       6        http://www.indiewire.com/film/heli
+Craig Skinner        7        http://www.indiewire.com/film/heli
 Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 # Screen Daily (0-4)
@@ -88,15 +90,15 @@ Michel Ciment        5
 Kate Muir/Wendy Ide  7.5
 Bo Green Jensen      7.5
 Screen International 7.5
-Joachim Kurz 	      	        http://www.kino-zeit.de/blog/cannes/heli
-Adam Cook            2.5     -- http://jury.critic.de/cannes/ 
+Joachim Kurz 	      	     http://www.kino-zeit.de/blog/cannes/heli
+Adam Cook            2.5     http://jury.critic.de/cannes/ 
 Arnaud Hee           
-Christoph Huber      2.5     -- http://jury.critic.de/cannes/ 
-Frédéric Jaeger      4       -  http://jury.critic.de/cannes/
-Till Kadritzke       5       +- http://www.critic.de/film/heli-5547/
-Daniel Kasman        2.5     -- http://jury.critic.de/cannes/ 
-Michael Kienzl       6       +  http://jury.critic.de/cannes/ 
-Marc van de Klashorst 4         http://icsfilm.org/news/184-cannes-2013-review-heli
+Christoph Huber      2.5     http://jury.critic.de/cannes/ 
+Frédéric Jaeger      4       http://jury.critic.de/cannes/
+Till Kadritzke       5       http://www.critic.de/film/heli-5547/
+Daniel Kasman        2.5     http://jury.critic.de/cannes/ 
+Michael Kienzl       6       http://jury.critic.de/cannes/ 
+Marc van de Klashorst 4      http://icsfilm.org/news/184-cannes-2013-review-heli
 # ioncinema 0-5
 Nicolas Bell         5
 Christophe Beney     7
@@ -106,7 +108,7 @@ Per Juul Carlsen     6
 Carlos F. Heredero   4
 Aaron Hillis         
 #Eric Kohn           6
-Eric Lavallée        6
+Eric Lavallée        6        C+
 Fabien Lemercier     6
 Guy Lodge            5
 Liu Min              4
@@ -178,6 +180,8 @@ Michel Ciment        1
 Kate Muir/Wendy Ide  5
 Bo Green Jensen      5
 Screen International 5
+Ryland Aldrich       6        http://www.indiewire.com/film/jeune-et-jolie
+Craig Skinner        3        http://www.indiewire.com/film/jeune-et-jolie
 Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
 Patrick Heidmann     6        http://www.indiewire.com/film/jeune-et-jolie
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
@@ -333,6 +337,7 @@ Alvaro Arroba         2.5
 Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
 Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-past/5056283.article?blocktitle=Latest-Reviews&contentID=592
 Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-review-the-past-a-mostly-powerful-look-at-the-messiness-of-stasis-20130517
+Ryland Aldrich        8       http://www.indiewire.com/film/the-past
 Beatrice Behn         8       http://www.indiewire.com/film/the-past
 Clementine Gallot     8       http://www.indiewire.com/film/the-past
 Patrick Heidmann      5       http://www.indiewire.com/film/the-past
@@ -355,7 +360,7 @@ Per Juul Carlsen
 Carlos F. Heredero   
 Aaron Hillis         
 #Eric Kohn            
-Eric Lavallée        
+Eric Lavallée        6    http://www.indiewire.com/film/the-past
 Fabien Lemercier     
 Guy Lodge            
 Liu Min              
@@ -801,6 +806,8 @@ Pierre Fornerod       5
 Pascal Merigeau       
 Danielle Attali       5
 Christophe Carriére   2.5
+Craig Williams (Cine Vue) 2 	http://www.indiewire.com/film/the-great-gatsby
+Fico Cangiano (CineXpress) 4
 Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
