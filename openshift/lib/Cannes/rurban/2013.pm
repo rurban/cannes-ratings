@@ -268,6 +268,17 @@ Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
 Till Kadritzke       
 Daniel Kasman        7.5     http://jury.critic.de/cannes/
 Michael Kienzl       7.5     http://www.critic.de/film/a-touch-of-sin-5598/
+# Screen Daily (0-4)
+Nick James           7.5
+David Stratton       5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     7.5
+Jose Carlos Avellar  7.5
+Dennis Lim           9
+Michel Ciment        9
+Kate Muir/Wendy Ide  7.5
+Bo Green Jensen      5
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     8
@@ -351,6 +362,17 @@ Frédéric Jaeger       9       http://jury.critic.de/cannes/
 Till Kadritzke        6       
 Daniel Kasman         5       
 Michael Kienzl        7.5     http://www.critic.de/film/the-past-5535/
+# Screen Daily (0-4)
+Nick James           5
+David Stratton       7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     9
+Jose Carlos Avellar  5
+Dennis Lim           2.5
+Michel Ciment        7.5
+Kate Muir/Wendy Ide  9
+Bo Green Jensen      7.5
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
@@ -683,6 +705,7 @@ Alexandra Zawia       4
 Guido Castillo        6
 Ronald Rovers         3.5
 Frédéric Jaeger      9     http://jury.critic.de/cannes/
+Lee Marshall               http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
