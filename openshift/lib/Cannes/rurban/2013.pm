@@ -393,7 +393,7 @@ Blake Williams
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
-Mike d'Angelo        3.5      https://twitter.com/gemko/status/335687316553207809
+Mike d'Angelo        3.5      http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
@@ -434,7 +434,7 @@ Blake Williams
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
-Mike d'Angelo        4.2      https://twitter.com/gemko/status/335528895363301377
+Mike d'Angelo        4.2      http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
@@ -686,8 +686,9 @@ Michael Kienzl
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
-Carlos F. Heredero    6
-Fernando Juan Lima    3.5
+Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
+Carlos F. Heredero   6
+Fernando Juan Lima   3.5
 Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hee           
 Christoph Huber      
@@ -951,7 +952,7 @@ Daniel Kasman
 Michael Kienzl        
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
-Mike d'Angelo         6.8        https://twitter.com/gemko/status/335456583461003265
+Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Diego Batlle          7.5
 Diego Lerer           7
 Eulàlia Iglesias     6.5
