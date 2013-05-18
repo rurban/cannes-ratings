@@ -544,6 +544,7 @@ Blake Williams
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
 Luciano Monteagudo    6.5
 Pablo O. Scholz       7.5
+Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
@@ -813,6 +814,7 @@ Lee Marshall               http://www.screendaily.com/reviews/the-latest/grand-c
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
 Diego Lerer           6
 Robert Koehler        7
+Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
@@ -1100,6 +1102,7 @@ Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
 Michael Kienzl       2.5     http://jury.critic.de/cannes/
+Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
