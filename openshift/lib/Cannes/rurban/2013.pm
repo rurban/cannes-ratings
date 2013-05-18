@@ -49,7 +49,7 @@ Jaime Pena           4
 Rüdiger Suchsland    7.5
 Carlos Heredero      5.5
 Robert Koehler       4
-Dana Linssen         
+Dana Linssen         7
 Cristina Nord        4.5
 Francisco Ferreira   
 Paolo Moretti        
@@ -106,7 +106,7 @@ Diego Lerer           6
 Alex Vicente          
 Jose Luis De Lorenzo  7
 Cecilia Martinez      8
-Fernando Ganzo        4
+Fernando Ganzo        3.5
 Eulàlia Iglesias      7
 Ángel Quintana        7
 José Luis Losa        6
@@ -194,7 +194,7 @@ Jaime Pena            9
 Rüdiger Suchsland    
 Carlos F. Heredero    7.5
 Robert Koehler        
-Dana Linssen          
+Dana Linssen          8
 Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
@@ -213,7 +213,7 @@ Michal Oleszczyk      8.5
 Pablo O. Scholz       
 Alejandro G. Calvo    4
 Xavi Serra            7.5
-Guido Castillo        
+Guido Castillo        8.5
 Ronald Rovers         6.5
 Javier H. Estrada     8.5
 Rose Kuo              
@@ -245,13 +245,13 @@ Eulàlia Iglesias     6.5
 Ángel Quintana       4.5
 José Luis Losa       5
 Pedro Butcher         1
-Kieron Corless        
+Kieron Corless        2
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     
-Luciano Monteagudo    
+Luciano Monteagudo    6
 Jaime Pena            4.5
-Rüdiger Suchsland     8
+Rüdiger Suchsland    8
 Carlos F. Heredero    6
 Robert Koehler        
 Dana Linssen          5
@@ -261,7 +261,7 @@ Paolo Moretti
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      1.5
-Alexandra Zawia       
+Alexandra Zawia       6
 Boris Nelepo          
 Carlos Reviriego      
 Fernando Juan Lima    4.5
@@ -273,7 +273,7 @@ Michal Oleszczyk
 Pablo O. Scholz       
 Alejandro G. Calvo    4.5
 Xavi Serra            
-Guido Castillo        
+Guido Castillo        7
 Ronald Rovers         7.5
 Javier H. Estrada     
 Rose Kuo              
@@ -298,54 +298,37 @@ Michael Kienzl        7.5     ++ http://www.critic.de/film/the-past-5535/
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
+Roger Koza            7
+Diego Batlle          7
+Diego Lerer           7
+Fernando Ganzo        4
+Eulàlia Iglesias     8
+José Luis Losa       8
+Pedro Butcher         6.5
+Luciano Monteagudo    6
+Carlos F. Heredero    9
+Alejandro G. Calvo    5
+Guido Castillo        5
+Ronald Rovers         1
+Alvaro Arroba         4
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
-Roger Koza            
+Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
-Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
-Fernando Ganzo        
-Eulàlia Iglesias     
+Eulàlia Iglesias     4
 Ángel Quintana       5
 José Luis Losa       3.5
-Pedro Butcher         
-Kieron Corless        
-Luciano Barisone      
-Carlo Chatrian        
-Violeta Kovacsics     
-Luciano Monteagudo    
+Pedro Butcher         8
+Kieron Corless        4.5
 Jaime Pena            5.5
-Rüdiger Suchsland    
 Carlos F. Heredero    6.5
-Robert Koehler        
 Dana Linssen          7.5
-Cristina Nord         
-Francisco Ferreira    
-Paolo Moretti         
-Neil Young            
-Scott Foundas         
-Marcelo Alderete      
-Alexandra Zawia       
+Alexandra Zawia       5
 Boris Nelepo          4
-Carlos Reviriego      
-Fernando Juan Lima    
-Paolo Bertolin        
-Nando Salva           
-Philip Engel          
-Eugenio Renzi         
-Michal Oleszczyk      
-Pablo O. Scholz       
 Alejandro G. Calvo    7.5
-Xavi Serra            
-Guido Castillo        
-Ronald Rovers         
-Javier H. Estrada     
-Rose Kuo              
-Pamela Bienzobas      
-Alvaro Arroba         
+Guido Castillo        8
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -398,7 +381,7 @@ UN CERTAIN REGARD
 "THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
 Mike d'Angelo        3.2   http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-sofia-coppola-the-bling-ring-a-mostly-empty-exercise-in-excess-20130516
-Roger Koza           
+Roger Koza           5.5           
 Diego Batlle         7.5
 Diego Lerer          7
 Alex Vicente         
@@ -408,7 +391,7 @@ Fernando Ganzo       5
 Eulàlia Iglesias     5.5
 Ángel Quintana       5
 José Luis Losa       6.5
-Pedro Butcher        
+Pedro Butcher        7
 Kieron Corless       
 Luciano Barisone     4
 Carlo Chatrian       
@@ -484,7 +467,7 @@ Fernando Ganzo
 Eulàlia Iglesias     4
 Ángel Quintana       4.5
 José Luis Losa       1
-Pedro Butcher        
+Pedro Butcher        2
 Kieron Corless       
 Luciano Barisone     5
 Carlo Chatrian       
@@ -534,8 +517,10 @@ Michael Kienzl       4       -   http://jury.critic.de/cannes/
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Diego Batlle          7
 Diego Lerer           5.5
+Fernando Ganzo        8
 Eulàlia Iglesias     7.5
 Ángel Quintana       8
+Pedro Butcher         8.5
 Jaime Pena            7.5
 Carlos F. Heredero    6.5
 Dana Linssen          7
@@ -559,8 +544,14 @@ Carlos F. Heredero    6
 Fernando Juan Lima    3.5
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
+Fernando Ganzo        0.5
+Eulàlia Iglesias     7.5
+Alexandra Zawia       4
+Guido Castillo        6
+Ronald Rovers         3.5
 
 "BENDS" (Flora LAU) [Un Certain Regard]
+Diego Lerer           6
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
 
@@ -607,7 +598,7 @@ Claudia Puig (USA Today, USA) 5 http://www.usatoday.com/story/life/movies/2013/0
 Eric Kohn (Indiewire, USA) 4.2 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Andrew O'Hehir (Salon.com, USA) 4 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Keith Uhlich (Time Out New York, USA) 4 http://www.timeout.com/us/film/the-great-gatsby-movie-review
-Roger Koza            
+Roger Koza            3.5
 Diego Batlle          6
 Diego Lerer           6.5
 Alex Vicente          
@@ -694,6 +685,7 @@ SPECIAL SCREENINGS
 "STOP THE POUNDING HEART" (Roberto MINERVINI) [Special Screening]
 
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
+José Luis Losa       6.5
 
 "BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
 
@@ -769,6 +761,7 @@ Rüdiger Suchsland    6
 Carlos F. Heredero    6
 Dana Linssen          6
 Alejandro G. Calvo    5
+Guido Castillo        4
 Alvaro Arroba         10
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Adam Cook                     
@@ -781,9 +774,14 @@ Michael Kienzl
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Mike d'Angelo         6.8        https://twitter.com/gemko/status/335456583461003265
+Diego Batlle          7.5
+Diego Lerer           7
+Eulàlia Iglesias     6.5
 Ángel Quintana       5.5
+Kieron Corless        5
 Jaime Pena            5
 Neil Young            6.5
+Guido Castillo        8
 Ronald Rovers         7.5
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
@@ -791,8 +789,10 @@ Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
 Diego Batlle          8
+Eulàlia Iglesias     6
 Ángel Quintana       5.5
 José Luis Losa       5
+Kieron Corless        4
 Luciano Monteagudo    8.5
 Jaime Pena            3.5
 Marcelo Alderete      2.5
@@ -800,10 +800,14 @@ Boris Nelepo          5
 Alejandro G. Calvo    6
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
+Kieron Corless        3
 
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
+Roger Koza            1
+Luciano Monteagudo    0.5
+Alvaro Arroba         3.5
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 
