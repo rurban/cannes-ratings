@@ -1107,6 +1107,7 @@ Luciano Monteagudo    0.5
 Boris Nelepo          7.5
 Alvaro Arroba         3.5
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
+Christoph Huber      9       http://jury.critic.de/cannes/
 Daniel Kasman        6       http://jury.critic.de/cannes/
 Michael Kienzl       5       http://jury.critic.de/cannes/
 
