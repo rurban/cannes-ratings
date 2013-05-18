@@ -514,6 +514,7 @@ Daniel Kasman
 Michael Kienzl       4       -   http://jury.critic.de/cannes/ 
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Diego Batlle          7
 Diego Lerer           5.5
@@ -544,6 +545,7 @@ Carlos F. Heredero    6
 Fernando Juan Lima    3.5
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
 Fernando Ganzo        0.5
 Eulàlia Iglesias     7.5
 Alexandra Zawia       4
@@ -551,32 +553,44 @@ Guido Castillo        6
 Ronald Rovers         3.5
 
 "BENDS" (Flora LAU) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
 Diego Lerer           6
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
 
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
 
 "NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409844/year/2013.html
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
-
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
 
 OUT OF COMPETITION
 
@@ -720,7 +734,7 @@ Alex Billington       8       http://www.indiewire.com/film/aint-them-bodRodrigo
 
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
-Roger Koza            6
+Roger Koza            8
 José Luis Losa        0
 Jaime Pena            4.5
 Javier H. Estrada     7
