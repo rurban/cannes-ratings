@@ -133,7 +133,7 @@ Pedro Butcher         6
 Kieron Corless        
 Luciano Barisone      6
 Carlo Chatrian        
-Violeta Kovacsics     
+Violeta Kovacsics     4
 Luciano Monteagudo    5.5
 Jaime Pena            5
 Rüdiger Suchsland     7
@@ -226,7 +226,7 @@ Pedro Butcher         8.5
 Kieron Corless        
 Luciano Barisone      8
 Carlo Chatrian        5
-Violeta Kovacsics     
+Violeta Kovacsics     7
 Luciano Monteagudo    
 Jaime Pena            9
 Rüdiger Suchsland    
@@ -314,12 +314,12 @@ Pedro Butcher         1
 Kieron Corless        2
 Luciano Barisone      
 Carlo Chatrian        
-Violeta Kovacsics     
+Violeta Kovacsics     5.5
 Luciano Monteagudo    6
 Jaime Pena            4.5
 Rüdiger Suchsland    8
 Carlos F. Heredero    6
-Robert Koehler        
+Robert Koehler        5
 Dana Linssen          5
 Cristina Nord         
 Francisco Ferreira    
@@ -336,7 +336,7 @@ Nando Salva           8
 Philip Engel          
 Eugenio Renzi         
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       6.5
 Alejandro G. Calvo    4.5
 Xavi Serra            
 Guido Castillo        7
@@ -397,15 +397,47 @@ Mike d'Angelo        3.5      http://www.avclub.com/articles/cannes-2013-day-thr
 Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
 Fernando Ganzo        4
 Eulàlia Iglesias     8
+Ángel Quintana       
 José Luis Losa       8
 Pedro Butcher         6.5
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     8
 Luciano Monteagudo    6
+Jaime Pena            
+Rüdiger Suchsland    
 Carlos F. Heredero    9
+Robert Koehler        7
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          6.5
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       6.5
 Alejandro G. Calvo    5
+Xavi Serra            
 Guido Castillo        5
 Ronald Rovers         1
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         4
 Adam Cook            
 Arnaud Hee           
@@ -438,18 +470,48 @@ Mike d'Angelo        4.2      http://www.avclub.com/articles/cannes-2013-day-thr
 Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
 Eulàlia Iglesias     4
 Ángel Quintana       5
 José Luis Losa       3.5
 Pedro Butcher         8
 Kieron Corless        4.5
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     8
+Luciano Monteagudo    
 Jaime Pena            5.5
+Rüdiger Suchsland    
 Carlos F. Heredero    6.5
+Robert Koehler        
 Dana Linssen          7.5
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       5
 Boris Nelepo          4
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
 Alejandro G. Calvo    7.5
+Xavi Serra            
 Guido Castillo        8
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Adam Cook            5        http://jury.critic.de/cannes/
 Arnaud Hee           
 Christoph Huber      6        http://jury.critic.de/cannes/
@@ -480,6 +542,8 @@ Blake Williams
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
+Luciano Monteagudo    6.5
+Pablo O. Scholz       7.5
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
@@ -540,7 +604,7 @@ Pedro Butcher        7
 Kieron Corless       
 Luciano Barisone     4
 Carlo Chatrian       
-Violeta Kovacsics    
+Violeta Kovacsics    6
 Luciano Monteagudo   7
 Jaime Pena           6.5
 Rüdiger Suchsland    8.5
@@ -562,7 +626,7 @@ Nando Salva          6.5
 Philipp Engel        7.5
 Eugenio Renzi        
 Michal Oleszczyk     2
-Pablo O. Scholz      
+Pablo O. Scholz      5.5
 Alejandro G. Calvo   7
 Xavi Serra           5
 Guido Castillo       8
@@ -603,7 +667,7 @@ Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-
 Todd McCarthy (The Hollywood Reporter, USA) 8 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
 Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
 Roger Alan Koza      
-Diego Batlle         6.5
+Diego Batlle         6
 Diego Lerer          5.5
 Alex Vicente         
 José Luis de Lorenzo 9
@@ -621,7 +685,7 @@ Luciano Monteagudo
 Jaime Pena           4
 Rüdiger Suchsland    
 Carlos Heredero      3
-Robert Koehler       
+Robert Koehler       3
 Dana Linssen         
 Cristina Nord        
 Francisco Ferreira   
@@ -661,18 +725,50 @@ Michael Kienzl       4       http://jury.critic.de/cannes/
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
-Diego Batlle          7
-Diego Lerer           5.5
+Roger Koza            10
+Diego Batlle          7.5
+Diego Lerer           6
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
 Fernando Ganzo        8
 Eulàlia Iglesias     7.5
 Ángel Quintana       8
+José Luis Losa       
 Pedro Butcher         8.5
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     8
+Luciano Monteagudo    9.5
 Jaime Pena            7.5
+Rüdiger Suchsland    
 Carlos F. Heredero    6.5
+Robert Koehler        10
 Dana Linssen          7
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
 Boris Nelepo          7.5
+Carlos Reviriego      
 Fernando Juan Lima    8
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
 Alejandro G. Calvo    7.5
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         7.5
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 Adam Cook            6       http://jury.critic.de/cannes/
@@ -688,6 +784,7 @@ Michael Kienzl
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
 Carlos F. Heredero   6
+Robert Koehler        2.5
 Fernando Juan Lima   3.5
 Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hee           
@@ -700,9 +797,13 @@ Michael Kienzl
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
 Mike d'Angelo         https://twitter.com/gemko/status/335789145567948802
+Diego Batlle          7
 Fernando Ganzo        0.5
 Eulàlia Iglesias     7.5
+Luciano Monteagudo    5.5
+Robert Koehler        2
 Alexandra Zawia       4
+Pablo O. Scholz       5.5
 Guido Castillo        6
 Ronald Rovers         3.5
 Frédéric Jaeger      9     http://jury.critic.de/cannes/
@@ -711,6 +812,7 @@ Lee Marshall               http://www.screendaily.com/reviews/the-latest/grand-c
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
 Diego Lerer           6
+Robert Koehler        7
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
@@ -782,7 +884,7 @@ Pedro Butcher
 Kieron Corless        
 Luciano Barisone      1
 Carlo Chatrian        2
-Violeta Kovacsics     
+Violeta Kovacsics     5
 Luciano Monteagudo    5
 Jaime Pena            5.5
 Rüdiger Suchsland     6.5       http://www.negativ-film.de/2013/05/die-letzte-party-cannes-blog-2-folge
@@ -858,6 +960,7 @@ SPECIAL SCREENINGS
 
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
 José Luis Losa       6.5
+Pablo O. Scholz       4
 
 "BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
 
@@ -893,6 +996,7 @@ Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-sai
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 Roger Koza            8
+Violeta Kovacsics     6
 José Luis Losa        0
 Jaime Pena            4.5
 Javier H. Estrada     7
@@ -911,8 +1015,10 @@ Daniel Kasman
 Michael Kienzl       
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
+Robert Koehler        2
 
 "FOR THOSE IN PERIL" (Paul Wright) [Semaine]
+Robert Koehler        4
 
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
 
@@ -974,8 +1080,10 @@ José Luis Losa       5
 Kieron Corless        4
 Luciano Monteagudo    8.5
 Jaime Pena            3.5
+Robert Koehler        0.5
 Marcelo Alderete      2.5
 Boris Nelepo          5
+Pablo O. Scholz       8
 Alejandro G. Calvo    6
 Adam Cook            
 Arnaud Hee           
@@ -996,12 +1104,14 @@ Michael Kienzl       2.5     http://jury.critic.de/cannes/
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
 Luciano Monteagudo    0.5
+Boris Nelepo          7.5
 Alvaro Arroba         3.5
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Daniel Kasman        6       http://jury.critic.de/cannes/
 Michael Kienzl       5       http://jury.critic.de/cannes/
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
+Boris Nelepo          4
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
 
