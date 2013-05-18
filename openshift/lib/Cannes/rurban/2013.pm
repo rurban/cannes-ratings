@@ -200,7 +200,7 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      5
 Alexandra Zawia       8.5
 Boris Nelepo          6
 Carlos Reviriego      
@@ -242,25 +242,25 @@ Jose Luis De Lorenzo
 Cecilia Martinez      
 Fernando Ganzo        
 Eulàlia Iglesias     6.5
-Ángel Quintana       
-José Luis Losa       6
+Ángel Quintana       4.5
+José Luis Losa       5
 Pedro Butcher         1
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     
 Luciano Monteagudo    
-Jaime Pena            
-Rüdiger Suchsland    8
-Carlos F. Heredero    
+Jaime Pena            4.5
+Rüdiger Suchsland     8
+Carlos F. Heredero    6
 Robert Koehler        
-Dana Linssen          
+Dana Linssen          5
 Cristina Nord         
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      1.5
 Alexandra Zawia       
 Boris Nelepo          
 Carlos Reviriego      
@@ -271,7 +271,7 @@ Philip Engel
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       
-Alejandro G. Calvo    
+Alejandro G. Calvo    4.5
 Xavi Serra            
 Guido Castillo        
 Ronald Rovers         7.5
@@ -301,7 +301,51 @@ Michael Kienzl        7.5     ++ http://www.critic.de/film/the-past-5535/
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
+Roger Koza            
+Diego Batlle          7
+Diego Lerer           5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
+Eulàlia Iglesias     
+Ángel Quintana       5
+José Luis Losa       3.5
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            5.5
+Rüdiger Suchsland    
+Carlos F. Heredero    6.5
+Robert Koehler        
+Dana Linssen          7.5
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
 Boris Nelepo          4
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    7.5
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -374,13 +418,13 @@ Jaime Pena           6.5
 Rüdiger Suchsland    8.5
 Carlos Heredero      6
 Robert Koehler       
-Dana Linssen         
+Dana Linssen         5.5
 Cristina Nord        5.5
 Francisco Ferreira   
 Paolo Moretti        
 Neil Young           4                http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas        
-Marcelo Alderete     
+Marcelo Alderete     6.5
 Alexandra Zawia      3
 Boris Nelepo         5.5
 Carlos Reviriego     
@@ -448,7 +492,7 @@ Violeta Kovacsics
 Luciano Monteagudo   
 Jaime Pena           4
 Rüdiger Suchsland    
-Carlos Heredero      
+Carlos Heredero      3
 Robert Koehler       
 Dana Linssen         
 Cristina Nord        
@@ -488,12 +532,17 @@ Michael Kienzl       4       -   http://jury.critic.de/cannes/
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
-Diego Lerer          5.5
+Diego Batlle          7
+Diego Lerer           5.5
 Eulàlia Iglesias     7.5
-Boris Nelepo         7.5
-Fernando Juan Lima   8
-Alejandro G. Calvo   7
-Alvaro Arroba        7.5
+Ángel Quintana       8
+Jaime Pena            7.5
+Carlos F. Heredero    6.5
+Dana Linssen          7
+Boris Nelepo          7.5
+Fernando Juan Lima    8
+Alejandro G. Calvo    7.5
+Alvaro Arroba         7.5
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 Adam Cook            6       + http://jury.critic.de/cannes/
 Arnaud Hee 
@@ -506,6 +555,7 @@ Michael Kienzl
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
+Carlos F. Heredero    6
 Fernando Juan Lima    3.5
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
@@ -577,7 +627,7 @@ Jaime Pena            5.5
 Rüdiger Suchsland     6.5       http://www.negativ-film.de/2013/05/die-letzte-party-cannes-blog-2-folge
 Carlos F. Heredero    3
 Robert Koehler        2
-Dana Linssen          
+Dana Linssen          6
 Cristina Nord         3
 Francisco Ferreira    
 Paolo Moretti         
@@ -680,10 +730,13 @@ Alex Billington       8       http://www.indiewire.com/film/aint-them-bodRodrigo
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 Roger Koza            6
 José Luis Losa        0
+Jaime Pena            4.5
 Javier H. Estrada     7
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
 Diego Lerer           6.5
+Ángel Quintana       7.5
+Jaime Pena            7
 Neil Young            7    https://twitter.com/JigsawLounge/status/335140082728194048
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
@@ -711,9 +764,12 @@ QUINZAINE
 "THE CONGRESS" (Ari Folman) [Quinzaine]
 Jessica Kiang        4.5  http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
 Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright-gets-animated-in-messy-sometimes-mesmerising-the-congress
-Alejandro G. Calvo   5
+Fernando Ganzo        10
 Rüdiger Suchsland    6
-Carlos F. Heredero   6
+Carlos F. Heredero    6
+Dana Linssen          6
+Alejandro G. Calvo    5
+Alvaro Arroba         10
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Adam Cook                     
 Arnaud Hee            2.5     --  http://jury.critic.de/cannes/
@@ -725,14 +781,21 @@ Michael Kienzl
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Mike d'Angelo         6.8        https://twitter.com/gemko/status/335456583461003265
+Ángel Quintana       5.5
+Jaime Pena            5
 Neil Young            6.5
+Ronald Rovers         7.5
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
 Diego Batlle          8
+Ángel Quintana       5.5
+José Luis Losa       5
 Luciano Monteagudo    8.5
+Jaime Pena            3.5
+Marcelo Alderete      2.5
 Boris Nelepo          5
 Alejandro G. Calvo    6
 
