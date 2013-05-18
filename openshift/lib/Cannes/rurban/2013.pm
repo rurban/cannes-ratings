@@ -184,10 +184,10 @@ Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
 Adam Cook            
 Arnaud Hee           
 Christoph Huber      
-Frédéric Jaeger      6       +  http://www.critic.de/film/jeune-et-jolie-5534/
-Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/ 
+Frédéric Jaeger      6       http://www.critic.de/film/jeune-et-jolie-5534/
+Till Kadritzke       7.5     http://jury.critic.de/cannes/ 
 Daniel Kasman        
-Michael Kienzl       5       +- http://jury.critic.de/cannes/ 
+Michael Kienzl       5       http://jury.critic.de/cannes/ 
 # ioncinema 0-5
 Nicolas Bell         6
 Christophe Beney     8
@@ -257,13 +257,13 @@ Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
-Adam Cook            5       +-  http://jury.critic.de/cannes/
+Adam Cook            5       http://jury.critic.de/cannes/
 Arnaud Hee           
-Christoph Huber      9       +++ http://jury.critic.de/cannes/
-Frédéric Jaeger      7.5     ++  http://jury.critic.de/cannes/
+Christoph Huber      9       http://jury.critic.de/cannes/
+Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
 Till Kadritzke       
-Daniel Kasman        7.5     ++  http://jury.critic.de/cannes/
-Michael Kienzl       7.5     ++  http://www.critic.de/film/a-touch-of-sin-5598/
+Daniel Kasman        7.5     http://jury.critic.de/cannes/
+Michael Kienzl       7.5     http://www.critic.de/film/a-touch-of-sin-5598/
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     8
@@ -339,13 +339,13 @@ Patrick Heidmann      5       http://www.indiewire.com/film/the-past
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
-Adam Cook             5       +- http://jury.critic.de/cannes/
+Adam Cook             5       http://jury.critic.de/cannes/
 Arnaud Hee            5
 Christoph Huber       
-Frédéric Jaeger       9       +++ http://jury.critic.de/cannes/
-Till Kadritzke        6       +
-Daniel Kasman         5       +-
-Michael Kienzl        7.5     ++ http://www.critic.de/film/the-past-5535/
+Frédéric Jaeger       9       http://jury.critic.de/cannes/
+Till Kadritzke        6       
+Daniel Kasman         5       
+Michael Kienzl        7.5     http://www.critic.de/film/the-past-5535/
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
@@ -383,9 +383,9 @@ Alvaro Arroba         4
 Adam Cook            
 Arnaud Hee           
 Christoph Huber 
-Frédéric Jaeger      7.5     ++ http://jury.critic.de/cannes/
-Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/
-Daniel Kasman        5       +- http://jury.critic.de/cannes/
+Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
+Till Kadritzke       7.5     http://jury.critic.de/cannes/
+Daniel Kasman        5       http://jury.critic.de/cannes/
 Michael Kienzl       
 # ioncinema 0-5
 Nicolas Bell         
@@ -423,13 +423,13 @@ Alexandra Zawia       5
 Boris Nelepo          4
 Alejandro G. Calvo    7.5
 Guido Castillo        8
-Adam Cook            5       +- http://jury.critic.de/cannes/
+Adam Cook            5        http://jury.critic.de/cannes/
 Arnaud Hee           
-Christoph Huber      6       +  http://jury.critic.de/cannes/
-Frédéric Jaeger      7.5     ++ http://jury.critic.de/cannes/
-Till Kadritzke       7.5     ++ http://jury.critic.de/cannes/
+Christoph Huber      6        http://jury.critic.de/cannes/
+Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
+Till Kadritzke       7.5      http://jury.critic.de/cannes/
 Daniel Kasman        
-Michael Kienzl       6       + http://jury.critic.de/cannes/
+Michael Kienzl       6       http://jury.critic.de/cannes/
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
@@ -562,13 +562,13 @@ Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
 Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
 Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
-Adam Cook             6       +   http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
+Adam Cook             6          http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Arnaud Hee            
-Christoph Huber       5       +-  http://jury.critic.de/cannes/
-Frédéric Jaeger       5       +++ http://jury.critic.de/cannes/
-Till Kadritzke        6       +   http://www.critic.de/film/the-bling-ring-5396/
-Daniel Kasman         2.5     --  http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
-Michael Kienzl        5       +-  http://jury.critic.de/cannes/
+Christoph Huber       5       http://jury.critic.de/cannes/
+Frédéric Jaeger       5       http://jury.critic.de/cannes/
+Till Kadritzke        6       http://www.critic.de/film/the-bling-ring-5396/
+Daniel Kasman         2.5     http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
+Michael Kienzl        5       http://jury.critic.de/cannes/
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   Sundance - Main Prices
@@ -626,10 +626,10 @@ Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-revi
 Adam Cook                     
 Arnaud Hee            
 Christoph Huber       
-Frédéric Jaeger      2.5     --  http://jury.critic.de/cannes/
-Till Kadritzke       4       -   http://jury.critic.de/cannes/ 
+Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
+Till Kadritzke       4       http://jury.critic.de/cannes/ 
 Daniel Kasman         
-Michael Kienzl       4       -   http://jury.critic.de/cannes/ 
+Michael Kienzl       4       http://jury.critic.de/cannes/ 
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
@@ -648,10 +648,10 @@ Fernando Juan Lima    8
 Alejandro G. Calvo    7.5
 Alvaro Arroba         7.5
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
-Adam Cook            6       + http://jury.critic.de/cannes/
+Adam Cook            6       http://jury.critic.de/cannes/
 Arnaud Hee 
 Christoph Huber 
-Frédéric Jaeger      7.5     ++ http://www.critic.de/film/linconnu-du-lac-5580/
+Frédéric Jaeger      7.5     http://www.critic.de/film/linconnu-du-lac-5580/
 Till Kadritzke 
 Daniel Kasman 
 Michael Kienzl 
@@ -661,7 +661,7 @@ Michael Kienzl
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Carlos F. Heredero    6
 Fernando Juan Lima    3.5
-Adam Cook            2.5     -- http://jury.critic.de/cannes/
+Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hee           
 Christoph Huber      
 Frédéric Jaeger      
@@ -671,12 +671,13 @@ Michael Kienzl
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
+Mike d'Angelo         https://twitter.com/gemko/status/335789145567948802
 Fernando Ganzo        0.5
 Eulàlia Iglesias     7.5
 Alexandra Zawia       4
 Guido Castillo        6
 Ronald Rovers         3.5
-Frédéric Jaeger      9     +++ http://jury.critic.de/cannes/
+Frédéric Jaeger      9     http://jury.critic.de/cannes/
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
@@ -806,11 +807,11 @@ Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
 Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
 Adam Cook             
 Arnaud Hee           
-Christoph Huber       2.5     --  http://jury.critic.de/cannes/
-Frédéric Jaeger       6       +   http://jury.critic.de/cannes/
-Till Kadritzke        6       +   http://www.critic.de/film/the-great-gatsby-4168/
+Christoph Huber       2.5     http://jury.critic.de/cannes/
+Frédéric Jaeger       6       http://jury.critic.de/cannes/
+Till Kadritzke        6       http://www.critic.de/film/the-great-gatsby-4168/
 Daniel Kasman                 
-Michael Kienzl        4       -   http://jury.critic.de/cannes/
+Michael Kienzl        4       http://jury.critic.de/cannes/
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 
@@ -854,9 +855,9 @@ Jordan Raup           8       http://www.indiewire.com/film/aint-them-bodies-sai
 Kyle Smith (New York Post, USA) 1.5     http://www.indiewire.com/film/aint-them-bodies-saints
 Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bodies-saints
 Eric Kohn             9       http://www.indiewire.com/film/aint-them-bodies-saints
-Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bodRodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodRodrigo Perez
-Alex Billington       8       http://www.indiewire.com/film/aint-them-bodRodrigo Perez
-
+Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bod
+Rodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodies-saints
+Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-saints
 
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
@@ -912,7 +913,7 @@ Guido Castillo        4
 Alvaro Arroba         10
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Adam Cook                     
-Arnaud Hee            2.5     --  http://jury.critic.de/cannes/
+Arnaud Hee            2.5     http://jury.critic.de/cannes/
 Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        
@@ -947,23 +948,27 @@ Boris Nelepo          5
 Alejandro G. Calvo    6
 Adam Cook            
 Arnaud Hee           
-Christoph Huber      6       + http://jury.critic.de/cannes/
-Frédéric Jaeger      4       - http://jury.critic.de/cannes/
+Christoph Huber      6       http://jury.critic.de/cannes/
+Frédéric Jaeger      4       http://jury.critic.de/cannes/
 Till Kadritzke       
-Daniel Kasman        4       - http://jury.critic.de/cannes/
+Daniel Kasman        4       http://jury.critic.de/cannes/
 Michael Kienzl       
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 Kieron Corless       3
-Christoph Huber      6       +
-Frédéric Jaeger      2.5     --
+Christoph Huber      6       http://jury.critic.de/cannes/
+Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
+Michael Kienzl       2.5     http://jury.critic.de/cannes/
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
 Luciano Monteagudo    0.5
 Alvaro Arroba         3.5
+Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
+Daniel Kasman        6       http://jury.critic.de/cannes/
+Michael Kienzl       5       http://jury.critic.de/cannes/
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 
