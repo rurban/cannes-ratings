@@ -116,6 +116,22 @@ Isabelle Regnier     7
 Cédric Succivalli    2
 Blake Williams       5
 #Neil Young          5
+# Le film français 0-4
+Stéphanie Lamome      7.5
+Arnaud Schwartz       2.5
+Fabrice Leclerc       
+Eric Neuhoff          2.5
+Stéphane Delorme      1
+Thomas Sotinel        2.5
+Philippe Rouyer       1
+Pierre Vavasseur      7.5
+Pierre Murat          2.5
+Jean Roy              2.5
+Serge Kaganski        2.5
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       7.5
+Christophe Carriére   2.5
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -209,6 +225,22 @@ Isabelle Regnier     6
 Cédric Succivalli    8
 Blake Williams       5
 #Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       5
+Eric Neuhoff          2.5
+Stéphane Delorme      1   
+Thomas Sotinel        7.5
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          7.5
+Jean Roy              7.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       2.5
+Christophe Carriére   7.5
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -296,6 +328,22 @@ Isabelle Regnier
 Cédric Succivalli    8
 Blake Williams       7
 #Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      9
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5   
+Thomas Sotinel        5
+Philippe Rouyer       9
+Pierre Vavasseur      9
+Pierre Murat          7.5
+Jean Roy              5
+Serge Kaganski        9
+Pierre Fornerod       2.5
+Pascal Merigeau       7.5
+Danielle Attali       7.5
+Christophe Carriére   5
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -390,6 +438,22 @@ Isabelle Regnier
 Cédric Succivalli    10
 Blake Williams       4
 #Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      9
+Arnaud Schwartz       7.5
+Fabrice Leclerc       9
+Eric Neuhoff          2.5
+Stéphane Delorme         
+Thomas Sotinel        2.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      9
+Pierre Murat          9
+Jean Roy              7.5
+Serge Kaganski        7.5
+Pierre Fornerod       7.5
+Pascal Merigeau       9
+Danielle Attali       7.5
+Christophe Carriére   9
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -474,6 +538,22 @@ Isabelle Regnier     7
 Cédric Succivalli    8
 Blake Williams       3
 #Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
 Kevin Jagernaut      3    http://www.indiewire.com/film/jimmy-picard
 Emanuel Levy         6    http://www.indiewire.com/film/jimmy-picard
@@ -562,6 +642,22 @@ Isabelle Regnier     4
 Cédric Succivalli    6
 Blake Williams       6
 #Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -603,6 +699,22 @@ Blake Williams
 #Neil Young          
 Jessica Kiang         8       http://www.indiewire.com/film/borgman
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -680,6 +792,22 @@ Isabelle Regnier
 Cédric Succivalli    
 Blake Williams       
 #Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Adam Cook            5      http://jury.critic.de/cannes/ 
 Arnaud Hee           
 Christoph Huber      1      http://jury.critic.de/cannes/ 
@@ -783,6 +911,22 @@ Javier H. Estrada    6.5
 Rose Kuo             
 Pamela Bienzobas     
 Alvaro Arroba        1.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       2.5
+Fabrice Leclerc       7.5
+Eric Neuhoff          2.5
+Stéphane Delorme      2.5   
+Thomas Sotinel        7.5
+Philippe Rouyer       2.5
+Pierre Vavasseur      
+Pierre Murat          5
+Jean Roy              
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       
+Danielle Attali       5
+Christophe Carriére   
 Eric Kohn            6   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Peter Bradshaw       6   http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
 Guy Lodge            7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
@@ -859,6 +1003,22 @@ Javier H. Estrada    3.5
 Rose Kuo             
 Pamela Bienzobas     
 Alvaro Arroba        
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      1   
+Thomas Sotinel        2.5
+Philippe Rouyer       2.5
+Pierre Vavasseur      
+Pierre Murat          1
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
@@ -918,6 +1078,22 @@ Javier H. Estrada     7.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         7.5
+# Le film français 0-4
+Stéphanie Lamome      9
+Arnaud Schwartz       
+Fabrice Leclerc       7.5
+Eric Neuhoff          5
+Stéphane Delorme      7.5   
+Thomas Sotinel        
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          7.5
+Jean Roy              5
+Serge Kaganski        9
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       1
+Christophe Carriére   
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 Adam Cook            6       http://jury.critic.de/cannes/
 Arnaud Hee 
@@ -937,6 +1113,22 @@ Rüdiger Suchsland    4.5
 Carlos F. Heredero    6
 Robert Koehler        2.5
 Fernando Juan Lima    3.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        5
+Philippe Rouyer       2.5
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hee           
 Christoph Huber      
@@ -993,6 +1185,22 @@ Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Adam Cook            2.5    http://jury.critic.de/cannes/ 
 Arnaud Hee           2.5
 Christoph Huber      4      http://jury.critic.de/cannes/ 
@@ -1130,12 +1338,12 @@ Eric Neuhoff          1
 Stéphane Delorme      2.5   
 Thomas Sotinel        2.5
 Philippe Rouyer       2.5
-Pierre Vavasseur      
+Pierre Vavasseur      5
 Pierre Murat          
 Jean Roy              5
 Serge Kaganski        1
 Pierre Fornerod       5
-Pascal Merigeau       
+Pascal Merigeau       2.5
 Danielle Attali       5
 Christophe Carriére   2.5
 Craig Williams (Cine Vue) 2 	http://www.indiewire.com/film/the-great-gatsby
