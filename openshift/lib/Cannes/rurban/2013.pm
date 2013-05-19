@@ -92,7 +92,7 @@ Bo Green Jensen      7.5
 Screen International 7.5
 Joachim Kurz 	      	     http://www.kino-zeit.de/blog/cannes/heli
 Adam Cook            2.5     http://jury.critic.de/cannes/ 
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber      2.5     http://jury.critic.de/cannes/ 
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
 Till Kadritzke       5       http://www.critic.de/film/heli-5547/
@@ -202,7 +202,7 @@ Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
 Patrick Heidmann     6        http://www.indiewire.com/film/jeune-et-jolie
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
 Adam Cook            
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber      
 Frédéric Jaeger      6       http://www.critic.de/film/jeune-et-jolie-5534/
 Till Kadritzke       7.5     http://jury.critic.de/cannes/ 
@@ -294,7 +294,7 @@ Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
 Adam Cook            5       http://jury.critic.de/cannes/
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber      9       http://jury.critic.de/cannes/
 Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
 Till Kadritzke       
@@ -404,7 +404,7 @@ Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
 Adam Cook             5       http://jury.critic.de/cannes/
-Arnaud Hee            5
+Arnaud Hée            5
 Christoph Huber       
 Frédéric Jaeger       9       http://jury.critic.de/cannes/
 Till Kadritzke        6       
@@ -504,7 +504,7 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         4
 Adam Cook            2.5     http://jury.critic.de/cannes/
-Arnaud Hee           5       http://jury.critic.de/cannes/
+Arnaud Hée           5       http://jury.critic.de/cannes/
 Christoph Huber      6       http://jury.critic.de/cannes/
 Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
 Till Kadritzke       7.5     http://www.critic.de/film/jimmy-p-psychotherapy-of-a-plains-indian-5546/
@@ -608,7 +608,7 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Adam Cook            5        http://jury.critic.de/cannes/
-Arnaud Hee           6
+Arnaud Hée           6
 Christoph Huber      6        http://jury.critic.de/cannes/
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Till Kadritzke       7.5      http://jury.critic.de/cannes/
@@ -809,7 +809,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 Adam Cook            5      http://jury.critic.de/cannes/ 
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber      1      http://jury.critic.de/cannes/ 
 Frédéric Jaeger      9      http://jury.critic.de/cannes/
 Till Kadritzke              
@@ -833,7 +833,7 @@ Alejandro G. Calvo 0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
-Arnaud Hee            1      --- http://jury.critic.de/cannes/
+Arnaud Hée            1      --- http://jury.critic.de/cannes/
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -946,7 +946,7 @@ Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
 Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
 Adam Cook             6          http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
-Arnaud Hee            
+Arnaud Hée            
 Christoph Huber       5       http://jury.critic.de/cannes/
 Frédéric Jaeger       5       http://jury.critic.de/cannes/
 Till Kadritzke        6       http://www.critic.de/film/the-bling-ring-5396/
@@ -1023,7 +1023,7 @@ Mike d'Angelo        w/o      https://twitter.com/gemko/status/33514787161364070
 Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
 Adam Cook                     
-Arnaud Hee            
+Arnaud Hée            
 Christoph Huber       
 Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 Till Kadritzke       4       http://jury.critic.de/cannes/ 
@@ -1096,7 +1096,7 @@ Danielle Attali       1
 Christophe Carriére   
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 Adam Cook            6       http://jury.critic.de/cannes/
-Arnaud Hee 
+Arnaud Hée 
 Christoph Huber 
 Frédéric Jaeger      7.5     http://www.critic.de/film/linconnu-du-lac-5580/
 Till Kadritzke 
@@ -1130,7 +1130,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 Adam Cook            2.5     http://jury.critic.de/cannes/
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber      
 Frédéric Jaeger      
 Till Kadritzke       
@@ -1202,7 +1202,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 Adam Cook            2.5    http://jury.critic.de/cannes/ 
-Arnaud Hee           2.5
+Arnaud Hée           2.5
 Christoph Huber      4      http://jury.critic.de/cannes/ 
 Frédéric Jaeger      9      http://www.critic.de/film/grand-central-5586/
 Till Kadritzke       9      http://jury.critic.de/cannes/
@@ -1228,7 +1228,7 @@ Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
 Pablo O. Scholz       8
-Arnaud Hee           6        http://jury.critic.de/cannes/ 
+Arnaud Hée           6        http://jury.critic.de/cannes/ 
 Michael Kienzl       7.5      http://jury.critic.de/cannes/ 
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
@@ -1353,7 +1353,7 @@ Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
 Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
 Adam Cook             
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber       2.5     http://jury.critic.de/cannes/
 Frédéric Jaeger       6       http://jury.critic.de/cannes/
 Till Kadritzke        6       http://www.critic.de/film/the-great-gatsby-4168/
@@ -1425,7 +1425,7 @@ Diego Lerer           6.5
 Jaime Pena            7
 Neil Young            7    https://twitter.com/JigsawLounge/status/335140082728194048
 Adam Cook            
-Arnaud Hee           4
+Arnaud Hée           4
 Christoph Huber      
 Frédéric Jaeger      
 Till Kadritzke       5
@@ -1470,7 +1470,7 @@ Guido Castillo        4
 Alvaro Arroba         10
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Adam Cook                     
-Arnaud Hee            2.5     http://jury.critic.de/cannes/
+Arnaud Hée            2.5     http://jury.critic.de/cannes/
 Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        
@@ -1509,7 +1509,7 @@ Pablo O. Scholz       8
 Alejandro G. Calvo    6
 Javier H. Estrada     5.5
 Adam Cook            
-Arnaud Hee           
+Arnaud Hée           
 Christoph Huber      6       http://jury.critic.de/cannes/
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
 Till Kadritzke       
@@ -1576,7 +1576,7 @@ Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
 Fernando Ganzo        7
 Carlo Chatrian        5
-Arnaud Hee            5      +-  http://jury.critic.de/cannes/
+Arnaud Hée            5      +-  http://jury.critic.de/cannes/
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
@@ -1590,7 +1590,7 @@ Ethan Anderson       3       http://www.indiewire.com/film/magic-magic
 Don Simpson          8       http://www.indiewire.com/film/magic-magic
 Joe Bendel           4       http://www.indiewire.com/film/magic-magic
 Eric Kohn            4       http://www.indiewire.com/film/magic-magic
-Arnaud Hee           2.5     http://jury.critic.de/cannes/
+Arnaud Hée           2.5     http://jury.critic.de/cannes/
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
 
@@ -1700,12 +1700,12 @@ Screen International (Screen International, USA)
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics[4] = "
 Adam Cook (MUBI)
-Arnaud Hee (Critikat.com)
-Christoph Huber (Die Presse, AT)
-Frédéric Jaeger (critic.de, D)
-Till Kadritzke (critic.de, D)
+Arnaud Hée (Critikat.com, France)
+Christoph Huber (Die Presse, Austria)
+Frédéric Jaeger (critic.de, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
 Daniel Kasman (MUBI)
-Michael Kienzl (critic.de, D)
+Michael Kienzl (critic.de, Deutschland)
 ";
 # indiewire + various other
 $critics[5] = "
@@ -1725,7 +1725,7 @@ Beatrice Behn (Kino-Zeit, Deutschland)
 Brian Brooks (indieWIRE, USA) 
 Chris Knipp (Filmleaf, USA)
 Clementine Gallot (Cahiers du cinema, France)
-Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool)
+Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool, UK)
 David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
