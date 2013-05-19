@@ -171,7 +171,7 @@ sub _dump {
     for (@k) {
       my ($x,$a,$d) = @{$critic{$c}->{title}->{$_}};
       my $n = $title{$_}->{num};
-      if ($n > 1) {
+      if ($n and $n > 1) {
         $asum += abs($d) if $d;
         $sum  += $d if $d;
       } else {
@@ -182,9 +182,11 @@ sub _dump {
       my $d = $critic{$c}->{title}->{$_}->[2] || 0;
       $s += ($d * $d);
     }
-    $critic{$c}->{diff} = $sum / $num;
-    $critic{$c}->{absdiff} = $asum / $num;
-    $critic{$c}->{stddev}  = sqrt($s / $num);
+    if ($num) {
+      $critic{$c}->{diff} = $sum / $num;
+      $critic{$c}->{absdiff} = $asum / $num;
+      $critic{$c}->{stddev}  = sqrt($s / $num);
+    }
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5;
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
