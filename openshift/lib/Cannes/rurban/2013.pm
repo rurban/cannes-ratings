@@ -139,7 +139,7 @@ Roger Koza            5.5
 Diego Batlle          6
 Diego Lerer           6
 Alex Vicente          
-Jose Luis De Lorenzo  7
+José Luis De Lorenzo  7
 Cecilia Martinez      8
 Fernando Ganzo        3.5
 Eulàlia Iglesias      7
@@ -248,7 +248,7 @@ Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           8.5     http://micropsia.otroscines.com/2013/05/cannes-2013-a-touch-of-sin-de-jia-zhang-ke-competencia/
 Alex Vicente          
-Jose Luis De Lorenzo  8
+José Luis De Lorenzo  8
 Cecilia Martinez      7
 Fernando Ganzo        3
 Eulàlia Iglesias      6.5
@@ -352,7 +352,7 @@ Roger Koza
 Diego Batlle          6.5
 Diego Lerer           6.5
 Alex Vicente          
-Jose Luis De Lorenzo  4
+José Luis De Lorenzo  4
 Cecilia Martinez      3
 Fernando Ganzo        
 Eulàlia Iglesias     6.5
@@ -462,7 +462,7 @@ Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
 Alex Vicente          
-Jose Luis De Lorenzo  
+José Luis De Lorenzo  
 Cecilia Martinez      5
 Fernando Ganzo        4
 Eulàlia Iglesias     8
@@ -566,7 +566,7 @@ Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
 Alex Vicente          
-Jose Luis De Lorenzo  9
+José Luis De Lorenzo  9
 Cecilia Martinez      9
 Fernando Ganzo        
 Eulàlia Iglesias     4
@@ -723,7 +723,7 @@ Roger Koza            7
 Diego Batlle          7.5
 Diego Lerer           8.5
 Alex Vicente          
-Jose Luis De Lorenzo  7
+José Luis De Lorenzo  7
 Cecilia Martinez      
 Fernando Ganzo        
 Eulàlia Iglesias     8
@@ -938,7 +938,7 @@ Robbie Collin (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cann
 Scott Foundas           http://variety.com/2013/film/reviews/cannes-film-review-the-bling-ring-1200482052/
 Graham Fuller (Vanity Fair) http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
-Matt Mueller (Thompson on Hollywood, US) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
+Matt Mueller (Thompson on Hollywood, USA) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
 Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
 # Criticwire
 Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
@@ -1037,7 +1037,7 @@ Roger Koza            10
 Diego Batlle          8
 Diego Lerer           6
 Alex Vicente          
-Jose Luis De Lorenzo  4
+José Luis De Lorenzo  4
 Cecilia Martinez      6
 Fernando Ganzo        8
 Eulàlia Iglesias     7.5
@@ -1107,7 +1107,7 @@ Michael Kienzl
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
-Jose Luis De Lorenzo  4
+José Luis De Lorenzo  4
 Cecilia Martinez      4
 Rüdiger Suchsland    4.5
 Carlos F. Heredero    6
@@ -1144,7 +1144,7 @@ Roger Koza
 Diego Batlle          6.5
 Diego Lerer           
 Alex Vicente          
-Jose Luis De Lorenzo  5
+José Luis De Lorenzo  5
 Cecilia Martinez      5.5
 Fernando Ganzo        0.5
 Eulàlia Iglesias     7.5
@@ -1288,7 +1288,7 @@ Roger Koza            3.5
 Diego Batlle          6
 Diego Lerer           6.5
 Alex Vicente          
-Jose Luis De Lorenzo  2
+José Luis De Lorenzo  2
 Cecilia Martinez      5
 Fernando Ganzo        0
 Eulàlia Iglesias      6
@@ -1531,7 +1531,7 @@ Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
-Jose Luis De Lorenzo  10
+José Luis De Lorenzo  10
 Cecilia Martinez      6
 Luciano Monteagudo    0.5
 Rüdiger Suchsland    10
@@ -1618,7 +1618,7 @@ Fernando Ganzo (Lumiere, España)
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
 Jaime Pena (El Amante, España, Argentina) 
-José Luis de Lorenzo (A Sala Llena, Argentina) 
+José Luis De Lorenzo (A Sala Llena, Argentina) 
 José Luis Losa (Cineuropa, España)
 Kieron Corless (Time Out London, UK)
 Luciano Barisone (Duellanti/Panoramiche, Italy) 
@@ -1642,6 +1642,7 @@ Javier H. Estrada (Caimán CDC, España)
 Pamela Bienzobas (Mabuse, Chile) 
 Xavi Serra (Ara, España) 
 Guido Castillo (Freelance, España)
+Ronald Rovers (Cinema.nl, Netherlands)
 Alvaro Arroba (Cinema Scope, España)
 ";
 # ioncinema
@@ -1691,6 +1692,7 @@ Jan Schulz-Ojala (Der Tagesspiegel, Deutschland)
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 
 Dennis Lim (The New York Times, USA) 
 Michel Ciment (Positif, France) 
+Kate Muir/Wendy Ide (The Times, UK) 
 Kate Muir (The Times, UK) 
 Wendy Ide (The Times, UK) 
 Bo Green Jensen (Weekandavisen Berlingske, Denmark) 
@@ -1698,12 +1700,12 @@ Screen International (Screen International, USA)
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics[4] = "
-Adam Cook (MUBI, ?)
+Adam Cook (MUBI, USA
 Arnaud Hée (Critikat.com, France)
 Christoph Huber (Die Presse, Austria)
 Frédéric Jaeger (critic.de, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
-Daniel Kasman (MUBI, ?)
+Daniel Kasman (MUBI, USA)
 Michael Kienzl (critic.de, Deutschland)
 ";
 # indiewire + various other
@@ -1730,7 +1732,7 @@ David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
-David Sterrit (Tikkun Magazine, ?)
+David Sterrit (Tikkun Magazine, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
 Drew McWeeny (InContention, USA)
 Drew Taylor (The Playlist, USA)
