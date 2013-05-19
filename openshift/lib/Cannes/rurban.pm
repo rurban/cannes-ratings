@@ -157,9 +157,10 @@ sub _dump {
     }
   }
   my (%badcritic, @good, @allfilms);
-  my %params_cn;
+  my (%params_cn, $params_cn);
   if (Dancer::SharedData->request and params->{cn}) {
-    $params_cn{$_}++ for (@{params->{cn}});
+    $params_cn = ref(params->{cn}) eq 'ARRAY' ? params->{cn} : [ params->{cn} ];
+    $params_cn{$_}++ for (@$params_cn);
   }
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
@@ -405,19 +406,20 @@ sub _side_details {
     my $t = params->{t};
     my %params_cn;
     if (params->{cn}) {
-      $params_cn{$_}++ for (@{params->{cn}});
+      my $params_cn = ref(params->{cn}) eq 'ARRAY' ? params->{cn} : [ params->{cn} ];
+      $params_cn{$_}++ for (@$params_cn);
     }
-    my ($cnbox, %cn) = ("<form name=cn><input type=hidden name=t value=\"$t\">\n");
+    my ($cnbox, %cn) = ("<form><input type=hidden name=t value=\"$t\">\n");
     for (keys %critic) {
       if (my $cn = $critic{$_}->{cn}) {
 	$cn{$cn}++;
-	$params_cn{$cn}++ unless params->{cn}; 
+	$params_cn{$cn}++ unless params->{cn};
       }
     }
     for (sort keys(%cn)) {
       next if $_ eq '?';
       my $n = $cn{$_};
-      $cnbox .= "<label><input name=cn type=checkbox value=\"$_\"";
+      $cnbox .= "<label><input name=\"cn\" type=checkbox value=\"$_\"";
       $cnbox .= " checked" if $params_cn{$_};
       $cnbox .= ">$_ ($n)</input></label><br>\n";
     }
