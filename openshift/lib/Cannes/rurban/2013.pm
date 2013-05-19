@@ -601,8 +601,8 @@ Arnaud Hee
 Christoph Huber      1      http://jury.critic.de/cannes/ 
 Frédéric Jaeger      9      http://jury.critic.de/cannes/
 Till Kadritzke              
-Daniel Kasman               http://jury.critic.de/cannes/ 
-Michael Kienzl              http://jury.critic.de/cannes/ 
+Daniel Kasman
+Michael Kienzl
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
