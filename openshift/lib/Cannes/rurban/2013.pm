@@ -439,11 +439,11 @@ Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         4
-Adam Cook            
-Arnaud Hee           
-Christoph Huber 
+Adam Cook            2.5     http://jury.critic.de/cannes/
+Arnaud Hee           5       http://jury.critic.de/cannes/
+Christoph Huber      6       http://jury.critic.de/cannes/
 Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
-Till Kadritzke       7.5     http://jury.critic.de/cannes/
+Till Kadritzke       7.5     http://www.critic.de/film/jimmy-p-psychotherapy-of-a-plains-indian-5546/
 Daniel Kasman        5       http://jury.critic.de/cannes/
 Michael Kienzl       
 # ioncinema 0-5
@@ -515,7 +515,7 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Adam Cook            5        http://jury.critic.de/cannes/
-Arnaud Hee           
+Arnaud Hee           6
 Christoph Huber      6        http://jury.critic.de/cannes/
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Till Kadritzke       7.5      http://jury.critic.de/cannes/
@@ -546,6 +546,8 @@ Cristina Nord         1.5
 Neil Young            7
 Pablo O. Scholz       6
 Ronald Rovers         6.5
+Frédéric Jaeger      7.5       http://jury.critic.de/cannes/
+Michael Kienzl       6       http://jury.critic.de/cannes/ 
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -594,6 +596,13 @@ Javier H. Estrada
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
+Adam Cook            5      http://jury.critic.de/cannes/ 
+Arnaud Hee           
+Christoph Huber      1      http://jury.critic.de/cannes/ 
+Frédéric Jaeger      9      http://jury.critic.de/cannes/
+Till Kadritzke              
+Daniel Kasman               http://jury.critic.de/cannes/ 
+Michael Kienzl              http://jury.critic.de/cannes/ 
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
@@ -896,8 +905,14 @@ Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
-Frédéric Jaeger      9     http://jury.critic.de/cannes/
-Lee Marshall               http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
+Adam Cook            2.5    http://jury.critic.de/cannes/ 
+Arnaud Hee           2.5
+Christoph Huber      4      http://jury.critic.de/cannes/ 
+Frédéric Jaeger      9      http://www.critic.de/film/grand-central-5586/
+Till Kadritzke       9      http://jury.critic.de/cannes/
+Daniel Kasman               
+Michael Kienzl       6      http://jury.critic.de/cannes/ 
+Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
@@ -910,11 +925,14 @@ Robert Koehler        7
 Carlos Reviriego      5
 Pablo O. Scholz       5
 Javier H. Estrada     5.5
+Adam Cook            5       http://jury.critic.de/cannes/ 
 Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
 Pablo O. Scholz       8
+Arnaud Hee           6        http://jury.critic.de/cannes/ 
+Michael Kienzl       7.5      http://jury.critic.de/cannes/ 
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
@@ -1095,7 +1113,6 @@ Eric Kohn             9       http://www.indiewire.com/film/aint-them-bodies-sai
 Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bod
 Rodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodies-saints
 Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-saints
-
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 Roger Koza            8
