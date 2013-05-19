@@ -55,18 +55,18 @@ Francisco Ferreira
 Paolo Moretti        
 Neil Young           4.5       http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas        
-Marcelo Alderete     
+Marcelo Alderete     2.5
 Alexandra Zawia      5.5
 Boris Nelepo         1
 Carlos Reviriego     6.5
 Fernando Juan Lima   5
 Paolo Bertolin       
 Nando Salva          4
-Philipp Engel        7
+Philip Engel        7
 Eugenio Renzi        
 Michal Oleszczyk     7.5
 Pablo O. Scholz      4.5
-Alejandro G. Calvo   
+Alejandro G. Calvo   4
 Xavi Serra           5.5
 Guido Castillo       5
 Ronald Rovers        7.5
@@ -168,7 +168,7 @@ Carlos Reviriego      6.5
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7.5
-Philipp Engel          7.5
+Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      6.5
 Pablo O. Scholz       6
@@ -277,7 +277,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           6.5
-Philipp Engel          7.5
+Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      8.5
 Pablo O. Scholz       5
@@ -381,12 +381,12 @@ Carlos Reviriego      6
 Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           8
-Philipp Engel          6.5
+Philip Engel          6.5
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
 Alejandro G. Calvo    4.5
-Xavi Serra            
+Xavi Serra            6.5
 Guido Castillo        7
 Ronald Rovers         7.5
 Javier H. Estrada     4.5
@@ -484,19 +484,19 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      6.5
 Alexandra Zawia       5
 Boris Nelepo          6.5
 Carlos Reviriego      7
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philipp Engel          7
+Philip Engel          7
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
 Alejandro G. Calvo    5
-Xavi Serra            
+Xavi Serra            5
 Guido Castillo        5
 Ronald Rovers         1
 Javier H. Estrada     8
@@ -588,19 +588,19 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      5
 Alexandra Zawia       5
 Boris Nelepo          4
 Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philipp Engel          8
+Philip Engel          8
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
-Xavi Serra            
+Xavi Serra            7.5
 Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     4
@@ -665,7 +665,11 @@ Mike d'Angelo        5.2      https://twitter.com/gemko/status/33607560694715596
 Eulàlia Iglesias     3
 Cristina Nord         1.5
 Neil Young            7
+Carlos Reviriego      2.5
+Philip Engel          2
 Pablo O. Scholz       6
+Alejandro G. Calvo    3
+Xavi Serra            5.5
 Ronald Rovers         6.5
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Michael Kienzl       6        http://jury.critic.de/cannes/ 
@@ -746,18 +750,18 @@ Paolo Moretti
 Neil Young            7.5
 Scott Foundas         
 Marcelo Alderete      
-Alexandra Zawia       8.5
+Alexandra Zawia       7.5
 Boris Nelepo          
 Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philipp Engel          7.5
+Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
-Xavi Serra            
+Xavi Serra            9
 Guido Castillo        
 Ronald Rovers         
 Javier H. Estrada     
@@ -899,7 +903,7 @@ Carlos Reviriego
 Fernando Juan Lima   
 Paolo Bertolin       
 Nando Salva          6.5
-Philipp Engel        7.5
+Philip Engel        7.5
 Eugenio Renzi        
 Michal Oleszczyk     2
 Pablo O. Scholz      5.5
@@ -991,7 +995,7 @@ Carlos Reviriego     1
 Fernando Juan Lima   4
 Paolo Bertolin       
 Nando Salva          1
-Philipp Engel        2.5
+Philip Engel        2.5
 Eugenio Renzi        
 Michal Oleszczyk     
 Pablo O. Scholz      6
@@ -1059,19 +1063,19 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      7.5
 Alexandra Zawia       
 Boris Nelepo          7.5
 Carlos Reviriego      7
 Fernando Juan Lima    8
 Paolo Bertolin        7.5
 Nando Salva           
-Philipp Engel          
+Philip Engel          
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    8
-Xavi Serra            
+Xavi Serra            7.5
 Guido Castillo        
 Ronald Rovers         
 Javier H. Estrada     7.5
@@ -1112,6 +1116,7 @@ Cecilia Martinez      4
 Rüdiger Suchsland    4.5
 Carlos F. Heredero    6
 Robert Koehler        2.5
+Alexandra Zawia       4
 Fernando Juan Lima    3.5
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1173,12 +1178,12 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philipp Engel          9
+Philip Engel          9
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
 Alejandro G. Calvo    6.5
-Xavi Serra            
+Xavi Serra            6.5
 Guido Castillo        6
 Ronald Rovers         3.5
 Javier H. Estrada     8
@@ -1227,7 +1232,11 @@ Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
+Diego Lerer           8.5
+Boris Nelepo          6
+Carlos Reviriego      8.5
 Pablo O. Scholz       8
+Alejandro G. Calvo    9
 Arnaud Hée           6        http://jury.critic.de/cannes/ 
 Michael Kienzl       7.5      http://jury.critic.de/cannes/ 
 
@@ -1269,6 +1278,7 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
+Alejandro G. Calvo    1.5
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 
@@ -1317,7 +1327,7 @@ Carlos Reviriego      3
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7
-Philipp Engel          4
+Philip Engel          4
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       5
@@ -1365,6 +1375,7 @@ Michael Kienzl        4       http://jury.critic.de/cannes/
 MIDNIGHT PROJECTIONS
 
 "MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
+Alejandro G. Calvo    4
 
 "BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
 
@@ -1384,6 +1395,8 @@ Javier H. Estrada     6.5
 "SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336076257953464321
 Rüdiger Suchsland    10
+Alexandra Zawia       4.5
+Xavi Serra            4
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
@@ -1535,6 +1548,7 @@ José Luis De Lorenzo  10
 Cecilia Martinez      6
 Luciano Monteagudo    0.5
 Rüdiger Suchsland    10
+Marcelo Alderete      1
 Boris Nelepo          7.5
 Alvaro Arroba         3.5
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
@@ -1545,6 +1559,7 @@ Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realid
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
+Marcelo Alderete      3
 Boris Nelepo          4
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
@@ -1554,6 +1569,7 @@ Diego Batlle          6.5
 Diego Lerer           7
 Eulàlia Iglesias     5.5
 Cristina Nord         8
+Boris Nelepo          7
 
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
 
@@ -1631,7 +1647,7 @@ Pablo O. Scholz (Clarín, Argentina)
 Paolo Bertolin (Venice International Film Festival, Italy) 
 Paolo Moretti (Italy) 
 Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
-Philipp Engel (Go Mag, España) 
+Philip Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
