@@ -106,14 +106,14 @@ David Calhoun        8
 Per Juul Carlsen     6
 #Mike d'Angelo       5
 Carlos F. Heredero   4
-Aaron Hillis         
+Raffi Asdourian      
 #Eric Kohn           6
 Eric Lavallée        6        C+
 Fabien Lemercier     6
 Guy Lodge            5
 Liu Min              4
 Isabelle Regnier     7
-Cédric Succivalli    
+Cédric Succivalli    2
 Blake Williams       5
 #Neil Young          5
 
@@ -198,15 +198,15 @@ Christophe Beney     8
 David Calhoun        6
 Per Juul Carlsen     8
 #Mike d'Angelo       7
-Carlos F. Heredero   
-Aaron Hillis         
+Carlos F. Heredero   5
+Raffi Asdourian      
 #Eric Kohn            
 Eric Lavallée        4
 Fabien Lemercier     6
 Guy Lodge            
-Liu Min              
+Liu Min              8
 Isabelle Regnier     6
-Cédric Succivalli    
+Cédric Succivalli    8
 Blake Williams       5
 #Neil Young          
 
@@ -280,21 +280,21 @@ Kate Muir/Wendy Ide  7.5
 Bo Green Jensen      5
 Screen International 7.5
 # ioncinema 0-5
-Nicolas Bell         
+Nicolas Bell         7
 Christophe Beney     8
 David Calhoun        7
 Per Juul Carlsen     2
 #Mike d'Angelo       6
-Carlos F. Heredero   
-Aaron Hillis         
+Carlos F. Heredero   8
+Raffi Asdourian                
 #Eric Kohn            
-Eric Lavallée        
-Fabien Lemercier     5
-Guy Lodge            
-Liu Min              
+Eric Lavallée        8
+Fabien Lemercier     6
+Guy Lodge            5
+Liu Min              6
 Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
+Cédric Succivalli    8
+Blake Williams       7
 #Neil Young          
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
@@ -374,21 +374,21 @@ Kate Muir/Wendy Ide  9
 Bo Green Jensen      7.5
 Screen International 7.5
 # ioncinema 0-5
-Nicolas Bell         
+Nicolas Bell         6
 Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-Carlos F. Heredero   
-Aaron Hillis         
+David Calhoun        5
+Per Juul Carlsen     10
+#Mike d'Angelo       9
+Carlos F. Heredero   6
+Raffi Asdourian      7
 #Eric Kohn            
 Eric Lavallée        6    http://www.indiewire.com/film/the-past
-Fabien Lemercier     
-Guy Lodge            
-Liu Min              
+Fabien Lemercier     9
+Guy Lodge            5
+Liu Min              9
 Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
+Cédric Succivalli    10
+Blake Williams       4
 #Neil Young          
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
@@ -446,22 +446,33 @@ Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
 Till Kadritzke       7.5     http://www.critic.de/film/jimmy-p-psychotherapy-of-a-plains-indian-5546/
 Daniel Kasman        5       http://jury.critic.de/cannes/
 Michael Kienzl       
+# Screen Daily (0-4)
+Nick James           5
+David Stratton       5
+Derek Malcolm        5
+Jan Schulz-Ojala     2.5
+Jose Carlos Avellar  5
+Dennis Lim           
+Michel Ciment        7.5
+Kate Muir/Wendy Ide  2.5
+Bo Green Jensen      7.5
+Screen International 5
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
+Nicolas Bell         2
+Christophe Beney     6
+David Calhoun        5
+Per Juul Carlsen     4
+#Mike d'Angelo       4
 Carlos F. Heredero   
-Aaron Hillis         
+Raffi Asdourian      4         
 #Eric Kohn            
-Eric Lavallée        
-Fabien Lemercier     
-Guy Lodge            
+Eric Lavallée        4
+Fabien Lemercier     6
+Guy Lodge            4
 Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
+Isabelle Regnier     7
+Cédric Succivalli    8
+Blake Williams       3
 #Neil Young          
 Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
 Kevin Jagernaut      3    http://www.indiewire.com/film/jimmy-picard
@@ -521,22 +532,33 @@ Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Till Kadritzke       7.5      http://jury.critic.de/cannes/
 Daniel Kasman        
 Michael Kienzl       6       http://jury.critic.de/cannes/
+# Screen Daily (0-4)
+Nick James           7.5
+David Stratton       5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     5
+Jose Carlos Avellar  7.5
+Dennis Lim           7.5
+Michel Ciment        5
+Kate Muir/Wendy Ide  5
+Bo Green Jensen      5
+Screen International 7.5
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-Carlos F. Heredero   
-Aaron Hillis         
+Nicolas Bell         7
+Christophe Beney     4
+David Calhoun        7
+Per Juul Carlsen     8
+#Mike d'Angelo       5
+Carlos F. Heredero   6
+Raffi Asdourian      6
 #Eric Kohn            
 Eric Lavallée        
-Fabien Lemercier     
-Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
+Fabien Lemercier     6
+Guy Lodge            5
+Liu Min              7
+Isabelle Regnier     4
+Cédric Succivalli    6
+Blake Williams       6
 #Neil Young          
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
@@ -549,6 +571,34 @@ Pablo O. Scholz       6
 Ronald Rovers         6.5
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Michael Kienzl       6        http://jury.critic.de/cannes/ 
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn            
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -598,6 +648,34 @@ Javier H. Estrada
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn            
+Eric Lavallée        7
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
 Adam Cook            5      http://jury.critic.de/cannes/ 
 Arnaud Hee           
 Christoph Huber      1      http://jury.critic.de/cannes/ 
@@ -1358,7 +1436,7 @@ David Calhoun (Time Out London, UK)
 Per Juul Carlsen (Danish National Radio, Denmark) 
 Mike d'Angelo (AV Club, USA) 
 Carlos F. Heredero (Cahiers du cinema Espana, España) 
-Aaron Hillis
+Raffi Asdourian (The FilmStage.com, USA)
 Eric Kohn (Indiewire, USA) 
 Eric Lavallée (Ioncinema.com, Canada) 
 Fabien Lemercier (Cineeuropa.org, Belgium) 
