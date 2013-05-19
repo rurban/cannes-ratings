@@ -11,11 +11,10 @@
               <li><a href="/2010">2010</a></li>
               <li>&nbsp;</li>
             </ul>
-	    <ul class="links">
-              <li><a href="?t=*"> all details </a></li>
-            </ul>
           </li>
-          
+
+          <% side_details %>
+
           <li>
             <h3>Ressources</h3>
 

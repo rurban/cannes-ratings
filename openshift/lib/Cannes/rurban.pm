@@ -77,7 +77,14 @@ sub _read {
   }
   return ( \%critic, \%title, \@t );
 }
-
+# boolean: show details for indexed t? (movie or critic)
+sub _show_detail {
+  my $i = shift;
+  my $t = params->{t} or return undef;;
+  if (($t eq $i) || ($t eq '*')) { return $t; }
+  else { return undef; }
+}
+# show detail for one movie (?t=)
 sub _detail {
   my $t = shift;
   my $h = shift;
@@ -107,7 +114,7 @@ sub _detail {
   }
   $out;
 }
-
+# show detail for one critic (?t=i)
 sub _critic_detail {
   my $n = shift;
   my $h = shift;
@@ -123,12 +130,6 @@ sub _critic_detail {
       ."<td class=detail>$c</td></tr>\n";
   }
   $out;
-}
-sub _show_detail {
-  my $i = shift;
-  my $t = params->{t} or return undef;;
-  if (($t eq $i) || ($t eq '*')) { return 1; }
-  else { return undef; }
 }
 
 sub _dump {
@@ -156,6 +157,10 @@ sub _dump {
     }
   }
   my (%badcritic, @good, @allfilms);
+  my %params_cn;
+  if (Dancer::SharedData->request and params->{cn}) {
+    $params_cn{$_}++ for (@{params->{cn}});
+  }
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
@@ -179,7 +184,10 @@ sub _dump {
     $critic{$c}->{diff} = $sum / $num;
     $critic{$c}->{absdiff} = $asum / $num;
     $critic{$c}->{stddev}  = sqrt($s / $num);
-    $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5; 
+    $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5;
+    if ( %params_cn and $critic{$c}->{cn} ) {
+      $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
+    }
   }
   # remove critics from %title if critics->stddev > 2.5.
   # we could strike out the best and worst per film, but better strike out off-critics
@@ -389,6 +397,50 @@ sub _dump {
   };
 }
 
+sub _side_details {
+  my %title = %{$_[0]};
+  my %critic  = %{$_[1]};
+  my $out = '';
+  if (Dancer::SharedData->request and params->{t}) {
+    my $t = params->{t};
+    my %params_cn;
+    if (params->{cn}) {
+      $params_cn{$_}++ for (@{params->{cn}});
+    }
+    my ($cnbox, %cn) = ("<form name=cn><input type=hidden name=t value=\"$t\">\n");
+    for (keys %critic) {
+      if (my $cn = $critic{$_}->{cn}) {
+	$cn{$cn}++;
+	$params_cn{$cn}++ unless params->{cn}; 
+      }
+    }
+    for (sort keys(%cn)) {
+      next if $_ eq '?';
+      my $n = $cn{$_};
+      $cnbox .= "<label><input name=cn type=checkbox value=\"$_\"";
+      $cnbox .= " checked" if $params_cn{$_};
+      $cnbox .= ">$_ ($n)</input></label><br>\n";
+    }
+    $out .= '
+          <li>
+            <h3>Details</h3>'
+	    . ($t ne "*"
+	       ? '<p><a href="?t=*"> all details </a></p>'
+	       : '<p><a href="?t="> no details </a></p>'
+	      )
+	    . '
+            <div onclick="flipAll(\'cn\')"><b title="Filter ratings (click to flip all)">Critics countries</b></div>
+	    '
+	    . $cnbox . 
+	    '<input type=submit value="Filter">
+	     <span onclick="selectAll(\'cn\')">[all]</span>
+	     <span onclick="flipAll(\'cn\')">[flip]</span>
+	    </form>' .
+	    '
+          </li>';
+  }
+  return $out;
+}
 sub _list {
   my $year = shift;
   no strict 'refs';
@@ -401,6 +453,7 @@ sub _list {
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
+  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic});
   if ($DATA) {
     template 'index', $vars;
   } else {
@@ -437,7 +490,8 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2012";
+  $all->{year} = "2010-2013";
+  $all->{side_details} = _side_details(\%critic, \%title);
   template 'index', $all;
 };
 get '/' => sub {

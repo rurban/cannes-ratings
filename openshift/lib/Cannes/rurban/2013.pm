@@ -1346,8 +1346,8 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       5
 Christophe Carriére   2.5
-Craig Williams (Cine Vue) 2 	http://www.indiewire.com/film/the-great-gatsby
-Fico Cangiano (CineXpress) 4
+Craig Williams (Cine Vue, ?) 2 	http://www.indiewire.com/film/the-great-gatsby
+Fico Cangiano (CineXpress, ?) 4
 Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
@@ -1406,9 +1406,8 @@ Allison Loring        9       http://www.indiewire.com/film/aint-them-bodies-sai
 A.A. Dowd             4       http://www.indiewire.com/film/aint-them-bodies-saints
 Jordan Raup           8       http://www.indiewire.com/film/aint-them-bodies-saints
 Kyle Smith (New York Post, USA) 1.5     http://www.indiewire.com/film/aint-them-bodies-saints
-Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bodies-saints
+Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club, USA) 8 http://www.indiewire.com/film/aint-them-bodies-saints
 Eric Kohn             9       http://www.indiewire.com/film/aint-them-bodies-saints
-Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club) 8 http://www.indiewire.com/film/aint-them-bod
 Rodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodies-saints
 Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-saints
 
@@ -1586,7 +1585,7 @@ Chris Bumbray (joblo.com, USA) 7
 Mark Olsen (LA Times, USA) http://articles.latimes.com/2013/jan/27/entertainment/la-et-mn-sundance-michael-cera-magic-20130126
 Nicolas Bell (Ioncinema.com, Canada) http://www.ioncinema.com/reviews/magic-magic-review
 Clementine Gallot    6       http://www.indiewire.com/film/magic-magic
-Ethan Anderson       3       http://www.indiewire.com/film/magic-magic
+Ethan Anderton       3       http://www.indiewire.com/film/magic-magic
 Don Simpson          8       http://www.indiewire.com/film/magic-magic
 Joe Bendel           4       http://www.indiewire.com/film/magic-magic
 Eric Kohn            4       http://www.indiewire.com/film/magic-magic
@@ -1618,7 +1617,7 @@ Eulàlia Iglesias (RockDeLux y Caimán CDC, España)
 Fernando Ganzo (Lumiere, España) 
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
-Jaime Pena (El Amante, España/Argentina) 
+Jaime Pena (El Amante, España, Argentina) 
 José Luis de Lorenzo (A Sala Llena, Argentina) 
 José Luis Losa (Cineuropa, España)
 Kieron Corless (Time Out London, UK)
@@ -1631,7 +1630,7 @@ Neil Young (Hollywood Reporter, Tribune, UK)
 Pablo O. Scholz (Clarín, Argentina)
 Paolo Bertolin (Venice International Film Festival, Italy) 
 Paolo Moretti (Italy) 
-Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil) 
+Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
@@ -1657,7 +1656,7 @@ Raffi Asdourian (The FilmStage.com, USA)
 Eric Kohn (Indiewire, USA) 
 Eric Lavallée (Ioncinema.com, Canada) 
 Fabien Lemercier (Cineeuropa.org, Belgium) 
-Guy Lodge (Variety, InContention, South Africa/USA) 
+Guy Lodge (Variety, InContention, South Africa, USA) 
 Liu Min (Sina.com, China) 
 Isabelle Regnier (Le Monde, France) 
 Cédric Succivalli (International Cinephil Society, France) 
@@ -1699,12 +1698,12 @@ Screen International (Screen International, USA)
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics[4] = "
-Adam Cook (MUBI)
+Adam Cook (MUBI, ?)
 Arnaud Hée (Critikat.com, France)
 Christoph Huber (Die Presse, Austria)
 Frédéric Jaeger (critic.de, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
-Daniel Kasman (MUBI)
+Daniel Kasman (MUBI, ?)
 Michael Kienzl (critic.de, Deutschland)
 ";
 # indiewire + various other
@@ -1731,7 +1730,7 @@ David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
-David Sterrit (Tikkun Magazine)
+David Sterrit (Tikkun Magazine, ?)
 Don Simpson (Smells Like Screen Spirit, USA)
 Drew McWeeny (InContention, USA)
 Drew Taylor (The Playlist, USA)
