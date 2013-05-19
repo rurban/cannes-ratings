@@ -168,7 +168,7 @@ Carlos Reviriego      6.5
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7.5
-Philip Engel          7.5
+Philipp Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      6.5
 Pablo O. Scholz       6
@@ -277,7 +277,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           6.5
-Philip Engel          7.5
+Philipp Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      8.5
 Pablo O. Scholz       5
@@ -381,7 +381,7 @@ Carlos Reviriego      6
 Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           8
-Philip Engel          6.5
+Philipp Engel          6.5
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
@@ -491,7 +491,7 @@ Carlos Reviriego      7
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          7
+Philipp Engel          7
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
@@ -595,7 +595,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          8
+Philipp Engel          8
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
@@ -752,7 +752,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          7.5
+Philipp Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
@@ -1066,7 +1066,7 @@ Carlos Reviriego      7
 Fernando Juan Lima    8
 Paolo Bertolin        7.5
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       
@@ -1173,7 +1173,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          9
+Philipp Engel          9
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
@@ -1317,7 +1317,7 @@ Carlos Reviriego      3
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7
-Philip Engel          4
+Philipp Engel          4
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       5
@@ -1700,7 +1700,7 @@ Screen International (Screen International, USA)
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics[4] = "
-Adam Cook (MUBI, USA
+Adam Cook (MUBI, USA)
 Arnaud Hée (Critikat.com, France)
 Christoph Huber (Die Presse, Austria)
 Frédéric Jaeger (critic.de, Deutschland)
