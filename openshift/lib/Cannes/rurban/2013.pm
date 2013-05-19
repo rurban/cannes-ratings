@@ -476,6 +476,8 @@ Blake Williams       3
 #Neil Young          
 Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
 Kevin Jagernaut      3    http://www.indiewire.com/film/jimmy-picard
+Emanuel Levy         6    http://www.indiewire.com/film/jimmy-picard
+Patrick Heidmann     5    http://www.indiewire.com/film/jimmy-picard
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -599,6 +601,8 @@ Isabelle Regnier
 Cédric Succivalli    
 Blake Williams       
 #Neil Young          
+Jessica Kiang         8       http://www.indiewire.com/film/borgman
+Ryland Aldrich        7       http://www.indiewire.com/film/borgman
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -684,6 +688,10 @@ Till Kadritzke
 Daniel Kasman
 Michael Kienzl
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
+Kevin Jagernauth     9      http://www.indiewire.com/film/inside-llewyn-davis
+Eric Kohn            8      http://www.indiewire.com/film/inside-llewyn-davis
+Ryland Aldrich       8      http://www.indiewire.com/film/inside-llewyn-davis
+Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
