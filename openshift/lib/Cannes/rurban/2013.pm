@@ -1643,6 +1643,7 @@ Javier H. Estrada (Caimán CDC, España)
 Pamela Bienzobas (Mabuse, Chile) 
 Xavi Serra (Ara, España) 
 Guido Castillo (Freelance, España)
+Alvaro Arroba (Cinema Scope, España)
 ";
 # ioncinema
 $critics[1] = "
@@ -1773,6 +1774,7 @@ Peter Knegt (indieWIRE, USA)
 Raffi Asdourian (The Film Stage, USA)
 Richard Corliss (Time, USA)
 Robbie Collins (The Telegraph, UK)
+Robert Gassaway (The Flicksation Podcast, USA)
 Ruta Buciunaite (theupcoming.co.uk, UK)
 Ryland Aldrich (Twitch Film, USA)
 Simon Abrams (The Playlist, USA)
@@ -1783,6 +1785,7 @@ Sukhdev Sandhu (Telegraph, UK)
 Tim Grierson (Screen International, L.A. Weekly, USA) 
 Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
+Yair Raveh (Cinema Scope, Israel)
 ";
 # former apichatpoll members
 $critics[6] = "
