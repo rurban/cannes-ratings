@@ -216,8 +216,8 @@ Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           8.5     http://micropsia.otroscines.com/2013/05/cannes-2013-a-touch-of-sin-de-jia-zhang-ke-competencia/
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  8
+Cecilia Martinez      7
 Fernando Ganzo        3
 Eulàlia Iglesias      6.5
 Ángel Quintana        8.5
@@ -231,7 +231,7 @@ Luciano Monteagudo
 Jaime Pena            9
 Rüdiger Suchsland    
 Carlos F. Heredero    7.5
-Robert Koehler        
+Robert Koehler        10
 Dana Linssen          8
 Cristina Nord         8
 Francisco Ferreira    
@@ -241,14 +241,14 @@ Scott Foundas
 Marcelo Alderete      5
 Alexandra Zawia       8.5
 Boris Nelepo          6
-Carlos Reviriego      
+Carlos Reviriego      7.5
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           6.5
-Philip Engel          
+Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      8.5
-Pablo O. Scholz       
+Pablo O. Scholz       5
 Alejandro G. Calvo    4
 Xavi Serra            7.5
 Guido Castillo        8.5
@@ -304,8 +304,8 @@ Roger Koza
 Diego Batlle          6.5
 Diego Lerer           6.5
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  4
+Cecilia Martinez      3
 Fernando Ganzo        
 Eulàlia Iglesias     6.5
 Ángel Quintana       4.5
@@ -313,7 +313,7 @@ José Luis Losa       5
 Pedro Butcher         1
 Kieron Corless        2
 Luciano Barisone      
-Carlo Chatrian        
+Carlo Chatrian        6
 Violeta Kovacsics     5.5
 Luciano Monteagudo    6
 Jaime Pena            4.5
@@ -321,7 +321,7 @@ Rüdiger Suchsland    8
 Carlos F. Heredero    6
 Robert Koehler        5
 Dana Linssen          5
-Cristina Nord         
+Cristina Nord         7
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -329,11 +329,11 @@ Scott Foundas
 Marcelo Alderete      1.5
 Alexandra Zawia       6
 Boris Nelepo          
-Carlos Reviriego      
+Carlos Reviriego      6
 Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           8
-Philip Engel          
+Philip Engel          6.5
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
@@ -341,7 +341,7 @@ Alejandro G. Calvo    4.5
 Xavi Serra            
 Guido Castillo        7
 Ronald Rovers         7.5
-Javier H. Estrada     
+Javier H. Estrada     4.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         2.5
@@ -399,35 +399,35 @@ Diego Batlle          7
 Diego Lerer           7
 Alex Vicente          
 Jose Luis De Lorenzo  
-Cecilia Martinez      
+Cecilia Martinez      5
 Fernando Ganzo        4
 Eulàlia Iglesias     8
-Ángel Quintana       
+Ángel Quintana       9
 José Luis Losa       8
 Pedro Butcher         6.5
 Kieron Corless        
 Luciano Barisone      
-Carlo Chatrian        
+Carlo Chatrian        6.5
 Violeta Kovacsics     8
 Luciano Monteagudo    6
-Jaime Pena            
+Jaime Pena            8.5
 Rüdiger Suchsland    
 Carlos F. Heredero    9
 Robert Koehler        7
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      
-Alexandra Zawia       
+Alexandra Zawia       5
 Boris Nelepo          6.5
-Carlos Reviriego      
+Carlos Reviriego      7
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          7
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
@@ -435,7 +435,7 @@ Alejandro G. Calvo    5
 Xavi Serra            
 Guido Castillo        5
 Ronald Rovers         1
-Javier H. Estrada     
+Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         4
@@ -473,8 +473,8 @@ Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  9
+Cecilia Martinez      9
 Fernando Ganzo        
 Eulàlia Iglesias     4
 Ángel Quintana       5
@@ -482,15 +482,15 @@ José Luis Losa       3.5
 Pedro Butcher         8
 Kieron Corless        4.5
 Luciano Barisone      
-Carlo Chatrian        
+Carlo Chatrian        7.5
 Violeta Kovacsics     8
 Luciano Monteagudo    
 Jaime Pena            5.5
-Rüdiger Suchsland    
+Rüdiger Suchsland    8
 Carlos F. Heredero    6.5
 Robert Koehler        
 Dana Linssen          7.5
-Cristina Nord         
+Cristina Nord         7.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -498,19 +498,19 @@ Scott Foundas
 Marcelo Alderete      
 Alexandra Zawia       5
 Boris Nelepo          4
-Carlos Reviriego      
+Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          8
 Eugenio Renzi         
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
 Xavi Serra            
 Guido Castillo        8
 Ronald Rovers         
-Javier H. Estrada     
+Javier H. Estrada     4
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
@@ -541,11 +541,59 @@ Blake Williams
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
+Eulàlia Iglesias     3
+Cristina Nord         1.5
+Neil Young            7
+Pablo O. Scholz       6
+Ronald Rovers         6.5
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
+Roger Koza            7
+Diego Batlle          7.5
+Diego Lerer           8.5
+Alex Vicente          
+Jose Luis De Lorenzo  7
+Cecilia Martinez      
+Fernando Ganzo        
+Eulàlia Iglesias     8
+Ángel Quintana       8
+José Luis Losa       6
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
 Luciano Monteagudo    6.5
+Jaime Pena            8
+Rüdiger Suchsland    
+Carlos F. Heredero    7
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         8
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            7.5
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       8.5
+Boris Nelepo          
+Carlos Reviriego      7.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          7.5
+Eugenio Renzi         
+Michal Oleszczyk      
 Pablo O. Scholz       7.5
+Alejandro G. Calvo    7.5
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
@@ -729,11 +777,11 @@ Michael Kienzl       4       http://jury.critic.de/cannes/
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            10
-Diego Batlle          7.5
+Diego Batlle          8
 Diego Lerer           6
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  4
+Cecilia Martinez      6
 Fernando Ganzo        8
 Eulàlia Iglesias     7.5
 Ángel Quintana       8
@@ -745,11 +793,11 @@ Carlo Chatrian
 Violeta Kovacsics     8
 Luciano Monteagudo    9.5
 Jaime Pena            7.5
-Rüdiger Suchsland    
+Rüdiger Suchsland    5
 Carlos F. Heredero    6.5
 Robert Koehler        10
 Dana Linssen          7
-Cristina Nord         
+Cristina Nord         8.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -757,19 +805,19 @@ Scott Foundas
 Marcelo Alderete      
 Alexandra Zawia       
 Boris Nelepo          7.5
-Carlos Reviriego      
+Carlos Reviriego      7
 Fernando Juan Lima    8
-Paolo Bertolin        
+Paolo Bertolin        7.5
 Nando Salva           
 Philip Engel          
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       
-Alejandro G. Calvo    7.5
+Alejandro G. Calvo    8
 Xavi Serra            
 Guido Castillo        
 Ronald Rovers         
-Javier H. Estrada     
+Javier H. Estrada     7.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         7.5
@@ -786,9 +834,12 @@ Michael Kienzl
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
-Carlos F. Heredero   6
+Jose Luis De Lorenzo  4
+Cecilia Martinez      4
+Rüdiger Suchsland    4.5
+Carlos F. Heredero    6
 Robert Koehler        2.5
-Fernando Juan Lima   3.5
+Fernando Juan Lima    3.5
 Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hee           
 Christoph Huber      
@@ -800,26 +851,70 @@ Michael Kienzl
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
 Mike d'Angelo         https://twitter.com/gemko/status/335789145567948802
-Diego Batlle          7
+Roger Koza            
+Diego Batlle          6.5
+Diego Lerer           
+Alex Vicente          
+Jose Luis De Lorenzo  5
+Cecilia Martinez      5.5
 Fernando Ganzo        0.5
 Eulàlia Iglesias     7.5
+Ángel Quintana       6.5
+José Luis Losa       8
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
 Luciano Monteagudo    5.5
+Jaime Pena            8
+Rüdiger Suchsland    8.5
+Carlos F. Heredero    7
 Robert Koehler        2
+Dana Linssen          
+Cristina Nord         7
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       4
+Boris Nelepo          
+Carlos Reviriego      7.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          9
+Eugenio Renzi         
+Michal Oleszczyk      
 Pablo O. Scholz       5.5
+Alejandro G. Calvo    6.5
+Xavi Serra            
 Guido Castillo        6
 Ronald Rovers         3.5
+Javier H. Estrada     8
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Frédéric Jaeger      9     http://jury.critic.de/cannes/
 Lee Marshall               http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
 Diego Lerer           6
+Ángel Quintana       4
+Jaime Pena            4.5
+Rüdiger Suchsland    4.5
+Carlos F. Heredero    4.5
 Robert Koehler        7
+Carlos Reviriego      5
+Pablo O. Scholz       5
+Javier H. Estrada     5.5
 Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
+Pablo O. Scholz       8
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
@@ -961,14 +1056,18 @@ MIDNIGHT PROJECTIONS
 SPECIAL SCREENINGS
 
 "STOP THE POUNDING HEART" (Roberto MINERVINI) [Special Screening]
+Carlo Chatrian        7.5
 
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
 José Luis Losa       6.5
+Neil Young            5
 Pablo O. Scholz       4
+Javier H. Estrada     6.5
 
 "BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
 
 "SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
+Rüdiger Suchsland    10
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
@@ -1032,6 +1131,7 @@ Robert Koehler        4
 Diego Batlle          7.5
 Diego Lerer           6.5
 Carlo Chatrian        6.5
+Pablo O. Scholz       7
 
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
 
@@ -1046,10 +1146,11 @@ QUINZAINE
 Jessica Kiang        4.5  http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
 Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright-gets-animated-in-messy-sometimes-mesmerising-the-congress
 Fernando Ganzo        10
+Jaime Pena            8
 Rüdiger Suchsland    6
 Carlos F. Heredero    6
 Dana Linssen          6
-Alejandro G. Calvo    5
+Alejandro G. Calvo    8
 Guido Castillo        4
 Alvaro Arroba         10
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
@@ -1072,6 +1173,7 @@ Jaime Pena            5
 Neil Young            6.5
 Guido Castillo        8
 Ronald Rovers         7.5
+Javier H. Estrada     4
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 
@@ -1085,10 +1187,12 @@ Kieron Corless        4
 Luciano Monteagudo    8.5
 Jaime Pena            3.5
 Robert Koehler        0.5
+Cristina Nord         7
 Marcelo Alderete      2.5
 Boris Nelepo          5
 Pablo O. Scholz       8
 Alejandro G. Calvo    6
+Javier H. Estrada     5.5
 Adam Cook            
 Arnaud Hee           
 Christoph Huber      6       http://jury.critic.de/cannes/
@@ -1099,17 +1203,24 @@ Michael Kienzl
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 Kieron Corless       3
+Javier H. Estrada     6
 Christoph Huber      6       http://jury.critic.de/cannes/
 Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
+Eulàlia Iglesias     6.5
+Ángel Quintana       6
+Cristina Nord         6.5
 Michael Kienzl       2.5     http://jury.critic.de/cannes/
 Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
 Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based-filmmaker-jeremy-saulnier-went-from-shooting-corporate-videos-to-premiering-his-movie-blue-ruin-at-cannes
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
+Jose Luis De Lorenzo  10
+Cecilia Martinez      6
 Luciano Monteagudo    0.5
+Rüdiger Suchsland    10
 Boris Nelepo          7.5
 Alvaro Arroba         3.5
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
@@ -1119,11 +1230,16 @@ Michael Kienzl       5       http://jury.critic.de/cannes/
 Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
+Roger Koza            5
 Boris Nelepo          4
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
 
 "TIP TOP" (Serge Bozon) [Quinzaine]
+Diego Batlle          6.5
+Diego Lerer           7
+Eulàlia Iglesias     5.5
+Cristina Nord         8
 
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
 
