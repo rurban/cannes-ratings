@@ -541,16 +541,18 @@ Blake Williams
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
+Mike d'Angelo        5.2      https://twitter.com/gemko/status/336075606947155969
 Eulàlia Iglesias     3
 Cristina Nord         1.5
 Neil Young            7
 Pablo O. Scholz       6
 Ronald Rovers         6.5
-Frédéric Jaeger      7.5       http://jury.critic.de/cannes/
-Michael Kienzl       6       http://jury.critic.de/cannes/ 
+Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
+Michael Kienzl       6        http://jury.critic.de/cannes/ 
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
+Mike d'Angelo         5.7     https://twitter.com/gemko/status/335841004601085952
 Roger Koza            7
 Diego Batlle          7.5
 Diego Lerer           8.5
@@ -859,7 +861,7 @@ Michael Kienzl
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
-Mike d'Angelo         https://twitter.com/gemko/status/335789145567948802
+Mike d'Angelo                 https://twitter.com/gemko/status/335789145567948802
 Roger Koza            
 Diego Batlle          6.5
 Diego Lerer           
@@ -916,6 +918,7 @@ Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
+Mike d'Angelo              https://twitter.com/gemko/status/336075030393913344
 Diego Lerer           6
 Ángel Quintana       4
 Jaime Pena            4.5
@@ -1085,6 +1088,7 @@ Javier H. Estrada     6.5
 "BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
 
 "SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
+Mike d'Angelo        5.2      https://twitter.com/gemko/status/336076257953464321
 Rüdiger Suchsland    10
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
