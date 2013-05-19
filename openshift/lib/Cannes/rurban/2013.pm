@@ -555,7 +555,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
-Kevin Jagernaut      3    http://www.indiewire.com/film/jimmy-picard
+Kevin Jagernauth     3    http://www.indiewire.com/film/jimmy-picard
 Emanuel Levy         6    http://www.indiewire.com/film/jimmy-picard
 Patrick Heidmann     5    http://www.indiewire.com/film/jimmy-picard
 
