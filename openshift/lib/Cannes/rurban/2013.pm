@@ -33,7 +33,7 @@ Roger Alan Koza      6
 Diego Batlle         4.5
 Diego Lerer          6
 Alex Vicente         
-José Luis de Lorenzo 1
+José Luis De Lorenzo 1
 Cecilia Martinez     4
 Fernando Ganzo       
 Eulàlia Iglesias     6
@@ -934,7 +934,7 @@ Roger Koza           5.5
 Diego Batlle         7.5
 Diego Lerer          7
 Alex Vicente         
-José Luis de Lorenzo 6
+José Luis De Lorenzo 6
 Cecilia Martinez     6
 Fernando Ganzo       5
 Eulàlia Iglesias     5.5
@@ -1026,7 +1026,7 @@ Roger Alan Koza
 Diego Batlle         6
 Diego Lerer          5.5
 Alex Vicente         
-José Luis de Lorenzo 9
+José Luis De Lorenzo 9
 Cecilia Martinez     7
 Fernando Ganzo       
 Eulàlia Iglesias     4
