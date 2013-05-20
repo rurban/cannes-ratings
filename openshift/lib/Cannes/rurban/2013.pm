@@ -835,6 +835,7 @@ Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
+Mike d'Angelo        6.4    https://twitter.com/gemko/status/336457906654433281
 Diego Batlle          5
 Diego Lerer           6
 Eulàlia Iglesias     4
@@ -1447,6 +1448,7 @@ MIDNIGHT PROJECTIONS
 Alejandro G. Calvo    4
 
 "BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
+Mike d'Angelo        4.9      https://twitter.com/gemko/status/336458225048248322
 Roger Koza            8
 Diego Batlle          4.5
 Diego Lerer           4
