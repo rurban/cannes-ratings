@@ -255,7 +255,7 @@ Eulàlia Iglesias      6.5
 Ángel Quintana        8.5
 José Luis Losa        7
 Pedro Butcher         8.5
-Kieron Corless        
+Kieron Corless        7.5
 Luciano Barisone      8
 Carlo Chatrian        5
 Violeta Kovacsics     7
@@ -469,7 +469,7 @@ Eulàlia Iglesias     8
 Ángel Quintana       9
 José Luis Losa       8
 Pedro Butcher         6.5
-Kieron Corless        
+Kieron Corless        4
 Luciano Barisone      
 Carlo Chatrian        6.5
 Violeta Kovacsics     8
@@ -488,7 +488,7 @@ Marcelo Alderete      6.5
 Alexandra Zawia       5
 Boris Nelepo          6.5
 Carlos Reviriego      7
-Fernando Juan Lima    
+Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7
@@ -678,6 +678,7 @@ Carlos F. Heredero    4
 Cristina Nord         1.5
 Neil Young            7
 Carlos Reviriego      2.5
+Fernando Juan Lima    7
 Philip Engel          2
 Pablo O. Scholz       6
 Alejandro G. Calvo    3
@@ -744,11 +745,11 @@ Diego Lerer           8.5
 Alex Vicente          
 José Luis De Lorenzo  7
 Cecilia Martinez      
-Fernando Ganzo        
+Fernando Ganzo        8
 Eulàlia Iglesias     8
 Ángel Quintana       8
 José Luis Losa       6
-Pedro Butcher         
+Pedro Butcher         8
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        
@@ -782,7 +783,7 @@ Ronald Rovers
 Javier H. Estrada     
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         
+Alvaro Arroba         8
 # Screen Daily (0-4)
 Nick James           9
 David Stratton       7.5
@@ -845,10 +846,14 @@ Jo Ann Titmarsh      10     http://www.flickeringmyth.com/2013/05/66th-cannes-fi
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
-Mike d'Angelo        6.4    https://twitter.com/gemko/status/336457906654433281
+Mike d'Angelo        6.4    http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
 Diego Batlle          5
 Diego Lerer           6
 Eulàlia Iglesias     4
+Pedro Butcher         9
+Carlos F. Heredero    7
+Alexandra Zawia       6
+Alejandro G. Calvo    4
 Xavi Serra            5
 #critic.de
 Adam Cook            
@@ -879,6 +884,9 @@ Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-revi
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
+Pedro Butcher         6
+Carlos F. Heredero    4.5
+Fernando Juan Lima    7.5
 
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
@@ -886,6 +894,9 @@ Alejandro G. Calvo 0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
+Jose Luis De Lorenzo  9
+Carlos F. Heredero    0.5
+Ronald Rovers         9
 Arnaud Hée            1      --- http://jury.critic.de/cannes/
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
@@ -1224,7 +1235,7 @@ Marcelo Alderete
 Alexandra Zawia       4
 Boris Nelepo          
 Carlos Reviriego      7.5
-Fernando Juan Lima    
+Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          9
@@ -1295,7 +1306,7 @@ Eulàlia Iglesias     8.5
 Ángel Quintana       8.5
 José Luis Losa       8.5
 Pedro Butcher         
-Kieron Corless        
+Kieron Corless        6.5
 Luciano Barisone      
 Carlo Chatrian        8
 Violeta Kovacsics     
@@ -1311,10 +1322,10 @@ Paolo Moretti
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      
-Alexandra Zawia       
+Alexandra Zawia       8.5
 Boris Nelepo          6
 Carlos Reviriego      8.5
-Fernando Juan Lima    
+Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          
@@ -1343,13 +1354,20 @@ Michael Kienzl       7.5     http://www.critic.de/film/limage-manquante-5582/
 Diego Lerer           4
 Ángel Quintana       6
 Guido Castillo        1
+Fernando Juan Lima    2
 Christoph Huber      4        http://jury.critic.de/cannes/ 
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
+Jose Luis De Lorenzo  4
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
+Diego Batlle          3
+Alexandra Zawia       1.5
+Alejandro G. Calvo    8
+Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
+Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
@@ -1380,8 +1398,10 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
+Pedro Butcher         5
 Alexandra Zawia       1
 Alejandro G. Calvo    1.5
+Alvaro Arroba         3.5
 # critic.de
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
@@ -1396,6 +1416,7 @@ José Luis Losa       10
 Carlo Chatrian        7.5
 Carlos F. Heredero    8
 Robert Koehler        5
+Alexandra Zawia       5
 Ronald Rovers         7.5
 Alvaro Arroba         10
 # critic.de
@@ -1503,12 +1524,17 @@ MIDNIGHT PROJECTIONS
 Alejandro G. Calvo    4
 
 "BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
-Mike d'Angelo        4.9      https://twitter.com/gemko/status/336458225048248322
+Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
 Roger Koza            8
 Diego Batlle          4.5
 Diego Lerer           4
+Jose Luis De Lorenzo  6.5
+Pedro Butcher         7
+Carlos F. Heredero    3
+Alexandra Zawia       4.5
 Boris Nelepo          8
-Alejandro G. Calvo    8
+Fernando Juan Lima    7
+Alejandro G. Calvo    5.5
 # critic.de
 Adam Cook             
 Arnaud Hée            4
@@ -1516,7 +1542,7 @@ Christoph Huber       9      http://jury.critic.de/cannes/
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman         
-Michael Kienzl        
+Michael Kienzl
 
 SPECIAL SCREENINGS
 
@@ -1526,6 +1552,7 @@ Carlo Chatrian        7.5
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
 José Luis Losa       6.5
 Neil Young            5       http://www.jigsawlounge.co.uk/film/reviews/canas13/ 
+Fernando Juan Lima    2
 Pablo O. Scholz       4
 Javier H. Estrada     6.5
 
@@ -1573,6 +1600,7 @@ Roger Koza            8
 Violeta Kovacsics     6
 José Luis Losa        0
 Jaime Pena            4.5
+Fernando Juan Lima    9
 Javier H. Estrada     7
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
@@ -1600,6 +1628,7 @@ Robert Koehler        7
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 Fernando Ganzo        6
 Boris Nelepo          8.5
+Alvaro Arroba         6.5
 # critic.de
 Arnaud Hée            6       http://jury.critic.de/cannes/
 
@@ -1607,6 +1636,7 @@ Arnaud Hée            6       http://jury.critic.de/cannes/
 Diego Batlle          7.5
 Diego Lerer           6.5
 Carlo Chatrian        6.5
+Fernando Juan Lima    7.5
 Pablo O. Scholz       7
 
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
@@ -1726,6 +1756,7 @@ Eulàlia Iglesias     5.5
 Robert Koehler        6
 Cristina Nord         8
 Boris Nelepo          7
+Fernando Juan Lima    5
 #critic.de
 Adam Cook            6       http://jury.critic.de/cannes/ 
 Arnaud Hée           
