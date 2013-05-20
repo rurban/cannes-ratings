@@ -658,6 +658,11 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+#criticwire
+Jon Frosch           5        http://cannesreport.blogs.france24.com/article/2013/05/18/cannes-benicio-del-toro-jimmy-p-harvey-weinstein-mathieu-amalric-0
+Patrick McGavin      5        http://www.indiewire.com/film/like-father-like-son
+Ryland Aldrich       7        http://www.indiewire.com/film/like-father-like-son
+Kevin Jagernauth     8        http://blogs.indiewire.com/theplaylist/cannes-review-like-father-like-son-a-tender-loving-portrait-of-parenthood-20130518
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -834,6 +839,7 @@ Diego Batlle          5
 Diego Lerer           6
 Eulàlia Iglesias     4
 Xavi Serra            5
+
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
