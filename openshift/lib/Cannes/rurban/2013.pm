@@ -856,13 +856,13 @@ Alexandra Zawia       6
 Alejandro G. Calvo    4
 Xavi Serra            5
 #critic.de
-Adam Cook            
+Adam Cook            9       http://jury.critic.de/cannes/
 Arnaud Hée           4       http://jury.critic.de/cannes/
 Christoph Huber      7.5     http://jury.critic.de/cannes/
 Frédéric Jaeger      
 Till Kadritzke       
 Daniel Kasman        
-Michael Kienzl       6       http://jury.critic.de/cannes/ 
+Michael Kienzl       6       http://www.critic.de/film/straw-shield-5294/
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -881,6 +881,7 @@ Danielle Attali
 Christophe Carriére   
 # criticwire
 Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
+
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1360,6 +1361,7 @@ Christoph Huber      4        http://jury.critic.de/cannes/
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 José Luis De Lorenzo  4
+Frédéric Jaeger       4       http://jury.critic.de/cannes/
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
@@ -1523,7 +1525,7 @@ MIDNIGHT PROJECTIONS
 "MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
 Alejandro G. Calvo    4
 
-"BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
+"BLIND DETECTIVE (MAN TAM)" (Johnnie TO) [Out of Competition]
 Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
 Roger Koza            8
 Diego Batlle          4.5
@@ -1536,12 +1538,12 @@ Boris Nelepo          8
 Fernando Juan Lima    7
 Alejandro G. Calvo    5.5
 # critic.de
-Adam Cook             
-Arnaud Hée            4
+Adam Cook             7.5    http://jury.critic.de/cannes/
+Arnaud Hée            4      http://jury.critic.de/cannes/
 Christoph Huber       9      http://jury.critic.de/cannes/
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman         
+Daniel Kasman         9      http://jury.critic.de/cannes/
 Michael Kienzl
 
 SPECIAL SCREENINGS
