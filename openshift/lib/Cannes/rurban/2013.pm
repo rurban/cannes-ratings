@@ -894,7 +894,7 @@ Alejandro G. Calvo 0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
-Jose Luis De Lorenzo  9
+José Luis De Lorenzo  9
 Carlos F. Heredero    0.5
 Ronald Rovers         9
 Arnaud Hée            1      --- http://jury.critic.de/cannes/
@@ -1299,7 +1299,7 @@ Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           8.5
 Alex Vicente          
-Jose Luis De Lorenzo  
+José Luis De Lorenzo
 Cecilia Martinez      
 Fernando Ganzo        6
 Eulàlia Iglesias     8.5
@@ -1359,7 +1359,7 @@ Christoph Huber      4        http://jury.critic.de/cannes/
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
-Jose Luis De Lorenzo  4
+José Luis De Lorenzo  4
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
@@ -1528,7 +1528,7 @@ Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-fiv
 Roger Koza            8
 Diego Batlle          4.5
 Diego Lerer           4
-Jose Luis De Lorenzo  6.5
+José Luis De Lorenzo  6.5
 Pedro Butcher         7
 Carlos F. Heredero    3
 Alexandra Zawia       4.5
