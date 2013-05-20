@@ -554,6 +554,9 @@ Pierre Fornerod       2.5
 Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+Clementine Gallot    8    http://www.indiewire.com/film/jimmy-picard
+Jon Frosch           4    http://www.indiewire.com/film/jimmy-picard
+Patrick McGavin      7    http://www.indiewire.com/film/jimmy-picard
 Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
 Kevin Jagernauth     3    http://www.indiewire.com/film/jimmy-picard
 Emanuel Levy         6    http://www.indiewire.com/film/jimmy-picard
@@ -659,6 +662,7 @@ Pascal Merigeau       2.5
 Danielle Attali       9
 Christophe Carriére   7.5
 #criticwire
+Clementine Gallot    8        http://www.indiewire.com/film/like-father-like-son
 Jon Frosch           5        http://cannesreport.blogs.france24.com/article/2013/05/18/cannes-benicio-del-toro-jimmy-p-harvey-weinstein-mathieu-amalric-0
 Patrick McGavin      5        http://www.indiewire.com/film/like-father-like-son
 Ryland Aldrich       7        http://www.indiewire.com/film/like-father-like-son
@@ -728,6 +732,8 @@ Pascal Merigeau
 Danielle Attali       2.5
 Christophe Carriére   7.5
 Jessica Kiang         8       http://blogs.indiewire.com/theplaylist/cannes-review-borgman-delivers-a-deliciously-dark-twisted-cannes-competition-treat-20130519
+Ryland Aldrich        7       http://www.indiewire.com/film/borgman
+Clementine Gallot     1.5     http://www.indiewire.com/film/borgman
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -829,10 +835,13 @@ Till Kadritzke
 Daniel Kasman
 Michael Kienzl
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
+Clementine Gallot    9      http://www.indiewire.com/film/inside-llewyn-davis
+Jon Frosch           9      http://www.indiewire.com/film/inside-llewyn-davis
 Kevin Jagernauth     9      http://www.indiewire.com/film/inside-llewyn-davis
 Eric Kohn            8      http://www.indiewire.com/film/inside-llewyn-davis
 Ryland Aldrich       8      http://www.indiewire.com/film/inside-llewyn-davis
 Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
+Jo Ann Titmarsh      10     http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-inside.html
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
@@ -1681,6 +1690,7 @@ Cristina Nord         6.5
 Guido Castillo        7.5
 Michael Kienzl       2.5     http://jury.critic.de/cannes/
 Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
+Clementine Gallot    6    http://www.indiewire.com/film/blue-ruin
 Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based-filmmaker-jeremy-saulnier-went-from-shooting-corporate-videos-to-premiering-his-movie-blue-ruin-at-cannes
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
