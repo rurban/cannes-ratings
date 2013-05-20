@@ -443,7 +443,7 @@ Stéphanie Lamome      9
 Arnaud Schwartz       7.5
 Fabrice Leclerc       9
 Eric Neuhoff          2.5
-Stéphane Delorme         
+Stéphane Delorme      1
 Thomas Sotinel        2.5
 Philippe Rouyer       7.5
 Pierre Vavasseur      9
@@ -539,21 +539,21 @@ Cédric Succivalli    8
 Blake Williams       3
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          7.5
+Stéphane Delorme      5   
+Thomas Sotinel        2.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      5
+Pierre Murat          9
+Jean Roy              7.5
+Serge Kaganski        5
+Pierre Fornerod       2.5
+Pascal Merigeau       7.5
+Danielle Attali       7.5
+Christophe Carriére   2.5
 Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
 Kevin Jagernauth     3    http://www.indiewire.com/film/jimmy-picard
 Emanuel Levy         6    http://www.indiewire.com/film/jimmy-picard
@@ -643,21 +643,21 @@ Cédric Succivalli    6
 Blake Williams       6
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       7.5
+Eric Neuhoff          7.5
+Stéphane Delorme      5
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      5
+Pierre Murat          1
+Jean Roy              5
+Serge Kaganski        7.5
+Pierre Fornerod       2.5
+Pascal Merigeau       2.5
+Danielle Attali       9
+Christophe Carriére   7.5
 #criticwire
 Jon Frosch           5        http://cannesreport.blogs.france24.com/article/2013/05/18/cannes-benicio-del-toro-jimmy-p-harvey-weinstein-mathieu-amalric-0
 Patrick McGavin      5        http://www.indiewire.com/film/like-father-like-son
@@ -712,21 +712,21 @@ Blake Williams
 Jessica Kiang         8       http://www.indiewire.com/film/borgman
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
+Stéphanie Lamome      7.5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       5
+Eric Neuhoff          2.5
+Stéphane Delorme      5
+Thomas Sotinel        2.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      9
+Pierre Murat          2.5
+Jean Roy              5
+Serge Kaganski        2.5
+Pierre Fornerod       2.5
 Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Danielle Attali       2.5
+Christophe Carriére   7.5
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -755,7 +755,7 @@ Dana Linssen
 Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
-Neil Young            7.5
+Neil Young            7.5      http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas         
 Marcelo Alderete      
 Alexandra Zawia       7.5
@@ -805,21 +805,21 @@ Cédric Succivalli
 Blake Williams       
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      7.5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       7.5
+Eric Neuhoff          7.5
+Stéphane Delorme      7.5
+Thomas Sotinel        7.5
+Philippe Rouyer       9
+Pierre Vavasseur      2.5
+Pierre Murat          9
+Jean Roy              5
+Serge Kaganski        7.5
+Pierre Fornerod       7.5
+Pascal Merigeau       7.5
+Danielle Attali       5
+Christophe Carriére   9
 Adam Cook            5      http://jury.critic.de/cannes/ 
 Arnaud Hée           
 Christoph Huber      1      http://jury.critic.de/cannes/ 
@@ -848,6 +848,22 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       6       http://jury.critic.de/cannes/ 
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1494,7 +1510,7 @@ Carlo Chatrian        7.5
 
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
 José Luis Losa       6.5
-Neil Young            5
+Neil Young            5       http://www.jigsawlounge.co.uk/film/reviews/canas13/ 
 Pablo O. Scholz       4
 Javier H. Estrada     6.5
 
@@ -1614,7 +1630,7 @@ Eulàlia Iglesias     6.5
 Ángel Quintana       5.5
 Kieron Corless        5
 Jaime Pena            5
-Neil Young            6.5
+Neil Young            6.5        http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Guido Castillo        8
 Ronald Rovers         7.5
 Javier H. Estrada     4
