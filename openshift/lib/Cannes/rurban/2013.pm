@@ -727,6 +727,7 @@ Pierre Fornerod       2.5
 Pascal Merigeau       
 Danielle Attali       2.5
 Christophe Carriére   7.5
+Jessica Kiang         8       http://blogs.indiewire.com/theplaylist/cannes-review-borgman-delivers-a-deliciously-dark-twisted-cannes-competition-treat-20130519
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -864,6 +865,8 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# criticwire
+Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1251,6 +1254,8 @@ Till Kadritzke       9      http://jury.critic.de/cannes/
 Daniel Kasman               
 Michael Kienzl       6      http://jury.critic.de/cannes/ 
 Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
+Jessica Kiang        7      http://blogs.indiewire.com/theplaylist/cannes-review-grand-central-weaves-a-lyrical-tale-of-love-and-radiation-around-tahar-rahim-lea-seydoux-20130519
+
 
 "BENDS" (Flora LAU) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
@@ -1370,6 +1375,7 @@ Alexandra Zawia       1
 Alejandro G. Calvo    1.5
 # critic.de
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
+Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 Diego Batlle          9
@@ -1522,6 +1528,7 @@ José Luis Losa       7
 Rüdiger Suchsland    10
 Alexandra Zawia       4.5
 Xavi Serra            4
+Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
