@@ -2,9 +2,7 @@ package Cannes::rurban;
 use Dancer ':syntax';
 use utf8;
 
-our $VERSION = '0.1';
-#our ($DATA,$HEADER,$FOOTER,@critics);
-#our (%critic,%badcritic,%title,@t);
+our $VERSION = '0.2';
 
 sub _read {
   my $DATA = shift;
@@ -80,6 +78,7 @@ sub _read {
 # boolean: show details for indexed t? (movie or critic)
 sub _show_detail {
   my $i = shift;
+  Dancer::SharedData->request or return undef;
   my $t = params->{t} or return undef;;
   if (($t eq $i) || ($t eq '*')) { return $t; }
   else { return undef; }
@@ -93,6 +92,17 @@ sub _detail {
   my $out = '';
   $out .= "<tr><td></td><td colspan=2 class=detail><i>&nbsp;&nbsp; - $h->{comment}</i></td>" if exists $h->{comment};
 
+  if (params->{debug}) {
+    require Data::Dumper;
+    my $x = $h;
+    delete $x->{review};
+    $out .= "<code>".Data::Dumper::Dumper($x);
+    for (keys %{$x->{critic}}) {
+      $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
+	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
+    }
+    $out .= "</code>";
+  }
   for (sort {!defined $h->{critic}->{$b}->[0] ? -1
 	       : !defined $h->{critic}->{$a}->[0] ? 1
 	       : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]}
@@ -198,13 +208,21 @@ sub _dump {
   for my $c (keys %badcritic) {
     for my $t (keys %title) {
       if ($title{$t}->{critic}->{$c}) {
-        $title{$t}->{num}--; my ($n,$sum)=($title{$t}->{num},0);
+        #$title{$t}->{num}--;
         my $bak = $title{$t}->{critic}->{$c}->[0];
 	delete $title{$t}->{critic}->{$c};
+	#$title{$t}->{num} = scalar keys %{$title{$t}->{critic}};
+	my ($n,$sum)=(0,0);
 	for (keys %{$title{$t}->{critic}}) {
-          my $n = $title{$t}->{critic}->{$_}->[0] if exists $title{$t}->{critic}->{$_};
-	  $sum += $n if $n and $n > 0;
+	  if (exists $title{$t}->{critic}->{$_}) {
+	    my $r = $title{$t}->{critic}->{$_}->[0];
+	    if ($r and $r >= 0) {
+	      $sum += $r;
+	      $n++;
+	    }
+	  }
 	}
+	$title{$t}->{num} = $n;
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
         $title{$t}->{critic}->{$c}->[0] = "-$bak" if $bak;
       }
@@ -235,7 +253,7 @@ sub _dump {
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    if (Dancer::SharedData->request and _show_detail($i)) {
+    if (_show_detail($i)) {
       $list .= _detail($t,$title{$t},\%critic);
     }
     $i++;
@@ -254,7 +272,7 @@ sub _dump {
     $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
-    if (Dancer::SharedData->request and _show_detail($i)) {
+    if (_show_detail($i)) {
       $list .= _detail($t,$title{$t},\%critic);
     }
     $i++;
@@ -317,7 +335,7 @@ sub _dump {
         } else {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td>[-]</td></tr>\n";
         }
-        if (Dancer::SharedData->request and _show_detail($i)) {
+        if (_show_detail($i)) {
           $out .= _detail($_,$title{$_},\%critic);
         }
 	$i++;
@@ -350,7 +368,7 @@ sub _dump {
     $out .= $n 
       ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
       :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
-    if (Dancer::SharedData->request and _show_detail($i)) {
+    if (_show_detail($i)) {
       $out .= _detail($t,$title{$t},\%critic,1);
     }
     $i++;
@@ -379,7 +397,7 @@ sub _dump {
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
       $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td><a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a></td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
-      if (Dancer::SharedData->request and _show_detail($i)) {
+      if (_show_detail($i)) {
 	$out .= _critic_detail($_,$critic{$_});
       }
       $i++;
