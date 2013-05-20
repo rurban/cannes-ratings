@@ -840,7 +840,14 @@ Diego Batlle          5
 Diego Lerer           6
 Eulàlia Iglesias     4
 Xavi Serra            5
-
+#critic.de
+Adam Cook            
+Arnaud Hée           4       http://jury.critic.de/cannes/
+Christoph Huber      7.5     http://jury.critic.de/cannes/
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       6       http://jury.critic.de/cannes/ 
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1292,14 +1299,21 @@ Javier H. Estrada
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         6.5
-Arnaud Hée           6        http://jury.critic.de/cannes/ 
-Michael Kienzl       7.5      http://jury.critic.de/cannes/ 
+# critic.de
+Adam Cook            6       http://jury.critic.de/cannes/ 
+Arnaud Hée           7.5
+Christoph Huber      9       http://jury.critic.de/cannes/ 
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        6       http://jury.critic.de/cannes/ 
+Michael Kienzl       7.5     http://www.critic.de/film/limage-manquante-5582/
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
 Diego Lerer           4
 Ángel Quintana       6
 Guido Castillo        1
+Christoph Huber      4        http://jury.critic.de/cannes/ 
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
@@ -1338,6 +1352,8 @@ OUT OF COMPETITION
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 Alexandra Zawia       1
 Alejandro G. Calvo    1.5
+# critic.de
+Frédéric Jaeger      4       http://jury.critic.de/cannes/
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 Diego Batlle          9
@@ -1351,6 +1367,14 @@ Carlos F. Heredero    8
 Robert Koehler        5
 Ronald Rovers         7.5
 Alvaro Arroba         10
+# critic.de
+Adam Cook             
+Arnaud Hée            5
+Christoph Huber       9      http://jury.critic.de/cannes/
+Frédéric Jaeger       9      http://jury.critic.de/cannes/
+Till Kadritzke        
+Daniel Kasman         7.5        
+Michael Kienzl        7.5    http://jury.critic.de/cannes/
 
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
   (US premiered already May 7)
@@ -1454,6 +1478,14 @@ Diego Batlle          4.5
 Diego Lerer           4
 Boris Nelepo          8
 Alejandro G. Calvo    8
+# critic.de
+Adam Cook             
+Arnaud Hée            4
+Christoph Huber       9      http://jury.critic.de/cannes/
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
 
 SPECIAL SCREENINGS
 
@@ -1502,6 +1534,7 @@ Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club, USA) 8 http://ww
 Eric Kohn             9       http://www.indiewire.com/film/aint-them-bodies-saints
 Rodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodies-saints
 Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-saints
+Till Kadritzke        7.5     http://jury.critic.de/cannes/ 
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
 Roger Koza            8
@@ -1535,6 +1568,8 @@ Robert Koehler        7
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 Fernando Ganzo        6
 Boris Nelepo          8.5
+# critic.de
+Arnaud Hée            6       http://jury.critic.de/cannes/
 
 "LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
 Diego Batlle          7.5
@@ -1658,6 +1693,14 @@ Eulàlia Iglesias     5.5
 Robert Koehler        6
 Cristina Nord         8
 Boris Nelepo          7
+#critic.de
+Adam Cook            6       http://jury.critic.de/cannes/ 
+Arnaud Hée           
+Christoph Huber      6       http://jury.critic.de/cannes/ 
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        5       http://jury.critic.de/cannes/ 
+Michael Kienzl       
 
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
 José Luis Losa       4.5
