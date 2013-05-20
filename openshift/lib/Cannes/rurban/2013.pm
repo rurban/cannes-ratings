@@ -701,14 +701,14 @@ Per Juul Carlsen
 Carlos F. Heredero   
 Raffi Asdourian      
 #Eric Kohn            
-Eric Lavallée        
+Eric Lavallée        5
 Fabien Lemercier     
 Guy Lodge            
-Liu Min              
+Liu Min              8
 Isabelle Regnier     
 Cédric Succivalli    
-Blake Williams       
-#Neil Young          
+Blake Williams       5
+#Neil Young          7
 Jessica Kiang         8       http://www.indiewire.com/film/borgman
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
 # Le film français 0-4
@@ -790,20 +790,20 @@ Screen International 9
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
-David Calhoun        
+David Calhoun        9
 Per Juul Carlsen     
 #Mike d'Angelo       
-Carlos F. Heredero   
+Carlos F. Heredero   7
 Raffi Asdourian      
 #Eric Kohn            
 Eric Lavallée        7
 Fabien Lemercier     
 Guy Lodge            
-Liu Min              
+Liu Min              10
 Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
-#Neil Young          
+Cédric Succivalli    8
+Blake Williams       7
+#Neil Young          7
 # Le film français 0-4
 Stéphanie Lamome      7.5
 Arnaud Schwartz       7.5
