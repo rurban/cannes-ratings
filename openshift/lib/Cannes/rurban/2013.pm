@@ -682,16 +682,16 @@ Ronald Rovers         6.5
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Michael Kienzl       6        http://jury.critic.de/cannes/ 
 # Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
+Nick James           5
+David Stratton       5
+Derek Malcolm        5
+Jan Schulz-Ojala     5
+Jose Carlos Avellar  1
 Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Michel Ciment        7.5
+Kate Muir/Wendy Ide  5
+Bo Green Jensen      7.5
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
@@ -777,16 +777,16 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 # Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Nick James           9
+David Stratton       7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     7.5
+Jose Carlos Avellar  5
+Dennis Lim           7.5
+Michel Ciment        9
+Kate Muir/Wendy Ide  9
+Bo Green Jensen      7.5
+Screen International 9
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
