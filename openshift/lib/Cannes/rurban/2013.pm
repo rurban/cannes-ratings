@@ -462,7 +462,7 @@ Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
 Alex Vicente          
-José Luis De Lorenzo  
+José Luis De Lorenzo  4
 Cecilia Martinez      5
 Fernando Ganzo        4
 Eulàlia Iglesias     8
@@ -663,6 +663,9 @@ Christophe Carriére
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336075606947155969
 Eulàlia Iglesias     3
+Ángel Quintana       4
+José Luis Losa       2.5
+Carlos F. Heredero    4
 Cristina Nord         1.5
 Neil Young            7
 Carlos Reviriego      2.5
@@ -724,7 +727,7 @@ Christophe Carriére
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
 Mike d'Angelo         5.7     https://twitter.com/gemko/status/335841004601085952
 Roger Koza            7
-Diego Batlle          7.5
+Diego Batlle          8
 Diego Lerer           8.5
 Alex Vicente          
 José Luis De Lorenzo  7
@@ -827,6 +830,10 @@ Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
+Diego Batlle          5
+Diego Lerer           6
+Eulàlia Iglesias     4
+Xavi Serra            5
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1220,6 +1227,7 @@ Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-
 Mike d'Angelo              https://twitter.com/gemko/status/336075030393913344
 Diego Lerer           6
 Ángel Quintana       4
+José Luis Losa       3
 Jaime Pena            4.5
 Rüdiger Suchsland    4.5
 Carlos F. Heredero    4.5
@@ -1232,16 +1240,59 @@ Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
+Roger Koza            7.5
+Diego Batlle          7.5
 Diego Lerer           8.5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        6
+Eulàlia Iglesias     8.5
+Ángel Quintana       8.5
+José Luis Losa       8.5
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        8
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            
+Rüdiger Suchsland    
+Carlos F. Heredero    8
+Robert Koehler        8
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
 Boris Nelepo          6
 Carlos Reviriego      8.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
 Pablo O. Scholz       8
 Alejandro G. Calvo    9
+Xavi Serra            
+Guido Castillo        8.5
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         6.5
 Arnaud Hée           6        http://jury.critic.de/cannes/ 
 Michael Kienzl       7.5      http://jury.critic.de/cannes/ 
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
+Diego Lerer           4
+Ángel Quintana       6
+Guido Castillo        1
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
@@ -1278,9 +1329,21 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
+Alexandra Zawia       1
 Alejandro G. Calvo    1.5
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
+Diego Batlle          9
+Diego Lerer           8.5
+Fernando Ganzo        8
+Eulàlia Iglesias     8.5
+Ángel Quintana       10
+José Luis Losa       10
+Carlo Chatrian        7.5
+Carlos F. Heredero    8
+Robert Koehler        5
+Ronald Rovers         7.5
+Alvaro Arroba         10
 
 "THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
   (US premiered already May 7)
@@ -1378,6 +1441,11 @@ MIDNIGHT PROJECTIONS
 Alejandro G. Calvo    4
 
 "BLIND DETECTIVE" (Johnnie TO) [Out of Competition]
+Roger Koza            8
+Diego Batlle          4.5
+Diego Lerer           4
+Boris Nelepo          8
+Alejandro G. Calvo    8
 
 SPECIAL SCREENINGS
 
@@ -1394,6 +1462,7 @@ Javier H. Estrada     6.5
 
 "SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336076257953464321
+José Luis Losa       7
 Rüdiger Suchsland    10
 Alexandra Zawia       4.5
 Xavi Serra            4
@@ -1409,6 +1478,8 @@ SEMAINE DE LA CRITIC
 
 "AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
   (Sundance)
+Carlo Chatrian        5
+Carlos F. Heredero    6.5
 Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
 Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
@@ -1451,8 +1522,11 @@ Robert Koehler        2
 Robert Koehler        4
 
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
+Robert Koehler        7
 
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
+Fernando Ganzo        6
+Boris Nelepo          8.5
 
 "LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
 Diego Batlle          7.5
@@ -1538,6 +1612,7 @@ Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 Eulàlia Iglesias     6.5
 Ángel Quintana       6
 Cristina Nord         6.5
+Guido Castillo        7.5
 Michael Kienzl       2.5     http://jury.critic.de/cannes/
 Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
 Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based-filmmaker-jeremy-saulnier-went-from-shooting-corporate-videos-to-premiering-his-movie-blue-ruin-at-cannes
@@ -1563,15 +1638,22 @@ Marcelo Alderete      3
 Boris Nelepo          4
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
+Robert Koehler        7.5
 
 "TIP TOP" (Serge Bozon) [Quinzaine]
+Roger Koza            5.5
 Diego Batlle          6.5
 Diego Lerer           7
+Fernando Ganzo        7
 Eulàlia Iglesias     5.5
+Ángel Quintana       5.5
+Robert Koehler        6
 Cristina Nord         8
 Boris Nelepo          7
 
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
+José Luis Losa       4.5
+Robert Koehler        3.5
 
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
 
@@ -1792,6 +1874,7 @@ Raffi Asdourian (The Film Stage, USA)
 Richard Corliss (Time, USA)
 Robbie Collins (The Telegraph, UK)
 Robert Gassaway (The Flicksation Podcast, USA)
+Rodrigo Perez (The Playlist, USA)
 Ruta Buciunaite (theupcoming.co.uk, UK)
 Ryland Aldrich (Twitch Film, USA)
 Simon Abrams (The Playlist, USA)
