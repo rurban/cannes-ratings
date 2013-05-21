@@ -2107,6 +2107,7 @@ Arnaud Hée            2.5       http://jury.critic.de/cannes/
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
 
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
+  (Sundance Midnight)
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
 Eulàlia Iglesias     6.5
 
