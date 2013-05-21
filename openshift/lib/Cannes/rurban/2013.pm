@@ -95,6 +95,7 @@ Kate Muir/Wendy Ide  7.5
 Bo Green Jensen      7.5
 Screen International 7.5
 Joachim Kurz 	      	     http://www.kino-zeit.de/blog/cannes/heli
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            2.5     http://jury.critic.de/cannes/ 
 Arnaud Hée           
 Christoph Huber      2.5     http://jury.critic.de/cannes/ 
@@ -207,6 +208,7 @@ Craig Skinner        3        http://www.indiewire.com/film/jeune-et-jolie
 Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
 Patrick Heidmann     6        http://www.indiewire.com/film/jeune-et-jolie
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           
 Christoph Huber      
@@ -300,6 +302,7 @@ Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            5       http://jury.critic.de/cannes/
 Arnaud Hée           
 Christoph Huber      9       http://jury.critic.de/cannes/
@@ -964,6 +967,14 @@ Fernando Juan Lima    7.5
 Philip Engel          7.5
 Guido Castillo        3
 Fredy Friedlander     6
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                    
+Arnaud Hée           4       http://jury.critic.de/cannes/
+Christoph Huber              
+Frédéric Jaeger      6       http://jury.critic.de/cannes/
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl               
 
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
@@ -978,6 +989,14 @@ Carlo Chatrian        5
 Philip Engel          5
 Alejandro G. Calvo    5
 Guido Castillo        6
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            7.5     http://jury.critic.de/cannes/
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      6       http://jury.critic.de/cannes/
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       6       http://jury.critic.de/cannes/        
 #criticwire
 Jon Frosch           7    http://www.theatlantic.com/entertainment/archive/2013/05/steven-soderberghs-too-gay-liberace-movie-has-arrived-at-cannes/276095/
 Caryn James          9    http://blogs.indiewire.com/carynjames/liberace
@@ -1034,7 +1053,15 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         5.5
 Fredy Friedlander     
-Arnaud Hée            1      --- http://jury.critic.de/cannes/
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           1       http://jury.critic.de/cannes/
+Christoph Huber              
+Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
+Till Kadritzke       2.5     http://jury.critic.de/cannes/
+Daniel Kasman        
+Michael Kienzl       
+#criticwire
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
@@ -1553,6 +1580,14 @@ Violeta Kovacsics     9
 Boris Nelepo          3
 Philip Engel          8
 Guido Castillo        8
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                    
+Arnaud Hée                   
+Christoph Huber              
+Frédéric Jaeger      7.5     http://jury.critic.de/cannes/
+Till Kadritzke       9       http://jury.critic.de/cannes/
+Daniel Kasman        7       http://jury.critic.de/cannes/
+Michael Kienzl               
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
@@ -1899,6 +1934,7 @@ Boris Nelepo          8.5
 Javier H. Estrada     8.5
 Alvaro Arroba         6.5
 # critic.de
+Adam Cook             5       http://jury.critic.de/cannes/
 Arnaud Hée            6       http://jury.critic.de/cannes/
 
 "LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
@@ -2060,11 +2096,13 @@ Robert Koehler        4.5
 
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
 Robert Koehler        6.5
+Arnaud Hée            5       http://jury.critic.de/cannes/
 
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
 Kieron Corless        4.5
 Robert Koehler        4.5
 Javier H. Estrada     2.5
+Arnaud Hée            2.5       http://jury.critic.de/cannes/
 
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
 
