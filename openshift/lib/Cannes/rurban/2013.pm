@@ -33,7 +33,7 @@ Roger Alan Koza      6
 Diego Batlle         4.5
 Diego Lerer          6
 Alex Vicente         
-José Luis De Lorenzo 1
+Jose Luis De Lorenzo 1
 Cecilia Martinez     4
 Fernando Ganzo       
 Eulàlia Iglesias     6
@@ -139,7 +139,7 @@ Roger Koza            5.5
 Diego Batlle          6
 Diego Lerer           6
 Alex Vicente          
-José Luis De Lorenzo  7
+Jose Luis De Lorenzo  7
 Cecilia Martinez      8
 Fernando Ganzo        3.5
 Eulàlia Iglesias      7
@@ -248,7 +248,7 @@ Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           8.5     http://micropsia.otroscines.com/2013/05/cannes-2013-a-touch-of-sin-de-jia-zhang-ke-competencia/
 Alex Vicente          
-José Luis De Lorenzo  8
+Jose Luis De Lorenzo  8
 Cecilia Martinez      7
 Fernando Ganzo        3
 Eulàlia Iglesias      6.5
@@ -352,7 +352,7 @@ Roger Koza
 Diego Batlle          6.5
 Diego Lerer           6.5
 Alex Vicente          
-José Luis De Lorenzo  4
+Jose Luis De Lorenzo  4
 Cecilia Martinez      3
 Fernando Ganzo        
 Eulàlia Iglesias     6.5
@@ -462,7 +462,7 @@ Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
 Alex Vicente          
-José Luis De Lorenzo  4
+Jose Luis De Lorenzo  4
 Cecilia Martinez      5
 Fernando Ganzo        4
 Eulàlia Iglesias     8
@@ -569,7 +569,7 @@ Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
 Alex Vicente          
-José Luis De Lorenzo  9
+Jose Luis De Lorenzo  9
 Cecilia Martinez      9
 Fernando Ganzo        
 Eulàlia Iglesias     4
@@ -745,7 +745,7 @@ Roger Koza            7
 Diego Batlle          8
 Diego Lerer           8.5
 Alex Vicente          
-José Luis De Lorenzo  7
+Jose Luis De Lorenzo  7
 Cecilia Martinez      
 Fernando Ganzo        8
 Eulàlia Iglesias     8
@@ -949,7 +949,7 @@ Roger Koza           5.5
 Diego Batlle         7.5
 Diego Lerer          7
 Alex Vicente         
-José Luis De Lorenzo 6
+Jose Luis De Lorenzo 6
 Cecilia Martinez     6
 Fernando Ganzo       5
 Eulàlia Iglesias     5.5
@@ -1041,7 +1041,7 @@ Roger Alan Koza
 Diego Batlle         6
 Diego Lerer          5.5
 Alex Vicente         
-José Luis De Lorenzo 9
+Jose Luis De Lorenzo 9
 Cecilia Martinez     7
 Fernando Ganzo       
 Eulàlia Iglesias     4
@@ -1116,7 +1116,7 @@ Roger Koza            10
 Diego Batlle          8
 Diego Lerer           6
 Alex Vicente          
-José Luis De Lorenzo  4
+Jose Luis De Lorenzo  4
 Cecilia Martinez      6
 Fernando Ganzo        8
 Eulàlia Iglesias     7.5
@@ -1186,7 +1186,7 @@ Michael Kienzl
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
-José Luis De Lorenzo  4
+Jose Luis De Lorenzo  4
 Cecilia Martinez      4
 Rüdiger Suchsland    4.5
 Carlos F. Heredero    6
@@ -1224,7 +1224,7 @@ Roger Koza
 Diego Batlle          6.5
 Diego Lerer           
 Alex Vicente          
-José Luis De Lorenzo  5
+Jose Luis De Lorenzo  5
 Cecilia Martinez      5.5
 Fernando Ganzo        0.5
 Eulàlia Iglesias     7.5
@@ -1314,7 +1314,7 @@ Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           8.5
 Alex Vicente          
-José Luis De Lorenzo
+Jose Luis De Lorenzo
 Cecilia Martinez      
 Fernando Ganzo        6
 Eulàlia Iglesias     8.5
@@ -1375,7 +1375,7 @@ Christoph Huber      4        http://jury.critic.de/cannes/
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
-José Luis De Lorenzo  4
+Jose Luis De Lorenzo  4
 Frédéric Jaeger       4       http://jury.critic.de/cannes/
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
@@ -1469,7 +1469,7 @@ Roger Koza            3.5
 Diego Batlle          6
 Diego Lerer           6.5
 Alex Vicente          
-José Luis De Lorenzo  2
+Jose Luis De Lorenzo  2
 Cecilia Martinez      5
 Fernando Ganzo        0
 Eulàlia Iglesias      6
@@ -1761,7 +1761,7 @@ Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
-José Luis De Lorenzo  10
+Jose Luis De Lorenzo  10
 Cecilia Martinez      6
 Luciano Monteagudo    0.5
 Rüdiger Suchsland    10
@@ -1873,7 +1873,7 @@ Fernando Ganzo (Lumiere, España)
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
 Jaime Pena (El Amante, España, Argentina) 
-José Luis De Lorenzo (A Sala Llena, Argentina) 
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 
 José Luis Losa (Cineuropa, España)
 Kieron Corless (Time Out London, UK)
 Luciano Barisone (Duellanti/Panoramiche, Italy) 
