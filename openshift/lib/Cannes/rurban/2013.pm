@@ -32,7 +32,7 @@ our $DATA= <<'EOF';
 Roger Alan Koza      6
 Diego Batlle         4.5
 Diego Lerer          6
-Alex Vicente         
+Alex Vicente         4
 Jose Luis De Lorenzo 1
 Cecilia Martinez     4
 Fernando Ganzo       
@@ -74,6 +74,7 @@ Javier H. Estrada    4.5
 Rose Kuo             
 Pamela Bienzobas     
 Alvaro Arroba        
+Fredy Friedlander     
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Ryland Aldrich       6        http://www.indiewire.com/film/heli
 Craig Skinner        7        http://www.indiewire.com/film/heli
@@ -139,7 +140,7 @@ Christophe Carriére   2.5
 Roger Koza            5.5
 Diego Batlle          6
 Diego Lerer           6
-Alex Vicente          
+Alex Vicente          6
 Jose Luis De Lorenzo  7
 Cecilia Martinez      8
 Fernando Ganzo        3.5
@@ -181,6 +182,7 @@ Javier H. Estrada     4.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba        3.5
+Fredy Friedlander    6
 Mike d'Angelo        6.6    http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Eric Kohn            7      http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
 Kevin Jagernauth     3      http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
@@ -291,6 +293,7 @@ Javier H. Estrada     8.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         4
+Fredy Friedlander     8
 Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
@@ -354,7 +357,7 @@ Mike d'Angelo         8.2     http://www.avclub.com/articles/cannes-2013-day-two
 Roger Koza            
 Diego Batlle          6.5
 Diego Lerer           6.5
-Alex Vicente          
+Alex Vicente          5
 Jose Luis De Lorenzo  4
 Cecilia Martinez      3
 Fernando Ganzo        
@@ -396,6 +399,7 @@ Javier H. Estrada     4.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         2.5
+Fredy Friedlander     5
 Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
 Lee Marshall                  http://www.screendaily.com/reviews/the-latest/the-past/5056283.article?blocktitle=Latest-Reviews&contentID=592
 Kevin Jagernauth      6       http://blogs.indiewire.com/theplaylist/cannes-review-the-past-a-mostly-powerful-look-at-the-messiness-of-stasis-20130517
@@ -465,7 +469,7 @@ Mike d'Angelo        3.5      http://www.avclub.com/articles/cannes-2013-day-thr
 Roger Koza            7
 Diego Batlle          7
 Diego Lerer           7
-Alex Vicente          
+Alex Vicente          7
 Jose Luis De Lorenzo  4
 Cecilia Martinez      5
 Fernando Ganzo        4
@@ -507,6 +511,7 @@ Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         4
+Fredy Friedlander    4
 Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hée           5       http://jury.critic.de/cannes/
 Christoph Huber      6       http://jury.critic.de/cannes/
@@ -615,6 +620,7 @@ Javier H. Estrada     4
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
+Fredy Friedlander     7
 Adam Cook            5        http://jury.critic.de/cannes/
 Arnaud Hée           6
 Christoph Huber      6        http://jury.critic.de/cannes/
@@ -677,21 +683,52 @@ John Bleasdale       8        http://www.cine-vue.com/2013/05/cannes-film-festiv
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336075606947155969
+Roger Koza            
+Diego Batlle          
+Diego Lerer           
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
 Eulàlia Iglesias     3
 Ángel Quintana       4
 José Luis Losa       2.5
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     3.5
+Luciano Monteagudo    
 Jaime Pena            4
+Rüdiger Suchsland    
 Carlos F. Heredero    4
+Robert Koehler        
+Dana Linssen          
 Cristina Nord         1.5
+Francisco Ferreira    
+Paolo Moretti         
 Neil Young            7
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          
 Carlos Reviriego      2.5
 Fernando Juan Lima    7
+Paolo Bertolin        
 Nando Salva           4
 Philip Engel          2
+Eugenio Renzi         
+Michal Oleszczyk      
 Pablo O. Scholz       6
 Alejandro G. Calvo    3
 Xavi Serra            5.5
+Guido Castillo        7
 Ronald Rovers         6.5
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     4
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Michael Kienzl       6        http://jury.critic.de/cannes/ 
 # Screen Daily (0-4)
@@ -751,7 +788,7 @@ Mike d'Angelo         5.7     https://twitter.com/gemko/status/33584100460108595
 Roger Koza            7
 Diego Batlle          8
 Diego Lerer           8.5
-Alex Vicente          
+Alex Vicente          7
 Jose Luis De Lorenzo  7
 Cecilia Martinez      
 Fernando Ganzo        8
@@ -762,7 +799,7 @@ Pedro Butcher         8
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        
-Violeta Kovacsics     
+Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            8
 Rüdiger Suchsland    
@@ -787,12 +824,13 @@ Michal Oleszczyk
 Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
 Xavi Serra            9
-Guido Castillo        
+Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     6.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         8
+Fredy Friedlander     
 # Screen Daily (0-4)
 Nick James           9
 David Stratton       7.5
@@ -863,11 +901,14 @@ Eulàlia Iglesias     4
 Ángel Quintana       5
 José Luis Losa       5.5
 Pedro Butcher         9
+Violeta Kovacsics     5
 Jaime Pena            6.5
 Carlos F. Heredero    7
 Alexandra Zawia       6
+Philip Engel          2.5
 Alejandro G. Calvo    4
 Xavi Serra            5
+Guido Castillo        3
 #critic.de
 Adam Cook            9       http://jury.critic.de/cannes/
 Arnaud Hée           4       http://jury.critic.de/cannes/
@@ -899,35 +940,86 @@ John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festiva
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
+Mike d'Angelo         2.4    https://twitter.com/gemko/status/336812768692957184
 Diego Batlle          7.5
 Diego Lerer           6.5
+Alex Vicente          7
 Cecilia Martinez      7
+Eulàlia Iglesias     7
 Ángel Quintana       7.5
 José Luis Losa       4
 Pedro Butcher         6
+Violeta Kovacsics     4.5
 Jaime Pena            7.5
 Carlos F. Heredero    4.5
 Fernando Juan Lima    7.5
+Philip Engel          7.5
+Guido Castillo        3
+Fredy Friedlander     6
 
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
+Mike d'Angelo         5.5     https://twitter.com/gemko/status/336811426758938624
 Roger Koza            5.5
 Diego Batlle          6.5
+Diego Lerer           6.5
+Alex Vicente          6
+Eulàlia Iglesias     6
 Pedro Butcher         6.5
-Alejandro G. Calvo    0
+Carlo Chatrian        5
+Philip Engel          5
+Alejandro G. Calvo    5
+Guido Castillo        6
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
+Mike d'Angelo         5.8     https://twitter.com/gemko/status/336597342511849473
+Roger Koza            
 Diego Batlle          5
+Diego Lerer           7
+Alex Vicente          5
 Jose Luis De Lorenzo  9
 Cecilia Martinez      6
+Fernando Ganzo        
+Eulàlia Iglesias     7.5
 Ángel Quintana       3
 José Luis Losa       4
+Pedro Butcher         
+Kieron Corless        3.5
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
 Jaime Pena            4
+Rüdiger Suchsland    
 Carlos F. Heredero    0.5
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
 Nando Salva           8.5
-Alejandro G. Calvo    7.5
+Philip Engel          9.5
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    9.5
+Xavi Serra            
+Guido Castillo        
 Ronald Rovers         9
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         5.5
+Fredy Friedlander     
 Arnaud Hée            1      --- http://jury.critic.de/cannes/
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
@@ -936,6 +1028,7 @@ Ronald Rovers         8
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
+Eulàlia Iglesias     5
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
@@ -964,7 +1057,7 @@ Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-
 Roger Koza           5.5           
 Diego Batlle         7.5
 Diego Lerer          7
-Alex Vicente         
+Alex Vicente         6.5
 Jose Luis De Lorenzo 6
 Cecilia Martinez     6
 Fernando Ganzo       5
@@ -1006,6 +1099,7 @@ Javier H. Estrada    6.5
 Rose Kuo             
 Pamela Bienzobas     
 Alvaro Arroba        1.5
+Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       2.5
@@ -1099,6 +1193,7 @@ Javier H. Estrada    3.5
 Rose Kuo             
 Pamela Bienzobas     
 Alvaro Arroba        
+Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1175,6 +1270,7 @@ Javier H. Estrada     7.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         7.5
+Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      9
 Arnaud Schwartz       
@@ -1214,6 +1310,7 @@ Carlos F. Heredero    6
 Robert Koehler        2.5
 Alexandra Zawia       4
 Fernando Juan Lima    3.5
+Fredy Friedlander     7
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1245,7 +1342,7 @@ Mike d'Angelo                 https://twitter.com/gemko/status/33578914556794880
 Roger Koza            
 Diego Batlle          6.5
 Diego Lerer           
-Alex Vicente          
+Alex Vicente          7
 Jose Luis De Lorenzo  5
 Cecilia Martinez      5.5
 Fernando Ganzo        0.5
@@ -1287,6 +1384,7 @@ Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
+Fredy Friedlander     9
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1347,7 +1445,7 @@ Pedro Butcher
 Kieron Corless        6.5
 Luciano Barisone      
 Carlo Chatrian        8
-Violeta Kovacsics     
+Violeta Kovacsics     7
 Luciano Monteagudo    
 Jaime Pena            6
 Rüdiger Suchsland     
@@ -1366,7 +1464,7 @@ Carlos Reviriego      8.5
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       8
@@ -1378,6 +1476,7 @@ Javier H. Estrada     6.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         6.5
+Fredy Friedlander     
 # critic.de
 Adam Cook            6       http://jury.critic.de/cannes/ 
 Arnaud Hée           7.5
@@ -1391,6 +1490,7 @@ Michael Kienzl       7.5     http://www.critic.de/film/limage-manquante-5582/
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
 Diego Lerer           4
 Ángel Quintana       6
+Rüdiger Suchsland    2
 Fernando Juan Lima    2
 Guido Castillo        1
 Javier H. Estrada     7.5
@@ -1399,19 +1499,23 @@ Christoph Huber      4        http://jury.critic.de/cannes/
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 Jose Luis De Lorenzo  5
+Guido Castillo        7
 Ronald Rovers         6
 Frédéric Jaeger       4       http://jury.critic.de/cannes/
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
+Mike d'Angelo         0     https://twitter.com/gemko/status/336597474598858752
 Roger Koza            5
 Diego Batlle          3
 Diego Lerer           4
+Alex Vicente          4
 Jose Luis De Lorenzo  2
 Cecilia Martinez      1
 Ángel Quintana       5.5
 José Luis Losa       3
 Jaime Pena            2
+Rüdiger Suchsland    5.5
 Alexandra Zawia       1.5
 Alejandro G. Calvo    8
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
@@ -1419,9 +1523,19 @@ Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
+Carlo Chatrian        5
+Rüdiger Suchsland    6
 
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
+Diego Batlle          7.5
+Diego Lerer           9
+Alex Vicente          6
+Eulàlia Iglesias     8
+Violeta Kovacsics     9
+Boris Nelepo          3
+Philip Engel          8
+Guido Castillo        8
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
@@ -1446,31 +1560,65 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
+Alex Vicente          5
 Ángel Quintana       5.5
 Pedro Butcher         5
 Alexandra Zawia       1
 Alejandro G. Calvo    1.5
 Alvaro Arroba         3.5
+Fredy Friedlander     6
 # critic.de
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
 Till Kadritzke               http://www.critic.de/film/blood-ties-5588/
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
+Roger Koza            
 Diego Batlle          9
 Diego Lerer           8.5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
 Fernando Ganzo        8
 Eulàlia Iglesias     8.5
 Ángel Quintana       10
 José Luis Losa       10
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
 Carlo Chatrian        7.5
+Violeta Kovacsics     
+Luciano Monteagudo    
 Jaime Pena            10
+Rüdiger Suchsland    7.5
 Carlos F. Heredero    8
 Robert Koehler        5
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       5
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    
+Xavi Serra            
+Guido Castillo        
 Ronald Rovers         7.5
 Javier H. Estrada     8.5
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         10
+Fredy Friedlander     8
 # critic.de
 Adam Cook             
 Arnaud Hée            5
@@ -1495,7 +1643,7 @@ Keith Uhlich (Time Out New York, USA) 4 http://www.timeout.com/us/film/the-great
 Roger Koza            3.5
 Diego Batlle          6
 Diego Lerer           6.5
-Alex Vicente          
+Alex Vicente          6
 Jose Luis De Lorenzo  2
 Cecilia Martinez      5
 Fernando Ganzo        0
@@ -1537,6 +1685,7 @@ Javier H. Estrada     3
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         1.5
+Fredy Friedlander     
 Michael Sennhauser             http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -1581,20 +1730,6 @@ Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-fiv
 Roger Koza            8
 Diego Batlle          4.5
 Diego Lerer           4
-Jose Luis De Lorenzo  6.5
-José Luis Losa       3
-Pedro Butcher         7
-Jaime Pena            3.5
-Carlos F. Heredero    3
-Neil Young            4
-Alexandra Zawia       4.5
-Boris Nelepo          8
-Fernando Juan Lima    7
-Alejandro G. Calvo    5.5
-Javier H. Estrada     6
-Roger Koza            8
-Diego Batlle          4.5
-Diego Lerer           4
 Alex Vicente          
 Jose Luis De Lorenzo  6.5
 Cecilia Martinez      7.5
@@ -1609,7 +1744,7 @@ Carlo Chatrian
 Violeta Kovacsics     
 Luciano Monteagudo    
 Jaime Pena            3.5
-Rüdiger Suchsland    
+Rüdiger Suchsland    3.5
 Carlos F. Heredero    3
 Robert Koehler        4
 Dana Linssen          
@@ -1625,7 +1760,7 @@ Carlos Reviriego
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          7
 Eugenio Renzi         
 Michal Oleszczyk      
 Pablo O. Scholz       
@@ -1637,6 +1772,7 @@ Javier H. Estrada     6
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         
+Fredy Friedlander     
 # critic.de
 Adam Cook             7.5    http://jury.critic.de/cannes/
 Arnaud Hée            4      http://jury.critic.de/cannes/
@@ -1667,6 +1803,7 @@ Jaime Pena            6
 Rüdiger Suchsland    10
 Alexandra Zawia       4.5
 Xavi Serra            4
+Alvaro Arroba         5.5
 Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
@@ -1678,11 +1815,12 @@ Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduc
 
 SEMAINE DE LA CRITIC
 
-"AIN'T THEM BODIES SAINTS (LES AMANTS DU TEXAS)" (David Lowery) [Semaine]
+"AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
   (Sundance)
 Carlo Chatrian        5
 Jaime Pena            6
 Carlos F. Heredero    6.5
+Guido Castillo        7.5
 Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
 Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
@@ -1712,6 +1850,7 @@ Diego Lerer           6.5
 Ángel Quintana       7.5
 Jaime Pena            7
 Neil Young            7    https://twitter.com/JigsawLounge/status/335140082728194048
+Fredy Friedlander     7
 Adam Cook            
 Arnaud Hée           4
 Christoph Huber      
@@ -1727,6 +1866,7 @@ Robert Koehler        2
 Robert Koehler        4
 
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
+Carlo Chatrian        6.5
 Robert Koehler        7
 
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
@@ -1753,6 +1893,8 @@ Pablo O. Scholz       7
 
 "3X3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
 Jaime Pena            9
+Alvaro Arroba         7
+Fredy Friedlander     6
 
 
 QUINZAINE
@@ -1760,7 +1902,9 @@ QUINZAINE
 "THE CONGRESS" (Ari Folman) [Quinzaine]
 Jessica Kiang        4.5  http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
 Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright-gets-animated-in-messy-sometimes-mesmerising-the-congress
+Alex Vicente          5
 Fernando Ganzo        10
+Kieron Corless        3.5
 Jaime Pena            8
 Rüdiger Suchsland    6
 Carlos F. Heredero    6
@@ -1789,6 +1933,7 @@ Neil Young            6.5        http://www.jigsawlounge.co.uk/film/reviews/cana
 Guido Castillo        8
 Ronald Rovers         7.5
 Javier H. Estrada     4
+Fredy Friedlander     8
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 
@@ -1849,6 +1994,7 @@ Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realid
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
+Eulàlia Iglesias     5.5
 José Luis Losa       6
 Marcelo Alderete      3
 Boris Nelepo          4
@@ -1864,6 +2010,7 @@ Diego Lerer           7
 Fernando Ganzo        7
 Eulàlia Iglesias     5.5
 Ángel Quintana       5.5
+Kieron Corless        6.5
 Robert Koehler        6
 Cristina Nord         8
 Boris Nelepo          7
@@ -1879,6 +2026,7 @@ Michael Kienzl
 
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
 José Luis Losa       4.5
+Carlo Chatrian        6.5
 Robert Koehler        3.5
 Javier H. Estrada     5
 
@@ -1891,6 +2039,7 @@ Robert Koehler        4.5
 Robert Koehler        6.5
 
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
+Kieron Corless        4.5
 Robert Koehler        4.5
 Javier H. Estrada     2.5
 
@@ -1898,6 +2047,7 @@ Javier H. Estrada     2.5
 
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
+Eulàlia Iglesias     6.5
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 
@@ -1910,6 +2060,7 @@ Arnaud Hée            5      +-  http://jury.critic.de/cannes/
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
+Fredy Friedlander     1
 Sebastian Doggart (Guardian, UK) 6 http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
 Russ Fischer (slashfilm.com, USA) 7
 Chris Bumbray (joblo.com, USA) 7
@@ -1975,6 +2126,7 @@ Xavi Serra (Ara, España)
 Guido Castillo (Freelance, España)
 Ronald Rovers (Cinema.nl, Netherlands)
 Alvaro Arroba (Cinema Scope, España)
+Fredy Friedlander (?, ?)
 ";
 # ioncinema
 $critics[1] = "
