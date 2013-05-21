@@ -77,7 +77,9 @@ Alvaro Arroba
 Fredy Friedlander     
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Ryland Aldrich       6        http://www.indiewire.com/film/heli
-Craig Skinner        7        http://www.indiewire.com/film/heli
+Craig Skinner        7        http://www.heyuguys.co.uk/cannes-2013-heli-review/
+Alex Billington      1.5      http://www.indiewire.com/film/heli
+Patrick McGavin      3        http://www.indiewire.com/film/heli
 Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Michael Sennhauser            http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-heli-review.html
@@ -563,6 +565,7 @@ Pierre Fornerod       2.5
 Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+Patrick Heidmann     4      http://www.indiewire.com/film/jimmy-picard
 Clementine Gallot    8      http://www.indiewire.com/film/jimmy-picard
 Jon Frosch           4      http://www.indiewire.com/film/jimmy-picard
 Patrick McGavin      7      http://www.indiewire.com/film/jimmy-picard
@@ -761,6 +764,9 @@ Blake Williams       5
 #Neil Young          7
 Jessica Kiang         8       http://www.indiewire.com/film/borgman
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
+Craig Skinner         3       http://www.indiewire.com/film/borgman
+Clementine Gallot    1        http://www.indiewire.com/film/borgman
+Jessica Kiang        8        http://www.indiewire.com/film/borgman
 # Le film français 0-4
 Stéphanie Lamome      7.5
 Arnaud Schwartz       7.5
@@ -935,6 +941,8 @@ Danielle Attali
 Christophe Carriére   
 # criticwire
 Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
+Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
+Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
 John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
 
 
@@ -970,6 +978,12 @@ Carlo Chatrian        5
 Philip Engel          5
 Alejandro G. Calvo    5
 Guido Castillo        6
+#criticwire
+Jon Frosch           7    http://www.theatlantic.com/entertainment/archive/2013/05/steven-soderberghs-too-gay-liberace-movie-has-arrived-at-cannes/276095/
+Caryn James          9    http://blogs.indiewire.com/carynjames/liberace
+Craig Skinner        9    http://http//www.heyuguys.co.uk/cannes-2013-behind-the-candelabra-review/
+Ryland Aldrich       6    http://twitchfilm.com/2013/05/cannes-2013-review-behind-the-candelabra.html
+Kirk Honeycott       8    http://honeycuttshollywood.com/behind-candelabra-review/
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
@@ -1021,6 +1035,7 @@ Pamela Bienzobas
 Alvaro Arroba         5.5
 Fredy Friedlander     
 Arnaud Hée            1      --- http://jury.critic.de/cannes/
+Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -1502,6 +1517,8 @@ Jose Luis De Lorenzo  5
 Guido Castillo        7
 Ronald Rovers         6
 Frédéric Jaeger       4       http://jury.critic.de/cannes/
+Jon Frosch            6       http://www.indiewire.com/film/omar
+Ryland Aldrich        7       http://www.indiewire.com/film/omar
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
@@ -1571,6 +1588,7 @@ Fredy Friedlander     6
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
 Till Kadritzke               http://www.critic.de/film/blood-ties-5588/
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
+Ryland Aldrich       7       http://www.indiewire.com/film/blood-ties
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 Roger Koza            
@@ -1724,6 +1742,9 @@ MIDNIGHT PROJECTIONS
 "MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
 Roger Koza            3
 Alejandro G. Calvo    4
+#criticwire
+Craig Skinner         1      http://www.indiewire.com/film/monsoon-shootout
+Ryland Aldrich        5      http://www.indiewire.com/film/monsoon-shootout
 
 "BLIND DETECTIVE (MAN TAM)" (Johnnie TO) [Out of Competition]
 Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
@@ -1781,6 +1802,7 @@ Frédéric Jaeger
 Till Kadritzke        
 Daniel Kasman         9      http://jury.critic.de/cannes/
 Michael Kienzl
+Craig Skinner         5      http://www.indiewire.com/film/blind-detective
 
 SPECIAL SCREENINGS
 
@@ -1805,6 +1827,7 @@ Alexandra Zawia       4.5
 Xavi Serra            4
 Alvaro Arroba         5.5
 Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
+Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
@@ -2126,7 +2149,7 @@ Xavi Serra (Ara, España)
 Guido Castillo (Freelance, España)
 Ronald Rovers (Cinema.nl, Netherlands)
 Alvaro Arroba (Cinema Scope, España)
-Fredy Friedlander (?, ?)
+Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
 ";
 # ioncinema
 $critics[1] = "
