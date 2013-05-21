@@ -363,7 +363,7 @@ Eulàlia Iglesias     6.5
 José Luis Losa       5
 Pedro Butcher         1
 Kieron Corless        2
-Luciano Barisone      
+Luciano Barisone      6
 Carlo Chatrian        6
 Violeta Kovacsics     5.5
 Luciano Monteagudo    6
@@ -582,7 +582,7 @@ Eulàlia Iglesias     4
 José Luis Losa       3.5
 Pedro Butcher         8
 Kieron Corless        4.5
-Luciano Barisone      
+Luciano Barisone      6
 Carlo Chatrian        7.5
 Violeta Kovacsics     8
 Luciano Monteagudo    
@@ -899,6 +899,9 @@ John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festiva
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
+Diego Batlle          7.5
+Diego Lerer           6.5
+Cecilia Martinez      7
 Ángel Quintana       7.5
 José Luis Losa       4
 Pedro Butcher         6
@@ -916,7 +919,7 @@ Alejandro G. Calvo    0
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
 Diego Batlle          5
-José Luis De Lorenzo  9
+Jose Luis De Lorenzo  9
 Cecilia Martinez      6
 Ángel Quintana       3
 José Luis Losa       4
@@ -1139,7 +1142,7 @@ Eulàlia Iglesias     7.5
 José Luis Losa       
 Pedro Butcher         8.5
 Kieron Corless        
-Luciano Barisone      
+Luciano Barisone      7
 Carlo Chatrian        
 Violeta Kovacsics     8
 Luciano Monteagudo    9.5
@@ -1205,6 +1208,7 @@ Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/
 Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
 Jose Luis De Lorenzo  4
 Cecilia Martinez      4
+Luciano Barisone      7
 Rüdiger Suchsland    4.5
 Carlos F. Heredero    6
 Robert Koehler        2.5
@@ -1394,7 +1398,8 @@ Christoph Huber      4        http://jury.critic.de/cannes/
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
-Jose Luis De Lorenzo  4
+Jose Luis De Lorenzo  5
+Ronald Rovers         6
 Frédéric Jaeger       4       http://jury.critic.de/cannes/
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
@@ -1402,6 +1407,8 @@ Frédéric Jaeger       4       http://jury.critic.de/cannes/
 Roger Koza            5
 Diego Batlle          3
 Diego Lerer           4
+Jose Luis De Lorenzo  2
+Cecilia Martinez      1
 Ángel Quintana       5.5
 José Luis Losa       3
 Jaime Pena            2
@@ -1585,6 +1592,51 @@ Boris Nelepo          8
 Fernando Juan Lima    7
 Alejandro G. Calvo    5.5
 Javier H. Estrada     6
+Roger Koza            8
+Diego Batlle          4.5
+Diego Lerer           4
+Alex Vicente          
+Jose Luis De Lorenzo  6.5
+Cecilia Martinez      7.5
+Fernando Ganzo        
+Eulàlia Iglesias     
+Ángel Quintana       
+José Luis Losa       3
+Pedro Butcher         7
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            3.5
+Rüdiger Suchsland    
+Carlos F. Heredero    3
+Robert Koehler        4
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            4
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       4.5
+Boris Nelepo          8
+Carlos Reviriego      
+Fernando Juan Lima    7
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    5.5
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     6
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 # critic.de
 Adam Cook             7.5    http://jury.critic.de/cannes/
 Arnaud Hée            4      http://jury.critic.de/cannes/
@@ -1691,6 +1743,7 @@ Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
 Carlo Chatrian        6.5
+Robert Koehler        6.5
 Fernando Juan Lima    7.5
 Pablo O. Scholz       7
 
@@ -1832,10 +1885,13 @@ Javier H. Estrada     5
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
 Roger Koza            6.5
 Diego Lerer           7
+Robert Koehler        4.5
 
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
+Robert Koehler        6.5
 
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
+Robert Koehler        4.5
 Javier H. Estrada     2.5
 
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
