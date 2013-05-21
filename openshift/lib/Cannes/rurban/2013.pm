@@ -1330,14 +1330,14 @@ Pascal Merigeau
 Danielle Attali       1
 Christophe Carriére   
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
-#critic.de
-Adam Cook            6       http://jury.critic.de/cannes/
-Arnaud Hée 
-Christoph Huber 
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            7.5     http://mubi.com/notebook/posts/cannes-2013-illusory-isolation-alain-guiraudies-stranger-by-the-lake
+Arnaud Hée           9       
+Christoph Huber              
 Frédéric Jaeger      7.5     http://www.critic.de/film/linconnu-du-lac-5580/
-Till Kadritzke 
-Daniel Kasman 
-Michael Kienzl
+Till Kadritzke               
+Daniel Kasman        9       http://jury.critic.de/cannes/
+Michael Kienzl       9       http://jury.critic.de/cannes/
 John Bleasdale       4       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-stranger-by.html
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
