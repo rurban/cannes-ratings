@@ -2262,6 +2262,9 @@ Fernando Juan Lima    2
 Alejandro G. Calvo    8
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
+Boyd van Hoeij        7       http://www.indiewire.com/film/as-i-lay-dying
+Patrick Heidmann      4       http://www.indiewire.com/film/as-i-lay-dying
+Kevin Jagernauth      3       http://www.indiewire.com/film/as-i-lay-dying
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
