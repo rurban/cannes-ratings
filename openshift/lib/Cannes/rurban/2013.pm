@@ -79,6 +79,7 @@ Ryland Aldrich       6        http://www.indiewire.com/film/heli
 Craig Skinner        7        http://www.indiewire.com/film/heli
 Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Michael Sennhauser            http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
+John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-heli-review.html
 # Screen Daily (0-4)
 Nick James           5
 David Stratton       5
@@ -185,6 +186,7 @@ Eric Kohn            7      http://www.indiewire.com/article/cannes-sofia-coppol
 Kevin Jagernauth     3      http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
 Michael Sennhauser          http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
 Jo Ann Titmarsh      4.5    http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-jeune.html
+John Bleasdale       6      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jeune-et.html
 # Screen Daily (0-4)
 Nick James           7.5
 David Stratton       2.5
@@ -344,6 +346,7 @@ Pierre Fornerod       2.5
 Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   5
+John Bleasdale        6       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-touch-of-sin.html
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -454,6 +457,7 @@ Pierre Fornerod       7.5
 Pascal Merigeau       9
 Danielle Attali       7.5
 Christophe Carriére   9
+John Bleasdale        8        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-past-review.html
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -904,12 +908,16 @@ Fernando Juan Lima    7.5
 
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
-Alejandro G. Calvo 0
+Roger Koza            5.5
+Diego Batlle          6.5
+Pedro Butcher         6.5
+Alejandro G. Calvo    0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
 Diego Batlle          5
-Jose Luis De Lorenzo  9
+José Luis De Lorenzo  9
+Cecilia Martinez      6
 Ángel Quintana       3
 José Luis Losa       4
 Jaime Pena            4
@@ -1019,11 +1027,12 @@ David Jenkins (Little White Lies blog, UK)   http://www.littlewhitelies.co.uk/fe
 Kaleem Aftab (The Independent, UK)   8	     http://www.independent.co.uk/arts-entertainment/films/reviews/the-bling-ring-review-emma-watson-leaves-hermoine-behind-in-sofia-coppolas-new-film-8618418.html
 Cath Clarke (Time Out London, UK) 8 http://www.timeout.com/london/film/the-bling-ring
 Robbie Collin (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cannes-film-festival/10061235/Cannes-2013-The-Bling-Ring-review.html
-Scott Foundas           http://variety.com/2013/film/reviews/cannes-film-review-the-bling-ring-1200482052/
-Graham Fuller (Vanity Fair) http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
+Scott Foundas                  http://variety.com/2013/film/reviews/cannes-film-review-the-bling-ring-1200482052/
+Graham Fuller (Vanity Fair)    http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
 Matt Mueller (Thompson on Hollywood, USA) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
-Michael Sennhauser              http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
+Michael Sennhauser             http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
+John Bleasdale        4        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-bling-ring.html
 # Criticwire
 Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
 Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
@@ -1112,7 +1121,8 @@ Christoph Huber
 Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 Till Kadritzke       4       http://jury.critic.de/cannes/ 
 Daniel Kasman         
-Michael Kienzl       4       http://jury.critic.de/cannes/ 
+Michael Kienzl       4       http://jury.critic.de/cannes/
+John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
@@ -1289,13 +1299,13 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
-Adam Cook            2.5    http://jury.critic.de/cannes/ 
+Adam Cook            2.5    http://jury.critic.de/cannes/
 Arnaud Hée           2.5
-Christoph Huber      4      http://jury.critic.de/cannes/ 
+Christoph Huber      4      http://jury.critic.de/cannes/
 Frédéric Jaeger      9      http://www.critic.de/film/grand-central-5586/
 Till Kadritzke       9      http://jury.critic.de/cannes/
 Daniel Kasman               
-Michael Kienzl       6      http://jury.critic.de/cannes/ 
+Michael Kienzl       6      http://jury.critic.de/cannes/
 Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
 Jessica Kiang        7      http://blogs.indiewire.com/theplaylist/cannes-review-grand-central-weaves-a-lyrical-tale-of-love-and-radiation-around-tahar-rahim-lea-seydoux-20130519
 John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-grand-central.html
@@ -1305,10 +1315,10 @@ John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
 Mike d'Angelo              https://twitter.com/gemko/status/336075030393913344
 Diego Lerer           6
-Ángel Quintana       4
-José Luis Losa       3
+Ángel Quintana        4
+José Luis Losa        3
 Jaime Pena            4.5
-Rüdiger Suchsland    4.5
+Rüdiger Suchsland     4.5
 Carlos F. Heredero    4.5
 Robert Koehler        7
 Carlos Reviriego      5
@@ -1436,6 +1446,7 @@ Alejandro G. Calvo    1.5
 Alvaro Arroba         3.5
 # critic.de
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
+Till Kadritzke               http://www.critic.de/film/blood-ties-5588/
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
