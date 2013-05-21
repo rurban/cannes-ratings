@@ -541,9 +541,9 @@ Christophe Beney     6
 David Calhoun        5
 Per Juul Carlsen     4
 #Mike d'Angelo       4
-Carlos F. Heredero   
+Carlos F. Heredero   8
 Raffi Asdourian      4         
-#Eric Kohn            
+#Eric Kohn           2 
 Eric Lavallée        4
 Fabien Lemercier     6
 Guy Lodge            4
@@ -749,17 +749,17 @@ Kate Muir/Wendy Ide  5
 Bo Green Jensen      7.5
 Screen International 7.5
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
+Nicolas Bell         6
+Christophe Beney     2
 David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-Carlos F. Heredero   
-Raffi Asdourian      
-#Eric Kohn            
+Per Juul Carlsen     4
+#Mike d'Angelo       5
+Carlos F. Heredero   2
+Raffi Asdourian      6
+#Eric Kohn           7
 Eric Lavallée        5
-Fabien Lemercier     
-Guy Lodge            
+Fabien Lemercier     5
+Guy Lodge            8
 Liu Min              8
 Isabelle Regnier     
 Cédric Succivalli    
@@ -852,19 +852,19 @@ Kate Muir/Wendy Ide  9
 Bo Green Jensen      7.5
 Screen International 9
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
+Nicolas Bell         7
+Christophe Beney     8
 David Calhoun        9
-Per Juul Carlsen     
-#Mike d'Angelo       
+Per Juul Carlsen     8
+#Mike d'Angelo       6
 Carlos F. Heredero   7
-Raffi Asdourian      
+Raffi Asdourian      7
 #Eric Kohn            
 Eric Lavallée        7
-Fabien Lemercier     
+Fabien Lemercier     5
 Guy Lodge            
 Liu Min              10
-Isabelle Regnier     
+Isabelle Regnier     8
 Cédric Succivalli    8
 Blake Williams       7
 #Neil Young          7
@@ -926,6 +926,34 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       6       http://www.critic.de/film/straw-shield-5294/
+# Screen Daily (0-4)
+Nick James           2.5
+David Stratton       5
+Derek Malcolm        5
+Jan Schulz-Ojala     2.5
+Jose Carlos Avellar  1
+Dennis Lim           2.5
+Michel Ciment        5
+Kate Muir/Wendy Ide  2.5
+Bo Green Jensen      2.5
+Screen International 5
+# ioncinema 0-5
+Nicolas Bell         4
+Christophe Beney     4
+David Calhoun        
+Per Juul Carlsen     2
+#Mike d'Angelo       7
+Carlos F. Heredero   6
+Raffi Asdourian      3
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     2
+Guy Lodge            4
+Liu Min              5
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       5
+#Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       7.5
@@ -975,6 +1003,50 @@ Frédéric Jaeger      6       http://jury.critic.de/cannes/
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl               
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         3
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     0
+#Mike d'Angelo       3
+Carlos F. Heredero   4
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     5
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    8
+Blake Williams       5
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
@@ -997,6 +1069,50 @@ Frédéric Jaeger      6       http://jury.critic.de/cannes/
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       6       http://jury.critic.de/cannes/        
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         6
+Christophe Beney     6
+David Calhoun        8
+Per Juul Carlsen     4
+#Mike d'Angelo       6
+Carlos F. Heredero   
+Raffi Asdourian      5
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     6
+Guy Lodge            9
+Liu Min              9
+Isabelle Regnier     5
+Cédric Succivalli    
+Blake Williams       6
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #criticwire
 Jon Frosch           7    http://www.theatlantic.com/entertainment/archive/2013/05/steven-soderberghs-too-gay-liberace-movie-has-arrived-at-cannes/276095/
 Caryn James          9    http://blogs.indiewire.com/carynjames/liberace
@@ -1061,34 +1177,494 @@ Frédéric Jaeger      2.5     http://jury.critic.de/cannes/
 Till Kadritzke       2.5     http://jury.critic.de/cannes/
 Daniel Kasman        
 Michael Kienzl       
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         9
+Christophe Beney     
+David Calhoun        9
+Per Juul Carlsen     8
+#Mike d'Angelo       6
+Carlos F. Heredero   0
+Raffi Asdourian      6
+#Eric Kohn           
+Eric Lavallée        5
+Fabien Lemercier     8
+Guy Lodge            5
+Liu Min              8
+Isabelle Regnier     
+Cédric Succivalli    5
+Blake Williams       6
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #criticwire
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
 Ronald Rovers         8
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
 Eulàlia Iglesias     5
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409865/year/2013.html
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+Carlos F. Heredero   
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme        
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber              
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       
 
 
 UN CERTAIN REGARD
