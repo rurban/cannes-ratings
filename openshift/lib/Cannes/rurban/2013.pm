@@ -78,7 +78,7 @@ Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-revi
 Ryland Aldrich       6        http://www.indiewire.com/film/heli
 Craig Skinner        7        http://www.indiewire.com/film/heli
 Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
-Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
+Michael Sennhauser            http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 # Screen Daily (0-4)
 Nick James           5
 David Stratton       5
@@ -180,11 +180,11 @@ Javier H. Estrada     4.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba        3.5
-Mike d'Angelo        6.6 http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
-Eric Kohn            7   http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
-Kevin Jagernauth     3   http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
-Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
-Jo Ann Titmarsh (FlickeringMyth.com, UK) 4.5 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-jeune.html
+Mike d'Angelo        6.6    http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
+Eric Kohn            7      http://www.indiewire.com/article/cannes-sofia-coppolas-the-bling-ring-and-francois-ozons-young-and-beautiful-find-teens-living-dangerously
+Kevin Jagernauth     3      http://blogs.indiewire.com/theplaylist/review-being-young-beautiful-isnt-easy-in-francois-ozons-latest-20130516
+Michael Sennhauser          http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
+Jo Ann Titmarsh      4.5    http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-jeune.html
 # Screen Daily (0-4)
 Nick James           7.5
 David Stratton       2.5
@@ -430,7 +430,7 @@ Per Juul Carlsen     10
 Carlos F. Heredero   6
 Raffi Asdourian      7
 #Eric Kohn            
-Eric Lavallée        6    http://www.indiewire.com/film/the-past
+Eric Lavallée        6        http://www.indiewire.com/film/the-past
 Fabien Lemercier     9
 Guy Lodge            5
 Liu Min              9
@@ -490,7 +490,7 @@ Boris Nelepo          6.5
 Carlos Reviriego      7
 Fernando Juan Lima    4.5
 Paolo Bertolin        
-Nando Salva           
+Nando Salva           5.5
 Philip Engel          7
 Eugenio Renzi         
 Michal Oleszczyk      
@@ -554,13 +554,13 @@ Pierre Fornerod       2.5
 Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   2.5
-Clementine Gallot    8    http://www.indiewire.com/film/jimmy-picard
-Jon Frosch           4    http://www.indiewire.com/film/jimmy-picard
-Patrick McGavin      7    http://www.indiewire.com/film/jimmy-picard
-Ryland Aldrich       6    http://www.indiewire.com/film/jimmy-picard
-Kevin Jagernauth     3    http://www.indiewire.com/film/jimmy-picard
-Emanuel Levy         6    http://www.indiewire.com/film/jimmy-picard
-Patrick Heidmann     5    http://www.indiewire.com/film/jimmy-picard
+Clementine Gallot    8      http://www.indiewire.com/film/jimmy-picard
+Jon Frosch           4      http://www.indiewire.com/film/jimmy-picard
+Patrick McGavin      7      http://www.indiewire.com/film/jimmy-picard
+Ryland Aldrich       6      http://www.indiewire.com/film/jimmy-picard
+Kevin Jagernauth     3      http://www.indiewire.com/film/jimmy-picard
+Emanuel Levy         6      http://www.indiewire.com/film/jimmy-picard
+Patrick Heidmann     5      http://www.indiewire.com/film/jimmy-picard
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -616,7 +616,7 @@ Christoph Huber      6        http://jury.critic.de/cannes/
 Frédéric Jaeger      7.5      http://jury.critic.de/cannes/
 Till Kadritzke       7.5      http://jury.critic.de/cannes/
 Daniel Kasman        
-Michael Kienzl       6       http://jury.critic.de/cannes/
+Michael Kienzl       6        http://jury.critic.de/cannes/
 # Screen Daily (0-4)
 Nick James           7.5
 David Stratton       5
@@ -674,11 +674,13 @@ Mike d'Angelo        5.2      https://twitter.com/gemko/status/33607560694715596
 Eulàlia Iglesias     3
 Ángel Quintana       4
 José Luis Losa       2.5
+Jaime Pena            4
 Carlos F. Heredero    4
 Cristina Nord         1.5
 Neil Young            7
 Carlos Reviriego      2.5
 Fernando Juan Lima    7
+Nando Salva           4
 Philip Engel          2
 Pablo O. Scholz       6
 Alejandro G. Calvo    3
@@ -771,7 +773,7 @@ Boris Nelepo
 Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
-Nando Salva           
+Nando Salva           9
 Philip Engel          7.5
 Eugenio Renzi         
 Michal Oleszczyk      
@@ -780,7 +782,7 @@ Alejandro G. Calvo    7.5
 Xavi Serra            9
 Guido Castillo        
 Ronald Rovers         
-Javier H. Estrada     
+Javier H. Estrada     6.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         8
@@ -850,7 +852,10 @@ Mike d'Angelo        6.4    http://www.avclub.com/articles/cannes-2013-day-five-
 Diego Batlle          5
 Diego Lerer           6
 Eulàlia Iglesias     4
+Ángel Quintana       5
+José Luis Losa       5.5
 Pedro Butcher         9
+Jaime Pena            6.5
 Carlos F. Heredero    7
 Alexandra Zawia       6
 Alejandro G. Calvo    4
@@ -885,7 +890,10 @@ Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-revi
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
+Ángel Quintana       7.5
+José Luis Losa       4
 Pedro Butcher         6
+Jaime Pena            7.5
 Carlos F. Heredero    4.5
 Fernando Juan Lima    7.5
 
@@ -895,8 +903,14 @@ Alejandro G. Calvo 0
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
-José Luis De Lorenzo  9
+Diego Batlle          5
+Jose Luis De Lorenzo  9
+Ángel Quintana       3
+José Luis Losa       4
+Jaime Pena            4
 Carlos F. Heredero    0.5
+Nando Salva           8.5
+Alejandro G. Calvo    7.5
 Ronald Rovers         9
 Arnaud Hée            1      --- http://jury.critic.de/cannes/
 
@@ -1004,7 +1018,7 @@ Scott Foundas           http://variety.com/2013/film/reviews/cannes-film-review-
 Graham Fuller (Vanity Fair) http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
 Matt Mueller (Thompson on Hollywood, USA) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
-Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
+Michael Sennhauser              http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
 # Criticwire
 Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
 Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
@@ -1085,7 +1099,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
-Jo Ann Titmarsh (FlickeringMyth.com, UK) 8 http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
+Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
 Adam Cook                     
 Arnaud Hée            
@@ -1312,8 +1326,8 @@ Luciano Barisone
 Carlo Chatrian        8
 Violeta Kovacsics     
 Luciano Monteagudo    
-Jaime Pena            
-Rüdiger Suchsland    
+Jaime Pena            6
+Rüdiger Suchsland     
 Carlos F. Heredero    8
 Robert Koehler        8
 Dana Linssen          
@@ -1337,7 +1351,7 @@ Alejandro G. Calvo    9
 Xavi Serra            
 Guido Castillo        8.5
 Ronald Rovers         
-Javier H. Estrada     
+Javier H. Estrada     6.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         6.5
@@ -1354,8 +1368,9 @@ Michael Kienzl       7.5     http://www.critic.de/film/limage-manquante-5582/
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
 Diego Lerer           4
 Ángel Quintana       6
-Guido Castillo        1
 Fernando Juan Lima    2
+Guido Castillo        1
+Javier H. Estrada     7.5
 Christoph Huber      4        http://jury.critic.de/cannes/ 
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
@@ -1365,7 +1380,12 @@ Frédéric Jaeger       4       http://jury.critic.de/cannes/
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
+Roger Koza            5
 Diego Batlle          3
+Diego Lerer           4
+Ángel Quintana       5.5
+José Luis Losa       3
+Jaime Pena            2
 Alexandra Zawia       1.5
 Alejandro G. Calvo    8
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
@@ -1400,6 +1420,7 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
+Ángel Quintana       5.5
 Pedro Butcher         5
 Alexandra Zawia       1
 Alejandro G. Calvo    1.5
@@ -1416,10 +1437,12 @@ Eulàlia Iglesias     8.5
 Ángel Quintana       10
 José Luis Losa       10
 Carlo Chatrian        7.5
+Jaime Pena            10
 Carlos F. Heredero    8
 Robert Koehler        5
 Alexandra Zawia       5
 Ronald Rovers         7.5
+Javier H. Estrada     8.5
 Alvaro Arroba         10
 # critic.de
 Adam Cook             
@@ -1487,7 +1510,7 @@ Javier H. Estrada     3
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         1.5
-Michael Sennhauser (SRF, Suisse) http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
+Michael Sennhauser             http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
 # Le film français 0-4
 Stéphanie Lamome      5
 Arnaud Schwartz       5
@@ -1523,6 +1546,7 @@ Michael Kienzl        4       http://jury.critic.de/cannes/
 MIDNIGHT PROJECTIONS
 
 "MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
+Roger Koza            3
 Alejandro G. Calvo    4
 
 "BLIND DETECTIVE (MAN TAM)" (Johnnie TO) [Out of Competition]
@@ -1530,13 +1554,17 @@ Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-fiv
 Roger Koza            8
 Diego Batlle          4.5
 Diego Lerer           4
-José Luis De Lorenzo  6.5
+Jose Luis De Lorenzo  6.5
+José Luis Losa       3
 Pedro Butcher         7
+Jaime Pena            3.5
 Carlos F. Heredero    3
+Neil Young            4
 Alexandra Zawia       4.5
 Boris Nelepo          8
 Fernando Juan Lima    7
 Alejandro G. Calvo    5.5
+Javier H. Estrada     6
 # critic.de
 Adam Cook             7.5    http://jury.critic.de/cannes/
 Arnaud Hée            4      http://jury.critic.de/cannes/
@@ -1563,6 +1591,7 @@ Javier H. Estrada     6.5
 "SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336076257953464321
 José Luis Losa       7
+Jaime Pena            6
 Rüdiger Suchsland    10
 Alexandra Zawia       4.5
 Xavi Serra            4
@@ -1577,9 +1606,10 @@ Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduc
 
 SEMAINE DE LA CRITIC
 
-"AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
+"AIN'T THEM BODIES SAINTS (LES AMANTS DU TEXAS)" (David Lowery) [Semaine]
   (Sundance)
 Carlo Chatrian        5
+Jaime Pena            6
 Carlos F. Heredero    6.5
 Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
 Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
@@ -1629,12 +1659,15 @@ Robert Koehler        7
 
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 Fernando Ganzo        6
+Neil Young            5.5
 Boris Nelepo          8.5
+Javier H. Estrada     8.5
 Alvaro Arroba         6.5
 # critic.de
 Arnaud Hée            6       http://jury.critic.de/cannes/
 
 "LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
+Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
 Carlo Chatrian        6.5
@@ -1645,7 +1678,8 @@ Pablo O. Scholz       7
 
 "THE MAJOR" (Yury Bykov) [Semaine]
 
-"3x3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
+"3X3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
+Jaime Pena            9
 
 
 QUINZAINE
@@ -1742,11 +1776,13 @@ Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realid
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
+José Luis Losa       6
 Marcelo Alderete      3
 Boris Nelepo          4
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
 Robert Koehler        7.5
+Javier H. Estrada     6.5
 
 "TIP TOP" (Serge Bozon) [Quinzaine]
 Roger Koza            5.5
@@ -1771,12 +1807,16 @@ Michael Kienzl
 "L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
 José Luis Losa       4.5
 Robert Koehler        3.5
+Javier H. Estrada     5
 
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
+Roger Koza            6.5
+Diego Lerer           7
 
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
 
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
+Javier H. Estrada     2.5
 
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
 
@@ -1962,6 +2002,7 @@ Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr. (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
 Jessica Kiang (The Playlist, USA)
+Jo Ann Titmarsh (FlickeringMyth.com, UK)
 Joachim Kurz (Kino-Zeit, Deutschland)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
