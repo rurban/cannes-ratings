@@ -505,7 +505,7 @@ Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           5.5
 Philip Engel          7
-Eugenio Renzi         
+Eugenio Renzi         7.5
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
 Alejandro G. Calvo    5
@@ -516,7 +516,7 @@ Javier H. Estrada     8
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         4
-Fredy Friedlander    4
+Fredy Friedlander     4
 Adam Cook            2.5     http://jury.critic.de/cannes/
 Arnaud Hée           5       http://jury.critic.de/cannes/
 Christoph Huber      6       http://jury.critic.de/cannes/
@@ -596,7 +596,7 @@ Kieron Corless        4.5
 Luciano Barisone      6
 Carlo Chatrian        7.5
 Violeta Kovacsics     8
-Luciano Monteagudo    
+Luciano Monteagudo    6.5
 Jaime Pena            5.5
 Rüdiger Suchsland    8
 Carlos F. Heredero    6.5
@@ -611,7 +611,7 @@ Marcelo Alderete      5
 Alexandra Zawia       5
 Boris Nelepo          4
 Carlos Reviriego      7.5
-Fernando Juan Lima    
+Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8
@@ -824,7 +824,7 @@ Marcelo Alderete
 Alexandra Zawia       7.5
 Boris Nelepo          
 Carlos Reviriego      7.5
-Fernando Juan Lima    
+Fernando Juan Lima    6
 Paolo Bertolin        
 Nando Salva           9
 Philip Engel          7.5
@@ -904,20 +904,52 @@ John Bleasdale       10     http://www.cine-vue.com/2013/05/cannes-film-festival
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
 Mike d'Angelo        6.4    http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
+Roger Koza            
 Diego Batlle          5
 Diego Lerer           6
+Alex Vicente          
+Jose Luis De Lorenzo  6.5
+Cecilia Martinez      4
+Fernando Ganzo        
 Eulàlia Iglesias     4
 Ángel Quintana       5
 José Luis Losa       5.5
 Pedro Butcher         9
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
 Violeta Kovacsics     5
+Luciano Monteagudo    6
 Jaime Pena            6.5
+Rüdiger Suchsland    
 Carlos F. Heredero    7
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       6
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    6.5
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          2.5
+Eugenio Renzi         
+Michal Oleszczyk      
+Pablo O. Scholz       
 Alejandro G. Calvo    4
 Xavi Serra            5
 Guido Castillo        3
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     
 #critic.de
 Adam Cook            9       http://jury.critic.de/cannes/
 Arnaud Hée           4       http://jury.critic.de/cannes/
@@ -980,20 +1012,51 @@ John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festiva
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
 Mike d'Angelo         2.4    https://twitter.com/gemko/status/336812768692957184
+Roger Koza            
 Diego Batlle          7.5
 Diego Lerer           6.5
 Alex Vicente          7
+Jose Luis De Lorenzo  
 Cecilia Martinez      7
+Fernando Ganzo        
 Eulàlia Iglesias     7
 Ángel Quintana       7.5
 José Luis Losa       4
 Pedro Butcher         6
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
 Violeta Kovacsics     4.5
+Luciano Monteagudo    7
 Jaime Pena            7.5
+Rüdiger Suchsland    
 Carlos F. Heredero    4.5
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          
+Carlos Reviriego      
 Fernando Juan Lima    7.5
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          7.5
+Eugenio Renzi         6
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    
+Xavi Serra            
 Guido Castillo        3
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
 Fredy Friedlander     6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook                    
@@ -1058,6 +1121,9 @@ Alex Vicente          6
 Eulàlia Iglesias     6
 Pedro Butcher         6.5
 Carlo Chatrian        5
+Luciano Monteagudo    6.5
+Alexandra Zawia       6
+Fernando Juan Lima    5
 Philip Engel          5
 Alejandro G. Calvo    5
 Guido Castillo        6
@@ -1138,7 +1204,7 @@ Kieron Corless        3.5
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     
-Luciano Monteagudo    
+Luciano Monteagudo    5
 Jaime Pena            4
 Rüdiger Suchsland    
 Carlos F. Heredero    0.5
@@ -1150,10 +1216,10 @@ Paolo Moretti
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      
-Alexandra Zawia       
+Alexandra Zawia       7
 Boris Nelepo          
 Carlos Reviriego      
-Fernando Juan Lima    
+Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           8.5
 Philip Engel          9.5
@@ -1282,7 +1348,13 @@ Michael Kienzl
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
+Jose Luis De Lorenzo  6
+Cecilia Martinez      6.5
 Eulàlia Iglesias     5
+Alexandra Zawia       7
+Boris Nelepo          7
+Eugenio Renzi         5.5
+Alejandro G. Calvo    3
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1702,7 +1774,7 @@ Marcelo Alderete     6.5
 Alexandra Zawia      3
 Boris Nelepo         5.5
 Carlos Reviriego     
-Fernando Juan Lima   
+Fernando Juan Lima   5.5
 Paolo Bertolin       
 Nando Salva          6.5
 Philip Engel        7.5
@@ -1877,7 +1949,7 @@ Fernando Juan Lima    8
 Paolo Bertolin        7.5
 Nando Salva           
 Philip Engel          
-Eugenio Renzi         
+Eugenio Renzi         9.5
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    8
@@ -2042,6 +2114,7 @@ Rüdiger Suchsland     4.5
 Carlos F. Heredero    4.5
 Robert Koehler        7
 Carlos Reviriego      5
+Fernando Juan Lima    4
 Pablo O. Scholz       5
 Javier H. Estrada     5.5
 Adam Cook            5       http://jury.critic.de/cannes/ 
@@ -2064,7 +2137,7 @@ Kieron Corless        6.5
 Luciano Barisone      
 Carlo Chatrian        8
 Violeta Kovacsics     7
-Luciano Monteagudo    
+Luciano Monteagudo    8
 Jaime Pena            6
 Rüdiger Suchsland     
 Carlos F. Heredero    8
@@ -2185,6 +2258,7 @@ José Luis Losa       3
 Jaime Pena            2
 Rüdiger Suchsland    5.5
 Alexandra Zawia       1.5
+Fernando Juan Lima    2
 Alejandro G. Calvo    8
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
@@ -2193,15 +2267,21 @@ Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
 Carlo Chatrian        5
 Rüdiger Suchsland    6
+Fernando Juan Lima    6
 
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
 Diego Batlle          7.5
 Diego Lerer           9
 Alex Vicente          6
+Jose Luis De Lorenzo  3
+Cecilia Martinez      1
 Eulàlia Iglesias     8
 Violeta Kovacsics     9
-Boris Nelepo          3
+Luciano Monteagudo    8.5
+Alexandra Zawia       9
+Boris Nelepo          2
+Fernando Juan Lima    7.5
 Philip Engel          8
 Guido Castillo        8
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -2215,6 +2295,9 @@ Michael Kienzl
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
+Jose Luis De Lorenzo  2
+Cecilia Martinez      6
+Fernando Juan Lima    6
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
@@ -2265,7 +2348,7 @@ Kieron Corless
 Luciano Barisone      
 Carlo Chatrian        7.5
 Violeta Kovacsics     
-Luciano Monteagudo    
+Luciano Monteagudo    9
 Jaime Pena            10
 Rüdiger Suchsland    7.5
 Carlos F. Heredero    8
@@ -2422,7 +2505,7 @@ Kieron Corless
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     
-Luciano Monteagudo    
+Luciano Monteagudo    4
 Jaime Pena            3.5
 Rüdiger Suchsland    3.5
 Carlos F. Heredero    3
