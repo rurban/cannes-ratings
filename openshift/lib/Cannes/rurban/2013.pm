@@ -561,6 +561,7 @@ Ryland Aldrich       6      http://www.indiewire.com/film/jimmy-picard
 Kevin Jagernauth     3      http://www.indiewire.com/film/jimmy-picard
 Emanuel Levy         6      http://www.indiewire.com/film/jimmy-picard
 Patrick Heidmann     5      http://www.indiewire.com/film/jimmy-picard
+John Bleasdale       4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jimmy-p.html
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -667,6 +668,7 @@ Jon Frosch           5        http://cannesreport.blogs.france24.com/article/201
 Patrick McGavin      5        http://www.indiewire.com/film/like-father-like-son
 Ryland Aldrich       7        http://www.indiewire.com/film/like-father-like-son
 Kevin Jagernauth     8        http://blogs.indiewire.com/theplaylist/cannes-review-like-father-like-son-a-tender-loving-portrait-of-parenthood-20130518
+John Bleasdale       8        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-like-father.html
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -737,6 +739,7 @@ Christophe Carriére   7.5
 Jessica Kiang         8       http://blogs.indiewire.com/theplaylist/cannes-review-borgman-delivers-a-deliciously-dark-twisted-cannes-competition-treat-20130519
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
 Clementine Gallot     1.5     http://www.indiewire.com/film/borgman
+John Bleasdale        8       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-borgman-review.html
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -845,6 +848,7 @@ Eric Kohn            8      http://www.indiewire.com/film/inside-llewyn-davis
 Ryland Aldrich       8      http://www.indiewire.com/film/inside-llewyn-davis
 Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 Jo Ann Titmarsh      10     http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-inside.html
+John Bleasdale       10     http://www.cine-vue.com/2013/05/cannes-film-festival-2013-inside-llewyn.html
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
@@ -886,6 +890,7 @@ Danielle Attali
 Christophe Carriére   
 # criticwire
 Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
+John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
 
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
@@ -1174,13 +1179,15 @@ Pascal Merigeau
 Danielle Attali       1
 Christophe Carriére   
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
+#critic.de
 Adam Cook            6       http://jury.critic.de/cannes/
 Arnaud Hée 
 Christoph Huber 
 Frédéric Jaeger      7.5     http://www.critic.de/film/linconnu-du-lac-5580/
 Till Kadritzke 
 Daniel Kasman 
-Michael Kienzl 
+Michael Kienzl
+John Bleasdale       4       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-stranger-by.html
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
@@ -1216,6 +1223,7 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       
+John Bleasdale        4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-miele-review.html
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
@@ -1290,6 +1298,7 @@ Daniel Kasman
 Michael Kienzl       6      http://jury.critic.de/cannes/ 
 Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
 Jessica Kiang        7      http://blogs.indiewire.com/theplaylist/cannes-review-grand-central-weaves-a-lyrical-tale-of-love-and-radiation-around-tahar-rahim-lea-seydoux-20130519
+John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-grand-central.html
 
 
 "BENDS" (Flora LAU) [Un Certain Regard]
@@ -2007,6 +2016,7 @@ Jessica Kiang (The Playlist, USA)
 Jo Ann Titmarsh (FlickeringMyth.com, UK)
 Joachim Kurz (Kino-Zeit, Deutschland)
 Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
+John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Raup (The Film Stage, USA)
