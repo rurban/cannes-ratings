@@ -1527,8 +1527,8 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       5
 Christophe Carriére   2.5
-Craig Williams (Cine Vue, ?) 2 	http://www.indiewire.com/film/the-great-gatsby
-Fico Cangiano (CineXpress, ?) 4
+Craig Williams        2 	http://www.indiewire.com/film/the-great-gatsby
+Fico Cangiano         4
 Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
@@ -1983,6 +1983,7 @@ Brian Brooks (indieWIRE, USA)
 Chris Knipp (Filmleaf, USA)
 Clementine Gallot (Cahiers du cinema, France)
 Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool, UK)
+Craig Williams (Cine Vue, UK)
 David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
@@ -1998,6 +1999,7 @@ Emanuel Levy (EmanuelLevy.com, USA)
 Eric D. Snider (Film.com, USA)
 Eugene Hernandez (Film Society of Lincoln Center, USA) 
 Ethan Anderton (FirstShowing.net, USA)
+Fico Cangiano (CineXpress, Puerto Rico)
 Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr. (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
