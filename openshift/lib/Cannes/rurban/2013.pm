@@ -928,20 +928,20 @@ Daniel Kasman
 Michael Kienzl       6       http://www.critic.de/film/straw-shield-5294/
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
-Eric Neuhoff          
+Eric Neuhoff          1
 Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
+Thomas Sotinel        5
+Philippe Rouyer       5
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       1
+Christophe Carriére   1
 # criticwire
 Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
 Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
@@ -1527,6 +1527,22 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        6       http://jury.critic.de/cannes/ 
 Michael Kienzl       7.5     http://www.critic.de/film/limage-manquante-5582/
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       9
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       9
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        9
+Pierre Fornerod       
+Pascal Merigeau       9
+Danielle Attali       
+Christophe Carriére   
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
@@ -1537,12 +1553,44 @@ Fernando Juan Lima    2
 Guido Castillo        1
 Javier H. Estrada     7.5
 Christoph Huber      4        http://jury.critic.de/cannes/ 
+# Le film français 0-4
+Stéphanie Lamome      2.5
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      2.5
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 Jose Luis De Lorenzo  5
 Guido Castillo        7
 Ronald Rovers         6
+# Le film français 0-4
+Stéphanie Lamome      7.5
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        5
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Frédéric Jaeger       4       http://jury.critic.de/cannes/
 Jon Frosch            6       http://www.indiewire.com/film/omar
 Ryland Aldrich        7       http://www.indiewire.com/film/omar
@@ -1846,7 +1894,7 @@ Carlo Chatrian        7.5
 
 "OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
 José Luis Losa       6.5
-Neil Young            5       http://www.jigsawlounge.co.uk/film/reviews/canas13/ 
+Neil Young            5       http://www.hollywoodreporter.com/review/bite-dust-otdat-konci-cannes-524958
 Fernando Juan Lima    2
 Pablo O. Scholz       4
 Javier H. Estrada     6.5
@@ -1988,7 +2036,7 @@ Eulàlia Iglesias     6.5
 Ángel Quintana       5.5
 Kieron Corless        5
 Jaime Pena            5
-Neil Young            6.5        http://www.jigsawlounge.co.uk/film/reviews/canas13/
+Neil Young            6.5        http://www.hollywoodreporter.com/review/selfish-giant-cannes-review-524549
 Guido Castillo        8
 Ronald Rovers         7.5
 Javier H. Estrada     4
