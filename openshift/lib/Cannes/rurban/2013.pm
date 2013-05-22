@@ -1016,7 +1016,7 @@ Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-revi
 Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
 Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
 John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
-
+Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-2013-review-shield-of-straw.php
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1119,6 +1119,7 @@ Pierre Fornerod       5
 Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+Shaun Munro           3       http://www.filmschoolrejects.com/reviews/cannes-2013-review-a-castle-in-italy-is-decent-drama-elevated-by-central-performance.php
 
 "BEHIND THE CANDELABRA (Ma vie avec Liberace)" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
@@ -1229,6 +1230,8 @@ Caryn James          9    http://blogs.indiewire.com/carynjames/liberace
 Craig Skinner        9    http://http//www.heyuguys.co.uk/cannes-2013-behind-the-candelabra-review/
 Ryland Aldrich       6    http://twitchfilm.com/2013/05/cannes-2013-review-behind-the-candelabra.html
 Kirk Honeycott       8    http://honeycuttshollywood.com/behind-candelabra-review/
+Shaun Munro          7    http://www.filmschoolrejects.com/reviews/cannes-2013-review-behind-the-candelabra.php
+
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
@@ -2450,6 +2453,8 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+#
+Shaun Munro           6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-sarah-prefers-to-run.php
 
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
@@ -2528,6 +2533,7 @@ Michael Kienzl       7.5      http://www.critic.de/film/les-salauds-5560/
 Alex Billington      8        http://www.indiewire.com/film/les-salauds
 Eric Kohn            3        http://www.indiewire.com/film/les-salauds
 Jessica Kiang        5        http://www.indiewire.com/film/les-salauds
+Shaun Munro          1        http://www.filmschoolrejects.com/reviews/cannes-2013-review-bastards.php
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
@@ -2565,6 +2571,7 @@ Christophe Carriére
 Till Kadritzke        5
 # criticwire
 Clementine Gallot     6       http://www.indiewire.com/film/wakolda
+Shaun Munro           1       http://www.filmschoolrejects.com/reviews/cannes-2013-review-wakolda.php
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
@@ -2631,6 +2638,7 @@ Till Kadritzke       5       http://www.critic.de/film/blood-ties-5588/
 # criticwire
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
 Ryland Aldrich       7       http://www.indiewire.com/film/blood-ties
+Shaun Munro           3      http://www.filmschoolrejects.com/reviews/cannes-2013-review-blood-ties.php
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 Roger Koza            
@@ -2787,6 +2795,7 @@ Alejandro G. Calvo    4
 #criticwire
 Craig Skinner         1      http://www.indiewire.com/film/monsoon-shootout
 Ryland Aldrich        5      http://www.indiewire.com/film/monsoon-shootout
+Shaun Munro           1      http://www.filmschoolrejects.com/reviews/cannes-2013-review-monsoon-shootout.php
 
 "BLIND DETECTIVE (MAN TAM)" (Johnnie TO) [Out of Competition]
 Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
@@ -2845,6 +2854,7 @@ Till Kadritzke
 Daniel Kasman         9      
 Michael Kienzl
 Craig Skinner         5      http://www.indiewire.com/film/blind-detective
+Shaun Munro           0.5    http://www.filmschoolrejects.com/reviews/cannes-2013-review-blind-detective.php
 
 SPECIAL SCREENINGS
 
