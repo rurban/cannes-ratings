@@ -63,7 +63,7 @@ Fernando Juan Lima   5
 Paolo Bertolin       
 Nando Salva          4
 Philip Engel        7
-Eugenio Renzi        
+Antoine Thirion        
 Michal Oleszczyk     7.5
 Pablo O. Scholz      4.5
 Alejandro G. Calvo   4
@@ -166,7 +166,7 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      4
 Alexandra Zawia       6.5
 Boris Nelepo          3
 Carlos Reviriego      6.5
@@ -174,7 +174,7 @@ Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7.5
 Philip Engel          7.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      6.5
 Pablo O. Scholz       6
 Alejandro G. Calvo    5.5
@@ -286,7 +286,7 @@ Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           6.5
 Philip Engel          7.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      8.5
 Pablo O. Scholz       5
 Alejandro G. Calvo    4
@@ -393,7 +393,7 @@ Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           8
 Philip Engel          6.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
 Alejandro G. Calvo    4.5
@@ -491,7 +491,7 @@ Jaime Pena            8.5
 Rüdiger Suchsland    
 Carlos F. Heredero    9
 Robert Koehler        7
-Dana Linssen          
+Dana Linssen          5.5
 Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
@@ -505,7 +505,7 @@ Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           5.5
 Philip Engel          7
-Eugenio Renzi         7.5
+Antoine Thirion       7.5
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
 Alejandro G. Calvo    5
@@ -615,7 +615,7 @@ Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
@@ -709,7 +709,7 @@ Jaime Pena            4
 Rüdiger Suchsland    
 Carlos F. Heredero    4
 Robert Koehler        
-Dana Linssen          
+Dana Linssen          7.5
 Cristina Nord         1.5
 Francisco Ferreira    
 Paolo Moretti         
@@ -723,7 +723,7 @@ Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           4
 Philip Engel          2
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       6
 Alejandro G. Calvo    3
@@ -834,7 +834,7 @@ Fernando Juan Lima    6
 Paolo Bertolin        
 Nando Salva           9
 Philip Engel          7.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
@@ -932,12 +932,12 @@ Rüdiger Suchsland
 Carlos F. Heredero    7
 Robert Koehler        
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         7
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      4
 Alexandra Zawia       6
 Boris Nelepo          
 Carlos Reviriego      
@@ -945,7 +945,7 @@ Fernando Juan Lima    6.5
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          2.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    4
@@ -1040,7 +1040,7 @@ Rüdiger Suchsland
 Carlos F. Heredero    4.5
 Robert Koehler        
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         7.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -1048,7 +1048,7 @@ Scott Foundas
 Marcelo Alderete      
 Alexandra Zawia       
 Boris Nelepo          
-Carlos Reviriego      
+Carlos Reviriego      5.5
 Fernando Juan Lima    7.5
 Paolo Bertolin        
 Nando Salva           
@@ -1125,15 +1125,48 @@ Roger Koza            5.5
 Diego Batlle          6.5
 Diego Lerer           6.5
 Alex Vicente          6
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
 Eulàlia Iglesias     6
+Ángel Quintana       6
+José Luis Losa       7.5
 Pedro Butcher         6.5
+Kieron Corless        
+Luciano Barisone      
 Carlo Chatrian        5
+Violeta Kovacsics     
 Luciano Monteagudo    6.5
+Jaime Pena            5
+Rüdiger Suchsland    
+Carlos F. Heredero    5
+Robert Koehler        
+Dana Linssen          5.5
+Cristina Nord         7
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       6
+Boris Nelepo          
+Carlos Reviriego      5.5
 Fernando Juan Lima    5
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          5
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       
 Alejandro G. Calvo    5
+Xavi Serra            
 Guido Castillo        6
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5     
 Arnaud Hée           
@@ -1225,12 +1258,12 @@ Scott Foundas
 Marcelo Alderete      
 Alexandra Zawia       7
 Boris Nelepo          
-Carlos Reviriego      
+Carlos Reviriego      8
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           8.5
 Philip Engel          9.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    9.5
@@ -1299,6 +1332,12 @@ Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
+Mike d'Angelo         1.7     https://twitter.com/gemko/status/337169804937023488
+Diego Batlle          5.5
+Violeta Kovacsics     7.5
+Carlos F. Heredero    5
+Neil Young            4
+Carlos Reviriego      7.5
 Ronald Rovers         8
 # Screen Daily (0-4)
 Nick James           
@@ -1355,13 +1394,53 @@ Michael Kienzl
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
+Mike d'Angelo         4.8     https://twitter.com/gemko/status/336975857224663040
+Roger Koza            6.5
+Diego Batlle          5.5
+Diego Lerer           
+Alex Vicente          
 Jose Luis De Lorenzo  6
 Cecilia Martinez      6.5
+Fernando Ganzo        
 Eulàlia Iglesias     5
+Ángel Quintana       5
+José Luis Losa       
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        5.5
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            5
+Rüdiger Suchsland    
+Carlos F. Heredero    5
+Robert Koehler        8.5
+Dana Linssen          7.5
+Cristina Nord         7
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            7
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       7
 Boris Nelepo          7
-Eugenio Renzi         5.5
+Carlos Reviriego      6
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Antoine Thirion       5.5
+Michal Oleszczyk      
+Pablo O. Scholz       
 Alejandro G. Calvo    3
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     5.5
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1785,7 +1864,7 @@ Fernando Juan Lima   5.5
 Paolo Bertolin       
 Nando Salva          6.5
 Philip Engel        7.5
-Eugenio Renzi        
+Antoine Thirion        
 Michal Oleszczyk     2
 Pablo O. Scholz      5.5
 Alejandro G. Calvo   7
@@ -1879,7 +1958,7 @@ Fernando Juan Lima   4
 Paolo Bertolin       
 Nando Salva          1
 Philip Engel        2.5
-Eugenio Renzi        
+Antoine Thirion        
 Michal Oleszczyk     
 Pablo O. Scholz      6
 Alejandro G. Calvo   4
@@ -2056,7 +2135,7 @@ Jaime Pena            8
 Rüdiger Suchsland    8.5
 Carlos F. Heredero    7
 Robert Koehler        2
-Dana Linssen          
+Dana Linssen          6
 Cristina Nord         7
 Francisco Ferreira    
 Paolo Moretti         
@@ -2070,7 +2149,7 @@ Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          9
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
 Alejandro G. Calvo    6.5
@@ -2150,7 +2229,7 @@ Rüdiger Suchsland
 Carlos F. Heredero    8
 Robert Koehler        8
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         8.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -2163,7 +2242,7 @@ Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7.5
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       8
 Alejandro G. Calvo    9
@@ -2204,6 +2283,7 @@ Christophe Carriére
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
 Diego Lerer           4
 Ángel Quintana       6
+Jaime Pena            3
 Rüdiger Suchsland    2
 Fernando Juan Lima    2
 Guido Castillo        1
@@ -2229,6 +2309,7 @@ Christophe Carriére
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 Jose Luis De Lorenzo  5
+Dana Linssen          6
 Guido Castillo        7
 Ronald Rovers         6
 # Le film français 0-4
@@ -2264,7 +2345,9 @@ Cecilia Martinez      1
 José Luis Losa       3
 Jaime Pena            2
 Rüdiger Suchsland    5.5
+Marcelo Alderete      1.5
 Alexandra Zawia       1.5
+Carlos Reviriego      6.5
 Fernando Juan Lima    2
 Alejandro G. Calvo    8
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
@@ -2275,25 +2358,61 @@ Kevin Jagernauth      3       http://www.indiewire.com/film/as-i-lay-dying
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
+José Luis Losa       5.5
 Carlo Chatrian        5
 Rüdiger Suchsland    6
+Robert Koehler        2.5
 Fernando Juan Lima    6
 
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
+Mike d'Angelo         6.3     https://twitter.com/gemko/status/336976294615068675
+Roger Koza            8.5
 Diego Batlle          7.5
 Diego Lerer           9
 Alex Vicente          6
 Jose Luis De Lorenzo  3
 Cecilia Martinez      1
+Fernando Ganzo        
 Eulàlia Iglesias     8
+Ángel Quintana       8.5
+José Luis Losa       6
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
 Violeta Kovacsics     9
 Luciano Monteagudo    8.5
+Jaime Pena            9.5
+Rüdiger Suchsland    
+Carlos F. Heredero    6.5
+Robert Koehler        8.5
+Dana Linssen          8.5
+Cristina Nord         6.5
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      8
 Alexandra Zawia       9
 Boris Nelepo          2
+Carlos Reviriego      6
 Fernando Juan Lima    7.5
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          8
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    
+Xavi Serra            
 Guido Castillo        8
+Ronald Rovers         
+Javier H. Estrada     8.5
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook                    
 Arnaud Hée                   
@@ -2305,9 +2424,19 @@ Michael Kienzl
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
+Roger Koza            6
+Diego Batlle          7
+Diego Lerer           6.5
 Jose Luis De Lorenzo  2
 Cecilia Martinez      6
+Ángel Quintana       4
+Carlos F. Heredero    5.5
+Robert Koehler        7
+Cristina Nord         2.5
+Carlos Reviriego      3.5
 Fernando Juan Lima    6
+Alejandro G. Calvo    2.5
+Javier H. Estrada     3.5
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
@@ -2327,6 +2456,10 @@ Fernando Juan Lima    6
 OUT OF COMPETITION
 
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
+Mike d'Angelo         7.4     https://twitter.com/gemko/status/337170891639246848
+Diego Batlle          5.5
+Carlos F. Heredero    6
+Carlos Reviriego      5.5
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 Alex Vicente          5
@@ -2365,7 +2498,7 @@ Rüdiger Suchsland    7.5
 Carlos F. Heredero    8
 Robert Koehler        5
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -2378,7 +2511,7 @@ Fernando Juan Lima
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    
@@ -2445,7 +2578,7 @@ Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7
 Philip Engel          4
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       5
 Alejandro G. Calvo    6.5
@@ -2527,15 +2660,15 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            4
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      9
 Alexandra Zawia       4.5
 Boris Nelepo          8
-Carlos Reviriego      
+Carlos Reviriego      5
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7
-Eugenio Renzi         
+Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    5.5
@@ -2585,6 +2718,7 @@ Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
+Neil Young            6.5
 
 "MAX ROSE" (Daniel NOAH) [Special Screening]
 
@@ -2644,9 +2778,11 @@ Robert Koehler        4
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
 Carlo Chatrian        6.5
 Robert Koehler        7
+Dana Linssen          4.5
 
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 Fernando Ganzo        6
+Carlo Chatrian        5
 Neil Young            5.5
 Boris Nelepo          8.5
 Javier H. Estrada     8.5
@@ -2660,11 +2796,16 @@ Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
 Carlo Chatrian        6.5
+Jaime Pena            6.5
 Robert Koehler        6.5
 Fernando Juan Lima    7.5
 Pablo O. Scholz       7
 
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
+Roger Koza            4
+José Luis Losa       2.5
+Robert Koehler        4.5
+Javier H. Estrada     5
 
 "THE MAJOR" (Yury Bykov) [Semaine]
 
@@ -2805,6 +2946,7 @@ Michael Kienzl
 José Luis Losa       4.5
 Carlo Chatrian        6.5
 Robert Koehler        3.5
+Dana Linssen          5.5
 Javier H. Estrada     5
 
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
@@ -2813,6 +2955,7 @@ Diego Lerer           7
 Robert Koehler        4.5
 
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
+Carlo Chatrian        4
 Robert Koehler        6.5
 Arnaud Hée            5       
 
@@ -2823,11 +2966,18 @@ Javier H. Estrada     2.5
 Arnaud Hée            2.5       
 
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
+José Luis Losa       2
+Robert Koehler        1.5
+Javier H. Estrada     4
 
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
   (Sundance Midnight)
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
 Eulàlia Iglesias     6.5
+Ángel Quintana       6.5
+José Luis Losa       3
+Dana Linssen          3.5
+Javier H. Estrada     4.5
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 
@@ -2840,6 +2990,7 @@ Arnaud Hée            5
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
+Carlo Chatrian        4.5
 Fredy Friedlander     1
 Sebastian Doggart (Guardian, UK) 6 http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
 Russ Fischer (slashfilm.com, USA) 7
@@ -2865,6 +3016,7 @@ Alejandro G. Calvo (Sensacine, España)
 Alex Vicente (Público, España) 
 Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria)
 Ángel Quintana (Cahiers du cinema Espana, España)
+Antoine Thirion (?, France)
 Boris Nelepo (Kinote daily, Russia)
 Carlo Chatrian (Duellanti, Panoramiches, Italy) 
 Carlos Heredero (Caimán CDC, España) 
