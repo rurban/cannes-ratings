@@ -899,6 +899,8 @@ Till Kadritzke
 Daniel Kasman
 Michael Kienzl
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
+# criticwire
+Alex Billington      9       http://www.indiewire.com/film/la-danza-de-la-realidad
 Clementine Gallot    9      http://www.indiewire.com/film/inside-llewyn-davis
 Jon Frosch           9      http://www.indiewire.com/film/inside-llewyn-davis
 Kevin Jagernauth     9      http://www.indiewire.com/film/inside-llewyn-davis
@@ -1219,7 +1221,9 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
-#criticwire
+# criticwire
+Alex Billington      7    http://www.indiewire.com/film/behind-the-candelabra
+Kevin Jagernauth     7    http://www.indiewire.com/film/behind-the-candelabra
 Jon Frosch           7    http://www.theatlantic.com/entertainment/archive/2013/05/steven-soderberghs-too-gay-liberace-movie-has-arrived-at-cannes/276095/
 Caryn James          9    http://blogs.indiewire.com/carynjames/liberace
 Craig Skinner        9    http://http//www.heyuguys.co.uk/cannes-2013-behind-the-candelabra-review/
@@ -1395,6 +1399,11 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       
+# criticwire
+Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
+Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
+Eric Kohn             3       http://www.indiewire.com/film/only-god-forgives
+Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -2462,6 +2471,10 @@ Frédéric Jaeger      7.5
 Till Kadritzke       9       
 Daniel Kasman        7       
 Michael Kienzl               
+# criticwire
+Alex Billington      8        http://www.indiewire.com/film/les-salauds
+Eric Kohn            3        http://www.indiewire.com/film/les-salauds
+Jessica Kiang        5        http://www.indiewire.com/film/les-salauds
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
@@ -2479,6 +2492,8 @@ Fernando Juan Lima    6
 Pablo O. Scholz       7
 Alejandro G. Calvo    2.5
 Javier H. Estrada     3.5
+# criticwire
+Clementine Gallot     6       http://www.indiewire.com/film/wakolda
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
@@ -2486,6 +2501,8 @@ Diego Batlle          6
 Diego Lerer           6
 Jose Luis De Lorenzo  5
 Carlos F. Heredero    7
+# criticwire
+Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
@@ -2507,6 +2524,9 @@ Diego Batlle          5.5
 Diego Lerer           6.5
 Carlos F. Heredero    6
 Carlos Reviriego      5.5
+# criticwire
+Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
+Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 Alex Vicente          5
@@ -2759,8 +2779,10 @@ Rüdiger Suchsland    10
 Alexandra Zawia       4.5
 Xavi Serra            4
 Alvaro Arroba         5.5
-Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
+# criticwire
+Alex Billington      3       http://www.indiewire.com/film/seduced-abandoned
 Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
+Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 
@@ -2951,10 +2973,12 @@ Rüdiger Suchsland    10
 Marcelo Alderete      1
 Boris Nelepo          7.5
 Alvaro Arroba         3.5
-Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Christoph Huber      9       
 Daniel Kasman        6       
-Michael Kienzl       5       
+Michael Kienzl       5
+# criticwire       
+Alex Billington      5       http://www.indiewire.com/film/la-danza-de-la-realidad
+Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
@@ -2963,6 +2987,8 @@ Eulàlia Iglesias     5.5
 José Luis Losa       6
 Marcelo Alderete      3
 Boris Nelepo          4
+# criticwire
+Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
 Robert Koehler        7.5
