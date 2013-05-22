@@ -979,7 +979,7 @@ Kate Muir/Wendy Ide  2.5
 Bo Green Jensen      2.5
 Screen International 5
 # ioncinema 0-5
-Nicolas Bell         4
+Nicolas Bell         4        http://www.ioncinema.com/reviews/shield-of-straw-review
 Christophe Beney     4
 David Calhoun        
 Per Juul Carlsen     2
@@ -998,7 +998,7 @@ Blake Williams       5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       7.5
-Fabrice Leclerc       
+Fabrice Leclerc       1
 Eric Neuhoff          1
 Stéphane Delorme         
 Thomas Sotinel        5
@@ -1104,23 +1104,23 @@ Cédric Succivalli    8
 Blake Williams       5
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      7.5
+Arnaud Schwartz       2.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          7.5
+Stéphane Delorme      1
+Thomas Sotinel        2.5
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          5
+Jean Roy              2.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       7.5
+Christophe Carriére   2.5
 
-"BEHIND THE CANDELABRA" (Steven SODERBERGH) [Competition]
+"BEHIND THE CANDELABRA (Ma vie avec Liberace)" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
 Mike d'Angelo         5.5     https://twitter.com/gemko/status/336811426758938624
 Roger Koza            5.5
@@ -1189,7 +1189,7 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         6
+Nicolas Bell         6        http://www.ioncinema.com/reviews/behind-the-candelabra-review
 Christophe Beney     6
 David Calhoun        8
 Per Juul Carlsen     4
@@ -1206,21 +1206,21 @@ Cédric Succivalli
 Blake Williams       6
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      5
+Arnaud Schwartz       5
+Fabrice Leclerc       9
+Eric Neuhoff          7.5
+Stéphane Delorme      
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          2.5
+Jean Roy              7.5
+Serge Kaganski        7.5
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       7.5
+Christophe Carriére   7.5
 # criticwire
 Alex Billington      7    http://www.indiewire.com/film/behind-the-candelabra
 Kevin Jagernauth     7    http://www.indiewire.com/film/behind-the-candelabra
@@ -1316,21 +1316,21 @@ Cédric Succivalli    5
 Blake Williams       6
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      7.5
+Arnaud Schwartz       9
 Fabrice Leclerc       
-Eric Neuhoff          
+Eric Neuhoff          5
 Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
+Thomas Sotinel        2.5
+Philippe Rouyer       5
+Pierre Vavasseur      9
+Pierre Murat          9
+Jean Roy              5
 Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Pierre Fornerod       7.5
+Pascal Merigeau       2.5
+Danielle Attali       5
+Christophe Carriére   7.5
 #criticwire
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 
@@ -1903,7 +1903,7 @@ Stéphane Delorme      2.5
 Thomas Sotinel        7.5
 Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          5
+Pierre Murat          2.5
 Jean Roy              
 Serge Kaganski        5
 Pierre Fornerod       5
@@ -2067,7 +2067,7 @@ Alvaro Arroba         7.5
 Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      9
-Arnaud Schwartz       
+Arnaud Schwartz       2.5
 Fabrice Leclerc       7.5
 Eric Neuhoff          5
 Stéphane Delorme      7.5   
@@ -2077,8 +2077,8 @@ Pierre Vavasseur
 Pierre Murat          7.5
 Jean Roy              5
 Serge Kaganski        9
-Pierre Fornerod       
-Pascal Merigeau       
+Pierre Fornerod       1
+Pascal Merigeau       5
 Danielle Attali       1
 Christophe Carriére   
 Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
@@ -2106,21 +2106,22 @@ Alexandra Zawia       4
 Fernando Juan Lima    3.5
 Fredy Friedlander     7
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      5
+Arnaud Schwartz       5
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme         
 Thomas Sotinel        5
 Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
+Pierre Murat          5
+Jean Roy              5
 Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
+Pierre Fornerod       2.5
+Pascal Merigeau       5
 Danielle Attali       
 Christophe Carriére   
+# 
 Adam Cook            2.5     
 Arnaud Hée           
 Christoph Huber      
@@ -2128,6 +2129,7 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       
+#
 John Bleasdale        4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-miele-review.html
 
 "GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
@@ -2180,19 +2182,19 @@ Pamela Bienzobas
 Alvaro Arroba         
 Fredy Friedlander     9
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
+Stéphanie Lamome      7.5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       9
+Eric Neuhoff          5
+Stéphane Delorme      7.5  
+Thomas Sotinel        7.5
+Philippe Rouyer       5
 Pierre Vavasseur      
 Pierre Murat          
 Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       5
 Danielle Attali       
 Christophe Carriére   
 Adam Cook            2.5    
@@ -2332,7 +2334,7 @@ Guido Castillo        7
 Ronald Rovers         6
 # Le film français 0-4
 Stéphanie Lamome      7.5
-Arnaud Schwartz       
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme         
@@ -2399,6 +2401,23 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Fredy Friedlander     
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          5
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+#
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
 Boyd van Hoeij        7       http://www.indiewire.com/film/as-i-lay-dying
@@ -2413,6 +2432,22 @@ Carlo Chatrian        5
 Rüdiger Suchsland    6
 Robert Koehler        2.5
 Fernando Juan Lima    6
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        5
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          1
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
@@ -2463,6 +2498,22 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Fredy Friedlander     
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5        
 Arnaud Hée                   
@@ -2492,6 +2543,22 @@ Fernando Juan Lima    6
 Pablo O. Scholz       7
 Alejandro G. Calvo    2.5
 Javier H. Estrada     3.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Till Kadritzke        5
 # criticwire
@@ -2503,6 +2570,22 @@ Diego Batlle          6
 Diego Lerer           6
 Jose Luis De Lorenzo  5
 Carlos F. Heredero    7
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme         
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Till Kadritzke        4
 # criticwire
