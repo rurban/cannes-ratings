@@ -1071,7 +1071,7 @@ Fredy Friedlander     6
 Adam Cook                    
 Arnaud Hée           4       
 Christoph Huber              
-Frédéric Jaeger      6       
+Frédéric Jaeger      6       http://www.critic.de/film/un-chateau-en-italie-5544/
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl               
@@ -1172,10 +1172,10 @@ Fredy Friedlander
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5     
 Arnaud Hée           
-Christoph Huber              
-Frédéric Jaeger      6       
+Christoph Huber      6        
+Frédéric Jaeger      6       http://www.critic.de/film/behind-the-candelabra-5501/
 Till Kadritzke       
-Daniel Kasman        
+Daniel Kasman        6
 Michael Kienzl       6               
 # Screen Daily (0-4)
 Nick James           
@@ -1394,11 +1394,11 @@ Christophe Carriére
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           
-Christoph Huber              
-Frédéric Jaeger      
-Till Kadritzke       
-Daniel Kasman        
-Michael Kienzl       
+Christoph Huber      7.5        
+Frédéric Jaeger      7.5
+Till Kadritzke       1
+Daniel Kasman        1
+Michael Kienzl       5
 # criticwire
 Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
 Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
@@ -1499,13 +1499,13 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook            
+Adam Cook            6
 Arnaud Hée           
 Christoph Huber              
 Frédéric Jaeger      
-Till Kadritzke       
+Till Kadritzke       4
 Daniel Kasman        
-Michael Kienzl       
+Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
@@ -2464,13 +2464,13 @@ Pamela Bienzobas
 Alvaro Arroba         
 Fredy Friedlander     
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                    
+Adam Cook            7.5        
 Arnaud Hée                   
 Christoph Huber              
 Frédéric Jaeger      7.5     
 Till Kadritzke       9       
-Daniel Kasman        7       
-Michael Kienzl               
+Daniel Kasman        7.5       
+Michael Kienzl       7.5      http://www.critic.de/film/les-salauds-5560/
 # criticwire
 Alex Billington      8        http://www.indiewire.com/film/les-salauds
 Eric Kohn            3        http://www.indiewire.com/film/les-salauds
@@ -2492,6 +2492,8 @@ Fernando Juan Lima    6
 Pablo O. Scholz       7
 Alejandro G. Calvo    2.5
 Javier H. Estrada     3.5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Till Kadritzke        5
 # criticwire
 Clementine Gallot     6       http://www.indiewire.com/film/wakolda
 
@@ -2501,6 +2503,8 @@ Diego Batlle          6
 Diego Lerer           6
 Jose Luis De Lorenzo  5
 Carlos F. Heredero    7
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Till Kadritzke        4
 # criticwire
 Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
 
