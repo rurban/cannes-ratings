@@ -2331,7 +2331,8 @@ Alvaro Arroba         3.5
 Fredy Friedlander     6
 # critic.de
 Frédéric Jaeger      4       http://jury.critic.de/cannes/
-Till Kadritzke               http://www.critic.de/film/blood-ties-5588/
+Till Kadritzke       5       http://www.critic.de/film/blood-ties-5588/
+# criticwire
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
 Ryland Aldrich       7       http://www.indiewire.com/film/blood-ties
 
