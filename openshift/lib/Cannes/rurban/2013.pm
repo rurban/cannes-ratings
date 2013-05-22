@@ -1333,6 +1333,7 @@ Danielle Attali       5
 Christophe Carriére   7.5
 #criticwire
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
+Shaun Munro          6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-the-great-beauty-is-a-sight-for-sore-eyes.php
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -1402,7 +1403,7 @@ Michael Kienzl       5
 # criticwire
 Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
 Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
-Eric Kohn             3       http://www.indiewire.com/film/only-god-forgives
+Eric Kohn             3       http://www.indiewire.com/article/cannes-how-only-god-forgives-suggests-ryan-goslings-schtick-has-worn-thin
 Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
@@ -2423,6 +2424,7 @@ Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
 Boyd van Hoeij        7       http://www.indiewire.com/film/as-i-lay-dying
 Patrick Heidmann      4       http://www.indiewire.com/film/as-i-lay-dying
 Kevin Jagernauth      3       http://www.indiewire.com/film/as-i-lay-dying
+Shaun Munro           0.5     http://www.filmschoolrejects.com/reviews/cannes-2013-review-as-i-lay-dying.php
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
@@ -3362,6 +3364,7 @@ Robert Gassaway (The Flicksation Podcast, USA)
 Rodrigo Perez (The Playlist, USA)
 Ruta Buciunaite (theupcoming.co.uk, UK)
 Ryland Aldrich (Twitch Film, USA)
+Shaun Munro (filmschoolrejects.com, USA)
 Simon Abrams (The Playlist, USA)
 Simon Gallagher (filmschoolrejects.com, UK) 
 Simon Reynolds (Digital Spy, UK) 
