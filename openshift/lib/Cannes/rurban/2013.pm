@@ -700,7 +700,7 @@ Eulàlia Iglesias     3
 Ángel Quintana       4
 José Luis Losa       2.5
 Pedro Butcher         
-Kieron Corless        
+Kieron Corless        5.5
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     3.5
@@ -947,7 +947,7 @@ Nando Salva
 Philip Engel          2.5
 Antoine Thirion         
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       4.5
 Alejandro G. Calvo    4
 Xavi Serra            5
 Guido Castillo        3
@@ -1055,7 +1055,7 @@ Nando Salva
 Philip Engel          7.5
 Eugenio Renzi         6
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       5.5
 Alejandro G. Calvo    
 Xavi Serra            
 Guido Castillo        3
@@ -1157,7 +1157,7 @@ Nando Salva
 Philip Engel          5
 Antoine Thirion       
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       7
 Alejandro G. Calvo    5
 Xavi Serra            
 Guido Castillo        6
@@ -1265,7 +1265,7 @@ Nando Salva           8.5
 Philip Engel          9.5
 Antoine Thirion         
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       5
 Alejandro G. Calvo    9.5
 Xavi Serra            
 Guido Castillo        
@@ -1334,10 +1334,14 @@ Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
 Mike d'Angelo         1.7     https://twitter.com/gemko/status/337169804937023488
 Diego Batlle          5.5
+Diego Lerer           4
+Jose Luis De Lorenzo  6
+Kieron Corless        3
 Violeta Kovacsics     7.5
 Carlos F. Heredero    5
 Neil Young            4
 Carlos Reviriego      7.5
+Alejandro G. Calvo    4.5
 Ronald Rovers         8
 # Screen Daily (0-4)
 Nick James           
@@ -1431,7 +1435,7 @@ Nando Salva
 Philip Engel          
 Antoine Thirion       5.5
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       5.5
 Alejandro G. Calvo    3
 Xavi Serra            
 Guido Castillo        
@@ -1551,6 +1555,11 @@ Michael Kienzl
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
+Mike d'Angelo         6.9     https://twitter.com/gemko/status/337296532539854848
+Diego Batlle          9
+Diego Lerer           9
+Jose Luis De Lorenzo  10
+Carlos F. Heredero    8.5
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -2012,7 +2021,7 @@ Eulàlia Iglesias     7.5
 Ángel Quintana       8
 José Luis Losa       
 Pedro Butcher         8.5
-Kieron Corless        
+Kieron Corless        8.5
 Luciano Barisone      7
 Carlo Chatrian        
 Violeta Kovacsics     8
@@ -2341,15 +2350,46 @@ Diego Lerer           4
 Alex Vicente          4
 Jose Luis De Lorenzo  2
 Cecilia Martinez      1
+Fernando Ganzo        
+Eulàlia Iglesias     
 Ángel Quintana       5.5
 José Luis Losa       3
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
 Jaime Pena            2
 Rüdiger Suchsland    5.5
+Carlos F. Heredero    
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
 Marcelo Alderete      1.5
 Alexandra Zawia       1.5
+Boris Nelepo          
 Carlos Reviriego      6.5
 Fernando Juan Lima    2
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       4
 Alejandro G. Calvo    8
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     
 Guy Lodge             3       https://twitter.com/GuyLodge/status/336511757117960192
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/as-i-lay-dying
 Boyd van Hoeij        7       http://www.indiewire.com/film/as-i-lay-dying
@@ -2358,6 +2398,7 @@ Kevin Jagernauth      3       http://www.indiewire.com/film/as-i-lay-dying
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
+Jose Luis De Lorenzo  7.5
 José Luis Losa       5.5
 Carlo Chatrian        5
 Rüdiger Suchsland    6
@@ -2378,7 +2419,7 @@ Eulàlia Iglesias     8
 Ángel Quintana       8.5
 José Luis Losa       6
 Pedro Butcher         
-Kieron Corless        
+Kieron Corless        4.5
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     9
@@ -2435,11 +2476,16 @@ Robert Koehler        7
 Cristina Nord         2.5
 Carlos Reviriego      3.5
 Fernando Juan Lima    6
+Pablo O. Scholz       7
 Alejandro G. Calvo    2.5
 Javier H. Estrada     3.5
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
+Diego Batlle          6
+Diego Lerer           6
+Jose Luis De Lorenzo  5
+Carlos F. Heredero    7
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
@@ -2458,6 +2504,7 @@ OUT OF COMPETITION
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 Mike d'Angelo         7.4     https://twitter.com/gemko/status/337170891639246848
 Diego Batlle          5.5
+Diego Lerer           6.5
 Carlos F. Heredero    6
 Carlos Reviriego      5.5
 
