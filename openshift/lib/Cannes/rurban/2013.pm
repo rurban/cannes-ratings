@@ -928,7 +928,218 @@ Kieron Corless
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     5
-Luciano Monteagudo    5
+Luciano Monteagudo    6
+Jaime Pena            6.5
+Rüdiger Suchsland    
+Carlos F. Heredero    7
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         7
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      4
+Alexandra Zawia       6
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    6.5
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          2.5
+Antoine Thirion         
+Michal Oleszczyk      
+Pablo O. Scholz       4.5
+Alejandro G. Calvo    4
+Xavi Serra            5
+Guido Castillo        3
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            9       
+Arnaud Hée           4       
+Christoph Huber      7.5     
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       6       http://www.critic.de/film/straw-shield-5294/
+# Screen Daily (0-4)
+Nick James           2.5
+David Stratton       5
+Derek Malcolm        5
+Jan Schulz-Ojala     2.5
+Jose Carlos Avellar  1
+Dennis Lim           2.5
+Michel Ciment        5
+Kate Muir/Wendy Ide  2.5
+Bo Green Jensen      2.5
+Screen International 5
+# ioncinema 0-5
+Nicolas Bell         4        http://www.ioncinema.com/reviews/shield-of-straw-review
+Christophe Beney     4
+David Calhoun        
+Per Juul Carlsen     2
+#Mike d'Angelo       7
+Carlos F. Heredero   6
+Raffi Asdourian      3
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     2
+Guy Lodge            4
+Liu Min              5
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       5
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       7.5
+Fabrice Leclerc       1
+Eric Neuhoff          1
+Stéphane Delorme         
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       1
+Christophe Carriére   1
+# criticwire
+Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
+Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
+Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
+John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
+Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-2013-review-shield-of-straw.php
+
+"UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
+Mike d'Angelo         2.4    https://twitter.com/gemko/status/336812768692957184
+Roger Koza            
+Diego Batlle          7.5
+Diego Lerer           6.5
+Alex Vicente          7
+Jose Luis De Lorenzo  
+Cecilia Martinez      7
+Fernando Ganzo        
+Eulàlia Iglesias     7
+Ángel Quintana       7.5
+José Luis Losa       4
+Pedro Butcher         6
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     4.5
+Luciano Monteagudo    7
+Jaime Pena            7.5
+Rüdiger Suchsland    
+Carlos F. Heredero    4.5
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         7.5
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          
+Carlos Reviriego      5.5
+Fernando Juan Lima    7.5
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          7.5
+Eugenio Renzi         6
+Michal Oleszczyk      
+Pablo O. Scholz       5.5
+Alejandro G. Calvo    
+Xavi Serra            
+Guido Castillo        3
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     6
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                    
+Arnaud Hée           4       
+Christoph Huber              
+Frédéric Jaeger      6       http://www.critic.de/film/un-chateau-en-italie-5544/
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl               
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# ioncinema 0-5
+Nicolas Bell         3
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     0
+#Mike d'Angelo       3
+Carlos F. Heredero   4
+Raffi Asdourian      
+#Eric Kohn           
+Eric Lavallée        
+Fabien Lemercier     5
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    8
+Blake Williams       5
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      7.5
+Arnaud Schwartz       2.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          7.5
+Stéphane Delorme      1
+Thomas Sotinel        2.5
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          5
+Jean Roy              2.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       7.5
+Christophe Carriére   2.5
+Shaun Munro           3       http://www.filmschoolrejects.com/reviews/cannes-2013-review-a-castle-in-italy-is-decent-drama-elevated-by-central-performance.php
+
+"BEHIND THE CANDELABRA (Ma vie avec Liberace)" (Steven SODERBERGH) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
+Mike d'Angelo         5.5     https://twitter.com/gemko/status/336811426758938624
+Roger Koza            5.5
+Diego Batlle          6.5
+Diego Lerer           6.5
+Alex Vicente          6
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
+Eulàlia Iglesias     6
+Ángel Quintana       6
+José Luis Losa       7.5
+Pedro Butcher         6.5
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        5
+Violeta Kovacsics     
+Luciano Monteagudo    6.5
 Jaime Pena            5
 Rüdiger Suchsland    
 Carlos F. Heredero    5
@@ -1012,6 +1223,7 @@ Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   7.5
 # criticwire
+Raffi Asdourian      5    http://www.indiewire.com/film/behind-the-candelabra
 Alex Billington      7    http://www.indiewire.com/film/behind-the-candelabra
 Kevin Jagernauth     7    http://www.indiewire.com/film/behind-the-candelabra
 Jon Frosch           7    http://www.theatlantic.com/entertainment/archive/2013/05/steven-soderberghs-too-gay-liberace-movie-has-arrived-at-cannes/276095/
@@ -2421,6 +2633,7 @@ Till Kadritzke       9
 Daniel Kasman        7.5       
 Michael Kienzl       7.5      http://www.critic.de/film/les-salauds-5560/
 # criticwire
+Raffi Asdourian      7        http://www.indiewire.com/film/les-salauds
 Alex Billington      8        http://www.indiewire.com/film/les-salauds
 Eric Kohn            3        http://www.indiewire.com/film/les-salauds
 Jessica Kiang        5        http://www.indiewire.com/film/les-salauds
@@ -3054,6 +3267,7 @@ José Luis Losa       6
 Marcelo Alderete      3
 Boris Nelepo          4
 # criticwire
+Raffi Asdourian      7    http://www.indiewire.com/film/jodorowskys-dune
 Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 
 "ILO ILO" (Anthony Chen) [Quinzaine]
