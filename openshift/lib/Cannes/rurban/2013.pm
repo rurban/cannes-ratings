@@ -75,6 +75,7 @@ Rose Kuo
 Pamela Bienzobas     
 Alvaro Arroba        
 Fredy Friedlander     
+# criticwire
 Kevin Jagernauth     5        http://blogs.indiewire.com/theplaylist/cannes-review-heli-a-beautifully-shot-but-despairing-look-at-corrupted-lives-20130515
 Ryland Aldrich       6        http://www.indiewire.com/film/heli
 Craig Skinner        7        http://www.heyuguys.co.uk/cannes-2013-heli-review/
@@ -83,6 +84,7 @@ Patrick McGavin      3        http://www.indiewire.com/film/heli
 Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Michael Sennhauser            http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-heli-review.html
+Marc van de Klashorst 4      http://icsfilm.org/news/184-cannes-2013-review-heli
 # Screen Daily (0-4)
 Nick James           5
 David Stratton       5
@@ -103,7 +105,6 @@ Frédéric Jaeger      4
 Till Kadritzke       5       http://www.critic.de/film/heli-5547/
 Daniel Kasman        2.5      
 Michael Kienzl       6        
-Marc van de Klashorst 4      http://icsfilm.org/news/184-cannes-2013-review-heli
 # ioncinema 0-5
 Nicolas Bell         5
 Christophe Beney     7
@@ -1221,7 +1222,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook            
+Adam Cook            1
 Arnaud Hée           
 Christoph Huber      7.5        
 Frédéric Jaeger      7.5
@@ -1333,7 +1334,7 @@ Arnaud Hée
 Christoph Huber              
 Frédéric Jaeger      
 Till Kadritzke       4
-Daniel Kasman        
+Daniel Kasman        4
 Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
@@ -1400,8 +1401,8 @@ Christophe Carriére
 Adam Cook            
 Arnaud Hée           
 Christoph Huber              
-Frédéric Jaeger      
-Till Kadritzke       
+Frédéric Jaeger      2.5
+Till Kadritzke       2.5
 Daniel Kasman        
 Michael Kienzl       
 
@@ -1502,10 +1503,10 @@ Christophe Carriére
 Adam Cook            
 Arnaud Hée           
 Christoph Huber              
-Frédéric Jaeger      
-Till Kadritzke       
+Frédéric Jaeger      9
+Till Kadritzke       9
 Daniel Kasman        
-Michael Kienzl       
+Michael Kienzl       6
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
@@ -1554,7 +1555,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook            
+Adam Cook            9
 Arnaud Hée           
 Christoph Huber              
 Frédéric Jaeger      
@@ -2537,10 +2538,21 @@ Robert Koehler        8
 Neil Young            3
 Boris Nelepo          10
 Alvaro Arroba         10
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                 
+Arnaud Hée           
+Christoph Huber      9      
+Frédéric Jaeger      9       
+Till Kadritzke       
+Daniel Kasman        
+Michael Kienzl       9        
+
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
 Luciano Monteagudo    2
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Michael Kienzl       5
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
