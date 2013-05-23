@@ -1622,6 +1622,7 @@ Jessica Kiang         5       http://www.indiewire.com/film/nebraska
 Eric Kohn             5       http://www.indiewire.com/film/nebraska
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Ryland Aldrich        
+Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -1694,7 +1695,7 @@ Raffi Asdourian
 #Eric Kohn           
 Eric Lavallée        9        http://www.ioncinema.com/news/film-festivals/2013-cannes-critics-panel-day-9-kechiche-blue-is-the-warmest-colour
 Fabien Lemercier     9
-Guy Lodge            
+Guy Lodge                     http://www.hitfix.com/in-contention/cannes-check-2013-abdellatif-kechiches-blue-is-the-warmest-color
 Liu Min              10
 Isabelle Regnier     8
 Cédric Succivalli    10
@@ -1724,6 +1725,10 @@ Frédéric Jaeger      9
 Till Kadritzke       9
 Daniel Kasman        
 Michael Kienzl       6
+# criticwire
+Jon Frosch          10        http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
+Mathilde Cesbron (Le Figaro, France)  http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00561-abdellatif-kechiche-la-vie-d-adele-n-est-pas-un-film-militant-homosexuel.php
+Maxime Pargaud (Le Figaro, France) 10  http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00465--la-vie-d-adele-un-chef-d-oeuvre-bouleversant.php
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
