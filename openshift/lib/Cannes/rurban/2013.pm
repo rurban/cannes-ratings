@@ -776,7 +776,6 @@ Jessica Kiang         8       http://www.indiewire.com/film/borgman
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
 Craig Skinner         3       http://www.indiewire.com/film/borgman
 Clementine Gallot    1        http://www.indiewire.com/film/borgman
-Jessica Kiang        8        http://www.indiewire.com/film/borgman
 # Le film français 0-4
 Stéphanie Lamome      7.5
 Arnaud Schwartz       7.5
@@ -1230,6 +1229,7 @@ Till Kadritzke       1
 Daniel Kasman        1
 Michael Kienzl       5
 # criticwire
+Raffi Asdourian       5       http://www.indiewire.com/film/only-god-forgives
 Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
 Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
 Eric Kohn             3       http://www.indiewire.com/article/cannes-how-only-god-forgives-suggests-ryan-goslings-schtick-has-worn-thin
@@ -1405,6 +1405,11 @@ Frédéric Jaeger      2.5
 Till Kadritzke       2.5
 Daniel Kasman        
 Michael Kienzl       
+# criticwire
+Jessica Kiang         5       http://www.indiewire.com/film/nebraska
+Eric Kohn             5       http://www.indiewire.com/film/nebraska
+Clementine Gallot     3       http://www.indiewire.com/film/nebraska
+Ryland Aldrich        
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -2524,6 +2529,7 @@ Christophe Carriére
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Till Kadritzke        4
 # criticwire
+Clementine Gallot     6       http://www.indiewire.com/film/la-jaula-de-oro
 Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
@@ -2572,6 +2578,7 @@ Pablo O. Scholz       7
 Xavi Serra            6
 Guido Castillo        7
 # criticwire
+Raffi Asdourian       7       http://www.indiewire.com/film/all-is-lost
 Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
 Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
 
@@ -2844,6 +2851,8 @@ Alejandro G. Calvo    1
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
 Neil Young            6.5
+# criticwire
+Ryland Aldrich        6      http://www.indiewire.com/film/weekend-of-a-champion
 
 "MAX ROSE" (Daniel NOAH) [Special Screening]
 
