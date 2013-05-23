@@ -1322,9 +1322,9 @@ Blake Williams       6
 # Le film français 0-4
 Stéphanie Lamome      7.5
 Arnaud Schwartz       9
-Fabrice Leclerc       
+Fabrice Leclerc       2.5
 Eric Neuhoff          5
-Stéphane Delorme        
+Stéphane Delorme      1
 Thomas Sotinel        2.5
 Philippe Rouyer       5
 Pierre Vavasseur      9
@@ -1417,21 +1417,21 @@ Cédric Succivalli
 Blake Williams       
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      5
+Arnaud Schwartz       1
+Fabrice Leclerc       2.5
+Eric Neuhoff          1
+Stéphane Delorme      5
+Thomas Sotinel        5
+Philippe Rouyer       7.5
+Pierre Vavasseur      1
+Pierre Murat          7.5
+Jean Roy              2.5
+Serge Kaganski        7.5
+Pierre Fornerod       1
+Pascal Merigeau       2.5
+Danielle Attali       2.5
+Christophe Carriére   7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            1
 Arnaud Hée           
@@ -1525,21 +1525,21 @@ Cédric Succivalli
 Blake Williams       
 #Neil Young          7
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      1 
+Arnaud Schwartz       5
+Fabrice Leclerc       5
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5
+Thomas Sotinel        2.5
+Philippe Rouyer       5
+Pierre Vavasseur      5
+Pierre Murat          7.5
+Jean Roy              2.5
+Serge Kaganski        5
+Pierre Fornerod       2.5
+Pascal Merigeau       5
+Danielle Attali       2.5
+Christophe Carriére   5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            6
 Arnaud Hée           
@@ -2507,12 +2507,12 @@ Pamela Bienzobas
 Alvaro Arroba         
 Fredy Friedlander     
 # Le film français 0-4
-Stéphanie Lamome      
+Stéphanie Lamome      5
 Arnaud Schwartz       5
 Fabrice Leclerc       
-Eric Neuhoff          
+Eric Neuhoff          5
 Stéphane Delorme         
-Thomas Sotinel        
+Thomas Sotinel        1
 Philippe Rouyer       
 Pierre Vavasseur      
 Pierre Murat          5
@@ -2610,20 +2610,20 @@ Alvaro Arroba         7
 Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       1
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
+Eric Neuhoff          1
+Stéphane Delorme      5  
+Thomas Sotinel        5
+Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          
+Pierre Murat          1
 Jean Roy              
 Serge Kaganski        
 Pierre Fornerod       
-Pascal Merigeau       
+Pascal Merigeau       5
 Danielle Attali       
-Christophe Carriére   
+Christophe Carriére   5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5        
 Arnaud Hée                   
@@ -2688,12 +2688,12 @@ Pamela Bienzobas
 Alvaro Arroba         
 Fredy Friedlander     6
 # Le film français 0-4
-Stéphanie Lamome      
+Stéphanie Lamome      5
 Arnaud Schwartz       
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme         
-Thomas Sotinel        
+Thomas Sotinel        2.5
 Philippe Rouyer       
 Pierre Vavasseur      
 Pierre Murat          
