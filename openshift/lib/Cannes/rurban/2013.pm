@@ -11,6 +11,7 @@ package Cannes::rurban::2013;
 # http://www.screendaily.com/festivals/cannes/cannes-2013-screens-dailies/5056024.article (scale 0-4)
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
 # http://www.indiewire.com/critic/
+# http://www.guardian.co.uk/film/series/first-look-review+cannes-2013
 # Published at http://cannes-rurban.rhcloud.com/2013
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013
@@ -85,6 +86,7 @@ Mike d'Angelo        4.4      http://www.avclub.com/articles/cannes-2013-day-one
 Michael Sennhauser            http://sennhausersfilmblog.ch/2013/05/16/cannes-13-heli-von-amat-escalante/
 John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-heli-review.html
 Marc van de Klashorst 4      http://icsfilm.org/news/184-cannes-2013-review-heli
+Catherine Shoard     8       http://www.guardian.co.uk/film/2013/may/16/heli-cannes-2013-review
 # Screen Daily (0-4)
 Nick James           5
 David Stratton       5
@@ -193,6 +195,7 @@ Kevin Jagernauth     3      http://blogs.indiewire.com/theplaylist/review-being-
 Michael Sennhauser          http://sennhausersfilmblog.ch/2013/05/16/cannes-13-jeune-et-jolie-von-franois-ozon/
 Jo Ann Titmarsh      4.5    http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-jeune.html
 John Bleasdale       6      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jeune-et.html
+Peter Bradshaw       6      http://www.guardian.co.uk/film/2013/may/16/cannes-2013-jeune-et-jolie-review
 # Screen Daily (0-4)
 Nick James           7.5
 David Stratton       2.5
@@ -204,6 +207,7 @@ Michel Ciment        1
 Kate Muir/Wendy Ide  5
 Bo Green Jensen      5
 Screen International 5
+#
 Ryland Aldrich       6        http://www.indiewire.com/film/jeune-et-jolie
 Craig Skinner        3        http://www.indiewire.com/film/jeune-et-jolie
 Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
@@ -303,6 +307,7 @@ Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two
 Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
 Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
+Peter Bradshaw       8        http://www.guardian.co.uk/film/2013/may/17/cannes-touch-of-sin-review
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            5       
 Arnaud Hée           
@@ -416,6 +421,9 @@ Patrick Heidmann      5       http://www.indiewire.com/film/the-past
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-the-past/
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/le-passe
 Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-the-past-1200482880/
+Peter Bradshaw        8       http://www.guardian.co.uk/film/2013/may/17/cannes-2013-the-past-review
+John Bleasdale        8        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-past-review.html
+#
 Adam Cook             5       
 Arnaud Hée            5
 Christoph Huber       
@@ -467,7 +475,6 @@ Pierre Fornerod       7.5
 Pascal Merigeau       9
 Danielle Attali       7.5
 Christophe Carriére   9
-John Bleasdale        8        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-past-review.html
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -569,6 +576,7 @@ Pierre Fornerod       2.5
 Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+#
 Patrick Heidmann     4      http://www.indiewire.com/film/jimmy-picard
 Clementine Gallot    8      http://www.indiewire.com/film/jimmy-picard
 Jon Frosch           4      http://www.indiewire.com/film/jimmy-picard
@@ -578,6 +586,7 @@ Kevin Jagernauth     3      http://www.indiewire.com/film/jimmy-picard
 Emanuel Levy         6      http://www.indiewire.com/film/jimmy-picard
 Patrick Heidmann     5      http://www.indiewire.com/film/jimmy-picard
 John Bleasdale       4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jimmy-p.html
+Catherine Shoard     2      http://www.guardian.co.uk/film/2013/may/18/cannes-2013-jimmy-p-review
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -628,6 +637,7 @@ Rose Kuo
 Pamela Bienzobas      
 Alvaro Arroba         
 Fredy Friedlander     7
+#
 Adam Cook            5        
 Arnaud Hée           6        
 Christoph Huber      6        
@@ -686,6 +696,7 @@ Patrick McGavin      5        http://www.indiewire.com/film/like-father-like-son
 Ryland Aldrich       7        http://www.indiewire.com/film/like-father-like-son
 Kevin Jagernauth     8        http://blogs.indiewire.com/theplaylist/cannes-review-like-father-like-son-a-tender-loving-portrait-of-parenthood-20130518
 John Bleasdale       8        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-like-father.html
+Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-2013-like-father-like-son-review
 
 "BORGMAN" (Alex VAN WARMERDAM) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
@@ -792,10 +803,12 @@ Pierre Fornerod       2.5
 Pascal Merigeau       
 Danielle Attali       2.5
 Christophe Carriére   7.5
+#
 Jessica Kiang         8       http://blogs.indiewire.com/theplaylist/cannes-review-borgman-delivers-a-deliciously-dark-twisted-cannes-competition-treat-20130519
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
 Clementine Gallot     1.5     http://www.indiewire.com/film/borgman
 John Bleasdale        8       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-borgman-review.html
+Catherine Shoard (Guardian, UK)   6       http://www.guardian.co.uk/film/2013/may/19/cannes-film-festival-borgman-review
 
 "INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
@@ -909,6 +922,7 @@ Ryland Aldrich       8      http://www.indiewire.com/film/inside-llewyn-davis
 Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 Jo Ann Titmarsh      10     http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-inside.html
 John Bleasdale       10     http://www.cine-vue.com/2013/05/cannes-film-festival-2013-inside-llewyn.html
+Peter Bradshaw       10     http://www.guardian.co.uk/film/2013/may/18/cannes-2013-inside-llewyn-davis-review
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
@@ -1017,6 +1031,7 @@ Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
 Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
 John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
 Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-2013-review-shield-of-straw.php
+Peter Bradshaw       2       http://www.guardian.co.uk/film/2013/may/20/shield-of-straw-cannes-2013-review
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1119,7 +1134,9 @@ Pierre Fornerod       5
 Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+#
 Shaun Munro           3       http://www.filmschoolrejects.com/reviews/cannes-2013-review-a-castle-in-italy-is-decent-drama-elevated-by-central-performance.php
+Peter Bradshaw        2       http://www.guardian.co.uk/film/2013/may/21/cannes-2013-castle-in-italy-review
 
 "BEHIND THE CANDELABRA (Ma vie avec Liberace)" (Steven SODERBERGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
@@ -1233,6 +1250,7 @@ Craig Skinner        9    http://http//www.heyuguys.co.uk/cannes-2013-behind-the
 Ryland Aldrich       6    http://twitchfilm.com/2013/05/cannes-2013-review-behind-the-candelabra.html
 Kirk Honeycott       8    http://honeycuttshollywood.com/behind-candelabra-review/
 Shaun Munro          7    http://www.filmschoolrejects.com/reviews/cannes-2013-review-behind-the-candelabra.php
+Peter Bradshaw       8    http://www.guardian.co.uk/film/2013/may/21/behind-the-candelabra-review-steven-soderbergh
 
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
@@ -1339,6 +1357,7 @@ Christophe Carriére   7.5
 #criticwire
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 Shaun Munro          6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-the-great-beauty-is-a-sight-for-sore-eyes.php
+Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/21/cannes-review-great-beauty-sorrentino
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -1448,6 +1467,7 @@ Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
 Eric Kohn             3       http://www.indiewire.com/article/cannes-how-only-god-forgives-suggests-ryan-goslings-schtick-has-worn-thin
 Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/stoerung-und-verstoerung-das-bild-des-mannes-in-nicolas-winding-refns-only-god-forgives
+Peter Bradshaw       10       http://www.guardian.co.uk/film/2013/may/22/cannes-only-good-forgives-ryan-gosling-review
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -1550,6 +1570,8 @@ Frédéric Jaeger
 Till Kadritzke       4
 Daniel Kasman        4
 Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
+#
+Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/22/cannes-2013-grigris-review
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
@@ -1627,6 +1649,7 @@ Eric Kohn             5       http://www.indiewire.com/film/nebraska
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 Todd McCarthy                 http://www.hollywoodreporter.com/movie/nebraska/review/550167
+Peter Bradshaw        8       http://www.guardian.co.uk/film/2013/may/23/cannes-2013-nebraska-first-look-review
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -2043,6 +2066,7 @@ Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
 Matt Mueller (Thompson on Hollywood, USA) http://blogs.indiewire.com/thompsononhollywood/cannes-review-coppolas-the-bling-ring
 Michael Sennhauser             http://sennhausersfilmblog.ch/2013/05/16/cannes-13-the-bling-ring-von-sofia-coppola/
 John Bleasdale        4        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-bling-ring.html
+Peter Bradshaw        6        http://www.guardian.co.uk/film/2013/may/16/bling-ring-cannes-2013-review
 # Criticwire
 Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
 Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
@@ -2558,6 +2582,7 @@ Boyd van Hoeij        7       http://www.indiewire.com/film/as-i-lay-dying
 Patrick Heidmann      4       http://www.indiewire.com/film/as-i-lay-dying
 Kevin Jagernauth      3       http://www.indiewire.com/film/as-i-lay-dying
 Shaun Munro           0.5     http://www.filmschoolrejects.com/reviews/cannes-2013-review-as-i-lay-dying.php
+Peter Bradshaw       6       http://www.guardian.co.uk/film/2013/may/20/james-franco-as-i-lay-dying-review
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
@@ -2667,6 +2692,7 @@ Alex Billington      8        http://www.indiewire.com/film/les-salauds
 Eric Kohn            3        http://www.indiewire.com/film/les-salauds
 Jessica Kiang        5        http://www.indiewire.com/film/les-salauds
 Shaun Munro          1        http://www.filmschoolrejects.com/reviews/cannes-2013-review-bastards.php
+Xan Brooks           4        http://www.guardian.co.uk/film/2013/may/21/les-salauds-cannes-2013
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
@@ -2774,6 +2800,7 @@ Till Kadritzke        4
 # criticwire
 Clementine Gallot     6       http://www.indiewire.com/film/la-jaula-de-oro
 Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
+Peter Bradshaw                http://www.guardian.co.uk/film/2013/may/23/golden-cage-jaula-de-oro-review
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
@@ -2851,6 +2878,7 @@ Till Kadritzke       5       http://www.critic.de/film/blood-ties-5588/
 Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-review-sprawling-uneven-crime-saga-blood-ties-falls-short-of-epic-scope-20130519
 Ryland Aldrich       7       http://www.indiewire.com/film/blood-ties
 Shaun Munro           3      http://www.filmschoolrejects.com/reviews/cannes-2013-review-blood-ties.php
+Xan Brooks           6       http://www.guardian.co.uk/film/2013/may/19/cannes-blood-ties-review
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 Roger Koza            10
@@ -3011,6 +3039,7 @@ Alejandro G. Calvo    4
 Craig Skinner         1      http://www.indiewire.com/film/monsoon-shootout
 Ryland Aldrich        5      http://www.indiewire.com/film/monsoon-shootout
 Shaun Munro           1      http://www.filmschoolrejects.com/reviews/cannes-2013-review-monsoon-shootout.php
+Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/19/cannes-2013-monsoon-shootout-review
 
 "BLIND DETECTIVE (MAN TAM)" (Johnnie TO) [Out of Competition]
 Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
@@ -3098,16 +3127,19 @@ Alvaro Arroba         5.5
 Alex Billington      3       http://www.indiewire.com/film/seduced-abandoned
 Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
 Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
+Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/19/cannes-seduced-and-abandoned-review
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 Eulàlia Iglesias     3.5
 José Luis Losa       2
 Alejandro G. Calvo    1
+Xan Brooks           4       http://www.guardian.co.uk/film/2013/may/22/muhammad-ali-greatest-fight-cannes-2013
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
 Neil Young            6.5
 # criticwire
 Ryland Aldrich        6      http://www.indiewire.com/film/weekend-of-a-champion
+Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/21/cannes-2013-weekend-of-a-champion-review
 
 "MAX ROSE" (Daniel NOAH) [Special Screening]
 
@@ -3163,6 +3195,8 @@ Robert Koehler        2
 
 "FOR THOSE IN PERIL" (Paul Wright) [Semaine]
 Robert Koehler        4
+#
+Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-for-those-in-peril-review
 
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
 Carlo Chatrian        6.5
@@ -3233,6 +3267,7 @@ Michael Kienzl
 #
 Eric Kohn            9        http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Blake Williams       5.2      https://twitter.com/Astrostic/status/336001913298513920
+Xan Brooks           6        http://www.guardian.co.uk/film/2013/may/16/the-congress-review
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
@@ -3250,6 +3285,7 @@ Fredy Friedlander     8
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 Blake Williams        5.8        https://twitter.com/Astrostic/status/335467846073192448
+Peter Bradshaw        8          http://www.guardian.co.uk/film/2013/may/17/the-selfish-giant-cannes-2013-review
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
@@ -3309,6 +3345,7 @@ Michael Kienzl       5
 Alex Billington      5       http://www.indiewire.com/film/la-danza-de-la-realidad
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
+Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/18/cannes-2013-alejandro-jodorowsky-reality-dance
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
@@ -3347,6 +3384,7 @@ Daniel Kasman        5
 Michael Kienzl       
 #
 Blake Williams       6.0      https://twitter.com/Astrostic/status/336087169171066881
+Henry Barnes (Guardian, UK)   4    http://www.guardian.co.uk/film/2013/may/19/cannes-2013-tip-top-review
 
 "L'ESCALE (Stop-over)" (Kaveh Bakhtiari) [Quinzaine]
 José Luis Losa       4.5
@@ -3555,6 +3593,7 @@ Anna Tatarska (Fandor, KINO, USA)
 Anne Thompson (Indiewire, USA) 
 Beatrice Behn (Kino-Zeit, Deutschland)
 Brian Brooks (indieWIRE, USA) 
+Catherine Shoard (Guardian, UK)
 Chris Knipp (Filmleaf, USA)
 Clementine Gallot (Cahiers du cinema, France)
 Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool, UK)
@@ -3629,6 +3668,7 @@ Tim Grierson (Screen International, L.A. Weekly, USA)
 Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
 Yair Raveh (Cinema Scope, Israel)
+Xan Brooks (Guardian, UK)
 ";
 # former apichatpoll members
 $critics[6] = "
