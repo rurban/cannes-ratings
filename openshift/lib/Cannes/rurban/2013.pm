@@ -120,7 +120,7 @@ Guy Lodge            5
 Liu Min              4
 Isabelle Regnier     7
 Cédric Succivalli    2
-Blake Williams       5
+Blake Williams       4.7      https://twitter.com/Astrostic/status/334753398048059392
 #Neil Young          5
 # Le film français 0-4
 Stéphanie Lamome      7.5
@@ -232,7 +232,7 @@ Guy Lodge
 Liu Min              8
 Isabelle Regnier     6
 Cédric Succivalli    8
-Blake Williams       5
+Blake Williams       5.0      https://twitter.com/Astrostic/status/334947523988951041
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -337,7 +337,7 @@ Guy Lodge            5
 Liu Min              6
 Isabelle Regnier     
 Cédric Succivalli    8
-Blake Williams       7
+Blake Williams       6.8      https://twitter.com/Astrostic/status/335075092650393600
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      9
@@ -449,7 +449,7 @@ Guy Lodge            5
 Liu Min              9
 Isabelle Regnier     
 Cédric Succivalli    10
-Blake Williams       4
+Blake Williams       3.8      https://twitter.com/Astrostic/status/335316528817922048
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      9
@@ -551,7 +551,7 @@ Guy Lodge            4
 Liu Min              
 Isabelle Regnier     7
 Cédric Succivalli    8
-Blake Williams       3
+Blake Williams       3.0        https://twitter.com/Astrostic/status/335675274500923392
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -661,7 +661,7 @@ Guy Lodge            5
 Liu Min              7
 Isabelle Regnier     4
 Cédric Succivalli    6
-Blake Williams       6
+Blake Williams       5.6      https://twitter.com/Astrostic/status/335521334270492674
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -770,7 +770,7 @@ Guy Lodge            8
 Liu Min              8
 Isabelle Regnier     
 Cédric Succivalli    
-Blake Williams       5
+Blake Williams       4.9      https://twitter.com/Astrostic/status/336086445989183488
 #Neil Young          7
 Jessica Kiang         8       http://www.indiewire.com/film/borgman
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
@@ -872,7 +872,7 @@ Guy Lodge
 Liu Min              10
 Isabelle Regnier     8
 Cédric Succivalli    8
-Blake Williams       7
+Blake Williams       6.5      https://twitter.com/Astrostic/status/335844938765959168
 #Neil Young          7
 # Le film français 0-4
 Stéphanie Lamome      7.5
@@ -993,7 +993,7 @@ Guy Lodge            4
 Liu Min              5
 Isabelle Regnier     
 Cédric Succivalli    
-Blake Williams       5
+Blake Williams       5.1       https://twitter.com/Astrostic/status/336402597340667905
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1101,7 +1101,7 @@ Guy Lodge
 Liu Min              
 Isabelle Regnier     
 Cédric Succivalli    8
-Blake Williams       5
+Blake Williams       4.6        https://twitter.com/Astrostic/status/336879472173264897
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      7.5
@@ -1204,7 +1204,7 @@ Guy Lodge            9
 Liu Min              9
 Isabelle Regnier     5
 Cédric Succivalli    
-Blake Williams       6
+Blake Williams       6.3      https://twitter.com/Astrostic/status/336767669632122880
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -1317,7 +1317,7 @@ Guy Lodge            5
 Liu Min              8
 Isabelle Regnier     
 Cédric Succivalli    5
-Blake Williams       6
+Blake Williams       5.8        https://twitter.com/Astrostic/status/336611793810124801
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      7.5
@@ -1523,7 +1523,7 @@ Guy Lodge
 Liu Min              5
 Isabelle Regnier     
 Cédric Succivalli    
-Blake Williams       
+Blake Williams       3.8      https://twitter.com/Astrostic/status/336980366298603522
 #Neil Young          7
 # Le film français 0-4
 Stéphanie Lamome      1 
@@ -1552,6 +1552,7 @@ Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
+Mike d'Angelo         7.1     https://twitter.com/gemko/status/337486438897704960
 Diego Batlle          7
 Diego Lerer           7.5
 Eulàlia Iglesias     4.5
@@ -1592,7 +1593,7 @@ Guy Lodge
 Liu Min              7
 Isabelle Regnier     
 Cédric Succivalli    
-Blake Williams       
+Blake Williams       7        https://twitter.com/Astrostic/status/337486222484193280
 #Neil Young          6
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1700,7 +1701,7 @@ Guy Lodge                     http://www.hitfix.com/in-contention/cannes-check-2
 Liu Min              10
 Isabelle Regnier     8
 Cédric Succivalli    10
-Blake Williams       6
+Blake Williams       5.7      https://twitter.com/Astrostic/status/337290597113155585
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      
@@ -2040,6 +2041,8 @@ Beatrice Behn         3 	http://www.indiewire.com/film/the-bling-ring
 Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
 Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
+Blake Williams        4.4       https://twitter.com/Astrostic/status/335115053583978496
+#
 Adam Cook             6          http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Arnaud Hée            
 Christoph Huber       5       
@@ -2115,9 +2118,7 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
-Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
-Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
-Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
+#
 Adam Cook                     
 Arnaud Hée            
 Christoph Huber       
@@ -2125,7 +2126,12 @@ Frédéric Jaeger      2.5
 Till Kadritzke       4        
 Daniel Kasman         
 Michael Kienzl       4       
+#
+Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
+Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
+Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
 John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
+Blake Williams       4.0     https://twitter.com/Astrostic/status/335157906041339904
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
@@ -2201,7 +2207,10 @@ Frédéric Jaeger      7.5     http://www.critic.de/film/linconnu-du-lac-5580/
 Till Kadritzke               
 Daniel Kasman        9       
 Michael Kienzl       9       
+#
 John Bleasdale       4       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-stranger-by.html
+Blake Williams       7.2     https://twitter.com/Astrostic/status/335346286784024576
+
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
   (Italy premiered already Mai 1st)
@@ -2315,9 +2324,11 @@ Frédéric Jaeger      9      http://www.critic.de/film/grand-central-5586/
 Till Kadritzke       9      
 Daniel Kasman               
 Michael Kienzl       6      
+#
 Lee Marshall                http://www.screendaily.com/reviews/the-latest/grand-central/5056361.article?blocktitle=Cannes-Reviews&contentID=1842
 Jessica Kiang        7      http://blogs.indiewire.com/theplaylist/cannes-review-grand-central-weaves-a-lyrical-tale-of-love-and-radiation-around-tahar-rahim-lea-seydoux-20130519
 John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-grand-central.html
+Blake Williams       4.4    https://twitter.com/Astrostic/status/335713192271552514
 
 
 "BENDS" (Flora LAU) [Un Certain Regard]
@@ -2335,7 +2346,9 @@ Fernando Juan Lima    4
 Pablo O. Scholz       5
 Javier H. Estrada     5.5
 Adam Cook            5        
-Tim Grierson                 http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
+#
+Tim Grierson                  http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
+Blake Williams       5.1      https://twitter.com/Astrostic/status/335754171531804675
 
 "L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
@@ -2409,6 +2422,8 @@ Pierre Fornerod
 Pascal Merigeau       9
 Danielle Attali       
 Christophe Carriére   
+# 
+Blake Williams        4.3     https://twitter.com/Astrostic/status/336159252731269120
 
 "DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
@@ -2715,6 +2730,7 @@ Till Kadritzke        5
 # criticwire
 Clementine Gallot     6       http://www.indiewire.com/film/wakolda
 Shaun Munro           1       http://www.filmschoolrejects.com/reviews/cannes-2013-review-wakolda.php
+Blake Willams         3.7     https://twitter.com/Astrostic/status/337204495811506176
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
@@ -2755,6 +2771,7 @@ Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
 Robert Koehler        3.5
+Blake Williams        3.9     https://twitter.com/Astrostic/status/337450571181207552
 
 "NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409844/year/2013.html
@@ -2772,6 +2789,7 @@ Frédéric Jaeger      9
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       9        
+Blake Willams        7.8      https://twitter.com/Astrostic/status/337565096823902209
 
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
@@ -2779,6 +2797,7 @@ Michael Kienzl       9
 Luciano Monteagudo    2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Michael Kienzl       5
+Blake Willams        0.6      https://twitter.com/Astrostic/status/337607129622007808
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
@@ -3036,6 +3055,7 @@ Daniel Kasman         9
 Michael Kienzl
 Craig Skinner         5      http://www.indiewire.com/film/blind-detective
 Shaun Munro           0.5    http://www.filmschoolrejects.com/reviews/cannes-2013-review-blind-detective.php
+Blake Williams        5.3    https://twitter.com/Astrostic/status/336536286095634432
 
 SPECIAL SCREENINGS
 
@@ -3168,6 +3188,8 @@ Javier H. Estrada     5
 Jaime Pena            9
 Alvaro Arroba         7
 Fredy Friedlander     6
+#
+Blake Williams       7.0      https://twitter.com/Astrostic/status/335777627136741376
 
 
 QUINZAINE
@@ -3185,7 +3207,7 @@ Dana Linssen          6
 Alejandro G. Calvo    6
 Guido Castillo        4
 Alvaro Arroba         10
-Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
+#
 Adam Cook                     
 Arnaud Hée            2.5     
 Christoph Huber       
@@ -3193,6 +3215,9 @@ Frédéric Jaeger
 Till Kadritzke        
 Daniel Kasman         
 Michael Kienzl        
+#
+Eric Kohn            9        http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
+Blake Williams       5.2      https://twitter.com/Astrostic/status/336001913298513920
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
@@ -3209,6 +3234,7 @@ Javier H. Estrada     4
 Fredy Friedlander     8
 Guy Lodge                        http://variety.com/2013/film/reviews/the-selfish-giant-review-1200480590/
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
+Blake Williams        5.8        https://twitter.com/Astrostic/status/335467846073192448
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
@@ -3249,6 +3275,8 @@ Michael Kienzl       2.5
 Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
 Clementine Gallot    6    http://www.indiewire.com/film/blue-ruin
 Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based-filmmaker-jeremy-saulnier-went-from-shooting-corporate-videos-to-premiering-his-movie-blue-ruin-at-cannes
+Blake Williams        5.0    https://twitter.com/Astrostic/status/336484904428781569
+
 
 "LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
@@ -3302,13 +3330,17 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        5        
 Michael Kienzl       
+#
+Blake Williams       6.0      https://twitter.com/Astrostic/status/336087169171066881
 
-"L'ESCALE" (Kaveh Bakhtiari) [Quinzaine]
+"L'ESCALE (Stop-over)" (Kaveh Bakhtiari) [Quinzaine]
 José Luis Losa       4.5
 Carlo Chatrian        6.5
 Robert Koehler        3.5
 Dana Linssen          5.5
 Javier H. Estrada     5
+# 
+Blake Williams        3.9     https://twitter.com/Astrostic/status/336124896327397377
 
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
 Roger Koza            6.5
@@ -3342,8 +3374,10 @@ Dana Linssen          3.5
 Javier H. Estrada     4.5
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
+Blake Willams         5.5     https://twitter.com/Astrostic/status/337127683970441216
 
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
+Blake Willams         4.3     https://twitter.com/Astrostic/status/337172984945049602
 
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
 Fernando Ganzo        7
