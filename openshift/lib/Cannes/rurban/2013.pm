@@ -29,7 +29,7 @@ our $DATA= <<'EOF';
 
 "HELI" (Amat ESCALANTE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409854/year/2013.html
-Roger Alan Koza      6
+Roger Koza           6
 Diego Batlle         4.5
 Diego Lerer          6
 Alex Vicente         4
