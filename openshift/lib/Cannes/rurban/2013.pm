@@ -1076,16 +1076,16 @@ Till Kadritzke
 Daniel Kasman        
 Michael Kienzl               
 # Screen Daily (0-4)
-Nick James           
+Nick James           5
 David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Derek Malcolm        5
+Jan Schulz-Ojala     2.5
+Jose Carlos Avellar  2.5
+Dennis Lim           2.5
+Michel Ciment        5
+Kate Muir/Wendy Ide  2.5
+Bo Green Jensen      5
+Screen International 5
 # ioncinema 0-5
 Nicolas Bell         3
 Christophe Beney     
@@ -1179,16 +1179,16 @@ Till Kadritzke
 Daniel Kasman        6
 Michael Kienzl       6               
 # Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Nick James           5
+David Stratton       5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     5
+Jose Carlos Avellar  5
+Dennis Lim           5
+Michel Ciment        9
+Kate Muir/Wendy Ide  7.5
+Bo Green Jensen      5
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         6        http://www.ioncinema.com/reviews/behind-the-candelabra-review
 Christophe Beney     6
@@ -1292,16 +1292,16 @@ Till Kadritzke       2.5
 Daniel Kasman        
 Michael Kienzl       
 # Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
+Nick James           7.5
+David Stratton       2.5
+Derek Malcolm        9
+Jan Schulz-Ojala     7.5
+Jose Carlos Avellar  7.5
 Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Michel Ciment        2.5
+Kate Muir/Wendy Ide  7.5
+Bo Green Jensen      9
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         9
 Christophe Beney     
@@ -1389,16 +1389,16 @@ Pamela Bienzobas
 Alvaro Arroba         5
 Fredy Friedlander     
 # Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Nick James           2.5
+David Stratton       1
+Derek Malcolm        2.5
+Jan Schulz-Ojala     2.5
+Jose Carlos Avellar  1
+Dennis Lim           2.5
+Michel Ciment        7.5
+Kate Muir/Wendy Ide  5
+Bo Green Jensen      7.5
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         6
 Christophe Beney     8
@@ -1497,16 +1497,16 @@ Pamela Bienzobas
 Alvaro Arroba         
 Fredy Friedlander     
 # Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Nick James           5
+David Stratton       5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     2.5
+Jose Carlos Avellar  7.5
+Dennis Lim           5
+Michel Ciment        5
+Kate Muir/Wendy Ide  2.5
+Bo Green Jensen      5
+Screen International 1
 # ioncinema 0-5
 Nicolas Bell         4
 Christophe Beney     6
