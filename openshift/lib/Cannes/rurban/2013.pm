@@ -267,7 +267,7 @@ Kieron Corless        7.5
 Luciano Barisone      8
 Carlo Chatrian        5
 Violeta Kovacsics     7
-Luciano Monteagudo    
+Luciano Monteagudo    6
 Jaime Pena            9
 Rüdiger Suchsland    
 Carlos F. Heredero    7.5
@@ -596,7 +596,7 @@ Kieron Corless        4.5
 Luciano Barisone      6
 Carlo Chatrian        7.5
 Violeta Kovacsics     8
-Luciano Monteagudo    6.5
+Luciano Monteagudo    6
 Jaime Pena            5.5
 Rüdiger Suchsland    8
 Carlos F. Heredero    6.5
@@ -806,7 +806,7 @@ Diego Lerer           8.5
 Alex Vicente          7
 Jose Luis De Lorenzo  7
 Cecilia Martinez      
-Fernando Ganzo        8
+Fernando Ganzo        7
 Eulàlia Iglesias     8
 Ángel Quintana       8
 José Luis Losa       6
@@ -845,7 +845,7 @@ Javier H. Estrada     6.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         8
-Fredy Friedlander     
+Fredy Friedlander     8
 # Screen Daily (0-4)
 Nick James           9
 David Stratton       7.5
@@ -928,222 +928,11 @@ Kieron Corless
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     5
-Luciano Monteagudo    6
-Jaime Pena            6.5
-Rüdiger Suchsland    
-Carlos F. Heredero    7
-Robert Koehler        
-Dana Linssen          
-Cristina Nord         7
-Francisco Ferreira    
-Paolo Moretti         
-Neil Young            
-Scott Foundas         
-Marcelo Alderete      4
-Alexandra Zawia       6
-Boris Nelepo          
-Carlos Reviriego      
-Fernando Juan Lima    6.5
-Paolo Bertolin        
-Nando Salva           
-Philip Engel          2.5
-Antoine Thirion         
-Michal Oleszczyk      
-Pablo O. Scholz       4.5
-Alejandro G. Calvo    4
-Xavi Serra            5
-Guido Castillo        3
-Ronald Rovers         
-Javier H. Estrada     
-Rose Kuo              
-Pamela Bienzobas      
-Alvaro Arroba         
-Fredy Friedlander     
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook            9       
-Arnaud Hée           4       
-Christoph Huber      7.5     
-Frédéric Jaeger      
-Till Kadritzke       
-Daniel Kasman        
-Michael Kienzl       6       http://www.critic.de/film/straw-shield-5294/
-# Screen Daily (0-4)
-Nick James           2.5
-David Stratton       5
-Derek Malcolm        5
-Jan Schulz-Ojala     2.5
-Jose Carlos Avellar  1
-Dennis Lim           2.5
-Michel Ciment        5
-Kate Muir/Wendy Ide  2.5
-Bo Green Jensen      2.5
-Screen International 5
-# ioncinema 0-5
-Nicolas Bell         4        http://www.ioncinema.com/reviews/shield-of-straw-review
-Christophe Beney     4
-David Calhoun        
-Per Juul Carlsen     2
-#Mike d'Angelo       7
-Carlos F. Heredero   6
-Raffi Asdourian      3
-#Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     2
-Guy Lodge            4
-Liu Min              5
-Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       5
-#Neil Young          
-# Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       7.5
-Fabrice Leclerc       1
-Eric Neuhoff          1
-Stéphane Delorme         
-Thomas Sotinel        5
-Philippe Rouyer       5
-Pierre Vavasseur      
-Pierre Murat          1
-Jean Roy              2.5
-Serge Kaganski        5
-Pierre Fornerod       5
-Pascal Merigeau       2.5
-Danielle Attali       1
-Christophe Carriére   1
-# criticwire
-Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
-Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
-Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
-John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
-Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-2013-review-shield-of-straw.php
-
-"UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
-  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
-Mike d'Angelo         2.4    https://twitter.com/gemko/status/336812768692957184
-Roger Koza            
-Diego Batlle          7.5
-Diego Lerer           6.5
-Alex Vicente          7
-Jose Luis De Lorenzo  
-Cecilia Martinez      7
-Fernando Ganzo        
-Eulàlia Iglesias     7
-Ángel Quintana       7.5
-José Luis Losa       4
-Pedro Butcher         6
-Kieron Corless        
-Luciano Barisone      
-Carlo Chatrian        
-Violeta Kovacsics     4.5
-Luciano Monteagudo    7
-Jaime Pena            7.5
-Rüdiger Suchsland    
-Carlos F. Heredero    4.5
-Robert Koehler        
-Dana Linssen          
-Cristina Nord         7.5
-Francisco Ferreira    
-Paolo Moretti         
-Neil Young            
-Scott Foundas         
-Marcelo Alderete      
-Alexandra Zawia       
-Boris Nelepo          
-Carlos Reviriego      5.5
-Fernando Juan Lima    7.5
-Paolo Bertolin        
-Nando Salva           
-Philip Engel          7.5
-Eugenio Renzi         6
-Michal Oleszczyk      
-Pablo O. Scholz       5.5
-Alejandro G. Calvo    
-Xavi Serra            
-Guido Castillo        3
-Ronald Rovers         
-Javier H. Estrada     
-Rose Kuo              
-Pamela Bienzobas      
-Alvaro Arroba         
-Fredy Friedlander     6
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                    
-Arnaud Hée           4       
-Christoph Huber              
-Frédéric Jaeger      6       http://www.critic.de/film/un-chateau-en-italie-5544/
-Till Kadritzke       
-Daniel Kasman        
-Michael Kienzl               
-# Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
-# ioncinema 0-5
-Nicolas Bell         3
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     0
-#Mike d'Angelo       3
-Carlos F. Heredero   4
-Raffi Asdourian      
-#Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     5
-Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    8
-Blake Williams       5
-#Neil Young          
-# Le film français 0-4
-Stéphanie Lamome      7.5
-Arnaud Schwartz       2.5
-Fabrice Leclerc       2.5
-Eric Neuhoff          7.5
-Stéphane Delorme      1
-Thomas Sotinel        2.5
-Philippe Rouyer       5
-Pierre Vavasseur      7.5
-Pierre Murat          5
-Jean Roy              2.5
-Serge Kaganski        5
-Pierre Fornerod       5
-Pascal Merigeau       5
-Danielle Attali       7.5
-Christophe Carriére   2.5
-Shaun Munro           3       http://www.filmschoolrejects.com/reviews/cannes-2013-review-a-castle-in-italy-is-decent-drama-elevated-by-central-performance.php
-
-"BEHIND THE CANDELABRA (Ma vie avec Liberace)" (Steven SODERBERGH) [Competition]
-  http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
-Mike d'Angelo         5.5     https://twitter.com/gemko/status/336811426758938624
-Roger Koza            5.5
-Diego Batlle          6.5
-Diego Lerer           6.5
-Alex Vicente          6
-Jose Luis De Lorenzo  
-Cecilia Martinez      
-Fernando Ganzo        
-Eulàlia Iglesias     6
-Ángel Quintana       6
-José Luis Losa       7.5
-Pedro Butcher         6.5
-Kieron Corless        
-Luciano Barisone      
-Carlo Chatrian        5
-Violeta Kovacsics     
-Luciano Monteagudo    6.5
+Luciano Monteagudo    5
 Jaime Pena            5
 Rüdiger Suchsland    
 Carlos F. Heredero    5
-Robert Koehler        
+Robert Koehler        5.5
 Dana Linssen          5.5
 Cristina Nord         7
 Francisco Ferreira    
@@ -1162,7 +951,7 @@ Antoine Thirion
 Michal Oleszczyk      
 Pablo O. Scholz       7
 Alejandro G. Calvo    5
-Xavi Serra            
+Xavi Serra            5.5
 Guido Castillo        6
 Ronald Rovers         
 Javier H. Estrada     
@@ -1250,7 +1039,7 @@ Pedro Butcher
 Kieron Corless        3.5
 Luciano Barisone      
 Carlo Chatrian        
-Violeta Kovacsics     
+Violeta Kovacsics     3
 Luciano Monteagudo    5
 Jaime Pena            4
 Rüdiger Suchsland    
@@ -1264,7 +1053,7 @@ Neil Young
 Scott Foundas         
 Marcelo Alderete      
 Alexandra Zawia       7
-Boris Nelepo          
+Boris Nelepo          1.5
 Carlos Reviriego      8
 Fernando Juan Lima    10
 Paolo Bertolin        
@@ -1273,9 +1062,9 @@ Philip Engel          9.5
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       5
-Alejandro G. Calvo    9.5
+Alejandro G. Calvo    7.5
 Xavi Serra            
-Guido Castillo        
+Guido Castillo        8
 Ronald Rovers         9
 Javier H. Estrada     
 Rose Kuo              
@@ -1341,16 +1130,52 @@ Shaun Munro          6       http://www.filmschoolrejects.com/reviews/cannes-201
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
 Mike d'Angelo         1.7     https://twitter.com/gemko/status/337169804937023488
+Roger Koza            
 Diego Batlle          5.5
 Diego Lerer           4
+Alex Vicente          
 Jose Luis De Lorenzo  6
+Cecilia Martinez      
+Fernando Ganzo        3.5
+Eulàlia Iglesias     8.5
+Ángel Quintana       6
+José Luis Losa       3.5
+Pedro Butcher         3
 Kieron Corless        3
-Violeta Kovacsics     7.5
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     7
+Luciano Monteagudo    6
+Jaime Pena            6
+Rüdiger Suchsland    
 Carlos F. Heredero    5
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
 Neil Young            4
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       3
+Boris Nelepo          
 Carlos Reviriego      7.5
-Alejandro G. Calvo    4.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       4
+Alejandro G. Calvo    3.5
+Xavi Serra            7
+Guido Castillo        5
 Ronald Rovers         8
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         5
+Fredy Friedlander     
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1422,7 +1247,7 @@ Fernando Ganzo
 Eulàlia Iglesias     5
 Ángel Quintana       5
 José Luis Losa       
-Pedro Butcher         
+Pedro Butcher         6
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        5.5
@@ -1449,8 +1274,8 @@ Philip Engel
 Antoine Thirion       5.5
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
-Alejandro G. Calvo    3
-Xavi Serra            
+Alejandro G. Calvo    3.5
+Xavi Serra            5
 Guido Castillo        
 Ronald Rovers         
 Javier H. Estrada     5.5
@@ -1513,6 +1338,20 @@ Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
+Diego Batlle          7
+Diego Lerer           7.5
+Eulàlia Iglesias     4.5
+Violeta Kovacsics     7.5
+Luciano Monteagudo    7
+Carlos F. Heredero    8
+Robert Koehler        5
+Neil Young            6
+Alexandra Zawia       7.5
+Pablo O. Scholz       8
+Alejandro G. Calvo    9
+Xavi Serra            7
+Ronald Rovers         4.5
+Fredy Friedlander     6
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1569,10 +1408,52 @@ Michael Kienzl
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
 Mike d'Angelo         6.9     https://twitter.com/gemko/status/337296532539854848
+Roger Koza            9
 Diego Batlle          9
 Diego Lerer           9
+Alex Vicente          
 Jose Luis De Lorenzo  10
-Carlos F. Heredero    8.5
+Cecilia Martinez      
+Fernando Ganzo        6
+Eulàlia Iglesias     9
+Ángel Quintana       9.5
+José Luis Losa       10
+Pedro Butcher         7
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     8.5
+Luciano Monteagudo    9
+Jaime Pena            10
+Rüdiger Suchsland    
+Carlos F. Heredero    9
+Robert Koehler        7.5
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       9.5
+Boris Nelepo          6
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       8
+Alejandro G. Calvo    9
+Xavi Serra            9
+Guido Castillo        10
+Ronald Rovers         9
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         8
+Fredy Friedlander     7
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1683,6 +1564,7 @@ Michael Kienzl
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
+Fernando Ganzo        10
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -2067,7 +1949,7 @@ Ronald Rovers
 Javier H. Estrada     7.5
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         7.5
+Alvaro Arroba         8.5
 Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      9
@@ -2270,7 +2152,7 @@ Antoine Thirion
 Michal Oleszczyk      
 Pablo O. Scholz       8
 Alejandro G. Calvo    9
-Xavi Serra            
+Xavi Serra            8
 Guido Castillo        8.5
 Ronald Rovers         
 Javier H. Estrada     6.5
@@ -2310,6 +2192,7 @@ Diego Lerer           4
 Jaime Pena            3
 Rüdiger Suchsland    2
 Fernando Juan Lima    2
+Pablo O. Scholz       3
 Guido Castillo        1
 Javier H. Estrada     7.5
 Christoph Huber      4         
@@ -2396,7 +2279,7 @@ Philip Engel
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       4
-Alejandro G. Calvo    8
+Alejandro G. Calvo    7.5
 Xavi Serra            
 Guido Castillo        
 Ronald Rovers         
@@ -2432,8 +2315,10 @@ Shaun Munro           0.5     http://www.filmschoolrejects.com/reviews/cannes-20
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
 Jose Luis De Lorenzo  7.5
+Ángel Quintana       5
 José Luis Losa       5.5
 Carlo Chatrian        5
+Jaime Pena            5.5
 Rüdiger Suchsland    6
 Robert Koehler        2.5
 Fernando Juan Lima    6
@@ -2460,7 +2345,7 @@ Shaun Munro           6       http://www.filmschoolrejects.com/reviews/cannes-20
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
 Mike d'Angelo         6.3     https://twitter.com/gemko/status/336976294615068675
 Roger Koza            8.5
-Diego Batlle          7.5
+Diego Batlle          8
 Diego Lerer           9
 Alex Vicente          6
 Jose Luis De Lorenzo  3
@@ -2469,13 +2354,13 @@ Fernando Ganzo
 Eulàlia Iglesias     8
 Ángel Quintana       8.5
 José Luis Losa       6
-Pedro Butcher         
+Pedro Butcher         6
 Kieron Corless        4.5
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     9
 Luciano Monteagudo    8.5
-Jaime Pena            9.5
+Jaime Pena            9
 Rüdiger Suchsland    
 Carlos F. Heredero    6.5
 Robert Koehler        8.5
@@ -2486,7 +2371,7 @@ Paolo Moretti
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      8
-Alexandra Zawia       9
+Alexandra Zawia       8
 Boris Nelepo          2
 Carlos Reviriego      6
 Fernando Juan Lima    7.5
@@ -2495,15 +2380,15 @@ Nando Salva
 Philip Engel          8
 Antoine Thirion       
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       7
 Alejandro G. Calvo    
-Xavi Serra            
+Xavi Serra            6.5
 Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     8.5
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         
+Alvaro Arroba         7
 Fredy Friedlander     
 # Le film français 0-4
 Stéphanie Lamome      
@@ -2540,17 +2425,49 @@ Shaun Munro          1        http://www.filmschoolrejects.com/reviews/cannes-20
 Roger Koza            6
 Diego Batlle          7
 Diego Lerer           6.5
+Alex Vicente          
 Jose Luis De Lorenzo  2
 Cecilia Martinez      6
+Fernando Ganzo        
+Eulàlia Iglesias     
 Ángel Quintana       4
+José Luis Losa       2.5
+Pedro Butcher         6
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    6
+Jaime Pena            
+Rüdiger Suchsland    
 Carlos F. Heredero    5.5
 Robert Koehler        7
+Dana Linssen          
 Cristina Nord         2.5
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
+Boris Nelepo          
 Carlos Reviriego      3.5
 Fernando Juan Lima    6
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Antoine Thirion       
+Michal Oleszczyk      
 Pablo O. Scholz       7
-Alejandro G. Calvo    2.5
+Alejandro G. Calvo    3
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
 Javier H. Estrada     3.5
+Rose Kuo              
+Pamela Bienzobas      
+Alvaro Arroba         
+Fredy Friedlander     6
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2576,9 +2493,17 @@ Shaun Munro           1       http://www.filmschoolrejects.com/reviews/cannes-20
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
 Diego Batlle          6
-Diego Lerer           6
+Diego Lerer           6.5
 Jose Luis De Lorenzo  5
+Eulàlia Iglesias     7.5
+Ángel Quintana       6
+José Luis Losa       6.5
+Jaime Pena            7
 Carlos F. Heredero    7
+Robert Koehler        4.5
+Neil Young            5
+Pablo O. Scholz       6
+Alejandro G. Calvo    5.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2602,12 +2527,20 @@ Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
+Robert Koehler        3.5
 
 "NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409844/year/2013.html
+Eulàlia Iglesias     9
+Carlos F. Heredero    9.5
+Robert Koehler        8
+Neil Young            3
+Boris Nelepo          10
+Alvaro Arroba         10
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
+Luciano Monteagudo    2
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
@@ -2616,10 +2549,16 @@ OUT OF COMPETITION
 
 "ALL IS LOST" (J.C CHANDOR) [Out of Competition]
 Mike d'Angelo         7.4     https://twitter.com/gemko/status/337170891639246848
-Diego Batlle          5.5
+Diego Batlle          6.5
 Diego Lerer           6.5
+Jose Luis De Lorenzo  7
+Ángel Quintana       8
+Pedro Butcher         6
 Carlos F. Heredero    6
 Carlos Reviriego      5.5
+Pablo O. Scholz       7
+Xavi Serra            6
+Guido Castillo        7
 # criticwire
 Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
 Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
@@ -2627,9 +2566,12 @@ Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 Alex Vicente          5
 Ángel Quintana       5.5
+José Luis Losa       5
 Pedro Butcher         5
 Alexandra Zawia       1
+Pablo O. Scholz       6
 Alejandro G. Calvo    1.5
+Xavi Serra            6
 Alvaro Arroba         3.5
 Fredy Friedlander     6
 # critic.de
@@ -2641,7 +2583,7 @@ Ryland Aldrich       7       http://www.indiewire.com/film/blood-ties
 Shaun Munro           3      http://www.filmschoolrejects.com/reviews/cannes-2013-review-blood-ties.php
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
-Roger Koza            
+Roger Koza            10
 Diego Batlle          9
 Diego Lerer           8.5
 Alex Vicente          
@@ -2655,7 +2597,7 @@ Pedro Butcher
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        7.5
-Violeta Kovacsics     
+Violeta Kovacsics     7.5
 Luciano Monteagudo    9
 Jaime Pena            10
 Rüdiger Suchsland    7.5
@@ -2677,7 +2619,7 @@ Nando Salva
 Philip Engel          
 Antoine Thirion         
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       7
 Alejandro G. Calvo    
 Xavi Serra            
 Guido Castillo        
@@ -2833,11 +2775,11 @@ Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7
-Antoine Thirion         
+Antoine Thirion       
 Michal Oleszczyk      
-Pablo O. Scholz       
-Alejandro G. Calvo    5.5
-Xavi Serra            
+Pablo O. Scholz       4
+Alejandro G. Calvo    4
+Xavi Serra            6.5
 Guido Castillo        
 Ronald Rovers         
 Javier H. Estrada     6
@@ -2884,6 +2826,9 @@ Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
 Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
+Eulàlia Iglesias     3.5
+José Luis Losa       2
+Alejandro G. Calvo    1
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
 Neil Young            6.5
@@ -2964,6 +2909,7 @@ Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
 Carlo Chatrian        6.5
+Luciano Monteagudo    7
 Jaime Pena            6.5
 Robert Koehler        6.5
 Fernando Juan Lima    7.5
@@ -2995,7 +2941,7 @@ Jaime Pena            8
 Rüdiger Suchsland    6
 Carlos F. Heredero    6
 Dana Linssen          6
-Alejandro G. Calvo    8
+Alejandro G. Calvo    6
 Guido Castillo        4
 Alvaro Arroba         10
 Eric Kohn            9   http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
@@ -3097,10 +3043,11 @@ Javier H. Estrada     6.5
 Roger Koza            5.5
 Diego Batlle          6.5
 Diego Lerer           7
-Fernando Ganzo        7
+Fernando Ganzo        8
 Eulàlia Iglesias     5.5
 Ángel Quintana       5.5
 Kieron Corless        6.5
+Violeta Kovacsics     7
 Robert Koehler        6
 Cristina Nord         8
 Boris Nelepo          7
@@ -3124,6 +3071,7 @@ Javier H. Estrada     5
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
 Roger Koza            6.5
 Diego Lerer           7
+Eulàlia Iglesias     6.5
 Robert Koehler        4.5
 
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
@@ -3158,11 +3106,15 @@ Javier H. Estrada     4.5
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
 Fernando Ganzo        7
 Carlo Chatrian        5
+Robert Koehler        3
+Alvaro Arroba         8.5
+#
 Arnaud Hée            5  
 
 "MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
   (Sundance)
 Carlo Chatrian        4.5
+Alejandro G. Calvo    5
 Fredy Friedlander     1
 Sebastian Doggart (Guardian, UK) 6 http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
 Russ Fischer (slashfilm.com, USA) 7
