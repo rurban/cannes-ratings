@@ -3142,7 +3142,7 @@ Ryland Aldrich        6      http://www.indiewire.com/film/weekend-of-a-champion
 Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/21/cannes-2013-weekend-of-a-champion-review
 
 "MAX ROSE" (Daniel NOAH) [Special Screening]
-
+Ryland Adlrich        0      https://twitter.com/RylandAldrich/status/337637358956589056
 
 SEMAINE DE LA CRITIC
 
