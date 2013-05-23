@@ -2730,7 +2730,7 @@ Till Kadritzke        5
 # criticwire
 Clementine Gallot     6       http://www.indiewire.com/film/wakolda
 Shaun Munro           1       http://www.filmschoolrejects.com/reviews/cannes-2013-review-wakolda.php
-Blake Willams         3.7     https://twitter.com/Astrostic/status/337204495811506176
+Blake Williams        3.7     https://twitter.com/Astrostic/status/337204495811506176
 
 "LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
@@ -2789,7 +2789,7 @@ Frédéric Jaeger      9
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       9        
-Blake Willams        7.8      https://twitter.com/Astrostic/status/337565096823902209
+Blake Williams        7.8      https://twitter.com/Astrostic/status/337565096823902209
 
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
@@ -2797,7 +2797,7 @@ Blake Willams        7.8      https://twitter.com/Astrostic/status/3375650968239
 Luciano Monteagudo    2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Michael Kienzl       5
-Blake Willams        0.6      https://twitter.com/Astrostic/status/337607129622007808
+Blake Williams        0.6      https://twitter.com/Astrostic/status/337607129622007808
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
@@ -3374,10 +3374,10 @@ Dana Linssen          3.5
 Javier H. Estrada     4.5
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
-Blake Willams         5.5     https://twitter.com/Astrostic/status/337127683970441216
+Blake Williams         5.5     https://twitter.com/Astrostic/status/337127683970441216
 
 "LES APACHES" (Thierry de Peretti) [Quinzaine]
-Blake Willams         4.3     https://twitter.com/Astrostic/status/337172984945049602
+Blake Williams         4.3     https://twitter.com/Astrostic/status/337172984945049602
 
 "LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
 Fernando Ganzo        7
