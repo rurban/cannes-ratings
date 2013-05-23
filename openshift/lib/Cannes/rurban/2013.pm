@@ -1223,6 +1223,7 @@ Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   7.5
 # criticwire
+Anne Thompson        9    http://www.indiewire.com/film/behind-the-candelabra
 Raffi Asdourian      5    http://www.indiewire.com/film/behind-the-candelabra
 Alex Billington      7    http://www.indiewire.com/film/behind-the-candelabra
 Kevin Jagernauth     7    http://www.indiewire.com/film/behind-the-candelabra
@@ -1620,10 +1621,10 @@ Till Kadritzke       2.5
 Daniel Kasman        
 Michael Kienzl       
 # criticwire
+Ryland Aldrich        6       http://www.indiewire.com/film/nebraska
 Jessica Kiang         5       http://www.indiewire.com/film/nebraska
 Eric Kohn             5       http://www.indiewire.com/film/nebraska
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
-Ryland Aldrich        
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
@@ -2791,13 +2792,18 @@ Daniel Kasman
 Michael Kienzl       9        
 Blake Williams        7.8      https://twitter.com/Astrostic/status/337565096823902209
 
-
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
 Luciano Monteagudo    2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook            
+Arnaud Hée           
+Christoph Huber      
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        
 Michael Kienzl       5
-Blake Williams        0.6      https://twitter.com/Astrostic/status/337607129622007808
+Blake Williams       0.6      https://twitter.com/Astrostic/status/337607129622007808
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
@@ -2971,12 +2977,15 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       5
 Christophe Carriére   2.5
+#
+Anne Thompson         6         http://www.indiewire.com/film/the-great-gatsby
 Craig Williams        2 	http://www.indiewire.com/film/the-great-gatsby
 Fico Cangiano         4
 Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
 Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
+#
 Adam Cook             
 Arnaud Hée           
 Christoph Huber       2.5     
