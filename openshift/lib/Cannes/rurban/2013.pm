@@ -1553,7 +1553,7 @@ Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 
 "NEBRASKA" (Alexander PAYNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
-Mike d'Angelo         7.1     https://twitter.com/gemko/status/337486438897704960
+Mike d'Angelo         7.1     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Diego Batlle          7
 Diego Lerer           7.5
 Eulàlia Iglesias     4.5
@@ -1626,10 +1626,11 @@ Jessica Kiang         5       http://www.indiewire.com/film/nebraska
 Eric Kohn             5       http://www.indiewire.com/film/nebraska
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
+Todd McCarthy                 http://www.hollywoodreporter.com/movie/nebraska/review/550167
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
-Mike d'Angelo         6.9     https://twitter.com/gemko/status/337296532539854848
+Mike d'Angelo         6.9     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Roger Koza            9
 Diego Batlle          9
 Diego Lerer           9
@@ -1729,10 +1730,15 @@ Till Kadritzke       9
 Daniel Kasman        
 Michael Kienzl       6
 # criticwire
+Eric Kohn           8         http://www.indiewire.com/article/cannes-lesbian-coming-of-age-epic-blue-is-the-warmest-color-offers-honest-sexually-frank-insights
 Joachim Kurz        10        http://www.kino-zeit.de/blog/cannes/la-vie-d-adele-chapitre-1-2
 Jon Frosch          10        http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 Mathilde Cesbron              http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00561-abdellatif-kechiche-la-vie-d-adele-n-est-pas-un-film-militant-homosexuel.php
 Maxime Pargaud (Le Figaro, France) 10  http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00465--la-vie-d-adele-un-chef-d-oeuvre-bouleversant.php
+Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
+Jordan Mintzer (Hollywood Reporter, USA) http://www.hollywoodreporter.com/review/blue-is-warmest-color-cannes-527347
+David Hudson                  http://www.fandor.com/blog/daily-cannes-2013-abdellatif-kechiches-blue-is-the-warmest-color
+Peter Bradshaw      8         http://www.guardian.co.uk/film/2013/may/23/cannes-2013-blue-warmest-colour-review
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
