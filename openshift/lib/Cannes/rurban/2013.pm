@@ -1400,18 +1400,18 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
+Nicolas Bell         6
+Christophe Beney     8
+David Calhoun        2
+Per Juul Carlsen     6
 #Mike d'Angelo       
 Carlos F. Heredero   
-Raffi Asdourian      
+Raffi Asdourian      5
 #Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     
+Eric Lavallée        6
+Fabien Lemercier     7
 Guy Lodge            
-Liu Min              
+Liu Min              2
 Isabelle Regnier     
 Cédric Succivalli    
 Blake Williams       
@@ -1508,22 +1508,22 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
+Nicolas Bell         4
+Christophe Beney     6
+David Calhoun        6
+Per Juul Carlsen     2
 #Mike d'Angelo       
-Carlos F. Heredero   
+Carlos F. Heredero   4
 Raffi Asdourian      
 #Eric Kohn           
 Eric Lavallée        
-Fabien Lemercier     
+Fabien Lemercier     4
 Guy Lodge            
-Liu Min              
+Liu Min              5
 Isabelle Regnier     
 Cédric Succivalli    
 Blake Williams       
-#Neil Young          
+#Neil Young          7
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1577,22 +1577,22 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
+Nicolas Bell         5
+Christophe Beney     0
 David Calhoun        
 Per Juul Carlsen     
 #Mike d'Angelo       
-Carlos F. Heredero   
+Carlos F. Heredero   6
 Raffi Asdourian      
 #Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     
+Eric Lavallée        5
+Fabien Lemercier     7
 Guy Lodge            
-Liu Min              
+Liu Min              7
 Isabelle Regnier     
 Cédric Succivalli    
 Blake Williams       
-#Neil Young          
+#Neil Young          6
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1684,21 +1684,21 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
+Nicolas Bell         9
+Christophe Beney     10
 David Calhoun        
 Per Juul Carlsen     
 #Mike d'Angelo       
-Carlos F. Heredero   
+Carlos F. Heredero   8
 Raffi Asdourian      
 #Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     
+Eric Lavallée        9        http://www.ioncinema.com/news/film-festivals/2013-cannes-critics-panel-day-9-kechiche-blue-is-the-warmest-colour
+Fabien Lemercier     9
 Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
+Liu Min              10
+Isabelle Regnier     8
+Cédric Succivalli    10
+Blake Williams       6
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      
