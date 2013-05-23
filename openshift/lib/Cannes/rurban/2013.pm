@@ -1436,7 +1436,7 @@ Christophe Carriére   7.5
 Adam Cook            1
 Arnaud Hée           
 Christoph Huber      7.5        
-Frédéric Jaeger      7.5
+Frédéric Jaeger      7.5      http://www.critic.de/film/only-god-forgives-5060/
 Till Kadritzke       1
 Daniel Kasman        1
 Michael Kienzl       5
@@ -1446,6 +1446,7 @@ Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
 Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
 Eric Kohn             3       http://www.indiewire.com/article/cannes-how-only-god-forgives-suggests-ryan-goslings-schtick-has-worn-thin
 Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
+Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/stoerung-und-verstoerung-das-bild-des-mannes-in-nicolas-winding-refns-only-god-forgives
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -1726,8 +1727,9 @@ Till Kadritzke       9
 Daniel Kasman        
 Michael Kienzl       6
 # criticwire
+Joachim Kurz        10        http://www.kino-zeit.de/blog/cannes/la-vie-d-adele-chapitre-1-2
 Jon Frosch          10        http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
-Mathilde Cesbron (Le Figaro, France)  http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00561-abdellatif-kechiche-la-vie-d-adele-n-est-pas-un-film-militant-homosexuel.php
+Mathilde Cesbron              http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00561-abdellatif-kechiche-la-vie-d-adele-n-est-pas-un-film-militant-homosexuel.php
 Maxime Pargaud (Le Figaro, France) 10  http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00465--la-vie-d-adele-un-chef-d-oeuvre-bouleversant.php
 
 "THE IMMIGRANT" (James GRAY) [Competition]
@@ -3545,7 +3547,9 @@ Leda Galanou (Flix, France)
 Lee Marshall (Screen Daily, USA)
 Marc van de Klashorst (IntlCinephileSociety, Netherlands)
 Mark Adams (Screen Daily, USA)
+Mathilde Cesbron (Le Figaro, France)
 Matt Holmes (Obsessedwithfilm.com, USA) 
+Maxime Pargaud (Le Figaro, France)
 Michael Ghennam (Les Fiches du Cinéma, France)
 Michael Sennhauser (SRF, Suisse)
 Michael Giltz (The Huffington Post, USA) 
