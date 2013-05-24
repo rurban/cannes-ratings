@@ -3623,6 +3623,7 @@ Eric Kohn            4       http://www.indiewire.com/film/magic-magic
 Arnaud Hée           2.5     
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
+Michael Kienzl       7.5
 
 "HENRI" (Yolande Moreau) [Quinzaine]
 
