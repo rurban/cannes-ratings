@@ -513,7 +513,7 @@ Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           5.5
 Philip Engel          7
-Antoine Thirion       7.5
+Antoine Thirion       7.5     http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
 Alejandro G. Calvo    5
@@ -625,7 +625,7 @@ Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8
-Antoine Thirion       6.5
+Antoine Thirion       6.5     http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
 Alejandro G. Calvo    7.5
@@ -961,7 +961,7 @@ Fernando Juan Lima    6.5
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          2.5
-Antoine Thirion         
+Antoine Thirion               http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       4.5
 Alejandro G. Calvo    4
@@ -1397,7 +1397,7 @@ Fernando Juan Lima
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7
-Antoine Thirion       4
+Antoine Thirion       4       http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       4
 Alejandro G. Calvo    3.5
@@ -2293,6 +2293,7 @@ Fernando Juan Lima    8
 Paolo Bertolin        7.5
 Nando Salva           
 Philip Engel          
+Antoine Thirion       9.3     http://www.independencia.fr/revue/spip.php?article768
 Eugenio Renzi         9.5
 Michal Oleszczyk      
 Pablo O. Scholz       
@@ -2412,7 +2413,7 @@ Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          9
-Antoine Thirion       5
+Antoine Thirion       5       http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
 Alejandro G. Calvo    6.5
@@ -2751,7 +2752,7 @@ Fernando Juan Lima    7.5
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8
-Antoine Thirion       5
+Antoine Thirion       5       http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       7
 Alejandro G. Calvo    
@@ -3626,7 +3627,7 @@ Alejandro G. Calvo (Sensacine, España)
 Alex Vicente (Público, España) 
 Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria)
 Ángel Quintana (Cahiers du cinema Espana, España)
-Antoine Thirion (?, France)
+Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
 Boris Nelepo (Kinote daily, Russia)
 Carlo Chatrian (Duellanti, Panoramiches, Italy) 
 Carlos Heredero (Caimán CDC, España) 
