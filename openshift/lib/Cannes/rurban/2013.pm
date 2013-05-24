@@ -838,7 +838,7 @@ Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            7.5      http://www.jigsawlounge.co.uk/film/reviews/canas13/
-Scott Foundas         
+Scott Foundas         10      http://variety.com/2013/film/reviews/cannes-film-review-inside-llewyn-davis-1200482240/#!1/review-mulligantimberlake/
 Marcelo Alderete      
 Alexandra Zawia       7.5
 Boris Nelepo          
@@ -917,13 +917,15 @@ Logan Hill           9      http://www.indiewire.com/film/inside-llewyn-davis
 Alex Billington      9      http://www.indiewire.com/film/inside-llewyn-davis
 Clementine Gallot    9      http://www.indiewire.com/film/inside-llewyn-davis
 Jon Frosch           9      http://www.indiewire.com/film/inside-llewyn-davis
-Kevin Jagernauth     9      http://www.indiewire.com/film/inside-llewyn-davis
+Kevin Jagernauth     9     http://www.indiewire.com/film/inside-llewyn-davis
 Eric Kohn            8      http://www.indiewire.com/film/inside-llewyn-davis
 Ryland Aldrich       8      http://www.indiewire.com/film/inside-llewyn-davis
 Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 Jo Ann Titmarsh      10     http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-inside.html
 John Bleasdale       10     http://www.cine-vue.com/2013/05/cannes-film-festival-2013-inside-llewyn.html
 Peter Bradshaw       10     http://www.guardian.co.uk/film/2013/may/18/cannes-2013-inside-llewyn-davis-review
+Jordan Hoffmann      9.5    http://www.film.com/movies/inside-llewyn-davis-review
+Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
