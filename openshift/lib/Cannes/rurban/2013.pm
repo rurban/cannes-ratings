@@ -3267,7 +3267,7 @@ Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/21/cannes-2
 "MAX ROSE" (Daniel NOAH) [Special Screening]
 Jaime Pena            4
 #
-Ryland Adlrich        0      https://twitter.com/RylandAldrich/status/337637358956589056
+Ryland Aldrich        0      https://twitter.com/RylandAldrich/status/337637358956589056
 
 SEMAINE DE LA CRITIC
 
@@ -3715,7 +3715,7 @@ David Stratton (The Australian, Australia)
 Derek Malcolm (London Evening, UK) 
 Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 
-Dennis Lim (The New York Times, USA) 
+Dennis Lim (New York Times, USA)
 Michel Ciment (Positif, France) 
 Kate Muir/Wendy Ide (The Times, UK) 
 Kate Muir (The Times, UK) 
@@ -3750,6 +3750,8 @@ Anna Tatarska (Fandor, KINO, USA)
 Anne Thompson (Indiewire, USA) 
 Beatrice Behn (Kino-Zeit, Deutschland)
 Brian Brooks (indieWIRE, USA) 
+Boyd van Hoeij (The Hollywood Reporter, Winq/Mate, Filmkrant, Cineuropa, Ex-Variety, Luxembourg)
+Caryn James (indieWIRE, ex-New York Times, USA)
 Catherine Shoard (Guardian, UK)
 Chris Knipp (Filmleaf, USA)
 Clementine Gallot (Cahiers du cinema, France)
@@ -3786,6 +3788,7 @@ Justin Chang (Variety, USA)
 Kaleen Aftab (The Independent, UK)
 Karina Longworth (LA Weekly, USA) 
 Keith Uhlich (Time Out New York, USA)
+Kirk Honeycott (The Hollywood Reporter, USA)
 Kristy Puchko (Freelance, USA)
 Laremy Legel (Film.com, USA) 
 Leda Galanou (Flix, France)
