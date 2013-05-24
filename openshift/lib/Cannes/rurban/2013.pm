@@ -1653,20 +1653,20 @@ Cédric Succivalli
 Blake Williams       7        https://twitter.com/Astrostic/status/337486222484193280
 #Neil Young          6
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      5
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
+Eric Neuhoff          9
+Stéphane Delorme      1
+Thomas Sotinel        7.5
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          5
+Jean Roy              7.5
+Serge Kaganski        2.5
+Pierre Fornerod       5
+Pascal Merigeau       7.5
+Danielle Attali       2.5
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            5
@@ -1763,21 +1763,21 @@ Cédric Succivalli    10
 Blake Williams       5.7      https://twitter.com/Astrostic/status/337290597113155585
 #Neil Young          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      9
+Arnaud Schwartz       9
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme        
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5
+Thomas Sotinel        7.5
+Philippe Rouyer       9
+Pierre Vavasseur      9
+Pierre Murat          9
+Jean Roy              9
+Serge Kaganski        9
+Pierre Fornerod       9
+Pascal Merigeau       9
+Danielle Attali       9
+Christophe Carriére   9
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           9
@@ -2888,13 +2888,13 @@ Philip Engel          6
 Pablo O. Scholz       6
 Alejandro G. Calvo    5.5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      2.5
+Arnaud Schwartz       5
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme         
-Thomas Sotinel        
-Philippe Rouyer       
+Thomas Sotinel        5
+Philippe Rouyer       7.5
 Pierre Vavasseur      
 Pierre Murat          
 Jean Roy              
