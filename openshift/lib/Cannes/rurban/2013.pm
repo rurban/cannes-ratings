@@ -3362,7 +3362,7 @@ Robert Koehler        4
 #
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-for-those-in-peril-review
 
-"THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine]
+"THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine] Rails d’Or (critics week viewers choice award)
 Carlo Chatrian        6.5
 Robert Koehler        7
 Dana Linssen          4.5
