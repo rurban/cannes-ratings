@@ -1799,6 +1799,7 @@ Peter Bradshaw      8         http://www.guardian.co.uk/film/2013/may/23/cannes-
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
+Mike d'Angelo         5.6     https://twitter.com/gemko/status/337879203880001537
 Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           9
@@ -3879,9 +3880,8 @@ EOF
 our $FOOTER = "
 <pre>
 --
-http://www.todaslascriticas.com.ar/cannes
-http://www.ioncinema.com/
-History at https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/lib/Cannes/rurban/2013.pm
 
 </pre>";
 
