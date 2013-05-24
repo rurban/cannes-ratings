@@ -3444,7 +3444,7 @@ Eric Kohn            9        http://www.indiewire.com/article/cannes-is-ari-fol
 Blake Williams       5.2      https://twitter.com/Astrostic/status/336001913298513920
 Xan Brooks           6        http://www.guardian.co.uk/film/2013/may/16/the-congress-review
 
-"THE SELFISH GIANT" (Clio Barnard) [Quinzaine]
+"THE SELFISH GIANT" (Clio Barnard) [Quinzaine]  Best European film
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Diego Batlle          7.5
 Diego Lerer           7
@@ -3539,7 +3539,7 @@ Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 Robert Koehler        7.5
 Javier H. Estrada     6.5
 
-"TIP TOP" (Serge Bozon) [Quinzaine]
+"TIP TOP" (Serge Bozon) [Quinzaine] Special mention
 Roger Koza            5.5
 Diego Batlle          6.5
 Diego Lerer           7
@@ -3580,7 +3580,7 @@ Diego Lerer           7
 Eulàlia Iglesias     6.5
 Robert Koehler        4.5
 
-"LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
+"LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine] Art Cinema Award and the Society of Dramatic Authors and Composers' Prize
 Carlo Chatrian        4
 Robert Koehler        6.5
 #
