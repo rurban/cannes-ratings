@@ -132,9 +132,9 @@ sub _critic_detail {
   for my $t (sort {$h->{title}->{$b}->[0] <=> $h->{title}->{$a}->[0]}
 	     keys %{$h->{title}}) {
     my $f = $h->{title}->{$t};
-    my $c = @$f == 3 ? sprintf("[ %s - %0.2f = %0.2f ]", @$f)
+    my $c = @$f == 3 ? sprintf("[&nbsp;%s&nbsp;-&nbsp;%0.2f&nbsp;=&nbsp;%0.2f&nbsp;]", @$f)
       : defined($f->[0])
-        ? "[ ".$f->[0]." ]" 
+        ? "[&nbsp;".$f->[0]."&nbsp;]" 
         : "[-]";
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$t</td>"
       ."<td class=detail>$c</td></tr>\n";
