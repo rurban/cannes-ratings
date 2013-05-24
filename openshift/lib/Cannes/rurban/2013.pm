@@ -3580,11 +3580,16 @@ Diego Lerer           7
 Eulàlia Iglesias     6.5
 Robert Koehler        4.5
 
-"LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine] Art Cinema Award and the Society of Dramatic Authors and Composers' Prize
+"LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine] Art Cinema Award + Prix SACD
 Carlo Chatrian        4
 Robert Koehler        6.5
 #
 Arnaud Hée            5
+Beatrice Moreno               http://www.rue89.com/rue89-culture/2013/05/23/les-garcons-guillaume-a-table-comedie-jubilatoire-lannee-242606
+Danielle Attali       8       http://www.lejdd.fr/Culture/Cinema/Actualite/Guillaume-Gallienne-remet-le-couvert-607989
+Franck Nouchi (Le Monde, France)    http://www.lemonde.fr/festival-de-cannes-2013/article/2013/05/21/les-garcons-et-guillaume-a-table-guillaume-gallienne-un-luron-moins-gay-qu-il-n-y-parait_3408916_1832090.html
+Olivier Séguret (Liberation, France) http://next.liberation.fr/cinema/2013/05/20/gallienne-a-la-colle-maternelle_904360
+Laurent Delmas               http://www.franceinter.fr/blog-le-blog-de-laurent-delmas-itineraire-dun-enfant-pas-gay
 
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
 Kieron Corless        4.5
