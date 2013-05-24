@@ -48,7 +48,7 @@ Violeta Kovacsics    3
 Luciano Monteagudo   4
 Jaime Pena           4
 Rüdiger Suchsland    7.5
-Carlos Heredero      5.5
+Carlos F. Heredero   5.5
 Robert Koehler       4
 Dana Linssen         7
 Cristina Nord        4.5
@@ -113,7 +113,7 @@ Christophe Beney     7
 David Calhoun        8
 Per Juul Carlsen     6
 #Mike d'Angelo       5
-Carlos F. Heredero   4
+#Carlos F. Heredero   4
 Raffi Asdourian      
 #Eric Kohn           6
 Eric Lavallée        6        C+
@@ -227,7 +227,7 @@ Christophe Beney     8
 David Calhoun        6
 Per Juul Carlsen     8
 #Mike d'Angelo       7
-Carlos F. Heredero   5
+#Carlos F. Heredero   5
 Raffi Asdourian      
 #Eric Kohn            
 Eric Lavallée        4
@@ -333,7 +333,7 @@ Christophe Beney     8
 David Calhoun        7
 Per Juul Carlsen     2
 #Mike d'Angelo       6
-Carlos F. Heredero   8
+#Carlos F. Heredero   8
 Raffi Asdourian                
 #Eric Kohn            
 Eric Lavallée        8
@@ -448,7 +448,7 @@ Christophe Beney
 David Calhoun        5
 Per Juul Carlsen     10
 #Mike d'Angelo       9
-Carlos F. Heredero   6
+#Carlos F. Heredero   6
 Raffi Asdourian      7
 #Eric Kohn            
 Eric Lavallée        6        http://www.indiewire.com/film/the-past
@@ -549,7 +549,7 @@ Christophe Beney     6
 David Calhoun        5
 Per Juul Carlsen     4
 #Mike d'Angelo       4
-Carlos F. Heredero   8
+#Carlos F. Heredero   8
 Raffi Asdourian      4         
 #Eric Kohn           2 
 Eric Lavallée        4
@@ -662,7 +662,7 @@ Christophe Beney     4
 David Calhoun        7
 Per Juul Carlsen     8
 #Mike d'Angelo       5
-Carlos F. Heredero   6
+#Carlos F. Heredero   6
 Raffi Asdourian      6
 #Eric Kohn            
 Eric Lavallée        
@@ -772,7 +772,7 @@ Christophe Beney     2
 David Calhoun        
 Per Juul Carlsen     4
 #Mike d'Angelo       5
-Carlos F. Heredero   2
+#Carlos F. Heredero   2
 Raffi Asdourian      6
 #Eric Kohn           7
 Eric Lavallée        5
@@ -876,7 +876,7 @@ Christophe Beney     8
 David Calhoun        9
 Per Juul Carlsen     8
 #Mike d'Angelo       6
-Carlos F. Heredero   7
+#Carlos F. Heredero   7
 Raffi Asdourian      7
 #Eric Kohn            
 Eric Lavallée        7
@@ -913,7 +913,8 @@ Daniel Kasman
 Michael Kienzl
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
 # criticwire
-Alex Billington      9       http://www.indiewire.com/film/la-danza-de-la-realidad
+Logan Hill           9      http://www.indiewire.com/film/inside-llewyn-davis
+Alex Billington      9      http://www.indiewire.com/film/inside-llewyn-davis
 Clementine Gallot    9      http://www.indiewire.com/film/inside-llewyn-davis
 Jon Frosch           9      http://www.indiewire.com/film/inside-llewyn-davis
 Kevin Jagernauth     9      http://www.indiewire.com/film/inside-llewyn-davis
@@ -998,7 +999,7 @@ Christophe Beney     4
 David Calhoun        
 Per Juul Carlsen     2
 #Mike d'Angelo       7
-Carlos F. Heredero   6
+#Carlos F. Heredero   6
 Raffi Asdourian      3
 #Eric Kohn           
 Eric Lavallée        
@@ -1108,7 +1109,7 @@ Christophe Beney
 David Calhoun        
 Per Juul Carlsen     0
 #Mike d'Angelo       3
-Carlos F. Heredero   4
+#Carlos F. Heredero   4
 Raffi Asdourian      
 #Eric Kohn           
 Eric Lavallée        
@@ -1213,7 +1214,7 @@ Christophe Beney     6
 David Calhoun        8
 Per Juul Carlsen     4
 #Mike d'Angelo       6
-Carlos F. Heredero   
+#Carlos F. Heredero   0
 Raffi Asdourian      5
 #Eric Kohn           
 Eric Lavallée        
@@ -1328,7 +1329,7 @@ Christophe Beney
 David Calhoun        9
 Per Juul Carlsen     8
 #Mike d'Angelo       6
-Carlos F. Heredero   0
+#Carlos F. Heredero   0
 Raffi Asdourian      6
 #Eric Kohn           
 Eric Lavallée        5
@@ -1425,13 +1426,13 @@ Nicolas Bell         6
 Christophe Beney     8
 David Calhoun        2
 Per Juul Carlsen     6
-#Mike d'Angelo       
-Carlos F. Heredero   
+#Mike d'Angelo       2
+#Carlos F. Heredero   
 Raffi Asdourian      5
-#Eric Kohn           
+#Eric Kohn           3
 Eric Lavallée        6
 Fabien Lemercier     7
-Guy Lodge            
+Guy Lodge            5
 Liu Min              2
 Isabelle Regnier     
 Cédric Succivalli    
@@ -1535,13 +1536,13 @@ Nicolas Bell         4
 Christophe Beney     6
 David Calhoun        6
 Per Juul Carlsen     2
-#Mike d'Angelo       
-Carlos F. Heredero   4
-Raffi Asdourian      
+#Mike d'Angelo       5
+#Carlos F. Heredero   4
+Raffi Asdourian      2
 #Eric Kohn           
 Eric Lavallée        
 Fabien Lemercier     4
-Guy Lodge            
+Guy Lodge            6
 Liu Min              5
 Isabelle Regnier     
 Cédric Succivalli    
@@ -1637,15 +1638,15 @@ Screen International
 # ioncinema 0-5
 Nicolas Bell         5
 Christophe Beney     0
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-Carlos F. Heredero   6
-Raffi Asdourian      
-#Eric Kohn           
+David Calhoun        7
+Per Juul Carlsen     6
+#Mike d'Angelo       8
+#Carlos F. Heredero   6
+Raffi Asdourian      7
+#Eric Kohn           5
 Eric Lavallée        5
 Fabien Lemercier     7
-Guy Lodge            
+Guy Lodge            4
 Liu Min              7
 Isabelle Regnier     
 Cédric Succivalli    
@@ -1747,15 +1748,15 @@ Screen International
 # ioncinema 0-5
 Nicolas Bell         9
 Christophe Beney     10
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-Carlos F. Heredero   8
+David Calhoun        9
+Per Juul Carlsen     10
+#Mike d'Angelo       7
+#Carlos F. Heredero   8
 Raffi Asdourian      
-#Eric Kohn           
+#Eric Kohn           9
 Eric Lavallée        9        http://www.ioncinema.com/news/film-festivals/2013-cannes-critics-panel-day-9-kechiche-blue-is-the-warmest-colour
 Fabien Lemercier     9
-Guy Lodge                     http://www.hitfix.com/in-contention/cannes-check-2013-abdellatif-kechiches-blue-is-the-warmest-color
+Guy Lodge            9        http://www.hitfix.com/in-contention/cannes-check-2013-abdellatif-kechiches-blue-is-the-warmest-color
 Liu Min              10
 Isabelle Regnier     8
 Cédric Succivalli    10
@@ -1824,20 +1825,20 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
+Nicolas Bell         7
 Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-Carlos F. Heredero   
-Raffi Asdourian      
-#Eric Kohn           
+David Calhoun        4
+Per Juul Carlsen     0
+#Mike d'Angelo       6
+#Carlos F. Heredero   6
+Raffi Asdourian      6
+#Eric Kohn           6
 Eric Lavallée        
-Fabien Lemercier     
+Fabien Lemercier     3
 Guy Lodge            
 Liu Min              
 Isabelle Regnier     
-Cédric Succivalli    
+Cédric Succivalli    5
 Blake Williams       
 #Neil Young          
 # Le film français 0-4
@@ -1925,21 +1926,21 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
+Nicolas Bell         4
 Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
+David Calhoun        5
+Per Juul Carlsen     6
 #Mike d'Angelo       
-Carlos F. Heredero   
+#Carlos F. Heredero   5
 Raffi Asdourian      
 #Eric Kohn           
 Eric Lavallée        
-Fabien Lemercier     
-Guy Lodge            
+Fabien Lemercier     5
+Guy Lodge            4
 Liu Min              
 Isabelle Regnier     
 Cédric Succivalli    
-Blake Williams       
+Blake Williams       5
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1985,7 +1986,7 @@ Christophe Beney
 David Calhoun        
 Per Juul Carlsen     
 #Mike d'Angelo       
-Carlos F. Heredero   
+#Carlos F. Heredero   
 Raffi Asdourian      
 #Eric Kohn           
 Eric Lavallée        
@@ -2040,7 +2041,7 @@ Christophe Beney
 David Calhoun        
 Per Juul Carlsen     
 #Mike d'Angelo       
-Carlos F. Heredero   
+#Carlos F. Heredero   
 Raffi Asdourian      
 #Eric Kohn           
 Eric Lavallée        
@@ -2251,10 +2252,12 @@ Daniel Kasman
 Michael Kienzl       4       
 #
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
-Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
+Logan Hill           9        http://www.indiewire.com/film/fruitvale
+Raffi Asdourian      5        http://www.indiewire.com/film/fruitvale
 Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
-John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
 Blake Williams       4.0     https://twitter.com/Astrostic/status/335157906041339904
+John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
+Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
 "L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
@@ -2977,6 +2980,7 @@ Pablo O. Scholz       7
 Xavi Serra            6
 Guido Castillo        7
 # criticwire
+Logan Hill            8       http://www.indiewire.com/film/all-is-lost
 Raffi Asdourian       7       http://www.indiewire.com/film/all-is-lost
 Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
 Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
@@ -3245,6 +3249,7 @@ Alexandra Zawia       4.5
 Xavi Serra            4
 Alvaro Arroba         5.5
 # criticwire
+Logan Hill           7       http://www.indiewire.com/film/seduced-abandoned
 Alex Billington      3       http://www.indiewire.com/film/seduced-abandoned
 Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
 Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
@@ -3256,6 +3261,7 @@ José Luis Losa       2
 Rüdiger Suchsland    6
 Alejandro G. Calvo    1
 #
+Logan Hill           2       http://www.indiewire.com/film/muhammad-alis-greatest-fight
 Xan Brooks           4       http://www.guardian.co.uk/film/2013/may/22/muhammad-ali-greatest-fight-cannes-2013
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
