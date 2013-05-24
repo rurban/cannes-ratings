@@ -1253,7 +1253,10 @@ Ryland Aldrich       6    http://twitchfilm.com/2013/05/cannes-2013-review-behin
 Kirk Honeycott       8    http://honeycuttshollywood.com/behind-candelabra-review/
 Shaun Munro          7    http://www.filmschoolrejects.com/reviews/cannes-2013-review-behind-the-candelabra.php
 Peter Bradshaw       8    http://www.guardian.co.uk/film/2013/may/21/behind-the-candelabra-review-steven-soderbergh
-
+Manohla Dargis            http://artsbeat.blogs.nytimes.com/2013/05/21/cannes-film-festival-a-sympathetic-tale-of-marriage-and-celebrity/
+# metacritic
+Richard Corliss      10   http://entertainment.time.com/2013/05/21/soderberghs-behind-the-candelabra-michael-douglas-is-liberace/
+Peter Debruge        7    http://variety.com/2013/film/reviews/cannes-film-review-behind-the-candelabra-1200482161/
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
@@ -1360,6 +1363,7 @@ Christophe Carriére   7.5
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 Shaun Munro          6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-the-great-beauty-is-a-sight-for-sore-eyes.php
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/21/cannes-review-great-beauty-sorrentino
+Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -1682,8 +1686,9 @@ Jessica Kiang         5       http://www.indiewire.com/film/nebraska
 Eric Kohn             5       http://www.indiewire.com/film/nebraska
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
-Todd McCarthy                 http://www.hollywoodreporter.com/movie/nebraska/review/550167
+Todd McCarthy        10       http://www.hollywoodreporter.com/movie/nebraska/review/550167
 Peter Bradshaw        8       http://www.guardian.co.uk/film/2013/may/23/cannes-2013-nebraska-first-look-review
+Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?_r=0
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -1796,6 +1801,7 @@ Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-
 Jordan Mintzer (Hollywood Reporter, USA) http://www.hollywoodreporter.com/review/blue-is-warmest-color-cannes-527347
 David Hudson                  http://www.fandor.com/blog/daily-cannes-2013-abdellatif-kechiches-blue-is-the-warmest-color
 Peter Bradshaw      8         http://www.guardian.co.uk/film/2013/may/23/cannes-2013-blue-warmest-colour-review
+Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
@@ -2178,9 +2184,12 @@ Michael Kienzl        5
 
 "FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
   Sundance - Main Prices
+# metacritic
 Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-ryan-cooglers-fruitvale-renders-a-tragic-police-shooting-in-personal-terms
 Todd McCarthy (The Hollywood Reporter, USA) 8 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
 Geoff Berkshire (Variety, USA) 5 http://www.metacritic.com/movie/fruitvale-station/critic-reviews
+Jessica Kiang        7.5      http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
+#
 Roger Alan Koza      
 Diego Batlle         6
 Diego Lerer          5.5
@@ -2255,7 +2264,6 @@ Michael Kienzl       4
 Mike d'Angelo        w/o      https://twitter.com/gemko/status/335147871613640704
 Logan Hill           9        http://www.indiewire.com/film/fruitvale
 Raffi Asdourian      5        http://www.indiewire.com/film/fruitvale
-Jessica Kiang        6        http://blogs.indiewire.com/theplaylist/cannes-review-fruitvale-station-recounts-a-tragic-true-life-story-with-good-performances-and-good-intentions-but-little-subtlety-20130517
 Blake Williams       4.0     https://twitter.com/Astrostic/status/335157906041339904
 John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
 Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
@@ -3066,7 +3074,7 @@ Michael Kienzl        7.5
   (US premiered already May 7)
 Stephanie Zacharek (Village Voice, USA) 7 http://www.villagevoice.com/2013-05-08/film/gatsby-s-sometimes-great-but-not-always-good/full/
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.hollywoodreporter.com/movie/great-gatsby/review/451988
-Richard Corliss (Time, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
+Richard Corliss       7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 David Edelstein (New York Magazine-Vulture, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 A.O.Scott (New York Times, USA) 7 http://www.metacritic.com/movie/the-great-gatsby/critic-reviews
 Scott Foundas (Variety, USA) 6 http://variety.com/2013/film/reviews/the-great-gatsby-review-1200447930/#!1/review-tobey-maguire/
@@ -3574,6 +3582,8 @@ Javier H. Estrada     4
 
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
   (Sundance Midnight)
+Eric Kohn            9.1      http://www.indiewire.com/article/review_survival_of_the_trimmest_mexican_cannibalism_as_metaphor_in_we_are_w/
+Keith Uhlich         2        http://newyork.timeout.com/arts-culture/film/924889/we-are-what-we-are
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
 Eulàlia Iglesias     6.5
 Ángel Quintana       6.5
@@ -3802,6 +3812,8 @@ Kristy Puchko (Freelance, USA)
 Laremy Legel (Film.com, USA) 
 Leda Galanou (Flix, France)
 Lee Marshall (Screen Daily, USA)
+Logan Hill (Vulture, New York Times, This American Life, WSJ, Rolling Stone, Wired, GQ, USA)
+Mahnola Dargis (New York Times, USA)
 Marc van de Klashorst (IntlCinephileSociety, Netherlands)
 Mark Adams (Screen Daily, USA)
 Mathilde Cesbron (Le Figaro, France)
