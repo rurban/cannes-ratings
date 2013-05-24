@@ -1085,7 +1085,7 @@ Alvaro Arroba
 Fredy Friedlander     6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook                    
-Arnaud Hée           4       
+Arnaud Hée           1       
 Christoph Huber              
 Frédéric Jaeger      6       http://www.critic.de/film/un-chateau-en-italie-5544/
 Till Kadritzke       
@@ -1191,7 +1191,7 @@ Fredy Friedlander     6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5     
 Arnaud Hée           
-Christoph Huber      6        
+Christoph Huber      6       
 Frédéric Jaeger      6       http://www.critic.de/film/behind-the-candelabra-5501/
 Till Kadritzke       
 Daniel Kasman        6
@@ -1308,7 +1308,7 @@ Adam Cook
 Arnaud Hée           1       
 Christoph Huber              
 Frédéric Jaeger      2.5     
-Till Kadritzke       2.5     
+Till Kadritzke       2.5     http://www.critic.de/film/la-grande-bellezza-5457/
 Daniel Kasman        
 Michael Kienzl       
 # Screen Daily (0-4)
@@ -1454,8 +1454,8 @@ Pascal Merigeau       2.5
 Danielle Attali       2.5
 Christophe Carriére   7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook            1
-Arnaud Hée           
+Adam Cook            1        http://mubi.com/notebook/posts/cannes-2013-hollow-cinema-nicolas-winding-refns-only-god-forgives
+Arnaud Hée           4
 Christoph Huber      7.5        
 Frédéric Jaeger      7.5      http://www.critic.de/film/only-god-forgives-5060/
 Till Kadritzke       1
@@ -1565,7 +1565,7 @@ Danielle Attali       2.5
 Christophe Carriére   5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            6
-Arnaud Hée           
+Arnaud Hée           6
 Christoph Huber              
 Frédéric Jaeger      
 Till Kadritzke       4
@@ -1668,12 +1668,12 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook            
+Adam Cook            5
 Arnaud Hée           
 Christoph Huber              
 Frédéric Jaeger      2.5
-Till Kadritzke       2.5
-Daniel Kasman        
+Till Kadritzke       2.5      http://www.critic.de/film/nebraska-5552/
+Daniel Kasman        2.5
 Michael Kienzl       
 # criticwire
 Ryland Aldrich        6       http://www.indiewire.com/film/nebraska
@@ -1779,10 +1779,10 @@ Danielle Attali
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
-Arnaud Hée           
+Arnaud Hée           9
 Christoph Huber              
 Frédéric Jaeger      9
-Till Kadritzke       9
+Till Kadritzke       9        http://www.critic.de/film/blue-is-the-warmest-color-5551/
 Daniel Kasman        
 Michael Kienzl       6
 # criticwire
@@ -1858,12 +1858,12 @@ Danielle Attali
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            9
-Arnaud Hée           
-Christoph Huber              
-Frédéric Jaeger      
-Till Kadritzke       
-Daniel Kasman        
-Michael Kienzl       
+Arnaud Hée           6
+Christoph Huber      7.5       
+Frédéric Jaeger      5
+Till Kadritzke       4
+Daniel Kasman        9        http://mubi.com/notebook/posts/cannes-2013-dialogues-james-grays-the-immigrant
+Michael Kienzl       6
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
@@ -1959,10 +1959,10 @@ Danielle Attali
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
-Arnaud Hée           
-Christoph Huber              
-Frédéric Jaeger      
-Till Kadritzke       
+Arnaud Hée           6
+Christoph Huber      5       
+Frédéric Jaeger      6
+Till Kadritzke       4
 Daniel Kasman        
 Michael Kienzl       
 
@@ -2576,6 +2576,14 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                    
+Arnaud Hée                   
+Christoph Huber      4        
+Frédéric Jaeger      
+Till Kadritzke       
+Daniel Kasman        4
+Michael Kienzl       
 
 "OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
@@ -2773,11 +2781,11 @@ Danielle Attali
 Christophe Carriére   5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5        
-Arnaud Hée                   
+Arnaud Hée           5        
 Christoph Huber              
 Frédéric Jaeger      7.5     
 Till Kadritzke       9       
-Daniel Kasman        7.5       
+Daniel Kasman        7.5      http://mubi.com/notebook/posts/cannes-2013-the-gloaming-claire-denis-bastards
 Michael Kienzl       7.5      http://www.critic.de/film/les-salauds-5560/
 # criticwire
 Raffi Asdourian      7        http://www.indiewire.com/film/les-salauds
@@ -2852,6 +2860,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Arnaud Hée            5
 Till Kadritzke        5
 # criticwire
 Clementine Gallot     6       http://www.indiewire.com/film/wakolda
@@ -2919,14 +2928,14 @@ Antoine Thirion       8
 Javier H. Estrada     9
 Alvaro Arroba         10
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                 
+Adam Cook            9
 Arnaud Hée           
 Christoph Huber      9      
 Frédéric Jaeger      9       
 Till Kadritzke       
-Daniel Kasman        
+Daniel Kasman        9
 Michael Kienzl       9        
-Blake Williams        7.8      https://twitter.com/Astrostic/status/337565096823902209
+Blake Williams       7.8      https://twitter.com/Astrostic/status/337565096823902209
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
@@ -3361,6 +3370,14 @@ Jaime Pena            9
 Alejandro G. Calvo    7
 Alvaro Arroba         7
 Fredy Friedlander     6
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                    
+Arnaud Hée           6        
+Christoph Huber              
+Frédéric Jaeger      5
+Till Kadritzke       
+Daniel Kasman        9
+Michael Kienzl       
 #
 Blake Williams       7.0      https://twitter.com/Astrostic/status/335777627136741376
 
@@ -3533,7 +3550,8 @@ Robert Koehler        4.5
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine]
 Carlo Chatrian        4
 Robert Koehler        6.5
-Arnaud Hée            5       
+#
+Arnaud Hée            5
 
 "THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
 Kieron Corless        4.5
