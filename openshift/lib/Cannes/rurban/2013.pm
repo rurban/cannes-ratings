@@ -1810,6 +1810,8 @@ Jordan Mintzer (Hollywood Reporter, USA) http://www.hollywoodreporter.com/review
 David Hudson                  http://www.fandor.com/blog/daily-cannes-2013-abdellatif-kechiches-blue-is-the-warmest-color
 Peter Bradshaw      8         http://www.guardian.co.uk/film/2013/may/23/cannes-2013-blue-warmest-colour-review
 Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
+Craig Kennedy                 http://www.awardsdaily.com/blog/cannes-review-la-vie-dadele-blue-is-the-warmest-color/
+Ali Naderzad                  http://screencomment.com/2013/05/blue-is-the-warmest-color-la-vie-dadele/
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
