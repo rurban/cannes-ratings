@@ -1035,6 +1035,7 @@ Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
 John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
 Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-2013-review-shield-of-straw.php
 Peter Bradshaw       2       http://www.guardian.co.uk/film/2013/may/20/shield-of-straw-cannes-2013-review
+Mahnola Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1477,6 +1478,8 @@ Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/stoerung-und-verstoerung-das-bild-des-mannes-in-nicolas-winding-refns-only-god-forgives
 Peter Bradshaw       10       http://www.guardian.co.uk/film/2013/may/22/cannes-only-good-forgives-ryan-gosling-review
 Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
+Logan Hill                    http://artsbeat.blogs.nytimes.com/2013/05/16/cannes-film-festival-nicolas-winding-refn-on-being-one-with-ryan-gosling/?hpw
+Mahnola Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -2705,7 +2708,8 @@ Boyd van Hoeij        7       http://www.indiewire.com/film/as-i-lay-dying
 Patrick Heidmann      4       http://www.indiewire.com/film/as-i-lay-dying
 Kevin Jagernauth      3       http://www.indiewire.com/film/as-i-lay-dying
 Shaun Munro           0.5     http://www.filmschoolrejects.com/reviews/cannes-2013-review-as-i-lay-dying.php
-Peter Bradshaw       6       http://www.guardian.co.uk/film/2013/may/20/james-franco-as-i-lay-dying-review
+Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/20/james-franco-as-i-lay-dying-review
+Logan Hill                    http://artsbeat.blogs.nytimes.com/2013/05/21/cannes-film-festival-james-franco-on-adapting-novels-and-multitasking/
 
 "SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
