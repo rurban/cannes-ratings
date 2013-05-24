@@ -1476,6 +1476,7 @@ Eric Kohn             3       http://www.indiewire.com/article/cannes-how-only-g
 Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/stoerung-und-verstoerung-das-bild-des-mannes-in-nicolas-winding-refns-only-god-forgives
 Peter Bradshaw       10       http://www.guardian.co.uk/film/2013/may/22/cannes-only-good-forgives-ryan-gosling-review
+Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -1691,6 +1692,8 @@ Jon Frosch                    http://cannesreport.blogs.france24.com/article/201
 Todd McCarthy        10       http://www.hollywoodreporter.com/movie/nebraska/review/550167
 Peter Bradshaw        8       http://www.guardian.co.uk/film/2013/may/23/cannes-2013-nebraska-first-look-review
 Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?_r=0
+Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
+Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -1975,6 +1978,9 @@ Frédéric Jaeger      6
 Till Kadritzke       4
 Daniel Kasman        
 Michael Kienzl       
+#
+Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
+
 
 "LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409865/year/2013.html
@@ -2625,6 +2631,7 @@ Christophe Carriére
 Frédéric Jaeger       4       
 Jon Frosch            6       http://www.indiewire.com/film/omar
 Ryland Aldrich        7       http://www.indiewire.com/film/omar
+Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
@@ -2995,6 +3002,7 @@ Logan Hill            8       http://www.indiewire.com/film/all-is-lost
 Raffi Asdourian       7       http://www.indiewire.com/film/all-is-lost
 Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
 Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
+Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-review-robert-redford-fights-the-elements-in-all-is-lost
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 Alex Vicente          5
@@ -3265,6 +3273,7 @@ Alex Billington      3       http://www.indiewire.com/film/seduced-abandoned
 Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
 Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduced-and-abandoned-enjoyably-explores-the-surreal-world-of-film-financing-20130519
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/19/cannes-seduced-and-abandoned-review
+Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parties-faulkner-and-cannibal-families
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
 Eulàlia Iglesias     3.5
@@ -3274,6 +3283,7 @@ Alejandro G. Calvo    1
 #
 Logan Hill           2       http://www.indiewire.com/film/muhammad-alis-greatest-fight
 Xan Brooks           4       http://www.guardian.co.uk/film/2013/may/22/muhammad-ali-greatest-fight-cannes-2013
+Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
 Rüdiger Suchsland    7
@@ -3286,6 +3296,7 @@ Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/21/cannes-2
 Jaime Pena            4
 #
 Ryland Aldrich        0      https://twitter.com/RylandAldrich/status/337637358956589056
+Michal Oleszczyk             http://www.rogerebert.com/cannes/everythings-coming-up-rose
 
 SEMAINE DE LA CRITIC
 
@@ -3587,11 +3598,14 @@ Javier H. Estrada     4
 Eric Kohn            9.1      http://www.indiewire.com/article/review_survival_of_the_trimmest_mexican_cannibalism_as_metaphor_in_we_are_w/
 Keith Uhlich         2        http://newyork.timeout.com/arts-culture/film/924889/we-are-what-we-are
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
+#
 Eulàlia Iglesias     6.5
 Ángel Quintana       6.5
 José Luis Losa       3
 Dana Linssen          3.5
 Javier H. Estrada     4.5
+#
+Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parties-faulkner-and-cannibal-families
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 Kieron Corless        5
