@@ -923,7 +923,7 @@ Logan Hill           9      http://www.indiewire.com/film/inside-llewyn-davis
 Alex Billington      9      http://www.indiewire.com/film/inside-llewyn-davis
 Clementine Gallot    9      http://www.indiewire.com/film/inside-llewyn-davis
 Jon Frosch           9      http://www.indiewire.com/film/inside-llewyn-davis
-Kevin Jagernauth     9     http://www.indiewire.com/film/inside-llewyn-davis
+Kevin Jagernauth     9      http://blogs.indiewire.com/theplaylist/cannes-review-inside-llewyn-davis-a-funny-melancholy-look-at-a-wayfaring-stranger-20130518
 Eric Kohn            8      http://www.indiewire.com/film/inside-llewyn-davis
 Ryland Aldrich       8      http://www.indiewire.com/film/inside-llewyn-davis
 Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
@@ -1934,6 +1934,7 @@ Jon Frosch           6        http://www.indiewire.com/film/lowlife
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
+Mike d'Angelo         5.4    https://twitter.com/gemko/status/338297770291130368
 Roger Koza            7.5
 Diego Batlle          6
 Diego Lerer           6
@@ -2040,6 +2041,7 @@ Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-ca
 
 "LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409865/year/2013.html
+Mike d'Angelo         6.1    https://twitter.com/gemko/status/338207781314240512
 Roger Koza            5
 Diego Batlle          6.5
 Diego Lerer           5
@@ -2112,6 +2114,7 @@ Clementine Gallot     7       http://www.indiewire.com/film/venus-in-fur
 
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
+Mike d'Angelo         7.7     https://twitter.com/gemko/status/338016031668850688
 Roger Koza            8
 Diego Batlle          8
 Diego Lerer           8
