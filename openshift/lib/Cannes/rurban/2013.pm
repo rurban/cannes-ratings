@@ -361,6 +361,7 @@ Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   5
 John Bleasdale        6       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-touch-of-sin.html
+Eugene Hernandez              http://www.filmlinc.com/daily/entry/cannes-daily-buzz-podcast-jia-zhang-ke-a-touch-of-sin
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -1878,7 +1879,7 @@ Christophe Carriére
 Adam Cook            9
 Arnaud Hée           6
 Christoph Huber      7.5       
-Frédéric Jaeger      5
+Frédéric Jaeger      5        http://www.critic.de/film/the-immigrant-5548/
 Till Kadritzke       4
 Daniel Kasman        9        http://mubi.com/notebook/posts/cannes-2013-dialogues-james-grays-the-immigrant
 Michael Kienzl       6
@@ -1980,7 +1981,7 @@ Adam Cook
 Arnaud Hée           6
 Christoph Huber      5       
 Frédéric Jaeger      6
-Till Kadritzke       4
+Till Kadritzke       4        http://www.critic.de/film/michael-kohlhaas-5545/
 Daniel Kasman        
 Michael Kienzl       
 #
@@ -2359,6 +2360,7 @@ Michael Kienzl       9
 #
 John Bleasdale       4       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-stranger-by.html
 Blake Williams       7.2     https://twitter.com/Astrostic/status/335346286784024576
+Cédric Succivalli            http://icsfilm.org/news/198-cannes-2013-review-linconnu-du-lac
 
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
