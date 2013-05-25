@@ -3411,7 +3411,7 @@ Rodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodies-sai
 Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-saints
 Till Kadritzke        7.5      
 
-"SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine]
+"SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine] Semaine Grand Prix + France 4 Revelation Prize
 Roger Koza            8
 Violeta Kovacsics     6
 José Luis Losa        0
@@ -3434,7 +3434,7 @@ Till Kadritzke       5
 Daniel Kasman        
 Michael Kienzl       
 
-"LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine]
+"LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine] Semaine best screenplay
 Robert Koehler        2
 
 "FOR THOSE IN PERIL" (Paul Wright) [Semaine]
