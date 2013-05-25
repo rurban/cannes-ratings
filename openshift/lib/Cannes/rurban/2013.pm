@@ -304,10 +304,6 @@ Pamela Bienzobas
 Alvaro Arroba         4
 Fredy Friedlander     8
 Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
-Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
-Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
-Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
-Peter Bradshaw       8        http://www.guardian.co.uk/film/2013/may/17/cannes-touch-of-sin-review
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            5       
 Arnaud Hée           
@@ -360,6 +356,15 @@ Pierre Fornerod       2.5
 Pascal Merigeau       7.5
 Danielle Attali       7.5
 Christophe Carriére   5
+#
+Glenn Heath Jr       8        http://www.indiewire.com/film/a-touch-of-sin
+Patrick McGavin      9        http://www.indiewire.com/film/a-touch-of-sin
+Jessica Kiang        3        http://www.indiewire.com/film/a-touch-of-sin
+Beatrice Behn        6        http://www.indiewire.com/film/a-touch-of-sin
+Clementine Gallot    6        http://www.indiewire.com/film/a-touch-of-sin
+Justin Chang                  http://variety.com/2013/film/reviews/cannes-film-review-a-touch-of-sin-1200482687/
+Jon Frosch           8        http://www.indiewire.com/film/a-touch-of-sin
+Peter Bradshaw       8        http://www.guardian.co.uk/film/2013/may/17/cannes-touch-of-sin-review
 John Bleasdale        6       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-touch-of-sin.html
 Eugene Hernandez              http://www.filmlinc.com/daily/entry/cannes-daily-buzz-podcast-jia-zhang-ke-a-touch-of-sin
 
@@ -1688,6 +1693,8 @@ Till Kadritzke       2.5      http://www.critic.de/film/nebraska-5552/
 Daniel Kasman        2.5
 Michael Kienzl       
 # criticwire
+Patrick Heidmann      7
+Jon Frosch            7
 Ryland Aldrich        6       http://www.indiewire.com/film/nebraska
 Jessica Kiang         5       http://www.indiewire.com/film/nebraska
 Eric Kohn             5       http://www.indiewire.com/film/nebraska
@@ -1801,6 +1808,9 @@ Till Kadritzke       9        http://www.critic.de/film/blue-is-the-warmest-colo
 Daniel Kasman        
 Michael Kienzl       6
 # criticwire
+Glenn Heath Jr      8         http://www.indiewire.com/film/la-vie-dadele
+Patrick Heidmann    9         http://www.indiewire.com/film/la-vie-dadele
+Clementine Gallot   10        http://www.indiewire.com/film/la-vie-dadele
 Eric Kohn           8         http://www.indiewire.com/article/cannes-lesbian-coming-of-age-epic-blue-is-the-warmest-color-offers-honest-sexually-frank-insights
 Joachim Kurz        10        http://www.kino-zeit.de/blog/cannes/la-vie-d-adele-chapitre-1-2
 Jon Frosch          10        http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
@@ -1915,6 +1925,11 @@ Frédéric Jaeger      5        http://www.critic.de/film/the-immigrant-5548/
 Till Kadritzke       4
 Daniel Kasman        9        http://mubi.com/notebook/posts/cannes-2013-dialogues-james-grays-the-immigrant
 Michael Kienzl       6
+# criticwire
+Glenn Heath Jr       9        http://www.indiewire.com/film/lowlife
+Patrick Heidmann     1        http://www.indiewire.com/film/lowlife
+Clementine Gallot    8        http://www.indiewire.com/film/lowlife
+Jon Frosch           6        http://www.indiewire.com/film/lowlife
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
@@ -2017,6 +2032,8 @@ Till Kadritzke       4        http://www.critic.de/film/michael-kohlhaas-5545/
 Daniel Kasman        
 Michael Kienzl       
 #
+Patrick Heidmann      5       http://www.indiewire.com/film/michael-kohlhaas
+Clementine Gallot     7       http://www.indiewire.com/film/michael-kohlhaas
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 
 
@@ -2088,6 +2105,9 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       
+#
+Patrick Heidmann      7       http://www.indiewire.com/film/venus-in-fur
+Clementine Gallot     7       http://www.indiewire.com/film/venus-in-fur
 
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
@@ -2189,7 +2209,9 @@ Frédéric Jaeger
 Till Kadritzke       
 Daniel Kasman        
 Michael Kienzl       
-
+# criticwire
+Patrick Heidmann    8
+Eric Kohn           7         http://www.indiewire.com/article/with-only-lovers-left-alive-jim-jarmusch-caps-a-great-year-for-american-auteurs-in-cannes
 
 UN CERTAIN REGARD
 
@@ -2440,7 +2462,6 @@ Pierre Fornerod       1
 Pascal Merigeau       5
 Danielle Attali       1
 Christophe Carriére   
-Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            7.5     http://mubi.com/notebook/posts/cannes-2013-illusory-isolation-alain-guiraudies-stranger-by-the-lake
 Arnaud Hée           9       
@@ -2450,6 +2471,8 @@ Till Kadritzke
 Daniel Kasman        9       
 Michael Kienzl       9       
 #
+Glenn Heath Jr       8       http://www.indiewire.com/film/linconnu-du-lac
+Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 John Bleasdale       4       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-stranger-by.html
 Blake Williams       7.2     https://twitter.com/Astrostic/status/335346286784024576
 Cédric Succivalli            http://icsfilm.org/news/198-cannes-2013-review-linconnu-du-lac
@@ -2911,6 +2934,7 @@ Till Kadritzke       9
 Daniel Kasman        7.5      http://mubi.com/notebook/posts/cannes-2013-the-gloaming-claire-denis-bastards
 Michael Kienzl       7.5      http://www.critic.de/film/les-salauds-5560/
 # criticwire
+Glenn Heath Jr       9        http://www.indiewire.com/film/les-salauds
 Raffi Asdourian      7        http://www.indiewire.com/film/les-salauds
 Alex Billington      8        http://www.indiewire.com/film/les-salauds
 Eric Kohn            3        http://www.indiewire.com/film/les-salauds
@@ -3316,6 +3340,7 @@ Michael Kienzl        4
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 Alexandra Zawia       2.5
+Patrick Heidmann      2       http://www.indiewire.com/film/zulu
 
 MIDNIGHT PROJECTIONS
 
@@ -3384,6 +3409,9 @@ Frédéric Jaeger
 Till Kadritzke        
 Daniel Kasman         9      
 Michael Kienzl
+# critiwire
+Gleen Heath Jr        7      http://www.indiewire.com/film/blind-detective
+Raffi Asdourian       2      http://www.indiewire.com/film/blind-detective
 Craig Skinner         5      http://www.indiewire.com/film/blind-detective
 Shaun Munro           0.5    http://www.filmschoolrejects.com/reviews/cannes-2013-review-blind-detective.php
 Blake Williams        5.3    https://twitter.com/Astrostic/status/336536286095634432
@@ -3411,6 +3439,7 @@ Alexandra Zawia       4.5
 Xavi Serra            4
 Alvaro Arroba         5.5
 # criticwire
+Patrick Heidmann     6
 Logan Hill           7       http://www.indiewire.com/film/seduced-abandoned
 Alex Billington      3       http://www.indiewire.com/film/seduced-abandoned
 Ryland Aldrich       3       http://www.indiewire.com/film/seduced-abandoned
