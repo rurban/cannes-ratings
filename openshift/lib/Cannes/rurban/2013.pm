@@ -1478,7 +1478,7 @@ Michael Kienzl       5
 # criticwire
 Raffi Asdourian       5       http://www.indiewire.com/film/only-god-forgives
 Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
-Jessica Kiang         6       http://www.indiewire.com/film/only-god-forgives
+Jessica Kiang         6       http://blogs.indiewire.com/theplaylist/cannes-review-only-god-forgives-stretches-refns-neon-noir-style-over-too-little-oedipal-amoral-substance-20130522
 Eric Kohn             3       http://www.indiewire.com/article/cannes-how-only-god-forgives-suggests-ryan-goslings-schtick-has-worn-thin
 Ryland Aldrich        9       http://www.indiewire.com/film/only-god-forgives
 Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/stoerung-und-verstoerung-das-bild-des-mannes-in-nicolas-winding-refns-only-god-forgives
@@ -1696,7 +1696,7 @@ Michael Kienzl
 Patrick Heidmann      7
 Jon Frosch            7
 Ryland Aldrich        6       http://www.indiewire.com/film/nebraska
-Jessica Kiang         5       http://www.indiewire.com/film/nebraska
+Jessica Kiang         5       http://blogs.indiewire.com/theplaylist/cannes-review-alexander-paynes-nebraska-an-overfamiliar-tale-of-connections-broken-and-remade-20130523
 Eric Kohn             5       http://www.indiewire.com/film/nebraska
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
@@ -1926,6 +1926,7 @@ Till Kadritzke       4
 Daniel Kasman        9        http://mubi.com/notebook/posts/cannes-2013-dialogues-james-grays-the-immigrant
 Michael Kienzl       6
 # criticwire
+Jessica Kiang        7        http://blogs.indiewire.com/theplaylist/cannes-review-james-grays-careful-poised-the-immigrant-builds-slowly-to-a-resonant-climax-20130524
 Glenn Heath Jr       9        http://www.indiewire.com/film/lowlife
 Patrick Heidmann     1        http://www.indiewire.com/film/lowlife
 Clementine Gallot    8        http://www.indiewire.com/film/lowlife
