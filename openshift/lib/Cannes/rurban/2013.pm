@@ -1390,7 +1390,7 @@ Violeta Kovacsics     7
 Luciano Monteagudo    6
 Jaime Pena            6
 Rüdiger Suchsland    3.5
-Carlos F. Heredero    5
+Carlos F. Heredero    6
 Robert Koehler        
 Dana Linssen          
 Cristina Nord         
@@ -1524,12 +1524,12 @@ Michal Oleszczyk
 Pablo O. Scholz       5.5
 Alejandro G. Calvo    3.5
 Xavi Serra            5
-Guido Castillo        
+Guido Castillo        5
 Ronald Rovers         
 Javier H. Estrada     5.5
 Rose Kuo              
 Pamela Bienzobas      
-Alvaro Arroba         
+Alvaro Arroba         4.5
 Fredy Friedlander     
 # Screen Daily (0-4)
 Nick James           5
@@ -1628,7 +1628,7 @@ Michal Oleszczyk
 Pablo O. Scholz       8
 Alejandro G. Calvo    9
 Xavi Serra            7
-Guido Castillo        
+Guido Castillo        7.5
 Ronald Rovers         4.5
 Javier H. Estrada     5
 Rose Kuo              
@@ -1732,7 +1732,7 @@ Marcelo Alderete
 Alexandra Zawia       9.5
 Boris Nelepo          6
 Carlos Reviriego      8.5
-Fernando Juan Lima    
+Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          6
@@ -1820,17 +1820,49 @@ Mike d'Angelo         5.6     https://twitter.com/gemko/status/33787920388000153
 Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           9
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
 Eulàlia Iglesias     8
+Ángel Quintana       
+José Luis Losa       6.5
 Pedro Butcher         9
 Kieron Corless        3.5
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            
 Rüdiger Suchsland    4
 Carlos F. Heredero    7
+Robert Koehler        
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            5
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       3
 Boris Nelepo          9
+Carlos Reviriego      7
+Fernando Juan Lima    6.5
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          7
 Antoine Thirion       8
+Michal Oleszczyk      
 Pablo O. Scholz       6
 Alejandro G. Calvo    9
+Xavi Serra            6.5
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         9
+Fredy Friedlander     
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1915,17 +1947,17 @@ Scott Foundas
 Marcelo Alderete      
 Alexandra Zawia       6
 Boris Nelepo          7
-Carlos Reviriego      
-Fernando Juan Lima    
+Carlos Reviriego      6.5
+Fernando Juan Lima    4.5
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          6.5
+Philip Engel          5.5
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       6
 Alejandro G. Calvo    6.5
-Xavi Serra            
-Guido Castillo        
+Xavi Serra            6
+Guido Castillo        5
 Ronald Rovers         7.5
 Javier H. Estrada     
 Rose Kuo              
@@ -2045,6 +2077,17 @@ Michael Kienzl
 
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
+Diego Batlle          8
+Diego Lerer           8
+José Luis Losa       5
+Carlos F. Heredero    6
+Neil Young            7
+Boris Nelepo          10
+Carlos Reviriego      7
+Philip Engel          8.5
+Alejandro G. Calvo    8
+Xavi Serra            7.5
+Alvaro Arroba         10
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -2294,7 +2337,7 @@ Cecilia Martinez      6
 Fernando Ganzo        8
 Eulàlia Iglesias     7.5
 Ángel Quintana       8
-José Luis Losa       
+José Luis Losa       8.5
 Pedro Butcher         8.5
 Kieron Corless        8.5
 Luciano Barisone      7
@@ -2325,7 +2368,7 @@ Michal Oleszczyk
 Pablo O. Scholz       
 Alejandro G. Calvo    8
 Xavi Serra            7.5
-Guido Castillo        
+Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     7.5
 Rose Kuo              
@@ -2938,25 +2981,58 @@ Peter Bradshaw                http://www.guardian.co.uk/film/2013/may/23/golden-
 
 "MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
+José Luis Losa       1.5
 Robert Koehler        3.5
 Blake Williams        3.9     https://twitter.com/Astrostic/status/337450571181207552
 
 "NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409844/year/2013.html
+Roger Koza            
 Diego Batlle          6
 Diego Lerer           7.5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
 Eulàlia Iglesias     9
 Ángel Quintana       7.5
+José Luis Losa       6.5
 Pedro Butcher         7
 Kieron Corless        9.5
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
 Jaime Pena            10
+Rüdiger Suchsland    
 Carlos F. Heredero    9.5
 Robert Koehler        8
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Paolo Moretti         
 Neil Young            3
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       
 Boris Nelepo          10
+Carlos Reviriego      8.5
+Fernando Juan Lima    8
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Antoine Thirion       8
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    8
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
 Javier H. Estrada     9
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         10
+Fredy Friedlander     
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            9
 Arnaud Hée           
@@ -2973,6 +3049,7 @@ Diego Batlle          3
 José Luis Losa       5.5
 Luciano Monteagudo    2
 Rüdiger Suchsland    2
+Fernando Juan Lima    2
 Pablo O. Scholz       4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
@@ -2987,6 +3064,8 @@ Blake Williams       0.6      https://twitter.com/Astrostic/status/3376071296220
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
 Diego Batlle          6.5
+Diego Lerer           7
+José Luis Losa       9
 Pablo O. Scholz       7
 
 OUT OF COMPETITION
@@ -3555,6 +3634,7 @@ Violeta Kovacsics     7
 Robert Koehler        6
 Cristina Nord         8
 Boris Nelepo          7
+Carlos Reviriego      5.5
 Fernando Juan Lima    5
 Antoine Thirion       7.5
 # critic.de
@@ -3644,8 +3724,11 @@ Arnaud Hée            5
   (Sundance)
 Carlo Chatrian        4.5
 Carlos F. Heredero    2
+Carlos Reviriego      5
+Fernando Juan Lima    5.5
 Philip Engel          6.5
 Alejandro G. Calvo    5
+Guido Castillo        2
 Javier H. Estrada     3
 Fredy Friedlander     1
 #
@@ -3662,9 +3745,11 @@ Eric Kohn            4       http://www.indiewire.com/film/magic-magic
 Arnaud Hée           2.5     
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
+Neil Young            6.5
 Michael Kienzl       7.5
 
 "HENRI" (Yolande Moreau) [Quinzaine]
+Neil Young            5
 
 EOF
 
