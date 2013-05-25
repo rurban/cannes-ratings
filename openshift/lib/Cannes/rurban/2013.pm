@@ -919,6 +919,7 @@ Daniel Kasman
 Michael Kienzl
 Tim Grierson                http://www.screendaily.com/reviews/the-latest/inside-llewyn-davis/5056390.article?blocktitle=IN-COMPETITION&contentID=40428
 # criticwire
+Glenn Heath Jr       8      http://www.indiewire.com/film/inside-llewyn-davis
 Logan Hill           9      http://www.indiewire.com/film/inside-llewyn-davis
 Alex Billington      9      http://www.indiewire.com/film/inside-llewyn-davis
 Clementine Gallot    9      http://www.indiewire.com/film/inside-llewyn-davis
@@ -930,7 +931,7 @@ Patrick Heidmann     9      http://www.indiewire.com/film/inside-llewyn-davis
 Jo Ann Titmarsh      10     http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review-inside.html
 John Bleasdale       10     http://www.cine-vue.com/2013/05/cannes-film-festival-2013-inside-llewyn.html
 Peter Bradshaw       10     http://www.guardian.co.uk/film/2013/may/18/cannes-2013-inside-llewyn-davis-review
-Jordan Hoffmann      9.5    http://www.film.com/movies/inside-llewyn-davis-review
+Jordan Hoffman       9.5    http://www.film.com/movies/inside-llewyn-davis-review
 Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
@@ -1476,6 +1477,8 @@ Till Kadritzke       1
 Daniel Kasman        1
 Michael Kienzl       5
 # criticwire
+Glenn Heath Jr        3       http://www.indiewire.com/film/only-god-forgives
+Craig Skinner         1       http://www.indiewire.com/film/only-god-forgives
 Raffi Asdourian       5       http://www.indiewire.com/film/only-god-forgives
 Jon Frosch            5       http://www.indiewire.com/film/only-god-forgives
 Jessica Kiang         6       http://blogs.indiewire.com/theplaylist/cannes-review-only-god-forgives-stretches-refns-neon-noir-style-over-too-little-oedipal-amoral-substance-20130522
@@ -2109,6 +2112,7 @@ Till Kadritzke
 Daniel Kasman        
 Michael Kienzl       
 #
+Jessica Kiang         3       http://blogs.indiewire.com/theplaylist/emmanuelle-seigner-a-raucous-revelation-in-polanskis-otherwise-stagy-pointless-venus-in-fur-20130525
 Patrick Heidmann      7       http://www.indiewire.com/film/venus-in-fur
 Clementine Gallot     7       http://www.indiewire.com/film/venus-in-fur
 
@@ -3414,7 +3418,7 @@ Till Kadritzke
 Daniel Kasman         9      
 Michael Kienzl
 # critiwire
-Gleen Heath Jr        7      http://www.indiewire.com/film/blind-detective
+Glenn Heath Jr        7      http://www.indiewire.com/film/blind-detective
 Raffi Asdourian       2      http://www.indiewire.com/film/blind-detective
 Craig Skinner         5      http://www.indiewire.com/film/blind-detective
 Shaun Munro           0.5    http://www.filmschoolrejects.com/reviews/cannes-2013-review-blind-detective.php
@@ -3484,10 +3488,10 @@ Carlos F. Heredero    6.5
 Robert Koehler        7.5
 Guido Castillo        7.5
 #
-Sebastian Doggart (Guardian, UK) 10 http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
-Jordan Hoffman (Film.com, USA) 8.3 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
-Peter Debruge (Variety, USA) 8 http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
-Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
+Sebastian Doggart     10      http://www.guardian.co.uk/film/2013/jan/25/aint-them-bodies-saints-review
+Jordan Hoffman        8.3     http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
+Peter Debruge         8       http://variety.com/2013/film/reviews/ain-t-them-bodies-saints-1117949039/
+Todd McCarthy         7       http://www.metacritic.com/movie/aint-them-bodies-saints/critic-reviews
 Ethan Anderton        8       http://www.indiewire.com/film/aint-them-bodies-saints
 Don Simpson           9       http://www.indiewire.com/film/aint-them-bodies-saints
 Allison Loring        9       http://www.indiewire.com/film/aint-them-bodies-saints
@@ -3740,6 +3744,7 @@ Till Kadritzke
 Daniel Kasman        5        
 Michael Kienzl       
 #
+Glenn Heath Jr       7        http://www.indiewire.com/film/tip-top
 Blake Williams       6.0      https://twitter.com/Astrostic/status/336087169171066881
 Henry Barnes (Guardian, UK)   4    http://www.guardian.co.uk/film/2013/may/19/cannes-2013-tip-top-review
 
@@ -3828,9 +3833,9 @@ Guido Castillo        2
 Javier H. Estrada     3
 Fredy Friedlander     1
 #
-Sebastian Doggart (Guardian, UK) 6 http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
+Sebastian Doggart     6       http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
 Russ Fischer (slashfilm.com, USA) 7
-Chris Bumbray (joblo.com, USA) 7
+Chris Bumbray (joblo.com, USA)    7
 Mark Olsen (LA Times, USA) http://articles.latimes.com/2013/jan/27/entertainment/la-et-mn-sundance-michael-cera-magic-20130126
 Nicolas Bell (Ioncinema.com, Canada) http://www.ioncinema.com/reviews/magic-magic-review
 Clementine Gallot    6       http://www.indiewire.com/film/magic-magic
@@ -3966,8 +3971,6 @@ Michael Kienzl (critic.de, Deutschland)
 ";
 # indiewire + various other
 $critics[5] = "
-Kevin Jagernauth (Indiewire's The Playlist, USA) 
-James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
 A.A. Dowd (Time Out Chicago, USA)
 Aaron Hillis (GreenCine Daily, USA)
 Adam Batty (Hope Lies at 24 Frames Per Second, UK)
@@ -3980,8 +3983,8 @@ Anna Bielak (Smells Like Screen Spirit, USA)
 Anna Tatarska (Fandor, KINO, USA)
 Anne Thompson (Indiewire, USA) 
 Beatrice Behn (Kino-Zeit, Deutschland)
-Brian Brooks (indieWIRE, USA) 
 Boyd van Hoeij (The Hollywood Reporter, Winq/Mate, Filmkrant, Cineuropa, Ex-Variety, Luxembourg)
+Brian Brooks (indieWIRE, USA) 
 Caryn James (indieWIRE, ex-New York Times, USA)
 Catherine Shoard (Guardian, UK)
 Chris Knipp (Filmleaf, USA)
@@ -4001,12 +4004,13 @@ Eduardo Valente (Revista Cinema, Brazil)
 Elisabeth Quin (Paris Premiere, France) 
 Emanuel Levy (EmanuelLevy.com, USA)
 Eric D. Snider (Film.com, USA)
-Eugene Hernandez (Film Society of Lincoln Center, USA) 
 Ethan Anderton (FirstShowing.net, USA)
+Eugene Hernandez (Film Society of Lincoln Center, USA) 
 Fico Cangiano (CineXpress, Puerto Rico)
 Frédéric Jaeger (critic.de, Deutschland)
-Glenn Heath Jr. (Slant Magazine, Press Play, USA)
+Glenn Heath Jr (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
+James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
 Jessica Kiang (The Playlist, USA)
 Jo Ann Titmarsh (FlickeringMyth.com, UK)
 Joachim Kurz (Kino-Zeit, Deutschland)
@@ -4014,11 +4018,13 @@ Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
 John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
+Jordan Hoffman (Film.com, USA)
 Jordan Raup (The Film Stage, USA)
 Justin Chang (Variety, USA)
 Kaleen Aftab (The Independent, UK)
 Karina Longworth (LA Weekly, USA) 
 Keith Uhlich (Time Out New York, USA)
+Kevin Jagernauth (Indiewire's The Playlist, USA) 
 Kirk Honeycott (The Hollywood Reporter, USA)
 Kristy Puchko (Freelance, USA)
 Laremy Legel (Film.com, USA) 
@@ -4032,8 +4038,8 @@ Mathilde Cesbron (Le Figaro, France)
 Matt Holmes (Obsessedwithfilm.com, USA) 
 Maxime Pargaud (Le Figaro, France)
 Michael Ghennam (Les Fiches du Cinéma, France)
-Michael Sennhauser (SRF, Suisse)
 Michael Giltz (The Huffington Post, USA) 
+Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
 Patrick Heidmann (Cineman, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
@@ -4051,6 +4057,7 @@ Robert Gassaway (The Flicksation Podcast, USA)
 Rodrigo Perez (The Playlist, USA)
 Ruta Buciunaite (theupcoming.co.uk, UK)
 Ryland Aldrich (Twitch Film, USA)
+Sebastian Doggart (Guardian, UK)
 Shaun Munro (filmschoolrejects.com, USA)
 Simon Abrams (The Playlist, USA)
 Simon Gallagher (filmschoolrejects.com, UK) 
@@ -4060,8 +4067,8 @@ Sukhdev Sandhu (Telegraph, UK)
 Tim Grierson (Screen International, L.A. Weekly, USA) 
 Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
-Yair Raveh (Cinema Scope, Israel)
 Xan Brooks (Guardian, UK)
+Yair Raveh (Cinema Scope, Israel)
 ";
 # former apichatpoll members
 $critics[6] = "
