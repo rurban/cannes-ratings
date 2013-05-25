@@ -9,7 +9,8 @@ package Cannes::rurban::2012;
 # french: http://www.lefilmfrancais.com/cannes2012/quotidien/ (scale 0-4)
 # http://content.yudu.com/Library/A1wwqk/ScreenCannesDay92012/resources/index.htm (scale 0-4)
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
-# Published at http://rurban.xarch.at/film/Cannes2012.sorted.html
+# Published at http://cannes-rurban.rhcloud.com/2012, static at 
+# http://rurban.xarch.at/film/Cannes2012.sorted.html
 # and https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012
 # US ratings:

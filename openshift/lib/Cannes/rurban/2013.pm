@@ -2,9 +2,8 @@ package Cannes::rurban::2013;
 
 #!/usr/bin/perl -- -*- perl -*-
 # Cannes 2013 Critics Ratings
-# collected by Diego Lerer, ioncinema, indiewire and Reini Urban
-# Recalc and sort ratings by all cannes critics from
-# ??
+# collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
+# Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
 # french: http://www.lefilmfrancais.com/cannes2013/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
@@ -4018,7 +4017,7 @@ Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
 John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
 Jonathan Rosenbaum (Chicago Reader, USA) 
-Jordan Hoffman (Film.com, USA)
+Jordan Hoffman (Film.com, ScreenCrush.com, Badass Digest, USA)
 Jordan Raup (The Film Stage, USA)
 Justin Chang (Variety, USA)
 Kaleen Aftab (The Independent, UK)
