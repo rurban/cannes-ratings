@@ -53,7 +53,7 @@ Robert Koehler       4
 Dana Linssen         7
 Cristina Nord        4.5
 Francisco Ferreira   
-Paolo Moretti        
+Paolo Moretti        6.5
 Neil Young           4.5       http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas        
 Marcelo Alderete     2.5
@@ -389,7 +389,7 @@ Robert Koehler        5
 Dana Linssen          5
 Cristina Nord         7
 Francisco Ferreira    
-Paolo Moretti         
+Paolo Moretti         4
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      1.5
@@ -725,7 +725,7 @@ Robert Koehler
 Dana Linssen          7.5
 Cristina Nord         1.5
 Francisco Ferreira    
-Paolo Moretti         
+Paolo Moretti         6
 Neil Young            7
 Scott Foundas         
 Marcelo Alderete      
@@ -933,7 +933,7 @@ Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn
 Mike d'Angelo        6.4    http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
 Roger Koza            
 Diego Batlle          5
-Diego Lerer           6
+Diego Lerer           5
 Alex Vicente          
 Jose Luis De Lorenzo  6.5
 Cecilia Martinez      4
@@ -1161,7 +1161,7 @@ Pedro Butcher         6.5
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        5
-Violeta Kovacsics     
+Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            5
 Rüdiger Suchsland    
@@ -1393,7 +1393,7 @@ Rüdiger Suchsland    3.5
 Carlos F. Heredero    6
 Robert Koehler        
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         5.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            4
@@ -1610,7 +1610,7 @@ Rüdiger Suchsland
 Carlos F. Heredero    8
 Robert Koehler        5
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         6
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            6
@@ -1723,7 +1723,7 @@ Rüdiger Suchsland     10
 Carlos F. Heredero    9
 Robert Koehler        7.5
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         7
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -1831,14 +1831,14 @@ Pedro Butcher         9
 Kieron Corless        3.5
 Luciano Barisone      
 Carlo Chatrian        
-Violeta Kovacsics     
-Luciano Monteagudo    
-Jaime Pena            
+Violeta Kovacsics     8.5
+Luciano Monteagudo    6.5
+Jaime Pena            6
 Rüdiger Suchsland    4
 Carlos F. Heredero    7
-Robert Koehler        
+Robert Koehler        10
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         4
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            5
@@ -1862,7 +1862,7 @@ Javier H. Estrada
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         9
-Fredy Friedlander     
+Fredy Friedlander     7
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -1918,7 +1918,7 @@ Michael Kienzl       6
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
-Roger Koza            
+Roger Koza            7.5
 Diego Batlle          6
 Diego Lerer           6
 Alex Vicente          
@@ -1932,14 +1932,14 @@ Pedro Butcher         4
 Kieron Corless        6.5
 Luciano Barisone      
 Carlo Chatrian        7.5
-Violeta Kovacsics     
-Luciano Monteagudo    
+Violeta Kovacsics     7.5
+Luciano Monteagudo    8.5
 Jaime Pena            6.5
 Rüdiger Suchsland    
 Carlos F. Heredero    5.5
 Robert Koehler        
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         8.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
@@ -2022,6 +2022,20 @@ Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-ca
 
 "LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409865/year/2013.html
+Roger Koza            5
+Diego Batlle          6.5
+Diego Lerer           5
+Eulàlia Iglesias     5.5
+Violeta Kovacsics     6.5
+Luciano Monteagudo    6
+Jaime Pena            5.5
+Carlos F. Heredero    5
+Robert Koehler        4
+Cristina Nord         3
+Alexandra Zawia       5.5
+Philip Engel          8
+Alvaro Arroba         3
+Fredy Friedlander     8
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -2077,17 +2091,52 @@ Michael Kienzl
 
 "ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
+Roger Koza            8
 Diego Batlle          8
 Diego Lerer           8
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
+Eulàlia Iglesias     5
+Ángel Quintana       
 José Luis Losa       5
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
+Violeta Kovacsics     7
+Luciano Monteagudo    6
+Jaime Pena            8
+Rüdiger Suchsland    
 Carlos F. Heredero    6
+Robert Koehler        6
+Dana Linssen          
+Cristina Nord         8
+Francisco Ferreira    
+Paolo Moretti         
 Neil Young            7
+Scott Foundas         
+Marcelo Alderete      
+Alexandra Zawia       8
 Boris Nelepo          10
 Carlos Reviriego      7
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          8.5
-Alejandro G. Calvo    8
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    10
 Xavi Serra            7.5
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         10
+Fredy Friedlander     
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -2472,7 +2521,7 @@ Robert Koehler        2
 Dana Linssen          6
 Cristina Nord         7
 Francisco Ferreira    
-Paolo Moretti         
+Paolo Moretti         7
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      
@@ -2569,7 +2618,7 @@ Robert Koehler        8
 Dana Linssen          
 Cristina Nord         8.5
 Francisco Ferreira    
-Paolo Moretti         
+Paolo Moretti         7
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      
@@ -2660,6 +2709,7 @@ Michael Kienzl
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 Jose Luis De Lorenzo  5
 Dana Linssen          6
+Paolo Moretti         6
 Guido Castillo        7
 Ronald Rovers         6
 # Le film français 0-4
@@ -2897,7 +2947,7 @@ Paolo Moretti
 Neil Young            
 Scott Foundas         
 Marcelo Alderete      
-Alexandra Zawia       
+Alexandra Zawia       5
 Boris Nelepo          
 Carlos Reviriego      3.5
 Fernando Juan Lima    6
@@ -3008,9 +3058,9 @@ Rüdiger Suchsland
 Carlos F. Heredero    9.5
 Robert Koehler        8
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         9
 Francisco Ferreira    
-Paolo Moretti         
+Paolo Moretti         8.5
 Neil Young            3
 Scott Foundas         
 Marcelo Alderete      
@@ -3049,6 +3099,7 @@ Diego Batlle          3
 José Luis Losa       5.5
 Luciano Monteagudo    2
 Rüdiger Suchsland    2
+Cristina Nord         2.5
 Fernando Juan Lima    2
 Pablo O. Scholz       4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -3063,9 +3114,13 @@ Blake Williams       0.6      https://twitter.com/Astrostic/status/3376071296220
 
 "DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
+Roger Koza            7.5
 Diego Batlle          6.5
 Diego Lerer           7
 José Luis Losa       9
+Luciano Monteagudo    7
+Jaime Pena            4
+Robert Koehler        7.5
 Pablo O. Scholz       7
 
 OUT OF COMPETITION
@@ -3260,6 +3315,7 @@ Daniel Kasman
 Michael Kienzl        4       
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
+Alexandra Zawia       2.5
 
 MIDNIGHT PROJECTIONS
 
@@ -3476,13 +3532,15 @@ Pablo O. Scholz       7
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
 Roger Koza            4
 José Luis Losa       2.5
-Robert Koehler        4.5
+Robert Koehler        3
 Javier H. Estrada     5
 
 "THE MAJOR" (Yury Bykov) [Semaine]
 
 "3X3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
 Jaime Pena            9
+Robert Koehler        6.5
+Paolo Moretti         6
 Alejandro G. Calvo    7
 Alvaro Arroba         7
 Fredy Friedlander     6
@@ -3593,6 +3651,7 @@ Jose Luis De Lorenzo  10
 Cecilia Martinez      6
 Kieron Corless        6
 Luciano Monteagudo    0.5
+Jaime Pena            5.5
 Rüdiger Suchsland    10
 Marcelo Alderete      1
 Boris Nelepo          7.5
@@ -3612,6 +3671,7 @@ Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/18/cannes-2
 Roger Koza            5
 Eulàlia Iglesias     5.5
 José Luis Losa       6
+Paolo Moretti         4
 Marcelo Alderete      3
 Boris Nelepo          4
 # criticwire
@@ -3633,6 +3693,7 @@ Kieron Corless        6.5
 Violeta Kovacsics     7
 Robert Koehler        6
 Cristina Nord         8
+Paolo Moretti         5
 Boris Nelepo          7
 Carlos Reviriego      5.5
 Fernando Juan Lima    5
@@ -3702,6 +3763,7 @@ Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parti
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 Kieron Corless        5
+Paolo Moretti         5
 Javier H. Estrada     4
 Blake Williams         5.5     https://twitter.com/Astrostic/status/337127683970441216
 
@@ -3724,6 +3786,7 @@ Arnaud Hée            5
   (Sundance)
 Carlo Chatrian        4.5
 Carlos F. Heredero    2
+Robert Koehler        2
 Carlos Reviriego      5
 Fernando Juan Lima    5.5
 Philip Engel          6.5
@@ -3749,6 +3812,8 @@ Neil Young            6.5
 Michael Kienzl       7.5
 
 "HENRI" (Yolande Moreau) [Quinzaine]
+Diego Batlle          4.5
+Diego Lerer           5
 Neil Young            5
 
 EOF
