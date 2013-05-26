@@ -527,7 +527,7 @@ Guido Castillo        5
 Ronald Rovers         1
 Javier H. Estrada     8
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      7.5
 Alvaro Arroba         4
 Fredy Friedlander     4
 Adam Cook            2.5     
@@ -861,7 +861,7 @@ Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     6.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      7
 Alvaro Arroba         8
 Fredy Friedlander     8
 # Screen Daily (0-4)
@@ -1296,7 +1296,7 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      6.5
 Alexandra Zawia       7
 Boris Nelepo          1.5
 Carlos Reviriego      8
@@ -1407,7 +1407,7 @@ Marcelo Alderete      1.5
 Alexandra Zawia       3
 Boris Nelepo          
 Carlos Reviriego      7.5
-Fernando Juan Lima    
+Fernando Juan Lima    3
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7
@@ -1626,7 +1626,7 @@ Marcelo Alderete      6
 Alexandra Zawia       7.5
 Boris Nelepo          
 Carlos Reviriego      7.5
-Fernando Juan Lima    
+Fernando Juan Lima    6
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          6
@@ -1737,7 +1737,7 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      6
 Alexandra Zawia       9.5
 Boris Nelepo          6
 Carlos Reviriego      8.5
@@ -1754,7 +1754,7 @@ Guido Castillo        10
 Ronald Rovers         9
 Javier H. Estrada     7.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      8.5
 Alvaro Arroba         8
 Fredy Friedlander     7
 # Screen Daily (0-4)
@@ -1855,7 +1855,7 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            5
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      6
 Alexandra Zawia       3
 Boris Nelepo          9
 Carlos Reviriego      7
@@ -1870,7 +1870,7 @@ Alejandro G. Calvo    9
 Xavi Serra            6.5
 Guido Castillo        
 Ronald Rovers         
-Javier H. Estrada     
+Javier H. Estrada     6
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         9
@@ -1978,7 +1978,7 @@ Alejandro G. Calvo    6.5
 Xavi Serra            6
 Guido Castillo        5
 Ronald Rovers         7.5
-Javier H. Estrada     
+Javier H. Estrada     6.5
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         9
@@ -2047,15 +2047,47 @@ Mike d'Angelo         6.1    https://twitter.com/gemko/status/338207781314240512
 Roger Koza            5
 Diego Batlle          6.5
 Diego Lerer           5
+Alex Vicente          
+Jose Luis De Lorenzo  
+Cecilia Martinez      
+Fernando Ganzo        
 Eulàlia Iglesias     5.5
+Ángel Quintana       
+José Luis Losa       6.5
+Pedro Butcher         
+Kieron Corless        
+Luciano Barisone      
+Carlo Chatrian        
 Violeta Kovacsics     6.5
 Luciano Monteagudo    6
 Jaime Pena            5.5
+Rüdiger Suchsland    
 Carlos F. Heredero    5
 Robert Koehler        4
+Dana Linssen          
 Cristina Nord         3
+Francisco Ferreira    
+Paolo Moretti         
+Neil Young            
+Scott Foundas         
+Marcelo Alderete      
 Alexandra Zawia       5.5
+Boris Nelepo          
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          8
+Antoine Thirion       
+Michal Oleszczyk      
+Pablo O. Scholz       
+Alejandro G. Calvo    
+Xavi Serra            
+Guido Castillo        
+Ronald Rovers         
+Javier H. Estrada     5
+Rose Kuo              
+Pamela Bienzobas      
 Alvaro Arroba         3
 Fredy Friedlander     8
 # Screen Daily (0-4)
@@ -2144,11 +2176,11 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            7
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      9
 Alexandra Zawia       8
 Boris Nelepo          10
 Carlos Reviriego      7
-Fernando Juan Lima    
+Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8.5
@@ -2159,11 +2191,11 @@ Alejandro G. Calvo    10
 Xavi Serra            7.5
 Guido Castillo        
 Ronald Rovers         
-Javier H. Estrada     
+Javier H. Estrada     6
 Rose Kuo              
 Pamela Bienzobas      
 Alvaro Arroba         10
-Fredy Friedlander     
+Fredy Friedlander     6
 # Screen Daily (0-4)
 Nick James           
 David Stratton       
@@ -2317,7 +2349,7 @@ Till Kadritzke        6       http://www.critic.de/film/the-bling-ring-5396/
 Daniel Kasman         2.5     http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Michael Kienzl        5       
 
-"FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard]
+"FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard] UCR Avenir Price
   Sundance - Main Prices
 # metacritic
 Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-ryan-cooglers-fruitvale-renders-a-tragic-police-shooting-in-personal-terms
@@ -2403,7 +2435,7 @@ Blake Williams       4.0     https://twitter.com/Astrostic/status/33515790604133
 John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
 Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
-"L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard]
+"L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard] UCR Best director
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            10
@@ -2623,7 +2655,7 @@ Adam Cook            5
 Tim Grierson                  http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
 Blake Williams       5.1      https://twitter.com/Astrostic/status/335754171531804675
 
-"L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard]
+"L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard] Top Price UCR
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
 Roger Koza            7.5
 Diego Batlle          7.5
@@ -2651,11 +2683,11 @@ Francisco Ferreira
 Paolo Moretti         7
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      5
 Alexandra Zawia       8.5
 Boris Nelepo          6
 Carlos Reviriego      9
-Fernando Juan Lima    10
+Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7.5
@@ -2704,7 +2736,7 @@ Diego Lerer           4
 Ángel Quintana       6
 Jaime Pena            3
 Rüdiger Suchsland    2
-Fernando Juan Lima    2
+Fernando Juan Lima    3.5
 Antoine Thirion       4
 Pablo O. Scholz       3
 Guido Castillo        1
@@ -2735,7 +2767,7 @@ Till Kadritzke
 Daniel Kasman        4
 Michael Kienzl       
 
-"OMAR" (Hany ABU-ASSAD) [Un Certain Regard]
+"OMAR" (Hany ABU-ASSAD) [Un Certain Regard] UCR Jury Price
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 Jose Luis De Lorenzo  5
 Dana Linssen          6
@@ -3021,7 +3053,7 @@ Clementine Gallot     6       http://www.indiewire.com/film/wakolda
 Shaun Munro           1       http://www.filmschoolrejects.com/reviews/cannes-2013-review-wakolda.php
 Blake Williams        3.7     https://twitter.com/Astrostic/status/337204495811506176
 
-"LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard]
+"LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard] UCR A Certain Talent Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
 Diego Batlle          6
 Diego Lerer           6.5
@@ -3152,7 +3184,9 @@ José Luis Losa       9
 Luciano Monteagudo    7
 Jaime Pena            4
 Robert Koehler        7.5
+Alexandra Zawia       7
 Pablo O. Scholz       7
+Javier H. Estrada     5.5
 
 OUT OF COMPETITION
 
@@ -3167,6 +3201,7 @@ Pedro Butcher         6
 Carlo Chatrian        7.5
 Carlos F. Heredero    6
 Carlos Reviriego      6.5
+Fernando Juan Lima    4
 Pablo O. Scholz       7
 Xavi Serra            6
 Guido Castillo        7
@@ -3183,6 +3218,7 @@ Alex Vicente          5
 José Luis Losa       5
 Pedro Butcher         5
 Alexandra Zawia       1
+Fernando Juan Lima    7.5
 Pablo O. Scholz       6
 Alejandro G. Calvo    1.5
 Xavi Serra            6
@@ -3346,6 +3382,7 @@ Daniel Kasman
 Michael Kienzl        4       
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
+José Luis Losa       4.5
 Alexandra Zawia       2.5
 Patrick Heidmann      2       http://www.indiewire.com/film/zulu
 
@@ -3574,9 +3611,11 @@ Javier H. Estrada     5
 "THE MAJOR" (Yury Bykov) [Semaine]
 
 "3X3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
+Roger Koza            6
 Jaime Pena            9
 Robert Koehler        6.5
 Paolo Moretti         6
+Marcelo Alderete      4
 Alejandro G. Calvo    7
 Alvaro Arroba         7
 Fredy Friedlander     6
@@ -3627,9 +3666,11 @@ Diego Batlle          7.5
 Diego Lerer           7
 Eulàlia Iglesias     6.5
 Ángel Quintana       5.5
+José Luis Losa       6.5
 Kieron Corless        5
 Jaime Pena            5
 Neil Young            6.5        http://www.hollywoodreporter.com/review/selfish-giant-cannes-review-524549
+Fernando Juan Lima    6
 Guido Castillo        8
 Ronald Rovers         7.5
 Javier H. Estrada     4
@@ -3691,6 +3732,8 @@ Jaime Pena            5.5
 Rüdiger Suchsland    10
 Marcelo Alderete      1
 Boris Nelepo          7.5
+Fernando Juan Lima    1
+Javier H. Estrada     5.5
 Alvaro Arroba         3.5
 Fredy Friedlander     8
 # critic.de
@@ -3727,6 +3770,7 @@ Eulàlia Iglesias     5.5
 Ángel Quintana       5.5
 Kieron Corless        6.5
 Violeta Kovacsics     7
+Jaime Pena            4.5
 Robert Koehler        6
 Cristina Nord         8
 Paolo Moretti         5
@@ -3800,6 +3844,7 @@ Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parti
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 Kieron Corless        5
+Jaime Pena            5.5
 Paolo Moretti         5
 Javier H. Estrada     4
 Blake Williams         5.5     https://twitter.com/Astrostic/status/337127683970441216
@@ -3846,6 +3891,7 @@ Arnaud Hée           2.5
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
 Neil Young            6.5
+Javier H. Estrada     6
 Michael Kienzl       7.5
 
 "HENRI" (Yolande Moreau) [Quinzaine]
