@@ -1645,15 +1645,15 @@ Alvaro Arroba         5.5
 Fredy Friedlander     6
 # Screen Daily (0-4)
 Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
+David Stratton       9
+Derek Malcolm        7.5
+Jan Schulz-Ojala     9
+Jose Carlos Avellar  7.5
+Dennis Lim           5
+Michel Ciment        7.5
+Kate Muir/Wendy Ide  7.5
 Bo Green Jensen      
-Screen International 
+Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         5
 Christophe Beney     0
@@ -1760,15 +1760,15 @@ Alvaro Arroba         8
 Fredy Friedlander     7
 # Screen Daily (0-4)
 Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
+David Stratton       9
+Derek Malcolm        7.5
+Jan Schulz-Ojala     7.5
+Jose Carlos Avellar  7.5
 Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Michel Ciment        9
+Kate Muir/Wendy Ide  9
+Bo Green Jensen      9
+Screen International 9
 # ioncinema 0-5
 Nicolas Bell         9
 Christophe Beney     10
