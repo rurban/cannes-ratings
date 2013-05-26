@@ -139,6 +139,16 @@ Pierre Fornerod       5
 Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+# TF1.fr 0-5
+Aurelien Allin        6
+Evangeline Barbaroux  2
+Thomas Baurez         4
+Stephanie Belpeche    
+Roman Blondaeu        
+Stephanie Lamome      8
+Roman Vern            8
+Mehdi Omais           4
+#Philippe Rouyer      0
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -253,6 +263,16 @@ Pierre Fornerod       5
 Pascal Merigeau       5
 Danielle Attali       2.5
 Christophe Carriére   7.5
+# TF1.fr 0-5
+Aurelien Allin        4
+Evangeline Barbaroux  6
+Thomas Baurez         
+Stephanie Belpeche    8
+Roman Blondaeu        4
+Stephanie Lamome      6
+Roman Vern            4
+Mehdi Omais           8
+#Philippe Rouyer      6
 
 "TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition] Best screenplay
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
@@ -366,6 +386,16 @@ Jon Frosch           8        http://www.indiewire.com/film/a-touch-of-sin
 Peter Bradshaw       8        http://www.guardian.co.uk/film/2013/may/17/cannes-touch-of-sin-review
 John Bleasdale        6       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-touch-of-sin.html
 Eugene Hernandez              http://www.filmlinc.com/daily/entry/cannes-daily-buzz-podcast-jia-zhang-ke-a-touch-of-sin
+# TF1.fr 0-5
+Aurelien Allin        4
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Roman Blondaeu        8
+Stephanie Lamome      
+Roman Vern            4
+Mehdi Omais           8
+#Philippe Rouyer      
 
 "LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition] Ecumenical Jury Award, Best actress
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
@@ -481,6 +511,16 @@ Pascal Merigeau       9
 Danielle Attali       7.5
 Christophe Carriére   9
 Geoff Andrews (Sight&Sound, UK)   http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-tough-acts-follow
+# TF1.fr 0-5
+Aurelien Allin        8
+Evangeline Barbaroux  8
+Thomas Baurez         2
+Stephanie Belpeche    6
+Roman Blondaeu        
+Stephanie Lamome      10
+Roman Vern            8
+Mehdi Omais           10
+#Philippe Rouyer      8
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -593,6 +633,16 @@ Emanuel Levy         6      http://www.indiewire.com/film/jimmy-picard
 Patrick Heidmann     5      http://www.indiewire.com/film/jimmy-picard
 John Bleasdale       4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jimmy-p.html
 Catherine Shoard     2      http://www.guardian.co.uk/film/2013/may/18/cannes-2013-jimmy-p-review
+# TF1.fr 0-5
+Aurelien Allin        4
+Evangeline Barbaroux  4
+Thomas Baurez         
+Stephanie Belpeche    4
+Roman Blondaeu        
+Stephanie Lamome      
+Roman Vern            2
+Mehdi Omais           2
+#Philippe Rouyer      8
 
 "SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition] Jury Price
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
@@ -695,6 +745,16 @@ Pierre Fornerod       2.5
 Pascal Merigeau       2.5
 Danielle Attali       9
 Christophe Carriére   7.5
+# TF1.fr 0-5
+Aurelien Allin        8
+Evangeline Barbaroux  10
+Thomas Baurez         
+Stephanie Belpeche    6
+Roman Blondaeu        4
+Stephanie Lamome      6
+Roman Vern            6
+Mehdi Omais           6
+#Philippe Rouyer      6
 #criticwire
 Clementine Gallot    8        http://www.indiewire.com/film/like-father-like-son
 Jon Frosch           5        http://cannesreport.blogs.france24.com/article/2013/05/18/cannes-benicio-del-toro-jimmy-p-harvey-weinstein-mathieu-amalric-0
@@ -809,6 +869,16 @@ Pierre Fornerod       2.5
 Pascal Merigeau       
 Danielle Attali       2.5
 Christophe Carriére   7.5
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    6
+Roman Blondaeu        
+Stephanie Lamome      6
+Roman Vern            6
+Mehdi Omais           2
+#Philippe Rouyer      8
 #
 Jessica Kiang         8       http://blogs.indiewire.com/theplaylist/cannes-review-borgman-delivers-a-deliciously-dark-twisted-cannes-competition-treat-20130519
 Ryland Aldrich        7       http://www.indiewire.com/film/borgman
@@ -933,6 +1003,17 @@ John Bleasdale       10     http://www.cine-vue.com/2013/05/cannes-film-festival
 Peter Bradshaw       10     http://www.guardian.co.uk/film/2013/may/18/cannes-2013-inside-llewyn-davis-review
 Jordan Hoffman       9.5    http://www.film.com/movies/inside-llewyn-davis-review
 Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
+Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
+# TF1.fr 0-5
+Aurelien Allin        10
+Evangeline Barbaroux  8
+Thomas Baurez         
+Stephanie Belpeche    6
+Roman Blondaeu        
+Stephanie Lamome      8
+Roman Vern            10
+Mehdi Omais           10
+#Philippe Rouyer      10
 
 "WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
@@ -1035,6 +1116,16 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       1
 Christophe Carriére   1
+# TF1.fr 0-5
+Aurelien Allin        2
+Evangeline Barbaroux  2
+Thomas Baurez         
+Stephanie Belpeche    6
+Roman Blondaeu        
+Stephanie Lamome      
+Roman Vern            
+Mehdi Omais           2
+#Philippe Rouyer      6
 # criticwire
 Kevin Jagernauth     1        http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miikes-shield-of-straw-a-tedious-dumb-overstuffed-thriller-20130520
 Ryland Aldrich       5        http://www.indiewire.com/film/shield-of-straw
@@ -1146,6 +1237,16 @@ Pierre Fornerod       5
 Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   2.5
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  10
+Thomas Baurez         4
+Stephanie Belpeche    
+Roman Blondaeu        6
+Stephanie Lamome      8
+Roman Vern            8
+Mehdi Omais           8
+#Philippe Rouyer      4
 #
 Shaun Munro           3       http://www.filmschoolrejects.com/reviews/cannes-2013-review-a-castle-in-italy-is-decent-drama-elevated-by-central-performance.php
 Peter Bradshaw        2       http://www.guardian.co.uk/film/2013/may/21/cannes-2013-castle-in-italy-review
@@ -1251,6 +1352,16 @@ Pierre Fornerod       5
 Pascal Merigeau       5
 Danielle Attali       7.5
 Christophe Carriére   7.5
+# TF1.fr 0-5
+Aurelien Allin        8
+Evangeline Barbaroux  8
+Thomas Baurez         6
+Stephanie Belpeche    
+Roman Blondaeu        
+Stephanie Lamome      6
+Roman Vern            4
+Mehdi Omais           6
+#Philippe Rouyer      8
 # criticwire
 Anne Thompson        9    http://www.indiewire.com/film/behind-the-candelabra
 Raffi Asdourian      5    http://www.indiewire.com/film/behind-the-candelabra
@@ -1267,6 +1378,7 @@ Manohla Dargis            http://artsbeat.blogs.nytimes.com/2013/05/21/cannes-fi
 # metacritic
 Richard Corliss      10   http://entertainment.time.com/2013/05/21/soderberghs-behind-the-candelabra-michael-douglas-is-liberace/
 Peter Debruge        7    http://variety.com/2013/film/reviews/cannes-film-review-behind-the-candelabra-1200482161/
+Wesley Morris             http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77659/cannes-diary-day-7-behind-the-candelabra-changes-everything
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
@@ -1369,11 +1481,22 @@ Pierre Fornerod       7.5
 Pascal Merigeau       2.5
 Danielle Attali       5
 Christophe Carriére   7.5
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  2
+Thomas Baurez         6
+Stephanie Belpeche    10
+Roman Blondaeu        0
+Stephanie Lamome      6
+Roman Vern            6
+Mehdi Omais           
+#Philippe Rouyer      6
 #criticwire
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 Shaun Munro          6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-the-great-beauty-is-a-sight-for-sore-eyes.php
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/21/cannes-review-great-beauty-sorrentino
 Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
+Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77659/cannes-diary-day-7-behind-the-candelabra-changes-everything
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
@@ -1468,6 +1591,16 @@ Pierre Fornerod       1
 Pascal Merigeau       2.5
 Danielle Attali       2.5
 Christophe Carriére   7.5
+# TF1.fr 0-5
+Aurelien Allin        6
+Evangeline Barbaroux  8
+Thomas Baurez         4
+Stephanie Belpeche    8
+Roman Blondaeu        2
+Stephanie Lamome      6
+Roman Vern            4
+Mehdi Omais           4
+#Philippe Rouyer      10
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            1        http://mubi.com/notebook/posts/cannes-2013-hollow-cinema-nicolas-winding-refns-only-god-forgives
 Arnaud Hée           4
@@ -1489,6 +1622,7 @@ Peter Bradshaw       10       http://www.guardian.co.uk/film/2013/may/22/cannes-
 Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
 Logan Hill                    http://artsbeat.blogs.nytimes.com/2013/05/16/cannes-film-festival-nicolas-winding-refn-on-being-one-with-ryan-gosling/?hpw
 Mahnola Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
+Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77762/cannes-diary-day-8-ryan-goslings-new-movie-booed-out-of-france
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -1583,6 +1717,16 @@ Pierre Fornerod       2.5
 Pascal Merigeau       5
 Danielle Attali       2.5
 Christophe Carriére   5
+# TF1.fr 0-5
+Aurelien Allin        4
+Evangeline Barbaroux  6
+Thomas Baurez         4
+Stephanie Belpeche    4
+Roman Blondaeu        
+Stephanie Lamome      2
+Roman Vern            
+Mehdi Omais           2
+#Philippe Rouyer      4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            6
 Arnaud Hée           6
@@ -1687,6 +1831,16 @@ Pierre Fornerod       5
 Pascal Merigeau       7.5
 Danielle Attali       2.5
 Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        8
+Evangeline Barbaroux  
+Thomas Baurez         2
+Stephanie Belpeche    4
+Roman Blondaeu        
+Stephanie Lamome      6
+Roman Vern            
+Mehdi Omais           10
+#Philippe Rouyer      6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            5
 Arnaud Hée           
@@ -1802,6 +1956,16 @@ Pierre Fornerod       9
 Pascal Merigeau       9
 Danielle Attali       9
 Christophe Carriére   9
+# TF1.fr 0-5
+Aurelien Allin        6
+Evangeline Barbaroux  10
+Thomas Baurez         10
+Stephanie Belpeche    10
+Roman Blondaeu        6
+Stephanie Lamome      10
+Roman Vern            10
+Mehdi Omais           10
+#Philippe Rouyer      10
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           9
@@ -1816,6 +1980,7 @@ Patrick Heidmann    9         http://www.indiewire.com/film/la-vie-dadele
 Clementine Gallot   10        http://www.indiewire.com/film/la-vie-dadele
 Eric Kohn           8         http://www.indiewire.com/article/cannes-lesbian-coming-of-age-epic-blue-is-the-warmest-color-offers-honest-sexually-frank-insights
 Joachim Kurz        10        http://www.kino-zeit.de/blog/cannes/la-vie-d-adele-chapitre-1-2
+Jordan Hoffman      9.6
 Jon Frosch          10        http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 Mathilde Cesbron              http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00561-abdellatif-kechiche-la-vie-d-adele-n-est-pas-un-film-militant-homosexuel.php
 Maxime Pargaud (Le Figaro, France) 10  http://www.lefigaro.fr/festival-de-cannes/2013/05/23/03011-20130523ARTFIG00465--la-vie-d-adele-un-chef-d-oeuvre-bouleversant.php
@@ -1921,6 +2086,16 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        6
+Evangeline Barbaroux  6
+Thomas Baurez         4
+Stephanie Belpeche    4
+Roman Blondaeu        
+Stephanie Lamome      4
+Roman Vern            4
+Mehdi Omais           4
+#Philippe Rouyer      8
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            9
 Arnaud Hée           6
@@ -2029,6 +2204,16 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        4
+Evangeline Barbaroux  6
+Thomas Baurez         4
+Stephanie Belpeche    4
+Roman Blondaeu        4
+Stephanie Lamome      6
+Roman Vern            
+Mehdi Omais           2
+#Philippe Rouyer      2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           6
@@ -2136,6 +2321,16 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        6
+Evangeline Barbaroux  8
+Thomas Baurez         6
+Stephanie Belpeche    8
+Roman Blondaeu        
+Stephanie Lamome      0
+Roman Vern            6
+Mehdi Omais           8
+#Philippe Rouyer      8
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           
@@ -2242,6 +2437,16 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        4
+Evangeline Barbaroux  8
+Thomas Baurez         4
+Stephanie Belpeche    6
+Roman Blondaeu        8
+Stephanie Lamome      8
+Roman Vern            8
+Mehdi Omais           6
+#Philippe Rouyer      4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           
@@ -2798,6 +3003,7 @@ Frédéric Jaeger       4
 Jon Frosch            6       http://www.indiewire.com/film/omar
 Ryland Aldrich        7       http://www.indiewire.com/film/omar
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
+Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
 
 "AS I LAY DYING" (James FRANCO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
@@ -3161,6 +3367,7 @@ Till Kadritzke
 Daniel Kasman        9
 Michael Kienzl       9        
 Blake Williams       7.8      https://twitter.com/Astrostic/status/337565096823902209
+Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77914/cannes-diary-day-9-alexander-paynes-gray-new-movie-and-finally-an-honest-to-goodness-masterpiece
 
 "TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
@@ -3388,6 +3595,16 @@ Frédéric Jaeger       6
 Till Kadritzke        6       http://www.critic.de/film/the-great-gatsby-4168/
 Daniel Kasman                 
 Michael Kienzl        4       
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  4
+Thomas Baurez         8
+Stephanie Belpeche    
+Roman Blondaeu        2
+Stephanie Lamome      6
+Roman Vern            2
+Mehdi Omais           6
+#Philippe Rouyer      2
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
 Jose Luis De Lorenzo  3.5
@@ -4033,8 +4250,20 @@ Till Kadritzke (critic.de, Deutschland)
 Daniel Kasman (MUBI, USA)
 Michael Kienzl (critic.de, Deutschland)
 ";
-# indiewire + various other
+# TF1.fr
 $critics[5] = "
+Aurelien Allin (Cinemateaser, France)
+Evangeline Barbaroux (LCI, France)
+Thomas Baurez (Studio CineLive, France)
+Stephanie Belpeche (JDD, France)
+Roman Blondaeu (Les Inrockuptibles, France)
+Stephanie Lamome (First, France)
+Roman Vern (TF1 News, France)
+Mehdi Omais (Metro, France)
+Philippe Rouyer (Positif, France)
+";
+# indiewire + various other
+$critics[6] = "
 A.A. Dowd (Time Out Chicago, USA)
 Aaron Hillis (GreenCine Daily, USA)
 Adam Batty (Hope Lies at 24 Frames Per Second, UK)
@@ -4135,7 +4364,7 @@ Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
 ";
 # former apichatpoll members
-$critics[6] = "
+$critics[7] = "
 Arthur Mas (Independencia, France) 
 Camille Brunel (Independencia, France) 
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
@@ -4149,6 +4378,8 @@ Sergio Wolf (BAFICI, Argentina)
 Thomas Fioretti (Independencia, France) 
 ";
 
+# http://lci.tf1.fr/cinema/news/festival-de-cannes-2013-les-etoiles-de-la-presse-cinema-7961575.html
+
 our $HEADER = <<"EOF";
 
 <small>Collected and updated daily by Reini Urban, 
@@ -4157,6 +4388,7 @@ http://www.ioncinema.com/ (okay),
 Le film français (eclectic),
 http://jury.critic.de/cannes/ (german),
 Screen Daily (US/UK mainstream),
+More french TF1.fr,
 Indiewire (mixed) and more critics.<br>
 
 <br>

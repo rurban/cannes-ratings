@@ -2876,6 +2876,7 @@ our $FOOTER = "
 http://micropsia.otroscines.com/
 http://www.ioncinema.com/
 http://www.facebook.com/notes/reini-urban/cannes-2011-critics/10150578683465012
+http://www.screendaily.com/Journals/1/Files/2011/6/1/Screen%20Cannes%20Jury%20Grid%202011.pdf
 
 Source at http://rurban.xarch.at/film/Cannes2011.txt
 Result at http://rurban.xarch.at/film/Cannes2011.sorted.html
