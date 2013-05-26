@@ -2149,7 +2149,7 @@ Jessica Kiang         3       http://blogs.indiewire.com/theplaylist/emmanuelle-
 Patrick Heidmann      7       http://www.indiewire.com/film/venus-in-fur
 Clementine Gallot     7       http://www.indiewire.com/film/venus-in-fur
 
-"ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition]
+"ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
 Mike d'Angelo         7.7     https://twitter.com/gemko/status/338016031668850688
 Roger Koza            8
@@ -2437,7 +2437,7 @@ Blake Williams       4.0     https://twitter.com/Astrostic/status/33515790604133
 John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
 Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
-"L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard] UCR Best director
+"L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard] UCR Best director, Queer Palm
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            10
@@ -2561,7 +2561,7 @@ Michael Kienzl
 #
 John Bleasdale        4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-miele-review.html
 
-"GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard]
+"GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard] François Chalais Price
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
 Mike d'Angelo                 https://twitter.com/gemko/status/335789145567948802
 Roger Koza            
@@ -3602,7 +3602,7 @@ Alvaro Arroba         6.5
 Adam Cook             5       
 Arnaud Hée            6       
 
-"LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine]
+"LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine] Lobende Erwaehnung
 Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
