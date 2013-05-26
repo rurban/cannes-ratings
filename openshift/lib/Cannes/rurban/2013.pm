@@ -480,6 +480,7 @@ Pierre Fornerod       7.5
 Pascal Merigeau       9
 Danielle Attali       7.5
 Christophe Carriére   9
+Geoff Andrews (Sight&Sound, UK)   http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-tough-acts-follow
 
 "JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
@@ -1825,6 +1826,7 @@ Peter Bradshaw      8         http://www.guardian.co.uk/film/2013/may/23/cannes-
 Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
 Craig Kennedy                 http://www.awardsdaily.com/blog/cannes-review-la-vie-dadele-blue-is-the-warmest-color/
 Ali Naderzad                  http://screencomment.com/2013/05/blue-is-the-warmest-color-la-vie-dadele/
+Jonathan Romney (Sight&Sound, UK) http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
@@ -2515,6 +2517,7 @@ Clementine Gallot    8       http://www.indiewire.com/film/linconnu-du-lac
 John Bleasdale       4       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-stranger-by.html
 Blake Williams       7.2     https://twitter.com/Astrostic/status/335346286784024576
 Cédric Succivalli            http://icsfilm.org/news/198-cannes-2013-review-linconnu-du-lac
+Geoff Andrews (Sight&Sound, UK)   http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-tough-acts-follow
 
 
 "MIELE" (Valeria GOLINO) [Un Certain Regard]
@@ -2980,6 +2983,7 @@ Eric Kohn            3        http://www.indiewire.com/film/les-salauds
 Jessica Kiang        5        http://www.indiewire.com/film/les-salauds
 Shaun Munro          1        http://www.filmschoolrejects.com/reviews/cannes-2013-review-bastards.php
 Xan Brooks           4        http://www.guardian.co.uk/film/2013/may/21/les-salauds-cannes-2013
+Amy Taubin (Sight&Sound, UK)  http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-this-noir
 
 "WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
@@ -3111,7 +3115,7 @@ Eulàlia Iglesias     9
 Ángel Quintana       7.5
 José Luis Losa       6.5
 Pedro Butcher         7
-Kieron Corless        9.5
+Kieron Corless        9.5     http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     
