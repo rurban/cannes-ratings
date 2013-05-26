@@ -644,7 +644,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 10
 Gabe Klinger (The Auteurs Notebook, USA): 8
 Luciano Barisone (Panoramiques, Italia): 9
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
-Paolo Bertolin (Cineforum. Italia): 9
+Paolo Bertolin (Cineforum, Italia): 9
 Violeta Kovacsis (Lumiere, España): 8
 Robert Koehler (Variety, USA): 10
 Olivier Père (Director artístico Festival de Locarno, France): 9
@@ -1124,7 +1124,7 @@ Alejandro G. Calvo (Sensacine.com, España): 6
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 8
 Carlos Reviriego (Cahiers du Cinéma España, España): 8
 Diego Batlle (La Nación, Otros Cines, Argentina): 8
-Paolo Bertolin (Cineforum. Italia): 8
+Paolo Bertolin (Cineforum, Italia): 8
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Diego Lerer (Clarín, Micropsia, Argentina): 7
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 4
@@ -1199,7 +1199,7 @@ Alejandro G. Calvo (Sensacine.com, España): 3
 Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Luciano Barisone (Panoramiques, Italia): 4
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
-Paolo Bertolin (Cineforum. Italia): 8
+Paolo Bertolin (Cineforum, Italia): 8
 Violeta Kovacsis (Lumiere, España): 5
 Robert Koehler: (Variety, USA): 3
 Emmanuel Burdeau (Mediapart, France): 4
@@ -1301,7 +1301,7 @@ Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria)
 Arthur Mas (Independencia, France) 
 Boris Nelepo (Kinote daily, Russia)
 Camille Brunel (Independencia, France) 
-Carlo Chatrian (Duellanti, Panoramiches, Italy) 
+Carlo Chatrian (Duellanti, Panoramiches, Italia) 
 Carlos Heredero (Caimán CDC, España) 
 Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
 Cristina Nord (Die Tageszeitung, Deutschland) 
@@ -1313,13 +1313,13 @@ Eulalia Iglesias (RockDeLux y Caimán CDC, España)
 Fernando Ganzo (Lumiere, España) 
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
-Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
+Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italia) 
 Gonzalo de Pedro (Caimán, CDC, España) 
 Jaime Pena (El Amante, España/Argentina) 
 Javier H. Estrada (Caimán CDC, España) 
 José Luis de Lorenzo (A Sala Llena, Argentina) 
 Kong Rithdee (The Bangkok Post, Thailand) 
-Luciano Barisone (Duellanti/Panoramiche, Italy) 
+Luciano Barisone (Duellanti/Panoramiche, Italia) 
 Luciano Monteagudo (Página/12, Argentina) 
 Manu Yáñez (Fotogramas, OtrosCines, España) 
 Marcelo Alderete (Festival de Mar del Plata, Argentina) 
@@ -1329,8 +1329,8 @@ Neil Young (Hollywood Reporter, Tribune, UK)
 Noémie Luciani (Independencia, France) 
 Olivier Père (Les Inrockuptibles, France) 
 Pamela Bienzobas (Mabuse, Chile) 
-Paolo Bertolin (Venice International Film Festival, Italy) 
-Paolo Moretti (Venice International Film Festival, Italy)
+Paolo Bertolin (Venice International Film Festival, Italia) 
+Paolo Moretti (Venice International Film Festival, Italia)
 Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil) 
 Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
@@ -1347,7 +1347,7 @@ $critics[1] = "
 Christophe Beney (Palmares magazine, France) 
 David Calhoun (The Out London, UK) 
 Per Juul Carlsen (Danish National Radio, Denmark) 
-Paola Casella (Europa, Italy) 
+Paola Casella (Europa, Italia) 
 Mike d'Angelo (AV Club, USA) 
 Carlos F. Heredero (Cahiers du cinema Espana, Spain) 
 Eric Lavallée (Ioncinema.com, Canada) 
@@ -1384,7 +1384,7 @@ Christophe Carriére (L'Express, France)
 $critics[3] = "
 Jose Carlos Avellar (Escrevercinema.com, Brazil)
 Michel Ciment (Positif, France)
-Alberto Crespi (L'Unita, Italy) 
+Alberto Crespi (L'Unita, Italia) 
 Nick James (Sight & Sound, UK)
 Bo Green Jensen (Weekandavisen Berlingske, Denmark)
 Derek Malcolm (London Evening, UK)
