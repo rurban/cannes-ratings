@@ -1709,7 +1709,7 @@ Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-film
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 
-"LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]
+"LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition] FIPRESCI Price Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
 Mike d'Angelo         6.9     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Roger Koza            9
@@ -3179,7 +3179,7 @@ Daniel Kasman
 Michael Kienzl       5
 Blake Williams       0.6      https://twitter.com/Astrostic/status/337607129622007808
 
-"DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard]
+"DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard] FIPRESCI Price UCR
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
 Roger Koza            7.5
 Diego Batlle          6.5
@@ -3714,7 +3714,7 @@ Javier H. Estrada     6
 Christoph Huber      6       
 Frédéric Jaeger      2.5     
 
-"BLUE RUIN" (Jeremy Saulnier) [Quinzaine]
+"BLUE RUIN" (Jeremy Saulnier) [Quinzaine] FIPRESCI Price parallel sections
 Eulàlia Iglesias     6.5
 Ángel Quintana       6
 Cristina Nord         6.5
