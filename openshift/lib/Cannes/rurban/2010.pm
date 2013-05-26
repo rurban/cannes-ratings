@@ -29,7 +29,7 @@ Luciano Monteagudo (Página/12, Argentina): 5
 Francisco Ferreira (O Expresso, Portugal): 1
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       1
+Michel Ciment       1
 Alberto Crespi       
 Nick James           2.5
 Bo Green Jensen      5
@@ -44,7 +44,7 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 1
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       7.5
+Michel Ciment       7.5
 Alberto Crespi       
 Nick James           2.5
 Bo Green Jensen      5
@@ -86,7 +86,7 @@ Luciano Monteagudo (Página/12, Argentina): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 # Screen Daily (0-4)
 Jose Carlos Avellar  7.5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       5
 Nick James           7.5
 Bo Green Jensen      7.5
@@ -131,7 +131,7 @@ Violeta Kovacsis (Lumiere, España): 9
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 # Screen Daily (0-4)
 Jose Carlos Avellar  9
-Michel Clement       2.5
+Michel Ciment       2.5
 Alberto Crespi       2.5
 Nick James           7.5
 Bo Green Jensen      5
@@ -222,7 +222,7 @@ Paolo Bertolin (Cineforum, Italia): 7
 Eugenio Renzi (Independencia, France): 5
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       5
 Nick James           2.5
 Bo Green Jensen      7.5
@@ -278,7 +278,7 @@ Manu Yáñez (Fotogramas, España): 1
 Gabe Klinger (The Auteurs Notebook, USA): 1
 # Screen Daily (0-4)
 Jose Carlos Avellar  2.5
-Michel Clement       2.5
+Michel Ciment       2.5
 Alberto Crespi       7.5
 Nick James           2.5
 Bo Green Jensen      5
@@ -306,7 +306,7 @@ Diego Lerer (Clarín, Micropsia, Argentina): 6
 Cristina Nord (Die Tageszeitung, Deutschland): 2
 # Screen Daily (0-4)
 Jose Carlos Avellar  7.5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       5
 Nick James           2.5
 Bo Green Jensen      7.5
@@ -352,7 +352,7 @@ Cristina Nord (Die Tageszeitung, Deutschland): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       9
+Michel Ciment       9
 Alberto Crespi       
 Nick James           7.5
 Bo Green Jensen      5
@@ -393,7 +393,7 @@ Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 9,5
 # Screen Daily (0-4)
 Jose Carlos Avellar  2.5
-Michel Clement       7.5
+Michel Ciment       7.5
 Alberto Crespi       7.5
 Nick James           7.5
 Bo Green Jensen      7.5
@@ -425,7 +425,7 @@ Scott Foundas (Filmlinc, USA): 8
 Paolo Bertolin (Cineforum, Italia): 10
 # Screen Daily (0-4)
 Jose Carlos Avellar  7.5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       2.5
 Nick James           7.5
 Bo Green Jensen      5
@@ -543,7 +543,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 8
 Paolo Bertolin (Cineforum, Italia): 7
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       2.5
 Nick James           7.5
 Bo Green Jensen      5
@@ -621,7 +621,7 @@ Leonardo D'Espósito (Crítica de la Argentina, Argentina): 0
 Scott Foundas (Filmlinc, USA): 0
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       7.5
+Michel Ciment       7.5
 Alberto Crespi       1
 Nick James           2.5
 Bo Green Jensen      7.5
@@ -704,7 +704,7 @@ Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 6
 Paolo Bertolin (Cineforum, Italia): 8
 # Screen Daily (0-4)
 Jose Carlos Avellar  2.5
-Michel Clement       2.5
+Michel Ciment       2.5
 Alberto Crespi       1
 Nick James           1
 Bo Green Jensen      2.5
@@ -816,7 +816,7 @@ Violeta Kovacsis (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       9
+Michel Ciment       9
 Alberto Crespi       2.5
 Nick James           5
 Bo Green Jensen      5
@@ -940,7 +940,7 @@ Violeta Kovacsis (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 4
 # Screen Daily (0-4)
 Jose Carlos Avellar  7.5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       5
 Nick James           7.5
 Bo Green Jensen      7.5
@@ -971,7 +971,7 @@ Carlo Chatrian (Panoramiques, Duellanti, Italia): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 0
 # Screen Daily (0-4)
 Jose Carlos Avellar  9
-Michel Clement       9
+Michel Ciment       9
 Alberto Crespi       7.5
 Nick James           7.5
 Bo Green Jensen      7.5
@@ -1169,7 +1169,7 @@ Francisco Ferreira (O Expresso, Portugal): 5
 Scott Foundas (Filmlinc, USA): 4
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       7.5
 Nick James           5
 Bo Green Jensen      5
@@ -1217,7 +1217,7 @@ Francisco Ferreira (O Expresso, Portugal): 2
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
 # Screen Daily (0-4)
 Jose Carlos Avellar  7.5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       5
 Nick James           2.5
 Bo Green Jensen      7.5
@@ -1253,7 +1253,7 @@ Francisco Ferreira (O Expresso, Portugal): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 3,5
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
-Michel Clement       5
+Michel Ciment       5
 Alberto Crespi       5
 Nick James           5
 Bo Green Jensen      5
