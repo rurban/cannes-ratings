@@ -72,7 +72,7 @@ Guido Castillo       5
 Ronald Rovers        7.5
 Javier H. Estrada    4.5
 Rose Kuo             
-Pamela Bienzobas     
+Pamela Bienzobas     5
 Alvaro Arroba        
 Fredy Friedlander     
 # criticwire
@@ -299,7 +299,7 @@ Guido Castillo        8.5
 Ronald Rovers         6.5
 Javier H. Estrada     8.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      8
 Alvaro Arroba         4
 Fredy Friedlander     8
 Mike d'Angelo        5.9      http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
@@ -413,7 +413,7 @@ Guido Castillo        7
 Ronald Rovers         7.5
 Javier H. Estrada     4.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      8
 Alvaro Arroba         2.5
 Fredy Friedlander     5
 Eric Kohn             8       http://www.indiewire.com/article/cannes-how-asgar-farhadis-the-past-confirms-his-mastery-of-human-behavior
@@ -616,7 +616,7 @@ Luciano Monteagudo    6
 Jaime Pena            5.5
 Rüdiger Suchsland    8
 Carlos F. Heredero    6.5
-Robert Koehler        
+Robert Koehler        5
 Dana Linssen          7.5
 Cristina Nord         7.5
 Francisco Ferreira    
@@ -634,13 +634,13 @@ Philip Engel          8
 Antoine Thirion       6.5     http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
-Alejandro G. Calvo    7.5
+Alejandro G. Calvo    6.5
 Xavi Serra            7.5
 Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     4
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      6.5
 Alvaro Arroba         
 Fredy Friedlander     7
 #
@@ -838,7 +838,7 @@ Luciano Monteagudo    6.5
 Jaime Pena            8
 Rüdiger Suchsland    
 Carlos F. Heredero    7
-Robert Koehler        
+Robert Koehler        5.5
 Dana Linssen          
 Cristina Nord         8
 Francisco Ferreira    
@@ -1196,7 +1196,7 @@ Guido Castillo        6
 Ronald Rovers         
 Javier H. Estrada     
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      6
 Alvaro Arroba         
 Fredy Friedlander     6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -1383,7 +1383,7 @@ Diego Batlle          5.5
 Diego Lerer           4
 Alex Vicente          
 Jose Luis De Lorenzo  6
-Cecilia Martinez      
+Cecilia Martinez      2
 Fernando Ganzo        3.5
 Eulàlia Iglesias     8.5
 Ángel Quintana       6
@@ -1415,13 +1415,13 @@ Philip Engel          7
 Antoine Thirion       4       http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       4
-Alejandro G. Calvo    3.5
+Alejandro G. Calvo    7.5
 Xavi Serra            7
 Guido Castillo        5
 Ronald Rovers         8
 Javier H. Estrada     8
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      4
 Alvaro Arroba         5
 Fredy Friedlander     
 # Screen Daily (0-4)
@@ -1717,7 +1717,7 @@ Diego Batlle          9.5
 Diego Lerer           9
 Alex Vicente          
 Jose Luis De Lorenzo  10
-Cecilia Martinez      
+Cecilia Martinez      10
 Fernando Ganzo        6
 Eulàlia Iglesias     9
 Ángel Quintana       9.5
@@ -1835,8 +1835,8 @@ Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           9
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  5.5
+Cecilia Martinez      6.5
 Fernando Ganzo        
 Eulàlia Iglesias     8
 Ángel Quintana       
@@ -1868,7 +1868,7 @@ Philip Engel          7
 Antoine Thirion       8
 Michal Oleszczyk      
 Pablo O. Scholz       6
-Alejandro G. Calvo    9
+Alejandro G. Calvo    7.5
 Xavi Serra            6.5
 Guido Castillo        
 Ronald Rovers         
@@ -1943,8 +1943,8 @@ Roger Koza            7.5
 Diego Batlle          6
 Diego Lerer           6
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  5.5
+Cecilia Martinez      4
 Fernando Ganzo        10
 Eulàlia Iglesias     6.5
 Ángel Quintana       
@@ -1958,7 +1958,7 @@ Luciano Monteagudo    8.5
 Jaime Pena            6.5
 Rüdiger Suchsland    
 Carlos F. Heredero    5.5
-Robert Koehler        
+Robert Koehler        3
 Dana Linssen          
 Cristina Nord         8.5
 Francisco Ferreira    
@@ -1982,7 +1982,7 @@ Guido Castillo        5
 Ronald Rovers         7.5
 Javier H. Estrada     6.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      7
 Alvaro Arroba         9
 Fredy Friedlander     6
 # Screen Daily (0-4)
@@ -2075,21 +2075,21 @@ Scott Foundas
 Marcelo Alderete      
 Alexandra Zawia       5.5
 Boris Nelepo          
-Carlos Reviriego      
+Carlos Reviriego      5.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8
 Antoine Thirion       
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       6
 Alejandro G. Calvo    
 Xavi Serra            
 Guido Castillo        
-Ronald Rovers         
+Ronald Rovers         6.5
 Javier H. Estrada     5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      5
 Alvaro Arroba         3
 Fredy Friedlander     8
 # Screen Daily (0-4)
@@ -2156,8 +2156,8 @@ Roger Koza            8
 Diego Batlle          8
 Diego Lerer           8
 Alex Vicente          
-Jose Luis De Lorenzo  
-Cecilia Martinez      
+Jose Luis De Lorenzo  8
+Cecilia Martinez      7.5
 Fernando Ganzo        
 Eulàlia Iglesias     5
 Ángel Quintana       
@@ -2181,21 +2181,21 @@ Scott Foundas
 Marcelo Alderete      9
 Alexandra Zawia       8
 Boris Nelepo          10
-Carlos Reviriego      7
+Carlos Reviriego      7.5
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          8.5
 Antoine Thirion       
 Michal Oleszczyk      
-Pablo O. Scholz       
+Pablo O. Scholz       6
 Alejandro G. Calvo    10
 Xavi Serra            7.5
 Guido Castillo        
-Ronald Rovers         
+Ronald Rovers         6
 Javier H. Estrada     6
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      6.5
 Alvaro Arroba         10
 Fredy Friedlander     6
 # Screen Daily (0-4)
@@ -2302,7 +2302,7 @@ Guido Castillo       8
 Ronald Rovers        7.5
 Javier H. Estrada    6.5
 Rose Kuo             
-Pamela Bienzobas     
+Pamela Bienzobas     5
 Alvaro Arroba        1.5
 Fredy Friedlander     
 # Le film français 0-4
@@ -2532,6 +2532,7 @@ Carlos F. Heredero    6
 Robert Koehler        2.5
 Alexandra Zawia       4
 Fernando Juan Lima    3.5
+Pamela Bienzobas      5.5
 Fredy Friedlander     7
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -2703,7 +2704,7 @@ Guido Castillo        8.5
 Ronald Rovers         
 Javier H. Estrada     6.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      8.5
 Alvaro Arroba         6.5
 Fredy Friedlander     
 # critic.de
@@ -2844,7 +2845,7 @@ Guido Castillo
 Ronald Rovers         
 Javier H. Estrada     
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      6
 Alvaro Arroba         
 Fredy Friedlander     
 # Le film français 0-4
@@ -2948,7 +2949,7 @@ Guido Castillo        8
 Ronald Rovers         
 Javier H. Estrada     8.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      7.5
 Alvaro Arroba         7
 Fredy Friedlander     
 # Le film français 0-4
@@ -3030,7 +3031,7 @@ Guido Castillo
 Ronald Rovers         
 Javier H. Estrada     3.5
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      5
 Alvaro Arroba         
 Fredy Friedlander     6
 # Le film français 0-4
@@ -3062,6 +3063,7 @@ Blake Williams        3.7     https://twitter.com/Astrostic/status/3372044958115
 Diego Batlle          6
 Diego Lerer           6.5
 Jose Luis De Lorenzo  5
+Cecilia Martinez      7
 Eulàlia Iglesias     7.5
 Ángel Quintana       6
 José Luis Losa       6.5
@@ -3072,7 +3074,7 @@ Neil Young            5
 Carlos Reviriego      7
 Philip Engel          6
 Pablo O. Scholz       6
-Alejandro G. Calvo    5.5
+Alejandro G. Calvo    6
 # Le film français 0-4
 Stéphanie Lamome      2.5
 Arnaud Schwartz       5
@@ -3166,6 +3168,7 @@ Diego Batlle          3
 José Luis Losa       5.5
 Luciano Monteagudo    2
 Rüdiger Suchsland    2
+Robert Koehler        1
 Cristina Nord         2.5
 Fernando Juan Lima    2
 Pablo O. Scholz       4
@@ -3199,6 +3202,7 @@ Mike d'Angelo         7.4     https://twitter.com/gemko/status/33717089163924684
 Diego Batlle          6.5
 Diego Lerer           6.5
 Jose Luis De Lorenzo  7
+Cecilia Martinez      8.5
 Ángel Quintana       8
 José Luis Losa       8
 Pedro Butcher         6
@@ -3348,7 +3352,7 @@ Guido Castillo        7
 Ronald Rovers         6
 Javier H. Estrada     3
 Rose Kuo              
-Pamela Bienzobas      
+Pamela Bienzobas      4.5
 Alvaro Arroba         1.5
 Fredy Friedlander     
 Michael Sennhauser             http://sennhausersfilmblog.ch/2013/05/15/cannes-13-the-great-gatsby-von-baz-luhrman/
@@ -3386,8 +3390,11 @@ Daniel Kasman
 Michael Kienzl        4       
 
 "ZULU" (Jérôme SALLE) [Out of Competition]
+Jose Luis De Lorenzo  3.5
+Cecilia Martinez      2
 José Luis Losa       4.5
 Alexandra Zawia       2.5
+Ronald Rovers         3.5
 Patrick Heidmann      2       http://www.indiewire.com/film/zulu
 
 MIDNIGHT PROJECTIONS
@@ -3650,6 +3657,7 @@ Dana Linssen          6
 Marcelo Alderete      6
 Alejandro G. Calvo    6
 Guido Castillo        4
+Pamela Bienzobas      7
 Alvaro Arroba         10
 #
 Adam Cook                     
@@ -3734,10 +3742,12 @@ Kieron Corless        6
 Luciano Monteagudo    0.5
 Jaime Pena            5.5
 Rüdiger Suchsland    10
+Robert Koehler        1
 Marcelo Alderete      1
 Boris Nelepo          7.5
 Fernando Juan Lima    1
 Javier H. Estrada     5.5
+Pamela Bienzobas      7.5
 Alvaro Arroba         3.5
 Fredy Friedlander     8
 # critic.de
@@ -3757,6 +3767,7 @@ José Luis Losa       6
 Paolo Moretti         4
 Marcelo Alderete      3
 Boris Nelepo          4
+Pamela Bienzobas      6
 # criticwire
 Raffi Asdourian      7    http://www.indiewire.com/film/jodorowskys-dune
 Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
@@ -3782,6 +3793,7 @@ Boris Nelepo          7
 Carlos Reviriego      5.5
 Fernando Juan Lima    5
 Antoine Thirion       7.5
+Pamela Bienzobas      6.5
 # critic.de
 Adam Cook            6        
 Arnaud Hée           
@@ -3809,6 +3821,7 @@ Roger Koza            6.5
 Diego Lerer           7
 Eulàlia Iglesias     6.5
 Robert Koehler        4.5
+Pamela Bienzobas      6.5
 
 "LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine] Art Cinema Award + Prix SACD
 Carlo Chatrian        4
@@ -3849,6 +3862,7 @@ Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parti
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 Kieron Corless        5
 Jaime Pena            5.5
+Robert Koehler        7
 Paolo Moretti         5
 Javier H. Estrada     4
 Blake Williams         5.5     https://twitter.com/Astrostic/status/337127683970441216
@@ -3879,6 +3893,7 @@ Philip Engel          6.5
 Alejandro G. Calvo    5
 Guido Castillo        2
 Javier H. Estrada     3
+Pamela Bienzobas      3.5
 Fredy Friedlander     1
 #
 Sebastian Doggart     6       http://www.guardian.co.uk/film/2013/jan/25/magic-magic-first-look-review
