@@ -1594,7 +1594,7 @@ Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 #
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/22/cannes-2013-grigris-review
 
-"NEBRASKA" (Alexander PAYNE) [Competition]
+"NEBRASKA" (Alexander PAYNE) [Competition] Best actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
 Mike d'Angelo         7.1     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Roger Koza            
