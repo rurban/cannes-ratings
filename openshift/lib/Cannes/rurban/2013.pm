@@ -254,7 +254,7 @@ Pascal Merigeau       5
 Danielle Attali       2.5
 Christophe Carriére   7.5
 
-"TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition]
+"TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition] Best screenplay
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
 Roger Koza            9
 Diego Batlle          7.5
