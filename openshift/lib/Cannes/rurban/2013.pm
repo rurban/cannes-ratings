@@ -816,7 +816,7 @@ Clementine Gallot     1.5     http://www.indiewire.com/film/borgman
 John Bleasdale        8       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-borgman-review.html
 Catherine Shoard (Guardian, UK)   6       http://www.guardian.co.uk/film/2013/may/19/cannes-film-festival-borgman-review
 
-"INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition]
+"INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition] Grand prix
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
 Mike d'Angelo         5.7     https://twitter.com/gemko/status/335841004601085952
 Roger Koza            7
