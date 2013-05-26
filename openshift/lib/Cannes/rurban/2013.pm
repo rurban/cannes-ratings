@@ -594,7 +594,7 @@ Patrick Heidmann     5      http://www.indiewire.com/film/jimmy-picard
 John Bleasdale       4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jimmy-p.html
 Catherine Shoard     2      http://www.guardian.co.uk/film/2013/may/18/cannes-2013-jimmy-p-review
 
-"SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition]
+"SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition] Jury Price
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
 Mike d'Angelo        4.2      http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Roger Koza            5.5
