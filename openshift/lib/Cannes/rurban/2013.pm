@@ -1709,7 +1709,7 @@ Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-film
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 
-"LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition] FIPRESCI Price Competition
+"LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]  Palme d'Or + FIPRESCI Price Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
 Mike d'Angelo         6.9     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Roger Koza            9
