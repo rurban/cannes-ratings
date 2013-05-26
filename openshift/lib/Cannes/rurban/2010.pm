@@ -27,11 +27,31 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Robert Koehler: (Variety, USA): 2
 Luciano Monteagudo (Página/12, Argentina): 5
 Francisco Ferreira (O Expresso, Portugal): 1
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       1
+Alberto Crespi       
+Nick James           2.5
+Bo Green Jensen      5
+Derek Malcolm        2.5
+Jan Schulz-Ojala     2.5
+David Stratton         
+Screen International 5
 
 "SZELÍD TEREMTÉS - A FRANKENSTEIN TERV (TENDER SON - The Frankenstein Project)" Kornél MUNDRUCZÓ [Competition]
 
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 1
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       7.5
+Alberto Crespi       
+Nick James           2.5
+Bo Green Jensen      5
+Derek Malcolm        
+Jan Schulz-Ojala     7.5
+David Stratton       5  
+Screen International 5
 
 "THE TREE" Julie Bertuccelli
 
@@ -64,6 +84,16 @@ Cristina Nord (Die Tageszeitung, Deutschland): 3
 Violeta Kovacsis (Lumiere, España): 5
 Luciano Monteagudo (Página/12, Argentina): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
+# Screen Daily (0-4)
+Jose Carlos Avellar  7.5
+Michel Clement       5
+Alberto Crespi       5
+Nick James           7.5
+Bo Green Jensen      7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     5
+David Stratton       7.5  
+Screen International 5
 
 "TIGER FACTORY" Ming jin Woo [Quinzaine]
 
@@ -99,6 +129,16 @@ Eugenio Renzi (Independencia, France): 9
 Roger Alan Koza (La Voz del Interior, Argentina): 10
 Violeta Kovacsis (Lumiere, España): 9
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
+# Screen Daily (0-4)
+Jose Carlos Avellar  9
+Michel Clement       2.5
+Alberto Crespi       2.5
+Nick James           7.5
+Bo Green Jensen      5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     7.5
+David Stratton       5  
+Screen International 7.5
 
 "LIFE ABOVE ALL" Oliver Schmitz [Un Certain Regard]
 
@@ -180,6 +220,16 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Paolo Bertolin (Cineforum, Italia): 7
 Eugenio Renzi (Independencia, France): 5
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       5
+Alberto Crespi       5
+Nick James           2.5
+Bo Green Jensen      7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     5
+David Stratton       5  
+Screen International 7.5
 
 "OCTUBRE" Diego Vega y Daniel Vega [Un Certain Regard]
 
@@ -226,6 +276,16 @@ Luciano Monteagudo (Página/12, Argentina): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 1
 Manu Yáñez (Fotogramas, España): 1
 Gabe Klinger (The Auteurs Notebook, USA): 1
+# Screen Daily (0-4)
+Jose Carlos Avellar  2.5
+Michel Clement       2.5
+Alberto Crespi       7.5
+Nick James           2.5
+Bo Green Jensen      5
+Derek Malcolm        5
+Jan Schulz-Ojala     2.5
+David Stratton       2.5  
+Screen International 5
 
 "STONES IN EXILE" Stephen Kijak
 
@@ -244,6 +304,16 @@ Luciano Monteagudo (Página/12, Argentina): 6
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 0
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Cristina Nord (Die Tageszeitung, Deutschland): 2
+# Screen Daily (0-4)
+Jose Carlos Avellar  7.5
+Michel Clement       5
+Alberto Crespi       5
+Nick James           2.5
+Bo Green Jensen      7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     5
+David Stratton       7.5  
+Screen International 7.5
 
 "CARLOS" Olivier Assayas
 
@@ -280,6 +350,16 @@ Manu Yáñez (Fotogramas, España): 7
 Scott Foundas (Filmlinc, USA): 10
 Cristina Nord (Die Tageszeitung, Deutschland): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 6
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       9
+Alberto Crespi       
+Nick James           7.5
+Bo Green Jensen      5
+Derek Malcolm        5
+Jan Schulz-Ojala     7.5
+David Stratton         
+Screen International 7.5
 
 "UDAAN" Vikramaditya Motwane [Un Certain Regard]
 
@@ -311,6 +391,16 @@ Carlo Chatrian (Panoramiques Duellanti, Italia): 8
 Diego Lerer (Clarín + Micropsia, Argentina): 9
 Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 9,5
+# Screen Daily (0-4)
+Jose Carlos Avellar  2.5
+Michel Clement       7.5
+Alberto Crespi       7.5
+Nick James           7.5
+Bo Green Jensen      7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     9
+David Stratton       9  
+Screen International 9
 
 "SCHASTYE MOE (MY JOY)" Sergei Loznitsa [Competition]
 
@@ -333,6 +423,16 @@ Violeta Kovacsis (Lumiere, España): 8
 Manu Yáñez (Fotogramas, España): 6
 Scott Foundas (Filmlinc, USA): 8
 Paolo Bertolin (Cineforum, Italia): 10
+# Screen Daily (0-4)
+Jose Carlos Avellar  7.5
+Michel Clement       5
+Alberto Crespi       2.5
+Nick James           7.5
+Bo Green Jensen      5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     2.5
+David Stratton       7.5  
+Screen International 5
 
 "DES FILLES EN NOIR" Jean-Paul Civeyrac [Quinzaine]
 
@@ -441,6 +541,16 @@ Violeta Kovacsis (Lumiere, España): 6
 Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 8
 Paolo Bertolin (Cineforum, Italia): 7
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       5
+Alberto Crespi       2.5
+Nick James           7.5
+Bo Green Jensen      5
+Derek Malcolm        5
+Jan Schulz-Ojala     9
+David Stratton       5  
+Screen International 7.5
 
 "FILM SOCIALISME" Jean-Luc Godard [Un Certain Regard]
 
@@ -509,6 +619,16 @@ Diego Lerer (Clarín + Micropsia, Argentina): 3
 Francisco Ferreira (O Expresso, Portugal): 1
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 0
 Scott Foundas (Filmlinc, USA): 0
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       7.5
+Alberto Crespi       1
+Nick James           2.5
+Bo Green Jensen      7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     7.5
+David Stratton       5  
+Screen International 2.5
 
 "TAMARA DREWE" Stephen Frears
 
@@ -582,6 +702,16 @@ Roger Alan Koza (La Voz del Interior, Argentina): 6
 Manu Yáñez (Fotogramas, España): 8
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 6
 Paolo Bertolin (Cineforum, Italia): 8
+# Screen Daily (0-4)
+Jose Carlos Avellar  2.5
+Michel Clement       2.5
+Alberto Crespi       1
+Nick James           1
+Bo Green Jensen      2.5
+Derek Malcolm        2.5
+Jan Schulz-Ojala     5
+David Stratton       1  
+Screen International 5
 
 "HAI SHANG CHUAN QI (I WISH I KNEW)" Jia Zhang-ke [Un Certain Regard]
 
@@ -684,6 +814,16 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Luciano Monteagudo (Página/12, Argentina): 5
 Violeta Kovacsis (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       9
+Alberto Crespi       2.5
+Nick James           5
+Bo Green Jensen      5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     2.5
+David Stratton       9  
+Screen International 7.5
 
 "SOMOS LO QUE HAY" Jorge Michel Grau [Quinzaine]
 
@@ -798,6 +938,16 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Luciano Monteagudo (Página/12, Argentina): 7
 Violeta Kovacsis (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 4
+# Screen Daily (0-4)
+Jose Carlos Avellar  7.5
+Michel Clement       5
+Alberto Crespi       5
+Nick James           7.5
+Bo Green Jensen      7.5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     2.5
+David Stratton       5  
+Screen International 5
 
 "ANOTHER YEAR" Mike Leigh [Competition]
 
@@ -819,6 +969,16 @@ Luciano Barisone (Panoramiques, Italia): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5,5
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 0
+# Screen Daily (0-4)
+Jose Carlos Avellar  9
+Michel Clement       9
+Alberto Crespi       7.5
+Nick James           7.5
+Bo Green Jensen      7.5
+Derek Malcolm        9
+Jan Schulz-Ojala     9
+David Stratton       7.5
+Screen International 7.5
 
 "YOU WILL MEET A TALL DARK STRANGER" Woody Allen
 
@@ -1007,6 +1167,16 @@ Violeta Kovacsis (Lumiere, España): 5
 Paolo Bertolin (Cineforum, Italia): 8
 Francisco Ferreira (O Expresso, Portugal): 5
 Scott Foundas (Filmlinc, USA): 4
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       5
+Alberto Crespi       7.5
+Nick James           5
+Bo Green Jensen      5
+Derek Malcolm        7.5
+Jan Schulz-Ojala     5
+David Stratton       5
+Screen International 5
 
 "DRAQUILA - L'ITALIA CHE TREMA" Sabina Guzzanti
 
@@ -1045,6 +1215,16 @@ Diego Lerer (Clarín, Micropsia, Argentina): 4
 Cristina Nord (Die Tageszeitung, Deutschland): 2
 Francisco Ferreira (O Expresso, Portugal): 2
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6
+# Screen Daily (0-4)
+Jose Carlos Avellar  7.5
+Michel Clement       5
+Alberto Crespi       5
+Nick James           2.5
+Bo Green Jensen      7.5
+Derek Malcolm        5
+Jan Schulz-Ojala     5
+David Stratton       7.5
+Screen International 5
 
 "TOURNÉE (ON TOUR)" Mathieu Amalric [Competition]
 
@@ -1071,6 +1251,16 @@ Olivier Père (Director artístico Festival de Locarno, France): 4
 Cristina Nord (Die Tageszeitung, Deutschland): 5
 Francisco Ferreira (O Expresso, Portugal): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 3,5
+# Screen Daily (0-4)
+Jose Carlos Avellar  5
+Michel Clement       5
+Alberto Crespi       5
+Nick James           5
+Bo Green Jensen      5
+Derek Malcolm        5
+Jan Schulz-Ojala     7.5
+David Stratton       2.5
+Screen International 5
 
 "ROBIN HOOD" Ridley Scott
 
@@ -1103,6 +1293,106 @@ http://rurban.xarch.at/film/Cannes2010.zip
 
 EOF
 
+our @critics;
+$critics[0] = "
+Alejandro G. Calvo (Sensacine, España) 
+Alex Vicente (Público, España) 
+Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria) 
+Arthur Mas (Independencia, France) 
+Boris Nelepo (Kinote daily, Russia)
+Camille Brunel (Independencia, France) 
+Carlo Chatrian (Duellanti, Panoramiches, Italy) 
+Carlos Heredero (Caimán CDC, España) 
+Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
+Cristina Nord (Die Tageszeitung, Deutschland) 
+Dana Linssen (De Filmkrant, Netherlands) 
+Diego Batlle (La Nación, OtrosCines, Argentina) 
+Diego Lerer (Clarín, Micropsia, Argentina) 
+Eugenio Renzi (Independencia, France) 
+Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
+Fernando Ganzo (Lumiere, España) 
+Fernando Juan Lima (El Amante, Argentina) 
+Francisco Ferreira (Expresso, Portugal) 
+Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
+Gonzalo de Pedro (Caimán, CDC, España) 
+Jaime Pena (El Amante, España/Argentina) 
+Javier H. Estrada (Caimán CDC, España) 
+José Luis de Lorenzo (A Sala Llena, Argentina) 
+Kong Rithdee (The Bangkok Post, Thailand) 
+Luciano Barisone (Duellanti/Panoramiche, Italy) 
+Luciano Monteagudo (Página/12, Argentina) 
+Manu Yáñez (Fotogramas, OtrosCines, España) 
+Marcelo Alderete (Festival de Mar del Plata, Argentina) 
+Martial Pisani (Independencia, France) 
+Nando Salva (El Periódico, España) 
+Neil Young (Hollywood Reporter, Tribune, UK) 
+Noémie Luciani (Independencia, France) 
+Olivier Père (Les Inrockuptibles, France) 
+Pamela Bienzobas (Mabuse, Chile) 
+Paolo Bertolin (Venice International Film Festival, Italy) 
+Paolo Moretti (Venice International Film Festival, Italy)
+Pedro Butcher (Folha do Sao Paulo, Filme B, Brasil) 
+Philipp Engel (Go Mag, España) 
+Robert Koehler (Variety, USA) 
+Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
+Rüdiger Suchsland (FAZ, Negativ-film, Deutschland) 
+Sergio Wolf (BAFICI, Argentina) 
+Scott Foundas (Film Comment, USA) 
+Thomas Fioretti (Independencia, France) 
+Violeta Kovacsics (España) 
+Xavi Serra (Ara, España) 
+";
+# ioncinema
+$critics[1] = "
+Christophe Beney (Palmares magazine, France) 
+David Calhoun (The Out London, UK) 
+Per Juul Carlsen (Danish National Radio, Denmark) 
+Paola Casella (Europa, Italy) 
+Mike d'Angelo (AV Club, USA) 
+Carlos F. Heredero (Cahiers du cinema Espana, Spain) 
+Eric Lavallée (Ioncinema.com, Canada) 
+Fabien Lemercier (Cineeuropa.org, Belgium) 
+Guy Lodge (Variety, InContention, South Africa/USA) 
+Isabelle Regnier (Le Monde, France) 
+Kevin Jagernauth (Indiewire's The Playlist, USA) 
+James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
+Cédric Succivalli (International Cinephil Society, France) 
+Clarence Tsui (South China Morning Post, Hong Kong) 
+Blake Williams (Ioncinema.com, Canada) 
+Liu Min (Sina.com, China) 
+Eric Kohn (Indiewire, USA) 
+";
+# Le film français 0-4
+$critics[2] = "
+Stéphanie Lamome (Premiere, France)
+Arnaud schwartz (la Croix, France)
+Fabrice Leclerc (Studio ciné live, France)
+Eric Neuhoff (Le Figaro, France)
+Stéphane Delorme (Cahiers du cinema, France)
+Jaques Mandelbaum (Le Monde, France)
+Philippe Rouyer (Positif, France)
+Pierre Vavasseur (le Parisien, France)
+Pierre Murat (Telerama, France)
+Jean Roy (l'Humanite, France)
+Serge Kaganski (Les Inrockuptibles, France)
+Pierre Fornerod (oeust france, France)
+Pascal Merigeau (Observateur, France)
+Danielle Attali (Le Journal du Dimanche, France)
+Christophe Carriére (L'Express, France)
+";
+# screen daily 0-4
+$critics[3] = "
+Jose Carlos Avellar (Escrevercinema.com, Brazil)
+Michel Ciment (Positif, France)
+Alberto Crespi (L'Unita, Italy) 
+Nick James (Sight & Sound, UK)
+Bo Green Jensen (Weekandavisen Berlingske, Denmark)
+Derek Malcolm (London Evening, UK)
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland)
+David Stratton (The Australian, Australia)
+Screen International (Screen International, USA)
+";
+
 our $HEADER = <<"EOF";
 <i>Second edition of the survey / poll of films at Cannes 2010.</i> - Diego Lerer<p>
 
@@ -1115,6 +1405,7 @@ our $FOOTER = "
 --
 http://letrasdecine.blogspot.com/2010/05
 http://www.facebook.com/note.php?note_id=10150174713060012
+http://www.screendaily.com/Journals/1/Files/2010/5/27/Cannes%20jury%20grid%202010.pdf
 
 Source at http://rurban.xarch.at/film/Cannes2010.txt
 Result at http://rurban.xarch.at/film/Cannes2010.sorted.html

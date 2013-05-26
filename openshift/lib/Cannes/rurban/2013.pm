@@ -1448,8 +1448,8 @@ Eric Lavallée        6
 Fabien Lemercier     7
 Guy Lodge            5
 Liu Min              2
-Isabelle Regnier     
-Cédric Succivalli    
+Isabelle Regnier     1
+Cédric Succivalli    5
 Blake Williams       
 #Neil Young          
 # Le film français 0-4
@@ -1564,7 +1564,7 @@ Fabien Lemercier     4
 Guy Lodge            6
 Liu Min              5
 Isabelle Regnier     
-Cédric Succivalli    
+Cédric Succivalli    3
 Blake Williams       3.8      https://twitter.com/Astrostic/status/336980366298603522
 #Neil Young          7
 # Le film français 0-4
@@ -1668,7 +1668,7 @@ Fabien Lemercier     7
 Guy Lodge            4
 Liu Min              7
 Isabelle Regnier     
-Cédric Succivalli    
+Cédric Succivalli    4
 Blake Williams       7        https://twitter.com/Astrostic/status/337486222484193280
 #Neil Young          6
 # Le film français 0-4
@@ -1776,7 +1776,7 @@ David Calhoun        9
 Per Juul Carlsen     10
 #Mike d'Angelo       7
 #Carlos F. Heredero   8
-Raffi Asdourian      
+Raffi Asdourian      9
 #Eric Kohn           9
 Eric Lavallée        9        http://www.ioncinema.com/news/film-festivals/2013-cannes-critics-panel-day-9-kechiche-blue-is-the-warmest-colour
 Fabien Lemercier     9
@@ -1890,21 +1890,21 @@ Bo Green Jensen
 Screen International 
 # ioncinema 0-5
 Nicolas Bell         7
-Christophe Beney     
+Christophe Beney     8
 David Calhoun        4
 Per Juul Carlsen     0
 #Mike d'Angelo       6
 #Carlos F. Heredero   6
 Raffi Asdourian      6
 #Eric Kohn           6
-Eric Lavallée        
+Eric Lavallée        3
 Fabien Lemercier     3
 Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    5
-Blake Williams       
-#Neil Young          
+Liu Min              7
+Isabelle Regnier     9
+Cédric Succivalli    9
+Blake Williams       5
+#Neil Young          5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1998,19 +1998,19 @@ Bo Green Jensen
 Screen International 
 # ioncinema 0-5
 Nicolas Bell         4
-Christophe Beney     
+Christophe Beney     3
 David Calhoun        5
 Per Juul Carlsen     6
 #Mike d'Angelo       
 #Carlos F. Heredero   5
 Raffi Asdourian      
 #Eric Kohn           
-Eric Lavallée        
+Eric Lavallée        3
 Fabien Lemercier     5
 Guy Lodge            4
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
+Liu Min              5
+Isabelle Regnier     7
+Cédric Succivalli    6
 Blake Williams       5
 #Neil Young          
 # Le film français 0-4
@@ -2104,21 +2104,21 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
+Nicolas Bell         8
 Christophe Beney     
-David Calhoun        
+David Calhoun        7
 Per Juul Carlsen     
-#Mike d'Angelo       
-#Carlos F. Heredero   
-Raffi Asdourian      
+#Mike d'Angelo       7
+#Carlos F. Heredero  4
+Raffi Asdourian      5
 #Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     
+Eric Lavallée        6
+Fabien Lemercier     8
 Guy Lodge            
-Liu Min              
+Liu Min              9
 Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
+Cédric Succivalli    1
+Blake Williams       6
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      
@@ -2210,22 +2210,22 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # ioncinema 0-5
-Nicolas Bell         
+Nicolas Bell         7
 Christophe Beney     
-David Calhoun        
+David Calhoun        6
 Per Juul Carlsen     
-#Mike d'Angelo       
-#Carlos F. Heredero   
-Raffi Asdourian      
-#Eric Kohn           
-Eric Lavallée        
-Fabien Lemercier     
+#Mike d'Angelo       8
+#Carlos F. Heredero  5
+Raffi Asdourian      7
+#Eric Kohn           8
+Eric Lavallée        7
+Fabien Lemercier     6
 Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
+Liu Min              8
+Isabelle Regnier     7
+Cédric Succivalli    8
 Blake Williams       
-#Neil Young          
+#Neil Young          7
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       

@@ -2844,7 +2844,7 @@ Pascal Merigeau
 Danielle Attali 
 Christophe Carriére 
 
-"BEASTS OF THE SOUTHERN WILD" (Benh Zeitlin) [Un Certain Regard] Fipresci Price UCR + Camera d'Or
+"BEASTS OF THE SOUTHERN WILD" (Benh Zeitlin) [Un Certain Regard] Fipresci Price UCR + Camera d'Or (best first feature)
   Sundance
 Alejandro G. Calvo 4
 Alex Vicente 7
