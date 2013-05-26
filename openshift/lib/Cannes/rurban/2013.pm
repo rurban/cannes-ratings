@@ -27,7 +27,7 @@ package Cannes::rurban::2013;
 use utf8;
 our $DATA= <<'EOF';
 
-"HELI" (Amat ESCALANTE) [Competition]
+"HELI" (Amat ESCALANTE) [Competition] Best director
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409854/year/2013.html
 Roger Koza           6
 Diego Batlle         4.5
