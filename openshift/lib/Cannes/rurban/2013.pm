@@ -367,7 +367,7 @@ Peter Bradshaw       8        http://www.guardian.co.uk/film/2013/may/17/cannes-
 John Bleasdale        6       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-touch-of-sin.html
 Eugene Hernandez              http://www.filmlinc.com/daily/entry/cannes-daily-buzz-podcast-jia-zhang-ke-a-touch-of-sin
 
-"LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition] Ecumenical jury prize
+"LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition] Ecumenical Jury Award
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
 Mike d'Angelo         8.2     http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            
@@ -3772,7 +3772,7 @@ Pamela Bienzobas      6
 Raffi Asdourian      7    http://www.indiewire.com/film/jodorowskys-dune
 Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 
-"ILO ILO" (Anthony Chen) [Quinzaine]
+"ILO ILO" (Anthony Chen) [Quinzaine] Camera d'Or
 Robert Koehler        7.5
 Javier H. Estrada     6.5
 
