@@ -60,7 +60,7 @@ Alexandra Zawia      5.5
 Boris Nelepo         1
 Carlos Reviriego     6.5
 Fernando Juan Lima   5
-Paolo Bertolin       
+Paolo Bertolin       8
 Nando Salva          4
 Philip Engel        7
 Antoine Thirion        
@@ -183,7 +183,7 @@ Alexandra Zawia       6.5
 Boris Nelepo          3
 Carlos Reviriego      6.5
 Fernando Juan Lima    8
-Paolo Bertolin        
+Paolo Bertolin        6
 Nando Salva           7.5
 Philip Engel          7.5
 Antoine Thirion         
@@ -293,7 +293,7 @@ Carlo Chatrian        5
 Violeta Kovacsics     7
 Luciano Monteagudo    6
 Jaime Pena            9
-Rüdiger Suchsland    
+Rüdiger Suchsland     7.5
 Carlos F. Heredero    7.5
 Robert Koehler        10
 Dana Linssen          8
@@ -307,7 +307,7 @@ Alexandra Zawia       8.5
 Boris Nelepo          6
 Carlos Reviriego      7.5
 Fernando Juan Lima    10
-Paolo Bertolin        
+Paolo Bertolin        8.5
 Nando Salva           6.5
 Philip Engel          7.5
 Antoine Thirion         
@@ -431,7 +431,7 @@ Alexandra Zawia       6
 Boris Nelepo          
 Carlos Reviriego      6
 Fernando Juan Lima    4.5
-Paolo Bertolin        
+Paolo Bertolin        8
 Nando Salva           8
 Philip Engel          6.5
 Antoine Thirion         
@@ -542,7 +542,7 @@ Carlo Chatrian        6.5
 Violeta Kovacsics     8
 Luciano Monteagudo    6
 Jaime Pena            8.5
-Rüdiger Suchsland    
+Rüdiger Suchsland     8
 Carlos F. Heredero    9
 Robert Koehler        7
 Dana Linssen          5.5
@@ -556,7 +556,7 @@ Alexandra Zawia       5
 Boris Nelepo          6.5
 Carlos Reviriego      7
 Fernando Juan Lima    4.5
-Paolo Bertolin        
+Paolo Bertolin        5.5
 Nando Salva           5.5
 Philip Engel          7
 Antoine Thirion       7.5     http://www.independencia.fr/revue/spip.php?article768
@@ -678,7 +678,7 @@ Alexandra Zawia       5
 Boris Nelepo          4
 Carlos Reviriego      7.5
 Fernando Juan Lima    7
-Paolo Bertolin        
+Paolo Bertolin        8
 Nando Salva           
 Philip Engel          8
 Antoine Thirion       6.5     http://www.independencia.fr/revue/spip.php?article768
@@ -798,7 +798,7 @@ Alexandra Zawia
 Boris Nelepo          
 Carlos Reviriego      2.5
 Fernando Juan Lima    7
-Paolo Bertolin        
+Paolo Bertolin        5.5
 Nando Salva           4
 Philip Engel          2
 Antoine Thirion         
@@ -915,12 +915,12 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            7.5      http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas         10      http://variety.com/2013/film/reviews/cannes-film-review-inside-llewyn-davis-1200482240/#!1/review-mulligantimberlake/
-Marcelo Alderete      
+Marcelo Alderete      6
 Alexandra Zawia       7.5
 Boris Nelepo          
 Carlos Reviriego      7.5
 Fernando Juan Lima    6
-Paolo Bertolin        
+Paolo Bertolin        7
 Nando Salva           9
 Philip Engel          7.5
 Antoine Thirion         
@@ -1047,10 +1047,10 @@ Neil Young
 Scott Foundas         
 Marcelo Alderete      4
 Alexandra Zawia       6
-Boris Nelepo          
+Boris Nelepo          8
 Carlos Reviriego      5
 Fernando Juan Lima    6.5
-Paolo Bertolin        
+Paolo Bertolin        10
 Nando Salva           
 Philip Engel          2.5
 Antoine Thirion               http://www.independencia.fr/revue/spip.php?article773
@@ -1158,19 +1158,19 @@ Luciano Monteagudo    7
 Jaime Pena            7.5
 Rüdiger Suchsland     2
 Carlos F. Heredero    4.5
-Robert Koehler        
+Robert Koehler        2
 Dana Linssen          
 Cristina Nord         7.5
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      3.5
 Alexandra Zawia       5
 Boris Nelepo          
 Carlos Reviriego      5.5
 Fernando Juan Lima    7.5
-Paolo Bertolin        
+Paolo Bertolin        6
 Nando Salva           
 Philip Engel          7.5
 Antoine Thirion       6.5
@@ -1272,7 +1272,7 @@ Carlo Chatrian        5
 Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            5
-Rüdiger Suchsland    
+Rüdiger Suchsland     7
 Carlos F. Heredero    5
 Robert Koehler        5.5
 Dana Linssen          5.5
@@ -1281,12 +1281,12 @@ Francisco Ferreira
 Paolo Moretti         
 Neil Young            
 Scott Foundas         
-Marcelo Alderete      
+Marcelo Alderete      5
 Alexandra Zawia       6
 Boris Nelepo          
 Carlos Reviriego      6.5
 Fernando Juan Lima    5
-Paolo Bertolin        
+Paolo Bertolin        8
 Nando Salva           
 Philip Engel          5
 Antoine Thirion       
@@ -1404,7 +1404,7 @@ Luciano Monteagudo    5
 Jaime Pena            4
 Rüdiger Suchsland    
 Carlos F. Heredero    0.5
-Robert Koehler        
+Robert Koehler        4
 Dana Linssen          
 Cristina Nord         
 Francisco Ferreira    
@@ -1534,7 +1534,7 @@ Alexandra Zawia       3
 Boris Nelepo          
 Carlos Reviriego      7.5
 Fernando Juan Lima    3
-Paolo Bertolin        
+Paolo Bertolin        10
 Nando Salva           
 Philip Engel          7
 Antoine Thirion       4       http://www.independencia.fr/revue/spip.php?article773
@@ -1659,8 +1659,8 @@ Marcelo Alderete
 Alexandra Zawia       7
 Boris Nelepo          7
 Carlos Reviriego      6
-Fernando Juan Lima    
-Paolo Bertolin        
+Fernando Juan Lima    4.5
+Paolo Bertolin        8.5
 Nando Salva           
 Philip Engel          
 Antoine Thirion       6.5
@@ -1760,7 +1760,7 @@ Carlo Chatrian        6.5
 Violeta Kovacsics     7.5
 Luciano Monteagudo    7
 Jaime Pena            7.5
-Rüdiger Suchsland    
+Rüdiger Suchsland     4
 Carlos F. Heredero    8
 Robert Koehler        5
 Dana Linssen          
@@ -1774,7 +1774,7 @@ Alexandra Zawia       7.5
 Boris Nelepo          
 Carlos Reviriego      7.5
 Fernando Juan Lima    6
-Paolo Bertolin        
+Paolo Bertolin        7
 Nando Salva           
 Philip Engel          6
 Antoine Thirion       
@@ -2012,7 +2012,7 @@ José Luis Losa       6.5
 Pedro Butcher         9
 Kieron Corless        3.5
 Luciano Barisone      
-Carlo Chatrian        
+Carlo Chatrian        5
 Violeta Kovacsics     8.5
 Luciano Monteagudo    6.5
 Jaime Pena            6
@@ -2023,14 +2023,14 @@ Dana Linssen
 Cristina Nord         4
 Francisco Ferreira    
 Paolo Moretti         
-Neil Young            5
+Neil Young            5.5
 Scott Foundas         
 Marcelo Alderete      6
 Alexandra Zawia       3
 Boris Nelepo          9
 Carlos Reviriego      7
 Fernando Juan Lima    6.5
-Paolo Bertolin        
+Paolo Bertolin        8
 Nando Salva           
 Philip Engel          7
 Antoine Thirion       8
@@ -2148,7 +2148,7 @@ Alexandra Zawia       6
 Boris Nelepo          7
 Carlos Reviriego      6.5
 Fernando Juan Lima    4.5
-Paolo Bertolin        
+Paolo Bertolin        6.5
 Nando Salva           
 Philip Engel          5.5
 Antoine Thirion       
@@ -2244,14 +2244,14 @@ Fernando Ganzo
 Eulàlia Iglesias     5.5
 Ángel Quintana       
 José Luis Losa       6.5
-Pedro Butcher         
+Pedro Butcher         7
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     6.5
 Luciano Monteagudo    6
 Jaime Pena            5.5
-Rüdiger Suchsland    
+Rüdiger Suchsland     5
 Carlos F. Heredero    5
 Robert Koehler        4
 Dana Linssen          
@@ -2264,8 +2264,8 @@ Marcelo Alderete
 Alexandra Zawia       5.5
 Boris Nelepo          
 Carlos Reviriego      5.5
-Fernando Juan Lima    
-Paolo Bertolin        
+Fernando Juan Lima    6
+Paolo Bertolin        7.5
 Nando Salva           
 Philip Engel          8
 Antoine Thirion       
@@ -2360,14 +2360,14 @@ Fernando Ganzo
 Eulàlia Iglesias     5
 Ángel Quintana       
 José Luis Losa       5
-Pedro Butcher         
+Pedro Butcher         9
 Kieron Corless        
 Luciano Barisone      
 Carlo Chatrian        
 Violeta Kovacsics     7
 Luciano Monteagudo    6
 Jaime Pena            8
-Rüdiger Suchsland    
+Rüdiger Suchsland     6
 Carlos F. Heredero    6
 Robert Koehler        6
 Dana Linssen          
@@ -2491,7 +2491,7 @@ Dana Linssen         5.5
 Cristina Nord        5.5
 Francisco Ferreira   
 Paolo Moretti        
-Neil Young           4                http://www.jigsawlounge.co.uk/film/reviews/canas13/
+Neil Young           3.5                http://www.jigsawlounge.co.uk/film/reviews/canas13/
 Scott Foundas        
 Marcelo Alderete     6.5
 Alexandra Zawia      3
@@ -2667,7 +2667,7 @@ Carlo Chatrian        9
 Violeta Kovacsics     8
 Luciano Monteagudo    9.5
 Jaime Pena            7.5
-Rüdiger Suchsland     6
+Rüdiger Suchsland    8.5
 Carlos F. Heredero    6.5
 Robert Koehler        10
 Dana Linssen          7
@@ -2680,12 +2680,11 @@ Marcelo Alderete      7.5
 Alexandra Zawia       
 Boris Nelepo          7.5
 Carlos Reviriego      7
-Fernando Juan Lima    8
-Paolo Bertolin        7.5
+Fernando Juan Lima    10
+Paolo Bertolin        8
 Nando Salva           
 Philip Engel          
 Antoine Thirion       9.3     http://www.independencia.fr/revue/spip.php?article768
-Eugenio Renzi         9.5
 Michal Oleszczyk      
 Pablo O. Scholz       
 Alejandro G. Calvo    8
@@ -2862,6 +2861,7 @@ Carlos F. Heredero    4.5
 Robert Koehler        7
 Carlos Reviriego      5
 Fernando Juan Lima    4
+Paolo Bertolin        7
 Pablo O. Scholz       5
 Javier H. Estrada     5.5
 Adam Cook            5        
@@ -2895,14 +2895,14 @@ Dana Linssen
 Cristina Nord         8.5
 Francisco Ferreira    
 Paolo Moretti         7
-Neil Young            
+Neil Young            5.5
 Scott Foundas         
 Marcelo Alderete      5
 Alexandra Zawia       8.5
 Boris Nelepo          6
 Carlos Reviriego      9
 Fernando Juan Lima    8
-Paolo Bertolin        
+Paolo Bertolin        9
 Nando Salva           
 Philip Engel          7.5
 Antoine Thirion         
@@ -2986,6 +2986,7 @@ Michael Kienzl
 Jose Luis De Lorenzo  5
 Dana Linssen          6
 Paolo Moretti         6
+Paolo Bertolin        8.5
 Guido Castillo        7
 Ronald Rovers         6
 # Le film français 0-4
@@ -3216,7 +3217,7 @@ Carlo Chatrian
 Violeta Kovacsics     
 Luciano Monteagudo    6
 Jaime Pena            
-Rüdiger Suchsland    
+Rüdiger Suchsland     6
 Carlos F. Heredero    5.5
 Robert Koehler        7
 Dana Linssen          
@@ -3330,7 +3331,7 @@ José Luis Losa       6.5
 Pedro Butcher         7
 Kieron Corless        9.5     http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013
 Luciano Barisone      
-Carlo Chatrian        
+Carlo Chatrian        9
 Violeta Kovacsics     
 Luciano Monteagudo    
 Jaime Pena            10
@@ -3348,7 +3349,7 @@ Alexandra Zawia
 Boris Nelepo          10
 Carlos Reviriego      8.5
 Fernando Juan Lima    8
-Paolo Bertolin        
+Paolo Bertolin        9
 Nando Salva           
 Philip Engel          
 Antoine Thirion       8
@@ -3617,7 +3618,9 @@ Mehdi Omais           6
 Jose Luis De Lorenzo  3.5
 Cecilia Martinez      2
 José Luis Losa       4.5
+Rüdiger Suchsland    5
 Alexandra Zawia       2.5
+Fernando Juan Lima    1
 Ronald Rovers         3.5
 Patrick Heidmann      2       http://www.indiewire.com/film/zulu
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-zulu/
@@ -3626,6 +3629,7 @@ MIDNIGHT PROJECTIONS
 
 "MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
 Roger Koza            3
+Paolo Bertolin        7.5
 Alejandro G. Calvo    4
 #criticwire
 Craig Skinner         1      http://www.indiewire.com/film/monsoon-shootout
@@ -3738,7 +3742,7 @@ Xan Brooks           4       http://www.guardian.co.uk/film/2013/may/22/muhammad
 Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
 
 "WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
-Rüdiger Suchsland    7
+Rüdiger Suchsland     8.5
 Neil Young            6.5
 # criticwire
 Ryland Aldrich        6      http://www.indiewire.com/film/weekend-of-a-champion
@@ -3783,6 +3787,7 @@ José Luis Losa        0
 Jaime Pena            4.5
 Robert Koehler        7.5
 Fernando Juan Lima    9
+Paolo Bertolin        8
 Javier H. Estrada     7
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
@@ -3812,6 +3817,7 @@ Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-
 Carlo Chatrian        6.5
 Robert Koehler        7
 Dana Linssen          4.5
+Paolo Bertolin        8
 
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
 Fernando Ganzo        6
@@ -3851,6 +3857,7 @@ Roger Koza            6
 Jaime Pena            9
 Robert Koehler        6.5
 Paolo Moretti         6
+Neil Young            6.5
 Marcelo Alderete      4
 Alejandro G. Calvo    7
 Alvaro Arroba         7
@@ -3905,6 +3912,7 @@ Diego Lerer           7
 Eulàlia Iglesias     6.5
 Ángel Quintana       5.5
 José Luis Losa       6.5
+Pedro Butcher         5
 Kieron Corless        5
 Jaime Pena            5
 Neil Young            6.5        http://www.hollywoodreporter.com/review/selfish-giant-cannes-review-524549
@@ -3944,6 +3952,7 @@ Michael Kienzl
 
 "UGLY" (Anurag Kashyap) [Quinzaine]
 Kieron Corless       3
+Paolo Bertolin        8
 Javier H. Estrada     6
 Christoph Huber      6       
 Frédéric Jaeger      2.5     
@@ -3952,6 +3961,7 @@ Frédéric Jaeger      2.5
 Eulàlia Iglesias     6.5
 Ángel Quintana       6
 Cristina Nord         6.5
+Paolo Bertolin        7
 Guido Castillo        7.5
 Michael Kienzl       2.5     
 Allan Hunter                 http://www.screendaily.com/reviews/the-latest/blue-ruin/5056353.article?blocktitle=The-Latest&contentID=598
@@ -3994,6 +4004,7 @@ José Luis Losa       6
 Paolo Moretti         4
 Marcelo Alderete      3
 Boris Nelepo          4
+Paolo Bertolin        7
 Pamela Bienzobas      6
 # criticwire
 Raffi Asdourian      7    http://thefilmstage.com/reviews/cannes-review-jodorowskys-dune/
@@ -4001,6 +4012,7 @@ Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 
 "ILO ILO" (Anthony Chen) [Quinzaine] Camera d'Or (best first feature)
 Robert Koehler        7.5
+Paolo Bertolin        7.5
 Javier H. Estrada     6.5
 
 "TIP TOP" (Serge Bozon) [Quinzaine] Special mention
@@ -4039,6 +4051,7 @@ José Luis Losa       4.5
 Carlo Chatrian        6.5
 Robert Koehler        3.5
 Dana Linssen          5.5
+Neil Young            5.5
 Javier H. Estrada     5
 # 
 Blake Williams        3.9     https://twitter.com/Astrostic/status/336124896327397377
@@ -4070,6 +4083,7 @@ Arnaud Hée            2.5
 "A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
 José Luis Losa       2
 Robert Koehler        1.5
+Paolo Bertolin        3
 Javier H. Estrada     4
 
 "WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
@@ -4081,6 +4095,7 @@ Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest
 Eulàlia Iglesias     6.5
 Ángel Quintana       6.5
 José Luis Losa       3
+Carlo Chatrian        5.5
 Dana Linssen          3.5
 Javier H. Estrada     4.5
 #
@@ -4088,6 +4103,7 @@ Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parti
 
 "ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
 Kieron Corless        5
+Carlo Chatrian        7
 Jaime Pena            5.5
 Robert Koehler        7
 Paolo Moretti         5
@@ -4137,6 +4153,7 @@ Arnaud Hée           2.5
 
 "ON THE JOB" (Erik Matti) [Quinzaine]
 Neil Young            6.5
+Paolo Bertolin        8
 Javier H. Estrada     6
 Michael Kienzl       7.5
 
