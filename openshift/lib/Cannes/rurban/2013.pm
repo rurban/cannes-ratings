@@ -2547,7 +2547,7 @@ Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
 Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
 Blake Williams        4.4       https://twitter.com/Astrostic/status/335115053583978496
-Raffi Astourian       5         http://thefilmstage.com/reviews/cannes-review-the-bling-ring/
+Raffi Asdourian       5         http://thefilmstage.com/reviews/cannes-review-the-bling-ring/
 #
 Adam Cook             6         http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Arnaud Hée            
@@ -3588,7 +3588,7 @@ Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
 Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
-Raffi Astourian       5         http://thefilmstage.com/reviews/review-the-great-gatsby/
+Nathan Bartlebaugh (The Film Stage, USA)  5         http://thefilmstage.com/reviews/review-the-great-gatsby/
 #
 Adam Cook             
 Arnaud Hée           
@@ -3615,7 +3615,7 @@ José Luis Losa       4.5
 Alexandra Zawia       2.5
 Ronald Rovers         3.5
 Patrick Heidmann      2       http://www.indiewire.com/film/zulu
-Raffi Astourian       7       http://thefilmstage.com/reviews/cannes-review-zulu/
+Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-zulu/
 
 MIDNIGHT PROJECTIONS
 
@@ -3891,7 +3891,7 @@ Michael Kienzl
 Eric Kohn            9        http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Blake Williams       5.2      https://twitter.com/Astrostic/status/336001913298513920
 Xan Brooks           6        http://www.guardian.co.uk/film/2013/may/16/the-congress-review
-Raffi Astourian      8        http://thefilmstage.com/reviews/cannes-review-the-congress/
+Raffi Asdourian      8        http://thefilmstage.com/reviews/cannes-review-the-congress/
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]  Best European film
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
@@ -3980,7 +3980,7 @@ Alex Billington      5       http://www.indiewire.com/film/la-danza-de-la-realid
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/18/cannes-2013-alejandro-jodorowsky-reality-dance
-Raffi Astourian      6       http://thefilmstage.com/reviews/cannes-review-the-dance-of-reality/
+Raffi Asdourian      6       http://thefilmstage.com/reviews/cannes-review-the-dance-of-reality/
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
