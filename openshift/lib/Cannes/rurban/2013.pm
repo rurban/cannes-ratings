@@ -1004,6 +1004,7 @@ Peter Bradshaw       10     http://www.guardian.co.uk/film/2013/may/18/cannes-20
 Jordan Hoffman       9.5    http://www.film.com/movies/inside-llewyn-davis-review
 Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
 Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
+Emanuel Levy         8      http://www.emanuellevy.com/review/inside-llewyn-davis-highlight-of-the-coens-cannes-fest/
 # TF1.fr 0-5
 Aurelien Allin        10
 Evangeline Barbaroux  8
@@ -1375,6 +1376,7 @@ Kirk Honeycott       8    http://honeycuttshollywood.com/behind-candelabra-revie
 Shaun Munro          7    http://www.filmschoolrejects.com/reviews/cannes-2013-review-behind-the-candelabra.php
 Peter Bradshaw       8    http://www.guardian.co.uk/film/2013/may/21/behind-the-candelabra-review-steven-soderbergh
 Manohla Dargis            http://artsbeat.blogs.nytimes.com/2013/05/21/cannes-film-festival-a-sympathetic-tale-of-marriage-and-celebrity/
+Emanuel Levy         5    http://www.emanuellevy.com/review/behind-he-candelabra-liberace-biopic/
 # metacritic
 Richard Corliss      10   http://entertainment.time.com/2013/05/21/soderberghs-behind-the-candelabra-michael-douglas-is-liberace/
 Peter Debruge        7    http://variety.com/2013/film/reviews/cannes-film-review-behind-the-candelabra-1200482161/
@@ -1862,6 +1864,7 @@ Peter Bradshaw        8       http://www.guardian.co.uk/film/2013/may/23/cannes-
 Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?_r=0
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
+Emanuel Levy          7       http://www.emanuellevy.com/review/nebraska-from-alexander-payne/
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]  Palme d'Or + FIPRESCI Price Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -2548,6 +2551,7 @@ Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
 Blake Williams        4.4       https://twitter.com/Astrostic/status/335115053583978496
 Raffi Asdourian       5         http://thefilmstage.com/reviews/cannes-review-the-bling-ring/
+Emanuel Levy          6         http://www.emanuellevy.com/review/bling-ring-the/
 #
 Adam Cook             6         http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Arnaud Hée            
@@ -3448,6 +3452,7 @@ Kevin Jagernauth     3       http://blogs.indiewire.com/theplaylist/cannes-revie
 Ryland Aldrich       7       http://www.indiewire.com/film/blood-ties
 Shaun Munro           3      http://www.filmschoolrejects.com/reviews/cannes-2013-review-blood-ties.php
 Xan Brooks           6       http://www.guardian.co.uk/film/2013/may/19/cannes-blood-ties-review
+Emanuel Levy         4       http://www.emanuellevy.com/review/blood-ties/
 
 "LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
 Roger Koza            10
