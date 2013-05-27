@@ -237,7 +237,7 @@ David Calhoun        6
 Per Juul Carlsen     8
 #Mike d'Angelo       7
 #Carlos F. Heredero   5
-Raffi Asdourian      
+Raffi Asdourian      7        http://thefilmstage.com/reviews/cannes-review-young-beautiful/
 #Eric Kohn            
 Eric Lavallée        4
 Fabien Lemercier     6
@@ -484,7 +484,7 @@ David Calhoun        5
 Per Juul Carlsen     10
 #Mike d'Angelo       9
 #Carlos F. Heredero   6
-Raffi Asdourian      7
+Raffi Asdourian      7        http://thefilmstage.com/reviews/cannes-review-the-past/
 #Eric Kohn            
 Eric Lavallée        6        http://www.indiewire.com/film/the-past
 Fabien Lemercier     9
@@ -596,7 +596,7 @@ David Calhoun        5
 Per Juul Carlsen     4
 #Mike d'Angelo       4
 #Carlos F. Heredero   8
-Raffi Asdourian      4         
+Raffi Asdourian      4         http://thefilmstage.com/reviews/cannes-review-jimmy-p/
 #Eric Kohn           2 
 Eric Lavallée        4
 Fabien Lemercier     6
@@ -719,7 +719,7 @@ David Calhoun        7
 Per Juul Carlsen     8
 #Mike d'Angelo       5
 #Carlos F. Heredero   6
-Raffi Asdourian      6
+Raffi Asdourian      6        http://thefilmstage.com/reviews/cannes-review-like-father-like-son/
 #Eric Kohn            
 Eric Lavallée        
 Fabien Lemercier     6
@@ -839,7 +839,7 @@ David Calhoun
 Per Juul Carlsen     4
 #Mike d'Angelo       5
 #Carlos F. Heredero   2
-Raffi Asdourian      6
+Raffi Asdourian      6        http://thefilmstage.com/reviews/cannes-review-borgman/
 #Eric Kohn           7
 Eric Lavallée        5
 Fabien Lemercier     5
@@ -953,7 +953,7 @@ David Calhoun        9
 Per Juul Carlsen     8
 #Mike d'Angelo       6
 #Carlos F. Heredero   7
-Raffi Asdourian      7
+Raffi Asdourian      7        http://thefilmstage.com/reviews/cannes-review-inside-llewyn-davis/
 #Eric Kohn            
 Eric Lavallée        7
 Fabien Lemercier     5
@@ -1090,7 +1090,7 @@ David Calhoun
 Per Juul Carlsen     2
 #Mike d'Angelo       7
 #Carlos F. Heredero   6
-Raffi Asdourian      3
+Raffi Asdourian      3        http://thefilmstage.com/reviews/cannes-review-shield-of-straw/
 #Eric Kohn           
 Eric Lavallée        
 Fabien Lemercier     2
@@ -1326,7 +1326,7 @@ David Calhoun        8
 Per Juul Carlsen     4
 #Mike d'Angelo       6
 #Carlos F. Heredero   0
-Raffi Asdourian      5
+Raffi Asdourian      5        http://thefilmstage.com/reviews/cannes-review-behind-the-candelabra/
 #Eric Kohn           
 Eric Lavallée        
 Fabien Lemercier     6
@@ -1455,7 +1455,7 @@ David Calhoun        9
 Per Juul Carlsen     8
 #Mike d'Angelo       6
 #Carlos F. Heredero   0
-Raffi Asdourian      6
+Raffi Asdourian      6        http://thefilmstage.com/reviews/cannes-review-the-great-beauty/
 #Eric Kohn           
 Eric Lavallée        5
 Fabien Lemercier     8
@@ -1463,7 +1463,7 @@ Guy Lodge            5
 Liu Min              8
 Isabelle Regnier     
 Cédric Succivalli    5
-Blake Williams       5.8        https://twitter.com/Astrostic/status/336611793810124801
+Blake Williams       5.8      https://twitter.com/Astrostic/status/336611793810124801
 #Neil Young          
 # Le film français 0-4
 Stéphanie Lamome      7.5
@@ -1565,7 +1565,7 @@ David Calhoun        2
 Per Juul Carlsen     6
 #Mike d'Angelo       2
 #Carlos F. Heredero   
-Raffi Asdourian      5
+Raffi Asdourian      5        http://thefilmstage.com/reviews/cannes-review-only-god-forgives/
 #Eric Kohn           3
 Eric Lavallée        6
 Fabien Lemercier     7
@@ -1805,7 +1805,7 @@ David Calhoun        7
 Per Juul Carlsen     6
 #Mike d'Angelo       8
 #Carlos F. Heredero   6
-Raffi Asdourian      7
+Raffi Asdourian      7       http://thefilmstage.com/reviews/cannes-review-nebraska/
 #Eric Kohn           5
 Eric Lavallée        5
 Fabien Lemercier     7
@@ -2060,7 +2060,7 @@ David Calhoun        4
 Per Juul Carlsen     0
 #Mike d'Angelo       6
 #Carlos F. Heredero   6
-Raffi Asdourian      6
+Raffi Asdourian      6        http://thefilmstage.com/reviews/cannes-review-the-immigrant/
 #Eric Kohn           6
 Eric Lavallée        3
 Fabien Lemercier     3
@@ -2411,7 +2411,7 @@ David Calhoun        6
 Per Juul Carlsen     
 #Mike d'Angelo       8
 #Carlos F. Heredero  5
-Raffi Asdourian      7
+Raffi Asdourian      7        http://thefilmstage.com/reviews/cannes-review-only-lovers-left-alive/
 #Eric Kohn           8
 Eric Lavallée        7
 Fabien Lemercier     6
@@ -2547,8 +2547,9 @@ Craig Skinner         1.5 	http://www.indiewire.com/film/the-bling-ring
 Ryland Aldrich        5 	http://www.indiewire.com/film/the-bling-ring
 David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
 Blake Williams        4.4       https://twitter.com/Astrostic/status/335115053583978496
+Raffi Astourian       5         http://thefilmstage.com/reviews/cannes-review-the-bling-ring/
 #
-Adam Cook             6          http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
+Adam Cook             6         http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Arnaud Hée            
 Christoph Huber       5       
 Frédéric Jaeger       5       
@@ -3422,7 +3423,7 @@ Xavi Serra            6
 Guido Castillo        7
 # criticwire
 Logan Hill            8       http://www.indiewire.com/film/all-is-lost
-Raffi Asdourian       7       http://www.indiewire.com/film/all-is-lost
+Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-all-is-lost/
 Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
 Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-review-robert-redford-fights-the-elements-in-all-is-lost
@@ -3587,6 +3588,7 @@ Adam Batty            3 	http://www.indiewire.com/film/the-great-gatsby
 Robert Gassaway       2 	http://www.indiewire.com/film/the-great-gatsby
 Yair Raveh            7 	http://www.indiewire.com/film/the-great-gatsby
 Patrick Heidmann      4 	http://www.indiewire.com/film/the-great-gatsby
+Raffi Astourian       5         http://thefilmstage.com/reviews/review-the-great-gatsby/
 #
 Adam Cook             
 Arnaud Hée           
@@ -3613,6 +3615,7 @@ José Luis Losa       4.5
 Alexandra Zawia       2.5
 Ronald Rovers         3.5
 Patrick Heidmann      2       http://www.indiewire.com/film/zulu
+Raffi Astourian       7       http://thefilmstage.com/reviews/cannes-review-zulu/
 
 MIDNIGHT PROJECTIONS
 
@@ -3888,6 +3891,7 @@ Michael Kienzl
 Eric Kohn            9        http://www.indiewire.com/article/cannes-is-ari-folmans-the-congress-the-most-anti-hollywood-movie-ever-made
 Blake Williams       5.2      https://twitter.com/Astrostic/status/336001913298513920
 Xan Brooks           6        http://www.guardian.co.uk/film/2013/may/16/the-congress-review
+Raffi Astourian      8        http://thefilmstage.com/reviews/cannes-review-the-congress/
 
 "THE SELFISH GIANT" (Clio Barnard) [Quinzaine]  Best European film
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
@@ -3976,6 +3980,7 @@ Alex Billington      5       http://www.indiewire.com/film/la-danza-de-la-realid
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/18/cannes-2013-alejandro-jodorowsky-reality-dance
+Raffi Astourian      6       http://thefilmstage.com/reviews/cannes-review-the-dance-of-reality/
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
@@ -3986,7 +3991,7 @@ Marcelo Alderete      3
 Boris Nelepo          4
 Pamela Bienzobas      6
 # criticwire
-Raffi Asdourian      7    http://www.indiewire.com/film/jodorowskys-dune
+Raffi Asdourian      7    http://thefilmstage.com/reviews/cannes-review-jodorowskys-dune/
 Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 
 "ILO ILO" (Anthony Chen) [Quinzaine] Camera d'Or (best first feature)
