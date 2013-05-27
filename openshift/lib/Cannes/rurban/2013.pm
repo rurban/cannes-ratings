@@ -4382,14 +4382,15 @@ Thomas Fioretti (Independencia, France)
 
 our $HEADER = <<"EOF";
 
-<small>Collected and updated daily by Reini Urban, 
-from the ApichatPoll http://www.todaslascriticas.com.ar/cannes (Diego Lerer+Javier Fish) (la crema),
+<small>Collected and updated daily by Reini Urban from 7 critic polls.
+The ApichatPoll http://www.todaslascriticas.com.ar/cannes (Diego Lerer+Javier Fish) (la crema),
 http://www.ioncinema.com/ (okay),
 Le film français (eclectic),
 http://jury.critic.de/cannes/ (german),
 Screen Daily (US/UK mainstream),
-More french TF1.fr,
-Indiewire (mixed) and more critics.<br>
+more french TF1.fr,
+Indiewire (mixed), metacritic
+and more individual critics.<br>
 
 <br>
 <b>Ratings</b>:<br>
