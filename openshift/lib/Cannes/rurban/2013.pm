@@ -650,7 +650,7 @@ Mike d'Angelo        4.2      http://www.avclub.com/articles/cannes-2013-day-thr
 Roger Koza            5.5
 Diego Batlle          7
 Diego Lerer           5
-Alex Vicente          
+Alex Vicente          6
 Jose Luis De Lorenzo  9
 Cecilia Martinez      9
 Fernando Ganzo        
@@ -1506,7 +1506,7 @@ Mike d'Angelo         1.7     https://twitter.com/gemko/status/33716980493702348
 Roger Koza            
 Diego Batlle          5.5
 Diego Lerer           4
-Alex Vicente          
+Alex Vicente          6.5
 Jose Luis De Lorenzo  6
 Cecilia Martinez      2
 Fernando Ganzo        3.5
@@ -1746,7 +1746,7 @@ Mike d'Angelo         7.1     http://www.avclub.com/articles/cannes-2013-day-eig
 Roger Koza            
 Diego Batlle          7.5
 Diego Lerer           7.5
-Alex Vicente          
+Alex Vicente          6
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
@@ -1872,7 +1872,7 @@ Mike d'Angelo         6.9     http://www.avclub.com/articles/cannes-2013-day-eig
 Roger Koza            9
 Diego Batlle          9.5
 Diego Lerer           9
-Alex Vicente          
+Alex Vicente          9
 Jose Luis De Lorenzo  10
 Cecilia Martinez      10
 Fernando Ganzo        6
@@ -2002,7 +2002,7 @@ Mike d'Angelo         5.6     https://twitter.com/gemko/status/33787920388000153
 Roger Koza            9
 Diego Batlle          7.5
 Diego Lerer           9
-Alex Vicente          
+Alex Vicente          6.5
 Jose Luis De Lorenzo  5.5
 Cecilia Martinez      6.5
 Fernando Ganzo        
@@ -2237,7 +2237,7 @@ Mike d'Angelo         6.1    https://twitter.com/gemko/status/338207781314240512
 Roger Koza            5
 Diego Batlle          6.5
 Diego Lerer           5
-Alex Vicente          
+Alex Vicente          6
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
@@ -3414,6 +3414,7 @@ OUT OF COMPETITION
 Mike d'Angelo         7.4     https://twitter.com/gemko/status/337170891639246848
 Diego Batlle          6.5
 Diego Lerer           6.5
+Alex Vicente          7
 Jose Luis De Lorenzo  7
 Cecilia Martinez      8.5
 Ángel Quintana       8
@@ -3758,6 +3759,7 @@ SEMAINE DE LA CRITIC
 
 "AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
   (Sundance)
+Alex Vicente          6
 Carlo Chatrian        5
 Jaime Pena            6
 Carlos F. Heredero    6.5
@@ -3782,6 +3784,7 @@ Till Kadritzke        7.5
 
 "SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine] Semaine Grand Prix + France 4 Revelation Prize
 Roger Koza            8
+Alex Vicente          8
 Violeta Kovacsics     6
 José Luis Losa        0
 Jaime Pena            4.5
@@ -3792,6 +3795,7 @@ Javier H. Estrada     7
 
 "SUZANNE" (Katell Quillévéré) [Semaine]
 Diego Lerer           6.5
+Alex Vicente          6
 Ángel Quintana       7.5
 Jaime Pena            7
 Neil Young            7    https://twitter.com/JigsawLounge/status/335140082728194048
@@ -3805,21 +3809,25 @@ Daniel Kasman
 Michael Kienzl       
 
 "LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine] Semaine best screenplay
+Alex Vicente          6
 Robert Koehler        2
 
 "FOR THOSE IN PERIL" (Paul Wright) [Semaine]
+Alex Vicente          3
 Kieron Corless        1.5
 Robert Koehler        4
 #
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-for-those-in-peril-review
 
 "THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine] Rails d’Or (critics week viewers choice award)
+Alex Vicente          7
 Carlo Chatrian        6.5
 Robert Koehler        7
 Dana Linssen          4.5
 Paolo Bertolin        8
 
 "LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
+Alex Vicente          6
 Fernando Ganzo        6
 Kieron Corless        6.5
 Carlo Chatrian        5
@@ -3837,6 +3845,7 @@ Arnaud Hée            6
 Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
+Alex Vicente          7
 Carlo Chatrian        6.5
 Luciano Monteagudo    7
 Jaime Pena            6.5
@@ -3846,11 +3855,13 @@ Pablo O. Scholz       7
 
 "NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
 Roger Koza            4
+Alex Vicente          2
 José Luis Losa       2.5
 Robert Koehler        3
 Javier H. Estrada     5
 
 "THE MAJOR" (Yury Bykov) [Semaine]
+Alex Vicente          4
 
 "3X3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
 Roger Koza            6
