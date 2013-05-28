@@ -149,6 +149,7 @@ Stephanie Lamome      8
 Roman Vern            8
 Mehdi Omais           4
 #Philippe Rouyer      0
+Stephanie Zacharek              http://www.villagevoice.com/2013-05-15/film/heli-movie-review-cannes/
 
 "JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
@@ -222,6 +223,7 @@ Craig Skinner        3        http://www.indiewire.com/film/jeune-et-jolie
 Clementine Gallot    3        http://www.indiewire.com/film/jeune-et-jolie
 Patrick Heidmann     6        http://www.indiewire.com/film/jeune-et-jolie
 Joachim Kurz 	      	      http://www.kino-zeit.de/blog/cannes/jeune-jolie
+Stephanie Zacharek            http://www.villagevoice.com/2013-05-15/film/young-and-beautiful-movie-review-cannes/
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Adam Cook            
 Arnaud Hée           
@@ -633,6 +635,7 @@ Emanuel Levy         6      http://www.indiewire.com/film/jimmy-picard
 Patrick Heidmann     5      http://www.indiewire.com/film/jimmy-picard
 John Bleasdale       4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-jimmy-p.html
 Catherine Shoard     2      http://www.guardian.co.uk/film/2013/may/18/cannes-2013-jimmy-p-review
+Stephanie Zacharek          http://www.villagevoice.com/2013-05-22/film/jimmy-p-cannes-movie-review/
 # TF1.fr 0-5
 Aurelien Allin        4
 Evangeline Barbaroux  4
@@ -914,7 +917,7 @@ Cristina Nord         8
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            7.5      http://www.jigsawlounge.co.uk/film/reviews/canas13/
-Scott Foundas         10      http://variety.com/2013/film/reviews/cannes-film-review-inside-llewyn-davis-1200482240/#!1/review-mulligantimberlake/
+Scott Foundas         10       http://variety.com/2013/film/reviews/cannes-film-review-inside-llewyn-davis-1200482240/#!1/review-mulligantimberlake/
 Marcelo Alderete      6
 Alexandra Zawia       7.5
 Boris Nelepo          
@@ -949,7 +952,7 @@ Screen International 9
 # ioncinema 0-5
 Nicolas Bell         7
 Christophe Beney     8
-David Calhoun        9
+David Calhoun        9        http://www.timeout.com/london/film/inside-llewyn-davis
 Per Juul Carlsen     8
 #Mike d'Angelo       6
 #Carlos F. Heredero   7
@@ -1005,6 +1008,8 @@ Jordan Hoffman       9.5    http://www.film.com/movies/inside-llewyn-davis-revie
 Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
 Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
 Emanuel Levy         8      http://www.emanuellevy.com/review/inside-llewyn-davis-highlight-of-the-coens-cannes-fest/
+Robbie Collin        10     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10066769/Cannes-2013-Inside-Llewyn-Davis-review.html
+Stephanie Zacharek          http://www.villagevoice.com/2013-05-22/film/inside-llewyn-davis-cannes-review/ 
 # TF1.fr 0-5
 Aurelien Allin        10
 Evangeline Barbaroux  8
@@ -1378,9 +1383,12 @@ Peter Bradshaw       8    http://www.guardian.co.uk/film/2013/may/21/behind-the-
 Manohla Dargis            http://artsbeat.blogs.nytimes.com/2013/05/21/cannes-film-festival-a-sympathetic-tale-of-marriage-and-celebrity/
 Emanuel Levy         5    http://www.emanuellevy.com/review/behind-he-candelabra-liberace-biopic/
 # metacritic
-Richard Corliss      10   http://entertainment.time.com/2013/05/21/soderberghs-behind-the-candelabra-michael-douglas-is-liberace/
-Peter Debruge        7    http://variety.com/2013/film/reviews/cannes-film-review-behind-the-candelabra-1200482161/
+Richard Corliss      9    http://entertainment.time.com/2013/05/21/soderberghs-behind-the-candelabra-michael-douglas-is-liberace/
+Peter Debruge        6.5  http://variety.com/2013/film/reviews/cannes-film-review-behind-the-candelabra-1200482161/
+Todd McCarthy        9    http://www.hollywoodreporter.com/movie/behind-candelabra/review/525761
 Wesley Morris             http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77659/cannes-diary-day-7-behind-the-candelabra-changes-everything
+Stephanie Zacharek        http://www.villagevoice.com/2013-05-22/film/behind-the-candelabra-hbo/
+
 
 "LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
@@ -1514,7 +1522,7 @@ Eulàlia Iglesias     8.5
 Ángel Quintana       6
 José Luis Losa       5
 Pedro Butcher         3
-Kieron Corless        3
+Kieron Corless        3       http://entertainment.time.com/2013/05/22/only-god-forgives-a-red-light-for-ryan-gosling/
 Luciano Barisone      
 Carlo Chatrian        2
 Violeta Kovacsics     7
@@ -1563,7 +1571,7 @@ Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         6
 Christophe Beney     8
-David Calhoun        2
+David Calhoun        2        http://www.timeout.com/london/film/only-god-forgives
 Per Juul Carlsen     6
 #Mike d'Angelo       2
 #Carlos F. Heredero   
@@ -1625,6 +1633,12 @@ Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-
 Logan Hill                    http://artsbeat.blogs.nytimes.com/2013/05/16/cannes-film-festival-nicolas-winding-refn-on-being-one-with-ryan-gosling/?hpw
 Mahnola Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
 Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77762/cannes-diary-day-8-ryan-goslings-new-movie-booed-out-of-france
+# metacritic
+David Rooney        6         http://www.hollywoodreporter.com/movie/god-forgives/review/527314
+Robbie Collin       6         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10073237/Cannes-2013-Only-God-Forgives-review.html
+Jordan Hoffman      5         http://www.film.com/movies/only-god-forgives-review
+Peter Debruge       3         http://variety.com/2013/film/reviews/cannes-film-review-only-god-forgives-1200486200/
+Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/only-god-forgives-movie-review/
 
 "GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
@@ -1768,7 +1782,7 @@ Cristina Nord         6
 Francisco Ferreira    
 Paolo Moretti         
 Neil Young            6
-Scott Foundas         
+Scott Foundas         8       http://variety.com/2013/film/reviews/cannes-film-review-nebraska-1200486846/
 Marcelo Alderete      6
 Alexandra Zawia       7.5
 Boris Nelepo          
@@ -1803,7 +1817,7 @@ Screen International 7.5
 # ioncinema 0-5
 Nicolas Bell         5
 Christophe Beney     0
-David Calhoun        7
+David Calhoun        7       http://www.timeout.com/london/film/nebraska
 Per Juul Carlsen     6
 #Mike d'Angelo       8
 #Carlos F. Heredero   6
@@ -1856,7 +1870,7 @@ Patrick Heidmann      7
 Jon Frosch            7
 Ryland Aldrich        6       http://www.indiewire.com/film/nebraska
 Jessica Kiang         5       http://blogs.indiewire.com/theplaylist/cannes-review-alexander-paynes-nebraska-an-overfamiliar-tale-of-connections-broken-and-remade-20130523
-Eric Kohn             5       http://www.indiewire.com/film/nebraska
+Eric Kohn             5       http://www.indiewire.com/article/cannes-with-nebraska-has-alexander-payne-gone-soft?
 Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 Todd McCarthy        10       http://www.hollywoodreporter.com/movie/nebraska/review/550167
@@ -1865,6 +1879,7 @@ Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-film
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 Emanuel Levy          7       http://www.emanuellevy.com/review/nebraska-from-alexander-payne/
+Robbie Collin         8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10076267/Cannes-2013-Nebraska-review.html
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]  Palme d'Or + FIPRESCI Price Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -1995,6 +2010,7 @@ Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-film
 Craig Kennedy                 http://www.awardsdaily.com/blog/cannes-review-la-vie-dadele-blue-is-the-warmest-color/
 Ali Naderzad                  http://screencomment.com/2013/05/blue-is-the-warmest-color-la-vie-dadele/
 Jonathan Romney (Sight&Sound, UK) http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
+Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/cannes-2013-award-winners/
 
 "THE IMMIGRANT" (James GRAY) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
@@ -2113,6 +2129,7 @@ Glenn Heath Jr       9        http://www.indiewire.com/film/lowlife
 Patrick Heidmann     1        http://www.indiewire.com/film/lowlife
 Clementine Gallot    8        http://www.indiewire.com/film/lowlife
 Jon Frosch           6        http://www.indiewire.com/film/lowlife
+Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/the-immigrant-movie-review/
 
 "MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
@@ -2552,6 +2569,7 @@ David Sterrit         7 	http://www.indiewire.com/film/the-bling-ring
 Blake Williams        4.4       https://twitter.com/Astrostic/status/335115053583978496
 Raffi Asdourian       5         http://thefilmstage.com/reviews/cannes-review-the-bling-ring/
 Emanuel Levy          6         http://www.emanuellevy.com/review/bling-ring-the/
+Stephanie Zacharek              http://www.villagevoice.com/2013-05-15/film/the-bling-ring-review-cannes/
 #
 Adam Cook             6         http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Arnaud Hée            
@@ -3431,8 +3449,16 @@ Guido Castillo        7
 Logan Hill            8       http://www.indiewire.com/film/all-is-lost
 Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-all-is-lost/
 Ryland Aldrich        6       http://www.indiewire.com/film/all-is-lost
-Eric Kohn             8       http://www.indiewire.com/film/all-is-lost
+Eric Kohn             8       http://www.indiewire.com/article/cannes-robert-redfords-strangest-role-of-his-career-is-in-jc-chandors-all-is-lost?
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-review-robert-redford-fights-the-elements-in-all-is-lost
+# metacritic
+Jordan Hoffman        8       http://www.film.com/movies/all-is-lost-review
+Jessica Kiang         7       http://blogs.indiewire.com/theplaylist/cannes-review-jc-chandor-puts-robert-redford-through-watery-hell-in-bruising-formally-rigorous-all-is-lost-20130524?
+Justin Chang          7       http://variety.com/2013/film/reviews/cannes-film-review-all-is-lost-1200486217/
+Todd McCarthy         6.5     http://www.hollywoodreporter.com/review/cannes-review-all-is-lost-527327
+Robbie Collin         6       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10075395/Cannes-2013-All-Is-Lost-review.html
+Peter Bradshaw        6       http://www.guardian.co.uk/film/2013/may/22/all-is-lost-review-cannes-2013
+
 
 "BLOOD TIES" (Guillaume CANET) [Out of Competition]
 Alex Vicente          5
@@ -3936,6 +3962,7 @@ Guy Lodge                        http://variety.com/2013/film/reviews/the-selfis
 Clementine Gallot     7          http://www.indiewire.com/film/the-selfish-giant
 Blake Williams        5.8        https://twitter.com/Astrostic/status/335467846073192448
 Peter Bradshaw        8          http://www.guardian.co.uk/film/2013/may/17/the-selfish-giant-cannes-2013-review
+Stephanie Zacharek               http://www.villagevoice.com/2013-05-15/film/the-selfish-giant-review-cannes/
 
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
@@ -4327,6 +4354,7 @@ David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
+David Rooney (The Hollywood Reporter, USA)
 David Sterrit (Tikkun Magazine, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
 Drew McWeeny (InContention, USA)
