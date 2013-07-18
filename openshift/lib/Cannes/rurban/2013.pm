@@ -36,7 +36,7 @@ Alex Vicente         4
 Jose Luis De Lorenzo 1
 Cecilia Martinez     4
 Fernando Ganzo       
-Eulàlia Iglesias     6
+Eulalia Iglesias     6
 Ángel Quintana       6
 José Luis Losa       7.5
 Pedro Butcher        4
@@ -62,7 +62,7 @@ Carlos Reviriego     6.5
 Fernando Juan Lima   5
 Paolo Bertolin       8
 Nando Salva          4
-Philip Engel        7
+Philipp Engel        7
 Antoine Thirion        
 Michal Oleszczyk     7.5
 Pablo O. Scholz      4.5
@@ -160,7 +160,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  7
 Cecilia Martinez      8
 Fernando Ganzo        3.5
-Eulàlia Iglesias      7
+Eulalia Iglesias      7
 Ángel Quintana        7
 José Luis Losa        6
 Pedro Butcher         6
@@ -186,7 +186,7 @@ Carlos Reviriego      6.5
 Fernando Juan Lima    8
 Paolo Bertolin        6
 Nando Salva           7.5
-Philip Engel          7.5
+Philipp Engel          7.5
 Antoine Thirion         
 Michal Oleszczyk      6.5
 Pablo O. Scholz       6
@@ -285,7 +285,7 @@ Alex Vicente
 Jose Luis De Lorenzo  8
 Cecilia Martinez      7
 Fernando Ganzo        3
-Eulàlia Iglesias      6.5
+Eulalia Iglesias      6.5
 Ángel Quintana        8.5
 José Luis Losa        7
 Pedro Butcher         8.5
@@ -311,7 +311,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    10
 Paolo Bertolin        8.5
 Nando Salva           6.5
-Philip Engel          7.5
+Philipp Engel          7.5
 Antoine Thirion         
 Michal Oleszczyk      8.5
 Pablo O. Scholz       5
@@ -409,7 +409,7 @@ Alex Vicente          5
 Jose Luis De Lorenzo  4
 Cecilia Martinez      3
 Fernando Ganzo        
-Eulàlia Iglesias     6.5
+Eulalia Iglesias     6.5
 Ángel Quintana       4.5
 José Luis Losa       5
 Pedro Butcher         1
@@ -435,7 +435,7 @@ Carlos Reviriego      6
 Fernando Juan Lima    4.5
 Paolo Bertolin        8
 Nando Salva           8
-Philip Engel          6.5
+Philipp Engel          6.5
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
@@ -534,7 +534,7 @@ Alex Vicente          7
 Jose Luis De Lorenzo  4
 Cecilia Martinez      5
 Fernando Ganzo        4
-Eulàlia Iglesias     8
+Eulalia Iglesias     8
 Ángel Quintana       9
 José Luis Losa       8
 Pedro Butcher         6.5
@@ -560,7 +560,7 @@ Carlos Reviriego      7
 Fernando Juan Lima    4.5
 Paolo Bertolin        5.5
 Nando Salva           5.5
-Philip Engel          7
+Philipp Engel          7
 Antoine Thirion       7.5     http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       6.5
@@ -657,7 +657,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  9
 Cecilia Martinez      9
 Fernando Ganzo        
-Eulàlia Iglesias     4
+Eulalia Iglesias     4
 Ángel Quintana       5
 José Luis Losa       3.5
 Pedro Butcher         8
@@ -683,7 +683,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    7
 Paolo Bertolin        8
 Nando Salva           
-Philip Engel          8
+Philipp Engel          8
 Antoine Thirion       6.5     http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
@@ -777,7 +777,7 @@ Alex Vicente
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
-Eulàlia Iglesias     3
+Eulalia Iglesias     3
 Ángel Quintana       4
 José Luis Losa       2.5
 Pedro Butcher         
@@ -803,7 +803,7 @@ Carlos Reviriego      2.5
 Fernando Juan Lima    7
 Paolo Bertolin        5.5
 Nando Salva           4
-Philip Engel          2
+Philipp Engel          2
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       6
@@ -899,7 +899,7 @@ Alex Vicente          7
 Jose Luis De Lorenzo  7
 Cecilia Martinez      
 Fernando Ganzo        7
-Eulàlia Iglesias     8
+Eulalia Iglesias     8
 Ángel Quintana       8
 José Luis Losa       6
 Pedro Butcher         8
@@ -925,7 +925,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    6
 Paolo Bertolin        7
 Nando Salva           9
-Philip Engel          7.5
+Philipp Engel          7.5
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       7.5
@@ -1008,7 +1008,7 @@ Jordan Hoffman       9.5    http://www.film.com/movies/inside-llewyn-davis-revie
 Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
 Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
 Emanuel Levy         8      http://www.emanuellevy.com/review/inside-llewyn-davis-highlight-of-the-coens-cannes-fest/
-Robbie Collin        10     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10066769/Cannes-2013-Inside-Llewyn-Davis-review.html
+Robbie Collins        10     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10066769/Cannes-2013-Inside-Llewyn-Davis-review.html
 Stephanie Zacharek          http://www.villagevoice.com/2013-05-22/film/inside-llewyn-davis-cannes-review/ 
 # TF1.fr 0-5
 Aurelien Allin        10
@@ -1031,7 +1031,7 @@ Alex Vicente
 Jose Luis De Lorenzo  6.5
 Cecilia Martinez      4
 Fernando Ganzo        
-Eulàlia Iglesias     4
+Eulalia Iglesias     4
 Ángel Quintana       5
 José Luis Losa       5.5
 Pedro Butcher         9
@@ -1057,7 +1057,7 @@ Carlos Reviriego      5
 Fernando Juan Lima    6.5
 Paolo Bertolin        10
 Nando Salva           
-Philip Engel          2.5
+Philipp Engel          2.5
 Antoine Thirion               http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       4.5
@@ -1139,7 +1139,7 @@ Craig Skinner        6        http://www.indiewire.com/film/shield-of-straw
 John Bleasdale       2       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-shield-of.html
 Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-2013-review-shield-of-straw.php
 Peter Bradshaw       2       http://www.guardian.co.uk/film/2013/may/20/shield-of-straw-cannes-2013-review
-Mahnola Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
+Manohla Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
 
 "UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
@@ -1151,7 +1151,7 @@ Alex Vicente          7
 Jose Luis De Lorenzo  
 Cecilia Martinez      7
 Fernando Ganzo        
-Eulàlia Iglesias     7
+Eulalia Iglesias     7
 Ángel Quintana       7.5
 José Luis Losa       4
 Pedro Butcher         6
@@ -1177,7 +1177,7 @@ Carlos Reviriego      5.5
 Fernando Juan Lima    7.5
 Paolo Bertolin        6
 Nando Salva           
-Philip Engel          7.5
+Philipp Engel          7.5
 Antoine Thirion       6.5
 Eugenio Renzi         6
 Michal Oleszczyk      
@@ -1267,7 +1267,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
-Eulàlia Iglesias     6
+Eulalia Iglesias     6
 Ángel Quintana       6
 José Luis Losa       7.5
 Pedro Butcher         6.5
@@ -1293,7 +1293,7 @@ Carlos Reviriego      6.5
 Fernando Juan Lima    5
 Paolo Bertolin        8
 Nando Salva           
-Philip Engel          5
+Philipp Engel          5
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       7
@@ -1400,7 +1400,7 @@ Alex Vicente          5
 Jose Luis De Lorenzo  9
 Cecilia Martinez      6
 Fernando Ganzo        
-Eulàlia Iglesias     7.5
+Eulalia Iglesias     7.5
 Ángel Quintana       3
 José Luis Losa       4
 Pedro Butcher         
@@ -1426,7 +1426,7 @@ Carlos Reviriego      8
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           8.5
-Philip Engel          9.5
+Philipp Engel          9.5
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       5
@@ -1505,7 +1505,7 @@ Mehdi Omais
 Ryland Aldrich       7       http://www.indiewire.com/film/the-great-beauty
 Shaun Munro          6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-the-great-beauty-is-a-sight-for-sore-eyes.php
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/21/cannes-review-great-beauty-sorrentino
-Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
+Manohla Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
 Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77659/cannes-diary-day-7-behind-the-candelabra-changes-everything
 
 "ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
@@ -1518,7 +1518,7 @@ Alex Vicente          6.5
 Jose Luis De Lorenzo  6
 Cecilia Martinez      2
 Fernando Ganzo        3.5
-Eulàlia Iglesias     8.5
+Eulalia Iglesias     8.5
 Ángel Quintana       6
 José Luis Losa       5
 Pedro Butcher         3
@@ -1544,7 +1544,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    3
 Paolo Bertolin        10
 Nando Salva           
-Philip Engel          7
+Philipp Engel          7
 Antoine Thirion       4       http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       4
@@ -1631,11 +1631,11 @@ Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/stoerung-und-v
 Peter Bradshaw       10       http://www.guardian.co.uk/film/2013/may/22/cannes-only-good-forgives-ryan-gosling-review
 Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
 Logan Hill                    http://artsbeat.blogs.nytimes.com/2013/05/16/cannes-film-festival-nicolas-winding-refn-on-being-one-with-ryan-gosling/?hpw
-Mahnola Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
+Manohla Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
 Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77762/cannes-diary-day-8-ryan-goslings-new-movie-booed-out-of-france
 # metacritic
 David Rooney        6         http://www.hollywoodreporter.com/movie/god-forgives/review/527314
-Robbie Collin       6         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10073237/Cannes-2013-Only-God-Forgives-review.html
+Robbie Collins       6         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10073237/Cannes-2013-Only-God-Forgives-review.html
 Jordan Hoffman      5         http://www.film.com/movies/only-god-forgives-review
 Peter Debruge       3         http://variety.com/2013/film/reviews/cannes-film-review-only-god-forgives-1200486200/
 Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/only-god-forgives-movie-review/
@@ -1650,7 +1650,7 @@ Alex Vicente
 Jose Luis De Lorenzo  6
 Cecilia Martinez      6.5
 Fernando Ganzo        
-Eulàlia Iglesias     5
+Eulalia Iglesias     5
 Ángel Quintana       5
 José Luis Losa       5
 Pedro Butcher         6
@@ -1676,7 +1676,7 @@ Carlos Reviriego      6
 Fernando Juan Lima    4.5
 Paolo Bertolin        8.5
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Antoine Thirion       6.5
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
@@ -1764,7 +1764,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
-Eulàlia Iglesias     4.5
+Eulalia Iglesias     4.5
 Ángel Quintana       6
 José Luis Losa       6
 Pedro Butcher         6.5
@@ -1790,7 +1790,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    6
 Paolo Bertolin        7
 Nando Salva           
-Philip Engel          6
+Philipp Engel          6
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       8
@@ -1875,11 +1875,11 @@ Clementine Gallot     3       http://www.indiewire.com/film/nebraska
 Jon Frosch                    http://cannesreport.blogs.france24.com/article/2013/05/23/cannes-abdellatif-kechiche-lea-seydoux-alexander-payne-will-forte-0
 Todd McCarthy        10       http://www.hollywoodreporter.com/movie/nebraska/review/550167
 Peter Bradshaw        8       http://www.guardian.co.uk/film/2013/may/23/cannes-2013-nebraska-first-look-review
-Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?_r=0
+Manohla Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?_r=0
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 Emanuel Levy          7       http://www.emanuellevy.com/review/nebraska-from-alexander-payne/
-Robbie Collin         8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10076267/Cannes-2013-Nebraska-review.html
+Robbie Collins         8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10076267/Cannes-2013-Nebraska-review.html
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]  Palme d'Or + FIPRESCI Price Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -1891,7 +1891,7 @@ Alex Vicente          9
 Jose Luis De Lorenzo  10
 Cecilia Martinez      10
 Fernando Ganzo        6
-Eulàlia Iglesias     9
+Eulalia Iglesias     9
 Ángel Quintana       9.5
 José Luis Losa       10
 Pedro Butcher         7
@@ -1917,7 +1917,7 @@ Carlos Reviriego      8.5
 Fernando Juan Lima    10
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          6
+Philipp Engel          6
 Antoine Thirion       8
 Michal Oleszczyk      
 Pablo O. Scholz       8
@@ -2006,7 +2006,7 @@ Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-
 Jordan Mintzer (Hollywood Reporter, USA) http://www.hollywoodreporter.com/review/blue-is-warmest-color-cannes-527347
 David Hudson                  http://www.fandor.com/blog/daily-cannes-2013-abdellatif-kechiches-blue-is-the-warmest-color
 Peter Bradshaw      8         http://www.guardian.co.uk/film/2013/may/23/cannes-2013-blue-warmest-colour-review
-Mahnola Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
+Manohla Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
 Craig Kennedy                 http://www.awardsdaily.com/blog/cannes-review-la-vie-dadele-blue-is-the-warmest-color/
 Ali Naderzad                  http://screencomment.com/2013/05/blue-is-the-warmest-color-la-vie-dadele/
 Jonathan Romney (Sight&Sound, UK) http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
@@ -2022,7 +2022,7 @@ Alex Vicente          6.5
 Jose Luis De Lorenzo  5.5
 Cecilia Martinez      6.5
 Fernando Ganzo        
-Eulàlia Iglesias     8
+Eulalia Iglesias     8
 Ángel Quintana       
 José Luis Losa       6.5
 Pedro Butcher         9
@@ -2048,7 +2048,7 @@ Carlos Reviriego      7
 Fernando Juan Lima    6.5
 Paolo Bertolin        8
 Nando Salva           
-Philip Engel          7
+Philipp Engel          7
 Antoine Thirion       8
 Michal Oleszczyk      
 Pablo O. Scholz       6
@@ -2141,7 +2141,7 @@ Alex Vicente
 Jose Luis De Lorenzo  5.5
 Cecilia Martinez      4
 Fernando Ganzo        10
-Eulàlia Iglesias     6.5
+Eulalia Iglesias     6.5
 Ángel Quintana       
 José Luis Losa       6
 Pedro Butcher         4
@@ -2167,7 +2167,7 @@ Carlos Reviriego      6.5
 Fernando Juan Lima    4.5
 Paolo Bertolin        6.5
 Nando Salva           
-Philip Engel          5.5
+Philipp Engel          5.5
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       6
@@ -2258,7 +2258,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
-Eulàlia Iglesias     5.5
+Eulalia Iglesias     5.5
 Ángel Quintana       
 José Luis Losa       6.5
 Pedro Butcher         7
@@ -2284,7 +2284,7 @@ Carlos Reviriego      5.5
 Fernando Juan Lima    6
 Paolo Bertolin        7.5
 Nando Salva           
-Philip Engel          8
+Philipp Engel          8
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       6
@@ -2374,7 +2374,7 @@ Alex Vicente
 Jose Luis De Lorenzo  8
 Cecilia Martinez      7.5
 Fernando Ganzo        
-Eulàlia Iglesias     5
+Eulalia Iglesias     5
 Ángel Quintana       
 José Luis Losa       5
 Pedro Butcher         9
@@ -2400,7 +2400,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          8.5
+Philipp Engel          8.5
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       6
@@ -2491,7 +2491,7 @@ Alex Vicente         6.5
 Jose Luis De Lorenzo 6
 Cecilia Martinez     6
 Fernando Ganzo       5
-Eulàlia Iglesias     5.5
+Eulalia Iglesias     5.5
 Ángel Quintana       5
 José Luis Losa       6.5
 Pedro Butcher        7
@@ -2517,7 +2517,7 @@ Carlos Reviriego
 Fernando Juan Lima   5.5
 Paolo Bertolin       
 Nando Salva          6.5
-Philip Engel        7.5
+Philipp Engel        7.5
 Antoine Thirion        
 Michal Oleszczyk     2
 Pablo O. Scholz      5.5
@@ -2551,9 +2551,9 @@ Peter Bradshaw       6   http://www.guardian.co.uk/film/2013/may/16/bling-ring-c
 Guy Lodge            7   http://www.hitfix.com/in-contention/review-sofia-coppola-flips-the-celebrity-mirror-in-taut-smart-the-bling-ring
 Mark Adams (Screen Daily, USA)               http://www.screendaily.com/reviews/the-latest/the-bling-ring/5056168.article
 David Jenkins (Little White Lies blog, UK)   http://www.littlewhitelies.co.uk/features/festivals/cannes-2013-the-bling-ring-review-23895
-Kaleem Aftab (The Independent, UK)   8	     http://www.independent.co.uk/arts-entertainment/films/reviews/the-bling-ring-review-emma-watson-leaves-hermoine-behind-in-sofia-coppolas-new-film-8618418.html
+Kaleen Aftab (The Independent, UK)   8	     http://www.independent.co.uk/arts-entertainment/films/reviews/the-bling-ring-review-emma-watson-leaves-hermoine-behind-in-sofia-coppolas-new-film-8618418.html
 Cath Clarke (Time Out London, UK) 8 http://www.timeout.com/london/film/the-bling-ring
-Robbie Collin (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cannes-film-festival/10061235/Cannes-2013-The-Bling-Ring-review.html
+Robbie Collins (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cannes-film-festival/10061235/Cannes-2013-The-Bling-Ring-review.html
 Scott Foundas                  http://variety.com/2013/film/reviews/cannes-film-review-the-bling-ring-1200482052/
 Graham Fuller (Vanity Fair)    http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
@@ -2594,7 +2594,7 @@ Alex Vicente
 Jose Luis De Lorenzo 9
 Cecilia Martinez     7
 Fernando Ganzo       
-Eulàlia Iglesias     4
+Eulalia Iglesias     4
 Ángel Quintana       4.5
 José Luis Losa       1
 Pedro Butcher        2
@@ -2620,7 +2620,7 @@ Carlos Reviriego     1
 Fernando Juan Lima   4
 Paolo Bertolin       
 Nando Salva          1
-Philip Engel        2.5
+Philipp Engel        2.5
 Antoine Thirion        
 Michal Oleszczyk     
 Pablo O. Scholz      6
@@ -2675,7 +2675,7 @@ Alex Vicente
 Jose Luis De Lorenzo  4
 Cecilia Martinez      6
 Fernando Ganzo        8
-Eulàlia Iglesias     7.5
+Eulalia Iglesias     7.5
 Ángel Quintana       8
 José Luis Losa       8.5
 Pedro Butcher         8.5
@@ -2701,7 +2701,7 @@ Carlos Reviriego      7
 Fernando Juan Lima    10
 Paolo Bertolin        8
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Antoine Thirion       9.3     http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       
@@ -2798,7 +2798,7 @@ Alex Vicente          7
 Jose Luis De Lorenzo  5
 Cecilia Martinez      5.5
 Fernando Ganzo        0.5
-Eulàlia Iglesias     7.5
+Eulalia Iglesias     7.5
 Ángel Quintana       6.5
 José Luis Losa       8
 Pedro Butcher         
@@ -2824,7 +2824,7 @@ Carlos Reviriego      7.5
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          9
+Philipp Engel          9
 Antoine Thirion       5       http://www.independencia.fr/revue/spip.php?article768
 Michal Oleszczyk      
 Pablo O. Scholz       5.5
@@ -2896,7 +2896,7 @@ Alex Vicente
 Jose Luis De Lorenzo
 Cecilia Martinez      
 Fernando Ganzo        6
-Eulàlia Iglesias     8.5
+Eulalia Iglesias     8.5
 Ángel Quintana       8.5
 José Luis Losa       8.5
 Pedro Butcher         
@@ -2922,7 +2922,7 @@ Carlos Reviriego      9
 Fernando Juan Lima    8
 Paolo Bertolin        9
 Nando Salva           
-Philip Engel          7.5
+Philipp Engel          7.5
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       8
@@ -3039,7 +3039,7 @@ Alex Vicente          4
 Jose Luis De Lorenzo  2
 Cecilia Martinez      1
 Fernando Ganzo        
-Eulàlia Iglesias     
+Eulalia Iglesias     
 Ángel Quintana       5.5
 José Luis Losa       3
 Pedro Butcher         
@@ -3065,7 +3065,7 @@ Carlos Reviriego      6.5
 Fernando Juan Lima    2
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       4
@@ -3143,7 +3143,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  3
 Cecilia Martinez      1
 Fernando Ganzo        
-Eulàlia Iglesias     8
+Eulalia Iglesias     8
 Ángel Quintana       8.5
 José Luis Losa       6
 Pedro Butcher         6
@@ -3169,7 +3169,7 @@ Carlos Reviriego      6
 Fernando Juan Lima    7.5
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          8
+Philipp Engel          8
 Antoine Thirion       5       http://www.independencia.fr/revue/spip.php?article773
 Michal Oleszczyk      
 Pablo O. Scholz       7
@@ -3225,7 +3225,7 @@ Alex Vicente
 Jose Luis De Lorenzo  2
 Cecilia Martinez      6
 Fernando Ganzo        
-Eulàlia Iglesias     
+Eulalia Iglesias     
 Ángel Quintana       4
 José Luis Losa       2.5
 Pedro Butcher         6
@@ -3251,7 +3251,7 @@ Carlos Reviriego      3.5
 Fernando Juan Lima    6
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Antoine Thirion       
 Michal Oleszczyk      
 Pablo O. Scholz       7
@@ -3294,7 +3294,7 @@ Diego Batlle          6
 Diego Lerer           6.5
 Jose Luis De Lorenzo  5
 Cecilia Martinez      7
-Eulàlia Iglesias     7.5
+Eulalia Iglesias     7.5
 Ángel Quintana       6
 José Luis Losa       6.5
 Jaime Pena            7
@@ -3302,7 +3302,7 @@ Carlos F. Heredero    7
 Robert Koehler        4.5
 Neil Young            5       http://www.hollywoodreporter.com/review/golden-cage-la-jaula-de-527318
 Carlos Reviriego      7
-Philip Engel          6
+Philipp Engel          6
 Pablo O. Scholz       6
 Alejandro G. Calvo    6
 # Le film français 0-4
@@ -3343,7 +3343,7 @@ Alex Vicente
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        
-Eulàlia Iglesias     9
+Eulalia Iglesias     9
 Ángel Quintana       7.5
 José Luis Losa       6.5
 Pedro Butcher         7
@@ -3369,7 +3369,7 @@ Carlos Reviriego      8.5
 Fernando Juan Lima    8
 Paolo Bertolin        9
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Antoine Thirion       8
 Michal Oleszczyk      
 Pablo O. Scholz       
@@ -3456,7 +3456,7 @@ Jordan Hoffman        8       http://www.film.com/movies/all-is-lost-review
 Jessica Kiang         7       http://blogs.indiewire.com/theplaylist/cannes-review-jc-chandor-puts-robert-redford-through-watery-hell-in-bruising-formally-rigorous-all-is-lost-20130524?
 Justin Chang          7       http://variety.com/2013/film/reviews/cannes-film-review-all-is-lost-1200486217/
 Todd McCarthy         6.5     http://www.hollywoodreporter.com/review/cannes-review-all-is-lost-527327
-Robbie Collin         6       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10075395/Cannes-2013-All-Is-Lost-review.html
+Robbie Collins         6       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10075395/Cannes-2013-All-Is-Lost-review.html
 Peter Bradshaw        6       http://www.guardian.co.uk/film/2013/may/22/all-is-lost-review-cannes-2013
 
 
@@ -3490,7 +3490,7 @@ Alex Vicente
 Jose Luis De Lorenzo  
 Cecilia Martinez      
 Fernando Ganzo        8
-Eulàlia Iglesias     8.5
+Eulalia Iglesias     8.5
 Ángel Quintana       10
 José Luis Losa       10
 Pedro Butcher         
@@ -3516,7 +3516,7 @@ Carlos Reviriego
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philipp Engel          
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       7
@@ -3557,7 +3557,7 @@ Alex Vicente          6
 Jose Luis De Lorenzo  2
 Cecilia Martinez      5
 Fernando Ganzo        0
-Eulàlia Iglesias      6
+Eulalia Iglesias      6
 Ángel Quintana        5
 José Luis Losa        1
 Pedro Butcher         4.5
@@ -3583,7 +3583,7 @@ Carlos Reviriego      3
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           7
-Philip Engel          4
+Philipp Engel          4
 Antoine Thirion         
 Michal Oleszczyk      
 Pablo O. Scholz       5
@@ -3673,7 +3673,7 @@ Alex Vicente
 Jose Luis De Lorenzo  6.5
 Cecilia Martinez      7.5
 Fernando Ganzo        
-Eulàlia Iglesias     
+Eulalia Iglesias     
 Ángel Quintana       
 José Luis Losa       3
 Pedro Butcher         7
@@ -3699,7 +3699,7 @@ Carlos Reviriego      5
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          7
+Philipp Engel          7
 Antoine Thirion       6.5
 Michal Oleszczyk      
 Pablo O. Scholz       4
@@ -3759,7 +3759,7 @@ Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/19/cannes-s
 Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parties-faulkner-and-cannibal-families
 
 "MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
-Eulàlia Iglesias     3.5
+Eulalia Iglesias     3.5
 José Luis Losa       2
 Rüdiger Suchsland    6
 Alejandro G. Calvo    1
@@ -3946,7 +3946,7 @@ Raffi Asdourian      8        http://thefilmstage.com/reviews/cannes-review-the-
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Diego Batlle          7.5
 Diego Lerer           7
-Eulàlia Iglesias     6.5
+Eulalia Iglesias     6.5
 Ángel Quintana       5.5
 José Luis Losa       6.5
 Pedro Butcher         5
@@ -3967,7 +3967,7 @@ Stephanie Zacharek               http://www.villagevoice.com/2013-05-15/film/the
 "UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
 Diego Batlle          8
-Eulàlia Iglesias     6
+Eulalia Iglesias     6
 Ángel Quintana       5.5
 José Luis Losa       5
 Kieron Corless        4
@@ -3996,7 +3996,7 @@ Christoph Huber      6
 Frédéric Jaeger      2.5     
 
 "BLUE RUIN" (Jeremy Saulnier) [Quinzaine] FIPRESCI Price parallel sections
-Eulàlia Iglesias     6.5
+Eulalia Iglesias     6.5
 Ángel Quintana       6
 Cristina Nord         6.5
 Paolo Bertolin        7
@@ -4037,7 +4037,7 @@ Raffi Asdourian      6       http://thefilmstage.com/reviews/cannes-review-the-d
 
 "JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
 Roger Koza            5
-Eulàlia Iglesias     5.5
+Eulalia Iglesias     5.5
 José Luis Losa       6
 Paolo Moretti         4
 Marcelo Alderete      3
@@ -4058,7 +4058,7 @@ Roger Koza            5.5
 Diego Batlle          6.5
 Diego Lerer           7
 Fernando Ganzo        8
-Eulàlia Iglesias     5.5
+Eulalia Iglesias     5.5
 Ángel Quintana       5.5
 Kieron Corless        6.5
 Violeta Kovacsics     7
@@ -4097,7 +4097,7 @@ Blake Williams        3.9     https://twitter.com/Astrostic/status/3361248963273
 "EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
 Roger Koza            6.5
 Diego Lerer           7
-Eulàlia Iglesias     6.5
+Eulalia Iglesias     6.5
 Robert Koehler        4.5
 Pamela Bienzobas      6.5
 
@@ -4130,7 +4130,7 @@ Eric Kohn            9.1      http://www.indiewire.com/article/review_survival_o
 Keith Uhlich         2        http://newyork.timeout.com/arts-culture/film/924889/we-are-what-we-are
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
 #
-Eulàlia Iglesias     6.5
+Eulalia Iglesias     6.5
 Ángel Quintana       6.5
 José Luis Losa       3
 Carlo Chatrian        5.5
@@ -4170,7 +4170,7 @@ Carlos F. Heredero    2
 Robert Koehler        2
 Carlos Reviriego      5
 Fernando Juan Lima    5.5
-Philip Engel          6.5
+Philipp Engel          6.5
 Alejandro G. Calvo    5
 Guido Castillo        2
 Javier H. Estrada     3
@@ -4219,7 +4219,7 @@ Dana Linssen (De Filmkrant, Netherlands)
 Diego Batlle (La Nación, OtrosCines, Argentina) 
 Diego Lerer (Clarín, Micropsia, Argentina) 
 Eugenio Renzi (Independencia, France) 
-Eulàlia Iglesias (RockDeLux y Caimán CDC, España) 
+Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
 Fernando Ganzo (Lumiere, España) 
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
@@ -4237,7 +4237,7 @@ Pablo O. Scholz (Clarín, Argentina)
 Paolo Bertolin (Venice International Film Festival, Italy) 
 Paolo Moretti (Italy) 
 Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
-Philip Engel (Go Mag, España) 
+Philipp Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
@@ -4390,7 +4390,7 @@ Laremy Legel (Film.com, USA)
 Leda Galanou (Flix, France)
 Lee Marshall (Screen Daily, USA)
 Logan Hill (Vulture, New York Times, This American Life, WSJ, Rolling Stone, Wired, GQ, USA)
-Mahnola Dargis (New York Times, USA)
+Manohla Dargis (New York Times, USA)
 Marc van de Klashorst (IntlCinephileSociety, Netherlands)
 Mark Adams (Screen Daily, USA)
 Mathilde Cesbron (Le Figaro, France)

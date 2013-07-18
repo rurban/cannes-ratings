@@ -64,7 +64,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 9
 Fernando Ganzo (Lumiére, España): 8,21
 Diego Lerer (Clarín, Micropsia, Argentina): 9
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
-Violeta Kovacsis (Lumiere, España): 8
+Violeta Kovacsics (Lumiere, España): 8
 Luciano Monteagudo (Página/12, Argentina): 9
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 9
 Robert Koehler: (Variety, USA): 6
@@ -81,7 +81,7 @@ Francisco Ferreira (O Expresso, Portugal): 2
 Diego Lerer (Clarín, Micropsia, Argentina): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Cristina Nord (Die Tageszeitung, Deutschland): 3
-Violeta Kovacsis (Lumiere, España): 5
+Violeta Kovacsics (Lumiere, España): 5
 Luciano Monteagudo (Página/12, Argentina): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 5
 # Screen Daily (0-4)
@@ -127,7 +127,7 @@ Francisco Ferreira (O Expresso, Portugal): 10
 Gabe Klinger (The Auteurs Notebook, USA): 10
 Eugenio Renzi (Independencia, France): 9
 Roger Alan Koza (La Voz del Interior, Argentina): 10
-Violeta Kovacsis (Lumiere, España): 9
+Violeta Kovacsics (Lumiere, España): 9
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 # Screen Daily (0-4)
 Jose Carlos Avellar  9
@@ -186,7 +186,7 @@ Paolo Bertolin (Cineforum, Italia): 6
 Alejandro G. Calvo (Sensacine.com, España): 5
 Gabe Klinger (The Auteurs Notebook, USA): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
-Violeta Kovacsis (Lumiere, España): 8
+Violeta Kovacsics (Lumiere, España): 8
 
 "SIMON WERNER A DISPARU..." Fabrice Gobert [Un Certain Regard]
 
@@ -208,7 +208,7 @@ Francisco Ferreira (O Expresso, Portugal): 5,5
 Alejandro G. Calvo (Sensacine.com, España): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
-Violeta Kovacsis (Lumiere, España): 2
+Violeta Kovacsics (Lumiere, España): 2
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 4
 Robert Koehler: (Variety, USA): 3
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
@@ -271,7 +271,7 @@ Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Cristina Nord (Die Tageszeitung, Deutschland): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 0,5
-Violeta Kovacsis (Lumiere, España): 0
+Violeta Kovacsics (Lumiere, España): 0
 Luciano Monteagudo (Página/12, Argentina): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 1
 Manu Yáñez (Fotogramas, España): 1
@@ -345,7 +345,7 @@ Robert Koehler: (Variety, USA): 9
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 9
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 8
-Violeta Kovacsis (Lumiere, España): 7
+Violeta Kovacsics (Lumiere, España): 7
 Manu Yáñez (Fotogramas, España): 7
 Scott Foundas (Filmlinc, USA): 10
 Cristina Nord (Die Tageszeitung, Deutschland): 8
@@ -375,7 +375,7 @@ Cristina Nord ( Die Tageszeitung, Deutschland): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 10
 Francisco Ferreira (O Expresso, Portugal): 8
 Gabe Klinger (The Auteurs Notebook, USA): 9
-Violeta Kovacsis (Lumiere, España): 9
+Violeta Kovacsics (Lumiere, España): 9
 Alejandro G. Calvo (Sensacine.com, España): 5
 Fernando Ganzo (Lumiere, España): 7
 Emmanuel Burdeau (Mediapart, France): 9,5
@@ -419,7 +419,7 @@ Gabe Klinger (The Auteurs Notebook, USA): 6
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 7
 Cristina Nord (Die Tageszeitung, Deutschland): 7
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
-Violeta Kovacsis (Lumiere, España): 8
+Violeta Kovacsics (Lumiere, España): 8
 Manu Yáñez (Fotogramas, España): 6
 Scott Foundas (Filmlinc, USA): 8
 Paolo Bertolin (Cineforum, Italia): 10
@@ -537,7 +537,7 @@ Alejandro G. Calvo (Sensacine.com, España): 6
 Cristina Nord (Die Tageszeitung, Deutschland): 6
 Francisco Ferreira (O Expresso, Portugal): 7,5
 Gabe Klinger (The Auteurs Notebook, USA): 5
-Violeta Kovacsis (Lumiere, España): 6
+Violeta Kovacsics (Lumiere, España): 6
 Luciano Monteagudo (Página/12, Argentina): 6
 Roger Alan Koza (La Voz del Interior, Argentina): 8
 Paolo Bertolin (Cineforum, Italia): 7
@@ -610,7 +610,7 @@ Jaime Pena (El Amante + Cahiers du Cinéma España, España): 0.1
 Carlo Chatrian (Panoramiques Duellanti, Italia): 3
 Luciano Monteagudo (Página/12, Argentina): 3
 Diego Batlle (La Nación + Otros Cines, Argentina): 3
-Violeta Kovacsis (Lumiere, España): 0
+Violeta Kovacsics (Lumiere, España): 0
 Carlos F. Heredero (Cahiers du Cinéma España, España): 1
 Luciano Barisone (Panoramiques, Italia): 1
 Robert Koehler (Variety, USA): 1
@@ -645,7 +645,7 @@ Gabe Klinger (The Auteurs Notebook, USA): 8
 Luciano Barisone (Panoramiques, Italia): 9
 Carlo Chatrian (Panoramiques Duellanti, Italia): 9
 Paolo Bertolin (Cineforum, Italia): 9
-Violeta Kovacsis (Lumiere, España): 8
+Violeta Kovacsics (Lumiere, España): 8
 Robert Koehler (Variety, USA): 10
 Olivier Père (Director artístico Festival de Locarno, France): 9
 Carlos F. Heredero (Cahiers du Cinéma España, España): 7
@@ -676,7 +676,7 @@ Robert Koehler (Variety, USA): 6
 Manu Yáñez (Fotogramas, España): 7
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 6,5
 Alejandro G. Calvo (Sensacine.com, España): 8
-Violeta Kovacsis (Lumiere, España): 7
+Violeta Kovacsics (Lumiere, España): 7
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 5,5
 Luciano Monteagudo (Página/12, Argentina): 8
 
@@ -697,7 +697,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 6,5
 Cristina Nord (Die Tageszeitung, Deutschland): 5
 Luciano Monteagudo (Página/12, Argentina): 6
 Carlo Chatrian (Panoramiques Duellanti, Italia): 6
-Violeta Kovacsis (Lumiere, España): 7
+Violeta Kovacsics (Lumiere, España): 7
 Roger Alan Koza (La Voz del Interior, Argentina): 6
 Manu Yáñez (Fotogramas, España): 8
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung + Artechock, Deutschland): 6
@@ -731,7 +731,7 @@ Luciano Barisone (Panoramiques, Italia): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Cristina Nord (Die Tageszeitung, Deutschland): 6
 Luciano Monteagudo (Página/12, Argentina): 6
-Violeta Kovacsis (Lumiere, España): 9
+Violeta Kovacsics (Lumiere, España): 9
 Scott Foundas (Filmlinc, USA): 7
 Robert Koehler (Variety, USA): 9
 Paolo Bertolin (Cineforum, Italia): 8
@@ -744,7 +744,7 @@ Luciano Barisone (Panoramiques, Italia): 8
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 9
 Eulalia Iglesias (Cahiers du Cinéma España, España): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 7
-Violeta Kovacsis (Lumiere, España): 9
+Violeta Kovacsics (Lumiere, España): 9
 Robert Koehler: (Variety, USA): 10
 Alejandro G. Calvo (Sensacine.com, España): 8
 Diego Batlle (La Nación, Otros Cines, Argentina): 10
@@ -812,7 +812,7 @@ Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 1
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 8
 Luciano Monteagudo (Página/12, Argentina): 5
-Violeta Kovacsis (Lumiere, España): 5
+Violeta Kovacsics (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7
 # Screen Daily (0-4)
 Jose Carlos Avellar  5
@@ -843,7 +843,7 @@ Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 6
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7,5
 Scott Foundas (Filmlinc, USA): 9
 Manu Yáñez (Fotogramas, España): 6
-Violeta Kovacsis (Lumiere, España): 6
+Violeta Kovacsics (Lumiere, España): 6
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 7,5
 
 "BELLE ÉPINE" Rebecca Zlotowski [Semaine]
@@ -894,7 +894,7 @@ Carlos Reviriego (Cahiers du Cinéma España, España): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 6
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4 
 Carlo Chatrian (Panoramiques, Duellanti, Italia): España, España): 3
-Violeta Kovacsis (Lumiere, España): 4
+Violeta Kovacsics (Lumiere, España): 4
 
 "UNTER DIR DIE STADT (THE CITY BELOW)" Christoph Hochhäussler [Un Certain Regard]
 
@@ -913,7 +913,7 @@ Francisco Ferreira (O Expresso, Portugal): 8
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
 Luciano Monteagudo (Página/12, Argentina): 6
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
-Violeta Kovacsis (Lumiere, España): 4
+Violeta Kovacsics (Lumiere, España): 4
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 6,5
 
 "UN HOMME QUI CRIE (A SCREAMING MAN)" Mahamat-Saleh Haroun [Competition]
@@ -936,7 +936,7 @@ Roger Alan Koza (La Voz del Interior, Argentina): 6,5
 Manu Yáñez (Fotogramas, España): 7
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Luciano Monteagudo (Página/12, Argentina): 7
-Violeta Kovacsis (Lumiere, España): 5
+Violeta Kovacsics (Lumiere, España): 5
 Rüdiger Suchsland (Frankfurter Allgemeine Zeitung, Artechock, Deutschland): 4
 # Screen Daily (0-4)
 Jose Carlos Avellar  7.5
@@ -957,7 +957,7 @@ Alejandro G. Calvo (Sensacine.com, España): 7
 Diego Batlle (La Nación, Otros Cines, Argentina): 6
 Robert Koehler: (Variety, USA): 1
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 4
-Violeta Kovacsis (Lumiere, España): 4
+Violeta Kovacsics (Lumiere, España): 4
 Diego Lerer (Clarín, Micropsia, Argentina): 4
 Cristina Nord (Die Tageszeitung, Deutschland): 2
 Roger Alan Koza (La Voz del Interior, Argentina): 2
@@ -992,7 +992,7 @@ Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 5
-Violeta Kovacsis (Lumiere, España): 6
+Violeta Kovacsics (Lumiere, España): 6
 Scott Foundas (Filmlinc, USA): 6
 Carlos Reviriego (Cahiers du Cinéma España, España): 5
 Manu Yáñez (Fotogramas, España): 4
@@ -1027,7 +1027,7 @@ Robert Koehler: (Variety, USA): 7
 Diego Lerer (Clarín, Micropsia, Argentina): 8
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 7
 Cristina Nord (Die Tageszeitung Deutschland): 8
-Violeta Kovacsis (Lumiere, España): 8
+Violeta Kovacsics (Lumiere, España): 8
 Luciano Barisone (Panoramiques, Italia): 8
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 7
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 9
@@ -1083,7 +1083,7 @@ Diego Batlle (La Nación, Otros Cines, Argentina): 3
 Gonzalo de Pedro (Cahiers du Cinéma España, Público, España): 2
 Robert Koehler: (Variety, USA): 1
 Diego Lerer (Clarín, Micropsia, Argentina): 2
-Violeta Kovacsis (Lumiere, España): 2
+Violeta Kovacsics (Lumiere, España): 2
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 2
 Manu Yáñez (Fotogramas, España): 1
@@ -1099,7 +1099,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 3
 Diego Lerer (Clarín, Micropsia, Argentina): 5
 Emmanuel Burdeau (Mediapart, France): 2,2
 Cristina Nord (Die Tageszeitung, Deutschland): 2
-Violeta Kovacsis (Lumiere, España): 4
+Violeta Kovacsics (Lumiere, España): 4
 Jaime Pena (El Amante, Cahiers du Cinéma España, España): 3
 Manu Yáñez (Fotogramas, España): 4
 Francisco Ferreira (O Expresso, Portugal): 3
@@ -1163,7 +1163,7 @@ Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 3
 Eulalia Iglesias (Cahiers du Cinéma España, España): 5
 Diego Lerer (Clarín, Micropsia, Argentina): 6
 Cristina Nord (Die Tageszeitung, Deutschland): 2
-Violeta Kovacsis (Lumiere, España): 5
+Violeta Kovacsics (Lumiere, España): 5
 Paolo Bertolin (Cineforum, Italia): 8
 Francisco Ferreira (O Expresso, Portugal): 5
 Scott Foundas (Filmlinc, USA): 4
@@ -1200,7 +1200,7 @@ Eulalia Iglesias (Cahiers du Cinéma España, España): 4
 Luciano Barisone (Panoramiques, Italia): 4
 Carlo Chatrian (Panoramiques, Duellanti, Italia): 3
 Paolo Bertolin (Cineforum, Italia): 8
-Violeta Kovacsis (Lumiere, España): 5
+Violeta Kovacsics (Lumiere, España): 5
 Robert Koehler: (Variety, USA): 3
 Emmanuel Burdeau (Mediapart, France): 4
 Eugenio Renzi (Independencia, France): 4
@@ -1240,7 +1240,7 @@ Diego Lerer (Clarín + Micropsia, Argentina): 8
 Markus Keuschnigg (ORF Radio FM4, Die Presse, Austria): 7
 Eulalia Iglesias (Cahiers du Cinéma España, España): 7
 Gonzalo de Pedro (Cahiers du Cinéma España + Público, España): 8
-Violeta Kovacsis (Lumiere, España): 7
+Violeta Kovacsics (Lumiere, España): 7
 Robert Koehler (Variety, USA): 5
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 7,5
 Scott Foundas (Filmlinc, USA): 5
@@ -1276,7 +1276,7 @@ Emmanuel Burdeau (Mediapart, France): 7
 Carlos Reviriego (Cahiers du Cinéma España, España): 4
 Carlos F. Heredero (Cahiers du Cinéma España, España): 4
 Leonardo D'Espósito (Crítica de la Argentina, Argentina): 5
-Violeta Kovacsis (Lumiere, España): 2
+Violeta Kovacsics (Lumiere, España): 2
 Eulalia Iglesias (Cahiers du Cinéma España, España): 3
 Scott Foundas (Filmlinc, USA): 8 (The film maudit of Cannes already).
 Jaime Pena (El Amante + Cahiers du Cinéma España, España): 5

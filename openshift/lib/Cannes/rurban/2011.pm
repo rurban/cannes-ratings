@@ -1415,7 +1415,7 @@ Anne Thompson (Indiewire, USA)
 Clarence Tsui (South China Morning Post, Hong Kong) 2.5
 Eduardo Valente (Revista Cinema, Brazil) 7.5
 Kevin Jagernauth (Indiewire's The Playlist, USA) 0 F
-Geoff Andrew (Time Out London, UK) 2
+Geoff Andrews (Time Out London, UK) 2
 Simon Gallagher (filmschoolrejects.com, UK) 2 C-
  Indiewire:
 Simon Abrams (Freelance, USA) 7.5 B+
