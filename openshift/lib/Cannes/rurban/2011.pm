@@ -21,9 +21,9 @@ use utf8;
 our $DATA= <<'EOF';
 
 "Les Biens-aimes / Beloved" Christophe Honoré
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) – 8
-NANDO SALVA (El Periódico, España) – 1
+Diego Batlle (La Nación / OtrosCines, Argentina) – 6
+Rudiger Suchsland (FAZ / Negativ, Deutschland) – 8
+Nando Salva (El Periódico, España) – 1
  Indiewire:
 Simon Abrams (Freelance, USA) 5 B-
 Jon Frosch (France 24,USA) 9 A
@@ -32,49 +32,49 @@ Guy Lodge (InContention, USA) 1.5 D+
 James Rocchi (Indiewire's The Playlist, USA) 1.2 D
 
 “The Source” Radu Mihaileanu (1.10) 5 votos [Competition]
-FERNANDO GANZO (Lumiere, España) -
-CARLOS HEREDERO (Cahiers du cinéma, España) -
-LUCIANO MONTEAGUDO (Página12, Argentina) -
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) -
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 3.5
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -
-FRANCISCO FERREIRA (Expresso, Portugal) -
-VIOLETA KOVACSICS (Diari de Tarragona, España) -
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 0
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) -
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -
-FERNANDO JUAN LIMA (El Amante, Argentina) -
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -
-SARA BRITO (Público, España) -
-SCOTT FOUNDAS (Film Comment, U.S.) -
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  1
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) -
-NANDO SALVA (El Periódico, España) –  0
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) -
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) -
-ALEJANDRO G. CALVO (SensaCine, España) -
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) – 1
+Fernando Ganzo (Lumiere, España) -
+Carlos Heredero (Cahiers du cinéma, España) -
+Luciano Monteagudo (Página12, Argentina) -
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) -
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) -
+Diego Batlle (La Nación / OtrosCines, Argentina) -
+Cristina Nord (Die Tageszeitung, Deutschland) – 3.5
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -
+Francisco Ferreira (Expresso, Portugal) -
+Violeta Kovacsics (Diari de Tarragona, España) -
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 0
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) -
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -
+Fernando Juan Lima (El Amante, Argentina) -
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -
+Sara Brito (Público, España) -
+Scott Foundas (Film Comment, U.S.) -
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  1
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) -
+Nando Salva (El Periódico, España) –  0
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) -
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) -
+Alejandro G. Calvo (SensaCine, España) -
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) – 1
 Mike d'Angelo (AV Club, USA) 3.0
  Ioncinema:
 Christophe Beney (Palmares magazine, France)
@@ -106,49 +106,49 @@ Bo Green Jensen (Weekandavisen Berlingske, Denmark) 5
 Screen International (Screen International, USA) 7.5
 
 “Once Upon a Time in Anatolya” Nuri Bilge Ceylan (7.12) 12 votos [Competition] Grand prix
-FERNANDO GANZO (Lumiere, España) – 5.5
-CARLOS HEREDERO (Cahiers du cinéma, España) -
-LUCIANO MONTEAGUDO (Página12, Argentina) –  8
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 7.5
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7
-CRISTINA NORD (Die Tageszeitung, Deutschland) -
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -
-FRANCISCO FERREIRA (Expresso, Portugal) -
-VIOLETA KOVACSICS (Diari de Tarragona, España) -
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) -
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -
-FERNANDO JUAN LIMA (El Amante, Argentina) -
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -
-SARA BRITO (Público, España) – 6.9
-SCOTT FOUNDAS (Film Comment, U.S.) – 10
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  7.50
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) – 5
-NANDO SALVA (El Periódico, España) – 8
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) -
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) – 6
-ALEJANDRO G. CALVO (SensaCine, España) -
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) - 8
+Fernando Ganzo (Lumiere, España) – 5.5
+Carlos Heredero (Cahiers du cinéma, España) -
+Luciano Monteagudo (Página12, Argentina) –  8
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 7.5
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) -
+Diego Batlle (La Nación / OtrosCines, Argentina) – 7
+Cristina Nord (Die Tageszeitung, Deutschland) -
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -
+Francisco Ferreira (Expresso, Portugal) -
+Violeta Kovacsics (Diari de Tarragona, España) -
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) -
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -
+Fernando Juan Lima (El Amante, Argentina) -
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -
+Sara Brito (Público, España) – 6.9
+Scott Foundas (Film Comment, U.S.) – 10
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  7.50
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) – 5
+Nando Salva (El Periódico, España) – 8
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) -
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) – 6
+Alejandro G. Calvo (SensaCine, España) -
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) - 8
 Mike d'Angelo (AV Club, USA) 3.9
  Ioncinema:
 Christophe Beney (Palmares magazine, France)
@@ -185,56 +185,56 @@ Peter Howell (The Toronto Star, Canada) 6.25 B
 Eric Kohn (indieWIRE, USA) 8 A-
 
 "Elena" Andrei Zvyagintsev [Un Certain Regard] Special Jury Price UCR
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7
+Diego Batlle (La Nación / OtrosCines, Argentina) – 7
 
 "Les Géants" Bouli Lanner [Quinzaine] Art Cinema award + Prix SACD
 
 "Atmen" Karl Markovic [Quinzaine] Label Europa Cinemas award
 
 “This Must Be the Place” Paolo Sorrentino (3.075) 19 votos [Competition] Ecumenical Jury prize
-FERNANDO GANZO (Lumiere, España) -
-CARLOS HEREDERO (Cahiers du cinéma, España) –  3
-LUCIANO MONTEAGUDO (Página12, Argentina) - 3
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  2
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 6
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  5.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  1
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -
-FRANCISCO FERREIRA (Expresso, Portugal) -
-VIOLETA KOVACSICS (Diari de Tarragona, España) -
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) - 1
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) - 5
-FERNANDO JUAN LIMA (El Amante, Argentina) - 5
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) - 2
-SARA BRITO (Público, España) - 0
-SCOTT FOUNDAS (Film Comment, U.S.) - 2
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  0
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) - 5
-NANDO SALVA (El Periódico, España) - 0
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) - 5
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  0
-ALEJANDRO G. CALVO (SensaCine, España) –  3
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) - 8
+Fernando Ganzo (Lumiere, España) -
+Carlos Heredero (Cahiers du cinéma, España) –  3
+Luciano Monteagudo (Página12, Argentina) - 3
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  2
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) - 6
+Diego Batlle (La Nación / OtrosCines, Argentina) –  5.5
+Cristina Nord (Die Tageszeitung, Deutschland) –  1
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -
+Francisco Ferreira (Expresso, Portugal) -
+Violeta Kovacsics (Diari de Tarragona, España) -
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) - 1
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -
+Jose Luis De Lorenzo (A Sala Llena, Argentina) - 5
+Fernando Juan Lima (El Amante, Argentina) - 5
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) - 2
+Sara Brito (Público, España) - 0
+Scott Foundas (Film Comment, U.S.) - 2
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  0
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) - 5
+Nando Salva (El Periódico, España) - 0
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) - 5
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  0
+Alejandro G. Calvo (SensaCine, España) –  3
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) - 8
 Mike d'Angelo (AV Club, USA) 7.2 B "Do you sell luggage?" "We'll get to that." "Does a fugitive Nazi live here?" "We'll get to that." Digression as epiphany perfect for Sorrentino's radically absurdist style. I'm troubled by the weirdly conservative ending, though.
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 0
@@ -276,77 +276,77 @@ Eric Kohn (indieWIRE) 1.5 D+
 Peter Bradshaw (Guardian, UK) 6
 
 "The Look" Angelina Maccarone [Cannes Classics]
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 7
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 7
 
 "Corman's World" Alex Stapleton
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  6
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
 Simon Reynolds (DigiatSpy, USA) 8
 
 "Blue Bird" Gust Van den Berghe [Quinzaine]
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.8
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 2
+Cristina Nord (Die Tageszeitung, Deutschland) – 6.8
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 2
 
 "Sauna on Moon" Zou Pen [Semaine]
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 5.8
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 6.5
-PAOLO BERTOLIN (Cineforum, Italia) - 5
-SCOTT FOUNDAS (Film Comment, U.S.) - 6
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 5.8
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 6.5
+Paolo Bertolin (Cineforum, Italia) - 5
+Scott Foundas (Film Comment, U.S.) - 6
 
 "Après le sud" Jean-Jacques Jauffre [Quinzaine]
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  2
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  2
 
 "Avé" Konstantin Bojano [Semaine]
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.50
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 7.00
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.50
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 7.00
 
 "El velador / The Night Watchman" Natalia Almada (6,00) 2 votos [Quinzaine]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
 ?? () 6
 
 "My Little Princess" Eva Ionescu [Semaine]
-SERGIO WOLF (BAFICI, Argentina) – 1
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 3.9
+Sergio Wolf (BAFICI, Argentina) – 1
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 3.9
 
 "Snowtown" Justin Kurzel [Semaine] (Adelaide) Special Mention
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
-CARLOS HEREDERO (Cahiers du cinéma, España) –  2
+Carlos Heredero (Cahiers du cinéma, España) –  2
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
 "Dias De Gracia (Days Of Grace)" Everardo Gout
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 3
-MARCELO ALDERETE  (Mar del Plata Film Festival, Argentina) –  0
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 3
+Marcelo Alderete  (Mar del Plata Film Festival, Argentina) –  0
 
 "La Khaoufa Baada Al'Yaoum (No More Fear)" Mourad Ben Cheikh
-LUCIANO MONTEAGUDO (Página12, Argentina) –  6
+Luciano Monteagudo (Página12, Argentina) –  6
 
 "La Conquête (The Conquest)" Xavier Durringer
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  7
-SERGI SANCHEZ (La Razón, España) – 5.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6
-NANDO SALVA (El Periódico, España) – 3
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  7
+Sergi Sanchez (La Razón, España) – 5.5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  6
+Nando Salva (El Periódico, España) – 3
 Agnès C Poirier (Guardian, UK) 4
 
 "The Big Fix" Josh Tickell [Special Screenings]
 Simon Gallagher (filmschoolrejects.com, UK) 8 A-
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 3
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  0
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  4
-ALEJANDRO G. CALVO (SensaCine, España) –  5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 3
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  0
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  4
+Alejandro G. Calvo (SensaCine, España) –  5
 
 "Okhotnik / The Hunter" Bakur Bakuradze [Un Certain Regard]
-LUCIANO MONTEAGUDO (Página12, Argentina) – 5
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 7
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 4
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) - 3
-FERNANDO JUAN LIMA (El Amante, Argentina) - 2
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  4
-FERNANDO GANZO (Lumiere, España) – 3
+Luciano Monteagudo (Página12, Argentina) – 5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) - 7
+Diego Batlle (La Nación / OtrosCines, Argentina) – 6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 4
+Jose Luis De Lorenzo (A Sala Llena, Argentina) - 3
+Fernando Juan Lima (El Amante, Argentina) - 2
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  4
+Fernando Ganzo (Lumiere, España) – 3
 
 “Return” Liza Johnson [Quinzaine]
 Mike d'Angelo (AV Club, USA) 6.1 Promising debut
-SERGIO WOLF (BAFICI, Argentina) – 6
+Sergio Wolf (BAFICI, Argentina) – 6
 
 "En ville" Valérie Mréjen et Bertrand Schefe [Quinzaine]
 
@@ -358,49 +358,49 @@ SERGIO WOLF (BAFICI, Argentina) – 6
 
 “Drive” Nicolas Winding Refn (7.28) 21 votos [Competition] Best Director
 Mike d'Angelo (AV Club, USA) 7.6 B+
-FERNANDO GANZO (Lumiere, España) -
-CARLOS HEREDERO (Cahiers du cinéma, España) - 6.5
-LUCIANO MONTEAGUDO (Página12, Argentina) - 5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 7
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 9
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 7.5
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) – 8
-FRANCISCO FERREIRA (Expresso, Portugal) -
-VIOLETA KOVACSICS (Diari de Tarragona, España) -
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 7.9
-OLIVIER PERE (Les Inrockuptibles, France) – 8.5
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) – 5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) - 5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -
-FERNANDO JUAN LIMA (El Amante, Argentina) -
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) - 7
-SARA BRITO (Público, España) -
-SCOTT FOUNDAS (Film Comment, U.S.) -
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 8
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) – 6
-NANDO SALVA (El Periódico, España) -
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) -
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) - 8
-ALEJANDRO G. CALVO (SensaCine, España) - 9
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -
+Fernando Ganzo (Lumiere, España) -
+Carlos Heredero (Cahiers du cinéma, España) - 6.5
+Luciano Monteagudo (Página12, Argentina) - 5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 7
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) - 9
+Diego Batlle (La Nación / OtrosCines, Argentina) – 7.5
+Cristina Nord (Die Tageszeitung, Deutschland) – 7.5
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) – 8
+Francisco Ferreira (Expresso, Portugal) -
+Violeta Kovacsics (Diari de Tarragona, España) -
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 7.9
+Olivier Pere (Les Inrockuptibles, France) – 8.5
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) – 5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) - 5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -
+Fernando Juan Lima (El Amante, Argentina) -
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) - 7
+Sara Brito (Público, España) -
+Scott Foundas (Film Comment, U.S.) -
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) - 8
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) – 6
+Nando Salva (El Periódico, España) -
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) -
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) - 8
+Alejandro G. Calvo (SensaCine, España) - 9
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 7.5
 David Calhoun (The Out London, UK) 5
@@ -444,158 +444,158 @@ Peter Bradshaw (Guardian, UK) 8
 
 "The Murderer / The Yellow Sea" Nan Hong-jin (7.675) 12 votos [Un Certain Regard]
 Mike d'Angelo (AV Club, USA) 4.7 Hollywood audition reels. Setup intrigues but then it's generic car crashes and hatchet fights. Done with Na.
-FERNANDO GANZO (Lumiere, España) – 4
-LUCIANO MONTEAGUDO (Página12, Argentina) – 8
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  8
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7.5
-VIOLETA KOVACSICS (Diari de Tarragona, España) –  9.3
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 7
-FERNANDO JUAN LIMA (El Amante, Argentina) –  9
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  9.50
-PAMELA BIENZOBAS (Mabuse, Chile) –  6.3
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) – 8
-ALEJANDRO G. CALVO (SensaCine, España) –  8
+Fernando Ganzo (Lumiere, España) – 4
+Luciano Monteagudo (Página12, Argentina) – 8
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  8
+Diego Batlle (La Nación / OtrosCines, Argentina) – 7.5
+Violeta Kovacsics (Diari de Tarragona, España) –  9.3
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 7
+Fernando Juan Lima (El Amante, Argentina) –  9
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  9.50
+Pamela Bienzobas (Mabuse, Chile) –  6.3
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) – 8
+Alejandro G. Calvo (SensaCine, España) –  8
 
 "La Nuit, elles dansent" Isabelle Lavigne et Stéphane Thibault (6.00) 4 votos [Quinzaine]
-FERNANDO GANZO (Lumiere, España) –  4
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  6
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  6
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) –  8
+Fernando Ganzo (Lumiere, España) –  4
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  6
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  6
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) –  8
 
 "Chatrak" Vimukthi Jayasundara (5.92) 6 votos [Quinzaine]
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  6.5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  7
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  4
-PAOLO BERTOLIN (Cineforum, Italia) – 9
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  6.5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  7
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  4
+Paolo Bertolin (Cineforum, Italia) – 9
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  5
 
 "L'Exercise de L'Etat / The Minister" Pierre Schoeller (6.05) 10 votos [Un Certain Regard]
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 4.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.9
-KONG RITHDEE (The Bangkok Post. Thailand) – 5.5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) – 6
-FERNANDO JUAN LIMA (El Amante, Argentina) –  4
-SCOTT FOUNDAS (Film Comment, U.S.) –  6
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  7.1
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  6
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 4.5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  6.5
+Cristina Nord (Die Tageszeitung, Deutschland) – 6.9
+Kong Rithdee (The Bangkok Post. Thailand) – 5.5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) – 6
+Fernando Juan Lima (El Amante, Argentina) –  4
+Scott Foundas (Film Comment, U.S.) –  6
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  7.1
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6
 
 "Koi no Tsumi / Guilty of Romance" Sion Sono (8.44) 5 votos [Quinzaine]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 8
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  9.2
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7.5
-FERNANDO JUAN LIMA (El Amante, Argentina) -  9.5
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  8
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 8
+Violeta Kovacsics (Diari de Tarragona, España) -  9.2
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7.5
+Fernando Juan Lima (El Amante, Argentina) -  9.5
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  8
 
 “The Day He Arrives” Hong Sangsoo (7.65) 22 votos [Un Certain Regard]
-FERNANDO GANZO (Lumiere, España) –  8.80
-CARLOS HEREDERO (Cahiers du cinéma, España) – 8.50
-LUCIANO MONTEAGUDO (Página12, Argentina) -
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  8.50
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 7.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) -
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -
-FRANCISCO FERREIRA (Expresso, Portugal) -  8.50
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  8
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7.90
-OLIVIER PERE (Les Inrockuptibles, France) -  6
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  8
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) – 8
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -  5
-FERNANDO JUAN LIMA (El Amante, Argentina) –  8
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -
-SARA BRITO (Público, España) -
-SCOTT FOUNDAS (Film Comment, U.S.) -  7
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) -
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -  8.5
-PABLO O. SCHOLZ (Clarín, Argentina) –  7
-NANDO SALVA (El Periódico, España) -
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -  7
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-PAOLO BERTOLIN (Cineforum, Italia) –  7.50
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  10
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  7
-ALEJANDRO G. CALVO (SensaCine, España) –  7
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -  7
+Fernando Ganzo (Lumiere, España) –  8.80
+Carlos Heredero (Cahiers du cinéma, España) – 8.50
+Luciano Monteagudo (Página12, Argentina) -
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  8.50
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 7.5
+Diego Batlle (La Nación / OtrosCines, Argentina) – 7.5
+Cristina Nord (Die Tageszeitung, Deutschland) -
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -
+Francisco Ferreira (Expresso, Portugal) -  8.50
+Violeta Kovacsics (Diari de Tarragona, España) -  8
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7.90
+Olivier Pere (Les Inrockuptibles, France) -  6
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  8
+Carlo Chatrian (Duellanti / Panoramiches, Italy) – 8
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -  5
+Fernando Juan Lima (El Amante, Argentina) –  8
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -
+Sara Brito (Público, España) -
+Scott Foundas (Film Comment, U.S.) -  7
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (FAZ / Negativ, Deutschland) -
+Alvaro Arroba (La Lectora Provisoria, Argentina) -  8.5
+Pablo O. Scholz (Clarín, Argentina) –  7
+Nando Salva (El Periódico, España) -
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -  7
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Paolo Bertolin (Cineforum, Italia) –  7.50
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  10
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  7
+Alejandro G. Calvo (SensaCine, España) –  7
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  7
 Mike d'Angelo (AV Club, USA) ??? Reading the reviews, it's clear that the film's central conceit completely escaped me. 2nd viewing required.
 
 “This is Not a Film” Jafar Panahi & Mojtaba Mirtahmasb (7.14) 14 votos
-FERNANDO GANZO (Lumiere, España) – 4
-CARLOS HEREDERO (Cahiers du cinéma, España) –  4
-LUCIANO MONTEAGUDO (Página12, Argentina) –  9
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 8.5
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 6
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  10
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  8
-KONG RITHDEE (The Bangkok Post, Thailand) – 8
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
-FERNANDO JUAN LIMA (El Amante, Argentina) – 8.50
-SCOTT FOUNDAS (Film Comment, U.S.) – 9
-PABLO O. SCHOLZ (Clarín, Argentina) –  8
-PAMELA BIENZOBAS (Mabuse, Chile) -  7
+Fernando Ganzo (Lumiere, España) – 4
+Carlos Heredero (Cahiers du cinéma, España) –  4
+Luciano Monteagudo (Página12, Argentina) –  9
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 8.5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 6
+Diego Batlle (La Nación / OtrosCines, Argentina) –  10
+Cristina Nord (Die Tageszeitung, Deutschland) –  8
+Kong Rithdee (The Bangkok Post, Thailand) – 8
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  6
+Fernando Juan Lima (El Amante, Argentina) – 8.50
+Scott Foundas (Film Comment, U.S.) – 9
+Pablo O. Scholz (Clarín, Argentina) –  8
+Pamela Bienzobas (Mabuse, Chile) -  7
 Mike d'Angelo (AV Club, USA) 5.1
 
 "La Piel Que Habito / The Skin I Live In" Pedro Almodóva (6,92) 28 votos [Competition]
-FERNANDO GANZO (Lumiere, España) –  7
-CARLOS HEREDERO (Cahiers du cinéma, España) –  5
-LUCIANO MONTEAGUDO (Página12, Argentina) –  6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  4
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 8
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 7
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  6.9
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) –  6
-FRANCISCO FERREIRA (Expresso, Portugal) – 7
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  7.7
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  8.2
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -  5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  9
-FERNANDO JUAN LIMA (El Amante, Argentina) –  5
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -  8.5
-SARA BRITO (Público, España) - 5.9
-SCOTT FOUNDAS (Film Comment, U.S.) -  3
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 7.9
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -  8.99
-PABLO O. SCHOLZ (Clarín, Argentina) –  7
-NANDO SALVA (El Periódico, España) - 7
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -  7.5
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -  7.8
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-PAOLO BERTOLIN (Cineforum, Italia) – 8.50
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) -
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) - 7
-ALEJANDRO G. CALVO (SensaCine, España) - 8
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -  9
+Fernando Ganzo (Lumiere, España) –  7
+Carlos Heredero (Cahiers du cinéma, España) –  5
+Luciano Monteagudo (Página12, Argentina) –  6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  4
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) - 8
+Diego Batlle (La Nación / OtrosCines, Argentina) – 7
+Cristina Nord (Die Tageszeitung, Deutschland) –  6.9
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) –  6
+Francisco Ferreira (Expresso, Portugal) – 7
+Violeta Kovacsics (Diari de Tarragona, España) -  7.7
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  8.2
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  6
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -  5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  9
+Fernando Juan Lima (El Amante, Argentina) –  5
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -  8.5
+Sara Brito (Público, España) - 5.9
+Scott Foundas (Film Comment, U.S.) -  3
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) - 7.9
+Alvaro Arroba (La Lectora Provisoria, Argentina) -  8.99
+Pablo O. Scholz (Clarín, Argentina) –  7
+Nando Salva (El Periódico, España) - 7
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -  7.5
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -  7.8
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Paolo Bertolin (Cineforum, Italia) – 8.50
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) -
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) - 7
+Alejandro G. Calvo (SensaCine, España) - 8
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  9
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 10
 David Calhoun (The Out London, UK) 7.5
@@ -640,49 +640,49 @@ Rob Nelson (Variety) 5 B
 Peter Bradshaw (Guardian, UK) 8
 
 “Melancholia” Lars von Trier (5.54) 26 votos [Competition]
-FERNANDO GANZO (Lumiere, España) – 5.2012
-CARLOS HEREDERO (Cahiers du cinéma, España) –  8
-LUCIANO MONTEAGUDO (Página12, Argentina) –  5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  4.5
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  7.50
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  5.50
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  4
-MARKUS KEUSCHNIGG (Die Presse, Austria) - 
-KONG RITHDEE (The Bangkok Post. Thailand) -  4
-FRANCISCO FERREIRA (Expresso, Portugal) -  4
-VIOLETA KOVACSICS (Diari de Tarragona, España) –  8
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) - 5.9
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  4
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  4
-FERNANDO JUAN LIMA (El Amante, Argentina) –  4
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -  5
-SARA BRITO (Público, España) - 6
-SCOTT FOUNDAS (Film Comment, U.S.) -  8
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 7.9
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  6.5
-PABLO O. SCHOLZ (Clarín, Argentina) –  6
-NANDO SALVA (El Periódico, España) - 4
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) – 5.50
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  3
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  4.5
-ALEJANDRO G. CALVO (SensaCine, España) -  7
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -  7
+Fernando Ganzo (Lumiere, España) – 5.2012
+Carlos Heredero (Cahiers du cinéma, España) –  8
+Luciano Monteagudo (Página12, Argentina) –  5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  4.5
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  7.50
+Diego Batlle (La Nación / OtrosCines, Argentina) –  5.50
+Cristina Nord (Die Tageszeitung, Deutschland) –  4
+Markus Keuschnigg (Die Presse, Austria) - 
+Kong Rithdee (The Bangkok Post. Thailand) -  4
+Francisco Ferreira (Expresso, Portugal) -  4
+Violeta Kovacsics (Diari de Tarragona, España) –  8
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) - 5.9
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  4
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  4
+Fernando Juan Lima (El Amante, Argentina) –  4
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -  5
+Sara Brito (Público, España) - 6
+Scott Foundas (Film Comment, U.S.) -  8
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) - 7.9
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  6.5
+Pablo O. Scholz (Clarín, Argentina) –  6
+Nando Salva (El Periódico, España) - 4
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) – 5.50
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  3
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  4.5
+Alejandro G. Calvo (SensaCine, España) -  7
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  7
 Peter Bradshaw (Guardian, UK) 4
 Raffi Asdourian (The Film Stage, USA) 9 A
  Ioncinema:
@@ -733,49 +733,49 @@ Chase Whale (Gordon and the Whale, USA) 10 A+
 Joshua Brunsting (Gordon and the Whale, USA) 9 A
 
 “Ichimei / Hara-kiri”, de Takashi Miike (6.15) 24 votos [Competition]
-FERNANDO GANZO (Lumiere, España) –  4
-CARLOS HEREDERO (Cahiers du cinéma, España) –  7
-LUCIANO MONTEAGUDO (Página12, Argentina) – 7.50
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  7
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -
-FRANCISCO FERREIRA (Expresso, Portugal) -  2
-VIOLETA KOVACSICS (Diari de Tarragona, España) – 6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  8
-FERNANDO JUAN LIMA (El Amante, Argentina) –  8
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -  6.5
-SARA BRITO (Público, España) - 6.5
-SCOTT FOUNDAS (Film Comment, U.S.) – 9
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  4.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  5.5
-PABLO O. SCHOLZ (Clarín, Argentina) –  4
-NANDO SALVA (El Periódico, España) - 3
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -  4
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -  6.7
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) - 5
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  7.5
-ALEJANDRO G. CALVO (SensaCine, España) –  7
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -  7
+Fernando Ganzo (Lumiere, España) –  4
+Carlos Heredero (Cahiers du cinéma, España) –  7
+Luciano Monteagudo (Página12, Argentina) – 7.50
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) -
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) -
+Diego Batlle (La Nación / OtrosCines, Argentina) –  8
+Cristina Nord (Die Tageszeitung, Deutschland) –  7
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -
+Francisco Ferreira (Expresso, Portugal) -  2
+Violeta Kovacsics (Diari de Tarragona, España) – 6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  8
+Fernando Juan Lima (El Amante, Argentina) –  8
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -  6.5
+Sara Brito (Público, España) - 6.5
+Scott Foundas (Film Comment, U.S.) – 9
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  4.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  5.5
+Pablo O. Scholz (Clarín, Argentina) –  4
+Nando Salva (El Periódico, España) - 3
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -  4
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -  6.7
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) - 5
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  7.5
+Alejandro G. Calvo (SensaCine, España) –  7
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  7
 Mike d'Angelo (AV Club, USA) 5.3
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 7.5
@@ -807,21 +807,21 @@ Bo Green Jensen (Weekandavisen Berlingske, Denmark) 5
 Screen International (Screen International, USA) 5
 
 "Oslo, 31. August" Joachim Trier (4.25) 8 votos [Un Certain Regard]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  3
-FERNANDO JUAN LIMA (El Amante, Argentina) –  4
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  1
-PABLO O. SCHOLZ (Clarín, Argentina) –  5
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  4
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  3
+Fernando Juan Lima (El Amante, Argentina) –  4
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  1
+Pablo O. Scholz (Clarín, Argentina) –  5
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  4
 
 "The Beaver" Jody Foster (2.80) 5 votos [Out of Competition]
-CARLOS HEREDERO (Cahiers du cinéma, España) –  3
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  4
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  2
-SERGI SANCHEZ (La Razón, España) –  4
-ALEJANDRO G. CALVO (SensaCine, España) –   1
+Carlos Heredero (Cahiers du cinéma, España) –  3
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  4
+Violeta Kovacsics (Diari de Tarragona, España) -  2
+Sergi Sanchez (La Razón, España) –  4
+Alejandro G. Calvo (SensaCine, España) –   1
 Peter Bradshaw (Guardian, UK) 2
 Simon Reynolds (Digital Spy, UK) 4
 David Calhoun (Time Out London, UK) 4
@@ -844,115 +844,115 @@ Anne Thompson (Indiewire, USA) 7.5 B+
 Chase Whale (Gordon and the Whale) 3 C 
 
 “Loverboy”, de Catalin Mitulescu (5.18) 10 votos [Un Certain Regard]
-CARLOS HEREDERO (Cahiers du cinéma, España) –  3
-LUCIANO MONTEAGUDO (Página12, Argentina) –  5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  5
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -  4
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
-FERNANDO JUAN LIMA (El Amante, Argentina) –  5
-PABLO O. SCHOLZ (Clarín, Argentina) –  5
+Carlos Heredero (Cahiers du cinéma, España) –  3
+Luciano Monteagudo (Página12, Argentina) –  5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  6.5
+Cristina Nord (Die Tageszeitung, Deutschland) –  5
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -  4
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  6
+Fernando Juan Lima (El Amante, Argentina) –  5
+Pablo O. Scholz (Clarín, Argentina) –  5
 Mike d'Angelo (AV Club, USA) 0 walkaout
 
 "Skoonheid / Beauty" Oliver Hermanus (2.40) 5 votos [Un Certain Regard]
-KONG RITHDEE (The Bangkok Post. Thailand) –  5
-OLIVIER PERE (Les Inrockuptibles, France) –  0
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) –  3
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  3
-ALEJANDRO G. CALVO (SensaCine, España) –  1
+Kong Rithdee (The Bangkok Post. Thailand) –  5
+Olivier Pere (Les Inrockuptibles, France) –  0
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) –  3
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  3
+Alejandro G. Calvo (SensaCine, España) –  1
 Guy Lodge (InContention.com, South Africa) 7.5 B+
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
 "Tatsumi" Eric Khoo (6.59) 13 voto [Un Certain Regard]
-ERNANDO GANZO (Lumiere, España) –  5
-CARLOS HEREDERO (Cahiers du cinéma, España) –  5
-LUCIANO MONTEAGUDO (Página12, Argentina) -
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Deutschland) -
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -
-FRANCISCO FERREIRA (Expresso, Portugal) -  6.5
-VIOLETA KOVACSICS (Diari de Tarragona, España) -
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7
-OLIVIER PERE (Les Inrockuptibles, France) –  8
-EUGENIO RENZI (Independencia, France) -  5.9
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) -
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  8
-FERNANDO JUAN LIMA (El Amante, Argentina) –  6
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -
-SARA BRITO (Público, España) -
-SCOTT FOUNDAS (Film Comment, U.S.) -
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) – 7.3
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) -
-NANDO SALVA (El Periódico, España) -
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  6
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) -
-ALEJANDRO G. CALVO (SensaCine, España) –  8
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -
+Ernando Ganzo (Lumiere, España) –  5
+Carlos Heredero (Cahiers du cinéma, España) –  5
+Luciano Monteagudo (Página12, Argentina) -
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) -
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) -
+Diego Batlle (La Nación / OtrosCines, Argentina) –  8
+Cristina Nord (Die Tageszeitung, Deutschland) -
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -
+Francisco Ferreira (Expresso, Portugal) -  6.5
+Violeta Kovacsics (Diari de Tarragona, España) -
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7
+Olivier Pere (Les Inrockuptibles, France) –  8
+Eugenio Renzi (Independencia, France) -  5.9
+Luciano Barisone (Duellanti / Panoramiches, Italy) -
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  8
+Fernando Juan Lima (El Amante, Argentina) –  6
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -
+Sara Brito (Público, España) -
+Scott Foundas (Film Comment, U.S.) -
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (FAZ / Negativ, Deutschland) – 7.3
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) -
+Nando Salva (El Periódico, España) -
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) -
+Alejandro G. Calvo (SensaCine, España) –  8
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -
 
 "Hanezu No Tsuki" Naomi Kawase (6.30) 22 votos [Competition]
-FERNANDO GANZO (Lumiere, España) –  6
-CARLOS HEREDERO (Cahiers du cinéma, España) - 7
-LUCIANO MONTEAGUDO (Página12, Argentina) - 7
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) - 6
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  7.50
-CRISTINA NORD (Die Tageszeitung, Deutschland) -
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) - 6
-FRANCISCO FERREIRA (Expresso, Portugal) -
-VIOLETA KOVACSICS (Diari de Tarragona, España) – 6.5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) - 4.7
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  8
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) - 8.5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -
-FERNANDO JUAN LIMA (El Amante, Argentina) - 6
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) - 5
-SARA BRITO (Público, España) - 5
-SCOTT FOUNDAS (Film Comment, U.S.) -
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) - 4
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) - 6
-NANDO SALVA (El Periódico, España) - 4
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-PAOLO BERTOLIN (Cineforum, Italia)  –  7
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) -
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  7
-ALEJANDRO G. CALVO (SensaCine, España) - 5
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) - 10
+Fernando Ganzo (Lumiere, España) –  6
+Carlos Heredero (Cahiers du cinéma, España) - 7
+Luciano Monteagudo (Página12, Argentina) - 7
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) - 6
+Diego Batlle (La Nación / OtrosCines, Argentina) –  7.50
+Cristina Nord (Die Tageszeitung, Deutschland) -
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) - 6
+Francisco Ferreira (Expresso, Portugal) -
+Violeta Kovacsics (Diari de Tarragona, España) – 6.5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) - 4.7
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  8
+Carlo Chatrian (Duellanti / Panoramiches, Italy) - 8.5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -
+Fernando Juan Lima (El Amante, Argentina) - 6
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) - 5
+Sara Brito (Público, España) - 5
+Scott Foundas (Film Comment, U.S.) -
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) - 4
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) - 6
+Nando Salva (El Periódico, España) - 4
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Paolo Bertolin (Cineforum, Italia)  –  7
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) -
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  7
+Alejandro G. Calvo (SensaCine, España) - 5
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) - 10
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 2.5
 David Calhoun (The Out London, UK) 6.25
@@ -986,77 +986,77 @@ Joshua Brunsting (Chase and the Whale, USA) 2 C-
 Michael Giltz (The Huffington Post, USA) 3.25 1.5/4
 
 "Busong" Auraeus Solito (5.30) 5 votos [Quinzaine]
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  4.5
-PAOLO BERTOLIN (Cineforum, Italia) - 6
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  4.5
+Paolo Bertolin (Cineforum, Italia) - 6
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6
 
 "The Island" Kamen Kalev (5.50) 2 votos [Quinzaine]
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  3
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  8
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  3
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  8
 
 "Corpo celeste" Alice Rohrwacher (6.50) 2 votos [Quinzaine]
-FERNANDO GANZO (Lumiere, España) –  6
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
+Fernando Ganzo (Lumiere, España) –  6
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
 
 "O abismo prateado" Karim Aïnouz (5.91) 11 votos [Quinzaine]
-CARLOS HEREDERO (Cahiers du cinéma, España) –  6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  6
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7.5
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.5
-FERNANDO JUAN LIMA (El Amante, Argentina) –  7.50
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) – 6.5
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  2
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  6.50
+Carlos Heredero (Cahiers du cinéma, España) –  6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  6
+Diego Batlle (La Nación / OtrosCines, Argentina) – 6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7.5
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.5
+Fernando Juan Lima (El Amante, Argentina) –  7.50
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) – 6.5
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  2
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6.50
 
 "Pater" Alain Cavalier (5.77) 22 votos [Competition]
-FERNANDO GANZO (Lumiere, España) -
-CARLOS HEREDERO (Cahiers du cinéma, España) -
-LUCIANO MONTEAGUDO (Página12, Argentina) - 6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 7.50
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  7
-CRISTINA NORD (Die Tageszeitung, Deutschland) -
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -  6.5
-FRANCISCO FERREIRA (Expresso, Portugal) - 2
-VIOLETA KOVACSICS (Diari de Tarragona, España) -
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  5.50
-OLIVIER PERE (Les Inrockuptibles, France) –  6
-EUGENIO RENZI (Independencia, France) - 3
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -  8
-FERNANDO JUAN LIMA (El Amante, Argentina) –  6
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) - 5
-SARA BRITO (Público, España) -
-SCOTT FOUNDAS (Film Comment, U.S.) –  8
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) -
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  6
-PABLO O. SCHOLZ (Clarín, Argentina) - 5
-NANDO SALVA (El Periódico, España) -
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -  6.5
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -  8
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-PAOLO BERTOLIN (Cineforum, Italia)  -  5.5
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) - 6
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) – 5.50
-ALEJANDRO G. CALVO (SensaCine, España) –  5
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -  3
+Fernando Ganzo (Lumiere, España) -
+Carlos Heredero (Cahiers du cinéma, España) -
+Luciano Monteagudo (Página12, Argentina) - 6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 7.50
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) -
+Diego Batlle (La Nación / OtrosCines, Argentina) -  7
+Cristina Nord (Die Tageszeitung, Deutschland) -
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -  6.5
+Francisco Ferreira (Expresso, Portugal) - 2
+Violeta Kovacsics (Diari de Tarragona, España) -
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  5.50
+Olivier Pere (Les Inrockuptibles, France) –  6
+Eugenio Renzi (Independencia, France) - 3
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  6
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -  8
+Fernando Juan Lima (El Amante, Argentina) –  6
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) - 5
+Sara Brito (Público, España) -
+Scott Foundas (Film Comment, U.S.) –  8
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) -
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  6
+Pablo O. Scholz (Clarín, Argentina) - 5
+Nando Salva (El Periódico, España) -
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -  6.5
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -  8
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Paolo Bertolin (Cineforum, Italia)  -  5.5
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) - 6
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) – 5.50
+Alejandro G. Calvo (SensaCine, España) –  5
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  3
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 5
 David Calhoun (The Out London, UK) 
@@ -1091,71 +1091,71 @@ Simon Abrams (Freelance, USA) 2 C-
 David Calhoun (Time Out London, UK) 4
 
 "Play" Ruben Östlun (6.04) 5 votos [Quinzaine] Séance "Coup de coeur" prize 
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.9
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  7.3
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  2
+Diego Batlle (La Nación / OtrosCines, Argentina) –  8
+Cristina Nord (Die Tageszeitung, Deutschland) – 6.9
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  7.3
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  2
 Mike d'Angelo (AV Club, USA) 5.9
 
 “Impardonnables” André Techine (4.97) 11 votos [Quinzaine]
-FERNANDO GANZO (Lumiere, España) –  3.1416
-CARLOS HEREDERO (Cahiers du cinéma, España) -  5
-LUCIANO MONTEAGUDO (Página12, Argentina) –  5
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  5
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  5
-KONG RITHDEE (The Bangkok Post. Thailand) –  6
-FRANCISCO FERREIRA (Expresso, Portugal) -  3
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 6.5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  5
-FERNANDO JUAN LIMA (El Amante, Argentina) – 6
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  5
+Fernando Ganzo (Lumiere, España) –  3.1416
+Carlos Heredero (Cahiers du cinéma, España) -  5
+Luciano Monteagudo (Página12, Argentina) –  5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  5
+Cristina Nord (Die Tageszeitung, Deutschland) –  5
+Kong Rithdee (The Bangkok Post. Thailand) –  6
+Francisco Ferreira (Expresso, Portugal) -  3
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 6.5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  5
+Fernando Juan Lima (El Amante, Argentina) – 6
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  5
 Mike d'Angelo (AV Club, USA) 3.8
 
 “Le Havre” Aki Kaurismaki (8.72) 29 votos [Competition] FIPRESCI Price
-FERNANDO GANZO (Lumiere, España) - 8.8
-CARLOS HEREDERO (Cahiers du cinéma, España) – 9.9
-LUCIANO MONTEAGUDO (Página12, Argentina) - 9
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 9
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 10
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) -10
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  8
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -  7.5
-FRANCISCO FERREIRA (Expresso, Portugal) -  7
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  9
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) - 9.5
-OLIVIER PERE (Les Inrockuptibles, France) - 8
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) - 8
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) - 9
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) - 10
-FERNANDO JUAN LIMA (El Amante, Argentina) - 10
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) - 9
-SARA BRITO (Público, España) – 8.8
-SCOTT FOUNDAS (Film Comment, U.S.) -
-SERGIO WOLF (BAFICI, Argentina) - 8
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) -
-ALVARO ARROBA (La Lectora Provisoria, Argentina) - 7.9
-PABLO O. SCHOLZ (Clarín, Argentina) –  7
-NANDO SALVA (El Periódico, España) – 8
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -  8.5
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -  8
-MANU YAÑEZ (Fotogramas, España) -
-GREGORY VALENS (Positif, France) -
-PAOLO BERTOLIN (Cineforum, Italia) –  9.50
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) - 8
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) - 8.5
-ALEJANDRO G. CALVO (SensaCine, España) – 9
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) -  10
+Fernando Ganzo (Lumiere, España) - 8.8
+Carlos Heredero (Cahiers du cinéma, España) – 9.9
+Luciano Monteagudo (Página12, Argentina) - 9
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 9
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 10
+Diego Batlle (La Nación / OtrosCines, Argentina) -10
+Cristina Nord (Die Tageszeitung, Deutschland) –  8
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -  7.5
+Francisco Ferreira (Expresso, Portugal) -  7
+Violeta Kovacsics (Diari de Tarragona, España) -  9
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) - 9.5
+Olivier Pere (Les Inrockuptibles, France) - 8
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) - 8
+Carlo Chatrian (Duellanti / Panoramiches, Italy) - 9
+Jose Luis De Lorenzo (A Sala Llena, Argentina) - 10
+Fernando Juan Lima (El Amante, Argentina) - 10
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) - 9
+Sara Brito (Público, España) – 8.8
+Scott Foundas (Film Comment, U.S.) -
+Sergio Wolf (BAFICI, Argentina) - 8
+Rudiger Suchsland (WAZ / Negativ, Deutschland) -
+Alvaro Arroba (La Lectora Provisoria, Argentina) - 7.9
+Pablo O. Scholz (Clarín, Argentina) –  7
+Nando Salva (El Periódico, España) – 8
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -  8.5
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -  8
+Manu Yáñez(Fotogramas, España) -
+Gregory Valens (Positif, France) -
+Paolo Bertolin (Cineforum, Italia) –  9.50
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) - 8
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) - 8.5
+Alejandro G. Calvo (SensaCine, España) – 9
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  10
    PROMEDIO: 8.72 (29 votos) EN ASCENSO
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 5
@@ -1195,51 +1195,51 @@ Eric Kohn (Indiewire, USA) 8 A-
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4
 
 “Et maintenant, on va ou?” Nadine Labaki (3.125) 8 votos [Un Certain Regard]
-CARLOS HEREDERO (Cahiers du cinéma, España) -  2
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  5
-KONG RITHDEE (The Bangkok Post. Thailand) –  4
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  3
-FERNANDO JUAN LIMA (El Amante, Argentina) –  2
-MANU YAÑEZ (Fotogramas, España) -  2
-ALEJANDRO G. CALVO (SensaCine, España) –  2
+Carlos Heredero (Cahiers du cinéma, España) -  2
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  5
+Diego Batlle (La Nación / OtrosCines, Argentina) -  5
+Kong Rithdee (The Bangkok Post. Thailand) –  4
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  3
+Fernando Juan Lima (El Amante, Argentina) –  2
+Manu Yáñez(Fotogramas, España) -  2
+Alejandro G. Calvo (SensaCine, España) –  2
 
 "Code Blue" Urszula Antonia (5.00) 2 votos [Quinzaine]
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -  4
-FERNANDO JUAN LIMA (El Amante, Argentina) -  6
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -  4
+Fernando Juan Lima (El Amante, Argentina) -  6
 
 "Unlawful Killing" Keith Allen
 Simon Gallagher (filmschoolrejects.com, UK) 6.25 B
 Matt Holmes (Obsessedwithfilm.com, USA) 3
 
 “Hors Satan” Bruno Dumont (5.97) 26 votos [Un Certain Regard]
-FERNANDO GANZO (Lumiere, España) –  2.01
-CARLOS HEREDERO (Cahiers du cinéma, España) –  3
-LUCIANO MONTEAGUDO (Página12, Argentina) -  8
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  8
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  8
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  8
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  4.9
-KONG RITHDEE (The Bangkok Post. Thailand) –  7
-FRANCISCO FERREIRA (Expresso, Portugal) -  4
-VIOLETA KOVACSICS (Diari de Tarragona, España) –  6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
-EUGENIO RENZI (Independencia, France) -  2.4
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) -  5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  7
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  3
-FERNANDO JUAN LIMA (El Amante, Argentina) –  8
-SARA BRITO (Público, España) –  7.5
-SCOTT FOUNDAS (Film Comment, U.S.) –  8
-SERGIO WOLF (BAFICI, Argentina) –  8
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  6.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  2
-PABLO O. SCHOLZ (Clarín, Argentina) – 6
-MANU YAÑEZ (Fotogramas, España) -  7
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  7
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  8.5
-ALEJANDRO G. CALVO (SensaCine, España) -  6
+Fernando Ganzo (Lumiere, España) –  2.01
+Carlos Heredero (Cahiers du cinéma, España) –  3
+Luciano Monteagudo (Página12, Argentina) -  8
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  8
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  8
+Diego Batlle (La Nación / OtrosCines, Argentina) -  8
+Cristina Nord (Die Tageszeitung, Deutschland) –  4.9
+Kong Rithdee (The Bangkok Post. Thailand) –  7
+Francisco Ferreira (Expresso, Portugal) -  4
+Violeta Kovacsics (Diari de Tarragona, España) –  6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
+Eugenio Renzi (Independencia, France) -  2.4
+Luciano Barisone (Duellanti / Panoramiches, Italy) -  5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  7
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  3
+Fernando Juan Lima (El Amante, Argentina) –  8
+Sara Brito (Público, España) –  7.5
+Scott Foundas (Film Comment, U.S.) –  8
+Sergio Wolf (BAFICI, Argentina) –  8
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  6.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  2
+Pablo O. Scholz (Clarín, Argentina) – 6
+Manu Yáñez(Fotogramas, España) -  7
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  7
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  8.5
+Alejandro G. Calvo (SensaCine, España) -  6
 Simon Gallagher (filmschoolrejects.com, UK) 0   a pointless and pretentious exercise
 Kevin Jagernauth (Indiewire's The Playlist, USA) 1.8 D- Devilishly Dull The walkouts for “Hors Satan” started at the half hour mark and continued to be peppered through the film right up until about fifteen minutes from the end
 Mike d'Angelo (AV Club, USA) 4.4 Welcome back, the Bruno Dumont I always kind of hated. Nice fakeout with HADEWIJCH, I totally fell for it.
@@ -1249,50 +1249,50 @@ Rob Nelson (Variety, USA) 6.25 B
 Guy Lodge (InContention.com, South Africa) 1.5 D+
 
 “The Tree of Life” Terrence Malick (7.09) 30 votos [Competition] Palm d'Or
-FERNANDO GANZO (Lumiere, España) – 6.666
-CARLOS HEREDERO (Cahiers du cinéma, España) –  6.5
-LUCIANO MONTEAGUDO (Página12, Argentina) -  6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 1
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  8
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  6
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) –  7.5
-FRANCISCO FERREIRA (Expresso, Portugal) - 5.01
-VIOLETA KOVACSICS (Diari de Tarragona, España) –  7
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  10
-OLIVIER PERE (Les Inrockuptibles, France) -
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  7.5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) - 8
-FERNANDO JUAN LIMA (El Amante, Argentina) –  10
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) -  7
-SARA BRITO (Público, España) – 6.9
-SCOTT FOUNDAS (Film Comment, U.S.) –  10
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 9.2
-ALVARO ARROBA (La Lectora Provisoria, Argentina) - 4.3
-PABLO O. SCHOLZ (Clarín, Argentina) -  8
-NANDO SALVA (El Periódico, España) - 6
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) –  8
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) - 6.9
-ROBERT KOEHLER (CinemaScope, Variety. U.S.) –  3
-PAOLO BERTOLIN (Cineforum, Italia) –  8
-GREGORY VALENS (Positif, France) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  7
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  9.1
-ALEJANDRO G. CALVO (SensaCine, España) –  9
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) –  7
+Fernando Ganzo (Lumiere, España) – 6.666
+Carlos Heredero (Cahiers du cinéma, España) –  6.5
+Luciano Monteagudo (Página12, Argentina) -  6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 1
+Diego Batlle (La Nación / OtrosCines, Argentina) –  8
+Cristina Nord (Die Tageszeitung, Deutschland) –  6
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) –  7.5
+Francisco Ferreira (Expresso, Portugal) - 5.01
+Violeta Kovacsics (Diari de Tarragona, España) –  7
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  10
+Olivier Pere (Les Inrockuptibles, France) -
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  7.5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) - 8
+Fernando Juan Lima (El Amante, Argentina) –  10
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) -  7
+Sara Brito (Público, España) – 6.9
+Scott Foundas (Film Comment, U.S.) –  10
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 9.2
+Alvaro Arroba (La Lectora Provisoria, Argentina) - 4.3
+Pablo O. Scholz (Clarín, Argentina) -  8
+Nando Salva (El Periódico, España) - 6
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) –  8
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) - 6.9
+Robert Koehler (CinemaScope, Variety. U.S.) –  3
+Paolo Bertolin (Cineforum, Italia) –  8
+Gregory Valens (Positif, France) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  7
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  9.1
+Alejandro G. Calvo (SensaCine, España) –  9
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) –  7
   PROMEDIO: 7.41 (23 votos) EN ASCENSO
 Mike d'Angelo (AV Club, USA) 7 Was blown away so long as it kept speeding through time & space. A lesser thing once it settles in the '50s.
 Peter Bradshaw (Guardian, UK) 10
@@ -1342,49 +1342,49 @@ Jonathan Rosenbaum (Chicago Reader, USA) 4 C+
 Chase Whale (Gordon and the Whale, USA) 2 C-
 
 “L'Apollonide” Bertrand Bonello (6.10) 22 votos [Competition]
-FERNANDO GANZO (Lumiere, España) - 9
-CARLOS HEREDERO (Cahiers du cinéma, España) - 3
-LUCIANO MONTEAGUDO (Página12, Argentina) - 5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) -
-MARK PERANSON (Cinema Scope, Canada) -
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) -
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) -  8
-CRISTINA NORD (Die Tageszeitung, Deutschland) -
-MARKUS KEUSCHNIGG (Die Presse, Austria) -
-KONG RITHDEE (The Bangkok Post. Thailand) -  6.5
-FRANCISCO FERREIRA (Expresso, Portugal) - 9
-VIOLETA KOVACSICS (Diari de Tarragona, España) - 9
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  8.8
-OLIVIER PERE (Les Inrockuptibles, France) - 8
-EUGENIO RENZI (Independencia, France) -
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) - 5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) - 4
-FERNANDO JUAN LIMA (El Amante, Argentina) -
-XAVI SERRA (Ara, España) -
-ERNESTO GARRATT (El Mercurio, Chile) -
-NICK JAMES (Sight & Sound, England) -
-SERGI SANCHEZ (La Razón, España) - 4
-SARA BRITO (Público, España) - 6
-SCOTT FOUNDAS (Film Comment, USA) - 5
-SERGIO WOLF (BAFICI, Argentina) -
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) -
-ALVARO ARROBA (La Lectora Provisoria, Argentina) -
-PABLO O. SCHOLZ (Clarín, Argentina) - 0
-NANDO SALVA (El Periódico, España) - 4
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) -  9
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy) -
-PAMELA BIENZOBAS (Mabuse, Chile) -
-MANU YAÑEZ (Fotogramas, España) - 8
-GREGORY VALENS (Positif, France) -
-CHRISTOPH HUBER (Die Presse, Austria) -
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) -
-BELINDA VAN DE GRAAF (Trouw, Holanda) -
-ARTHUR MAS (Independencia, France) -
-MARTIAL PISANI (Independencia, France) -
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  9
-ALEJANDRO G. CALVO (SensaCine, España) - 8
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) - 1
+Fernando Ganzo (Lumiere, España) - 9
+Carlos Heredero (Cahiers du cinéma, España) - 3
+Luciano Monteagudo (Página12, Argentina) - 5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) -
+Mark Peranson (Cinema Scope, Canada) -
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) -
+Diego Batlle (La Nación / OtrosCines, Argentina) -  8
+Cristina Nord (Die Tageszeitung, Deutschland) -
+Markus Keuschnigg (Die Presse, Austria) -
+Kong Rithdee (The Bangkok Post. Thailand) -  6.5
+Francisco Ferreira (Expresso, Portugal) - 9
+Violeta Kovacsics (Diari de Tarragona, España) - 9
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  8.8
+Olivier Pere (Les Inrockuptibles, France) - 8
+Eugenio Renzi (Independencia, France) -
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) - 5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) - 4
+Fernando Juan Lima (El Amante, Argentina) -
+Xavi Serra (Ara, España) -
+Ernesto Garratt (El Mercurio, Chile) -
+Nick James (Sight & Sound, England) -
+Sergi Sanchez (La Razón, España) - 4
+Sara Brito (Público, España) - 6
+Scott Foundas (Film Comment, USA) - 5
+Sergio Wolf (BAFICI, Argentina) -
+Rudiger Suchsland (WAZ / Negativ, Deutschland) -
+Alvaro Arroba (La Lectora Provisoria, Argentina) -
+Pablo O. Scholz (Clarín, Argentina) - 0
+Nando Salva (El Periódico, España) - 4
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) -  9
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy) -
+Pamela Bienzobas (Mabuse, Chile) -
+Manu Yáñez(Fotogramas, España) - 8
+Gregory Valens (Positif, France) -
+Christoph Huber (Die Presse, Austria) -
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) -
+Belinda Van De Graaf (Trouw, Holanda) -
+Arthur Mas (Independencia, France) -
+Martial Pisani (Independencia, France) -
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  9
+Alejandro G. Calvo (SensaCine, España) - 8
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) - 1
 Mike d'Angelo (AV Club, USA) 6.9
  Screen Daily:
 Nick James (Sight & Sound, UK) 1
@@ -1434,36 +1434,36 @@ Chris Bumbray (JoBlo.com/DVD Clinic, USA) 9 (Sundance)
 Jordan Raup (TheFilmstage, USA) 8.5 A- (Sundance)
 Chase Whale (Gordon and the Whale, USA) 10 Sundance
 Blake (Bitchin Film Reviews, USA) 8.5 Sundance
-CARLOS HEREDERO (Cahiers du cinéma, España) -  7
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  6.50
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  8
-OLIVIER PERE (Les Inrockuptibles, France) –  8
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -  7.5
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  6
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  7
+Carlos Heredero (Cahiers du cinéma, España) -  7
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  7
+Cristina Nord (Die Tageszeitung, Deutschland) –  6.50
+Violeta Kovacsics (Diari de Tarragona, España) -  6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  8
+Olivier Pere (Les Inrockuptibles, France) –  8
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  6
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -  7.5
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  7
 Mike d'Angelo (AV Club, USA) 5.9
 Paul Martin (Indies Movies Online, USA) 6
 
 “Duch, Master of the Forges of Hell” Rithy Panh (8.13) 13 votos [Special Screenings]
-FERNANDO GANZO (Lumiere, España) –  8
-CARLOS HEREDERO (Cahiers du cinéma, España) -  8.5
-LUCIANO MONTEAGUDO (Página12, Argentina) –  9
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  6.3
-KONG RITHDEE (The Bangkok Post. Thailand) -  6
-FRANCISCO FERREIRA (Expresso, Portugal) – 10
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  7
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  8.4
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  9
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) -  9
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  9.5
-PABLO O. SCHOLZ (Clarín, Argentina) –  7
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  8
+Fernando Ganzo (Lumiere, España) –  8
+Carlos Heredero (Cahiers du cinéma, España) -  8.5
+Luciano Monteagudo (Página12, Argentina) –  9
+Cristina Nord (Die Tageszeitung, Deutschland) –  6.3
+Kong Rithdee (The Bangkok Post. Thailand) -  6
+Francisco Ferreira (Expresso, Portugal) – 10
+Violeta Kovacsics (Diari de Tarragona, España) -  7
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  8.4
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  9
+Carlo Chatrian (Duellanti / Panoramiches, Italy) -  9
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  9.5
+Pablo O. Scholz (Clarín, Argentina) –  7
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  8
 
 "Martha Marcy May Marlene" Sean Durkin (6.07) 13 votos [Un Certain Regard] (Sundance)
-IMDB (79 votes) 7.6
+Imdb (79 votes) 7.6
 Kate Erbland (Gordon and the Whale, USA) 9 Sundance
 Raffi Asdourian (The Film Stage, USA) 8 A- Sundance
 Alan Bacchus (Daily Film Dose, USA) 9 Sundance
@@ -1476,19 +1476,19 @@ Edward Douglas (ComingSoon.net, USA) 9 (Sundance)
 Chris Bumbray (JoBlo.com/DVD Clinic, USA) 9 (Sundance)
 Amanda Mae Meyncke (Film.com, USA) 8.5 A- (Sundance)
 Mike d'Angelo (AV Club, USA) 8.2
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  7
-KONG RITHDEE (The Bangkok Post. Thailand) -  7.5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  5.9
-OLIVIER PERE (Les Inrockuptibles, France) –  7
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
-FERNANDO JUAN LIMA (El Amante, Argentina) -  6.5
-SERGI SANCHEZ (La Razón, España) -  7
-SCOTT FOUNDAS (Film Comment, USA) –  6
-NANDO SALVA (El Periódico, España) –  7
-PAMELA BIENZOBAS (Mabuse, Chile) –  6
-MANU YAÑEZ (Fotogramas, España) -  5
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  3
-ALEJANDRO G. CALVO (SensaCine, España) –  5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  7
+Kong Rithdee (The Bangkok Post. Thailand) -  7.5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  5.9
+Olivier Pere (Les Inrockuptibles, France) –  7
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  6
+Fernando Juan Lima (El Amante, Argentina) -  6.5
+Sergi Sanchez (La Razón, España) -  7
+Scott Foundas (Film Comment, USA) –  6
+Nando Salva (El Periódico, España) –  7
+Pamela Bienzobas (Mabuse, Chile) –  6
+Manu Yáñez(Fotogramas, España) -  5
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  3
+Alejandro G. Calvo (SensaCine, España) –  5
 Simon Reynolds (Digital Spy, UK) 6
 Christopher Campbell (Spout, USA) 8 A- 
 Edward Douglas (Comingsoon.net, USA) 9 A 
@@ -1511,72 +1511,72 @@ Kyle Smith (New York Post, USA) 8 A-
 Kim Voynar (Movie City News, USA) 9 A 
 
 "Walk Away Renée" Jonathan Caouette (5.08) 6 votos [Semaine]
-FERNANDO GANZO (Lumiere, España) –  4
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.5
-SERGIO WOLF (BAFICI, Argentina) -  3
-PAMELA BIENZOBAS (Mabuse, Chile) –  6
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  5
+Fernando Ganzo (Lumiere, España) –  4
+Cristina Nord (Die Tageszeitung, Deutschland) –  6
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.5
+Sergio Wolf (BAFICI, Argentina) -  3
+Pamela Bienzobas (Mabuse, Chile) –  6
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  5
 Eric Kohn (Indiewire, USA) 6.25 B
 
 “Halt auf freier Strecke / Stopped on Tracks” Andreas Dresen (5.63) 9 votos [Un Certain Regard] Main Price UCR
-CARLOS HEREDERO (Cahiers du cinéma, España) -  7
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 6.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  5
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.5
-KONG RITHDEE (The Bangkok Post. Thailand) -  6
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) -  7
-FERNANDO JUAN LIMA (El Amante, Argentina) -  4
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  2.7
-PABLO O. SCHOLZ (Clarín, Argentina) –  6
+Carlos Heredero (Cahiers du cinéma, España) -  7
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 6.5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  5
+Cristina Nord (Die Tageszeitung, Deutschland) – 6.5
+Kong Rithdee (The Bangkok Post. Thailand) -  6
+Jose Luis De Lorenzo (A Sala Llena, Argentina) -  7
+Fernando Juan Lima (El Amante, Argentina) -  4
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  2.7
+Pablo O. Scholz (Clarín, Argentina) –  6
 Sukhdev Sandhu (Telegraph, UK) 8
 
 "The Artist" Michel Hazanaviciu  (5.66) 19 votos [Competition]
 Mike d'Angelo (AV Club, USA) 5.2 Depicting the end of the silent era *as* a silent film is an inspired idea. Film itself is less inspired.
 Matt Holmes (Obsessedwithfilm.com, USA) 9
-FERNANDO GANZO (Lumiere, España) 6.5
-CARLOS HEREDERO (Cahiers du cinéma, España) 4.5
-LUCIANO MONTEAGUDO (Página12, Argentina)
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  6.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 6
-CRISTINA NORD (Die Tageszeitung, Deutschland)
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 5
-FRANCISCO FERREIRA (Expresso, Portugal) 2
-VIOLETA KOVACSICS (Diari de Tarragona, España) 5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 5
-OLIVIER PERE (Locarno Film Festival, Switzerland) 6
-EUGENIO RENZI (Independencia, France)
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina)
-FERNANDO JUAN LIMA (El Amante, Argentina)
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) –  7
-SERGI SANCHEZ (La Razón, España) –  8
-SARA BRITO (Público, España) 4.5
-SCOTT FOUNDAS (Film Comment, USA)
-SERGIO WOLF (BAFICI, Argentina) 5
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland)
-ALVARO ARROBA (La Lectora Provisoria, Argentina)
-PABLO O. SCHOLZ (Clarín, Argentina) 6
-NANDO SALVA (El Periódico, España) 6
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 5
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) 6
-MANU YAÑEZ (Fotogramas, España)
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda)
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España)
-ALEJANDRO G. CALVO (SensaCine, España)
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 7
+Fernando Ganzo (Lumiere, España) 6.5
+Carlos Heredero (Cahiers du cinéma, España) 4.5
+Luciano Monteagudo (Página12, Argentina)
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina)
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  6.5
+Diego Batlle (La Nación / OtrosCines, Argentina) 6
+Cristina Nord (Die Tageszeitung, Deutschland)
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 5
+Francisco Ferreira (Expresso, Portugal) 2
+Violeta Kovacsics (Diari de Tarragona, España) 5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 5
+Olivier Pere (Locarno Film Festival, Switzerland) 6
+Eugenio Renzi (Independencia, France)
+Luciano Barisone (Duellanti / Panoramiches, Italy) 6
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina)
+Fernando Juan Lima (El Amante, Argentina)
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) –  7
+Sergi Sanchez (La Razón, España) –  8
+Sara Brito (Público, España) 4.5
+Scott Foundas (Film Comment, USA)
+Sergio Wolf (BAFICI, Argentina) 5
+Rudiger Suchsland (WAZ / Negativ, Deutschland)
+Alvaro Arroba (La Lectora Provisoria, Argentina)
+Pablo O. Scholz (Clarín, Argentina) 6
+Nando Salva (El Periódico, España) 6
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 5
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) 6
+Manu Yáñez(Fotogramas, España)
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda)
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España)
+Alejandro G. Calvo (SensaCine, España)
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 7
   PROMEDIO: 5.91 (17 votos) EN DESCENSO
 David Calhoun (Time Out London, UK) 8
 Simon Gallagher (filmschoolrejects.com, UK) 10 A+
@@ -1620,49 +1620,49 @@ Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 Eric Kohn (Indiewire, USA) 7.5 B+
 
 “Le gamin au vélo” Jean-Pierre et Luc Dardenne (7.86) 31 votos [Competition] Grand prix
-FERNANDO GANZO (Lumiere, España)
-CARLOS HEREDERO (Cahiers du cinéma, España) 7.5
-LUCIANO MONTEAGUDO (Página12, Argentina) –  8
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 8
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  8
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 8
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 6.8
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) –  7
-FRANCISCO FERREIRA (Expresso, Portugal) 7
-VIOLETA KOVACSICS (Diari de Tarragona, España) 8
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  7.8
-OLIVIER PERE (Locarno Film Festival, Switzerland) 8.5
-EUGENIO RENZI (Independencia, France) – 7.1
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  8
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 8
-FERNANDO JUAN LIMA (El Amante, Argentina) –  7
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) –  8
-SERGI SANCHEZ (La Razón, España) –  9
-SARA BRITO (Público, España) 9
-SCOTT FOUNDAS (Film Comment, USA) –  10
-SERGIO WOLF (BAFICI, Argentina) 8
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 8.1
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  7
-PABLO O. SCHOLZ (Clarín, Argentina) 7
-NANDO SALVA (El Periódico, España) –  8
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) –  8
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile)
-MANU YAÑEZ (Fotogramas, España) 8.50
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) 8
-BELINDA VAN DE GRAAF (Trouw, Holanda)
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  7.5
-ALEJANDRO G. CALVO (SensaCine, España) –   8
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 8
+Fernando Ganzo (Lumiere, España)
+Carlos Heredero (Cahiers du cinéma, España) 7.5
+Luciano Monteagudo (Página12, Argentina) –  8
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 8
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  8
+Diego Batlle (La Nación / OtrosCines, Argentina) – 8
+Cristina Nord (Die Tageszeitung, Deutschland) – 6.8
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) –  7
+Francisco Ferreira (Expresso, Portugal) 7
+Violeta Kovacsics (Diari de Tarragona, España) 8
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7.8
+Olivier Pere (Locarno Film Festival, Switzerland) 8.5
+Eugenio Renzi (Independencia, France) – 7.1
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  8
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 8
+Fernando Juan Lima (El Amante, Argentina) –  7
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) –  8
+Sergi Sanchez (La Razón, España) –  9
+Sara Brito (Público, España) 9
+Scott Foundas (Film Comment, USA) –  10
+Sergio Wolf (BAFICI, Argentina) 8
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 8.1
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  7
+Pablo O. Scholz (Clarín, Argentina) 7
+Nando Salva (El Periódico, España) –  8
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) –  8
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile)
+Manu Yáñez(Fotogramas, España) 8.50
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) 8
+Belinda Van De Graaf (Trouw, Holanda)
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  7.5
+Alejandro G. Calvo (SensaCine, España) –   8
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 8
 Mike d'Angelo (AV Club, USA) 6.4
 Kevin Jagernauth (Indiewire's The Playlist, USA) 7.5 B+
  Screen Daily:
@@ -1702,58 +1702,58 @@ Michael Giltz (The Huffington Post, USA) 8 A-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 7.5 B+
 
 "Bonsaï" Cristián Jiménez (5.00) 5 votos [Un Certain Regard]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  3
-FERNANDO JUAN LIMA (El Amante, Argentina) –  4
-PAMELA BIENZOBAS (Mabuse, Chile) –  7.5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  3
+Fernando Juan Lima (El Amante, Argentina) –  4
+Pamela Bienzobas (Mabuse, Chile) –  7.5
 #Mike d'Angelo (AV Club, USA) 0
 Michael Giltz (The Huffington Post, USA) 5 2/4
 
 “Porfirio” Alejandro Landes (6.50) 4 votos [Quinzaine]
-CARLOS HEREDERO (Cahiers du cinéma, España) –  6.5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.5
+Carlos Heredero (Cahiers du cinéma, España) –  6.5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.5
 Blake Williams (Ioncinema.com, Canada) 7
 
 “17 filles” Delphine & Muriel Coulin (6.02) 6 votos [Semaine]
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  7
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) -  7.3
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  5
+Diego Batlle (La Nación / OtrosCines, Argentina) –  7
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6
+Rudiger Suchsland (FAZ / Negativ, Deutschland) -  7.3
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
 “La Fin du silence” Roland Edzar (3.75) 4 votos [Quinzaine]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  3
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  5
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) – 1
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) – 6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  3
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  5
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) – 1
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) – 6
 ?? (Outnow, CH) 5
 Michael Giltz (The Huffington Post, USA) 5 B- 2/4
 
 “Les neiges du Kilimandjaro” Robert Guediguian (4.36) 7 votos [Un Certain Regard]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) –  4.5
-FRANCISCO FERREIRA (Expresso, Portugal) –  0
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  3.5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  6.5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  7
-FERNANDO JUAN LIMA (El Amante, Argentina) –  4
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  4.5
+Francisco Ferreira (Expresso, Portugal) –  0
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  3.5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  7
+Fernando Juan Lima (El Amante, Argentina) –  4
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  5
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 
 “Wu Xia” Peter Ho Sun-Chan (5.78) 9 votos
-FERNANDO GANZO (Lumiere, España) –  3
-KONG RITHDEE (The Bangkok Post. Thailand) –  5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  7
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) –  6
-FERNANDO JUAN LIMA (El Amante, Argentina) –  7
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) –  7
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  4
-ALEJANDRO G. CALVO (SensaCine, España) –  7
+Fernando Ganzo (Lumiere, España) –  3
+Kong Rithdee (The Bangkok Post. Thailand) –  5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  7
+Jose Luis De Lorenzo (A Sala Llena, Argentina) –  6
+Fernando Juan Lima (El Amante, Argentina) –  7
+Rudiger Suchsland (WAZ / Negativ, Deutschland) –  7
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  4
+Alejandro G. Calvo (SensaCine, España) –  7
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 #Alex Billington (Firstshowing, USA) 9
 Raffi Asdourian (The Film Stage, USA) 7.5 B+
@@ -1762,49 +1762,49 @@ Joshua Brunsting (Chase and the Whale, USA) 6.25 B
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4 (5 B-)
 
 “Michael” Markus Schleinzer (4.58) 25 votos [Competition]
-FERNANDO GANZO (Lumiere, España) –  2
-CARLOS HEREDERO (Cahiers du cinéma, España) 4
-LUCIANO MONTEAGUDO (Página12, Argentina) –  7
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) –  6
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) –  6
-CRISTINA NORD (Die Tageszeitung, Deutschland) –  5.8
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) –  6.5
-FRANCISCO FERREIRA (Expresso, Portugal) 0
-VIOLETA KOVACSICS (Diari de Tarragona, España) 6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France) –  0
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) –  1
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) –  4
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina)
-FERNANDO JUAN LIMA (El Amante, Argentina)
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) –  7
-SERGI SANCHEZ (La Razón, España) –  4
-SARA BRITO (Público, España) 6.8
-SCOTT FOUNDAS (Film Comment, USA) –  9
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7.8
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  0
-PABLO O. SCHOLZ (Clarín, Argentina)  -  8
-NANDO SALVA (El Periódico, España) –  2
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) –  3
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile)
-MANU YAÑEZ (Fotogramas, España)
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda)
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) –  6
-ALEJANDRO G. CALVO (SensaCine, España) –  3
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 5
+Fernando Ganzo (Lumiere, España) –  2
+Carlos Heredero (Cahiers du cinéma, España) 4
+Luciano Monteagudo (Página12, Argentina) –  7
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina)
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  6
+Diego Batlle (La Nación / OtrosCines, Argentina) –  6
+Cristina Nord (Die Tageszeitung, Deutschland) –  5.8
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) –  6.5
+Francisco Ferreira (Expresso, Portugal) 0
+Violeta Kovacsics (Diari de Tarragona, España) 6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France) –  0
+Luciano Barisone (Duellanti / Panoramiches, Italy) –  1
+Carlo Chatrian (Duellanti / Panoramiches, Italy) –  4
+Jose Luis De Lorenzo (A Sala Llena, Argentina)
+Fernando Juan Lima (El Amante, Argentina)
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) –  7
+Sergi Sanchez (La Razón, España) –  4
+Sara Brito (Público, España) 6.8
+Scott Foundas (Film Comment, USA) –  9
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 7.8
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  0
+Pablo O. Scholz (Clarín, Argentina)  -  8
+Nando Salva (El Periódico, España) –  2
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) –  3
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile)
+Manu Yáñez(Fotogramas, España)
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda)
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6
+Alejandro G. Calvo (SensaCine, España) –  3
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 5
   PROMEDIO: 4.54 (23 votos) EN ASCENSO
  Screen Daily:
 Nick James (Sight & Sound, UK) 7.5
@@ -1842,32 +1842,32 @@ Jon Frosch (France 24, USA) 6.25 B
 Michael Giltz (The Huffington Post, USA) 7.5 B+ 3/4
 
 "Bé Omid É Didar / Goodbye" Mohammad Rasoulof (6.68) 17 votos [Un Certain Regard] Best Director UCR
-CARLOS HEREDERO (Cahiers du cinéma, España) 8
-LUCIANO MONTEAGUDO (Página12, Argentina) 7
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 6.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
-CRISTINA NORD (Die Tageszeitung, Deutschland) 7
-KONG RITHDEE (The Bangkok Post. Thailand) –  7
-VIOLETA KOVACSICS (Diari de Tarragona, España) -  7
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  6
-FERNANDO JUAN LIMA (El Amante, Argentina) -  6.5
-SERGI SANCHEZ (La Razón, España) 7
-SARA BRITO (Público, España) 8
-SCOTT FOUNDAS (Film Comment, USA) –  5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  7
-PABLO O. SCHOLZ (Clarín, Argentina) 7
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) –  6.5
-PAMELA BIENZOBAS (Mabuse, Chile) –  5.5
-ALEJANDRO G. CALVO (SensaCine, España) –  6
+Carlos Heredero (Cahiers du cinéma, España) 8
+Luciano Monteagudo (Página12, Argentina) 7
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 6.5
+Diego Batlle (La Nación / OtrosCines, Argentina) 7
+Cristina Nord (Die Tageszeitung, Deutschland) 7
+Kong Rithdee (The Bangkok Post. Thailand) –  7
+Violeta Kovacsics (Diari de Tarragona, España) -  7
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
+Fernando Juan Lima (El Amante, Argentina) -  6.5
+Sergi Sanchez (La Razón, España) 7
+Sara Brito (Público, España) 8
+Scott Foundas (Film Comment, USA) –  5
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  7
+Pablo O. Scholz (Clarín, Argentina) 7
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) –  6.5
+Pamela Bienzobas (Mabuse, Chile) –  5.5
+Alejandro G. Calvo (SensaCine, España) –  6
 Eric Kohn (Indiewire, USA) 8 A-
 
 “Pirates of the Caribbean: On Stranger Tides” Rob Marshall (4.32) 6 votos [Special Screenings]
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 4
-SERGI SANCHEZ (La Razón, España) 3
-SARA BRITO (Público, España) 4
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 6.9
-ALEJANDRO G. CALVO (SensaCine, España) 1
+Diego Batlle (La Nación / OtrosCines, Argentina) 7
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 4
+Sergi Sanchez (La Razón, España) 3
+Sara Brito (Público, España) 4
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 6.9
+Alejandro G. Calvo (SensaCine, España) 1
 David Calhoun (Time Out London, UK) 2
 Matt Holmes (Obsessedwithfilm.com, USA) 2
 Simon Gallagher (filmschoolrejects.com, UK) 3 C
@@ -1876,58 +1876,58 @@ Simon Reynolds (Digital Spy, UK) 6
 Anne Thompson (Indiewire, USA) 5 B-
 
 “Tous au Lazarc” Christian Rouaud (4.66) 3 votos [Special Screenings]
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 5
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) 4
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 5
+Luciano Barisone (Duellanti / Panoramiches, Italy) 5
+Carlo Chatrian (Duellanti / Panoramiches, Italy) 4
 
 “Eldfjall” Rúnar Rúnarsson [Quinzaine]
-ARTHUR MAS (Independencia, France) -  5.50
+Arthur Mas (Independencia, France) -  5.50
 
 “Hearat Shulayim / Footnote” Joseph Cedar (5,21) 29 votos [Competition] Best Screenplay
 Mike d'Angelo (AV Club, USA) 5.6
-FERNANDO GANZO (Lumiere, España) 5
-CARLOS HEREDERO (Cahiers du cinéma, España) 5
-LUCIANO MONTEAGUDO (Página12, Argentina) 4
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 6
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España)
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 5.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) 6.5
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 6
-FRANCISCO FERREIRA (Expresso, Portugal) 0
-VIOLETA KOVACSICS (Diari de Tarragona, España) 5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 7.5
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France) 4.8
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 6
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 7
-FERNANDO JUAN LIMA (El Amante, Argentina) 5.5
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) 4
-SERGI SANCHEZ (La Razón, España) 6.5
-SARA BRITO (Público, España)
-SCOTT FOUNDAS (Film Comment, USA) 7
-SERGIO WOLF (BAFICI, Argentina) 3
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 7
-PABLO O. SCHOLZ (Clarín, Argentina) 5
-NANDO SALVA (El Periódico, España) 6.5
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 2
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) 4.25
-MANU YAÑEZ (Fotogramas, España) 5
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda) 4
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 6.5
-ALEJANDRO G. CALVO (SensaCine, España) 5
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 4
+Fernando Ganzo (Lumiere, España) 5
+Carlos Heredero (Cahiers du cinéma, España) 5
+Luciano Monteagudo (Página12, Argentina) 4
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 6
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España)
+Diego Batlle (La Nación / OtrosCines, Argentina) 5.5
+Cristina Nord (Die Tageszeitung, Deutschland) 6.5
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 6
+Francisco Ferreira (Expresso, Portugal) 0
+Violeta Kovacsics (Diari de Tarragona, España) 5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 7.5
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France) 4.8
+Luciano Barisone (Duellanti / Panoramiches, Italy) 6
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 7
+Fernando Juan Lima (El Amante, Argentina) 5.5
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) 4
+Sergi Sanchez (La Razón, España) 6.5
+Sara Brito (Público, España)
+Scott Foundas (Film Comment, USA) 7
+Sergio Wolf (BAFICI, Argentina) 3
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 7.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) 7
+Pablo O. Scholz (Clarín, Argentina) 5
+Nando Salva (El Periódico, España) 6.5
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 2
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) 4.25
+Manu Yáñez(Fotogramas, España) 5
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda) 4
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 6.5
+Alejandro G. Calvo (SensaCine, España) 5
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 4
   PROMEDIO: 5.21 (29 votos) EN DESCENSO
 Eric Kohn (Indiewire, USA) 7.5 B+
  Screen Daily:
@@ -1967,80 +1967,80 @@ Peter Howell (The Toronto Star, USA) 7.5 B+
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 
 “The Slut” Hagar Ben Asher (5.17) 3 votos [Semaine]
-OLIVIER PERE (Locarno Film Festival, Switzerland) 2
-FERNANDO JUAN LIMA (El Amante, Argentina) 6.50
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7
+Olivier Pere (Locarno Film Festival, Switzerland) 2
+Fernando Juan Lima (El Amante, Argentina) 6.50
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 7
 Michael Giltz (The Huffington Post, USA) 5 2/4
 
 “Arirang” Kim Ki-duk (3.89) 14 votos [Un Certain Regard] Main Price UCR
 Mike d'Angelo (AV Club, USA) 0.7
-FERNANDO GANZO (Lumiere, España) 1
-CARLOS HEREDERO (Cahiers du cinéma, España) 0
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 3
-KONG RITHDEE (The Bangkok Post. Thailand) 4
-VIOLETA KOVACSICS (Diari de Tarragona, España) 1
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 6
-FERNANDO JUAN LIMA (El Amante, Argentina) 4
-NICK JAMES (Sight & Sound, England) – 3
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 6.5
-PABLO O. SCHOLZ (Clarín, Argentina) 4
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 5
-PAMELA BIENZOBAS (Mabuse, Chile) 3
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) 5
-BELINDA VAN DE GRAAF (Trouw, Holanda) 9
+Fernando Ganzo (Lumiere, España) 1
+Carlos Heredero (Cahiers du cinéma, España) 0
+Diego Batlle (La Nación / OtrosCines, Argentina) 3
+Kong Rithdee (The Bangkok Post. Thailand) 4
+Violeta Kovacsics (Diari de Tarragona, España) 1
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 6
+Fernando Juan Lima (El Amante, Argentina) 4
+Nick James (Sight & Sound, England) – 3
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 6.5
+Pablo O. Scholz (Clarín, Argentina) 4
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 5
+Pamela Bienzobas (Mabuse, Chile) 3
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) 5
+Belinda Van De Graaf (Trouw, Holanda) 9
 Eric Kohn (Indiewire, USA) 8 A-
 Raffi Asdourian (The Film Stage, USA) 4 C+
 
 “Toomelah” Ivan Sen (3.00) 3 votos [Un Certain Regard]
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 3
-FERNANDO JUAN LIMA (El Amante, Argentina) 3
-SERGIO WOLF (BAFICI, Argentina) 3
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 3
+Fernando Juan Lima (El Amante, Argentina) 3
+Sergio Wolf (BAFICI, Argentina) 3
 Guy Lodge (InContention.com, South Africa) 5 B-
 
 “Miss Bala” Gerardo Naranjo (5.68) 19 votos [Un Certain Regard]
-FERNANDO GANZO (Lumiere, España) – 6
-CARLOS HEREDERO (Cahiers du cinéma, España)
-LUCIANO MONTEAGUDO (Página12, Argentina) –  6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.50
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España)
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 2
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post, Thailand) – 7
-FRANCISCO FERREIRA (Expresso, Portugal)
-VIOLETA KOVACSICS (Diari de Tarragona, España)
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 4.9
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France)
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) – 5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) – 6
-FERNANDO JUAN LIMA (El Amante, Argentina) – 5.5
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) – 7
-SERGI SANCHEZ (La Razón, España)
-SARA BRITO (Público, España)
-SCOTT FOUNDAS (Film Comment, USA) – 6
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) 7.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) – 5.5
-PABLO O. SCHOLZ (Clarín, Argentina) – 7
-NANDO SALVA (El Periódico, España)
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil)
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile)
-MANU YAÑEZ (Fotogramas, España) 6
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) – 2
-BELINDA VAN DE GRAAF (Trouw, Holanda)
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) – 7
-ALEJANDRO G. CALVO (SensaCine, España) –  6
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand)
+Fernando Ganzo (Lumiere, España) – 6
+Carlos Heredero (Cahiers du cinéma, España)
+Luciano Monteagudo (Página12, Argentina) –  6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.50
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España)
+Diego Batlle (La Nación / OtrosCines, Argentina) – 6
+Cristina Nord (Die Tageszeitung, Deutschland) – 2
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post, Thailand) – 7
+Francisco Ferreira (Expresso, Portugal)
+Violeta Kovacsics (Diari de Tarragona, España)
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 4.9
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France)
+Luciano Barisone (Duellanti / Panoramiches, Italy) – 5
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina) – 6
+Fernando Juan Lima (El Amante, Argentina) – 5.5
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) – 7
+Sergi Sanchez (La Razón, España)
+Sara Brito (Público, España)
+Scott Foundas (Film Comment, USA) – 6
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (WAZ / Negativ, Deutschland) 7.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) – 5.5
+Pablo O. Scholz (Clarín, Argentina) – 7
+Nando Salva (El Periódico, España)
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil)
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile)
+Manu Yáñez(Fotogramas, España) 6
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) – 2
+Belinda Van De Graaf (Trouw, Holanda)
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) – 7
+Alejandro G. Calvo (SensaCine, España) –  6
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand)
   PROMEDIO: 5.66 (18 votos) EN ASCENSO
 Mike d'Angelo (AV Club, USA) 7.9
 Simon Gallagher (filmschoolrejects.com, UK) 6.25 B
@@ -2050,95 +2050,95 @@ Kevin Jagernauth (Indiewire's The Playlist, USA) 8 A-
 Raffi Asdourian (The Film Stage, USA) 7.5 B+
 
 “Jeanne Captive” Philippe Ramos (5.39) 11 votos [Quinzaine]
-FERNANDO GANZO (Lumiere, España) 2
-CARLOS HEREDERO (Cahiers du cinéma, España) 6
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 7.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
-VIOLETA KOVACSICS (Diari de Tarragona, España) 6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 5.9
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) 4
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 4.5
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 4
-ARTHUR MAS (Independencia, France) 4.9
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 7.5
+Fernando Ganzo (Lumiere, España) 2
+Carlos Heredero (Cahiers du cinéma, España) 6
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 7.5
+Diego Batlle (La Nación / OtrosCines, Argentina) 7
+Violeta Kovacsics (Diari de Tarragona, España) 6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 5.9
+Carlo Chatrian (Duellanti / Panoramiches, Italy) 4
+Alvaro Arroba (La Lectora Provisoria, Argentina) 4.5
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 4
+Arthur Mas (Independencia, France) 4.9
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 7.5
 Blake Williams (Ioncinema.com, Canada) 4
 Paul Martin (Indies Movies Online, USA) 4
 Michael Giltz (The Huffington Post, USA) 6.25 B- 2.5/4
 
 “Michel Petrucciani” Michael Radford (6.89) 7 votos [Special Screenings]
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 5.5
-KONG RITHDEE (The Bangkok Post. Thailand) 7
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) 7
-FERNANDO JUAN LIMA (El Amante, Argentina) –  8
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) –  7
-PAMELA BIENZOBAS (Mabuse, Chile) –  6.7
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 5.5
+Kong Rithdee (The Bangkok Post. Thailand) 7
+Luciano Barisone (Duellanti / Panoramiches, Italy) 7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) 7
+Fernando Juan Lima (El Amante, Argentina) –  8
+Rudiger Suchsland (FAZ / Negativ, Deutschland) –  7
+Pamela Bienzobas (Mabuse, Chile) –  6.7
 	  Indiewire:
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4 (2 C-)
 
 “The Other Side of Sleep” Rebecca Daly (3,00) 4 votos [Quinzaine]
-OLIVIER PERE (Locarno Film Festival, Switzerland) 3
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) 2
-SERGIO WOLF (BAFICI, Argentina) –  5
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) 2
+Olivier Pere (Locarno Film Festival, Switzerland) 3
+Carlo Chatrian (Duellanti / Panoramiches, Italy) 2
+Sergio Wolf (BAFICI, Argentina) –  5
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) 2
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) Memory-and-murder tale is well-shot, well-acted, Arnold-influenced ... but lacks the necessary drive of story.
 Emma Rowley (Indies Movies Online, USA) 6
 
 “Las Acacias” Pablo Giorgelli (6.86) 9 votos [Semaine] Camera d'Or, Soutien ACID/CCAS and the Prix OFAJ de la (Toute) jeune Critique
-CARLOS HEREDERO (Cahiers du cinéma, España) 6.5
-LUCIANO MONTEAGUDO (Página12, Argentina) 7
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 7
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7.5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) –  4.7
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 8
-FERNANDO JUAN LIMA (El Amante, Argentina) –  8
-PABLO O. SCHOLZ (Clarín, Argentina) 7
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) –  6
+Carlos Heredero (Cahiers du cinéma, España) 6.5
+Luciano Monteagudo (Página12, Argentina) 7
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 7
+Diego Batlle (La Nación / OtrosCines, Argentina) 7.5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4.7
+Luciano Barisone (Duellanti / Panoramiches, Italy) 8
+Fernando Juan Lima (El Amante, Argentina) –  8
+Pablo O. Scholz (Clarín, Argentina) 7
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
 
 “Habemus Papam” Nanni Moretti (6.45) 29 votos [Competition]
-FERNANDO GANZO (Lumiere, España) – 8
-CARLOS HEREDERO (Cahiers du cinéma, España) – 6
-LUCIANO MONTEAGUDO (Página12, Argentina) – 8
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) – 7.5
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 8
-CRISTINA NORD (Die Tageszeitung, Deutschland) – 7.2
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) – 6.5
-FRANCISCO FERREIRA (Expresso, Portugal)
-VIOLETA KOVACSICS (Diari de Tarragona, España) – 5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) – 9
-OLIVIER PERE (Locarno Film Festival, Switzerland) – 1
-EUGENIO RENZI (Independencia, France) – 5.1
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy)
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) – 8.5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) – 8
-FERNANDO JUAN LIMA (El Amante, Argentina) – 9
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) – 5
-SERGI SANCHEZ (La Razón, España) – 7
-SARA BRITO (Público, España) – 5.9
-SCOTT FOUNDAS (Film Comment, USA) – 7
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ / Negativ, Deutschland) – 1
-ALVARO ARROBA (La Lectora Provisoria, Argentina) – 9
-PABLO O. SCHOLZ (Clarín, Argentina) – 6
-NANDO SALVA (El Periódico, España) – 7
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) – 6
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) – 7.25
-MANU YAÑEZ (Fotogramas, España) 6
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda) – 7
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) – 6
-ALEJANDRO G. CALVO (SensaCine, España) – 3
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 7
+Fernando Ganzo (Lumiere, España) – 8
+Carlos Heredero (Cahiers du cinéma, España) – 6
+Luciano Monteagudo (Página12, Argentina) – 8
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina)
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 7.5
+Diego Batlle (La Nación / OtrosCines, Argentina) – 8
+Cristina Nord (Die Tageszeitung, Deutschland) – 7.2
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) – 6.5
+Francisco Ferreira (Expresso, Portugal)
+Violeta Kovacsics (Diari de Tarragona, España) – 5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) – 9
+Olivier Pere (Locarno Film Festival, Switzerland) – 1
+Eugenio Renzi (Independencia, France) – 5.1
+Luciano Barisone (Duellanti / Panoramiches, Italy)
+Carlo Chatrian (Duellanti / Panoramiches, Italy) – 8.5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) – 8
+Fernando Juan Lima (El Amante, Argentina) – 9
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) – 5
+Sergi Sanchez (La Razón, España) – 7
+Sara Brito (Público, España) – 5.9
+Scott Foundas (Film Comment, USA) – 7
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (WAZ / Negativ, Deutschland) – 1
+Alvaro Arroba (La Lectora Provisoria, Argentina) – 9
+Pablo O. Scholz (Clarín, Argentina) – 6
+Nando Salva (El Periódico, España) – 7
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) – 6
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) – 7.25
+Manu Yáñez(Fotogramas, España) 6
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda) – 7
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) – 6
+Alejandro G. Calvo (SensaCine, España) – 3
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 7
   PROMEDIO: 6.45 (29 votos) EN ASCENSO
 Mike d'Angelo (AV Club, USA) 6
 Simon Gallagher (filmschoolrejects.com, UK) 7.5 B+
@@ -2182,126 +2182,126 @@ Peter Howell (The Toronto Star, USA) 5 B-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 5 B-
 
 “La fée” Dominique Abel, Fiona Gordon and Bruno Romy (6.60) 2 votos [Quinzaine]
-CRISTINA NORD (Die Tageszeitung, Deutschland) 7
-ARTHUR MAS & MARTIAL PISANI (Independencia, France) 6.2
+Cristina Nord (Die Tageszeitung, Deutschland) 7
+Arthur Mas & Martial Pisani (Independencia, France) 6.2
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) Cloying too-cute cartoony comedy; from France/Belgium; I think it gave everyone in the Quinzane theater diabetes.
 Blake Williams (Ioncinema.com, Canada) 5
 Michael Giltz (The Huffington Post, USA) 7.5 3/4
 
 “Labrador” Frederikke Aspock (3.17) 3 votos  [Special Screenings]
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 4.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 1
-PABLO O. SCHOLZ (Clarín, Argentina) 4
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 4.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) 1
+Pablo O. Scholz (Clarín, Argentina) 4
 
 “Bollywood”  R. Omprakash Mehra, Jeffrey Zimbalis (2.00) 2 votos  [Special Screenings]
-FERNANDO GANZO (Lumiere, España) – 0
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) – 4
+Fernando Ganzo (Lumiere, España) – 0
+Luciano Barisone (Duellanti / Panoramiches, Italy) – 4
 Mayer Nissim (Digital Spy, UK) 6
 
 “La guerre est declarée” Valérie Donzelli (6,73) 11 votos [Semaine]
-FERNANDO GANZO (Lumiere, España) 8.5
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 7.5
-VIOLETA KOVACSICS (Diari de Tarragona, España) 5
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 7
-EUGENIO RENZI (Independencia, France) 8
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 6
-FERNANDO JUAN LIMA (El Amante, Argentina) 6
-SCOTT FOUNDAS (Film Comment, USA) 4
-ALVARO ARROBA (La Lectora Provisoria, Argentina) –  7.5
-PAMELA BIENZOBAS (Mabuse, Chile) 7.5
-ALEJANDRO G. CALVO (SensaCine, España) –  7
+Fernando Ganzo (Lumiere, España) 8.5
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 7.5
+Violeta Kovacsics (Diari de Tarragona, España) 5
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 7
+Eugenio Renzi (Independencia, France) 8
+Luciano Barisone (Duellanti / Panoramiches, Italy) 6
+Fernando Juan Lima (El Amante, Argentina) 6
+Scott Foundas (Film Comment, USA) 4
+Alvaro Arroba (La Lectora Provisoria, Argentina) –  7.5
+Pamela Bienzobas (Mabuse, Chile) 7.5
+Alejandro G. Calvo (SensaCine, España) –  7
 
 “Trabalhar cansa / Hard Labor” Marco Dutra, Juliana Rojas (6,425) 12 votos [Un Certain Regard]
-FERNANDO GANZO (Lumiere, España)
-CARLOS HEREDERO (Cahiers du cinéma, España)
-LUCIANO MONTEAGUDO (Página12, Argentina) 6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 6
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España)
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 6
-CRISTINA NORD (Die Tageszeitung, Deutschland)
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 6.5
-FRANCISCO FERREIRA (Expresso, Portugal)
-VIOLETA KOVACSICS (Diari de Tarragona, España)
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 6.1
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France)
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 7
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy) 7.5
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 7
-FERNANDO JUAN LIMA (El Amante, Argentina) 7
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England)
-SERGI SANCHEZ (La Razón, España)
-SARA BRITO (Público, España)
-SCOTT FOUNDAS (Film Comment, USA)
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (Deutschland)
-ALVARO ARROBA (La Lectora Provisoria, Argentina)
-PABLO O. SCHOLZ (Clarín, Argentina)
-NANDO SALVA (El Periódico, España)
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 6
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile)
-MANU YAÑEZ (Fotogramas, España)
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda)
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 6
-ALEJANDRO G. CALVO (SensaCine, España) 6
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand)
+Fernando Ganzo (Lumiere, España)
+Carlos Heredero (Cahiers du cinéma, España)
+Luciano Monteagudo (Página12, Argentina) 6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 6
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España)
+Diego Batlle (La Nación / OtrosCines, Argentina) 6
+Cristina Nord (Die Tageszeitung, Deutschland)
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 6.5
+Francisco Ferreira (Expresso, Portugal)
+Violeta Kovacsics (Diari de Tarragona, España)
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 6.1
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France)
+Luciano Barisone (Duellanti / Panoramiches, Italy) 7
+Carlo Chatrian (Duellanti / Panoramiches, Italy) 7.5
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 7
+Fernando Juan Lima (El Amante, Argentina) 7
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England)
+Sergi Sanchez (La Razón, España)
+Sara Brito (Público, España)
+Scott Foundas (Film Comment, USA)
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (Deutschland)
+Alvaro Arroba (La Lectora Provisoria, Argentina)
+Pablo O. Scholz (Clarín, Argentina)
+Nando Salva (El Periódico, España)
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 6
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile)
+Manu Yáñez(Fotogramas, España)
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda)
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 6
+Alejandro G. Calvo (SensaCine, España) 6
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand)
   PROMEDIO: 6,425 (12 votos)
 Paul Martin (Indies Movies Online, USA) 8
 
 “Polisse” Maiwenn Le Besco (2,95) 28 votos [Competition] Special Jury Price
-FERNANDO GANZO (Lumiere, España) 0
-CARLOS HEREDERO (Cahiers du cinéma, España) 5
-LUCIANO MONTEAGUDO (Página12, Argentina) 1
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 3
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 4
-CRISTINA NORD (Die Tageszeitung, Deutschland) 3
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 5
-FRANCISCO FERREIRA (Expresso, Portugal) 0
-VIOLETA KOVACSICS (Diari de Tarragona, España) 2
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 3
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France) 2.7
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 4
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 1
-FERNANDO JUAN LIMA (El Amante, Argentina) 2
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) 4
-SERGI SANCHEZ (La Razón, España) 0
-SARA BRITO (Público, España) 1
-SCOTT FOUNDAS (Film Comment, USA) 0
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (WAZ, Negativ, Deutschland) 1
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 0
-PABLO O. SCHOLZ (Clarín, Argentina) 4
-NANDO SALVA (El Periódico, España) 0
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 4
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile)
-MANU YAÑEZ (Fotogramas, España) 6
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda) 8
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 7
-ALEJANDRO G. CALVO (SensaCine, España) 6
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 5
+Fernando Ganzo (Lumiere, España) 0
+Carlos Heredero (Cahiers du cinéma, España) 5
+Luciano Monteagudo (Página12, Argentina) 1
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina)
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 3
+Diego Batlle (La Nación / OtrosCines, Argentina) 4
+Cristina Nord (Die Tageszeitung, Deutschland) 3
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 5
+Francisco Ferreira (Expresso, Portugal) 0
+Violeta Kovacsics (Diari de Tarragona, España) 2
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 3
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France) 2.7
+Luciano Barisone (Duellanti / Panoramiches, Italy) 4
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 1
+Fernando Juan Lima (El Amante, Argentina) 2
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) 4
+Sergi Sanchez (La Razón, España) 0
+Sara Brito (Público, España) 1
+Scott Foundas (Film Comment, USA) 0
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (WAZ, Negativ, Deutschland) 1
+Alvaro Arroba (La Lectora Provisoria, Argentina) 0
+Pablo O. Scholz (Clarín, Argentina) 4
+Nando Salva (El Periódico, España) 0
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 4
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile)
+Manu Yáñez(Fotogramas, España) 6
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda) 8
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 7
+Alejandro G. Calvo (SensaCine, España) 6
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 5
   PROMEDIO: 2.95 (28 votos) EN ASCENSO
  Screen Daily:
 Nick James (Sight & Sound, UK) 5
@@ -2343,49 +2343,49 @@ Peter Howell (The Toronto Star, USA) 4 C+
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 
 “Restless” Gus Van Sant (6.84) 27 votos [Un Certain Regard]
-FERNANDO GANZO (Lumiere, España) 8
-CARLOS HEREDERO (Cahiers du cinéma, España) 8
-LUCIANO MONTEAGUDO (Página12, Argentina) 7
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 7.5
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 6
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 7
-CRISTINA NORD (Die Tageszeitung, Deutschland) 6.8
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 6
-FRANCISCO FERREIRA (Expresso, Portugal) 6.69
-VIOLETA KOVACSICS (Diari de Tarragona, España) 8
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 6.2
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France) 7.1
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 8
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 4
-FERNANDO JUAN LIMA (El Amante, Argentina) 7.5
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England)
-SERGI SANCHEZ (La Razón, España) 6
-SARA BRITO (Público, España) 6.8
-SCOTT FOUNDAS (Film Comment, USA)
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) 7.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 8.5
-PABLO O. SCHOLZ (Clarín, Argentina) 7
-NANDO SALVA (El Periódico, España)
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 6
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) 7
-MANU YAÑEZ (Fotogramas, España) 8
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina) 5
-BELINDA VAN DE GRAAF (Trouw, Holanda) 5
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 7
-ALEJANDRO G. CALVO (SensaCine, España) 8
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand)
+Fernando Ganzo (Lumiere, España) 8
+Carlos Heredero (Cahiers du cinéma, España) 8
+Luciano Monteagudo (Página12, Argentina) 7
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 7.5
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 6
+Diego Batlle (La Nación / OtrosCines, Argentina) 7
+Cristina Nord (Die Tageszeitung, Deutschland) 6.8
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 6
+Francisco Ferreira (Expresso, Portugal) 6.69
+Violeta Kovacsics (Diari de Tarragona, España) 8
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 6.2
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France) 7.1
+Luciano Barisone (Duellanti / Panoramiches, Italy) 8
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 4
+Fernando Juan Lima (El Amante, Argentina) 7.5
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England)
+Sergi Sanchez (La Razón, España) 6
+Sara Brito (Público, España) 6.8
+Scott Foundas (Film Comment, USA)
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (FAZ / Negativ, Deutschland) 7.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) 8.5
+Pablo O. Scholz (Clarín, Argentina) 7
+Nando Salva (El Periódico, España)
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 6
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) 7
+Manu Yáñez(Fotogramas, España) 8
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina) 5
+Belinda Van De Graaf (Trouw, Holanda) 5
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 7
+Alejandro G. Calvo (SensaCine, España) 8
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand)
   PROMEDIO: 6.84 (27 votos)
 Mike d'Angelo (AV Club, USA) 3.4
 Simon Gallagher (filmschoolrejects.com, UK) 7.5 B+
@@ -2402,49 +2402,49 @@ Raffi Asdourian (The Film Stage, USA) 7.5 B+
 Michael Giltz (The Huffington Post, USA) 3.75 1.5/4
 
 "We Need to Talk About Kevin" Lynne Ramsay (4,47) 26 votos [Competition]
-FERNANDO GANZO (Lumiere, España)
-CARLOS HEREDERO (Cahiers du cinéma, España) 4
-LUCIANO MONTEAGUDO (Página12, Argentina) 5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 4
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 5.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) 6
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 6
-FRANCISCO FERREIRA (Expresso, Portugal) 0
-VIOLETA KOVACSICS (Diari de Tarragona, España) 3
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 2
-OLIVIER PERE (Locarno Film Festival, Switzerland) 1
-EUGENIO RENZI (Independencia, France)
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 4
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina)
-FERNANDO JUAN LIMA (El Amante, Argentina)
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile)
-NICK JAMES (Sight & Sound, England) 8
-SERGI SANCHEZ (La Razón, España) 7
-SARA BRITO (Público, España) 5.5
-SCOTT FOUNDAS (Film Comment, USA) 8
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) 4
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 2
-PABLO O. SCHOLZ (Clarín, Argentina) 6
-NANDO SALVA (El Periódico, España) 5
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 1
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) 5.5
-MANU YAÑEZ (Fotogramas, España) 3
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Trouw, Holanda) 5
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 4
-ALEJANDRO G. CALVO (SensaCine, España) 4
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 7
+Fernando Ganzo (Lumiere, España)
+Carlos Heredero (Cahiers du cinéma, España) 4
+Luciano Monteagudo (Página12, Argentina) 5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina)
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 4
+Diego Batlle (La Nación / OtrosCines, Argentina) 5.5
+Cristina Nord (Die Tageszeitung, Deutschland) 6
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 6
+Francisco Ferreira (Expresso, Portugal) 0
+Violeta Kovacsics (Diari de Tarragona, España) 3
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 2
+Olivier Pere (Locarno Film Festival, Switzerland) 1
+Eugenio Renzi (Independencia, France)
+Luciano Barisone (Duellanti / Panoramiches, Italy) 4
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina)
+Fernando Juan Lima (El Amante, Argentina)
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile)
+Nick James (Sight & Sound, England) 8
+Sergi Sanchez (La Razón, España) 7
+Sara Brito (Público, España) 5.5
+Scott Foundas (Film Comment, USA) 8
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (FAZ / Negativ, Deutschland) 4
+Alvaro Arroba (La Lectora Provisoria, Argentina) 2
+Pablo O. Scholz (Clarín, Argentina) 6
+Nando Salva (El Periódico, España) 5
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 1
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) 5.5
+Manu Yáñez(Fotogramas, España) 3
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Trouw, Holanda) 5
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 4
+Alejandro G. Calvo (SensaCine, España) 4
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 7
   PROMEDIO: 4,47 (26 votos)
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 7.5
@@ -2494,49 +2494,49 @@ Bo Green Jensen (Weekandavisen Berlingske, Denmark) 7.5
 Screen International (Screen International, USA) 7.5
 
 “Sleeping Beauty” Julia Leigh (4,16) 27 votos [Competition]
-FERNANDO GANZO (Lumiere, España)
-CARLOS HEREDERO (Cahiers du cinéma, España) 6
-LUCIANO MONTEAGUDO (Página12, Argentina) 5
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina)
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 4
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 5
-CRISTINA NORD (Die Tageszeitung, Deutschland) 1
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 6
-FRANCISCO FERREIRA (Expresso, Portugal) 0
-VIOLETA KOVACSICS (Diari de Tarragona, España) 3
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 6
-ERNESTO GARRATT (El Mercurio, Chile)
-OLIVIER PERE (Locarno Film Festival, Switzerland)
-EUGENIO RENZI (Independencia, France) 1.3
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 5
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 7
-FERNANDO JUAN LIMA (El Amante, Argentina) 7
-XAVI SERRA (Ara, España)
-NICK JAMES (Sight & Sound, England) 6
-SERGI SANCHEZ (La Razón, España) 4
-SARA BRITO (Público, España)
-SCOTT FOUNDAS (Film Comment, USA) 4
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (Deutschland) 7
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 2
-PABLO O. SCHOLZ (Clarín, Argentina) 4
-NANDO SALVA (El Periódico, España) 2
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 4
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) 4
-MANU YAÑEZ (Fotogramas, España) 4
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Holanda) 2
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 4
-ALEJANDRO G. CALVO (SensaCine, España) 5
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand) 4
+Fernando Ganzo (Lumiere, España)
+Carlos Heredero (Cahiers du cinéma, España) 6
+Luciano Monteagudo (Página12, Argentina) 5
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina)
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 4
+Diego Batlle (La Nación / OtrosCines, Argentina) 5
+Cristina Nord (Die Tageszeitung, Deutschland) 1
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 6
+Francisco Ferreira (Expresso, Portugal) 0
+Violeta Kovacsics (Diari de Tarragona, España) 3
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 6
+Ernesto Garratt (El Mercurio, Chile)
+Olivier Pere (Locarno Film Festival, Switzerland)
+Eugenio Renzi (Independencia, France) 1.3
+Luciano Barisone (Duellanti / Panoramiches, Italy) 5
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 7
+Fernando Juan Lima (El Amante, Argentina) 7
+Xavi Serra (Ara, España)
+Nick James (Sight & Sound, England) 6
+Sergi Sanchez (La Razón, España) 4
+Sara Brito (Público, España)
+Scott Foundas (Film Comment, USA) 4
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (Deutschland) 7
+Alvaro Arroba (La Lectora Provisoria, Argentina) 2
+Pablo O. Scholz (Clarín, Argentina) 4
+Nando Salva (El Periódico, España) 2
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 4
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) 4
+Manu Yáñez(Fotogramas, España) 4
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Holanda) 2
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 4
+Alejandro G. Calvo (SensaCine, España) 5
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) 4
   Puntaje/Average:  4,16 (27 votos)
  Screen Daily:
 Nick James (Sight & Sound, UK) 5
@@ -2587,49 +2587,49 @@ Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 7.5 B
 Raffi Asdourian (The Film Stage, USA) 3 C
 
 “Midnight in Paris” Woody Allen (5,97) 29 votos [Out of Competition]
-FERNANDO GANZO (Lumiere, España)
-CARLOS HEREDERO (Cahiers du cinéma, España) 5
-LUCIANO MONTEAGUDO (Página12, Argentina) 6
-ROGER ALAN KOZA (La Voz del Interior / Con los ojos abiertos, Argentina) 6.5
-MARK PERANSON (Cinema Scope, Canada)
-EULALIA IGLESIAS (Rockdelux, Cahiers du cinéma, España) 7
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) 6.5
-CRISTINA NORD (Die Tageszeitung, Deutschland) 6
-MARKUS KEUSCHNIGG (Die Presse, Austria)
-KONG RITHDEE (The Bangkok Post. Thailand) 5
-FRANCISCO FERREIRA (Expresso, Portugal) 2
-VIOLETA KOVACSICS (Diari de Tarragona, España) 6
-JAIME PENA (El Amante, Argentina y Cahiers du cinéma, España) 4
-OLIVIER PERE (Locarno Film Festival, Switzerland) 6
-EUGENIO RENZI (Independencia, France)
-LUCIANO BARISONE (Duellanti / Panoramiches, Italy) 4
-CARLO CHATRIAN (Duellanti / Panoramiches, Italy)
-JOSE LUIS DE LORENZO (A Sala Llena, Argentina) 5
-FERNANDO JUAN LIMA (El Amante, Argentina) 6.5
-XAVI SERRA (Ara, España)
-ERNESTO GARRATT (El Mercurio, Chile) 6
-NICK JAMES (Sight & Sound, England) 5
-SERGI SANCHEZ (La Razón, España) 7
-SARA BRITO (Público, España) 6.5
-SCOTT FOUNDAS (Film Comment, USA) 10
-SERGIO WOLF (BAFICI, Argentina)
-RUDIGER SUCHSLAND (Deutschland) 6.5
-ALVARO ARROBA (La Lectora Provisoria, Argentina) 3
-PABLO O. SCHOLZ (Clarín, Argentina) 7
-NANDO SALVA (El Periódico, España) 6.5
-PEDRO BUTCHER (Filme B / Folha de Sao Paulo, Brasil) 8
-GABRIELE BARRERA (Nick FilmTV / Best Movie / Cinecritica, Italy)
-PAMELA BIENZOBAS (Mabuse, Chile) 6
-MANU YAÑEZ (Fotogramas, España) 7
-GREGORY VALENS (Positif, France)
-CHRISTOPH HUBER (Die Presse, Austria)
-MARCELO ALDERETE (Mar del Plata Film Festival, Argentina)
-BELINDA VAN DE GRAAF (Holanda) 7
-ARTHUR MAS (Independencia, France)
-MARTIAL PISANI (Independencia, France)
-CARLOS REVIRIEGO (El Cultural / Cahiers du cinéma, España) 6
-ALEJANDRO G. CALVO (SensaCine, España) 6
-ANCHALEE CHAIWORAPORN (Siam Rath, Image Magazine, Thailand)
+Fernando Ganzo (Lumiere, España)
+Carlos Heredero (Cahiers du cinéma, España) 5
+Luciano Monteagudo (Página12, Argentina) 6
+Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 6.5
+Mark Peranson (Cinema Scope, Canada)
+Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 7
+Diego Batlle (La Nación / OtrosCines, Argentina) 6.5
+Cristina Nord (Die Tageszeitung, Deutschland) 6
+Markus Keuschnigg (Die Presse, Austria)
+Kong Rithdee (The Bangkok Post. Thailand) 5
+Francisco Ferreira (Expresso, Portugal) 2
+Violeta Kovacsics (Diari de Tarragona, España) 6
+Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 4
+Olivier Pere (Locarno Film Festival, Switzerland) 6
+Eugenio Renzi (Independencia, France)
+Luciano Barisone (Duellanti / Panoramiches, Italy) 4
+Carlo Chatrian (Duellanti / Panoramiches, Italy)
+Jose Luis De Lorenzo (A Sala Llena, Argentina) 5
+Fernando Juan Lima (El Amante, Argentina) 6.5
+Xavi Serra (Ara, España)
+Ernesto Garratt (El Mercurio, Chile) 6
+Nick James (Sight & Sound, England) 5
+Sergi Sanchez (La Razón, España) 7
+Sara Brito (Público, España) 6.5
+Scott Foundas (Film Comment, USA) 10
+Sergio Wolf (BAFICI, Argentina)
+Rudiger Suchsland (Deutschland) 6.5
+Alvaro Arroba (La Lectora Provisoria, Argentina) 3
+Pablo O. Scholz (Clarín, Argentina) 7
+Nando Salva (El Periódico, España) 6.5
+Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) 8
+Gabriele Barrera (Nick FilmTV / Best Movie / Cinecritica, Italy)
+Pamela Bienzobas (Mabuse, Chile) 6
+Manu Yáñez(Fotogramas, España) 7
+Gregory Valens (Positif, France)
+Christoph Huber (Die Presse, Austria)
+Marcelo Alderete (Mar del Plata Film Festival, Argentina)
+Belinda Van De Graaf (Holanda) 7
+Arthur Mas (Independencia, France)
+Martial Pisani (Independencia, France)
+Carlos Reviriego (El Cultural / Cahiers du cinéma, España) 6
+Alejandro G. Calvo (SensaCine, España) 6
+Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand)
   PROMEDIO: 5,97 (29 votos)
  Ioncinema:
 Christophe Beney (Palmares magazine, France) 7.5
