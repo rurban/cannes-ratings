@@ -212,8 +212,10 @@ SPECIAL SCREENINGS
 "RED ARMY" (Gabe POLSKY) [Special Screening]
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
+
 SEMAINE
-(announced April 21)
+  (announced April 21)
+
 
 QUINZAINE
 
