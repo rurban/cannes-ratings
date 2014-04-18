@@ -153,7 +153,7 @@ Stephanie Zacharek
 
 COMPETITION
 
-"WINTER SLEEP" dir: Nuri Bilge CEYLAN) [Competition]
+"WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
@@ -202,7 +202,7 @@ MIDNIGHT SCREENINGS
 
 "THE ROVER" (David MICHOD) [Special Screening]
 "THE SALVATION" (Kristian LEVRING) [Special Screening]
-"THE TARGET" (YOON Hong-seung) [Special Screening]
+"PYOJEOK - THE TARGET" (YOON Hong-seung aka Chang) [Special Screening]
 
 SPECIAL SCREENINGS
 
