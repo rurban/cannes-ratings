@@ -495,9 +495,12 @@ get '/2012' => sub {
 get '/2013' => sub {
   _list(2013);
 };
+get '/2014' => sub {
+  _list(2014);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
-  for my $year (qw(2010 2011 2012 2013)) {
+  for my $year (qw(2010 2011 2012 2013 2014)) {
     no strict 'refs';
     eval "require Cannes::rurban::$year;" or die "invalid year $year";
     my $DATA = ${"Cannes::rurban::$year\::DATA"};
@@ -517,7 +520,7 @@ get '/all' => sub {
   template 'index', $all;
 };
 get '/' => sub {
-  redirect '/2013';
+  redirect '/2014';
 };
 
 1;
