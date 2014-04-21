@@ -214,8 +214,18 @@ SPECIAL SCREENINGS
 
 
 SEMAINE
-  (announced April 21)
+"FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
+"DARKER THAN MIDNIGHT" (Sebastiano RISO) [Semaine]
+"THE TRIBE" (Myroslav SLABOSHPYTSKIY) [Semaine]
+"IT FOLLOWS" (David Robert MITCHELL) [Semaine]
+"GENTE DE BIEN" (Franco LOLLI) [Semaine]
+"WHEN ANIMALS DREAM" (Jonas Alexander ARNBY) [Semaine]
+"HOPE" (Boris LOJKINE) [Semaine]
+"SELF MADE" (Shira GEFFEN) [Semaine]
+"HIPPOCRATES" (Thomas LILTI) [Semaine]
 
+"BREATHE" (Mélanie LAURENT) [Special Screening]
+"THE KINDERGARTEN TEACHER" (Nadav LAPID) [Special Screening]
 
 QUINZAINE
 
