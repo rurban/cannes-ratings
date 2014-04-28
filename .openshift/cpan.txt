@@ -2,4 +2,6 @@ Test::Base
 YAML
 Dancer
 Plack::Handler::Apache2
+Plack::Runner
+utf8
 
