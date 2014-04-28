@@ -215,19 +215,40 @@ SPECIAL SCREENINGS
 
 SEMAINE
 "FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
-"DARKER THAN MIDNIGHT" (Sebastiano RISO) [Semaine]
-"THE TRIBE" (Myroslav SLABOSHPYTSKIY) [Semaine]
+"DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
+"THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
-"WHEN ANIMALS DREAM" (Jonas Alexander ARNBY) [Semaine]
+"WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
 "HOPE" (Boris LOJKINE) [Semaine]
-"SELF MADE" (Shira GEFFEN) [Semaine]
+"SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
 "HIPPOCRATES" (Thomas LILTI) [Semaine]
 
 "BREATHE" (Mélanie LAURENT) [Special Screening]
-"THE KINDERGARTEN TEACHER" (Nadav LAPID) [Special Screening]
+"THE KINDERGARTEN TEACHER (Haganenet)" (Nadav LAPID) [Special Screening]
 
 QUINZAINE
+"BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
+"ALLELUIA" (Fabrice du WELZ) [Quinzaine]
+"NEXT TO HER" (Asaf KORMAN) [Quinzaine]
+"CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
+"COLD IN JULY" (Jim MICKLE) [Quinzaine]
+"LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
+"GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
+"LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
+"MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
+"A HARD DAY" (KIM Seong-Hun) [Quinzaine]
+"NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+"QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
+"REFUGIADO" (Diego LERMAN) [Quinzaine]
+"THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
+"TU DORS NICOLE" (Stéphane LAFLEUR) [Quinzaine]
+"WHIPLASH" (Damien CHAZELLE) [Quinzaine]
+  Sundance
+"PRIDE" (Matthew WARCHUS) [Quinzaine]
+
+"P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
+"THE TEXAS CHAIN SAW MASSACRE" (Tobe HOOPER) [Special Screening]
 
 
 EOF
