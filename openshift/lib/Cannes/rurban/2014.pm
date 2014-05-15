@@ -555,6 +555,7 @@ Frédéric Jaeger
 Till Kadritzke        7.5
 Daniel Kasman            
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
+Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 
