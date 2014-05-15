@@ -5,13 +5,15 @@ package Cannes::rurban::2014;
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
-# french: http://www.lefilmfrancais.com/cannes2013/quotidien/ (scale 0-4)
+# french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
-# http://www.screendaily.com/festivals/cannes/cannes-2013-screens-dailies/5056024.article (scale 0-4)
-# us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
+# http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755 (scale 0-4)
+# http://www.ioncinema.com/news/film-festivals/live-from-cannes-2014-meet-our-cannes-critics-panel
+# More:
 # http://www.indiewire.com/critic/
-# http://www.guardian.co.uk/film/series/first-look-review+cannes-2013
-# Published at http://cannes-rurban.rhcloud.com/2013
+# http://www.guardian.co.uk/film/series/first-look-review+cannes-2014
+#
+# Published at http://cannes-rurban.rhcloud.com/2014
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014
 # US ratings:
@@ -40,8 +42,9 @@ Giona Nazzaro         8
 Cristina Nord         4
 Alejandro Calvo       7
 Xavi Serra            7
-# criticwire
+#critics
 Mike d'Angelo         6.8	https://twitter.com/gemko/status/466876493541699584
+Peter Bradshaw       10   http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
 Scott Foundas         
@@ -89,8 +92,10 @@ Guido Castillo
 Pamela Bienzobas      
 Javier Estrada        8
 Boris Nelepo          
-
+# critics
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
+Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
+
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
 
@@ -136,9 +141,10 @@ UN CERTAIN REGARD
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
 Roger Koza            4.5
 Alexandra Zawia       4
-José Luis Losa       3
+José Luis Losa        3
 Alejandro Calvo       5.5
 Xavi Serra            5
+Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
