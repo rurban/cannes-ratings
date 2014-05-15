@@ -404,7 +404,7 @@ Giona Nazzaro         8
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
 
-"THE PROPHET" (?) [Special Screening]
+"KHALIL GIBRAN’S THE PROPHET" (Roger Allers) [Special Screening]
 
 "THE SALVATION" (Kristian LEVRING) [Special Screening]
 
