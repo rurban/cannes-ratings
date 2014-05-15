@@ -29,52 +29,50 @@ our $DATA= <<'EOF';
 
 "GRACE OF MONACO" (Olivier DAHAN) [Out of Competition]
   http://www.festival-cannes.fr/en/
-Roger Koza           
-Diego Batlle         
-Diego Lerer          
-Alex Vicente         
-Jose Luis De Lorenzo 
-Cecilia Martinez     
-Fernando Ganzo       
-Eulalia Iglesias     
-Ángel Quintana       
-José Luis Losa       
-Pedro Butcher        
-Kieron Corless       
-Luciano Barisone     
-Carlo Chatrian       
-Violeta Kovacsics    
-Luciano Monteagudo   
-Jaime Pena           
-Rüdiger Suchsland    
-Carlos F. Heredero   
-Robert Koehler       
-Dana Linssen         
-Cristina Nord        
-Francisco Ferreira   
-Paolo Moretti        
+Scott Foundas         2
+Roger Koza            2
+Alexandra Zawia       0
+Robert Koehler        
+Diego Batlle          5
+Diego Lerer           4
+Fernando Ganzo        0.5
+Eulàlia Iglesias      2.5
+Ángel Quintana        2
+José Luis Losa        0
+Pedro Butcher         
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            0.5
+Rüdiger Suchsland     
+Carlos Heredero       0
+Luciano Barisone      
+Giona Nazzaro         1
+Dana Linssen          
+Cristina Nord         1.5
+Francisco Ferreira    1
+Cecilia Martinez      
+Paolo Moretti         
 Neil Young            
-Scott Foundas        
-Marcelo Alderete     
-Alexandra Zawia      
-Boris Nelepo         
-Carlos Reviriego     
-Fernando Juan Lima   
-Paolo Bertolin       
-Nando Salva          
-Philipp Engel        
-Antoine Thirion      
-Michal Oleszczyk     
-Pablo O. Scholz      
-Alejandro G. Calvo   
-Xavi Serra           
-Guido Castillo       
-Ronald Rovers        
-Javier H. Estrada    
-Rose Kuo             
-Pamela Bienzobas     
-Alvaro Arroba        
-Fredy Friedlander    
+Ronald Rovers         2
+Marcelo Alderete      
+Michal Oleszczyk      1.5
+Manu Yañez            
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Inma Merino           1
+Fredy Friedlander     
+Pablo Scholz          
+Alejandro Calvo       0
+Xavi Serra            
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        2.5 
 # criticwire
 Kevin Jagernauth        
 Ryland Aldrich          
@@ -169,9 +167,98 @@ Jordan Hoffman		3	http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?
 COMPETITION
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
-Mike d'Angelo           5.9
+Scott Foundas         
+Roger Koza            
+Alexandra Zawia       7.5
+Robert Koehler        
+Diego Batlle          
+Diego Lerer           7.5
+Fernando Ganzo        4.5
+Eulàlia Iglesias      
+Ángel Quintana        7
+José Luis Losa        7.5
+Pedro Butcher         
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            6
+Rüdiger Suchsland     
+Carlos Heredero       5.5
+Luciano Barisone      
+Giona Nazzaro         5
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez            
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Inma Merino           7
+Fredy Friedlander     
+Pablo Scholz          
+Alejandro Calvo       6
+Xavi Serra            
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        8 
+
+Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
+Scott Foundas         
+Roger Koza            
+Alexandra Zawia       
+Robert Koehler        
+Diego Batlle          
+Diego Lerer           
+Fernando Ganzo        
+Eulàlia Iglesias      
+Ángel Quintana        
+José Luis Losa        
+Pedro Butcher         
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
+Jaime Pena            
+Rüdiger Suchsland     
+Carlos Heredero       
+Luciano Barisone      
+Giona Nazzaro         
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez            
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Inma Merino           
+Fredy Friedlander     
+Pablo Scholz          
+Alejandro Calvo       
+Xavi Serra            
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada          
 
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
@@ -208,9 +295,18 @@ UN CERTAIN REGARD
 "ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard]
 "FANTASIA" (Wang CHAO) [Un Certain Regard]
 "LOIN DE SON ABSENCE (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
+
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
+Ángel Quintana     6.5
+Inma Merino        6.5
+
 "INCOMPRESA (The Misunderstood)" (Asia ARGENTO) [Un Certain Regard]
+
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
+Roger Koza         10
+Diego Lerer        10
+
+
 "LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 "THE SALT OF THE EARTH" (Wim WENDERS and Juliano Ribeiro SALGADO) [Un Certain Regard]
@@ -223,7 +319,10 @@ MIDNIGHT SCREENINGS
 
 "THE ROVER" (David MICHOD) [Special Screening]
 "THE SALVATION" (Kristian LEVRING) [Special Screening]
+
 "PYOJEOK - THE TARGET" (YOON Hong-seung aka Chang) [Special Screening]
+Paolo Bertolin   5
+
 
 SPECIAL SCREENINGS
 
@@ -258,7 +357,10 @@ QUINZAINE
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
 "LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
+
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
+Paolo Bertolin     7
+
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 "QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
