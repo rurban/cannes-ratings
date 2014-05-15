@@ -34,6 +34,7 @@ COMPETITION
 "MR TURNER" (Mike LEIGH) [Competition]
   http://blogs.indiewire.com/criticwire/mike-leighs-mr-turner-cannes-first-masterpiece
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
+Roger Koza            6
 Alexandra Zawia       8.5
 Diego Batlle          7
 Diego Lerer           6
@@ -402,12 +403,12 @@ Ryland Aldrich
 Craig Skinner           
 Alex Billington         
 Patrick McGavin         
-Mike d'Angelo           3.3	https://twitter.com/gemko/status/466516357241376768
+Mike d'Angelo        3.3    https://twitter.com/gemko/status/466516357241376768
 Michael Sennhauser      
 John Bleasdale          
 Marc van de Klashorst   
 Catherine Shoard     
-Eric Kohn   	     5	     http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+Eric Kohn   	     5	    http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction
 Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
 Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
 Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
@@ -498,11 +499,14 @@ Daniel Kasman
 
 "SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
 
-"HIPPOCRATES" (Thomas LILTI) [Semaine]
+"HIPPOCRATES" (Thomas LILTI) [Special Screening]
 
-"BREATHE" (Mélanie LAURENT) [Special Screening]
+"BREATHE (Respire)" (Mélanie LAURENT) [Special Screening]
 
-"THE KINDERGARTEN TEACHER (Haganenet)" (Nadav LAPID) [Special Screening]
+"THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
+
+"FLA" (Djinn Carrénard) [Opening Film]
+Roger Koza            3
 
 
 QUINZAINE
