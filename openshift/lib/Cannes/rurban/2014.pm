@@ -36,19 +36,48 @@ COMPETITION
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
 Roger Koza            6
 Alexandra Zawia       8.5
+Robert Koehler        
 Diego Batlle          7
 Diego Lerer           6
 Fernando Ganzo        3.5
 Eulàlia Iglesias     7.5
+Ángel Quintana       
 José Luis Losa       5.5
 Pedro Butcher         7
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
+Violeta Kovacsics     
 Luciano Monteagudo    8
+Jaime Pena            
+Rüdiger Suchsland    
 Carlos Heredero       7
+Luciano Barisone      
 Giona Nazzaro         8
+Dana Linssen          
 Cristina Nord         4
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         
+Marcelo Alderete      
+Michal Oleszczyk      9
+Manu Yañez           
 Carlos Reviriego      7
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
+Inma Merino           
+Fredy Friedlander     
+Pablo Scholz          
 Alejandro Calvo       7
 Xavi Serra            7
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        
+Boris Nelepo          
 # Screen Daily (0-4)
 Robbie Collin	      10	http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
 David Stratton       
@@ -284,6 +313,7 @@ Diego Batlle          7
 Diego Lerer           6
 José Luis Losa        3
 Carlos Heredero       6
+Michal Oleszczyk      3
 Carlos Reviriego      4
 Alejandro Calvo       5.5
 Xavi Serra            5
@@ -295,6 +325,7 @@ Diego Batlle          4
 Diego Lerer           3
 Carlos Heredero       6
 Giona Nazzaro         1
+Michal Oleszczyk      4
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
 Arnaud Hée         7.5
@@ -513,6 +544,8 @@ QUINZAINE
 
 "BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
 Luciano Barisone      5.5
+Cristina Nord         7.5
+Pamela Bienzobas      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
