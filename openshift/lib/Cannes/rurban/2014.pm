@@ -322,6 +322,13 @@ Carlos Reviriego      4
 Inma Merino           6
 Alejandro Calvo       5.5
 Xavi Serra            5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger       6   
+Till Kadritzke        
+Daniel Kasman            
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
@@ -335,6 +342,13 @@ Carlos Heredero       6
 Giona Nazzaro         1
 Michal Oleszczyk      4
 Inma Merino           5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger       1   
+Till Kadritzke        1
+Daniel Kasman            
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
@@ -552,6 +566,7 @@ Daniel Kasman
 
 "FLA" (Djinn Carrénard) [Opening Film]
 Roger Koza            3
+Frédéric Jaeger       7.5      http://www.critic.de/film/faire-lamour-6772/
 
 
 QUINZAINE
@@ -574,6 +589,7 @@ Daniel Kasman
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
 Alex Billington               https://twitter.com/firstshowing/status/467039356532686849
+Eric Kohn                     https://twitter.com/erickohn/status/467039545964634112
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 
