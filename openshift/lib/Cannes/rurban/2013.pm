@@ -1008,7 +1008,7 @@ Jordan Hoffman       9.5    http://www.film.com/movies/inside-llewyn-davis-revie
 Todd McCarthy        10     http://www.hollywoodreporter.com/movie/inside-llewyn-davis/review/524956
 Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
 Emanuel Levy         8      http://www.emanuellevy.com/review/inside-llewyn-davis-highlight-of-the-coens-cannes-fest/
-Robbie Collins        10     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10066769/Cannes-2013-Inside-Llewyn-Davis-review.html
+Robbie Collin        10     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10066769/Cannes-2013-Inside-Llewyn-Davis-review.html
 Stephanie Zacharek          http://www.villagevoice.com/2013-05-22/film/inside-llewyn-davis-cannes-review/ 
 # TF1.fr 0-5
 Aurelien Allin        10
@@ -1635,7 +1635,7 @@ Manohla Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/canne
 Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77762/cannes-diary-day-8-ryan-goslings-new-movie-booed-out-of-france
 # metacritic
 David Rooney        6         http://www.hollywoodreporter.com/movie/god-forgives/review/527314
-Robbie Collins       6         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10073237/Cannes-2013-Only-God-Forgives-review.html
+Robbie Collin       6         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10073237/Cannes-2013-Only-God-Forgives-review.html
 Jordan Hoffman      5         http://www.film.com/movies/only-god-forgives-review
 Peter Debruge       3         http://variety.com/2013/film/reviews/cannes-film-review-only-god-forgives-1200486200/
 Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/only-god-forgives-movie-review/
@@ -1879,7 +1879,7 @@ Manohla Dargis                http://www.nytimes.com/2013/05/24/movies/many-film
 Ben Kenigsberg                http://www.rogerebert.com/cannes/cannes-bruce-dern-and-will-forte-visit-nebrask
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 Emanuel Levy          7       http://www.emanuellevy.com/review/nebraska-from-alexander-payne/
-Robbie Collins         8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10076267/Cannes-2013-Nebraska-review.html
+Robbie Collin         8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10076267/Cannes-2013-Nebraska-review.html
 
 "LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]  Palme d'Or + FIPRESCI Price Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
@@ -2553,7 +2553,7 @@ Mark Adams (Screen Daily, USA)               http://www.screendaily.com/reviews/
 David Jenkins (Little White Lies blog, UK)   http://www.littlewhitelies.co.uk/features/festivals/cannes-2013-the-bling-ring-review-23895
 Kaleen Aftab (The Independent, UK)   8	     http://www.independent.co.uk/arts-entertainment/films/reviews/the-bling-ring-review-emma-watson-leaves-hermoine-behind-in-sofia-coppolas-new-film-8618418.html
 Cath Clarke (Time Out London, UK) 8 http://www.timeout.com/london/film/the-bling-ring
-Robbie Collins (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cannes-film-festival/10061235/Cannes-2013-The-Bling-Ring-review.html
+Robbie Collin (The Telegraph, UK) 8 http://www.telegraph.co.uk/culture/film/cannes-film-festival/10061235/Cannes-2013-The-Bling-Ring-review.html
 Scott Foundas                  http://variety.com/2013/film/reviews/cannes-film-review-the-bling-ring-1200482052/
 Graham Fuller (Vanity Fair)    http://www.vanityfair.com/hollywood/2013/06/movie-review-sofia-coppola-bling-ring
 Todd McCarthy http://www.hollywoodreporter.com/movie/bling-ring/review/523429
@@ -3456,7 +3456,7 @@ Jordan Hoffman        8       http://www.film.com/movies/all-is-lost-review
 Jessica Kiang         7       http://blogs.indiewire.com/theplaylist/cannes-review-jc-chandor-puts-robert-redford-through-watery-hell-in-bruising-formally-rigorous-all-is-lost-20130524?
 Justin Chang          7       http://variety.com/2013/film/reviews/cannes-film-review-all-is-lost-1200486217/
 Todd McCarthy         6.5     http://www.hollywoodreporter.com/review/cannes-review-all-is-lost-527327
-Robbie Collins         6       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10075395/Cannes-2013-All-Is-Lost-review.html
+Robbie Collin         6       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10075395/Cannes-2013-All-Is-Lost-review.html
 Peter Bradshaw        6       http://www.guardian.co.uk/film/2013/may/22/all-is-lost-review-cannes-2013
 
 
@@ -4411,7 +4411,7 @@ Peter Keogh (Boston Phoenix, USA)
 Peter Knegt (indieWIRE, USA) 
 Raffi Asdourian (The Film Stage, USA)
 Richard Corliss (Time, USA)
-Robbie Collins (The Telegraph, UK)
+Robbie Collin (The Telegraph, UK)
 Robert Gassaway (The Flicksation Podcast, USA)
 Rodrigo Perez (The Playlist, USA)
 Ruta Buciunaite (theupcoming.co.uk, UK)

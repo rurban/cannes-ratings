@@ -81,7 +81,7 @@ Ryland Aldrich
 Craig Skinner           
 Alex Billington         
 Patrick McGavin         
-Mike d'Angelo           
+Mike d'Angelo           3.3	https://twitter.com/gemko/status/466516357241376768
 Michael Sennhauser      
 John Bleasdale          
 Marc van de Klashorst   
@@ -114,7 +114,8 @@ Per Juul Carlsen
 #Mike d'Angelo       
 #Carlos F. Heredero  
 Raffi Asdourian      
-#Eric Kohn           
+#Eric Kohn   B-           
+Eric Kohn   		5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
 Eric Lavallée        
 Fabien Lemercier     
 Guy Lodge            
@@ -150,10 +151,28 @@ Roman Vern
 Mehdi Omais           
 #Philippe Rouyer      
 Stephanie Zacharek    
+Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
+Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
+Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
+Oliver Lyttleton     0      http://blogs.indiewire.com/theplaylist/cannes-review-olivier-dahans-grace-of-monaco-starring-nicole-kidman-tim-roth-20140514 
+Robbie Collin        2      http://www.telegraph.co.uk/culture/film/filmreviews/10829756/Grace-of-Monaco-Cannes-2014-review.html
+Nicholas Barber      2      http://www.bbc.com/culture/story/20140514-review-princess-grace-of-monaco
+Richard Corliss      2      http://time.com/98922/review-grace-of-monaco-scandal/
+Fionnuala Hannigan   2      http://www.screendaily.com/reviews/the-latest/grace-of-monaco/5071634.article
+Scott Foundas        2	    http://variety.com/2014/film/reviews/cannes-film-review-grace-of-monaco-1201180574/
+Guy Lodge            	    http://www.hitfix.com/in-contention/review-grace-of-monaco-opens-cannes-on-a-graceless-note
+Peter Labuza	     2      http://thefilmstage.com/reviews/cannes-review-grace-of-monaco/
+Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reaction-review-1  
+David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
+Jordan Hoffman		3	http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
 
 COMPETITION
 
+"TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
+Mike d'Angelo           5.9
+
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
+
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
@@ -170,7 +189,9 @@ COMPETITION
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
 "RETRATOS SALVAJES (Wild Tales)" (Damian SZIFRON) [Competition]
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
-"TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
+"LEVIATHAN" (Andrey ZVYAGINSTEV) [Competition]
+"WILD TALES" (Damian SZIFRON) [Competition]
+"LE MERAVIGLIE" (Alice ROHRWACHER) [Competition]
 
 "COMING HOME" (Zhang YIMOU) [Out Of Competition]
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
@@ -417,6 +438,7 @@ Eric D. Snider (Film.com, USA)
 Ethan Anderton (FirstShowing.net, USA)
 Eugene Hernandez (Film Society of Lincoln Center, USA) 
 Fico Cangiano (CineXpress, Puerto Rico)
+Fionnuala Hannigan (Screen Daily, USA)
 Frédéric Jaeger (critic.de, Deutschland)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
@@ -427,6 +449,7 @@ Joachim Kurz (Kino-Zeit, Deutschland)
 Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
 John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
+Jonathan Romney (Sight&Sound, UK)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Hoffman (Film.com, ScreenCrush.com, Badass Digest, USA)
 Jordan Raup (The Film Stage, USA)
@@ -451,6 +474,7 @@ Michael Ghennam (Les Fiches du Cinéma, France)
 Michael Giltz (The Huffington Post, USA) 
 Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
+Oliver Lyttleton (The Playlist, USA)
 Patrick Heidmann (Cineman, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
 Paul Martin (Indies Movies Online, USA) 
@@ -462,7 +486,7 @@ Peter Keogh (Boston Phoenix, USA)
 Peter Knegt (indieWIRE, USA) 
 Raffi Asdourian (The Film Stage, USA)
 Richard Corliss (Time, USA)
-Robbie Collins (The Telegraph, UK)
+Robbie Collin (The Telegraph, UK)
 Robert Gassaway (The Flicksation Podcast, USA)
 Rodrigo Perez (The Playlist, USA)
 Ruta Buciunaite (theupcoming.co.uk, UK)
@@ -472,6 +496,7 @@ Shaun Munro (filmschoolrejects.com, USA)
 Simon Abrams (The Playlist, USA)
 Simon Gallagher (filmschoolrejects.com, UK) 
 Simon Reynolds (Digital Spy, UK) 
+Stephen Dalton (The Hollywood Reporter, USA)
 Stephen Garrett (Time Out New York, USA)
 Sukhdev Sandhu (Telegraph, UK) 
 Tim Grierson (Screen International, L.A. Weekly, USA) 
@@ -479,6 +504,8 @@ Tim Robey (Daily Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
 Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
+Peter Labuza (The Film Stage, USA)
+Jamie Graham (Total Film, )
 ";
 # former apichatpoll members
 $critics[7] = "
