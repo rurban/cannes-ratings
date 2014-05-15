@@ -74,7 +74,7 @@ David Calhoun
 Per Juul Carlsen     
 Paola Casella        
 Mike d'Angelo       	6.8	http://thedissolve.com/features/postcards-from-cannes/562-test/
-  https://twitter.com/gemko/status/466876493541699584
+# https://twitter.com/gemko/status/466876493541699584
 Manon Dumais        
 #Carlos F. Heredero  
 Eric Kohn   	     	8	http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
