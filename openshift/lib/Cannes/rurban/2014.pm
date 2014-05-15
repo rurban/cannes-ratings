@@ -7,7 +7,7 @@ package Cannes::rurban::2014;
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
 # french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
-# http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755 (scale 0-4)
+# http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4)
 # http://www.ioncinema.com/news/film-festivals/live-from-cannes-2014-meet-our-cannes-critics-panel
 # More:
 # http://www.indiewire.com/critic/
@@ -33,15 +33,80 @@ COMPETITION
 
 "MR TURNER" (Mike LEIGH) [Competition]
 Alexandra Zawia       8.5
+Diego Batlle          7
+Diego Lerer           6
 Fernando Ganzo        3.5
-Eulàlia Iglesias      7.5
-José Luis Losa        5.5
+Eulàlia Iglesias     7.5
+José Luis Losa       5.5
 Pedro Butcher         7
 Luciano Monteagudo    8
+Carlos Heredero       7
 Giona Nazzaro         8
 Cristina Nord         4
 Alejandro Calvo       7
 Xavi Serra            7
+# Screen Daily (0-4)
+Robbie Collin
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Stephanie Zacharek    
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                 
+Arnaud Hée           
+Christoph Huber           
+Frédéric Jaeger          
+Till Kadritzke       
+Daniel Kasman             
+Michael Kienzl            
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+Paola Casella        
+#Mike d'Angelo       
+Manion Dumais        
+#Carlos F. Heredero  
+#Eric Kohn   	     5		http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Roman Blondaeu        
+Stephanie Lamome      
+Roman Vern            
+Mehdi Omais           
+#Philippe Rouyer      
 #critics
 Mike d'Angelo         6.8	https://twitter.com/gemko/status/466876493541699584
 Peter Bradshaw       10   http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
@@ -92,48 +157,104 @@ Guido Castillo
 Pamela Bienzobas      
 Javier Estrada        8
 Boris Nelepo          
+# Screen Daily (0-4)
+Robbie Collin
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Stephanie Zacharek    
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                 
+Arnaud Hée           
+Christoph Huber           
+Frédéric Jaeger          
+Till Kadritzke       
+Daniel Kasman             
+Michael Kienzl            
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+Paola Casella           
+#Mike d'Angelo       
+Manion Dumais           
+#Carlos F. Heredero  
+#Eric Kohn   	     5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Roman Blondaeu        
+Stephanie Lamome      
+Roman Vern            
+Mehdi Omais           
+#Philippe Rouyer      
+Stephanie Zacharek    
 # critics
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
 
+"THE CAPTIVE" (Atom EGOYAN) [Competition]
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
 
-"CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
-
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
-"MAPS TO THE STARS" (David CRONENBERG) [Competition]
-
-"TWO DAYS, ONE NIGHT" (Jean-Pierre and Luc DARDENNE) [Competition]
-
-"MOMMY" (Xavier DOLAN) [Competition]
-
-"THE CAPTIVE" (Atom EGOYAN) [Competition]
-
-"GOODBYE TO LANGUAGE" (Jean-Luc GODARD) [Competition]
-
-"THE SEARCH" (Michel HAZANAVICIUS) [Competition]
-
-"JIMMY’S HALL" (Ken LOACH) [Competition]
+"WILD TALES (RETRATOS SALVAJES)" (Damian SZIFRON) [Competition]
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
 
-"FUTATSUME NO MADO (Still the Water)" (KAWASE Naomi) [Competition]
+"LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
 
+"MAPS TO THE STARS" (David CRONENBERG) [Competition]
+
+"DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
+
+"STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
+
+"THE SEARCH" (Michel HAZANAVICIUS) [Competition]
+
+"ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
+
+"JIMMY’S HALL" (Ken LOACH) [Competition]
+
+"MOMMY" (Xavier DOLAN) [Competition]
+
+"CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
+
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
-
-"RETRATOS SALVAJES (Wild Tales)" (Damian SZIFRON) [Competition]
-
-"LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
-
-"COMING HOME" (Zhang YIMOU) [Out Of Competition]
-
-"HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
-
-"LES GENS DU MONDE (People of the World)" (Yves JEULAND) [Out Of Competition]
 
 
 UN CERTAIN REGARD
@@ -141,54 +262,61 @@ UN CERTAIN REGARD
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
 Roger Koza            4.5
 Alexandra Zawia       4
+Diego Batlle          7
+Diego Lerer           6
 José Luis Losa        3
+Carlos Heredero       6
 Alejandro Calvo       5.5
 Xavi Serra            5
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 
-"AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
-"BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
+"THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
+Diego Batlle          4
+Diego Lerer           3
+Carlos Heredero       6
+Giona Nazzaro         1
+
 "THE BLUE ROOM" (Mathieu AMALRIC) [Un Certain Regard]
-"CHARLIE’S COUNTRY" (Rolf de HEER) [Un Certain Regard]
-"DOHEE-YA (A Girl At My Door)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
+
+"AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
+
+"RUN" (Philippe LACOTE) [Un Certain Regard]
+
 "ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard]
-"FANTASIA" (Wang CHAO) [Un Certain Regard]
-"LOIN DE SON ABSENCE (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
+
+"WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
+
+"TOURIST" (Ruben OSTLUND) [Un Certain Regard]
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
 Ángel Quintana     6.5
 Inma Merino        6.5
 
-"INCOMPRESA (The Misunderstood)" (Asia ARGENTO) [Un Certain Regard]
-
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
 Roger Koza         10
+Diego Batlle          8.5
 Diego Lerer        10
 
-
-"LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
-
-"RUN" (Philippe LACOTE) [Un Certain Regard]
-
-"THE SALT OF THE EARTH" (Wim WENDERS and Juliano Ribeiro SALGADO) [Un Certain Regard]
-
-"SNOW IN PARADISE" (Andrew HULME) [Un Certain Regard]
-
-"TITLI" (Kanu BEHL) [Un Certain Regard]
-
-"TOURIST" (Ruben OSTLUND) [Un Certain Regard]
+"A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
 
+"BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
 
-MIDNIGHT SCREENINGS
+"TITLI" (Kanu BEHL) [Un Certain Regard]
 
-"THE ROVER" (David MICHOD) [Special Screening]
+"LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
 
-"THE SALVATION" (Kristian LEVRING) [Special Screening]
+"THE SALT OF THE EARTH" (Wim WENDERS and Juliano Ribeiro SALGADO) [Un Certain Regard]
 
-"PYOJEOK - THE TARGET" (YOON Hong-seung aka Chang) [Special Screening]
-Paolo Bertolin   5
+"FANTASIA" (Wang CHAO) [Un Certain Regard]
+
+"SNOW IN PARADISE" (Andrew HULME) [Un Certain Regard]
+
+"CHARLIE’S COUNTRY" (Rolf de HEER) [Un Certain Regard]
+
+"INCOMPRESA (The Misunderstood)" (Asia ARGENTO) [Un Certain Regard]
+
 
 SPECIAL SCREENINGS
 
@@ -207,7 +335,7 @@ José Luis Losa
 Pedro Butcher         3
 Jose Luis De Lorenzo  
 Alex Vicente          
-Carlo Chatrian        
+Carlo Chatrian        4
 Violeta Kovacsics     
 Luciano Monteagudo    3
 Jaime Pena            0.5
@@ -250,71 +378,7 @@ Michael Sennhauser
 John Bleasdale          
 Marc van de Klashorst   
 Catherine Shoard     
-# Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
-Joachim Kurz 	    
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                 
-Arnaud Hée           
-Christoph Huber           
-Frédéric Jaeger          
-Till Kadritzke       
-Daniel Kasman             
-Michael Kienzl            
-# ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-#Carlos F. Heredero  
-Raffi Asdourian      
-#Eric Kohn   B-           
 Eric Kohn   		5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
-Eric Lavallée        
-Fabien Lemercier     
-Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
-#Neil Young          
-# Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
-# TF1.fr 0-5
-Aurelien Allin        
-Evangeline Barbaroux  
-Thomas Baurez         
-Stephanie Belpeche    
-Roman Blondaeu        
-Stephanie Lamome      
-Roman Vern            
-Mehdi Omais           
-#Philippe Rouyer      
-Stephanie Zacharek    
 Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
 Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
 Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
@@ -328,20 +392,46 @@ Guy Lodge            	    http://www.hitfix.com/in-contention/review-grace-of-mo
 Peter Labuza	     2      http://thefilmstage.com/reviews/cannes-review-grace-of-monaco/
 Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reaction-review-1  
 David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
-Jordan Hoffman		3	http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
+Jordan Hoffman	     3	    http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
+
+"HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 
 "SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
+Carlo Chatrian        9.5
 Luciano Monteagudo    8.5
 Luciano Barisone      9
 Giona Nazzaro         8
 
-"THE BRIDGES OF SARAJEVO" (various directors) [Special Screening]
+"RED ARMY" (Gabe POLSKY) [Special Screening]
+
+"THE PROPHET" (?) [Special Screening]
+
+"THE SALVATION" (Kristian LEVRING) [Special Screening]
+
+"THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
+
+"THE ROVER" (David MICHOD) [Special Screening]
+
+"CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
+
+"EL ARDOR" (Pablo Fendrik) [Special Screening]
+
+"COMING HOME" (Zhang YIMOU) [Out Of Competition]
+
+"LES GENS DU MONDE (People of the World)" (Yves JEULAND) [Out Of Competition]
+
+"GERONIMO" (Tony Gatlif) [Special Screening]
+
+"IN THE NAME OF MY DAUGHTER" (Andre Techine) [Out Of Competition]
+
+"OF MEN AND WAR" (Laurent Bécue-Renard) [Special Screening]
 
 "MAIDAN" (Sergei LOZNITSA) [Special Screening]
 
-"RED ARMY" (Gabe POLSKY) [Special Screening]
+"THE BRIDGES OF SARAJEVO" (various directors) [Special Screening]
 
-"CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
+"THE TARGET (PYOJEOK)" (YOON Hong-seung aka Chang) [Special Screening]
+Paolo Bertolin   5
 
 
 SEMAINE
@@ -372,43 +462,42 @@ QUINZAINE
 "BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
 Luciano Barisone      5.5
 
-"ALLELUIA" (Fabrice du WELZ) [Quinzaine]
-
-"NEXT TO HER" (Asaf KORMAN) [Quinzaine]
-
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
-
-"COLD IN JULY" (Jim MICKLE) [Quinzaine]
-
-"LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
 
-"LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
+"NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 
-"MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
+"LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
 Paolo Bertolin     7
 
-"NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
-
-"QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
-
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
+
+"MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
+
+"COLD IN JULY" (Jim MICKLE) [Quinzaine]
+  Sundance Midnight
 
 "THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
 
-"TU DORS NICOLE" (Stéphane LAFLEUR) [Quinzaine]
+"QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
 
 "WHIPLASH" (Damien CHAZELLE) [Quinzaine]
   Sundance
 
+"TU DORS NICOLE" (Stéphane LAFLEUR) [Quinzaine]
+
+"LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
+
+"NEXT TO HER (AY LI LAYLA)" (Asaf KORMAN) [Quinzaine]
+
+"ALLELUIA" (Fabrice du WELZ) [Quinzaine]
+
 "PRIDE" (Matthew WARCHUS) [Quinzaine]
 
 "P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
-
-"THE TEXAS CHAIN SAW MASSACRE" (Tobe HOOPER) [Special Screening]
 
 
 EOF
