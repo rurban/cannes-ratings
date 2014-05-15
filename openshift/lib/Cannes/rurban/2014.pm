@@ -63,7 +63,7 @@ Screen International
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
-Christoph Huber          
+Christoph Huber         6
 Frédéric Jaeger          
 Till Kadritzke           
 Daniel Kasman            
@@ -190,7 +190,7 @@ Screen International
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
-Christoph Huber           
+Christoph Huber          6
 Frédéric Jaeger          6
 Till Kadritzke           7.5
 Daniel Kasman            7.5
@@ -393,7 +393,7 @@ Boris Nelepo
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée           1
-Christoph Huber          
+Christoph Huber      2.5
 Frédéric Jaeger      2.5     http://www.critic.de/film/grace-of-monaco-5745/
 Till Kadritzke       
 Daniel Kasman             
