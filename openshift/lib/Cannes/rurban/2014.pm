@@ -156,6 +156,7 @@ Jason Gorber          5         http://twitchfilm.com/2014/05/cannes-2014-review
 Nikola Grozdanović   8.5       http://waytooindie.com/review/movie/mr-turner-cannes-review/
 Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-two-mr-turner-that-lovely-girl-party-girl
+Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
@@ -271,6 +272,7 @@ Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
 Nikola Grozdanović    6.5       http://waytooindie.com/review/movie/timbuktu-cannes-review/
 A.A. Dowd             5
+Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 
@@ -801,6 +803,7 @@ Jonathan Romney (Screen Daily, UK)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Hoffman (Film.com, ScreenCrush.com, Badass Digest, USA)
 Jordan Raup (The Film Stage, USA)
+Josef Lederle (Filmdienst, Deutschland)
 Justin Chang (Variety, USA)
 Kaleen Aftab (The Independent, UK)
 Karina Longworth (LA Weekly, USA) 
