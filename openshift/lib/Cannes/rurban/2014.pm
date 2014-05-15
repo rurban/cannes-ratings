@@ -460,7 +460,7 @@ Richard Corliss      2      http://time.com/98922/review-grace-of-monaco-scandal
 Fionnuala Hannigan   2      http://www.screendaily.com/reviews/the-latest/grace-of-monaco/5071634.article
 Scott Foundas        2	    http://variety.com/2014/film/reviews/cannes-film-review-grace-of-monaco-1201180574/
 Guy Lodge            	    http://www.hitfix.com/in-contention/review-grace-of-monaco-opens-cannes-on-a-graceless-note
-Peter Labuza	     2      http://thefilmstage.com/reviews/cannes-review-grace-of-monaco/
+Peter Labuza         2      http://thefilmstage.com/reviews/cannes-review-grace-of-monaco/
 Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reaction-review-1  
 David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
 Jordan Hoffman	     3	    http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
