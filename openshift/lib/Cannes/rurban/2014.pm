@@ -41,7 +41,7 @@ Diego Batlle          7
 Diego Lerer           6
 Fernando Ganzo        3.5
 Eulàlia Iglesias     7.5
-Ángel Quintana       
+Ángel Quintana       8
 José Luis Losa       5.5
 Pedro Butcher         7
 Jose Luis De Lorenzo  
@@ -69,7 +69,7 @@ Fernando Juan Lima
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          
-Inma Merino           
+Inma Merino           7
 Fredy Friedlander     
 Pablo Scholz          
 Alejandro Calvo       7
@@ -311,10 +311,12 @@ Roger Koza            4.5
 Alexandra Zawia       4
 Diego Batlle          7
 Diego Lerer           6
+Ángel Quintana       5.5
 José Luis Losa        3
 Carlos Heredero       6
 Michal Oleszczyk      3
 Carlos Reviriego      4
+Inma Merino           6
 Alejandro Calvo       5.5
 Xavi Serra            5
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
@@ -322,11 +324,14 @@ Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
+Roger Koza            2
 Diego Batlle          4
 Diego Lerer           3
+Ángel Quintana       5
 Carlos Heredero       6
 Giona Nazzaro         1
 Michal Oleszczyk      4
+Inma Merino           5
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
@@ -468,6 +473,7 @@ Carlo Chatrian        9.5
 Luciano Monteagudo    8.5
 Luciano Barisone      9
 Giona Nazzaro         8
+Inma Merino           8
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
 
@@ -513,6 +519,7 @@ Till Kadritzke
 Daniel Kasman            
 
 "DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
+Eulàlia Iglesias     5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -547,8 +554,12 @@ Roger Koza            3
 QUINZAINE
 
 "BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
+Eulàlia Iglesias     7.5
+Carlos Heredero       6.5
 Luciano Barisone      5.5
 Cristina Nord         7.5
+Alejandro Calvo       7
+Xavi Serra            6
 Pamela Bienzobas      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
