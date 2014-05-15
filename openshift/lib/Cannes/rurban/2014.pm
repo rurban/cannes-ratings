@@ -62,7 +62,7 @@ Paolo Moretti
 Neil Young            
 Ronald Rovers         
 Marcelo Alderete      
-Michal Oleszczyk      9
+Michal Oleszczyk      9         http://www.rogerebert.com/cannes/cannes-2014-dispatch-lust-for-light-in-mike-leighs-mr-turner
 Manu Yañez           
 Carlos Reviriego      7
 Fernando Juan Lima    
@@ -155,7 +155,6 @@ David Sexton          8         http://www.standard.co.uk/goingout/film/mr-turne
 Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 Jason Gorber          5         http://twitchfilm.com/2014/05/cannes-2014-review-mr-turner-paints-a-blurry-picture.html
 Nikola Grozdanovich   8.5       http://waytooindie.com/review/movie/mr-turner-cannes-review/
-Michal Oleszczyk                http://www.rogerebert.com/cannes/cannes-2014-dispatch-lust-for-light-in-mike-leighs-mr-turner
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-two-mr-turner-that-lovely-girl-party-girl
 
 
