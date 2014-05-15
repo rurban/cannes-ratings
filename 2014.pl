@@ -10,7 +10,7 @@ $max = 15;
 
 unless ($u) {
   move $c, $bak;
-  print `wget -q -O $c $url`;
+  print `wget -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36" -O $c $url`;
 }
 END {
   move($bak, $c) if -s $bak and !-s $c;
@@ -72,9 +72,10 @@ sub readhtml {
     # ratings
     if (m{<td class="puntaje }) {
       s|^\s+<td class="text-center .+?</td><td class="text-right">.+?</td>||;
-      s/<\/td>$//;
-      @r = grep { 
-	s{( class=".+?")?>}{};
+      s|<\/td>\n$||;
+      @r = map { 
+	m{">(.*)$} and $_ = $1;
+	#s{( class=".+?")?>}{};
       } split("</td><td", $_);
       if (@c == @r) {
 	my $i = 0;
