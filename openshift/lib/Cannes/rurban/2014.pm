@@ -84,7 +84,7 @@ David Stratton
 Derek Malcolm        
 Jan Schulz-Ojala     
 Jose Carlos Avellar  
-Stephanie Zacharek    
+Stephanie Zacharek              http://www.villagevoice.com/2014-05-14/film/mr-turner-cannes-review/
 Michel Ciment        
 Kate Muir/Wendy Ide  
 Bo Green Jensen      
@@ -327,6 +327,9 @@ Diego Lerer           3
 Carlos Heredero       6
 Giona Nazzaro         1
 Michal Oleszczyk      4
+Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
+Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
+Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
 Arnaud Hée         7.5
@@ -556,6 +559,7 @@ Till Kadritzke        7.5
 Daniel Kasman            
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
+Alex Billington               https://twitter.com/firstshowing/status/467039356532686849
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 
