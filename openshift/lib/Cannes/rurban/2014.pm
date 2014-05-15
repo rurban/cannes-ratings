@@ -152,9 +152,9 @@ Craig Skinner         7         http://www.filmdivider.com/mr-turner-review/
 Jamie Graham          10        http://www.totalfilm.com/news/cannes-2014-mr-turner-reaction-review
 John Bleasdale        8         http://www.cine-vue.com/2014/05/cannes-2014-mr-turner-review.html
 David Sexton          8         http://www.standard.co.uk/goingout/film/mr-turner-cannes-film-festival--film-review-timothy-spall-does-his-finest-work-in-mike-leighs-new-film-9373697.html
-Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 Jason Gorber          5         http://twitchfilm.com/2014/05/cannes-2014-review-mr-turner-paints-a-blurry-picture.html
-Nikola Grozdanovich   8.5       http://waytooindie.com/review/movie/mr-turner-cannes-review/
+Nikola Grozdanović   8.5       http://waytooindie.com/review/movie/mr-turner-cannes-review/
+Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-two-mr-turner-that-lovely-girl-party-girl
 
 
@@ -269,6 +269,7 @@ Stephanie Zacharek
 # critics
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
+Nikola Grozdanović    6.5       http://waytooindie.com/review/movie/timbuktu-cannes-review/
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 
@@ -318,6 +319,7 @@ Alejandro Calvo       5.5
 Xavi Serra            5
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 Craig Skinner         3
+Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
 Diego Batlle          4
@@ -771,7 +773,7 @@ Geoffrey MacNab (The Independent, UK)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
-Jason Gorber (Twitch, )
+Jason Gorber (Twitch, Canada)
 Jessica Kiang (The Playlist, USA)
 Jo Ann Titmarsh (FlickeringMyth.com, UK)
 Joachim Kurz (Kino-Zeit, Deutschland)
@@ -807,7 +809,7 @@ Michael Kienzl (critic.de, Deutschland)
 Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
 Nicholas Barber (BBC, UK)
-Nikola Grozdanovich (Way Too Indie, )
+Nikola Grozdanović (Way Too Indie, Canada)
 Oliver Lyttleton (The Playlist, USA)
 Patrick Heidmann (Cineman, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
