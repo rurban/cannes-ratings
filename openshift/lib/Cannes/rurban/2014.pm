@@ -147,7 +147,7 @@ Oliver Lyttleton      8         http://blogs.indiewire.com/theplaylist/cannes-re
 Kenneth Turan                   http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-cannes-mike-leigh-20140515-column.html
 Jonathan Romney                 http://www.screendaily.com/5071722.article
 Geoffrey MacNab       10        http://www.independent.co.uk/arts-entertainment/films/reviews/mr-turner-first-look-cannes-review-mike-leigh-returns-with-a-rich-character-study-9375692.html
-Dave Calhoun          10        http://www.timeout.com/london/film/mr-turner
+David Calhoun         10        http://www.timeout.com/london/film/mr-turner
 Craig Skinner         7         http://www.filmdivider.com/mr-turner-review/
 Jamie Graham          10        http://www.totalfilm.com/news/cannes-2014-mr-turner-reaction-review
 John Bleasdale        8         http://www.cine-vue.com/2014/05/cannes-2014-mr-turner-review.html
