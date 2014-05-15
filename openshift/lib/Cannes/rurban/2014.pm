@@ -71,7 +71,7 @@ David Calhoun
 Per Juul Carlsen     
 Paola Casella        
 #Mike d'Angelo       
-Manion Dumais        
+Manon Dumais        
 #Carlos F. Heredero  
 #Eric Kohn   	     5		http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
 Eric Lavallée        
@@ -109,7 +109,7 @@ Mehdi Omais
 #Philippe Rouyer      
 #critics
 Mike d'Angelo         6.8	https://twitter.com/gemko/status/466876493541699584
-Peter Bradshaw       10   http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
+Peter Bradshaw        10	http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
 Scott Foundas         
@@ -182,9 +182,9 @@ David Calhoun
 Per Juul Carlsen     
 Paola Casella           
 #Mike d'Angelo       
-Manion Dumais           
+Manon Dumais            
 #Carlos F. Heredero  
-#Eric Kohn   	     5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+#Eric Kohn   	     
 Eric Lavallée        
 Fabien Lemercier     
 Guy Lodge            
@@ -540,7 +540,7 @@ EOF
 
 our @critics;
 $critics[0] = "
-Alejandro G. Calvo (Sensacine, España) 
+Alejandro Calvo (Sensacine, España) 
 Alex Vicente (Público, España) 
 Alexandra Zawia (Wiener Zeitung, Furche, Celluloid, Austria)
 Ángel Quintana (Cahiers du cinema Espana, España)
@@ -555,7 +555,7 @@ Dana Linssen (De Filmkrant, Netherlands)
 Diego Batlle (La Nación, OtrosCines, Argentina) 
 Diego Lerer (Clarín, Micropsia, Argentina) 
 Eugenio Renzi (Independencia, France) 
-Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
+Eulàlia Iglesias (RockDeLux y Caimán CDC, España) 
 Fernando Ganzo (Lumiere, España) 
 Fernando Juan Lima (El Amante, Argentina) 
 Francisco Ferreira (Expresso, Portugal) 
@@ -564,6 +564,7 @@ Jose Luis De Lorenzo (A Sala Llena, Argentina)
 José Luis Losa (Cineuropa, España)
 Kieron Corless (Time Out London, UK)
 Luciano Barisone (Duellanti/Panoramiche, Italy) 
+Giona Nazzaro (Gender DocuFilm Festival, Italy)
 Luciano Monteagudo (Página/12, Argentina) 
 Marcelo Alderete (Festival de Mar del Plata, Argentina) 
 Michal Oleszczyk (Hammer to Nail, USA)
@@ -580,31 +581,32 @@ Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina)
 Rüdiger Suchsland (FAZ, Negativ-film, Deutschland) 
 Scott Foundas (Film Comment, USA) 
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
-Javier H. Estrada (Caimán CDC, España) 
+Javier Estrada (Caimán CDC, España) 
 Pamela Bienzobas (Mabuse, Chile) 
 Xavi Serra (Ara, España) 
 Guido Castillo (Freelance, España)
 Ronald Rovers (Cinema.nl, Netherlands)
 Alvaro Arroba (Cinema Scope, España)
+Inma Merino (España)
 Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
 ";
 # ioncinema
 $critics[1] = "
-Nicolas Bell (Ioncinema.com, Canada)
-Christophe Beney (Palmares magazine, France) 
-David Calhoun (Time Out London, UK) 
-Per Juul Carlsen (Danish National Radio, Denmark) 
-Mike d'Angelo (AV Club, USA) 
-Carlos F. Heredero (Cahiers du cinema Espana, España) 
-Raffi Asdourian (The FilmStage.com, USA)
-Eric Kohn (Indiewire, USA) 
+Nicolas Bell (Ioncinema.com, USA)
+Christophe Beney (Accreds, France)
+David Calhoun (Time Out London, UK)
+Per Juul Carlsen (Danish National Radio, Denmark)
+Paola Casella (Europa, Italy)
+Mike d'Angelo (AV Club, USA)
+Manon Dumais (Voir, Canada)
+Carlos F. Heredero (Caimán Cuadernos de Cine, España)
+Eric Kohn (Indiewire, USA)
 Eric Lavallée (Ioncinema.com, Canada) 
-Fabien Lemercier (Cineeuropa.org, Belgium) 
+Fabien Lemercier (Cineuropa.org, Belgium)
 Guy Lodge (Variety, InContention, South Africa, USA) 
 Liu Min (Sina.com, China) 
 Isabelle Regnier (Le Monde, France) 
 Cédric Succivalli (International Cinephil Society, France) 
-Clarence Tsui (South China Morning Post, Hong Kong) 
 Blake Williams (Ioncinema.com, Canada) 
 ";
 # Le film français 0-4
@@ -682,6 +684,7 @@ Brian Brooks (indieWIRE, USA)
 Caryn James (indieWIRE, ex-New York Times, USA)
 Catherine Shoard (Guardian, UK)
 Chris Knipp (Filmleaf, USA)
+Clarence Tsui (South China Morning Post, Hong Kong)
 Clementine Gallot (Cahiers du cinema, France)
 Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool, UK)
 Craig Williams (Cine Vue, UK)
@@ -739,6 +742,7 @@ Michael Giltz (The Huffington Post, USA)
 Michael Kienzl (critic.de, Deutschland)
 Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
+Nicholas Barber (BBC, UK)
 Oliver Lyttleton (The Playlist, USA)
 Patrick Heidmann (Cineman, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
