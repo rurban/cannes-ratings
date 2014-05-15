@@ -29,45 +29,42 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
+"MR TURNER" (Mike LEIGH) [Competition]
+Alexandra Zawia       8.5
+Fernando Ganzo        3.5
+Eulàlia Iglesias      7.5
+José Luis Losa        5.5
+Pedro Butcher         7
+Luciano Monteagudo    8
+Giona Nazzaro         8
+Cristina Nord         4
+Alejandro Calvo       7
+Xavi Serra            7
+
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
-Alexandra Zawia       7.5
-Diego Lerer           7.5
-Fernando Ganzo        4.5
-Ángel Quintana       7
-José Luis Losa       7.5
-Jaime Pena            6
-Carlos Heredero       5.5
-Giona Nazzaro         5
-Inma Merino           7
-Alejandro Calvo       6
-Javier Estrada        8
-
-Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
-
-"WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
 Scott Foundas         
-Roger Koza            
-Alexandra Zawia       
+Roger Koza            6.5
+Alexandra Zawia       7.5
 Robert Koehler        
 Diego Batlle          
-Diego Lerer           
-Fernando Ganzo        
-Eulàlia Iglesias      
-Ángel Quintana        
-José Luis Losa        
-Pedro Butcher         
+Diego Lerer           7.5
+Fernando Ganzo        4.5
+Eulàlia Iglesias     7
+Ángel Quintana       7
+José Luis Losa       7.5
+Pedro Butcher         6
 Jose Luis De Lorenzo  
 Alex Vicente          
 Carlo Chatrian        
 Violeta Kovacsics     
-Luciano Monteagudo    
-Jaime Pena            
-Rüdiger Suchsland     
-Carlos Heredero       
+Luciano Monteagudo    7
+Jaime Pena            6
+Rüdiger Suchsland    
+Carlos Heredero       5.5
 Luciano Barisone      
-Giona Nazzaro         
+Giona Nazzaro         4.5
 Dana Linssen          
-Cristina Nord         
+Cristina Nord         9
 Francisco Ferreira    
 Cecilia Martinez      
 Paolo Moretti         
@@ -75,45 +72,72 @@ Neil Young
 Ronald Rovers         
 Marcelo Alderete      
 Michal Oleszczyk      
-Manu Yañez            
+Manu Yañez           
 Carlos Reviriego      
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          
-Inma Merino           
+Inma Merino           7
 Fredy Friedlander     
 Pablo Scholz          
-Alejandro Calvo       
-Xavi Serra            
+Alejandro Calvo       6
+Xavi Serra            6
 Guido Castillo        
 Pamela Bienzobas      
-Javier Estrada          
+Javier Estrada        8
+Boris Nelepo          
+
+Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
+
+"WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
 
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
+
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
+
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
+
 "TWO DAYS, ONE NIGHT" (Jean-Pierre and Luc DARDENNE) [Competition]
+
 "MOMMY" (Xavier DOLAN) [Competition]
+
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
+
 "GOODBYE TO LANGUAGE" (Jean-Luc GODARD) [Competition]
+
 "THE SEARCH" (Michel HAZANAVICIUS) [Competition]
+
 "JIMMY’S HALL" (Ken LOACH) [Competition]
+
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
+
 "FUTATSUME NO MADO (Still the Water)" (KAWASE Naomi) [Competition]
-"MR TURNER" (Mike LEIGH) [Competition]
+
 "FOXCATCHER" (Bennett MILLER) [Competition]
+
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
+
 "RETRATOS SALVAJES (Wild Tales)" (Damian SZIFRON) [Competition]
+
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
 
 "COMING HOME" (Zhang YIMOU) [Out Of Competition]
+
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
+
 "LES GENS DU MONDE (People of the World)" (Yves JEULAND) [Out Of Competition]
+
 
 UN CERTAIN REGARD
 
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
+Roger Koza            4.5
+Alexandra Zawia       4
+José Luis Losa       3
+Alejandro Calvo       5.5
+Xavi Serra            5
+
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
 "THE BLUE ROOM" (Mathieu AMALRIC) [Un Certain Regard]
@@ -135,16 +159,24 @@ Diego Lerer        10
 
 
 "LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
+
 "RUN" (Philippe LACOTE) [Un Certain Regard]
+
 "THE SALT OF THE EARTH" (Wim WENDERS and Juliano Ribeiro SALGADO) [Un Certain Regard]
+
 "SNOW IN PARADISE" (Andrew HULME) [Un Certain Regard]
+
 "TITLI" (Kanu BEHL) [Un Certain Regard]
+
 "TOURIST" (Ruben OSTLUND) [Un Certain Regard]
+
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
+
 
 MIDNIGHT SCREENINGS
 
 "THE ROVER" (David MICHOD) [Special Screening]
+
 "THE SALVATION" (Kristian LEVRING) [Special Screening]
 
 "PYOJEOK - THE TARGET" (YOON Hong-seung aka Chang) [Special Screening]
@@ -156,19 +188,49 @@ SPECIAL SCREENINGS
   http://www.festival-cannes.fr/en/
 Scott Foundas         2
 Roger Koza            2
+Alexandra Zawia       
+Robert Koehler        
 Diego Batlle          5
 Diego Lerer           4
 Fernando Ganzo        0.5
 Eulàlia Iglesias     2.5
 Ángel Quintana       2
+José Luis Losa       
+Pedro Butcher         3
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    3
 Jaime Pena            0.5
+Rüdiger Suchsland    
+Carlos Heredero       
+Luciano Barisone      
 Giona Nazzaro         1
+Dana Linssen          
 Cristina Nord         1.5
 Francisco Ferreira    1
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
 Ronald Rovers         2
+Marcelo Alderete      
 Michal Oleszczyk      1.5
+Manu Yañez           
+Carlos Reviriego      
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           1
+Fredy Friedlander     
+Pablo Scholz          
+Alejandro Calvo       
+Xavi Serra            1.5
+Guido Castillo        
+Pamela Bienzobas      
 Javier Estrada        2.5
+Boris Nelepo          
 # criticwire
 Kevin Jagernauth        
 Ryland Aldrich          
@@ -260,51 +322,84 @@ Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reac
 David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
 Jordan Hoffman		3	http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
 
+"SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
+Luciano Monteagudo    8.5
+Luciano Barisone      9
+Giona Nazzaro         8
+
 "THE BRIDGES OF SARAJEVO" (various directors) [Special Screening]
-"EAU ARGENTEE" (Mohammed OSSAMA) [Special Screening]
+
 "MAIDAN" (Sergei LOZNITSA) [Special Screening]
+
 "RED ARMY" (Gabe POLSKY) [Special Screening]
+
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
 
 SEMAINE
 "FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
+
 "DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
+
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
+
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
+
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
+
 "WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
+
 "HOPE" (Boris LOJKINE) [Semaine]
+
 "SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
+
 "HIPPOCRATES" (Thomas LILTI) [Semaine]
 
 "BREATHE" (Mélanie LAURENT) [Special Screening]
+
 "THE KINDERGARTEN TEACHER (Haganenet)" (Nadav LAPID) [Special Screening]
 
 QUINZAINE
+
 "BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
+Luciano Barisone      5.5
+
 "ALLELUIA" (Fabrice du WELZ) [Quinzaine]
+
 "NEXT TO HER" (Asaf KORMAN) [Quinzaine]
+
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
+
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
+
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
+
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
+
 "LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
+
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
 Paolo Bertolin     7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+
 "QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
+
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
+
 "THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
+
 "TU DORS NICOLE" (Stéphane LAFLEUR) [Quinzaine]
+
 "WHIPLASH" (Damien CHAZELLE) [Quinzaine]
   Sundance
+
 "PRIDE" (Matthew WARCHUS) [Quinzaine]
 
 "P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
+
 "THE TEXAS CHAIN SAW MASSACRE" (Tobe HOOPER) [Special Screening]
 
 
