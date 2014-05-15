@@ -43,6 +43,7 @@ Luciano Monteagudo    8
 Carlos Heredero       7
 Giona Nazzaro         8
 Cristina Nord         4
+Carlos Reviriego      7
 Alejandro Calvo       7
 Xavi Serra            7
 # Screen Daily (0-4)
@@ -142,7 +143,7 @@ Ronald Rovers
 Marcelo Alderete      
 Michal Oleszczyk      
 Manu Yañez           
-Carlos Reviriego      
+Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
@@ -264,6 +265,7 @@ Diego Batlle          7
 Diego Lerer           6
 José Luis Losa        3
 Carlos Heredero       6
+Carlos Reviriego      4
 Alejandro Calvo       5.5
 Xavi Serra            5
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
@@ -289,6 +291,7 @@ Arnaud Hée         7.5
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
 Ángel Quintana     6.5
+Carlos Reviriego   5.5
 Inma Merino        6.5
 
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
