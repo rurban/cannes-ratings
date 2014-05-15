@@ -40,6 +40,8 @@ Giona Nazzaro         8
 Cristina Nord         4
 Alejandro Calvo       7
 Xavi Serra            7
+# criticwire
+Mike d'Angelo         6.8	https://twitter.com/gemko/status/466876493541699584
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
 Scott Foundas         
