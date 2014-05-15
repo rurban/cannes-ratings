@@ -57,13 +57,12 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                 
-Arnaud Hée           
-Christoph Huber           
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
 Frédéric Jaeger          
-Till Kadritzke       
-Daniel Kasman             
-Michael Kienzl            
+Till Kadritzke           
+Daniel Kasman            
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
@@ -169,13 +168,12 @@ Kate Muir/Wendy Ide
 Bo Green Jensen      
 Screen International 
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                 
+Miriam Bale
 Arnaud Hée           
 Christoph Huber           
-Frédéric Jaeger          
-Till Kadritzke       
-Daniel Kasman             
-Michael Kienzl            
+Frédéric Jaeger          6
+Till Kadritzke           7.5
+Daniel Kasman            7.5
 # ioncinema 0-5
 Nicolas Bell         
 Christophe Beney     
@@ -378,6 +376,7 @@ Michael Sennhauser
 John Bleasdale          
 Marc van de Klashorst   
 Catherine Shoard     
+Frédéric Jaeger         2.5     http://www.critic.de/film/grace-of-monaco-5745/
 Eric Kohn   		5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
 Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
 Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
@@ -435,9 +434,25 @@ Paolo Bertolin   5
 
 
 SEMAINE
+
 "FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          7.5
+Till Kadritzke           
+Daniel Kasman            
 
 "DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          6
+Till Kadritzke       
+Daniel Kasman             
+
 
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 
@@ -457,10 +472,18 @@ SEMAINE
 
 "THE KINDERGARTEN TEACHER (Haganenet)" (Nadav LAPID) [Special Screening]
 
+
 QUINZAINE
 
 "BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
 Luciano Barisone      5.5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          
+Till Kadritzke        7.5
+Daniel Kasman             
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 
@@ -607,13 +630,12 @@ Screen International (Screen International, USA)
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics[4] = "
-Adam Cook (MUBI, USA)
+Miriam Bale (MUBI, USA)
 Arnaud Hée (Critikat.com, France)
 Christoph Huber (Die Presse, Austria)
 Frédéric Jaeger (critic.de, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
 Daniel Kasman (MUBI, USA)
-Michael Kienzl (critic.de, Deutschland)
 ";
 # TF1.fr
 $critics[5] = "
@@ -629,6 +651,7 @@ Philippe Rouyer (Positif, France)
 ";
 # indiewire + various other
 $critics[6] = "
+Adam Cook (MUBI, USA)
 A.A. Dowd (Time Out Chicago, USA)
 Aaron Hillis (GreenCine Daily, USA)
 Adam Batty (Hope Lies at 24 Frames Per Second, UK)
@@ -699,7 +722,8 @@ Mathilde Cesbron (Le Figaro, France)
 Matt Holmes (Obsessedwithfilm.com, USA) 
 Maxime Pargaud (Le Figaro, France)
 Michael Ghennam (Les Fiches du Cinéma, France)
-Michael Giltz (The Huffington Post, USA) 
+Michael Giltz (The Huffington Post, USA)
+Michael Kienzl (critic.de, Deutschland)
 Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
 Oliver Lyttleton (The Playlist, USA)
