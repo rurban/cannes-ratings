@@ -106,9 +106,6 @@ Javier Estrada
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
 "RETRATOS SALVAJES (Wild Tales)" (Damian SZIFRON) [Competition]
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
-"LEVIATHAN" (Andrey ZVYAGINSTEV) [Competition]
-"WILD TALES" (Damian SZIFRON) [Competition]
-"LE MERAVIGLIE" (Alice ROHRWACHER) [Competition]
 
 "COMING HOME" (Zhang YIMOU) [Out Of Competition]
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
