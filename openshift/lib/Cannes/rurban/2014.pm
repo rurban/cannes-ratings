@@ -27,190 +27,20 @@ package Cannes::rurban::2014;
 use utf8;
 our $DATA= <<'EOF';
 
-"GRACE OF MONACO" (Olivier DAHAN) [Out of Competition]
-  http://www.festival-cannes.fr/en/
-Scott Foundas         2
-Roger Koza            2
-Alexandra Zawia       0
-Robert Koehler        
-Diego Batlle          5
-Diego Lerer           4
-Fernando Ganzo        0.5
-Eulàlia Iglesias      2.5
-Ángel Quintana        2
-José Luis Losa        0
-Pedro Butcher         
-Jose Luis De Lorenzo  
-Alex Vicente          
-Carlo Chatrian        
-Violeta Kovacsics     
-Luciano Monteagudo    
-Jaime Pena            0.5
-Rüdiger Suchsland     
-Carlos Heredero       0
-Luciano Barisone      
-Giona Nazzaro         1
-Dana Linssen          
-Cristina Nord         1.5
-Francisco Ferreira    1
-Cecilia Martinez      
-Paolo Moretti         
-Neil Young            
-Ronald Rovers         2
-Marcelo Alderete      
-Michal Oleszczyk      1.5
-Manu Yañez            
-Carlos Reviriego      
-Fernando Juan Lima    
-Paolo Bertolin        
-Nando Salva           
-Philip Engel          
-Inma Merino           1
-Fredy Friedlander     
-Pablo Scholz          
-Alejandro Calvo       0
-Xavi Serra            
-Guido Castillo        
-Pamela Bienzobas      
-Javier Estrada        2.5 
-# criticwire
-Kevin Jagernauth        
-Ryland Aldrich          
-Craig Skinner           
-Alex Billington         
-Patrick McGavin         
-Mike d'Angelo           3.3	https://twitter.com/gemko/status/466516357241376768
-Michael Sennhauser      
-John Bleasdale          
-Marc van de Klashorst   
-Catherine Shoard     
-# Screen Daily (0-4)
-Nick James           
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
-Dennis Lim           
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
-Joachim Kurz 	    
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Adam Cook                 
-Arnaud Hée           
-Christoph Huber           
-Frédéric Jaeger          
-Till Kadritzke       
-Daniel Kasman             
-Michael Kienzl            
-# ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-#Mike d'Angelo       
-#Carlos F. Heredero  
-Raffi Asdourian      
-#Eric Kohn   B-           
-Eric Kohn   		5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
-Eric Lavallée        
-Fabien Lemercier     
-Guy Lodge            
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli    
-Blake Williams       
-#Neil Young          
-# Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
-# TF1.fr 0-5
-Aurelien Allin        
-Evangeline Barbaroux  
-Thomas Baurez         
-Stephanie Belpeche    
-Roman Blondaeu        
-Stephanie Lamome      
-Roman Vern            
-Mehdi Omais           
-#Philippe Rouyer      
-Stephanie Zacharek    
-Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
-Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
-Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
-Oliver Lyttleton     0      http://blogs.indiewire.com/theplaylist/cannes-review-olivier-dahans-grace-of-monaco-starring-nicole-kidman-tim-roth-20140514 
-Robbie Collin        2      http://www.telegraph.co.uk/culture/film/filmreviews/10829756/Grace-of-Monaco-Cannes-2014-review.html
-Nicholas Barber      2      http://www.bbc.com/culture/story/20140514-review-princess-grace-of-monaco
-Richard Corliss      2      http://time.com/98922/review-grace-of-monaco-scandal/
-Fionnuala Hannigan   2      http://www.screendaily.com/reviews/the-latest/grace-of-monaco/5071634.article
-Scott Foundas        2	    http://variety.com/2014/film/reviews/cannes-film-review-grace-of-monaco-1201180574/
-Guy Lodge            	    http://www.hitfix.com/in-contention/review-grace-of-monaco-opens-cannes-on-a-graceless-note
-Peter Labuza	     2      http://thefilmstage.com/reviews/cannes-review-grace-of-monaco/
-Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reaction-review-1  
-David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
-Jordan Hoffman		3	http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
-
 COMPETITION
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
-Scott Foundas         
-Roger Koza            
 Alexandra Zawia       7.5
-Robert Koehler        
-Diego Batlle          
 Diego Lerer           7.5
 Fernando Ganzo        4.5
-Eulàlia Iglesias      
-Ángel Quintana        7
-José Luis Losa        7.5
-Pedro Butcher         
-Jose Luis De Lorenzo  
-Alex Vicente          
-Carlo Chatrian        
-Violeta Kovacsics     
-Luciano Monteagudo    
+Ángel Quintana       7
+José Luis Losa       7.5
 Jaime Pena            6
-Rüdiger Suchsland     
 Carlos Heredero       5.5
-Luciano Barisone      
 Giona Nazzaro         5
-Dana Linssen          
-Cristina Nord         
-Francisco Ferreira    
-Cecilia Martinez      
-Paolo Moretti         
-Neil Young            
-Ronald Rovers         
-Marcelo Alderete      
-Michal Oleszczyk      
-Manu Yañez            
-Carlos Reviriego      
-Fernando Juan Lima    
-Paolo Bertolin        
-Nando Salva           
-Philip Engel          
 Inma Merino           7
-Fredy Friedlander     
-Pablo Scholz          
 Alejandro Calvo       6
-Xavi Serra            
-Guido Castillo        
-Pamela Bienzobas      
-Javier Estrada        8 
+Javier Estrada        8
 
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 
@@ -323,8 +153,115 @@ MIDNIGHT SCREENINGS
 "PYOJEOK - THE TARGET" (YOON Hong-seung aka Chang) [Special Screening]
 Paolo Bertolin   5
 
-
 SPECIAL SCREENINGS
+
+"GRACE OF MONACO" (Olivier DAHAN) [Out of Competition]
+  http://www.festival-cannes.fr/en/
+Scott Foundas         2
+Roger Koza            2
+Diego Batlle          5
+Diego Lerer           4
+Fernando Ganzo        0.5
+Eulàlia Iglesias     2.5
+Ángel Quintana       2
+Jaime Pena            0.5
+Giona Nazzaro         1
+Cristina Nord         1.5
+Francisco Ferreira    1
+Ronald Rovers         2
+Michal Oleszczyk      1.5
+Inma Merino           1
+Javier Estrada        2.5
+# criticwire
+Kevin Jagernauth        
+Ryland Aldrich          
+Craig Skinner           
+Alex Billington         
+Patrick McGavin         
+Mike d'Angelo           3.3	https://twitter.com/gemko/status/466516357241376768
+Michael Sennhauser      
+John Bleasdale          
+Marc van de Klashorst   
+Catherine Shoard     
+# Screen Daily (0-4)
+Nick James           
+David Stratton       
+Derek Malcolm        
+Jan Schulz-Ojala     
+Jose Carlos Avellar  
+Dennis Lim           
+Michel Ciment        
+Kate Muir/Wendy Ide  
+Bo Green Jensen      
+Screen International 
+Joachim Kurz 	    
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Adam Cook                 
+Arnaud Hée           
+Christoph Huber           
+Frédéric Jaeger          
+Till Kadritzke       
+Daniel Kasman             
+Michael Kienzl            
+# ioncinema 0-5
+Nicolas Bell         
+Christophe Beney     
+David Calhoun        
+Per Juul Carlsen     
+#Mike d'Angelo       
+#Carlos F. Heredero  
+Raffi Asdourian      
+#Eric Kohn   B-           
+Eric Kohn   		5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+Eric Lavallée        
+Fabien Lemercier     
+Guy Lodge            
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli    
+Blake Williams       
+#Neil Young          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr 0-5
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Roman Blondaeu        
+Stephanie Lamome      
+Roman Vern            
+Mehdi Omais           
+#Philippe Rouyer      
+Stephanie Zacharek    
+Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
+Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
+Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
+Oliver Lyttleton     0      http://blogs.indiewire.com/theplaylist/cannes-review-olivier-dahans-grace-of-monaco-starring-nicole-kidman-tim-roth-20140514 
+Robbie Collin        2      http://www.telegraph.co.uk/culture/film/filmreviews/10829756/Grace-of-Monaco-Cannes-2014-review.html
+Nicholas Barber      2      http://www.bbc.com/culture/story/20140514-review-princess-grace-of-monaco
+Richard Corliss      2      http://time.com/98922/review-grace-of-monaco-scandal/
+Fionnuala Hannigan   2      http://www.screendaily.com/reviews/the-latest/grace-of-monaco/5071634.article
+Scott Foundas        2	    http://variety.com/2014/film/reviews/cannes-film-review-grace-of-monaco-1201180574/
+Guy Lodge            	    http://www.hitfix.com/in-contention/review-grace-of-monaco-opens-cannes-on-a-graceless-note
+Peter Labuza	     2      http://thefilmstage.com/reviews/cannes-review-grace-of-monaco/
+Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reaction-review-1  
+David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
+Jordan Hoffman		3	http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
 
 "THE BRIDGES OF SARAJEVO" (various directors) [Special Screening]
 "EAU ARGENTEE" (Mohammed OSSAMA) [Special Screening]

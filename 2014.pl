@@ -20,14 +20,14 @@ if (-s $c) {
   my $diff = -f $bak ? `diff -bu $c $bak` : "";
   if ($u or $diff) {
     warn "process updates";
-    if (-f $bak) {
-      open $cf, ">$c.text";
+    if (1 or -f $bak) {
+      open $cf, ">", "$c.text";
       select $cf;
     }
     $ch = readhtml($c);
     close $cf;
     if (-f $bak) {
-      open $bf, ">$bak.text";
+      open $bf, ">", "$bak.text";
       select $bf;
       $bh = readhtml($bak);
       close $bf;
@@ -58,6 +58,7 @@ sub readhtml {
       @c = grep { 
 	m{title="(.+?)">} and $_ = $1;
       } split("</th><th", $_);
+      #warn scalar @c." new critics\n";
       next;
     }
     # title
@@ -69,8 +70,8 @@ sub readhtml {
       next;
     }
     # ratings
-    if (m{^\s+<td.*data-toggle="tooltip".*</td>}) {
-      s/^\s+<td//;
+    if (m{<td class="puntaje }) {
+      s|^\s+<td class="text-center .+?</td><td class="text-right">.+?</td>||;
       s/<\/td>$//;
       @r = grep { 
 	s{( class=".+?")?>}{};
@@ -84,6 +85,8 @@ sub readhtml {
 	  }
 	  $i++;
 	}
+      } else {
+        warn scalar @r." ratings for $t. Wanted ".scalar @c."\n";
       }
       next;
     }
