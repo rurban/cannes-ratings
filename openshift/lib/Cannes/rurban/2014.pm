@@ -22,7 +22,7 @@ package Cannes::rurban::2014;
 # C+ 4    C 3   C- 2
 # D+ 1.5  D 1
 # E 0.5   F 0
-# Le film français+Screen Daily 0-4: 0-1, 1-2.5, 2-5, 3-7.5, 4-9
+# Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 
@@ -32,6 +32,8 @@ our $DATA= <<'EOF';
 COMPETITION
 
 "MR TURNER" (Mike LEIGH) [Competition]
+  http://blogs.indiewire.com/criticwire/mike-leighs-mr-turner-cannes-first-masterpiece
+Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
 Alexandra Zawia       8.5
 Diego Batlle          7
 Diego Lerer           6
@@ -47,7 +49,7 @@ Carlos Reviriego      7
 Alejandro Calvo       7
 Xavi Serra            7
 # Screen Daily (0-4)
-Robbie Collin
+Robbie Collin	      10	http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
 David Stratton       
 Derek Malcolm        
 Jan Schulz-Ojala     
@@ -70,13 +72,14 @@ Christophe Beney
 David Calhoun        
 Per Juul Carlsen     
 Paola Casella        
-#Mike d'Angelo       
+Mike d'Angelo       	6.8	http://thedissolve.com/features/postcards-from-cannes/562-test/
+  https://twitter.com/gemko/status/466876493541699584
 Manon Dumais        
 #Carlos F. Heredero  
-#Eric Kohn   	     5		http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+Eric Kohn   	     	8	http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
 Eric Lavallée        
 Fabien Lemercier     
-Guy Lodge            
+Guy Lodge            		http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
 Liu Min              
 Isabelle Regnier     
 Cédric Succivalli    
@@ -108,8 +111,23 @@ Roman Vern
 Mehdi Omais           
 #Philippe Rouyer      
 #critics
-Mike d'Angelo         6.8	https://twitter.com/gemko/status/466876493541699584
 Peter Bradshaw        10	http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
+Leslie Felperin   	        http://www.hollywoodreporter.com/review/mr-turner-cannes-review-704352
+Oliver Lyttleton      8         http://blogs.indiewire.com/theplaylist/cannes-review-mike-leighs-mr-turner-ranks-among-his-very-best-films-20140515
+Kenneth Turan                   http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-cannes-mike-leigh-20140515-column.html
+Jonathan Romney                 http://www.screendaily.com/5071722.article
+Geoffrey MacNab       10        http://www.independent.co.uk/arts-entertainment/films/reviews/mr-turner-first-look-cannes-review-mike-leigh-returns-with-a-rich-character-study-9375692.html
+Dave Calhoun          10        http://www.timeout.com/london/film/mr-turner
+Craig Skinner         7         http://www.filmdivider.com/mr-turner-review/
+Jamie Graham          10        http://www.totalfilm.com/news/cannes-2014-mr-turner-reaction-review
+John Bleasdale        8         http://www.cine-vue.com/2014/05/cannes-2014-mr-turner-review.html
+David Sexton          8         http://www.standard.co.uk/goingout/film/mr-turner-cannes-film-festival--film-review-timothy-spall-does-his-finest-work-in-mike-leighs-new-film-9373697.html
+Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
+Jason Gorber          5         http://twitchfilm.com/2014/05/cannes-2014-review-mr-turner-paints-a-blurry-picture.html
+Nikola Grozdanovich   8.5       http://waytooindie.com/review/movie/mr-turner-cannes-review/
+Michal Oleszczyk                http://www.rogerebert.com/cannes/cannes-2014-dispatch-lust-for-light-in-mike-leighs-mr-turner
+Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-two-mr-turner-that-lovely-girl-party-girl
+
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
 Scott Foundas         
@@ -269,6 +287,7 @@ Carlos Reviriego      4
 Alejandro Calvo       5.5
 Xavi Serra            5
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
+Craig Skinner         3
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
 Diego Batlle          4
@@ -403,6 +422,8 @@ Peter Labuza	     2      http://thefilmstage.com/reviews/cannes-review-grace-of-
 Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reaction-review-1  
 David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
 Jordan Hoffman	     3	    http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
+Rebecca Cope                http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
+
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 
@@ -568,7 +589,7 @@ Luciano Barisone (Duellanti/Panoramiche, Italy)
 Giona Nazzaro (Gender DocuFilm Festival, Italy)
 Luciano Monteagudo (Página/12, Argentina) 
 Marcelo Alderete (Festival de Mar del Plata, Argentina) 
-Michal Oleszczyk (Hammer to Nail, USA)
+Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
 Nando Salva (El Periódico, España) 
 Neil Young (Hollywood Reporter, Tribune, UK) 
 Pablo O. Scholz (Clarín, Argentina)
@@ -678,7 +699,8 @@ Andrei Creţulescu (HBO, Romania)
 Andrew O'Hehir (Salon.com, USA) 
 Anna Bielak (Smells Like Screen Spirit, USA)
 Anna Tatarska (Fandor, KINO, USA)
-Anne Thompson (Indiewire, USA) 
+Anne Thompson (Indiewire, USA)
+Barbara Scharres (RogerEbert.com, USA)
 Beatrice Behn (Kino-Zeit, Deutschland)
 Boyd van Hoeij (The Hollywood Reporter, Winq/Mate, Filmkrant, Cineuropa, Ex-Variety, Luxembourg)
 Brian Brooks (indieWIRE, USA) 
@@ -687,7 +709,7 @@ Catherine Shoard (Guardian, UK)
 Chris Knipp (Filmleaf, USA)
 Clarence Tsui (South China Morning Post, Hong Kong)
 Clementine Gallot (Cahiers du cinema, France)
-Craig Skinner (Craig Skinner on Film, HeyUGuys, BleedingCool, UK)
+Craig Skinner (Film Divider, UK)
 Craig Williams (Cine Vue, UK)
 David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
@@ -695,6 +717,7 @@ David Fear (Time Out New York, USA)
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
 David Rooney (The Hollywood Reporter, USA)
+David Sexton (Evening Standard, )
 David Sterrit (Tikkun Magazine, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
 Drew McWeeny (InContention, USA)
@@ -708,22 +731,25 @@ Eugene Hernandez (Film Society of Lincoln Center, USA)
 Fico Cangiano (CineXpress, Puerto Rico)
 Fionnuala Hannigan (Screen Daily, USA)
 Frédéric Jaeger (critic.de, Deutschland)
+Geoffrey MacNab (The Independent, UK)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
 Ignatiy Vishnevetsky (Freelance, USA)
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
+Jason Gorber (Twitch, )
 Jessica Kiang (The Playlist, USA)
 Jo Ann Titmarsh (FlickeringMyth.com, UK)
 Joachim Kurz (Kino-Zeit, Deutschland)
 Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
 John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
-Jonathan Romney (Sight&Sound, UK)
+Jonathan Romney (Screen Daily, UK)
 Jonathan Rosenbaum (Chicago Reader, USA) 
 Jordan Hoffman (Film.com, ScreenCrush.com, Badass Digest, USA)
 Jordan Raup (The Film Stage, USA)
 Justin Chang (Variety, USA)
 Kaleen Aftab (The Independent, UK)
 Karina Longworth (LA Weekly, USA) 
+Kenneth Turan (Los Angeles Times, USA)
 Keith Uhlich (Time Out New York, USA)
 Kevin Jagernauth (Indiewire's The Playlist, USA) 
 Kirk Honeycott (The Hollywood Reporter, USA)
@@ -731,6 +757,7 @@ Kristy Puchko (Freelance, USA)
 Laremy Legel (Film.com, USA) 
 Leda Galanou (Flix, France)
 Lee Marshall (Screen Daily, USA)
+Leslie Felperin (The Hollywood Reporter, USA)
 Logan Hill (Vulture, New York Times, This American Life, WSJ, Rolling Stone, Wired, GQ, USA)
 Manohla Dargis (New York Times, USA)
 Marc van de Klashorst (IntlCinephileSociety, Netherlands)
@@ -744,6 +771,7 @@ Michael Kienzl (critic.de, Deutschland)
 Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
 Nicholas Barber (BBC, UK)
+Nikola Grozdanovich (Way Too Indie, )
 Oliver Lyttleton (The Playlist, USA)
 Patrick Heidmann (Cineman, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
@@ -755,6 +783,7 @@ Peter Howell (The Toronto Star, USA)
 Peter Keogh (Boston Phoenix, USA)
 Peter Knegt (indieWIRE, USA) 
 Raffi Asdourian (The Film Stage, USA)
+Rebecca Cope (Harper's Bazaar, USA)
 Richard Corliss (Time, USA)
 Robbie Collin (The Telegraph, UK)
 Robert Gassaway (The Flicksation Podcast, USA)
