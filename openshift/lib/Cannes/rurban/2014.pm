@@ -274,7 +274,8 @@ Diego Lerer           3
 Carlos Heredero       6
 Giona Nazzaro         1
 
-"THE BLUE ROOM" (Mathieu AMALRIC) [Un Certain Regard]
+"THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
+Arnaud Hée         7.5
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 
@@ -300,6 +301,7 @@ Diego Lerer        10
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
+Arnaud Hée         5
 
 "TITLI" (Kanu BEHL) [Un Certain Regard]
 
@@ -365,6 +367,13 @@ Guido Castillo
 Pamela Bienzobas      
 Javier Estrada        2.5
 Boris Nelepo          
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée           1
+Christoph Huber          
+Frédéric Jaeger      2.5     http://www.critic.de/film/grace-of-monaco-5745/
+Till Kadritzke       
+Daniel Kasman             
 # criticwire
 Kevin Jagernauth        
 Ryland Aldrich          
@@ -376,8 +385,7 @@ Michael Sennhauser
 John Bleasdale          
 Marc van de Klashorst   
 Catherine Shoard     
-Frédéric Jaeger         2.5     http://www.critic.de/film/grace-of-monaco-5745/
-Eric Kohn   		5	http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
+Eric Kohn   	     5	     http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction           
 Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
 Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
 Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
@@ -450,7 +458,7 @@ Miriam Bale
 Arnaud Hée               
 Christoph Huber          
 Frédéric Jaeger          6
-Till Kadritzke       
+Till Kadritzke           4
 Daniel Kasman             
 
 
@@ -490,6 +498,7 @@ Daniel Kasman
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+Arnaud Hée         9
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 
@@ -502,6 +511,7 @@ Paolo Bertolin     7
 
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
   Sundance Midnight
+Arnaud Hée         4
 
 "THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
 
