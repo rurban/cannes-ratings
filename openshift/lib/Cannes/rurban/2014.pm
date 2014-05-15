@@ -270,6 +270,7 @@ Stephanie Zacharek
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
 Nikola Grozdanović    6.5       http://waytooindie.com/review/movie/timbuktu-cannes-review/
+A.A. Dowd             5
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 
@@ -464,7 +465,7 @@ Jamie Graham		    http://www.totalfilm.com/news/cannes-2014-grace-of-monaco-reac
 David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-2014-grace-of-monaco-26700
 Jordan Hoffman	     3	    http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
 Rebecca Cope                http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
-
+A.A. Dowd            3      http://www.avclub.com/article/cannes-14-day-one-grace-monaco-opens-fest-whimper-204709
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 
@@ -566,7 +567,7 @@ Miriam Bale
 Arnaud Hée               
 Christoph Huber          
 Frédéric Jaeger          
-Till Kadritzke        7.5
+Till Kadritzke        7.5     http://www.critic.de/film/bande-de-filles-6683/
 Daniel Kasman            
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
@@ -743,7 +744,7 @@ Philippe Rouyer (Positif, France)
 # indiewire + various other
 $critics[6] = "
 Adam Cook (MUBI, USA)
-A.A. Dowd (Time Out Chicago, USA)
+A.A. Dowd (AV Club, Time Out Chicago, USA)
 Aaron Hillis (GreenCine Daily, USA)
 Adam Batty (Hope Lies at 24 Frames Per Second, UK)
 Alex Billington (FirstShowing.net, USA)
