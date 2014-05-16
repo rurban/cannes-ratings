@@ -38,7 +38,7 @@ Roger Koza            6
 Alexandra Zawia       8.5
 Robert Koehler        
 Diego Batlle          7
-Diego Lerer           6
+Diego Lerer           6.5
 Fernando Ganzo        3.5
 Eulàlia Iglesias     7.5
 Ángel Quintana       8
@@ -278,6 +278,7 @@ Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 Alexandra Zawia       2
+Diego Lerer           1.5
 Fernando Ganzo        3.5
 José Luis Losa       2.5
 Carlos Heredero       4.5
@@ -332,6 +333,51 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman            
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale
+Arnaud Hée           
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        9
+Daniel Kasman         
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella            
+#Mike d'Angelo        
+Manon Dumais             
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier     
+Guy Lodge             
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli     
+Blake Williams        
+# criticwire
+Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
+  Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
@@ -360,6 +406,7 @@ Daniel Kasman
 "THE SEARCH" (Michel HAZANAVICIUS) [Competition]
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
+Diego Lerer           8
 
 "JIMMY’S HALL" (Ken LOACH) [Competition]
 
@@ -458,6 +505,7 @@ Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
 Alexandra Zawia       6.5
+Diego Lerer           8
 Fernando Ganzo        7.5
 José Luis Losa       8.5
 Carlos Heredero       7
@@ -467,12 +515,19 @@ Fredy Friedlander     7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            7.5
-Christoph Huber       
+Christoph Huber       9
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman         
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale
+Arnaud Hée           
+Christoph Huber       2.5
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
@@ -612,6 +667,7 @@ Inma Merino           8
 Javier Estrada        7.5
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
+Diego Lerer           6.5
 
 "KHALIL GIBRAN’S THE PROPHET" (Roger Allers) [Special Screening]
 
@@ -730,6 +786,8 @@ Jessica Kiang         8
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Koza            4
+Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
+
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
 
