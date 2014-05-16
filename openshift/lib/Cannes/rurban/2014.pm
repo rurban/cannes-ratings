@@ -277,10 +277,11 @@ Jessica Kiang         7
 Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
-Alexandra Zawia       2
+Alexandra Zawia       1
 Diego Lerer           1.5
 Fernando Ganzo        3.5
 José Luis Losa       2.5
+Luciano Monteagudo    3
 Carlos Heredero       4.5
 Michal Oleszczyk      1.5
 Fernando Juan Lima    3.5
@@ -334,7 +335,9 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
+Alexandra Zawia       8
 Diego Lerer           8
+Luciano Monteagudo    8
 Michal Oleszczyk      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
@@ -385,6 +388,7 @@ Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
 "WILD TALES (RETRATOS SALVAJES)" (Damian SZIFRON) [Competition]
+Diego Lerer           7.5
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
 
@@ -409,7 +413,7 @@ Daniel Kasman
 "THE SEARCH" (Michel HAZANAVICIUS) [Competition]
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
-Diego Lerer           8
+Diego Lerer           7.5
 
 "JIMMY’S HALL" (Ken LOACH) [Competition]
 
@@ -425,7 +429,7 @@ UN CERTAIN REGARD
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
 Scott Foundas         
 Roger Koza            4.5
-Alexandra Zawia       4
+Alexandra Zawia       3
 Robert Koehler        
 Diego Batlle          7
 Diego Lerer           6
@@ -438,7 +442,7 @@ Jose Luis De Lorenzo
 Alex Vicente          
 Carlo Chatrian        
 Violeta Kovacsics     
-Luciano Monteagudo    
+Luciano Monteagudo    5.5
 Jaime Pena            4.5
 Rüdiger Suchsland    
 Carlos Heredero       6
@@ -511,6 +515,7 @@ Alexandra Zawia       6.5
 Diego Lerer           8
 Fernando Ganzo        7.5
 José Luis Losa       8.5
+Luciano Monteagudo    8
 Carlos Heredero       7
 Cristina Nord         6.5
 Fernando Juan Lima    8
