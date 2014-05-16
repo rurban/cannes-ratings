@@ -281,6 +281,7 @@ Alexandra Zawia       1
 Diego Lerer           1.5
 Fernando Ganzo        3.5
 José Luis Losa       2.5
+Pedro Butcher         3.5
 Luciano Monteagudo    3
 Carlos Heredero       4.5
 Michal Oleszczyk      1.5
@@ -353,6 +354,7 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
 Alexandra Zawia       8
 Diego Lerer           8
+Pedro Butcher         8.5
 Luciano Monteagudo    8
 Michal Oleszczyk      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -424,8 +426,9 @@ Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cann
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
-"WILD TALES (RETRATOS SALVAJES)" (Damian SZIFRON) [Competition]
+"WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
 Diego Lerer           7.5
+Pedro Butcher         4.5
 Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
@@ -475,7 +478,7 @@ Fernando Ganzo
 Eulàlia Iglesias     
 Ángel Quintana       5.5
 José Luis Losa       3
-Pedro Butcher         
+Pedro Butcher         5
 Jose Luis De Lorenzo  
 Alex Vicente          
 Carlo Chatrian        
@@ -570,6 +573,7 @@ Alexandra Zawia       6.5
 Diego Lerer           8
 Fernando Ganzo        7.5
 José Luis Losa       8.5
+Pedro Butcher         6
 Luciano Monteagudo    8
 Carlos Heredero       7
 Cristina Nord         6.5
