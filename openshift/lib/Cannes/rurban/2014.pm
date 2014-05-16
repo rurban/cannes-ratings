@@ -49,7 +49,7 @@ Alex Vicente
 Carlo Chatrian        
 Violeta Kovacsics     
 Luciano Monteagudo    8
-Jaime Pena            
+Jaime Pena            4.5
 Rüdiger Suchsland    
 Carlos Heredero       7
 Luciano Barisone      
@@ -63,7 +63,7 @@ Neil Young
 Ronald Rovers         
 Marcelo Alderete      
 Michal Oleszczyk      9         http://www.rogerebert.com/cannes/cannes-2014-dispatch-lust-for-light-in-mike-leighs-mr-turner
-Manu Yañez           
+Manu Yañez            5
 Carlos Reviriego      7
 Fernando Juan Lima    
 Paolo Bertolin        
@@ -76,7 +76,7 @@ Alejandro Calvo       7
 Xavi Serra            7
 Guido Castillo        
 Pamela Bienzobas      
-Javier Estrada        
+Javier Estrada        5.5
 Boris Nelepo          
 # Screen Daily (0-4)
 Robbie Collin	      10	http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
@@ -190,12 +190,12 @@ Neil Young
 Ronald Rovers         
 Marcelo Alderete      
 Michal Oleszczyk      
-Manu Yañez           
+Manu Yañez            8.5
 Carlos Reviriego      7.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          7.5
 Inma Merino           7
 Fredy Friedlander     
 Pablo Scholz          
@@ -317,10 +317,13 @@ Alexandra Zawia       4
 Diego Batlle          7
 Diego Lerer           6
 Ángel Quintana       5.5
-José Luis Losa        3
+José Luis Losa       3
+Jaime Pena            4.5
 Carlos Heredero       6
 Michal Oleszczyk      3
+Manu Yañez            3
 Carlos Reviriego      4
+Philip Engel          3.5
 Inma Merino           6
 Alejandro Calvo       5.5
 Xavi Serra            5
@@ -340,10 +343,14 @@ Roger Koza            2
 Diego Batlle          4
 Diego Lerer           3
 Ángel Quintana       5
+José Luis Losa       6.5
+Jaime Pena            3.5
 Carlos Heredero       6
 Giona Nazzaro         1
 Michal Oleszczyk      4
+Philip Engel          4
 Inma Merino           5
+Javier Estrada        4.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -434,12 +441,12 @@ Neil Young
 Ronald Rovers         2
 Marcelo Alderete      
 Michal Oleszczyk      1.5
-Manu Yañez           
+Manu Yañez            3
 Carlos Reviriego      
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          2
 Inma Merino           1
 Fredy Friedlander     
 Pablo Scholz          
@@ -494,6 +501,7 @@ Luciano Monteagudo    8.5
 Luciano Barisone      9
 Giona Nazzaro         8
 Inma Merino           8
+Javier Estrada        7.5
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
 
@@ -540,6 +548,11 @@ Daniel Kasman
 
 "DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
 Eulàlia Iglesias     5
+Ángel Quintana       4.5
+José Luis Losa       5
+Jaime Pena            3
+Giona Nazzaro         4
+Javier Estrada        5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -576,12 +589,19 @@ QUINZAINE
 
 "BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
 Eulàlia Iglesias     7.5
+Ángel Quintana       7
+José Luis Losa       5.5
+Jaime Pena            6
 Carlos Heredero       6.5
 Luciano Barisone      5.5
 Cristina Nord         7.5
+Manu Yañez           7
+Carlos Reviriego      6.5
+Philip Engel          7.5
 Alejandro Calvo       7
 Xavi Serra            6
 Pamela Bienzobas      7
+Javier Estrada        7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
