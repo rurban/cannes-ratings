@@ -282,6 +282,7 @@ Diego Lerer           1.5
 Fernando Ganzo        3.5
 José Luis Losa       2.5
 Carlos Heredero       4.5
+Michal Oleszczyk      1.5
 Fernando Juan Lima    3.5
 Alejandro Calvo       3
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -333,6 +334,8 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
+Diego Lerer           8
+Michal Oleszczyk      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -657,6 +660,7 @@ A.A. Dowd            3      http://www.avclub.com/article/cannes-14-day-one-grac
 Blake Williams       1.5
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
+Michal Oleszczyk      8
 
 "SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
 Carlo Chatrian        9.5
