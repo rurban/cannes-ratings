@@ -114,22 +114,22 @@ Liu Min
 Isabelle Regnier      
 Cédric Succivalli     8
 Blake Williams        6
-# Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+# Le film français 0-4 (0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9)
+Stéphanie Lamome      7.5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          1
+Stéphane Delorme      5
+Thomas Sotinel        2.5
+Philippe Rouyer       5
+Pierre Vavasseur      5
+Pierre Murat          2.5
+Jean Roy              7.5
+Serge Kaganski        1
+Pierre Fornerod       5
+Pascal Merigeau       7.5
+Danielle Attali       5
+Christophe Carriére   9
 # TF1.fr 0-5
 Aurelien Allin        
 Evangeline Barbaroux  
@@ -241,21 +241,21 @@ Isabelle Regnier
 Cédric Succivalli     8
 Blake Williams        6 #(5)
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      5
+Arnaud Schwartz       9
+Fabrice Leclerc       9
+Eric Neuhoff          7.5
+Stéphane Delorme      5
+Thomas Sotinel        7.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      9
+Pierre Murat          5
+Jean Roy              7.5
+Serge Kaganski        7.5
+Pierre Fornerod       5
+Pascal Merigeau       7.5
+Danielle Attali       9
+Christophe Carriére   7.5
 # TF1.fr 0-5
 Aurelien Allin        
 Evangeline Barbaroux  
@@ -328,6 +328,22 @@ Liu Min
 Isabelle Regnier     
 Cédric Succivalli     
 Blake Williams        
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # criticwire
 Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
@@ -381,6 +397,22 @@ Liu Min
 Isabelle Regnier     
 Cédric Succivalli     
 Blake Williams        
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # criticwire
 Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
   Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
@@ -479,6 +511,23 @@ Christoph Huber
 Frédéric Jaeger       6
 Till Kadritzke        
 Daniel Kasman           
+# Le film français 0-4
+Stéphanie Lamome      7.5
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          5
+Stéphane Delorme      2.5
+Thomas Sotinel        
+Philippe Rouyer       7.5
+Pierre Vavasseur      9
+Pierre Murat          5
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       5
+Danielle Attali       
+Christophe Carriére   5
+# criticwire
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
@@ -633,6 +682,22 @@ Christoph Huber      2.5
 Frédéric Jaeger      2.5     http://www.critic.de/film/grace-of-monaco-5745/
 Till Kadritzke       
 Daniel Kasman             
+# Le film français 0-4
+Stéphanie Lamome      1
+Arnaud Schwartz       2.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          2.5
+Stéphane Delorme      
+Thomas Sotinel        1
+Philippe Rouyer       2.5
+Pierre Vavasseur      5
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        1
+Pierre Fornerod       2.5
+Pascal Merigeau       1
+Danielle Attali       2.5
+Christophe Carriére   5
 # criticwire
 Cédric Succivalli    5
 Kevin Jagernauth        
