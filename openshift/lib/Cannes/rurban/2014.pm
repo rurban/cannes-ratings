@@ -18,7 +18,7 @@ package Cannes::rurban::2014;
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014
 # US ratings:
 # A+ 10   A 9   A- 8
-# B+ 7    B 6   B- 5
+# B+ 7    B 6   B- 5 (or 6)
 # C+ 4    C 3   C- 2
 # D+ 1.5  D 1
 # E 0.5   F 0
@@ -79,41 +79,41 @@ Pamela Bienzobas
 Javier Estrada        5.5
 Boris Nelepo          
 # Screen Daily (0-4)
-Robbie Collin	      10	http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
+Robbie Collin	      9		http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
 Stephanie Zacharek              http://www.villagevoice.com/2014-05-14/film/mr-turner-cannes-review/
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber         6
-Frédéric Jaeger          
-Till Kadritzke           
-Daniel Kasman            
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       6
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-Paola Casella        
-Mike d'Angelo       	6.8	http://thedissolve.com/features/postcards-from-cannes/562-test/
+Nicolas Bell          7
+Christophe Beney      
+David Calhoun         9
+Per Juul Carlsen      8
+Paola Casella         7
+Mike d'Angelo         6.8		http://thedissolve.com/features/postcards-from-cannes/562-test/
 # https://twitter.com/gemko/status/466876493541699584
-Manon Dumais        
-#Carlos F. Heredero  
-Eric Kohn   	     	8	http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
-Eric Lavallée           6
-Fabien Lemercier     
-Guy Lodge            	6	http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli       8
-Blake Williams          5
+Manon Dumais          6
+#Carlos Heredero   6
+Eric Kohn   	      8		http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
+Eric Lavallée         6
+Fabien Lemercier      8
+Guy Lodge             6		http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     8
+Blake Williams        6
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -206,40 +206,40 @@ Pamela Bienzobas
 Javier Estrada        8
 Boris Nelepo          
 # Screen Daily (0-4)
-Robbie Collin
-David Stratton       
-Derek Malcolm        
-Jan Schulz-Ojala     
-Jose Carlos Avellar  
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
 Stephanie Zacharek    
-Michel Ciment        
-Kate Muir/Wendy Ide  
-Bo Green Jensen      
-Screen International 
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
-Christoph Huber          6
-Frédéric Jaeger          6
-Till Kadritzke           7.5
-Daniel Kasman            7.5
+Christoph Huber       6
+Frédéric Jaeger       6
+Till Kadritzke        7.5
+Daniel Kasman         7.5
 # ioncinema 0-5
-Nicolas Bell         
-Christophe Beney     
-David Calhoun        
-Per Juul Carlsen     
-Paola Casella           
-#Mike d'Angelo       
-Manon Dumais            
-#Carlos F. Heredero  
-#Eric Kohn   	     
-Eric Lavallée        5
-Fabien Lemercier     
-Guy Lodge            7
+Nicolas Bell          5
+Christophe Beney      
+David Calhoun         8
+Per Juul Carlsen      6
+Paola Casella         5  
+#Mike d'Angelo        6 (5.9)
+Manon Dumais          6
+#Carlos Heredero      6 (5.5)
+#Eric Kohn   	      
+Eric Lavallée         6 (5)
+Fabien Lemercier      8
+Guy Lodge             7
 Liu Min              
 Isabelle Regnier     
-Cédric Succivalli    8
-Blake Williams       5
+Cédric Succivalli     8
+Blake Williams        6 (5)
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -290,6 +290,41 @@ Christoph Huber
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman            
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale
+Arnaud Hée           
+Christoph Huber       6
+Frédéric Jaeger       6
+Till Kadritzke        7.5
+Daniel Kasman         7.5
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         4
+Per Juul Carlsen      
+Paola Casella            
+#Mike d'Angelo        
+Manon Dumais             
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier     
+Guy Lodge             
+Liu Min              
+Isabelle Regnier     
+Cédric Succivalli     
+Blake Williams        
 # criticwire
 Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
@@ -797,7 +832,6 @@ Per Juul Carlsen (Danish National Radio, Denmark)
 Paola Casella (Europa, Italy)
 Mike d'Angelo (AV Club, USA)
 Manon Dumais (Voir, Canada)
-Carlos F. Heredero (Caimán Cuadernos de Cine, España)
 Eric Kohn (Indiewire, USA)
 Eric Lavallée (Ioncinema.com, Canada) 
 Fabien Lemercier (Cineuropa.org, Belgium)
@@ -807,6 +841,7 @@ Isabelle Regnier (Le Monde, France)
 Cédric Succivalli (International Cinephil Society, France) 
 Blake Williams (Ioncinema.com, Canada) 
 ";
+#Carlos Heredero (Caimán Cuadernos de Cine, España)
 # Le film français 0-4
 $critics[2] = "
 Stéphanie Lamome (Premiere, France)
