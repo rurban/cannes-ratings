@@ -55,7 +55,7 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
-    } elsif (/[\w\)] [-\x{2013} \t]*(http\S+)/) { # review link only
+    } elsif (/[\w\)] [-\x{2013}\s]*(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {
@@ -114,11 +114,15 @@ sub _detail {
       $c = abs($c);
     }
     my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
+    if ($critic->{$_}->{mag}) {
+      $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
+    } elsif ($critic->{$_}->{cn}) {
+      $n .= " ($critic->{$_}->{cn})";
+    }
     if ($url) {
       $n = qq(<a href="$url">$n</a>);
       $c = qq(<a href="$url">$c</a>) if $c;
     }
-    $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})" if $critic->{$_}->{mag};
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$n</td>"
       ."<td class=detail>$c</td></tr>\n";
   }
@@ -393,7 +397,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      my $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
+      my $c = sprintf("%s (%s %s)", $_, $critic{$_}->{mag} ? $critic{$_}->{mag}."," : "", $critic{$_}->{cn});
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
       $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td><a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a></td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 

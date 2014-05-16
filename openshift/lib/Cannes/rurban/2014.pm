@@ -102,14 +102,14 @@ Christophe Beney
 David Calhoun         9
 Per Juul Carlsen      8
 Paola Casella         7
-Mike d'Angelo         6.8		http://thedissolve.com/features/postcards-from-cannes/562-test/
+Mike d'Angelo         6.8	http://thedissolve.com/features/postcards-from-cannes/562-test/
 # https://twitter.com/gemko/status/466876493541699584
 Manon Dumais          6
-#Carlos Heredero   6
-Eric Kohn   	      8		http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
+#Carlos Heredero      6
+Eric Kohn             8	        http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
 Eric Lavallée         6
 Fabien Lemercier      8
-Guy Lodge             6		http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
+Guy Lodge             6         http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
 Liu Min               
 Isabelle Regnier      
 Cédric Succivalli     8
@@ -582,7 +582,7 @@ Michael Sennhauser
 John Bleasdale          
 Marc van de Klashorst   
 Catherine Shoard     
-Eric Kohn   	     5	    http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction
+Eric Kohn            5	    http://www.indiewire.com/article/cannes-review-nicole-kidman-is-a-solid-grace-kelly-in-grace-of-monaco-but-is-it-fact-or-fiction
 Peter Bradshaw       2      http://www.theguardian.com/film/2014/may/14/grace-of-monaco-cannes-review-nicole-kidman
 Jonathan Romney      2      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
 Stephen Dalton       2      http://www.hollywoodreporter.com/review/grace-monaco-cannes-review-703460
