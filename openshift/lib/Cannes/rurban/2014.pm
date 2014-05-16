@@ -93,7 +93,7 @@ Screen International
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       6
-Frédéric Jaeger       
+Frédéric Jaeger       4
 Till Kadritzke        
 Daniel Kasman         5
 # ioncinema 0-5
@@ -217,8 +217,8 @@ Kate Muir/Wendy Ide
 Bo Green Jensen       
 Screen International  
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale
-Arnaud Hée           
+Miriam Bale           
+Arnaud Hée            
 Christoph Huber       6
 Frédéric Jaeger       6
 Till Kadritzke        7.5
@@ -358,11 +358,11 @@ Pedro Butcher         8.5
 Luciano Monteagudo    8
 Michal Oleszczyk      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
+Miriam Bale           
 Arnaud Hée               
 Christoph Huber          
-Frédéric Jaeger       
-Till Kadritzke        
+Frédéric Jaeger       7.5
+Till Kadritzke        9
 Daniel Kasman            
 # Screen Daily (0-4)
 Robbie Collin         
@@ -429,6 +429,13 @@ Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cann
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
 Diego Lerer           7.5
 Pedro Butcher         4.5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
 Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
@@ -870,6 +877,13 @@ Jessica Kiang         8
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Koza            4
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger       2.5
+Till Kadritzke        
+Daniel Kasman            
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
 
 
