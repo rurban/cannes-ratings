@@ -417,11 +417,13 @@ Christophe Carriére
 Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
   Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
 Peter Labuza          7         http://thefilmstage.com/reviews/cannes-review-winter-sleep/
+Nikola Grozdanović    9.7       http://waytooindie.com/review/movie/winter-sleep-cannes-review/
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
 "WILD TALES (RETRATOS SALVAJES)" (Damian SZIFRON) [Competition]
 Diego Lerer           7.5
+Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
 
