@@ -107,12 +107,12 @@ Mike d'Angelo       	6.8	http://thedissolve.com/features/postcards-from-cannes/5
 Manon Dumais        
 #Carlos F. Heredero  
 Eric Kohn   	     	8	http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
-Eric Lavallée        
+Eric Lavallée           6
 Fabien Lemercier     
 Guy Lodge            		http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
 Liu Min              
 Isabelle Regnier     
-Cédric Succivalli    
+Cédric Succivalli       8
 Blake Williams       
 # Le film français 0-4
 Stéphanie Lamome      
@@ -233,12 +233,12 @@ Paola Casella
 Manon Dumais            
 #Carlos F. Heredero  
 #Eric Kohn   	     
-Eric Lavallée        
+Eric Lavallée        5
 Fabien Lemercier     
 Guy Lodge            
 Liu Min              
 Isabelle Regnier     
-Cédric Succivalli    
+Cédric Succivalli         8
 Blake Williams       
 # Le film français 0-4
 Stéphanie Lamome      
@@ -273,6 +273,8 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cann
 Nikola Grozdanović    6.5       http://waytooindie.com/review/movie/timbuktu-cannes-review/
 A.A. Dowd             5
 Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
+Jessica Kiang         7
+Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 
@@ -455,9 +457,10 @@ Frédéric Jaeger      2.5     http://www.critic.de/film/grace-of-monaco-5745/
 Till Kadritzke       
 Daniel Kasman             
 # criticwire
+Cédric Succivalli    5
 Kevin Jagernauth        
 Ryland Aldrich          
-Craig Skinner           
+Craig Skinner        1
 Alex Billington         
 Patrick McGavin         
 Mike d'Angelo        3.3    https://twitter.com/gemko/status/466516357241376768
