@@ -164,7 +164,7 @@ Scott Foundas
 Roger Koza            6.5
 Alexandra Zawia       7.5
 Robert Koehler        
-Diego Batlle          
+Diego Batlle          7
 Diego Lerer           7.5
 Fernando Ganzo        4.5
 Eulàlia Iglesias     7
@@ -173,7 +173,7 @@ José Luis Losa       7.5
 Pedro Butcher         6
 Jose Luis De Lorenzo  
 Alex Vicente          
-Carlo Chatrian        
+Carlo Chatrian        5.5
 Violeta Kovacsics     
 Luciano Monteagudo    7
 Jaime Pena            6
@@ -190,7 +190,7 @@ Neil Young
 Ronald Rovers         8
 Marcelo Alderete      
 Michal Oleszczyk      
-Manu Yañez            8.5
+Manu Yañez           8.5
 Carlos Reviriego      7.5
 Fernando Juan Lima    5.5
 Paolo Bertolin        
@@ -202,7 +202,7 @@ Pablo Scholz
 Alejandro Calvo       6
 Xavi Serra            6
 Guido Castillo        
-Pamela Bienzobas      
+Pamela Bienzobas      7.5
 Javier Estrada        8
 Boris Nelepo          
 # Screen Daily (0-4)
@@ -278,12 +278,15 @@ Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 Alexandra Zawia       1
+Diego Batlle          2
 Diego Lerer           1.5
 Fernando Ganzo        3.5
+Eulàlia Iglesias     4
 José Luis Losa       2.5
 Pedro Butcher         3.5
 Luciano Monteagudo    3
 Carlos Heredero       4.5
+Giona Nazzaro         4.5
 Michal Oleszczyk      1.5
 Fernando Juan Lima    3.5
 Alejandro Calvo       3
@@ -353,9 +356,13 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
 Alexandra Zawia       8
+Diego Batlle          8
 Diego Lerer           8
+Eulàlia Iglesias     8
 Pedro Butcher         8.5
 Luciano Monteagudo    8
+Carlos Heredero       9.5
+Giona Nazzaro         5
 Michal Oleszczyk      7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -427,8 +434,12 @@ Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cann
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
+Diego Batlle          8.5
 Diego Lerer           7.5
+Eulàlia Iglesias     6
 Pedro Butcher         4.5
+Carlos Heredero       6
+Alejandro Calvo       6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -577,15 +588,19 @@ Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
 Alexandra Zawia       6.5
+Diego Batlle          8
 Diego Lerer           8
 Fernando Ganzo        7.5
+Eulàlia Iglesias     8
 José Luis Losa       8.5
 Pedro Butcher         6
 Luciano Monteagudo    8
 Carlos Heredero       7
+Giona Nazzaro         8
 Cristina Nord         6.5
 Fernando Juan Lima    8
 Fredy Friedlander     7
+Alejandro Calvo       8.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            7.5
@@ -595,6 +610,9 @@ Till Kadritzke
 Daniel Kasman         
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
+Eulàlia Iglesias     7.5
+Carlos Heredero       5.5
+Giona Nazzaro         6.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
@@ -619,7 +637,7 @@ Inma Merino        6.5
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
 Roger Koza         10
 Diego Batlle          8.5
-Diego Lerer        10
+Diego Lerer           10
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
 
@@ -651,7 +669,7 @@ Scott Foundas         2
 Roger Koza            2
 Alexandra Zawia       
 Robert Koehler        
-Diego Batlle          5
+Diego Batlle          4.5
 Diego Lerer           4
 Fernando Ganzo        0.5
 Eulàlia Iglesias     2.5
@@ -677,7 +695,7 @@ Neil Young
 Ronald Rovers         2
 Marcelo Alderete      
 Michal Oleszczyk      1.5
-Manu Yañez            3
+Manu Yañez           3
 Carlos Reviriego      
 Fernando Juan Lima    2
 Paolo Bertolin        
@@ -758,11 +776,17 @@ Inma Merino           8
 Javier Estrada        7.5
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
+
+Diego Batlle          7
 Diego Lerer           6.5
+Giona Nazzaro         7
 
 "KHALIL GIBRAN’S THE PROPHET" (Roger Allers) [Special Screening]
 
 "THE SALVATION" (Kristian LEVRING) [Special Screening]
+
+Giona Nazzaro         7
+Alejandro Calvo       7
 
 "THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
 
