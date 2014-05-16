@@ -109,11 +109,11 @@ Manon Dumais
 Eric Kohn   	     	8	http://www.indiewire.com/article/cannes-review-why-mike-leighs-mr-turner-starring-timothy-spall-isnt-your-average-biopic
 Eric Lavallée           6
 Fabien Lemercier     
-Guy Lodge            		http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
+Guy Lodge            	6	http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
 Liu Min              
 Isabelle Regnier     
 Cédric Succivalli       8
-Blake Williams       
+Blake Williams          5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -235,11 +235,11 @@ Manon Dumais
 #Eric Kohn   	     
 Eric Lavallée        5
 Fabien Lemercier     
-Guy Lodge            
+Guy Lodge            7
 Liu Min              
 Isabelle Regnier     
-Cédric Succivalli         8
-Blake Williams       
+Cédric Succivalli    8
+Blake Williams       5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -277,6 +277,10 @@ Jessica Kiang         7
 Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
+Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
+Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
+Blake Williams        4.7	https://twitter.com/Astrostic/status/467224160545284096
+
 
 "WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
 
@@ -361,6 +365,8 @@ Daniel Kasman
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
+Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
+
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
 Arnaud Hée         7.5
@@ -492,6 +498,7 @@ David Jenkins		    http://www.littlewhitelies.co.uk/features/festivals/cannes-20
 Jordan Hoffman	     3	    http://www.vanityfair.com/vf-hollywood/grace-of-monaco-cannes?mbid=social_twitter
 Rebecca Cope                http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 A.A. Dowd            3      http://www.avclub.com/article/cannes-14-day-one-grace-monaco-opens-fest-whimper-204709
+Blake Williams       1.5
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 
@@ -612,7 +619,11 @@ Daniel Kasman
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
 Alex Billington               https://twitter.com/firstshowing/status/467039356532686849
-Eric Kohn                     https://twitter.com/erickohn/status/467039545964634112
+Eric Kohn             8       https://twitter.com/erickohn/status/467039545964634112
+Blake Williams        3
+Eric Lavallée         4
+Jessica Kiang         8
+
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 
