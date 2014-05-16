@@ -350,7 +350,7 @@ Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
 Blake Williams        4.7	https://twitter.com/Astrostic/status/467224160545284096
 
 
-"WINTER SLEEP" (Nuri Bilge CEYLAN) [Competition]
+"WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
 Alexandra Zawia       8
 Diego Lerer           8
 Luciano Monteagudo    8
@@ -418,6 +418,9 @@ Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
   Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
 Peter Labuza          7         http://thefilmstage.com/reviews/cannes-review-winter-sleep/
 Nikola Grozdanović    9.7       http://waytooindie.com/review/movie/winter-sleep-cannes-review/
+Jessica Kiang         3         http://blogs.indiewire.com/theplaylist/cannes-review-nuri-bilge-ceylans-winter-sleep-20140516
+Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/winter-sleep-kis-uykusu-cannes-704978
+Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
