@@ -60,17 +60,17 @@ Francisco Ferreira
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
-Ronald Rovers         
+Ronald Rovers         7.5
 Marcelo Alderete      
 Michal Oleszczyk      9         http://www.rogerebert.com/cannes/cannes-2014-dispatch-lust-for-light-in-mike-leighs-mr-turner
 Manu Yañez            5
 Carlos Reviriego      7
-Fernando Juan Lima    
+Fernando Juan Lima    5
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          
 Inma Merino           7
-Fredy Friedlander     
+Fredy Friedlander     6
 Pablo Scholz          
 Alejandro Calvo       7
 Xavi Serra            7
@@ -187,12 +187,12 @@ Francisco Ferreira
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
-Ronald Rovers         
+Ronald Rovers         8
 Marcelo Alderete      
 Michal Oleszczyk      
 Manu Yañez            8.5
 Carlos Reviriego      7.5
-Fernando Juan Lima    
+Fernando Juan Lima    5.5
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          7.5
@@ -277,6 +277,20 @@ Jessica Kiang         7
 Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
+Alexandra Zawia       2
+Fernando Ganzo        3.5
+José Luis Losa       2.5
+Carlos Heredero       4.5
+Fernando Juan Lima    3.5
+Alejandro Calvo       3
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman            
+# criticwire
 Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
 Blake Williams        4.7	https://twitter.com/Astrostic/status/467224160545284096
@@ -297,6 +311,14 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
+Ronald Rovers         7.5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman            
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
 
@@ -316,21 +338,51 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 UN CERTAIN REGARD
 
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
+Scott Foundas         
 Roger Koza            4.5
 Alexandra Zawia       4
+Robert Koehler        
 Diego Batlle          7
 Diego Lerer           6
+Fernando Ganzo        
+Eulàlia Iglesias     
 Ángel Quintana       5.5
 José Luis Losa       3
+Pedro Butcher         
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
+Violeta Kovacsics     
+Luciano Monteagudo    
 Jaime Pena            4.5
+Rüdiger Suchsland    
 Carlos Heredero       6
+Luciano Barisone      
+Giona Nazzaro         
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         6
+Marcelo Alderete      
 Michal Oleszczyk      3
-Manu Yañez            3
+Manu Yañez           3
 Carlos Reviriego      4
+Fernando Juan Lima    6
+Paolo Bertolin        
+Nando Salva           
 Philip Engel          3.5
 Inma Merino           6
+Fredy Friedlander     
+Pablo Scholz          
 Alejandro Calvo       5.5
 Xavi Serra            5
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        
+Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -352,6 +404,7 @@ Jaime Pena            3.5
 Carlos Heredero       6
 Giona Nazzaro         1
 Michal Oleszczyk      4
+Fernando Juan Lima    2
 Philip Engel          4
 Inma Merino           5
 Javier Estrada        4.5
@@ -369,7 +422,20 @@ Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
 
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
-Arnaud Hée         7.5
+Alexandra Zawia       6.5
+Fernando Ganzo        7.5
+José Luis Losa       8.5
+Carlos Heredero       7
+Cristina Nord         6.5
+Fernando Juan Lima    8
+Fredy Friedlander     7
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée            7.5
+Christoph Huber          
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman            
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 
@@ -449,7 +515,7 @@ Marcelo Alderete
 Michal Oleszczyk      1.5
 Manu Yañez            3
 Carlos Reviriego      
-Fernando Juan Lima    
+Fernando Juan Lima    2
 Paolo Bertolin        
 Nando Salva           
 Philip Engel          2
@@ -602,8 +668,10 @@ Jaime Pena            6
 Carlos Heredero       6.5
 Luciano Barisone      5.5
 Cristina Nord         7.5
+Ronald Rovers         7
 Manu Yañez           7
 Carlos Reviriego      6.5
+Fernando Juan Lima    7
 Philip Engel          7.5
 Alejandro Calvo       7
 Xavi Serra            6
@@ -626,6 +694,7 @@ Jessica Kiang         8
 
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
+Roger Koza            4
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
 

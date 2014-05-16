@@ -6,7 +6,7 @@ use utf8;
 my $url = "http://www.todaslascriticas.com.ar/cannes";
 my $c = "Cannes2014.html";
 my $bak = "$c.old";
-$max = 15;
+$max = 20;
 
 unless ($u) {
   move $c, $bak;
