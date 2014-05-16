@@ -416,7 +416,7 @@ Christophe Carriére
 # criticwire
 Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
   Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
-Peter Labuza	      7		http://thefilmstage.com/reviews/cannes-review-winter-sleep/
+Peter Labuza          7         http://thefilmstage.com/reviews/cannes-review-winter-sleep/
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 
