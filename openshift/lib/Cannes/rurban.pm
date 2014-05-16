@@ -11,7 +11,7 @@ sub _read {
   my %title = %{$_[1]};
   my ($critic,$mag,$cn,$out,@t);
   for my $c (@{$critics}) {
-    for (split/\n/,$c) { 
+    for (split/\n/,$c) {
       undef $critic;
       if (/^(\S.+) \((.+), (.+)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
@@ -28,7 +28,7 @@ sub _read {
     if (/^#/) { next; }     #skip
     elsif (/^\s+(\S.*)/ and $title) { # film comments, links
       my $cmt = $1;
-      $cmt =~ s{(http:\S+)}{<a href="$1">$1</a>};
+      $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt;
     } elsif (/^["“](.+)["”]/) {
       my $a = $n ? sprintf("%.02f", $s/$n) : 0;
@@ -53,8 +53,8 @@ sub _read {
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
       $title{$title}->{review}->{$critic} = $url if $url;
-      $critic{$critic}->{cn} = $cn if $cn;
-      $critic{$critic}->{mag} = $mag if $mag;
+      $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
+      $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
     } elsif (/[\w\)] [-\x{2013} \t]*(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
@@ -69,8 +69,8 @@ sub _read {
       next unless $critic;
       $title{$title}->{critic}->{$critic} = [];
       $title{$title}->{review}->{$critic} = $url;
-      $critic{$critic}->{cn} = $cn if $cn;
-      $critic{$critic}->{mag} = $mag if $mag;
+      $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
+      $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
     }
   }
   return ( \%critic, \%title, \@t );
@@ -463,6 +463,7 @@ sub _side_details {
   }
   return $out;
 }
+
 sub _list {
   my $year = shift;
   no strict 'refs';

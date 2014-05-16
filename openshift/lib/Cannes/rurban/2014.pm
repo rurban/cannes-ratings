@@ -229,17 +229,17 @@ Christophe Beney
 David Calhoun         8
 Per Juul Carlsen      6
 Paola Casella         5  
-#Mike d'Angelo        6 (5.9)
+#Mike d'Angelo        6 #(5.9)
 Manon Dumais          6
-#Carlos Heredero      6 (5.5)
+#Carlos Heredero      6 #(5.5)
 #Eric Kohn   	      
-Eric Lavallée         6 (5)
+Eric Lavallée         6 #(5)
 Fabien Lemercier      8
 Guy Lodge             7
 Liu Min              
 Isabelle Regnier     
 Cédric Succivalli     8
-Blake Williams        6 (5)
+Blake Williams        6 #(5)
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -718,7 +718,7 @@ Arnaud Hée
 Christoph Huber          
 Frédéric Jaeger          
 Till Kadritzke        7.5     http://www.critic.de/film/bande-de-filles-6683/
-Daniel Kasman            
+Daniel Kasman         2.5
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
 Alex Billington               https://twitter.com/firstshowing/status/467039356532686849
@@ -807,7 +807,7 @@ Pablo O. Scholz (Clarín, Argentina)
 Paolo Bertolin (Venice International Film Festival, Italy) 
 Paolo Moretti (Italy) 
 Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
-Philipp Engel (Go Mag, España) 
+Philip Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
@@ -833,13 +833,13 @@ Paola Casella (Europa, Italy)
 Mike d'Angelo (AV Club, USA)
 Manon Dumais (Voir, Canada)
 Eric Kohn (Indiewire, USA)
-Eric Lavallée (Ioncinema.com, Canada) 
+Eric Lavallée (Ioncinema.com, Canada)
 Fabien Lemercier (Cineuropa.org, Belgium)
-Guy Lodge (Variety, InContention, South Africa, USA) 
-Liu Min (Sina.com, China) 
-Isabelle Regnier (Le Monde, France) 
-Cédric Succivalli (International Cinephil Society, France) 
-Blake Williams (Ioncinema.com, Canada) 
+Guy Lodge (Variety, InContention, South Africa, USA)
+Liu Min (Sina.com, China)
+Isabelle Regnier (Le Monde, France)
+Cédric Succivalli (International Cinephil Society, France)
+Blake Williams (Ioncinema.com, Canada)
 ";
 #Carlos Heredero (Caimán Cuadernos de Cine, España)
 # Le film français 0-4
@@ -928,7 +928,7 @@ David Fear (Time Out New York, USA)
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
 David Rooney (The Hollywood Reporter, USA)
-David Sexton (Evening Standard, )
+David Sexton (Evening Standard, UK)
 David Sterrit (Tikkun Magazine, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
 Drew McWeeny (InContention, USA)
@@ -1016,7 +1016,7 @@ Todd McCarthy (The Hollywood Reporter, USA)
 Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
 Peter Labuza (The Film Stage, USA)
-Jamie Graham (Total Film, )
+Jamie Graham (Total Film, UK)
 ";
 # former apichatpoll members
 $critics[7] = "
@@ -1025,7 +1025,7 @@ Camille Brunel (Independencia, France)
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
 Gonzalo de Pedro (Caimán, CDC, España) 
 Kong Rithdee (The Bangkok Post, Thailand) 
-Manu Yáñez (Fotogramas, OtrosCines, España) 
+Manu Yañez (Fotogramas, OtrosCines, España) 
 Martial Pisani (Independencia, France) 
 Noémie Luciani (Independencia, France) 
 Olivier Père (Les Inrockuptibles, France) 
