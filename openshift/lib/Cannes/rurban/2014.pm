@@ -95,7 +95,7 @@ Arnaud Hée
 Christoph Huber       6
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman         
+Daniel Kasman         5
 # ioncinema 0-5
 Nicolas Bell          7
 Christophe Beney      
@@ -422,9 +422,9 @@ Boris Nelepo
 Miriam Bale              
 Arnaud Hée               
 Christoph Huber          
-Frédéric Jaeger       6   
+Frédéric Jaeger       6
 Till Kadritzke        
-Daniel Kasman            
+Daniel Kasman           
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
@@ -444,12 +444,12 @@ Philip Engel          4
 Inma Merino           5
 Javier Estrada        4.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
 Frédéric Jaeger       1   
 Till Kadritzke        1
-Daniel Kasman            
+Daniel Kasman         1
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
@@ -465,12 +465,12 @@ Cristina Nord         6.5
 Fernando Juan Lima    8
 Fredy Friedlander     7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
+Miriam Bale           
 Arnaud Hée            7.5
-Christoph Huber          
+Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman            
+Daniel Kasman         
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 
