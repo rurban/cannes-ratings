@@ -978,6 +978,7 @@ Giona Nazzaro         8
 Francisco Ferreira    9
 Inma Merino           8
 Javier Estrada        7.5
+Jean-Baptiste Morain             http://cannes2014.lesinrocks.com/2014/05/17/eau-argentee-syrie-autoportrait-beau-et-troublant-moment-du-festival/
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
 
@@ -1142,6 +1143,7 @@ Javier Estrada        7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 Arnaud Hée         9
+Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 
