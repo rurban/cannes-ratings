@@ -165,6 +165,7 @@ Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day
 Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
 Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/mr-turner
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-mr-turner-von-mike-leigh/
+Glenn Heath Jr        4         https://twitter.com/MatchCuts/status/466941360923504640
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
@@ -291,6 +292,7 @@ Jessica Kiang         7
 Craig Skinner         7
 Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/timbuktu
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-timbuktu-von-abderrahmane-sissako/
+Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/466687416531968004
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001748/year/2014.html
@@ -372,6 +374,8 @@ Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
 Blake Williams        4.7	https://twitter.com/Astrostic/status/467224160545284096
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-the-captive-von-atom-egoyan/
 Craig Skinner         3
+Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/467257765250220032
+
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
@@ -461,6 +465,7 @@ Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cann
 Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
 Craig Skinner         7
+Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/467343190031622144
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
@@ -516,6 +521,7 @@ Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent
 John Frosch                     https://twitter.com/jonfrosch_f24/status/467597511696584704
 Scott Foundas                   https://twitter.com/foundasonfilm/status/467597100000485376
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-14-saint-laurent-von-bertrand-bonello/
+Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/467633645873025024
 
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
@@ -744,6 +750,7 @@ Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/canne
 Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
 Beatrice Behn                http://www.kino-zeit.de/blog/cannes/party-girl
+Glenn Heath Jr        4.5    https://twitter.com/MatchCuts/status/466942277106286592
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
 Roger Koza            2
@@ -807,6 +814,7 @@ Michael Kienzl        2.5
 Boris Nelepo          6
 #Cristina Nord        6 (#6.5 +)
 #Alexandra Zawia      6 (#6.5 +)
+Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/467258586784346112
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 Roger Koza            7.5
@@ -1085,6 +1093,7 @@ Daniel Kasman
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
+Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
 
@@ -1142,7 +1151,7 @@ Eric Kohn             8       https://twitter.com/erickohn/status/46703954596463
 Blake Williams        3
 Eric Lavallée         4
 Jessica Kiang         8
-
+Glenn Heath Jr        2       https://twitter.com/MatchCuts/status/467071641135374336
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Koza            4
