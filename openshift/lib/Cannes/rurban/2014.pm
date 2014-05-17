@@ -462,7 +462,7 @@ Peter Labuza          7         http://thefilmstage.com/reviews/cannes-review-wi
 Nikola Grozdanović    9.7       http://waytooindie.com/review/movie/winter-sleep-cannes-review/
 Jessica Kiang         3         http://blogs.indiewire.com/theplaylist/cannes-review-nuri-bilge-ceylans-winter-sleep-20140516
 Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/winter-sleep-kis-uykusu-cannes-704978
-Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
+Xan Brooks            8         http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
 Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
 Craig Skinner         7
@@ -523,6 +523,7 @@ John Frosch                     https://twitter.com/jonfrosch_f24/status/4675975
 Scott Foundas                   https://twitter.com/foundasonfilm/status/467597100000485376
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-14-saint-laurent-von-bertrand-bonello/
 Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/467633645873025024
+Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
 
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
@@ -592,6 +593,7 @@ Fionnuala Halligan (Screen Daily) http://www.screendaily.com/reviews/the-latest/
 Eric Kohn             9         http://www.indiewire.com/article/cannes-review-pedro-almodovar-produced-wild-tales-is-a-brilliant-social-satire
 Thomas Sotinel                  http://www.lemonde.fr/festival-de-cannes/article/2014/05/17/relatos-salvajes-les-nouveaux-monstres-des-antipodes_4420397_766360.html?xtmc=szifron&xtcr=1
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-relatos-salvajes-von-damian-szifron/
+Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/17/cannes-2014-wild-tales-review-argentinian-portmanteau-movie-is-a-box-of-delights
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
@@ -849,8 +851,9 @@ Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
-"ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard]
+"ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard] Short version
 Oliver Lyttleton                https://twitter.com/olilyttelton/status/467669324984254464
+Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cannes-2014-review-disappearance-eleanor-rigby
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
 
