@@ -486,7 +486,6 @@ Inma Merino           3
 Alejandro Calvo       6
 Xavi Serra            5
 Javier Estrada        5.5
-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -497,6 +496,11 @@ Daniel Kasman
 #Cristina Nord        2.5  (#1)
 Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
 Mike d'Angelo         6.2	https://twitter.com/gemko/status/467444715580035073
+Jay Weissberg (Variety, US)     http://variety.com/2014/film/reviews/cannes-film-review-wild-tales-1201184260/
+David Rooney                    http://www.hollywoodreporter.com/review/wild-tales-relatos-salvajes-cannes-705074
+Fionnuala Halligan (Screen Daily) http://www.screendaily.com/reviews/the-latest/wild-tales/5071980.article?blocktitle=Other-latest-Reviews&contentID=592
+Eric Kohn             9         http://www.indiewire.com/article/cannes-review-pedro-almodovar-produced-wild-tales-is-a-brilliant-social-satire
+Thomas Sotinel                  http://www.lemonde.fr/festival-de-cannes/article/2014/05/17/relatos-salvajes-les-nouveaux-monstres-des-antipodes_4420397_766360.html?xtmc=szifron&xtcr=1
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
 
