@@ -54,7 +54,7 @@ Rüdiger Suchsland
 Carlos Heredero       7
 Luciano Barisone      
 Giona Nazzaro         8
-Dana Linssen          
+Dana Linssen          5
 Cristina Nord         4
 Francisco Ferreira    
 Cecilia Martinez      
@@ -98,8 +98,10 @@ Till Kadritzke
 Daniel Kasman         5
 Michael Kienzl        
 Nino Klinger          6
-Dana Linssen          5
+#Dana Linssen         5  (#5)
+#Cristina Nord        4  (#4)
 Rüdiger Suchsland     2.5
+#Alexandra Zawia      9  (#8.5)
 # ioncinema 0-5
 Nicolas Bell          7
 Christophe Beney      
@@ -185,7 +187,7 @@ Rüdiger Suchsland
 Carlos Heredero       5.5
 Luciano Barisone      
 Giona Nazzaro         4.5
-Dana Linssen          
+Dana Linssen          8
 Cristina Nord         9
 Francisco Ferreira    
 Cecilia Martinez      
@@ -227,7 +229,11 @@ Christoph Huber       6
 Frédéric Jaeger       6
 Till Kadritzke        7.5
 Daniel Kasman         7.5
+Michael Kienzl        6
+Nino Klinger          6
 Dana Linssen          9
+Cristina Nord         9      http://www.taz.de/Kolumne-Cannes-Cannes/!138525/
+Rüdiger Suchsland     
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      
@@ -313,13 +319,14 @@ Screen International
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
-Christoph Huber       6
-Frédéric Jaeger       6
-Till Kadritzke        7.5
-Daniel Kasman         7.5
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        5
+Daniel Kasman         4
 Michael Kienzl        5
 Nino Klinger          6
 Rüdiger Suchsland     6
+#Alexandra Zawia      1 (#1)
 # ioncinema 0-5
 Nicolas Bell          
 Christophe Beney      
@@ -360,6 +367,7 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
+Roger Koza            8
 Alexandra Zawia       8
 Diego Batlle          8
 Diego Lerer           8
@@ -371,18 +379,13 @@ Luciano Monteagudo    8
 Jaime Pena            6
 Carlos Heredero       9.5
 Giona Nazzaro         5
+Dana Linssen          8
+Cristina Nord         8.5
 Michal Oleszczyk      7
 Inma Merino           9
 Xavi Serra            8
 Javier Estrada        7.5
 
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale           
-Arnaud Hée               
-Christoph Huber          
-Frédéric Jaeger       7.5
-Till Kadritzke        9
-Daniel Kasman            
 # Screen Daily (0-4)
 Robbie Collin         
 David Stratton        
@@ -398,13 +401,14 @@ Screen International
 Miriam Bale
 Arnaud Hée           
 Christoph Huber       
-Frédéric Jaeger       
+Frédéric Jaeger       7.5
 Till Kadritzke        9
-Daniel Kasman         
+Daniel Kasman         4
 Michael Kienzl        7.5
-Nino Klinger          
+Nino Klinger          9
 Dana Linssen          
 Boris Nelepo          
+#Cristina Nord        7.5 (#8.5)
 # ioncinema 0-5
 Nicolas Bell          
 Christophe Beney      
@@ -448,8 +452,23 @@ Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/wint
 Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
+Roger Koza            6.5
+Ángel Quintana       8.5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        7.5
+Nino Klinger          
+Boris Nelepo          7.5
+#
+Mike d'Angelo         4.9	https://twitter.com/gemko/status/467605075788300288
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
+Roger Koza            5.5
 Diego Batlle          8.5
 Diego Lerer           7.5
 Eulàlia Iglesias     6
@@ -458,6 +477,7 @@ José Luis Losa       4.5
 Pedro Butcher         4.5
 Jaime Pena            8
 Carlos Heredero       6
+Cristina Nord         1
 Inma Merino           3
 Alejandro Calvo       6
 Xavi Serra            5
@@ -467,10 +487,12 @@ Javier Estrada        5.5
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       
-Frédéric Jaeger       
-Till Kadritzke        
+Frédéric Jaeger       6
+Till Kadritzke        6
 Daniel Kasman         
+#Cristina Nord        2.5  (#1)
 Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
+Mike d'Angelo         6.2	https://twitter.com/gemko/status/467444715580035073
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
 
@@ -481,6 +503,7 @@ Blake Williams        5.3       Ridiculous. A set of six short films, each one l
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
+Dana Linssen          5.5
 Ronald Rovers         7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
@@ -528,14 +551,7 @@ Luciano Monteagudo    5.5
 Jaime Pena            4.5
 Rüdiger Suchsland    
 Carlos Heredero       6
-Luciano Barisone      
-Giona Nazzaro         
-Dana Linssen          
-Cristina Nord         
-Francisco Ferreira    
-Cecilia Martinez      
-Paolo Moretti         
-Neil Young            
+Dana Linssen          5.5
 Ronald Rovers         6
 Marcelo Alderete      
 Michal Oleszczyk      3
@@ -622,6 +638,7 @@ Eulàlia Iglesias     8
 Ángel Quintana       7
 José Luis Losa       8.5
 Pedro Butcher         6
+Carlo Chatrian        8
 Luciano Monteagudo    8
 Jaime Pena            7.5
 Carlos Heredero       7
@@ -633,21 +650,28 @@ Fredy Friedlander     7
 Alejandro Calvo       8.5
 Xavi Serra            6.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# revised critic.de +++ 8.5, ++ 6.5?, + 6.5, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            7.5
 Christoph Huber       9
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman         
+Daniel Kasman         6
 Michael Kienzl        2.5
+Boris Nelepo          6
+#Cristina Nord        6 (#6.5 +)
+#Alexandra Zawia      6 (#6.5 +)
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
+Roger Koza            7.5
 Eulàlia Iglesias     7.5
 Ángel Quintana       6
 José Luis Losa       5.5
 Jaime Pena            5
 Carlos Heredero       5.5
 Giona Nazzaro         6.5
+Dana Linssen          7.5
+Cristina Nord         8
 Inma Merino           6.5
 Javier Estrada        6
 
@@ -655,9 +679,12 @@ Javier Estrada        6
 Miriam Bale
 Arnaud Hée           
 Christoph Huber       2.5
-Frédéric Jaeger       
+Frédéric Jaeger       7.5
 Till Kadritzke        
-Daniel Kasman         
+Daniel Kasman         4
+Michael Kienzl        
+Nino Klinger          7.5
+Boris Nelepo          5
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
@@ -678,11 +705,13 @@ Diego Batlle          8.5
 Diego Lerer           10
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
+Dana Linssen          5
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
-Arnaud Hée         5
+Dana Linssen          6
+Arnaud Hée            5
 
 "TITLI" (Kanu BEHL) [Un Certain Regard]
 
@@ -724,7 +753,7 @@ Rüdiger Suchsland
 Carlos Heredero       
 Luciano Barisone      
 Giona Nazzaro         1
-Dana Linssen          
+Dana Linssen          2
 Cristina Nord         1.5
 Francisco Ferreira    1
 Cecilia Martinez      
@@ -757,7 +786,7 @@ Till Kadritzke
 Daniel Kasman             
 Michael Kienzl        4
 Nino Klinger          5
-Dana Linssen          2.5
+#Dana Linssen          2.5 (#2)
 # Le film français 0-4
 Stéphanie Lamome      1
 Arnaud Schwartz       2.5
@@ -831,10 +860,21 @@ Giona Nazzaro         7
 
 Giona Nazzaro         7
 Alejandro Calvo       7
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          4
+Boris Nelepo          
 
 "THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
 
 "THE ROVER" (David MICHOD) [Special Screening]
+Ángel Quintana       5.5
 
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
@@ -917,6 +957,7 @@ José Luis Losa       5.5
 Jaime Pena            6
 Carlos Heredero       6.5
 Luciano Barisone      5.5
+Dana Linssen          6.5
 Cristina Nord         7.5
 Ronald Rovers         7
 Manu Yañez           7
@@ -928,13 +969,14 @@ Xavi Serra            6
 Pamela Bienzobas      7
 Javier Estrada        7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# revised critic.de +++ 9, ++ 6.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
 Christoph Huber          
 Frédéric Jaeger          
 Till Kadritzke        7.5     http://www.critic.de/film/bande-de-filles-6683/
 Daniel Kasman         2.5
-Dana Linssen          7.5
+#Dana Linssen          7.5  (#6.5)
 #
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
@@ -948,14 +990,14 @@ Jessica Kiang         8
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Koza            4
 Javier Estrada        7
-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée               
 Christoph Huber          
 Frédéric Jaeger       2.5
 Till Kadritzke        
-Daniel Kasman            
+Daniel Kasman 
+# critiwire           
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
 
 
