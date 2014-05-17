@@ -282,14 +282,18 @@ Diego Batlle          2
 Diego Lerer           1.5
 Fernando Ganzo        3.5
 Eulàlia Iglesias     4
+Ángel Quintana       1.5
 José Luis Losa       2.5
 Pedro Butcher         3.5
 Luciano Monteagudo    3
+Jaime Pena            0.5
 Carlos Heredero       4.5
 Giona Nazzaro         4.5
 Michal Oleszczyk      1.5
 Fernando Juan Lima    3.5
+Inma Merino           2
 Alejandro Calvo       3
+Xavi Serra            6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -359,11 +363,18 @@ Alexandra Zawia       8
 Diego Batlle          8
 Diego Lerer           8
 Eulàlia Iglesias     8
+Ángel Quintana       9
+José Luis Losa       9
 Pedro Butcher         8.5
 Luciano Monteagudo    8
+Jaime Pena            6
 Carlos Heredero       9.5
 Giona Nazzaro         5
 Michal Oleszczyk      7
+Inma Merino           9
+Xavi Serra            8
+Javier Estrada        7.5
+
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée               
@@ -437,9 +448,16 @@ Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cann
 Diego Batlle          8.5
 Diego Lerer           7.5
 Eulàlia Iglesias     6
+Ángel Quintana       2.5
+José Luis Losa       4.5
 Pedro Butcher         4.5
+Jaime Pena            8
 Carlos Heredero       6
+Inma Merino           3
 Alejandro Calvo       6
+Xavi Serra            5
+Javier Estrada        5.5
+
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -592,15 +610,19 @@ Diego Batlle          8
 Diego Lerer           8
 Fernando Ganzo        7.5
 Eulàlia Iglesias     8
+Ángel Quintana       7
 José Luis Losa       8.5
 Pedro Butcher         6
 Luciano Monteagudo    8
+Jaime Pena            7.5
 Carlos Heredero       7
 Giona Nazzaro         8
 Cristina Nord         6.5
 Fernando Juan Lima    8
+Inma Merino           6
 Fredy Friedlander     7
 Alejandro Calvo       8.5
+Xavi Serra            6.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            7.5
@@ -611,8 +633,14 @@ Daniel Kasman
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 Eulàlia Iglesias     7.5
+Ángel Quintana       6
+José Luis Losa       5.5
+Jaime Pena            5
 Carlos Heredero       5.5
 Giona Nazzaro         6.5
+Inma Merino           6.5
+Javier Estrada        6
+
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
@@ -635,7 +663,7 @@ Carlos Reviriego   5.5
 Inma Merino        6.5
 
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
-Roger Koza         10
+Roger Koza            10
 Diego Batlle          8.5
 Diego Lerer           10
 
@@ -766,12 +794,14 @@ Blake Williams       1.5
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 Michal Oleszczyk      8
+Xavi Serra            6
 
 "SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
 Carlo Chatrian        9.5
 Luciano Monteagudo    8.5
 Luciano Barisone      9
 Giona Nazzaro         8
+Francisco Ferreira    9
 Inma Merino           8
 Javier Estrada        7.5
 
@@ -779,6 +809,7 @@ Javier Estrada        7.5
 
 Diego Batlle          7
 Diego Lerer           6.5
+José Luis Losa       6.5
 Giona Nazzaro         7
 
 "KHALIL GIBRAN’S THE PROPHET" (Roger Allers) [Special Screening]
@@ -901,6 +932,8 @@ Jessica Kiang         8
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Koza            4
+Javier Estrada        7
+
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée               
@@ -912,6 +945,7 @@ Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-re
 
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
+Javier Estrada        7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 Arnaud Hée         9
