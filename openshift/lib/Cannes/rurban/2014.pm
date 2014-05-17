@@ -34,7 +34,7 @@ COMPETITION
 "MR TURNER" (Mike LEIGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010559/year/2014.html
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
-Roger Koza            6
+Roger Alan Koza            6
 Alexandra Zawia       8.5
 Robert Koehler        
 Diego Batlle          7             http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -171,7 +171,7 @@ Glenn Heath Jr        4         https://twitter.com/MatchCuts/status/46694136092
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
 Scott Foundas         
-Roger Koza            6.5
+Roger Alan Koza            6.5
 Alexandra Zawia       7.5
 Robert Koehler        
 Diego Batlle          7          http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -381,7 +381,7 @@ Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/46725776525
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
-Roger Koza            8
+Roger Alan Koza            8
 Alexandra Zawia       8
 Diego Batlle          8       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           8
@@ -397,6 +397,7 @@ Giona Nazzaro         5
 Dana Linssen          8
 Cristina Nord         8.5
 Michal Oleszczyk      7
+Fernando Juan Lima    7
 Inma Merino           9
 Xavi Serra            8
 Javier Estrada        7.5
@@ -473,12 +474,12 @@ Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/46734319003
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
-Roger Koza            7
+Roger Alan Koza            7
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           7
-Roger Koza            6.5
 Ángel Quintana       8.5
 Pedro Butcher         7.5
+Fernando Juan Lima    7
 Alejandro Calvo       6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -536,7 +537,7 @@ Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/sain
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
-Roger Koza            5.5
+Roger Alan Koza            5.5
 Diego Batlle          8.5
 Diego Lerer           7.5
 Eulàlia Iglesias     6
@@ -547,6 +548,7 @@ Violeta Kovacsics     5
 Jaime Pena            8
 Carlos Heredero       6
 Cristina Nord         1
+Fernando Juan Lima    8
 Inma Merino           3
 Fredy Friedlander     8
 Alejandro Calvo       6
@@ -610,6 +612,7 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/17/cann
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
+Fernando Juan Lima    6.5
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -699,7 +702,7 @@ UN CERTAIN REGARD
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001880/year/2014.html
 Scott Foundas         
-Roger Koza            4.5
+Roger Alan Koza            4.5
 Alexandra Zawia       3
 Robert Koehler        
 Diego Batlle          7
@@ -776,7 +779,7 @@ Glenn Heath Jr        4.5    https://twitter.com/MatchCuts/status/46694227710628
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO/LOIN DE MON PERE)" (Keren YEDAYA) [Un Certain Regard] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008335/year/2014.html
-Roger Koza            2
+Roger Alan Koza            2
 Diego Batlle          4
 Diego Lerer           3
 Ángel Quintana       5
@@ -845,7 +848,7 @@ Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/m
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
-Roger Koza            7.5
+Roger Alan Koza            7.5
 Eulàlia Iglesias     7.5
 Ángel Quintana       6
 José Luis Losa       5.5
@@ -854,6 +857,7 @@ Carlos Heredero       5.5
 Giona Nazzaro         6.5
 Dana Linssen          7.5
 Cristina Nord         8
+Fernando Juan Lima    7
 Inma Merino           6.5
 Fredy Friedlander     5
 Alejandro Calvo       7.5
@@ -880,6 +884,7 @@ Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
 Violeta Kovacsics     5
 Giona Nazzaro         2
+Fernando Juan Lima    4
 Alejandro Calvo       4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -898,7 +903,7 @@ Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cann
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009237/year/2014.html
-Roger Koza            2
+Roger Alan Koza            2
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
@@ -911,7 +916,7 @@ Inma Merino        6.5
 
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
-Roger Koza            10
+Roger Alan Koza            10
 Diego Batlle          8.5
 Diego Lerer           10
 
@@ -953,7 +958,7 @@ SPECIAL SCREENINGS
 "GRACE OF MONACO" (Olivier DAHAN) [Out of Competition]
   http://www.festival-cannes.fr/en/
 Scott Foundas         2
-Roger Koza            2
+Roger Alan Koza            2
 Alexandra Zawia       
 Robert Koehler        
 Diego Batlle          4.5
@@ -1107,6 +1112,7 @@ Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-rev
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           6
 Ángel Quintana       5.5
+Fernando Juan Lima    7
 Alejandro Calvo       5
 Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
 
@@ -1180,7 +1186,7 @@ Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/46763418244
 "THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
 
 "FLA" (Djinn Carrénard) [Opening Film]
-Roger Koza            3
+Roger Alan Koza            3
 Frédéric Jaeger       7.5      http://www.critic.de/film/faire-lamour-6772/
 
 
@@ -1225,7 +1231,7 @@ Jessica Kiang         8
 Glenn Heath Jr        2       https://twitter.com/MatchCuts/status/467071641135374336
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
-Roger Koza            4
+Roger Alan Koza            4
 Javier Estrada        7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1325,7 +1331,6 @@ Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil)
 Philip Engel (Go Mag, España) 
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Rüdiger Suchsland (Negativ-film, arteschock, Deutschland) 
 Scott Foundas (Film Comment, USA) 
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
