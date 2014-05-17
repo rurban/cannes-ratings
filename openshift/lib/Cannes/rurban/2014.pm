@@ -32,7 +32,7 @@ our $DATA= <<'EOF';
 COMPETITION
 
 "MR TURNER" (Mike LEIGH) [Competition]
-  http://blogs.indiewire.com/criticwire/mike-leighs-mr-turner-cannes-first-masterpiece
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010559/year/2014.html
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
 Roger Koza            6
 Alexandra Zawia       8.5
@@ -168,6 +168,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
 Scott Foundas         
 Roger Koza            6.5
 Alexandra Zawia       7.5
@@ -292,6 +293,7 @@ Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/timbuktu
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-timbuktu-von-abderrahmane-sissako/
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001748/year/2014.html
 Alexandra Zawia       1
 Diego Batlle          2         http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           1.5
@@ -372,6 +374,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-
 Craig Skinner         3
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
 Roger Koza            8
 Alexandra Zawia       8
 Diego Batlle          8       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -449,7 +452,7 @@ Danielle Attali
 Christophe Carriére   
 # criticwire
 Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
-  Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
+# Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
 Peter Labuza          7         http://thefilmstage.com/reviews/cannes-review-winter-sleep/
 Nikola Grozdanović    9.7       http://waytooindie.com/review/movie/winter-sleep-cannes-review/
 Jessica Kiang         3         http://blogs.indiewire.com/theplaylist/cannes-review-nuri-bilge-ceylans-winter-sleep-20140516
@@ -460,6 +463,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-
 Craig Skinner         7
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Roger Koza            6.5
 Ángel Quintana       8.5
@@ -515,6 +519,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-
 
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
 Roger Koza            5.5
 Diego Batlle          8.5
 Diego Lerer           7.5
@@ -581,14 +586,19 @@ Thomas Sotinel                  http://www.lemonde.fr/festival-de-cannes/article
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-relatos-salvajes-von-damian-szifron/
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
 Dana Linssen          5.5
 Ronald Rovers         7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -642,19 +652,26 @@ Christophe Carriére
 #
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
 
 "THE SEARCH" (Michel HAZANAVICIUS) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010964/year/2014.html
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
 Diego Lerer           7.5
 
 "JIMMY’S HALL" (Ken LOACH) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100007371/year/2014.html
 
 "MOMMY" (Xavier DOLAN) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010779/year/2014.html
 
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009214/year/2014.html
 
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010863/year/2014.html
 
 
 UN CERTAIN REGARD
@@ -815,12 +832,13 @@ Michael Kienzl
 Nino Klinger          7.5
 Boris Nelepo          5
 #
-Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/amour-fou
+Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
 "ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard]
+Oliver Lyttleton                https://twitter.com/olilyttelton/status/467669324984254464
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
 
