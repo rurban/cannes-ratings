@@ -466,6 +466,9 @@ Nino Klinger
 Boris Nelepo          7.5
 #
 Mike d'Angelo         4.9	https://twitter.com/gemko/status/467605075788300288
+Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
+John Frosch                     https://twitter.com/jonfrosch_f24/status/467597511696584704
+Scott Foundas                   https://twitter.com/foundasonfilm/status/467597100000485376
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
 Roger Koza            5.5
