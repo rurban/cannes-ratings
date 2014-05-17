@@ -1240,7 +1240,10 @@ Javier Estrada        7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 Giona Nazzaro         7.5
-Arnaud Hée         9
+# 
+Arnaud Hée            9
+Michael Kienzl        6
+# 
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
