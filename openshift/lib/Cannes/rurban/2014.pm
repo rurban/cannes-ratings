@@ -369,7 +369,7 @@ Eric Kohn             3         http://www.indiewire.com/article/cannes-review-w
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
 Blake Williams        4.7	https://twitter.com/Astrostic/status/467224160545284096
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-the-captive-von-atom-egoyan/
-
+Craig Skinner         3
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
 Roger Koza            8
@@ -457,6 +457,7 @@ Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/wint
 Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
 Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
+Craig Skinner         7
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
