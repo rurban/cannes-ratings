@@ -695,6 +695,7 @@ Diego Lerer           7.5
 UN CERTAIN REGARD
 
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001880/year/2014.html
 Scott Foundas         
 Roger Koza            4.5
 Alexandra Zawia       3
@@ -771,7 +772,8 @@ Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl
 Beatrice Behn                http://www.kino-zeit.de/blog/cannes/party-girl
 Glenn Heath Jr        4.5    https://twitter.com/MatchCuts/status/466942277106286592
 
-"THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
+"THAT LOVELY GIRL (HARCHECK MI HEADRO/LOIN DE MON PERE)" (Keren YEDAYA) [Un Certain Regard] 
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008335/year/2014.html
 Roger Koza            2
 Diego Batlle          4
 Diego Lerer           3
@@ -802,6 +804,7 @@ Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
 
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005442/year/2014.html
 Alexandra Zawia       6.5
 Diego Batlle          8
 Diego Lerer           8
@@ -839,6 +842,7 @@ Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/46725858678
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/mathieu-amalric-the-blue-room-cannes-review
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
 Roger Koza            7.5
 Eulàlia Iglesias     7.5
 Ángel Quintana       6
@@ -852,7 +856,6 @@ Inma Merino           6.5
 Fredy Friedlander     5
 Alejandro Calvo       7.5
 Javier Estrada        6
-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
@@ -869,8 +872,10 @@ Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000813/year/2014.html
 
-"ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard] Short version
+"THE DISAPPEARANCE OF ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard] Short version
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
 Violeta Kovacsics     5
 Giona Nazzaro         2
 Alejandro Calvo       4
@@ -890,42 +895,55 @@ Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-re
 Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cannes-2014-review-disappearance-eleanor-rigby
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009237/year/2014.html
 
-"TOURIST" (Ruben OSTLUND) [Un Certain Regard]
+"TURIST" (Ruben OSTLUND) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
 Ángel Quintana     6.5
 Carlos Reviriego   5.5
 Inma Merino        6.5
 
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
 Roger Koza            10
 Diego Batlle          8.5
 Diego Lerer           10
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
 Dana Linssen          5
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006042/year/2014.html
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000816/year/2014.html
 Dana Linssen          6
 Arnaud Hée            5
 
 "TITLI" (Kanu BEHL) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005440/year/2014.html
 
 "LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012165/year/2014.html
 
 "THE SALT OF THE EARTH" (Wim WENDERS and Juliano Ribeiro SALGADO) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008611/year/2014.html
 
 "FANTASIA" (Wang CHAO) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002470/year/2014.html
 
 "SNOW IN PARADISE" (Andrew HULME) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010768/year/2014.html
 
 "CHARLIE’S COUNTRY" (Rolf de HEER) [Un Certain Regard]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010761/year/2014.html
 
 "INCOMPRESA (The Misunderstood)" (Asia ARGENTO) [Un Certain Regard]
-
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002304/year/2014.html
 
 SPECIAL SCREENINGS
 
