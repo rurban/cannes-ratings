@@ -896,6 +896,7 @@ Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cann
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009237/year/2014.html
+Roger Koza            2
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
