@@ -554,7 +554,7 @@ Miriam Bale
 Arnaud Hée            
 Christoph Huber       
 Frédéric Jaeger       6
-Till Kadritzke        6
+Till Kadritzke        6         http://www.critic.de/film/wild-tales-6714/
 Daniel Kasman         
 #Cristina Nord        2.5  (#1)
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
