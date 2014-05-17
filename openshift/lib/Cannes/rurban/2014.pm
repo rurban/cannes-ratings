@@ -485,7 +485,7 @@ Christoph Huber       6
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman         5
-Michael Kienzl        7.5
+Michael Kienzl        7.5       http://www.critic.de/film/saint-laurent-6703/
 Nino Klinger          
 Boris Nelepo          7.5
 # ioncinema 0-5
@@ -874,6 +874,16 @@ Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 Violeta Kovacsics     5
 Giona Nazzaro         2
 Alejandro Calvo       4
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        2.5
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+Boris Nelepo          
 #
 Guy Lodge             6         https://twitter.com/GuyLodge/status/467713034207916032
 Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-review-the-disappearance-of-eleanor-rigby-them-starring-jessica-chastain-james-mcavoy-isabelle-huppert-20140517
