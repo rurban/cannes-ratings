@@ -96,6 +96,10 @@ Christoph Huber       6
 Frédéric Jaeger       4
 Till Kadritzke        
 Daniel Kasman         5
+Michael Kienzl        
+Nino Klinger          6
+Dana Linssen          5
+Rüdiger Suchsland     2.5
 # ioncinema 0-5
 Nicolas Bell          7
 Christophe Beney      
@@ -223,6 +227,7 @@ Christoph Huber       6
 Frédéric Jaeger       6
 Till Kadritzke        7.5
 Daniel Kasman         7.5
+Dana Linssen          9
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      
@@ -294,13 +299,6 @@ Fernando Juan Lima    3.5
 Inma Merino           2
 Alejandro Calvo       3
 Xavi Serra            6
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
-Frédéric Jaeger       
-Till Kadritzke        
-Daniel Kasman            
 # Screen Daily (0-4)
 Robbie Collin         
 David Stratton        
@@ -319,6 +317,9 @@ Christoph Huber       6
 Frédéric Jaeger       6
 Till Kadritzke        7.5
 Daniel Kasman         7.5
+Michael Kienzl        5
+Nino Klinger          6
+Rüdiger Suchsland     6
 # ioncinema 0-5
 Nicolas Bell          
 Christophe Beney      
@@ -400,6 +401,10 @@ Christoph Huber
 Frédéric Jaeger       
 Till Kadritzke        9
 Daniel Kasman         
+Michael Kienzl        7.5
+Nino Klinger          
+Dana Linssen          
+Boris Nelepo          
 # ioncinema 0-5
 Nicolas Bell          
 Christophe Beney      
@@ -556,6 +561,7 @@ Christoph Huber
 Frédéric Jaeger       6
 Till Kadritzke        
 Daniel Kasman           
+Rüdiger Suchsland     7.5
 # Le film français 0-4
 Stéphanie Lamome      7.5
 Arnaud Schwartz       
@@ -598,6 +604,9 @@ Christoph Huber
 Frédéric Jaeger       1   
 Till Kadritzke        1
 Daniel Kasman         1
+Michael Kienzl        2.5
+Nino Klinger          1
+#
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
@@ -630,6 +639,7 @@ Christoph Huber       9
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman         
+Michael Kienzl        2.5
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 Eulàlia Iglesias     7.5
@@ -738,13 +748,16 @@ Guido Castillo
 Pamela Bienzobas      
 Javier Estrada        2.5
 Boris Nelepo          
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5 (or 1.5), --- 1
 Miriam Bale              
-Arnaud Hée           1
-Christoph Huber      2.5
-Frédéric Jaeger      2.5     http://www.critic.de/film/grace-of-monaco-5745/
+Arnaud Hée            1
+Christoph Huber       2.5
+Frédéric Jaeger       2.5     http://www.critic.de/film/grace-of-monaco-5745/
 Till Kadritzke       
 Daniel Kasman             
+Michael Kienzl        4
+Nino Klinger          5
+Dana Linssen          2.5
 # Le film français 0-4
 Stéphanie Lamome      1
 Arnaud Schwartz       2.5
@@ -921,6 +934,8 @@ Christoph Huber
 Frédéric Jaeger          
 Till Kadritzke        7.5     http://www.critic.de/film/bande-de-filles-6683/
 Daniel Kasman         2.5
+Dana Linssen          7.5
+#
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-festival-review-girlhood-1201181925/
 Marc van de Klashorst         http://icsfilm.org/news/251-bande-de-filles
 Alex Billington               https://twitter.com/firstshowing/status/467039356532686849
