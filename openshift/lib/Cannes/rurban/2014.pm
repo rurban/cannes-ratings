@@ -1067,7 +1067,7 @@ Javier Estrada        7.5
 Jean-Baptiste Morain             http://cannes2014.lesinrocks.com/2014/05/17/eau-argentee-syrie-autoportrait-beau-et-troublant-moment-du-festival/
 
 "RED ARMY" (Gabe POLSKY) [Special Screening]
-
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011577/year/2014.html
 Diego Batlle          7
 Diego Lerer           6.5
 José Luis Losa       6.5
@@ -1075,10 +1075,8 @@ Giona Nazzaro         6.5
 #
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 
-"KHALIL GIBRAN’S THE PROPHET" (Roger Allers) [Special Screening]
-
-"THE SALVATION" (Kristian LEVRING) [Special Screening]
-
+"THE SALVATION" (Kristian LEVRING) [Out Of Competition - Midnight]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005263/year/2014.html
 Giona Nazzaro         6.5
 Alejandro Calvo       7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -1095,9 +1093,14 @@ Boris Nelepo
 Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/the-salvation
 Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-review-kristian-levrings-the-salvation-starring-mads-mikkelsen-eva-green-20140517
 
-"THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
+"KHALIL GIBRAN’S THE PROPHET" (Roger ALLERS, Gaëtan BRIZZI, ...) [Special Screening]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100016282/year/2014.html
 
-"THE ROVER" (David MICHOD) [Special Screening]
+"THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002115/year/2014.html
+
+"THE ROVER" (David MICHOD) [Out Of Competition - Midnight]
+  http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004744/year/2014.html
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Ángel Quintana       5.5
 Alejandro Calvo       5
@@ -1107,13 +1110,13 @@ Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robe
 
 "EL ARDOR" (Pablo Fendrik) [Special Screening]
 
-"COMING HOME" (Zhang YIMOU) [Out Of Competition]
+"COMING HOME (GUI LAI)" (Zhang YIMOU) [Out Of Competition]
 
 "LES GENS DU MONDE (People of the World)" (Yves JEULAND) [Out Of Competition]
 
 "GERONIMO" (Tony Gatlif) [Special Screening]
 
-"IN THE NAME OF MY DAUGHTER" (Andre Techine) [Out Of Competition]
+"IN THE NAME OF MY DAUGHTER (L'HOMME QU'ON AIMAIT TROP)" (Andre Techine) [Out Of Competition]
 
 "OF MEN AND WAR" (Laurent Bécue-Renard) [Special Screening]
 
@@ -1121,7 +1124,7 @@ Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robe
 
 "THE BRIDGES OF SARAJEVO" (various directors) [Special Screening]
 
-"THE TARGET (PYOJEOK)" (YOON Hong-seung aka Chang) [Special Screening]
+"THE TARGET (PYOJEOK)" (YOON Hong-seung aka Chang) [Out Of Competition - Midnight]
 Paolo Bertolin   5
 
 
