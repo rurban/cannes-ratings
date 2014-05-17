@@ -465,10 +465,10 @@ Roger Koza            6.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
-Christoph Huber       
+Christoph Huber       6
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman         
+Daniel Kasman         5
 Michael Kienzl        7.5
 Nino Klinger          
 Boris Nelepo          7.5
