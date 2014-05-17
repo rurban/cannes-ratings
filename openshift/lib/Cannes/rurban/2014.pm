@@ -164,6 +164,7 @@ Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/goin
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-two-mr-turner-that-lovely-girl-party-girl
 Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
 Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/mr-turner
+Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-mr-turner-von-mike-leigh/
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
@@ -288,6 +289,7 @@ Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege
 Jessica Kiang         7
 Craig Skinner         7
 Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/timbuktu
+Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-timbuktu-von-abderrahmane-sissako/
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 Alexandra Zawia       1
@@ -327,7 +329,7 @@ Till Kadritzke        5
 Daniel Kasman         4
 Michael Kienzl        5
 Nino Klinger          6
-Rüdiger Suchsland     6
+Rüdiger Suchsland     6        http://www.negativ-film.de/2014/05/so-bist-du-meine-tochter-nimmermehr-cannes-blog-4-folge
 #Alexandra Zawia      1 (#1)
 # ioncinema 0-5
 Nicolas Bell          4
@@ -366,6 +368,7 @@ Christophe Carriére
 Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
 Blake Williams        4.7	https://twitter.com/Astrostic/status/467224160545284096
+Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-the-captive-von-atom-egoyan/
 
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
@@ -453,6 +456,7 @@ Jessica Kiang         3         http://blogs.indiewire.com/theplaylist/cannes-re
 Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/winter-sleep-kis-uykusu-cannes-704978
 Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
 Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
+Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
@@ -506,6 +510,8 @@ Mike d'Angelo         4.9	https://twitter.com/gemko/status/467605075788300288
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
 John Frosch                     https://twitter.com/jonfrosch_f24/status/467597511696584704
 Scott Foundas                   https://twitter.com/foundasonfilm/status/467597100000485376
+Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-14-saint-laurent-von-bertrand-bonello/
+
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
 Roger Koza            5.5
@@ -530,6 +536,7 @@ Frédéric Jaeger       6
 Till Kadritzke        6
 Daniel Kasman         
 #Cristina Nord        2.5  (#1)
+Rüdiger Suchsland               http://www.negativ-film.de/2014/05/cannes-ist-keine-geschmacksfrage-cannes-blog-3-folge
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      
@@ -570,6 +577,7 @@ David Rooney                    http://www.hollywoodreporter.com/review/wild-tal
 Fionnuala Halligan (Screen Daily) http://www.screendaily.com/reviews/the-latest/wild-tales/5071980.article?blocktitle=Other-latest-Reviews&contentID=592
 Eric Kohn             9         http://www.indiewire.com/article/cannes-review-pedro-almodovar-produced-wild-tales-is-a-brilliant-social-satire
 Thomas Sotinel                  http://www.lemonde.fr/festival-de-cannes/article/2014/05/17/relatos-salvajes-les-nouveaux-monstres-des-antipodes_4420397_766360.html?xtmc=szifron&xtcr=1
+Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-relatos-salvajes-von-damian-szifron/
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
 
@@ -807,6 +815,7 @@ Nino Klinger          7.5
 Boris Nelepo          5
 #
 Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/amour-fou
+
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
@@ -1209,7 +1218,7 @@ Philip Engel (Go Mag, España)
 Robert Koehler (Variety, USA) 
 Roger Alan Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
 Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Rüdiger Suchsland (arteschock, Deutschland) 
+Rüdiger Suchsland (Negativ-film, arteschock, Deutschland) 
 Scott Foundas (Film Comment, USA) 
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
 Javier Estrada (Caimán CDC, España) 
