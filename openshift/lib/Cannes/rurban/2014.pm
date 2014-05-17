@@ -475,8 +475,10 @@ Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/46734319003
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
 Roger Koza            7
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
+Diego Lerer           7
 Roger Koza            6.5
 Ángel Quintana       8.5
+Pedro Butcher         7.5
 Alejandro Calvo       6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1103,6 +1105,7 @@ Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-rev
 "THE ROVER" (David MICHOD) [Out Of Competition - Midnight]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004744/year/2014.html
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
+Diego Lerer           6
 Ángel Quintana       5.5
 Alejandro Calvo       5
 Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
@@ -1239,6 +1242,8 @@ Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-re
 Javier Estrada        7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+Diego Lerer           8
+Pedro Butcher         8.5
 Giona Nazzaro         7.5
 # 
 Arnaud Hée            9
