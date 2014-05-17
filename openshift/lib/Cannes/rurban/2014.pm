@@ -835,6 +835,7 @@ Boris Nelepo          6
 #Alexandra Zawia      6 (#6.5 +)
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/467258586784346112
+Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/mathieu-amalric-the-blue-room-cannes-review
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
 Roger Koza            7.5
