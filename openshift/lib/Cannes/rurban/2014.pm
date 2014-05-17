@@ -37,7 +37,7 @@ Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film
 Roger Koza            6
 Alexandra Zawia       8.5
 Robert Koehler        
-Diego Batlle          7
+Diego Batlle          7             http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           6.5
 Fernando Ganzo        3.5
 Eulàlia Iglesias     7.5
@@ -170,7 +170,7 @@ Scott Foundas
 Roger Koza            6.5
 Alexandra Zawia       7.5
 Robert Koehler        
-Diego Batlle          7
+Diego Batlle          7          http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           7.5
 Fernando Ganzo        4.5
 Eulàlia Iglesias     7
@@ -289,7 +289,7 @@ Craig Skinner         7
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 Alexandra Zawia       1
-Diego Batlle          2
+Diego Batlle          2         http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           1.5
 Fernando Ganzo        3.5
 Eulàlia Iglesias     4
@@ -369,7 +369,7 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
 Roger Koza            8
 Alexandra Zawia       8
-Diego Batlle          8
+Diego Batlle          8       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           8
 Eulàlia Iglesias     8
 Ángel Quintana       9
@@ -452,6 +452,7 @@ Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/wint
 Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
+Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Roger Koza            6.5
 Ángel Quintana       8.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -877,6 +878,7 @@ Boris Nelepo
 "THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
 
 "THE ROVER" (David MICHOD) [Special Screening]
+Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Ángel Quintana       5.5
 
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
