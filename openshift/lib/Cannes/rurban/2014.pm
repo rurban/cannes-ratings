@@ -500,7 +500,7 @@ Manon Dumais
 #Eric Kohn   	      
 Eric Lavallée         
 Fabien Lemercier      
-Guy Lodge             
+Guy Lodge                       http://variety.com/2014/film/reviews/cannes-film-review-saint-laurent-1201184381/
 Liu Min               
 Isabelle Regnier      
 Cédric Succivalli     
@@ -529,6 +529,7 @@ Scott Foundas                   https://twitter.com/foundasonfilm/status/4675971
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-14-saint-laurent-von-bertrand-bonello/
 Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/467633645873025024
 Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
+
 
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
@@ -874,6 +875,7 @@ Violeta Kovacsics     5
 Giona Nazzaro         2
 Alejandro Calvo       4
 #
+Guy Lodge             6         https://twitter.com/GuyLodge/status/467713034207916032
 Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-review-the-disappearance-of-eleanor-rigby-them-starring-jessica-chastain-james-mcavoy-isabelle-huppert-20140517
 Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cannes-2014-review-disappearance-eleanor-rigby
 
