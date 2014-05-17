@@ -8,7 +8,7 @@ package Cannes::rurban::2014;
 # french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4)
-# http://www.ioncinema.com/news/film-festivals/live-from-cannes-2014-meet-our-cannes-critics-panel
+# http://www.ioncinema.com/news/film-festivals/
 # More:
 # http://www.indiewire.com/critic/
 # http://www.guardian.co.uk/film/series/first-look-review+cannes-2014
@@ -116,8 +116,8 @@ Eric Kohn             8	        http://www.indiewire.com/article/cannes-review-w
 Eric Lavallée         6
 Fabien Lemercier      8
 Guy Lodge             6         http://www.hitfix.com/in-contention/review-mike-leigh-paints-his-own-portrait-in-lovely-robust-mr-turner/single-page
-Liu Min               
-Isabelle Regnier      
+Liu Min               8
+Isabelle Regnier      4
 Cédric Succivalli     8
 Blake Williams        6
 # Le film français 0-4 (0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9)
@@ -247,8 +247,8 @@ Manon Dumais          6
 Eric Lavallée         6 #(5)
 Fabien Lemercier      8
 Guy Lodge             7
-Liu Min              
-Isabelle Regnier     
+Liu Min               8
+Isabelle Regnier      8
 Cédric Succivalli     8
 Blake Williams        6 #(5)
 # Le film français 0-4
@@ -328,22 +328,22 @@ Nino Klinger          6
 Rüdiger Suchsland     6
 #Alexandra Zawia      1 (#1)
 # ioncinema 0-5
-Nicolas Bell          
+Nicolas Bell          4
 Christophe Beney      
 David Calhoun         4
 Per Juul Carlsen      
-Paola Casella            
+Paola Casella         5  
 #Mike d'Angelo        
-Manon Dumais             
-#Carlos Heredero      
+Manon Dumais          4  
+#Carlos Heredero      4
 #Eric Kohn   	      
 Eric Lavallée         
-Fabien Lemercier     
+Fabien Lemercier      4
 Guy Lodge             
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli     
-Blake Williams        
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     5
+Blake Williams        5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -410,22 +410,22 @@ Dana Linssen
 Boris Nelepo          
 #Cristina Nord        7.5 (#8.5)
 # ioncinema 0-5
-Nicolas Bell          
+Nicolas Bell          7
 Christophe Beney      
 David Calhoun         
 Per Juul Carlsen      
 Paola Casella            
 #Mike d'Angelo        
-Manon Dumais             
-#Carlos Heredero      
+Manon Dumais          7  
+#Carlos Heredero      10  (#9.5)
 #Eric Kohn   	      
-Eric Lavallée         
-Fabien Lemercier     
+Eric Lavallée         7
+Fabien Lemercier      8
 Guy Lodge             
-Liu Min              
-Isabelle Regnier     
-Cédric Succivalli     
-Blake Williams        
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     9
+Blake Williams        6
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -465,6 +465,39 @@ Daniel Kasman
 Michael Kienzl        7.5
 Nino Klinger          
 Boris Nelepo          7.5
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella            
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Mike d'Angelo         4.9	https://twitter.com/gemko/status/467605075788300288
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
@@ -494,7 +527,40 @@ Frédéric Jaeger       6
 Till Kadritzke        6
 Daniel Kasman         
 #Cristina Nord        2.5  (#1)
+# ioncinema 0-5
+Nicolas Bell          5
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella            
+#Mike d'Angelo        
+Manon Dumais          6
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
 Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+#
 Mike d'Angelo         6.2	https://twitter.com/gemko/status/467444715580035073
 Jay Weissberg (Variety, US)     http://variety.com/2014/film/reviews/cannes-film-review-wild-tales-1201184260/
 David Rooney                    http://www.hollywoodreporter.com/review/wild-tales-relatos-salvajes-cannes-705074
@@ -520,6 +586,48 @@ Christoph Huber
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman            
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       6
+Till Kadritzke        6
+Daniel Kasman         
+#Cristina Nord        2.5  (#1)
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella            
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+#
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
 
