@@ -163,6 +163,7 @@ Nikola Grozdanović   8.5       http://waytooindie.com/review/movie/mr-turner-ca
 Rebecca Cope                    http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-two-mr-turner-that-lovely-girl-party-girl
 Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
+Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/mr-turner
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
@@ -286,6 +287,7 @@ A.A. Dowd             5
 Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-14-yin-yang.html
 Jessica Kiang         7
 Craig Skinner         7
+Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/timbuktu
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
 Alexandra Zawia       1
@@ -714,6 +716,7 @@ Christophe Carriére   5
 Peter Bradshaw                 http://www.theguardian.com/film/2014/may/15/cannes-party-girl-review-un-certain-regard
 Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
+Beatrice Behn                http://www.kino-zeit.de/blog/cannes/party-girl
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO)" (Keren YEDAYA) [Un Certain Regard]
 Roger Koza            2
@@ -801,6 +804,8 @@ Daniel Kasman         4
 Michael Kienzl        
 Nino Klinger          7.5
 Boris Nelepo          5
+#
+Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/amour-fou
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
@@ -949,6 +954,7 @@ Jordan Hoffman	     3	    http://www.vanityfair.com/vf-hollywood/grace-of-monaco
 Rebecca Cope                http://www.harpersbazaar.co.uk/culture-news/going-out/cannes-film-festival-2014-mr-turner-review
 A.A. Dowd            3      http://www.avclub.com/article/cannes-14-day-one-grace-monaco-opens-fest-whimper-204709
 Blake Williams       1.5
+Joachim Kurz                http://www.kino-zeit.de/blog/cannes/grace-of-monaco
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 Michal Oleszczyk      8
@@ -986,12 +992,15 @@ Daniel Kasman
 Michael Kienzl        
 Nino Klinger          4
 Boris Nelepo          
+#
+Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/the-salvation
 
 "THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
 
 "THE ROVER" (David MICHOD) [Special Screening]
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Ángel Quintana       5.5
+Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
 
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
