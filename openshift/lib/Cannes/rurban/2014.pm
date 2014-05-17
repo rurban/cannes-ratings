@@ -1005,6 +1005,7 @@ Nino Klinger          4
 Boris Nelepo          
 #
 Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/the-salvation
+Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-review-kristian-levrings-the-salvation-starring-mads-mikkelsen-eva-green-20140517
 
 "THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
 
