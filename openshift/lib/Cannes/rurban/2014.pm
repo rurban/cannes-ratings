@@ -452,6 +452,7 @@ Nikola Grozdanović    9.7       http://waytooindie.com/review/movie/winter-slee
 Jessica Kiang         3         http://blogs.indiewire.com/theplaylist/cannes-review-nuri-bilge-ceylans-winter-sleep-20140516
 Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/winter-sleep-kis-uykusu-cannes-704978
 Xan Brooks                      http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
+Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
