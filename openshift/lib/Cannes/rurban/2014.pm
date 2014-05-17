@@ -95,9 +95,9 @@ Arnaud Hée
 Christoph Huber       6
 Frédéric Jaeger       4
 Till Kadritzke        
-Daniel Kasman         5
+Daniel Kasman         5         https://mubi.com/notebook/posts/cannes-2014-mike-leighs-mr-turner
 Michael Kienzl        
-Nino Klinger          6
+Nino Klinger          6         http://www.critic.de/film/mr-turner-6710/
 #Dana Linssen         5  (#5)
 #Cristina Nord        4  (#4)
 Rüdiger Suchsland     2.5
@@ -232,7 +232,7 @@ Arnaud Hée
 Christoph Huber       6
 Frédéric Jaeger       6
 Till Kadritzke        7.5
-Daniel Kasman         7.5
+Daniel Kasman         7.5    https://mubi.com/notebook/posts/cannes-2014-abderrahmane-sissakos-timbuktu
 Michael Kienzl        6
 Nino Klinger          6
 Dana Linssen          9
@@ -329,11 +329,11 @@ Miriam Bale
 Arnaud Hée           
 Christoph Huber       
 Frédéric Jaeger       
-Till Kadritzke        5
-Daniel Kasman         4
+Till Kadritzke        5         http://www.critic.de/film/the-captive-6693/
+Daniel Kasman         4         http://www.mubi.com/notebook/posts/cannes-2014-atom-egoyans-the-captive-mathieu-amalrics-the-blue-room
 Michael Kienzl        5
 Nino Klinger          6
-Rüdiger Suchsland     6        http://www.negativ-film.de/2014/05/so-bist-du-meine-tochter-nimmermehr-cannes-blog-4-folge
+Rüdiger Suchsland     6         http://www.negativ-film.de/2014/05/so-bist-du-meine-tochter-nimmermehr-cannes-blog-4-folge
 #Alexandra Zawia      1 (#1)
 # ioncinema 0-5
 Nicolas Bell          4
@@ -416,7 +416,7 @@ Christoph Huber
 Frédéric Jaeger       7.5
 Till Kadritzke        9
 Daniel Kasman         4
-Michael Kienzl        7.5
+Michael Kienzl        7.5       http://www.critic.de/film/winter-sleep-6704/
 Nino Klinger          9
 Dana Linssen          
 Boris Nelepo          
@@ -809,7 +809,7 @@ Arnaud Hée            7.5
 Christoph Huber       9
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman         6
+Daniel Kasman         6         http://www.mubi.com/notebook/posts/cannes-2014-atom-egoyans-the-captive-mathieu-amalrics-the-blue-room
 Michael Kienzl        2.5
 Boris Nelepo          6
 #Cristina Nord        6 (#6.5 +)
@@ -837,7 +837,7 @@ Frédéric Jaeger       7.5
 Till Kadritzke        
 Daniel Kasman         4
 Michael Kienzl        
-Nino Klinger          7.5
+Nino Klinger          7.5       http://www.critic.de/film/amour-fou-6725/
 Boris Nelepo          5
 #
 Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
