@@ -421,6 +421,7 @@ Nino Klinger          9
 Dana Linssen          
 Boris Nelepo          
 #Cristina Nord        7.5 (#8.5)
+Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 # ioncinema 0-5
 Nicolas Bell          7
 Christophe Beney      
@@ -548,7 +549,8 @@ Frédéric Jaeger       6
 Till Kadritzke        6
 Daniel Kasman         
 #Cristina Nord        2.5  (#1)
-Rüdiger Suchsland               http://www.negativ-film.de/2014/05/cannes-ist-keine-geschmacksfrage-cannes-blog-3-folge
+Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
+#Rüdiger Suchsland               http://www.negativ-film.de/2014/05/cannes-ist-keine-geschmacksfrage-cannes-blog-3-folge
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      
@@ -814,6 +816,7 @@ Michael Kienzl        2.5
 Boris Nelepo          6
 #Cristina Nord        6 (#6.5 +)
 #Alexandra Zawia      6 (#6.5 +)
+Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/467258586784346112
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
@@ -839,6 +842,7 @@ Daniel Kasman         4
 Michael Kienzl        
 Nino Klinger          7.5       http://www.critic.de/film/amour-fou-6725/
 Boris Nelepo          5
+Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 #
 Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 
@@ -1013,6 +1017,8 @@ Diego Batlle          7
 Diego Lerer           6.5
 José Luis Losa       6.5
 Giona Nazzaro         7
+#
+Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 
 "KHALIL GIBRAN’S THE PROPHET" (Roger Allers) [Special Screening]
 
