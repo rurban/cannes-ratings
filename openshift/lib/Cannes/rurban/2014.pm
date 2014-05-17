@@ -47,7 +47,7 @@ Pedro Butcher         7
 Jose Luis De Lorenzo  
 Alex Vicente          
 Carlo Chatrian        
-Violeta Kovacsics     
+Violeta Kovacsics     6.5
 Luciano Monteagudo    8
 Jaime Pena            4.5
 Rüdiger Suchsland    
@@ -184,7 +184,7 @@ Pedro Butcher         6
 Jose Luis De Lorenzo  
 Alex Vicente          
 Carlo Chatrian        5.5
-Violeta Kovacsics     
+Violeta Kovacsics     5.5
 Luciano Monteagudo    7
 Jaime Pena            6
 Rüdiger Suchsland    
@@ -304,6 +304,7 @@ Eulàlia Iglesias     4
 Ángel Quintana       1.5
 José Luis Losa       2.5
 Pedro Butcher         3.5
+Violeta Kovacsics     5.5
 Luciano Monteagudo    3
 Jaime Pena            0.5
 Carlos Heredero       4.5
@@ -311,6 +312,7 @@ Giona Nazzaro         4.5
 Michal Oleszczyk      1.5
 Fernando Juan Lima    3.5
 Inma Merino           2
+Fredy Friedlander     6
 Alejandro Calvo       3
 Xavi Serra            6
 # Screen Daily (0-4)
@@ -387,6 +389,7 @@ Eulàlia Iglesias     8
 Ángel Quintana       9
 José Luis Losa       9
 Pedro Butcher         8.5
+Violeta Kovacsics     7
 Luciano Monteagudo    8
 Jaime Pena            6
 Carlos Heredero       9.5
@@ -470,9 +473,11 @@ Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/46734319003
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
+Roger Koza            7
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Roger Koza            6.5
 Ángel Quintana       8.5
+Alejandro Calvo       6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -535,10 +540,12 @@ Eulàlia Iglesias     6
 Ángel Quintana       2.5
 José Luis Losa       4.5
 Pedro Butcher         4.5
+Violeta Kovacsics     5
 Jaime Pena            8
 Carlos Heredero       6
 Cristina Nord         1
 Inma Merino           3
+Fredy Friedlander     8
 Alejandro Calvo       6
 Xavi Serra            5
 Javier Estrada        5.5
@@ -701,12 +708,19 @@ Pedro Butcher         5
 Jose Luis De Lorenzo  
 Alex Vicente          
 Carlo Chatrian        
-Violeta Kovacsics     
+Violeta Kovacsics     4.5
 Luciano Monteagudo    5.5
 Jaime Pena            4.5
 Rüdiger Suchsland    
 Carlos Heredero       6
+Luciano Barisone      
+Giona Nazzaro         
 Dana Linssen          5.5
+Cristina Nord         
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
 Ronald Rovers         6
 Marcelo Alderete      
 Michal Oleszczyk      3
@@ -796,6 +810,7 @@ Eulàlia Iglesias     8
 José Luis Losa       8.5
 Pedro Butcher         6
 Carlo Chatrian        8
+Violeta Kovacsics     8
 Luciano Monteagudo    8
 Jaime Pena            7.5
 Carlos Heredero       7
@@ -832,6 +847,8 @@ Giona Nazzaro         6.5
 Dana Linssen          7.5
 Cristina Nord         8
 Inma Merino           6.5
+Fredy Friedlander     5
+Alejandro Calvo       7.5
 Javier Estrada        6
 
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -852,7 +869,11 @@ Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 "RUN" (Philippe LACOTE) [Un Certain Regard]
 
 "ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard] Short version
-Oliver Lyttleton                https://twitter.com/olilyttelton/status/467669324984254464
+Violeta Kovacsics     5
+Giona Nazzaro         2
+Alejandro Calvo       4
+#
+Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-review-the-disappearance-of-eleanor-rigby-them-starring-jessica-chastain-james-mcavoy-isabelle-huppert-20140517
 Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cannes-2014-review-disappearance-eleanor-rigby
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
@@ -1019,7 +1040,7 @@ Jean-Baptiste Morain             http://cannes2014.lesinrocks.com/2014/05/17/eau
 Diego Batlle          7
 Diego Lerer           6.5
 José Luis Losa       6.5
-Giona Nazzaro         7
+Giona Nazzaro         6.5
 #
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 
@@ -1027,7 +1048,7 @@ Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-
 
 "THE SALVATION" (Kristian LEVRING) [Special Screening]
 
-Giona Nazzaro         7
+Giona Nazzaro         6.5
 Alejandro Calvo       7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1048,6 +1069,7 @@ Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-rev
 "THE ROVER" (David MICHOD) [Special Screening]
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Ángel Quintana       5.5
+Alejandro Calvo       5
 Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
 
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
@@ -1102,6 +1124,7 @@ Daniel Kasman
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
+Giona Nazzaro         6.5
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
@@ -1129,6 +1152,7 @@ QUINZAINE
 Eulàlia Iglesias     7.5
 Ángel Quintana       7
 José Luis Losa       5.5
+Violeta Kovacsics     7
 Jaime Pena            6
 Carlos Heredero       6.5
 Luciano Barisone      5.5
@@ -1180,6 +1204,7 @@ Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-re
 Javier Estrada        7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+Giona Nazzaro         7.5
 Arnaud Hée         9
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 

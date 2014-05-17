@@ -98,7 +98,7 @@ sub readhtml {
     if ($t{$t}->{_}) {
       my $n = 0;
       for my $c (@c) { $n++ if $t{$t}->{$c}; }
-      print "$t  ($n)\n\n";
+      print "\"$t\"  ($n)\n\n";
       for my $c (@c) {
 	if ($n > $max or $t{$t}->{$c} ne '') {
 	  printf("%-22s%s\n", $c, $t{$t}->{$c});
