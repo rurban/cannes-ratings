@@ -861,7 +861,7 @@ Miriam Bale
 Arnaud Hée           
 Christoph Huber       2.5
 Frédéric Jaeger       7.5
-Till Kadritzke        
+Till Kadritzke        5
 Daniel Kasman         4
 Michael Kienzl        
 Nino Klinger          7.5       http://www.critic.de/film/amour-fou-6725/
@@ -930,7 +930,7 @@ Arnaud Hée            5
 "LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012165/year/2014.html
 
-"THE SALT OF THE EARTH" (Wim WENDERS and Juliano Ribeiro SALGADO) [Un Certain Regard]
+"THE SALT OF THE EARTH" (Juliano Ribeiro SALGADO and Wim WENDERS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008611/year/2014.html
 
 "FANTASIA" (Wang CHAO) [Un Certain Regard]
