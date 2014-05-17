@@ -166,6 +166,7 @@ Josef Lederle                   http://www.filmdienst.de/aktuelles/blogbeitraege
 Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/mr-turner
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-mr-turner-von-mike-leigh/
 Glenn Heath Jr        4         https://twitter.com/MatchCuts/status/466941360923504640
+Richard Mowe          8         http://www.eyeforfilm.co.uk/review/mr-turner-2014-film-review-by-richard-mowe
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
@@ -377,7 +378,7 @@ Blake Williams        4.7	https://twitter.com/Astrostic/status/46722416054528409
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-the-captive-von-atom-egoyan/
 Craig Skinner         3
 Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/467257765250220032
-
+Richard Mowe          6         http://www.eyeforfilm.co.uk/review/the-captive-2014-film-review-by-richard-mowe
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
@@ -471,6 +472,7 @@ Eric Kohn             8         http://www.indiewire.com/article/cannes-review-w
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
 Craig Skinner         7
 Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/467343190031622144
+Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-2014-film-review-by-richard-mowe         
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
@@ -532,6 +534,7 @@ Scott Foundas                   https://twitter.com/foundasonfilm/status/4675971
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-14-saint-laurent-von-bertrand-bonello/
 Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/467633645873025024
 Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
+Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
 
 
 
@@ -900,6 +903,7 @@ Boris Nelepo
 Guy Lodge             6         https://twitter.com/GuyLodge/status/467713034207916032
 Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-review-the-disappearance-of-eleanor-rigby-them-starring-jessica-chastain-james-mcavoy-isabelle-huppert-20140517
 Xan Brooks            6         http://www.theguardian.com/film/2014/may/17/cannes-2014-review-disappearance-eleanor-rigby
+Richard Mowe          8         http://www.eyeforfilm.co.uk/review/eleanor-rigby-2013-film-review-by-richard-mowe
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009237/year/2014.html
@@ -1059,6 +1063,7 @@ Rebecca Cope                http://www.harpersbazaar.co.uk/culture-news/going-ou
 A.A. Dowd            3      http://www.avclub.com/article/cannes-14-day-one-grace-monaco-opens-fest-whimper-204709
 Blake Williams       1.5
 Joachim Kurz                http://www.kino-zeit.de/blog/cannes/grace-of-monaco
+Richard Mowe         4      http://www.eyeforfilm.co.uk/review/grace-of-monaco-2014-film-review-by-richard-mowe
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 Michal Oleszczyk      8
@@ -1242,6 +1247,7 @@ Till Kadritzke
 Daniel Kasman 
 # critiwire           
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
+Richard Mowe          8         http://www.eyeforfilm.co.uk/review/catch-me-daddy-2014-film-review-by-richard-mowe
 
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
@@ -1269,6 +1275,7 @@ Paolo Bertolin     7
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
   Sundance Midnight
 Arnaud Hée         4
+Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/cold-in-july-2014-film-review-by-anne-katrin-titze
 
 "THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
 
