@@ -1290,6 +1290,7 @@ Richard Mowe          8         http://www.eyeforfilm.co.uk/review/catch-me-dadd
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
 Luciano Barisone      7.5
 Javier Estrada        7
+Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-gett-the-trial-of-viviane-amsalem-1201184801/
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 Diego Lerer           8
@@ -1304,6 +1305,7 @@ Arnaud Hée            9
 Michael Kienzl        6
 # 
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
+Keith Uhlich          10    http://www.timeout.com/us/film/national-gallery
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 Luciano Barisone      7
