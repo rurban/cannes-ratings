@@ -34,8 +34,8 @@ COMPETITION
 "MR TURNER" (Mike LEIGH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010559/year/2014.html
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
-Roger Alan Koza            6
-Alexandra Zawia       8.5
+Roger Alan Koza       6
+Alexandra Zawia       8
 Robert Koehler        
 Diego Batlle          7             http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           6.5
@@ -383,26 +383,49 @@ Richard Mowe          6         http://www.eyeforfilm.co.uk/review/the-captive-2
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
-Roger Alan Koza            8
-Alexandra Zawia       8
+Roger Alan Koza       8
+Alexandra Zawia       8.5
 Diego Batlle          8       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           8
+Fernando Ganzo        4
 Eulàlia Iglesias     8
 Ángel Quintana       9
 José Luis Losa       9
 Pedro Butcher         8.5
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
 Violeta Kovacsics     7
 Luciano Monteagudo    8
 Jaime Pena            6
+Rüdiger Suchsland    
 Carlos Heredero       9.5
+Luciano Barisone      
 Giona Nazzaro         5
 Dana Linssen          8
 Cristina Nord         8.5
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         9.5
+Marcelo Alderete      
 Michal Oleszczyk      7
+Manu Yañez           
+Carlos Reviriego      
 Fernando Juan Lima    7
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           9
+Fredy Friedlander     
+Pablo Scholz          
+Alejandro Calvo       
 Xavi Serra            8
+Guido Castillo        
+Pamela Bienzobas      6.5
 Javier Estrada        7.5
+Boris Nelepo          
 
 # Screen Daily (0-4)
 Robbie Collin         
@@ -479,16 +502,21 @@ Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/201
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
 Roger Alan Koza       7
+Alexandra Zawia       6
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           7
 Ángel Quintana       8.5
 José Luis Losa       9
 Pedro Butcher         7.5
 Carlo Chatrian        6
+Violeta Kovacsics     7.5
 Jaime Pena            5.5
+Cristina Nord         8.5
+Ronald Rovers         6.5
 Fernando Juan Lima    7
 Inma Merino           7.5
 Alejandro Calvo       6
+Pamela Bienzobas      7
 Javier Estrada        6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -548,9 +576,11 @@ Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
-Roger Alan Koza            5.5
+Roger Alan Koza       5.5
+Alexandra Zawia       4.5
 Diego Batlle          8.5
 Diego Lerer           7.5
+Fernando Ganzo        4
 Eulàlia Iglesias     6
 Ángel Quintana       2.5
 José Luis Losa       4.5
@@ -564,6 +594,7 @@ Inma Merino           3
 Fredy Friedlander     8
 Alejandro Calvo       6
 Xavi Serra            5
+Pamela Bienzobas      6
 Javier Estrada        5.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -621,16 +652,30 @@ Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/201
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
+Alexandra Zawia       5
+Diego Lerer           9
+Fernando Ganzo        5
+Cristina Nord         4.5
+Ronald Rovers         3.5
+Fredy Friedlander     6
+Alejandro Calvo       8
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
+Alexandra Zawia       6
+Diego Batlle          7.5
+Fernando Ganzo        5
 Ángel Quintana       6
 José Luis Losa       5
+Violeta Kovacsics     6
 Jaime Pena            6.5
 Carlos Heredero       6.5
+Ronald Rovers         8
 Fernando Juan Lima    6.5
 Inma Merino           7
 Alejandro Calvo       7.5
+Pamela Bienzobas      7
+#
 Mike d'Angelo         6.2       https://twitter.com/gemko/status/467747296390959104
 Eric Kohn                       http://www.indiewire.com/article/countdown-to-cannes-is-alice-rohrwachers-the-wonders-is-already-a-frontrunner-for-the-palme-dor
 Deborah Young                   http://www.hollywoodreporter.com/review/wonders-le-meraviglie-cannes-review-705155
@@ -644,6 +689,7 @@ Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cann
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
+Fredy Friedlander     7
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -708,6 +754,8 @@ Christophe Carriére
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
 Diego Lerer           7.5
+Fernando Ganzo        9
+Pamela Bienzobas      0
 
 "JIMMY’S HALL" (Ken LOACH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100007371/year/2014.html
@@ -836,6 +884,7 @@ Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005442/year/2014.html
 Alexandra Zawia       6.5
+Robert Koehler        
 Diego Batlle          8
 Diego Lerer           8
 Fernando Ganzo        7.5
@@ -843,16 +892,34 @@ Eulàlia Iglesias     8
 Ángel Quintana       7
 José Luis Losa       8.5
 Pedro Butcher         6
+Jose Luis De Lorenzo  
+Alex Vicente          
 Carlo Chatrian        8
 Violeta Kovacsics     8
 Luciano Monteagudo    8
 Jaime Pena            7.5
+Rüdiger Suchsland    
 Carlos Heredero       7
+Luciano Barisone      
 Giona Nazzaro         8
+Dana Linssen          
 Cristina Nord         6.5
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         6
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez           
+Carlos Reviriego      
 Fernando Juan Lima    8
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           6
 Fredy Friedlander     7
+Pablo Scholz          
 Alejandro Calvo       8.5
 Xavi Serra            6.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -873,7 +940,8 @@ Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/m
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
-Roger Alan Koza            7.5
+Roger Alan Koza      7.5
+Alexandra Zawia       6.5
 Eulàlia Iglesias     7.5
 Ángel Quintana       6
 José Luis Losa       5.5
@@ -910,6 +978,8 @@ Javier Estrada        4.5
 
 "THE DISAPPEARANCE OF ELEANOR RIGBY: THEM" (Ned BENSON) [Un Certain Regard] The short version
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
+Alexandra Zawia       2
+Diego Batlle          4
 Ángel Quintana       4
 Violeta Kovacsics     5
 Jaime Pena            6.5
@@ -939,6 +1009,7 @@ Richard Mowe          8         http://www.eyeforfilm.co.uk/review/eleanor-rigby
 Roger Alan Koza       2
 Ángel Quintana       4.5
 Carlos Heredero       2
+Ronald Rovers         6
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
@@ -993,24 +1064,24 @@ SPECIAL SCREENINGS
 "GRACE OF MONACO" (Olivier DAHAN) [Out of Competition]
   http://www.festival-cannes.fr/en/
 Scott Foundas         2
-Roger Alan Koza            2
-Alexandra Zawia       
+Roger Alan Koza       2
+Alexandra Zawia       0
 Robert Koehler        
 Diego Batlle          4.5
 Diego Lerer           4
 Fernando Ganzo        0.5
 Eulàlia Iglesias     2.5
 Ángel Quintana       2
-José Luis Losa       
+José Luis Losa       0
 Pedro Butcher         3
 Jose Luis De Lorenzo  
 Alex Vicente          
 Carlo Chatrian        4
-Violeta Kovacsics     
+Violeta Kovacsics     5
 Luciano Monteagudo    3
 Jaime Pena            0.5
 Rüdiger Suchsland    
-Carlos Heredero       
+Carlos Heredero       0
 Luciano Barisone      
 Giona Nazzaro         1
 Dana Linssen          2
@@ -1031,7 +1102,7 @@ Philip Engel          2
 Inma Merino           1
 Fredy Friedlander     
 Pablo Scholz          
-Alejandro Calvo       
+Alejandro Calvo       0
 Xavi Serra            1.5
 Guido Castillo        
 Pamela Bienzobas      
@@ -1207,7 +1278,6 @@ Frédéric Jaeger          6
 Till Kadritzke           4
 Daniel Kasman             
 
-
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
@@ -1223,6 +1293,7 @@ Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443
 "HOPE" (Boris LOJKINE) [Semaine]
 
 "SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
+Fredy Friedlander     4.5
 
 "HIPPOCRATES" (Thomas LILTI) [Special Screening]
 
@@ -1298,12 +1369,14 @@ Javier Estrada        7
 Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-gett-the-trial-of-viviane-amsalem-1201184801/
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+Alexandra Zawia       7
 Diego Lerer           8
 Pedro Butcher         8.5
 Jaime Pena            6
 Carlos Heredero       9
 Luciano Barisone      7
 Giona Nazzaro         7.5
+Cristina Nord         9
 Javier Estrada        8.5
 # 
 Arnaud Hée            9
