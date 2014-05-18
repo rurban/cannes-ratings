@@ -1029,6 +1029,7 @@ Roger Alan Koza       2
 Ángel Quintana       4.5
 Carlos Heredero       2
 Ronald Rovers         6
+Guy Lodge                      http://variety.com/2014/film/reviews/cannes-film-review-white-god-1201184899/
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
@@ -1454,6 +1455,7 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 
 "WELCOME TO NEW YORK" (Abel Ferrara) [Market]
 Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
+Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
 
 EOF
 
