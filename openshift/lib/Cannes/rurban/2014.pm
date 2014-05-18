@@ -105,7 +105,7 @@ Rüdiger Suchsland     2.5
 # ioncinema 0-5
 Nicolas Bell          7
 Christophe Beney      
-David Calhoun         9
+David Calhoun         9         http://www.timeout.com/us/film/mr-turner
 Per Juul Carlsen      8
 Paola Casella         7
 Mike d'Angelo         6.8	http://thedissolve.com/features/postcards-from-cannes/562-test/
@@ -637,6 +637,7 @@ Deborah Young                   http://www.hollywoodreporter.com/review/wonders-
 Donald Clarke         6         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-the-wonders/
 Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-the-wonders-1201184521/
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
+Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cannes-2014-the-miracles-review
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -1152,7 +1153,8 @@ Diego Lerer           6
 Jaime Pena            6.5
 Fernando Juan Lima    7
 Alejandro Calvo       5
-Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
+Eric Kohn             4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
+Peter Bradshaw               http://www.theguardian.com/film/2014/may/17/the-rover-review-cannes-robert-pattinson
 
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
