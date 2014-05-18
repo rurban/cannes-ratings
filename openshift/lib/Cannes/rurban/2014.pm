@@ -329,8 +329,8 @@ Kate Muir/Wendy Ide
 Bo Green Jensen       
 Screen International  
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale
-Arnaud Hée           
+Miriam Bale           
+Arnaud Hée            
 Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        5         http://www.critic.de/film/the-captive-6693/
@@ -454,11 +454,11 @@ Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-
 # ioncinema 0-5
 Nicolas Bell          7
 Christophe Beney      
-David Calhoun         
+David Calhoun         8         http://www.timeout.com/london/film/winter-sleep
 Per Juul Carlsen      
 Paola Casella            
 #Mike d'Angelo        
-Manon Dumais          7  
+Manon Dumais          7
 #Carlos Heredero      10  (#9.5)
 #Eric Kohn   	      
 Eric Lavallée         7
@@ -522,7 +522,7 @@ Javier Estrada        6
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       6
-Frédéric Jaeger       
+Frédéric Jaeger       7.5
 Till Kadritzke        
 Daniel Kasman         5
 Michael Kienzl        7.5       http://www.critic.de/film/saint-laurent-6703/
@@ -663,6 +663,7 @@ Christoph Huber       4
 Nino Klinger          6
 Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
 Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
+Glenn Heath Jr        8         https://twitter.com/MatchCuts/status/466942277106286592
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
