@@ -532,6 +532,7 @@ José Luis Losa       9
 Pedro Butcher         7.5
 Carlo Chatrian        6
 Violeta Kovacsics     7.5
+Luciano Monteagudo    5
 Jaime Pena            5.5
 Cristina Nord         8.5
 Ronald Rovers         6.5
@@ -621,8 +622,10 @@ Jordan Cronk                    http://www.bfi.org.uk/news-opinion/sight-sound-m
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
+Scott Foundas         
 Roger Alan Koza       5.5
 Alexandra Zawia       4.5
+Robert Koehler        
 Diego Batlle          8.5
 Diego Lerer           7.5
 Fernando Ganzo        4
@@ -630,17 +633,40 @@ Eulàlia Iglesias     6
 Ángel Quintana       2.5
 José Luis Losa       4.5
 Pedro Butcher         4.5
+Jose Luis De Lorenzo  
+Alex Vicente          
+Carlo Chatrian        
 Violeta Kovacsics     5
+Luciano Monteagudo    5
 Jaime Pena            8
+Rüdiger Suchsland    
 Carlos Heredero       6
+Luciano Barisone      
+Giona Nazzaro         
+Dana Linssen          
 Cristina Nord         1
+Francisco Ferreira    
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez           
+Carlos Reviriego      
 Fernando Juan Lima    8
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           3
 Fredy Friedlander     8
+Pablo Scholz          
 Alejandro Calvo       6
 Xavi Serra            5
+Guido Castillo        
 Pamela Bienzobas      6
 Javier Estrada        5.5
+Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -767,6 +793,7 @@ Fernando Ganzo        5
 Ángel Quintana       6
 José Luis Losa       5
 Violeta Kovacsics     6
+Luciano Monteagudo    6.5
 Jaime Pena            6.5
 Carlos Heredero       6.5
 Ronald Rovers         8
@@ -1395,6 +1422,7 @@ Christophe Carriére
 Roger Alan Koza       10
 Diego Batlle          8.5
 Diego Lerer           10        http://t.co/bNxBECmTW3
+Luciano Monteagudo    9.5
 Giona Nazzaro         10
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1894,6 +1922,7 @@ Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
 Diego Lerer           8
+Luciano Monteagudo    7
 
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
 
