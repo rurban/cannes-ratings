@@ -659,6 +659,8 @@ Cristina Nord         4.5
 Ronald Rovers         3.5
 Fredy Friedlander     6
 Alejandro Calvo       8
+Christoph Huber       4
+Nino Klinger          6
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -675,7 +677,19 @@ Fernando Juan Lima    6.5
 Inma Merino           7
 Alejandro Calvo       7.5
 Pamela Bienzobas      7
-#
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman                   
+Michael Kienzl        
+Nino Klinger          7.5       
+Dana Linssen          6
+Cristina Nord         7.5
+Rüdiger Suchsland     
+#Alexandra Zawia      6  (#6)
 Mike d'Angelo         6.2       https://twitter.com/gemko/status/467747296390959104
 Eric Kohn                       http://www.indiewire.com/article/countdown-to-cannes-is-alice-rohrwachers-the-wonders-is-already-a-frontrunner-for-the-palme-dor
 Deborah Young                   http://www.hollywoodreporter.com/review/wonders-le-meraviglie-cannes-review-705155
@@ -975,6 +989,7 @@ Mike d'Angelo         4.5       https://twitter.com/gemko/status/467746984057925
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000813/year/2014.html
 José Luis Losa       1
 Javier Estrada        4.5
+Nino Klinger          6
 
 "THE DISAPPEARANCE OF ELEANOR RIGBY: THEM" (Ned BENSON) [Un Certain Regard] The short version
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
@@ -1283,6 +1298,7 @@ Daniel Kasman
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
 Giona Nazzaro         6.5
 Javier Estrada        6.5
+Michael Kienzl        6
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
 
@@ -1378,9 +1394,17 @@ Luciano Barisone      7
 Giona Nazzaro         7.5
 Cristina Nord         9
 Javier Estrada        8.5
-# 
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
 Arnaud Hée            9
-Michael Kienzl        6
+Christoph Huber       7.5
+Frédéric Jaeger       7.5
+Till Kadritzke        
+Daniel Kasman         7.5
+Michael Kienzl        6     
+Nino Klinger          
+Dana Linssen          6
+Boris Nelepo          
 # 
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 Keith Uhlich          10    http://www.timeout.com/us/film/national-gallery
@@ -1390,7 +1414,8 @@ Luciano Barisone      7
 Javier Estrada        6.5
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
-Paolo Bertolin     7
+Paolo Bertolin        7
+Michael Kienzl        6
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
 
