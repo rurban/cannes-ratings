@@ -473,7 +473,8 @@ Eric Kohn             8         http://www.indiewire.com/article/cannes-review-w
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
 Craig Skinner         7
 Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/467343190031622144
-Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-2014-film-review-by-richard-mowe         
+Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-2014-film-review-by-richard-mowe
+Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-winter-sleep/
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
@@ -541,6 +542,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/17/cannes-
 Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/467633645873025024
 Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
+Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
 
 
 
@@ -615,6 +617,7 @@ Eric Kohn             9         http://www.indiewire.com/article/cannes-review-p
 Thomas Sotinel                  http://www.lemonde.fr/festival-de-cannes/article/2014/05/17/relatos-salvajes-les-nouveaux-monstres-des-antipodes_4420397_766360.html?xtmc=szifron&xtcr=1
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-relatos-salvajes-von-damian-szifron/
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/17/cannes-2014-wild-tales-review-argentinian-portmanteau-movie-is-a-box-of-delights
+Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-wild-tales/
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
@@ -629,6 +632,11 @@ Fernando Juan Lima    6.5
 Inma Merino           7
 Alejandro Calvo       7.5
 Mike d'Angelo         6.2       https://twitter.com/gemko/status/467747296390959104
+Eric Kohn                       http://www.indiewire.com/article/countdown-to-cannes-is-alice-rohrwachers-the-wonders-is-already-a-frontrunner-for-the-palme-dor
+Deborah Young                   http://www.hollywoodreporter.com/review/wonders-le-meraviglie-cannes-review-705155
+Donald Clarke         6         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-the-wonders/
+Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-the-wonders-1201184521/
+Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -1110,6 +1118,7 @@ Jaime Pena            5.5
 Giona Nazzaro         6.5
 #
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
+Donald Clarke         10        http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-red-army/
 
 "THE SALVATION" (Kristian LEVRING) [Out Of Competition - Midnight]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005263/year/2014.html
@@ -1495,6 +1504,7 @@ David Rooney (The Hollywood Reporter, USA)
 David Sexton (Evening Standard, UK)
 David Sterrit (Tikkun Magazine, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
+Donald Clarke (Irish Times, Ireland)
 Drew McWeeny (InContention, USA)
 Drew Taylor (The Playlist, USA)
 Eduardo Valente (Revista Cinema, Brazil) 
