@@ -505,7 +505,7 @@ Christophe Beney
 David Calhoun         
 Per Juul Carlsen      
 Paola Casella            
-#Mike d'Angelo        
+Mike d'Angelo         4.9       https://twitter.com/gemko/status/467605075788300288
 Manon Dumais          
 #Carlos Heredero      
 #Eric Kohn   	      
@@ -628,6 +628,7 @@ Carlos Heredero       6.5
 Fernando Juan Lima    6.5
 Inma Merino           7
 Alejandro Calvo       7.5
+Mike d'Angelo         6.2       https://twitter.com/gemko/status/467747296390959104
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -890,6 +891,7 @@ Boris Nelepo          5
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 #
 Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
+Mike d'Angelo         4.5       https://twitter.com/gemko/status/467746984057925632
 
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
@@ -1199,6 +1201,7 @@ Daniel Kasman
 Giona Nazzaro         6.5
 Javier Estrada        6.5
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
+Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
 
