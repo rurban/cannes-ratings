@@ -29,7 +29,7 @@ sub _read {
     elsif (/^\s+(\S.*)/ and $title) { # film comments, links
       my $cmt = $1;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
-      $title{$title}->{comment} = $cmt;
+      $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
     } elsif (/^["“](.+)["”]/) {
       my $a = $n ? sprintf("%.02f", $s/$n) : 0;
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
