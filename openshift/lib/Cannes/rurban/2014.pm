@@ -662,6 +662,7 @@ Alejandro Calvo       8
 Christoph Huber       4
 Nino Klinger          6
 Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
+Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
