@@ -725,9 +725,19 @@ Cristina Nord         4.5
 Ronald Rovers         3.5
 Fredy Friedlander     6
 Alejandro Calvo       8
-#
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
 Christoph Huber       4
+Frédéric Jaeger       6
+Till Kadritzke        6
+Daniel Kasman         
+Michael Kienzl        
 Nino Klinger          6
+#Dana Linssen         
+#Cristina Nord        4
+Rüdiger Suchsland     
+#Alexandra Zawia      
 # Screen Daily (0-4)
 Robbie Collin         
 David Stratton        
@@ -1677,6 +1687,7 @@ Peter Bradshaw               http://www.theguardian.com/film/2014/may/17/the-rov
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
 "EL ARDOR" (Pablo Fendrik) [Special Screening]
+Till Kadritzke        7.5
 
 "COMING HOME (GUI LAI)" (Zhang YIMOU) [Out Of Competition]
 
