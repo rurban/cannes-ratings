@@ -620,6 +620,7 @@ Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
 #Robbie Collin         4        http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
 Jordan Cronk                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-eyes-have-it-saint-laurent-bertrand
+Nikola Grozdanović     2        http://blogs.indiewire.com/theplaylist/cannes-review-bertrand-bonellos-saint-laurent-starring-gaspard-ulliel-lea-seydoux-louis-garrel-more-20140517
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
