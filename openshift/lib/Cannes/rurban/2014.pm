@@ -295,6 +295,7 @@ Craig Skinner         7
 Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/timbuktu
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-timbuktu-von-abderrahmane-sissako/
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/466687416531968004
+Tim Robey             8         http://www.telegraph.co.uk/culture/film/filmreviews/10833200/Cannes-2014-Timbuktu-brutal-Sharia-Law-fable.html
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001748/year/2014.html
@@ -381,6 +382,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-
 Craig Skinner         3
 Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/467257765250220032
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/the-captive-2014-film-review-by-richard-mowe
+Robie Collin          8         http://www.telegraph.co.uk/culture/film/filmreviews/10834352/The-Captive-review-queasily-unsettling.html
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
@@ -572,7 +574,7 @@ Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/46763364587
 Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
-
+Robbie Collin         4         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
 
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
@@ -667,6 +669,7 @@ Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
 Glenn Heath Jr        8         https://twitter.com/MatchCuts/status/466942277106286592
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-tommy-lee-jones-awkwardly-interesting-the-homesman-co-starring-hilary-swank-and-meryl-streep-20140518
 Eric Kohn             5         http://www.indiewire.com/article/cannes-review-is-tommy-lee-jones-the-homesman-the-strangest-movie-in-competition-at-cannes
+Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10839215/Cannes-2014-The-Homesman-review-Swank-and-Jones-are-sensational.html
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -960,6 +963,7 @@ Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-
 Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/467258586784346112
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/mathieu-amalric-the-blue-room-cannes-review
 Boyd van Hoeij        7         http://www.indiewire.com/article/cannes-review-how-the-blue-room-proves-that-mathieu-amalric-is-a-true-actor-director
+Robbie Collin         8         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10837928/The-Blue-Room-review-narrative-effervescence.html
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
@@ -1199,6 +1203,7 @@ Michal Oleszczyk      8
 Xavi Serra            6
 Craig Skinner         7
 Oliver Lyttleton      5
+Robbie Collin         6     http://www.telegraph.co.uk/culture/film/filmreviews/10836129/How-to-Train-Your-Dragon-2-review-armrest-gripping-fun.html 
 
 "SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
 Carlo Chatrian        9.5
@@ -1389,8 +1394,9 @@ Frédéric Jaeger       2.5
 Till Kadritzke        
 Daniel Kasman 
 # criticwire
-Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
-Richard Mowe          8         http://www.eyeforfilm.co.uk/review/catch-me-daddy-2014-film-review-by-richard-mowe
+Oliver Lyttleton      6     http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
+Richard Mowe          8     http://www.eyeforfilm.co.uk/review/catch-me-daddy-2014-film-review-by-richard-mowe
+Robbie Collin         8     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10834201/Catch-Me-Daddy-review-blistering.html
 
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
@@ -1465,6 +1471,7 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
 Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
 Matt Mueller                    http://blogs.indiewire.com/thompsononhollywood/cannes-gerard-depardieu-and-abel-ferrara-unveil-welcome-to-new-york
+Tim Robey             4         http://www.telegraph.co.uk/culture/film/filmreviews/10838940/Cannes-2014-Welcome-to-New-York-review-As-portraiture-it-flops.html
 
 EOF
 
@@ -1709,9 +1716,9 @@ Simon Gallagher (filmschoolrejects.com, UK)
 Simon Reynolds (Digital Spy, UK) 
 Stephen Dalton (The Hollywood Reporter, USA)
 Stephen Garrett (Time Out New York, USA)
-Sukhdev Sandhu (Telegraph, UK) 
+Sukhdev Sandhu (The Telegraph, UK) 
 Tim Grierson (Screen International, L.A. Weekly, USA) 
-Tim Robey (Daily Telegraph, England)
+Tim Robey (The Telegraph, England)
 Todd McCarthy (The Hollywood Reporter, USA) 
 Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
