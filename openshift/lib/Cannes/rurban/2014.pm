@@ -894,13 +894,14 @@ Guy Lodge                      https://twitter.com/GuyLodge/status/4670651492377
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
 Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
+Tim Robey             4       https://twitter.com/trim_obey/status/466942019282419712
 
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005442/year/2014.html
 Alexandra Zawia       6.5
 Robert Koehler        
-Diego Batlle          8
+Diego Batlle          8        http://t.co/DEhUnw3MD1
 Diego Lerer           8
 Fernando Ganzo        7.5
 Eulàlia Iglesias     8
@@ -1042,7 +1043,7 @@ Inma Merino        6.5
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
 Roger Alan Koza       10
 Diego Batlle          8.5
-Diego Lerer           10
+Diego Lerer           10        http://t.co/bNxBECmTW3
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
