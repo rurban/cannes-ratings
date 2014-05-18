@@ -382,7 +382,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-
 Craig Skinner         3
 Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/467257765250220032
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/the-captive-2014-film-review-by-richard-mowe
-Robie Collin          8         http://www.telegraph.co.uk/culture/film/filmreviews/10834352/The-Captive-review-queasily-unsettling.html
+Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10834352/The-Captive-review-queasily-unsettling.html
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
@@ -1856,6 +1856,7 @@ David Stratton (The Australian, Australia)
 Derek Malcolm (London Evening, UK) 
 Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
 Jose Carlos Avellar (Escrevercinema.com, Brazil) 
+Stephanie Zacharek (Village Voice, USA)
 Dennis Lim (New York Times, USA)
 Michel Ciment (Positif, France) 
 Kate Muir/Wendy Ide (The Times, UK) 
