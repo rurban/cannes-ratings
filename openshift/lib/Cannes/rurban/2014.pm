@@ -922,6 +922,7 @@ Philippe Rouyer       10
 Life Caroline         8
 #
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/maps-to-the-stars-cannes-review-julianne-moore-robert-pattinson
+Oliver Lyttleton      7         http://blogs.indiewire.com/theplaylist/review-david-cronenbergs-maps-to-the-stars-with-robert-pattinson-mia-wasikowska-julianne-moore-john-cusack-20140518
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
