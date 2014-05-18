@@ -1225,6 +1225,7 @@ Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443
 "HIPPOCRATES" (Thomas LILTI) [Special Screening]
 
 "BREATHE (Respire)" (Mélanie LAURENT) [Special Screening]
+Jessica Kiang         7         http://blogs.indiewire.com/theplaylist/cannes-review-insightful-layered-teen-respire-directed-by-melanie-laurent-20140517
 
 "THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
 
