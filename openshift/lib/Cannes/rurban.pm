@@ -522,7 +522,7 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2013";
+  $all->{year} = "2010-2014";
   $all->{side_details} = _side_details(\%critic, \%title);
   template 'index', $all;
 };
