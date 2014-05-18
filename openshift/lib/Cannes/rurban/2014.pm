@@ -664,6 +664,7 @@ Nino Klinger          6
 Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
 Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
 Glenn Heath Jr        8         https://twitter.com/MatchCuts/status/466942277106286592
+Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-tommy-lee-jones-awkwardly-interesting-the-homesman-co-starring-hilary-swank-and-meryl-streep-20140518
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -1309,6 +1310,7 @@ Michael Kienzl        6
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
 Blake Williams        5.9       https://twitter.com/Astrostic/status/467945918663507968
+Jessica Kiang         6         http://blogs.indiewire.com/theplaylist/cannes-review-david-robert-mitchells-hotly-buzzed-horror-it-follows-20140518
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
 
@@ -1382,7 +1384,7 @@ Christoph Huber
 Frédéric Jaeger       2.5
 Till Kadritzke        
 Daniel Kasman 
-# critiwire           
+# criticwire
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
 Richard Mowe          8         http://www.eyeforfilm.co.uk/review/catch-me-daddy-2014-film-review-by-richard-mowe
 
@@ -1425,6 +1427,7 @@ Javier Estrada        6.5
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
 Paolo Bertolin        7
 Michael Kienzl        6
+Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-twisty-inventive-hilarious-korean-cop-thriller-a-hard-day-is-a-total-blast-20140518
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
 
