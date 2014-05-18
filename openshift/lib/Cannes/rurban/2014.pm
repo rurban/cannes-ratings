@@ -583,7 +583,7 @@ Till Kadritzke
 Daniel Kasman         5
 Michael Kienzl        7.5       http://www.critic.de/film/saint-laurent-6703/
 Nino Klinger          
-Boris Nelepo          7.5
+Boris Nelepo          9
 #Cristina Nord        9 (#8.5)
 #Alexandra Zawia      6 (#6)
 # ioncinema 0-5
@@ -796,7 +796,7 @@ Alejandro Calvo       8
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       4
-Frédéric Jaeger       6
+Frédéric Jaeger       6        http://www.critic.de/film/the-homesman-6708/
 Till Kadritzke        6
 Daniel Kasman         
 Michael Kienzl        
@@ -919,7 +919,7 @@ Fredy Friedlander     7
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       
-Frédéric Jaeger       
+Frédéric Jaeger       6
 Till Kadritzke        
 Daniel Kasman         
 Michael Kienzl        
@@ -1370,6 +1370,7 @@ Daniel Kasman
 Michael Kienzl        
 Nino Klinger          
 Boris Nelepo          
+#Alexandra Zawia      1.5  (#2)
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1866,6 +1867,14 @@ Jessica Kiang         6         http://blogs.indiewire.com/theplaylist/cannes-re
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
 
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          6
+Till Kadritzke           
+Daniel Kasman            
+
 "WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
 
 "HOPE" (Boris LOJKINE) [Semaine]
@@ -1966,10 +1975,11 @@ Christoph Huber       7.5
 Frédéric Jaeger       7.5
 Till Kadritzke        
 Daniel Kasman         7.5
-Michael Kienzl        6     
+Michael Kienzl        6     http://www.critic.de/film/national-gallery-6792/
 Nino Klinger          
 Dana Linssen          6
 Boris Nelepo          
+#Cristina Nord        9  (#9)
 # 
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 Keith Uhlich          10    http://www.timeout.com/us/film/national-gallery
