@@ -167,6 +167,7 @@ Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/mr-turner
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-mr-turner-von-mike-leigh/
 Glenn Heath Jr        4         https://twitter.com/MatchCuts/status/466941360923504640
 Richard Mowe          8         http://www.eyeforfilm.co.uk/review/mr-turner-2014-film-review-by-richard-mowe
+Nigel M Smith                   http://www.indiewire.com/article/cannes-timothy-spall-on-the-three-year-experience-of-becoming-mr-turner-for-mike-leigh
 
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
@@ -665,6 +666,7 @@ Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841
 Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
 Glenn Heath Jr        8         https://twitter.com/MatchCuts/status/466942277106286592
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-tommy-lee-jones-awkwardly-interesting-the-homesman-co-starring-hilary-swank-and-meryl-streep-20140518
+Eric Kohn             5         http://www.indiewire.com/article/cannes-review-is-tommy-lee-jones-the-homesman-the-strangest-movie-in-competition-at-cannes
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -867,6 +869,7 @@ Craig Skinner         3
 Nikola Grozdanović           http://waytooindie.com/news/cannes-2014-party-girl/
 Beatrice Behn                http://www.kino-zeit.de/blog/cannes/party-girl
 Glenn Heath Jr        4.5    https://twitter.com/MatchCuts/status/466942277106286592
+Nigel M Smith                  http://www.indiewire.com/article/family-therapy-at-cannes-why-party-girl-is-unlike-anything-playing-at-the-festival
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO/LOIN DE MON PERE)" (Keren YEDAYA) [Un Certain Regard] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008335/year/2014.html
@@ -956,6 +959,7 @@ Boris Nelepo          6
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/467258586784346112
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/mathieu-amalric-the-blue-room-cannes-review
+Boyd van Hoeij        7         http://www.indiewire.com/article/cannes-review-how-the-blue-room-proves-that-mathieu-amalric-is-a-true-actor-director
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
@@ -1194,7 +1198,7 @@ Richard Mowe         4      http://www.eyeforfilm.co.uk/review/grace-of-monaco-2
 Michal Oleszczyk      8
 Xavi Serra            6
 Craig Skinner         7
-Oliver Lyttelton      5
+Oliver Lyttleton      5
 
 "SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
 Carlo Chatrian        9.5
@@ -1460,6 +1464,7 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 "WELCOME TO NEW YORK" (Abel Ferrara) [Laptop on the beach]
 Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
 Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
+Matt Mueller                    http://blogs.indiewire.com/thompsononhollywood/cannes-gerard-depardieu-and-abel-ferrara-unveil-welcome-to-new-york
 
 EOF
 
@@ -1676,6 +1681,7 @@ Michael Giltz (The Huffington Post, USA)
 Michael Sennhauser (SRF, Suisse)
 Nev Pierce (Empire, USA)
 Nicholas Barber (BBC, UK)
+Nigel M Smith (Indiewire, USA)
 Nikola Grozdanović (Way Too Indie, Canada)
 Oliver Lyttleton (The Playlist, USA)
 Patrick Heidmann (Cineman, Deutschland)
