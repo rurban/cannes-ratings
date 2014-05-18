@@ -5,9 +5,9 @@ package Cannes::rurban::2014;
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
-# french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4)
+# french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4) Safari yes, chrome no
 # http://jury.critic.de/cannes/
-# http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4)
+# http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4) Safari yes, chrome no
 # http://www.ioncinema.com/news/film-festivals/
 # More:
 # http://www.indiewire.com/critic/
@@ -78,17 +78,6 @@ Guido Castillo
 Pamela Bienzobas      
 Javier Estrada        5.5
 Boris Nelepo          
-# Screen Daily (0-4)
-Robbie Collin	      9		http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
-David Stratton        7.5
-Derek Malcolm         9
-Jan Schulz-Ojala      9
-Jose Carlos Avellar   7.5
-Stephanie Zacharek    9         http://www.villagevoice.com/2014-05-14/film/mr-turner-cannes-review/
-Michel Ciment         5
-Kate Muir/Wendy Ide   9
-Bo Green Jensen       9
-Screen International  9
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -120,6 +109,17 @@ Liu Min               8
 Isabelle Regnier      4
 Cédric Succivalli     8
 Blake Williams        6
+# Screen Daily (0-4)
+Robbie Collin	      9		http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
+David Stratton        7.5
+Derek Malcolm         9
+Jan Schulz-Ojala      9
+Jose Carlos Avellar   7.5
+Stephanie Zacharek    9         http://www.villagevoice.com/2014-05-14/film/mr-turner-cannes-review/
+Michel Ciment         5
+Kate Muir/Wendy Ide   9
+Bo Green Jensen       9
+Screen International  9
 # Le film français 0-4 (0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9)
 Stéphanie Lamome      7.5
 Arnaud Schwartz       7.5
@@ -359,21 +359,21 @@ Kate Muir/Wendy Ide   5
 Bo Green Jensen       5
 Screen International  7.5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      9
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Eric Neuhoff          2.5
+Stéphane Delorme      1
+Thomas Sotinel        2.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      2.5
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        2.5
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       5
+Christophe Carriére   2.5
 # criticwire
 Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
@@ -471,21 +471,21 @@ Kate Muir/Wendy Ide   7.5
 Bo Green Jensen       7.5
 Screen International  9
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
+Stéphanie Lamome      5
+Arnaud Schwartz       9
+Fabrice Leclerc       7.5
+Eric Neuhoff          1
+Stéphane Delorme      2.5
+Thomas Sotinel        7.5
+Philippe Rouyer       9
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Pierre Murat          9
+Jean Roy              7.5
+Serge Kaganski        7.5
+Pierre Fornerod       7.5
+Pascal Merigeau       9
+Danielle Attali       9
+Christophe Carriére   2.5
 # criticwire
 Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
 # Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
@@ -561,21 +561,21 @@ Kate Muir/Wendy Ide   2.5
 Bo Green Jensen       5
 Screen International  5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      7.5
+Arnaud Schwartz       5
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5
+Thomas Sotinel        7.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      5
+Pierre Murat          9
+Jean Roy              2.5
+Serge Kaganski        9
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       2.5
+Christophe Carriére   7.5
 #
 Mike d'Angelo         4.9	https://twitter.com/gemko/status/467605075788300288
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
@@ -650,20 +650,20 @@ Kate Muir/Wendy Ide   5
 Bo Green Jensen       7.5
 Screen International  7.5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
+Stéphanie Lamome      7.5
+Arnaud Schwartz       5
+Fabrice Leclerc       7.5
+Eric Neuhoff          7.5
+Stéphane Delorme      1
+Thomas Sotinel        5
+Philippe Rouyer       5
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
+Pierre Murat          1
+Jean Roy              5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       7.5
 Christophe Carriére   
 #
 Mike d'Angelo         6.2	https://twitter.com/gemko/status/467444715580035073
@@ -956,6 +956,22 @@ Till Kadritzke        1
 Daniel Kasman         1
 Michael Kienzl        2.5
 Nino Klinger          1
+# Le film français 0-4
+Stéphanie Lamome      1
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      1
+Thomas Sotinel        
+Philippe Rouyer       1
+Pierre Vavasseur      
+Pierre Murat          7.5
+Jean Roy              
+Serge Kaganski        1
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
@@ -1018,6 +1034,23 @@ Boris Nelepo          6
 #Cristina Nord        6 (#6.5 +)
 #Alexandra Zawia      6 (#6.5 +)
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
+# Le film français 0-4
+Stéphanie Lamome      5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       9
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5
+Thomas Sotinel        7.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      5
+Pierre Murat          1
+Jean Roy              5
+Serge Kaganski        7.5
+Pierre Fornerod       5
+Pascal Merigeau       7.5
+Danielle Attali       2.5
+Christophe Carriére   
+#
 Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/467258586784346112
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/mathieu-amalric-the-blue-room-cannes-review
 Boyd van Hoeij        7         http://www.indiewire.com/article/cannes-review-how-the-blue-room-proves-that-mathieu-amalric-is-a-true-actor-director
@@ -1051,6 +1084,22 @@ Michael Kienzl
 Nino Klinger          7.5       http://www.critic.de/film/amour-fou-6725/
 Boris Nelepo          5
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 Mike d'Angelo         4.5       https://twitter.com/gemko/status/467746984057925632
@@ -1062,6 +1111,22 @@ Blake Williams        7.1       https://twitter.com/Astrostic/status/46742280654
 José Luis Losa       1
 Javier Estrada        4.5
 Nino Klinger          6
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       2.5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "THE DISAPPEARANCE OF ELEANOR RIGBY: THEM" (Ned BENSON) [Un Certain Regard] The short version
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
@@ -1085,6 +1150,22 @@ Daniel Kasman
 Michael Kienzl        
 Nino Klinger          
 Boris Nelepo          
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          5
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          2.5
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Guy Lodge             6         https://twitter.com/GuyLodge/status/467713034207916032
 Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-review-the-disappearance-of-eleanor-rigby-them-starring-jessica-chastain-james-mcavoy-isabelle-huppert-20140517
@@ -1097,41 +1178,185 @@ Roger Alan Koza       2
 Ángel Quintana       4.5
 Carlos Heredero       2
 Ronald Rovers         6
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 Guy Lodge                      http://variety.com/2014/film/reviews/cannes-film-review-white-god-1201184899/
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
 Blake Williams     6.0
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
 Ángel Quintana     6.5
 Carlos Reviriego   5.5
 Inma Merino        6.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
 Roger Alan Koza       10
 Diego Batlle          8.5
 Diego Lerer           10        http://t.co/bNxBECmTW3
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
 Dana Linssen          5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006042/year/2014.html
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000816/year/2014.html
 Dana Linssen          6
 Arnaud Hée            5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "TITLI" (Kanu BEHL) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005440/year/2014.html
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012165/year/2014.html
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "THE SALT OF THE EARTH" (Juliano Ribeiro SALGADO and Wim WENDERS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008611/year/2014.html
