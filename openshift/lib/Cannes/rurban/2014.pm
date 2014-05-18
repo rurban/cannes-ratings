@@ -80,15 +80,15 @@ Javier Estrada        5.5
 Boris Nelepo          
 # Screen Daily (0-4)
 Robbie Collin	      9		http://www.telegraph.co.uk/culture/film/filmreviews/10833174/Mr-Turner-review-supremely-enjoyable.html
-David Stratton        
-Derek Malcolm         
-Jan Schulz-Ojala      
-Jose Carlos Avellar   
-Stephanie Zacharek              http://www.villagevoice.com/2014-05-14/film/mr-turner-cannes-review/
-Michel Ciment         
-Kate Muir/Wendy Ide   
-Bo Green Jensen       
-Screen International  
+David Stratton        7.5
+Derek Malcolm         9
+Jan Schulz-Ojala      9
+Jose Carlos Avellar   7.5
+Stephanie Zacharek    9         http://www.villagevoice.com/2014-05-14/film/mr-turner-cannes-review/
+Michel Ciment         5
+Kate Muir/Wendy Ide   9
+Bo Green Jensen       9
+Screen International  9
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -218,16 +218,16 @@ Pamela Bienzobas      7.5
 Javier Estrada        8
 Boris Nelepo          
 # Screen Daily (0-4)
-Robbie Collin         
-David Stratton        
-Derek Malcolm         
-Jan Schulz-Ojala      
-Jose Carlos Avellar   
-Stephanie Zacharek    
-Michel Ciment         
-Kate Muir/Wendy Ide   
-Bo Green Jensen       
-Screen International  
+Robbie Collin         5
+David Stratton        7.5
+Derek Malcolm         5
+Jan Schulz-Ojala      2.5
+Jose Carlos Avellar   7.5
+Stephanie Zacharek    5.7
+Michel Ciment         7.5
+Kate Muir/Wendy Ide   7.5
+Bo Green Jensen       7.5
+Screen International  7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -319,17 +319,6 @@ Inma Merino           2
 Fredy Friedlander     6
 Alejandro Calvo       3
 Xavi Serra            6
-# Screen Daily (0-4)
-Robbie Collin         
-David Stratton        
-Derek Malcolm         
-Jan Schulz-Ojala      
-Jose Carlos Avellar   
-Stephanie Zacharek    
-Michel Ciment         
-Kate Muir/Wendy Ide   
-Bo Green Jensen       
-Screen International  
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -358,6 +347,17 @@ Liu Min
 Isabelle Regnier      
 Cédric Succivalli     5
 Blake Williams        5
+# Screen Daily (0-4)
+Robbie Collin         7.5
+David Stratton        2.5
+Derek Malcolm         5
+Jan Schulz-Ojala      1
+Jose Carlos Avellar   2.5
+Stephanie Zacharek    1
+Michel Ciment         5
+Kate Muir/Wendy Ide   5
+Bo Green Jensen       5
+Screen International  7.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -429,18 +429,6 @@ Guido Castillo
 Pamela Bienzobas      6.5
 Javier Estrada        7.5
 Boris Nelepo          
-
-# Screen Daily (0-4)
-Robbie Collin         
-David Stratton        
-Derek Malcolm         
-Jan Schulz-Ojala      
-Jose Carlos Avellar   
-Stephanie Zacharek    
-Michel Ciment         
-Kate Muir/Wendy Ide   
-Bo Green Jensen       
-Screen International  
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale
 Arnaud Hée           
@@ -471,6 +459,17 @@ Liu Min
 Isabelle Regnier      
 Cédric Succivalli     9
 Blake Williams        6
+# Screen Daily (0-4)
+Robbie Collin         9
+David Stratton        9
+Derek Malcolm         9
+Jan Schulz-Ojala      5
+Jose Carlos Avellar   9
+Stephanie Zacharek    
+Michel Ciment         9
+Kate Muir/Wendy Ide   7.5
+Bo Green Jensen       7.5
+Screen International  9
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -531,6 +530,8 @@ Daniel Kasman         5
 Michael Kienzl        7.5       http://www.critic.de/film/saint-laurent-6703/
 Nino Klinger          
 Boris Nelepo          7.5
+#Cristina Nord        9 (#8.5)
+#Alexandra Zawia      6 (#6)
 # ioncinema 0-5
 Nicolas Bell          
 Christophe Beney      
@@ -548,6 +549,17 @@ Liu Min
 Isabelle Regnier      
 Cédric Succivalli     
 Blake Williams        6.3       https://twitter.com/Astrostic/status/467593132788695040
+# Screen Daily (0-4)
+Robbie Collin         2.5       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
+David Stratton        2.5
+Derek Malcolm         5
+Jan Schulz-Ojala      5
+Jose Carlos Avellar   2.5
+Stephanie Zacharek    5
+Michel Ciment         
+Kate Muir/Wendy Ide   2.5
+Bo Green Jensen       5
+Screen International  5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -574,7 +586,7 @@ Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/46763364587
 Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
-Robbie Collin         4         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
+#Robbie Collin         4         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
 
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
@@ -626,6 +638,17 @@ Liu Min
 Isabelle Regnier      
 Cédric Succivalli     
 Blake Williams        5.3       https://twitter.com/Astrostic/status/467381660791889920
+# Screen Daily (0-4)
+Robbie Collin         5
+David Stratton        5
+Derek Malcolm         5
+Jan Schulz-Ojala      2.5
+Jose Carlos Avellar   2.5
+Stephanie Zacharek    7.5
+Michel Ciment         
+Kate Muir/Wendy Ide   5
+Bo Green Jensen       7.5
+Screen International  7.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -662,8 +685,21 @@ Cristina Nord         4.5
 Ronald Rovers         3.5
 Fredy Friedlander     6
 Alejandro Calvo       8
+#
 Christoph Huber       4
 Nino Klinger          6
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+#
 Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
 Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
 Glenn Heath Jr        8         https://twitter.com/MatchCuts/status/466942277106286592
@@ -699,6 +735,17 @@ Dana Linssen          6
 Cristina Nord         7.5
 Rüdiger Suchsland     
 #Alexandra Zawia      6  (#6)
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
 Mike d'Angelo         6.2       https://twitter.com/gemko/status/467747296390959104
 Eric Kohn                       http://www.indiewire.com/article/countdown-to-cannes-is-alice-rohrwachers-the-wonders-is-already-a-frontrunner-for-the-palme-dor
 Deborah Young                   http://www.hollywoodreporter.com/review/wonders-le-meraviglie-cannes-review-705155
@@ -750,6 +797,17 @@ Liu Min
 Isabelle Regnier      
 Cédric Succivalli     
 Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1388,11 +1446,11 @@ Luciano Barisone      7
 Javier Estrada        7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
-Arnaud Hée               
-Christoph Huber          
+Arnaud Hée            
+Christoph Huber       
 Frédéric Jaeger       2.5
 Till Kadritzke        
-Daniel Kasman 
+Daniel Kasman         
 # criticwire
 Oliver Lyttleton      6     http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
 Richard Mowe          8     http://www.eyeforfilm.co.uk/review/catch-me-daddy-2014-film-review-by-richard-mowe
@@ -1429,6 +1487,7 @@ Boris Nelepo
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 Keith Uhlich          10    http://www.timeout.com/us/film/national-gallery
 Blake Williams        7.5   https://twitter.com/Astrostic/status/467724076228677632
+Donato d'Elia (LoudVision, Italy)   http://www.loudvision.it/cinema-interviste-cannes-2014---270.html
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 Luciano Barisone      7
@@ -1472,6 +1531,7 @@ Blake Williams        6.6       https://twitter.com/Astrostic/status/46777899778
 Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
 Matt Mueller                    http://blogs.indiewire.com/thompsononhollywood/cannes-gerard-depardieu-and-abel-ferrara-unveil-welcome-to-new-york
 Tim Robey             4         http://www.telegraph.co.uk/culture/film/filmreviews/10838940/Cannes-2014-Welcome-to-New-York-review-As-portraiture-it-flops.html
+Rachel Donadio (New York Times, USA)  http://artsbeat.blogs.nytimes.com/2014/05/18/cannes-film-festival-strauss-kahn-film-under-fire/
 
 EOF
 
