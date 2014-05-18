@@ -520,6 +520,7 @@ Craig Skinner         7
 Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/467343190031622144
 Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-2014-film-review-by-richard-mowe
 Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-winter-sleep/
+Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/cannes-review-could-nuri-bilge-ceylons-winter-sleep-grab-the-palme-dor-from-critics-baby-mr-turner
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
@@ -784,6 +785,7 @@ Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-re
 Eric Kohn             5         http://www.indiewire.com/article/cannes-review-is-tommy-lee-jones-the-homesman-the-strangest-movie-in-competition-at-cannes
 Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10839215/Cannes-2014-The-Homesman-review-Swank-and-Jones-are-sensational.html
 Geoff Andrew                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-flat-out-west-tommy-lee-jones-s
+Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/the-homesman-cannes-review-tommy-lee-jones-hilary-swank
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -917,6 +919,8 @@ Romaine Le Vern       10
 Mehdi Omais           
 Philippe Rouyer       10
 Life Caroline         8
+#
+Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/maps-to-the-stars-cannes-review-julianne-moore-robert-pattinson
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -1383,6 +1387,8 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+#
+Henry Barnes          8      http://www.theguardian.com/film/2014/may/18/cannes-2014-force-majuere-review
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
