@@ -845,7 +845,7 @@ Arnaud Hée
 Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman                   
+Daniel Kasman         
 Michael Kienzl        
 Nino Klinger          
 Dana Linssen          
@@ -914,7 +914,7 @@ Nicolas Bell
 Christophe Beney      
 David Calhoun         
 Per Juul Carlsen      
-Paola Casella            
+Paola Casella         
 #Mike d'Angelo        
 Manon Dumais          
 #Carlos Heredero      
@@ -1040,12 +1040,12 @@ Pamela Bienzobas
 Javier Estrada        
 Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
 Frédéric Jaeger       6
 Till Kadritzke        
-Daniel Kasman           
+Daniel Kasman         
 Rüdiger Suchsland     7.5
 # Le film français 0-4
 Stéphanie Lamome      7.5
@@ -1090,7 +1090,7 @@ Javier Estrada        4.5
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       
-Frédéric Jaeger       1   
+Frédéric Jaeger       1
 Till Kadritzke        1
 Daniel Kasman         1
 Michael Kienzl        2.5
@@ -1358,6 +1358,7 @@ Christophe Carriére
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
+Diego Lerer        6.5
 Ángel Quintana     6.5
 Carlos Reviriego   5.5
 Inma Merino        6.5
@@ -1871,6 +1872,7 @@ Michael Kienzl        6
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-twisty-inventive-hilarious-korean-cop-thriller-a-hard-day-is-a-total-blast-20140518
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
+Diego Lerer           8
 
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
 
