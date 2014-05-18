@@ -172,7 +172,7 @@ Richard Mowe          8         http://www.eyeforfilm.co.uk/review/mr-turner-201
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
 Scott Foundas         
-Roger Alan Koza            6.5
+Roger Alan Koza       6.5
 Alexandra Zawia       7.5
 Robert Koehler        
 Diego Batlle          7          http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -305,6 +305,7 @@ Eulàlia Iglesias     4
 Ángel Quintana       1.5
 José Luis Losa       2.5
 Pedro Butcher         3.5
+Carlo Chatrian        4
 Violeta Kovacsics     5.5
 Luciano Monteagudo    3
 Jaime Pena            0.5
@@ -476,13 +477,18 @@ Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
-Roger Alan Koza            7
+Roger Alan Koza       7
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           7
 Ángel Quintana       8.5
+José Luis Losa       9
 Pedro Butcher         7.5
+Carlo Chatrian        6
+Jaime Pena            5.5
 Fernando Juan Lima    7
+Inma Merino           7.5
 Alejandro Calvo       6
+Javier Estrada        6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -615,7 +621,13 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/17/cann
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
+Ángel Quintana       6
+José Luis Losa       5
+Jaime Pena            6.5
+Carlos Heredero       6.5
 Fernando Juan Lima    6.5
+Inma Merino           7
+Alejandro Calvo       7.5
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -705,7 +717,7 @@ UN CERTAIN REGARD
 "PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001880/year/2014.html
 Scott Foundas         
-Roger Alan Koza            4.5
+Roger Alan Koza       4.5
 Alexandra Zawia       3
 Robert Koehler        
 Diego Batlle          7
@@ -882,12 +894,18 @@ Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000813/year/2014.html
+José Luis Losa       1
+Javier Estrada        4.5
 
 "THE DISAPPEARANCE OF ELEANOR RIGBY" (Ned BENSON) [Un Certain Regard] Short version
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
+Ángel Quintana       4
 Violeta Kovacsics     5
+Jaime Pena            6.5
+Carlos Heredero       7
 Giona Nazzaro         2
 Fernando Juan Lima    4
+Inma Merino           3.5
 Alejandro Calvo       4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -907,7 +925,9 @@ Richard Mowe          8         http://www.eyeforfilm.co.uk/review/eleanor-rigby
 
 "WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009237/year/2014.html
-Roger Alan Koza            2
+Roger Alan Koza       2
+Ángel Quintana       4.5
+Carlos Heredero       2
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
@@ -920,7 +940,7 @@ Inma Merino        6.5
 
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
-Roger Alan Koza            10
+Roger Alan Koza       10
 Diego Batlle          8.5
 Diego Lerer           10
 
@@ -1084,6 +1104,7 @@ Jean-Baptiste Morain             http://cannes2014.lesinrocks.com/2014/05/17/eau
 Diego Batlle          7
 Diego Lerer           6.5
 José Luis Losa       6.5
+Jaime Pena            5.5
 Giona Nazzaro         6.5
 #
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
@@ -1117,6 +1138,7 @@ Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-rev
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           6
 Ángel Quintana       5.5
+Jaime Pena            6.5
 Fernando Juan Lima    7
 Alejandro Calvo       5
 Eric Kohn            4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
@@ -1159,6 +1181,7 @@ Eulàlia Iglesias     5
 Ángel Quintana       4.5
 José Luis Losa       5
 Jaime Pena            3
+Luciano Barisone      5.5
 Giona Nazzaro         4
 Javier Estrada        5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -1174,6 +1197,7 @@ Daniel Kasman
 
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
 Giona Nazzaro         6.5
+Javier Estrada        6.5
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
@@ -1236,7 +1260,8 @@ Jessica Kiang         8
 Glenn Heath Jr        2       https://twitter.com/MatchCuts/status/467071641135374336
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
-Roger Alan Koza            4
+Roger Alan Koza       4
+Luciano Barisone      7
 Javier Estrada        7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1251,12 +1276,17 @@ Richard Mowe          8         http://www.eyeforfilm.co.uk/review/catch-me-dadd
 
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
+Luciano Barisone      7.5
 Javier Estrada        7
 
 "NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
 Diego Lerer           8
 Pedro Butcher         8.5
+Jaime Pena            6
+Carlos Heredero       9
+Luciano Barisone      7
 Giona Nazzaro         7.5
+Javier Estrada        8.5
 # 
 Arnaud Hée            9
 Michael Kienzl        6
@@ -1264,6 +1294,8 @@ Michael Kienzl        6
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
+Luciano Barisone      7
+Javier Estrada        6.5
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
 Paolo Bertolin     7
