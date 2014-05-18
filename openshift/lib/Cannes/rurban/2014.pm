@@ -245,11 +245,11 @@ Nicolas Bell          5
 Christophe Beney      
 David Calhoun         8
 Per Juul Carlsen      6
-Paola Casella         5  
+Paola Casella         5
 #Mike d'Angelo        6 #(5.9)
 Manon Dumais          6
 #Carlos Heredero      6 #(5.5)
-#Eric Kohn   	      
+Eric Kohn   	      8
 Eric Lavallée         6 #(5)
 Fabien Lemercier      8
 Guy Lodge             7
@@ -341,17 +341,17 @@ Rüdiger Suchsland     6         http://www.negativ-film.de/2014/05/so-bist-du-m
 Nicolas Bell          4
 Christophe Beney      
 David Calhoun         4
-Per Juul Carlsen      
-Paola Casella         5  
-#Mike d'Angelo        
-Manon Dumais          4  
+Per Juul Carlsen      6
+Paola Casella         5
+#Mike d'Angelo        5
+Manon Dumais          4
 #Carlos Heredero      4
-#Eric Kohn   	      
+#Eric Kohn   	      4
 Eric Lavallée         
 Fabien Lemercier      4
 Guy Lodge             
-Liu Min               
-Isabelle Regnier      
+Liu Min               4
+Isabelle Regnier      2
 Cédric Succivalli     5
 Blake Williams        5
 # Screen Daily (0-4)
@@ -465,16 +465,16 @@ Nicolas Bell          7
 Christophe Beney      
 David Calhoun         8         http://www.timeout.com/london/film/winter-sleep
 Per Juul Carlsen      
-Paola Casella            
+Paola Casella         6
 #Mike d'Angelo        
 Manon Dumais          7
 #Carlos Heredero      10  (#9.5)
-#Eric Kohn   	      
+Eric Kohn   	      9         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
 Eric Lavallée         7
 Fabien Lemercier      8
-Guy Lodge             
-Liu Min               
-Isabelle Regnier      
+Guy Lodge             4
+Liu Min               9
+Isabelle Regnier      6
 Cédric Succivalli     9
 Blake Williams        6
 # Screen Daily (0-4)
@@ -522,7 +522,7 @@ Nikola Grozdanović    9.7       http://waytooindie.com/review/movie/winter-slee
 Jessica Kiang         3         http://blogs.indiewire.com/theplaylist/cannes-review-nuri-bilge-ceylans-winter-sleep-20140516
 Debora Young (Hollywood Reporter)   http://www.hollywoodreporter.com/review/winter-sleep-kis-uykusu-cannes-704978
 Xan Brooks            8         http://www.theguardian.com/film/2014/may/16/cannes-2014-winter-sleep-review-nuri-bilge-ceylan
-Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
+#Eric Kohn             8         http://www.indiewire.com/article/cannes-review-why-nuri-bilge-ceylans-winter-sleep-is-a-three-hour-plus-trip-worth-taking
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/16/cannes-14-winter-sleep-kis-uykusu-von-nuri-bilge-ceylan/
 Craig Skinner         7
 Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/467343190031622144
@@ -587,21 +587,21 @@ Boris Nelepo          9
 #Cristina Nord        9 (#8.5)
 #Alexandra Zawia      6 (#6)
 # ioncinema 0-5
-Nicolas Bell          
+Nicolas Bell          6
 Christophe Beney      
-David Calhoun         
-Per Juul Carlsen      
-Paola Casella            
+David Calhoun         5
+Per Juul Carlsen      2
+Paola Casella         6
 Mike d'Angelo         4.9       https://twitter.com/gemko/status/467605075788300288
-Manon Dumais          
+Manon Dumais          6
 #Carlos Heredero      
 #Eric Kohn   	      
-Eric Lavallée         
-Fabien Lemercier      
+Eric Lavallée         6
+Fabien Lemercier      8
 Guy Lodge                       http://variety.com/2014/film/reviews/cannes-film-review-saint-laurent-1201184381/
-Liu Min               
-Isabelle Regnier      
-Cédric Succivalli     
+Liu Min               4
+Isabelle Regnier      8
+Cédric Succivalli     10
 Blake Williams        6.3       https://twitter.com/Astrostic/status/467593132788695040
 # Screen Daily (0-4)
 Robbie Collin         2.5       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
@@ -714,19 +714,19 @@ Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      
-David Calhoun         
-Per Juul Carlsen      
-Paola Casella            
-#Mike d'Angelo        
+David Calhoun         5
+Per Juul Carlsen      5
+Paola Casella         6
+#Mike d'Angelo        7 (#6.2)
 Manon Dumais          6
-#Carlos Heredero      
-#Eric Kohn   	      
+#Carlos Heredero      5
+#Eric Kohn   	      10 (#9)
 Eric Lavallée         
-Fabien Lemercier      
+Fabien Lemercier      5
 Guy Lodge             
-Liu Min               
-Isabelle Regnier      
-Cédric Succivalli     
+Liu Min               6
+Isabelle Regnier      4
+Cédric Succivalli     7
 Blake Williams        5.3       https://twitter.com/Astrostic/status/467381660791889920
 # Screen Daily (0-4)
 Robbie Collin         5
@@ -805,6 +805,23 @@ Nino Klinger          6
 #Cristina Nord        4
 Rüdiger Suchsland     
 #Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          4
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         7
+#Mike d'Angelo        
+Manon Dumais          6
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      0
+Cédric Succivalli     
+Blake Williams        
 # Screen Daily (0-4)
 Robbie Collin         
 David Stratton        
@@ -816,6 +833,32 @@ Michel Ciment
 Kate Muir/Wendy Ide   
 Bo Green Jensen       
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
 #
 Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
 Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
@@ -857,6 +900,23 @@ Dana Linssen          6
 Cristina Nord         7.5
 Rüdiger Suchsland     
 #Alexandra Zawia      6  (#6)
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         7
+Per Juul Carlsen      5
+Paola Casella         5
+#Mike d'Angelo        
+Manon Dumais          5
+#Carlos Heredero      5
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      5
+Guy Lodge             
+Liu Min               6
+Isabelle Regnier      6
+Cédric Succivalli     
+Blake Williams        
 # Screen Daily (0-4)
 Robbie Collin         
 David Stratton        
@@ -902,6 +962,7 @@ Donald Clarke         6         http://www.irishtimes.com/blogs/screenwriter/201
 Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-the-wonders-1201184521/
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
 Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cannes-2014-the-miracles-review
+Marc van de Klashorst           http://icsfilm.org/news/257-la-meraviglie
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -929,6 +990,23 @@ Boris Nelepo          7.5
 Cristina Nord         
 Rüdiger Suchsland     
 #Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         5
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
 # Screen Daily (0-4)
 Robbie Collin         9     http://www.telegraph.co.uk/culture/film/filmreviews/10838381/Cannes-2014-Maps-to-the-Stars-review-a-nightmare-you-dont-want-to-wake-from.html
 David Stratton        
