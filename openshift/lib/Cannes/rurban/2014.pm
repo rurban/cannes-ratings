@@ -1453,7 +1453,7 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 
 "P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
 
-"WELCOME TO NEW YORK" (Abel Ferrara) [Market]
+"WELCOME TO NEW YORK" (Abel Ferrara) [Laptop on the beach]
 Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
 Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
 
