@@ -56,7 +56,7 @@ Luciano Barisone
 Giona Nazzaro         8
 Dana Linssen          5
 Cristina Nord         4
-Francisco Ferreira    
+Francisco Ferreira    6.5
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
@@ -195,7 +195,7 @@ Luciano Barisone
 Giona Nazzaro         4.5
 Dana Linssen          8
 Cristina Nord         9
-Francisco Ferreira    
+Francisco Ferreira    3
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
@@ -312,6 +312,14 @@ Luciano Monteagudo    3
 Jaime Pena            0.5
 Carlos Heredero       4.5
 Giona Nazzaro         4.5
+Dana Linssen          
+Cristina Nord         
+Francisco Ferreira    2
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         
+Marcelo Alderete      
 Michal Oleszczyk      1.5
 Fernando Juan Lima    3.5
 Inma Merino           2
@@ -528,18 +536,42 @@ Roger Alan Koza       7
 Alexandra Zawia       6
 Diego Batlle          6.5       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           7
+Fernando Ganzo        
+Eulàlia Iglesias     7
 Ángel Quintana       8.5
 José Luis Losa       9
 Pedro Butcher         7.5
+Jose Luis De Lorenzo  
+Alex Vicente          
 Carlo Chatrian        6
 Violeta Kovacsics     7.5
 Luciano Monteagudo    5
 Jaime Pena            5.5
+Rüdiger Suchsland    
+Carlos Heredero       2.5
+Luciano Barisone      
+Giona Nazzaro         
+Dana Linssen          
 Cristina Nord         8.5
+Francisco Ferreira    7.5
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
 Ronald Rovers         6.5
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez           
+Carlos Reviriego      
 Fernando Juan Lima    7
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           7.5
+Fredy Friedlander     
+Pablo Scholz          
 Alejandro Calvo       6
+Xavi Serra            
+Guido Castillo        
 Pamela Bienzobas      7
 Javier Estrada        6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -747,11 +779,17 @@ Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/201
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
 Alexandra Zawia       5
+Diego Batlle          8
 Diego Lerer           9
 Fernando Ganzo        5
+Eulàlia Iglesias     5.5
+Ángel Quintana       7.5
+Carlos Heredero       6.5
 Giona Nazzaro         9
 Cristina Nord         4.5
+Francisco Ferreira    3.5
 Ronald Rovers         3.5
+Inma Merino           6
 Fredy Friedlander     6
 Alejandro Calvo       8
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -793,12 +831,14 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/the-
 Alexandra Zawia       6
 Diego Batlle          7.5
 Fernando Ganzo        5
+Eulàlia Iglesias     7
 Ángel Quintana       6
 José Luis Losa       5
 Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            6.5
 Carlos Heredero       6.5
+Francisco Ferreira    7.5
 Ronald Rovers         8
 Fernando Juan Lima    6.5
 Inma Merino           7
@@ -810,7 +850,7 @@ Arnaud Hée
 Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman                   
+Daniel Kasman         
 Michael Kienzl        
 Nino Klinger          7.5       
 Dana Linssen          6
@@ -868,6 +908,12 @@ Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cann
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
+Diego Batlle          7
+Eulàlia Iglesias     7
+Ángel Quintana       6
+Carlos Heredero       4.5
+Francisco Ferreira    4
+Inma Merino           5.5
 Fredy Friedlander     7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -929,12 +975,12 @@ Oliver Lyttleton      7         http://blogs.indiewire.com/theplaylist/review-da
 Dana Linssen          5.5
 Ronald Rovers         7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
 Frédéric Jaeger       
 Till Kadritzke        
-Daniel Kasman            
+Daniel Kasman         
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1051,7 +1097,7 @@ Luciano Barisone
 Giona Nazzaro         
 Dana Linssen          5.5
 Cristina Nord         
-Francisco Ferreira    
+Francisco Ferreira    1
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
@@ -1176,7 +1222,7 @@ Luciano Barisone
 Giona Nazzaro         8
 Dana Linssen          
 Cristina Nord         6.5
-Francisco Ferreira    
+Francisco Ferreira    7
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
@@ -1305,6 +1351,7 @@ Christophe Carriére
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
 Alexandra Zawia       2
 Diego Batlle          4
+Eulàlia Iglesias     5
 Ángel Quintana       4
 Violeta Kovacsics     5
 Jaime Pena            6.5
@@ -1394,10 +1441,13 @@ Henry Barnes          8      http://www.theguardian.com/film/2014/may/18/cannes-
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
-Diego Lerer        6.5
-Ángel Quintana     6.5
-Carlos Reviriego   5.5
-Inma Merino        6.5
+Diego Batlle          6.5
+Diego Lerer           6.5
+Eulàlia Iglesias     6
+Ángel Quintana       6.5
+Carlos Heredero       7
+Carlos Reviriego      5.5
+Inma Merino           6.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1428,10 +1478,15 @@ Christophe Carriére
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
 Roger Alan Koza       10
-Diego Batlle          8.5
+Diego Batlle          9
 Diego Lerer           10        http://t.co/bNxBECmTW3
+Eulàlia Iglesias     8.5
+Ángel Quintana       9
 Luciano Monteagudo    9.5
+Carlos Heredero       9.5
 Giona Nazzaro         10
+Francisco Ferreira    9
+Inma Merino           8.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1712,6 +1767,8 @@ Donald Clarke         10        http://www.irishtimes.com/blogs/screenwriter/201
 
 "THE SALVATION" (Kristian LEVRING) [Out Of Competition - Midnight]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005263/year/2014.html
+Eulàlia Iglesias     5.5
+Ángel Quintana       4.5
 Giona Nazzaro         6.5
 Alejandro Calvo       7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -1840,6 +1897,7 @@ Carlos Heredero       6.5
 Luciano Barisone      5.5
 Dana Linssen          6.5
 Cristina Nord         7.5
+Francisco Ferreira    1.5
 Ronald Rovers         7
 Manu Yañez           7
 Carlos Reviriego      6.5
@@ -1925,11 +1983,15 @@ Javier Estrada        6.5
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
 Paolo Bertolin        7
+#
 Michael Kienzl        6
+#
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-twisty-inventive-hilarious-korean-cop-thriller-a-hard-day-is-a-total-blast-20140518
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
+Diego Batlle          8
 Diego Lerer           8
+Ángel Quintana       4
 Luciano Monteagudo    7
 
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
