@@ -544,7 +544,7 @@ Guy Lodge                       http://variety.com/2014/film/reviews/cannes-film
 Liu Min               
 Isabelle Regnier      
 Cédric Succivalli     
-Blake Williams        
+Blake Williams        6.3       https://twitter.com/Astrostic/status/467593132788695040
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -622,7 +622,7 @@ Guy Lodge
 Liu Min               
 Isabelle Regnier      
 Cédric Succivalli     
-Blake Williams        5.3       Ridiculous. A set of six short films, each one longer and than the previous one. Inane at its worst, clever at its best.
+Blake Williams        5.3       https://twitter.com/Astrostic/status/467381660791889920
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -661,6 +661,7 @@ Fredy Friedlander     6
 Alejandro Calvo       8
 Christoph Huber       4
 Nino Klinger          6
+Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -983,6 +984,7 @@ Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-
 #
 Beatrice Behn                   http://www.kino-zeit.de/blog/cannes/amour-fou
 Mike d'Angelo         4.5       https://twitter.com/gemko/status/467746984057925632
+Blake Williams        7.1       https://twitter.com/Astrostic/status/467422806540832770
 
 
 "RUN" (Philippe LACOTE) [Un Certain Regard]
@@ -1028,6 +1030,7 @@ Ronald Rovers         6
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
+Blake Williams     6.0
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
@@ -1301,6 +1304,7 @@ Javier Estrada        6.5
 Michael Kienzl        6
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
+Blake Williams        5.9       https://twitter.com/Astrostic/status/467945918663507968
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
 
@@ -1408,6 +1412,7 @@ Boris Nelepo
 # 
 Tim Robey                   https://twitter.com/trim_obey/status/467612160185864192
 Keith Uhlich          10    http://www.timeout.com/us/film/national-gallery
+Blake Williams        7.5   https://twitter.com/Astrostic/status/467724076228677632
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 Luciano Barisone      7
@@ -1445,6 +1450,8 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 
 "P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
 
+"WELCOME TO NEW YORK" (Abel Ferrara) [Market]
+Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
 
 EOF
 
