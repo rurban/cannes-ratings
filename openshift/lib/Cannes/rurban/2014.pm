@@ -1047,6 +1047,7 @@ Life Caroline         8
 #
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/maps-to-the-stars-cannes-review-julianne-moore-robert-pattinson
 Oliver Lyttleton      7         http://blogs.indiewire.com/theplaylist/review-david-cronenbergs-maps-to-the-stars-with-robert-pattinson-mia-wasikowska-julianne-moore-john-cusack-20140518
+Mike d'Angelo         3.5       https://twitter.com/gemko/status/468151676961292289
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -1864,6 +1865,7 @@ Boris Nelepo
 #
 Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/the-salvation
 Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-review-kristian-levrings-the-salvation-starring-mads-mikkelsen-eva-green-20140517
+Mike d'Angelo         6.5      https://twitter.com/gemko/status/468154346707095552
 
 "KHALIL GIBRAN’S THE PROPHET" (Roger ALLERS, Gaëtan BRIZZI, ...) [Special Screening]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100016282/year/2014.html
