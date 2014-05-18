@@ -1099,6 +1099,8 @@ Richard Mowe         4      http://www.eyeforfilm.co.uk/review/grace-of-monaco-2
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 Michal Oleszczyk      8
 Xavi Serra            6
+Craig Skinner         7
+Oliver Lyttelton      5
 
 "SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
 Carlo Chatrian        9.5
