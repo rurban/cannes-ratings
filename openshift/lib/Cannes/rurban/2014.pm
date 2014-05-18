@@ -392,6 +392,7 @@ Craig Skinner         3
 Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/467257765250220032
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/the-captive-2014-film-review-by-richard-mowe
 Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10834352/The-Captive-review-queasily-unsettling.html
+Nick James                      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-girls-found-lost-girlhood-captives
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
@@ -615,8 +616,8 @@ Glenn Heath Jr        6.5       https://twitter.com/MatchCuts/status/46763364587
 Peter Bradshaw        4         http://www.theguardian.com/film/2014/may/17/saint-laurent-cannes-2014
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
-#Robbie Collin         4         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
-
+#Robbie Collin         4        http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
+Jordan Cronk                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-eyes-have-it-saint-laurent-bertrand
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
@@ -756,6 +757,7 @@ Glenn Heath Jr        8         https://twitter.com/MatchCuts/status/46694227710
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-tommy-lee-jones-awkwardly-interesting-the-homesman-co-starring-hilary-swank-and-meryl-streep-20140518
 Eric Kohn             5         http://www.indiewire.com/article/cannes-review-is-tommy-lee-jones-the-homesman-the-strangest-movie-in-competition-at-cannes
 Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10839215/Cannes-2014-The-Homesman-review-Swank-and-Jones-are-sensational.html
+Geoff Andrew                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-flat-out-west-tommy-lee-jones-s
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -851,7 +853,7 @@ Cristina Nord
 Rüdiger Suchsland     
 #Alexandra Zawia      
 # Screen Daily (0-4)
-Robbie Collin         
+Robbie Collin         9     http://www.telegraph.co.uk/culture/film/filmreviews/10838381/Cannes-2014-Maps-to-the-Stars-review-a-nightmare-you-dont-want-to-wake-from.html
 David Stratton        
 Derek Malcolm         
 Jan Schulz-Ojala      
@@ -1807,6 +1809,7 @@ Blake Williams        3
 Eric Lavallée         4
 Jessica Kiang         8
 Glenn Heath Jr        2       https://twitter.com/MatchCuts/status/467071641135374336
+Nick James                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-girls-found-lost-girlhood-captives
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Alan Koza       4
@@ -1856,6 +1859,7 @@ Tim Robey                   https://twitter.com/trim_obey/status/467612160185864
 Keith Uhlich          10    http://www.timeout.com/us/film/national-gallery
 Blake Williams        7.5   https://twitter.com/Astrostic/status/467724076228677632
 Donato d'Elia (LoudVision, Italy)   http://www.loudvision.it/cinema-interviste-cannes-2014---270.html
+Isabel Stevens              http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-behind-scenes-museum-frederick
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 Luciano Barisone      7
@@ -2091,6 +2095,7 @@ John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
 Jonathan Romney (Screen Daily, UK)
 Jonathan Rosenbaum (Chicago Reader, USA) 
+Jordan Cronk (Sight & Sound, UK)
 Jordan Hoffman (Film.com, ScreenCrush.com, Badass Digest, USA)
 Jordan Raup (The Film Stage, USA)
 Josef Lederle (Filmdienst, Deutschland)
