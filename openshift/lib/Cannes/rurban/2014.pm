@@ -849,6 +849,7 @@ Daniel Kasman
 Michael Kienzl        
 Nino Klinger          
 Dana Linssen          
+Boris Nelepo          7.5
 Cristina Nord         
 Rüdiger Suchsland     
 #Alexandra Zawia      
@@ -1362,6 +1363,16 @@ Diego Lerer        6.5
 Ángel Quintana     6.5
 Carlos Reviriego   5.5
 Inma Merino        6.5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        6
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Boris Nelepo          
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1385,6 +1396,16 @@ Roger Alan Koza       10
 Diego Batlle          8.5
 Diego Lerer           10        http://t.co/bNxBECmTW3
 Giona Nazzaro         10
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        9
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+Boris Nelepo          6
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
