@@ -8,6 +8,7 @@ package Cannes::rurban::2014;
 # french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4) Safari yes, chrome no
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4) Safari yes, chrome no
+# http://lci.tf1.fr/cinema/news/festival-de-cannes-2014-les-etoiles-de-la-presse-cinema-8419004.html
 # More:
 # http://www.indiewire.com/critic/
 # http://www.guardian.co.uk/film/series/first-look-review+cannes-2014
@@ -719,6 +720,7 @@ Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/201
 Alexandra Zawia       5
 Diego Lerer           9
 Fernando Ganzo        5
+Giona Nazzaro         9
 Cristina Nord         4.5
 Ronald Rovers         3.5
 Fredy Friedlander     6
@@ -1302,6 +1304,7 @@ Richard Mowe          8         http://www.eyeforfilm.co.uk/review/eleanor-rigby
 Roger Alan Koza       2
 Ángel Quintana       4.5
 Carlos Heredero       2
+Giona Nazzaro         5
 Ronald Rovers         6
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1368,6 +1371,7 @@ Christophe Carriére
 Roger Alan Koza       10
 Diego Batlle          8.5
 Diego Lerer           10        http://t.co/bNxBECmTW3
+Giona Nazzaro         10
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1657,6 +1661,7 @@ Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-rev
 
 "THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002115/year/2014.html
+Giona Nazzaro         8
 
 "THE ROVER" (David MICHOD) [Out Of Competition - Midnight]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004744/year/2014.html
@@ -1721,7 +1726,7 @@ Daniel Kasman
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
-Giona Nazzaro         6.5
+Giona Nazzaro         7
 Javier Estrada        6.5
 Michael Kienzl        6
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
@@ -1819,7 +1824,7 @@ Pedro Butcher         8.5
 Jaime Pena            6
 Carlos Heredero       9
 Luciano Barisone      7
-Giona Nazzaro         7.5
+Giona Nazzaro         8
 Cristina Nord         9
 Javier Estrada        8.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -2013,6 +2018,7 @@ Mehdi Omais (Metro, France)
 Philippe Rouyer (Positif, France)
 Life Caroline (20 minutes, Suisse)
 ";
+# Life Caroline == Catherine Magnin?
 # indiewire + various other
 $critics[6] = "
 Adam Cook (MUBI, USA)
@@ -2150,8 +2156,6 @@ Olivier Père (Les Inrockuptibles, France)
 Sergio Wolf (BAFICI, Argentina) 
 Thomas Fioretti (Independencia, France) 
 ";
-
-# http://lci.tf1.fr/cinema/news/festival-de-cannes-2013-les-etoiles-de-la-presse-cinema-7961575.html
 
 our $HEADER = <<"EOF";
 
