@@ -9,6 +9,7 @@ set apphandler => 'PSGI';
 my $root = $ENV{'DOCUMENT_ROOT'} || '';
 if ($ENV{'REMOTE_ADDR'} eq '127.0.0.1') {
   set environment => 'development';
+  #set environment => 'production';
   set auto_reload => 1;
 } else {
   set environment => 'production';

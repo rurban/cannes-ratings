@@ -73,6 +73,8 @@ sub _read {
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
     }
   }
+  $a = $n ? sprintf("%.02f", $s/$n) : 0;
+  push @t, [$title_dir,$a,$n,$title] if $title_dir;
   return ( \%critic, \%title, \@t );
 }
 # boolean: show details for indexed t? (movie or critic)
