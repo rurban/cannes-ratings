@@ -8,7 +8,6 @@ package Cannes::rurban::2014;
 # french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4) Safari yes, chrome no
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4) Safari yes, chrome no
-# http://www.ioncinema.com/news/film-festivals/
 # More:
 # http://www.indiewire.com/critic/
 # http://www.guardian.co.uk/film/series/first-look-review+cannes-2014
@@ -136,16 +135,6 @@ Pierre Fornerod       5
 Pascal Merigeau       7.5
 Danielle Attali       5
 Christophe Carriére   9
-# TF1.fr 0-5
-Aurelien Allin        
-Evangeline Barbaroux  
-Thomas Baurez         
-Stephanie Belpeche    
-Roman Blondaeu        
-Stephanie Lamome      
-Roman Vern            
-Mehdi Omais           
-#Philippe Rouyer      
 #critics
 Peter Bradshaw        10	http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
 Leslie Felperin   	        http://www.hollywoodreporter.com/review/mr-turner-cannes-review-704352
@@ -273,17 +262,6 @@ Pierre Fornerod       5
 Pascal Merigeau       7.5
 Danielle Attali       9
 Christophe Carriére   7.5
-# TF1.fr 0-5
-Aurelien Allin        
-Evangeline Barbaroux  
-Thomas Baurez         
-Stephanie Belpeche    
-Roman Blondaeu        
-Stephanie Lamome      
-Roman Vern            
-Mehdi Omais           
-#Philippe Rouyer      
-Stephanie Zacharek    
 # critics
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
@@ -1877,17 +1855,17 @@ Michael Kienzl (critic.de, Deutschland)
 Nino Klinger (critic.de, Deutschland)
 ";
 # TF1.fr
-$critics[5] = "
-Aurelien Allin (Cinemateaser, France)
-Evangeline Barbaroux (LCI, France)
-Thomas Baurez (Studio CineLive, France)
-Stephanie Belpeche (JDD, France)
-Roman Blondaeu (Les Inrockuptibles, France)
-Stephanie Lamome (First, France)
-Roman Vern (TF1 News, France)
-Mehdi Omais (Metro, France)
-Philippe Rouyer (Positif, France)
-";
+#$critics[5] = "
+#Aurelien Allin (Cinemateaser, France)
+#Evangeline Barbaroux (LCI, France)
+#Thomas Baurez (Studio CineLive, France)
+#Stephanie Belpeche (JDD, France)
+#Roman Blondaeu (Les Inrockuptibles, France)
+#Stéphanie Lamome (First, France)
+#Roman Vern (TF1 News, France)
+#Mehdi Omais (Metro, France)
+#Philippe Rouyer (Positif, France)
+#";
 # indiewire + various other
 $critics[6] = "
 Adam Cook (MUBI, USA)
@@ -2036,9 +2014,8 @@ http://www.ioncinema.com/ (okay),
 Le film français (eclectic),
 http://jury.critic.de/cannes/ (german),
 Screen Daily (US/UK mainstream),
-more french TF1.fr,
-Indiewire (mixed), metacritic
-and more individual critics.<br>
+Indiewire (mixed), 
+and more papers and individual critics.<br>
 
 <br>
 <b>Ratings</b>:<br>
