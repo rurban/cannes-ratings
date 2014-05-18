@@ -135,6 +135,16 @@ Pierre Fornerod       5
 Pascal Merigeau       7.5
 Danielle Attali       5
 Christophe Carriére   9
+# TF1.fr (0-5)
+Aurelien Allin        4
+Evangeline Barbaroux  2
+Thomas Baurez         4
+Stephanie Belpeche    
+Stéphanie Lamome      4
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       6
+Life Caroline         6
 #critics
 Peter Bradshaw        10	http://www.theguardian.com/film/2014/may/15/mr-turner-cannes-review-mike-leigh-2014
 Leslie Felperin   	        http://www.hollywoodreporter.com/review/mr-turner-cannes-review-704352
@@ -262,6 +272,16 @@ Pierre Fornerod       5
 Pascal Merigeau       7.5
 Danielle Attali       9
 Christophe Carriére   7.5
+# TF1.fr (0-5)
+Aurelien Allin        6
+Evangeline Barbaroux  8
+Thomas Baurez         
+Stephanie Belpeche    8
+Stéphanie Lamome      4
+Romaine Le Vern       
+Mehdi Omais           8
+Philippe Rouyer       6
+Life Caroline         8
 # critics
 Mike d'Angelo         5.9	https://twitter.com/gemko/status/466691923143843840
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/14/cannes-film-festival-review-timbuktu
@@ -352,6 +372,16 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       5
 Christophe Carriére   2.5
+# TF1.fr (0-5)
+Aurelien Allin        8
+Evangeline Barbaroux  6
+Thomas Baurez         
+Stephanie Belpeche    8
+Stéphanie Lamome      10
+Romaine Le Vern       10
+Mehdi Omais           2
+Philippe Rouyer       8
+Life Caroline         8
 # criticwire
 Eric Kohn             3         http://www.indiewire.com/article/cannes-review-with-the-ryan-reynolds-thriller-the-captive-has-atom-egoyan-lost-his-way-for-good
 Mike d'Angelo         4.6	https://twitter.com/gemko/status/467224279982309376
@@ -464,6 +494,16 @@ Pierre Fornerod       7.5
 Pascal Merigeau       9
 Danielle Attali       9
 Christophe Carriére   2.5
+# TF1.fr (0-5)
+Aurelien Allin        4
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      4
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       10
+Life Caroline         
 # criticwire
 Mike d'Angelo         5.5	https://twitter.com/gemko/status/467339736504606720
 # Epic portrait of a prick, shot in an amazing location. Admirable, w/a magnificent lead perf, but sooo grueling.
@@ -554,6 +594,16 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       2.5
 Christophe Carriére   7.5
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  6
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      8
+Romaine Le Vern       
+Mehdi Omais           4
+Philippe Rouyer       8
+Life Caroline         6
 #
 Mike d'Angelo         4.9	https://twitter.com/gemko/status/467605075788300288
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/saint-laurent-2014-film-review-by-richard-mowe
@@ -643,6 +693,16 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       7.5
 Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    6
+Stéphanie Lamome      6
+Romaine Le Vern       4
+Mehdi Omais           6
+Philippe Rouyer       2
+Life Caroline         
 #
 Mike d'Angelo         6.2	https://twitter.com/gemko/status/467444715580035073
 Jay Weissberg (Variety, US)     http://variety.com/2014/film/reviews/cannes-film-review-wild-tales-1201184260/
@@ -724,6 +784,33 @@ Michel Ciment
 Kate Muir/Wendy Ide   
 Bo Green Jensen       
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        2
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      2
+Romaine Le Vern       
+Mehdi Omais           2
+Philippe Rouyer       2
+Life Caroline         2
+#
 Mike d'Angelo         6.2       https://twitter.com/gemko/status/467747296390959104
 Eric Kohn                       http://www.indiewire.com/article/countdown-to-cannes-is-alice-rohrwachers-the-wonders-is-already-a-frontrunner-for-the-palme-dor
 Deborah Young                   http://www.hollywoodreporter.com/review/wonders-le-meraviglie-cannes-review-705155
@@ -738,6 +825,56 @@ Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cann
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
 Fredy Friedlander     7
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman                   
+Michael Kienzl        
+Nino Klinger          
+Dana Linssen          
+Cristina Nord         
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  6
+Thomas Baurez         8
+Stephanie Belpeche    8
+Stéphanie Lamome      8
+Romaine Le Vern       10
+Mehdi Omais           
+Philippe Rouyer       10
+Life Caroline         8
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -802,6 +939,16 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
 #
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
@@ -1855,17 +2002,17 @@ Michael Kienzl (critic.de, Deutschland)
 Nino Klinger (critic.de, Deutschland)
 ";
 # TF1.fr
-#$critics[5] = "
-#Aurelien Allin (Cinemateaser, France)
-#Evangeline Barbaroux (LCI, France)
-#Thomas Baurez (Studio CineLive, France)
-#Stephanie Belpeche (JDD, France)
-#Roman Blondaeu (Les Inrockuptibles, France)
-#Stéphanie Lamome (First, France)
-#Roman Vern (TF1 News, France)
-#Mehdi Omais (Metro, France)
-#Philippe Rouyer (Positif, France)
-#";
+$critics[5] = "
+Aurelien Allin (Cinemateaser, France)
+Evangeline Barbaroux (LCI, France)
+Thomas Baurez (Studio CineLive, France)
+Stephanie Belpeche (JDD, France)
+Stéphanie Lamome (First, France)
+Romaine Le Vern (TF1 News, France)
+Mehdi Omais (Metro, France)
+Philippe Rouyer (Positif, France)
+Life Caroline (20 minutes, Suisse)
+";
 # indiewire + various other
 $critics[6] = "
 Adam Cook (MUBI, USA)
