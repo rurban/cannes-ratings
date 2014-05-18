@@ -1594,6 +1594,7 @@ Danielle Attali
 Christophe Carriére   
 #
 Jordan Cronk         9         https://twitter.com/JordanCronk/status/468081203351158784
+Nikola Grozdanović   9.8       http://waytooindie.com/review/movie/jauja-cannes-review/
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
