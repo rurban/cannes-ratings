@@ -168,7 +168,7 @@ Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-
 Glenn Heath Jr        4         https://twitter.com/MatchCuts/status/466941360923504640
 Richard Mowe          8         http://www.eyeforfilm.co.uk/review/mr-turner-2014-film-review-by-richard-mowe
 Nigel M Smith                   http://www.indiewire.com/article/cannes-timothy-spall-on-the-three-year-experience-of-becoming-mr-turner-for-mike-leigh
-
+Jon Frosch            6
 
 "TIMBUKTU" (Abderrahmane SISSAKO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
@@ -295,6 +295,7 @@ Joachim Kurz                    http://www.kino-zeit.de/blog/cannes/timbuktu
 Michael Sennhauser              http://sennhausersfilmblog.ch/2014/05/15/cannes-14-timbuktu-von-abderrahmane-sissako/
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/466687416531968004
 Tim Robey             8         http://www.telegraph.co.uk/culture/film/filmreviews/10833200/Cannes-2014-Timbuktu-brutal-Sharia-Law-fable.html
+Jon Frosch            8
 
 "THE CAPTIVE" (Atom EGOYAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001748/year/2014.html
@@ -415,6 +416,7 @@ Glenn Heath Jr        3         https://twitter.com/MatchCuts/status/46725776525
 Richard Mowe          6         http://www.eyeforfilm.co.uk/review/the-captive-2014-film-review-by-richard-mowe
 Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10834352/The-Captive-review-queasily-unsettling.html
 Nick James                      http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-girls-found-lost-girlhood-captives
+Jon Frosch            6
 
 "WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
@@ -544,6 +546,7 @@ Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-
 Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-winter-sleep/
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/cannes-review-could-nuri-bilge-ceylons-winter-sleep-grab-the-palme-dor-from-critics-baby-mr-turner
 Mahnola Dargis                  http://www.nytimes.com/2014/05/19/movies/red-army-is-among-the-notables-at-festival.html
+Jon Frosch            7
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
@@ -668,6 +671,7 @@ Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day
 #Robbie Collin         4        http://www.telegraph.co.uk/culture/film/cannes-film-festival/10838188/Saint-Laurent-review-thunderously-vapid.html
 Jordan Cronk                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-eyes-have-it-saint-laurent-bertrand
 Nikola Grozdanović     2        http://blogs.indiewire.com/theplaylist/cannes-review-bertrand-bonellos-saint-laurent-starring-gaspard-ulliel-lea-seydoux-louis-garrel-more-20140517
+Jon Frosch            6
 
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
@@ -889,6 +893,7 @@ Eric Kohn             5         http://www.indiewire.com/article/cannes-review-i
 Robbie Collin         8         http://www.telegraph.co.uk/culture/film/filmreviews/10839215/Cannes-2014-The-Homesman-review-Swank-and-Jones-are-sensational.html
 Geoff Andrew                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-flat-out-west-tommy-lee-jones-s
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/the-homesman-cannes-review-tommy-lee-jones-hilary-swank
+Jon Frosch            6
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
@@ -1013,6 +1018,7 @@ Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film
 Barbara Scharres                http://www.rogerebert.com/cannes/cannes-2014-day-four-saint-laurent-the-wonders-the-crossing
 Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cannes-2014-the-miracles-review
 Marc van de Klashorst           http://icsfilm.org/news/257-la-meraviglie
+Jon Frosch            7
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
@@ -1101,8 +1107,9 @@ Justin Chang                  http://variety.com/2014/film/reviews/cannes-film-r
 Todd McCarthy                 http://www.hollywoodreporter.com/movie/foxcatcher/review/705537
 Peter Labuza          7       http://thefilmstage.com/reviews/cannes-review-foxcatcher/
 Anne Thompson                 http://blogs.indiewire.com/thompsononhollywood/cannes-review-foxcatcher-tells-riveting-murder-tale
-Peter Bradshaw       10       https://twitter.com/PeterBradshaw1/status/468311837092876288
+Peter Bradshaw        10      https://twitter.com/PeterBradshaw1/status/468311837092876288
 Mike d'Angelo         5.0     https://twitter.com/gemko/status/468324360521281536
+Jon Frosch            6
 
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
@@ -1201,6 +1208,7 @@ Mike d'Angelo         3.5       https://twitter.com/gemko/status/468151676961292
 Todd McCarthy                   http://www.hollywoodreporter.com/review/maps-stars-cannes-review-705374
 Eric Kohn             7         http://www.indiewire.com/article/cannes-review-maps-to-the-stars-is-david-cronenbergs-angriest-movie
 Peter Debruge                   http://variety.com/2014/film/reviews/cannes-film-review-david-cronenbergs-maps-to-the-stars-1201185571/
+Jon Frosch            8
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -1911,8 +1919,9 @@ Christophe Carriére
 Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
-Mike d'Angelo         4.3	https://twitter.com/gemko/status/467076682512625664
+Mike d'Angelo         4.3     https://twitter.com/gemko/status/467076682512625664
 Tim Robey             4       https://twitter.com/trim_obey/status/466942019282419712
+Jon Frosch            5
 
 
 "THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
@@ -1990,6 +1999,7 @@ Glenn Heath Jr        5         https://twitter.com/MatchCuts/status/46725858678
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/mathieu-amalric-the-blue-room-cannes-review
 Boyd van Hoeij        7         http://www.indiewire.com/article/cannes-review-how-the-blue-room-proves-that-mathieu-amalric-is-a-true-actor-director
 Robbie Collin         8         http://www.telegraph.co.uk/culture/film/cannes-film-festival/10837928/The-Blue-Room-review-narrative-effervescence.html
+Jon Frosch            5
 
 "AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
@@ -2333,6 +2343,8 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
+#
+Jon Frosch            3
 
 "TITLI" (Kanu BEHL) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005440/year/2014.html
@@ -2494,6 +2506,7 @@ A.A. Dowd            3      http://www.avclub.com/article/cannes-14-day-one-grac
 Blake Williams       1.5
 Joachim Kurz                http://www.kino-zeit.de/blog/cannes/grace-of-monaco
 Richard Mowe         4      http://www.eyeforfilm.co.uk/review/grace-of-monaco-2014-film-review-by-richard-mowe
+Jon Frosch           2
 
 "HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
 Michal Oleszczyk      8
