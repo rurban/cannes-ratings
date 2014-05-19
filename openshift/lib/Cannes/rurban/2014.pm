@@ -2861,6 +2861,7 @@ Till Kadritzke
 Daniel Kasman            
 
 "WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
+Frédéric Jaeger          4
 
 "HOPE" (Boris LOJKINE) [Semaine]
 
@@ -2879,6 +2880,7 @@ Roger Alan Koza            3
 Frédéric Jaeger       7.5      http://www.critic.de/film/faire-lamour-6772/
 
 "WELCOME TO NEW YORK" (Abel Ferrara) [Laptop on the beach]
+Daniel Kasman         6         http://www.mubi.com/notebook/posts/cannes-2014-abel-ferraras-welcome-to-new-york
 Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
 Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
 Matt Mueller                    http://blogs.indiewire.com/thompsononhollywood/cannes-gerard-depardieu-and-abel-ferrara-unveil-welcome-to-new-york
