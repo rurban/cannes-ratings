@@ -658,7 +658,7 @@ Nikola Grozdanović     2        http://blogs.indiewire.com/theplaylist/cannes-r
 "WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
 Scott Foundas         
-Roger Alan Koza       5.5
+Roger Alan Koza       4.5
 Alexandra Zawia       4.5
 Robert Koehler        
 Diego Batlle          8.5
@@ -779,12 +779,16 @@ Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/201
 
 "THE HOMESMAN" (Tommy Lee JONES) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
+Roger Alan Koza       6.5
 Alexandra Zawia       5
 Diego Batlle          8
 Diego Lerer           9
 Fernando Ganzo        5
 Eulàlia Iglesias     5.5
 Ángel Quintana       7.5
+José Luis Losa       6.5
+Carlo Chatrian        8
+Jaime Pena            4
 Carlos Heredero       6.5
 Giona Nazzaro         9
 Cristina Nord         4.5
@@ -878,6 +882,7 @@ Fernando Ganzo        5
 Eulàlia Iglesias     7
 Ángel Quintana       6
 José Luis Losa       5
+Carlo Chatrian        7
 Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            6.5
@@ -970,20 +975,24 @@ Marc van de Klashorst           http://icsfilm.org/news/257-la-meraviglie
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
+Roger Alan Koza       5.5
 Diego Batlle          7
 Eulàlia Iglesias     7
 Ángel Quintana       6
+José Luis Losa       7
+Jaime Pena            6
 Carlos Heredero       4.5
 Francisco Ferreira    4
 Inma Merino           5.5
 Fredy Friedlander     7
+Javier Estrada        5.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
-Arnaud Hée            
+Arnaud Hée            7.5
 Christoph Huber       
 Frédéric Jaeger       6
 Till Kadritzke        
-Daniel Kasman         
+Daniel Kasman         7.5
 Michael Kienzl        
 Nino Klinger          
 Dana Linssen          
@@ -1409,6 +1418,7 @@ Blake Williams        7.1       https://twitter.com/Astrostic/status/46742280654
 "RUN" (Philippe LACOTE) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000813/year/2014.html
 José Luis Losa       1
+Carlo Chatrian        6.5
 Javier Estrada        4.5
 Nino Klinger          6
 # Le film français 0-4
@@ -1501,7 +1511,24 @@ Guy Lodge                      http://variety.com/2014/film/reviews/cannes-film-
 
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
+
+Jaime Pena            7.5
+Javier Estrada        6.5
+
 Blake Williams     6.0
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         6
+Michael Kienzl        
+Nino Klinger          
+Dana Linssen          
+#Cristina Nord         
+Rüdiger Suchsland     
+#Alexandra Zawia      
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1523,13 +1550,17 @@ Henry Barnes          8      http://www.theguardian.com/film/2014/may/18/cannes-
 
 "HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
+Roger Alan Koza       6
 Diego Batlle          6.5
 Diego Lerer           6.5
 Eulàlia Iglesias     6
 Ángel Quintana       6.5
+José Luis Losa       6
+Jaime Pena            6
 Carlos Heredero       7
 Carlos Reviriego      5.5
 Inma Merino           6.5
+Javier Estrada        6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1564,11 +1595,15 @@ Diego Batlle          9
 Diego Lerer           10        http://t.co/bNxBECmTW3
 Eulàlia Iglesias     8.5
 Ángel Quintana       9
+José Luis Losa       7
+Carlo Chatrian        9.5
 Luciano Monteagudo    9.5
+Jaime Pena            10
 Carlos Heredero       9.5
 Giona Nazzaro         10
 Francisco Ferreira    9
 Inma Merino           8.5
+Javier Estrada        9.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1882,6 +1917,7 @@ Giona Nazzaro         8
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           6
 Ángel Quintana       5.5
+José Luis Losa       5.5
 Jaime Pena            6.5
 Fernando Juan Lima    7
 Alejandro Calvo       5
@@ -1891,6 +1927,7 @@ Peter Bradshaw               http://www.theguardian.com/film/2014/may/17/the-rov
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
 "EL ARDOR" (Pablo Fendrik) [Special Screening]
+José Luis Losa       0.5
 Till Kadritzke        7.5
 
 "COMING HOME (GUI LAI)" (Zhang YIMOU) [Out Of Competition]
@@ -1909,73 +1946,6 @@ Till Kadritzke        7.5
 
 "THE TARGET (PYOJEOK)" (YOON Hong-seung aka Chang) [Out Of Competition - Midnight]
 Paolo Bertolin   5
-
-
-SEMAINE
-
-"FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
-Frédéric Jaeger          7.5
-Till Kadritzke           
-Daniel Kasman            
-
-"DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
-Eulàlia Iglesias     5
-Ángel Quintana       4.5
-José Luis Losa       5
-Jaime Pena            3
-Luciano Barisone      5.5
-Giona Nazzaro         4
-Javier Estrada        5
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
-Frédéric Jaeger          6
-Till Kadritzke           4
-Daniel Kasman             
-
-"THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
-
-"IT FOLLOWS" (David Robert MITCHELL) [Semaine]
-Giona Nazzaro         7
-Javier Estrada        6.5
-Michael Kienzl        6
-Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
-Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
-Blake Williams        5.9       https://twitter.com/Astrostic/status/467945918663507968
-Jessica Kiang         6         http://blogs.indiewire.com/theplaylist/cannes-review-david-robert-mitchells-hotly-buzzed-horror-it-follows-20140518
-
-"GENTE DE BIEN" (Franco LOLLI) [Semaine]
-
-# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale              
-Arnaud Hée               
-Christoph Huber          
-Frédéric Jaeger          6
-Till Kadritzke           
-Daniel Kasman            
-
-"WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
-
-"HOPE" (Boris LOJKINE) [Semaine]
-
-"SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
-Fredy Friedlander     4.5
-
-"HIPPOCRATES" (Thomas LILTI) [Special Screening]
-
-"BREATHE (Respire)" (Mélanie LAURENT) [Special Screening]
-Jessica Kiang         7         http://blogs.indiewire.com/theplaylist/cannes-review-insightful-layered-teen-respire-directed-by-melanie-laurent-20140517
-
-"THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
-
-"FLA" (Djinn Carrénard) [Opening Film]
-Roger Alan Koza            3
-Frédéric Jaeger       7.5      http://www.critic.de/film/faire-lamour-6772/
 
 
 QUINZAINE
@@ -2040,6 +2010,7 @@ Adam Woodward               http://www.littlewhitelies.co.uk/features/articles/c
 
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
+José Luis Losa       7
 Luciano Barisone      7.5
 Javier Estrada        7
 Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-gett-the-trial-of-viviane-amsalem-1201184801/
@@ -2079,21 +2050,25 @@ Javier Estrada        6.5
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
 Paolo Bertolin        7
+Javier Estrada        5
 #
 Michael Kienzl        6
 #
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-twisty-inventive-hilarious-korean-cop-thriller-a-hard-day-is-a-total-blast-20140518
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
+Roger Alan Koza       6.5
 Diego Batlle          8
 Diego Lerer           8
 Ángel Quintana       4
 Luciano Monteagudo    7
 
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
+Carlo Chatrian        6
 
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
   Sundance Midnight
+Carlo Chatrian        8
 Arnaud Hée         4
 Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/cold-in-july-2014-film-review-by-anne-katrin-titze
 
@@ -2116,12 +2091,80 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 
 "P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
 
+SEMAINE
+
+"FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          7.5
+Till Kadritzke           
+Daniel Kasman            
+
+"DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
+Eulàlia Iglesias     5
+Ángel Quintana       4.5
+José Luis Losa       5
+Jaime Pena            3
+Luciano Barisone      5.5
+Giona Nazzaro         4
+Javier Estrada        5
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          6
+Till Kadritzke           4
+Daniel Kasman             
+
+"THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
+
+"IT FOLLOWS" (David Robert MITCHELL) [Semaine]
+Carlo Chatrian        7.5
+Giona Nazzaro         7
+Javier Estrada        6.5
+Michael Kienzl        6
+Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
+Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
+Blake Williams        5.9       https://twitter.com/Astrostic/status/467945918663507968
+Jessica Kiang         6         http://blogs.indiewire.com/theplaylist/cannes-review-david-robert-mitchells-hotly-buzzed-horror-it-follows-20140518
+
+"GENTE DE BIEN" (Franco LOLLI) [Semaine]
+
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale              
+Arnaud Hée               
+Christoph Huber          
+Frédéric Jaeger          6
+Till Kadritzke           
+Daniel Kasman            
+
+"WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
+
+"HOPE" (Boris LOJKINE) [Semaine]
+
+"SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
+Fredy Friedlander     4.5
+
+"HIPPOCRATES" (Thomas LILTI) [Special Screening]
+
+"BREATHE (Respire)" (Mélanie LAURENT) [Special Screening]
+Jessica Kiang         7         http://blogs.indiewire.com/theplaylist/cannes-review-insightful-layered-teen-respire-directed-by-melanie-laurent-20140517
+
+"THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
+
+"FLA" (Djinn Carrénard) [Opening Film]
+Roger Alan Koza            3
+Frédéric Jaeger       7.5      http://www.critic.de/film/faire-lamour-6772/
+
 "WELCOME TO NEW YORK" (Abel Ferrara) [Laptop on the beach]
 Blake Williams        6.6       https://twitter.com/Astrostic/status/467778997783629825
 Eric Kohn             6         http://www.indiewire.com/article/review-with-sex-soul-searching-and-a-naked-gerard-depardieu-abel-ferraras-dsk-drama-welcome-to-new-york-is-totally-bonkers
 Matt Mueller                    http://blogs.indiewire.com/thompsononhollywood/cannes-gerard-depardieu-and-abel-ferrara-unveil-welcome-to-new-york
 Tim Robey             4         http://www.telegraph.co.uk/culture/film/filmreviews/10838940/Cannes-2014-Welcome-to-New-York-review-As-portraiture-it-flops.html
 Rachel Donadio (New York Times, USA)  http://artsbeat.blogs.nytimes.com/2014/05/18/cannes-film-festival-strauss-kahn-film-under-fire/
+
 
 EOF
 
