@@ -331,7 +331,7 @@ Carlos Reviriego      3.5
 Fernando Juan Lima    3.5
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          4.5
 Inma Merino           2
 Fredy Friedlander     6
 Pablo Scholz          
@@ -453,7 +453,7 @@ Carlos Reviriego      8.5
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          7.5
 Inma Merino           9
 Fredy Friedlander     
 Pablo Scholz          
@@ -583,7 +583,7 @@ Carlos Reviriego      4
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          6.5
 Inma Merino           7.5
 Fredy Friedlander     
 Pablo Scholz          
@@ -1049,13 +1049,17 @@ Jon Frosch            7
 Alexandra Zawia       7.5
 Diego Batlle          8
 Diego Lerer           8
+Eulàlia Iglesias     5.5
+Ángel Quintana       5.5
 Pedro Butcher         4
 Violeta Kovacsics     7.5
 Luciano Monteagudo    6.5
 Carlos Heredero       5.5
 Giona Nazzaro         5
 Carlos Reviriego      5
+Inma Merino           5.5
 Alejandro Calvo       7
+Xavi Serra            5.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            5
@@ -1168,12 +1172,12 @@ Carlos Reviriego      4.5
 Fernando Juan Lima    
 Paolo Bertolin        
 Nando Salva           
-Philip Engel          
+Philip Engel          7
 Inma Merino           5.5
 Fredy Friedlander     7
 Pablo Scholz          
 Alejandro Calvo       10
-Xavi Serra            
+Xavi Serra            7
 Guido Castillo        
 Pamela Bienzobas      
 Javier Estrada        5.5
@@ -1331,11 +1335,15 @@ Life Caroline
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
+Roger Alan Koza       5.5
+Ángel Quintana       4
 Luciano Monteagudo    9
 Rüdiger Suchsland    10
 Carlos Heredero       6
 Carlos Reviriego      7
-Alejandro Calvo       7
+Philip Engel          8.5
+Inma Merino           6
+Alejandro Calvo       6.5
 Xavi Serra            8
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1928,7 +1936,7 @@ Nigel M Smith                  http://www.indiewire.com/article/family-therapy-a
 
 "THAT LOVELY GIRL (HARCHECK MI HEADRO/LOIN DE MON PERE)" (Keren YEDAYA) [Un Certain Regard] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008335/year/2014.html
-Roger Alan Koza            2
+Roger Alan Koza       2
 Diego Batlle          4
 Diego Lerer           3
 Ángel Quintana       5
@@ -2015,7 +2023,11 @@ Inma Merino           6
 Fredy Friedlander     7
 Pablo Scholz          
 Alejandro Calvo       8.5
-Xavi Serra            6.5
+Xavi Serra            7
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        
+#Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # revised critic.de +++ 8.5, ++ 6.5?, + 6.5, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -2066,6 +2078,7 @@ Dana Linssen          6.5
 Cristina Nord         8
 Carlos Reviriego      7
 Fernando Juan Lima    7
+Philip Engel          6.5
 Inma Merino           6.5
 Fredy Friedlander     5
 Alejandro Calvo       7.5
@@ -2138,6 +2151,7 @@ Carlos Heredero       7
 Giona Nazzaro         2
 Carlos Reviriego      6
 Fernando Juan Lima    4
+Philip Engel          8
 Inma Merino           3.5
 Alejandro Calvo       4
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -2251,7 +2265,10 @@ José Luis Losa       6
 Jaime Pena            6
 Carlos Heredero       7
 Carlos Reviriego      5.5
+Philip Engel          6.5
 Inma Merino           6.5
+Alejandro Calvo       6
+Xavi Serra            6
 Javier Estrada        6
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -2299,8 +2316,17 @@ Giona Nazzaro         10
 Dana Linssen          8
 Francisco Ferreira    9
 Carlos Reviriego      9.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          9.5
 Inma Merino           8.5
+Fredy Friedlander     
+Pablo Scholz          
 Alejandro Calvo       9
+Xavi Serra            7.5
+Guido Castillo        
+Pamela Bienzobas      
 Javier Estrada        9.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -2357,6 +2383,7 @@ Christophe Carriére
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006042/year/2014.html
+Ángel Quintana       4.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2376,9 +2403,11 @@ Christophe Carriére
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000816/year/2014.html
+Ángel Quintana       7.5
 Carlos Heredero       5.5
 Dana Linssen          6
 Carlos Reviriego      5.5
+Inma Merino           7.5
 #
 Arnaud Hée            5
 # Le film français 0-4
@@ -2628,6 +2657,7 @@ José Luis Losa       5.5
 Jaime Pena            6.5
 Giona Nazzaro         6
 Fernando Juan Lima    7
+Philip Engel          7
 Alejandro Calvo       5
 Eric Kohn             4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
 Peter Bradshaw                http://www.theguardian.com/film/2014/may/17/the-rover-review-cannes-robert-pattinson
@@ -2675,7 +2705,7 @@ Ronald Rovers         7
 Manu Yañez           7
 Carlos Reviriego      6.5
 Fernando Juan Lima    7
-Philip Engel          7.5
+Philip Engel          7
 Alejandro Calvo       7
 Xavi Serra            6
 Pamela Bienzobas      7
@@ -2781,10 +2811,12 @@ Carlo Chatrian        6
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
   Sundance Midnight
 Diego Lerer           7
+Ángel Quintana       6.5
 Carlo Chatrian        8
 Violeta Kovacsics     8
 Giona Nazzaro         7.5
-Alejandro Calvo       6.5
+Alejandro Calvo       7
+Xavi Serra            7.5
 #
 Arnaud Hée         4
 Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/cold-in-july-2014-film-review-by-anne-katrin-titze
