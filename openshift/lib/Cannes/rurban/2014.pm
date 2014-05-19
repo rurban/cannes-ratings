@@ -1007,7 +1007,7 @@ Manon Dumais
 #Eric Kohn   	      
 Eric Lavallée         
 Fabien Lemercier      
-Guy Lodge             
+Guy Lodge                     http://www.hitfix.com/in-contention/review-tatum-ruffalo-and-carell-excel-in-evocative-unsettling-foxcatcher
 Liu Min               
 Isabelle Regnier      
 Cédric Succivalli     
@@ -1053,6 +1053,10 @@ Life Caroline         4
 Eric Kohn             8       http://www.indiewire.com/article/cannes-review-channing-tatum-anchors-bennett-millers-icy-foxcatcher-but-the-revelation-is-steve-carrell
 Jessica Kiang         9       http://blogs.indiewire.com/theplaylist/cannes-review-bennett-millers-foxcatcher-starring-steve-carell-channing-tatum-mark-ruffalo-vanessa-redgrave-20140518
 Nigel M Smith                 http://www.indiewire.com/article/cannes-why-steve-carell-didnt-change-his-approach-for-foxcatcher-the-darkest-project-of-his-career
+Justin Chang                  http://variety.com/2014/film/reviews/cannes-film-review-foxcatcher-1201185646/
+Todd McCarthy                 http://www.hollywoodreporter.com/movie/foxcatcher/review/705537
+Peter Labuza          7       http://thefilmstage.com/reviews/cannes-review-foxcatcher/
+Anne Thompson                 http://blogs.indiewire.com/thompsononhollywood/cannes-review-foxcatcher-tells-riveting-murder-tale
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
