@@ -529,6 +529,7 @@ Glenn Heath Jr        9         https://twitter.com/MatchCuts/status/46734319003
 Richard Mowe          7         http://www.eyeforfilm.co.uk/review/winter-sleep-2014-film-review-by-richard-mowe
 Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-winter-sleep/
 Tom Christie                    http://blogs.indiewire.com/thompsononhollywood/cannes-review-could-nuri-bilge-ceylons-winter-sleep-grab-the-palme-dor-from-critics-baby-mr-turner
+Mahnola Dargis                  http://www.nytimes.com/2014/05/19/movies/red-army-is-among-the-notables-at-festival.html
 
 "SAINT LAURENT" (Bertrand BONELLO) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
@@ -1048,6 +1049,7 @@ Life Caroline         8
 Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/maps-to-the-stars-cannes-review-julianne-moore-robert-pattinson
 Oliver Lyttleton      7         http://blogs.indiewire.com/theplaylist/review-david-cronenbergs-maps-to-the-stars-with-robert-pattinson-mia-wasikowska-julianne-moore-john-cusack-20140518
 Mike d'Angelo         3.5       https://twitter.com/gemko/status/468151676961292289
+Todd McCarthy                   http://www.hollywoodreporter.com/review/maps-stars-cannes-review-705374
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -1845,6 +1847,7 @@ Giona Nazzaro         6.5
 #
 Rüdiger Suchsland               http://www.negativ-film.de/2014/05/der-tag-des-winters-der-tag-der-engen-kammern-cannes-blog-5-folge
 Donald Clarke         10        http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-red-army/
+Mahnola Dargis                  http://www.nytimes.com/2014/05/19/movies/red-army-is-among-the-notables-at-festival.html
 
 "THE SALVATION" (Kristian LEVRING) [Out Of Competition - Midnight]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005263/year/2014.html
