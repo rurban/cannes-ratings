@@ -174,7 +174,7 @@ Nigel M Smith                   http://www.indiewire.com/article/cannes-timothy-
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
 Scott Foundas         
 Roger Alan Koza       6.5
-Alexandra Zawia       7.5
+Alexandra Zawia       8
 Robert Koehler        
 Diego Batlle          7          http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           7.5
@@ -554,7 +554,7 @@ Luciano Barisone
 Giona Nazzaro         
 Dana Linssen          
 Cristina Nord         8.5
-Francisco Ferreira    7.5
+Francisco Ferreira    8
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
@@ -787,6 +787,7 @@ Fernando Ganzo        5
 Eulàlia Iglesias     5.5
 Ángel Quintana       7.5
 José Luis Losa       6.5
+Pedro Butcher         8.5
 Carlo Chatrian        8
 Jaime Pena            4
 Carlos Heredero       6.5
@@ -882,11 +883,13 @@ Fernando Ganzo        5
 Eulàlia Iglesias     7
 Ángel Quintana       6
 José Luis Losa       5
+Pedro Butcher         7
 Carlo Chatrian        7
 Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            6.5
 Carlos Heredero       6.5
+Dana Linssen          7
 Francisco Ferreira    7.5
 Ronald Rovers         8
 Fernando Juan Lima    6.5
@@ -901,8 +904,8 @@ Frédéric Jaeger
 Till Kadritzke        
 Daniel Kasman         
 Michael Kienzl        
-Nino Klinger          7.5       
-Dana Linssen          6
+Nino Klinger          7.5
+#Dana Linssen         6  (#7)
 Cristina Nord         7.5
 Rüdiger Suchsland     
 #Alexandra Zawia      6  (#6)
@@ -972,19 +975,30 @@ Marc van de Klashorst           http://icsfilm.org/news/257-la-meraviglie
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
+Alexandra Zawia       7
+Diego Batlle          8
+Diego Lerer           8
+Pedro Butcher         4
+Carlos Heredero       5.5
+Alejandro Calvo       7
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
 Roger Alan Koza       5.5
+Alexandra Zawia       4.5
 Diego Batlle          7
+Diego Lerer           6
 Eulàlia Iglesias     7
 Ángel Quintana       6
 José Luis Losa       7
+Pedro Butcher         7.5
 Jaime Pena            6
 Carlos Heredero       4.5
+Dana Linssen          7.5
 Francisco Ferreira    4
 Inma Merino           5.5
 Fredy Friedlander     7
+Alejandro Calvo       10
 Javier Estrada        5.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1312,7 +1326,7 @@ Rüdiger Suchsland
 Carlos Heredero       7
 Luciano Barisone      
 Giona Nazzaro         8
-Dana Linssen          
+Dana Linssen          7.5
 Cristina Nord         6.5
 Francisco Ferreira    7
 Cecilia Martinez      
@@ -1377,7 +1391,7 @@ José Luis Losa       5.5
 Jaime Pena            5
 Carlos Heredero       5.5
 Giona Nazzaro         6.5
-Dana Linssen          7.5
+Dana Linssen          6.5
 Cristina Nord         8
 Fernando Juan Lima    7
 Inma Merino           6.5
@@ -1514,7 +1528,9 @@ Guy Lodge                      http://variety.com/2014/film/reviews/cannes-film-
 "TURIST" (Ruben OSTLUND) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
 
+Alexandra Zawia       6
 Jaime Pena            7.5
+Dana Linssen          3.5
 Javier Estrada        6.5
 
 Blake Williams     6.0
@@ -1593,18 +1609,22 @@ Christophe Carriére
 "JAUJA" (Lisandro ALONSO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
 Roger Alan Koza       10
+Alexandra Zawia       10
 Diego Batlle          9
 Diego Lerer           10        http://t.co/bNxBECmTW3
 Eulàlia Iglesias     8.5
 Ángel Quintana       9
 José Luis Losa       7
+Pedro Butcher         7
 Carlo Chatrian        9.5
 Luciano Monteagudo    9.5
 Jaime Pena            10
 Carlos Heredero       9.5
 Giona Nazzaro         10
+Dana Linssen          8
 Francisco Ferreira    9
 Inma Merino           8.5
+Alejandro Calvo       9
 Javier Estrada        9.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1638,6 +1658,7 @@ Nikola Grozdanović   9.8       http://waytooindie.com/review/movie/jauja-cannes
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
+Carlos Heredero       6
 Dana Linssen          5
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1929,6 +1950,7 @@ Peter Bradshaw               http://www.theguardian.com/film/2014/may/17/the-rov
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
 "EL ARDOR" (Pablo Fendrik) [Special Screening]
+Diego Lerer           7.5
 José Luis Losa       0.5
 Till Kadritzke        7.5
 
@@ -2048,6 +2070,7 @@ Isabel Stevens              http://www.bfi.org.uk/news-opinion/sight-sound-magaz
 
 "LES COMBATTANTS (Fighters)" (Thomas CAILLEY) [Quinzaine]
 Luciano Barisone      7
+Dana Linssen          5
 Javier Estrada        6.5
 
 "A HARD DAY" (KIM Seong-Hun) [Quinzaine]
@@ -2059,7 +2082,7 @@ Michael Kienzl        6
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-twisty-inventive-hilarious-korean-cop-thriller-a-hard-day-is-a-total-blast-20140518
 
 "REFUGIADO" (Diego LERMAN) [Quinzaine]
-Roger Alan Koza       6.5
+Roger Alan Koza       7
 Diego Batlle          8
 Diego Lerer           8
 Ángel Quintana       4
@@ -2070,6 +2093,7 @@ Carlo Chatrian        6
 
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
   Sundance Midnight
+Diego Lerer           7
 Carlo Chatrian        8
 Arnaud Hée         4
 Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/cold-in-july-2014-film-review-by-anne-katrin-titze
@@ -2133,7 +2157,7 @@ Blake Williams        5.9       https://twitter.com/Astrostic/status/46794591866
 Jessica Kiang         6         http://blogs.indiewire.com/theplaylist/cannes-review-david-robert-mitchells-hotly-buzzed-horror-it-follows-20140518
 
 "GENTE DE BIEN" (Franco LOLLI) [Semaine]
-
+Roger Alan Koza       7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -2166,7 +2190,7 @@ Eric Kohn             6         http://www.indiewire.com/article/review-with-sex
 Matt Mueller                    http://blogs.indiewire.com/thompsononhollywood/cannes-gerard-depardieu-and-abel-ferrara-unveil-welcome-to-new-york
 Tim Robey             4         http://www.telegraph.co.uk/culture/film/filmreviews/10838940/Cannes-2014-Welcome-to-New-York-review-As-portraiture-it-flops.html
 Rachel Donadio (New York Times, USA)  http://artsbeat.blogs.nytimes.com/2014/05/18/cannes-film-festival-strauss-kahn-film-under-fire/
-
+Jon Frosch                      http://www.theatlantic.com/entertainment/archive/2014/05/the-dominique-strauss-kahn-movie-has-arrived-at-cannes/371120/
 
 EOF
 
