@@ -483,7 +483,7 @@ David Stratton        9
 Derek Malcolm         9
 Jan Schulz-Ojala      5
 Jose Carlos Avellar   9
-Stephanie Zacharek    
+Stephanie Zacharek    5
 Michel Ciment         9
 Kate Muir/Wendy Ide   7.5
 Bo Green Jensen       7.5
@@ -611,7 +611,7 @@ Derek Malcolm         5
 Jan Schulz-Ojala      5
 Jose Carlos Avellar   2.5
 Stephanie Zacharek    5
-Michel Ciment         
+Michel Ciment         7.5
 Kate Muir/Wendy Ide   2.5
 Bo Green Jensen       5
 Screen International  5
@@ -736,7 +736,7 @@ Derek Malcolm         5
 Jan Schulz-Ojala      2.5
 Jose Carlos Avellar   2.5
 Stephanie Zacharek    7.5
-Michel Ciment         
+Michel Ciment         7.5
 Kate Muir/Wendy Ide   5
 Bo Green Jensen       7.5
 Screen International  7.5
@@ -826,19 +826,19 @@ Fabien Lemercier
 Guy Lodge             
 Liu Min               
 Isabelle Regnier      0
-Cédric Succivalli     
+Cédric Succivalli     1.5
 Blake Williams        
 # Screen Daily (0-4)
-Robbie Collin         
-David Stratton        
-Derek Malcolm         
-Jan Schulz-Ojala      
-Jose Carlos Avellar   
-Stephanie Zacharek    
-Michel Ciment         
-Kate Muir/Wendy Ide   
-Bo Green Jensen       
-Screen International  
+Robbie Collin         7.5
+David Stratton        7.5
+Derek Malcolm         5
+Jan Schulz-Ojala      7.5
+Jose Carlos Avellar   5
+Stephanie Zacharek    5
+Michel Ciment         7.5
+Kate Muir/Wendy Ide   5
+Bo Green Jensen       7.5
+Screen International  7.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -924,19 +924,19 @@ Fabien Lemercier      5
 Guy Lodge             
 Liu Min               6
 Isabelle Regnier      6
-Cédric Succivalli     
+Cédric Succivalli     9
 Blake Williams        
 # Screen Daily (0-4)
-Robbie Collin         
-David Stratton        
-Derek Malcolm         
-Jan Schulz-Ojala      
-Jose Carlos Avellar   
-Stephanie Zacharek    
-Michel Ciment         
-Kate Muir/Wendy Ide   
-Bo Green Jensen       
-Screen International  
+Robbie Collin         9
+David Stratton        2.5
+Derek Malcolm         5
+Jan Schulz-Ojala      7.5
+Jose Carlos Avellar   7.5
+Stephanie Zacharek    5
+Michel Ciment         2.5
+Kate Muir/Wendy Ide   7.5
+Bo Green Jensen       7.5
+Screen International  9
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
