@@ -2016,6 +2016,7 @@ Eric Lavallée         4
 Jessica Kiang         8
 Glenn Heath Jr        2       https://twitter.com/MatchCuts/status/467071641135374336
 Nick James                    http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-girls-found-lost-girlhood-captives
+Adam Woodward                 http://www.littlewhitelies.co.uk/features/articles/cannes-2014-girlhood-catch-me-daddy-26752
 
 "CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
 Roger Alan Koza       4
@@ -2032,6 +2033,7 @@ Daniel Kasman
 Oliver Lyttleton      6     http://blogs.indiewire.com/theplaylist/cannes-review-daniel-wolfes-gorgeous-but-unsatisfying-thriller-social-realism-hybrid-catch-me-daddy-20140516
 Richard Mowe          8     http://www.eyeforfilm.co.uk/review/catch-me-daddy-2014-film-review-by-richard-mowe
 Robbie Collin         8     http://www.telegraph.co.uk/culture/film/cannes-film-festival/10834201/Catch-Me-Daddy-review-blistering.html
+Adam Woodward               http://www.littlewhitelies.co.uk/features/articles/cannes-2014-girlhood-catch-me-daddy-26752
 
 
 "GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
