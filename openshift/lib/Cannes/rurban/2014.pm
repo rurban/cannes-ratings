@@ -856,15 +856,15 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # TF1.fr (0-5)
-Aurelien Allin        
-Evangeline Barbaroux  
-Thomas Baurez         
+Aurelien Allin        8
+Evangeline Barbaroux  6
+Thomas Baurez         4
 Stephanie Belpeche    
-Stéphanie Lamome      
+Stéphanie Lamome      6
 Romaine Le Vern       
-Mehdi Omais           
-Philippe Rouyer       
-Life Caroline         
+Mehdi Omais           8
+Philippe Rouyer       8
+Life Caroline         6
 #
 Mike d'Angelo         5.7       https://twitter.com/gemko/status/467950300775841792
 Keith Uhlich          4         http://www.timeout.com/us/film/the-homesman
@@ -1040,16 +1040,19 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # TF1.fr (0-5)
-Aurelien Allin        
-Evangeline Barbaroux  
+Aurelien Allin        8
+Evangeline Barbaroux  2
 Thomas Baurez         
-Stephanie Belpeche    
-Stéphanie Lamome      
-Romaine Le Vern       
-Mehdi Omais           
+Stephanie Belpeche    4
+Stéphanie Lamome      8
+Romaine Le Vern       4
+Mehdi Omais           4
 Philippe Rouyer       
-Life Caroline         
+Life Caroline         4
 #
+Eric Kohn             8       http://www.indiewire.com/article/cannes-review-channing-tatum-anchors-bennett-millers-icy-foxcatcher-but-the-revelation-is-steve-carrell
+Jessica Kiang         9       http://blogs.indiewire.com/theplaylist/cannes-review-bennett-millers-foxcatcher-starring-steve-carell-channing-tatum-mark-ruffalo-vanessa-redgrave-20140518
+Nigel M Smith                 http://www.indiewire.com/article/cannes-why-steve-carell-didnt-change-his-approach-for-foxcatcher-the-darkest-project-of-his-career
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
@@ -1134,7 +1137,7 @@ Thomas Baurez         8
 Stephanie Belpeche    8
 Stéphanie Lamome      8
 Romaine Le Vern       10
-Mehdi Omais           
+Mehdi Omais           8
 Philippe Rouyer       10
 Life Caroline         8
 #
