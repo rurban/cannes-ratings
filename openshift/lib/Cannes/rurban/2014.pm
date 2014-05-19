@@ -321,11 +321,21 @@ Neil Young
 Ronald Rovers         
 Marcelo Alderete      
 Michal Oleszczyk      1.5
+Manu Yañez           
+Carlos Reviriego      3.5
 Fernando Juan Lima    3.5
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           2
 Fredy Friedlander     6
+Pablo Scholz          
 Alejandro Calvo       3
 Xavi Serra            6
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        
+Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -433,7 +443,7 @@ Ronald Rovers         9.5
 Marcelo Alderete      
 Michal Oleszczyk      7
 Manu Yañez           
-Carlos Reviriego      
+Carlos Reviriego      8.5
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
@@ -562,7 +572,7 @@ Ronald Rovers         6.5
 Marcelo Alderete      
 Michal Oleszczyk      
 Manu Yañez           
-Carlos Reviriego      
+Carlos Reviriego      4
 Fernando Juan Lima    7
 Paolo Bertolin        
 Nando Salva           
@@ -688,7 +698,7 @@ Ronald Rovers
 Marcelo Alderete      
 Michal Oleszczyk      
 Manu Yañez           
-Carlos Reviriego      
+Carlos Reviriego      3
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
@@ -795,6 +805,7 @@ Giona Nazzaro         9
 Cristina Nord         4.5
 Francisco Ferreira    3.5
 Ronald Rovers         3.5
+Carlos Reviriego      6.5
 Inma Merino           6
 Fredy Friedlander     6
 Alejandro Calvo       8
@@ -877,25 +888,51 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/the-
 
 "LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
+Scott Foundas         
+Roger Alan Koza       7
 Alexandra Zawia       6
+Robert Koehler        
 Diego Batlle          7.5
+Diego Lerer           
 Fernando Ganzo        5
 Eulàlia Iglesias     7
 Ángel Quintana       6
 José Luis Losa       5
 Pedro Butcher         7
+Jose Luis De Lorenzo  
+Alex Vicente          
 Carlo Chatrian        7
 Violeta Kovacsics     6
 Luciano Monteagudo    6.5
 Jaime Pena            6.5
+Rüdiger Suchsland    
 Carlos Heredero       6.5
+Luciano Barisone      
+Giona Nazzaro         
 Dana Linssen          7
+Cristina Nord         
 Francisco Ferreira    7.5
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
 Ronald Rovers         8
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez           
+Carlos Reviriego      7
 Fernando Juan Lima    6.5
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           7
+Fredy Friedlander     
+Pablo Scholz          
 Alejandro Calvo       7.5
+Xavi Serra            
+Guido Castillo        
 Pamela Bienzobas      7
+Javier Estrada        
+Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -975,11 +1012,13 @@ Marc van de Klashorst           http://icsfilm.org/news/257-la-meraviglie
 
 "FOXCATCHER" (Bennett MILLER) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
-Alexandra Zawia       7
+Alexandra Zawia       7.5
 Diego Batlle          8
 Diego Lerer           8
 Pedro Butcher         4
+Violeta Kovacsics     7.5
 Carlos Heredero       5.5
+Carlos Reviriego      5
 Alejandro Calvo       7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1071,10 +1110,12 @@ Eulàlia Iglesias     7
 Ángel Quintana       6
 José Luis Losa       7
 Pedro Butcher         7.5
+Violeta Kovacsics     8.5
 Jaime Pena            6
 Carlos Heredero       4.5
 Dana Linssen          7.5
 Francisco Ferreira    4
+Carlos Reviriego      4.5
 Inma Merino           5.5
 Fredy Friedlander     7
 Alejandro Calvo       10
@@ -1899,7 +1940,7 @@ Ronald Rovers         6
 Marcelo Alderete      
 Michal Oleszczyk      
 Manu Yañez           
-Carlos Reviriego      
+Carlos Reviriego      6.5
 Fernando Juan Lima    8
 Paolo Bertolin        
 Nando Salva           
@@ -1956,6 +1997,7 @@ Carlos Heredero       5.5
 Giona Nazzaro         6.5
 Dana Linssen          6.5
 Cristina Nord         8
+Carlos Reviriego      7
 Fernando Juan Lima    7
 Inma Merino           6.5
 Fredy Friedlander     5
@@ -2027,6 +2069,7 @@ Violeta Kovacsics     5
 Jaime Pena            6.5
 Carlos Heredero       7
 Giona Nazzaro         2
+Carlos Reviriego      6
 Fernando Juan Lima    4
 Inma Merino           3.5
 Alejandro Calvo       4
@@ -2180,12 +2223,14 @@ Eulàlia Iglesias     8.5
 José Luis Losa       7
 Pedro Butcher         7
 Carlo Chatrian        9.5
+Violeta Kovacsics     9.5
 Luciano Monteagudo    9.5
 Jaime Pena            10
 Carlos Heredero       9.5
 Giona Nazzaro         10
 Dana Linssen          8
 Francisco Ferreira    9
+Carlos Reviriego      9.5
 Inma Merino           8.5
 Alejandro Calvo       9
 Javier Estrada        9.5
@@ -2221,6 +2266,7 @@ Nikola Grozdanović   9.8       http://waytooindie.com/review/movie/jauja-cannes
 
 "A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
+Roger Alan Koza       6
 Carlos Heredero       6
 Dana Linssen          5
 # Le film français 0-4
@@ -2368,7 +2414,7 @@ Ronald Rovers         2
 Marcelo Alderete      
 Michal Oleszczyk      1.5
 Manu Yañez           3
-Carlos Reviriego      
+Carlos Reviriego      1
 Fernando Juan Lima    2
 Paolo Bertolin        
 Nando Salva           
@@ -2658,6 +2704,9 @@ Carlo Chatrian        6
   Sundance Midnight
 Diego Lerer           7
 Carlo Chatrian        8
+Violeta Kovacsics     8
+Alejandro Calvo       6.5
+#
 Arnaud Hée         4
 Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/cold-in-july-2014-film-review-by-anne-katrin-titze
 
@@ -2713,6 +2762,7 @@ Daniel Kasman
 Carlo Chatrian        7.5
 Giona Nazzaro         7
 Javier Estrada        6.5
+#
 Michael Kienzl        6
 Glenn Heath Jr        7.5       https://twitter.com/MatchCuts/status/467634182446145536
 Mike d'Angelo         7.4       https://twitter.com/gemko/status/467785498082443264
