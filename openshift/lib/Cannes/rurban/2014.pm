@@ -50,7 +50,7 @@ Carlo Chatrian
 Violeta Kovacsics     6.5
 Luciano Monteagudo    8
 Jaime Pena            4.5
-Rüdiger Suchsland    
+Rüdiger Suchsland    3.5
 Carlos Heredero       7
 Luciano Barisone      
 Giona Nazzaro         8
@@ -89,7 +89,7 @@ Michael Kienzl
 Nino Klinger          6         http://www.critic.de/film/mr-turner-6710/
 #Dana Linssen         5  (#5)
 #Cristina Nord        4  (#4)
-Rüdiger Suchsland     2.5
+#Rüdiger Suchsland    2.5 (#3.5)
 #Alexandra Zawia      9  (#8.5)
 # ioncinema 0-5
 Nicolas Bell          7
@@ -313,7 +313,7 @@ Carlo Chatrian        4
 Violeta Kovacsics     5.5
 Luciano Monteagudo    3
 Jaime Pena            0.5
-Rüdiger Suchsland    
+Rüdiger Suchsland    7.5      http://www.negativ-film.de/2014/05/so-bist-du-meine-tochter-nimmermehr-cannes-blog-4-folge
 Carlos Heredero       4.5
 Luciano Barisone      
 Giona Nazzaro         4.5
@@ -350,7 +350,7 @@ Till Kadritzke        5         http://www.critic.de/film/the-captive-6693/
 Daniel Kasman         4         http://www.mubi.com/notebook/posts/cannes-2014-atom-egoyans-the-captive-mathieu-amalrics-the-blue-room
 Michael Kienzl        5
 Nino Klinger          6
-Rüdiger Suchsland     6         http://www.negativ-film.de/2014/05/so-bist-du-meine-tochter-nimmermehr-cannes-blog-4-folge
+#Rüdiger Suchsland     6 (#7.5)         http://www.negativ-film.de/2014/05/so-bist-du-meine-tochter-nimmermehr-cannes-blog-4-folge
 #Alexandra Zawia      1 (#1)
 # ioncinema 0-5
 Nicolas Bell          4
@@ -588,7 +588,7 @@ Inma Merino           7.5
 Fredy Friedlander     
 Pablo Scholz          
 Alejandro Calvo       6
-Xavi Serra            
+Xavi Serra            6.5
 Guido Castillo        
 Pamela Bienzobas      7
 Javier Estrada        6
@@ -799,6 +799,7 @@ Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/201
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
 Roger Alan Koza       6.5
 Alexandra Zawia       5
+Robert Koehler        
 Diego Batlle          8
 Diego Lerer           9
 Fernando Ganzo        5
@@ -806,17 +807,40 @@ Eulàlia Iglesias     5.5
 Ángel Quintana       7.5
 José Luis Losa       6.5
 Pedro Butcher         8.5
+Jose Luis De Lorenzo  
+Alex Vicente          
 Carlo Chatrian        8
+Violeta Kovacsics     
+Luciano Monteagudo    6.5
 Jaime Pena            4
+Rüdiger Suchsland    
 Carlos Heredero       6.5
+Luciano Barisone      
 Giona Nazzaro         9
+Dana Linssen          
 Cristina Nord         4.5
 Francisco Ferreira    3.5
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
 Ronald Rovers         3.5
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez           
 Carlos Reviriego      6.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           6
 Fredy Friedlander     6
+Pablo Scholz          
 Alejandro Calvo       8
+Xavi Serra            7.5
+Guido Castillo        
+Pamela Bienzobas      
+Javier Estrada        
+Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1027,6 +1051,7 @@ Diego Batlle          8
 Diego Lerer           8
 Pedro Butcher         4
 Violeta Kovacsics     7.5
+Luciano Monteagudo    6.5
 Carlos Heredero       5.5
 Giona Nazzaro         5
 Carlos Reviriego      5
@@ -1123,15 +1148,34 @@ Eulàlia Iglesias     7
 José Luis Losa       7
 Pedro Butcher         7.5
 Violeta Kovacsics     8.5
+Luciano Monteagudo    7
 Jaime Pena            6
+Rüdiger Suchsland    8
 Carlos Heredero       4.5
+Luciano Barisone      
 Giona Nazzaro         10
 Dana Linssen          7.5
+Cristina Nord         
 Francisco Ferreira    4
+Cecilia Martinez      
+Paolo Moretti         
+Neil Young            
+Ronald Rovers         
+Marcelo Alderete      
+Michal Oleszczyk      
+Manu Yañez           
 Carlos Reviriego      4.5
+Fernando Juan Lima    
+Paolo Bertolin        
+Nando Salva           
+Philip Engel          
 Inma Merino           5.5
 Fredy Friedlander     7
+Pablo Scholz          
 Alejandro Calvo       10
+Xavi Serra            
+Guido Castillo        
+Pamela Bienzobas      
 Javier Estrada        5.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           9
@@ -1145,7 +1189,7 @@ Nino Klinger
 Dana Linssen          
 Boris Nelepo          7.5
 Cristina Nord         7.5
-Rüdiger Suchsland     
+#Rüdiger Suchsland     
 #Alexandra Zawia      4 (#4.5)
 # ioncinema 0-5
 Nicolas Bell          5
@@ -1287,7 +1331,12 @@ Life Caroline
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
-
+Luciano Monteagudo    9
+Rüdiger Suchsland    10
+Carlos Heredero       6
+Carlos Reviriego      7
+Alejandro Calvo       7
+Xavi Serra            8
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -1432,9 +1481,12 @@ Life Caroline
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
+# what happened to those 3?
 Diego Lerer           7.5
 Fernando Ganzo        9
-Pamela Bienzobas      0
+Pamela Bienzobas      0.01
+
+Philip Engel          10
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -2325,7 +2377,10 @@ Christophe Carriére
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000816/year/2014.html
+Carlos Heredero       5.5
 Dana Linssen          6
+Carlos Reviriego      5.5
+#
 Arnaud Hée            5
 # Le film français 0-4
 Stéphanie Lamome      
@@ -2675,6 +2730,7 @@ Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film
 Alexandra Zawia       7
 Diego Lerer           8
 Pedro Butcher         8.5
+Luciano Monteagudo    8
 Jaime Pena            6
 Carlos Heredero       9
 Luciano Barisone      7
@@ -3108,6 +3164,7 @@ http://www.ioncinema.com/ (okay),
 Le film français (eclectic),
 http://jury.critic.de/cannes/ (german),
 Screen Daily (US/UK mainstream),
+TF1.fr (french mainstream),
 Indiewire (mixed), 
 and more papers and individual critics.<br>
 
