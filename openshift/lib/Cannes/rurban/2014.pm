@@ -174,7 +174,7 @@ Nigel M Smith                   http://www.indiewire.com/article/cannes-timothy-
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
 Scott Foundas         
 Roger Alan Koza       6.5
-Alexandra Zawia       8
+Alexandra Zawia       7.5
 Robert Koehler        
 Diego Batlle          7          http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           7.5
@@ -306,11 +306,15 @@ Eulàlia Iglesias     4
 Ángel Quintana       1.5
 José Luis Losa       2.5
 Pedro Butcher         3.5
+Jose Luis De Lorenzo  
+Alex Vicente          
 Carlo Chatrian        4
 Violeta Kovacsics     5.5
 Luciano Monteagudo    3
 Jaime Pena            0.5
+Rüdiger Suchsland    
 Carlos Heredero       4.5
+Luciano Barisone      
 Giona Nazzaro         4.5
 Dana Linssen          
 Cristina Nord         
@@ -435,7 +439,7 @@ Luciano Barisone
 Giona Nazzaro         5
 Dana Linssen          8
 Cristina Nord         8.5
-Francisco Ferreira    
+Francisco Ferreira    7
 Cecilia Martinez      
 Paolo Moretti         
 Neil Young            
@@ -908,7 +912,7 @@ Jaime Pena            6.5
 Rüdiger Suchsland    
 Carlos Heredero       6.5
 Luciano Barisone      
-Giona Nazzaro         
+Giona Nazzaro         7
 Dana Linssen          7
 Cristina Nord         
 Francisco Ferreira    7.5
@@ -1018,6 +1022,7 @@ Diego Lerer           8
 Pedro Butcher         4
 Violeta Kovacsics     7.5
 Carlos Heredero       5.5
+Giona Nazzaro         5
 Carlos Reviriego      5
 Alejandro Calvo       7
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -1113,6 +1118,7 @@ Pedro Butcher         7.5
 Violeta Kovacsics     8.5
 Jaime Pena            6
 Carlos Heredero       4.5
+Giona Nazzaro         10
 Dana Linssen          7.5
 Francisco Ferreira    4
 Carlos Reviriego      4.5
@@ -2135,6 +2141,7 @@ Guy Lodge                      http://variety.com/2014/film/reviews/cannes-film-
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
 
 Alexandra Zawia       6
+Diego Batlle          7
 Jaime Pena            7.5
 Dana Linssen          3.5
 Javier Estrada        6.5
@@ -2551,6 +2558,7 @@ Diego Lerer           6
 Ángel Quintana       5.5
 José Luis Losa       5.5
 Jaime Pena            6.5
+Giona Nazzaro         6
 Fernando Juan Lima    7
 Alejandro Calvo       5
 Eric Kohn             4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
@@ -2706,12 +2714,14 @@ Carlo Chatrian        6
 Diego Lerer           7
 Carlo Chatrian        8
 Violeta Kovacsics     8
+Giona Nazzaro         7.5
 Alejandro Calvo       6.5
 #
 Arnaud Hée         4
 Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/cold-in-july-2014-film-review-by-anne-katrin-titze
 
 "THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
+Giona Nazzaro         4.5
 
 "QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
 
