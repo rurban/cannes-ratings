@@ -1485,7 +1485,6 @@ Life Caroline
 Diego Lerer           7.5
 Fernando Ganzo        9
 Pamela Bienzobas      0.01
-
 Philip Engel          10
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1968,7 +1967,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 #
-Guy Lodge                      https://twitter.com/GuyLodge/status/467065149237755904
+Guy Lodge             4        https://twitter.com/GuyLodge/status/467065149237755904
 Jason Gorber                   https://twitter.com/filmfest_ca/status/467059925605445632
 Oliver Lyttleton      0        http://blogs.indiewire.com/theplaylist/cannes-review-keren-yedayas-israeli-incest-drama-that-lovely-girl-20140515
 Mike d'Angelo         4.3     https://twitter.com/gemko/status/467076682512625664
