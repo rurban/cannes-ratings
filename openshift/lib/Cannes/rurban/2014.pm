@@ -1350,7 +1350,7 @@ Miriam Bale
 Arnaud Hée            
 Christoph Huber       
 Frédéric Jaeger       
-Till Kadritzke        
+Till Kadritzke        4
 Daniel Kasman         
 Michael Kienzl        
 Nino Klinger          
@@ -2226,7 +2226,7 @@ Blake Williams     6.0
 Miriam Bale           
 Arnaud Hée            
 Christoph Huber       
-Frédéric Jaeger       
+Frédéric Jaeger       7.5
 Till Kadritzke        
 Daniel Kasman         6
 Michael Kienzl        6
@@ -2332,10 +2332,10 @@ Javier Estrada        9.5
 Miriam Bale           
 Arnaud Hée            7.5
 Christoph Huber       7.5
-Frédéric Jaeger       
+Frédéric Jaeger       5
 Till Kadritzke        9
 Daniel Kasman         7.5
-Michael Kienzl        
+Michael Kienzl        7.5     http://www.critic.de/film/jauja-6718/
 Nino Klinger          
 Boris Nelepo          6
 Cristina Nord         9
@@ -2905,6 +2905,7 @@ Fredy Friedlander     4.5
 Jessica Kiang         7         http://blogs.indiewire.com/theplaylist/cannes-review-insightful-layered-teen-respire-directed-by-melanie-laurent-20140517
 
 "THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
+Frédéric Jaeger          7.5
 
 "FLA" (Djinn Carrénard) [Opening Film]
 Roger Alan Koza            3
