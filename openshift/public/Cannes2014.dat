@@ -1,6 +1,6 @@
-package Cannes::rurban::2014;
+package Cannes::rurban::2014; # -*- perl -*-
 
-#!/usr/bin/perl -- -*- perl -*-
+#!/usr/bin/perl
 # Cannes 2014 Critics Ratings
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
@@ -964,7 +964,7 @@ Alejandro Calvo       7.5
 Xavi Serra            
 Guido Castillo        
 Pamela Bienzobas      7
-Javier Estrada        
+Javier Estrada        7
 Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -1051,6 +1051,7 @@ Diego Batlle          8
 Diego Lerer           8
 Eulàlia Iglesias     5.5
 Ángel Quintana       5.5
+José Luis Losa       3
 Pedro Butcher         4
 Violeta Kovacsics     7.5
 Luciano Monteagudo    6.5
@@ -1337,7 +1338,10 @@ Life Caroline
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
 Roger Alan Koza       5.5
+Alexandra Zawia       5.5
+Eulàlia Iglesias     4.5
 Ángel Quintana       4
+José Luis Losa       6
 Luciano Monteagudo    9
 Rüdiger Suchsland    10
 Carlos Heredero       6
@@ -1346,6 +1350,7 @@ Philip Engel          8.5
 Inma Merino           6
 Alejandro Calvo       6.5
 Xavi Serra            8
+Javier Estrada        7.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
 Arnaud Hée            
@@ -2366,6 +2371,7 @@ Nikola Grozdanović   9.8       http://waytooindie.com/review/movie/jauja-cannes
 Roger Alan Koza       6
 Carlos Heredero       6
 Dana Linssen          5
+Javier Estrada        5.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2385,7 +2391,9 @@ Christophe Carriére
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006042/year/2014.html
+Eulàlia Iglesias     3.5
 Ángel Quintana       4.5
+José Luis Losa       5.5
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2405,11 +2413,13 @@ Christophe Carriére
 
 "BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000816/year/2014.html
+Eulàlia Iglesias     6.5
 Ángel Quintana       7.5
 Carlos Heredero       5.5
 Dana Linssen          6
 Carlos Reviriego      5.5
 Inma Merino           7.5
+Javier Estrada        7.5
 #
 Arnaud Hée            5
 # Le film français 0-4
@@ -2809,6 +2819,7 @@ Luciano Monteagudo    7
 
 "MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
 Carlo Chatrian        6
+Javier Estrada        8
 
 "COLD IN JULY" (Jim MICKLE) [Quinzaine]
   Sundance Midnight
@@ -2825,6 +2836,7 @@ Anne-Katrin Titze (Eye For Film, UK)   8   http://www.eyeforfilm.co.uk/review/co
 
 "THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
 Giona Nazzaro         4.5
+Javier Estrada        2.5
 
 "QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
 
@@ -2872,6 +2884,9 @@ Daniel Kasman
 
 "THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine]
 
+"SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
+Fredy Friedlander     4.5
+
 "IT FOLLOWS" (David Robert MITCHELL) [Semaine]
 Carlo Chatrian        7.5
 Giona Nazzaro         7
@@ -2894,12 +2909,10 @@ Till Kadritzke
 Daniel Kasman            
 
 "WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
+José Luis Losa       2.5
 Frédéric Jaeger          4
 
 "HOPE" (Boris LOJKINE) [Semaine]
-
-"SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
-Fredy Friedlander     4.5
 
 "HIPPOCRATES" (Thomas LILTI) [Special Screening]
 
