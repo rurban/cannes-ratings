@@ -1059,6 +1059,7 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/18/maps
 Oliver Lyttleton      7         http://blogs.indiewire.com/theplaylist/review-david-cronenbergs-maps-to-the-stars-with-robert-pattinson-mia-wasikowska-julianne-moore-john-cusack-20140518
 Mike d'Angelo         3.5       https://twitter.com/gemko/status/468151676961292289
 Todd McCarthy                   http://www.hollywoodreporter.com/review/maps-stars-cannes-review-705374
+Eric Kohn             7         http://www.indiewire.com/article/cannes-review-maps-to-the-stars-is-david-cronenbergs-angriest-movie
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
