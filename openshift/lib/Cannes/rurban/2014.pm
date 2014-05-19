@@ -1029,14 +1029,14 @@ Alejandro Calvo       7
 Miriam Bale           
 Arnaud Hée            5
 Christoph Huber       
-Frédéric Jaeger       
+Frédéric Jaeger       5
 Till Kadritzke        
 Daniel Kasman         
 Michael Kienzl        6
 Nino Klinger          
 #Dana Linssen          
 Boris Nelepo          
-#Cristina Nord        
+Cristina Nord        7.5
 Rüdiger Suchsland     
 #Alexandra Zawia      7.5 #7
 # ioncinema 0-5
@@ -1127,19 +1127,19 @@ Fredy Friedlander     7
 Alejandro Calvo       10
 Javier Estrada        5.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-Miriam Bale           
+Miriam Bale           9
 Arnaud Hée            7.5
-Christoph Huber       
+Christoph Huber       9
 Frédéric Jaeger       6
-Till Kadritzke        
+Till Kadritzke        6       http://www.critic.de/film/maps-to-the-stars-6565/
 Daniel Kasman         7.5
 Michael Kienzl        
 Nino Klinger          
 Dana Linssen          
 Boris Nelepo          7.5
-Cristina Nord         
+Cristina Nord         7.5
 Rüdiger Suchsland     
-#Alexandra Zawia      
+#Alexandra Zawia      4 (#4.5)
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      
@@ -2145,7 +2145,7 @@ Diego Batlle          7
 Jaime Pena            7.5
 Dana Linssen          3.5
 Javier Estrada        6.5
-
+#
 Blake Williams     6.0
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
@@ -2154,7 +2154,7 @@ Christoph Huber
 Frédéric Jaeger       
 Till Kadritzke        
 Daniel Kasman         6
-Michael Kienzl        
+Michael Kienzl        6
 Nino Klinger          
 Dana Linssen          
 #Cristina Nord         
@@ -2243,14 +2243,15 @@ Alejandro Calvo       9
 Javier Estrada        9.5
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
-Arnaud Hée            
-Christoph Huber       
+Arnaud Hée            7.5
+Christoph Huber       7.5
 Frédéric Jaeger       
 Till Kadritzke        9
-Daniel Kasman         
+Daniel Kasman         7.5
 Michael Kienzl        
 Nino Klinger          
 Boris Nelepo          6
+Cristina Nord         9
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
