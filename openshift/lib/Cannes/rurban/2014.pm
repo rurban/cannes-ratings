@@ -968,17 +968,17 @@ Javier Estrada
 Boris Nelepo          
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale           
-Arnaud Hée            
+Arnaud Hée            7.5
 Christoph Huber       
 Frédéric Jaeger       
-Till Kadritzke        
+Till Kadritzke        7.5     http://www.critic.de/film/le-meraviglie-6712/
 Daniel Kasman         
 Michael Kienzl        
 Nino Klinger          7.5
 #Dana Linssen         6  (#7)
 Cristina Nord         7.5
 Rüdiger Suchsland     
-#Alexandra Zawia      6  (#6)
+#Alexandra Zawia      7.5 (#6)
 # ioncinema 0-5
 Nicolas Bell          
 Christophe Beney      
@@ -1068,7 +1068,7 @@ Frédéric Jaeger       5
 Till Kadritzke        
 Daniel Kasman         
 Michael Kienzl        6
-Nino Klinger          
+Nino Klinger                  http://www.critic.de/film/foxcatcher-6711/
 #Dana Linssen          
 Boris Nelepo          
 Cristina Nord        7.5
@@ -1257,6 +1257,7 @@ Todd McCarthy                   http://www.hollywoodreporter.com/review/maps-sta
 Eric Kohn             7         http://www.indiewire.com/article/cannes-review-maps-to-the-stars-is-david-cronenbergs-angriest-movie
 Peter Debruge                   http://variety.com/2014/film/reviews/cannes-film-review-david-cronenbergs-maps-to-the-stars-1201185571/
 Jon Frosch            8
+Nikola Grozdanović    7.7       http://waytooindie.com/review/movie/maps-to-the-stars-cannes-review/
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
@@ -1371,7 +1372,7 @@ Manon Dumais
 #Eric Kohn   	      
 Eric Lavallée         
 Fabien Lemercier      
-Guy Lodge             
+Guy Lodge             3       https://twitter.com/GuyLodge/status/468519448891392000
 Liu Min               
 Isabelle Regnier      
 Cédric Succivalli     
@@ -1486,6 +1487,7 @@ Mehdi Omais
 Philippe Rouyer       
 Life Caroline         
 #
+David Jenkins                 https://twitter.com/daveyjenkins/status/468514534257590273
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
@@ -2230,7 +2232,7 @@ Frédéric Jaeger       7.5
 Till Kadritzke        
 Daniel Kasman         6
 Michael Kienzl        6
-Nino Klinger          
+Nino Klinger                  http://www.critic.de/film/turist-6731/
 Dana Linssen          
 #Cristina Nord         
 Rüdiger Suchsland     
