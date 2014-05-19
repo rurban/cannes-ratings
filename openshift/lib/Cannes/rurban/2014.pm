@@ -1060,6 +1060,7 @@ Oliver Lyttleton      7         http://blogs.indiewire.com/theplaylist/review-da
 Mike d'Angelo         3.5       https://twitter.com/gemko/status/468151676961292289
 Todd McCarthy                   http://www.hollywoodreporter.com/review/maps-stars-cannes-review-705374
 Eric Kohn             7         http://www.indiewire.com/article/cannes-review-maps-to-the-stars-is-david-cronenbergs-angriest-movie
+Peter Debruge                   http://variety.com/2014/film/reviews/cannes-film-review-david-cronenbergs-maps-to-the-stars-1201185571/
 
 "DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
