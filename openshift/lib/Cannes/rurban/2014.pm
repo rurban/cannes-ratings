@@ -1057,6 +1057,9 @@ Justin Chang                  http://variety.com/2014/film/reviews/cannes-film-r
 Todd McCarthy                 http://www.hollywoodreporter.com/movie/foxcatcher/review/705537
 Peter Labuza          7       http://thefilmstage.com/reviews/cannes-review-foxcatcher/
 Anne Thompson                 http://blogs.indiewire.com/thompsononhollywood/cannes-review-foxcatcher-tells-riveting-murder-tale
+Peter Bradshaw       10       https://twitter.com/PeterBradshaw1/status/468311837092876288
+Mike d'Angelo         5.0     https://twitter.com/gemko/status/468324360521281536
+
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
