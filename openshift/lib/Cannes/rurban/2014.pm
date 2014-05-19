@@ -837,7 +837,7 @@ Manon Dumais          6
 #Carlos Heredero      
 #Eric Kohn   	      
 Eric Lavallée         
-Fabien Lemercier      
+Fabien Lemercier      6
 Guy Lodge             
 Liu Min               
 Isabelle Regnier      0
@@ -1040,17 +1040,17 @@ Boris Nelepo
 Rüdiger Suchsland     
 #Alexandra Zawia      7.5 #7
 # ioncinema 0-5
-Nicolas Bell          
+Nicolas Bell          7
 Christophe Beney      
 David Calhoun         
 Per Juul Carlsen      
-Paola Casella         
+Paola Casella         8
 #Mike d'Angelo        
 Manon Dumais          
-#Carlos Heredero      
+#Carlos Heredero      5
 #Eric Kohn   	      
-Eric Lavallée         
-Fabien Lemercier      
+Eric Lavallée         7
+Fabien Lemercier      9
 Guy Lodge                     http://www.hitfix.com/in-contention/review-tatum-ruffalo-and-carell-excel-in-evocative-unsettling-foxcatcher
 Liu Min               
 Isabelle Regnier      
@@ -1141,17 +1141,17 @@ Cristina Nord
 Rüdiger Suchsland     
 #Alexandra Zawia      
 # ioncinema 0-5
-Nicolas Bell          
+Nicolas Bell          5
 Christophe Beney      
 David Calhoun         
-Per Juul Carlsen      
-Paola Casella         
+Per Juul Carlsen      5
+Paola Casella         4
 #Mike d'Angelo        
-Manon Dumais          
-#Carlos Heredero      
+Manon Dumais          6
+#Carlos Heredero      4
 #Eric Kohn   	      
 Eric Lavallée         5
-Fabien Lemercier      
+Fabien Lemercier      5
 Guy Lodge             
 Liu Min               
 Isabelle Regnier      
