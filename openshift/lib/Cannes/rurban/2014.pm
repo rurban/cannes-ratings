@@ -748,7 +748,7 @@ Eric Neuhoff          7.5
 Stéphane Delorme      1
 Thomas Sotinel        5
 Philippe Rouyer       5
-Pierre Vavasseur      
+Pierre Vavasseur      5
 Pierre Murat          1
 Jean Roy              5
 Serge Kaganski        5
@@ -840,21 +840,21 @@ Kate Muir/Wendy Ide   5
 Bo Green Jensen       7.5
 Screen International  7.5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      7.5
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Eric Neuhoff          9
+Stéphane Delorme      1
+Thomas Sotinel        1
+Philippe Rouyer       7.5
+Pierre Vavasseur      7.5
+Pierre Murat          2.5
+Jean Roy              5
+Serge Kaganski        5
+Pierre Fornerod       7.5
+Pascal Merigeau       5
+Danielle Attali       5
+Christophe Carriére   5
 # TF1.fr (0-5)
 Aurelien Allin        8
 Evangeline Barbaroux  6
@@ -938,20 +938,20 @@ Kate Muir/Wendy Ide   7.5
 Bo Green Jensen       7.5
 Screen International  9
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      2.5
+Arnaud Schwartz       2.5
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
+Eric Neuhoff          2.5
+Stéphane Delorme      2.5
+Thomas Sotinel        2.5
+Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
+Pierre Murat          2.5
+Jean Roy              2.5
+Serge Kaganski        5
 Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
+Pascal Merigeau       2.5
+Danielle Attali       2.5
 Christophe Carriére   
 # TF1.fr (0-5)
 Aurelien Allin        2
@@ -2043,7 +2043,7 @@ Boris Nelepo
 #Alexandra Zawia      1.5  (#2)
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       5
 Fabrice Leclerc       
 Eric Neuhoff          5
 Stéphane Delorme      
@@ -2053,7 +2053,7 @@ Pierre Vavasseur
 Pierre Murat          2.5
 Jean Roy              
 Serge Kaganski        
-Pierre Fornerod       
+Pierre Fornerod       2.5
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
@@ -2072,16 +2072,16 @@ Giona Nazzaro         5
 Ronald Rovers         6
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       5
 Fabrice Leclerc       
 Eric Neuhoff          
-Stéphane Delorme      
+Stéphane Delorme      5
 Thomas Sotinel        
 Philippe Rouyer       
 Pierre Vavasseur      
-Pierre Murat          
+Pierre Murat          7.5
 Jean Roy              
-Serge Kaganski        
+Serge Kaganski        5
 Pierre Fornerod       
 Pascal Merigeau       
 Danielle Attali       
@@ -2112,14 +2112,14 @@ Rüdiger Suchsland
 #Alexandra Zawia      6 #6
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme      
 Thomas Sotinel        
 Philippe Rouyer       
 Pierre Vavasseur      
-Pierre Murat          
+Pierre Murat          2.5
 Jean Roy              
 Serge Kaganski        
 Pierre Fornerod       
@@ -2162,7 +2162,7 @@ Thomas Sotinel
 Philippe Rouyer       
 Pierre Vavasseur      
 Pierre Murat          
-Jean Roy              
+Jean Roy              5
 Serge Kaganski        
 Pierre Fornerod       
 Pascal Merigeau       
