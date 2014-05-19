@@ -2554,7 +2554,8 @@ Jaime Pena            6.5
 Fernando Juan Lima    7
 Alejandro Calvo       5
 Eric Kohn             4       http://www.indiewire.com/article/cannes-review-robert-pattinson-and-guy-pearce-cant-quite-salvage-david-michods-the-rover
-Peter Bradshaw               http://www.theguardian.com/film/2014/may/17/the-rover-review-cannes-robert-pattinson
+Peter Bradshaw                http://www.theguardian.com/film/2014/may/17/the-rover-review-cannes-robert-pattinson
+Jessica Kiang         7       http://blogs.indiewire.com/theplaylist/cannes-review-david-michods-the-rover-20140517
 
 "CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
 
