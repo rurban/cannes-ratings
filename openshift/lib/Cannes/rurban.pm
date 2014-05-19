@@ -1,5 +1,6 @@
 package Cannes::rurban;
 use Dancer ':syntax';
+use File::Basename 'dirname';
 use utf8;
 
 our $VERSION = '0.2';
@@ -472,8 +473,15 @@ sub _side_details {
 
 sub _list {
   my $year = shift;
+  my $dir = dirname(__FILE__);
+  my $dat = "$dir/../../public/Cannes$year.dat";
+  if (-e $dat) {
+    do "$dat" or die "invalid $dat";
+  } else {
+    eval "require Cannes::rurban::$year;"
+      or die "invalid year $year";
+  }
   no strict 'refs';
-  eval "require Cannes::rurban::$year;" or die "invalid year $year";
   my $DATA = ${"Cannes::rurban::$year\::DATA"};
   my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
   my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
@@ -509,7 +517,14 @@ get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (qw(2010 2011 2012 2013 2014)) {
     no strict 'refs';
-    eval "require Cannes::rurban::$year;" or die "invalid year $year";
+    my $dir = dirname(__FILE__);
+    my $dat = "$dir/../../public/Cannes$year.dat";
+    if (-e $dat) {
+      do "$dat" or die "invalid $dat";
+    } else {
+      eval "require Cannes::rurban::$year;"
+        or die "invalid year $year";
+    }
     my $DATA = ${"Cannes::rurban::$year\::DATA"};
     my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
     my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
