@@ -981,6 +981,75 @@ Diego Lerer           8
 Pedro Butcher         4
 Carlos Heredero       5.5
 Alejandro Calvo       7
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            5
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        6
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      7.5 #7
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
@@ -1154,26 +1223,510 @@ Life Caroline
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
 
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
+
 "THE SEARCH" (Michel HAZANAVICIUS) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010964/year/2014.html
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
 Diego Lerer           7.5
 Fernando Ganzo        9
 Pamela Bienzobas      0
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 "JIMMY’S HALL" (Ken LOACH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100007371/year/2014.html
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 "MOMMY" (Xavier DOLAN) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010779/year/2014.html
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009214/year/2014.html
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010863/year/2014.html
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+Miriam Bale           
+Arnaud Hée            
+Christoph Huber       
+Frédéric Jaeger       
+Till Kadritzke        
+Daniel Kasman         
+Michael Kienzl        
+Nino Klinger          
+#Dana Linssen          
+Boris Nelepo          
+#Cristina Nord        
+Rüdiger Suchsland     
+#Alexandra Zawia      
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Manon Dumais          
+#Carlos Heredero      
+#Eric Kohn   	      
+Eric Lavallée         
+Fabien Lemercier      
+Guy Lodge             
+Liu Min               
+Isabelle Regnier      
+Cédric Succivalli     
+Blake Williams        
+# Screen Daily (0-4)
+Robbie Collin         
+David Stratton        
+Derek Malcolm         
+Jan Schulz-Ojala      
+Jose Carlos Avellar   
+Stephanie Zacharek    
+Michel Ciment         
+Kate Muir/Wendy Ide   
+Bo Green Jensen       
+Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+# TF1.fr (0-5)
+Aurelien Allin        
+Evangeline Barbaroux  
+Thomas Baurez         
+Stephanie Belpeche    
+Stéphanie Lamome      
+Romaine Le Vern       
+Mehdi Omais           
+Philippe Rouyer       
+Life Caroline         
+#
 
 
 UN CERTAIN REGARD
@@ -1546,7 +2099,7 @@ Nino Klinger
 Dana Linssen          
 #Cristina Nord         
 Rüdiger Suchsland     
-#Alexandra Zawia      
+#Alexandra Zawia      6 #6
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
