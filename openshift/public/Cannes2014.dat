@@ -5,7 +5,7 @@ package Cannes::rurban::2014; # -*- perl -*-
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
-# french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4) Safari yes, chrome no
+# french: http://www.lefilmfrancais.com/cannes2014/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/cannes-2014-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4) Safari yes, chrome no
 # http://lci.tf1.fr/cinema/news/festival-de-cannes-2014-les-etoiles-de-la-presse-cinema-8419004.html
@@ -1012,7 +1012,7 @@ Screen International  9
 # Le film français 0-4
 Stéphanie Lamome      2.5
 Arnaud Schwartz       2.5
-Fabrice Leclerc       
+Fabrice Leclerc       2.5
 Eric Neuhoff          2.5
 Stéphane Delorme      2.5
 Thomas Sotinel        2.5
@@ -1108,21 +1108,21 @@ Kate Muir/Wendy Ide
 Bo Green Jensen       
 Screen International  
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      7.5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       7.5
+Eric Neuhoff          9
+Stéphane Delorme      9
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          5
+Jean Roy              9
+Serge Kaganski        7.5
+Pierre Fornerod       7.5
+Pascal Merigeau       2.5
+Danielle Attali       5
+Christophe Carriére   7.5
 # TF1.fr (0-5)
 Aurelien Allin        8
 Evangeline Barbaroux  2
@@ -1231,21 +1231,21 @@ Kate Muir/Wendy Ide
 Bo Green Jensen       
 Screen International  
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      7.5
+Arnaud Schwartz       2.5
+Fabrice Leclerc       7.5
+Eric Neuhoff          2.5
+Stéphane Delorme      9
+Thomas Sotinel        5
+Philippe Rouyer       7.5
+Pierre Vavasseur      2.5
+Pierre Murat          7.5
+Jean Roy              2.5
+Serge Kaganski        7.5
+Pierre Fornerod       1
+Pascal Merigeau       2.5
+Danielle Attali       7.5
+Christophe Carriére   1
 # TF1.fr (0-5)
 Aurelien Allin        
 Evangeline Barbaroux  6
@@ -2277,12 +2277,12 @@ Rüdiger Suchsland
 #Alexandra Zawia      6 #6
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       7.5
+Arnaud Schwartz       9
 Fabrice Leclerc       
-Eric Neuhoff          
+Eric Neuhoff          7.5
 Stéphane Delorme      
 Thomas Sotinel        
-Philippe Rouyer       
+Philippe Rouyer       5
 Pierre Vavasseur      
 Pierre Murat          2.5
 Jean Roy              
@@ -2322,19 +2322,19 @@ Michael Kienzl
 Nino Klinger          
 #Boris Nelepo          
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      5
+Arnaud Schwartz       1
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme      
 Thomas Sotinel        
-Philippe Rouyer       
+Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          
+Pierre Murat          1
 Jean Roy              5
-Serge Kaganski        
+Serge Kaganski        7.5
 Pierre Fornerod       
-Pascal Merigeau       
+Pascal Merigeau       2.5
 Danielle Attali       
 Christophe Carriére   
 
@@ -2394,19 +2394,19 @@ Nino Klinger
 Boris Nelepo          6
 Cristina Nord         9
 # Le film français 0-4
-Stéphanie Lamome      
+Stéphanie Lamome      2.5
 Arnaud Schwartz       
 Fabrice Leclerc       
 Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
+Stéphane Delorme      7.5
+Thomas Sotinel        7.5
+Philippe Rouyer       2.5
 Pierre Vavasseur      
 Pierre Murat          
 Jean Roy              
-Serge Kaganski        
+Serge Kaganski        9
 Pierre Fornerod       
-Pascal Merigeau       
+Pascal Merigeau       2.5
 Danielle Attali       
 Christophe Carriére   
 #
@@ -2424,7 +2424,7 @@ Stéphanie Lamome
 Arnaud Schwartz       
 Fabrice Leclerc       
 Eric Neuhoff          
-Stéphane Delorme      
+Stéphane Delorme      1
 Thomas Sotinel        
 Philippe Rouyer       
 Pierre Vavasseur      
