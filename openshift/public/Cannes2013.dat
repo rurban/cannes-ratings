@@ -4476,7 +4476,7 @@ our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/lib/Cannes/rurban/2013.pm
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Cannes2013.dat
 
 </pre>";
 
