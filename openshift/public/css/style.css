@@ -25,6 +25,12 @@ color: white;
 text-decoration: none;
 }
 
+span.hover:hover {
+background-color: #03c;
+color: white;
+text-decoration: none;
+}
+
 #page {
 background-color: #ddd;
 width: 970px;

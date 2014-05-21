@@ -462,8 +462,8 @@ sub _side_details {
 	    '
 	    . $cnbox . 
 	    '<input type=submit value="Filter">
-	     <span onclick="selectAll(\'cn\')">[all]</span>
-	     <span onclick="flipAll(\'cn\')">[flip]</span>
+	     <span class=hover onclick="selectAll(\'cn\')" title="Click here to select all">[all]</span>
+	     <span class=hover onclick="flipAll(\'cn\')"  title="Click here to invert the selection">[flip]</span>
 	    </form>' .
 	    '
           </li>';
