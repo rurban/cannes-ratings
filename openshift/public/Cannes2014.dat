@@ -1548,21 +1548,21 @@ Kate Muir/Wendy Ide
 Bo Green Jensen       
 Screen International  
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
+Stéphanie Lamome      5
+Arnaud Schwartz       5
+Fabrice Leclerc       5
+Eric Neuhoff          1
 Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Thomas Sotinel        2.5
+Philippe Rouyer       2.5
+Pierre Vavasseur      7.5
+Pierre Murat          1
+Jean Roy              5
+Serge Kaganski        1
+Pierre Fornerod       2.5
+Pascal Merigeau       2.5
+Danielle Attali       5
+Christophe Carriére   7.5
 # TF1.fr (0-5)
 Aurelien Allin        
 Evangeline Barbaroux  2
@@ -1639,20 +1639,20 @@ Bo Green Jensen
 Screen International  
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
+Arnaud Schwartz       2.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          1
+Stéphane Delorme      7.5
+Thomas Sotinel        7.5
+Philippe Rouyer       2.5
+Pierre Vavasseur      1
 Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
+Jean Roy              5
+Serge Kaganski        9
+Pierre Fornerod       7.5
 Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Danielle Attali       5
+Christophe Carriére   1
 # TF1.fr (0-5)
 Aurelien Allin        2
 Evangeline Barbaroux  8
@@ -2082,7 +2082,7 @@ Michael Kienzl        2.5
 Nino Klinger          1
 # Le film français 0-4
 Stéphanie Lamome      1
-Arnaud Schwartz       
+Arnaud Schwartz       1
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme      1
@@ -2521,8 +2521,8 @@ Pierre Murat
 Jean Roy              
 Serge Kaganski        
 Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
+Pascal Merigeau       2.5
+Danielle Attali       7.5
 Christophe Carriére   
 
 "XENIA" (Panos KOUTRAS) [Un Certain Regard]
@@ -2606,7 +2606,7 @@ Alex Vicente          5
 Jaime Pena            4
 Javier Estrada        6
 # Le film français 0-4
-Stéphanie Lamome      
+Stéphanie Lamome      5
 Arnaud Schwartz       
 Fabrice Leclerc       
 Eric Neuhoff          
@@ -2641,15 +2641,15 @@ Christoph Huber       1
 Frédéric Jaeger       5
 Cristina Nord         5
 # Le film français 0-4
-Stéphanie Lamome      
+Stéphanie Lamome      7.5
 Arnaud Schwartz       
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme      
 Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
+Philippe Rouyer       2.5
+Pierre Vavasseur      1
+Pierre Murat          5
 Jean Roy              2.5
 Serge Kaganski        
 Pierre Fornerod       
@@ -2671,6 +2671,22 @@ Nikola Grozdanović  5         http://waytooindie.com/review/movie/lost-river-ca
 Ángel Quintana       5
 Pedro Butcher         6.5
 Carlos Heredero       4.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       9
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Andrew Pulver (Guardian, UK)   8   http://www.theguardian.com/film/2014/may/20/cannes-2014-the-salt-of-the-earth-film-review-sebastiao-salgado
 Budd Wilkins                  https://twitter.com/buddwilkins/status/468809401110126592
@@ -2680,19 +2696,84 @@ Jay Weissberg                 http://variety.com/2014/film/reviews/cannes-film-r
 "FANTASIA" (Wang CHAO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002470/year/2014.html
 Diego Batlle          5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Michael Kienzl        1
 
 "SNOW IN PARADISE" (Andrew HULME) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010768/year/2014.html
 Alex Vicente          6.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+#
 Mike d'Angelo                 https://twitter.com/gemko/status/469230243770032128
 
 "CHARLIE’S COUNTRY" (Rolf de HEER) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010761/year/2014.html
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "INCOMPRESA (The Misunderstood)" (Asia ARGENTO) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002304/year/2014.html
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 SPECIAL SCREENINGS
 
