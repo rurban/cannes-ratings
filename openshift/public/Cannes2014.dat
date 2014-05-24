@@ -31,7 +31,7 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"MR TURNER" (Mike LEIGH) [Competition]
+"MR TURNER" (Mike LEIGH) [Competition] Best Actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010559/year/2014.html
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
 Roger Alan Koza       6
@@ -1183,7 +1183,7 @@ Nikola Grozdanović    6.7     http://waytooindie.com/review/movie/foxcatcher-ca
 Catherine Bray                http://blog.film4.com/cannes-review-foxcatcher/
 Alex Billington       9       http://www.firstshowing.net/2014/cannes-2014-tatum-carell-are-stellar-in-bennett-millers-foxcatcher/
 Richard Lawson        7       http://www.vanityfair.com/vf-hollywood/channing-tatum-foxcatcher-review
-Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece) 8
+Yorgos Krassakopoulos  8
 
 "MAPS TO THE STARS" (David CRONENBERG) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
@@ -1437,9 +1437,10 @@ David Jenkins         10      http://www.littlewhitelies.co.uk/features/festival
 Lee Marshall                  http://www.screendaily.com/reviews/the-latest/two-days-one-night/5072210.article
 John Bleasdale        6       http://www.cine-vue.com/2014/05/cannes-2014-two-days-one-night-review.html
 Nikola Grozdanović    8       http://waytooindie.com/review/movie/two-days-one-night-cannes-review/
-Jessica Kiang         9
+Jessica Kiang         9       http://blogs.indiewire.com/theplaylist/cannes-review-the-dardennes-brothers-two-days-one-night-starring-marion-cotillard-20140520
 Jon Frosch            7
-
+Jordan Cronk          7
+Glenn Heath Jr        9
 
 "STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
@@ -1503,7 +1504,8 @@ Manon Dumais          6
 #Eric Kohn   	      
 Eric Lavallée         
 Fabien Lemercier      7
-Guy Lodge             4       https://twitter.com/GuyLodge/status/468519448891392000
+Guy Lodge             4       http://www.hitfix.com/in-contention/review-naomi-kawases-still-the-water-is-a-stagnant-pond-of-ideas
+# https://twitter.com/GuyLodge/status/468519448891392000
 Liu Min               6
 Isabelle Regnier      
 Cédric Succivalli     5
@@ -1562,7 +1564,8 @@ David Jenkins                 https://twitter.com/daveyjenkins/status/4685145342
 Jon Frosch            8
 Glenn Heath Jr        1
 Oliver Lyttleton            
-Nikola Grozdanović    7
+Nikola Grozdanović    7       http://blogs.indiewire.com/theplaylist/cannes-review-naomi-kawases-still-the-water-is-a-spectacle-for-the-senses-20140520
+Jordan Cronk          3
 
 
 "THE SEARCH" (Michel HAZANAVICIUS) [Competition]
@@ -1607,10 +1610,10 @@ Paola Casella         2
 #Mike d'Angelo        
 Manon Dumais          5
 #Carlos Heredero      2
-Eric Kohn             3
+Eric Kohn             3       http://www.indiewire.com/article/cannes-review-michel-hazanavicius-the-search-starring-berenice-bejo-is-a-remake-devoid-of-a-purpose
 Eric Lavallée         3
 Fabien Lemercier      6
-Guy Lodge             2
+Guy Lodge             2       http://www.hitfix.com/in-contention/review-hazanavicius-goes-serious-nil-and-seriously-wrong-nil-in-the-search
 Liu Min               5
 Isabelle Regnier      0
 Cédric Succivalli     6
@@ -1663,8 +1666,8 @@ Mike d'Angelo         2.5     https://twitter.com/gemko/status/46904294113122713
 Justin Chang                  http://variety.com/2014/film/reviews/cannes-film-review-michel-hazanavicius-the-search-1201187833/
 Alex Billington       7.8     http://www.firstshowing.net/2014/cannes-2014-hazanavicius-the-search-is-better-than-critics-claim/
 Peter Bradshaw        4       http://www.theguardian.com/film/2014/may/21/the-search-cannes-review-berenice-bejo
-Oliver Lyttleton      1.5
-Craig Skinner         2
+Oliver Lyttleton      1.5     http://blogs.indiewire.com/theplaylist/cannes-review-michel-hazanavicius-the-artist-follow-up-the-search-starring-berenice-bejo-annette-bening-20140521
+Craig Skinner         2       http://www.filmdivider.com/cannes-the-search-review/
 
 "ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
@@ -1798,7 +1801,8 @@ Scott Foundas                http://variety.com/2014/film/reviews/cannes-film-re
 Jonathan Romney              http://m.screendaily.com/5072311.article
 Jon Frosch            6
 Glenn Heath Jr        9
-Oliver Lyttleton      6      
+Oliver Lyttleton      6      http://blogs.indiewire.com/theplaylist/cannes-review-jean-luc-godards-playful-sly-frustrating-goodbye-to-language-in-3d-20140521
+Jordan Cronk          9
 
 "JIMMY’S HALL" (Ken LOACH) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100007371/year/2014.html
@@ -1835,7 +1839,7 @@ Paola Casella         6
 #Mike d'Angelo        5
 Manon Dumais          6
 #Carlos Heredero      4
-#Eric Kohn   	      
+Eric Kohn   	      6       http://www.indiewire.com/article/cannes-review-footloose-in-ireland-with-jimmys-hall-ken-loach-matches-history-with-entertainment
 Eric Lavallée         4  C+
 Fabien Lemercier      7
 Guy Lodge             7
@@ -1956,7 +1960,7 @@ Manon Dumais          5
 Eric Kohn             7       http://www.indiewire.com/article/cannes-review-is-xavier-dolans-mommy-his-best-film
 Eric Lavallée         6  C+
 Fabien Lemercier      8
-Guy Lodge             6
+#Guy Lodge            6
 Liu Min               9
 Isabelle Regnier      6
 Cédric Succivalli     10
@@ -2016,6 +2020,7 @@ Allan Hunter                  http://www.screendaily.com/reviews/the-latest/momm
 Alex Billington      10       http://www.firstshowing.net/2014/cannes-2014-xavier-dolans-excellent-mommy-is-cinema-at-its-best/
 Jon Frosch            8
 Richard Lawson        9       http://www.vanityfair.com/vf-hollywood/xavier-dolan-mommy-cannes-review
+Guy Lodge             5       http://www.hitfix.com/in-contention/review-flashes-of-brilliance-overcome-xavier-dolans-mommy-issues
 
 "CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009214/year/2014.html
@@ -2078,7 +2083,7 @@ Manon Dumais          5
 #Eric Kohn   	      
 Eric Lavallée         7
 Fabien Lemercier      6
-Guy Lodge             
+Guy Lodge             5       http://www.hitfix.com/in-contention/review-kristen-stewart-is-best-in-show-in-airy-clouds-of-sils-maria
 Liu Min               8
 Isabelle Regnier      4
 Cédric Succivalli     10
@@ -2142,6 +2147,8 @@ Oliver Lyttleton              https://twitter.com/olilyttelton/status/4697586248
 Jon Frosch            8
 Glenn Heath Jr        8
 Nikola Grozdanović    
+Jordan Cronk          6
+
 
 "LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010863/year/2014.html
@@ -2261,10 +2268,14 @@ Peter Debruge                 http://variety.com/2014/film/reviews/cannes-film-r
 Oliver Lyttleton      9       http://blogs.indiewire.com/theplaylist/cannes-review-andrei-zvyagintsevs-searing-powerful-russian-epic-leviathan-20140523
 John Bleasdale        10      http://www.cine-vue.com/2014/05/cannes-2014-leviathan-review.html
 Tim Robey             8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10852721/Leviathan-review-compelling.html
+Jordan Cronk          6
+Glenn Heath Jr        7
+Yorgos Krassakopoulos  9
+
 
 UN CERTAIN REGARD
 
-"PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard] UCR Ensemble Prize
+"PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard] UCR Ensemble Prize, Caméra d’Or (best first feature)
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001880/year/2014.html
 Scott Foundas         
 Roger Alan Koza       4.5
@@ -2994,6 +3005,9 @@ Oliver Lyttleton    2         http://blogs.indiewire.com/theplaylist/cannes-revi
 Ryan Lattanzio (Thompson on Hollywood, USA)  http://blogs.indiewire.com/thompsononhollywood/lost-river-ryan-gosling-cannes-reviews
 Keith Uhlich        4         http://www.timeout.com/london/film/lost-river
 Nikola Grozdanović  5         http://waytooindie.com/review/movie/lost-river-cannes-review/
+Craig Skinner       1         http://www.filmdivider.com/cannes-lost-river-review/
+# Not unlike a stereotypical student film made on a grand scale, Lost River is a disaster.
+
 
 "THE SALT OF THE EARTH" (Juliano Ribeiro SALGADO and Wim WENDERS) [Un Certain Regard] UCR Special Jury Prize, Ecumenical Jury recommendation
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008611/year/2014.html
@@ -3078,6 +3092,7 @@ Danielle Attali
 Christophe Carriére   
 #
 Mike d'Angelo                 https://twitter.com/gemko/status/469230243770032128
+Jessica Kiang         1       http://blogs.indiewire.com/theplaylist/cannes-review-andrew-hulmes-snow-in-paradise-a-tired-and-tiresome-brit-gangster-film-20140521
 
 "CHARLIE’S COUNTRY" (Rolf de HEER) [Un Certain Regard] UCR Best Actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010761/year/2014.html
@@ -3390,6 +3405,8 @@ Cristina Nord         7.5
 #
 Mike d'Angelo         6.3     https://twitter.com/gemko/status/468884970040492032
 Jon Frosch            7
+Jordan Cronk          6
+Glenn Heath Jr        4
 
 "OF MEN AND WAR" (Laurent Bécue-Renard) [Special Screening]
 
@@ -3670,7 +3687,12 @@ Till Kadritzke        4
 Michael Kienzl        5
 Dana Linssen          5
 Boris Nelepo          6
+#
 Blake Williams        5.5     https://twitter.com/Astrostic/status/468840516319477761
+Oliver Lyttleton      6       http://blogs.indiewire.com/theplaylist/cannes-review-john-boormans-queen-and-country-a-solid-sequel-to-oscar-nominee-hope-glory-20140523
+
+Glenn Heath Jr        4
+Jordan Cronk          3
 
 "WHIPLASH" (Damien CHAZELLE) [Quinzaine]
   Sundance
@@ -3723,6 +3745,7 @@ Till Kadritzke        6
 #
 Mike d'Angelo         7.1     https://twitter.com/gemko/status/468885880267362305
 Oliver Lyttleton      9       http://blogs.indiewire.com/theplaylist/cannes-review-stephane-lafleurs-delightful-quebecois-comedy-tu-dors-nicole-is-the-hidden-gem-of-the-festival-20140522
+Glenn Heath Jr        7
 
 "LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
 Carlo Chatrian        9
@@ -3858,7 +3881,7 @@ Frédéric Jaeger     1
 Till Kadritzke        5
 Michael Kienzl        5
 #
-Eric Kohn                8    http://www.indiewire.com/article/cannes-review-shocking-sign-language-drama-and-critics-week-winner-the-tribe-is-an-unprecedented-cinematic-accomplishment
+Eric Kohn             8       http://www.indiewire.com/article/cannes-review-shocking-sign-language-drama-and-critics-week-winner-the-tribe-is-an-unprecedented-cinematic-accomplishment
 Jordan Hoffman                http://badassdigest.com/2014/05/22/cannes-review-the-tribe-is-unlike-anything-else/
 Catherine Bray                http://blog.film4.com/cannes-review-the-tribe/
 Anna Quaranta                 http://www.taxidrivers.it/48111/festival/cannes-67-the-tribe-plemya-di-myroslav-slaboshpytskiy-semaine-de-la-critique.html
@@ -4185,6 +4208,7 @@ Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
 Peter Labuza (The Film Stage, USA)
 Jamie Graham (Total Film, UK)
+Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
 ";
 # former apichatpoll members
 $critics[8] = "
