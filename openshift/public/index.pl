@@ -11,9 +11,10 @@ if ($ENV{'REMOTE_ADDR'} eq '127.0.0.1') {
   set environment => 'development';
   #set environment => 'production';
   set auto_reload => 1;
-} else {
+} elsif ($ENV{'REMOTE_ADDR'} eq '188.108.36.74') {
   set environment => 'development';
-  #set environment => 'production';
+} else {
+  set environment => 'production';
 }
 
 my @path = ('..', 'openshift', 'bin', 'app.pl');
