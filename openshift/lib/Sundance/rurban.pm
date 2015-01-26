@@ -1,9 +1,20 @@
-package Cannes::rurban;
+package Sundance::rurban;
+our @ISA = ('Cannes::rurban');
 use Dancer ':syntax';
-use File::Basename 'dirname';
+#use File::Basename 'dirname';
 use utf8;
 
 our $VERSION = '0.2';
+
+sub us_rating {
+  my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
+           'B+' => 7,   'B' => 6,   'B-' => 5,
+           'C+' => 4,   'C' => 3,   'C-' => 2, 
+           'D+' => 1.5, 'D' => 1,   'D-' => 1, 
+           'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5, 
+           'F+' => 0,   'F' => 0,   'F-' => 0};
+  return $r->{$_[0]};
+}
 
 sub _read {
   my $DATA = shift;
@@ -37,8 +48,10 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/[\w\)]:? [-\x{2013} \t]*(\d[\d\.]*)(\s+http\S+)?/) {
-      my $x = $1; $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
+    } elsif (/\w[\w\)]+ \s+ (\d[\d\.]* | [ABCDEF][\+\-]?) ((?:\s+http\S+)?)$/x) {
+      my $x = $1; $url = $2;
+      $x = us_rating($x) if $x =~ /^[ABCDEF]/;
+      $x = 10 if $x > 10; $x = 0 if $x < 0;
       $s += $x; $n++; undef $critic;
       $url = $2;
       $url =~ s/^\s+// if $url;
@@ -56,7 +69,7 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
-    } elsif (/[\w\)] [-\x{2013}\s]*(http\S+)/) { # review link only
+    } elsif (/[\w\)]\s+(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {
@@ -154,7 +167,8 @@ sub _dump {
   my %title  = %{$_[1]};
   my @t = @{$_[2]};
   my @all = @t;
-  my @sections = ("Competition", "Un Certain Regard", "Semaine", "Quinzaine", "Other");
+  my @sections = ("U.S. Dramatic", "World Dramatic", "U.S. Documentaries", "World Documentaries",
+                  "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres");
   my %sections = map{$_=>1} @sections;
   @t = sort {$b->[1] <=> $a->[1]} @t;
   for (@t) {
@@ -257,7 +271,7 @@ sub _dump {
     my $l = $title{$t}->{line};
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
-    $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
+    $l="<b>$l</b>" if $title{$t}->{section} eq 'U.S. Dramatic';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
@@ -276,7 +290,7 @@ sub _dump {
     my $l=$title{$t}->{line};
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
-    $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
+    $l="<b>$l</b>" if $title{$t}->{section} eq 'U.S. Dramatic';
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
@@ -303,13 +317,13 @@ sub _dump {
 	}
       }
     }
-    if (1 or $num) {
+    if ($num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
       $out .= $num
-	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
-	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
+      	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
+      	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
       for (sort 
 	   {
 	     !$section{$section}->{$b}->[1] ? -1
@@ -364,8 +378,8 @@ sub _dump {
     next unless $t;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
     $l="<i>$l</i>" if $s>=2.0;
-    if ($l =~ / \[Competition\]/) { 
-      $l =~ s/ \[Competition\]//; $l="<b>$l</b>";
+    if ($l =~ / \[U\.S\. Dramatic\]/) { 
+      $l =~ s/ \[U\.S\. Dramatic\]//; $l="<b>$l</b>";
     } else { $l =~ s/ \[[\w ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
     if ($six and $n and $a<6.0){
@@ -474,61 +488,50 @@ sub _side_details {
 sub _list {
   my $year = shift;
   my $dir = dirname(__FILE__);
-  my $dat = "$dir/../../public/Cannes$year.dat";
+  my $dat = "$dir/../../public/Sundance$year.dat";
   if (-e $dat) {
-    do "$dat" or die "invalid $dat";
+    do "$dat" or die "invalid ".basename($dat);
   } else {
-    eval "require Cannes::rurban::$year;"
+    eval "require Sundance::rurban::$year;"
       or die "invalid year $year";
   }
   no strict 'refs';
-  my $DATA = ${"Cannes::rurban::$year\::DATA"};
-  my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
-  my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
-  my @critics = @{"Cannes::rurban::$year\::critics"};
+  my $DATA = ${"Sundance::rurban::$year\::DATA"};
+  my $HEADER = ${"Sundance::rurban::$year\::HEADER"};
+  my $FOOTER = ${"Sundance::rurban::$year\::FOOTER"};
+  my @critics = @{"Sundance::rurban::$year\::critics"};
   my $vars = _dump( _read($DATA, \@critics, {}, {}) );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
   $vars->{side_details} = _side_details($vars->{title}, $vars->{critic});
   if ($DATA) {
-    template 'cannes', $vars;
+    template 'sundance', $vars;
   } else {
     template 'notyet', $vars;
   }
 }
 
-get '/2010' => sub {
-  _list(2010);
+get '/Sundance2015' => sub {
+  _list(2015);
 };
-get '/2011' => sub {
-  _list(2011);
-};
-get '/2012' => sub {
-  _list(2012);
-};
-get '/2013' => sub {
-  _list(2013);
-};
-get '/2014' => sub {
-  _list(2014);
-};
-get '/all' => sub {
+
+get '/SundanceAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
-  for my $year (qw(2010 2011 2012 2013 2014)) {
+  for my $year (qw(2015)) {
     no strict 'refs';
     my $dir = dirname(__FILE__);
-    my $dat = "$dir/../../public/Cannes$year.dat";
+    my $dat = "$dir/../../public/Sundance$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
     } else {
-      eval "require Cannes::rurban::$year;"
+      eval "require Sundance::rurban::$year;"
         or die "invalid year $year";
     }
-    my $DATA = ${"Cannes::rurban::$year\::DATA"};
-    my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
-    my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
-    my @critics = @{"Cannes::rurban::$year\::critics"};
+    my $DATA = ${"Sundance::rurban::$year\::DATA"};
+    my $HEADER = ${"Sundance::rurban::$year\::HEADER"};
+    my $FOOTER = ${"Sundance::rurban::$year\::FOOTER"};
+    my @critics = @{"Sundance::rurban::$year\::critics"};
     my @new = _read($DATA, \@critics, \%critic, \%title);
     %critic = %{$new[0]}; %title = %{$new[1]};
     push @t, @{$new[2]};
@@ -537,12 +540,13 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2014";
+  $all->{year} = "2015-2015";
   $all->{side_details} = _side_details(\%critic, \%title);
-  template 'index', $all;
+  template 'sundance', $all;
 };
+
 get '/' => sub {
-  redirect '/2014';
+  redirect '/Sundance2015';
 };
 
 1;

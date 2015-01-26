@@ -1,0 +1,45 @@
+<div id="page">
+      <div id="sidebar">
+        <ul id="sidebar-items">
+          <li>
+            <h3>Years</h3>
+            <ul class="links">
+              <li><a href="/Sundance2015">2015</a></li>
+              <li>&nbsp;</li>
+              <li><small><a href="/"> =&gt; Cannes</a></small></li>
+            </ul>
+          </li>
+
+          <% side_details %>
+
+          <li>
+            <h3>Ressources</h3>
+
+            <ul class="links">
+              <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/openshift/public">Ratings history on github</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <h3></h3>
+	    <p><% HEADER %></p>
+          </li>
+        </ul>
+      </div>
+
+      <div id="content">
+        <div id="sheader">
+          <h1>Sundance <% year %> critics ratings</h1>
+          <h2>Scaled to 0-10</h2>
+        </div>
+
+        <div id="list">
+	  <% out %>
+        </div>
+
+        <div id="footer">
+	  <p><% FOOTER %></p>
+        </div>
+
+      </div>
+</div>

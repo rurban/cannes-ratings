@@ -1,166 +1,396 @@
-"Tangerine" (Sean Baker)
-David Rooney, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/tangerine-sundance-review-767066
+package Sundance::rurban::2015; # -*- perl -*-
+#!/usr/bin/perl
+# Sundance 2015 Critics Ratings
 
-"The Wolfpack" (Crystal Moselle)
-John DeFore, The Hollywood Reporter	http://www.hollywoodreporter.com/review/wolfpack-sundance-review-767014
+use utf8;
+our $DATA= <<'EOF';
 
-"Me and Earl and the Dying Girl"  (Alfonso Gomez-Rejon)
-John DeFore, The Hollywood Reporter A	http://www.hollywoodreporter.com/review/wolfpack-sundance-review-767014
+U.S. Dramatic
 
-"Dark Horse" (Louise Osmond)
-Boyd van Hoeij, The Hollywood Reporter B-	http://www.hollywoodreporter.com/review/dark-horse-sundance-review-766528
+"Advantageous" (Jennifer Phang) [U.S. Dramatic]
 
-"Going Clear" (Alex Gibney)
-Josh Dickey (Mashable)  	http://mashable.com/2015/01/25/sundance-review-going-clear/
-Bilge Ebiri (Vulture)	B+	http://www.vulture.com/2015/01/sundance-going-clear-is-a-jaw-dropping-expos.html
+"Dope" (Rick Famuyiwa) [U.S. Dramatic]
+Josh Dickey		A	http://mashable.com/2015/01/24/dope-just-blew-up-sundance/
+
+"I Smile Back" (Adam Salkey) [U.S. Dramatic]
+Katie Walsh  		B+	http://blogs.indiewire.com/theplaylist/sundance-review-sarah-silvermans-tremendous-performance-powers-addiction-drama-i-smile-back-20150126
+Jordan Hoffman        	6	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-i-smile-back-sarah-silverman
+
+"Me and Earl and the Dying Girl"  (Alfonso Gomez-Rejon) [U.S. Dramatic]
+John DeFore  	    	A	http://www.hollywoodreporter.com/review/wolfpack-sundance-review-767014
+
+"People, Places, Things" (Jim Strouse) [U.S. Dramatic]
+
+"Results" (Andrew Bujalski) [U.S. Dramatic]
+
+"Songs My Brothers Taught Me" (Chloé Zhao) [U.S. Dramatic]
+
+"Stockholm, Pennsylvania" (Nikole Beckwith) [U.S. Dramatic]
+Rodrigo Perez 		C	http://blogs.indiewire.com/theplaylist/sundance-review-stockholm-pennsylvania-starring-saoirse-ronan-cynthia-nixon-20150124
+David Rooney 			http://www.hollywoodreporter.com/review/saoirse-ronan-cynthia-nixon-stockholm-766608
+Brian Moylan        	6      	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-stockholm-pennsylvania-a-hostage-to-fortune-cookie-logic
+
+"The Bronze" (Bryan Buckley) [U.S. Dramatic]
+Todd McCarthy   	C	http://www.hollywoodreporter.com/review/bronze-sundance-review-766158
+
+"The Diary of a Teenage Girl" (Marielle Heller) [U.S. Dramatic]
+Todd McCarthy  		A-	http://www.hollywoodreporter.com/review/diary-a-teenage-girl-sundance-766658
+Brian Moylan        	8 	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-the-diary-of-a-teenage-girl
+
+"The D Train" (Jarrad Paul, Andrew Mogel) [U.S. Dramatic]
+Todd McCarthy   	B 	http://www.hollywoodreporter.com/review/d-train-sundance-review-766533
+Jordan Hoffman          4	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-the-d-train-jack-black
+
+"The Overnight" (Patrick Brice) [U.S. Dramatic]
+Katie Walsh		B+      http://blogs.indiewire.com/theplaylist/sundance-review-hysterically-funny-the-overnight-with-taylor-schilling-adam-scott-jason-schwartzman-20150125
+David Rooney  			http://www.hollywoodreporter.com/review/taylor-schilling-adam-scott-overnight-766530
+Jordan Hoffman        	4    	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-the-overnight-jason-schwartzman-adam-scott
+
+"The Stanford Prison Experiment" (Kyle Patrick Alvarez)  [U.S. Dramatic]
+
+"The Witch" (Robert Eggers) [U.S. Dramatic]
+Rodrigo Perez       	A	http://blogs.indiewire.com/theplaylist/sundance-review-the-exquisite-holy-terror-of-the-witch-will-chill-your-bones-haunt-your-soul-20150124
+Todd McCarthy 			http://www.hollywoodreporter.com/review/witch-sundance-review-766073
+Jordan Hoffman    	8	http://www.theguardian.com/film/2015/jan/23/the-witch-review-robert-eggers-sundance-festival-2015
+
+"Unexpected" (Kris Swanberg)  [U.S. Dramatic]
+
+"Z For Zachariah" (Craig Zobel) [U.S. Dramatic]
+Rodrigo Perez 		B-	http://blogs.indiewire.com/theplaylist/sundance-review-z-for-zachariah-starring-margot-robbie-chiwetel-eljiofor-chris-pine-20150125
+Todd McCarthy 			http://www.hollywoodreporter.com/review/z-zachariah-sundance-review-766723
+Bilge Ebiri             B- 	http://www.vulture.com/2015/01/z-for-zachariah-doesnt-live-up-to-expectations.html
+David Ehrlich   	B    	http://www.littlewhitelies.co.uk/features/articles/sundance-2015-z-for-zachariah-29046
+Scott Foundas           B-   	http://variety.com/2015/film/reviews/sundance-film-review-z-for-zachariah-1201413906/
+Tim Grierson 		C  	http://www.screendaily.com/reviews/the-latest/z-for-zachariah/5082173.article?blocktitle=REVIEWS&contentID=40296
+Jordan Hoffman        	6  	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-z-for-zachariah-chiwetel-ejiofor-circles-post-apocalypse-love-triangle
+Vadim Rizov			http://filmmakermagazine.com/92705-sundance-dispatch-2-tangerine-z-for-zachariah-and-pervert-park/
+Mike D'Angelo           4.4 	https://twitter.com/gemko/status/559044829946970113
+
+World Dramatic
+
+"Chorus" (Francois Delisle, Can) [World Dramatic]
+Justin Lowe 			http://www.hollywoodreporter.com/review/chorus-sundance-review-762316
+
+"Cloro" (Lamberto Sanfelice, Ita) [World Dramatic]
+
+"Glassland" (Gerard Barrett, Ire) [World Dramatic]
+Brian Moylan        	6 	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-glassland-toni-collette-jack-reynor
+
+"Homesick" (Anne Sewitsky, Nor) [World Dramatic]
+
+"Ivy" (Tolga Karaçelik, Turkey) [World Dramatic]
+
+"Partisan" (Ariel Kleiman) [World Dramatic]
+
+"PRINCESS" (Tali Shalom Ezer, Israel) [World Dramatic]
+
+"Slow West" (John Maclean, UK/NZ) [World Dramatic]
+Rodrigo Perez 		B+	http://blogs.indiewire.com/theplaylist/sundance-review-slow-west-starring-michael-fassbender-kodi-smit-mcphee-ben-mendelsohn-20150125
+John DeFore  			http://www.hollywoodreporter.com/review/slow-west-sundance-review-766737
+
+"Strangerland" (Kim Farrant, Aus/Ire) [World Dramatic]
+Jenni Miller		C-	http://blogs.indiewire.com/theplaylist/sundane-review-strangerland-starring-nicole-kidman-joseph-fiennes-and-hugo-weaving-20150125
+Boyd van Hoeij  		http://www.hollywoodreporter.com/review/strangerland-sundance-review-766522
+
+"The Second Mother" (Anna Muylaert)  [World Dramatic]
+
+"The Summer of Sangaile" (Alanté Kavaïté, Lit)
+Todd McCarthy   	B  	http://www.hollywoodreporter.com/review/summer-sangaile-sundance-review-765614
+
+"Umrika" (Prashant Nair, Ind)
+
+U.S. Documentaries
+
+"3½ Minutes" (Marc Silver) [U.S. Documentaries]
+Brian Moylan        	8 	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-three-half-minutes-jordan-davis-gun-control
+
+"Being Evel" (Daniel Junge) [U.S. Documentaries]
+Drew Taylor		B+	http://blogs.indiewire.com/theplaylist/sundance-review-evel-knievel-documentary-being-evel-is-a-death-defying-treat-20150126
+
+"Best of Enemies" (Morgan Neville, Robert Gordon) [U.S. Documentaries]
+Jordan Hoffman        	8    	http://www.theguardian.com/film/2015/jan/23/sundance-2015-best-of-enemies-first-look-review
+
+"Call Me Lucky" (Bobcat Goldhwait) [U.S. Documentaries]
+
+"Cartel Land" (Matthew Heineman) [U.S. Documentaries]
+Katie Walsh		A-	http://blogs.indiewire.com/theplaylist/sundance-review-vibrant-electrifying-narco-wars-documentary-cartel-land-20150124
+
+"City of Gold" (Laura Gabbert) [U.S. Documentaries]
+
+"Finders Keepers" (Bryan Carberry, Clay Tweel) [U.S. Documentaries]
+
+"Hot Girls Wanted" (Jill Bauer, Ronna Gradus) [U.S. Documentaries]DIRECTOR 
+
+"How to Dance in Ohio" (Alexandra Shiva) [U.S. Documentaries]
+
+"Larry Kramer In Love & Anger" (Jean Carlomusto) [U.S. Documentaries]
+
+"Meru" (Jimmy Chin, E. Chai Vasarhelyi) [U.S. Documentaries]
+
+"Racing Extinction" (Louie Psihoyos) [U.S. Documentaries]
+
+"(T)ERROR" (Lyric R. Cabral, David Felix Sutcliffe) [U.S. Documentaries]
+
+"The Wolfpack" (Crystal Moselle) [U.S. Documentaries]
+John DeFore 	        http://www.hollywoodreporter.com/review/wolfpack-sundance-review-767014
+
+"Welcome to Leith" (Michael Beach Nichols, Christopher K. Walker) [U.S. Documentaries]
+
+"Western" ( Bill Ross, Turner Ross) [U.S. Documentaries]
+Katie Walsh   		A-     http://blogs.indiewire.com/theplaylist/sundance-review-border-town-portrait-western-is-another-immersive-ross-brothers-experience-20150125
+Sheri Linden  		http://www.hollywoodreporter.com/review/western-sundance-review-764572
+
+
+World Documentaries
+
+"Censored Voices" (Mor Loushy, Isr) [World Documentaries]
+
+"Chuck Norris vs Communism" (Ilinca Calugareanu, Rom) [World Documentaries]
+
+"Dark Horse" (Louise Osmond, UK) [World Documentaries]
+Boyd van Hoeij  	B-	http://www.hollywoodreporter.com/review/dark-horse-sundance-review-766528
+
+"Dreamcatcher" (Kim Longinotto, UK) [World Documentaries]
+Leslie Felperin 	B+	http://www.hollywoodreporter.com/review/dreamcatcher-sundance-review-766665
+
+"How to Change the World" (Jerry Rothwell, UK/Can) [World Documentaries]
+Todd McCarthy 			http://www.hollywoodreporter.com/review/how-change-world-sundance-review-766087
+
+"Listen to Me Marlon" (Stevan Riley) [World Documentaries]
+
+"Pervert Park" (Frida Barkfors, Lasse Barkfors, Swe/Den) [World Documentaries]
+
+"Sembene!" (Samba Gadjigo, Jason Silverman, USA/Sen) [World Documentaries]
+Todd McCarthy 			http://www.hollywoodreporter.com/review/sembene-sundance-review-765603
+
+"The Amina Profile" (Sophie Deraspe, CAN)  [World Documentaries]
+Jordan Hoffman        	4  	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-the-amina-profile-a-cautionary-catfish-tale
+
+"The Chinese Mayor" (Hao Zhou, Chi)  [World Documentaries]
+
+"The Russian Woodpecker" (Chad Gracia, UK)  [World Documentaries]
+
+"The Visit" (Michael Madsen, Denmark/Austria/Ireland/Finland/Norway)  [World Documentaries]
+
+NEXT
+
+"Bob and the Trees" (Diego Ongaro) [NEXT]
+
+"Christmas, Again" (Charles Poekel) [NEXT]
+Jenni Miller		B-      http://blogs.indiewire.com/theplaylist/sundance-review-low-key-and-wistful-christmas-again-20150125
+
+"Cronies" (Michael J. Larnell) [NEXT]
+Jon Frosch   		B-	http://www.hollywoodreporter.com/review/cronies-sundance-review-765868
+
+"Entertainment" (Rick Alverson) [NEXT]
+John DeFore  		C- 	http://www.hollywoodreporter.com/review/entertainment-sundance-review-766614
+
+"H." (Rania Attieh, Daniel Garcia) [NEXT]
+
+"James White" (Josh Mond) [NEXT]
+Rodrigo Perez 		B 	http://blogs.indiewire.com/theplaylist/review-james-white-starring-christopher-abbot-cynthia-nixon-is-a-bruising-portrait-of-self-destruction-20150123
+David Rooney  			http://www.hollywoodreporter.com/review/christopher-abbott-cynthia-nixon-james-766076
+Damon Wise        	8	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-james-white-upscale-indie-flick-intent-to-impress
+
+"Nasty Baby" (Sebastian Silva) [NEXT]
+Todd McCarthy 			http://www.hollywoodreporter.com/review/nasty-baby-sundance-review-766816
+
+"Take Me to the River" (Matt Sobel) [NEXT]
+
+"Tangerine" (Sean Baker) [NEXT]
+David Rooney  	        	http://www.hollywoodreporter.com/review/tangerine-sundance-review-767066
+Brian Moylan        	8	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-tangerine-iphone-film-movie
+
+"The Strongest Man" (Kenny Riches) [NEXT]
+
+New Frontier
+
+"LIVEFOREVER Liveforever" (Carlos Moreno) [New Frontier]
+
+"Sam Klemke’s Time Machine" (Matthew Bate) [New Frontier]
+Justin Lowe 			http://www.hollywoodreporter.com/review/sam-klemke-s-time-machine-764206
+
+"Station to Station" (Doug Aitken) [New Frontier]
+
+"The Forbidden Room" (Guy Maddin, Evan Johnson) [New Frontier]
+
+"The Royal Road" (Jenni Olson) [New Frontier]
+Boyd van Hoeij   		http://www.hollywoodreporter.com/review/royal-road-sundance-review-765880
+
+"Things of the Aimless Wanderer" (Kivu Ruhorahoza) [New Frontier]
+
+Midnight
+
+"Cop Car" (Jon Watts, US) [Midnight]
+
+"Hellions" (Bruce McDonald, Can) [Midnight]
+
+"It Follows" (David Robert Mitchell, US) [Midnight]
+
+"Knock Knock" (Eli Roth, US) [Midnight]
+Eric Kohn		C 	http://www.indiewire.com/article/sundance-review-keanu-reeves-is-frantic-sex-victim-in-eli-roths-middling-sex-thriller-knock-knock-20150125
+
+"Reversal" (J.M. Cravioto, US) [Midnight]
+Leslie Felperin   	C 	http://www.hollywoodreporter.com/review/reversal-sundance-review-766650
+
+"The Hallow" (Corin Hardy, Ire/UK) [Midnight]
+
+"The Nightmare" (Rodney Ascher, US) [Midnight]
+
+"Turbo Kid" (Anouk Whissell, François Simard, Yoann-Karl Whissell, CAN/NZ) [Midnight]
+
+Spotlight
+
+"6 Desires: DH Lawrence and Sardinia" (Mark Cousins) [Spotlight]
+Brian Moylan        	4 	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-6-desires-dh-lawrence-mark-cousins
+
+"99 Homes" (Ramin Bahrani) [Spotlight]
+
+"Aloft" (Claudia Llosa) [Spotlight]
+
+"Eden" (Mia Hansen-Løve) [Spotlight]
+
+"Girlhood" (Céline Sciamma) [Spotlight]
+
+"The Tribe" (Myroslav Slaboshpytskiy) [Spotlight]
+
+"White God" (Kornél Mundruczó) [Spotlight]
+
+"Wild Tales" (Damián Szifrón) [Spotlight]
+
+Premieres
+
+"A Walk in the Woods" (Ken Kwapis) [Premieres]
+Todd McCarthy 			http://www.hollywoodreporter.com/review/a-walk-woods-sundance-review-766367
+
+"Brooklyn" (John Crowley) [Premieres]
+
+"Digging for Fire" (Joe Swanberg) [Premieres]
+
+"Don Verdean" (Jared Hess) [Premieres]
+
+"Experimenter" (Michael Almereyda) [Premieres]
+Jordan Hoffman        8    http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-the-experimenter-milgram-experiment-obedience
+
+"Grandma" (Paul Weitz) [Premieres]
+
+"I Am Michael" (Justin Kelly) [Premieres]
+Boyd van Hoeij  	C	http://www.hollywoodreporter.com/review/i-am-michael-sundance-review-766550
+Brian Moylan            4       http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-i-am-michael-james-franco
+
+"I'll See You in My Dreams" (Brett Haley) [Premieres]
+
+"Last Days in the Desert" (Rodrigo Garcia) [Premieres]
+
+"Lila & Eve" (Charles Stone III) [Premieres]
+
+"Mississippi Grind" (Ryan Fleck, Anna Boden) [Premieres]
+Rodrigo Perez 		C+	http://blogs.indiewire.com/theplaylist/sundance-review-ryan-fleck-and-anna-bodens-mississippi-grind-starring-ryan-reynolds-and-ben-mendelsohn-20150125
+David Rooney  		B	http://www.hollywoodreporter.com/review/ryan-reynolds-ben-mendelsohn-mississippi-766705
+
+"Mistress America" (Noah Baumbach) [Premieres]
+Rodrigo Perez 		B+	http://blogs.indiewire.com/theplaylist/sundance-review-noah-baumbachs-mistress-america-starring-lola-kirke-greta-gerwig-20150125
+Todd McCarthy   	B- 	http://www.hollywoodreporter.com/review/mistress-america-sundance-review-766742
+Jordan Hoffman        	8    	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-mistress-america-noah-baumbach-greta-gerwig
+
+"Seoul Searching" (Benson Lee) [Premieres]
+Justin Lowe 			http://www.hollywoodreporter.com/review/seoul-searching-sundance-review-765901
+
+"Sleeping With Other People" (Leslye Headland) [Premieres]
+Kate Erbland  		B+	http://blogs.indiewire.com/theplaylist/sundance-review-refreshingly-funny-romantic-sleeping-with-other-people-starring-alison-brie-and-jason-sudeikis-20150125
+Mike Ryan			http://uproxx.com/movies/2015/01/jason-sudeikis-sleeping-with-other-people-sundance/
+Leslie Felperin   		http://www.hollywoodreporter.com/review/sleeping-people-sundance-review-766746
+
+"Ten Thousand Saints" (Shari Springer Berman, Robert Pulcini) [Premieres]
+Katie Walsh		10	http://blogs.indiewire.com/theplaylist/sundance-review-ten-thousand-saints-20150124
+John DeFore 		9	http://www.hollywoodreporter.com/review/ten-thousand-saints-sundance-review-766612
+
+"The End Of The Tour" (James Ponsoldt) [Premieres]
+Rodrigo Perez 		B+	http://blogs.indiewire.com/theplaylist/sundance-review-james-ponsoldts-the-end-of-the-tour-starring-jason-segel-jesse-eisenbe
+David Rooney  			http://www.hollywoodreporter.com/review/end-tour-sundance-review-766523rg-20150124
+Jordan Hoffman        	6    	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-the-end-of-the-tour-jason-segel-david-foster-wallace
+
+"True Story" (Rupert Goold) [Premieres]
+Katie Walsh		B+	http://blogs.indiewire.com/theplaylist/sundance-review-true-story-starring-james-franco-jonah-hill-and-felicity-jones-20150124
+John DeFore   		http://www.hollywoodreporter.com/review/true-story-sundance-review-766504
+
+"Zipper" (Mora Stephens) [Premieres]
+
+
+Documentary Premieres
+
+"Fresh Dressed" (Sacha Jenkins) [Documentary Premieres]
+John DeFore      		http://www.hollywoodreporter.com/review/fresh-dressed-sundance-review-766656
+
+"Going Clear" (Alex Gibney) [Documentary Premieres]
+Josh Dickey 		  	http://mashable.com/2015/01/25/sundance-review-going-clear/
+Bilge Ebiri 		B+	http://www.vulture.com/2015/01/sundance-going-clear-is-a-jaw-dropping-expos.html
 Scott Foundas, Variety	B+	http://variety.com/2015/film/reviews/sundance-film-review-going-clear-scientology-the-prison-of-belief-1201414787/
 Eric Kohn, Indiewire	B+	http://www.indiewire.com/article/sundance-review-alex-gibneys-going-clear-is-a-shocking-overview-of-scientologys-demented-leadership-20150125
-Leslie Felperin, The Hollywood Reporter	http://www.hollywoodreporter.com/review/going-clear-scientology-prison-belief-767023
-Mike Ryan, Uproxx		http://uproxx.com/movies/2015/01/alex-gibney-going-clear-scientology-sundance/
+Leslie Felperin 		http://www.hollywoodreporter.com/review/going-clear-scientology-prison-belief-767023
+Mike Ryan			http://uproxx.com/movies/2015/01/alex-gibney-going-clear-scientology-sundance/
 
-"Dope" (Rick Famuyiwa)
-Josh Dickey (Mashable)  A	http://mashable.com/2015/01/24/dope-just-blew-up-sundance/
+"Kurt Cobain: Montage of Heck" (Brett Morgen) [Documentary Premieres]
+Boyd van Hoeij 		B-	http://www.hollywoodreporter.com/review/kurt-cobain-montage-heck-sundance-766524
 
-"Knock Knock" (Eli Roth)
-Eric Kohn (Indiewire)	C 	http://www.indiewire.com/article/sundance-review-keanu-reeves-is-frantic-sex-victim-in-eli-roths-middling-sex-thriller-knock-knock-20150125
+"Most Likely to Succeed" (Greg Whiteley) [Documentary Premieres]
 
-"Christmas, Again" (Charles Poekel)
-Jenni Miller (Playlist)	B-      http://blogs.indiewire.com/theplaylist/sundance-review-low-key-and-wistful-christmas-again-20150125
+"Prophet's Prey" (Amy Berg) [Documentary Premieres]
 
-"Being Evil" (Daniel Junge)
-Drew Taylor (Playlist)	B+       http://blogs.indiewire.com/theplaylist/sundance-review-evel-knievel-documentary-being-evel-is-a-death-defying-treat-20150126
+"The Black Panthers: Vanguard of the Revolution" (Stanley Nelson) [Documentary Premieres]
+John DeFore      		http://www.hollywoodreporter.com/review/black-panthers-vanguard-revolution-sundance-766314
 
-"I Smile Back" (Adam Salkey)
-Katie Walsh (Playlist)  B+       http://blogs.indiewire.com/theplaylist/sundance-review-sarah-silvermans-tremendous-performance-powers-addiction-drama-i-smile-back-20150126
-
-"Mississippi Grind" (Ryan Fleck, Anna Boden)
-Rodrigo Perez (Playlist) C+	http://blogs.indiewire.com/theplaylist/sundance-review-ryan-fleck-and-anna-bodens-mississippi-grind-starring-ryan-reynolds-and-ben-mendelsohn-20150125
-David Rooney, The Hollywood Reporter B	http://www.hollywoodreporter.com/review/ryan-reynolds-ben-mendelsohn-mississippi-766705
-
-"Dreamcatcher" (Kim Longinotto)
-Leslie Felperin, The Hollywood Reporter	B+	http://www.hollywoodreporter.com/review/dreamcatcher-sundance-review-766665
-
-"Sleeping With Other People" (Leslye Headland)
-Kate Erbland (Playlist)  B+	http://blogs.indiewire.com/theplaylist/sundance-review-refreshingly-funny-romantic-sleeping-with-other-people-starring-alison-brie-and-jason-sudeikis-20150125
-Mike Ryan, Uproxx		http://uproxx.com/movies/2015/01/jason-sudeikis-sleeping-with-other-people-sundance/
-Leslie Felperin, The Hollywood Reporter  http://www.hollywoodreporter.com/review/sleeping-people-sundance-review-766746
-
-"Cronies" (Michael J. Larnell)
-Jon Frosch, The Hollywood Reporter  B-	http://www.hollywoodreporter.com/review/cronies-sundance-review-765868
-
-"Western" (Ross Brothers)
-Katie Walsh (Playlist)   A-     http://blogs.indiewire.com/theplaylist/sundance-review-border-town-portrait-western-is-another-immersive-ross-brothers-experience-20150125
-Sheri Linden, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/western-sundance-review-764572
-
-"Nasty Baby" (Sebastian Silva)
-Todd McCarthy, The Hollywood Reporter	http://www.hollywoodreporter.com/review/nasty-baby-sundance-review-766816
-
-"The Overnight" (Patrick Brice)
-Katie Walsh (Playlist)	B+      http://blogs.indiewire.com/theplaylist/sundance-review-hysterically-funny-the-overnight-with-taylor-schilling-adam-scott-jason-schwartzman-20150125
-David Rooney, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/taylor-schilling-adam-scott-overnight-766530
-
-"Slow West" (John Maclean)
-Rodrigo Perez (Playlist) B+	http://blogs.indiewire.com/theplaylist/sundance-review-slow-west-starring-michael-fassbender-kodi-smit-mcphee-ben-mendelsohn-20150125
-John DeFore, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/slow-west-sundance-review-766737
-
-"Strangerland" (Kim Farrant)
-Jenni Miller (Playlist)	C-	http://blogs.indiewire.com/theplaylist/sundane-review-strangerland-starring-nicole-kidman-joseph-fiennes-and-hugo-weaving-20150125
-Boyd van Hoeij, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/strangerland-sundance-review-766522
-
-"Z For Zachariah" (Craig Zobel)
-Rodrigo Perez (Playlist) B-	http://blogs.indiewire.com/theplaylist/sundance-review-z-for-zachariah-starring-margot-robbie-chiwetel-eljiofor-chris-pine-20150125
-Todd McCarthy, The Hollywood Reporter	http://www.hollywoodreporter.com/review/z-zachariah-sundance-review-766723
-
-"Mistress America" (Noah Baumbach)
-Rodrigo Perez (Playlist) B+	http://blogs.indiewire.com/theplaylist/sundance-review-noah-baumbachs-mistress-america-starring-lola-kirke-greta-gerwig-20150125
-Todd McCarthy, The Hollywood Reporter  B-  http://www.hollywoodreporter.com/review/mistress-america-sundance-review-766742
-
-"Ten Thousand Saints" (Shari Springer Berman, Robert Pulcini)
-Katie Walsh (Playlist)	A	http://blogs.indiewire.com/theplaylist/sundance-review-ten-thousand-saints-20150124
-John DeFore, The Hollywood Reporter	A-  http://www.hollywoodreporter.com/review/ten-thousand-saints-sundance-review-766612
-
-"The Witch" (Robert Eggers)
-Rodrigo Perez (Playlist) A	http://blogs.indiewire.com/theplaylist/sundance-review-the-exquisite-holy-terror-of-the-witch-will-chill-your-bones-haunt-your-soul-20150124
-Todd McCarthy, The Hollywood Reporter	http://www.hollywoodreporter.com/review/witch-sundance-review-766073
-
-"The End Of The Tour" (James Ponsoldt)
-Rodrigo Perez (Playlist) B+	http://blogs.indiewire.com/theplaylist/sundance-review-james-ponsoldts-the-end-of-the-tour-starring-jason-segel-jesse-eisenbe
-David Rooney, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/end-tour-sundance-review-766523rg-20150124
+"The Hunting Ground" (Kirby Dick) [Documentary Premieres]
+Leslie Felperin 		http://www.hollywoodreporter.com/review/hunting-ground-sundance-review-766461
 
 
-"Stockholm, Pennsylvania" (Nikole Beckwith)
-Rodrigo Perez (Playlist) C	http://blogs.indiewire.com/theplaylist/sundance-review-stockholm-pennsylvania-starring-saoirse-ronan-cynthia-nixon-20150124
-David Rooney, The Hollywood Reporter	http://www.hollywoodreporter.com/review/saoirse-ronan-cynthia-nixon-stockholm-766608
-
-"James White" (Josh Mond)
-Rodrigo Perez (Playlist) B 	http://blogs.indiewire.com/theplaylist/review-james-white-starring-christopher-abbot-cynthia-nixon-is-a-bruising-portrait-of-self-destruction-20150123
-David Rooney, The Hollywood Reporter 	http://www.hollywoodreporter.com/review/christopher-abbott-cynthia-nixon-james-766076
-
-"Cartel Land" (Matthew Heineman)
-Katie Walsh (Playlist)	A-	http://blogs.indiewire.com/theplaylist/sundance-review-vibrant-electrifying-narco-wars-documentary-cartel-land-20150124
-
-"True Story" (Rupert Goold)
-Katie Walsh (Playlist)	B+	http://blogs.indiewire.com/theplaylist/sundance-review-true-story-starring-james-franco-jonah-hill-and-felicity-jones-20150124
-John DeFore, The Hollywood Reporter  http://www.hollywoodreporter.com/review/true-story-sundance-review-766504
-
-"Kurt Cobain: Montage of Heck" (Brett Morgen)
-Boyd van Hoeij, The Hollywood Reporter	B-	http://www.hollywoodreporter.com/review/kurt-cobain-montage-heck-sundance-766524
+"What Happened, Miss Simone" (Liz Garbus) [Documentary Premieres]
+Leslie Felperin 		http://www.hollywoodreporter.com/review/what-happened-miss-simone-sundance-766204
 
 
-"The Diary of a Teenage Girl" (Marielle Heller)
-Todd McCarthy, The Hollywood Reporter A-	http://www.hollywoodreporter.com/review/diary-a-teenage-girl-sundance-766658
+Other
 
-"The D Train" (Jarrad Paul, Andrew Mogel)
-Todd McCarthy, The Hollywood Reporter  B 	http://www.hollywoodreporter.com/review/d-train-sundance-review-766533
+"Shaun the Sheep Movie" (Mark Burton, Richard Starzack) [Other]
+Leslie Felperin 		http://www.hollywoodreporter.com/review/shaun-sheep-movie-sundance-review-766037
 
-"Fresh Dressed" (Sacha Jenkins)
-John DeFore, The Hollywood Reporter     http://www.hollywoodreporter.com/review/fresh-dressed-sundance-review-766656
 
-"Reversal" (J.M. Cravioto)
-Leslie Felperin, The Hollywood Reporter  C 	http://www.hollywoodreporter.com/review/reversal-sundance-review-766650
+EOF
 
-"Entertainment" (Rick Alverson)
-John DeFore, The Hollywood Reporter 	C- 	http://www.hollywoodreporter.com/review/entertainment-sundance-review-766614
+our @critics;
+$critics[0] = "
+Bilge Ebiri  (Vulture, US)
+Boyd van Hoeij  (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Damon Wise  (The Guardian, UK)
+David Ehrlich (Little White Lies, US)
+David Rooney  (The Hollywood Reporter, US)
+Drew Taylor  (The Playlist, US)
+Eric Kohn  (Indiewire, US)
+Jenni Miller  (The Playlist, US)
+John DeFore  (The Hollywood Reporter, US)
+Jon Frosch  (The Hollywood Reporter, US)
+Jordan Hoffman  (The Guardian, UK)
+Josh Dickey  (Mashable, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland  (The Playlist, US)
+Katie Walsh  (The Playlist, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Rodrigo Perez  (The Playlist, US)
+Sheri Linden  (The Hollywood Reporter, US)
+Todd McCarthy  (The Hollywood Reporter, US)
+Mike Ryan (Uproxx, US)
+David Ehrlich (Little White Lies, US)
+Vadim Rizov (Filmmaker Magazine, US)
+";
 
-"I Am Michael" (Justin Kelly)
-Boyd van Hoeij, The Hollywood Reporter C	http://www.hollywoodreporter.com/review/i-am-michael-sundance-review-766550
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Sundance2015.dat
 
-"Shaun the Sheep Movie" (Mark Burton, Richard Starzack)
-Leslie Felperin, The Hollywood Reporter		http://www.hollywoodreporter.com/review/shaun-sheep-movie-sundance-review-766037
+</pre>";
 
-"Sam Klemke’s Time Machine" (Matthew Bate)
-Justin Lowe, The Hollywood Reporter	http://www.hollywoodreporter.com/review/sam-klemke-s-time-machine-764206
-
-"Chorus" (Francois Delisle)
-Justin Lowe, The Hollywood Reporter	http://www.hollywoodreporter.com/review/chorus-sundance-review-762316
-
-"The Black Panthers: Vanguard of the Revolution"
-John DeFore, The Hollywood Reporter     http://www.hollywoodreporter.com/review/black-panthers-vanguard-revolution-sundance-766314
-
-"The Hunting Ground"
-Leslie Felperin, The Hollywood Reporter	http://www.hollywoodreporter.com/review/hunting-ground-sundance-review-766461
-
-"Seoul Searching"
-Justin Lowe, The Hollywood Reporter	http://www.hollywoodreporter.com/review/seoul-searching-sundance-review-765901
-
-"Sembene!"
-Todd McCarthy, The Hollywood Reporter	http://www.hollywoodreporter.com/review/sembene-sundance-review-765603
-
-"A Walk in the Woods"
-Todd McCarthy, The Hollywood Reporter	http://www.hollywoodreporter.com/review/a-walk-woods-sundance-review-766367
-
-"How to Change the World"
-Todd McCarthy, The Hollywood Reporter	http://www.hollywoodreporter.com/review/how-change-world-sundance-review-766087
-
-"The Royal Road"
-Boyd van Hoeij, The Hollywood Reporter  http://www.hollywoodreporter.com/review/royal-road-sundance-review-765880
-
-"What Happened, Miss Simone"
-Leslie Felperin, The Hollywood Reporter	http://www.hollywoodreporter.com/review/what-happened-miss-simone-sundance-766204
-
-"The Summer of Sangaile" (Alante Kavaite)
-Todd McCarthy, The Hollywood Reporter  B  http://www.hollywoodreporter.com/review/summer-sangaile-sundance-review-765614
-
-"The Bronze" (Bryan Buckley)
-Todd McCarthy, The Hollywood Reporter  C	http://www.hollywoodreporter.com/review/bronze-sundance-review-766158
-
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
