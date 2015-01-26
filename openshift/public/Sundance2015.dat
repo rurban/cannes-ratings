@@ -294,6 +294,14 @@ David Rooney  		B	http://www.hollywoodreporter.com/review/ryan-reynolds-ben-mend
 Rodrigo Perez 		B+	http://blogs.indiewire.com/theplaylist/sundance-review-noah-baumbachs-mistress-america-starring-lola-kirke-greta-gerwig-20150125
 Todd McCarthy   	B- 	http://www.hollywoodreporter.com/review/mistress-america-sundance-review-766742
 Jordan Hoffman        	8    	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-mistress-america-noah-baumbach-greta-gerwig
+Jason Bailey			http://flavorwire.com/501253/sundance-2015-baumbach-and-gerwigs-mistress-america-looks-behind-the-manic-pixie-dream-girl-mask
+David Ehrlich			http://www.timeout.com/us/film/mistress-america
+Gregory Ellwood			http://www.hitfix.com/in-contention/review-noah-baumbach-and-greta-gerwig-bring-comedic-fireworks-to-mistress-america
+Scott Foundas			http://variety.com/2015/film/reviews/sundance-film-review-mistress-america-1201414298/
+Jack Giroux (The Film Stage)	http://thefilmstage.com/reviews/sundance-review-mistress-america/
+Tim Grierson (Screen International)	http://www.screendaily.com/reviews/the-latest/mistress-america/5082186.article?blocktitle=Latest-Reviews&contentID=592
+Eric Kohn		B+	http://www.indiewire.com/article/sundance-review-noah-baumbach-and-greta-gerwigs-mistress-america-is-an-endearing-screwball-comedy-20150125
+Alison Willmore (BuzzFeed)	http://www.buzzfeed.com/alisonwillmore/two-sundance-premieres-feature-someone-whod-hate
 
 "Seoul Searching" (Benson Lee) [Premieres]
 Justin Lowe 			http://www.hollywoodreporter.com/review/seoul-searching-sundance-review-765901
@@ -327,7 +335,7 @@ John DeFore      		http://www.hollywoodreporter.com/review/fresh-dressed-sundanc
 "Going Clear" (Alex Gibney) [Documentary Premieres]
 Josh Dickey 		  	http://mashable.com/2015/01/25/sundance-review-going-clear/
 Bilge Ebiri 		B+	http://www.vulture.com/2015/01/sundance-going-clear-is-a-jaw-dropping-expos.html
-Scott Foundas, Variety	B+	http://variety.com/2015/film/reviews/sundance-film-review-going-clear-scientology-the-prison-of-belief-1201414787/
+Scott Foundas		B+	http://variety.com/2015/film/reviews/sundance-film-review-going-clear-scientology-the-prison-of-belief-1201414787/
 Eric Kohn		B+	http://www.indiewire.com/article/sundance-review-alex-gibneys-going-clear-is-a-shocking-overview-of-scientologys-demented-leadership-20150125
 Leslie Felperin 		http://www.hollywoodreporter.com/review/going-clear-scientology-prison-belief-767023
 Mike Ryan			http://uproxx.com/movies/2015/01/alex-gibney-going-clear-scientology-sundance/
@@ -367,7 +375,7 @@ Bilge Ebiri  (Vulture, US)
 Boyd van Hoeij  (The Hollywood Reporter, US)
 Brian Moylan  (The Guardian, UK)
 Damon Wise  (The Guardian, UK)
-David Ehrlich (Little White Lies, US)
+David Ehrlich (Time Out New York, US)
 David Rooney  (The Hollywood Reporter, US)
 Drew Taylor  (The Playlist, US)
 Eric Kohn  (Indiewire, US)
@@ -384,8 +392,10 @@ Rodrigo Perez  (The Playlist, US)
 Sheri Linden  (The Hollywood Reporter, US)
 Todd McCarthy  (The Hollywood Reporter, US)
 Mike Ryan (Uproxx, US)
-David Ehrlich (Little White Lies, US)
 Vadim Rizov (Filmmaker Magazine, US)
+Jason Bailey (Flavorwire, US)
+Gregory Ellwood (HitFix, US)
+Scott Foundas (Variety, US)
 ";
 
 our $FOOTER = "
