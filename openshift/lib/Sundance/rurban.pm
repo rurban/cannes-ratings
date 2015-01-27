@@ -29,13 +29,18 @@ sub _read {
   for my $c (@{$critics}) {
     for (split/\n/,$c) {
       undef $critic;
-      if (/^(\S.+) \((.+), (.+)\)/) {
+      if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
-      } elsif (/^(\S.+) \((.+)\)/) {
-	($critic,$mag,$cn) = ($1,'',$2);
+      } elsif (/^(\S.+) \((.+?)\)/) {
+        if (length($2) > 3) {
+          ($critic,$mag,$cn) = ($1,$2,'');
+        } else {
+          ($critic,$mag,$cn) = ($1,'',$2);
+        }
       }
       next unless $critic;
-      $critic{$critic}->{cn} = $cn if $cn;
+      $critic =~ s/\s+$//;
+      $critic{$critic}->{cn}  = $cn if $cn;
       $critic{$critic}->{mag} = $mag if $mag;
     }
   }
@@ -67,6 +72,7 @@ sub _read {
 	$critic =~ s/ +$//;
       }
       next unless $critic;
+      $critic =~ s/\s+$//;
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
       $title{$title}->{review}->{$critic} = $url if $url;
@@ -84,6 +90,7 @@ sub _read {
 	$critic =~ s/ +$//;
       }
       next unless $critic;
+      $critic =~ s/\s+$//;
       $title{$title}->{critic}->{$critic} = [];
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
@@ -415,7 +422,16 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      my $c = sprintf("%s (%s %s)", $_, $critic{$_}->{mag} ? $critic{$_}->{mag}."," : "", $critic{$_}->{cn});
+      my $c;
+      if ($critic{$_}->{mag}) {
+        $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
+      } else {
+        if ($critic{$_}->{cn}) {
+          $c = sprintf("%s (%s)", $_, $critic{$_}->{cn});
+        } else {
+          $c = $_;
+        }
+      }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
       $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td><a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a></td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
