@@ -497,13 +497,13 @@ our $HEADER = <<"EOF";
 <small>Collected and updated daily by Reini Urban.
 <br>
 <b>Ratings</b>:<br>
-0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
 Critics with stddev &gt;2.5: filtered out
 <i>(Filtered to help with inaccuracies with low numbers).</i><br>
 <b>Formatting</b>:<br>
 stddev &gt;2: <i>controversial (italic)</i>.<br>
 &lt;10 ratings: small.<br>
-Competition: <b>bold</b><br>
+US Dramatic Competition: <b>bold</b><br>
  <br>
 All sections updated daily. </small><p>
 
