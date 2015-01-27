@@ -281,7 +281,7 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
       $list .= _detail($t,$title{$t},\%critic);
     }
@@ -300,7 +300,7 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
       $list .= _detail($t,$title{$t},\%critic);
     }
@@ -358,11 +358,11 @@ sub _dump {
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
           : "[$ns]";
         if ($section{$section}->{$_}->[1]) {
-          $out .= sprintf("<tr><td>%2d.</td> <td>%s</td> <td>%s</td></tr>\n", $j++, $l, $detail);
+          $out .= sprintf("<tr><td>%2d.</td> <td>%s</td> <td class=r>%s</td></tr>\n", $j++, $l, $detail);
         } elsif ($title{$_}->{comment}) {
-	  $out .= "<tr><td> </td>    <td>$l</td> <td>$detail</td></tr>\n";
+	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>$detail</td></tr>\n";
         } else {
-	  $out .= "<tr><td> </td>    <td>$l</td> <td>[-]</td></tr>\n";
+	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>[-]</td></tr>\n";
         }
         if (_show_detail($i)) {
           $out .= _detail($_,$title{$_},\%critic);
@@ -395,8 +395,8 @@ sub _dump {
       $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
     }
     $out .= $n 
-      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
-      :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
+      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
+      :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
     if (_show_detail($i)) {
       $out .= _detail($t,$title{$t},\%critic,1);
     }
@@ -434,7 +434,7 @@ sub _dump {
       }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
-      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td><a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a></td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
+      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td class=r>[<a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a>]</td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
       if (_show_detail($i)) {
 	$out .= _critic_detail($_,$critic{$_});
       }
