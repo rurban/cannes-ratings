@@ -73,6 +73,7 @@ Carlos Aguilar		B+	http://blogs.indiewire.com/sydneylevine/sundance-review-the-o
 "The Stanford Prison Experiment" (Kyle Patrick Alvarez)  [U.S. Dramatic]
 Leslie Felperin 	B-	http://www.hollywoodreporter.com/review/stanford-prison-experiment-sundance-review-767468
 
+
 "The Witch" (Robert Eggers) [U.S. Dramatic]
 Rodrigo Perez       	A	http://blogs.indiewire.com/theplaylist/sundance-review-the-exquisite-holy-terror-of-the-witch-will-chill-your-bones-haunt-your-soul-20150124
 Todd McCarthy 			http://www.hollywoodreporter.com/review/witch-sundance-review-766073
@@ -107,6 +108,7 @@ Justin Lowe 			http://www.hollywoodreporter.com/review/chorus-sundance-review-76
 "Glassland" (Gerard Barrett, Ire) [World Dramatic]
 Brian Moylan        	6 	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-glassland-toni-collette-jack-reynor
 Boyd van Hoeij  	B	http://www.hollywoodreporter.com/review/glassland-sundance-review-767124
+Carlos Aguilar 		A	http://blogs.indiewire.com/sydneylevine/sundance-review-in-glassland-a-devoted-son-grapples-with-his-mothers-corrosive-addiction-20150126
 
 "Homesick" (Anne Sewitsky, Nor) [World Dramatic]
 
@@ -238,6 +240,7 @@ Todd McCarthy 			http://www.hollywoodreporter.com/review/nasty-baby-sundance-rev
 
 "Take Me to the River" (Matt Sobel) [NEXT]
 David Rooney 		B-	http://www.hollywoodreporter.com/review/take-me-river-sundance-review-766081
+Jordan Hoffman		4	http://www.theguardian.com/film/2015/jan/23/sundance-2015-review-take-me-to-the-river-film
 
 "Tangerine" (Sean Baker) [NEXT]
 David Rooney  	        B+	http://www.hollywoodreporter.com/review/tangerine-sundance-review-767066
@@ -331,6 +334,7 @@ Brian Moylan            4       http://www.theguardian.com/film/2015/jan/25/sund
 "Last Days in the Desert" (Rodrigo Garcia) [Premieres]
 Todd McCarthy   	B-  	http://www.hollywoodreporter.com/review/last-days-desert-sundance-review-767347
 Tim Grierson		B
+Jordan Hoffmann		8	http://www.theguardian.com/film/2015/jan/27/sundance-2015-review-last-days-in-the-desert-ewan-mcgregor
 
 "Lila & Eve" (Charles Stone III) [Premieres]
 
@@ -467,6 +471,23 @@ Tim Grierson (Screen International, Paste, Deadspin, US)
 Todd McCarthy  (The Hollywood Reporter, US)
 Vadim Rizov (Filmmaker Magazine, US)
 ";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily by Reini Urban.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Competition: <b>bold</b><br>
+ <br>
+All sections updated daily. </small><p>
+
+EOF
 
 our $FOOTER = "
 <pre>
