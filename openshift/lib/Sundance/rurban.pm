@@ -5,6 +5,7 @@ use Dancer ':syntax';
 use utf8;
 
 our $VERSION = '0.2';
+our $comp_section = 'U.S. Dramatic';
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -53,13 +54,12 @@ sub _read {
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
       $x = 10 if $x > 10; $x = 0 if $x < 0;
       $s += $x; $n++; undef $critic;
-      $url = $2;
       $url =~ s/^\s+// if $url;
       if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
 	($critic,$mag,$cn) = ($1,'',$2);
-      } elsif (/^(\S[^\(]+)\s+\d/) {
+      } elsif (/^(\S[^\(]+) \s+ (\d[\d\.]* | [ABCDEF][\+\-]?)/x) {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
@@ -167,7 +167,7 @@ sub _dump {
   my %title  = %{$_[1]};
   my @t = @{$_[2]};
   my @all = @t;
-  my @sections = ("U.S. Dramatic", "World Dramatic", "U.S. Documentaries", "World Documentaries",
+  my @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
                   "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres");
   my %sections = map{$_=>1} @sections;
   @t = sort {$b->[1] <=> $a->[1]} @t;
@@ -271,7 +271,7 @@ sub _dump {
     my $l = $title{$t}->{line};
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
-    $l="<b>$l</b>" if $title{$t}->{section} eq 'U.S. Dramatic';
+    $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
@@ -290,7 +290,7 @@ sub _dump {
     my $l=$title{$t}->{line};
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
-    $l="<b>$l</b>" if $title{$t}->{section} eq 'U.S. Dramatic';
+    $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
@@ -378,8 +378,8 @@ sub _dump {
     next unless $t;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
     $l="<i>$l</i>" if $s>=2.0;
-    if ($l =~ / \[U\.S\. Dramatic\]/) { 
-      $l =~ s/ \[U\.S\. Dramatic\]//; $l="<b>$l</b>";
+    if ($l =~ / \[\Q$comp_section\E\]/) { 
+      $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
     } else { $l =~ s/ \[[\w ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
     if ($six and $n and $a<6.0){
