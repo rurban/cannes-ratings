@@ -6,6 +6,9 @@ use utf8;
 
 our $VERSION = '0.2';
 our $comp_section = 'U.S. Dramatic';
+our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
+                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres",
+                 "Slamdance");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -167,8 +170,6 @@ sub _dump {
   my %title  = %{$_[1]};
   my @t = @{$_[2]};
   my @all = @t;
-  my @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
-                  "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres");
   my %sections = map{$_=>1} @sections;
   @t = sort {$b->[1] <=> $a->[1]} @t;
   for (@t) {
