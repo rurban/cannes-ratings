@@ -190,16 +190,10 @@ border-collapse: collapse;
 }
 #list tr {
 vertical-align: text-top;
-}
-#list td.last {
-text-align: right;
-float: right;
-white-space: nowrap;
+margin-bottom: 0;
 }
 td.r {
 text-align: right;
-float: right;
-white-space: nowrap;
 }
 td.detail {
 background-color: #ffd;
