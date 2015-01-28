@@ -5,7 +5,7 @@ package Sundance::rurban::2015; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-U.S. Dramatic
+U.S. DRAMATIC
 
 "Advantageous" (Jennifer Phang) [U.S. Dramatic]
 
@@ -76,6 +76,8 @@ Mike d'Angelo		6.8	http://thedissolve.com/features/postcards-from-sundance/894-d
 "The Stanford Prison Experiment" (Kyle Patrick Alvarez)  [U.S. Dramatic]
 Leslie Felperin 	B-	http://www.hollywoodreporter.com/review/stanford-prison-experiment-sundance-review-767468
 Noel Murray		C	http://thedissolve.com/features/postcards-from-sundance/897-day-5-hitting-home/
+A.A. Dowd		B+	http://www.avclub.com/article/sundance-2015-day-5-experiments-pariahs-and-worlds-214428
+Edward Douglas		7.5	http://www.comingsoon.net/movies/features/403479-sundance-film-festival-diary-day-5
 
 
 "The Witch" (Robert Eggers) [U.S. Dramatic]
@@ -83,6 +85,14 @@ Rodrigo Perez       	A	http://blogs.indiewire.com/theplaylist/sundance-review-th
 Todd McCarthy 			http://www.hollywoodreporter.com/review/witch-sundance-review-766073
 Jordan Hoffman    	8	http://www.theguardian.com/film/2015/jan/23/the-witch-review-robert-eggers-sundance-festival-2015
 Mike d'Angelo		7.5	http://thedissolve.com/features/postcards-from-sundance/892-day-2-witching-and-bitching/
+Drew McWeeny		A	http://www.hitfix.com/motion-captured/review-the-witch-offers-up-a-singular-upsetting-vision-of-a-family-imploding
+David Ehrlich		A	http://www.timeout.com/us/film/the-witch
+Kyle Smith		A-	http://nypost.com/2015/01/23/the-eerie-witch-leaves-plenty-of-haunts-and-chills/
+Jordan Raup		B	http://thefilmstage.com/reviews/sundance-review-the-witch/
+A.A. Dowd		B	http://www.avclub.com/article/sundance-2015-day-one-vulgar-opening-night-comedy--214294
+Eric Kohn		A-	http://www.indiewire.com/article/sundance-review-the-witch-is-a-uniquely-spooky-discovery-20150123
+Alissa Wilkinson	A
+Tim Grierson		A-
 
 "Unexpected" (Kris Swanberg)  [U.S. Dramatic]
 David Rooney		B	http://www.hollywoodreporter.com/review/cobie-smulders-unexpected-sundance-review-767490
@@ -103,8 +113,11 @@ Neil Miller   		B
 A.A. Dowd   		B-    	http://www.avclub.com/article/sundance-2015-day-2-jason-segel-plays-david-foster-214302
 Eric Childress		C+
 Tim Grierson		B+
+Kyle Smith		D+	http://nypost.com/2015/01/27/z-for-zachariah-is-a-post-apocalyptic-snoozefest/
+Joe Bendel		C-	http://www.libertasfilmmagazine.com/lfm-reviews-z-for-zachariah-the-2015-sundance-film-festival/
 
-World Dramatic
+
+WORLD DRAMATIC
 
 "Chorus" (Francois Delisle, Can) [World Dramatic]
 Justin Lowe 			http://www.hollywoodreporter.com/review/chorus-sundance-review-762316
@@ -117,6 +130,8 @@ Boyd van Hoeij  	B	http://www.hollywoodreporter.com/review/glassland-sundance-re
 Carlos Aguilar 		A	http://blogs.indiewire.com/sydneylevine/sundance-review-in-glassland-a-devoted-son-grapples-with-his-mothers-corrosive-addiction-20150126
 
 "Homesick" (Anne Sewitsky, Nor) [World Dramatic]
+Jake Jacobson		C
+Tim Grierson		B
 
 "Ivy" (Tolga Karaçelik, Turkey) [World Dramatic]
 
@@ -145,7 +160,8 @@ Mike d'Angelo		5.1	http://thedissolve.com/features/postcards-from-sundance/892-d
 
 "Umrika" (Prashant Nair, Ind)
 
-U.S. Documentaries
+
+U.S. DOCUMENTARIES
 
 "3½ Minutes" (Marc Silver) [U.S. Documentaries]
 Brian Moylan        	8 	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-three-half-minutes-jordan-davis-gun-control
@@ -155,6 +171,9 @@ Drew Taylor		B+	http://blogs.indiewire.com/theplaylist/sundance-review-evel-knie
 
 "Best of Enemies" (Morgan Neville, Robert Gordon) [U.S. Documentaries]
 Jordan Hoffman        	8    	http://www.theguardian.com/film/2015/jan/23/sundance-2015-best-of-enemies-first-look-review
+Kyle Smith		B+	http://nypost.com/2015/01/25/best-of-enemies-gives-backstory-behind-vidal-buckley-debates/
+Joe Leydon		A+	http://variety.com/2015/film/reviews/review-best-of-enemies-1201413030/
+Alissa Wilkinson       	A
 
 "Call Me Lucky" (Bobcat Goldhwait) [U.S. Documentaries]
 
@@ -162,6 +181,7 @@ Jordan Hoffman        	8    	http://www.theguardian.com/film/2015/jan/23/sundanc
 Katie Walsh		A-	http://blogs.indiewire.com/theplaylist/sundance-review-vibrant-electrifying-narco-wars-documentary-cartel-land-20150124
 
 "City of Gold" (Laura Gabbert) [U.S. Documentaries]
+Stephen Saito		A-	http://moveablefest.com/moveable_fest/2015/01/jonathan-gold-city-of-gold.html
 
 "Finders Keepers" (Bryan Carberry, Clay Tweel) [U.S. Documentaries]
 
@@ -181,6 +201,7 @@ Leslie Felperin 		http://www.hollywoodreporter.com/review/hot-girls-wanted-sunda
 "The Wolfpack" (Crystal Moselle) [U.S. Documentaries]
 John DeFore 	        	http://www.hollywoodreporter.com/review/wolfpack-sundance-review-767014
 Noel Murray			http://thedissolve.com/features/postcards-from-sundance/897-day-5-hitting-home/
+Wesley Morris			http://grantland.com/hollywood-prospectus/sundance-diary-day-5-shut-ins-gamblers-and-greta-gerwig/
 
 "Welcome to Leith" (Michael Beach Nichols, Christopher K. Walker) [U.S. Documentaries]
 
@@ -189,11 +210,15 @@ Katie Walsh   		A-	http://blogs.indiewire.com/theplaylist/sundance-review-border
 Sheri Linden  			http://www.hollywoodreporter.com/review/western-sundance-review-764572
 Stephen Saito		A-	http://moveablefest.com/moveable_fest/2015/01/bill-turner-ross-western.html
 
-World Documentaries
+WORLD DOCUMENTARIES
 
 "Censored Voices" (Mor Loushy, Isr) [World Documentaries]
 
 "Chuck Norris vs Communism" (Ilinca Calugareanu, Rom) [World Documentaries]
+Kyle Smith		B	http://nypost.com/2015/01/25/how-chuck-norris-defeated-communism/
+Joe Bendel		A	http://www.libertasfilmmagazine.com/lfm-reviews-chuck-norris-vs-communism-the-2015-sundance-film-festival/
+Jordan Hoffman        	C    	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-chuck-norris-vs-communism-the-real-battle-is-against-boredom
+David Ehrlich		B-	http://www.timeout.com/us/film/chuck-norris-vs-communism
 
 "Dark Horse" (Louise Osmond, UK) [World Documentaries]
 Boyd van Hoeij  	B-	http://www.hollywoodreporter.com/review/dark-horse-sundance-review-766528
@@ -207,6 +232,7 @@ Todd McCarthy 			http://www.hollywoodreporter.com/review/how-change-world-sundan
 "Listen to Me Marlon" (Stevan Riley) [World Documentaries]
 
 "Pervert Park" (Frida Barkfors, Lasse Barkfors, Swe/Den) [World Documentaries]
+A.A. Dowd		B+	http://www.avclub.com/article/sundance-2015-day-5-experiments-pariahs-and-worlds-214428
 
 "Sembene!" (Samba Gadjigo, Jason Silverman, USA/Sen) [World Documentaries]
 Todd McCarthy 			http://www.hollywoodreporter.com/review/sembene-sundance-review-765603
@@ -215,6 +241,10 @@ Todd McCarthy 			http://www.hollywoodreporter.com/review/sembene-sundance-review
 Jordan Hoffman        	4  	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-the-amina-profile-a-cautionary-catfish-tale
 Don Simpson		B	http://smellslikescreenspirit.com/2015/01/amina-profile-the-sundance-review/
 Noel Murray			http://thedissolve.com/features/postcards-from-sundance/891-day-1-yesterday-and-tomorrow/
+Joe Bendel		C-	http://www.libertasfilmmagazine.com/lfm-reviews-the-amina-profile-the-2015-sundance-film-festival/
+Christopher Campbell 	B+	http://nonfics.com/the-amina-profile-review/
+Jordan Hoffman		C	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-the-amina-profile-a-cautionary-catfish-tale
+Don Simpson		B	http://smellslikescreenspirit.com/2015/01/amina-profile-the-sundance-review/
 
 "The Chinese Mayor" (Hao Zhou, Chi)  [World Documentaries]
 
@@ -261,7 +291,8 @@ Neil Miller		D
 
 "The Strongest Man" (Kenny Riches) [NEXT]
 
-New Frontier
+
+NEW FRONTIER
 
 "LIVEFOREVER Liveforever" (Carlos Moreno) [New Frontier]
 
@@ -274,30 +305,42 @@ Justin Lowe 			http://www.hollywoodreporter.com/review/sam-klemke-s-time-machine
 
 "The Royal Road" (Jenni Olson) [New Frontier]
 Boyd van Hoeij   		http://www.hollywoodreporter.com/review/royal-road-sundance-review-765880
+Jake Jacobson		B
+Christopher Campbell	B+	http://nonfics.com/the-royal-road-review/
+Don Simpson		B	http://smellslikescreenspirit.com/2015/01/royal-road-the-sundance-review/
+Jordan M. Smith		B	http://www.ioncinema.com/reviews/the-royal-road-review
 
 "Things of the Aimless Wanderer" (Kivu Ruhorahoza) [New Frontier]
 
-Midnight
+
+MIDNIGHT
 
 "Cop Car" (Jon Watts, US) [Midnight]
 
 "Hellions" (Bruce McDonald, Can) [Midnight]
 
 "It Follows" (David Robert Mitchell, US) [Midnight]
+  See http://cannes-rurban.rhcloud.com/index.pl/2014?t=23#23 for Cannes [6.68/10 0.6]
+Joe Bendel		A	http://www.libertasfilmmagazine.com/lfm-reviews-it-follows-the-2015-sundance-film-festival/
+Hemanth Kissoon		A-	http://www.filmaluation.com/it-follows.html
 
 "Knock Knock" (Eli Roth, US) [Midnight]
 Eric Kohn		C 	http://www.indiewire.com/article/sundance-review-keanu-reeves-is-frantic-sex-victim-in-eli-roths-middling-sex-thriller-knock-knock-20150125
+A.A. Dowd		B-	http://www.avclub.com/article/sundance-2015-day-5-experiments-pariahs-and-worlds-214428
 
 "Reversal" (J.M. Cravioto, US) [Midnight]
 Leslie Felperin   	C 	http://www.hollywoodreporter.com/review/reversal-sundance-review-766650
+Joe Bendel   		B+	http://www.libertasfilmmagazine.com/lfm-reviews-chuck-norris-vs-communism-the-2015-sundance-film-festival/
 
 "The Hallow" (Corin Hardy, Ire/UK) [Midnight]
 
 "The Nightmare" (Rodney Ascher, US) [Midnight]
+A.A. Dowd		B+	http://www.avclub.com/article/sundance-2015-day-5-experiments-pariahs-and-worlds-214428
 
 "Turbo Kid" (Anouk Whissell, François Simard, Yoann-Karl Whissell, CAN/NZ) [Midnight]
 
-Spotlight
+
+SPOTLIGHT
 
 "6 Desires: DH Lawrence and Sardinia" (Mark Cousins) [Spotlight]
 Brian Moylan        	4 	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-6-desires-dh-lawrence-mark-cousins
@@ -309,7 +352,10 @@ Brian Moylan        	4 	http://www.theguardian.com/film/2015/jan/24/sundance-201
 "Eden" (Mia Hansen-Løve) [Spotlight]
 
 "Girlhood" (Céline Sciamma) [Spotlight]
+  See http://cannes-rurban.rhcloud.com/index.pl/2014?t=97#97 [5.98/30 1.8]]
 Mike d'Angelo			http://thedissolve.com/reviews/1344-girlhood/
+Kent Turner		C
+Don Simpson		A
 
 "The Tribe" (Myroslav Slaboshpytskiy) [Spotlight]
 
@@ -317,10 +363,12 @@ Mike d'Angelo			http://thedissolve.com/reviews/1344-girlhood/
 
 "Wild Tales" (Damián Szifrón) [Spotlight]
 
-Premieres
+PREMIERES
 
 "A Walk in the Woods" (Ken Kwapis) [Premieres]
 Todd McCarthy 			http://www.hollywoodreporter.com/review/a-walk-woods-sundance-review-766367
+Alissa Wilkinson	C-
+Kyle Smith		D+	http://nypost.com/2015/01/23/this-walk-in-the-woods-doesnt-have-much-to-offer/
 
 "Brooklyn" (John Crowley) [Premieres]
 Todd McCarthy 		A-	http://www.hollywoodreporter.com/review/brooklyn-sundance-review-767488
@@ -328,19 +376,27 @@ Noel Murray		A	http://thedissolve.com/features/postcards-from-sundance/897-day-5
 
 "Digging for Fire" (Joe Swanberg) [Premieres]
 John DeFore  	    	B	http://www.hollywoodreporter.com/review/digging-fire-sundance-review-767449
+Edward Douglas		6	http://www.comingsoon.net/movies/features/403479-sundance-film-festival-diary-day-5
 
 "Don Verdean" (Jared Hess) [Premieres]
 
 "Experimenter" (Michael Almereyda) [Premieres]
 Jordan Hoffman   	8 	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-the-experimenter-milgram-experiment-obedience
 Mike d'Angelo		5.9	https://twitter.com/gemko/status/559886148357468160
+A.A. Dowd		B-	http://www.avclub.com/article/sundance-2015-day-5-experiments-pariahs-and-worlds-214428
 
 "Grandma" (Paul Weitz) [Premieres]
 David Rooney 		B	http://www.hollywoodreporter.com/review/lily-tomlin-grandma-sundance-review-767349
+Edward Douglas		7	http://www.comingsoon.net/movies/features/403479-sundance-film-festival-diary-day-5
 
 "I Am Michael" (Justin Kelly) [Premieres]
 Boyd van Hoeij  	C	http://www.hollywoodreporter.com/review/i-am-michael-sundance-review-766550
 Brian Moylan            4       http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-i-am-michael-james-franco
+Jordan Raup		B-	http://thefilmstage.com/reviews/sundance-review-i-am-michael/
+Katie Walsh		C+	http://blogs.indiewire.com/theplaylist/sundance-review-gus-van-sant-produced-i-am-michael-starring-james-franco-and-zachary-quinto-20150127
+Drew McWeeny		C+	http://www.hitfix.com/motion-captured/review-james-franco-is-the-right-guy-to-play-gay-or-not-in-true-story-i-am-michael
+Eric Kohn		B+	http://www.indiewire.com/article/sundance-review-james-franco-excels-in-fascinating-provocative-look-at-ex-gay-activist-michael-glatze-20150124
+Alissa Wilkinson	B-
 
 "I'll See You in My Dreams" (Brett Haley) [Premieres]
 
@@ -348,6 +404,8 @@ Brian Moylan            4       http://www.theguardian.com/film/2015/jan/25/sund
 Todd McCarthy   	B-  	http://www.hollywoodreporter.com/review/last-days-desert-sundance-review-767347
 Tim Grierson		B
 Jordan Hoffman		8	http://www.theguardian.com/film/2015/jan/27/sundance-2015-review-last-days-in-the-desert-ewan-mcgregor
+Jordan Raup		B	http://thefilmstage.com/reviews/sundance-review-last-days-in-the-desert/
+Alissa Wilkinson	A-
 
 "Lila & Eve" (Charles Stone III) [Premieres]
 
@@ -355,6 +413,11 @@ Jordan Hoffman		8	http://www.theguardian.com/film/2015/jan/27/sundance-2015-revi
 Rodrigo Perez 		C+	http://blogs.indiewire.com/theplaylist/sundance-review-ryan-fleck-and-anna-bodens-mississippi-grind-starring-ryan-reynolds-and-ben-mendelsohn-20150125
 David Rooney  		B	http://www.hollywoodreporter.com/review/ryan-reynolds-ben-mendelsohn-mississippi-766705
 Mike d'Angelo		6.0	http://thedissolve.com/features/postcards-from-sundance/894-day-4-discomfort-comedy/
+Kyle Smith             	B    	http://nypost.com/2015/01/25/the-uneven-addiction-drama-mississippi-grind/
+A.A. Dowd             	B    	http://www.avclub.com/article/sundance-2015-day-4-festivals-big-breakout-soulful-214356
+Jordan Hoffman		B+	http://www.theguardian.com/film/2015/jan/25/sundance-2015-review-mississippi-grind
+Jordan Raup		B-	http://thefilmstage.com/reviews/sundance-review-mississippi-grind/
+Wesley Morris			http://grantland.com/hollywood-prospectus/sundance-diary-day-5-shut-ins-gamblers-and-greta-gerwig/
 
 "Mistress America" (Noah Baumbach) [Premieres]
 Rodrigo Perez 		B+	http://blogs.indiewire.com/theplaylist/sundance-review-noah-baumbachs-mistress-america-starring-lola-kirke-greta-gerwig-20150125
@@ -372,9 +435,14 @@ A.A. Dowd 		B-	http://www.avclub.com/article/sundance-2015-day-3-noah-baumbach-a
 Kate Erbland		B	http://filmschoolrejects.com/reviews/mistress-america.php
 Eric Kohn		B+	http://www.indiewire.com/article/sundance-review-noah-baumbach-and-greta-gerwigs-mistress-america-is-an-endearing-screwball-comedy-20150125
 Mike d'Angelo		5.7	http://thedissolve.com/features/postcards-from-sundance/894-day-4-discomfort-comedy/
+Kyle Smith             	B+    	http://nypost.com/2015/01/25/greta-gerwig-was-noah-baumbachs-muse-for-mistress-america/
+David Ehrlich          	A    	http://www.timeout.com/us/film/mistress-america
+Wesley Morris			http://grantland.com/hollywood-prospectus/sundance-diary-day-5-shut-ins-gamblers-and-greta-gerwig/
+
 
 "Seoul Searching" (Benson Lee) [Premieres]
 Justin Lowe 			http://www.hollywoodreporter.com/review/seoul-searching-sundance-review-765901
+Joe Bendel		B+	http://www.libertasfilmmagazine.com/lfm-reviews-seoul-searching-the-2015-sundance-film-festival/
 
 "Sleeping With Other People" (Leslye Headland) [Premieres]
 Kate Erbland  		B+	http://blogs.indiewire.com/theplaylist/sundance-review-refreshingly-funny-romantic-sleeping-with-other-people-starring-alison-brie-and-jason-sudeikis-20150125
@@ -392,15 +460,27 @@ John DeFore 		9	http://www.hollywoodreporter.com/review/ten-thousand-saints-sund
 Rodrigo Perez 		B+	http://blogs.indiewire.com/theplaylist/sundance-review-james-ponsoldts-the-end-of-the-tour-starring-jason-segel-jesse-eisenbe
 David Rooney  			http://www.hollywoodreporter.com/review/end-tour-sundance-review-766523rg-20150124
 Jordan Hoffman        	6    	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-the-end-of-the-tour-jason-segel-david-foster-wallace
+Alissa Wilkinson	A
+Kate Erbland		A	http://filmschoolrejects.com/reviews/the-end-of-the-tour.php
+Joshua Rothkopf		B+	http://www.timeout.com/us/film/the-end-of-the-tour
+Kyle Smith		A	http://nypost.com/2015/01/24/david-foster-wallace-film-is-moving-profound/
+A.A. Dowd		A-	http://www.avclub.com/article/sundance-2015-day-2-jason-segel-plays-david-foster-214302
 
 "True Story" (Rupert Goold) [Premieres]
 Katie Walsh		B+	http://blogs.indiewire.com/theplaylist/sundance-review-true-story-starring-james-franco-jonah-hill-and-felicity-jones-20150124
-John DeFore   		http://www.hollywoodreporter.com/review/true-story-sundance-review-766504
+John DeFore   			http://www.hollywoodreporter.com/review/true-story-sundance-review-766504
+Jordan Hoffman        	B-    	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-true-story-jonah-hill-and-james-franco-cant-handle-it
+Kyle Smith             	D+    	http://nypost.com/2015/01/23/true-story-fails-to-make-an-impression/
+Kate Erbland		B	http://filmschoolrejects.com/reviews/true-story.php
+Jordan Raup		C+	http://thefilmstage.com/reviews/sundance-review-true-story/
+Katie Walsh		B+	http://blogs.indiewire.com/theplaylist/sundance-review-true-story-starring-james-franco-jonah-hill-and-felicity-jones-20150124
+Alissa Wilkinson	B-
+Edward Douglas		8.5	http://www.comingsoon.net/movies/features/403479-sundance-film-festival-diary-day-5
 
 "Zipper" (Mora Stephens) [Premieres]
 
 
-Documentary Premieres
+DOCUMENTARY PREMIERES
 
 "Fresh Dressed" (Sacha Jenkins) [Documentary Premieres]
 John DeFore      		http://www.hollywoodreporter.com/review/fresh-dressed-sundance-review-766656
@@ -434,9 +514,14 @@ Frank Scheck		D	http://www.hollywoodreporter.com/review/mask-you-live-sundance-r
 "What Happened, Miss Simone" (Liz Garbus) [Documentary Premieres]
 Leslie Felperin 		http://www.hollywoodreporter.com/review/what-happened-miss-simone-sundance-766204
 Noel Murray			http://thedissolve.com/features/postcards-from-sundance/891-day-1-yesterday-and-tomorrow/
+Joe Bendel		A-	http://www.libertasfilmmagazine.com/lfm-reviews-netflixs-what-happened-miss-simone-the-2015-sundance-film-festival/
+Alissa Wilkinson	B
+Jordan Hoffman		B-	http://www.theguardian.com/film/2015/jan/23/sundance-2015-first-look-review-what-happened-miss-simone-liz-garbus-nina-simone
+Kyle Smith		B	http://nypost.com/2015/01/23/nina-simones-complex-life-riveting-in-new-netflix-documentary/
+Tim Grierson		C+
 
 
-Other
+OTHER
 
 "Shaun the Sheep Movie" (Mark Burton, Richard Starzack) [Other]
 Leslie Felperin 		http://www.hollywoodreporter.com/review/shaun-sheep-movie-sundance-review-766037
@@ -467,10 +552,12 @@ our @critics;
 $critics[0] = "
 A.A. Dowd (The A.V. Club, US)
 Alison Willmore (BuzzFeed, US)
+Alissa Wilkinson (Christianity Today, US)
 Bilge Ebiri  (Vulture, US)
 Boyd van Hoeij (The Hollywood Reporter, US)
 Brian Moylan  (The Guardian, UK)
 Carlos Aguilar (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
 Damon Wise  (The Guardian, UK)
 Daniel Mecca (The Film Stage, US)
 David Ehrlich (Time Out New York, US)
@@ -479,18 +566,23 @@ Dennis Harvey (Variety, US)
 Don Simpson (Smells Like Screen Spirit, US)
 Drew McWeeny (HitFix, US)
 Drew Taylor  (The Playlist, US)
+Edward Douglas (Comingsoon.net, US)
 Eric Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
 Eric Kohn  (Indiewire, US)
 Frank Scheck (The Hollywood Reporter, US)
 Gregory Ellwood (HitFix, US)
+Hemanth Kissoon (Filmaluation, US)
 Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
 Jason Bailey (Flavorwire, US)
 Jenni Miller  (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
 Joe Leydon (Variety, US)
 John DeFore  (The Hollywood Reporter, US)
 Jon Frosch  (The Hollywood Reporter, US)
 Jordan Hoffman (The Guardian, US)
 Jordan Raup  (The Film Stage, US)
+Jordan M. Smith (IONCINEMA.com)
 Josh Dickey  (Mashable, US)
 Joshua Rothkopf (Time Out New York, Penthouse, US)
 Justin Lowe  (The Hollywood Reporter, US)
