@@ -436,7 +436,7 @@ SPOTLIGHT
 "'71" (Yann Demange, Ire) [Spotlight]
 Tim Robey 	    B+	http://www.telegraph.co.uk/culture/film/filmreviews/11151420/71-review-blindingly-strong.html
 Ben Kenigsberg 	    B	http://www.avclub.com/article/examining-years-lineup-new-york-film-festival-209442
-Ben Smith 	    B	http://www.shelfheroes.com/2014/10/lff-2014-71-movie-film-review.html
+ #Ben Smith 	    8	http://www.shelfheroes.com/2014/10/lff-2014-71-movie-film-review.html
 Joe Bendel  	    B	http://www.libertasfilmmagazine.com/lfm-reviews-%E2%80%9971-the-new-york-film-festival/
 Kate Erbland  	    B	http://filmschoolrejects.com/reviews/71-review.php
 Eric Kohn 	    A-	http://www.indiewire.com/article/berlin-review-full-metal-jacket-meets-high-noon-in-tense-wartime-action-drama-71-starring-jack-oconnell
@@ -713,8 +713,10 @@ Adam Chitwood (Collider, US)
 Alex Billington (FirstShowing.net)
 Alison Willmore (BuzzFeed, US)
 Alissa Wilkinson (Christianity Today, US)
+Anne Thompson (Indiewire, USA)
 Anthony Kaufman (Screen International, US)
 Ben Kenigsberg (Variety, US)
+Ben Smith (UK)
 Bilge Ebiri  (Vulture, US)
 Blake Williams (Cinema Scope, Canada)
 Boyd van Hoeij (The Hollywood Reporter, US)
@@ -742,13 +744,14 @@ Jack Giroux (The Film Stage, US)
 Jake Jacobson (Westwood One, MovieJake, US)
 Jason Bailey (Flavorwire, US)
 Jenni Miller  (The Playlist, US)
+Jessica Kiang (The Playlist, USA)
 Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
 Joe Leydon (Variety, US)
 John DeFore  (The Hollywood Reporter, US)
 Jon Frosch  (The Hollywood Reporter, US)
 Jordan Hoffman (The Guardian, US)
 Jordan Raup  (The Film Stage, US)
-Jordan M. Smith (IONCINEMA.com, US
+Jordan M. Smith (IONCINEMA.com, US)
 Josh Dickey  (Mashable, US)
 Joshua Rothkopf (Time Out New York, Penthouse, US)
 Justin Chang (Variety, US)
@@ -778,6 +781,7 @@ Sean P. Means (The Salt Lake Tribune, US)
 Sheri Linden  (The Hollywood Reporter, US)
 Stephen Saito (The Moveable Fest, US)
 Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
 Todd McCarthy  (The Hollywood Reporter, US)
 Vadim Rizov (Filmmaker Magazine, US)
 ";
