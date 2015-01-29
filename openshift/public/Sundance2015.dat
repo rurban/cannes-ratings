@@ -8,12 +8,15 @@ our $DATA= <<'EOF';
 U.S. DRAMATIC
 
 "Advantageous" (Jennifer Phang) [U.S. Dramatic]
+Mike d'Angelo	    5.7	https://twitter.com/gemko/status/560148588022337537
 
 "Dope" (Rick Famuyiwa) [U.S. Dramatic]
 Josh Dickey	    A	http://mashable.com/2015/01/24/dope-just-blew-up-sundance/
 Mike d'Angelo	    6.5	http://thedissolve.com/features/postcards-from-sundance/894-day-4-discomfort-comedy/
 Tim Grierson	    A-	http://www.screendaily.com/reviews/the-latest/dope/5082254.article?blocktitle=The-Latest&contentID=598
 Sean P. Means	    10	http://www.sltrib.com/blogs/sundance/2098967-155/sundance-15-review-dope
+Blake Williams	    3.9	https://twitter.com/Astrostic/status/560548170925477888
+Wesley Morris	    	http://grantland.com/hollywood-prospectus/sundance-diary-exploitation-blues/
 
 "I Smile Back" (Adam Salkey) [U.S. Dramatic]
 Katie Walsh  	    B+	http://blogs.indiewire.com/theplaylist/sundance-review-sarah-silvermans-tremendous-performance-powers-addiction-drama-i-smile-back-20150126
@@ -32,6 +35,7 @@ Neil Miller	    A
 Edward Douglas	    9	http://www.comingsoon.net/movies/features/402985-sundance-film-festival-diary-day-4
 Peter Debruge	    9	http://variety.com/2015/film/reviews/sundance-film-review-me-and-earl-and-the-dying-girl-1201414455/
 Sean P. Means	    9	http://www.sltrib.com/blogs/sundance/2099950-155/sundance-15-review-me-and-earl
+Mike d'Angelo	    	https://twitter.com/gemko/status/559542955334066176
 
 "People, Places, Things" (Jim Strouse) [U.S. Dramatic]
 Todd McCarthy       B  	http://www.hollywoodreporter.com/review/people-places-things-sundance-review-767444
@@ -43,6 +47,8 @@ Blake Williams	    5.8	https://twitter.com/Astrostic/status/560333467528216576
 Alissa Wilkinson	https://twitter.com/alisonwillmore/status/560196713265119232
 Anthony Kaufman	    B-	http://www.screendaily.com/reviews/the-latest/results/5082320.article?blocktitle=The-Latest&contentID=598
 Rodrigo Perez 	    B	http://blogs.indiewire.com/theplaylist/sundance-review-andrew-bujalskis-results-starring-cobie-smulders-guy-pearce-kevin-corrigan-20150128
+Mike d'Angelo	    4.2	https://twitter.com/gemko/status/560252814509625344
+Wesley Morris	    A+	http://grantland.com/hollywood-prospectus/sundance-diary-day-6-adult-comedy-and-homestead-horror/
 
 "Songs My Brothers Taught Me" (Chloé Zhao) [U.S. Dramatic]
 David Rooney 	    B+	http://www.hollywoodreporter.com/review/songs-my-brothers-taught-me-768044
@@ -125,6 +131,7 @@ Tim Grierson	    A-	http://www.screendaily.com/reviews/the-latest/the-witch/5082
 Blake Williams	    5.7	https://twitter.com/Astrostic/status/558891127600730112
 Sean P. Means	    9	http://www.sltrib.com/blogs/sundance/2109510-155/sundance-15-review-the-witch
 Adam Chitwood       B+	http://collider.com/the-witch-review/
+Wesley Morris	    A	http://grantland.com/hollywood-prospectus/sundance-diary-day-6-adult-comedy-and-homestead-horror/
 
 "Unexpected" (Kris Swanberg)  [U.S. Dramatic]
 David Rooney	    B	http://www.hollywoodreporter.com/review/cobie-smulders-unexpected-sundance-review-767490
@@ -212,6 +219,7 @@ U.S. DOCUMENTARIES
 "3½ Minutes" (Marc Silver) [U.S. Documentaries]
 Brian Moylan        8 	http://www.theguardian.com/film/2015/jan/26/sundance-2015-review-three-half-minutes-jordan-davis-gun-control
 Rob Thomas		http://madisonmovie.org/2015/01/25/sundance-film-festival-wrenching-doc-3-12-minutes-stands-its-ground-against-an-unjust-law/
+Wesley Morris	    	http://grantland.com/hollywood-prospectus/sundance-diary-exploitation-blues/
 
 "Being Evel" (Daniel Junge) [U.S. Documentaries]
 Drew Taylor	    B+	http://blogs.indiewire.com/theplaylist/sundance-review-evel-knievel-documentary-being-evel-is-a-death-defying-treat-20150126
@@ -377,9 +385,11 @@ Eric Kohn	    A-	http://www.indiewire.com/article/sundance-review-tangerine-is-a
 Neil Miller	    D
 Daniel Mecca	    A-	http://thefilmstage.com/reviews/sundance-review-tangerine/
 Blake Williams	    7.2	https://twitter.com/Astrostic/status/559142525198282752
+Wesley Morris	    	http://grantland.com/hollywood-prospectus/sundance-diary-exploitation-blues/
 
 "The Strongest Man" (Kenny Riches) [NEXT]
 Kevin Jagernauth    B	http://blogs.indiewire.com/theplaylist/sundance-review-beautifully-oddball-the-strongest-man-marks-director-kenny-riches-as-one-to-watch-20150127
+Mike d'Angelo	    	https://twitter.com/gemko/status/560147628747284480
 
 NEW FRONTIER
 
@@ -390,6 +400,7 @@ Justin Lowe 		http://www.hollywoodreporter.com/review/sam-klemke-s-time-machine-
 
 "Station to Station" (Doug Aitken) [New Frontier]
 Boyd van Hoeij      	http://www.hollywoodreporter.com/review/station-station-sundance-review-767478
+Blake Williams	    4.7	https://twitter.com/Astrostic/status/560642037213839360
 
 "The Forbidden Room" (Guy Maddin, Evan Johnson) [New Frontier]
 Blake Williams	    6.7	https://twitter.com/Astrostic/status/559862923095310336
@@ -412,6 +423,7 @@ MIDNIGHT
 Rob Thomas		http://madisonmovie.org/2015/01/28/sundance-film-festival-cop-car-is-a-bad-influence-but-a-good-thriller/
 Kate Erbland	    C	http://blogs.indiewire.com/theplaylist/sundance-review-cop-car-starring-kevin-bacon-is-an-unsatisfying-ride-20150127
 Todd McCarthy       D  	http://www.hollywoodreporter.com/review/cop-car-sundance-review-767957
+Mike d'Angelo	    5.5	https://twitter.com/gemko/status/560147988643729408
 
 "Hellions" (Bruce McDonald, Can) [Midnight]
 John DeFore  	    E	http://www.hollywoodreporter.com/review/hellions-sundance-review-768003
@@ -437,6 +449,7 @@ A.A. Dowd	    B+	http://www.avclub.com/article/sundance-2015-day-5-experiments-p
 Jordan Hoffman	    8	http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-the-nightmare-documentary-shows-truth-more-frightening-than-fiction
 Anthony Kaufman	    B-	http://www.screendaily.com/reviews/the-latest/the-nightmare/5082318.article?blocktitle=The-Latest&contentID=598
 Rodrigo Perez 	    C+	http://blogs.indiewire.com/theplaylist/sundance-review-room-237-director-rodney-ascher-explores-the-world-of-sleep-terrors-paralysis-in-the-nightmare-20150128
+Blake Williams	    6.5	https://twitter.com/Astrostic/status/560508362903674880
 
 "Turbo Kid" (Anouk Whissell, François Simard, Yoann-Karl Whissell, CAN/NZ) [Midnight]
 
@@ -639,6 +652,7 @@ Tim Grierson	    B-	http://www.screendaily.com/reviews/the-latest/true-story/508
 
 "Zipper" (Mora Stephens) [Premieres]
 David Rooney	    C	http://www.hollywoodreporter.com/review/patrick-wilson-lena-headey-zipper-767859?utm_source=twitter
+Blake Williams	    2.5	https://twitter.com/Astrostic/status/560598382700285953
 
 DOCUMENTARY PREMIERES
 
