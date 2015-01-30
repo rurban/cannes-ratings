@@ -121,7 +121,7 @@ sub _detail {
   if (params->{debug}) {
     require Data::Dumper;
     my $x = $h;
-    delete $x->{review};
+    #delete $x->{review};
     $out .= "<code>".Data::Dumper::Dumper($x);
     for (keys %{$x->{critic}}) {
       $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
@@ -240,7 +240,8 @@ sub _dump {
         #$title{$t}->{num}--;
         my $bak = $title{$t}->{critic}->{$c}->[0];
 	delete $title{$t}->{critic}->{$c};
-	#$title{$t}->{num} = scalar keys %{$title{$t}->{critic}};
+	$title{$t}->{numcritics} = scalar keys %{$title{$t}->{critic}};
+	$title{$t}->{numreviews} = scalar keys %{$title{$t}->{review}};
 	my ($n,$sum)=(0,0);
 	for (keys %{$title{$t}->{critic}}) {
 	  if (exists $title{$t}->{critic}->{$_}) {
@@ -318,7 +319,9 @@ sub _dump {
     my @titles = keys %title;
     for (@titles) {
       if ($title{$_}->{section} and $title{$_}->{section} eq $section) {
-        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev} ];
+        my $numreviews = scalar keys %{$title{$_}->{review}};
+        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num},
+                                     $title{$_}->{stddev}, $numreviews ];
         if ($title{$_}->{num}) {
 	  $sum += $title{$_}->{avg}; 
 	  $num++
@@ -332,33 +335,43 @@ sub _dump {
       $out .= $num
       	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
       	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
-      for (sort 
-	   {
-	     !$section{$section}->{$b}->[1] ? -1
-	       : !$section{$section}->{$a}->[1] ? 1
-	       : $section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]
-	   }
-	   keys %{$section{$section}})
-      { 
-	my $s=$section{$section}->{$_}->[2];
+      my $sect_t = $section{$section};
+      my @titles = keys %$sect_t;
+      my @rated_titles = grep {$sect_t->{$_}->[0] ? $_ : undef} @titles;
+      @rated_titles = sort {
+        $sect_t->{$b}->[0] <=> $sect_t->{$a}->[0]
+      } @rated_titles;
+      my @unrated_titles = grep {!$sect_t->{$_}->[0] ? $_ : undef} @titles;
+      @unrated_titles = sort {
+        $sect_t->{$b}->[3] <=> $sect_t->{$a}->[3]
+      } @unrated_titles;
+      for (@rated_titles, @unrated_titles)
+      {
+        my $n=$sect_t->{$_}->[1];
+	my $s=$sect_t->{$_}->[2];
+        my $r=$sect_t->{$_}->[3];
 	$s=0 unless $s;
 	my $l=$title{$_}->{line};
 	$l=$s>=2.0?"<i>$l</i>":$l;
         $l="<small>$l</small>" if $title{$_}->{num} < 10;
-        if ($six and $section{$section}->{$_}->[0] < 6) {
+        if ($six and $sect_t->{$_}->[0] < 6) {
           $six=0;
 	  $out .= "<tr><td colspan=3>";
 	  $out .= "-"x25;
 	  $out .= "</td></tr>\n";
 	}
-        my $ns = $section{$section}->{$_}->[1] 
-          ? sprintf("%0.2f/%d&nbsp;%0.1f", @{$section{$section}->{$_}})
-          : '-';
-        my $detail = ($section{$section}->{$_}->[1] or $title{$_}->{comment})
+        my $ns = $n
+          ? sprintf("%0.2f/%d&nbsp;%0.1f", @{$sect_t->{$_}})
+          : $r
+            ? 'reviews'
+            : '-';
+        my $detail = ($n or $r or $title{$_}->{comment})
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
           : "[$ns]";
-        if ($section{$section}->{$_}->[1]) {
+        if ($n) {
           $out .= sprintf("<tr><td>%2d.</td> <td>%s</td> <td class=r>%s</td></tr>\n", $j++, $l, $detail);
+        } elsif ($r) {
+          $out .= sprintf("<tr><td> </td> <td>%s</td> <td class=r>%s</td></tr>\n", $l, $detail);
         } elsif ($title{$_}->{comment}) {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>$detail</td></tr>\n";
         } else {
