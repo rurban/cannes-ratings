@@ -1,6 +1,12 @@
 package Sundance::rurban::2015; # -*- perl -*-
 #!/usr/bin/perl
 # Sundance 2015 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
 
 use utf8;
 our $DATA= <<'EOF';
@@ -17,6 +23,8 @@ Tim Grierson	    A-	http://www.screendaily.com/reviews/the-latest/dope/5082254.a
 Sean P. Means	    10	http://www.sltrib.com/blogs/sundance/2098967-155/sundance-15-review-dope
 Blake Williams	    3.9	https://twitter.com/Astrostic/status/560548170925477888
 Wesley Morris	    	http://grantland.com/hollywood-prospectus/sundance-diary-exploitation-blues/
+Alison Willmore	    B	http://www.buzzfeed.com/alisonwillmore/diary-of-a-teenage-girl-me-and-earl-and-the-dying-girl-dope
+Brian Moylan        10	http://www.theguardian.com/film/2015/jan/29/sundance-2015-dope-review-subversive-crisp-teen-comedy
 
 "I Smile Back" (Adam Salkey) [U.S. Dramatic]
 Katie Walsh  	    B+	http://blogs.indiewire.com/theplaylist/sundance-review-sarah-silvermans-tremendous-performance-powers-addiction-drama-i-smile-back-20150126
@@ -38,12 +46,18 @@ Peter Debruge	    9	http://variety.com/2015/film/reviews/sundance-film-review-me
 Sean P. Means	    9	http://www.sltrib.com/blogs/sundance/2099950-155/sundance-15-review-me-and-earl
 Mike d'Angelo	    	https://twitter.com/gemko/status/559542955334066176
 Kyle Smith	    A	http://nypost.com/2015/01/28/unlikely-duo-charms-in-quick-witted-me-and-earl-and-the-dying-girl/
+David Ehrlich	    8	http://www.timeout.com/us/film/me-earl-the-dying-girl
+Richard Lawson (Vanity Fair, US)  http://www.vanityfair.com/vf-hollywood/2015/01/me-and-earl-and-the-dying-girl-review
+Mike Ryan	    A	http://uproxx.com/movies/2015/01/me-and-earl-and-the-dying-girl-emerges-as-the-top-film-so-far-at-sundance/
+Alison Willmore	    A	http://www.buzzfeed.com/alisonwillmore/diary-of-a-teenage-girl-me-and-earl-and-the-dying-girl-dope
+Ed Gibbs	    8	http://www.theguardian.com/film/2015/jan/29/sundance-me-earl-dying-girl-review
 
 "People, Places, Things" (Jim Strouse) [U.S. Dramatic]
 Todd McCarthy       B  	http://www.hollywoodreporter.com/review/people-places-things-sundance-review-767444
 Sean P. Means	    9	http://www.sltrib.com/blogs/2104065-155/sundance-15-review-people-places-things
 Katie Walsh	    B+  http://blogs.indiewire.com/theplaylist/sundance-review-charming-and-delightful-people-places-things-starring-jemaine-clement-20150128
 Kyle Smith	    B	http://nypost.com/2015/01/27/dramedy-people-places-things-boasts-an-nyc-quirk/
+Brian Moylan        6   http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-people-places-things-jermaine-clement
 
 "Results" (Andrew Bujalski) [U.S. Dramatic]
 Blake Williams	    5.8	https://twitter.com/Astrostic/status/560333467528216576
@@ -88,6 +102,7 @@ Rodrigo Perez 	    B+	http://blogs.indiewire.com/theplaylist/sundance-review-dia
 Neil Miller 	    A
 Sean P. Means	    9	http://www.sltrib.com/blogs/sundance/2098920-155/sundance-15-review-the-diary-of
 Anne Thompson	    A	http://blogs.indiewire.com/thompsononhollywood/6-things-to-know-about-sexy-sundance-breakout-diary-of-a-teenage-girl-part-of-sundances-womens-new-wave-20150127
+Alison Willmore	    A	http://www.buzzfeed.com/alisonwillmore/diary-of-a-teenage-girl-me-and-earl-and-the-dying-girl-dope
 
 "The D Train" (Jarrad Paul, Andrew Mogel) [U.S. Dramatic]
 Todd McCarthy       B 	http://www.hollywoodreporter.com/review/d-train-sundance-review-766533
@@ -197,10 +212,12 @@ Ben Kenigsberg	    B	http://variety.com/2015/film/reviews/sundance-film-review-p
 David Rooney 	    C	http://www.hollywoodreporter.com/review/vincent-cassel-partisan-sundance-review-768193
 
 "PRINCESS" (Tali Shalom Ezer, Israel) [World Dramatic]
+Leslie Felperin	    B	http://www.hollywoodreporter.com/review/princess-sundance-review-768520
 
 "Slow West" (John Maclean, UK/NZ) [World Dramatic]
 Rodrigo Perez 	    B+	http://blogs.indiewire.com/theplaylist/sundance-review-slow-west-starring-michael-fassbender-kodi-smit-mcphee-ben-mendelsohn-20150125
 John DeFore  		http://www.hollywoodreporter.com/review/slow-west-sundance-review-766737
+Jordan Hoffman      8	http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-slow-west-fassbender-psychedelic-western
 
 "Strangerland" (Kim Farrant, Aus/Ire) [World Dramatic]
 Jenni Miller	    C-	http://blogs.indiewire.com/theplaylist/sundane-review-strangerland-starring-nicole-kidman-joseph-fiennes-and-hugo-weaving-20150125
@@ -260,6 +277,7 @@ Sean P. Means	    9	http://www.sltrib.com/blogs/2112351-155/sundance-15-review-c
 Leslie Felperin 	http://www.hollywoodreporter.com/review/hot-girls-wanted-sundance-review-767210
 Geoff Berkshire		http://variety.com/2015/film/reviews/sundance-film-review-hot-girls-wanted-1201416703/
 Sean P. Means	    9	http://www.sltrib.com/blogs/2099984-155/sundance-15-review-hot-girls-wanted
+Jordan Hoffman	    4	http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-hot-girls-wanted-newsflash-porn-can-exploit
 
 "How to Dance in Ohio" (Alexandra Shiva) [U.S. Documentaries]
 Sean P. Means	    6.5	http://www.sltrib.com/blogs/2103861-155/sundance-15-review-how-to-dance
@@ -275,6 +293,7 @@ Sean P. Means	    7.5	http://www.sltrib.com/blogs/sundance/2097583-155/sundance-
 "(T)ERROR" (Lyric R. Cabral, David Felix Sutcliffe) [U.S. Documentaries]
 Rob Thomas		http://madisonmovie.org/2015/01/25/sundance-film-festival-terror-reveals-the-keystone-kops-of-kounterterrorism/
 Sean P. Means	    10	http://www.sltrib.com/blogs/sundance/2109715-155/sundance-15-review-terror
+Brian Moylan        4   http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-terror-is-entrapment-always-this-boring
 
 "The Wolfpack" (Crystal Moselle) [U.S. Documentaries]
 John DeFore 	        http://www.hollywoodreporter.com/review/wolfpack-sundance-review-767014
@@ -286,6 +305,7 @@ Kyle Smith	    	http://nypost.com/2015/01/27/the-wolfpack-follows-7-nyc-kids-rai
 "Welcome to Leith" (Michael Beach Nichols, Christopher K. Walker) [U.S. Documentaries]
 Sean P. Means	    9	http://www.sltrib.com/blogs/2105579-155/sundance-15-review-welcome-to-leith
 Kate Erbland	    B	http://blogs.indiewire.com/theplaylist/sundance-review-terrifying-unsettling-and-insightful-documentary-welcome-to-leith-20150128
+Brian Moylan        8   http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-welcome-to-leith-what-happened-when-neo-nazis-came-to-town
 
 "Western" (Bill Ross, Turner Ross) [U.S. Documentaries]
 Katie Walsh   	    A-	http://blogs.indiewire.com/theplaylist/sundance-review-border-town-portrait-western-is-another-immersive-ross-brothers-experience-20150125
@@ -300,6 +320,7 @@ WORLD DOCUMENTARIES
 "Censored Voices" (Mor Loushy, Isr) [World Documentaries]
 
 "Chuck Norris vs Communism" (Ilinca Calugareanu, Rom) [World Documentaries]
+Don Simpson	    B-	http://smellslikescreenspirit.com/2015/01/chuck-norris-vs-communism-sundance-review/
 Kyle Smith	    B	http://nypost.com/2015/01/25/how-chuck-norris-defeated-communism/
 Joe Bendel	    A	http://www.libertasfilmmagazine.com/lfm-reviews-chuck-norris-vs-communism-the-2015-sundance-film-festival/
 Jordan Hoffman      C  	http://www.theguardian.com/film/2015/jan/24/sundance-2015-review-chuck-norris-vs-communism-the-real-battle-is-against-boredom
@@ -375,6 +396,7 @@ Damon Wise          8	http://www.theguardian.com/film/2015/jan/24/sundance-2015-
 Eric Kohn	    A- 	http://www.indiewire.com/article/sundance-review-christopher-abbott-and-cynthia-nixon-triumph-in-devastating-james-white-20150123
 Jordan Raup	    B+	http://thefilmstage.com/reviews/sundance-review-james-white/
 Blake Williams	    6.5	https://twitter.com/Astrostic/status/559188364419543040
+Ryan Lattanzio	    A-
 
 "Nasty Baby" (Sebastian Silva) [NEXT]
 Todd McCarthy 	    	http://www.hollywoodreporter.com/review/nasty-baby-sundance-review-766816
@@ -462,6 +484,8 @@ Jordan Hoffman	    8	http://www.theguardian.com/film/2015/jan/28/sundance-2015-r
 Anthony Kaufman	    B-	http://www.screendaily.com/reviews/the-latest/the-nightmare/5082318.article?blocktitle=The-Latest&contentID=598
 Rodrigo Perez 	    C+	http://blogs.indiewire.com/theplaylist/sundance-review-room-237-director-rodney-ascher-explores-the-world-of-sleep-terrors-paralysis-in-the-nightmare-20150128
 Blake Williams	    6.5	https://twitter.com/Astrostic/status/560508362903674880
+Ryan Lattanzio	    B+
+John DeFore 	    C	http://www.hollywoodreporter.com/review/nightmare-sundance-review-768516
 
 "Turbo Kid" (Anouk Whissell, François Simard, Yoann-Karl Whissell, CAN/NZ) [Midnight]
 
@@ -517,6 +541,7 @@ Kyle Smith	    D+	http://nypost.com/2015/01/23/this-walk-in-the-woods-doesnt-hav
 Edward Douglas	    6	http://www.comingsoon.net/movies/features/402625-sundance-film-festival-diary-day-2
 Tim Grierson	    C	http://www.screendaily.com/reviews/the-latest/a-walk-in-the-woods/5082321.article
 Sean P. Means	    7.5	http://www.sltrib.com/blogs/2095171-155/sundance-15-review-a-walk-in
+Brian Moylan        6   http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-a-walk-in-the-woods-robert-redford-in-butch-cassidy-and-the-sundowner-kid
 
 "Brooklyn" (John Crowley) [Premieres]
 Todd McCarthy 	    A-	http://www.hollywoodreporter.com/review/brooklyn-sundance-review-767488
@@ -526,6 +551,7 @@ Sasha Bronner 	    B	http://www.huffingtonpost.com/2015/01/28/digging-for-fire-r
 Rob Thomas		http://madisonmovie.org/2015/01/27/sundance-film-festival-when-irish-eyes-are-crying-in-poignant-brooklyn/
 Rodrigo Perez 	    A	http://blogs.indiewire.com/theplaylist/sundance-review-john-crowleys-gorgeous-bittersweet-brooklyn-with-saoirse-ronan-domhnall-gleeson-emory-cohen-20150128
 A.A. Dowd	    B+	http://www.avclub.com/article/sundance-2015-day-6-shut-out-jupiter-ascending-cha-214471
+Jordan Hoffman	    6	http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-brooklyn-a-rose-tinted-peek-at-what-your-granny-went-through
 
 "Digging for Fire" (Joe Swanberg) [Premieres]
 John DeFore  	    B	http://www.hollywoodreporter.com/review/digging-fire-sundance-review-767449
@@ -535,6 +561,7 @@ Tim Grierson	    	http://www.screendaily.com/reviews/the-latest/digging-for-fire
 Matthew Jacobs 	    C	http://www.huffingtonpost.com/2015/01/28/digging-for-fire-review-sundance_n_6558250.html
 Rodrigo Perez 	    B	http://blogs.indiewire.com/theplaylist/sundance-review-joe-swanbergs-digging-for-fire-with-jake-johnson-rosemarie-dewitt-alison-brie-sam-rockwell-more-20150127
 Alissa Wilkinson	http://www.christianitytoday.com/ct/2015/january-web-only/sundance-diary-day-6-don-verdean-and-digging-for-fire.html?start=1
+Jordan Hoffman      2	http://www.theguardian.com/film/2015/jan/28/sundance-2015-review-digging-for-fire-unearthing-only-wind
 
 "Don Verdean" (Jared Hess) [Premieres]
 Boyd van Hoeij      B-	http://www.hollywoodreporter.com/review/don-verdean-sundance-review-767479
@@ -563,11 +590,13 @@ Alissa Wilkinson    B-  http://www.christianitytoday.com/ct/2015/january-web-onl
 Blake Williams	    4.0	https://twitter.com/Astrostic/status/559096791728406529
 Peter Debruge	    	http://variety.com/2015/film/reviews/sundance-film-review-james-franco-in-i-am-michael-1201414176/
 Adam Chitwood       B-	http://collider.com/i-am-michael-review/
+Ryan Lattanzio	    C+	
 
 "I'll See You in My Dreams" (Brett Haley) [Premieres]
 Leslie Felperin	    B	http://www.hollywoodreporter.com/review/i-ll-see-you-my-767839
 Katie Walsh	    B+	http://blogs.indiewire.com/theplaylist/sundance-review-sweet-and-lovely-ill-see-you-in-my-dreams-starring-blythe-danner-martin-starr-and-sam-elliott-20150128
 Kyle Smith	    B-	http://nypost.com/2015/01/28/blythe-danner-shines-in-ill-see-you-in-my-dreams/
+Jordan Hoffman      6	http://www.theguardian.com/film/2015/jan/29/sundance-2015-review-ill-see-you-in-my-dreams
 
 "Last Days in the Desert" (Rodrigo Garcia) [Premieres]
 Todd McCarthy       B-  http://www.hollywoodreporter.com/review/last-days-desert-sundance-review-767347
@@ -675,6 +704,7 @@ Alissa Wilkinson	http://www.christianitytoday.com/ct/2015/january-web-only/sunda
 David Rooney	    C	http://www.hollywoodreporter.com/review/patrick-wilson-lena-headey-zipper-767859?utm_source=twitter
 Blake Williams	    2.5	https://twitter.com/Astrostic/status/560598382700285953
 Kyle Smith	    C	http://nypost.com/2015/01/28/spitzer-scandal-comes-to-life-in-zipper/
+Jordan Hoffman      4	http://www.theguardian.com/film/2015/jan/29/sundance-2015-review-zipper-tale-of-attorney-undone-by-call-girls-is-no-shame
 
 DOCUMENTARY PREMIERES
 
@@ -786,6 +816,7 @@ Dennis Harvey (Variety, US)
 Don Simpson (Smells Like Screen Spirit, US)
 Drew McWeeny (HitFix, US)
 Drew Taylor  (The Playlist, US)
+Ed Gibbs (The Guardian, UK)
 Edward Douglas (Comingsoon.net, US)
 Eric Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
 Eric Kohn  (Indiewire, US)
@@ -828,7 +859,7 @@ Peter Debruge (Variety, US)
 Rob Hunter (Film School Rejects, US)
 Rob Thomas (Madison Movie, US)
 Rodrigo Perez  (The Playlist, US)
-Ryan Lattanzio (TOH!)
+Ryan Lattanzio (TOH!, US)
 Sasha Bronner (Huffington Post, US)
 Scott Foundas (Variety, US)
 Sean P. Means (The Salt Lake Tribune, US)
