@@ -135,6 +135,7 @@ sub _detail {
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
+    next unless $n;
     if (substr($c,0,1) eq "-") {
       $n = "<strike>$n</strike>" unless $nostrike;
       $c = abs($c);
