@@ -115,19 +115,22 @@ sub _detail {
   my $h = shift;
   my $critic = shift;
   my $nostrike = shift;
+  no warnings;
   my $out = '';
-  $out .= "<tr><td></td><td colspan=2 class=detail><i>&nbsp;&nbsp; - $h->{comment}</i></td>" if exists $h->{comment};
+  $out .= "<tr><td></td><td colspan=2 class=detail><i>&nbsp;&nbsp; - $h->{comment}"
+         ."</i></td></tr>\n"
+    if exists $h->{comment};
 
   if (params->{debug}) {
     require Data::Dumper;
     my $x = $h;
     #delete $x->{review};
-    $out .= "<code>".Data::Dumper::Dumper($x);
+    $out .= "<tr><td colspan=3><code>".Data::Dumper::Dumper($x);
     for (keys %{$x->{critic}}) {
       $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
 	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
     }
-    $out .= "</code>";
+    $out .= "</code></tr>\n";
   }
   for (sort {!defined $h->{critic}->{$b}->[0] ? -1
 	       : !defined $h->{critic}->{$a}->[0] ? 1
@@ -135,20 +138,21 @@ sub _detail {
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
-    next unless $n;
-    if (substr($c,0,1) eq "-") {
-      $n = "<strike>$n</strike>" unless $nostrike;
-      $c = abs($c);
-    }
-    my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
-    if ($critic->{$_}->{mag}) {
-      $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
-    } elsif ($critic->{$_}->{cn}) {
-      $n .= " ($critic->{$_}->{cn})";
-    }
-    if ($url) {
-      $n = qq(<a href="$url">$n</a>);
-      $c = qq(<a href="$url">$c</a>) if $c;
+    if ($n) {
+      if (substr($c,0,1) eq "-") {
+        $n = "<strike>$n</strike>" unless $nostrike;
+        $c = abs($c);
+      }
+      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
+      if ($critic->{$_}->{mag}) {
+        $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
+      } elsif ($critic->{$_}->{cn}) {
+        $n .= " ($critic->{$_}->{cn})";
+      }
+      if ($url) {
+        $n = qq(<a href="$url">$n</a>);
+        $c = qq(<a href="$url">$c</a>) if $c;
+      }
     }
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$n</td>"
       ."<td class=detail>$c</td></tr>\n";
