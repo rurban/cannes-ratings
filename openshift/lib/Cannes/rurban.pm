@@ -1,10 +1,21 @@
 package Cannes::rurban;
 use Dancer ':syntax';
-use File::Basename 'dirname';
+use File::Basename qw(dirname basename);
 use utf8;
 
 our $VERSION = '0.2';
+our $comp_section = 'Competition';
+our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine", "Other");
 
+sub us_rating {
+  my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
+           'B+' => 7,   'B' => 6,   'B-' => 5,
+           'C+' => 4,   'C' => 3,   'C-' => 2, 
+           'D+' => 1.5, 'D' => 1,   'D-' => 1, 
+           'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5, 
+           'F+' => 0,   'F' => 0,   'F-' => 0};
+  return $r->{$_[0]};
+}
 sub _read {
   my $DATA = shift;
   my $critics = shift;
@@ -154,7 +165,6 @@ sub _dump {
   my %title  = %{$_[1]};
   my @t = @{$_[2]};
   my @all = @t;
-  my @sections = ("Competition", "Un Certain Regard", "Semaine", "Quinzaine", "Other");
   my %sections = map{$_=>1} @sections;
   @t = sort {$b->[1] <=> $a->[1]} @t;
   for (@t) {
@@ -257,7 +267,7 @@ sub _dump {
     my $l = $title{$t}->{line};
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
-    $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
+    $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
@@ -276,7 +286,7 @@ sub _dump {
     my $l=$title{$t}->{line};
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
-    $l="<b>$l</b>" if $title{$t}->{section} eq 'Competition';
+    $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
@@ -476,7 +486,7 @@ sub _list {
   my $dir = dirname(__FILE__);
   my $dat = "$dir/../../public/Cannes$year.dat";
   if (-e $dat) {
-    do "$dat" or die "invalid $dat";
+    do "$dat" or die "invalid ".basename($dat);
   } else {
     eval "require Cannes::rurban::$year;"
       or die "invalid year $year";
@@ -513,6 +523,9 @@ get '/2013' => sub {
 get '/2014' => sub {
   _list(2014);
 };
+get '/2015' => sub {
+  _list(2015);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (qw(2010 2011 2012 2013 2014)) {
@@ -537,12 +550,12 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2014";
+  $all->{year} = "2010-2015";
   $all->{side_details} = _side_details(\%critic, \%title);
   template 'index', $all;
 };
 get '/' => sub {
-  redirect '/2014';
+  redirect '/2015';
 };
 
 1;
