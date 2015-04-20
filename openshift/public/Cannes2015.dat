@@ -31,71 +31,76 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"DHEEPAN" (Jacques AUDIARD) [Competition]
-"LA LOI DU MARCHÉ (A SIMPLE MAN)" (Stéphane BRIZÉ) [Competition]
+"DHEEPAN (Temp. Title)" (Jacques AUDIARD) [Competition]
+"LA LOI DU MARCHÉ (A Simple Man)" (Stéphane BRIZÉ) [Competition]
 "MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
-"IL RACCONTO DEI RACCONTI (THE TALE OF TALES)" (Matteo GARRONE) [Competition]
+"IL RACCONTO DEI RACCONTI (The Tale Of Tales)" (Matteo GARRONE) [Competition]
 "CAROL" (Todd HAYNES) [Competition]
-"NIE YINNIANG (THE ASSASSIN)" (HOU Hsiao Hsien) [Competition]
-"SHAN HE GU REN (MOUNTAINS MAY DEPART)" (JIA Zhang-Ke) [Competition]
-"UMIMACHI DIARY (OUR LITTLE SISTER)" (KORE-EDA Hirokazu) [Competition]
+"NIE YINNIANG (The Assassin/聶隱娘)" (HOU Hsiao Hsien) [Competition]
+"SHAN HE GU REN (Mountains May Depart/山河故人)" (JIA Zhang-Ke) [Competition]
+"UMIMACHI DIARY (Our Little Sister/海街ｄｉａｒｙ)" (KORE-EDA Hirokazu) [Competition]
 "MACBETH" (Justin KURZEL) [Competition]
 "THE LOBSTER" (Yorgos LANTHIMOS) [Competition]
 "MON ROI" (MAÏWENN) [Competition]
 "MIA MADRE" (Nani MORETTI) [Competition]
-"SAUL FIA (SON OF SAUL)" (László NEMES) [Competition]
-"YOUTH" (Paolo SORRENTINO) [Competition]
+"SAUL FIA (Son Of Saul)" (László NEMES) [Competition]
+# First film
+"YOUTH (La giovinezza)" (Paolo SORRENTINO) [Competition]
 "LOUDER THAN BOMBS" (Joachim TRIER) [Competition]
 "THE SEA OF TREES" (Gus VAN SANT) [Competition]
 "SICARIO" (Denis VILLENEUVE) [Competition]
 
 UN CERTAIN REGARD
 
-"MASAAN (FLY AWAY SOLO)" (Neeraj GHAYWAN) [Un Certain Regard]
+"MASAAN (Fly away solo)" (Neeraj GHAYWAN) [Un Certain Regard]
 # Indian
-"HRÚTAR (RAMS)" (Grímur HÁKONARSON) [Un Certain Regard]
+"HRÚTAR (Rams)" (Grímur HÁKONARSON) [Un Certain Regard]
 # Iceland
-"KISHIBE NO TABI (JOURNEY TO THE SHORE)" (KUROSAWA Kiyoshi) [Un Certain Regard]
-"JE SUIS UN SOLDAT (I AM A SOLDIER)" (Laurent LARIVIÈRE) [Un Certain Regard]
-"ZVIZDAN (THE HIGH SUN)" (Dalibor MATANIC) [Un Certain Regard]
+"KISHIBE NO TABI (Journey To The Shore)" (KUROSAWA Kiyoshi) [Un Certain Regard]
+"JE SUIS UN SOLDAT (I Am A Soldier)" (Laurent LARIVIÈRE) [Un Certain Regard]
+"ZVIZDAN (The High Sun)" (Dalibor MATANIC) [Un Certain Regard]
 # Croatia (4th film)
 "THE OTHER SIDE" (Roberto MINERVINI) [Un Certain Regard]
-"MU-ROE-HAN (THE SHAMELESS)" (OH Seung-Uk) [Un Certain Regard]
-"UN ETAJ MAI JOS (ONE FLOOR BELOW)" (Radu MUNTEAN) [Un Certain Regard]
-"LAS ELEGIDAS (THE CHOSEN ONES)" (David PABLOS) [Un Certain Regard]
-"COMOARA (THE TREASURE)" (Corneliu PORUMBOIU) [Un Certain Regard]
+"MU-ROE-HAN (The Shameless)" (OH Seung-Uk) [Un Certain Regard]
+# also known as "Rouge"
+"UN ETAJ MAI JOS (One Floor Below)" (Radu MUNTEAN) [Un Certain Regard]
+"LAS ELEGIDAS (The Chosen Ones)" (David PABLOS) [Un Certain Regard]
+"COMOARA (The Treasure)" (Corneliu PORUMBOIU) [Un Certain Regard]
 "NAHID" (Ida PANAHANDEH) [Un Certain Regard]
-"CHAUTHI KOOT (THE FOURTH DIRECTION)" (Gurvinder SINGH)
+# First film
+"CHAUTHI KOOT (The Fourth Direction)" (Gurvinder SINGH)
 "MARYLAND" (Alice WINOCOUR) [Un Certain Regard]
 "MADONNA" (SHIN Suwon) [Un Certain Regard]
 
 SPECIAL SCREENINGS
 
-"LA TETE HAUTE" (Emmanuelle BERCOT) Opening Film
+"LA TÊTE HAUTE (Standing Tall)" (Emmanuelle BERCOT) Opening Film
 
 "OKA" (Souleymane CISSE) [Special Screening]
 "HAYORED LEMA'ALA" (Elad KEIDAN)
+# First film
 "PANAMA" (Pavle VUCKOVIC) [Special Screening]
+# First film
 "AMNESIA" (Barbet SCHROEDER) [Special Screening]
-"SIPUR AL AHAVA VE CHOSHECH (A TALE OF LOVE AND DARKNESS)" (Natalie PORTMAN) [Special Screening]
+"SIPUR AL AHAVA VE CHOSHECH (A Tale Of Love And Darkness)" (Natalie PORTMAN) [Special Screening]
+# First film
 "ASPHALTE" (Samuel BENCHETRIT) [Special Screening]
 
 "MAD MAX: FURY ROAD" (George MILLER) [Out of Competition]
 "IRRATIONAL MAN" (Woody ALLEN) [Out of Competition]
 "INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
-"THE LITTLE PRINCE (LE PETIT PRINCE)" (Mark OSBORNE) [Out of Competition]
+"THE LITTLE PRINCE (Le Petit Prince)" (Mark OSBORNE) [Out of Competition]
 
-# [Cannes Classics]
-
-"O PISEU (OFFICE)" (HONG Won-Chan) [Out Of Competition - Midnight]
-"AMY" (Asif KAPADIA) [Out Of Competition - Midnight]
+"O PISEU (Office)" (HONG Won-Chan) [Out Of Competition] Midnight
+# First film
+"AMY" (Asif KAPADIA) [Out Of Competition] Midnight
 
 QUINZAINE
 
 "IN THE SHADOW OF WOMEN" (Philippe GARREL) [Quinzaine] Opening Film
   http://www.quinzaine-realisateurs.com/in-the-shadow-of-women-by-philippe-garrel-will-open-the-47th-edition-of-the-directors-fortnight-p481.html
 
-"TROIS SOUVENIRS DE JEUNESSE (MY GOLDEN YEARS)" (Arnaud DESPLECHIN) [Quinzaine]
+"TROIS SOUVENIRS DE JEUNESSE (My Golden Years)" (Arnaud DESPLECHIN) [Quinzaine]
   http://www.quinzaine-realisateurs.com/my-golden-years-by-desplechin-will-be-at-the-directors-fortnight-p482.html
 
 "AS MIL E UMA NOITES (Arabian Nights)" (Miguel GOMEZ) [Quinzaine]
@@ -106,7 +111,7 @@ SEMAINE
 "DEGRADE" (Arab and Tarzan ABUNASSER) [Semaine]
 # First film. Palestine
 
-"KRISHA" (Trey Edward SHULTS) [Semaine]
+"KRISHA" (Trey Edward SHULTS) [Semaine] SXSW
 # First film. US, SXSW Winner
 
 "MEDITERRANEA" (Jonas CARPIGNANO) [Semaine]
