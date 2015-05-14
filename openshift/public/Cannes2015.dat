@@ -31,23 +31,81 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"DHEEPAN (Temp. Title)" (Jacques AUDIARD) [Competition]
-"LA LOI DU MARCHÉ (A Simple Man)" (Stéphane BRIZÉ) [Competition]
-"MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
 "IL RACCONTO DEI RACCONTI (The Tale Of Tales)" (Matteo GARRONE) [Competition]
-"CAROL" (Todd HAYNES) [Competition]
-"NIE YINNIANG (The Assassin/聶隱娘)" (HOU Hsiao Hsien) [Competition]
-"SHAN HE GU REN (Mountains May Depart/山河故人)" (JIA Zhang-Ke) [Competition]
+Diego Lerer           5
+Roger Alan Koza       3.5
+Diego Batlle          5
+Emiliano Fernández   4
+Giona Nazzaro         6.5
+Cristina Nord         4.5
+Carlos Reviriego      6
+Luciano Monteagudo    3.5
+Alexandra Zawia       5.5
+Fernando Ganzo        4
+Alejandro M. Calvo    7.5
+Kong Rithdee          5.5
+Carlos Heredero       3
+Sergi Sanchez         7
+Jan Pieter Ekker      4
+Javier H. Estrada     4
+
 "UMIMACHI DIARY (Our Little Sister/海街ｄｉａｒｙ)" (KORE-EDA Hirokazu) [Competition]
-"MACBETH" (Justin KURZEL) [Competition]
-"THE LOBSTER" (Yorgos LANTHIMOS) [Competition]
-"MON ROI" (MAÏWENN) [Competition]
-"MIA MADRE" (Nani MORETTI) [Competition]
+Diego Lerer           7.5
+Roger Alan Koza       5.5
+Diego Batlle          7
+Cristina Nord         7.5
+Carlos Reviriego      6
+Luciano Monteagudo    7
+Alexandra Zawia       6.5
+Fernando Ganzo        3.5
+Alejandro M. Calvo    5
+Carlos Heredero       7.5
+Sergi Sanchez         4
+Jan Pieter Ekker      6.5
+
 "SAUL FIA (Son Of Saul)" (László NEMES) [Competition]
 # First film
+Emiliano Fernández   8
+Carlos Reviriego      9.5
+Alejandro M. Calvo    9
+Carlos Heredero       8.5
+
+"MIA MADRE" (Nani MORETTI) [Competition]
+
+Giona Nazzaro         2
+
+"DHEEPAN (Temp. Title)" (Jacques AUDIARD) [Competition]
+Diego Batlle          7
+Fredy Friedlander     7
+Carlos Reviriego      4
+Luciano Monteagudo    5.5
+Alexandra Zawia       4
+Carlos Heredero       5
+Sergi Sanchez         6
+
+
+"LA LOI DU MARCHÉ (A Simple Man)" (Stéphane BRIZÉ) [Competition]
+
+"MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
+
+"CAROL" (Todd HAYNES) [Competition]
+
+"NIE YINNIANG (The Assassin/聶隱娘)" (HOU Hsiao Hsien) [Competition]
+
+"SHAN HE GU REN (Mountains May Depart/山河故人)" (JIA Zhang-Ke) [Competition]
+
+"MACBETH" (Justin KURZEL) [Competition]
+
+"THE LOBSTER" (Yorgos LANTHIMOS) [Competition]
+
+"MON ROI" (MAÏWENN) [Competition]
+
 "YOUTH (La giovinezza)" (Paolo SORRENTINO) [Competition]
+
 "LOUDER THAN BOMBS" (Joachim TRIER) [Competition]
+
 "THE SEA OF TREES" (Gus VAN SANT) [Competition]
+
 "SICARIO" (Denis VILLENEUVE) [Competition]
 "CHRONIC" (Michel FRANCO) [Competition]
 "VALLEY OF LOVE" (Guillaume NICLOUX) [Competition]
@@ -55,48 +113,115 @@ COMPETITION
 UN CERTAIN REGARD
 
 "SWEET RED BEAN PASTE (An/あん)" (KAWASE Naomi) [Un Certain Regard]
+
+Diego Batlle          7
+Fredy Friedlander     7
+Carlos Reviriego      4
+Luciano Monteagudo    5.5
+Alexandra Zawia       4
+Carlos Heredero       5
+Sergi Sanchez         6
+
+"UN ETAJ MAI JOS (One Floor Below)" (Radu MUNTEAN) [Un Certain Regard]
+Diego Lerer           8.5
+Roger Alan Koza       8
+Diego Batlle          8
+Fredy Friedlander     6
+Giona Nazzaro         7
+Carlos Reviriego      7
+Luciano Monteagudo    9
+Alexandra Zawia       9
+Alejandro M. Calvo    5
+Carlos Heredero       6
+
+"ALIAS MARIA" (Jose Luis RUGELES) [Un Certain Regard] Cartageno Film Fest
+Roger Alan Koza       5
+Diego Batlle          5.5
+
+"CHAUTHI KOOT (The Fourth Direction)" (Gurvinder SINGH) [Un Certain Regard]
+
+"RAK TI KHON KAEN (CEMETERY OF SPLENDOUR)" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
+
 "MASAAN (Fly away solo)" (Neeraj GHAYWAN) [Un Certain Regard]
 # Indian
+
 "HRÚTAR (Rams)" (Grímur HÁKONARSON) [Un Certain Regard]
 # Iceland
+
 "KISHIBE NO TABI (Journey To The Shore)" (KUROSAWA Kiyoshi) [Un Certain Regard]
+
 "JE SUIS UN SOLDAT (I Am A Soldier)" (Laurent LARIVIÈRE) [Un Certain Regard]
+
 "ZVIZDAN (The High Sun)" (Dalibor MATANIC) [Un Certain Regard]
 # Croatia (4th film)
+
 "THE OTHER SIDE" (Roberto MINERVINI) [Un Certain Regard]
+
 "MU-ROE-HAN (The Shameless)" (OH Seung-Uk) [Un Certain Regard]
 # also known as "Rouge"
-"UN ETAJ MAI JOS (One Floor Below)" (Radu MUNTEAN) [Un Certain Regard]
+
+"TAKLUB" (Brillante MENDOZA) [Un Certain Regard]
+
 "LAS ELEGIDAS (The Chosen Ones)" (David PABLOS) [Un Certain Regard]
+
 "COMOARA (The Treasure)" (Corneliu PORUMBOIU) [Un Certain Regard]
+
 "NAHID" (Ida PANAHANDEH) [Un Certain Regard]
 # First film
-"CHAUTHI KOOT (The Fourth Direction)" (Gurvinder SINGH)
+
 "MARYLAND" (Alice WINOCOUR) [Un Certain Regard]
+
 "MADONNA" (SHIN Suwon) [Un Certain Regard]
-"CEMETERY OF SPLENDOR" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
-"TAKLUB" (Brillante MENDOZA) [Un Certain Regard]
+
 "LAMB" (Yared ZELEKE) [Un Certain Regard]
-"ALIAS MARIA" (Jose Luis RUGELES) [Un Certain Regard] Cartageno Film Fest
 
 SPECIAL SCREENINGS
 
 "LA TÊTE HAUTE (Standing Tall)" (Emmanuelle BERCOT) Opening Film
+Diego Lerer           6.5
+Diego Batlle          5
+Emiliano Fernández   6
+Fredy Friedlander     4
+Cristina Nord         2
+Luciano Monteagudo    5
+Alexandra Zawia       4
+Fernando Ganzo        1
+Alejandro M. Calvo    4
+Sergi Sanchez         4
+Jan Pieter Ekker      6.5
 
 "OKA" (Souleymane CISSE) [Special Screening]
+
 "HAYORED LEMA'ALA" (Elad KEIDAN)
 # First film
+
 "PANAMA" (Pavle VUCKOVIC) [Special Screening]
 # First film
+
 "AMNESIA" (Barbet SCHROEDER) [Special Screening]
+
 "SIPUR AL AHAVA VE CHOSHECH (A Tale Of Love And Darkness)" (Natalie PORTMAN) [Special Screening]
 # First film
+
 "ASPHALTE" (Samuel BENCHETRIT) [Special Screening]
 "UNE HISTOIRE DE FOU" (Robert GUEDIGUIAN) [Special Screening]
 
 "MAD MAX: FURY ROAD" (George MILLER) [Out of Competition]
+Diego Lerer           8
+Diego Batlle          8
+Emiliano Fernández   10
+Fredy Friedlander     8
+Giona Nazzaro         9.5
+Carlos Reviriego      7
+Alexandra Zawia       7.5
+Alejandro M. Calvo    8
+Carlos Heredero       5
+Sergi Sanchez         9
+
 "IRRATIONAL MAN" (Woody ALLEN) [Out of Competition]
+
 "INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
+
 "THE LITTLE PRINCE (Le Petit Prince)" (Mark OSBORNE) [Out of Competition]
 
 "O PISEU (Office)" (HONG Won-Chan) [Out Of Competition] Midnight
@@ -106,8 +231,14 @@ SPECIAL SCREENINGS
 
 QUINZAINE
 
-"IN THE SHADOW OF WOMEN" (Philippe GARREL) [Quinzaine] Opening Film
+"L’OMBRE DES FEMMES (IN THE SHADOW OF WOMEN)" (Philippe GARREL) [Quinzaine] Opening Film
   http://www.quinzaine-realisateurs.com/in-the-shadow-of-women-by-philippe-garrel-will-open-the-47th-edition-of-the-directors-fortnight-p481.html
+Diego Lerer           8
+Roger Alan Koza       8
+Diego Batlle          8
+Cristina Nord         8.5
+Luciano Monteagudo    8
+Fernando Ganzo        6
 
 "TROIS SOUVENIRS DE JEUNESSE (My Golden Years)" (Arnaud DESPLECHIN) [Quinzaine]
   http://www.quinzaine-realisateurs.com/my-golden-years-by-desplechin-will-be-at-the-directors-fortnight-p482.html
@@ -145,6 +276,10 @@ QUINZAINE
 
 SEMAINE
 
+"SLEEPING GIANT" (Andrew CIDIVINO) [Semaine]
+# First film. Canada
+Giona Nazzaro         7
+
 "DEGRADE" (Arab and Tarzan ABUNASSER) [Semaine]
 # First film. Palestine
 
@@ -160,9 +295,6 @@ SEMAINE
 "PAULINA (La patota)" (Santiago MITRE) [Semaine]
 # Second film. Argentina-Brazil-France
 
-"SLEEPING GIANT" (Andrew Cidivino) [Semaine]
-# First film. Canada
-
 "LA TIERRA Y LA SOMBRA (La Terre et l’Ombre)" (Cesar ACEVEDO) [Semaine]
 # First film, Colombia
 
@@ -177,6 +309,21 @@ SEMAINE
 
 "COIN LOCKER GIRL" (HAN Jun-hee) [Semaine] Special screening
 # South Korea
+
+ACID
+
+"COSMODRAMA" (Philippe FERNANDEZ) [ACID] Rotterdam
+http://www.lacid.org/-acid-program-in-the-cannes-film-109-
+
+Roger Alan Koza       5
+
+"JE SUIS LE PEUPLE" (Anna Roussillon) [ACID] 
+
+Giona Nazzaro         10
+
+"VOLTA A TERRAA" (João Pedro Plácido) [ACID]
+
+Giona Nazzaro         8
 
 EOF
 
