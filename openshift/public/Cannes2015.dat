@@ -65,6 +65,7 @@ Alexandra Zawia       6.5
 Fernando Ganzo        3.5
 Alejandro M. Calvo    5
 Xavi Serra            6.5
+Kong Rithdee          0
 Philipp Engel         6
 Carlos Heredero       7.5
 Sergi Sanchez         4
@@ -88,13 +89,15 @@ Glenn Heath Jr        7    https://twitter.com/MatchCuts/status/5989444296181555
 
 Giona Nazzaro         2
 
+"CAROL" (Todd HAYNES) [Competition]
+Kong Rithdee          0
+Carlos Heredero       0
+
 "DHEEPAN (Temp. Title)" (Jacques AUDIARD) [Competition]
 
 "LA LOI DU MARCHÉ (A Simple Man)" (Stéphane BRIZÉ) [Competition]
 
 "MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
-
-"CAROL" (Todd HAYNES) [Competition]
 
 "NIE YINNIANG (The Assassin/聶隱娘)" (HOU Hsiao Hsien) [Competition]
 
@@ -404,6 +407,7 @@ Alvaro Arroba (Cinema Scope, España)
 Inma Merino (España)
 Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
 Andrea Picard (TIFF, Cinema Scope, Canada)
+Kong Rithdee (The Bangkok Post, Thailand) 
 ";
 # ioncinema
 $critics[1] = "
@@ -631,7 +635,6 @@ Arthur Mas (Independencia, France)
 Camille Brunel (Independencia, France) 
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
 Gonzalo de Pedro (Caimán, CDC, España) 
-Kong Rithdee (The Bangkok Post, Thailand) 
 Manu Yañez (Fotogramas, OtrosCines, España) 
 Martial Pisani (Independencia, France) 
 Noémie Luciani (Independencia, France) 
