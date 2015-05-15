@@ -31,7 +31,7 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"IL RACCONTO DEI RACCONTI (The Tale Of Tales)" (Matteo GARRONE) [Competition]
+"THE TALE OF TALES (Il Racconto dei Racconti)" (Matteo GARRONE) [Competition]
 Diego Lerer           5
 Roger Alan Koza       3.5
 Jaime Pena            6.5
@@ -86,7 +86,7 @@ José Luis Losa       4
 #
 Mike d'Angelo         6		https://twitter.com/gemko/status/598479726915780608
 
-"SAUL FIA (Son Of Saul)" (László NEMES) [Competition]
+"SON OF SAUL (Saul Fia)" (László NEMES) [Competition]
 # First film
 Jaime Pena            8.5
 Emiliano Fernández   8
@@ -105,6 +105,8 @@ José Luis Losa       9.5
 Glenn Heath Jr        7    https://twitter.com/MatchCuts/status/598944429618155520
 Blake Williams        5.8  https://twitter.com/Astrostic/status/598898711918411778
 
+"THE LOBSTER" (Yorgos LANTHIMOS) [Competition]
+
 "MIA MADRE" (Nani MORETTI) [Competition]
 
 Giona Nazzaro         2
@@ -114,35 +116,33 @@ Giona Nazzaro         2
 Kong Rithdee          0.1
 Carlos Heredero       0.1
 
+"MON ROI" (MAÏWENN) [Competition]
+
+"LOUDER THAN BOMBS" (Joachim TRIER) [Competition]
+
+"THE MEASURE OF A MAN (La loi du Marché)" (Stéphane BRIZÉ) [Competition]
+
+"MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
+
 "SICARIO" (Denis VILLENEUVE) [Competition]
 
 Luciano Monteagudo    4.5
 
-"DHEEPAN (Temp. Title)" (Jacques AUDIARD) [Competition]
-
-"LA LOI DU MARCHÉ (A Simple Man)" (Stéphane BRIZÉ) [Competition]
-
-"MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
-
-"NIE YINNIANG (The Assassin/聶隱娘)" (HOU Hsiao Hsien) [Competition]
-
-"SHAN HE GU REN (Mountains May Depart/山河故人)" (JIA Zhang-Ke) [Competition]
-
-"MACBETH" (Justin KURZEL) [Competition]
-
-"THE LOBSTER" (Yorgos LANTHIMOS) [Competition]
-
-"MON ROI" (MAÏWENN) [Competition]
+"MOUNTAINS MAY DEPART (Shan he gu ren/山河故人)" (JIA Zhang-Ke) [Competition]
 
 "YOUTH (La giovinezza)" (Paolo SORRENTINO) [Competition]
-
-"LOUDER THAN BOMBS" (Joachim TRIER) [Competition]
 
 "THE SEA OF TREES" (Gus VAN SANT) [Competition]
 
 "CHRONIC" (Michel FRANCO) [Competition]
 
+"THE ASSASSIN (Nie Yinniang/聶隱娘)" (HOU Hsiao Hsien) [Competition]
+
+"DHEEPAN (Temp. Title)" (Jacques AUDIARD) [Competition]
+
 "VALLEY OF LOVE" (Guillaume NICLOUX) [Competition]
+
+"MACBETH" (Justin KURZEL) [Competition]
 
 UN CERTAIN REGARD
 
@@ -186,47 +186,47 @@ José Luis Losa       7
 Mike d'Angelo         5.5  https://twitter.com/gemko/status/598857439715454976
 Glenn Heath Jr        7         https://twitter.com/MatchCuts/status/598943883922407424
 
-"ALIAS MARIA" (Jose Luis RUGELES) [Un Certain Regard] Cartageno Film Fest
-
-Roger Alan Koza       5
-Diego Batlle          5.5
-
-"CHAUTHI KOOT (The Fourth Direction)" (Gurvinder SINGH) [Un Certain Regard]
-
-"RAK TI KHON KAEN (CEMETERY OF SPLENDOUR)" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
-
-"MASAAN (Fly away solo)" (Neeraj GHAYWAN) [Un Certain Regard]
-# Indian
-
-"HRÚTAR (Rams)" (Grímur HÁKONARSON) [Un Certain Regard]
+"RAMS (Hrútar)" (Grímur HÁKONARSON) [Un Certain Regard]
 # Iceland
 
-"KISHIBE NO TABI (Journey To The Shore)" (KUROSAWA Kiyoshi) [Un Certain Regard]
+"THE FOURTH DIRECTION (Chauthi Koot)" (Gurvinder SINGH) [Un Certain Regard]
 
-"JE SUIS UN SOLDAT (I Am A Soldier)" (Laurent LARIVIÈRE) [Un Certain Regard]
-
-"ZVIZDAN (The High Sun)" (Dalibor MATANIC) [Un Certain Regard]
-# Croatia (4th film)
-
-"THE OTHER SIDE" (Roberto MINERVINI) [Un Certain Regard]
-
-"MU-ROE-HAN (The Shameless)" (OH Seung-Uk) [Un Certain Regard]
+"THE SHAMELESS (MU-ROE-HAN)" (OH Seung-Uk) [Un Certain Regard]
 # also known as "Rouge"
-
-"TAKLUB" (Brillante MENDOZA) [Un Certain Regard]
-
-"LAS ELEGIDAS (The Chosen Ones)" (David PABLOS) [Un Certain Regard]
-
-"COMOARA (The Treasure)" (Corneliu PORUMBOIU) [Un Certain Regard]
 
 "NAHID" (Ida PANAHANDEH) [Un Certain Regard]
 # First film
 
 "MARYLAND" (Alice WINOCOUR) [Un Certain Regard]
 
+"THE HIGH SUN (Zvizdan)" (Dalibor MATANIC) [Un Certain Regard]
+# Croatia (4th film)
+
+"JOURNEY TO THE SHORE (Kishibe No Tabi)" (KUROSAWA Kiyoshi) [Un Certain Regard]
+
+"CEMETERY OF SPLENDOUR (RAK TI KHON KAEN)" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
+
+"THE CHOSEN ONES (Las elegidas)" (David PABLOS) [Un Certain Regard]
+
+"ALIAS MARIA" (Jose Luis RUGELES) [Un Certain Regard] Cartageno Film Fest
+
+Roger Alan Koza       5
+Diego Batlle          5.5
+
+"TAKLUB" (Brillante MENDOZA) [Un Certain Regard]
+
+"MASAAN (Fly away solo)" (Neeraj GHAYWAN) [Un Certain Regard]
+# Indian
+
 "MADONNA" (SHIN Suwon) [Un Certain Regard]
 
+"I AM A SOLDIER (Je suis un soldat)" (Laurent LARIVIÈRE) [Un Certain Regard]
+
 "LAMB" (Yared ZELEKE) [Un Certain Regard]
+
+"TREASURE (Comoara)" (Corneliu PORUMBOIU) [Un Certain Regard]
+
+"THE OTHER SIDE" (Roberto MINERVINI) [Un Certain Regard]
 
 SPECIAL SCREENINGS
 
@@ -290,6 +290,7 @@ Richard Mowe          8       http://www.eyeforfilm.co.uk/review/mad-max-fury-ro
 "IRRATIONAL MAN" (Woody ALLEN) [Out of Competition]
 
 "INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
+Fernando Juan Lima    0.1
 
 "THE LITTLE PRINCE (Le Petit Prince)" (Mark OSBORNE) [Out of Competition]
 
@@ -300,7 +301,7 @@ Richard Mowe          8       http://www.eyeforfilm.co.uk/review/mad-max-fury-ro
 
 QUINZAINE
 
-"L’OMBRE DES FEMMES (IN THE SHADOW OF WOMEN)" (Philippe GARREL) [Quinzaine] Opening Film
+"L’OMBRE DES FEMMES (In the Shadow of Women)" (Philippe GARREL) [Quinzaine] Opening Film
   http://www.quinzaine-realisateurs.com/in-the-shadow-of-women-by-philippe-garrel-will-open-the-47th-edition-of-the-directors-fortnight-p481.html
 Diego Lerer           8
 Roger Alan Koza       8
@@ -320,42 +321,51 @@ Mike d'Angelo         4.4  https://twitter.com/gemko/status/598786572629192704
 Glenn Heath Jr        5    https://twitter.com/MatchCuts/status/598945309398544384
 Blake Williams        6.2  https://twitter.com/Astrostic/status/598777214113607680
 
+"CHILE FACTORY"
+
+"EL ABRAZO DE LA SERPIENTE (EMBRACE OF THE SERPENT)" (Ciro GUERRA) [Quinzaine]
+
 "TROIS SOUVENIRS DE JEUNESSE (My Golden Years)" (Arnaud DESPLECHIN) [Quinzaine]
   http://www.quinzaine-realisateurs.com/my-golden-years-by-desplechin-will-be-at-the-directors-fortnight-p482.html
 
-"AS MIL E UMA NOITES (Arabian Nights)" (Miguel GOMEZ) [Quinzaine]
-  http://www.quinzaine-realisateurs.com/arabian-nights-by-miguel-gomes-selected-at-the-fortnight-p485.html
+"A PERFECT DAY" (Fernando Leon de ARANOA) [Quinzaine]
+
+"ALLENDE, MI ABUELO ALLENDE" (Marcia TAMBUTTI) [Quinzaine]
+
+"LE TOUT NOUVEAU TESTAMENT" (Jaco van DORMAEL) [Quinzaine]
+
+"GREEN ROOM" (Jeremy SAULNIER) [Quinzaine]
+
+"LES COWBOYS" (Thomas BIDEGAIN) [Quinzaine]
 
 "MUSTANG" (Deniz Gamze ERGUVEN) [Quinzaine]
 Glenn Heath Jr        4   https://twitter.com/MatchCuts/status/598627518850142209
 
-"ALLENDE, MI ABUELO ALLENDE" (Marcia TAMBUTTI) [Quinzaine]
-
-"THE BRAND NEW TESTAMENT" (Jaco van DORMAEL) [Quinzaine]
-
-"THE COWBOYS" (Thomas BIDEGAIN) [Quinzaine]
-
-"EMBRACE OF THE SERPENT" (Ciro GUERRA) [Quinzaine]
-
-"FATIMA" (Philippe FAUCON) [Quinzaine]
-
-"GREEN ROOM" (Jeremy SAULNIER) [Quinzaine]
-
-"THE HERE AFTER" (Magnus von HORN) [Quinzaine]
+"SONGS MY BROTHERS TAUGHT ME" (Chloe ZHAO) [Quinzaine] Sundance
 
 "MUCH LOVED" (Nabil AYOUCH) [Quinzaine]
 
+"AS MIL E UMA NOITES (Arabian Nights)" (Miguel GOMEZ) [Quinzaine]
+  http://www.quinzaine-realisateurs.com/arabian-nights-by-miguel-gomes-selected-at-the-fortnight-p485.html
+
+"FATIMA" (Philippe FAUCON) [Quinzaine]
+
 "PEACE TO US IN OUR DREAMS" (Sharunas BARTAS) [Quinzaine]
 
-"A PERFECT DAY" (Fernando Leon de ARANOA) [Quinzaine]
-
-"SONGS MY BROTHERS TAUGHT ME" (Chloe ZHAO) [Quinzaine] Sundance
+"EFTERSALV (THE HERE AFTER)" (Magnus von HORN) [Quinzaine]
 
 "YAKUZA APOCALYPSE: THE GREAT WAR OF THE UNDERWORLD" (Takashi MIIKE) [Quinzaine - Special Screening]
 
 "DOPE" (Rick FAMUYIWA) [Quinzaine] Sundance, Closer
 
 SEMAINE
+
+"LES ANARCHISTES (The Anarchists)" (Elie WAJEMAN) [Semaine] Opening film
+# Second film. France
+Jaime Pena            5.5
+Javier H. Estrada     5.5
+#
+Blake Williams        3.8	https://twitter.com/Astrostic/status/598952722579255296
 
 "SLEEPING GIANT" (Andrew CIDIVINO) [Semaine]
 # First film. Canada
@@ -365,39 +375,32 @@ José Luis Losa       5.5
 #
 Blake Williams        5.4  https://twitter.com/Astrostic/status/598810018268459009
 
-"DEGRADE" (Arab and Tarzan ABUNASSER) [Semaine]
-# First film. Palestine
-
-"KRISHA" (Trey Edward SHULTS) [Semaine] SXSW
-# First film. US, SXSW Winner
-
-"MEDITERRANEA" (Jonas CARPIGNANO) [Semaine]
-# First film.  Germany-U.S.-U.K.-Italy-France
+"PAULINA (La patota)" (Santiago MITRE) [Semaine]
+# Second film. Argentina-Brazil-France
 
 "NI LE CIEL, NI LA TERRE (The Wakhan Front)" (Clement COGITORE) [Semaine]
 # First film. France
 
-"PAULINA (La patota)" (Santiago MITRE) [Semaine]
-# Second film. Argentina-Brazil-France
+"COIN LOCKER GIRL" (HAN Jun-hee) [Semaine] Special screening
+# South Korea
+
+"DEGRADE" (Arab and Tarzan ABUNASSER) [Semaine]
+# First film. Palestine
 
 "LA TIERRA Y LA SOMBRA (La Terre et l’Ombre)" (Cesar ACEVEDO) [Semaine]
 # First film, Colombia
 
-"LES ANARCHISTES (The Anarchists)" (Elie WAJEMAN) [Semaine] Opening film
-# Second film. France
-Jaime Pena            5.5
-Javier H. Estrada     5.5
-#
-Blake Williams        3.8	https://twitter.com/Astrostic/status/598952722579255296
-
 "LES DEUX AMIS" (Louis GARREL) [Semaine] Special screening
 # First film. France
 
+"MEDITERRANEA" (Jonas CARPIGNANO) [Semaine]
+# First film.  Germany-U.S.-U.K.-Italy-France
+
+"KRISHA" (Trey Edward SHULTS) [Semaine] SXSW
+# First film. US, SXSW Winner
+
 "LA VIE EN GRAND ((Learn by Heart)" (Mathieu VADEPIED) [Semaine] Closing film
 # First film.
-
-"COIN LOCKER GIRL" (HAN Jun-hee) [Semaine] Special screening
-# South Korea
 
 ACID
 
@@ -407,28 +410,28 @@ http://www.lacid.org/-acid-program-in-the-cannes-film-109-
 Roger Alan Koza       5
 Javier H. Estrada     4
 
+"RAGING ROSE" (Julia Kowalski) [ACID]
+
+"WHERE THERE IS SHADE" (Nathan Nicholovitch) [ACID]
+
+"GAZ DE FRANCE (FRANCE IS A GAS)" (Benoit Forgeard) [ACID]
+
 "JE SUIS LE PEUPLE (I AM THE PEOPLE)" (Anna Roussillon) [ACID] 
 
 Giona Nazzaro         10
 Javier H. Estrada     6.5
+
+"PAULINE" (Emilie Brisavoine) [ACID]
+
+"THE GRIEF OF OTHERS" (Patrick Wang) [ACID]
+
+"LA VANITÉ" (Lionel Baier) [ACID]
 
 "VOLTA A TERRAA" (João Pedro Plácido) [ACID]
 
 Jaime Pena            7.5
 Giona Nazzaro         8
 Javier H. Estrada     7.5
-
-"PAULINE" (Emilie Brisavoine) [ACID]
-
-"WHERE THERE IS SHADE" (Nathan Nicholovitch) [ACID]
-
-"FRANCE IS A GAS" (Benoit Forgeard) [ACID]
-
-"LA VANITÉ" (Lionel Baier) [ACID]
-
-"THE GRIEF OF OTHERS" (Patrick Wang) [ACID]
-
-"RAGING ROSE" (Julia Kowalski) [ACID]
 
 EOF
 
