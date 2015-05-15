@@ -22,7 +22,9 @@ sub _read {
   my $critics = shift;
   my %critic = %{$_[0]};
   my %title = %{$_[1]};
+  my @critics_group = @{$_[2]};
   my ($critic,$mag,$cn,$out,@t);
+  my $i = 0;
   for my $c (@{$critics}) {
     for (split/\n/,$c) {
       undef $critic;
@@ -34,7 +36,9 @@ sub _read {
       next unless $critic;
       $critic{$critic}->{cn} = $cn if $cn;
       $critic{$critic}->{mag} = $mag if $mag;
+      $critic{$critic}->{group} = $critics_group[$i];
     }
+    $i++;
   }
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
@@ -190,6 +194,11 @@ sub _dump {
     $params_cn = ref(params->{cn}) eq 'ARRAY' ? params->{cn} : [ params->{cn} ];
     $params_cn{$_}++ for (@$params_cn);
   }
+  my (%params_g, $params_g);
+  if (Dancer::SharedData->request and params->{g}) {
+    $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
+    $params_g{$_}++ for (@$params_g);
+  }
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
@@ -218,6 +227,9 @@ sub _dump {
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5;
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
+    }
+    if ( %params_g and $critic{$c}->{group} ) {
+      $badcritic{$c}++ unless exists($params_g{$critic{$c}->{group}});
     }
   }
   # remove critics from %title if critics->stddev > 2.5.
@@ -439,20 +451,36 @@ sub _dump {
 sub _side_details {
   my %title = %{$_[0]};
   my %critic  = %{$_[1]};
+  my @critics_group  = @{$_[2]};
   my $out = '';
   if (Dancer::SharedData->request and params->{t}) {
     my $t = params->{t};
-    my %params_cn;
+    my (%params_cn, %params_g, %cn, %g_cnt);
     if (params->{cn}) {
       my $params_cn = ref(params->{cn}) eq 'ARRAY' ? params->{cn} : [ params->{cn} ];
       $params_cn{$_}++ for (@$params_cn);
     }
-    my ($cnbox, %cn) = ("<form><input type=hidden name=t value=\"$t\">\n");
+    if (params->{g}) {
+      my $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
+      $params_g{$_}++ for (@$params_g);
+    }
+    my $gbox = "<form><input type=hidden name=t value=\"$t\">\n";
+    my $cnbox = "";
     for (keys %critic) {
       if (my $cn = $critic{$_}->{cn}) {
 	$cn{$cn}++;
 	$params_cn{$cn}++ unless params->{cn};
       }
+      if (my $g = $critic{$_}->{group}) {
+	$g_cnt{$g}++;
+	$params_g{$g}++ unless params->{g};
+      }
+    }
+    for (@critics_group) {
+      my $n = $g_cnt{$_} || 0;
+      $gbox .= "<label><input name=\"g\" type=checkbox value=\"$_\"";
+      $gbox .= " checked" if $params_g{$_};
+      $gbox .= ">$_ ($n)</input></label><br>\n";
     }
     for (sort keys(%cn)) {
       next if $_ eq '?';
@@ -467,9 +495,17 @@ sub _side_details {
 	    . ($t ne "*"
 	       ? '<p><a href="?t=*"> all details </a></p>'
 	       : '<p><a href="?t="> no details </a></p>'
-	      )
-	    . '
-            <div onclick="flipAll(\'cn\')"><b title="Filter ratings (click to flip all)">Critics countries</b></div>
+            )
+            ;
+    $out .= '
+            <h4 onclick="flipAll(\'g\')"><b title="Filter ratings (click to flip all)">Poll</b></h4>
+	    '
+	    . $gbox . 
+	    '<input type=submit value="Filter">
+	     <span class=hover onclick="selectAll(\'g\')" title="Click here to select all">[all]</span>
+	     <span class=hover onclick="flipAll(\'g\')"  title="Click here to invert the selection">[flip]</span><br />' if @critics_group;
+    $out .= '
+            <h4 onclick="flipAll(\'cn\')"><b title="Filter ratings (click to flip all)">Critics countries</b></h4>
 	    '
 	    . $cnbox . 
 	    '<input type=submit value="Filter">
@@ -497,11 +533,12 @@ sub _list {
   my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
   my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
   my @critics = @{"Cannes::rurban::$year\::critics"};
-  my $vars = _dump( _read($DATA, \@critics, {}, {}) );
+  my @critics_group = @{"Cannes::rurban::$year\::critics_group"};
+  my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group) );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
-  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic});
+  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
   if ($DATA) {
     template 'cannes', $vars;
   } else {
@@ -529,7 +566,7 @@ get '/2015' => sub {
 };
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
-  for my $year (qw(2010 2011 2012 2013 2014)) {
+  for my $year (qw(2010 2011 2012 2013 2014 2015)) {
     no strict 'refs';
     my $dir = dirname(__FILE__);
     my $dat = "$dir/../../public/Cannes$year.dat";
@@ -543,7 +580,8 @@ get '/all' => sub {
     my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
     my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
     my @critics = @{"Cannes::rurban::$year\::critics"};
-    my @new = _read($DATA, \@critics, \%critic, \%title);
+    my @critics_group = @{"Cannes::rurban::$year\::critics_group"};
+    my @new = _read($DATA, \@critics, \%critic, \%title, \@critics_group);
     %critic = %{$new[0]}; %title = %{$new[1]};
     push @t, @{$new[2]};
     $vars->{year} = $year;
@@ -552,7 +590,7 @@ get '/all' => sub {
   }
   my $all = _dump( \%critic, \%title, \@t);
   $all->{year} = "2010-2015";
-  $all->{side_details} = _side_details(\%critic, \%title);
+  $all->{side_details} = _side_details(\%critic, \%title, \@{"Cannes::rurban::2015::critics_group"});
   template 'index', $all;
 };
 get '/' => sub {

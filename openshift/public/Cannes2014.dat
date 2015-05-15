@@ -3914,7 +3914,15 @@ Peter Labuza          8         http://thefilmstage.com/reviews/cannes-review-ha
 
 EOF
 
-our @critics;
+our (@critics, @critics_group);
+$critics_group[0] = "Todas";
+$critics_group[1] = "ioncinema";
+$critics_group[2] = "Le film français";
+$critics_group[3] = "Screen Daily";
+$critics_group[4] = "critic.de";
+$critics_group[5] = "TF1.fr";
+$critics_group[6] = "ICSfilm panel";
+$critics_group[7] = "None";
 $critics[0] = "
 Alejandro Calvo (Sensacine, España) 
 Alex Vicente (Público, España) 

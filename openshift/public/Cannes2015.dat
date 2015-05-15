@@ -797,7 +797,8 @@ Javier H. Estrada     7.5
 
 EOF
 
-our @critics;
+our (@critics, @critics_group);
+$critics_group[0] = "Todas";
 $critics[0] = "
 Alejandro G. Calvo (Sensacine, España)
 Alex Vicente (Público, España) 
@@ -852,7 +853,7 @@ Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/
 Andrea Picard (TIFF, Cinema Scope, Canada)
 Kong Rithdee (The Bangkok Post, Thailand) 
 ";
-# ioncinema
+$critics_group[1] = "ioncinema";
 $critics[1] = "
 Nicolas Bell (Ioncinema.com, USA)
 Christophe Beney (Accreds, France)
@@ -873,7 +874,7 @@ Cédric Succivalli (International Cinephil Society, France)
 Blake Williams (Ioncinema.com, Canada)
 ";
 #Carlos Heredero (Caimán Cuadernos de Cine, España)
-# Le film français 0-4
+$critics_group[2] = "Le film français";
 $critics[2] = "
 Stéphanie Lamome (Premiere, France)
 Arnaud Schwartz (la Croix, France)
@@ -893,6 +894,7 @@ Christophe Carriére (L'Express, France)
 ";
 # screen daily 0-4
 # http://issuu.com/emap_/docs/screen_cannes_day_1_2013
+$critics_group[3] = "Screen Daily";
 $critics[3] = "
 Nick James (Sight & Sound, UK) 
 Kate Muir/Wendy Ide (The Times, UK) 
@@ -906,6 +908,7 @@ Kong Rithdee (The Bangkok Post, Thailand)
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+$critics_group[4] = "critic.de";
 $critics[4] = "
 Miriam Bale (MUBI, USA)
 Arnaud Hée (Critikat.com, France)
@@ -920,7 +923,7 @@ Daniel Kasman (MUBI, USA)
 Michael Kienzl (critic.de, Deutschland)
 Nino Klingler (critic.de, Deutschland)
 ";
-# TF1.fr
+$critics_group[5] = "TF1.fr";
 $critics[5] = "
 Aurelien Allin (Cinemateaser, France)
 Evangeline Barbaroux (LCI, France)
@@ -933,6 +936,7 @@ Philippe Rouyer (Positif, France)
 Caroline Vie (20 minutes, Suisse)
 ";
 # ICSfilm panel (0-5) https://twitter.com/alvareztostado/status/469631470819344384/photo/1
+$critics_group[6] = "ICSfilm panel";
 $critics[6] = "
 Cédric Succivalli (International Cinephil Society, France)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
@@ -941,6 +945,7 @@ David Acacia (International Cinephil Society, Canada)
 Eren Odabasi (International Cinephil Society, Turkey)
 ";
 # indiewire + various other
+$critics_group[7] = "None";
 $critics[7] = "
 Kate Muir (The Times, UK) 
 Dennis Lim (New York Times, USA)
