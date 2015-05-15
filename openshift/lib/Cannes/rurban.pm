@@ -5,7 +5,8 @@ use utf8;
 
 our $VERSION = '0.2';
 our $comp_section = 'Competition';
-our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine", "Other");
+our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine", "ACID",
+                 "Other");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -313,7 +314,7 @@ sub _dump {
 	}
       }
     }
-    if (1 or $num) {
+    if ($num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
