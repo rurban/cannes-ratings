@@ -75,6 +75,17 @@ Yama Rahimi
 Isabelle Regnier      
 Cédric Succivalli     
 #Blake Williams       5
+# Screen Daily (0-4)
+Nick James            5
+Kate Muir/Wendy Ide   7.5
+Michel Ciment         1
+Julien Gester/Didier Peron 2.5
+Jan Schulz-Ojala      2.5
+Fabio Ferzetti        7.5
+Stephanie Zacharek    7.5       
+Paul Byrnes           7.5
+Kong Rithdee          1
+Screen International  7.5
 # critic.de
 Andrey Arnold         6
 Adam Cook             4
@@ -112,7 +123,7 @@ Alexandra Zawia       6.5
 Fernando Ganzo        3.5
 Alejandro G. Calvo    5
 Xavi Serra            6.5
-Kong Rithdee          0.1
+#Kong Rithdee          
 Philipp Engel         6
 Carlos Heredero       7.5
 Sergi Sanchez         4
@@ -136,6 +147,17 @@ Yama Rahimi
 Isabelle Regnier      
 Cédric Succivalli     
 Blake Williams        
+# Screen Daily (0-4)
+Nick James            5
+Kate Muir/Wendy Ide   5
+Michel Ciment         5
+Julien Gester/Didier Peron 5
+Jan Schulz-Ojala      7.5
+Fabio Ferzetti        5
+Stephanie Zacharek    5       
+Paul Byrnes           9
+Kong Rithdee          5
+Screen International  9
 # critic.de
 Andrey Arnold         6
 Till Kadritzke        7.5
@@ -873,17 +895,14 @@ Christophe Carriére (L'Express, France)
 # http://issuu.com/emap_/docs/screen_cannes_day_1_2013
 $critics[3] = "
 Nick James (Sight & Sound, UK) 
-David Stratton (The Australian, Australia) 
-Derek Malcolm (London Evening, UK) 
-Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
-Jose Carlos Avellar (Escrevercinema.com, Brazil) 
-Stephanie Zacharek (Village Voice, USA)
-Dennis Lim (New York Times, USA)
-Michel Ciment (Positif, France) 
 Kate Muir/Wendy Ide (The Times, UK) 
-Kate Muir (The Times, UK) 
-Wendy Ide (The Times, UK) 
-Bo Green Jensen (Weekandavisen Berlingske, Denmark) 
+Michel Ciment (Positif, France) 
+Julien Gester/Didier Peron (Liberation, France) 
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
+Fabio Ferzetti (El Messagero, Italy)
+Stephanie Zacharek (Village Voice, USA)
+Paul Byrnes (Sydney Morning Herald, Australia)
+Kong Rithdee (The Bangkok Post, Thailand) 
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -923,6 +942,13 @@ Eren Odabasi (International Cinephil Society, Turkey)
 ";
 # indiewire + various other
 $critics[7] = "
+Kate Muir (The Times, UK) 
+Dennis Lim (New York Times, USA)
+Derek Malcolm (London Evening, UK) 
+Wendy Ide (The Times, UK) 
+Bo Green Jensen (Weekandavisen Berlingske, Denmark) 
+David Stratton (The Australian, Australia) 
+Jose Carlos Avellar (Escrevercinema.com, Brazil)
 Adam Cook (MUBI, USA)
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
