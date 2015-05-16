@@ -7,7 +7,7 @@ package Cannes::rurban::2015; # -*- perl -*-
 # and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
 # french: http://www.lefilmfrancais.com/cannes2015/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
-# http://www.screendaily.com/festivals/cannes/cannes-2015-screens-dailies/5071703.article?blocktitle=DIGITAL-EDITIONS&contentID=41755   (scale 0-4) Safari yes, chrome no
+# http://www.screendaily.com/festivals/cannes/dailies/   (scale 0-4) Safari yes, chrome no
 # http://lci.tf1.fr/cinema/news/festival-de-cannes-2015-les-etoiles-de-la-presse-cinema-8419004.html
 # More:
 # http://www.indiewire.com/critic/
@@ -203,7 +203,7 @@ Michal Oleszczyk      8
 Javier H. Estrada     7.5
 José Luis Losa       9.5
 # ioncinema 0-5
-Nicolas Bell          
+Nicolas Bell                http://www.ioncinema.com/reviews/son-of-saul-review
 Christophe Beney      6
 David Calhoun         9
 Per Juul Carlsen      9
@@ -219,6 +219,17 @@ Yama Rahimi
 Isabelle Regnier      
 Cédric Succivalli     
 #Blake Williams       6
+# Screen Daily (0-4)
+Nick James            9
+Kate Muir/Wendy Ide   7.5
+Michel Ciment         5.5
+Julien Gester/Didier Peron  2.5 
+Jan Schulz-Ojala      5
+Fabio Ferzetti        7.5
+Stephanie Zacharek    5      
+Paul Byrnes           9
+Kong Rithdee          5
+Screen International  9
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             6
@@ -277,6 +288,17 @@ Yama Rahimi
 Isabelle Regnier      
 Cédric Succivalli     
 #Blake Williams       6
+# Screen Daily (0-4)
+Nick James            7.5
+Kate Muir/Wendy Ide   7.5
+Michel Ciment         2.5
+Julien Gester/Didier Peron  2.5 
+Jan Schulz-Ojala      7.5
+Fabio Ferzetti        5
+Stephanie Zacharek    7.5       
+Paul Byrnes           5
+Kong Rithdee          7.5
+Screen International  7.5
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             2.5
