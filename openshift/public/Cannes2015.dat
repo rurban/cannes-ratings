@@ -434,21 +434,21 @@ Paul Byrnes           2.5
 Kong Rithdee          1
 Screen International  2.5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme           
-Thomas Sotinel        
-Philippe Rouyer       
+Stéphanie Lamome      1
+Arnaud Schwartz       2.5
+Fabrice Leclerc       1
+Eric Neuhoff          1
+Stéphane Delorme      2.5    
+Thomas Sotinel        1
+Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        1
+Pierre Fornerod       2.5
+Pascal Merigeau       1
+Danielle Attali       2.5
+Christophe Carriére   1
 # critic.de
 Arnaud Hée           4
 Frédéric Jaeger     2.5
@@ -521,20 +521,20 @@ Kong Rithdee          5
 Screen International  7.5
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme           
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Arnaud Schwartz       9
+Fabrice Leclerc       9
+Eric Neuhoff          2.5
+Stéphane Delorme      9  
+Thomas Sotinel        7.5
+Philippe Rouyer       9
+Pierre Vavasseur      9
+Pierre Murat          5
+Jean Roy              9
+Serge Kaganski        7.5
+Pierre Fornerod       9
+Pascal Merigeau       7.5
+Danielle Attali       7.5
+Christophe Carriére   5
 # critic.de
 Arnaud Hée           9
 Frédéric Jaeger     7.5     http://www.critic.de/film/mia-madre-8166/
@@ -781,6 +781,22 @@ Diego Lerer           6.5
 Jaime Pena            5
 Fernando Juan Lima    5
 Giona Nazzaro         6.5
+# Le film français 0-4
+Stéphanie Lamome      5
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        5
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de
 Adam Cook             5
 
@@ -790,19 +806,68 @@ Jaime Pena            7
 Cristina Nord         6.5
 Javier H. Estrada     8.5
 Gustavo Beck          6
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          5
+Jean Roy              2.5
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de
 Cristina Nord         6
 
 "THE SHAMELESS (MU-ROE-HAN)" (OH Seung-Uk) [Un Certain Regard]
 # also known as "Rouge"
+
 Rüdiger Suchsland    6.5
 Alejandro G. Calvo    6
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              2.5
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "NAHID" (Ida PANAHANDEH) [Un Certain Regard]
 # First film
 
 Diego Batlle          7
 Javier H. Estrada     7
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       7.5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          7.5
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "MARYLAND" (Alice WINOCOUR) [Un Certain Regard]
 
@@ -810,6 +875,22 @@ Jaime Pena            3
 Jan Pieter Ekker      7
 Eulalia Iglesias      3.5
 Javier H. Estrada     5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        2.5
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de
 Frédéric Jaeger     4
 Till Kadritzke        6
@@ -820,20 +901,103 @@ Lukas Stern           4
 # Croatia (4th film)
 
 Diego Batlle          4
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "JOURNEY TO THE SHORE (Kishibe No Tabi)" (KUROSAWA Kiyoshi) [Un Certain Regard]
+
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # critic.de
 Adam Cook             6
 Boris Nelepo          6
 
 "CEMETERY OF SPLENDOUR (RAK TI KHON KAEN)" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
 
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+
 "THE CHOSEN ONES (Las elegidas)" (David PABLOS) [Un Certain Regard]
+
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "ALIAS MARIA" (Jose Luis RUGELES) [Un Certain Regard] Cartageno Film Fest
 
 Roger Alan Koza       5
 Diego Batlle          5.5
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "TAKLUB" (Brillante MENDOZA) [Un Certain Regard]
 
