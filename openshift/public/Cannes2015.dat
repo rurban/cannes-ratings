@@ -8,7 +8,7 @@ package Cannes::rurban::2015; # -*- perl -*-
 # french: http://www.lefilmfrancais.com/cannes2015/quotidien/ (scale 0-4)
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/dailies/   (scale 0-4) Safari yes, chrome no
-# http://lci.tf1.fr/cinema/news/festival-de-cannes-2015-les-etoiles-de-la-presse-cinema-8419004.html
+# http://lci.tf1.fr/cinema/news/ ? festival-de-cannes-2015-les-etoiles-de-la-presse-cinema-8419004.html
 # More:
 # http://www.indiewire.com/critic/
 # http://www.guardian.co.uk/film/series/first-look-review+cannes-2015
@@ -383,6 +383,7 @@ Anke Westphal         7.5
 Blake Williams        5.7   https://twitter.com/Astrostic/status/599137410635714561
 #
 Mike d'Angelo         6.5   https://twitter.com/gemko/status/599133235864547328
+Tim Grierson          8
 
 "THE SEA OF TREES" (Gus VAN SANT) [Competition]
 http://blogs.indiewire.com/criticwire/first-reviews-gus-van-sants-sea-of-trees-is-cannes-first-stinker-20150515
@@ -472,6 +473,7 @@ Tim Robey            4      http://www.telegraph.co.uk/film/the-sea-of-trees/rev
 Adam Woodward        2      http://www.littlewhitelies.co.uk/features/festivals/the-sea-of-trees-cannes-review-29946
 #
 Mike d'Angelo        3.7    https://twitter.com/gemko/status/599288666708672513
+Tim Grierson         3
 
 "MIA MADRE" (Nani MORETTI) [Competition]
 
@@ -629,6 +631,10 @@ Boris Nelepo          9
 Lukas Stern           9       http://www.critic.de/film/carol-8154/
 Anke Westphal         7.5
 Alexandra Zawia       7.5
+#
+Tim Grierson          7
+Diana Drumm           9
+Peter Bradshaw        10      http://www.theguardian.com/film/2015/may/16/carol-review-cate-blanchett-captivates-in-woozily-obsessive-lesbian-romance
 
 "MON ROI" (MAÏWENN) [Competition]
 
@@ -653,6 +659,9 @@ Alexandra Zawia       6
 #
 Mike d'Angelo         5.1  https://twitter.com/gemko/status/599860369411158017
 Blake Williams        3.4  https://twitter.com/Astrostic/status/599857246860877824
+Tim Grierson          6
+Diana Drumm           4
+Peter Bradshaw        2    http://www.theguardian.com/film/2015/may/17/mon-roi-review-vincent-cassel-maiwenn
 
 "LOUDER THAN BOMBS" (Joachim TRIER) [Competition]
 
@@ -673,7 +682,9 @@ Lukas Stern           4
 Mike d'Angelo         5.8   https://twitter.com/gemko/status/600071545508253696
 Blake Williams        6.1   https://twitter.com/Astrostic/status/600056735529840641
 Robbie Collin               https://twitter.com/robbiereviews/status/600013438375567362
-Eric Kohn                   https://twitter.com/erickohn/status/600018025878806529
+Eric Kohn                   http://www.indiewire.com/article/cannes-review-joaquim-triers-louder-than-bombs-is-a-complex-family-drama-done-right-20150517
+#https://twitter.com/erickohn/status/600018025878806529
+Tim Grierson          7
 
 "THE MEASURE OF A MAN (La loi du Marché)" (Stéphane BRIZÉ) [Competition]
 
@@ -755,7 +766,7 @@ Pascal Merigeau
 Danielle Attali       2.5
 Christophe Carriére   
 # critic.de
-Adam Cook             2.5
+Adam Cook             2.5     http://www.indiewire.com/article/why-does-the-cannes-film-festival-keep-programming-naomi-kawases-movies-20150517
 Arnaud Hée           4
 Till Kadritzke        4       http://www.critic.de/film/sweet-red-bean-paste-8178/
 Boris Nelepo          6
@@ -947,6 +958,7 @@ Michael Kienzl        6
 Lukas Stern           4
 #
 Blake Williams        6.4  https://twitter.com/Astrostic/status/599690065225330690
+Benjamin Lee          6    http://www.theguardian.com/film/2015/may/16/disorder-review-cannes-film-festival-2015-matthias-schoenaerts-thriller
 
 "THE HIGH SUN (Zvizdan)" (Dalibor MATANIC) [Un Certain Regard]
 # Croatia (4th film)
@@ -1190,6 +1202,7 @@ Eric Kohn            8.3      http://www.indiewire.com/article/review-mad-max-fu
 Peter Bradshaw       8        http://www.theguardian.com/film/2015/may/11/mad-max-fury-road-review-tom-hardy
 Claudia Puig         7.5      http://www.usatoday.com/story/life/movies/2015/05/14/mad-max-review-puig/27295193/
 Tim Grierson         7        http://www.screendaily.com/reviews/mad-max-fury-road-review/5087602.article?
+Diana Drumm          9
 
 "IRRATIONAL MAN" (Woody ALLEN) [Out of Competition]
 
@@ -1218,6 +1231,7 @@ Anke Westphal         6
 Kate Muir             4     http://www.thetimes.co.uk/tto/arts/film/cannes/article4441523.ece
 #
 Mike d'Angelo         5.8   https://twitter.com/gemko/status/599171737545244672
+Tim Grierson          5
 
 "AFTERTHOUGHT (HAYORED LEMA'ALA)" (Elad KEIDAN)
 # First film
@@ -1233,6 +1247,8 @@ Blake Williams        6.1   https://twitter.com/Astrostic/status/599304011578273
 Alexandra Zawia       1.5
 # critic.de
 #Alexandra Zawia       2.5
+#
+Tim Grierson          4
 
 "INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
 Fernando Juan Lima    0.1
@@ -1248,6 +1264,9 @@ Diego Lerer           4
 Alejandro G. Calvo    5
 Xavi Serra            5.5
 Jan Pieter Ekker      4
+#
+Diana Drumm           8
+Nigel M. Smith        9
 
 "LOVE" (Gasper Noe) [Out Of Competition] Midnight
 
@@ -1343,6 +1362,8 @@ Carlos Heredero       4.5
 Eulalia Iglesias      4
 Javier H. Estrada     3.5
 Luciano Barisone      7
+#
+Henry Barnes          6     http://www.theguardian.com/film/2015/may/16/a-perfect-day-review-cannes-2015-film-benicio-del-toro-tim-robbins
 
 "ALLENDE, MI ABUELO ALLENDE" (Marcia TAMBUTTI) [Quinzaine]
 
@@ -1370,6 +1391,7 @@ José Luis Losa       6
 Till Kadritzke        4
 #
 Mike d'Angelo         6.7  https://twitter.com/gemko/status/600071822017691649
+Benjamin Lee          8    http://www.theguardian.com/film/2015/may/17/green-room-review-horror-cannes-film-festival-2015-patrick-stewart
 
 "LES COWBOYS" (Thomas BIDEGAIN) [Quinzaine]
 
@@ -1735,6 +1757,7 @@ David Rooney (The Hollywood Reporter, USA)
 David Sexton (Evening Standard, UK)
 David Sterrit (Tikkun Magazine, USA)
 Dennis Harvey (Variety, US)
+Diana Drumm (The Black Maria, The Film Experience, Sound on Sight, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
 Donald Clarke (Irish Times, Ireland)
 Drew McWeeny (InContention, USA)
