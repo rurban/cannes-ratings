@@ -57,6 +57,7 @@ Eulalia Iglesias      5
 Michal Oleszczyk      6.5
 Javier H. Estrada     4
 Eugenio Renzi         7
+Violeta Kovacsics     5
 Luciano Barisone      6.5
 José Luis Losa       5
 Dominic Kalmazadeh    5.5
@@ -134,6 +135,7 @@ Carlos Heredero       7.5
 Sergi Sanchez         4
 Jan Pieter Ekker      6.5
 Eulalia Iglesias      5.5
+Violeta Kovacsics     7
 José Luis Losa       4
 Dominic Kalmazadeh    6.5
 Gustavo Beck          2
@@ -225,6 +227,7 @@ Jan Pieter Ekker      9
 Eulalia Iglesias      8
 Michal Oleszczyk      8
 Javier H. Estrada     7.5
+Violeta Kovacsics     9
 José Luis Losa       9.5
 Dominic Kalmazadeh    5
 Gustavo Beck          3
@@ -321,6 +324,7 @@ Jan Pieter Ekker      6.5
 Eulalia Iglesias      6.5
 Michal Oleszczyk      4
 Javier H. Estrada     8.5
+Violeta Kovacsics     6
 Luciano Barisone      7.5
 José Luis Losa       9
 Dominic Kalmazadeh    9
@@ -412,6 +416,7 @@ Carlos Heredero       4
 Sergi Sanchez         1
 Eulalia Iglesias      4
 Michal Oleszczyk      2.5
+Violeta Kovacsics     4.5
 Luciano Barisone      4
 José Luis Losa       0.5
 Dominic Kalmazadeh    0.5
@@ -504,6 +509,7 @@ Jan Pieter Ekker      6
 Eulalia Iglesias      6.5
 Michal Oleszczyk      5
 Javier H. Estrada     5
+Violeta Kovacsics     8.5
 José Luis Losa       5
 Dominic Kalmazadeh    5.5
 Gustavo Beck          4
@@ -587,6 +593,7 @@ Sergi Sanchez         9.5
 Jan Pieter Ekker      8
 Eulalia Iglesias      8.5
 Javier H. Estrada     7.5
+Violeta Kovacsics     10
 José Luis Losa       10
 Dominic Kalmazadeh    7
 Gustavo Beck          8
@@ -687,12 +694,14 @@ Daniel Kasman         7
 Emiliano Fernández   6
 Giona Nazzaro         1.5
 Cristina Nord         4.5
+Luciano Monteagudo    4.5
 Alexandra Zawia       4.5
 Alejandro G. Calvo    4
 Carlos Heredero       6.5
 Sergi Sanchez         4
 Jan Pieter Ekker      6.5
 Javier H. Estrada     6
+Violeta Kovacsics     4
 José Luis Losa       5.5
 # critic.de
 Andrey Arnold         6
@@ -715,6 +724,7 @@ Tim Grierson          7
 
 "THE MEASURE OF A MAN (La loi du Marché)" (Stéphane BRIZÉ) [Competition]
 
+Luciano Monteagudo    6
 Alejandro G. Calvo    5
 
 # ioncinema 0-5
@@ -830,6 +840,7 @@ Alejandro G. Calvo    5
 Carlos Heredero       6
 Michal Oleszczyk      9
 Javier H. Estrada     6
+Violeta Kovacsics     5
 José Luis Losa       7
 Dominic Kalmazadeh    6.5
 Gustavo Beck          5
@@ -1062,6 +1073,7 @@ Blake Williams        4.3  https://twitter.com/Astrostic/status/5999450370493890
 "CEMETERY OF SPLENDOUR (RAK TI KHON KAEN)" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
 
 Giona Nazzaro         8
+Luciano Monteagudo    9
 Alexandra Zawia       10
 # Le film français 0-4
 Stéphanie Lamome      
@@ -1146,6 +1158,7 @@ Arnaud Hée           7.5
 
 Diego Batlle          5
 Carlos Heredero       6
+Violeta Kovacsics     6.5
 
 SPECIAL SCREENINGS
 
@@ -1167,6 +1180,7 @@ Pamela Bienzobas      5.5
 Sergi Sanchez         4
 Jan Pieter Ekker      6.5
 Eulalia Iglesias      4
+Violeta Kovacsics     3
 José Luis Losa       3
 # Le film français 0-4
 Stéphanie Lamome      5
@@ -1207,19 +1221,6 @@ Peter Bradshaw        6    http://www.theguardian.com/film/2015/may/13/la-tete-h
 
 "PANAMA" (Pavle VUCKOVIC) [Special Screening]
 # First film
-
-"AMNESIA" (Barbet SCHROEDER) [Special Screening]
-
-Cristina Nord         1.5
-Alejandro G. Calvo    6.5
-# critic.de
-Boris Nelepo          6
-Cristina Nord         2.5
-Lukas Stern           1
-
-"ASPHALTE" (Samuel BENCHETRIT) [Special Screening]
-
-"UNE HISTOIRE DE FOU" (Robert GUEDIGUIAN) [Special Screening]
 
 "MAD MAX: FURY ROAD" (George MILLER) [Out of Competition]
 Diego Lerer           8
@@ -1308,11 +1309,6 @@ Alexandra Zawia       1.5
 #
 Tim Grierson          4
 
-"INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
-
-Emiliano Fernández   10
-Alejandro G. Calvo    10
-
 "THE LITTLE PRINCE (Le Petit Prince)" (Mark OSBORNE) [Out of Competition]
 
 "O PISEU (Office)" (HONG Won-Chan) [Out Of Competition] Midnight
@@ -1329,6 +1325,25 @@ Jan Pieter Ekker      5.5
 #
 Diana Drumm           8
 Nigel M. Smith        9
+
+"INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
+
+Emiliano Fernández   10
+Alejandro G. Calvo    10
+Violeta Kovacsics     8
+
+"AMNESIA" (Barbet SCHROEDER) [Special Screening]
+
+Cristina Nord         1.5
+Alejandro G. Calvo    6.5
+# critic.de
+Boris Nelepo          6
+Cristina Nord         2.5
+Lukas Stern           1
+
+"ASPHALTE" (Samuel BENCHETRIT) [Special Screening]
+
+"UNE HISTOIRE DE FOU" (Robert GUEDIGUIAN) [Special Screening]
 
 "LOVE" (Gasper Noe) [Out Of Competition] Midnight
 
@@ -1356,6 +1371,7 @@ Pamela Bienzobas      6.5
 Eulalia Iglesias      7.5
 Javier H. Estrada     7.5
 Eugenio Renzi         8
+Violeta Kovacsics     7.5
 Luciano Barisone      8
 Robert Koehler        9
 José Luis Losa       6.5
@@ -1406,6 +1422,7 @@ Alejandro G. Calvo    7.5
 Carlos Heredero       7
 Eulalia Iglesias      4.5
 Javier H. Estrada     6.5
+Violeta Kovacsics     7.5
 Luciano Barisone      8.5
 Dominic Kalmazadeh    6.5
 Gustavo Beck          7
@@ -1546,6 +1563,7 @@ Luciano Monteagudo    7
 Pamela Bienzobas      8.5
 Eulalia Iglesias      8
 Javier H. Estrada     6
+Violeta Kovacsics     7.5
 Robert Koehler        7
 José Luis Losa       7.5
 # critic.de
