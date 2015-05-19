@@ -12,7 +12,7 @@ package Cannes::rurban::2015; # -*- perl -*-
 # http://lci.tf1.fr/cinema/news/ ? festival-de-cannes-2015-les-etoiles-de-la-presse-cinema-8419004.html
 # More:
 # http://www.indiewire.com/critic/
-# http://www.guardian.co.uk/film/series/first-look-review+cannes-2015
+# http://www.theguardian.com/film/cannes-2015
 #
 # Published at http://cannes-rurban.rhcloud.com/2015
 # History at https://github.com/rurban/cannes-critics-ratings
@@ -1013,6 +1013,10 @@ David Honorat
 Chris Beney           
 # critic.de
 Michael Kienzl        5
+
+#
+Jordan Hoffman        8   http://www.theguardian.com/film/2015/may/19/sicario-review-emily-blunt-thriller
+
 
 "MOUNTAINS MAY DEPART (Shan he gu ren/山河故人)" (JIA Zhang-Ke) [Competition]
 
@@ -2068,6 +2072,9 @@ Mirjam Urban          7
 "MUSTANG" (Deniz Gamze ERGUVEN) [Quinzaine]
 
 Gustavo Beck          1
+
+#
+Jordan Hoffman        8   http://www.theguardian.com/film/2015/may/19/mustang-review-the-virgin-suicides-in-istanbul-is-a-turkish-delight
 
 Glenn Heath Jr        4   https://twitter.com/MatchCuts/status/598627518850142209
 
