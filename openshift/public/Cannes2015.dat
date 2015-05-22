@@ -9,7 +9,7 @@ package Cannes::rurban::2015; # -*- perl -*-
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
 # http://icsfilm.org/features/ics-cannes-poll-2015/
-# http://lci.tf1.fr/cinema/news/
+# http://lci.tf1.fr/festival-de-cannes/
 # More:
 # http://www.indiewire.com/critic/
 # http://www.theguardian.com/film/cannes-2015
@@ -1394,7 +1394,8 @@ Paola Casella         5
 #Mike d'Angelo        7
 Jean-Philippe Guerand 8
 #Carlos Heredero      2
-Aaron Hillis          
+Aaron Hillis                http://filmmakermagazine.com/94345-cannes-2015-critics-notebook-2-love-and-youth
+
 Fabien Lemercier      7
 Marc-André Lussier    8
 Liu Min               
@@ -2790,7 +2791,7 @@ Mike d'Angelo         4.5   https://twitter.com/gemko/status/601310194002440192
 David Calhoun         6     http://www.timeout.com/london/film/love-2015
 Jérémie Couston             http://www.telerama.fr/festival-de-cannes/2015/love-de-gaspar-noe-ejac-facile,127012.php
 Robbie Collin         4     http://www.telegraph.co.uk/film/love/review/
-
+Aaron Hillis                http://filmmakermagazine.com/94345-cannes-2015-critics-notebook-2-love-and-youth
 
 "OUR HOUSE (OKA)" (Souleymane CISSÉ) [Special Screening]
 
@@ -3091,6 +3092,7 @@ Lukas Stern           6
 #
 Blake Williams        7.5   https://twitter.com/Astrostic/status/599551108395196416
 Dominik Kamalzadeh          http://t.co/ujLzBH0Js7
+Jonathan Romney             http://filmcomment.com/entry/film-of-the-week-arabian-nights
 
 "FATIMA" (Philippe FAUCON) [Quinzaine]
 
