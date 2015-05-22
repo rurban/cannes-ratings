@@ -7,9 +7,9 @@ package Cannes::rurban::2015; # -*- perl -*-
 # http://www.ioncinema.com/ (scaled to 0-10)
 # http://www.lefilmfrancais.com/document/cannes2015/quotidien/FF9/index.html (scale 0-4)
 # http://jury.critic.de/cannes/
-# http://www.screendaily.com/festivals/cannes/dailies/   (scale 0-4) Safari yes, chrome no
+# http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
 # http://icsfilm.org/features/ics-cannes-poll-2015/
-# http://lci.tf1.fr/cinema/news/ ? festival-de-cannes-2015-les-etoiles-de-la-presse-cinema-8419004.html
+# http://lci.tf1.fr/cinema/news/
 # More:
 # http://www.indiewire.com/critic/
 # http://www.theguardian.com/film/cannes-2015
@@ -2817,6 +2817,8 @@ Carlos Reviriego      7
 Xavi Serra            7
 Sergi Sanchez         7.5
 
+Oliver Lyttleton      7     http://blogs.indiewire.com/theplaylist/cannes-review-the-little-prince-is-a-visually-glorious-and-extremely-moving-adaptation-of-the-childrens-classic-20150522
+
 QUINZAINE
 
 "L’OMBRE DES FEMMES (In the Shadow of Women)" (Philippe GARREL) [Quinzaine] Opening Film
@@ -3301,6 +3303,7 @@ Eulalia Iglesias      6.5
 José Luis Losa       6
 
 Peter Bradshaw        8     http://www.theguardian.com/film/2015/may/19/hitchcocktruffaut-review-cannes-looks-back-to-a-golden-past-of-cinephilia
+
 
 ACID
 
