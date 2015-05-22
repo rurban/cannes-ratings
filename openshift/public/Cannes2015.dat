@@ -4,8 +4,8 @@ package Cannes::rurban::2015; # -*- perl -*-
 # Cannes 2015 Critics Ratings
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
-# and 16 more western critics from http://www.ioncinema.com/ (scaled to 0-10)
-# french: http://www.lefilmfrancais.com/cannes2015/quotidien/ (scale 0-4)
+# http://www.ioncinema.com/ (scaled to 0-10)
+# http://www.lefilmfrancais.com/document/cannes2015/quotidien/FF9/index.html (scale 0-4)
 # http://jury.critic.de/cannes/
 # http://www.screendaily.com/festivals/cannes/dailies/   (scale 0-4) Safari yes, chrome no
 # http://icsfilm.org/features/ics-cannes-poll-2015/
@@ -33,6 +33,7 @@ our $DATA= <<'EOF';
 COMPETITION
 
 "THE TALE OF TALES (Il Racconto dei Racconti)" (Matteo GARRONE) [Competition]
+
 Diego Lerer           5
 Roger Alan Koza       3.5
 Jaime Pena            6.5
@@ -67,6 +68,20 @@ Luciano Barisone      6.5
 José Luis Losa       5
 Dominik Kamalzadeh    5.5
 Gustavo Beck          1
+
+# critic.de
+Andrey Arnold         6
+Adam Cook             4
+Frédéric Jaeger     5
+Till Kadritzke        5
+Daniel Kasman         2.5     http://mubi.com/notebook/posts/cannes-2015-day-1
+Michael Kienzl        5
+Boris Nelepo          5
+Cristina Nord         6
+Lukas Stern           6       http://www.critic.de/film/il-racconto-dei-racconti-8153/
+Rüdiger Suchsland    1
+Anke Westphal         7.5
+Alexandra Zawia       6       http://www.wienerzeitung.at/dossiers/cannes/751875_Brutal-und-urspruenglich.html
 # ioncinema 0-5
 Nicolas Bell          8
 Christophe Beney      6
@@ -95,19 +110,22 @@ Stephanie Zacharek    7.5
 Paul Byrnes           7.5
 Kong Rithdee          1
 Screen International  7.5
-# critic.de
-Andrey Arnold         6
-Adam Cook             4
-Frédéric Jaeger     5
-Till Kadritzke        5
-Daniel Kasman         2.5     http://mubi.com/notebook/posts/cannes-2015-day-1
-Michael Kienzl        5
-Boris Nelepo          5
-Cristina Nord         6
-Lukas Stern           6       http://www.critic.de/film/il-racconto-dei-racconti-8153/
-Rüdiger Suchsland    1
-Anke Westphal         7.5
-Alexandra Zawia       6       http://www.wienerzeitung.at/dossiers/cannes/751875_Brutal-und-urspruenglich.html
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       4
+Fabrice Leclerc       1
+Eric Neuhoff          1
+Stéphane Delorme      1     
+Thomas Sotinel        2.5
+Philippe Rouyer       1
+Pierre Vavasseur      5
+Pierre Murat          1
+Jean Roy              5
+Serge Kaganski        1
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       7.5
+Christophe Carriére   2.5
 # ics
 Cédric Succivalli     8
 Marc van de Klashorst 8     http://icsfilm.org/features/cannes-2015-tale-of-tales-matteo-garrone/
@@ -154,6 +172,19 @@ Violeta Kovacsics     7
 José Luis Losa       4
 Dominik Kamalzadeh    6.5
 Gustavo Beck          2
+
+# critic.de
+Andrey Arnold         6
+Adam Cook             2.5
+Till Kadritzke        7.5
+Daniel Kasman         5       http://mubi.com/notebook/posts/cannes-2015-day-1
+Michael Kienzl        7.5
+Boris Nelepo          5
+Cristina Nord         7.5     http://www.taz.de/1/archiv/digitaz/artikel/?ressort=ku&dig=2015%2F05%2F16%2Fa0160&cHash=f099e288c2beab026562226d4384e491
+Lukas Stern           4
+Rüdiger Suchsland    9
+Anke Westphal         6
+Alexandra Zawia       6       http://www.wienerzeitung.at/dossiers/cannes/752121_Von-Hummern-und-anderen-Familienmitgliedern.html
 # ioncinema 0-5
 Nicolas Bell          6     http://www.ioncinema.com/reviews/our-little-sister-review
 Christophe Beney      
@@ -185,7 +216,7 @@ Screen International  9
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       9
-Fabrice Leclerc       
+Fabrice Leclerc       2.5
 Eric Neuhoff          2.5
 Stéphane Delorme            
 Thomas Sotinel        7.5
@@ -198,19 +229,6 @@ Pierre Fornerod       5
 Pascal Merigeau       2.5
 Danielle Attali       2.5
 Christophe Carriére   
-# critic.de
-Andrey Arnold         6
-Adam Cook             2.5
-Till Kadritzke        7.5
-Daniel Kasman         5       http://mubi.com/notebook/posts/cannes-2015-day-1
-Michael Kienzl        7.5
-Boris Nelepo          5
-Cristina Nord         7.5     http://www.taz.de/1/archiv/digitaz/artikel/?ressort=ku&dig=2015%2F05%2F16%2Fa0160&cHash=f099e288c2beab026562226d4384e491
-Lukas Stern           4
-Rüdiger Suchsland    9
-Anke Westphal         6
-Alexandra Zawia       6       http://www.wienerzeitung.at/dossiers/cannes/752121_Von-Hummern-und-anderen-Familienmitgliedern.html
-#
 # ics
 Cédric Succivalli     7
 Marc van de Klashorst     
@@ -259,6 +277,20 @@ Violeta Kovacsics     9
 José Luis Losa       9.5
 Dominik Kamalzadeh    5
 Gustavo Beck          3
+
+# critic.de
+Andrey Arnold         7.5
+Adam Cook             6
+Arnaud Hée           6
+Frédéric Jaeger     9
+Till Kadritzke        5
+Michael Kienzl        6       http://www.critic.de/film/son-of-saul-8167/
+Boris Nelepo          6
+Cristina Nord         4       http://www.taz.de/1/archiv/digitaz/artikel/?ressort=ku&dig=2015%2F05%2F18%2Fa0097&cHash=be6287f03f622f79d4715061706f42f9
+Lukas Stern           6
+Rüdiger Suchsland    5
+Anke Westphal         5
+Alexandra Zawia       5
 # ioncinema 0-5
 Nicolas Bell          7      http://www.ioncinema.com/reviews/son-of-saul-review
 Christophe Beney      6
@@ -303,19 +335,6 @@ Pierre Fornerod       7.5
 Pascal Merigeau       2.5
 Danielle Attali       9
 Christophe Carriére   9
-# critic.de
-Andrey Arnold         7.5
-Adam Cook             6
-Arnaud Hée           6
-Frédéric Jaeger     9
-Till Kadritzke        5
-Michael Kienzl        6       http://www.critic.de/film/son-of-saul-8167/
-Boris Nelepo          6
-Cristina Nord         4       http://www.taz.de/1/archiv/digitaz/artikel/?ressort=ku&dig=2015%2F05%2F18%2Fa0097&cHash=be6287f03f622f79d4715061706f42f9
-Lukas Stern           6
-Rüdiger Suchsland    5
-Anke Westphal         5
-Alexandra Zawia       5
 # ics
 Cédric Succivalli     1
 Marc van de Klashorst 10
@@ -526,7 +545,7 @@ Eric Neuhoff          1
 Stéphane Delorme      2.5    
 Thomas Sotinel        1
 Philippe Rouyer       2.5
-Pierre Vavasseur      
+Pierre Vavasseur      1
 Pierre Murat          1
 Jean Roy              2.5
 Serge Kaganski        1
@@ -587,6 +606,7 @@ Violeta Kovacsics     8.5
 José Luis Losa       5
 Dominik Kamalzadeh    5.5
 Gustavo Beck          4
+
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      7
@@ -728,21 +748,21 @@ Paul Byrnes           9
 Kong Rithdee          7.5
 Screen International  7.5
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
-Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme           
-Thomas Sotinel        
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
-Pascal Merigeau       
-Danielle Attali       
-Christophe Carriére   
+Stéphanie Lamome      5
+Arnaud Schwartz       9
+Fabrice Leclerc       5
+Eric Neuhoff          7.5
+Stéphane Delorme      7.5  
+Thomas Sotinel        9
+Philippe Rouyer       7.5
+Pierre Vavasseur      2.5
+Pierre Murat          7.5
+Jean Roy              5
+Serge Kaganski        5
+Pierre Fornerod       9
+Pascal Merigeau       5
+Danielle Attali       1
+Christophe Carriére   7.5
 # ics
 Cédric Succivalli     10
 Marc van de Klashorst 9
@@ -776,6 +796,11 @@ Eugenio Renzi         3.5
 Dominik Kamalzadeh    1
 Gustavo Beck          1
 
+# critic.de
+Frédéric Jaeger     7.5
+Till Kadritzke        7.5     http://www.critic.de/film/mon-roi-8165/
+Anke Westphal         5
+Alexandra Zawia       6
 # ioncinema 0-5
 Nicolas Bell          4
 Christophe Beney      2
@@ -804,11 +829,22 @@ Stephanie Zacharek    7.5
 Paul Byrnes           
 Kong Rithdee          2.5
 Screen International  5
-# critic.de
-Frédéric Jaeger     7.5
-Till Kadritzke        7.5     http://www.critic.de/film/mon-roi-8165/
-Anke Westphal         5
-Alexandra Zawia       6
+# Le film français 0-4
+Stéphanie Lamome      9
+Arnaud Schwartz       5
+Fabrice Leclerc       2.5
+Eric Neuhoff          9
+Stéphane Delorme      1    
+Thomas Sotinel        1
+Philippe Rouyer       2.5
+Pierre Vavasseur      7.5
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        1
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       5
+Christophe Carriére   7.5
 # ics
 Cédric Succivalli     0.5
 Marc van de Klashorst 
@@ -857,8 +893,20 @@ José Luis Losa       5.5
 Dominik Kamalzadeh    5.5
 Gustavo Beck          2
 
+# critic.de
+Andrey Arnold         6
+Adam Cook             6
+Arnaud Hée           5
+Frédéric Jaeger     5
+Daniel Kasman         6       https://mubi.com/notebook/posts/cannes-2015-day-5
+Michael Kienzl        5       http://www.critic.de/film/louder-than-bombs-8169/
+Boris Nelepo          6
+Cristina Nord         5
+Lukas Stern           4
+Anke Westphal         9
+Alexandra Zawia       4       http://www.wienerzeitung.at/dossiers/cannes/752407_Bedeutungslose-Bomben.html
 # ioncinema 0-5
-Nicolas Bell          7     http://www.ioncinema.com/reviews/louder-than-bombs-review
+Nicolas Bell          7       http://www.ioncinema.com/reviews/louder-than-bombs-review
 Christophe Beney      3
 David Calhoun         5
 Per Juul Carlsen      8
@@ -885,18 +933,22 @@ Stephanie Zacharek    9
 Paul Byrnes           5
 Kong Rithdee          5
 Screen International  7.5
-# critic.de
-Andrey Arnold         6
-Adam Cook             6
-Arnaud Hée           5
-Frédéric Jaeger     5
-Daniel Kasman         6       https://mubi.com/notebook/posts/cannes-2015-day-5
-Michael Kienzl        5       http://www.critic.de/film/louder-than-bombs-8169/
-Boris Nelepo          6
-Cristina Nord         5
-Lukas Stern           4
-Anke Westphal         9
-Alexandra Zawia       4       http://www.wienerzeitung.at/dossiers/cannes/752407_Bedeutungslose-Bomben.html
+# Le film français 0-4
+Stéphanie Lamome      5
+Arnaud Schwartz       7.5
+Fabrice Leclerc       5
+Eric Neuhoff          2.5
+Stéphane Delorme      2.5  
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          9
+Jean Roy              2.5
+Serge Kaganski        7.5
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       2.5
+Christophe Carriére   2.5
 # ics
 Cédric Succivalli     6
 Marc van de Klashorst 7
@@ -939,6 +991,13 @@ José Luis Losa       4
 Dominik Kamalzadeh    6
 Gustavo Beck          5
 
+# critic.de
+Andrey Arnold         6
+Arnaud Hée           4
+Frédéric Jaeger     6
+Lukas Stern           7.5     http://www.critic.de/film/a-simple-man-8151/
+Anke Westphal         4
+Alexandra Zawia       5
 # ioncinema 0-5
 Nicolas Bell          6
 Christophe Beney      8
@@ -967,13 +1026,22 @@ Stephanie Zacharek    5
 Paul Byrnes           7.5
 Kong Rithdee          5
 Screen International  7.5
-# critic.de
-Andrey Arnold         6
-Arnaud Hée           4
-Frédéric Jaeger     6
-Lukas Stern           7.5     http://www.critic.de/film/a-simple-man-8151/
-Anke Westphal         4
-Alexandra Zawia       5
+# Le film français 0-4
+Stéphanie Lamome      9
+Arnaud Schwartz       9
+Fabrice Leclerc       9
+Eric Neuhoff          2.5
+Stéphane Delorme      1  
+Thomas Sotinel        5
+Philippe Rouyer       7.5
+Pierre Vavasseur      9
+Pierre Murat          7.5
+Jean Roy              5
+Serge Kaganski        7.5
+Pierre Fornerod       7.5
+Pascal Merigeau       7.5
+Danielle Attali       7.5
+Christophe Carriére   9
 # ics
 Cédric Succivalli     0.5
 Marc van de Klashorst 
@@ -1051,6 +1119,22 @@ Stephanie Zacharek    2.5
 Paul Byrnes           2.5
 Kong Rithdee          2.5
 Screen International  5
+# Le film français 0-4
+Stéphanie Lamome      9
+Arnaud Schwartz       2.5
+Fabrice Leclerc       2.5
+Eric Neuhoff          1
+Stéphane Delorme      7.5    
+Thomas Sotinel        2.5
+Philippe Rouyer       1
+Pierre Vavasseur      7.5
+Pierre Murat          1
+Jean Roy              2.5
+Serge Kaganski        2.5
+Pierre Fornerod       2.5
+Pascal Merigeau       1
+Danielle Attali       2.5
+Christophe Carriére   7.5
 # ics
 Cédric Succivalli     
 Marc van de Klashorst 2
@@ -1123,6 +1207,22 @@ Stephanie Zacharek    5
 Paul Byrnes           9
 Kong Rithdee          5
 Screen International  9
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       7.5
+Fabrice Leclerc       5
+Eric Neuhoff          9
+Stéphane Delorme      1
+Thomas Sotinel        1
+Philippe Rouyer       5
+Pierre Vavasseur      7.5
+Pierre Murat          2.5
+Jean Roy              7.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       2.5
+Danielle Attali       7.5
+Christophe Carriére   2.5
 # ics
 Cédric Succivalli     3
 Marc van de Klashorst 8
@@ -1213,6 +1313,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       7.5
+Fabrice Leclerc       5
+Eric Neuhoff          1
+Stéphane Delorme      2.5
+Thomas Sotinel        5
+Philippe Rouyer       9
+Pierre Vavasseur      5
+Pierre Murat          2.5
+Jean Roy              2.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       9
+Danielle Attali       5
+Christophe Carriére   
 # ics
 Cédric Succivalli     7
 Marc van de Klashorst 4
@@ -1288,6 +1404,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       9
+Fabrice Leclerc       9
+Eric Neuhoff          9
+Stéphane Delorme      1
+Thomas Sotinel        5
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          5
+Jean Roy              7.5
+Serge Kaganski        
+Pierre Fornerod       7.5
+Pascal Merigeau       2.5
+Danielle Attali       5
+Christophe Carriére   2.5
 # ics
 Cédric Succivalli     8
 Marc van de Klashorst 8     https://twitter.com/MarcVDKlashorst/status/601099172838801410
@@ -1302,6 +1434,7 @@ Jessica Kiang         4     http://blogs.indiewire.com/theplaylist/cannes-review
 Eric Kohn             7     http://www.indiewire.com/article/cannes-review-michael-caine-and-harvey-keitel-deliver-their-best-performances-in-years-in-sorrentinos-whimsical-youth-20150520
 David Sexton         10     http://www.standard.co.uk/goingout/film/cannes-2015-youth-film-review--michael-caine-superb-in-inventive-poignant-and-operatic-offering-from-paolo-sorrentino-10263109.html
 Pierre Murat                http://www.telerama.fr/festival-de-cannes/2015/youth-de-paolo-sorrentino-aussi-triste-que-sincere,126988.php
+Robbie Collin         6     http://www.telegraph.co.uk/film/youth/review/
 
 "CHRONIC" (Michel FRANCO) [Competition]
 
@@ -1336,6 +1469,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme           
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # ics
 Cédric Succivalli     
 Marc van de Klashorst       https://twitter.com/MarcVDKlashorst/status/601660660955615232
@@ -1414,6 +1563,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       7.5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      5
+Thomas Sotinel        5
+Philippe Rouyer       9
+Pierre Vavasseur      
+Pierre Murat          2.5
+Jean Roy              5
+Serge Kaganski        9
+Pierre Fornerod       5
+Pascal Merigeau       5
+Danielle Attali       
+Christophe Carriére   1
 # ics
 Cédric Succivalli     9
 Marc van de Klashorst 9
@@ -1482,6 +1647,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      7.5
+Arnaud Schwartz       5
+Fabrice Leclerc       9
+Eric Neuhoff          5
+Stéphane Delorme      2.5    
+Thomas Sotinel        7.5
+Philippe Rouyer       7.5
+Pierre Vavasseur      5
+Pierre Murat          5
+Jean Roy              7.5
+Serge Kaganski        5
+Pierre Fornerod       5
+Pascal Merigeau       7.5
+Danielle Attali       9
+Christophe Carriére   5
 # ics
 Cédric Succivalli     4
 Marc van de Klashorst 6
@@ -1544,6 +1725,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme           
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # ics
 Cédric Succivalli     
 Marc van de Klashorst 
@@ -1554,6 +1751,23 @@ David Honorat
 
 "MACBETH" (Justin KURZEL) [Competition]
 
+# ioncinema 0-5
+Nicolas Bell          
+Christophe Beney      
+David Calhoun         
+Per Juul Carlsen      
+Paola Casella         
+#Mike d'Angelo        
+Jean-Philippe Guerand 
+#Carlos Heredero      
+Aaron Hillis          
+Fabien Lemercier      
+Marc-André Lussier    
+Liu Min               
+Yama Rahimi           
+Isabelle Regnier      
+Cédric Succivalli     
+#Blake Williams       
 # Screen Daily (0-4)
 Nick James            
 Kate Muir/Wendy Ide   
@@ -1565,6 +1779,22 @@ Stephanie Zacharek
 Paul Byrnes           
 Kong Rithdee          
 Screen International  
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme           
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 # ics
 Cédric Succivalli     
 Marc van de Klashorst 
@@ -1598,6 +1828,15 @@ Javier H. Estrada     5
 Luciano Barisone      7.5
 José Luis Losa       5.5
 Gustavo Beck          2
+
+# critic.de
+Adam Cook             2.5     http://www.indiewire.com/article/why-does-the-cannes-film-festival-keep-programming-naomi-kawases-movies-20150517
+Arnaud Hée           4
+Till Kadritzke        4       http://www.critic.de/film/sweet-red-bean-paste-8178/
+Boris Nelepo          5
+Cristina Nord         6
+Rüdiger Suchsland    7.5
+Alexandra Zawia       4
 # Le film français 0-4
 Stéphanie Lamome      2.5
 Arnaud Schwartz       9
@@ -1614,14 +1853,6 @@ Pierre Fornerod
 Pascal Merigeau       
 Danielle Attali       2.5
 Christophe Carriére   
-# critic.de
-Adam Cook             2.5     http://www.indiewire.com/article/why-does-the-cannes-film-festival-keep-programming-naomi-kawases-movies-20150517
-Arnaud Hée           4
-Till Kadritzke        4       http://www.critic.de/film/sweet-red-bean-paste-8178/
-Boris Nelepo          5
-Cristina Nord         6
-Rüdiger Suchsland    7.5
-Alexandra Zawia       4
 #
 Glenn Heath Jr        3       https://twitter.com/MatchCuts/status/598809140983701504
 Oliver Lyttleton      2       http://blogs.indiewire.com/theplaylist/cannes-review-naomi-kawases-un-certain-regard-contender-an-20150514
@@ -1650,6 +1881,7 @@ Violeta Kovacsics     5
 José Luis Losa       7
 Dominik Kamalzadeh    6.5
 Gustavo Beck          5
+
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1685,7 +1917,7 @@ Jordan Hoffman        6    http://www.theguardian.com/film/2015/may/15/one-floor
 Ignatiy Vishnevetsky  4.5  http://www.avclub.com/article/holocaust-thriller-marks-impressive-debut-cannes-219470
 
 "RAMS (Hrútar)" (Grímur HÁKONARSON) [Un Certain Regard]
-# Iceland
+# Iceland, Beliers
 
 Diego Lerer           6.5
 Jaime Pena            5
@@ -1730,7 +1962,7 @@ Jean Roy              2.5
 Serge Kaganski        
 Pierre Fornerod       
 Pascal Merigeau       
-Danielle Attali       
+Danielle Attali       5
 Christophe Carriére   
 # critic.de
 Cristina Nord         6
@@ -1740,6 +1972,7 @@ Cristina Nord         6
 
 Rüdiger Suchsland    6.5
 Alejandro G. Calvo    6
+
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -1764,14 +1997,15 @@ Blake Williams        4.2    https://twitter.com/Astrostic/status/59945026513003
 
 Diego Batlle          7
 Javier H. Estrada     7
+
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       7.5
 Fabrice Leclerc       
-Eric Neuhoff          
+Eric Neuhoff          2.5
 Stéphane Delorme      
 Thomas Sotinel        
-Philippe Rouyer       
+Philippe Rouyer       5
 Pierre Vavasseur      
 Pierre Murat          7.5
 Jean Roy              
@@ -1790,21 +2024,22 @@ Jan Pieter Ekker      7
 Eulalia Iglesias      3.5
 Javier H. Estrada     5
 José Luis Losa       3
+
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      5
+Arnaud Schwartz       1
 Fabrice Leclerc       
 Eric Neuhoff          
-Stéphane Delorme      
+Stéphane Delorme      2.5
 Thomas Sotinel        2.5
 Philippe Rouyer       
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
+Pierre Murat          5
+Jean Roy              2.5
 Serge Kaganski        
-Pierre Fornerod       
+Pierre Fornerod       2.5
 Pascal Merigeau       
-Danielle Attali       
+Danielle Attali       2.5
 Christophe Carriére   
 # critic.de
 Frédéric Jaeger     4
@@ -1824,19 +2059,20 @@ Carlos Heredero       6.5
 Eulalia Iglesias      6.5
 Javier H. Estrada     6
 José Luis Losa       4.5
+
 # Le film français 0-4
-Stéphanie Lamome      
-Arnaud Schwartz       
+Stéphanie Lamome      5
+Arnaud Schwartz       5
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme      
-Thomas Sotinel        
+Thomas Sotinel        5
 Philippe Rouyer       
 Pierre Vavasseur      
 Pierre Murat          
-Jean Roy              
+Jean Roy              5
 Serge Kaganski        
-Pierre Fornerod       
+Pierre Fornerod       2.5
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
@@ -1875,16 +2111,16 @@ Boris Nelepo          5
 Cristina Nord         7.5
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       5
 Fabrice Leclerc       
 Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
+Stéphane Delorme      7.5
+Thomas Sotinel        5
 Philippe Rouyer       
 Pierre Vavasseur      
 Pierre Murat          
 Jean Roy              
-Serge Kaganski        
+Serge Kaganski        5
 Pierre Fornerod       
 Pascal Merigeau       
 Danielle Attali       
@@ -1926,17 +2162,17 @@ Gustavo Beck          9
 
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       1
 Fabrice Leclerc       
-Eric Neuhoff          
-Stéphane Delorme      
-Thomas Sotinel        
-Philippe Rouyer       
+Eric Neuhoff          1
+Stéphane Delorme      9
+Thomas Sotinel        5
+Philippe Rouyer       2.5
 Pierre Vavasseur      
-Pierre Murat          
-Jean Roy              
-Serge Kaganski        
-Pierre Fornerod       
+Pierre Murat          5
+Jean Roy              7.5
+Serge Kaganski        9
+Pierre Fornerod       1
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
@@ -1966,14 +2202,14 @@ José Luis Losa       7.5
 
 # Le film français 0-4
 Stéphanie Lamome      
-Arnaud Schwartz       
+Arnaud Schwartz       7.5
 Fabrice Leclerc       
 Eric Neuhoff          
 Stéphane Delorme      
-Thomas Sotinel        
+Thomas Sotinel        2.5
 Philippe Rouyer       
 Pierre Vavasseur      
-Pierre Murat          
+Pierre Murat          2.5
 Jean Roy              
 Serge Kaganski        
 Pierre Fornerod       
@@ -1993,15 +2229,15 @@ José Luis Losa       4.5
 Stéphanie Lamome      
 Arnaud Schwartz       
 Fabrice Leclerc       
-Eric Neuhoff          
+Eric Neuhoff          5
 Stéphane Delorme      
-Thomas Sotinel        
+Thomas Sotinel        2.5
 Philippe Rouyer       
 Pierre Vavasseur      
 Pierre Murat          
 Jean Roy              
 Serge Kaganski        
-Pierre Fornerod       
+Pierre Fornerod       2.5
 Pascal Merigeau       
 Danielle Attali       
 Christophe Carriére   
@@ -2023,6 +2259,22 @@ Arnaud Hée           1
 Till Kadritzke        9
 Michael Kienzl        7.5     http://www.critic.de/film/taklub-8181/
 Boris Nelepo          1
+# Le film français 0-4
+Stéphanie Lamome      7.5
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      1
+Thomas Sotinel        
+Philippe Rouyer       5
+Pierre Vavasseur      
+Pierre Murat          7.5
+Jean Roy              5
+Serge Kaganski        5
+Pierre Fornerod       7.5
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Mike d'Angelo         5.2   https://twitter.com/gemko/status/600945669591924736
 
@@ -2034,19 +2286,87 @@ Roger Alan Koza       4
 Fernando Juan Lima    3
 Cristina Nord         4.5
 
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       2.5
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+
 "MADONNA" (SHIN Suwon) [Un Certain Regard]
 
 Diego Lerer           4
 Diego Batlle          4.5
 Fernando Juan Lima    2.5
 
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+
 "I AM A SOLDIER (Je suis un soldat)" (Laurent LARIVIÈRE) [Un Certain Regard]
 
 Fernando Juan Lima    7
 
+# Le film français 0-4
+Stéphanie Lamome      5
+Arnaud Schwartz       2.5
+Fabrice Leclerc       
+Eric Neuhoff          2.5
+Stéphane Delorme      
+Thomas Sotinel        1
+Philippe Rouyer       
+Pierre Vavasseur      9
+Pierre Murat          
+Jean Roy              5
+Serge Kaganski        
+Pierre Fornerod       2.5
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
+
 "LAMB" (Yared ZELEKE) [Un Certain Regard]
 
 Javier H. Estrada     5
+
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       5
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        2.5
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 
 "TREASURE (Comoara)" (Corneliu PORUMBOIU) [Un Certain Regard]
 
@@ -2076,6 +2396,22 @@ Frédéric Jaeger     9
 Daniel Kasman         7.5
 Boris Nelepo          7.5
 Lukas Stern           9
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              5
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Blake Williams       7.2    https://twitter.com/Astrostic/status/601335500100739072
 Mike d'Angelo        4.8    https://twitter.com/gemko/status/601497916948230144
@@ -2100,6 +2436,22 @@ Till Kadritzke        6
 Daniel Kasman         5
 Boris Nelepo          4
 Cristina Nord         6
+# Le film français 0-4
+Stéphanie Lamome      
+Arnaud Schwartz       
+Fabrice Leclerc       
+Eric Neuhoff          
+Stéphane Delorme      2.5
+Thomas Sotinel        
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          
+Jean Roy              
+Serge Kaganski        
+Pierre Fornerod       
+Pascal Merigeau       
+Danielle Attali       
+Christophe Carriére   
 #
 Blake Williams        6.3   https://twitter.com/Astrostic/status/601385940364427264
 
@@ -2383,6 +2735,8 @@ Blake Williams        6.6   https://twitter.com/Astrostic/status/601194251540631
 Mike d'Angelo         4.5   https://twitter.com/gemko/status/601310194002440192
 David Calhoun         6     http://www.timeout.com/london/film/love-2015
 Jérémie Couston             http://www.telerama.fr/festival-de-cannes/2015/love-de-gaspar-noe-ejac-facile,127012.php
+Robbie Collin         4     http://www.telegraph.co.uk/film/love/review/
+
 
 "OUR HOUSE (OKA)" (Souleymane CISSÉ) [Special Screening]
 
@@ -2715,6 +3069,8 @@ Jonathan Romney             http://m.screendaily.com/5087659.article
 Mike d'Angelo        6.4    https://twitter.com/gemko/status/601498618340737025
 Reini Urban          2
 Mirjam Urban         5
+Robbie Collin        10     http://t.co/ma12iS3ZMb
+
 
 "DOPE" (Rick FAMUYIWA) [Quinzaine] Sundance, Closer
 
