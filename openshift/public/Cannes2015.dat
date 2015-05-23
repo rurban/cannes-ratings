@@ -1570,7 +1570,7 @@ Marc van de Klashorst 9
 David Acacia          10
 Eren Odabasi          10
 David Honorat         6
-#Chris Beney          5
+Chris Beney          5
 #
 Blake Williams        6.4   https://twitter.com/Astrostic/status/601104197174566913
 Mike d'Angelo         5.4   https://twitter.com/gemko/status/601103053794713600
@@ -1665,8 +1665,8 @@ Cédric Succivalli     4
 Marc van de Klashorst 6
 David Acacia          6
 Eren Odabasi          7
-David Honorat         
-#Chris Beney           
+David Honorat         6
+#Chris Beney          7
 #
 Frédéric Strauss             http://www.telerama.fr/festival-de-cannes/2015/dheephan-de-jacques-audiard-un-tour-de-force-tout-en-douceur,127009.php
 Blake Williams        4.9    https://twitter.com/Astrostic/status/601714631124590592
@@ -1752,12 +1752,12 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # ics
-Cédric Succivalli     
+Cédric Succivalli     6
 Marc van de Klashorst 
-David Acacia          
+David Acacia          0.5
 Eren Odabasi          8
-David Honorat         
-#Chris Beney           
+David Honorat         6
+#Chris Beney          6
 #
 Barbara Scharres            http://www.rogerebert.com/cannes/cannes-2015-dheepan-love-valley-of-love
 Jon Frosch                  http://www.hollywoodreporter.com/review/valley-love-cannes-review-797349
@@ -1837,10 +1837,10 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 # ics
-Cédric Succivalli     
-Marc van de Klashorst       https://twitter.com/MarcVDKlashorst/status/601660660955615232
-David Acacia          
-Eren Odabasi          
+Cédric Succivalli     0.5
+Marc van de Klashorst 1     https://twitter.com/MarcVDKlashorst/status/601660660955615232
+David Acacia          0.5
+Eren Odabasi          4
 David Honorat         
 #Chris Beney           
 #
@@ -2920,7 +2920,7 @@ Marc van de Klashorst 1
 David Acacia          
 Eren Odabasi          
 David Honorat         4
-#Chris Beney           
+Christophe Beney      4
 
 Nicolas Bell          5     http://www.ioncinema.com/reviews/love-review
 Eric Kohn             3     http://www.indiewire.com/article/cannes-review-hardcore-sex-isnt-the-craziest-thing-about-gaspar-noes-3d-love-20150520
@@ -3688,7 +3688,7 @@ Marc van de Klashorst (International Cinephil Society, Netherlands)
 David Acacia (International Cinephil Society, Canada)
 Eren Odabasi (International Cinephil Society, Turkey)
 David Honorat (International Cinephil Society, France)
-Chris Beney (International Cinephil Society, France)
+Christophe Beney (Accreds, France)
 ";
 # indiewire + various other
 $critics_group[7] = "None";
