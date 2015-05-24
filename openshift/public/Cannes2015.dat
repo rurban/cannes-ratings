@@ -1765,7 +1765,9 @@ Guillaume Muyan Wang  5.5
 
 # critic.de
 Arnaud Hée           6
+Frédéric Jaeger     7.5
 Till Kadritzke        9
+Michael Kienzl        9
 Cristina Nord         7.5
 Lukas Stern           9       http://www.critic.de/film/valley-of-love-8205/
 Rüdiger Suchsland    1
@@ -1856,6 +1858,7 @@ José Luis Losa       6.5
 Guillaume Muyan Wang  4
 
 # critic.de
+Andrey Arnold         5
 Frédéric Jaeger     6
 Michael Kienzl        6
 Cristina Nord         4
@@ -1945,10 +1948,11 @@ José Luis Losa       4.5
 Guillaume Muyan Wang  5
 
 # critic.de
+Andrey Arnold         4
 Frédéric Jaeger     6
 Till Kadritzke        1
 Michael Kienzl        4
-Lukas Stern           2.5
+Lukas Stern           2.5     http://www.critic.de/film/macbeth-8163/
 Alexandra Zawia       6
 # ioncinema 0-5
 Nicolas Bell          5
@@ -3218,6 +3222,7 @@ José Luis Losa       4.5
 
 # critic.de
 Till Kadritzke        4
+Cristina Nord         7.5
 #
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-embrace-of-the-serpent-is-a-soulful-strange-and-stunning-discovery-20150517
 Jordan Mintzer              http://www.hollywoodreporter.com/review/embrace-serpent-el-abrazo-de-795876
@@ -3437,14 +3442,14 @@ Paolo Bertolin        9
 
 # critic.de
 Andrey Arnold         7.5
-Adam Cook             9       http://www.indiewire.com/article/the-most-ambitious-movie-at-this-years-cannes-film-festival-is-arabian-nights-20150522
+Adam Cook             9
 Arnaud Hée           9
-Frédéric Jaeger     5
-Till Kadritzke        6
+Frédéric Jaeger     5       http://www.critic.de/film/arabian-nights-8227/
+Till Kadritzke        6       http://www.critic.de/film/arabian-nights-8227/
 Daniel Kasman         6       http://mubi.com/notebook/posts/cannes-2015-day-4
-Michael Kienzl        6
+Michael Kienzl        6       http://www.critic.de/film/arabian-nights-8227/
 Cristina Nord         9       http://www.taz.de/1/archiv/digitaz/artikel/?ressort=ku&dig=2015%2F05%2F20%2Fa0103&cHash=69ec3933730327dabdf4ec32265f9e22
-Lukas Stern           6
+Lukas Stern           6       http://www.critic.de/film/arabian-nights-8227/
 Alexandra Zawia       9
 #
 Blake Williams        7.5   https://twitter.com/Astrostic/status/599551108395196416
@@ -3517,6 +3522,9 @@ Giona Nazzaro         6
 Pamela Bienzobas      5
 Javier H. Estrada     5
 
+# critic.de
+Andrey Arnold         4
+#
 Reini Urban           6.5
 Mirjam Urban          6
 Wesley Morris         1     http://grantland.com/hollywood-prospectus/sundance-diary-exploitation-blues/
