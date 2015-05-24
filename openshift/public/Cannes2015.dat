@@ -1616,7 +1616,7 @@ Marc van de Klashorst 9
 David Acacia          10
 Eren Odabasi          10
 David Honorat         6
-Chris Beney          5
+#Chris Beney          5
 #
 Blake Williams        6.4   https://twitter.com/Astrostic/status/601104197174566913
 Mike d'Angelo         5.4   https://twitter.com/gemko/status/601103053794713600
@@ -1996,7 +1996,7 @@ Guy Lodge                   https://variety.com/2015/film/festivals/macbeth-revi
  Leslie Felperin            http://www.hollywoodreporter.com/review/macbeth-cannes-review-797690
 Blake Williams        5.2   https://twitter.com/Astrostic/status/602027610152038400
 David Jenkins               http://www.littlewhitelies.co.uk/features/festivals/macbeth-cannes-review-29940
-Kaleem Aftab          5      http://www.indiewire.com/article/cannes-review-michael-fassbender -and-marion-cotillard-salvage-justin-kurzels-macbeth-20150523
+Kaleem Aftab          5     http://www.indiewire.com/article/cannes-review-michael-fassbender-and-marion-cotillard-salvage-justin-kurzels-macbeth-20150523
 
 UN CERTAIN REGARD
 
@@ -3799,6 +3799,7 @@ Inma Merino (España)
 Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
 Andrea Picard (TIFF, Cinema Scope, Canada)
 Kong Rithdee (The Bangkok Post, Thailand) 
+Guillaume Muyan Wang (‎Étudiant Sorbonne, France)
 ";
 $critics_group[1] = "ioncinema";
 $critics[1] = "
@@ -3870,8 +3871,18 @@ Daniel Kasman (MUBI, USA)
 Michael Kienzl (critic.de, Deutschland)
 Nino Klingler (critic.de, Deutschland)
 ";
-$critics_group[5] = "TF1.fr";
+# ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2015/
+$critics_group[5] = "ICSfilm panel";
 $critics[5] = "
+Cédric Succivalli (International Cinephil Society, France)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+David Acacia (International Cinephil Society, Canada)
+Eren Odabasi (International Cinephil Society, Turkey)
+David Honorat (International Cinephil Society, France)
+Christophe Beney (Accreds, France)
+";
+# $critics_group[6] = "TF1.fr";
+$critics[6] = "
 Aurelien Allin (Cinemateaser, France)
 Evangeline Barbaroux (LCI, France)
 Thomas Baurez (Studio CineLive, France)
@@ -3881,16 +3892,6 @@ Romaine Le Vern (TF1 News, France)
 Mehdi Omaïs (Metro, France)
 Philippe Rouyer (Positif, France)
 Caroline Vie (20 minutes, Suisse)
-";
-# ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2015/
-$critics_group[6] = "ICSfilm panel";
-$critics[6] = "
-Cédric Succivalli (International Cinephil Society, France)
-Marc van de Klashorst (International Cinephil Society, Netherlands)
-David Acacia (International Cinephil Society, Canada)
-Eren Odabasi (International Cinephil Society, Turkey)
-David Honorat (International Cinephil Society, France)
-Christophe Beney (Accreds, France)
 ";
 # indiewire + various other
 $critics_group[7] = "None";
@@ -3976,7 +3977,7 @@ Jordan Raup (The Film Stage, USA)
 Joshua Rothkopf (Time Out New York, Penthouse, USA)
 Josef Lederle (Filmdienst, Deutschland)
 Justin Chang (Variety, USA)
-Kaleen Aftab (The Independent, UK)
+Kaleem Aftab (Ex-The Independent, UK)
 Karina Longworth (LA Weekly, USA) 
 Kenneth Turan (Los Angeles Times, USA)
 Keith Uhlich (Time Out New York, USA)
@@ -4049,6 +4050,7 @@ Jérémie Couston (Telerama, France)
 Jacques Morice (Telerama, France)
 Pierre Murat (Telerama, France)
 Mathilde Blottière (Telerama, France)
+Wesley Morris (Grantland, USA)
 ";
 # former apichatpoll members
 $critics[8] = "

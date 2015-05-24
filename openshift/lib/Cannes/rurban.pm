@@ -477,6 +477,7 @@ sub _side_details {
       }
     }
     for (@critics_group) {
+      next unless $_;
       my $n = $g_cnt{$_} || 0;
       $gbox .= "<label><input name=\"g\" type=checkbox value=\"$_\"";
       $gbox .= " checked" if $params_g{$_};
