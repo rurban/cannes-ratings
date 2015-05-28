@@ -23,6 +23,7 @@ package Cannes::rurban::2015; # -*- perl -*-
 # C+ 4    C 3   C- 2
 # D+ 1.5  D 1   D- 1
 # E 0.5   F 0
+# indiewire does C => 4
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -362,8 +363,8 @@ David Honorat         7
 Glenn Heath Jr        7    https://twitter.com/MatchCuts/status/598944429618155520
 Blake Williams        5.8  https://twitter.com/Astrostic/status/598898711918411778
 Jason Gorber               https://twitter.com/filmfest_ca/status/598888378562682880
-Jordan Hoffman             https://twitter.com/jhoffman/status/598888569361469440
-Eric Kohn                  https://twitter.com/erickohn/status/598890456387190784
+#Jordan Hoffman             https://twitter.com/jhoffman/status/598888569361469440
+Eric Kohn             8    https://twitter.com/erickohn/status/598890456387190784
 Kate Muir             10   http://www.thetimes.co.uk/tto/arts/film/cannes/article4441747.ece
 Jordan Hoffman             http://www.vanityfair.com/hollywood/2015/05/cannes-son-of-saul-les-anarchistes-afterthought
 Mike d'Angelo         6.1  http://thedissolve.com/features/postcards-from-cannes/1027-day-2-first-thoughts-on-films-that-need-second-vie/
@@ -372,7 +373,13 @@ Ignatiy Vishnevetsky  6    http://www.avclub.com/article/holocaust-thriller-mark
 Boyd van Hoeij             http://www.hollywoodreporter.com/review/son-saul-saul-fia-cannes-795688
 Robbie Collin         8    http://www.telegraph.co.uk/film/son-of-saul/review/
 Douglas Greenwood     10   http://www.theedinburghreporter.co.uk/2015/05/cannes-2015-son-of-saul-laszlo-nemes-2015/
-
+Gregory Ellwood       9    http://www.hitfix.com/in-contention/review-son-of-saul-is-a-truly-remarkable-cinematic-experience
+Oliver Lyttelton      7    http://blogs.indiewire.com/theplaylist/cannes-review-visceral-hungarian-holocaust-drama-son-of-saul-could-be-a-palme-dor-frontrunner-20150516
+Anna Tatarska         7
+Kaleem Aftab          9
+Anne Thompson         9
+Jordan Cronk          4
+Tim Grierson          8
 
 "THE LOBSTER" (Yorgos LANTHIMOS) [Competition] Jury Prize
 
@@ -484,7 +491,6 @@ David Honorat         6
 #Chris Beney           10
 #
 Blake Williams        5.7   https://twitter.com/Astrostic/status/599137410635714561
-#
 Mike d'Angelo         6.5   http://thedissolve.com/features/postcards-from-cannes/1027-day-2-first-thoughts-on-films-that-need-second-vie/
 # https://twitter.com/gemko/status/599133235864547328
 Tim Grierson          8
@@ -493,6 +499,14 @@ David Sexton          8     http://www.standard.co.uk/goingout/film/cannes-2015-
 Robbie Collin         8     http://www.telegraph.co.uk/film/the-lobster/review/
 Leslie Felperin             http://www.hollywoodreporter.com/review/lobster-cannes-review-795869
 Douglas Greenwood     10    http://www.theedinburghreporter.co.uk/2015/05/cannes-2015-the-lobster-yorgos-lanthimos-2015/
+Gregory Ellwood       7     http://www.hitfix.com/in-contention/the-lobster-the-assassin-and-4-other-mini-reviews-from-cannes/single-page
+Oliver Lyttelton      9     http://blogs.indiewire.com/theplaylist/cannes-review-yorgos-lanthimos-outstanding-the-lobster-starring-colin-farrell-rachel-weisz-john-c-reilly-20150515
+Eric Kohn             8     http://www.indiewire.com/article/cannes-review-yorgos-lanthimos-the-lobster-explores-a-crazy-world-more-familiar-than-it-looks-20150515
+Anna Tatarska         6
+Kaleem Aftab          8
+Michael Ghennam       9
+Corina Roettger       8
+Glenn Heath Jr        4
 
 "THE SEA OF TREES" (Gus VAN SANT) [Competition]
 http://blogs.indiewire.com/criticwire/first-reviews-gus-van-sants-sea-of-trees-is-cannes-first-stinker-20150515
@@ -820,7 +834,7 @@ David Honorat         10
 #Chris Beney           7
 #
 Tim Grierson          7
-Diana Drumm           9
+Diana Drumm           9     http://thefilmexperience.net/blog/2015/5/17/cannes-review-carol.html?lastPage=true
 Peter Bradshaw        10    http://www.theguardian.com/film/2015/may/16/carol-review-cate-blanchett-captivates-in-woozily-obsessive-lesbian-romance
 Mike d'Angelo         7.6   http://thedissolve.com/features/postcards-from-cannes/1030-day-4-a-romantic-trio/
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-todd-haynes-carol-starring-cate-blanchett-and-rooney-mara-20150516
@@ -829,6 +843,13 @@ David Sexton          10    http://www.standard.co.uk/goingout/film/cannes-2015-
 Robbie Collin         10    http://www.telegraph.co.uk/film/carol/review/
 Glenn Heath Jr        6     https://twitter.com/MatchCuts/status/599698360119984130
 Barbara Scharres            http://www.rogerebert.com/cannes/cannes-2015-carol-nahid
+Gregory Ellwood       7     http://www.hitfix.com/in-contention/review-cate-blanchett-masters-all-the-signals-for-todd-haynes-carol
+Eric Kohn             9     http://www.indiewire.com/article/cannes-review-todd-haynes-carol-is-a-masterful-lesbian-romance-starring-cate-blanchett-and-rooney-mara-20150516
+Anna Tatarska         9
+Corina Roettger       9
+Patrick Heidmann      9
+Anne Thompson         8
+Jordan Cronk          6
 
 "MON ROI" (MAÏWENN) [Competition]
 
@@ -1325,6 +1346,15 @@ Frédéric Strauss            http://www.telerama.fr/festival-de-cannes/2015/sic
 Todd McCarthy               http://www.hollywoodreporter.com/review/sicario-cannes-review-796598
 Robbie Collin         6     http://www.telegraph.co.uk/film/sicario/review/
 Glenn Heath Jr        6.5   https://twitter.com/MatchCuts/status/600583921257082880
+Gregory Ellwood       7     http://www.hitfix.com/in-contention/review-sicario-simmers-as-it-indicts-the-fallacy-of-the-drug-war-we-cant-win
+Eric Kohn             5     http://www.indiewire.com/article/cannes-review-denis-villeneuves-sicario-is-very-well-made-but-to-what-end-20150519
+Anna Tatarska         7
+Kaleem Aftab          6
+Corinna Roettger      6
+Patrick Heidmann      6
+Anne Thompson         5
+Dianna Drumm          6
+Tim Grierson          5
 
 "MOUNTAINS MAY DEPART (Shan he gu ren/山河故人)" (JIA Zhang-Ke) [Competition]
 
@@ -1439,6 +1469,14 @@ Marie-Pierre Duhamel        https://mubi.com/notebook/posts/cannes-2015-back-to-
 Louis Guichard              http://www.telerama.fr/festival-de-cannes/2015/avec-mountains-may-depart-jia-zhang-ke-donne-le-frisson-a-la-croisette,126986.php
 David Rooney                http://www.hollywoodreporter.com/review/jia-zhang-kes-mountains-may-796990
 Glenn Heath Jr       6.5    https://twitter.com/MatchCuts/status/600755875674914817
+Gregory Ellwood       7     http://www.hitfix.com/in-contention/the-lobster-the-assassin-and-4-other-mini-reviews-from-cannes
+Anna Tatarska         8
+Oliver Lyttelton      4     http://blogs.indiewire.com/theplaylist/cannes-review-jia-zhangkes-mountains-may-depart-is-a-decades-spanning-look-at-the-changing-face-of-china-20150521
+Michael Ghennam       9
+Corina Roettger       6
+Anne Thompson         7
+Dianna Drumm          7
+Tim Grierson          6
 
 "YOUTH (La giovinezza)" (Paolo SORRENTINO) [Competition]
 
@@ -1542,6 +1580,15 @@ David Sexton         10     http://www.standard.co.uk/goingout/film/cannes-2015-
 Pierre Murat                http://www.telerama.fr/festival-de-cannes/2015/youth-de-paolo-sorrentino-aussi-triste-que-sincere,126988.php
 Robbie Collin         6     http://www.telegraph.co.uk/film/youth/review/
 Todd McCarthy               http://www.hollywoodreporter.com/review/youth-cannes-review-797046
+Gregory Ellwood       8     http://www.hitfix.com/in-contention/review-caine-keitel-and-weisz-are-at-their-best-in-sorrentinos-glorious-youth
+Ignatiy Vishnevetsky  2     http://www.avclub.com/article/cannes-new-films-gaspar-noe-paolo-sorrentino-and-t-219804
+Jessica Kiang         4     http://blogs.indiewire.com/theplaylist/cannes-review-paolo-sorrentinos-youth-with-michael-caine-harvey-keitel-rachel-weisz-paul-dano-jane-fonda-and-um-paloma-faith-20150520
+Blake Williams        3
+Anna Tatarska         7
+Kaleem Aftab          9
+Anne Thompson         7
+Diana Drumm           6
+Tim Grierson          7
 
 "THE ASSASSIN (Nie Yinniang/聶隱娘)" (HOU Hsiao Hsien) [Competition] Best Director
 
@@ -1658,6 +1705,15 @@ Deborah Young               http://www.hollywoodreporter.com/review/assassin-can
 Allan Hunter                http://www.screendaily.com/reviews/the-assassin-review/5087409.article?blocktitle=Most-popular&contentID=-1
 David Jenkins               http://www.littlewhitelies.co.uk/features/articles/the-assassin-cannes-review-29942
 Glenn Heath Jr        9     https://twitter.com/MatchCuts/status/601762781201833984
+Gregory Ellwood       2     http://www.hitfix.com/in-contention/the-lobster-the-assassin-and-4-other-mini-reviews-from-cannes
+Ignatiy Vishnevetsky  8     http://www.avclub.com/article/hou-hsiao-hsiens-assassin-most-beautiful-film-cann-219723
+Jessica Kiang         8     http://blogs.indiewire.com/theplaylist/cannes-review-hou-hsiao-hsiens-the-assassin-is-an-epic-visual-poem-20150520
+Anna Tatarska         4
+Kaleem Aftab          9
+Michael Ghennam       8
+Diana Drumm           7
+Corina Roettger       6
+Tim Grierson          6
 
 "DHEEPAN" (Jacques AUDIARD) [Competition] Palme d'Or
 
@@ -1757,6 +1813,13 @@ Barbara Scharres             http://www.rogerebert.com/cannes/cannes-2015-dheepa
 David Rooney                 http://www.hollywoodreporter.com/review/jacques-audiards-dheepan-cannes-review-797348
 David Jenkins                http://www.littlewhitelies.co.uk/features/articles/dheepan-cannes-review-29937
 Glenn Heath Jr        2      https://twitter.com/MatchCuts/status/601339499113775104
+Oliver Lyttelton      8      http://blogs.indiewire.com/theplaylist/cannes-review-a-prophet-helmer-jacques-audiards-dheepan-is-an-excellent-searing-compassionate-drama-20150521
+Anna Tatarska         7
+Michael Ghennam       5
+Kaleem Aftab          9
+Corina Roettger       7
+Patrick Heidmann      8
+Tim Grierson          6
 
 "VALLEY OF LOVE" (Guillaume NICLOUX) [Competition]
 
@@ -1853,6 +1916,11 @@ David Honorat         6
 Barbara Scharres            http://www.rogerebert.com/cannes/cannes-2015-dheepan-love-valley-of-love
 Jon Frosch                  http://www.hollywoodreporter.com/review/valley-love-cannes-review-797349
 Allan Hunter                http://www.screendaily.com/reviews/valley-of-love-review/5087435.article
+Oliver Lyttelton      2     http://blogs.indiewire.com/theplaylist/cannes-review-guillaume-niclouxs-valley-of-love-starring-isabelle-huppert-gerard-depardieu-20150522
+Blake Williams        6
+Michael Ghennam       5
+Diana Drumm           9
+Corinna Roettger      7
 
 "CHRONIC" (Michel FRANCO) [Competition] Best Screenplay
 
@@ -2163,6 +2231,9 @@ Blake Williams        6.5  http://www.ioncinema.com/reviews/one-floor-below-revi
 Jordan Hoffman        6    http://www.theguardian.com/film/2015/may/15/one-floor-below-review-romanian-apartment-block-drama-is-a-little-flat
 Ignatiy Vishnevetsky  4.5  http://www.avclub.com/article/holocaust-thriller-marks-impressive-debut-cannes-219470
 Leslie Felperin            http://www.hollywoodreporter.com/review/one-floor-below-etaj-mai-795693
+Jessica Kiang         3    http://blogs.indiewire.com/theplaylist/cannes-review-radu-munteans-minimalist-one-floor-below-20150522
+Jordan Cronk          7
+Tim Grierson          6
 
 "RAMS (Hrútar)" (Grímur HÁKONARSON) [Un Certain Regard] Prix UCR
 # Iceland, Beliers
@@ -2491,6 +2562,10 @@ Robbie Collin         8     http://www.telegraph.co.uk/film/cemetery-of-splendou
 Jordan Mintzer              http://www.hollywoodreporter.com/review/cemetery-splendor-rak-ti-khon-796487
 Glenn Heath Jr        9     https://twitter.com/MatchCuts/status/600261242859724800
 Stephanie Zacharek          http://www.villagevoice.com/2015-05-13/film/cemetery-of-splendor-cannes/
+Ignatiy Vishnevetsky  6     http://www.avclub.com/article/cannes-latest-pixar-and-previous-palme-dor-winner-219593
+Anna Tatarska         9
+Jordan Cronk          9
+Tim Grierson          8
 
 "THE CHOSEN ONES (Las Elegidas)" (David PABLOS) [Un Certain Regard]
 
@@ -2747,7 +2822,7 @@ Boris Nelepo          7.5
 Cristina Nord         7.5
 Lukas Stern           9
 Rüdiger Suchsland    7.5
-Alexandra Zawia       7.5
+Alexandra Zawia       8
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2769,6 +2844,11 @@ Blake Williams       7.2    https://twitter.com/Astrostic/status/601335500100739
 Mike d'Angelo        4.8    https://twitter.com/gemko/status/601497916948230144
 Michał Oleszczyk            http://www.rogerebert.com/cannes/cannes-2015-the-treasure
 Glenn Heath Jr       7      https://twitter.com/MatchCuts/status/601338000950329345
+Eric Kohn            7      http://www.indiewire.com/article/cannes-review-frank-capra-meets-the-romanian-new-wave-in-corneliu-porumboius-the-treasure-20150522
+Michael Ghennam      8
+Tim Grierson         6
+Jordan Cronk         7
+Glenn Heath Jr       7
 
 "THE OTHER SIDE" (Roberto MINERVINI) [Un Certain Regard]
 
@@ -3289,6 +3369,8 @@ Jordan Mintzer              http://www.hollywoodreporter.com/review/embrace-serp
 Reini Urban           9
 Mirjam Urban          8
 Glenn Heath Jr        4     https://twitter.com/MatchCuts/status/602216193630597122
+Jordan Cronk          4
+Blake Williams        4
 
 "TROIS SOUVENIRS DE JEUNESSE (My Golden Years)" (Arnaud DESPLECHIN) [Quinzaine] SACD Prize
   http://www.quinzaine-realisateurs.com/my-golden-years-by-desplechin-will-be-at-the-directors-fortnight-p482.html
@@ -3339,6 +3421,8 @@ Ignatiy Vishnevetsky  5.5  http://www.avclub.com/article/yorgos-lanthimos-absurd
 Reini Urban           5
 Mirjam Urban          7
 Glenn Heath Jr        7.5   https://twitter.com/MatchCuts/status/599323204683988992
+Oliver Lyttelton      8    http://blogs.indiewire.com/theplaylist/cannes-review-finely-honed-my-golden-days-is-one-of-arnaud-desplechins-best-20150520
+Jordan Cronk          7
 
 "A PERFECT DAY" (Fernando Leon de ARANOA) [Quinzaine]
 
@@ -3450,6 +3534,8 @@ David Rooney              http://www.hollywoodreporter.com/review/mustang-cannes
 Glenn Heath Jr        4   https://twitter.com/MatchCuts/status/598627518850142209
 Reini Urban           7
 Mirjam Urban          7.5
+Jessica Kiang         6   http://blogs.indiewire.com/theplaylist/cannes-review-directors-fortnight-prize-winner-mustang-by-first-timer-deniz-gamze-erguven-20150524
+Jordan Cronk          4
 
 "SONGS MY BROTHERS TAUGHT ME" (Chloe ZHAO) [Quinzaine] Sundance
 
@@ -3509,7 +3595,7 @@ Paolo Bertolin        9
 
 # critic.de
 Andrey Arnold         7.5
-Adam Cook             9
+Adam Cook             9     http://www.indiewire.com/article/the-most-ambitious-movie-at-this-years-cannes-film-festival-is-arabian-nights-20150522
 Arnaud Hée           9
 Frédéric Jaeger     5       http://www.critic.de/film/arabian-nights-8227/
 Till Kadritzke        6       http://www.critic.de/film/arabian-nights-8227/
@@ -3525,7 +3611,10 @@ Jonathan Romney             http://filmcomment.com/entry/film-of-the-week-arabia
 David Jenkins         9     http://www.littlewhitelies.co.uk/features/articles/cannes-2015-arabian-nights-30345
 Kong Rithdee          9     http://www.bangkokpost.com/lifestyle/film/566939/leaving-a-thai-impression
 Boyd van Hoeij              http://www.hollywoodreporter.com/review/arabian-nights-volume-2-desolate-797603
-Ben Kenigsberg             http://www.rogerebert.com/festivals-and-awards/cannes-2015-disorder-a-perfect-day-and-arabian-nights-volume-1
+Ben Kenigsberg              http://www.rogerebert.com/festivals-and-awards/cannes-2015-disorder-a-perfect-day-and-arabian-nights-volume-1
+Kaleem Aftab          9
+Oliver Lyttelton      9     http://blogs.indiewire.com/theplaylist/cannes-review-tabu-director-miguel-gomes-astonishing-six-hour-arabian-nights-20150520
+Jordan Cronk          8
 
 "FATIMA" (Philippe FAUCON) [Quinzaine]
 
@@ -3536,6 +3625,7 @@ Arnaud Hée           6
 #
 Mirjam Urban          4
 Leslie Felperin             http://www.hollywoodreporter.com/review/fatima-cannes-review-797120
+Michael Ghennam      9
 
 "PEACE TO US IN OUR DREAMS" (Sharunas BARTAS) [Quinzaine]
 
@@ -4016,7 +4106,7 @@ Andrei Creţulescu (HBO, Romania)
 Andrew O'Hehir (Salon.com, USA) 
 Andrew Pulver (Guardian, UK)
 Anna Bielak (Smells Like Screen Spirit, USA)
-Anna Tatarska (Fandor, KINO, USA)
+Anna Tatarska (Movie Mezzanine, Freelance, USA)
 Anne Thompson (Indiewire, USA)
 Barbara Scharres (RogerEbert.com, USA)
 Beatrice Behn (Kino-Zeit, Deutschland)
@@ -4032,6 +4122,7 @@ Chris Knipp (Filmleaf, USA)
 Clarence Tsui (South China Morning Post, Hong Kong)
 Claudia Puig (USA Today, USA)
 Clementine Gallot (Cahiers du cinema, France)
+Corina Roettger (Next Projection, Deutschland)
 Craig Skinner (Film Divider, UK)
 Craig Williams (Cine Vue, UK)
 Dan Fainaru (Screen International, Israel)
@@ -4051,7 +4142,7 @@ Diana Drumm (The Black Maria, The Film Experience, Sound on Sight, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
 Donald Clarke (Irish Times, Ireland)
 Douglas Greenwood (The Edinburgh Reporter, England)
-Drew McWeeny (InContention, USA)
+Drew McWeeny (HitFix, InContention, USA)
 Drew Taylor (The Playlist, USA)
 Eduardo Valente (Revista Cinema, Brazil) 
 Elisabeth Quin (Paris Premiere, France) 
@@ -4065,6 +4156,7 @@ Frédéric Jaeger (critic.de, Deutschland)
 Frédéric Strauss (Telerama, France)
 Geoffrey MacNab (The Independent, UK)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
+Gregory Ellwood (HitFix, USA)
 Henry Barnes (Guardian, UK)
 Ignatiy Vishnevetsky (A.V. Club, USA)
 Jacques Morice (Telerama, France)
@@ -4079,7 +4171,7 @@ John Bleasdale (Cine Vue, UK)
 Jon Frosch (France 24, France)
 Jonathan Romney (Screen Daily, UK)
 Jonathan Rosenbaum (Chicago Reader, USA) 
-Jordan Cronk (Sight & Sound, UK)
+Jordan Cronk (Sight & Sound, Cinema Scope, Reverse Shot, UK)
 Jordan Hoffman (Guardian, USA)
 Jordan Raup (The Film Stage, USA)
 Jose Carlos Avellar (Escrevercinema.com, Brazil)
@@ -4087,7 +4179,7 @@ Josef Lederle (Filmdienst, Deutschland)
 Joshua Rothkopf (Time Out New York, Penthouse, USA)
 Justin Chang (Variety, USA)
 Jérémie Couston (Telerama, France)
-Kaleem Aftab (Ex-The Independent, UK)
+Kaleem Aftab (The Independent, The National, Sydney Morning Herald, Australia)
 Karina Longworth (LA Weekly, USA) 
 Kate Muir (The Times, UK) 
 Keith Uhlich (Time Out New York, USA)
@@ -4109,7 +4201,7 @@ Mathilde Blottière (Telerama, France)
 Mathilde Cesbron (Le Figaro, France)
 Matt Holmes (Obsessedwithfilm.com, USA) 
 Maxime Pargaud (Le Figaro, France)
-Michael Ghennam (Les Fiches du Cinéma, France)
+Michael Ghennam (Les Fiches du Cinéma, Tess Magazine, France)
 Michael Giltz (The Huffington Post, USA)
 Michael Sennhauser (SRF, Suisse)
 Mirjam Urban (Free, Deutschland)
@@ -4119,7 +4211,7 @@ Nigel M Smith (Indiewire, USA)
 Nikola Grozdanović (Way Too Indie, Canada)
 Noel Murray (The Dissolve, USA)
 Oliver Lyttleton (The Playlist, USA)
-Patrick Heidmann (Cineman, Deutschland)
+Patrick Heidmann (Cineman, Berliner Zeitung, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
 Paul Martin (Indies Movies Online, USA) 
 Pete Hammond (Boxoffice Magazine, USA) 
