@@ -472,6 +472,7 @@ sub _dump {
 	  t => \@t,
 	  title   => \%title,
 	  critic  => \%critic,
+          which => 'Sundance',
 	  numratings => $numratings, 
 	  numreviews => $allreviews, 
 	  numc => $numc, 

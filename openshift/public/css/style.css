@@ -55,8 +55,6 @@ width: 175px;
 
 #header, #s1015header, #s1016header, #about, #intro {
 padding-top: 60px;
-padding-left: 240px;
-padding-right: 30px;
 }
 
 #header {
@@ -70,7 +68,7 @@ vertical-align: bottom;
 background-image: url("/images/sundance2015.png");
 background-repeat: no-repeat;
 background-position: top left;
-height: 200px;
+height: 150px;
 vertical-align: bottom;
 }
 #s2016header {
@@ -81,10 +79,12 @@ height: 150px;
 vertical-align: bottom;
 }
 #header h1, #s2015header h1, #s2016header h1 {
-    padding-left: 240px;
-    margin: 0
+padding-left: 240px;
+padding-right: 30px;
+margin: 0
 }
 #header h2, #s2015header h2, #s2016header h2 {
+padding-right: 30px;
 padding-left: 240px;
 color: #888;
 font-weight: normal;

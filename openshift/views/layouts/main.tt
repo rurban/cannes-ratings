@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=<% settings.charset %>" />
-<title>Cannes critics ratings</title>
+<title><% which %> critics ratings</title>
 <link rel="stylesheet" href="/css/style.css" />
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->

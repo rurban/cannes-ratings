@@ -447,6 +447,7 @@ sub _dump {
 	  t => \@t,
 	  title   => \%title,
 	  critic  => \%critic,
+          which => 'Cannes',
 	  numratings => $numratings, 
 	  numreviews => $allreviews, 
 	  numc => $numc, 
