@@ -335,7 +335,7 @@ sub _dump {
 	}
       }
     }
-    if ($num) {
+    if (1 or $num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
