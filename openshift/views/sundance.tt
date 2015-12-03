@@ -22,6 +22,8 @@
               <li><a href="http://www.hollywoodreporter.com/sundance/2015/reviews">hollywoodreporter</a></li>
               <li><a href="http://www.theguardian.com/film/sundance-film-festival-2015">guardian</a></li>
               <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/openshift/public">Ratings history on github</a></li>
+
+              <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
             </ul>
           </li>
 

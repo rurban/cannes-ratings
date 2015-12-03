@@ -313,13 +313,16 @@ sub _dump {
 	   . "</table>\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6.</i></small>\n";
   }
   $out .= "\n<h1>All official sections</h1>\n\n";
+  my ($allreviews, $numratings) = (0,0);
   my %section;
   for my $section (@sections) {
     my ($sum,$num) = (0,0); 
     my @titles = keys %title;
     for (@titles) {
       if ($title{$_}->{section} and $title{$_}->{section} eq $section) {
-        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev} ];
+        my $numreviews = scalar keys %{$title{$_}->{review}};
+        $allreviews += $numreviews;
+        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev}, $numreviews ];
         if ($title{$_}->{num}) {
 	  $sum += $title{$_}->{avg}; 
 	  $num++
@@ -384,6 +387,7 @@ sub _dump {
        } @t)
   {
     my ($l,$a,$n,$t) = @{$_};
+    $numratings += $n;
     next unless $t;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
     $l="<i>$l</i>" if $s>=2.0;
@@ -443,6 +447,8 @@ sub _dump {
 	  t => \@t,
 	  title   => \%title,
 	  critic  => \%critic,
+	  numratings => $numratings, 
+	  numreviews => $allreviews, 
 	  numc => $numc, 
 	  numb => scalar(keys(%badcritic))
   };
