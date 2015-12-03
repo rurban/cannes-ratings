@@ -1,0 +1,370 @@
+package Sundance::rurban::2016; # -*- perl -*-
+#!/usr/bin/perl
+# Sundance 2016 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+
+use utf8;
+our $DATA= <<'EOF';
+
+U.S. DRAMATIC
+
+"As You Are" (Miles Joris-Peyrafitte, U.S.A.) [U.S. Dramatic]
+(Director: Miles Joris-Peyrafitte, Screenwriters: Miles Joris-Peyrafitte, Madison Harrison) — As You Are is the telling and retelling of a relationship between three teenagers as it traces the course of their friendship through a construction of disparate memories prompted by a police investigation. Cast: Owen Campbell, Charlie Heaton, Amandla Stenberg, John Scurti, Scott Cohen, Mary Stuart Masterson. World Premiere
+
+"The Birth of a Nation" (Nate Parker, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Nate Parker) — Set against the antebellum South, this story follows Nat Turner, a literate slave and preacher whose financially strained owner, Samuel Turner, accepts an offer to use Nat’s preaching to subdue unruly slaves. After witnessing countless atrocities against fellow slaves, Nat devises a plan to lead his people to freedom. Cast: Nate Parker, Armie Hammer, Aja Naomi King, Jackie Earle Haley, Gabrielle Union, Mark Boone Jr. World Premiere
+
+"Christine" (Antonio Campos, U.S.A.) [U.S. Dramatic]
+(Director: Antonio Campos, Screenwriter: Craig Shilowich — In 1974, a female TV news reporter aims for high standards in life and love in Sarasota, Florida. Missing her mark is not an option. This story is based on true events. Cast: Rebecca Hall, Michael C. Hall, Maria Dizzia, Tracy Letts, J. Smith-Cameron. World Premiere
+
+"Equity" (Meera Menon, U.S.A.) [U.S. Dramatic]
+(Director: Meera Menon, Screenwriter: Amy Fox — A female investment banker, fighting to get a promotion at her competitive Wall Street firm, leads a controversial tech IPO in the post-financial-crisis world, where regulations are tight but pressure to bring in big money remains high. Cast: Anna Gunn, James Purefoy, Sarah Megan Thomas, Alysia Reiner. World Premiere
+
+"The Free World" (Jason Lew, U.S.A.)  [U.S. Dramatic]
+(Director and screenwriter: Jason Lew) — Following his release from a brutal stretch in prison for crimes he didn’t commit, Mo is struggling to adapt to life on the outside. When his world collides with Doris, a mysterious woman with a violent past, he decides to risk his newfound freedom to keep her in his life. Cast: Boyd Holbrook, Elisabeth Moss, Octavia Spencer, Sung Kang, Waleed Zuaiter. World Premiere
+
+"Goat" (Andrew Neel, U.S.A.) [U.S. Dramatic]
+(Director: Andrew Neel, Screenwriters: David Gordon Green, Andrew Neel, Michael Roberts — Reeling from a terrifying assault, a 19-year-old boy pledges his brother’s fraternity in an attempt to prove his manhood. What happens there, in the name of "brotherhood," tests both the boys and their relationship in brutal ways. Cast: Nick Jonas, Ben Schnetzer, Virginia Gardner, Danny Flaherty, Austin Lyon. World Premiere
+
+"The Intervention" (Clea DuVal, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Clea DuVall) — A weekend getaway for four couples takes a sharp turn when one of the couples discovers the entire trip was orchestrated to host an intervention on their marriage. Cast: Melanie Lynskey, Cobie Smulders, Alia Shawkat, Clea DuVall, Natasha Lyonne, Ben Schwartz. World Premiere
+
+"Joshy" (Jeff Baena, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Jeff Baena) — Josh treats what would have been his bachelor party as an opportunity to reconnect with his friends. Cast: Thomas Middleditch, Adam Pally, Alex Ross Perry, Nick Kroll, Brett Gelman, Jenny Slate. World Premiere
+
+"Lovesong" (So Yong Kim, U.S.A.) [U.S. Dramatic]
+(Director: So Yong Kim, Screenwriters: So Yong Kim, Bradley Rust Gray — Neglected by her husband, Sarah embarks on an impromptu road trip with her young daughter and her best friend, Mindy. Along the way, the dynamic between the two friends intensifies before circumstances force them apart. Years later, Sarah attempts to rebuild their intimate connection in the days before Mindy’s wedding. Cast: Jena Malone, Riley Keough, Brooklyn Decker, Amy Seimetz, Ryan Eggold, Rosanna Arquette. World Premiere
+
+"Morris from America" (Chad Hartigan, U.S.A., Germany) [U.S. Dramatic]
+(Director and screenwriter: Chad Hartigan) — Thirteen-year-old Morris, a hip-hop loving American, moves to Heidelberg, Germany, with his father. In this completely foreign land, he falls in love with a local girl, befriends his German tutor-turned-confidant, and attempts to navigate the unique trials and tribulations of adolescence. Cast: Markees Christmas, Craig Robinson, Carla Juri, Lina Keller, Jakub Gierszał, Levin Henning. World Premiere
+
+"Other People" (Chris Kelly, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Chris Kelly) — A struggling comedy writer, fresh from breaking up with his boyfriend, moves to Sacramento to help his sick mother. Living with his conservative father and younger sisters, David feels like a stranger in his childhood home. As his mother worsens, he tries to convince everyone (including himself) he's "doing okay." Cast: Jesse Plemons, Molly Shannon, Bradley Whitford, Maude Apatow, Zach Woods, June Squibb. World Premiere. DAY ONE FILM
+
+"Southside With You" (Richard Tanne, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Richard Tanne) — Southside With You is a chronicle of the summer afternoon in 1989 when the future president of the United States of America, Barack Obama, wooed his future First Lady on an epic first date across Chicago's South Side. Cast: Tika Sumpter, Parker Sawyers, Vanessa Bell Calloway. World Premiere
+
+"Spa Night" (Andrew Ahn, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Andrew Ahn) — A young Korean-American man works to reconcile his obligations to his struggling immigrant family with his burgeoning sexual desires in the underground world of gay hookups at Korean spas in Los Angeles. Cast: Joe Seo, Haerry Kim, Youn Ho Cho, Tae Song, Ho Young Chung, Linda Han. World Premiere
+
+"Swiss Army Man" (Daniel Scheinert, Daniel Kwan, U.S.A.) [U.S. Dramatic]
+(Directors and screenwriters: Daniel Scheinert, Daniel Kwan) — Hank, a hopeless man stranded in the wild, discovers a mysterious dead body. Together the two embark on an epic journey to get home. As Hank realizes the body is the key to his survival, this once-suicidal man is forced to convince a dead body that life is worth living. Cast: Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead. World Premiere
+
+"Tallulah" ( Sian Heder, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Sian Heder) — A rootless young woman takes a toddler from a wealthy, negligent mother and passes the baby off as her own in an effort to protect her. This decision connects and transforms the lives of three very different women. Cast: Ellen Page, Allison Janney, Tammy Blanchard, Evan Jonigkeit, Uzo Aduba. World Premiere
+
+"White Girl" (Elizabeth Wood, U.S.A.) [U.S. Dramatic]
+(Director and screenwriter: Elizabeth Wood) — Summer, New York City: A college student goes to extremes to get her drug dealer boyfriend out of jail. Cast: Morgan Saylor, Brian 'Sene' Marc, Justin Bartha, Chris Noth, India Menuez, Adrian Martinez. World Premiere
+
+U.S. DOCUMENTARY COMPETITION
+
+Sixteen world-premiere American documentaries that illuminate the ideas, people, and events that shape the present day.
+
+"Audrie & Daisy" (Bonni Cohen, Jon Shenk, U.S.A.) [U.S. Documentaries]
+(Directors: Bonni Cohen, Jon Shenk) — After two high school girls in different towns are sexually assaulted by boys they consider friends, online bullying leads each girl to attempt suicide. Tragically, one dies. Assault in the social media age is explored from the perspectives of the girls and boys involved, as well as their torn-apart communities. World Premiere
+
+"Author: The JT LeRoy Story" (Jeff Feuerzeig, U.S.A.) [U.S. Documentaries]
+(Director: Jeff Feuerzeig — As the definitive look inside the mysterious case of 16-year-old literary sensation JT LeRoy—a creature so perfect for his time that if he didn't exist, someone would have had to invent him—this is the strangest story about story ever told. World Premiere
+
+"The Bad Kids / U.S.A.) [U.S. Documentaries]
+(Directors: Keith Fulton, Lou Pepe) — At a remote Mojave Desert high school, extraordinary educators believe that empathy and life skills, more than academics, give at-risk students command of their own futures. This coming-of-age story watches education combat the crippling effects of poverty in the lives of these so-called "bad kids." World Premiere
+
+"Gleason" (Clay Tweel, U.S.A.) [U.S. Documentaries]
+(Director: Clay Tweel — At the age of 34, Steve Gleason, former NFL defensive back and New Orleans hero, was diagnosed with ALS. Doctors gave him two to five years to live. So that is what Steve chose to do: Live—both for his wife and newborn son and to help others with this disease. World Premiere
+
+"Holy Hell" (undisclosed, U.S.A.) [U.S. Documentaries]
+(Director: undisclosed — Just out of college, a young filmmaker joins a loving, secretive, and spiritual community led by a charismatic teacher in 1980s West Hollywood. Twenty years later, the group is shockingly torn apart. Told through two decades of the filmmaker’s archival materials, this is their story. World Premiere
+
+"How to Let Go of the World (and Love All the Things Climate Can't Change)" (Josh Fox, U.S.A.) [U.S. Documentaries]
+(Director: Josh Fox) — Do we have a chance to stop the most destructive consequences of climate change, or is it too late? Academy Award-nominated director Josh Fox (Gasland travels to 12 countries on six continents to explore what we have to let go of—and all of the things that climate can't change. World Premiere
+
+"Jim" (Brian Oakes, U.S.A.) [U.S. Documentaries]
+(Director: Brian Oakes — The public execution of American conflict journalist James Foley captured the world’s attention, but he was more than just a man in an orange jumpsuit. Seen through the lens of his close childhood friend, Jim moves from adrenaline-fueled front lines and devastated neighborhoods of Syria into the hands of ISIS. World Premiere
+
+Kate Plays Christine" (Robert Greene, U.S.A.) [U.S. Documentaries]
+(Director: Robert Greene — This psychological thriller follows actor Kate Lyn Sheil as she prepares to play the role of Christine Chubbuck, a Florida television host who committed suicide on air in 1974. Christine’s tragic death was the inspiration for Network, and the mysteries surrounding her final act haunt Kate and the production. World Premiere
+
+"Kiki" (Sara Jordenö, U.S.A., Sweden) [U.S. Documentaries]
+(Director: Sara Jordenö) — Through a strikingly intimate and visually daring lens, Kiki offers a riveting, complex insight into a safe space created and governed by LGBTQ youths of color, who are demanding happiness and political power. The film is an exciting coming-of-age story about agency, resilience, and the transformative art form of voguing. World Premiere
+
+"Life, Animated" (Roger Ross Williams, U.S.A.) [U.S. Documentaries]
+(Director: Roger Ross Williams — Owen Suskind, an autistic boy who could not speak for years, slowly emerged from his isolation by immersing himself in Disney animated movies. Using these films as a roadmap, he reconnects with his loving family and the wider world in this emotional coming-of-age story. World Premiere
+
+"Newtown" (Kim A. Snyder, U.S.A.) [U.S. Documentaries]
+(Director: Kim A. Snyder — After joining the ranks of a growing club no one wants to belong to, the people of Newtown, Connecticut, weave an intimate story of resilience. This film traces the aftermath of the worst mass shooting of schoolchildren in American history as the traumatized community finds a new sense of purpose. World Premiere
+
+"NUTS!" (Penny Lane, U.S.A.) [U.S. Documentaries]
+(Director: Penny Lane — The mostly true story of Dr. John Romulus Brinkley, an eccentric genius who built an empire with his goat-testicle impotence cure and a million-watt radio station. Animated reenactments, interviews, archival footage, and one seriously unreliable narrator trace his rise from poverty to celebrity and influence in 1920s America. World Premiere
+
+"Suited" (Jason Benjamin, U.S.A.) [U.S. Documentaries]
+(Director: Jason Benjamin — Bindle & Keep, a Brooklyn tailoring company, makes custom suits for a growing legion of gender-nonconforming clients. World Premiere
+
+"Trapped" (Dawn Porter) [U.S. Documentaries]
+(Director: Dawn Porter) — American abortion clinics are in a fight for survival. Targeted Regulation of Abortion Providers (TRAP laws are increasingly being passed by states that maintain they ensure women’s safety and health, but as clinics continue to shut their doors, opponents believe the real purpose of these laws is to outlaw abortion. World Premiere
+
+"Uncle Howard (Aaron Brookner, U.S.A., United Kingdom) [U.S. Documentaries]
+(Director: Aaron Brookner) — Howard Brookner's first film, Burroughs: The Movie, captured the cultural revolution of downtown New York City in the early '80s. Twenty-five years after his promising career was cut short by AIDS, his nephew sets out to discover Howard's never-before-seen films to create a cinematic elegy about his childhood idol. World Premiere
+
+"Weiner" (Josh Kriegman, Elyse Steinberg, U.S.A.) [U.S. Documentaries]
+(Directors: Josh Kriegman, Elyse Steinberg) — With unrestricted access to Anthony Weiner's New York City mayoral campaign, this film reveals the human story behind the scenes of a high-profile political scandal as it unfolds, and offers an unfiltered look at how much today's politics is driven by an appetite for spectacle. World Premiere
+
+WORLD CINEMA DRAMATIC COMPETITION
+Twelve films from emerging filmmaking talents around the world offer fresh perspectives and inventive styles.
+
+"Belgica" (Felix van Groeningen, Belgium, France, Netherlands) [World Dramatic]
+(Director: Felix van Groeningen, Screenwriters: Felix van Groeningen, Arne Sierens) — In the midst of Belgium's nightlife scene, two brothers start a bar and get swept up in its success. Cast: Stef Aerts, Tom Vermeir, Charlotte Vandermeersch, Hélène De Vos. World Premiere. DAY ONE FILM
+
+"Between Sea and Land" (Manolo Cruz, Carlos del Castillo, Colombia) [World Dramatic]
+(Directors: Manolo Cruz, Carlos del Castillo, Screenwriter: Manolo Cruz) — Alberto, who suffers from an illness that binds him into a body that doesn’t obey him, lives with his loving mom, who dedicates her life to him. His sickness impedes him from achieving his greatest dream of knowing the sea, despite one being located just across the street. Cast: Manolo Cruz, Vicky Hernandéz, Viviana Serna, Jorge Cao, Mile Vergara, Javier Sáenz. World Premiere
+
+"Brahman Naman" (Q, United Kingdom, India) [World Dramatic]
+(Director: Q, Screenwriter: S. Ramachandran) — When Bangalore University’s misfit quiz team manages to get into the national championships, they make an alcohol-fueled, cross-country journey to the competition, determined to defeat their arch-rivals from Calcutta while all desperately trying to lose their virginity. Cast: Shashank Arora, Tanmay Dhanania, Chaitanya Varad, Vaiswath Shankar, Sindhu Sreenivasa Murthy, Sid Mallya. World Premiere
+
+"A Good Wife" (Mirjana Karanovic, Serbia, Bosnia, Croatia ) [World Dramatic]
+(Director: Mirjana Karanovic, Screenwriters: Mirjana Karanovic, Stevan Filipovic, Darko Lungulov) — When 50-year-old Milena finds out about the terrible past of her seemingly ideal husband, while simultaneously learning of her own cancer diagnosis, she begins an awakening from the suburban paradise she has been living in. Cast: Mirjana Karanovic, Boris Isakovic, Jasna Djuricic, Bojan Navojec, Hristina Popovic, Ksenija Marinkovic. World Premiere
+
+"Halal Love (and Sex)" (Assad Fouladkar, Lebanon, Germany, United Arab Emirates ) [World Dramatic]
+(Director and screenwriter: Assad Fouladkar) — Four tragic yet comic interconnected stories come together in this film, which follows devout Muslim men and women as they try to manage their love lives and desires without breaking any of their religion’s rules. Cast: Darine Hamze, Rodrigue Sleiman, Zeinab Khadra, Hussein Mokadem, Mirna Moukarzel, Ali Sammoury. International Premiere
+
+"The Lure" (Agnieszka Smoczynska, Poland ) [World Dramatic]
+(Director: Agnieszka Smoczynska, Screenwriter: Robert Bolesto) — Two mermaid sisters, who end up performing at a nightclub, face cruel and bloody choices when one of them falls in love with a beautiful young man. Cast: Marta Mazurek, Michalina Olszanska, Jakub Gierszal, Kinga Preis, Andrzej Konopka, Zygmunt Malanowicz. International Premiere
+
+"Male Joy, Female Love" (Yao Huang, China) [World Dramatic]
+ (Director and screenwriter: Yao Huang) — Portrays an unlimited cycle of love stories. Cast: Nan Yu, Daizhen Ying, Xiaodong Guo, Yi Sun. World Premiere
+
+"Mammal / Ireland, Luxembourg, Netherlands) [World Dramatic]
+(Director: Rebecca Daly, Screenwriters: Rebecca Daly, Glenn Montgomery) — After Margaret, a divorcée living in Dublin, loses her teenage son, she develops an unorthodox relationship with Joe, a homeless youth. Their tentative trust is threatened by his involvement with a violent gang and the escalation of her ex-husband's grieving rage. Cast: Rachel Griffiths, Barry Keoghan, Michael McElhatton. World Premiere
+
+"Mi Amiga del Parque" (Ana Katz, Argentina, Uruguay) [World Dramatic]
+(Director: Ana Katz, Screenwriters: Ana Katz, Inés Bortagaray) — Running away from a bar without paying the bill is just the first adventure for Liz (mother to newborn Nicanor) and Rosa (supposed mother to newborn Clarisa). This budding friendship between nursing mothers starts with the promise of liberation but soon ends up being a dangerous business. Cast: Julieta Zylberberg, Ana Katz, Maricel Álvarez, Mirella Pascual, Malena Figó, Daniel Hendler. International Premiere
+
+"Much Ado About Nothing" (Alejandro Fernández, Chile) [World Dramatic]
+(Director: Alejandro Fernández, Screenwriters: Alejandro Fernández, Jerónimo Rodríguez) — An upper-class kid gets in trouble with the one percent. Cast: Agustín Silva, Alejandro Goic, Luis Gnecco, Paulina García, Daniel Alcaino, Augusto Schuster. World Premiere
+
+"Sand Storm" (Elite Zexer, Israel) [World Dramatic]
+(Director and screenwriter: Elite Zexer) — When their entire lives are shattered, two Bedouin women struggle to change the unchangeable rules, each in her own individual way. Cast: Lamis Ammar, Ruba Blal-Asfour, Hitham Omari, Khadija Alakel, Jalal Masrwa. World Premiere
+
+"Wild" (Nicolette Krebitz, Germany) [World Dramatic]
+ (Director and screenwriter: Nicolette Krebitz) — An anarchist young woman breaks the tacit contract with civilization and fearlessly decides on a life without hypocrisy or an obligatory safety net. Cast: Lilith Stangenberg, Georg Friedrich. World Premiere
+
+WORLD CINEMA DOCUMENTARY COMPETITION
+
+Twelve documentaries by some of the most courageous and extraordinary international filmmakers working today.
+Eleven documentaries are listed below, and a twelfth will be announced in the weeks ahead.
+
+"All These Sleepless Nights" (Michal Marczak, Poland) [World Documentaries]
+(Director: Michal Marczak) — What does it mean to be truly awake in a world that seems satisfied to be asleep? Kris and Michal push their experiences of life and love to a breaking point as they restlessly roam the streets of Warsaw in search for answers. World Premiere
+
+"A Flag Without a Country" (Bahman Ghobadi, Iraq) [World Documentaries]
+(Director: Bahman Ghobadi) — This documentary follows the very separate paths of singer Helly Luv and pilot Nariman Anwar from Kurdistan, both in pursuit of progress, freedom, and solidarity. Both individuals are a source of strength to their society, which perpetually deals with the harsh conditions of life, war, and ISIS attacks. North American Premiere
+
+"Hooligan Sparrow" (China, U.S.A.) [World Documentaries]
+(Director: Nanfu Wang) — Traversing southern China, a group of activists led by Ye Haiyan, a.k.a. Hooligan Sparrow, protest a scandalous incident in which a school principal and a government official allegedly raped six students. Sparrow becomes an enemy of the state, but detentions, interrogations and evictions can’t stop her protest from going viral. World Premiere
+
+"The Land of the Enlightened" (Pieter-Jan De Pue, Belgium) [World Documentaries]
+(Director: Pieter-Jan De Pue) — A group of Kuchi children in Afghanistan dig out old Soviet mines and sell the explosives to child workers in a lapis lazuli mine. When not dreaming of an Afghanistan after the American withdrawal, Gholam Nasir and his gang control the mountains where caravans are smuggling the blue gemstones. World Premiere
+
+"The Lovers and the Despot" (Robert Cannan, Ross Adam, United Kingdom) [World Documentaries]
+(Directors: Robert Cannan, Ross Adam) — Following the collapse of their glamorous romance, a celebrity director and his actress ex-wife are kidnapped by movie-obsessed dictator Kim Jong-il. Forced to make films in extraordinary circumstances, they get a second chance at love—but only one chance at escape. World Premiere
+
+"Plaza de la Soledad" (Maya Goded, Mexico) [World Documentaries]
+(Director: Maya Goded) — For over 20 years, photographer Maya Goded has intimately documented the lives of a close community of prostitutes in Mexico City. With dignity and humor, these women now strive for a better life — and the possibility of true love. World Premiere
+
+"The Settlers" (Shimon Dotan, France, Canada, Israel, Germany) [World Documentaries]
+(Director: Shimon Dotan) — The first film of its kind to offer a comprehensive view of the Jewish settlements in the West Bank, The Settlers is a historical overview, geopolitical study, and intimate look at the people at the core of the most daunting challenge facing Israel and the international community today. World Premiere
+
+"Sky Ladder: The Art of Cai Guo-Qiang" (Kevin Macdonald, U.S.A.) [World Documentaries]
+(Director: Kevin Macdonald — Having reached the pinnacle of the global art world with his signature explosion events and gunpowder drawings, world-famous Chinese contemporary artist Cai Guo-Qiang is still seeking more. We trace his rise from childhood in Mao’s China and his journey to attempt to realize his lifelong obsession, Sky Ladder. World Premiere. DAY ONE FILM
+
+"Sonita" (Rokhsareh Ghaem Maghami, Germany, Iran, Switzerland) [World Documentaries]
+(Director: Rokhsareh Ghaem Maghami) — If 18-year-old Sonita had a say, Michael Jackson and Rihanna would be her parents and she'd be a rapper who tells the story of Afghan women and their fate as child brides. She finds out that her family plans to sell her to an unknown husband for $9,000. North American Premiere
+
+"We Are X" (Stephen Kijak, United Kingdom, U.S.A., Japan) [World Documentaries]
+(Director: Stephen Kijak) — As glam rock's most flamboyant survivors, X Japan ignited a musical revolution in Japan during the late '80s with their melodic metal. Twenty years after their tragic dissolution, X Japan’s leader, Yoshiki, battles with physical and spiritual demons alongside prejudices of the West to bring their music to the world. World Premiere
+
+"When Two Worlds Collide" (Heidi Brandenburg, Mathew Orzel, Peru) [World Documentaries]
+(Directors: Heidi Brandenburg, Mathew Orzel) — An indigenous leader resists the environmental ruin of Amazonian lands by big business. As he is forced into exile and faces 20 years in prison, his quest reveals conflicting visions that shape the fate of the Amazon and the climate future of our world. World Premiere
+
+NEXT
+
+Pure, bold works distinguished by an innovative, forward-thinking approach to storytelling populate this program. Digital technology paired with unfettered creativity promises that the films in this section will shape a “greater” next wave in American cinema. Presented by Adobe.
+
+"THE 4TH" (Andre Hyland, U.S.A.) [NEXT]
+(Director and screenwriter: Andre Hyland) — It's the Fourth of July in Los Angeles, and Jamie, a broke illustrator who is behind on his rent, tries to throw a cookout while his overbearing roommate is out of town, but everything seems to go wrong. Cast: Andre Hyland, Johnny Pemberton, Eliza Coupe, Yasmine Kittles, Anna Lee Lawson, Paul Erling Oyen. World Premiere
+
+"Dark Night" (Tim Sutton, U.S.A.) [NEXT]
+(Director and screenwriter: Tim Sutton) — A suburban landscape plays witness to the inevitable, unfolding events that culminate in a Cineplex massacre. Over the course of one day, from sunrise to midnight, six strangers—the shooter among them—share in this new American nightmare. Cast: Robert Jumper, Anna Rose, Rosie Rodriguez, Karina Macias, Aaron Purvis, Eddie Cacciola. World Premiere
+
+"The Eyes of My Mother" (Nicolas Pesce, U.S.A.) [NEXT]
+(Director and screenwriter: Nicolas Pesce) — A young, lonely woman is consumed by her deepest and darkest desires after tragedy strikes her quiet country life. Cast: Kika Magalhães, Will Brill, Paul Nazak, Flora Diaz, Clara Wong, Diana Agostini. World Premiere
+
+"First Girl I Loved" (Kerem Sanga, U.S.A.) [NEXT]
+(Director and screenwriter: Kerem Sanga) — Seventeen-year-old Anne just fell in love with Sasha, the most popular girl at her L.A. public high school. But when Anne tells her best friend, Clifton—who has always harbored a secret crush on her—he does his best to get in the way. Cast: Dylan Gelula, Brianna Hildebrand, Mateo Arias, Jennifer Prediger, Tim Heidecker, Pamela Adlon. World Premiere
+
+"The Fits" (Anna Rose Holmer, U.S.A., Italy) [NEXT]
+(Director: Anna Rose Holmer, Screenwriters: Anna Rose Holmer, Saela Davis, Lisa Kjerulff) — In this psychological portrait, Toni, an 11-year-old tomboy, is assimilating into a tight-knit dance team in Cincinnati’s West End when a mysterious outbreak of fainting spells plagues the team, and her desire for acceptance is twisted. Cast: Royalty Hightower, Alexis Neblett, Da'Sean Minor, Lauren Gibson, Makyla Burnam, Inayah Rodgers. North American Premiere
+
+"How To Tell You're A Douchebag" (Tahir Jetter, U.S.A.) [NEXT]
+(Director and screenwriter: Tahir Jetter) — This romantic comedy follows a misogynist who falls in love. Cast: Charles Brice, DeWanda Wise, William Jackson Harper, Alexander Mulzac, Jenna Williams, Tonye Patano. World Premiere
+
+"Jacqueline" (Bernardo Britto, Argentine, U.S.A.) [NEXT]
+(Director and screenwriter: Bernardo Britto) — A young French woman hires a man to document her self-imposed political asylum in Argentina after supposedly leaking highly confidential government secrets. Cast: Camille Rutherford, Wyatt Cenac, James Benson, Martin Anderson, Sarah Willis, Enrique Dura. World Premiere
+
+"The Land" (Steven Caple Jr., U.S.A.) [NEXT]
+(Director and screenwriter: Steven Caple Jr.) — Four teenage boys devote their summer to escaping the streets of Cleveland, Ohio, by pursuing a dream life of professional skateboarding. But when they get caught in the web of the local queenpin, their motley brotherhood is tested, threatening to make this summer their last. Cast: Jorge Lendeborg Jr., Moises Arias, Rafi Gavron, Ezri Walker, Erykah Badu, Michael K. Williams. World Premiere
+
+"Operation Avalanche" (Matt Johnson, U.S.A., Canada) [NEXT]
+(Director: Matt Johnson, Screenwriters: Matt Johnson, Josh Boles) — In 1967, four undercover CIA agents were sent to NASA posing as a documentary film crew. What they discovered led to one of the biggest conspiracies in American history. Cast: Matt Johnson, Owen Williams, Josh Boles, Ray James. World Premiere
+
+"Sleight" (JD Dillard, U.S.A.) [NEXT]
+(Director: JD Dillard, Screenwriters: JD Dillard, Alex Theurer — After a young street magician is left to care for his little sister following their mother's passing, he turns to dealing drugs, but quickly runs into trouble with his supplier. When his sister gets kidnapped, he must rely on his smarts and sleight of hand to save her. Cast: Jacob Latimore, Dulé Hill, Seychelle Gabriel, Storm Reid, Sasheer Zamata, Cameron Esposito. World Premiere
+
+NEW FRONTIER
+
+[New Frontier]
+
+MIDNIGHT
+
+[Midnight]
+
+SPOTLIGHT
+
+[Spotlight]
+
+PREMIERES
+
+[Premieres]
+
+DOCUMENTARY PREMIERES
+
+[Documentary Premieres]
+
+
+OTHER
+
+-----------------------
+
+SLAMDANCE
+
+
+EOF
+
+our @critics;
+$critics[0] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alison Willmore (BuzzFeed, US)
+Alissa Wilkinson (Christianity Today, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+Ben Kenigsberg (Variety, US)
+Ben Smith (UK)
+Bilge Ebiri  (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Bryan Bishop (The Verge, US)
+Carlos Aguilar (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, US)
+Daniel Mecca (The Film Stage, US)
+David D'Arcy (Screen International, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eric Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (HitFix, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jason Bailey (Flavorwire, US)
+Jenni Miller  (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+John DeFore  (The Hollywood Reporter, US)
+Jon Frosch  (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Film School Rejects, MSN Movies, Boxoffice Magazine, US)
+Katie Walsh (The Playlist, US)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kyle Smith (New York Post, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Mel Valentin (Next Projection, US)
+Mike d'Angelo (The Dissolve, US)
+Mike Ryan (Uproxx, US)
+Neil Miller (Film School Rejects, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Dissolve, US)
+Oktay Ege Kozak (The Playlist, US)
+Peter Debruge (Variety, US)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Rodrigo Perez  (The Playlist, US)
+Ryan Lattanzio (TOH!, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Wesley Morris (Grantland, US)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily by Reini Urban.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+ <br>
+All sections updated daily. </small><p>
+
+EOF
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Sundance2016.dat
+
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;

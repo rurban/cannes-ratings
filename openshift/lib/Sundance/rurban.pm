@@ -555,10 +555,13 @@ sub _list {
 get '/Sundance2015' => sub {
   _list(2015);
 };
+get '/Sundance2016' => sub {
+  _list(2016);
+};
 
 get '/SundanceAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
-  for my $year (qw(2015)) {
+  for my $year (qw(2015 2016)) {
     no strict 'refs';
     my $dir = dirname(__FILE__);
     my $dat = "$dir/../../public/Sundance$year.dat";
