@@ -163,7 +163,7 @@ Eleven documentaries are listed below, and a twelfth will be announced in the we
 "A Flag Without a Country" (Bahman Ghobadi, Iraq) [World Documentaries]
 (Director: Bahman Ghobadi) — This documentary follows the very separate paths of singer Helly Luv and pilot Nariman Anwar from Kurdistan, both in pursuit of progress, freedom, and solidarity. Both individuals are a source of strength to their society, which perpetually deals with the harsh conditions of life, war, and ISIS attacks. North American Premiere
 
-"Hooligan Sparrow" (China, U.S.A.) [World Documentaries]
+"Hooligan Sparrow" (Nanfu Wang, China, U.S.A.) [World Documentaries]
 (Director: Nanfu Wang) — Traversing southern China, a group of activists led by Ye Haiyan, a.k.a. Hooligan Sparrow, protest a scandalous incident in which a school principal and a government official allegedly raped six students. Sparrow becomes an enemy of the state, but detentions, interrogations and evictions can’t stop her protest from going viral. World Premiere
 
 "The Land of the Enlightened" (Pieter-Jan De Pue, Belgium) [World Documentaries]
@@ -377,10 +377,10 @@ Critics with stddev &gt;2.5: filtered out
 stddev &gt;2: <i>controversial (italic)</i>.<br>
 &lt;10 ratings: small.<br>
 US Dramatic Competition: <b>bold</b><br>
- <br>
-All sections updated daily. </small><p>
+</small><p>
 
 EOF
+#  <br>All sections updated daily.
 
 our $FOOTER = "
 <pre>
