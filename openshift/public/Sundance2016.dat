@@ -367,7 +367,7 @@ Wesley Morris (Grantland, US)
 
 our $HEADER = <<"EOF";
 
-<small>Collected and updated daily by Reini Urban.
+<small>Collected and updated daily during the festival.
 <br>
 <b>Ratings</b>:<br>
 0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>

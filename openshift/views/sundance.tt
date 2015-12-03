@@ -20,8 +20,8 @@
               <li><a href="https://twitter.com/hashtag/sundance?src=hash">twitter</a></li>
               <li><a href="http://www.indiewire.com/tag/sundance-film-festival">indiewire</a></li>
               <li><a href="http://www.indiewire.com/critic/">criticwire</a></li>
-              <li><a href="http://www.hollywoodreporter.com/sundance/2015/reviews">hollywoodreporter</a></li>
-              <li><a href="http://www.theguardian.com/film/sundance-film-festival-2015">guardian</a></li>
+              <li><a href="http://www.hollywoodreporter.com/sundance/<% year %>/reviews">hollywoodreporter</a></li>
+              <li><a href="http://www.theguardian.com/film/sundance-film-festival-<% year %>">guardian</a></li>
               <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/openshift/public">Ratings history on github</a></li>
 
               <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
