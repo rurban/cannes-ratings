@@ -7,7 +7,7 @@ use utf8;
 our $VERSION = '0.2';
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
-                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres",
+                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres", "Special Events", 
                  "Slamdance");
 
 sub us_rating {
