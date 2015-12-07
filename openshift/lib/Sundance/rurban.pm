@@ -47,8 +47,8 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^\s+(\S.*)/ and $title) { # film comments, links
-      my $cmt = $1;
+    elsif (/^(\(|\s+)(\S.*)/ and $title) { # film comments, links
+      my $cmt = $1.$2;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
     } elsif (/^["“](.+)["”]/) {
@@ -56,7 +56,7 @@ sub _read {
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
-      $title_dir = $_; $n = $s = 0; 
+      $title_dir = $_; $n = $s = 0;
     } elsif (/\w[\w\)]+ \s+ (\d[\d\.]* | [ABCDEF][\+\-]?) ((?:\s+http\S+)?)$/x) {
       my $x = $1; $url = $2;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
@@ -343,7 +343,7 @@ sub _dump {
       	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
       	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
       my $sect_t = $section{$section};
-      my @titles = keys %$sect_t;
+      my @titles = sort keys %$sect_t;
       my @rated_titles = grep {$sect_t->{$_}->[0] ? $_ : undef} @titles;
       @rated_titles = sort {
         $sect_t->{$b}->[0] <=> $sect_t->{$a}->[0]
@@ -351,7 +351,7 @@ sub _dump {
       my @unrated_titles = grep {!$sect_t->{$_}->[0] ? $_ : undef} @titles;
       @unrated_titles = sort {
         $sect_t->{$b}->[3] <=> $sect_t->{$a}->[3]
-      } @unrated_titles;
+      } @unrated_titles if $num;
       for (@rated_titles, @unrated_titles)
       {
         my $n=$sect_t->{$_}->[1];
@@ -360,7 +360,7 @@ sub _dump {
 	$s=0 unless $s;
 	my $l=$title{$_}->{line};
 	$l=$s>=2.0?"<i>$l</i>":$l;
-        $l="<small>$l</small>" if $title{$_}->{num} < 10;
+        $l="<small>$l</small>" if $num and $title{$_}->{num} < 10;
         if ($six and $sect_t->{$_}->[0] < 6) {
           $six=0;
 	  $out .= "<tr><td colspan=3>";
@@ -372,15 +372,16 @@ sub _dump {
           : $r
             ? 'reviews'
             : '-';
-        my $detail = ($n or $r or $title{$_}->{comment})
+        my $cmt = $title{$_}->{comment} || "";
+        my $detail = ($n or $r or $cmt)
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
           : "[$ns]";
         if ($n) {
-          $out .= sprintf("<tr><td>%2d.</td> <td>%s</td> <td class=r>%s</td></tr>\n", $j++, $l, $detail);
+          $out .= sprintf("<tr><td>%2d.</td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $j++, $cmt, $l, $detail);
         } elsif ($r) {
-          $out .= sprintf("<tr><td> </td> <td>%s</td> <td class=r>%s</td></tr>\n", $l, $detail);
-        } elsif ($title{$_}->{comment}) {
-	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>$detail</td></tr>\n";
+          $out .= sprintf("<tr><td> </td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $cmt, $l, $detail);
+        } elsif ($cmt) {
+	  $out .= sprintf("<tr><td> </td>    <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $cmt, $l, $detail);
         } else {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>[-]</td></tr>\n";
         }
