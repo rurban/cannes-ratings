@@ -368,7 +368,7 @@ sub _dump {
 	  $out .= "</td></tr>\n";
 	}
         my $ns = $n
-          ? sprintf("%0.2f/%d&nbsp;%0.1f", @{$sect_t->{$_}})
+          ? sprintf("%0.2f/%d&nbsp;%0.1f", $sect_t->{$_}->[0], $n, $s)
           : $r
             ? 'reviews'
             : '-';

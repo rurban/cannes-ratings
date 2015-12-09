@@ -355,8 +355,11 @@ sub _dump {
 	  $out .= "-"x25;
 	  $out .= "</td></tr>\n";
 	}
+        my @l = ($section{$section}->{$_}->[0],
+                 $section{$section}->{$_}->[1],
+                 $section{$section}->{$_}->[2]);
         my $ns = $section{$section}->{$_}->[1] 
-          ? sprintf("%0.2f/%d&nbsp;%0.1f", @{$section{$section}->{$_}})
+          ? sprintf("%0.2f/%d&nbsp;%0.1f", @l)
           : '-';
         my $detail = ($section{$section}->{$_}->[1] or $title{$_}->{comment})
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
