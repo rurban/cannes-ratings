@@ -4,7 +4,7 @@
           <li>
             <h3>Years</h3>
             <ul class="links">
-              <li><a href="/all">All</a></li>
+              <li><a href="/all"><i>All</i></a></li>
               <li><a href="/2015">2015</a></li>
               <li><a href="/2014">2014</a></li>
               <li><a href="/2013">2013</a></li>
@@ -12,7 +12,7 @@
               <li><a href="/2011">2011</a></li>
               <li><a href="/2010">2010</a></li>
               <li>&nbsp;</li>
-              <li><small><a href="/Sundance2015"> =&gt; Sundance</a></small></li>
+              <li><small><a href="/Sundance2016"> =&gt; Sundance</a></small></li>
             </ul>
           </li>
 

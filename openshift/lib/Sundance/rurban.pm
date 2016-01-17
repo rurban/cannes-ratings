@@ -585,13 +585,13 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2015";
+  $all->{year} = "2015-2016";
   $all->{side_details} = _side_details(\%critic, \%title);
   template 'sundance', $all;
 };
 
-get '/' => sub {
-  redirect '/Sundance2015';
-};
+#get '/' => sub {
+#  redirect '/Sundance2016';
+#};
 
 1;
