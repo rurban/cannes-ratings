@@ -604,8 +604,9 @@ get '/all' => sub {
   $all->{side_details} = _side_details(\%critic, \%title, \@{"Cannes::rurban::2015::critics_group"});
   template 'index', $all;
 };
-get '/' => sub {
-  redirect '/2015';
-};
+
+#get '/' => sub {
+#  redirect '/2015';
+#};
 
 1;

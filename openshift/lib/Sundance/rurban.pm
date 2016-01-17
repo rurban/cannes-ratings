@@ -590,8 +590,8 @@ get '/SundanceAll' => sub {
   template 'sundance', $all;
 };
 
-#get '/' => sub {
-#  redirect '/Sundance2016';
-#};
+get '/' => sub {
+  redirect '/Sundance2016';
+};
 
 1;
