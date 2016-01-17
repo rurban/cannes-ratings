@@ -53,7 +53,7 @@ float: right;
 width: 175px;
 }
 
-#header, #s1015header, #s1016header, #about, #intro {
+#header, #sheader, #about, #intro {
 padding-top: 60px;
 }
 
@@ -64,26 +64,19 @@ background-position: top left;
 height: 90px;
 vertical-align: bottom;
 }
-#s2015header {
-background-image: url("/images/sundance2015.png");
+#sheader {
+background-image: url("/images/sundance.png");
 background-repeat: no-repeat;
 background-position: top left;
-height: 150px;
+height: 90px;
 vertical-align: bottom;
 }
-#s2016header {
-background-image: url("/images/sundance2016.png");
-background-repeat: no-repeat;
-background-position: top left;
-height: 150px;
-vertical-align: bottom;
-}
-#header h1, #s2015header h1, #s2016header h1 {
+#header h1, #sheader h1 {
 padding-left: 240px;
 padding-right: 30px;
 margin: 0
 }
-#header h2, #s2015header h2, #s2016header h2 {
+#header h2, #sheader h2 {
 padding-right: 30px;
 padding-left: 240px;
 color: #888;

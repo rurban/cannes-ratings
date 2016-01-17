@@ -36,7 +36,7 @@
       </div>
 
       <div id="content">
-        <div id="s<% year %>header">
+        <div id="sheader">
           <h1>Sundance <% year %> critics ratings</h1>
           <h2>Scaled to 0-10</h2>
         </div>
