@@ -52,6 +52,7 @@ Justin Chang        B-  https://variety.com/2016/film/festivals/other-people-rev
 Tim Grierson        B-
 John DeFore         B   https://www.hollywoodreporter.com/review/people-sundance-review-858251
 Nigel M Smith       8   http://www.theguardian.com/film/2016/jan/22/other-people-review-cancer-comedy-lets-molly-shannon-wring-all-types-of-tears
+Ben Conniff         B+   http://thereelmoviesblog.blogspot.com/2016/01/sundance-2016-other-people-review.html
 
 "Southside With You" (Richard Tanne) [U.S. Dramatic]
 (Director and screenwriter: Richard Tanne) — Southside With You is a chronicle of the summer afternoon in 1989 when the future president of the United States of America, Barack Obama, wooed his future First Lady on an epic first date across Chicago's South Side. Cast: Tika Sumpter, Parker Sawyers, Vanessa Bell Calloway. World Premiere
@@ -62,7 +63,7 @@ Nigel M Smith       8   http://www.theguardian.com/film/2016/jan/22/other-people
 "Swiss Army Man" (Daniel Scheinert, Daniel Kwan) [U.S. Dramatic]
 (Directors and screenwriters: Daniel Scheinert, Daniel Kwan) — Hank, a hopeless man stranded in the wild, discovers a mysterious dead body. Together the two embark on an epic journey to get home. As Hank realizes the body is the key to his survival, this once-suicidal man is forced to convince a dead body that life is worth living. Cast: Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead. World Premiere
 
-"Tallulah" ( Sian Heder) [U.S. Dramatic]
+"Tallulah" (Sian Heder) [U.S. Dramatic]
 (Director and screenwriter: Sian Heder) — A rootless young woman takes a toddler from a wealthy, negligent mother and passes the baby off as her own in an effort to protect her. This decision connects and transforms the lives of three very different women. Cast: Ellen Page, Allison Janney, Tammy Blanchard, Evan Jonigkeit, Uzo Aduba. World Premiere
 
 "White Girl" (Elizabeth Wood) [U.S. Dramatic]
@@ -406,6 +407,7 @@ Renowned filmmakers and films about far-reaching subjects comprise this section 
 (Directors: Heidi Ewing, Rachel Grady) — How did a poor Jewish kid from Connecticut bring us Archie Bunker and become one of the most successful television producers ever? Norman Lear brought provocative subjects like war, poverty, and prejudice into 120 million homes every week. He proved that social change was possible through an unlikely prism: laughter. World Premiere. DAY ONE FILM
 
 Leslie Felperin     C   http://www.hollywoodreporter.com/review/norman-lear-just-version-you-858248
+Eric Kohn           B-  http://www.indiewire.com/article/sundance-review-norman-lear-fans-will-get-a-kick-out-of-just-another-version-of-you-20160122
 
 "Nothing Left Unsaid: Gloria Vanderbilt & Anderson Cooper" (Liz Garbus) [Documentary Premieres]
 (Director: Liz Garbus) — Gloria Vanderbilt and her son Anderson Cooper each tell the story of their past and present, their loves and losses, and reveal how some family stories have the tendency to repeat themselves in the most unexpected ways. World Premiere
@@ -642,6 +644,10 @@ Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Sundance2016.dat
 
 </pre>";
+
+# links:
+# http://www.theguardian.com/film/sundance-2016
+# http://www.indiewire.com/critic/
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
 $FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
