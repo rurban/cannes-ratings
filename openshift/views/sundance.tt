@@ -23,6 +23,7 @@
               <li><a href="http://www.indiewire.com/critic/">criticwire</a></li>
               <li><a href="https://www.hollywoodreporter.com/movies/reviews">hollywoodreporter</a></li>
               <li><a href="http://www.theguardian.com/film/series/first-look-review">guardian</a></li>
+              <li><a href="http://letterboxd.com/chiras365/list/sundance-film-festival-2016/">letterboxd</a></li>
               <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/openshift/public">Ratings history on github</a></li>
 
               <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
