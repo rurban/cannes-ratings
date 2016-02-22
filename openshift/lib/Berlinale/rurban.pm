@@ -285,6 +285,7 @@ sub _dump {
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
     next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
+    next if $l =~ / 19[789]/;
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -295,15 +296,16 @@ sub _dump {
     }
     $i++;
   }
-  my $h = "<h1><a name=\"verygood\"></a> Very Good Films (avg>7.5, n>3)</h1>\n<table>\n";
+  my $h = "<h1><a name=\"verygood\"></a> Very Good New Films (avg>7.5, n>3)</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
   for (@t) { 
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num}; 
-    next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
+    next if $a < 6.0 or $a >= 7.5 or $n <= 3;
     my $l=$title{$t}->{line};
+    next if $l =~ / 19[789]/;
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -315,7 +317,7 @@ sub _dump {
     $i++;
   }
   if ($list) {
-    $out .= "<h1><a name=\"good\"></a>Good Films (avg>6, n>3)</h1>\n<table>\n"
+    $out .= "<h1><a name=\"good\"></a>Good New Films (avg>6, n>3)</h1>\n<table>\n"
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
   }
