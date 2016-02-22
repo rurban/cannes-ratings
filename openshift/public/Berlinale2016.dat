@@ -1,0 +1,1335 @@
+package Berlinale::rurban::2016; # -*- perl -*-
+#!/usr/bin/perl
+# Berlinale 2016 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+
+use utf8;
+our $DATA= <<'EOF';
+
+Wettbewerb
+Forum
+Panorama
+Generation
+Perspektive Deutsches Kino
+Forum Expanded
+Special
+Native
+Retrospektive
+Woche der Kritik
+
+"DER VERLORENE ENGEL" (Ralf Kirsten, DDR 1965-1966/1970) [Retrospektive]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201602971#tab=filmStills
+
+# critic.de
+Till Kadritzke        7.5
+
+"LANDSTüCK" [Forum]
+
+# critic.de
+Till Kadritzke        7.5
+
+"WIR SIND DIE FLUT" [Perspektive Deutsches Kino]
+
+# critic.de
+Martin Gobbin         4
+
+"A ROAD (Aru michi)" (Daichi Sugimoto, J 2015) [Forum]
+
+# critic.de
+Martin Gobbin         2.5
+
+"FANTASTIC" (Offer Egozy) [Forum]
+
+# critic.de
+Martin Gobbin         2.5
+
+"HAPPINESS AVENUE (Sunayama Ginza)" (Katsuyuki Hirano, J 1986) [Forum]
+
+# critic.de
+Lukas Foerster        6
+Michael Kienzl        6
+
+"A DRAGON ARRIVES! (Ejhdeha Vared Mishavad!)" [Wettbewerb]
+
+Reini Urban           4
+# critic.de
+Martin Gobbin         4
+David Hudson          5
+Daniel Kasman         5
+Ekkehard Knörer      2.5
+Anke Westphal         7.5
+
+"TORO" (Martin Hawie) [Perspektive Deutsches Kino]
+
+# critic.de
+Frédéric Jaeger     4
+Lukas Stern           4
+
+"IN THE LAST DAYS OF THE CITY" [Forum]
+
+# critic.de
+Frédéric Jaeger     9
+Kevin B. Lee         6
+Rüdiger Suchsland    9
+
+"VERFLUCHTE LIEBE DEUTSCHER FILM" (Dominik Graf, Johannes Sievert) [Forum]
+
+# critic.de
+Lukas Foerster        7.5
+David Hudson          6
+Frédéric Jaeger     7.5
+Daniel Kasman         6
+Ekkehard Knörer      7.5
+
+"THE REVOLUTION WON'T BE TELEVISED" [Forum]
+
+# critic.de
+Lukas Foerster        7.5
+
+"LIFE AFTER LIFE" [Forum]
+
+# critic.de
+Lukas Foerster        2.5
+Martin Gobbin         6
+Daniel Kasman         5
+
+"SHELLEY" [Panorama]
+
+# critic.de
+Martin Gobbin         4
+
+"STARVE YOUR DOG" [Panorama]
+
+# critic.de
+Martin Gobbin         4
+
+"CREEPY (Kurîpî)" (Kiyoshi Kurosawa) [Special]
+
+# critic.de
+Hannes Brühwiler     7.5
+Lukas Foerster        9
+Martin Gobbin         9
+David Hudson          7.5     http://www.fandor.com/keyframe/daily-berlinale-2016-diary-3
+Daniel Kasman         7.5     http://mubi.com/notebook/posts/berlinale-2016-the-title-says-it-best
+Michael Kienzl        7.5
+Ekkehard Knörer      7.5
+Boris Nelepo          6
+Alexandra Zawia       7.5
+
+"TOKYO CABBAGEMAN K" [Forum]
+
+# critic.de
+Lukas Foerster        9
+Michael Kienzl        6
+Boris Nelepo          6
+
+"SAINT AMOUR" [Wettbewerb]
+
+Reini Urban           4       http://letterboxd.com/film/saint-amour-2016/
+# critic.de
+Lukas Stern           2.5     http://www.critic.de/film/saint-amour-9262/
+
+"SIXTY SIX" [Woche der Kritik]
+
+# critic.de
+Ekkehard Knörer      5
+Nikolaus Perneczky    6
+
+"BLUE DRESS" [Woche der Kritik]
+
+# critic.de
+Boris Nelepo          6
+Lukas Stern           6
+
+"UNITED STATES OF LOVE (Zjednoczone Stany Miłosci)" [Wettbewerb]
+
+# critic.de
+Till Kadritzke        6       http://www.critic.de/film/united-states-of-love-9229/
+Michael Kienzl        2.5
+Lukas Stern           4
+Anke Westphal         4
+
+"A LULLABY TO THE SORROWFUL MYSTERY (Hele Sa Hiwagang Hapis)" (Lav Diaz, Phi) [Wettbewerb]
+
+# critic.de
+Andrey Arnold         6
+Dunja Bialas          9
+Hannes Brühwiler     9
+Lukas Foerster        9
+David Hudson          7.5
+Till Kadritzke        9
+Daniel Kasman         7.5
+Michael Kienzl        5       http://www.critic.de/film/a-lullaby-to-the-sorrowful-mystery-9222/
+Ekkehard Knörer      7.5
+Boris Nelepo          7.5
+Nikolaus Perneczky    7.5
+Lukas Stern           7.5
+
+"MUCH ADO ABOUT NOTHING (Aquí no ha pasado nada)" [Panorama] <i>Sundance</i>
+
+# critic.de
+Till Kadritzke        6       http://www.critic.de/film/much-ado-about-nothing-9287/
+
+"JIMMY ORPHEUS" (Roland Klick, BRD 1966)  [Retrospektive]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201602800#tab=filmStills
+
+# critic.de
+Hannes Brühwiler     9
+Lukas Foerster        6
+Boris Nelepo          6
+
+"FROM THE NOTEBOOK OF..." (Robert Beavers, USA 1971) [Forum Expanded]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201602568#tab=filmStills
+
+# critic.de
+Hannes Brühwiler     9
+Lukas Foerster        9
+Daniel Kasman         9
+Kevin B. Lee         9
+
+"THE ONES BELOW" (David Farr, GB) [Panorama]
+
+# critic.de
+Martin Gobbin         4
+
+"BEFORE THE STREETS (Avant les rues)" (Chloé Leriche, CAN) [Generation]
+
+# critic.de
+Martin Gobbin         4
+
+"CHI-RAQ" (Spike Lee, USA) [Wettbewerb]
+
+# critic.de
+Andrey Arnold         6
+Hannes Brühwiler     9
+Lukas Foerster        7.5
+Till Kadritzke        7.5     http://www.critic.de/film/chi-raq-8975/
+Michael Kienzl        6
+Kevin B. Lee         9
+Rüdiger Suchsland    7.5
+Alexandra Zawia       5
+
+"NEWS FROM PLANET MARS (Des nouvelles de la planète Mars)" [Wettbewerb]
+
+Reini Urban           6       
+# critic.de
+Andrey Arnold         6
+
+"GENIUS" (Michael Grandage) [Wettbewerb]
+
+# critic.de
+Andrey Arnold         6
+Lukas Stern           1       http://www.critic.de/film/genius-9136/
+Anke Westphal         6
+Alexandra Zawia       2.5
+
+"A QUIET PLACE" (Ronny Dörfler, D/RO) [Perspektive Deutsches Kino]
+
+# critic.de
+Sonja M. Schultz      6
+
+"VALENTINA" (Maximilian Feldmann, D) [Perspektive Deutsches Kino]
+
+# critic.de
+Sonja M. Schultz      7.5
+
+"TIME WAS ENDLESS (Antes o tempo não acabava)" [Panorama]
+
+# critic.de
+Kevin B. Lee         6
+
+"INVENTION" [Forum Expanded]
+
+# critic.de
+Martin Gobbin         4
+Kevin B. Lee         5
+
+"THE ILLINOIS PARABLES" [Forum Expanded]
+
+# critic.de
+Hannes Brühwiler     6
+Kevin B. Lee         7.5
+
+"THE COMMUNIST REVOLUTION WAS CAUSED BY THE SUN" [Forum Expanded]
+
+# critic.de
+Ekkehard Knörer      2.5
+
+"BUNKER DRAMA" [Forum Expanded]
+
+# critic.de
+Ekkehard Knörer      2.5
+
+"DIE GETRäUMTEN (Die Geträumten)" [Forum]
+
+# critic.de
+Ekkehard Knörer      6
+Alexandra Zawia       9
+
+"BETWEEN FENCES (Bein gderot)"  [Forum]
+
+# critic.de
+Hannes Brühwiler     6
+Lukas Foerster        7.5
+Frédéric Jaeger     6
+Daniel Kasman         6
+Ekkehard Knörer      6
+Boris Nelepo          6
+
+"ZERO DAYS" [Wettbewerb]
+
+# critic.de
+Hannes Brühwiler     7.5
+Frédéric Jaeger     6
+Till Kadritzke        6       http://www.critic.de/film/zero-days-9076/
+Rüdiger Suchsland    7.5
+Anke Westphal         7.5
+Alexandra Zawia       4
+
+"6A" [Generation]
+
+# critic.de
+Martin Gobbin         6
+
+"KATZ UND MAUS" (Hans Jürgen Pohland, D/PL 1967) [Retrospektive]
+
+# critic.de
+Daniel Kasman         5
+Michael Kienzl        4
+Lukas Stern           5
+
+"MAGGIE'S PLAN" (Rebecca Miller, USA 2016) [Panorama] <i>Sundance</i>
+
+# critic.de
+Martin Gobbin         7.5
+Till Kadritzke        7.5     http://www.critic.de/film/maggies-plan-9150/
+Sonja M. Schultz      6
+
+"GOAT" (Andrew Neel, USA 2016) [Panorama] <i>Sundance</i>
+
+# critic.de
+Martin Gobbin         9
+Till Kadritzke        2.5
+Sonja M. Schultz      6
+
+"RUDOLF THOME - ÜBERALL BLUMEN" (Serpil Turhan, D 2016) [Forum]
+
+# critic.de
+Lukas Foerster        7.5
+David Hudson          6
+Ekkehard Knörer      7.5
+Boris Nelepo          7.5
+Nikolaus Perneczky    7.5
+
+"PREIS DER FREIHEIT" (Egon Monk, BRD 1966) [Retrospektive]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201602801#tab=filmStills
+
+# critic.de
+Lukas Foerster        4
+Michael Kienzl        6
+Boris Nelepo          5
+Lukas Stern           7.5
+
+"DIE KOMMUNE (Kollektivet)" [Wettbewerb]
+
+# critic.de
+Johannes Bluth        7.5     http://www.critic.de/film/die-kommune-9023/
+Till Kadritzke        2.5
+Michael Kienzl        2.5
+Nikolaus Perneczky    1
+Lukas Stern           5
+Rüdiger Suchsland    6
+Anke Westphal         5
+Alexandra Zawia       6
+
+"THE DREAMER (El Soñador)"
+
+# critic.de
+Johannes Bluth        6
+
+"DEATH IN SARAJEVO (Smrt u Sarajevu)" [Wettbewerb]
+
+# critic.de
+Andrey Arnold         5
+Kevin B. Lee         6
+Nikolaus Perneczky    2.5     http://perlentaucher.de/berlinale-blog/585_zieht_die_vorhaenge_nicht_auf%3A_danis_tanovics_death_in_sarajewo_%28wettbewerb%29.html
+Lukas Stern           7.5     http://www.critic.de/film/death-in-sarajevo-9227/
+Rüdiger Suchsland    4
+Anke Westphal         5
+Alexandra Zawia       6
+
+"ELIXIR" (Daniil Zinchenko) [Forum]
+
+# critic.de
+Martin Gobbin         1
+Boris Nelepo          6
+Nikolaus Perneczky    6
+
+"THE SON OF JOSEPH (Le fils de Joseph)" (Eugène Green) [Forum]
+
+# critic.de
+Dunja Bialas          9
+Martin Gobbin         2.5
+David Hudson          6
+Frédéric Jaeger     9
+Daniel Kasman         6
+Michael Kienzl        7.5     http://www.critic.de/film/the-son-of-joseph-9332/
+Ekkehard Knörer      9
+Boris Nelepo          6
+Nikolaus Perneczky    9
+
+"LANTOURI" (Reza Dormishian) [Panorama]
+
+# critic.de
+Martin Gobbin         9
+
+"STARLESS DREAM (Royahaye Dame Sobh)" (Mehrdad Oskouei) [Generation]
+
+# critic.de
+Martin Gobbin         7.5
+
+"BLUE BICYCLE (Mavi Bisiklet)" (Ümit Köreken) [Generation]
+
+# critic.de
+Martin Gobbin         4
+
+"THE END (Dans les bois)" (Guillaume Nicloux) [Forum]
+
+# critic.de
+Dunja Bialas          4
+Martin Gobbin         2.5
+Till Kadritzke        7.5
+Michael Kienzl        5
+Lukas Stern           9       http://www.critic.de/film/the-end-9349/
+
+"SOY NERO" [Wettbewerb]
+
+# critic.de
+Andrey Arnold         6
+Johannes Bluth        7.5
+Hannes Brühwiler     2.5
+Lukas Foerster        4
+David Hudson          2.5
+Till Kadritzke        4
+Daniel Kasman         2.5
+Kevin B. Lee         4
+Lukas Stern           5
+Rüdiger Suchsland    6
+Anke Westphal         5
+Alexandra Zawia       4
+
+"REMAINDER" [Panorama]
+
+# critic.de
+Martin Gobbin         4
+Kevin B. Lee         6
+Boris Nelepo          6
+Lukas Stern           4
+
+"MY LAND (Wu Tu)" [Panorama]
+
+# critic.de
+Kevin B. Lee         6
+
+"AN OUTPOST OF PROGRESS (Posto-Avançado do Progresso)" [Forum]
+
+# critic.de
+Martin Gobbin         5
+Kevin B. Lee         5
+
+"WE ARE NEVER ALONE (Nikdy nejsme sami)" [Forum]
+
+# critic.de
+Martin Gobbin         4
+
+"HOTEL DALLAS" [Panorama]
+
+# critic.de
+Martin Gobbin         6
+
+"CONTINUITY" [Forum Expanded]
+
+# critic.de
+Martin Gobbin         5
+
+"THE WORLD OF US (Woorideul)" [Generation]
+
+# critic.de
+Martin Gobbin         7.5
+
+"WHERE TO INVADE NEXT" (Michael Moore, USA) [Special]
+
+Reini Urban           7
+# critic.de
+Andrey Arnold         5
+Till Kadritzke        4
+Boris Nelepo          7.5
+Alexandra Zawia       4
+
+"INERTIA" [Forum]
+
+# critic.de
+Lukas Foerster        5
+
+"ELDORADO XXI" (Salomé Lamas, F/P 2016) [Forum]
+
+# critic.de
+Dunja Bialas          9
+Lukas Foerster        6
+Daniel Kasman         4
+Nikolaus Perneczky    9
+
+"ENTSCHEIDUNG FüRS LERNEN" (Peter Ulbrich, DDR 1966) [Retrospektive]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201602304#tab=filmStills
+
+# critic.de
+Lukas Foerster        6
+
+"FRAUEN IN DEUTSCHLAND. THILO KOCH BERICHTET" (Peter Otto, BRD 1966) [Retrospektive]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201602217#tab=filmStills
+
+# critic.de
+Lukas Foerster        6
+
+"DIE FABELHAFTEN BAKER BOYS (The Fabulous Baker Boys)" (Steve Kloves, USA 1989) [Retrospektive]
+
+# critic.de
+Lukas Foerster        7.5
+Till Kadritzke        6
+Michael Kienzl        5
+
+"CROSSCURRENT (Chang Jiang Tu)" [Wettbewerb]
+
+# critic.de
+Andrey Arnold         5
+Hannes Brühwiler     6
+Lukas Foerster        5
+Martin Gobbin         6
+David Hudson          6
+Daniel Kasman         6
+Michael Kienzl        4       http://www.critic.de/film/crosscurrent-9266/
+Kevin B. Lee         6
+Nikolaus Perneczky    6       http://perlentaucher.de/berlinale-blog/588_metaphysisches_stationendrama%3A_yang_chaos_crosscurrent_%28wettbewerb%29.html
+Anke Westphal         9
+Alexandra Zawia       5
+
+"24 WOCHEN" [Wettbewerb]
+
+# critic.de
+Dunja Bialas          6
+Lukas Foerster        1
+David Hudson          4
+Sonja M. Schultz 9
+Lukas Stern           1       http://www.critic.de/film/24-wochen-9261/
+Rüdiger Suchsland    5
+Anke Westphal         9
+Alexandra Zawia       1
+
+"MUITO ROMâNTICO" [Forum Expanded]
+
+# critic.de
+Johannes Bluth        7.5
+
+"DAS TAGEBUCH DER ANNE FRANK" [Generation]
+
+# critic.de
+Sonja M. Schultz 7.5
+
+"KATER" (Klaus Händl, AUT) [Panorama]
+
+# critic.de
+Andrey Arnold         5
+Martin Gobbin         9
+Alexandra Zawia       6
+
+"JEDER STIRBT FüR SICH ALLEIN (Alone in Berlin)" [Wettbewerb]
+
+# critic.de
+Johannes Bluth        1       http://www.critic.de/film/jeder-stirbt-fuer-sich-allein-9137/
+Sonja M. Schultz 7.5
+Lukas Stern           1
+Anke Westphal         2.5
+Alexandra Zawia       1
+
+"A QUIET PASSION" (Terence Davies) [Special]
+
+# critic.de
+Andrey Arnold         7.5
+Hannes Brühwiler     9
+Lukas Foerster        7.5
+David Hudson          9       http://www.fandor.com/keyframe/daily-berlinale-2016-diary-3
+Till Kadritzke        9       http://www.critic.de/film/a-quiet-passion-9269/
+Daniel Kasman         9       http://mubi.com/notebook/posts/berlinale-2016-women-poets-and-philosophers
+Michael Kienzl        7.5
+Ekkehard Knörer      9
+Kevin B. Lee         9
+Alexandra Zawia       7.5
+
+"KATE PLAYS CHRISTINE" [Forum] <i>Sundance</i>
+
+# critic.de
+Andrey Arnold         5
+Hannes Brühwiler     5
+Lukas Foerster        4
+Ekkehard Knörer      5
+Kevin B. Lee         7.5
+Carolin Weidner       7.5
+
+"KARLA" (Herrmann Zschoche, DDR 1965) [Retrospektive]
+
+# critic.de
+Daniel Kasman         9
+
+"SAINT TERRORISM" (Masashi Yamamoto, J 1980) [Forum]
+
+# critic.de
+Lukas Foerster        7.5
+Michael Kienzl        6
+
+"COSMOS" [Woche der Kritik] (Andrzej Zulawski, F 2015) [Woche der Kritik]
+
+# critic.de
+Hannes Brühwiler     7.5
+Lukas Foerster        9
+Daniel Kasman         7.5     http://mubi.com/notebook/posts/locarno-2015-day-3
+Michael Kienzl        6
+Boris Nelepo          9
+Lukas Stern           7.5
+Alexandra Zawia       4
+
+"PANAMERICAN MACHINERY (Maquinaria Panamericana)" (Joaquin del Paso, MEX) [Forum]
+
+# critic.de
+Hannes Brühwiler     5
+Till Kadritzke        5
+Kevin B. Lee         7.5
+
+"WHILE THE WOMEN ARE SLEEPING" (Wayne Wang, J) [Panorama]
+
+# critic.de
+Martin Gobbin         6       http://www.critic.de/film/while-the-women-are-sleeping-9320/
+Till Kadritzke        4
+
+"LETTERS FROM WAR (Cartas da guerra)" [Wettbewerb]
+
+# critic.de
+Andrey Arnold         6
+Johannes Bluth        2.5     http://www.critic.de/film/letters-from-war-9223/
+Hannes Brühwiler     2.5
+Lukas Foerster        2.5
+David Hudson          5       http://fandor.com/keyframe/daily-berlinale-2016-diary-4
+Till Kadritzke        2.5
+Daniel Kasman         4
+Kevin B. Lee         5
+Rüdiger Suchsland    9
+Anke Westphal         6
+Alexandra Zawia       2.5
+
+"ZONA NORTE" (Monika Treut, D) [Panorama]
+
+# critic.de
+Sonja M. Schultz 6
+
+"HEDI (Inhebbek Hedi)" (Mohamed Ben Attia, TUN) [Wettbewerb]
+
+# critic.de
+Johannes Bluth        7.5     http://www.critic.de/film/hedi-9260/
+David Hudson          5       http://www.fandor.com/keyframe/daily-berlinale-2016-diary-2
+Rüdiger Suchsland    6
+Anke Westphal         6
+Carolin Weidner       6
+Alexandra Zawia       6
+
+"UNCLE HOWARD" [Panorama]
+
+# critic.de
+David Hudson          4
+
+"AGONIE" [Perspektive Deutsches Kino]
+
+# critic.de
+Alexandra Zawia       4
+
+"HOW HEAVY THIS HAMMER" [Forum]
+
+# critic.de
+Lukas Stern           7.5
+Alexandra Zawia       7.5
+
+"TALES OF TWO WHO DREAMT" [Forum]
+
+# critic.de
+Lukas Foerster        4
+
+"BARAKAH MEETS BARAKAH (Barakah yoqabil Barakah)" [Forum]
+
+# critic.de
+Johannes Bluth        7.5
+Lukas Foerster        6
+Martin Gobbin         7.5
+
+"BEING 17 (Quand on a 17 ans)" (André Téchiné) [Wettbewerb]
+
+# critic.de
+Andrey Arnold         6
+Dunja Bialas          9
+David Hudson          6       http://fandor.com/keyframe/daily-berlinale-2016-diary-4
+Till Kadritzke        7.5     http://www.critic.de/film/being-17-9228/
+Daniel Kasman         6
+Michael Kienzl        7.5
+Ekkehard Knörer      7.5
+Boris Nelepo          4
+Sonja M. Schultz 7.5
+Alexandra Zawia       7.5
+
+"I, OLGA HEPNAROVá (Já, Olga Hepnarová)" (Petr Kazda, Tomás Weinreb, CZ) [Panorama]
+
+# critic.de
+Martin Gobbin         7.5
+
+"GIRL ASLEEP" (Rosemary Myers, AUS) [Generation]
+
+# critic.de
+Johannes Bluth        4
+Martin Gobbin         6
+
+"OLD STONE (Lao Shi)" (Johnny Ma) [Forum]
+
+# critic.de
+Martin Gobbin         6
+
+"RAUF" (Soner Caner, Baris Kaya, TR) [Generation]
+
+# critic.de
+Martin Gobbin         5
+
+"BORIS SANS BéATRICE" (Denis Côté, CAN) [Wettbewerb]
+
+# critic.de
+Andrey Arnold         7.5
+Dunja Bialas          9
+Hannes Brühwiler     6
+Lukas Foerster        6
+Martin Gobbin         6
+David Hudson          4       http://www.fandor.com/keyframe/daily-berlinale-2016-diary-2
+Till Kadritzke        7.5
+Daniel Kasman         4
+Michael Kienzl        5
+Boris Nelepo          5
+Nikolaus Perneczky    5       http://perlentaucher.de/berlinale-blog/574_weniger_sonderbar_als_andere_c%C3%B4t%C3%A9-filme%3A_denis_c%C3%B4t%C3%A9s_boris_sans_b%C3%A9atrice_%28wettbewerb%29.html
+Sonja M. Schultz 2.5
+Lukas Stern           6
+Rüdiger Suchsland    7.5
+Anke Westphal         4
+Carolin Weidner       6
+Alexandra Zawia       7.5
+
+"THE PATRIARCH (Mahana)" [Wettbewerb]
+
+# critic.de
+Sonja M. Schultz 5
+
+"DIE REISE NACH SUNDEVIT" (Heiner Carow) [Retrospektive]
+
+# critic.de
+Lukas Foerster        6
+David Hudson          5       http://fandor.com/keyframe/daily-berlinale-2016-diary-4
+Michael Kienzl        6
+Boris Nelepo          5
+Lukas Stern           7.5
+
+"THINGS TO COME (L'avenir)" (Mia Hansen-Løve, F) [Wettbewerb] Beste Regie
+
+Reini Urban           6       http://letterboxd.com/rurban/film/things-to-come-2016/
+# critic.de
+Dunja Bialas          7.5
+Johannes Bluth        6
+Hannes Brühwiler     7.5
+Lukas Foerster        9       http://perlentaucher.de/berlinale-blog/576_beherrscht_die_kunst_der_zeitmodulation%3A_mia_hansen-l%C3%B8ves_l_avenir_%28wettbewerb%29.html
+David Hudson          9       http://www.fandor.com/keyframe/daily-berlinale-2016-diary-3
+Till Kadritzke        6       http://www.critic.de/film/things-to-come-9225/
+Daniel Kasman         6       http://mubi.com/notebook/posts/berlinale-2016-women-poets-and-philosophers
+Michael Kienzl        7.5
+Ekkehard Knörer      7.5
+Kevin B. Lee         7.5
+Nikolaus Perneczky    5
+Sonja M. Schultz 7.5
+Lukas Stern           4
+Rüdiger Suchsland    9
+Anke Westphal         2.5
+Carolin Weidner       7.5
+Alexandra Zawia       7.5
+
+"FUOCOAMMARE" (Gianfranco Rosi, I) [Wettbewerb] Goldener Baer
+
+# critic.de
+Dunja Bialas          5
+Johannes Bluth        7.5     http://www.critic.de/film/fuocoammare-9226/
+Hannes Brühwiler     5
+Lukas Foerster        6
+Frédéric Jaeger     6
+Till Kadritzke        6
+Daniel Kasman         4       http://mubi.com/notebook/posts/berlinale-2016-refugee-cinema
+Michael Kienzl        6
+Kevin B. Lee         6
+Lukas Stern           6
+Anke Westphal         7.5
+Alexandra Zawia       6       http://frame.ch/de/blogs/berlinale/?s=3-die-wirklichkeit-dies-laestig-ding
+
+"THE ADVENTURE OF DENCHU-KOZO (Denchu Kozo no boken)" (Shinya Tsukamoto, J 1987) [Forum]
+
+# critic.de
+Hannes Brühwiler     9
+Lukas Foerster        9
+Daniel Kasman         9
+
+"THE YARD (Yarden)" (Måns Månsson, SVE) [Forum]
+
+# critic.de
+Lukas Foerster        2.5
+
+"MIDNIGHT SPECIAL" [Wettbewerb]
+
+Reini Urban           7       
+# critic.de
+Andrey Arnold         6
+Johannes Bluth        4
+Lukas Foerster        6       http://www.perlentaucher.de/berlinale-blog/573_gespuer_fuer_physiognomien%3A_jeff_nichols_midnight_special_%28wettbewerb%29.html
+Martin Gobbin         2.5
+Thomas Groh           5
+David Hudson          2.5     http://www.fandor.com/keyframe/daily-berlinale-2016-diary-2
+Frédéric Jaeger     5
+Till Kadritzke        6
+Daniel Kasman         2.5
+Michael Kienzl        6       http://www.critic.de/film/midnight-special-8950/
+Nikolaus Perneczky    5
+Lukas Stern           7.5
+Anke Westphal         6
+Carolin Weidner       5
+Alexandra Zawia       9       http://frame.ch/de/blogs/berlinale/?s=2-vom-vater-vom-sohn-vom-heiliges-zeigen
+
+"THE TENTH MAN (El rey del Once)" [Panorama]
+
+# critic.de
+Till Kadritzke        2.5
+
+"DEADWEIGHT" (Axel Koenzen) [Forum]
+
+# critic.de
+Johannes Bluth        5
+Rüdiger Suchsland    7.5
+
+"HEE" (Kaori Momoi, J 2016) [Forum]
+
+# critic.de
+Andrey Arnold         4
+
+"FAT CITY" (John Huston, USA 1972) [Special]
+
+# critic.de
+Till Kadritzke        9
+Michael Kienzl        9
+
+"EVA DOESN'T SLEEP (Eva no duerme)" (Pablo Agüero) [Woche der Kritik]
+
+# critic.de
+Till Kadritzke        7.5     http://www.critic.de/film/eva-doesnt-sleep-9403/
+Michael Kienzl        5
+Carolin Weidner       5
+
+"MALGRé LA NUIT" (Philippe Grandrieux) [Woche der Kritik]
+
+# critic.de
+Hannes Brühwiler     2.5
+Lukas Foerster        7.5
+Martin Gobbin         2.5
+Till Kadritzke        5
+Daniel Kasman         2.5
+Michael Kienzl        7.5
+Boris Nelepo          6
+Nikolaus Perneczky    2.5
+Carolin Weidner       5
+
+"KOPFSTAND MADAM!" (Christian Rischert) [Retrospektive]
+
+# critic.de
+Lukas Foerster        4
+Michael Kienzl        7.5
+Boris Nelepo          6
+Lukas Stern           7.5
+
+"TEMPESTAD" (Tatiana Huezo, MEX) [Forum]
+
+# critic.de
+Dunja Bialas          5
+Hannes Brühwiler     5
+Lukas Foerster        5
+Martin Gobbin         7.5
+Till Kadritzke        7.5
+Daniel Kasman         7.5     http://mubi.com/notebook/posts/berlinale-2016-two-women-in-mexico-s-storm
+Rüdiger Suchsland    6
+
+"WEIZENHERBST (Bakushu)" (Yasujirô Ozu, J 1951) [Special]
+
+# critic.de
+Lukas Foerster        9
+
+"SCHONZEIT FüR FüCHSE" (Peter Schamoni, BRD 1966) [Retrospektive]
+
+# critic.de
+Lukas Foerster        6
+
+"ABSCHIED VON GESTERN" (Alexander Kluge, BRD 1966) [Retrospektive]
+
+# critic.de
+Lukas Foerster        6
+Lukas Stern           9
+
+"88:88" (Isiah Medina, CAN) [Woche der Kritik]
+
+# critic.de
+Hannes Brühwiler     9
+Lukas Foerster        7.5
+Daniel Kasman         6       http://mubi.com/notebook/posts/locarno-2015-day-8
+Alexandra Zawia       5
+
+"ILEGITIM" (Adrian Sitaru, ROM) [Forum]
+
+Reini Urban          10     http://letterboxd.com/rurban/film/ilegitim/1/
+# critic.de
+Lukas Foerster        1
+Kevin B. Lee         5
+
+"JAHRGANG '45" (Jürgen Böttcher) [Retrospektive]
+
+# critic.de
+Lukas Stern           9
+Carolin Weidner       7.5
+
+"GRüßE AUS FUKUSHIMA" (Doris Dörrie) [Panorama]
+
+# critic.de
+Lukas Stern           2.5
+Carolin Weidner       6
+
+"ALOYS" (Tobias Nölle, SUI) [Panorama]
+
+# critic.de
+Martin Gobbin         9
+Lukas Stern           6
+
+"PLAYGIRL" (Will Tremper, D 1966) [Retrospektive]
+
+# critic.de
+Thomas Groh           9
+
+"HOMO SAPIENS" (Nikolaus Geyrhalter, AUT) [Forum]
+
+# critic.de
+Andrey Arnold         9
+Martin Gobbin         6
+Thomas Groh           9
+Daniel Kasman         4
+Lukas Stern           9       http://www.critic.de/film/homo-sapiens-9329/
+Rüdiger Suchsland    7.5
+Carolin Weidner       7.5
+Alexandra Zawia       9
+
+"DER OST-KOMPLEX" [Panorama]
+
+# critic.de
+Sonja M. Schultz 6
+
+"THE BLACK FROST (La helada negra)" [Panorama]
+
+# critic.de
+Martin Gobbin         5
+
+"THE FIRST, THE LAST (Les premiers, les derniers)" (Bouli Lanners, BEL) [Panorama]
+
+# critic.de
+Johannes Bluth        6
+Martin Gobbin         4
+
+"A MAGICAL SUBSTANCE FLOWS INTO ME" (Jumana Manna, PA) [Forum]
+
+# critic.de
+Nikolaus Perneczky    7.5
+Rüdiger Suchsland    9
+
+"SHORT STAY" (Ted Fendt, USA) [Forum]
+
+# critic.de
+Andrey Arnold         7.5
+Hannes Brühwiler     7.5
+Lukas Foerster        7.5
+David Hudson          7.5     http://fandor.com/keyframe/daily-berlinale-2016-diary-4
+Till Kadritzke        6       http://www.critic.de/film/short-stay-9327/
+Daniel Kasman         7.5     http://mubi.com/notebook/posts/berlinale-2016-why-not-stay-in-philly
+Michael Kienzl        7.5
+Ekkehard Knörer      6
+Nikolaus Perneczky    9       http://perlentaucher.de/berlinale-blog/582_strotzt_von_partikularitaet%3A_ted_fendts_short_stay_%28forum%29.html
+Lukas Stern           7.5
+Alexandra Zawia       7.5
+
+"LILY LANE (Liliom ösvény)" (Benedek Fliegauf, UNG) [Forum]
+
+# critic.de
+Andrey Arnold         5
+Dunja Bialas          9
+Martin Gobbin         9
+Till Kadritzke        4
+Daniel Kasman         1
+Michael Kienzl        4
+Lukas Stern           6
+
+"HAIL, CAESAR!" (Ethan Coen, Joel Coen, USA) [Wettbewerb]
+
+# critic.de
+Andrey Arnold         5
+Dunja Bialas          9
+Lukas Foerster        5
+Thomas Groh           7.5
+David Hudson          6       http://www.fandor.com/keyframe/daily-berlinale-2016-diary-1
+Till Kadritzke        7.5
+Daniel Kasman         5       http://mubi.com/notebook/posts/berlinale-2016-hail-cinema
+Michael Kienzl        6
+Boris Nelepo          6
+Sonja M. Schultz 4
+Lukas Stern           9       http://www.critic.de/film/hail-caesar-8398/
+Rüdiger Suchsland    7.5
+Carolin Weidner       7.5
+Alexandra Zawia       7.5     http://frame.ch/de/blogs/berlinale/?s=1-vom-kreisen
+
+"DAUGHTER OF THE NILE (Ni luo he nu er)" (Hou Hsiao-hsien, Taiwan 1987) [Special]
+
+# critic.de
+Hannes Brühwiler     9
+Lukas Foerster        9
+Michael Kienzl        7.5
+
+"DER MüDE TOD" (Fritz Lang, D 1921) [Special]
+
+# critic.de
+Andrey Arnold         6
+Lukas Foerster        6
+Michael Kienzl        6
+
+"HANASARERU GANG (Hanasareru Gang)" (Nobuhiro Suwa, J 1984) [Forum]
+
+# critic.de
+Daniel Kasman         7.5
+Michael Kienzl        4       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+
+"TRIVISA (Chu Tai Chiu Fung)"
+
+# critic.de
+Lukas Foerster        5
+Daniel Kasman         4
+Michael Kienzl        6
+Kevin B. Lee         5
+
+"THE RAIN WOMEN" (Shinobu Yaguchi) [Forum]
+
+# critic.de
+Lukas Foerster        6
+Michael Kienzl        5       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+
+"I AM SION SONO! (Ore wa Sono Sion da!)" (Sion Sono, J 1986) [Forum]
+
+# critic.de
+Lukas Foerster        7.5
+Michael Kienzl        5       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+Boris Nelepo          4
+
+"A MAN'S FLOWER ROAD (Otoko no hanamichi)" (Sion Sono, J 1986) [Forum]
+
+# critic.de
+Michael Kienzl        5       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+
+"UNK" (Macoto Tezuka, J 1979) [Forum]
+
+# critic.de
+Lukas Foerster        9
+Michael Kienzl        9       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+
+"HIGH-SCHOOL-TERROR" (Macoto Tezka, J 1979) [Forum]
+
+# critic.de
+Lukas Foerster        6
+Michael Kienzl        6       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+
+"THE ISOLATION OF 1/880000 (Hachijyu-Hachi-Man Bun no Ichi no Kodoku)" (Gakuryû Ishii,	J 1977) [Forum]
+
+# critic.de
+Hannes Brühwiler     9
+Lukas Foerster        9
+Daniel Kasman         9
+Michael Kienzl        9       http://www.critic.de/special/hachimiri-madness-schmalfilm-ohne-grenzen-3992/
+
+"DUST CLOTH (Toz Bezi)" [Forum]
+
+# critic.de
+Lukas Foerster        6
+Michael Kienzl        2.5
+Lukas Stern           4
+
+"LITTLE MEN" (Ira Sachs) [Generation] <i>Sundance</i>
+
+# critic.de
+Lukas Foerster        6
+Till Kadritzke        6
+Michael Kienzl        7.5
+Carolin Weidner       6
+
+"CITY OF JADE (Fei cui zhi cheng)" [Forum]
+
+# critic.de
+Lukas Foerster        7.5     http://perlentaucher.de/berlinale-blog/571_logischer_endpunkt_aller_zivilisation%3A_city_of_jade_von_midi_z_%28forum%29.html
+Michael Kienzl        7.5
+
+"AUF EINMAL" [Panorama]
+
+# critic.de
+Lukas Foerster        2.5
+Michael Kienzl        6
+Sonja M. Schultz      7.5
+Rüdiger Suchsland    9
+
+"PARIS 05:59 (Théo et Hugo dans le même bateau)" [Panorama]
+
+# critic.de
+Michael Kienzl        6       http://www.critic.de/film/paris-0559-9141/
+
+"TA'ANG" (Wang Bing, HKG) [Forum]
+
+# critic.de
+Dunja Bialas          7.5
+Hannes Brühwiler     7.5
+Lukas Foerster        7.5
+David Hudson          6
+Daniel Kasman         6       http://mubi.com/notebook/posts/berlinale-2016-refugee-cinema
+Michael Kienzl        7.5
+Ekkehard Knörer      7.5
+Kevin B. Lee         5
+Nikolaus Perneczky    9
+Alexandra Zawia       6
+
+"JONATHAN" (Piotr J. Lewandowski) [Panorama]
+
+# critic.de
+Frédéric Jaeger     2.5
+Rüdiger Suchsland    1
+
+"AND-EK GHES..." [Forum]
+
+# critic.de
+Andrey Arnold         6
+Dunja Bialas          7.5
+Hannes Brühwiler     6
+Lukas Foerster        6
+Frédéric Jaeger     7.5
+Michael Kienzl        6
+Nikolaus Perneczky    7.5
+Lukas Stern           7.5
+Rüdiger Suchsland    6
+Carolin Weidner       6
+
+"HAVARIE" (Philip Scheffner) [Forum]
+
+# critic.de
+Andrey Arnold         6
+Dunja Bialas          7.5
+Hannes Brühwiler     7.5
+Lukas Foerster        7.5     http://perlentaucher.de/berlinale-blog/577_kleines_kinowunder%3A_philip_scheffners_havarie_%28forum%29.html
+David Hudson          6       http://fandor.com/keyframe/daily-berlinale-2016-diary-4
+Frédéric Jaeger     7.5
+Daniel Kasman         6       http://mubi.com/notebook/posts/berlinale-2016-refugee-cinema
+Michael Kienzl        6
+Nikolaus Perneczky    7.5
+Lukas Stern           7.5
+Rüdiger Suchsland    6
+Carolin Weidner       6
+Alexandra Zawia       6
+
+"DER SCHAMANE UND DIE SCHLANGE (El Abrazo de la Serpiente)" [Native] <i>Cannes, .., Oscars</i>
+
+Reini Urban           10
+# critic.de
+Martin Gobbin         7.5     http://www.critic.de/film/el-abrazo-de-la-serpiente-8228/
+Till Kadritzke        4
+
+"A SERIOUS GAME (Den allvarsamma leken)" (Pernilla August) [Special]
+https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201609991
+
+Reini Urban           8     http://letterboxd.com/rurban/film/the-serious-game/1/
+
+EOF
+
+our @critics;
+$critics[0] = "
+Miriam Bale (MUBI, USA)
+Arnaud Hée (Critikat.com, France)
+Andrey Arnold (Die Presse, Austria)
+Dunja Bialas (artechock, Deutschland)
+Johannes Bluth (critic.de, Deutschland)
+Hannes Brühwiler (critic.de, Deutschland)
+Lukas Foerster (Perlentaucher, Deutschland)
+Martin Gobbin (critic.de, Deutschland)
+Thomas Groh (Perlentaucher, Deutschland)
+David Hudson (Fandor, USA)
+Frédéric Jaeger (critic.de, Deutschland)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Claudia Reinhard (critic.de, Deutschland)
+Christoph Huber (Die Presse, Austria)
+Frédéric Jaeger (critic.de, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+Daniel Kasman (MUBI, USA)
+Michael Kienzl (critic.de, Deutschland)
+Kevin B. Lee (Fandor, USA)
+Boris Nelepo (Sceance.ru, Russland)
+Nikolaus Perneczky (Perlentaucher, Deutschland)
+Sonja M. Schultz (critic.de, Deutschland)
+Nino Klingler (critic.de, Deutschland)
+Rüdiger Suchsland (arteschock, Deutschland)
+Carolin Weidner (Tip, Deutschland)
+Alexandra Zawia (Ray, Austria)
+";
+$critics[1] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alison Willmore (BuzzFeed, US)
+Alissa Wilkinson (Christianity Today, US)
+Angie Han (Slash, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Smith (UK)
+Bilge Ebiri  (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Bryan Bishop (The Verge, US)
+Carlos Aguilar (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, US)
+Daniel Mecca (The Film Stage, US)
+David D'Arcy (Screen International, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eric Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Jean-Christophe Simon (Films Boutique, Germany)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (HitFix, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jason Bailey (Flavorwire, US)
+Jenni Miller  (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+John DeFore (The Hollywood Reporter, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Film School Rejects, MSN Movies, Boxoffice Magazine, US)
+Katie Walsh (The Playlist, US)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Mel Valentin (Next Projection, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Mirjam Urban (Free, Germany)
+Neil Miller (Film School Rejects, US)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Oktay Ege Kozak (The Playlist, US)
+Peter Debruge (Variety, US)
+Reena Chohan (TIFF, Canada)
+Reini Urban (Free, Germany)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slash, US)
+Ryan Lattanzio (TOH!, US)
+Sam Fragoso (Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Wesley Morris (Grantland, US)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Berlinale2016.dat
+
+</pre>";
+
+# links:
+# https://twitter.com/search?q=%23sundance%20review
+# http://www.theguardian.com/film/sundance-2016
+# http://www.indiewire.com/critic/
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;

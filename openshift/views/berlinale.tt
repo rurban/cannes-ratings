@@ -1,0 +1,50 @@
+<div id="page">
+      <div id="sidebar">
+        <ul id="sidebar-items">
+          <li>
+            <h3>Years</h3>
+            <ul class="links">
+              <li><a href="/BerlinaleAll"><i>All</i></a></li>
+              <li><a href="/Berlinale2016">2016</a></li>
+              <li>&nbsp;</li>
+              <li><small><a href="/"> =&gt; Cannes</a>,
+                         <a href="/Sundance2016">Sundance</a></small></li>
+            </ul>
+          </li>
+
+          <% side_details %>
+
+          <li>
+            <h3>Ressources</h3>
+
+            <ul class="links">
+              <li><a href="http://jury.critic.de/berlinale/">jury.critic.de</a></li>
+              <li><a href="http://letterboxd.com/">letterboxd.com</a></li>
+              <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/openshift/public">Ratings history on github</a></li>
+              <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
+            </ul>
+          </li>
+
+          <li>
+            <h3></h3>
+	    <p><% HEADER %></p>
+          </li>
+        </ul>
+      </div>
+
+      <div id="content">
+        <div id="bheader">
+          <h1>Berlinale <% year %> critics ratings</h1>
+          <h2>Scaled to 0-10</h2>
+        </div>
+
+        <div id="list">
+	  <% out %>
+        </div>
+
+        <div id="footer">
+	  <p><% FOOTER %></p>
+        </div>
+
+      </div>
+</div>

@@ -1,16 +1,16 @@
-package Sundance::rurban;
+package Berlinale::rurban;
 our @ISA = ('Cannes::rurban');
 use Dancer ':syntax';
-#use File::Basename 'dirname';
+use File::Basename 'basename';
 use utf8;
 
 our $VERSION = '0.2';
-our $BASE = 'Sundance';
-our @YEARS = qw(2015 2016);
-our $comp_section = 'U.S. Dramatic';
-our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
-                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres", "Special Events", 
-                 "Slamdance");
+our $BASE = 'Berlinale';
+our @YEARS = qw(2016);
+our $comp_section = 'Wettbewerb';
+our @sections = ($comp_section, "Forum", "Panorama", "Generation", 
+                 "Perspektive Deutsches Kino", "Forum Expanded", "Special",
+                 "Native", "Retrospektive", "Woche der Kritik" );
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -476,7 +476,7 @@ sub _dump {
 	  t => \@t,
 	  title   => \%title,
 	  critic  => \%critic,
-          which => 'Sundance',
+          which => $BASE,
 	  numratings => $numratings, 
 	  numreviews => $allreviews, 
 	  numc => $numc, 
@@ -557,14 +557,11 @@ sub _list {
   }
 }
 
-get '/Sundance2015' => sub {
-  _list(2015);
-};
-get '/Sundance2016' => sub {
+get '/Berlinale2016' => sub {
   _list(2016);
 };
 
-get '/SundanceAll' => sub {
+get '/BerlinaleAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
     no strict 'refs';
@@ -588,13 +585,13 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2016";
+  $all->{year} = "2016-";
   $all->{side_details} = _side_details(\%critic, \%title);
-  template lc($BASE), $all;
+  template 'berlinale', $all;
 };
 
 #get '/' => sub {
-#  redirect '/Sundance2016';
+#  redirect '/Berlinale2016';
 #};
 
 1;

@@ -4,6 +4,8 @@ use File::Basename qw(dirname basename);
 use utf8;
 
 our $VERSION = '0.2';
+our $BASE = 'Cannes';
+our @YEARS = qw(2010 2011 2012 2013 2014 2015);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine", "ACID",
                  "Other");
@@ -450,7 +452,7 @@ sub _dump {
 	  t => \@t,
 	  title   => \%title,
 	  critic  => \%critic,
-          which => 'Cannes',
+          which => $BASE,
 	  numratings => $numratings, 
 	  numreviews => $allreviews, 
 	  numc => $numc, 
@@ -532,26 +534,26 @@ sub _side_details {
 sub _list {
   my $year = shift;
   my $dir = dirname(__FILE__);
-  my $dat = "$dir/../../public/Cannes$year.dat";
+  my $dat = "$dir/../../public/$BASE$year.dat";
   if (-e $dat) {
     do "$dat" or die "invalid ".basename($dat);
   } else {
-    eval "require Cannes::rurban::$year;"
+    eval "require $BASE\::rurban::$year;"
       or die "invalid year $year";
   }
   no strict 'refs';
-  my $DATA = ${"Cannes::rurban::$year\::DATA"};
-  my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
-  my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
-  my @critics = @{"Cannes::rurban::$year\::critics"};
-  my @critics_group = @{"Cannes::rurban::$year\::critics_group"};
+  my $DATA = ${"$BASE\::rurban::$year\::DATA"};
+  my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
+  my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
+  my @critics = @{"$BASE\::rurban::$year\::critics"};
+  my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
   my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group) );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
   $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
   if ($DATA) {
-    template 'cannes', $vars;
+    template lc($BASE), $vars;
   } else {
     template 'notyet', $vars;
   }
@@ -577,21 +579,21 @@ get '/2015' => sub {
 };
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
-  for my $year (qw(2010 2011 2012 2013 2014 2015)) {
+  for my $year (@YEARS) {
     no strict 'refs';
     my $dir = dirname(__FILE__);
-    my $dat = "$dir/../../public/Cannes$year.dat";
+    my $dat = "$dir/../../public/$BASE$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
     } else {
-      eval "require Cannes::rurban::$year;"
+      eval "require $BASE\::rurban::$year;"
         or die "invalid year $year";
     }
-    my $DATA = ${"Cannes::rurban::$year\::DATA"};
-    my $HEADER = ${"Cannes::rurban::$year\::HEADER"};
-    my $FOOTER = ${"Cannes::rurban::$year\::FOOTER"};
-    my @critics = @{"Cannes::rurban::$year\::critics"};
-    my @critics_group = @{"Cannes::rurban::$year\::critics_group"};
+    my $DATA = ${"$BASE\::rurban::$year\::DATA"};
+    my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
+    my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
+    my @critics = @{"$BASE\::rurban::$year\::critics"};
+    my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
     my @new = _read($DATA, \@critics, \%critic, \%title, \@critics_group);
     %critic = %{$new[0]}; %title = %{$new[1]};
     push @t, @{$new[2]};
@@ -601,12 +603,12 @@ get '/all' => sub {
   }
   my $all = _dump( \%critic, \%title, \@t);
   $all->{year} = "2010-2015";
-  $all->{side_details} = _side_details(\%critic, \%title, \@{"Cannes::rurban::2015::critics_group"});
+  $all->{side_details} = _side_details(\%critic, \%title, \@{"$BASE\::rurban::2015::critics_group"});
   template 'index', $all;
 };
 
-#get '/' => sub {
-#  redirect '/2015';
-#};
+get '/' => sub {
+  redirect '/2015';
+};
 
 1;

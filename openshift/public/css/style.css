@@ -71,6 +71,16 @@ background-position: top left;
 height: 90px;
 vertical-align: bottom;
 }
+#bheader {
+padding-left: 200px;
+//padding-top: 60px;
+background-image: url("/images/berlinale.png");
+background-repeat: no-repeat;
+background-position: top left;
+//background-color: red;
+height: 90px;
+vertical-align: bottom;
+}
 #header h1, #sheader h1 {
 padding-left: 240px;
 padding-right: 30px;
