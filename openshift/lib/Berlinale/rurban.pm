@@ -286,8 +286,9 @@ sub _dump {
     next if $n <= 3 or $a < 7.5;
     my $l = $title{$t}->{line};
     next if $l =~ / 19[789]\d\)$/;
+    next if $l =~ m{</i>$}; # other festivals
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
-    $l="<i>$l</i>" if $s>=2.0;
+    $l="<i>$l</i>" if $s >= 2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
@@ -306,6 +307,7 @@ sub _dump {
     next if $a < 6.0 or $a >= 7.5 or $n <= 3;
     my $l=$title{$t}->{line};
     next if $l =~ / 19[789]\d\)$/;
+    next if $l =~ m{</i>$}; # other festivals
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
