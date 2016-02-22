@@ -283,9 +283,9 @@ sub _dump {
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n<=3 or $a < 7.5; 
+    next if $n <= 3 or $a < 7.5;
     my $l = $title{$t}->{line};
-    next if $l =~ / 19[789]/;
+    next if $l =~ / 19[789]\d\)$/;
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -305,7 +305,7 @@ sub _dump {
     my $n=$title{$t}->{num}; 
     next if $a < 6.0 or $a >= 7.5 or $n <= 3;
     my $l=$title{$t}->{line};
-    next if $l =~ / 19[789]/;
+    next if $l =~ / 19[789]\d\)$/;
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
