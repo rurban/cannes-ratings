@@ -362,7 +362,7 @@ LittleMary          6
 Baff                6
 Sose                6
 Daniel              6
-betti koehler        6
+Betti Koehler        6
 Rodrigo Santos      6
 TYRΛNNOSΛURUS MΛX 6
 PrettyInPink        6
@@ -601,7 +601,7 @@ Bumstead            7
 Antonio Maria Abate 7
 James McAllister    6
 Baff                6
-betti koehler        6
+Betti Koehler        6
 jaclyn p            6
 Lukas M.            6
 Felix H.            6
@@ -706,7 +706,7 @@ ScottPilgrim        6
 Al                  6
 Rodrigo Santos      6
 carpadrino          5
-Ole Johnny Fossås  5
+Ole Johnny Fossås  5        http://jump-cut.no/soy-nero/
 Chuchaqui           5
 John Tikis          5
 dirtylaundri        4
@@ -735,7 +735,7 @@ Alexandra Zawia       4
 tom_bond            9
 Daniel              8
 Hoss Ghonouie       8
-One Room With A View 8
+Eddie Falvey     8
 John Tikis          7
 Jasper Behrensdorf  7
 Felix H.            7
@@ -862,7 +862,7 @@ FrankPoole          8
 mickeyone           7
 Crayfish            7
 dirtylaundri        6
-betti koehler        6
+Betti Koehler        6
 Blake Williams      6
 Bumstead            5
 Lukas M.            5
@@ -895,7 +895,7 @@ DasWoosel           9
 Paul Katzenberger   9
 Slimsusie           9
 Sondre Hareide      8
-One Room With A View 8
+Eddie Falvey     8
 Baff                7
 Otto Kylmälä      7
 Niels Putman        7
@@ -965,7 +965,7 @@ Sergey Moosatov     4
 Tommaso Tocci       4
 KasperL             3
 John Tikis          3
-betti koehler        3
+Betti Koehler        3
 Antonio Maria Abate 3
 Niels Putman        3
 Zsuzsu              2
@@ -1004,7 +1004,7 @@ Tommaso Tocci       7
 Blake Williams      7
 J. Kepa             6
 Sondre Hareide      4
-betti koehler        3
+Betti Koehler        3
 PrettyInPink        1
 # critic.de
 Andrey Arnold         7.5
@@ -1268,7 +1268,7 @@ Crayfish            10
 Chuchaqui           9
 Mark                9
 uj                  9
-Ole Johnny Fossås  8
+Ole Johnny Fossås  8        http://jump-cut.no/being-17/
 blahr               8
 Rowan Woods         8
 PrettyInPink        8
@@ -1500,7 +1500,7 @@ Slimsusie           5
 SteinBerg           5
 Daniel              5
 Baff                5
-betti koehler        4
+Betti Koehler        4
 # critic.de
 Dunja Bialas          7.5
 Johannes Bluth        6
@@ -1604,7 +1604,7 @@ breakerfall         8
 coffeekermit07      8
 Tommaso Tocci       8
 janrs               8
-One Room With A View 8
+Eddie Falvey     8
 Simon Drees         8
 Bulent Yusuf        8
 Silverdude          8
@@ -1634,7 +1634,7 @@ Bavarian            7
 Reini Urban         7
 Jansushi            7
 KiraKat             7
-betti koehler        7
+Betti Koehler        7
 fightclubitis       7
 Lukas M.            7
 Nikolas Friedrich   7
@@ -2142,7 +2142,8 @@ Lukas Foerster        7.5     http://perlentaucher.de/berlinale-blog/571_logisch
 Michael Kienzl        7.5
 
 "AUF EINMAL" (Aslı Özge) [Panorama]
-  Fragen um Schuld und Moral, Gerechtigkeit und Scheinheiligkeit werden verhandelt. https://www.berlinale.de/de/programm/berlinale_programm/datenblatt.php?film_id=201611552#tab=video25
+https://www.berlinale.de/de/programm/berlinale_programm/datenblatt.php?film_id=201611552
+  Fragen um Schuld und Moral, Gerechtigkeit und Scheinheiligkeit werden verhandelt.
 
 # critic.de
 Lukas Foerster        2.5
@@ -2235,7 +2236,7 @@ Mirjam Urban        7
 feverray            7
 Lukas M.            6
 Niels Putman        6
-betti koehler        4
+Betti Koehler        4
 Joan of Art         4
 Slimsusie           2
 
@@ -2256,7 +2257,7 @@ Matthias            8
 Felix H.            8
 Lukas M.            8
 mono_micha          8
-One Room With A View 8
+Eddie Falvey     8
 Sven Layh           8
 Slimsusie           8
 William Sell        8
@@ -2264,7 +2265,7 @@ AustinHiggins       8
 Crayfish            8
 David Ehrlich       8
 Malloriarty         7
-betti koehler        7
+Betti Koehler       7
 DasWoosel           7
 Daniel              7
 Blue_Cat            7
@@ -2302,6 +2303,9 @@ demetrios_jb        3
 https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201610790#tab=video25
 
 Andreas Fanizadeh           https://www.taz.de/!5277885/
+#
+SteinBerg           10
+Pablo Villaça      8
 
 EOF
 
@@ -2336,10 +2340,23 @@ Carolin Weidner (Tip, Deutschland)
 Alexandra Zawia (Ray, Austria)
 Ekkehard Knörer (Cargo, Deutschland)
 ";
+# letterboxd
 $critics[1] = "
 Felix H. (Dis+Positiv, Deutschland)
+Pablo Villaça (Cinema em Cena, Brasilien)
+Vytenis Galvėnas (Vilnius University, Lithuania)
+Ole Johnny Fossås (Jump Cut, Norway)
+Jasper Behrensdorf (Leibniz Universität Hannover, Deutschland)
+Bumstead (Deutschland)
+Antonio Dakeyras (Deutschland)
+Stavros Tagres (GB)
+Eddie Falvey (One Room With A View, GB)
+Hoss Ghonouie (Everyman Cinemas, GB)
+Bradley Porter (Filmmaker, GB)
+John Tikis (Musician, GRE)
 ";
 $critics[2] = "
+Otto Kylmälä (Loud Silents Festival, Lithuania)
 Joachim Kurz (Kino-Zeit, Deutschland)
 Beatrice Behn (Kino-Zeit, Deutschland)
 Harald Mühlbeyer (Kino-Zeit, Deutschland)
