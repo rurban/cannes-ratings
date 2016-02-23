@@ -45,8 +45,8 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^\s+(\S.*)/ and $title) { # film comments, links
-      my $cmt = $1;
+    elsif (/^(\(|\s+)(\S.*)/ and $title) { # film comments, links
+      my $cmt = $1.$2;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
     } elsif (/^["“](.+)["”]/) {
@@ -69,6 +69,7 @@ sub _read {
 	$critic =~ s/ +$//;
       }
       next unless $critic;
+      $critic =~ s/\s+$//;
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
       $title{$title}->{review}->{$critic} = $url if $url;
@@ -86,6 +87,7 @@ sub _read {
 	$critic =~ s/ +$//;
       }
       next unless $critic;
+      $critic =~ s/\s+$//;
       $title{$title}->{critic}->{$critic} = [];
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
@@ -110,19 +112,22 @@ sub _detail {
   my $h = shift;
   my $critic = shift;
   my $nostrike = shift;
+  no warnings;
   my $out = '';
-  $out .= "<tr><td></td><td colspan=2 class=detail><i>&nbsp;&nbsp; - $h->{comment}</i></td>" if exists $h->{comment};
+  $out .= "<tr><td></td><td colspan=2 class=detail><i>&nbsp;&nbsp; - $h->{comment}"
+         ."</i></td></tr>\n"
+    if exists $h->{comment};
 
   if (params->{debug}) {
     require Data::Dumper;
     my $x = $h;
-    delete $x->{review};
-    $out .= "<code>".Data::Dumper::Dumper($x);
+    #delete $x->{review};
+    $out .= "<tr><td colspan=3><code>".Data::Dumper::Dumper($x);
     for (keys %{$x->{critic}}) {
       $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
 	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
     }
-    $out .= "</code>";
+    $out .= "</code></tr>\n";
   }
   for (sort {!defined $h->{critic}->{$b}->[0] ? -1
 	       : !defined $h->{critic}->{$a}->[0] ? 1
@@ -130,19 +135,21 @@ sub _detail {
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
-    if (substr($c,0,1) eq "-") {
-      $n = "<strike>$n</strike>" unless $nostrike;
-      $c = abs($c);
-    }
-    my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
-    if ($critic->{$_}->{mag}) {
-      $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
-    } elsif ($critic->{$_}->{cn}) {
-      $n .= " ($critic->{$_}->{cn})";
-    }
-    if ($url) {
-      $n = qq(<a href="$url">$n</a>);
-      $c = qq(<a href="$url">$c</a>) if $c;
+    if ($n) {
+      if (substr($c,0,1) eq "-") {
+        $n = "<strike>$n</strike>" unless $nostrike;
+        $c = abs($c);
+      }
+      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
+      if ($critic->{$_}->{mag}) {
+        $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
+      } elsif ($critic->{$_}->{cn}) {
+        $n .= " ($critic->{$_}->{cn})";
+      }
+      if ($url) {
+        $n = qq(<a href="$url">$n</a>);
+        $c = qq(<a href="$url">$c</a>) if $c;
+      }
     }
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$n</td>"
       ."<td class=detail>$c</td></tr>\n";
@@ -284,7 +291,7 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
       $list .= _detail($t,$title{$t},\%critic);
     }
@@ -303,7 +310,7 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
-    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
       $list .= _detail($t,$title{$t},\%critic);
     }
@@ -312,7 +319,7 @@ sub _dump {
   if ($list) {
     $out .= "<h1><a name=\"good\"></a>Good Films (avg>6, n>3)</h1>\n<table>\n"
 	   . $list
-	   . "</table>\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6.</i></small>\n";
+	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
   }
   $out .= "\n<h1>All official sections</h1>\n\n";
   my ($allreviews, $numratings) = (0,0);
@@ -350,7 +357,7 @@ sub _dump {
 	$s=0 unless $s;
 	my $l=$title{$_}->{line};
 	$l=$s>=2.0?"<i>$l</i>":$l;
-        $l="<small>$l</small>" if $title{$_}->{num} < 10;
+        $l="<small>$l</small>" if $num and $title{$_}->{num} < 10;
         if ($six and $section{$section}->{$_}->[0] < 6) {
           $six=0;
 	  $out .= "<tr><td colspan=3>";
@@ -371,7 +378,7 @@ sub _dump {
         } elsif ($title{$_}->{comment}) {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td>$detail</td></tr>\n";
         } else {
-	  $out .= "<tr><td> </td>    <td>$l</td> <td>[-]</td></tr>\n";
+	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>[-]</td></tr>\n";
         }
         if (_show_detail($i)) {
           $out .= _detail($_,$title{$_},\%critic);
@@ -396,8 +403,8 @@ sub _dump {
     next unless $t;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
     $l="<i>$l</i>" if $s>=2.0;
-    if ($l =~ / \[Competition\]/) { 
-      $l =~ s/ \[Competition\]//; $l="<b>$l</b>";
+    if ($l =~ / \[\Q$comp_section\E\]/) { 
+      $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
     } else { $l =~ s/ \[[\w ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
     if ($six and $n and $a<6.0){
@@ -405,8 +412,8 @@ sub _dump {
       $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
     }
     $out .= $n 
-      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
-      :"<tr><td> </td> <td>$l</td> <td>\[-\]</td></tr>\n";
+      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
+      :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
     if (_show_detail($i)) {
       $out .= _detail($t,$title{$t},\%critic,1);
     }
@@ -432,10 +439,20 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      my $c = sprintf("%s (%s %s)", $_, $critic{$_}->{mag} ? $critic{$_}->{mag}."," : "", $critic{$_}->{cn});
+      next if /^(IMDB|Letterbox) \d+/;
+      my $c;
+      if ($critic{$_}->{mag}) {
+        $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
+      } else {
+        if ($critic{$_}->{cn}) {
+          $c = sprintf("%s (%s)", $_, $critic{$_}->{cn});
+        } else {
+          $c = $_;
+        }
+      }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
-      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td><a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a></td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
+      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td class=r>[<a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a>]</td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
       if (_show_detail($i)) {
 	$out .= _critic_detail($_,$critic{$_});
       }

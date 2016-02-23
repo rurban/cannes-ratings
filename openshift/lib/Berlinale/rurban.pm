@@ -49,7 +49,7 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^(\(|\s+)(\S.*)/ and $title) { # film comments, links
+    elsif (/^(\(|http|\s+)(\S.*)/ and $title) { # film comments, links
       my $cmt = $1.$2;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
@@ -379,6 +379,7 @@ sub _dump {
             ? 'reviews'
             : '-';
         my $cmt = $title{$_}->{comment} || "";
+        $cmt = "" if $cmt =~ /<a href/;
         my $detail = ($n or $r or $cmt)
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
           : "[$ns]";

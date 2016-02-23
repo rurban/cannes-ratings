@@ -1223,7 +1223,8 @@ Alexandra Zawia       6
 # critic.de
 David Hudson          4
 
-"AGONIE" [Perspektive Deutsches Kino]
+"AGONIE" (David Clay Diaz, D/AT) [Perspektive Deutsches Kino]
+  https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201606334
 
 Harald Mühlbeyer            http://www.kino-zeit.de/blog/berlinale-2016/agonie-von-david-clay-diaz
 # critic.de
@@ -1267,7 +1268,7 @@ Alexandra Zawia       7.5
 Lukas Foerster        4
 
 "BARAKAH MEETS BARAKAH (Barakah yoqabil Barakah)" (Mahmoud Sabbagh, Saudi Arabia) [Forum]
-https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201614526#tab=filmStills
+  https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201614526#tab=filmStills
 
 dirtylaundri        7
 wellenform          6
@@ -1433,7 +1434,7 @@ Carolin Weidner       6
 Alexandra Zawia       7.5
 
 "THE PATRIARCH (Mahana)" (Lee Tamahori, NZ) [Wettbewerb]
-https://www.berlinale.de/de/programm/berlinale_programm/datenblatt.php?film_id=201607518#tab=filmStills
+  https://www.berlinale.de/de/programm/berlinale_programm/datenblatt.php?film_id=201607518#tab=filmStills
 
 breakerfall         9
 Jasper Behrensdorf  9
@@ -2168,8 +2169,7 @@ Lukas Foerster        7.5     http://perlentaucher.de/berlinale-blog/571_logisch
 Michael Kienzl        7.5
 
 "AUF EINMAL" (Aslı Özge) [Panorama]
-https://www.berlinale.de/de/programm/berlinale_programm/datenblatt.php?film_id=201611552
-  Fragen um Schuld und Moral, Gerechtigkeit und Scheinheiligkeit werden verhandelt.
+  Fragen um Schuld und Moral, Gerechtigkeit und Scheinheiligkeit werden verhandelt. https://www.berlinale.de/de/programm/berlinale_programm/datenblatt.php?film_id=201611552
 
 # critic.de
 Lukas Foerster        2.5
@@ -2252,7 +2252,7 @@ Martin Gobbin         7.5     http://www.critic.de/film/el-abrazo-de-la-serpient
 Till Kadritzke        4
 
 "A SERIOUS GAME (Den allvarsamma leken)" (Pernilla August) [Special]
-https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201609991
+  https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201609991
 
 Reini Urban           8     http://letterboxd.com/rurban/film/the-serious-game/1/
 Patrick Mulcahy       6     http://letterboxd.com/pmulcahy/film/the-serious-game/
@@ -2327,7 +2327,7 @@ Caitlin Manocchio   4
 demetrios_jb        3
 
 "JUNCTION 48" (Udi Aloni, ISR) [Panorama]
-https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201610790#tab=video25
+  https://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=201610790#tab=video25
 
 Andreas Fanizadeh           https://www.taz.de/!5277885/
 #
@@ -2348,7 +2348,7 @@ EOF
 
 our @critics;
 $critics[0] = "
-Miriam Bale (MUBI, USA)
+Miriam Bale (MUBI, US)
 Arnaud Hée (Critikat.com, France)
 Andrey Arnold (Die Presse, Austria)
 Dunja Bialas (artechock, Deutschland)
@@ -2357,7 +2357,7 @@ Hannes Brühwiler (critic.de, Deutschland)
 Lukas Foerster (Perlentaucher, Deutschland)
 Martin Gobbin (critic.de, Deutschland)
 Thomas Groh (Perlentaucher, Deutschland)
-David Hudson (Fandor, USA)
+David Hudson (Fandor, US)
 Frédéric Jaeger (critic.de, Deutschland)
 Anke Westphal (Berliner Zeitung, Deutschland)
 Claudia Reinhard (critic.de, Deutschland)
@@ -2365,9 +2365,9 @@ Christoph Huber (Die Presse, Austria)
 Frédéric Jaeger (critic.de, Deutschland)
 Lukas Stern (critic.de, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
-Daniel Kasman (MUBI, USA)
+Daniel Kasman (MUBI, US)
 Michael Kienzl (critic.de, Deutschland)
-Kevin B. Lee (Fandor, USA)
+Kevin B. Lee (Fandor, US)
 Boris Nelepo (Sceance.ru, Russland)
 Nikolaus Perneczky (Perlentaucher, Deutschland)
 Sonja M. Schultz (critic.de, Deutschland)
@@ -2390,7 +2390,7 @@ Stavros Tagres (GB)
 Eddie Falvey (One Room With A View, GB)
 Hoss Ghonouie (Everyman Cinemas, GB)
 Bradley Porter (Filmmaker, GB)
-John Tikis (Musician, GRE)
+John Tikis (Musician, Greece)
 ";
 $critics[2] = "
 Otto Kylmälä (Loud Silents Festival, Lithuania)
@@ -2525,11 +2525,6 @@ Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Berlinale2016.dat
 
 </pre>";
-
-# links:
-# https://twitter.com/search?q=%23sundance%20review
-# http://www.theguardian.com/film/sundance-2016
-# http://www.indiewire.com/critic/
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
 $FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
