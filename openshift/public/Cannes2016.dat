@@ -33,18 +33,18 @@ our $DATA= <<'EOF';
 
 # Rumors only:
 
+#"SNOWDEN" (Oliver Stone) Out of competition
 #"SIERRA-NEVADA" (Cristi Puiu)
 #"FAMILY PHOTOS" (Cristian Mungiu)
 #"JULIETA" (Pedro Almodovar)
 #"PATERSON" (Jim Jarmusch)
 #"AFTER THE STORM (Umi yori mo mada fukaku)" (Hirekazu Kore-eda)
-#"ZAMA" (Lucrecia Martel) -Probably not ready
 #"THE UNTAMED" (Amat Escalante)
 #"AMERICAN HONEY" (Andrea Arnold)
 #"NERUDA" (Pablo Larrain)
 #"FILLES INCONNU (THE UNKNOWN GIRL)" (Jean-Pierre and Luc Dardenne)
 #"PARIS IS HAPPENING / NOCTURAMA" (Bertrand Bonello)
-#"MA LOUTE (SLACK BAY)" (Bruno Dumont)
+#"MA LOUTE (Slack Bay)" (Bruno Dumont)
 #"JUSTE LA FIN DE MONDE (IT’S ONLY THE END OF THE WORLD)" (Xavier Dolan)
 #"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
 #"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
@@ -57,7 +57,6 @@ our $DATA= <<'EOF';
 #"THE WOMAN IN THE SILVER PLATE" (Kyioshi Kurosawa) 
 #"I, DANIEL BLAKE" (Ken Loach)
 #"PLANETARIUM" (Rebecca Zlotowski)
-#"SNOWDEN" (Oliver Stone)
 #"PERSONAL SHOPPER" (Olivier Assayas)
 #"AYKA (АЙКА / My Little One)" (Sergey Dvortsevoy)
 #"STAY VERTICAL" (Alain Guiraudie)
@@ -65,22 +64,34 @@ our $DATA= <<'EOF';
 # - Don DeLillo novel
 #"FRANTZ" (Francois Ozon)
 #"THE GREAT WALL" (Zhang Yimou)
+#"VOYAGE OF TIME" (Terrence Malick)
 
 #"GRAIN" (Semih Kaplanoğlu)
 #"LE JEUNE KARL MARX (Young Karl Marx)" (Raoul Peck)
 #"THE BEAUTIFUL DAYS OF ARANJUEZ" (Wim Wenders)
 #"UNTITLED HOWARD HUGHES PROJECT" (Warren Beatty) ?
-#"RÉPARER LES VIVANTS" (Katell Quillévéré) ?
+#"RÉPARER LES VIVANTS (The Heart)" (Katell Quillévéré) ?
+#"IN BED WITH VICTORIA" (Justine Triet) ?
 #"ON THE MILKY ROAD" (Emir Kusturica) ?
 #"THE NEON DEMON" (Nicholas Anders Refn) ?
 #"LA MORT DE LOUIS XIV" (Alberto Serra) ?
 #"ELLE" (Paul Verhoeven) - Out of competition
+#"LOST IN PARIS" (Dominique Abel and Fiona Gordon) ?
+#"THE LIFE AQUATIC" (Solveig Anspach) ?
+#"THE MIMOSAS" (Olivier Laxe) ?
+#"LIKE CRAZY" (Paolo Virzi) ?
+#"FAI BEI SOGNI" (Marco Bellocchio) ?
+#"THE GIANT" (Johannes Nyholm) ?
+#"HEARTSTONE" (Gudmundur Arnar Gudmundsson) ?
+#"ZOOLOGY" (Ivan I. Tverdovsky) ?
+#"CLASH" (Mohamed Diab) ?
+#"THE DARKNESS" (Daniel Castro Zimbron) ?
+#"LION" (Garth Davis) ?
 
-#"SILENCE" (Martin Scorsese) - not ready
+#"ZAMA" (Lucrecia Martel) - not ready
+#"SILENCE" (Martin Scorsese) - not ready, maybe
 
 COMPETITION
-
-"MONEY MONSTER" (Jodie Foster)
 
 "THE LAST FACE" (Sean Penn) [Competition]
 
@@ -89,6 +100,8 @@ COMPETITION
 UN CERTAIN REGARD
 
 SPECIAL SCREENINGS
+
+"MONEY MONSTER" (Jodie Foster) [Out Of Competition]
 
 "CAFE SOCIETY" (Woody Allen) [Out Of Competition]
 
@@ -100,8 +113,8 @@ SPECIAL SCREENINGS
 
 QUINZAINE
 
-#"MANCHESTER BY THE SEA" (Kenneth Lonergan) Sundance
-#"EVERYBODY WANTS SOME" (Richard Linklater) SXSW
+#"MANCHESTER BY THE SEA" (Kenneth Lonergan) [Quinzaine] Sundance
+#"EVERYBODY WANTS SOME" (Richard Linklater) [Quinzaine] SXSW
 
 SEMAINE
 
