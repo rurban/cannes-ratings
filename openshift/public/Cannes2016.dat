@@ -18,11 +18,11 @@ package Cannes::rurban::2016; # -*- perl -*-
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014, 2015, 2016
 # US ratings:
-# A+ 10   A 9   A- 8
-# B+ 7    B 6   B- 5
-# C+ 4    C 3   C- 2
-# D+ 1.5  D 1   D- 1
-# E 0.5   F 0
+#   A+ 10   A 9   A- 8
+#   B+ 7    B 6   B- 5
+#   C+ 4    C 3   C- 2
+#   D+ 1.5  D 1   D- 1
+#   E 0.5   F 0
 # indiewire does C => 4
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # British 0-5: x2
@@ -59,14 +59,24 @@ our $DATA= <<'EOF';
 #"PLANETARIUM" (Rebecca Zlotowski)
 #"SNOWDEN" (Oliver Stone)
 #"PERSONAL SHOPPER" (Olivier Assayas)
-#"AYKA (My Little One)" (Sergey Dvortsevoy)
-#"STAYING VERTICAL" (Alain Guiraudie)
+#"AYKA (АЙКА / My Little One)" (Sergey Dvortsevoy)
+#"STAY VERTICAL" (Alain Guiraudie)
 #"THE BODY ARTIST" (Benoît Jacquot)
 # - Don DeLillo novel
-#"SILENCE" (Martin Scorsese) - not ready
 #"FRANTZ" (Francois Ozon)
-#"THE NEON DEMON" (Nicholas Anders Refn)
-#"THE DEATH OF LOUIS XIV" (Alberto Serra)
+#"THE GREAT WALL" (Zhang Yimou)
+
+#"GRAIN" (Semih Kaplanoğlu)
+#"LE JEUNE KARL MARX (Young Karl Marx)" (Raoul Peck)
+#"THE BEAUTIFUL DAYS OF ARANJUEZ" (Wim Wenders)
+#"UNTITLED HOWARD HUGHES PROJECT" (Warren Beatty) ?
+#"RÉPARER LES VIVANTS" (Katell Quillévéré) ?
+#"ON THE MILKY ROAD" (Emir Kusturica) ?
+#"THE NEON DEMON" (Nicholas Anders Refn) ?
+#"LA MORT DE LOUIS XIV" (Alberto Serra) ?
+#"ELLE" (Paul Verhoeven) - Out of competition
+
+#"SILENCE" (Martin Scorsese) - not ready
 
 COMPETITION
 
@@ -91,6 +101,7 @@ SPECIAL SCREENINGS
 QUINZAINE
 
 #"MANCHESTER BY THE SEA" (Kenneth Lonergan) Sundance
+#"EVERYBODY WANTS SOME" (Richard Linklater) SXSW
 
 SEMAINE
 
