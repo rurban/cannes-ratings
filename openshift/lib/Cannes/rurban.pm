@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = qw(2010 2011 2012 2013 2014 2015);
+our @YEARS = qw(2010 2011 2012 2013 2014 2015 2016);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine", "ACID",
                  "Other");
@@ -321,7 +321,6 @@ sub _dump {
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
   }
-  $out .= "\n<h1>All official sections</h1>\n\n";
   my ($allreviews, $numratings) = (0,0);
   my %section;
   for my $section (@sections) {
@@ -341,6 +340,7 @@ sub _dump {
     if ($num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
+      $out .= "\n<h1>All official sections</h1>\n\n";
       $qsection =~ s/\W//g;
       $out .= $num
 	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
@@ -421,14 +421,15 @@ sub _dump {
   }
 
   my $numc = scalar(keys(%critic));
-  $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
-                  $numc - scalar(keys(%badcritic)),$numc;
-  $out .= "<i>filter stddev >2.5 from avg</i><br>\n";
-  $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
+  if ($numc) {
+    $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
+            $numc - scalar(keys(%badcritic)),$numc;
+    $out .= "<i>filter stddev >2.5 from avg</i><br>\n";
+    $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
 * &gt:1.5 over-rater,
 * &lt;-1.5 under-rater,
 * -1.5 - 1.5 deviant ratings in boths directions. e.g. ceiling effect\">±diff</i>\n<table>\n";
-  if ($numc) {
+  
     for (sort 
 	 {
 	   !exists $critic{$a}->{stddev} ? 1
@@ -594,6 +595,9 @@ get '/2014' => sub {
 get '/2015' => sub {
   _list(2015);
 };
+get '/2016' => sub {
+  _list(2016);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
@@ -625,7 +629,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/2015';
+  redirect '/2016';
 };
 
 1;
