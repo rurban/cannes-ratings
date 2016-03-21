@@ -37,28 +37,40 @@ our $DATA= <<'EOF';
 #"FAMILY PHOTOS" (Cristian Mungiu)
 #"JULIETA" (Pedro Almodovar)
 #"PATERSON" (Jim Jarmusch)
-#"AFTER THE STORM" (Hirekazu Kore-eda)
-#"ZAMA" (Lucrecia Martel)
+#"AFTER THE STORM (Umi yori mo mada fukaku)" (Hirekazu Kore-eda)
+#"ZAMA" (Lucrecia Martel) -Probably not ready
 #"THE UNTAMED" (Amat Escalante)
 #"AMERICAN HONEY" (Andrea Arnold)
 #"NERUDA" (Pablo Larrain)
-#"THE UNKNOWN GIRL" (Jean-Pierre and Luc Dardenne)
-#"PARIS IS A FEAST/HAPPENING / NOCTURAMA" (Bertrand Bonello)
-#"SLACK BAY" (Bruno Dumont)
-#"IT’S ONLY THE END OF THE WORLD" (Xavier Dolan)
+#"FILLES INCONNU (THE UNKNOWN GIRL)" (Jean-Pierre and Luc Dardenne)
+#"PARIS IS HAPPENING / NOCTURAMA" (Bertrand Bonello)
+#"MA LOUTE (SLACK BAY)" (Bruno Dumont)
+#"JUSTE LA FIN DE MONDE (IT’S ONLY THE END OF THE WORLD)" (Xavier Dolan)
 #"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
 #"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
 #"THE CONFESSIONS" (Roberto Ando)
-#"THE HANDMAID / 아가씨 (Lady)" (Park Chan-wook)
-#"THE SALESMAN" (Ashgar Farhadi)
+#"THE HANDMAID (아가씨 / Lady)" (Park Chan-wook)
+#"THE SALESMAN (Foroushande)" (Ashgar Farhadi)
 #"ETERNITÉ" (Tran Anh Hung)
-#"AQUARIUS" (Mendonça Filho)
+#"AQUARIUS" (Kleber Mendonça Filho)
 #"SULLY" (Clint Eastwood)
 #"THE WOMAN IN THE SILVER PLATE" (Kyioshi Kurosawa) 
 #"I, DANIEL BLAKE" (Ken Loach)
-#"PLANETARIUM" (Zlotowski)
+#"PLANETARIUM" (Rebecca Zlotowski)
+#"SNOWDEN" (Oliver Stone)
+#"PERSONAL SHOPPER" (Olivier Assayas)
+#"AYKA (My Little One)" (Sergey Dvortsevoy)
+#"STAYING VERTICAL" (Alain Guiraudie)
+#"THE BODY ARTIST" (Benoît Jacquot)
+# - Don DeLillo novel
+#"SILENCE" (Martin Scorsese) - not ready
+#"FRANTZ" (Francois Ozon)
+#"THE NEON DEMON" (Nicholas Anders Refn)
+#"THE DEATH OF LOUIS XIV" (Alberto Serra)
 
 COMPETITION
+
+"MONEY MONSTER" (Jodie Foster)
 
 "THE LAST FACE" (Sean Penn) [Competition]
 
@@ -459,8 +471,10 @@ EOF
 our $FOOTER = "
 <pre>
 --
+List:
+http://letterboxd.com/rurban/list/cannes2016/
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Cannes2015.dat
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Cannes2016.dat
 
 </pre>";
 
