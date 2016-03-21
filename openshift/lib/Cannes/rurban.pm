@@ -7,8 +7,8 @@ our $VERSION = '0.2';
 our $BASE = 'Cannes';
 our @YEARS = qw(2010 2011 2012 2013 2014 2015 2016);
 our $comp_section = 'Competition';
-our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine", "ACID",
-                 "Other");
+our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine",
+                 "ACID", "Other");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -623,9 +623,13 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2015";
-  $all->{side_details} = _side_details(\%critic, \%title, \@{"$BASE\::rurban::2015::critics_group"});
-  template 'index', $all;
+  $all->{year} = "2010-2016";
+  {
+    no strict 'refs';
+    $all->{side_details} = _side_details(\%critic, \%title, 
+                                         \@{"$BASE\::rurban::2015::critics_group"});
+  }
+  template lc($BASE), $all;
 };
 
 get '/' => sub {
