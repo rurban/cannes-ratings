@@ -31,12 +31,38 @@ package Cannes::rurban::2016; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
+# Rumors only:
+
+#"SIERRA-NEVADA" (Cristi Puiu)
+#"FAMILY PHOTOS" (Cristian Mungiu)
+#"JULIETA" (Pedro Almodovar)
+#"PATERSON" (Jim Jarmusch)
+#"AFTER THE STORM" (Hirekazu Kore-eda)
+#"ZAMA" (Lucrecia Martel)
+#"THE UNTAMED" (Amat Escalante)
+#"AMERICAN HONEY" (Andrea Arnold)
+#"NERUDA" (Pablo Larrain)
+#"THE UNKNOWN GIRL" (Jean-Pierre and Luc Dardenne)
+#"PARIS IS A FEAST/HAPPENING / NOCTURAMA" (Bertrand Bonello)
+#"SLACK BAY" (Bruno Dumont)
+#"IT’S ONLY THE END OF THE WORLD" (Xavier Dolan)
+#"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
+#"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
+#"THE CONFESSIONS" (Roberto Ando)
+#"THE HANDMAID / 아가씨 (Lady)" (Park Chan-wook)
+#"THE SALESMAN" (Ashgar Farhadi)
+#"ETERNITÉ" (Tran Anh Hung)
+#"AQUARIUS" (Mendonça Filho)
+#"SULLY" (Clint Eastwood)
+#"THE WOMAN IN THE SILVER PLATE" (Kyioshi Kurosawa) 
+#"I, DANIEL BLAKE" (Ken Loach)
+#"PLANETARIUM" (Zlotowski)
+
 COMPETITION
 
 "THE LAST FACE" (Sean Penn) [Competition]
 
 "LOVING" (Jeff Nichols) [Competition]
-
 
 UN CERTAIN REGARD
 
@@ -51,6 +77,8 @@ SPECIAL SCREENINGS
 # [Special Screening]
 
 QUINZAINE
+
+#"MANCHESTER BY THE SEA" (Kenneth Lonergan) Sundance
 
 SEMAINE
 
