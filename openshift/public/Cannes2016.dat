@@ -2,19 +2,21 @@ package Cannes::rurban::2016; # -*- perl -*-
 
 #!/usr/bin/perl
 # Cannes 2016 Critics Ratings
-# collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
-# Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
-# http://www.ioncinema.com/ (scaled to 0-10)
-# http://www.lefilmfrancais.com/document/cannes2015/quotidien/FF9/index.html (scale 0-4)
-# http://jury.critic.de/cannes/
-# http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
-# http://icsfilm.org/features/ics-cannes-poll-2015/
-# http://lci.tf1.fr/festival-de-cannes/
+# Collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
+# Recalc and sort ratings by all Cannes critics:
+#   http://www.todaslascriticas.com.ar/cannes
+#   http://www.ioncinema.com/ (scaled to 0-10)
+#   http://www.lefilmfrancais.com/document/cannes2016/quotidien/FF9/index.html (scale 0-4)
+#   http://jury.critic.de/cannes/
+#   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
+#   http://icsfilm.org/features/ics-cannes-poll-2016/
+#   http://lci.tf1.fr/festival-de-cannes/
+#   http://letterboxd.com/rurban/list/cannes2016
 # More:
-# http://www.indiewire.com/critic/
-# http://www.theguardian.com/film/cannes-2015
+#   http://www.indiewire.com/critic/
+#   http://www.theguardian.com/film/cannes-2016
 #
-# Published at http://cannes-rurban.rhcloud.com/2015
+# Published at http://cannes-rurban.rhcloud.com/2016
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014, 2015, 2016
 # US ratings:
@@ -60,6 +62,7 @@ our $DATA= <<'EOF';
 #"I, DANIEL BLAKE" (Ken Loach)
 #"PLANETARIUM" (Rebecca Zlotowski)
 #"PERSONAL SHOPPER" (Olivier Assayas)
+#"TONI ERDMANN" (Maren Ade)
 #"AYKA (АЙКА / My Little One)" (Sergey Dvortsevoy)
 #"STAY VERTICAL" (Alain Guiraudie)
 #"THE BODY ARTIST" (Benoît Jacquot)
@@ -81,12 +84,13 @@ our $DATA= <<'EOF';
 #"LA MORT DE LOUIS XIV" (Alberto Serra) ?
 #"ELLE" (Paul Verhoeven) - Out of competition
 #"LOST IN PARIS" (Dominique Abel and Fiona Gordon) ?
-#"THE LIFE AQUATIC" (Solveig Anspach) ?
+#"L'effet aquatique (THE LIFE AQUATIC)" Sólveig Anspach) ?
+# - she died mid 2015
 #"THE MIMOSAS" (Olivier Laxe) ?
 #"LIKE CRAZY" (Paolo Virzi) ?
 #"FAI BEI SOGNI" (Marco Bellocchio) ?
 #"THE GIANT" (Johannes Nyholm) ?
-#"HEARTSTONE (Hjartasteinn)" ( Guðmundur Arnar Guðmundsson) ?
+#"HEARTSTONE (Hjartasteinn)" (Guðmundur Arnar Guðmundsson) ?
 #"ZOOLOGY" (Ivan I. Tverdovsky) ?
 #"CLASH" (Mohamed Diab) ?
 #"LAS TINIEBLAS (The Darkness)" (Daniel Castro Zimbrón) ?
@@ -480,6 +484,7 @@ http://jury.critic.de/cannes/ (german),
 Screen Daily (US/UK mainstream),
 TF1.fr (french mainstream),
 Indiewire (mixed), 
+Letterboxd (the industry),
 and more papers and individual critics.<br>
 
 <br>
