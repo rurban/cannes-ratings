@@ -33,38 +33,21 @@ package Cannes::rurban::2016; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-# Rumors only:
+# Not yet:
 
 #"SNOWDEN" (Oliver Stone) Out of competition
-#"SIERRA-NEVADA" (Cristi Puiu)
-#"FAMILY PHOTOS (Fotografii de familie)" (Cristian Mungiu)
-#"JULIETA" (Pedro Almodovar)
-#"PATERSON" (Jim Jarmusch)
-#"AFTER THE STORM (Umi yori mo mada fukaku)" (Hirekazu Kore-eda)
 #"THE UNTAMED (La Región Salvaje)" (Amat Escalante)
-#"AMERICAN HONEY" (Andrea Arnold)
 #"NERUDA" (Pablo Larrain)
-#"LA FILLES INCONNU (The Unknown Girl)" (Jean-Pierre and Luc Dardenne)
 #"PARIS IS HAPPENING / NOCTURAMA" (Bertrand Bonello)
-#"MA LOUTE (Slack Bay)" (Bruno Dumont)
-#"JUSTE LA FIN DE MONDE (IT’S ONLY THE END OF THE WORLD)" (Xavier Dolan)
 #"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
 #"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
 # - post-nuclear war winter, sounds horrible
 #"THE CONFESSIONS" (Roberto Ando)
-#"THE HANDMAID (아가씨 / Lady)" (Park Chan-wook)
-# - Adaption of Sarah Waters novel
 #"THE SALESMAN (Foroushande)" (Ashgar Farhadi)
 #"ETERNITÉ" (Tran Anh Hung)
-#"AQUARIUS" (Kleber Mendonça Filho)
 #"SULLY" (Clint Eastwood)
-#"THE WOMAN IN THE SILVER PLATE (La Femme de la plaque argentique)" (Kurosawa Kyioshi) 
-#"I, DANIEL BLAKE" (Ken Loach)
 #"PLANETARIUM" (Rebecca Zlotowski)
-#"PERSONAL SHOPPER" (Olivier Assayas)
-#"TONI ERDMANN" (Maren Ade)
 #"AYKA (АЙКА / My Little One)" (Sergey Dvortsevoy)
-#"STAY VERTICAL" (Alain Guiraudie)
 #"THE BODY ARTIST" (Benoît Jacquot)
 # - Don DeLillo novel
 #"FRANTZ" (Francois Ozon)
@@ -80,9 +63,6 @@ our $DATA= <<'EOF';
 # - Adapation of the Maylis De Kerangal novel
 #"VICTORIA (In Bed with Victoria)" (Justine Triet) ?
 #"ON THE MILKY ROAD (Na mlečnom putu’)" (Emir Kusturica) ?
-#"THE NEON DEMON" (Nicholas Anders Refn) ?
-#"LA MORT DE LOUIS XIV" (Alberto Serra) ?
-#"ELLE" (Paul Verhoeven) - Out of competition
 #"LOST IN PARIS" (Dominique Abel and Fiona Gordon) ?
 #"L'effet aquatique (THE LIFE AQUATIC)" Sólveig Anspach) ?
 # - she died mid 2015
@@ -92,32 +72,118 @@ our $DATA= <<'EOF';
 #"THE GIANT" (Johannes Nyholm) ?
 #"HEARTSTONE (Hjartasteinn)" (Guðmundur Arnar Guðmundsson) ?
 #"ZOOLOGY" (Ivan I. Tverdovsky) ?
-#"CLASH" (Mohamed Diab) ?
 #"LAS TINIEBLAS (The Darkness)" (Daniel Castro Zimbrón) ?
 #"LION" (Garth Davis) ?
 
 #"ZAMA" (Lucrecia Martel) - not ready
-#"SILENCE" (Martin Scorsese) - not ready, maybe
+#"SILENCE" (Martin Scorsese) - not ready
+#"THE WOMAN IN THE SILVER PLATE (La Femme de la plaque argentique)" (Kurosawa Kyioshi) 
+# - not ready
 
 COMPETITION
 
-"THE LAST FACE" (Sean Penn) [Competition]
+"TONI ERDMANN" (Maren Ade) [Competition]
+
+"JULIETA" (Pedro Almodovar) [Competition]
+
+"AMERICAN HONEY" (Andrea Arnold) [Competition]
+
+"PERSONAL SHOPPER" (Olivier Assayas) [Competition]
+
+"LA FILLES INCONNU (The Unknown Girl)" (Jean-Pierre and Luc Dardenne) [Competition]
+
+"MA LOUTE (Slack Bay)" (Bruno Dumont) [Competition]
+
+"JUSTE LA FIN DE MONDE (It’s Only the End of the World)" (Xavier Dolan) [Competition]
+
+"PATERSON" (Jim Jarmusch) [Competition]
+
+"RESTER VERTICAL (Stay Vertical)" (Alain Guiraudie) [Competition]
+
+"AQUARIUS" (Kleber Mendonça Filho) [Competition]
+
+"MAL DE PIERRES" (Nicole Garcia) [Competition]
+
+"I, DANIEL BLAKE" (Ken Loach) [Competition]
+
+"MA' ROSA" (Brillante Mendoza) [Competition]
+
+"BACALAUREAT" (Cristian Mungiu) [Competition]
 
 "LOVING" (Jeff Nichols) [Competition]
 
+"AGASSI (아가씨, The Handmaid)" (Park Chan-wook) [Competition]
+# "Lady" - Adaption of Sarah Waters novel
+
+"THE LAST FACE" (Sean Penn) [Competition]
+
+"SIERRA-NEVADA" (Cristi Puiu) [Competition]
+
+"ELLE" (Paul Verhoeven) [Competition]
+
+"THE NEON DEMON" (Nicholas Anders Refn) [Competition]
+
+
 UN CERTAIN REGARD
+
+"VAROONEGI" (Behnam Behzadi) [Un Certain Regard]
+
+"APPRENTICE" (Boo Junfeng) [Un Certain Regard]
+
+"VOIR DU PAYS" (Delphine & Muriel Coulin) [Un Certain Regard]
+
+"LA DANSEUSE" (Stéphanie Di Giusto) [Un Certain Regard]
+
+"ESHETEBAK (Clash)" (Mohamed Diab) [Un Certain Regard]
+
+"LA TORTUE ROUGE" (MICHAEL DUDOK DE WIT)  [Un Certain Regard]
+
+"FUCHI NI TATSU" (FUKADA KÔJI) [Un Certain Regard]
+
+"OMOR SHAKHSIYA" (MAHA HAJ) [Un Certain Regard]
+
+"ME’EVER LAHARIM VEHAGVAOT" (ERAN KOLIRIN) [Un Certain Regard]
+
+"AFTER THE STORM (Umi yori mo mada fukaku)" (Hirekazu Kore-eda) [Un Certain Regard]
+
+"HYMYILEVÄ MIES" (JUHO KUOSMANEN) [Un Certain Regard]
+
+"LA LARGA NOCHE DE FRANCISCO SANCTIS" (Francisco Márquez & Andrea Testa) [Un Certain Regard]
+
+"CAINI" (Bogdan Mirica) [Un Certain Regard]
+
+"PERICLE IL NERO" (Stefano Mordini) [Un Certain Regard]
+
+"THE TRANSFIGURATION" (MICHAEL O’SHEA) [Un Certain Regard]
+
+"CAPTAIN FANTASTIC" (Matt Ross) [Un Certain Regard]
+
+"UCHENIK" (Kirill Serebrennikov) [Un Certain Regard]
+
 
 SPECIAL SCREENINGS
 
-"CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
-
 "MONEY MONSTER" (Jodie Foster) [Out Of Competition]
 
-"THE BFG" (Steven Spielberg) [Out Of Competition]
+"DISENEY'S THE BFG" (Steven Spielberg) [Out Of Competition]
 
-"THE NICE GUYS" (Shane Black) [Out Of Competition] Midnight
+"GOKSUNG" (NA HONG-JIN) [Out Of Competition]
 
-# [Special Screening]
+"THE NICE GUYS" (Shane Black) [Out Of Competition]
+
+"GIMME DANGER" (JIM JARMUSCH) [Out Of Competition] Midnight
+
+"BU-SAN-HAENG" (YEON SANG-HO) [Out Of Competition] Midnight
+
+"CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
+
+"L'ULTIMA SPIAGGIA" (Thanos Anastopoulos & Davide Del Degan) [Out Of Competition]
+
+"HISSEIN HABRÉ, UNE TRAGÉDIE TCHADIENNE" (MAHAMAT-SALEH HAROUN)  [Out Of Competition] (Special Screening)
+
+"LA MORT DE LOUIS XIV" (Alberto Serra)  [Out Of Competition] Special Screening
+
+"LE CANCRE" (Paul Vecchiali)  [Out Of Competition] Special Screening
 
 QUINZAINE
 
@@ -126,7 +192,9 @@ QUINZAINE
 
 SEMAINE
 
+
 CANNES CLASSICS
+
 
 ACID
 

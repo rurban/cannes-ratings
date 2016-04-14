@@ -7,7 +7,7 @@ our $VERSION = '0.2';
 our $BASE = 'Cannes';
 our @YEARS = qw(2010 2011 2012 2013 2014 2015 2016);
 our $comp_section = 'Competition';
-our @sections = ($comp_section, "Un Certain Regard", "Semaine", "Quinzaine",
+our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Semaine", "Quinzaine",
                  "ACID", "Other");
 
 sub us_rating {
@@ -323,6 +323,7 @@ sub _dump {
   }
   my ($allreviews, $numratings) = (0,0);
   my %section;
+  $out .= "\n<h1>All official sections</h1>\n\n";
   for my $section (@sections) {
     my ($sum,$num) = (0,0); 
     my @titles = keys %title;
@@ -337,10 +338,9 @@ sub _dump {
 	}
       }
     }
-    if ($num) {
+    if (1 or $num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
-      $out .= "\n<h1>All official sections</h1>\n\n";
       $qsection =~ s/\W//g;
       $out .= $num
 	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
