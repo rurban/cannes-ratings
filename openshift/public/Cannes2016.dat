@@ -30,10 +30,7 @@ package Cannes::rurban::2016; # -*- perl -*-
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 
-use utf8;
-our $DATA= <<'EOF';
-
-# Not yet:
+# Remaining favorites, not yet:
 
 #"SNOWDEN" (Oliver Stone) Out of competition
 #"THE UNTAMED (La Región Salvaje)" (Amat Escalante)
@@ -79,6 +76,11 @@ our $DATA= <<'EOF';
 #"SILENCE" (Martin Scorsese) - not ready
 #"THE WOMAN IN THE SILVER PLATE (La Femme de la plaque argentique)" (Kurosawa Kyioshi) 
 # - not ready
+#"EVERYBODY WANTS SOME" (Richard Linklater) [Quinzaine] SXSW
+# - not selected. early france opening
+
+use utf8;
+our $DATA= <<'EOF';
 
 COMPETITION
 
@@ -102,7 +104,8 @@ COMPETITION
 
 "AQUARIUS" (Kleber Mendonça Filho) [Competition]
 
-"MAL DE PIERRES" (Nicole Garcia) [Competition]
+"MAL DE PIERRES (From the Land of the Moon)" (Nicole Garcia) [Competition]
+# Milena Agus novel "Mal di Pietre"
 
 "I, DANIEL BLAKE" (Ken Loach) [Competition]
 
@@ -142,11 +145,11 @@ UN CERTAIN REGARD
 
 "OMOR SHAKHSIYA" (MAHA HAJ) [Un Certain Regard]
 
-"ME’EVER LAHARIM VEHAGVAOT" (ERAN KOLIRIN) [Un Certain Regard]
+"ME’EVER LAHARIM VEHAGVAOT" (Eran Kolirin) [Un Certain Regard]
 
 "AFTER THE STORM (Umi yori mo mada fukaku)" (Hirekazu Kore-eda) [Un Certain Regard]
 
-"HYMYILEVÄ MIES" (JUHO KUOSMANEN) [Un Certain Regard]
+"HYMYILEVÄ MIES" (Juho Kuosmanen) [Un Certain Regard]
 
 "LA LARGA NOCHE DE FRANCISCO SANCTIS" (Francisco Márquez & Andrea Testa) [Un Certain Regard]
 
@@ -154,7 +157,7 @@ UN CERTAIN REGARD
 
 "PERICLE IL NERO" (Stefano Mordini) [Un Certain Regard]
 
-"THE TRANSFIGURATION" (MICHAEL O’SHEA) [Un Certain Regard]
+"THE TRANSFIGURATION" (Michael O’Shea) [Un Certain Regard]
 
 "CAPTAIN FANTASTIC" (Matt Ross) [Un Certain Regard]
 
@@ -171,27 +174,29 @@ SPECIAL SCREENINGS
 
 "THE NICE GUYS" (Shane Black) [Out Of Competition]
 
-"GIMME DANGER" (JIM JARMUSCH) [Out Of Competition] Midnight
+"GIMME DANGER" (Jim Jarmusch) [Out Of Competition] Midnight
 
-"BU-SAN-HAENG" (YEON SANG-HO) [Out Of Competition] Midnight
+"BU-SAN-HAENG" (Yeon Sang-Ho) [Out Of Competition] Midnight
 
 "CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
 
 "L'ULTIMA SPIAGGIA" (Thanos Anastopoulos & Davide Del Degan) [Out Of Competition]
 
-"HISSEIN HABRÉ, UNE TRAGÉDIE TCHADIENNE" (MAHAMAT-SALEH HAROUN)  [Out Of Competition] (Special Screening)
+"HISSEIN HABRÉ, UNE TRAGÉDIE TCHADIENNE" (Mahamat-Saleh Haroun)  [Out Of Competition] (Special Screening)
 
 "LA MORT DE LOUIS XIV" (Alberto Serra)  [Out Of Competition] Special Screening
 
 "LE CANCRE" (Paul Vecchiali)  [Out Of Competition] Special Screening
 
+
 QUINZAINE
 
 #"MANCHESTER BY THE SEA" (Kenneth Lonergan) [Quinzaine] Sundance
-#"EVERYBODY WANTS SOME" (Richard Linklater) [Quinzaine] SXSW
+
 
 SEMAINE
 
+# [Semaine] 
 
 CANNES CLASSICS
 
