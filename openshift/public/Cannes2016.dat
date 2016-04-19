@@ -32,9 +32,9 @@ package Cannes::rurban::2016; # -*- perl -*-
 
 # Remaining favorites, not yet:
 
+#"MANCHESTER BY THE SEA" (Kenneth Lonergan) [???] Sundance
 #"SNOWDEN" (Oliver Stone) Out of competition
 #"THE UNTAMED (La Región Salvaje)" (Amat Escalante)
-#"NERUDA" (Pablo Larrain)
 #"PARIS IS HAPPENING / NOCTURAMA" (Bertrand Bonello)
 #"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
 #"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
@@ -61,10 +61,6 @@ package Cannes::rurban::2016; # -*- perl -*-
 #"VICTORIA (In Bed with Victoria)" (Justine Triet) ?
 #"ON THE MILKY ROAD (Na mlečnom putu’)" (Emir Kusturica) ?
 #"LOST IN PARIS" (Dominique Abel and Fiona Gordon) ?
-#"L'effet aquatique (THE LIFE AQUATIC)" Sólveig Anspach) ?
-# - she died mid 2015
-#"THE MIMOSAS" (Olivier Laxe) ?
-#"LIKE CRAZY" (Paolo Virzi) ?
 #"FAI BEI SOGNI" (Marco Bellocchio) ?
 #"THE GIANT" (Johannes Nyholm) ?
 #"HEARTSTONE (Hjartasteinn)" (Guðmundur Arnar Guðmundsson) ?
@@ -201,9 +197,9 @@ QUINZAINE
 
 "L’Économie du couple" (Joachim Lafosse) [Quinzaine]
 
-"L’Effet aquatique" (Sólveig Anspach) [Quinzaine]
+"THE LIFE AQUATIC (L'effet aquatique)" Sólveig Anspach) [Quinzaine]
 
-"La Pazza Gioia" (Paolo Virzì) [Quinzaine]
+"LIKE CRAZY (La Pazza Gioia)" (Paolo Virzì) [Quinzaine]
 
 "Les Vies de Thérèse" (Sébastien Lifshitz) [Quinzaine]
 
@@ -211,7 +207,7 @@ QUINZAINE
 
 "MEAN DREAMS" (Nathan Morlando) [Quinzaine]
 
-"Mercenaire" (Sacha Wolff) [Quinzaine]
+"MERCENAIRE" (Sacha Wolff) [Quinzaine]
 
 "NERUDA" (Pablo Larraín) [Quinzaine]
 
@@ -227,8 +223,20 @@ QUINZAINE
 
 SEMAINE
 
-# [Semaine] 
-#"MANCHESTER BY THE SEA" (Kenneth Lonergan) [Semaine] Sundance
+"ALBUM (Albüm)"	(Mehmet Can Mertoğlu) [Semaine]
+
+"DIAMOND ISLAND" (Davy Chou) [Semaine]
+
+"RAW (Grave)" (Julia Ducournau) [Semaine]
+
+"MIMOSAS" (Oliver Laxe) [Semaine]
+
+"ONE WEEK AND A DAY (	שבוע ויום Shavua ve yom)" (Asaph Polonsky) [Semaine]
+
+"TRAMONTANE (ربيع Rabi'h)" (Vatche Boulghourjian) [Semaine]
+
+"A YELLOW BIRD" (K. Rajagopal) [Semaine]
+
 
 # CANNES CLASSICS
 
