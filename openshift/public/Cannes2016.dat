@@ -30,50 +30,6 @@ package Cannes::rurban::2016; # -*- perl -*-
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 
-# Remaining favorites, not yet:
-
-#"MANCHESTER BY THE SEA" (Kenneth Lonergan) [???] Sundance
-#"SNOWDEN" (Oliver Stone) Out of competition
-#"THE UNTAMED (La Región Salvaje)" (Amat Escalante)
-#"PARIS IS HAPPENING / NOCTURAMA" (Bertrand Bonello)
-#"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
-#"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
-# - post-nuclear war winter, sounds horrible
-#"THE CONFESSIONS" (Roberto Ando)
-#"THE SALESMAN (Foroushande)" (Ashgar Farhadi)
-#"ETERNITÉ" (Tran Anh Hung)
-#"SULLY" (Clint Eastwood)
-#"PLANETARIUM" (Rebecca Zlotowski)
-#"AYKA (АЙКА / My Little One)" (Sergey Dvortsevoy)
-#"THE BODY ARTIST" (Benoît Jacquot)
-# - Don DeLillo novel
-#"FRANTZ" (Francois Ozon)
-#"THE GREAT WALL" (Zhang Yimou)
-# - another big budget high-profile chinese action story
-#"VOYAGE OF TIME" (Terrence Malick)
-
-#"GRAIN" (Semih Kaplanoğlu)
-#"LE JEUNE KARL MARX (Young Karl Marx)" (Raoul Peck)
-#"THE BEAUTIFUL DAYS OF ARANJUEZ" (Wim Wenders)
-#"UNTITLED HOWARD HUGHES PROJECT" (Warren Beatty) ?
-#"RÉPARER LES VIVANTS (The Heart)" (Katell Quillévéré) ?
-# - Adapation of the Maylis De Kerangal novel
-#"VICTORIA (In Bed with Victoria)" (Justine Triet) ?
-#"ON THE MILKY ROAD (Na mlečnom putu’)" (Emir Kusturica) ?
-#"LOST IN PARIS" (Dominique Abel and Fiona Gordon) ?
-#"THE GIANT" (Johannes Nyholm) ?
-#"HEARTSTONE (Hjartasteinn)" (Guðmundur Arnar Guðmundsson) ?
-#"ZOOLOGY" (Ivan I. Tverdovsky) ?
-#"LAS TINIEBLAS (The Darkness)" (Daniel Castro Zimbrón) ?
-#"LION" (Garth Davis) ?
-
-#"ZAMA" (Lucrecia Martel) - not ready
-#"SILENCE" (Martin Scorsese) - not ready
-#"THE WOMAN IN THE SILVER PLATE (La Femme de la plaque argentique)" (Kurosawa Kyioshi) 
-# - not ready
-#"EVERYBODY WANTS SOME" (Richard Linklater) [Quinzaine] SXSW
-# - not selected. early france opening
-
 use utf8;
 our $DATA= <<'EOF';
 
@@ -121,8 +77,12 @@ COMPETITION
 
 "THE NEON DEMON" (Nicholas Anders Refn) [Competition]
 
+"THE SALESMAN (Foroushande)" (Ashgar Farhadi)
+
 
 UN CERTAIN REGARD
+
+"ESHETEBAK (Clash)" (Mohamed Diab) [Un Certain Regard] Opening Film
 
 "VAROONEGI (Inversion)" (Behnam Behzadi) [Un Certain Regard]
 
@@ -131,8 +91,6 @@ UN CERTAIN REGARD
 "VOIR DU PAYS (The Stopover)" (Delphine & Muriel Coulin) [Un Certain Regard]
 
 "LA DANSEUSE (The Dancer)" (Stéphanie Di Giusto) [Un Certain Regard]
-
-"ESHETEBAK (Clash)" (Mohamed Diab) [Un Certain Regard]
 
 "LA TORTUE ROUGE (The Red Turtle)" (Michael Dudok De Wit)  [Un Certain Regard]
 
@@ -158,6 +116,8 @@ UN CERTAIN REGARD
 
 "UCHENIK (The Student)" (Kirill Serebrennikov) [Un Certain Regard]
 
+"HELL OR HIGH WATER" (David Mackenzie) [Un Certain Regard]
+- prev as Comancheria
 
 SPECIAL SCREENINGS
 
@@ -175,6 +135,8 @@ SPECIAL SCREENINGS
 "TRAIN TO BUSAN (Busan-Haeng / Seoul Station)" (Yeon Sang-Ho) [Out Of Competition] Midnight
 - Animation
 
+"BLOOD FATHER" (Jean-Francois Richet) [Out Of Competition] Midnight
+
 "CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
 
 "THE LAST RESORT (L'Ultima Spiaggia)" (Thanos Anastopoulos & Davide Del Degan) [Out Of Competition]
@@ -185,7 +147,13 @@ SPECIAL SCREENINGS
 
 "LA MORT DE LOUIS XIV" (Alberto Serra)  [Out Of Competition] Special Screening
 
-"LE CANCRE" (Paul Vecchiali)  [Out Of Competition] Special Screening
+"LE CANCRE" (Paul Vecchiali) [Out Of Competition] Special Screening
+
+"Wrong Elements" (Jonathan Littell) [Out Of Competition] Special Screening
+
+"La Foret De Quinconces" (Grégoire Leprince-Ringuet) [Out Of Competition] Special Screening
+
+"Chouf" (Karim Dridi) [Out Of Competition] Special Screening
 
 
 QUINZAINE
@@ -269,6 +237,42 @@ CANNES CLASSICS
 
 
 EOF
+
+# Remaining favorites, not selected:
+
+#"MANCHESTER BY THE SEA" (Kenneth Lonergan) [???] Sundance
+#"SNOWDEN" (Oliver Stone) Out of competition
+#"THE UNTAMED (La Región Salvaje)" (Amat Escalante)
+#"PARIS IS HAPPENING / NOCTURAMA" (Bertrand Bonello)
+#"THE DEATH AND LIFE OF JOHN F. DONOVAN" (Xavier Dolan)
+#"THE LUXEMBOURG" (Miroslav Slaboshpitsky)
+# - post-nuclear war winter, sounds horrible
+#"THE CONFESSIONS" (Roberto Ando)
+#"ETERNITÉ" (Tran Anh Hung)
+#"SULLY" (Clint Eastwood)
+#"PLANETARIUM" (Rebecca Zlotowski)
+#"AYKA (АЙКА / My Little One)" (Sergey Dvortsevoy)
+#"THE BODY ARTIST" (Benoît Jacquot)
+# - Don DeLillo novel
+#"FRANTZ" (Francois Ozon)
+#"THE GREAT WALL" (Zhang Yimou)
+# - another big budget high-profile chinese action story
+#"VOYAGE OF TIME" (Terrence Malick)
+
+#"GRAIN" (Semih Kaplanoğlu)
+#"LE JEUNE KARL MARX (Young Karl Marx)" (Raoul Peck)
+#"THE BEAUTIFUL DAYS OF ARANJUEZ" (Wim Wenders)
+#"UNTITLED HOWARD HUGHES PROJECT" (Warren Beatty) ?
+#"RÉPARER LES VIVANTS (The Heart)" (Katell Quillévéré) ?
+# - Adapation of the Maylis De Kerangal novel
+#"VICTORIA (In Bed with Victoria)" (Justine Triet) ?
+#"ON THE MILKY ROAD (Na mlečnom putu’)" (Emir Kusturica) ?
+#"LOST IN PARIS" (Dominique Abel and Fiona Gordon) ?
+#"THE GIANT" (Johannes Nyholm) ?
+#"HEARTSTONE (Hjartasteinn)" (Guðmundur Arnar Guðmundsson) ?
+#"ZOOLOGY" (Ivan I. Tverdovsky) ?
+#"LAS TINIEBLAS (The Darkness)" (Daniel Castro Zimbrón) ?
+#"LION" (Garth Davis) ?
 
 our (@critics, @critics_group);
 $critics_group[0] = "Todas";
