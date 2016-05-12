@@ -180,7 +180,7 @@ sub _dump {
   my @t = @{$_[2]};
   my @all = @t;
   my %sections = map{$_=>1} @sections;
-  @t = sort {$b->[1] <=> $a->[1]} @t;
+  @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
     $l =~ s/ \[(.+?)\]//; my $section = $1;
@@ -189,7 +189,7 @@ sub _dump {
     $title{$t}->{'avg'} = $a;
     $title{$t}->{'num'} = $n;
     $title{$t}->{'line'} = $l;
-    for my $c (keys %{$title{$t}->{critic}}) {
+    for my $c (sort keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
       if (defined $x) {
         push @{$title{$t}->{critic}->{$c}}, $x - $a;
@@ -267,7 +267,10 @@ sub _dump {
       }
     }
   }
-  @t = sort {$title{$b->[3]}->{avg} <=> $title{$a->[3]}->{avg}} @t;
+  @t = sort {
+    $title{$b->[3]}->{avg} <=> $title{$a->[3]}->{avg}
+    || $a->[3] cmp $b->[3]
+  } @t;
   my $i=1;
   for (@t) { 
     my $t = $_->[3]; 
@@ -349,7 +352,8 @@ sub _dump {
 	   {
 	     !$section{$section}->{$b}->[1] ? -1
 	       : !$section{$section}->{$a}->[1] ? 1
-	       : $section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]
+	       : ($section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]
+                  || $a cmp $b)
 	   }
 	   keys %{$section{$section}})
       { 
@@ -395,7 +399,7 @@ sub _dump {
        {
 	 !$b->[2] ? -1
 	 : !$a->[2] ? 1
-	 : $b->[1] <=> $a->[1]
+	 : ($b->[1] <=> $a->[1] || $a->[0] cmp $b->[0])
        } @t)
   {
     my ($l,$a,$n,$t) = @{$_};

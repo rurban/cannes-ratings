@@ -185,7 +185,7 @@ sub _dump {
   my @t = @{$_[2]};
   my @all = @t;
   my %sections = map{$_=>1} @sections;
-  @t = sort {$b->[1] <=> $a->[1]} @t;
+  @t = sort { $b->[1] <=> $a->[1] || $b->[0] <=> $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
     $l =~ s/ \[(.+?)\]//; my $section = $1;
@@ -267,7 +267,7 @@ sub _dump {
   }
   @t = sort {$title{$b->[3]}->{avg} <=> $title{$a->[3]}->{avg}} @t;
   my $i=1;
-  for (@t) { 
+  for (@t) {
     my $t = $_->[3]; 
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
