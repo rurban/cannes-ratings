@@ -79,6 +79,8 @@ Everita_Ulthar      10
 Mike d'Angelo       9
 Jason Ooi           9
 Blake Williams      8
+#
+Lee Marshall        9     http://www.screendaily.com/reviews/toni-erdmann-cannes-review/5103888.article?blocktitle=CANNES-REVIEWS&contentID=40395
 
 "JULIETA" (Pedro Almodovar) [Competition]
 
@@ -255,6 +257,19 @@ Gille Kerdreux        2.5
 Pascal Mérigeau       5
 Danielle Attali       2.5
 Christophe Carriére   2.5
+# screen daily 0-4
+Michel Ciment         2.5
+Fabio Ferzetti        2.5
+Kong Rithdee          7.5
+Julien Gester/Didier Peron 7.5 
+Jan Schulz-Ojala      5
+Mahnola Dargis        2.5
+Stephanie Zacharek    5
+Justin Chang          7.5
+Nick James            5
+Tim Robey/Robbie Collin 5 
+Anton Dolin           5
+Screen International  7.5
 #l
 Kartik Singh        10
 Eli Hayes           9
@@ -459,6 +474,19 @@ Gille Kerdreux        5
 Pascal Mérigeau       5
 Danielle Attali       5
 Christophe Carriére   1
+# screen daily 0-4
+Michel Ciment         7.5
+Fabio Ferzetti        7.5
+Kong Rithdee          7.5
+Julien Gester/Didier Peron 5 
+Jan Schulz-Ojala      7.5
+Mahnola Dargis        7.5
+Stephanie Zacharek    5
+Justin Chang          7.5
+Nick James            7.5
+Tim Robey/Robbie Collin 7.5 
+Anton Dolin           9
+Screen International  9
 #l
 tombeet             9
 Crayfish            9
@@ -1236,6 +1264,8 @@ Pieter Vermeersch   7
 
 "RAW (Grave)" (Julia Ducournau) [Semaine]
 
+Film Francais            http://www.lefilmfrancais.com/cinema/127761/cannes-2016-entretien-avec-jean-des-forets-producteur-de-grave
+
 "MIMOSAS" (Oliver Laxe) [Semaine]
 
 Jaime Pena            9
@@ -1433,15 +1463,17 @@ Christophe Carriére (L'Express, France)
 # http://issuu.com/emap_/docs/screen_cannes_day_1_2013
 $critics_group[3] = "Screen Daily";
 $critics[3] = "
-Nick James (Sight & Sound, UK) 
-Kate Muir/Wendy Ide (The Times, UK) 
 Michel Ciment (Positif, France) 
+Fabio Ferzetti (El Messagero, Italy)
+Kong Rithdee (The Bangkok Post, Thailand) 
 Julien Gester/Didier Peron (Liberation, France) 
 Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
-Fabio Ferzetti (El Messagero, Italy)
+Mahnola Dargis (New York Times, USA)
 Stephanie Zacharek (Village Voice, USA)
-Paul Byrnes (Sydney Morning Herald, Australia)
-Kong Rithdee (The Bangkok Post, Thailand) 
+Justin Chang (Los Angeles Times, USA)
+Nick James (Sight & Sound, UK)
+Tim Robey/Robbie Collin (Daily Telegraph, UK)
+Anton Dolin (Afisha, Russia)
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
