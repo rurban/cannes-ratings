@@ -53,7 +53,7 @@ Alejandro G. Calvo    8.5
 Xavi Serra            9
 Kong Rithdee            8
 Gerard Casau            8.5
-Boris Nelepo          8.5
+Boris Nelepo          8.5    http://www.svoboda.org/content/article/27734922.html
 Carlos F. Heredero    9.5
 Eulalia Iglesias      7.5
 José Luis Losa       4.5
@@ -65,12 +65,15 @@ Andrey Arnold         9
 Pamela Biénzobas     7.5
 Frédéric Jaeger     9       http://www.critic.de/film/toni-erdmann-9721/
 Till Kadritzke        9
-Daniel Kasman         7.5
+#Daniel Kasman         7.5
 Michael Kienzl        9
-Boris Nelepo          7.5
+Violeta Kovacsics     9
+#Boris Nelepo          7.5     http://www.svoboda.org/content/article/27734922.html
 Lukas Stern           9
+Rüdiger Suchsland    9
 Anke Westphal         6
 Blake Williams        9
+#Alexandra Zawia       9
 # Le film français 0-4
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -148,6 +151,8 @@ Eulalia Iglesias      7.5
 José Luis Losa       1
 Ángel Quintana       8.5
 Carlos Reviriego        9
+# critic.de
+Violeta Kovacsics     7.5
 # Le film français 0-4
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -228,8 +233,15 @@ José Luis Losa         7
 Alberto Sáez Villarino 5.5
 # critic.de
 Frédéric Jaeger     4
+Till Kadritzke        9       http://www.critic.de/film/american-honey-9722/
+#Daniel Kasman         4
 Michael Kienzl        5
+Violeta Kovacsics     5
+#Boris Nelepo          2.5
 Lukas Stern           7.5
+Rüdiger Suchsland    1
+Blake Williams        4
+#Alexandra Zawia       2.5
 # screen daily 0-4
 Michel Ciment               
 Fabio Ferzetti             
@@ -282,7 +294,7 @@ Guy Lodge                   https://variety.com/2016/film/reviews/american-honey
 #todas
 Roger Koza              7.5
 Jaime Pena              8
-Daniel Kasman           5
+Daniel Kasman           5   http://mubi.com/notebook/posts/cannes-2016-bruno-dumont-s-slack-bay
 Diego Lerer             8
 Giona Nazzaro           7
 Diego Batlle            7
@@ -313,8 +325,10 @@ Michael Kienzl        7.5
 Violeta Kovacsics     6
 #Boris Nelepo          2.5
 Lukas Stern           7.5
+Rüdiger Suchsland    7.5
 Anke Westphal         6
 Blake Williams        7.5
+Alexandra Zawia       5
 # Le film français 0-4
 Frédéric Foubert      7.5
 Jean-Claude Raspiergeas 5
@@ -443,7 +457,7 @@ Lukas Stern           5
 Rüdiger Suchsland    7.5
 Anke Westphal         6
 Blake Williams        7.5
-Alexandra Zawia       6
+Alexandra Zawia       7.5
 # Le film français 0-4
 Frédéric Foubert      5
 Jean-Claude Raspiergeas 1
@@ -547,6 +561,11 @@ Christophe Carriére
 "MAL DE PIERRES (From the Land of the Moon)" (Nicole Garcia) [Competition]
 # Milena Agus novel "Mal di Pietre"
 
+# critic.de
+Frédéric Jaeger     2.5
+Lukas Stern           1
+Blake Williams        2.5
+#
 Steve Pond                  http://www.thewrap.com/from-the-land-of-the-moon-cannes-review-marion-cotillard-shines-in-conventional-period-piece/
 
 
@@ -732,10 +751,15 @@ Raúl Camargo           3
 Alberto Sáez Villarino 9
 # critic.de
 Andrey Arnold         5
+Pamela Biénzobas     5
+Daniel Kasman         2.5
+Violeta Kovacsics     5
 Boris Nelepo          4
 Lukas Stern           6       http://www.critic.de/film/the-handmaiden-9659/
+Rüdiger Suchsland    9
 Anke Westphal         6
 Blake Williams        5
+Alexandra Zawia       4
 # screen daily 0-4
 Michel Ciment         5
 Fabio Ferzetti        5
@@ -1053,6 +1077,8 @@ Fernando Ganzo        7
 
 #todas
 Roger Koza            5.5
+# critic.de
+Blake Williams        6
 #l
 Screen-Space        6
 Blake Williams      6
@@ -1076,6 +1102,7 @@ José Luis Losa       5
 Andrey Arnold         2.5
 Frédéric Jaeger     5
 #Rüdiger Suchsland    2.5
+Alexandra Zawia       6
 # Le film français 0-4
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -1127,6 +1154,9 @@ dadafi              6
 
 "DOGS (Caini)" (Bogdan Mirica) [Un Certain Regard]
 
+# critic.de
+Rüdiger Suchsland    5
+
 "PERICLE IL NERO" (Stefano Mordini) [Un Certain Regard]
 
 #todas
@@ -1144,6 +1174,8 @@ Alejandro G. Calvo    7.5
 Eulalia Iglesias      6
 Alberto Sáez Villarino 4.5
 # critic.de
+Daniel Kasman         4
+Rüdiger Suchsland    4
 Blake Williams        2.5
 #l
 monkeybox83         9
@@ -1241,7 +1273,7 @@ Violeta Kovacsics     5
 Lukas Stern           7.5
 Rüdiger Suchsland    6
 Anke Westphal         6
-Alexandra Zawia       4
+Alexandra Zawia       2.5
 # l
 krys                9
 Nanks               9
@@ -1459,6 +1491,9 @@ Liara K.            1
 #todas
 Alejandro G. Calvo      8
 Boris Nelepo            4.5
+# critic.de
+#Boris Nelepo          4
+Rüdiger Suchsland    7.5
 #l
 Letterboxd _75_Users  7.4  http://letterboxd.com/film/the-nice-guys/ratings/
 
@@ -1626,7 +1661,7 @@ Crayfish            7
 
 #todas
 Jaime Pena            6.5
-Daniel Kasman         7
+Daniel Kasman         7     http://mubi.com/notebook/posts/cannes-2016-rithy-panh-s-exile
 Fernando Juan Lima    6
 Diego Batlle          6.5
 Carlos Reviriego      6.5
@@ -1642,9 +1677,9 @@ Raúl Camargo         4
 Ángel Quintana       5.5
 # critic.de
 Andrey Arnold         7.5
-Daniel Kasman         6
+#Daniel Kasman         6
 Michael Kienzl        7.5
-Boris Nelepo          2.5
+#Boris Nelepo          2.5
 Lukas Stern           6
 Blake Williams        4
 #l
@@ -1668,6 +1703,8 @@ Andy Malafaia       3
 Jaime Pena            8.5
 Daniel Kasman         5.5
 Ángel Quintana        9
+# critic.de
+Daniel Kasman         5
 
 "La Forêt De Quinconces" (Grégoire Leprince-Ringuet) [Out Of Competition] Special Screening
 
@@ -1768,6 +1805,8 @@ Raúl Camargo         7.5
 Alberto Sáez Villarino 8
 # critic.de
 Pamela Biénzobas     7.5
+Violeta Kovacsics     6
+Alexandra Zawia       5
 #l
 FilmLandEmpire      10
 Crayfish            9
@@ -1801,9 +1840,15 @@ Gustavo Beck          4
 
 #todas
 Roger Koza            3.5
-Boris Nelepo          7
+Boris Nelepo          7      http://www.svoboda.org/content/article/27734922.html
 Raúl Camargo         2
 Alberto Sáez Villarino 6.5
+# critic.de
+Pamela Biénzobas     2.5
+Frédéric Jaeger     5
+Till Kadritzke        2.5     http://www.critic.de/film/poesia-sin-fin-9768/
+Michael Kienzl        6
+#Boris Nelepo          6       http://www.svoboda.org/content/article/27734922.html
 #l
 Fares Akhaoui       10
 Antoine Waked       8
@@ -1827,15 +1872,17 @@ Carlos Reviriego      9.5
 Luciano Monteagudo    7.5
 Alexandra Zawia       4
 Gerard Casau          7.5
-Boris Nelepo          7.5
+Boris Nelepo          7.5     http://www.svoboda.org/content/article/27734922.html
 Carlos F. Heredero    5
 Gustavo Beck          4
 Raúl Camargo         8
 # critic.de
 Andrey Arnold         6
+Pamela Biénzobas     6
 #Daniel Kasman         7.5
-#Boris Nelepo          7.5
+#Boris Nelepo          7.5     http://www.svoboda.org/content/article/27734922.html
 Blake Williams        5
+#Alexandra Zawia       4
 #
 Rory O'Connor       4    https://thefilmstage.com/reviews/cannes-review-sweet-dreams/
 #l
@@ -1881,6 +1928,9 @@ Pieter Vermeersch   7
 
 #todas
 Gerard Casau            7.5
+# critic.de
+Till Kadritzke        7.5
+Violeta Kovacsics     5
 #
 Film Francais            http://www.lefilmfrancais.com/cinema/127761/cannes-2016-entretien-avec-jean-des-forets-producteur-de-grave
 Catherine Bray           https://variety.com/2016/film/reviews/raw-review-1201774875/
@@ -1914,6 +1964,7 @@ Luc Benito          6
 Gustavo Beck          6
 # critic.de
 Michael Kienzl        5
+Violeta Kovacsics     7.5
 Blake Williams        6
 #l
 Blake Williams      6
@@ -1942,6 +1993,9 @@ tombeet             7
 
 "LE PARC" (Damien Manivel) [ACID]
 - http://www.lacid.org/Le-Parc
+
+# critic.de
+Frédéric Jaeger     7.5     http://www.critic.de/film/le-parc-9797/
 
 "SAC LA MORT" (Emmanuel Parraud) [ACID]
 - http://www.lacid.org/Sac-la-mort
