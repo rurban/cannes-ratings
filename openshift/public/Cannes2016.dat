@@ -9,7 +9,7 @@ package Cannes::rurban::2016; # -*- perl -*-
 #   http://www.lefilmfrancais.com/document/cannes2016/quotidien/FF9/index.html (scale 0-4)
 #   http://jury.critic.de/cannes/
 #   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
-#   http://icsfilm.org/features/ics-cannes-poll-2016/
+#   http://icsfilm.org/features/cannes-2016-the-grid/
 #   http://lci.tf1.fr/festival-de-cannes/
 #   http://letterboxd.com/rurban/list/cannes2016
 # More:
@@ -130,6 +130,22 @@ Isabelle Regnier        10
 Cédric Succivalli       8
 Blake Williams          7
 Alison Wilmore          8
+# ics
+#Cédric Succivalli       8
+David Acacia            8   http://icsfilm.org/reviews/cannes-2016-staying-vertical-alain-guiraudie/
+Aldo Álvareztostado     8
+Marc van de Klashorst   6
+#Diego Battle           8
+#Nicholas Bell          6
+#Chris Beney           
+David Honnorat          6
+Dana Keith              7
+D W Mault               8
+Eren Odabasi            7
+#Regnier                9
+Clarence Tsui           7
+#Blake Williams         7
+#
 #l
 Kartik Singh        10
 Gunnar Larson       9
@@ -260,8 +276,24 @@ Isabelle Regnier        2
 Cédric Succivalli       8
 Blake Williams          5
 Alison Wilmore          
+# ics
+#Cédric Succivalli      8
+David Acacia            3
+Aldo Álvareztostado     9
+Marc van de Klashorst   3
+#Diego Battle           8
+#Nicholas Bell          7
+#Chris Beney           
+David Honnorat         7
+Dana Keith             7
+D W Mault               
+Eren Odabasi            7
+#Regnier                4
+Clarence Tsui           8
+#Blake Williams         4
 #
-Giovanni Marchini Camia  8   https://thefilmstage.com/reviews/cannes-review-sieranevada/
+Giovanni Marchini Camia  8  https://thefilmstage.com/reviews/cannes-review-sieranevada/
+Aldo Álvareztostado	    http://icsfilm.org/reviews/cannes-2016-sieranevada-cristi-puiu/
 #l
 Carlota Moseguí    9
 tombeet             9
@@ -378,9 +410,25 @@ Isabelle Regnier
 Cédric Succivalli       9
 Blake Williams          7
 Alison Wilmore          6
+# ics
+#Cédric Succivalli      9
+David Acacia            8
+Aldo Álvareztostado     8
+Marc van de Klashorst   8
+#Diego Battle           7
+#Nicholas Bell          6
+#Chris Beney           6
+David Honnorat         4
+Dana Keith             4
+D W Mault               9
+Eren Odabasi            4
+#Regnier                8
+Clarence Tsui           6
+#Blake Williams         8
 #
 Giovanni Marchini Camia  3   https://thefilmstage.com/reviews/cannes-review-slack-bay/
 Michael Sennhauser           http://sennhausersfilmblog.ch/2016/05/13/cannes-16-ma-loute-von-bruno-dumont-wettbewerb/
+Marc van de Klashorst	     http://icsfilm.org/reviews/cannes-2016-ma-loute-bruno-dumont/
 #l
 sandraghosn         10
 FilmLandEmpire      10
@@ -491,9 +539,25 @@ Isabelle Regnier        4
 Cédric Succivalli       5
 Blake Williams          
 Alison Wilmore          5
+# ics
+#Cédric Succivalli      5
+David Acacia            9
+Aldo Álvareztostado     4
+Marc van de Klashorst   8
+#Diego Battle           7
+#Nicholas Bell          7
+#Chris Beney            
+David Honnorat         5
+Dana Keith             6
+D W Mault               7
+Eren Odabasi            4
+#Regnier                5
+Clarence Tsui           6
+#Blake Williams         7
 #
 Owen Gleiberman             https://variety.com/2016/film/reviews/i-daniel-blake-review-ken-loach-1201772584/
 Rory O'Connor       8       https://thefilmstage.com/reviews/cannes-review-i-daniel-blake/
+David Acacia                http://icsfilm.org/reviews/cannes-2016-i-daniel-blake-ken-loach/
 #l
 Eli Hayes           10
 Gaz Evans           10
@@ -589,11 +653,27 @@ Isabelle Regnier        6
 Cédric Succivalli       2
 Blake Williams          5
 Alison Wilmore          7
+# ics
+#Cédric Succivalli     2
+David Acacia            1
+Aldo Álvareztostado     3
+Marc van de Klashorst   5
+#Diego Battle           6
+#Nicholas Bell          7
+#Chris Beney           
+David Honnorat         5
+Dana Keith             7
+D W Mault               7
+Eren Odabasi            8
+#Regnier                5
+Clarence Tsui           
+#Blake Williams         4
 #
 Giovanni Marchini Camia   5 https://thefilmstage.com/reviews/cannes-review-the-handmaiden/
 Deborah Young               http://www.hollywoodreporter.com/review/handmaiden-agassi-cannes-review-894027
 Michael Sennhauser          http://sennhausersfilmblog.ch/2016/05/14/copy-2/
 Steve Pond                  http://www.thewrap.com/the-handmaiden-cannes-review-park-chan-turns-up-the-kinkiness/
+Marc van de Klashorst	    http://icsfilm.org/reviews/cannes-2016-the-handmaiden-park-chan-wook/
 
 #l
 Ostin Fam           10
@@ -721,10 +801,26 @@ Isabelle Regnier
 Cédric Succivalli       
 Blake Williams          8
 Alison Wilmore          
+# ics
+Cédric Succivalli     9
+David Acacia           9 
+Aldo Álvareztostado     9
+Marc van de Klashorst   9
+#Diego Battle           9
+#Nicholas Bell          9
+#Chris Beney           
+David Honnorat         8
+Dana Keith             8
+D W Mault               10
+Eren Odabasi            9
+#Regnier                9
+Clarence Tsui           6
+#Blake Williams         10
 #
 Craig Skinner       10      http://www.flickreel.com/toni-erdmann-review/
 Michael Sennhauser          http://sennhausersfilmblog.ch/2016/05/13/cannes-16-toni-erdmann-von-maren-ade-wettbewerb/
 Steve Pond                  http://www.thewrap.com/toni-erdmann-cannes-review-spectacular-father-daughter-comedy-knocks-the-festival-for-a-loop/
+Marc van de Klashorst	    http://icsfilm.org/reviews/cannes-2016-toni-erdmann-maren-ade/
 #l
 Katherine McLaughlin 10
 Martyn Conterio     10
@@ -819,8 +915,25 @@ Isabelle Regnier
 Cédric Succivalli       
 Blake Williams          
 Alison Wilmore          
+# ics
+Cédric Succivalli     5
+David Acacia           3 
+Aldo Álvareztostado     3
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          2
+#Chris Beney           
+David Honnorat         2
+Dana Keith             
+D W Mault               
+Eren Odabasi            5
+#Regnier                3
+Clarence Tsui           5
+#Blake Williams         2
+#
 Steve Pond                  http://www.thewrap.com/from-the-land-of-the-moon-cannes-review-marion-cotillard-shines-in-conventional-period-piece/
-Aldo álvareztostado 3       https://twitter.com/alvareztostado/status/731949966286000129
+Aldo Álvareztostado 3       https://twitter.com/alvareztostado/status/731949966286000129
+David Acacia                http://icsfilm.org/reviews/cannes-2016-mal-de-pierres-nicole-garcia/
 #l
 Jangorama           8
 Screen-Space        8
@@ -910,6 +1023,21 @@ Isabelle Regnier
 Cédric Succivalli       0.5
 Blake Williams          4
 Alison Wilmore          5
+# ics
+#Cédric Succivalli     0.5
+David Acacia            8
+Aldo Álvareztostado     7
+Marc van de Klashorst   7
+#Diego Battle           6
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         8
+Dana Keith             
+D W Mault               6
+Eren Odabasi            10
+#Regnier                0.5
+Clarence Tsui           4
+#Blake Williams         
 #l
 Eli Hayes           10
 FilmLandEmpire      10
@@ -981,6 +1109,21 @@ Isabelle Regnier
 Cédric Succivalli       
 Blake Williams          
 Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
 #l
 winteracting        10
 
@@ -1025,6 +1168,21 @@ Isabelle Regnier
 Cédric Succivalli       
 Blake Williams          
 Alison Wilmore          7
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            7
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
 #
 Tim Grierson                http://www.screendaily.com/reviews/paterson-cannes-review/5104000.article?blocktitle=REVIEWS&contentID=40296
 #l
@@ -1100,6 +1258,21 @@ Isabelle Regnier
 Cédric Succivalli       
 Blake Williams          
 Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
 #
 Leslie Felperin        6   http://www.hollywoodreporter.com/review/julieta-film-review-881691
 Letterboxd _162_Users  7   http://letterboxd.com/film/julieta/ratings/
@@ -1194,7 +1367,7 @@ Alberto Sáez Villarino 7
 # critic.de
 Frédéric Jaeger     2.5
 Rüdiger Suchsland    6
-# Le film français 0-4
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 9
 Thierry Chèze         7.5
@@ -1235,7 +1408,7 @@ Andrey Arnold         2.5
 Frédéric Jaeger     5
 #Rüdiger Suchsland    2.5
 Alexandra Zawia       6
-# Le film français 0-4
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
 Thierry Chèze         2.5
@@ -1277,7 +1450,7 @@ Alejandra Trelles       6
 Frédéric Jaeger     6
 Till Kadritzke        7.5
 Michael Kienzl        5
-# Le film français 0-4
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 7.5
 Thierry Chèze         5
@@ -1316,7 +1489,7 @@ Javier H. Estrada     4
 Pablo Scholz            5.5
 José Luis Losa       4
 Ángel Quintana       4.5
-# Le film français 0-4
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 2.5
 Thierry Chèze           5
@@ -1386,7 +1559,7 @@ Anthony Magnoni     2
 Cecilia Barrionuevo     7.5
 Fernando Ganzo          7
 Raúl Camargo           10
-# Le film français 0-4
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
 Thierry Chèze            
@@ -1409,8 +1582,8 @@ Christophe Carriére
 Roger Koza              5.5
 Javier H. Estrada       6.5
 # critic.de
-Blake Williams        6
-# Le film français 0-4
+Blake Williams          6
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
 Thierry Chèze            9
@@ -1454,7 +1627,7 @@ Alberto Sáez Villarino 7
 Alejandra Trelles       6
 # critic.de
 Rüdiger Suchsland    5
-# Le film français 0-4
+# Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
 Thierry Chèze            
@@ -1896,7 +2069,7 @@ Lukas Stern           6
 Anke Westphal         5
 Blake Williams        5
 Alexandra Zawia       2.5
-# Le film français 0-4
+# Le film français
 Frédéric Foubert      2.5  
 Jean-Claude Raspiergeas 5
 Thierry Chèze         5
@@ -1922,6 +2095,7 @@ Guy Lodge             4     https://twitter.com/GuyLodge/status/7304006780703334
 Filmoforia MT               http://www.filmuforia.co.uk/cafe-society-2016-cannes-2016/   
 Jessica Kiang         6     http://theplaylist.net/cannes-review-woody-allens-cafe-society-charming-film-years-20160511/
 Jordan Cronk          6     https://twitter.com/JordanCronk/status/730334029648670720
+David Acacia                http://icsfilm.org/features/cannes-2016-cafe-society-woody-allen/
 # l
 VincentLan          9
 Electr0cuted        9
@@ -2185,6 +2359,8 @@ Alejandra Trelles       2
 Pamela Biénzobas     7.5
 Violeta Kovacsics     6
 Alexandra Zawia       5
+#
+Aldo Álvareztostado         http://icsfilm.org/reviews/cannes-2016-neruda-pablo-larrain/
 #l
 Philip Buatti       10
 FilmLandEmpire      10
@@ -2282,7 +2458,8 @@ Pamela Biénzobas     6
 Blake Williams        5
 #Alexandra Zawia       4
 #
-Rory O'Connor       4    https://thefilmstage.com/reviews/cannes-review-sweet-dreams/
+Rory O'Connor       4       https://thefilmstage.com/reviews/cannes-review-sweet-dreams/
+Marc van de Klashorst	    http://icsfilm.org/reviews/cannes-2016-fai-bei-sogni-marco-bellocchio/
 #l
 Carlota Moseguí    8
 VOSrevista          7
@@ -2347,6 +2524,7 @@ Violeta Kovacsics     5
 #
 Film Francais            http://www.lefilmfrancais.com/cinema/127761/cannes-2016-entretien-avec-jean-des-forets-producteur-de-grave
 Catherine Bray           https://variety.com/2016/film/reviews/raw-review-1201774875/
+Marc van de Klashorst	 http://icsfilm.org/reviews/cannes-2016-raw-julia-ducournau/
 #l
 Crayfish            8
 Screen-Space        8
@@ -2558,10 +2736,9 @@ Cédric Succivalli (International Cinephil Society, France)
 Blake Williams (Ioncinema.com, Canada)
 Alison Wilmore (Buzzfeed, USA)
 ";
-#
+# Le film français 0-4
 $critics_group[2] = "Le film français";
 $critics[2] = "
-# Le film français 0-4
 Frédéric Foubert (Premiere, France)     
 Jean-Claude Raspiergeas (la Croix, France)
 Thierry Chèze (Studio ciné live, France)        
@@ -2615,11 +2792,14 @@ Nino Klingler (critic.de, Deutschland)
 $critics_group[5] = "ICSfilm panel";
 $critics[5] = "
 Cédric Succivalli (International Cinephil Society, France)
-Marc van de Klashorst (International Cinephil Society, Netherlands)
 David Acacia (International Cinephil Society, Canada)
-Eren Odabasi (International Cinephil Society, Turkey)
-David Honorat (International Cinephil Society, France)
+Aldo Álvareztostado (International Cinephil Society, Mexico)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+David Honnorat (International Cinephil Society, France)
 Christophe Beney (Accreds, France)
+Dana Keith (International Cinephil Society, USA)
+D W Mault (International Cinephil Society, UK)
+Eren Odabasi (International Cinephil Society, Turkey)
 ";
 # $critics_group[6] = "TF1.fr";
 $critics[6] = "
