@@ -353,7 +353,7 @@ Alberto Sáez Villarino 6.5
 Alejandra Trelles       5.5
 # critic.de
 Andrey Arnold         7.5
-Frédéric Jaeger     7.5     http://www.critic.de/film/ma-loute-9566/
+Frédéric Jaeger       7.5     http://www.critic.de/film/ma-loute-9566/
 Till Kadritzke        5
 #Daniel Kasman         4
 Michael Kienzl        7.5
@@ -753,7 +753,7 @@ Violeta Kovacsics     9
 Lukas Stern           9
 Rüdiger Suchsland    9
 Anke Westphal         6
-Blake Williams        9
+Blake Williams        9       http://filmmakermagazine.com/98493-cannesdispatch-1-sieranevada-staying-vertical-slack-bay-toni-erdmann/
 #Alexandra Zawia       9
 # Le film français 0-4
 Frédéric Foubert        7.5
@@ -866,6 +866,7 @@ Alberto Sáez Villarino 5
 # critic.de
 Frédéric Jaeger     2.5
 Lukas Stern           1       http://www.critic.de/film/mal-de-pierres-9727/
+Anke Westphal         4
 Blake Williams        2.5
 #zawia
 #
@@ -983,6 +984,7 @@ Pedro Butcher           5
 Alberto Sáez Villarino 5.5
 Alejandra Trelles       9
 # critic.de
+Andrey Arnold         4
 Frédéric Jaeger     4
 Till Kadritzke        9       http://www.critic.de/film/american-honey-9722/
 #Daniel Kasman         4
@@ -1068,6 +1070,14 @@ Fernando Ganzo          4
 Alejandro G. Calvo      7
 Raúl Camargo           5
 Ángel Quintana         8
+# critic.de
+Andrey Arnold         5
+Frédéric Jaeger     6
+Till Kadritzke        7.5
+Michael Kienzl        6
+Lukas Stern           7.5
+Anke Westphal         6
+Blake Williams        2.5
 # Le film français 0-4
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -1154,9 +1164,12 @@ José Luis Losa         7
 Pedro Butcher           8.5
 Alberto Sáez Villarino 8
 # critic.de
-Daniel Kasman         7.5
+Andrey Arnold         6
+Frédéric Jaeger     7.5
+#Daniel Kasman         7.5
 Michael Kienzl        2.5
 #Boris Nelepo          6
+Anke Westphal         7.5
 Blake Williams        7.5
 #ioncinema 0-5
 Nicolas Bell            
@@ -1634,6 +1647,7 @@ José Luis Losa         5.5
 Alberto Sáez Villarino 7
 Alejandra Trelles       6
 # critic.de
+#Daniel Kasman         4
 Rüdiger Suchsland    5
 # Le film français
 Frédéric Foubert        
@@ -1665,6 +1679,7 @@ Carlos F. Heredero      5
 José Luis Losa         4.5
 Ángel Quintana         5.5
 # critic.de
+Frédéric Jaeger     5
 Blake Williams        7.5
 #l
 Ostin Fam           8
@@ -2549,8 +2564,11 @@ VellutoGrigio       4
 
 "MIMOSAS" (Oliver Laxe) [Semaine]
 
+#todas
 Jaime Pena            9
 Gustavo Beck          6
+# critic.de
+Blake Williams        6
 #l
 Juan Soto           8
 Matilda Muybridge   8
