@@ -369,7 +369,7 @@ Lukas Stern           7.5
 Rüdiger Suchsland    7.5
 Anke Westphal         6
 Blake Williams        7.5
-#Alexandra Zawia       5
+#Alexandra Zawia       6
 # Le film français 0-4
 Frédéric Foubert      7.5
 Jean-Claude Raspiergeas 5
@@ -506,7 +506,7 @@ Alejandra Trelles       6
 # critic.de
 Frédéric Jaeger       7.5
 Till Kadritzke        4
-Lukas Stern           6
+Lukas Stern           6    http://www.critic.de/film/i-daniel-blake-9731/
 #Rüdiger Suchsland    5
 Anke Westphal         7.5
 # Le film français 0-4
@@ -1083,7 +1083,7 @@ Marc van de Klashorst   7
 #Nicholas Bell          
 #Chris Beney           
 David Honnorat          8
-Dana Keith             
+Dana Keith              6
 D W Mault               6
 Eren Odabasi            10
 Isabelle Regnier        0.5
@@ -1148,9 +1148,11 @@ Alberto Sáez Villarino 7
 Andrey Arnold         5
 Frédéric Jaeger     6
 Till Kadritzke        7.5
+Daniel Kasman         1
 Michael Kienzl        6
-Lukas Stern           7.5
-Anke Westphal         6
+Lukas Stern           7.5     http://www.critic.de/film/loving-9732/
+Rüdiger Suchsland    2.5
+Anke Westphal         5
 Blake Williams        2.5
 # Le film français
 Frédéric Foubert        5
@@ -1199,20 +1201,20 @@ Cédric Succivalli
 Blake Williams          
 Alison Wilmore          
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
+Cédric Succivalli     9
+David Acacia           3 
+Aldo Álvareztostado     5
+Marc van de Klashorst   3
+#Diego Battle           7
+#Nicholas Bell          5
 #Chris Beney           
 David Honnorat         
-Dana Keith             
+Dana Keith             5
 D W Mault               
-Eren Odabasi            
-#Regnier                
-Clarence Tsui           
-#Blake Williams         
+Eren Odabasi            8
+#Regnier                9
+Clarence Tsui           6
+#Blake Williams         3
 #l
 Martyn Conterio     10
 FilmLandEmpire      10
@@ -1273,12 +1275,14 @@ Pedro Butcher           8.5
 Alberto Sáez Villarino 8
 # critic.de
 Andrey Arnold         6
-Frédéric Jaeger       7.5   http://www.critic.de/film/paterson-9730/
-#Daniel Kasman        7.5
+Frédéric Jaeger     7.5     http://www.critic.de/film/paterson-9730/
+#Daniel Kasman         7.5
 Michael Kienzl        2.5
-#Boris Nelepo         6
+#Boris Nelepo          6
+Rüdiger Suchsland    6
 Anke Westphal         7.5
 Blake Williams        7.5
+Alexandra Zawia       6
 # Le film français
 Frédéric Foubert        2.5
 Jean-Claude Raspiergeas 2.5
@@ -1326,20 +1330,20 @@ Cédric Succivalli
 Blake Williams          
 Alison Wilmore          7
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
+Cédric Succivalli     7
+David Acacia           6 
+Aldo Álvareztostado     6
 Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
+#Diego Battle           9
+#Nicholas Bell          8
 #Chris Beney           
-David Honnorat         
-Dana Keith             
+David Honnorat         5
+Dana Keith             7
 D W Mault               
 Eren Odabasi            7
-#Regnier                
-Clarence Tsui           
-#Blake Williams         
+#Regnier                3
+Clarence Tsui           6
+#Blake Williams         8
 #
 Tim Grierson                http://www.screendaily.com/reviews/paterson-cannes-review/5104000.article?blocktitle=REVIEWS&contentID=40296
 Michael Sennhauser          http://sennhausersfilmblog.ch/2016/05/15/cannes-16-paterson-von-jim-jarmusch-wettbewerb/
@@ -1374,7 +1378,15 @@ José Luis Losa         1
 Ángel Quintana         8.5
 Alejandra Trelles       3
 # critic.de
+Frédéric Jaeger     5
+Till Kadritzke        7.5
+Michael Kienzl        5
 Violeta Kovacsics     7.5
+Boris Nelepo          5
+Lukas Stern           7.5     http://www.critic.de/film/julieta-9432/
+Anke Westphal         6
+Blake Williams        5
+Alexandra Zawia       2.5
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -1479,8 +1491,34 @@ José Luis Losa         9
 Ángel Quintana         9
 Alberto Sáez Villarino 2.5
 Alejandra Trelles       6.5
+# critic.de
+Andrey Arnold         5
+Frédéric Jaeger     7.5     http://www.critic.de/film/personal-shopper-9723/
+Till Kadritzke        7.5
+Michael Kienzl        7.5
+Boris Nelepo          5
+Lukas Stern           7.5
+Rüdiger Suchsland    9
+Anke Westphal         4
+Blake Williams        6
+Alexandra Zawia       7.5
 #
-Michael Sennhauser           http://sennhausersfilmblog.ch/2016/05/13/cannes-16-ma-loute-von-bruno-dumont-wettbewerb/
+Michael Sennhauser           
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          6
+#Chris Beney           
+David Honnorat         5
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         7
 #l
 Matt Hoffman        10
 Eli Hayes           9
@@ -1504,6 +1542,12 @@ Carlota Moseguí    2
 #todas
 Fernando Ganzo          5
 Gustavo Beck            7
+# critic.de
+Till Kadritzke        4
+Michael Kienzl        7.5
+Boris Nelepo          7.5
+Lukas Stern           6
+Blake Williams        7.5
 # Le film français 0-4
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -1520,8 +1564,27 @@ Gille Kerdreux
 Pascal Mérigeau       
 Danielle Attali       
 Christophe Carriére   
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
 
 "MA' ROSA" (Brillante Mendoza) [Competition]
+
+# critic.de
+Till Kadritzke        7.5
+Michael Kienzl        7.5
 
 "BACALAUREAT" (Cristian Mungiu) [Competition]
 
@@ -1660,7 +1723,7 @@ Alberto Sáez Villarino 8
 Alejandra Trelles       6
 # critic.de
 Frédéric Jaeger     6
-Till Kadritzke        7.5
+Till Kadritzke        7.5   http://www.critic.de/film/uchenik-9748/
 Michael Kienzl        5
 # Le film français
 Frédéric Foubert        
@@ -1841,6 +1904,7 @@ Alejandra Trelles       6
 # critic.de
 #Daniel Kasman         4
 Rüdiger Suchsland    5
+#Blake Williams        2.5
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 7.5
@@ -1876,6 +1940,7 @@ José Luis Losa         4.5
 Ángel Quintana         5.5
 # critic.de
 Frédéric Jaeger     5
+Rüdiger Suchsland    7.5
 Blake Williams        7.5
 # Le film français
 Frédéric Foubert        
@@ -1916,6 +1981,9 @@ Carlos F. Heredero      5
 Eulalia Iglesias        5.5
 José Luis Losa         6
 Alberto Sáez Villarino 6.5
+# critic.de
+Till Kadritzke        4
+Rüdiger Suchsland    2.5
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 7.5
@@ -1958,6 +2026,12 @@ José Luis Losa         7
 Ángel Quintana         7
 Alberto Sáez Villarino 8
 Alejandra Trelles       6.5
+# critic.de
+Andrey Arnold         6
+Frédéric Jaeger     6
+Till Kadritzke        6
+Daniel Kasman         4
+Rüdiger Suchsland    9
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -1986,6 +2060,10 @@ blackdavid _        4
 
 "VOIR DU PAYS (The Stopover)" (Delphine & Muriel Coulin) [Un Certain Regard]
 
+
+# critic.de
+Frédéric Jaeger     4
+Boris Nelepo          6
 #l
 Pieter Vermeersch   3
 
@@ -2670,7 +2748,8 @@ José Luis Losa       5.5
 Ángel Quintana       6
 # critic.de
 Frédéric Jaeger     6
-Lukas Stern           7.5
+#Violeta Kovacsics     7.5
+Lukas Stern           7.5   http://www.critic.de/film/leconomie-du-couple-9770/
 #l
 paolawt             8
 Katherine McLaughlin 8
@@ -2798,6 +2877,9 @@ Screen-Space        5
 
 #todas
 Javier H. Estrada       5.5
+# critic.de
+Till Kadritzke        1
+Lukas Stern           1
 #l
 Sarah               6
 David Ehrlich       5       https://letterboxd.com/davidehrlich/film/tour-de-france/
