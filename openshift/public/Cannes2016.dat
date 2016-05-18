@@ -1453,7 +1453,7 @@ Isabelle Regnier      1
 Philippe Rouyer       2.5
 Pierre Vavasseur      
 Pierre Murat         7.5
-Florence Ben Sadoun   
+Florence Ben Sadoun   5
 Serge Kaganski        5
 Gille Kerdreux        9
 Pascal Mérigeau       9
@@ -1465,7 +1465,6 @@ Fabio Ferzetti             9
 Kong Rithdee               7.5
 Julien Gester/Didier Peron  5
 Jan Schulz-Ojala            9
-#Mahnola Dargis              
 Stephanie Zacharek          9
 Justin Chang                9
 Nick James                  9
@@ -1579,21 +1578,21 @@ Anke Westphal         6
 Blake Williams        5
 Alexandra Zawia       2.5
 # Le film français
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
-Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat         
-Florence Ben Sadoun   
-Serge Kaganski        
-Gille Kerdreux        
-Pascal Mérigeau       
-Danielle Attali       
-Christophe Carriére   
+Frédéric Foubert        7.5
+Jean-Claude Raspiergeas 7.5
+Thierry Chèze           7.5
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5
+Isabelle Regnier      5
+Philippe Rouyer       9
+Pierre Vavasseur      5
+Pierre Murat         7.5
+Florence Ben Sadoun   2.5
+Serge Kaganski        7.5
+Gille Kerdreux        9
+Pascal Mérigeau       7.5
+Danielle Attali       9
+Christophe Carriére   2.5
 # screen daily 0-4
 Michel Ciment               9
 Fabio Ferzetti             2.5
@@ -1722,6 +1721,22 @@ Lukas Stern           7.5
 Anke Westphal         4
 Blake Williams        6
 Alexandra Zawia       7.5
+# Le film français 0-4
+Frédéric Foubert        1
+Jean-Claude Raspiergeas 1
+Thierry Chèze           9
+Eric Neuhoff          1
+Stéphane Delorme      2.5
+Isabelle Regnier      1
+Philippe Rouyer       5
+Pierre Vavasseur      2.5
+Pierre Murat          2.5
+Florence Ben Sadoun   1
+Serge Kaganski        5
+Gille Kerdreux        1
+Pascal Mérigeau       2.5
+Danielle Attali       1
+Christophe Carriére   1
 # screen daily 0-4
 Michel Ciment               7.5
 Fabio Ferzetti             5
@@ -1823,19 +1838,19 @@ Boris Nelepo          7.5
 Lukas Stern           6
 Blake Williams        7.5
 # Le film français 0-4
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
+Frédéric Foubert        7.5
+Jean-Claude Raspiergeas 7.5
+Thierry Chèze         7.5
 Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
+Stéphane Delorme      7.5
+Isabelle Regnier      7.5
+Philippe Rouyer       5
 Pierre Vavasseur      
-Pierre Murat         
+Pierre Murat          5
 Florence Ben Sadoun   
-Serge Kaganski        
+Serge Kaganski        5
 Gille Kerdreux        
-Pascal Mérigeau       
+Pascal Mérigeau       7.5
 Danielle Attali       
 Christophe Carriére   
 # screen daily 0-4
@@ -2757,19 +2772,19 @@ Frédéric Jaeger     5
 #Blake Williams        7.5
 # Le film français
 Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze            
-Eric Neuhoff          2.5
-Stéphane Delorme      
-Isabelle Regnier      2.5
+Jean-Claude Raspiergeas 5
+Thierry Chèze           2.5
+Eric Neuhoff          
+Stéphane Delorme      2.5
+Isabelle Regnier      
 Philippe Rouyer       
 Pierre Vavasseur      
-Pierre Murat         
-Florence Ben Sadoun   1
+Pierre Murat          1
+Florence Ben Sadoun   5
 Serge Kaganski        
-Gille Kerdreux        
+Gille Kerdreux        5
 Pascal Mérigeau       1
-Danielle Attali       1
+Danielle Attali       
 Christophe Carriére   
 #l
 Ostin Fam           8
@@ -2808,15 +2823,15 @@ Jean-Claude Raspiergeas 7.5
 Thierry Chèze            
 Eric Neuhoff          5
 Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       1
-Pierre Vavasseur      5
-Pierre Murat         
+Isabelle Regnier      5
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat          1
 Florence Ben Sadoun   5
 Serge Kaganski        
 Gille Kerdreux        2.5
 Pascal Mérigeau       
-Danielle Attali       
+Danielle Attali       2.5
 Christophe Carriére   
 #l
 tombeet             8
@@ -2931,9 +2946,9 @@ Pamela Bienzobas        6.5
 Eulalia Iglesias        6
 Alberto Sáez Villarino 7
 # Le film français
-Frédéric Foubert        
+Frédéric Foubert        5
 Jean-Claude Raspiergeas 
-Thierry Chèze            
+Thierry Chèze            2.5
 Eric Neuhoff          
 Stéphane Delorme      
 Isabelle Regnier      
