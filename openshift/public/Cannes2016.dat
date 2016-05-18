@@ -1592,18 +1592,18 @@ Pascal Mérigeau
 Danielle Attali       
 Christophe Carriére   
 # screen daily 0-4
-Michel Ciment               
-Fabio Ferzetti             
-Kong Rithdee               
-Julien Gester/Didier Peron  
-Jan Schulz-Ojala            
+Michel Ciment               9
+Fabio Ferzetti             2.5
+Kong Rithdee               5
+Julien Gester/Didier Peron  5
+Jan Schulz-Ojala            2.5
 Mahnola Dargis              
-Stephanie Zacharek          
-Justin Chang                
-Nick James                  
-Tim Robey/Robbie Collin     
-Anton Dolin                 
-Screen International        
+Stephanie Zacharek          7.5
+Justin Chang                5
+Nick James                  7.5
+Tim Robey/Robbie Collin     7.5
+Anton Dolin                 7.5
+Screen International        7.5
 #ioncinema 0-5
 Nicolas Bell            
 Christophe Beney        
@@ -1622,20 +1622,20 @@ Cédric Succivalli
 Blake Williams          
 Alison Wilmore          
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
-#Chris Beney           
+Cédric Succivalli     10
+David Acacia            10
+Aldo Álvareztostado     8
+Marc van de Klashorst   8
+#Diego Battle           8
+#Nicholas Bell          5
+#Chris Beney           8
 David Honnorat         
 Dana Keith             
-D W Mault               
-Eren Odabasi            
-#Regnier                
+D W Mault               7
+Eren Odabasi            6
+#Regnier                8
 Clarence Tsui           
-#Blake Williams         
+#Blake Williams         5
 #@ChineseGrid
 Guojie                  
 Kate                    
@@ -1717,19 +1717,30 @@ Lukas Stern           7.5
 Anke Westphal         4
 Blake Williams        6
 Alexandra Zawia       7.5
-#
-Michael Sennhauser           
+# screen daily 0-4
+Michel Ciment               7.5
+Fabio Ferzetti             5
+Kong Rithdee               7.5
+Julien Gester/Didier Peron  5
+Jan Schulz-Ojala            1
+Mahnola Dargis              9
+Stephanie Zacharek          7.5
+Justin Chang                7.5
+Nick James                  7.5
+Tim Robey/Robbie Collin     7.5
+Anton Dolin                 1
+Screen International        5
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
-#Diego Battle           
+Cédric Succivalli       10
+David Acacia            10
+Aldo Álvareztostado     10
+Marc van de Klashorst   9
+#Diego Battle           6
 #Nicholas Bell          6
 #Chris Beney           
 David Honnorat         5
-Dana Keith             
-D W Mault               
+Dana Keith             6
+D W Mault               7
 Eren Odabasi            
 #Regnier                
 Clarence Tsui           
@@ -1819,21 +1830,33 @@ Gille Kerdreux
 Pascal Mérigeau       
 Danielle Attali       
 Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             9
+Kong Rithdee               7.5
+Julien Gester/Didier Peron  7.5
+Jan Schulz-Ojala            
+Stephanie Zacharek          7.5
+Justin Chang                7.5
+Nick James                  
+Tim Robey/Robbie Collin     9
+Anton Dolin                 5
+Screen International        7.5
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
-#Chris Beney           
-David Honnorat         
-Dana Keith             
-D W Mault               
-Eren Odabasi            10
-#Regnier                
+Cédric Succivalli     8
+David Acacia           8 
+Aldo Álvareztostado     9
+Marc van de Klashorst   8
+#Diego Battle           9
+#Nicholas Bell          8
+#Chris Beney           7
+David Honnorat         9
+Dana Keith             7
+D W Mault               6
+Eren Odabasi            8
+#Regnier                10
 Clarence Tsui           
-#Blake Williams         
+#Blake Williams         7
 #@ChineseGrid
 Guojie                  5
 Kate                    7.5
@@ -1879,6 +1902,67 @@ Frédéric Jaeger     7.5
 Till Kadritzke        7.5
 Michael Kienzl        7.5
 Blake Williams        2.5
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
 #@ChineseGrid
 Guojie                  7.5
 Kate                    5
@@ -1900,12 +1984,316 @@ Blake Williams      3
 
 "LA FILLES INCONNU (The Unknown Girl)" (Jean-Pierre and Luc Dardenne) [Competition]
 
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
+#@ChineseGrid
+Guojie                  
+Kate                    
+Liu Min                 
+Liuying                 
+Emily                   
+Muyan                   
+Shuang                  
+Peter Cat               
+Qin Wan                 
+Tao Tao                 
+Yixiong                 
+Xie Meng                
+HOWIE                   
+
 "JUSTE LA FIN DE MONDE (It’s Only the End of the World)" (Xavier Dolan) [Competition]
+
+# todas
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
+#@ChineseGrid
+Guojie                  
+Kate                    
+Liu Min                 
+Liuying                 
+Emily                   
+Muyan                   
+Shuang                  
+Peter Cat               
+Qin Wan                 
+Tao Tao                 
+Yixiong                 
+Xie Meng                
+HOWIE                   
 
 "BACALAUREAT" (Cristian Mungiu) [Competition]
 
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
+#@ChineseGrid
+Guojie                  
+Kate                    
+Liu Min                 
+Liuying                 
+Emily                   
+Muyan                   
+Shuang                  
+Peter Cat               
+Qin Wan                 
+Tao Tao                 
+Yixiong                 
+Xie Meng                
+HOWIE                   
+
 "THE LAST FACE" (Sean Penn) [Competition]
 
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Chris Beney           
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Regnier                
+Clarence Tsui           
+#Blake Williams         
+#@ChineseGrid
+Guojie                  
+Kate                    
+Liu Min                 
+Liuying                 
+Emily                   
+Muyan                   
+Shuang                  
+Peter Cat               
+Qin Wan                 
+Tao Tao                 
+Yixiong                 
+Xie Meng                
+HOWIE                   
 #l
 gpietri             6
 Søren Huslage       5
@@ -1914,6 +2302,52 @@ Søren Huslage       5
 
 #todas
 Ronald Rovers           8.5
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
 # ics
 Cédric Succivalli     
 David Acacia            
@@ -1929,6 +2363,21 @@ Eren Odabasi            8
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
+#@ChineseGrid
+Guojie                  
+Kate                    
+Liu Min                 
+Liuying                 
+Emily                   
+Muyan                   
+Shuang                  
+Peter Cat               
+Qin Wan                 
+Tao Tao                 
+Yixiong                 
+Xie Meng                
+HOWIE                   
+#l
 
 "THE NEON DEMON" (Nicholas Anders Refn) [Competition]
 
