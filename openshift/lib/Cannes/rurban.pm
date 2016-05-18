@@ -444,7 +444,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      next if /^(IMDB|Letterbox) \d+/;
+      next if /^(IMDB|Letterboxd?) _?\d+/;
       my $c;
       if ($critic{$_}->{mag}) {
         $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
@@ -453,6 +453,7 @@ sub _dump {
           $c = sprintf("%s (%s)", $_, $critic{$_}->{cn});
         } else {
           $c = $_;
+          next if $n == 1;
         }
       }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
