@@ -147,7 +147,7 @@ Eren Odabasi            7
 #Regnier                9
 Clarence Tsui           7
 #Blake Williams         7
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  7.5
 Kate                    7.5
 Liu Min                 5
@@ -312,7 +312,7 @@ Eren Odabasi            7
 #Regnier                4
 Clarence Tsui           8
 #Blake Williams         4
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  5
 Kate                    5
 Liu Min                 7.5
@@ -466,7 +466,7 @@ Eren Odabasi            4
 #Regnier                8
 Clarence Tsui           6
 #Blake Williams         8
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  5
 Kate                    7.5
 Liu Min                 7.5
@@ -621,7 +621,7 @@ Eren Odabasi            4
 #Regnier                5
 Clarence Tsui           6
 #Blake Williams         7
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  7.5
 Kate                    9
 Liu Min                 7.5
@@ -755,7 +755,7 @@ Eren Odabasi            8
 #Regnier                5
 Clarence Tsui           
 #Blake Williams         4
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  5
 Kate                    5
 Liu Min                 
@@ -923,7 +923,7 @@ Eren Odabasi            9
 #Regnier                9
 Clarence Tsui           6
 #Blake Williams         10
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  9
 Kate                    5
 Liu Min                 7.5
@@ -1062,7 +1062,7 @@ Eren Odabasi            5
 #Regnier                3
 Clarence Tsui           5
 #Blake Williams         2
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  5
 Kate                    1
 Liu Min                 5
@@ -1210,7 +1210,7 @@ Eren Odabasi            10
 Isabelle Regnier        0.5
 Clarence Tsui           4
 #Blake Williams         
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  1
 Kate                    7.5
 Liu Min                 5
@@ -1358,7 +1358,7 @@ Eren Odabasi            8
 #Regnier                9
 Clarence Tsui           6
 #Blake Williams         3
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  2.5
 Kate                    5
 Liu Min                 
@@ -1514,7 +1514,7 @@ Eren Odabasi            7
 #Regnier                3
 Clarence Tsui           6
 #Blake Williams         8
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  7.5
 Kate                    2.5
 Liu Min                 7.5
@@ -1652,7 +1652,7 @@ Eren Odabasi            6
 #Regnier                8
 Clarence Tsui           
 #Blake Williams         5
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  
 Kate                    
 Liu Min                 
@@ -1787,7 +1787,7 @@ Eren Odabasi
 #Regnier                
 Clarence Tsui           
 #Blake Williams         7
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  5
 Kate                    2.5
 Liu Min                 5
@@ -1907,7 +1907,7 @@ Eren Odabasi            8
 #Regnier                10
 Clarence Tsui           
 #Blake Williams         7
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  5
 Kate                    7.5
 Liu Min                 5
@@ -2031,20 +2031,20 @@ Eren Odabasi
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
-#@ChineseGrid
-Guojie                  
-Kate                    
-Liu Min                 
-Liuying                 
-Emily                   
+# Chinese @CriticsGrid
+Guojie                  7.5
+Kate                    5
+Liu Min                 5
+Liuying                 5
+Emily                   7.5
 Muyan                   
-Shuang                  
-Peter Cat               
-Qin Wan                 
-Tao Tao                 
-Yixiong                 
-Xie Meng                
-HOWIE                   
+Shuang                  5
+Peter Cat               5
+Qin Wan                 5
+Tao Tao                 5
+Yixiong                 5
+Xie Meng                5
+HOWIE                   5
 
 "MA' ROSA" (Brillante Mendoza) [Competition]
 
@@ -2134,7 +2134,7 @@ Eren Odabasi
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  7.5
 Kate                    5
 Liu Min                 
@@ -2231,19 +2231,19 @@ Eren Odabasi
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
-#@ChineseGrid
-Guojie                  
-Kate                    
-Liu Min                 
-Liuying                 
-Emily                   
-Muyan                   
-Shuang                  
-Peter Cat               
-Qin Wan                 
-Tao Tao                 
-Yixiong                 
-Xie Meng                
+# Chinese @CriticsGrid
+Guojie                  7.5
+Kate                    7.5
+Liu Min                 9
+Liuying                 1
+Emily                   2.5
+Muyan                   2.5
+Shuang                  1
+Peter Cat               5
+Qin Wan                 7.5
+Tao Tao                 2.5
+Yixiong                 2.5
+Xie Meng                5
 HOWIE                   
 
 "BACALAUREAT" (Cristian Mungiu) [Competition]
@@ -2309,7 +2309,7 @@ Eren Odabasi
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  
 Kate                    
 Liu Min                 
@@ -2387,7 +2387,7 @@ Eren Odabasi
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  
 Kate                    
 Liu Min                 
@@ -2470,7 +2470,7 @@ Eren Odabasi            8
 #Regnier                
 Clarence Tsui           
 #Blake Williams         
-#@ChineseGrid
+# Chinese @CriticsGrid
 Guojie                  
 Kate                    
 Liu Min                 
