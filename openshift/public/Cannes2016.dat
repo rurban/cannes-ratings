@@ -234,6 +234,7 @@ Violeta Kovacsics       8
 Pablo Scholz            8
 José Luis Losa         9
 Gustavo Beck            8
+Raúl Camargo           10
 Ángel Quintana         8.5
 Dennis Lim              8.5
 Alberto Sáez Villarino 7.5
@@ -362,7 +363,7 @@ Dillon Freeman      3
 
 "MA LOUTE (Slack Bay)" (Bruno Dumont) [Competition]
 
-#todas
+# todas
 Roger Koza              7.5
 Jaime Pena              8
 Daniel Kasman           5   http://mubi.com/notebook/posts/cannes-2016-bruno-dumont-s-slack-bay
@@ -541,7 +542,7 @@ AntCo               1
 
 "I, DANIEL BLAKE" (Ken Loach) [Competition]
 
-#todas
+# todas
 José Luis De Lorenzo   5
 Rüdiger Suchsland      5.5
 Fernando Juan Lima      4.5
@@ -678,7 +679,7 @@ Dillon Freeman      2
 "AGASSI (아가씨, The Handmaid, Mademoiselle)" (Park Chan-wook) [Competition]
 # "Lady" - Adaption of Sarah Waters novel
 
-#todas
+# todas
 Roger Koza              4
 Jaime Pena              4.5
 Daniel Kasman           3
@@ -826,7 +827,7 @@ Carlota Moseguí    2
 
 "TONI ERDMANN" (Maren Ade) [Competition]
 
-#todas
+# todas
 Roger Koza              9
 Jaime Pena              10
 Daniel Kasman           8.5     http://mubi.com/notebook/posts/cannes-2016-maren-ade-s-toni-erdmann
@@ -995,7 +996,7 @@ Lee Marshall        9     http://www.screendaily.com/reviews/toni-erdmann-cannes
 "MAL DE PIERRES (From the Land of the Moon)" (Nicole Garcia) [Competition]
 # Milena Agus novel "Mal di Pietre"
 
-#todas
+# todas
 Roger Koza              4
 Jaime Pena              3.5
 Fredy Friedlander       6
@@ -1123,7 +1124,7 @@ karamazov           1
 
 "AMERICAN HONEY" (Andrea Arnold) [Competition]
 
-#todas
+# todas
 Roger Koza              6
 Jaime Pena              5
 Daniel Kasman           5.5
@@ -1435,7 +1436,7 @@ Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/ein
 
 "PATERSON" (Jim Jarmusch) [Competition]
 
-#todas
+# todas
 Roger Koza              8
 Jaime Pena              9
 Daniel Kasman           8
@@ -1581,11 +1582,12 @@ Aaron Salazar       3
 
 "JULIETA" (Pedro Almodovar) [Competition]
 
-#todas
+# todas
 Roger Koza              5.5
 Jaime Pena              9
 José Luis De Lorenzo   5
 Diego Lerer             6.5
+Fredy Friedlander       7
 Diego Batlle            7
 Cecilia Barrionuevo     6
 Carlos Reviriego        9
@@ -1989,6 +1991,7 @@ Jaime Pena              6
 Daniel Kasman           6
 José Luis De Lorenzo   6
 Diego Lerer             5.5
+Fredy Friedlander       5
 Diego Batlle            6
 Cecilia Barrionuevo     5.5
 Carlos Reviriego        5.5
@@ -2231,13 +2234,97 @@ Blake Williams      3
 #
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-dardennes-mendoza-filho.html
 
+"BACALAUREAT" (Cristian Mungiu) [Competition]
+
+# todas
+Roger Koza              6
+Cecilia Barrionuevo     5.5
+Boris Nelepo            7
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze         
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
+# screen daily 0-4
+Michel Ciment               
+Fabio Ferzetti             
+Kong Rithdee               
+Julien Gester/Didier Peron  
+Jan Schulz-Ojala            
+Mahnola Dargis              
+Stephanie Zacharek          
+Justin Chang                
+Nick James                  
+Tim Robey/Robbie Collin     
+Anton Dolin                 
+Screen International        
+#ioncinema 0-5
+Nicolas Bell            
+Christophe Beney        
+David Calhoun           
+Per Juul Carlsen        
+Mike d'Angelo           
+Jean-Philippe Guerand   
+Carlos F. Heredero         
+Jessica Kiang              
+Eric Kohn               
+Fabien Lemercier        
+Marc-André Lussier      
+Liu Min                 
+Isabelle Regnier        
+Cédric Succivalli       
+Blake Williams          
+Alison Wilmore          
+# ics
+Cédric Succivalli     
+David Acacia            
+Aldo Álvareztostado     
+Marc van de Klashorst   
+#Diego Battle           
+#Nicholas Bell          
+#Christophe Beney        
+David Honnorat         
+Dana Keith             
+D W Mault               
+Eren Odabasi            
+#Isabelle Regnier                
+Clarence Tsui           
+#Blake Williams         
+# Chinese @CriticsGrid
+Guojie                  
+Kate                    
+Liu Min                 
+Liuying                 
+Emily                   
+Muyan                   
+Shuang                  
+Peter Cat               
+Qin Wan                 
+Tao Tao                 
+Yixiong                 
+Xie Meng                
+HOWIE                   
+
 "JUSTE LA FIN DE MONDE (It’s Only the End of the World)" (Xavier Dolan) [Competition]
 
 # todas
 Roger Koza              3.5
 Daniel Kasman           3
 Diego Lerer             1
+Fredy Friedlander       4
 Diego Batlle            4.5
+Alexandra Zawia         1
 Alejandro G. Calvo      4
 Gerard Casau            6
 Carlos F. Heredero      4.5
@@ -2333,84 +2420,6 @@ Crayfish            4
 Mike d'Angelo       4
 Blake Williams      3
 
-
-"BACALAUREAT" (Cristian Mungiu) [Competition]
-
-# Le film français
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
-Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat         
-Florence Ben Sadoun   
-Serge Kaganski        
-Gille Kerdreux        
-Pascal Mérigeau       
-Danielle Attali       
-Christophe Carriére   
-# screen daily 0-4
-Michel Ciment               
-Fabio Ferzetti             
-Kong Rithdee               
-Julien Gester/Didier Peron  
-Jan Schulz-Ojala            
-Mahnola Dargis              
-Stephanie Zacharek          
-Justin Chang                
-Nick James                  
-Tim Robey/Robbie Collin     
-Anton Dolin                 
-Screen International        
-#ioncinema 0-5
-Nicolas Bell            
-Christophe Beney        
-David Calhoun           
-Per Juul Carlsen        
-Mike d'Angelo           
-Jean-Philippe Guerand   
-Carlos F. Heredero         
-Jessica Kiang              
-Eric Kohn               
-Fabien Lemercier        
-Marc-André Lussier      
-Liu Min                 
-Isabelle Regnier        
-Cédric Succivalli       
-Blake Williams          
-Alison Wilmore          
-# ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
-#Christophe Beney        
-David Honnorat         
-Dana Keith             
-D W Mault               
-Eren Odabasi            
-#Isabelle Regnier                
-Clarence Tsui           
-#Blake Williams         
-# Chinese @CriticsGrid
-Guojie                  
-Kate                    
-Liu Min                 
-Liuying                 
-Emily                   
-Muyan                   
-Shuang                  
-Peter Cat               
-Qin Wan                 
-Tao Tao                 
-Yixiong                 
-Xie Meng                
-HOWIE                   
 
 "THE LAST FACE" (Sean Penn) [Competition]
 
@@ -3102,6 +3111,7 @@ Fredy Friedlander       7
 Diego Batlle            7.5
 Carlos Reviriego        7.5
 Luciano Monteagudo      6.5
+Alexandra Zawia         5
 Alejandro G. Calvo      6.5
 Carlos F. Heredero      7
 Ronald Rovers           7.5
@@ -3205,6 +3215,7 @@ Pieter Vermeersch   5
 
 # todas
 Roger Koza              5
+Fredy Friedlander       5
 José Luis Losa         4.5
 Dennis Lim              6
 # critic.de
@@ -3339,6 +3350,7 @@ Roger Koza              6
 Daniel Kasman           8
 Fernando Juan Lima      8.5
 Diego Lerer             7
+Fredy Friedlander       8
 Giona Nazzaro           8.5
 Diego Batlle            7
 Manu Yañez             10
@@ -3383,15 +3395,15 @@ reedie              2
 Jaime Pena            4
 Diego Lerer           7
 Alexandra Zawia         4.5
-Alejandro G. Calvo    7
-Xavi Serra            7.5
-Carlos F. Heredero    7.5
+Alejandro G. Calvo      7
+Xavi Serra              7.5
+Carlos F. Heredero      7.5
 Pamela Bienzobas        7.5
 Sergi Sanchez           8
 Javier H. Estrada       5.5
 Violeta Kovacsics       7
-José Luis Losa       2
-Raúl Camargo         7.5
+José Luis Losa         2
+Raúl Camargo           7.5
 Dennis Lim              5
 Alberto Sáez Villarino 8
 Alejandra Trelles       2
@@ -3503,7 +3515,7 @@ Mirjam Urban        2
 
 "TOUR DE FRANCE" (Rachid Djaïdani) [Quinzaine]
 
-#todas
+# todas
 Javier H. Estrada       5.5
 # critic.de
 Till Kadritzke        1
@@ -3519,7 +3531,7 @@ AEC                 4
 "MY LIFE AS A ZUCCHINI (Ma vie de Courgette)" (Claude Barras) [Quinzaine] Annecy Prix spéciaux
 - Animation
 
-#todas
+# todas
 Diego Batlle            9
 Carlo Chatrian          6.5
 Pamela Bienzobas        8
@@ -3599,8 +3611,9 @@ Tyler Lee           2
 
 "FIORE" (Claudio Giovannesia) [Quinzaine]
 
+# todas
+Giona Nazzaro           8.5
 Carlo Chatrian          6
-Javier H. Estrada       6.5
 Gerard Casau            5.5
 Javier H. Estrada       6.5
 #l
@@ -3694,7 +3707,7 @@ edissa              2
 
 "RAW (Grave)" (Julia Ducournau) [Semaine]
 
-#todas
+# todas
 Daniel Kasman           7
 Giona Nazzaro           8.5
 Gerard Casau            7.5
@@ -3722,7 +3735,8 @@ VellutoGrigio       4
 
 "DIAMOND ISLAND" (Davy Chou) [Semaine]
 
-Jaime Pena            6.5
+# todas
+Jaime Pena              6.5
 Javier H. Estrada       6
 #l
 VellutoGrigio       7
@@ -3754,9 +3768,10 @@ blackdavid _        5
 
 "ONE WEEK AND A DAY (	שבוע ויום Shavua ve yom)" (Asaph Polonsky) [Semaine]
 
+# todas
 Carlo Chatrian          4
 Pamela Bienzobas        4
-Gustavo Beck          2
+Gustavo Beck            2
 # l
 David Ehrlich       7       https://letterboxd.com/davidehrlich/film/one-week-and-a-day/
 Luc Benito          6
@@ -3850,7 +3865,7 @@ Simon McEnteggart   2
 "LE VOYAGE AU GROENLAND" (Sébastien Betbeder) [ACID]
 - http://www.lacid.org/Le-Voyage-au-Groenland
 
-#todas
+# todas
 Raúl Camargo           5
 #l
 tombeet             6
@@ -3864,6 +3879,7 @@ Raúl Camargo           5.5
 "LE PARC" (Damien Manivel) [ACID]
 - http://www.lacid.org/Le-Parc
 
+# todas
 Roger Koza              7.5
 Carlo Chatrian          7
 Javier H. Estrada       6.5
