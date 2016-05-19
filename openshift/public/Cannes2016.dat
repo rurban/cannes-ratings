@@ -80,7 +80,7 @@ Till Kadritzke        5
 Daniel Kasman         6       http://mubi.com/notebook/posts/cannes-2016-alain-guiraudie-s-staying-vertical
 Michael Kienzl        7.5     http://www.critic.de/film/rester-vertical-9728/
 Violeta Kovacsics     6
-Boris Nelepo          5
+Boris Nelepo          5       http://www.svoboda.org/content/article/27743502.html
 Lukas Stern           5
 Rüdiger Suchsland    7.5
 Anke Westphal         6
@@ -402,7 +402,7 @@ Till Kadritzke        5
 #Daniel Kasman         4
 Michael Kienzl        7.5
 Violeta Kovacsics     6
-#Boris Nelepo          2.5
+Boris Nelepo          2       http://www.svoboda.org/content/article/27743502.html
 Lukas Stern           7.5
 #Rüdiger Suchsland    7.5
 Anke Westphal         6
@@ -1470,11 +1470,11 @@ Dennis Lim              7
 Alberto Sáez Villarino 8
 # critic.de
 Andrey Arnold         6
-Frédéric Jaeger     7.5     http://www.critic.de/film/paterson-9730/
-#Daniel Kasman         7.5
+Frédéric Jaeger       7.5   http://www.critic.de/film/paterson-9730/
+Daniel Kasman         8     http://mubi.com/notebook/posts/cannes-2016-jim-jarmusch-s-paterson
 Michael Kienzl        2.5
-#Boris Nelepo          6
-Rüdiger Suchsland    6
+Boris Nelepo          7.5   http://www.svoboda.org/content/article/27743502.html
+Rüdiger Suchsland     6
 Anke Westphal         7.5
 Blake Williams        7.5
 Alexandra Zawia       6
@@ -1773,7 +1773,7 @@ Andrey Arnold         5
 Frédéric Jaeger     7.5     http://www.critic.de/film/personal-shopper-9723/
 Till Kadritzke        7.5
 Michael Kienzl        7.5
-#Boris Nelepo          5
+Boris Nelepo          4       http://www.svoboda.org/content/article/27743502.html
 Lukas Stern           7.5
 #Rüdiger Suchsland    9
 Anke Westphal         4
@@ -1903,6 +1903,7 @@ Pedro Butcher           9
 Dennis Lim              7.5
 Alberto Sáez Villarino 7.5
 # critic.de
+Andrey Arnold         7.5
 #Pamela Biénzobas     7.5
 Frédéric Jaeger     5
 Till Kadritzke        4
@@ -2014,11 +2015,12 @@ Dennis Lim              6
 Andrey Arnold         5
 Frédéric Jaeger     4
 Till Kadritzke        6
+#Daniel Kasman         5
 Michael Kienzl        5
-Boris Nelepo          5
+#Boris Nelepo          5
 Lukas Stern           7.5
 Anke Westphal         5
-Blake Williams        6
+#Blake Williams        6
 # Le film français
 Frédéric Foubert        2.5
 Jean-Claude Raspiergeas 2.5
@@ -2240,6 +2242,12 @@ Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/ein
 Roger Koza              6
 Cecilia Barrionuevo     5.5
 Boris Nelepo            7
+# critic.de
+Andrey Arnold         6
+Michael Kienzl        5
+#Boris Nelepo          6
+Lukas Stern           6
+Blake Williams        5
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -2334,6 +2342,7 @@ José Luis Losa         7
 Pedro Butcher           2
 # critic.de
 Frédéric Jaeger     9
+Daniel Kasman         1
 Blake Williams        1
 # Le film français
 Frédéric Foubert        
@@ -2585,6 +2594,8 @@ HOWIE
 
 "THE NEON DEMON" (Nicholas Anders Refn) [Competition]
 
+# critic.de
+Lukas Stern           5
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -3293,6 +3304,7 @@ Eulalia Iglesias        6.5
 Gustavo Beck            2
 Raúl Camargo           10
 # critic.de
+Andrey Arnold         6
 Blake Williams        5
 # Le film français
 Frédéric Foubert        
@@ -4182,6 +4194,10 @@ Gerard Casau            7.5
 Carlos F. Heredero      3.5
 José Luis Losa         7
 Raúl Camargo           6
+# critic.de
+Andrey Arnold         4
+Daniel Kasman         4
+Michael Kienzl        7.5
 #l
 Rico Drago          10
 FilmLandEmpire      10
