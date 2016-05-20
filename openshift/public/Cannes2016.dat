@@ -78,7 +78,7 @@ Alberto Sáez Villarino 5
 Alejandra Trelles       7
 !# critic.de
 Andrey Arnold         7.5
-Pamela Biénzobas     6
+Pamela Bienzobas     6
 Frédéric Jaeger     7.5
 Till Kadritzke        5
 Daniel Kasman         6       http://mubi.com/notebook/posts/cannes-2016-alain-guiraudie-s-staying-vertical
@@ -253,7 +253,7 @@ Alberto Sáez Villarino 7.5
 Alejandra Trelles       9.5
 # critic.de
 Andrey Arnold         9
-Pamela Biénzobas     7.5
+Pamela Bienzobas     7.5
 Frédéric Jaeger     9
 Till Kadritzke        7.5
 Daniel Kasman         7       http:///mubi.com/notebook/posts/cannes-2016-cristi-puiu-s-sieranevada
@@ -747,7 +747,7 @@ Alberto Sáez Villarino 9
 Alejandra Trelles       5.5
 # critic.de
 Andrey Arnold         5
-Pamela Biénzobas     5
+Pamela Bienzobas     5
 Daniel Kasman         2.5
 Violeta Kovacsics     5
 Boris Nelepo          4
@@ -910,7 +910,7 @@ Alberto Sáez Villarino 6
 Alejandra Trelles       5
 # critic.de
 Andrey Arnold         9
-Pamela Biénzobas     7.5
+Pamela Bienzobas     7.5
 Frédéric Jaeger     9       http://www.critic.de/film/toni-erdmann-9721/
 Till Kadritzke        9
 #Daniel Kasman         8.5     http://mubi.com/notebook/posts/cannes-2016-maren-ade-s-toni-erdmann
@@ -2032,7 +2032,7 @@ Dennis Lim              7.5
 Alberto Sáez Villarino 7.5
 # critic.de
 Andrey Arnold         7.5
-#Pamela Biénzobas     7.5
+#Pamela Bienzobas     7.5
 Frédéric Jaeger     5
 Till Kadritzke        4
 #Daniel Kasman         6
@@ -2454,7 +2454,10 @@ Alberto Sáez Villarino 7
 Alejandra Trelles       7
 # critic.de
 Andrey Arnold         6
+#Pamela Bienzobas     6
+Frédéric Jaeger     6
 Till Kadritzke        6       http://www.critic.de/film/bacalaureat-9701/
+Daniel Kasman         4
 Michael Kienzl        5
 #Boris Nelepo          6
 Lukas Stern           6
@@ -2599,8 +2602,12 @@ José Luis Losa         7
 Pedro Butcher           2
 Alberto Sáez Villarino 7.5
 # critic.de
-Frédéric Jaeger       9
+#Pamela Bienzobas     2.5
+Frédéric Jaeger     9
+Till Kadritzke        5
 Daniel Kasman         1
+Michael Kienzl        2.5
+Lukas Stern           7.5
 Anke Westphal         6
 Blake Williams        1
 Alexandra Zawia       1
@@ -2726,7 +2733,8 @@ Pamela Bienzobas        2
 Sergi Sanchez           1
 Ángel Quintana         1
 # critic.de
-Lukas Stern           1
+#Pamela Bienzobas     1
+Lukas Stern           1       http://www.critic.de/film/the-last-face-9733/
 Anke Westphal         1
 Alexandra Zawia       1
 # Le film français
@@ -2851,6 +2859,8 @@ Pedro Butcher           7.5
 Alberto Sáez Villarino 9
 Alejandra Trelles       1.5
 # critic.de
+Andrey Arnold         6
+Frédéric Jaeger     7.5     http://www.critic.de/film/the-neon-demon-9644/
 Till Kadritzke        9
 Daniel Kasman         2.5
 Boris Nelepo          7.5
@@ -3058,6 +3068,11 @@ Micah Gottlieb      8
 
 "THE SALESMAN (Foroushande)" (Ashgar Farhadi) [Competition]
 
+# critic.de
+Till Kadritzke        6
+Michael Kienzl        5
+Lukas Stern           5
+Blake Williams        6
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -3165,6 +3180,7 @@ Alberto Sáez Villarino 7
 # critic.de
 Frédéric Jaeger     2.5
 Rüdiger Suchsland    6
+#Alexandra Zawia       2.5
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 9
@@ -3707,6 +3723,8 @@ José Luis Losa         6
 Ángel Quintana         4.5
 Alberto Sáez Villarino 7
 Alejandra Trelles       2
+# critic.de
+#Pamela Bienzobas     6
 # Le film français
 Frédéric Foubert        5
 Jean-Claude Raspiergeas 
@@ -3937,7 +3955,9 @@ Gustavo Beck            4
 Alberto Sáez Villarino 7
 Alejandra Trelles       8.5
 # critic.de
-Boris Nelepo          5
+#Pamela Bienzobas     7.5
+#Boris Nelepo          5
+Blake Williams        4
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -3997,7 +4017,7 @@ Gustavo Beck            4
 Raúl Camargo           8
 # critic.de
 Andrey Arnold         6
-Pamela Biénzobas     6
+Pamela Bienzobas     6
 #Daniel Kasman         7.5
 Boris Nelepo          7.5     http://www.svoboda.org/content/article/27734922.html
 Blake Williams        5
@@ -4040,7 +4060,7 @@ Dennis Lim              5
 Alberto Sáez Villarino 8
 Alejandra Trelles       2
 # critic.de
-Pamela Biénzobas     7.5
+Pamela Bienzobas     7.5
 Violeta Kovacsics     6
 Alexandra Zawia       5
 #
@@ -4139,7 +4159,7 @@ José Luis Losa         4
 Raúl Camargo           2
 Alberto Sáez Villarino 6.5
 # critic.de
-Pamela Biénzobas     2.5
+Pamela Bienzobas     2.5
 Frédéric Jaeger     5
 Till Kadritzke        2.5     http://www.critic.de/film/poesia-sin-fin-9768/
 Michael Kienzl        6
@@ -4188,7 +4208,7 @@ Carlo Chatrian          6.5
 Pamela Bienzobas        8
 Raúl Camargo           10
 # critic.de
-#Pamela Biénzobas     7.5
+#Pamela Bienzobas     7.5
 Michael Kienzl        4
 #l
 Katherine McLaughlin 10
@@ -4244,7 +4264,7 @@ tomsk               8
 VellutoGrigio       7
 Reini Urban         5
 
-"WOLF AND SHEEP" (Shahrbanoo Sadat) [Quinzaine]
+"WOLF AND SHEEP" (Shahrbanoo Sadat) [Quinzaine] Art Cinema Award
 
 # todas
 Carlo Chatrian          6
@@ -4252,7 +4272,7 @@ Pamela Bienzobas        5.5
 Javier H. Estrada       5
 Gustavo Beck            4
 # critic.de
-#Pamela Biénzobas     5
+#Pamela Bienzobas     5
 Michael Kienzl        5
 Blake Williams        5
 #l
@@ -4278,7 +4298,7 @@ Mirjam Urban        6
 Serena Catalano     6
 reedie              2
 
-"THE LIFE AQUATIC (L'effet aquatique)" (Sólveig Anspach) [Quinzaine]
+"THE LIFE AQUATIC (L'effet aquatique)" (Sólveig Anspach) [Quinzaine] Prix SACD
 
 # todas
 Javier H. Estrada       5
@@ -4310,7 +4330,7 @@ Bogdan Bogdan Stamatin 4
 Kurt Walker         3
 James Healey        1
 
-"MERCENAIRE" (Sacha Wolff) [Quinzaine]
+"MERCENAIRE" (Sacha Wolff) [Quinzaine] Europa Cinéma Label Prize
 
 # todas
 Giona Nazzaro           3
@@ -4347,6 +4367,10 @@ edissa              3
 # todas
 Pamela Bienzobas        5.5
 Javier H. Estrada       5
+# critic.de
+#Pamela Bienzobas     5
+Michael Kienzl        2.5
+#
 Jordan Mintzer              http://www.hollywoodreporter.com/review/divines-cannes-review-892705
 Catherine Bray              https://variety.com/2016/film/reviews/divines-film-review-1201778704/
 #l
@@ -4362,9 +4386,11 @@ Boris Nelepo            2.5
 Pedro Butcher           7
 Alberto Sáez Villarino 5.5
 # critic.de
+Frédéric Jaeger     6
 Till Kadritzke        5
 Michael Kienzl        6
 Boris Nelepo          2.5
+Blake Williams        6
 #
 Peter Bradshaw      8       http://www.theguardian.com/film/2016/may/20/dog-eat-dog-review-willem-dafoe-paul-schrader-ed-bunker-cannes
 Peter Debruge               https://variety.com/2016/film/reviews/dog-eat-dog-review-cannes-1201779495/
@@ -4467,6 +4493,7 @@ Jaime Pena              6.5
 Javier H. Estrada       6
 # critic.de
 Till Kadritzke        6
+Blake Williams        5
 #l
 VellutoGrigio       7
 Pieter Vermeersch   7
@@ -4682,7 +4709,7 @@ Alberto Sáez Villarino 7.5
 Alejandra Trelles       7
 # critic.de
 Andrey Arnold         5
-Pamela Biénzobas     2.5
+#Pamela Bienzobas     2.5
 Frédéric Jaeger     4
 Till Kadritzke        6
 Michael Kienzl        4       http://www.critic.de/film/cafe-society-9689/
@@ -5296,6 +5323,7 @@ Gustavo Beck            8
 Raúl Camargo           9
 Ángel Quintana         9.5
 # critic.de
+Andrey Arnold         6
 Frédéric Jaeger     7.5
 Till Kadritzke        7.5
 #Daniel Kasman         6
