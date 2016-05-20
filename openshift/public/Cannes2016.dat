@@ -48,10 +48,12 @@ Diego Lerer             9.5
 Giona Nazzaro           8
 Diego Batlle            8
 Manu Yañez             9
+Andrea Picard           7
 Cecilia Barrionuevo     8
 Carlos Reviriego        7
 Luciano Monteagudo      9
 Alexandra Zawia         8.5
+Alex Vicente            6.5
 Marcelo Alderete        7.5
 Alejandro G. Calvo      7
 Carlo Chatrian          9
@@ -217,10 +219,12 @@ Fredy Friedlander       5.5
 Giona Nazzaro           9
 Diego Batlle            8.5
 Manu Yañez             10
+Andrea Picard           9.5
 Cecilia Barrionuevo     9.5
 Carlos Reviriego        8.5
 Luciano Monteagudo      8.5
 Alexandra Zawia         9.5
+Alex Vicente            7
 Marcelo Alderete        8
 Alejandro G. Calvo      9
 Xavi Serra              8
@@ -378,10 +382,12 @@ Diego Lerer             8
 Giona Nazzaro           7
 Diego Batlle            7
 Manu Yañez             7.5
+Andrea Picard           7.5
 Cecilia Barrionuevo     7
 Carlos Reviriego        7.5
 Luciano Monteagudo      5.5
 Alexandra Zawia         6.5
+Alex Vicente            6.5
 Marcelo Alderete        4
 Alejandro G. Calvo      7.5
 Carlo Chatrian          7.5
@@ -707,6 +713,7 @@ Cecilia Barrionuevo     3
 Carlos Reviriego        4
 Luciano Monteagudo      3.5
 Alexandra Zawia         5
+Alex Vicente            5
 Marcelo Alderete        4.5
 Alejandro G. Calvo      5.5
 Xavi Serra              6
@@ -856,10 +863,12 @@ Fredy Friedlander       8
 Giona Nazzaro           7.5
 Diego Batlle            9
 Manu Yañez             8.5
+Andrea Picard           9
 Cecilia Barrionuevo     9.5
 Carlos Reviriego        9
 Luciano Monteagudo      8.5
 Alexandra Zawia         8.5
+Alex Vicente            7
 Marcelo Alderete        7
 Fernando Ganzo          7.5
 Alejandro G. Calvo      8.5
@@ -1026,6 +1035,7 @@ Jaime Pena              3.5
 Fredy Friedlander       6
 Diego Batlle            5.5
 Alexandra Zawia         4
+Alex Vicente            5
 Marcelo Alderete        3
 Xavi Serra              5
 Carlos F. Heredero      3
@@ -1164,6 +1174,7 @@ Cecilia Barrionuevo     4
 Carlos Reviriego        1.5
 Luciano Monteagudo      5.5
 Alexandra Zawia         3.5
+Alex Vicente            6
 Alejandro G. Calvo      5.5
 Xavi Serra              5
 Gerard Casau            5.5
@@ -1323,6 +1334,7 @@ Cecilia Barrionuevo     4
 Carlos Reviriego        7
 Luciano Monteagudo      5
 Alexandra Zawia         6
+Alex Vicente            7
 Marcelo Alderete        4
 Fernando Ganzo          4
 Alejandro G. Calvo      7
@@ -1481,10 +1493,12 @@ Fredy Friedlander       7
 Giona Nazzaro           9
 Diego Batlle            9
 Manu Yañez             8.5
+Andrea Picard           6
 Cecilia Barrionuevo     9
 Carlos Reviriego        10
 Luciano Monteagudo      8
 Alexandra Zawia         6.5
+Alex Vicente            8
 Marcelo Alderete        9
 Fernando Ganzo          9
 Alejandro G. Calvo      10
@@ -1637,6 +1651,7 @@ Cecilia Barrionuevo     6
 Carlos Reviriego        9
 Luciano Monteagudo      5
 Alexandra Zawia         4
+Alex Vicente            7
 Fernando Ganzo          6
 Alejandro G. Calvo      9
 Xavi Serra              6
@@ -1801,10 +1816,12 @@ Fredy Friedlander       6
 Giona Nazzaro           10
 Diego Batlle            6
 Manu Yañez             6
+Andrea Picard           7
 Cecilia Barrionuevo     6.5
 Carlos Reviriego        7
 Luciano Monteagudo      6
 Alexandra Zawia         7
+Alex Vicente            8.5
 Marcelo Alderete        5
 Fernando Ganzo          4
 Alejandro G. Calvo      9
@@ -1961,10 +1978,12 @@ Fredy Friedlander       6
 Giona Nazzaro           7
 Diego Batlle            9
 Manu Yañez             9
+Andrea Picard           7
 Cecilia Barrionuevo     8.5
 Carlos Reviriego        8
 Luciano Monteagudo      9
 Alexandra Zawia         7
+Alex Vicente            7
 Marcelo Alderete        5
 Fernando Ganzo          4.5
 Alejandro G. Calvo      8.5
@@ -2100,6 +2119,7 @@ Cecilia Barrionuevo     5.5
 Carlos Reviriego        5.5
 Luciano Monteagudo      6.5
 Alexandra Zawia         6
+Alex Vicente            5
 Marcelo Alderete        3.5
 Alejandro G. Calvo      5.5
 Xavi Serra              7.5
@@ -2375,7 +2395,9 @@ Xavi Serra              8
 Boris Nelepo            7
 Sergi Sanchez           8
 Eulalia Iglesias        7.5
+Javier H. Estrada       6
 José Luis Losa         7.5
+Gustavo Beck            5
 Ángel Quintana         5.5
 Alberto Sáez Villarino 7
 Alejandra Trelles       7
@@ -2497,9 +2519,10 @@ Roger Koza              3.5
 Daniel Kasman           3
 Diego Lerer             1
 Fredy Friedlander       4
-Giona Nazzaro           4.5
+Giona Nazzaro           4
 Diego Batlle            4.5
 Alexandra Zawia         1
+Alex Vicente            6
 Marcelo Alderete        3
 Fernando Ganzo          5
 Alejandro G. Calvo      4
@@ -2617,6 +2640,9 @@ FilmLandEmpire      2
 
 "THE LAST FACE" (Sean Penn) [Competition]
 
+# todas
+Diego Lerer             1
+Alex Vicente            1
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -2702,12 +2728,16 @@ Søren Huslage       5
 Roger Koza              5
 Jaime Pena              4
 Daniel Kasman           3.5
-Diego Lerer             3
+Diego Lerer             4
+Giona Nazzaro           3.5
 Diego Batlle            3
+Alexandra Zawia         5
+Alex Vicente            8
 Alejandro G. Calvo      8
 Xavi Serra              8.5
 Boris Nelepo            7.5
 Eulalia Iglesias        8
+Javier H. Estrada       3.5
 Ángel Quintana         4.5
 Alberto Sáez Villarino 9
 Alejandra Trelles       1.5
@@ -2819,6 +2849,7 @@ BlackMan            4
 "ELLE" (Paul Verhoeven) [Competition]
 
 # todas
+Alex Vicente            8
 Ronald Rovers           8.5
 # Le film français
 Frédéric Foubert        
@@ -3227,6 +3258,7 @@ Anthony Magnoni     2
 Roger Koza              5.5
 Gerard Casau            6.5
 Javier H. Estrada       6.5
+Gustavo Beck            4
 # critic.de
 Blake Williams          6
 # Le film français
@@ -3268,8 +3300,9 @@ José Luis De Lorenzo   4
 Rüdiger Suchsland      7
 Diego Lerer             4.5
 Fredy Friedlander       4
-Giona Nazzaro           7
+Giona Nazzaro           6
 Diego Batlle            6
+Andrea Picard           4.5
 Luciano Monteagudo      5.5
 Alejandro G. Calvo      3
 Carlos F. Heredero      6
@@ -3543,6 +3576,7 @@ Sundance Rating _16_Users   6.75  https://cannes-rurban.rhcloud.com/Sundance2016
 
 # todas
 Luciano Monteagudo      5
+Eulalia Iglesias        6.5
 Javier H. Estrada       5.5
 # Le film français
 Frédéric Foubert        
@@ -3666,11 +3700,12 @@ FilmLandEmpire      5
 
 # todas
 Jaime Pena              5.5
+Boris Nelepo            7
 José Luis Losa         6
 Alberto Sáez Villarino 7
 Alejandra Trelles       7
 # critic.de
-Boris Nelepo          6
+#Boris Nelepo          6
 #l
 jpdiaz              10    https://letterboxd.com/jpdiaz/film/the-happiest-day-in-the-life-of-olli-maki/
 FilmLandEmpire      6
@@ -3681,6 +3716,7 @@ Pieter Vermeersch   4
 
 # todas
 Giona Nazzaro           6.5
+Javier H. Estrada       5.5
 Alberto Sáez Villarino 6
 # Le film français
 Frédéric Foubert        
@@ -3720,6 +3756,7 @@ Gerard Casau            7
 Pablo Scholz            7.5
 José Luis Losa         7
 Gustavo Beck            4
+Alberto Sáez Villarino 7
 Alejandra Trelles       8.5
 # Le film français
 Frédéric Foubert        
@@ -3799,6 +3836,7 @@ reedie              2
 # todas
 Jaime Pena              4
 Diego Lerer             7
+Andrea Picard           5
 Alexandra Zawia         4.5
 Marcelo Alderete        4
 Alejandro G. Calvo      7
@@ -3841,6 +3879,7 @@ edissa              5
 # todas
 Jaime Pena              4
 Fredy Friedlander       5
+Alex Vicente            6.5
 Gerard Casau            7.5
 Carlos F. Heredero      6.5
 Violeta Kovacsics       7.5
@@ -3901,6 +3940,7 @@ Jaime Pena              4
 Daniel Kasman           5
 Giona Nazzaro           5
 Cecilia Barrionuevo     6
+Alex Vicente            6
 Marcelo Alderete        5
 Carlo Chatrian          7
 Boris Nelepo            7
@@ -3933,6 +3973,7 @@ Mirjam Urban        2
 "TOUR DE FRANCE" (Rachid Djaïdani) [Quinzaine]
 
 # todas
+Andrea Picard           4.5
 Javier H. Estrada       5.5
 # critic.de
 Till Kadritzke        1
@@ -3952,6 +3993,8 @@ Chuchaqui           1
 
 # todas
 Diego Batlle            9
+Cecilia Barrionuevo     6
+Alex Vicente            6.5
 Carlo Chatrian          6.5
 Pamela Bienzobas        8
 Raúl Camargo           10
@@ -4082,6 +4125,7 @@ James Healey        1
 
 # todas
 Giona Nazzaro           3
+Andrea Picard           4
 Pamela Bienzobas        5
 #l
 Reini Urban         6       https://letterboxd.com/rurban/film/mercenaire/
@@ -4091,6 +4135,8 @@ Mirjam Urban        4
 
 # todas
 Roger Koza              6
+Andrea Picard           7
+Alexandra Zawia         6
 Carlos F. Heredero      6
 # critic.de
 Frédéric Jaeger     7.5
@@ -4106,6 +4152,8 @@ edissa              3
 
 "DIVINES" (Houda Benyamina) [Quinzaine]
 
+# todas
+Javier H. Estrada       5
 Jordan Mintzer              http://www.hollywoodreporter.com/review/divines-cannes-review-892705
 Catherine Bray              https://variety.com/2016/film/reviews/divines-film-review-1201778704/
 #l
@@ -4113,6 +4161,11 @@ Mirjam Urban        4
 Reini Urban         2
 
 "DOG EAT DOG" (Paul Schrader) [Quinzaine]
+
+# todas
+Giona Nazzaro           10
+Boris Nelepo            2.5
+Alberto Sáez Villarino 5.5
 
 #"LOS PASOS DEL AGUA" (César Augusto Acevedo) [Quinzaine] Special
 
@@ -4126,6 +4179,7 @@ SEMAINE
 # todas
 Jaime Pena              8
 Cecilia Barrionuevo     4.5
+Alex Vicente            6.5
 Marcelo Alderete        3
 Javier H. Estrada       9
 Violeta Kovacsics       6.5
@@ -4209,6 +4263,7 @@ Jangorama           4
 
 # todas
 Giona Nazzaro           8
+Andrea Picard           7
 Cecilia Barrionuevo     7.5
 Gerard Casau            6
 Gustavo Beck            6
@@ -4249,8 +4304,10 @@ Roger Koza              7.5
 Jaime Pena              9
 Diego Lerer             7.5
 Giona Nazzaro           10
+Andrea Picard           7.5
 Cecilia Barrionuevo     8
 Carlos Reviriego        7
+Alex Vicente            6.5
 Marcelo Alderete        7
 Carlo Chatrian          7.5
 Gerard Casau            7
@@ -4365,23 +4422,199 @@ Mirjam Urban        1
 
 SPECIAL SCREENINGS
 
+"CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
+
+# todas
+Roger Koza              6
+Jaime Pena              6
+José Luis De Lorenzo   5
+Rüdiger Suchsland      5.5
+Fernando Juan Lima      7
+Diego Lerer             5.5
+Fredy Friedlander       7
+Giona Nazzaro           6.5
+Diego Batlle            7
+Manu Yañez             7
+Cecilia Barrionuevo     7.5
+Carlos Reviriego        7
+Luciano Monteagudo      6
+Alexandra Zawia         1
+Alex Vicente            7.5
+Marcelo Alderete        7
+Alejandro G. Calvo      5
+Xavi Serra              6
+Gerard Casau            6.5
+Boris Nelepo            7
+Carlos F. Heredero      6
+Pamela Bienzobas        3.5
+Sergi Sanchez           4.5
+Ronald Rovers           6
+Eulalia Iglesias        7
+Javier H. Estrada       5
+Violeta Kovacsics     6.5    http://www.magazinefa.com/24-7/kristen-stewart-y-woody-allen-abren-cannes-con-polemica/?platform=hootsuite
+Pablo Scholz            7
+José Luis Losa         7
+Ángel Quintana         7.5
+Alberto Sáez Villarino 7.5
+Alejandra Trelles       7
+# critic.de
+Andrey Arnold         5
+Pamela Biénzobas     2.5
+Frédéric Jaeger     4
+Till Kadritzke        6
+Michael Kienzl        4       http://www.critic.de/film/cafe-society-9689/
+Boris Nelepo          7       http://www.svoboda.org/content/article/27730742.html
+Lukas Stern           6
+Rüdiger Suchsland    5.5       http://www.artechock.de/film/text/special/2016/cannes/05_12_2.html
+Anke Westphal         5
+Blake Williams        5
+Alexandra Zawia       2.5
+# Le film français
+Frédéric Foubert      2.5  
+Jean-Claude Raspiergeas 5
+Thierry Chèze         5
+Eric Neuhoff          7.5
+Stéphane Delorme      2.5
+Isabelle Regnier      5
+Philippe Rouyer       7.5
+Pierre Vavasseur      5
+Pierre Murat          9
+Florence Ben Sadoun   5
+Serge Kaganski        7.5
+Gille Kerdreux        5
+Pascal Mérigeau       5
+Danielle Attali       5
+Christophe Carriére   5
+#
+Todd McCarthy         7     http://www.hollywoodreporter.com/review/cafe-society-cannes-review-892693
+Ramin Setoodeh              https://variety.com/2016/film/news/woody-allen-kristen-stewart-cafe-society-cannes-1201770285/
+Joachim Kurz                http://www.kino-zeit.de/blog/cannes/cafe-society-von-woody-allen
+Anne Thompson               http://www.indiewire.com/article/woody-allen-cafe-society-press-conference-kristen-stewart-woody-allen-audition-vittorio-storaro
+Eric Kohn             6     http://www.indiewire.com/article/cannes-2016-cafe-society-review-kristen-stewart-woody-allen
+Guy Lodge             4     https://twitter.com/GuyLodge/status/730400678070333441
+Filmoforia MT               http://www.filmuforia.co.uk/cafe-society-2016-cannes-2016/   
+Jessica Kiang         6     http://theplaylist.net/cannes-review-woody-allens-cafe-society-charming-film-years-20160511/
+Jordan Cronk          6     https://twitter.com/JordanCronk/status/730334029648670720
+David Acacia                http://icsfilm.org/features/cannes-2016-cafe-society-woody-allen/
+Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-woody-allen-cristi-piui-alain-guiraudie.html
+# l
+Elizavetach         9
+Corleone99          9
+VincentLan          9
+Electr0cuted        9
+Fares Akhaoui       9
+Mathijs Dekyvere    8
+Kev                 8
+Julitza Rivera      8
+Mathilde Pois-Fournier 8
+Jason Overbeck      8
+hannahhy            8
+raolhausen          8    https://letterboxd.com/raolhausen/film/cafe-society-2016/
+Lena                8
+Michiel Venmans     8
+FilmLandEmpire      8
+Tyler Lee           8
+tombeet             8
+Screen-Space        8
+gianskey            7
+pandiculating       7
+CLaro               7
+Tristan             7
+Teproc              7
+Henry Heistand      7
+Dave Scheck         7
+BitsOfParadise      7
+jeannepf            7
+MoohMooh            7
+AEC                 7
+Myra Zbib           7
+Max Schwarz         7
+William Boyle       7
+piou                7
+Etienne Felisaz     7
+Jangorama           7
+WillemVH            7
+SilviaGuedes        7
+karamazov           7
+Katherine McLaughlin 7
+mean_streets        7
+Txarles             7
+Matt Hoffman        7
+shaunline           6
+Florent Boutet      6
+d minúscula        6
+Jeroen Houben       6
+Aurelio Vindigni Ricca 6
+ANTONIASWAY         6
+Dave Crewe          6
+dorine aguilar      6
+Angéline           6
+AntCo               6
+Sabi Coppola        6
+VOSrevista          6
+Chuchaqui           6
+lucarenucci         6
+veroniquesacri      6
+bolivennes          6
+Nathaniel R         6
+ashavit23           6
+edissa              6
+bluesrgt            6
+Alyssia Duval       6
+breint              6
+marie_m             6
+shikaku             6
+Dave Jenkins        6
+Audiences Everywhere 6
+Dillon Freeman      6
+Eli Hayes           6
+fightclubitis       6
+Martyn Conterio     6
+Etsuko              6
+Serena Catalano     6
+James McAllister    6
+Jason Ooi           6
+Mike d'Angelo       6
+Nathaniel Irons     5
+Nathan Zuckerman    5
+Jake Anderson       5
+Jiro                5
+sandraghosn         5
+Gunnar Larson       5
+Niels Putman        5
+Francisco Zambrano  5
+fabrice             5
+Elena Lazic         5
+Johnnyshinobi       5
+Blake Williams      5
+Raquel_Garcia       4
+Carlota Moseguí    4
+Joyce D             4
+Simon               4
+EZULC               4
+Pablo Villaça      4
+Brandon Isaacson    3
+Rico Drago          3
+Crayfish            3
+
 "MONEY MONSTER" (Jodie Foster) [Out Of Competition]
 
-#todas
-Jaime Pena            4
-José Luis De Lorenzo 5
-Rüdiger Suchsland    6.5
-Fernando Juan Lima    6
-Diego Lerer           6
-Fredy Friedlander     6
-Giona Nazzaro         6
-Diego Batlle          6
-Manu Yañez           5.5
-Carlos Reviriego      4
-Alexandra Zawia       3.5
-Alejandro G. Calvo    4
-Xavi Serra            5
-Gerard Casau          6
+# todas
+Jaime Pena              4
+José Luis De Lorenzo   5
+Rüdiger Suchsland      6.5
+Fernando Juan Lima      6
+Diego Lerer             6
+Fredy Friedlander       6
+Giona Nazzaro           5
+Diego Batlle            6
+Manu Yañez             5.5
+Carlos Reviriego        4
+Alexandra Zawia         3.5
+Alex Vicente            6
+Alejandro G. Calvo      4
+Xavi Serra              5
+Gerard Casau            6
 Sergi Sanchez           5.5
 Violeta Kovacsics       5.5
 Pablo Scholz            5.5
@@ -4549,14 +4782,15 @@ karamazov           2
 
 "EXIL" (Rithy Panh) [Out Of Competition] Special Screening
 
-#todas
-Jaime Pena            6.5
-Daniel Kasman         7     http://mubi.com/notebook/posts/cannes-2016-rithy-panh-s-exile
-Fernando Juan Lima    6
-Diego Batlle          6.5
+# todas
+Jaime Pena              6.5
+Daniel Kasman           7     http://mubi.com/notebook/posts/cannes-2016-rithy-panh-s-exile
+Fernando Juan Lima      6
+Diego Batlle            6.5
 Cecilia Barrionuevo     6
 Carlos Reviriego        6.5
 Luciano Monteagudo      7
+Alexandra Zawia         5.5
 Alejandro G. Calvo      7
 Carlo Chatrian          6
 Xavi Serra              6
@@ -4651,6 +4885,52 @@ EZULC               3
 Pablo Villaça      2
 edissa              2
 
+"WRONG ELEMENTS" (Jonathan Littell) [Out Of Competition] Special Screening
+
+# todas
+Jaime Pena              8.5
+Daniel Kasman           5.5
+Javier H. Estrada       8.5
+Ángel Quintana         9
+# critic.de
+Daniel Kasman         5
+#l
+David Ehrlich       7    https://letterboxd.com/davidehrlich/film/wrong-elements/
+
+"CHOUF" (Karim Dridi) [Out Of Competition] Special Screening
+
+# todas
+Giona Nazzaro           4
+
+"THE NICE GUYS" (Shane Black) [Out Of Competition]
+
+# todas
+Rüdiger Suchsland      6
+Marcelo Alderete        6
+Alejandro G. Calvo      8
+Xavi Serra              8
+Boris Nelepo            4.5
+Sergi Sanchez           5.5
+Ronald Rovers           4.5
+Eulalia Iglesias        7.5
+# critic.de
+#Boris Nelepo          4
+#Rüdiger Suchsland    7.5
+#l
+Letterboxd _75_Users  7.4  http://letterboxd.com/film/the-nice-guys/ratings/
+#
+Josef Lederle              http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-the-nice-guys.html
+
+"HISSEIN HABRÉ, A CHADIAN TRAGEDY (Hissein Habré, Une Tragédie Tchadienne)" (Mahamat-Saleh Haroun)  [Out Of Competition] (Special Screening)
+
+# todas
+Javier H. Estrada       7.5
+
+"LA FORÊT DE QUINCONCES" (Grégoire Leprince-Ringuet) [Out Of Competition] Special Screening
+
+# todas
+José Luis Losa         6
+
 "THE WAILING (GOKSUNG)" (Na Hong-Jin) [Out Of Competition]
 
 # todas
@@ -4727,24 +5007,71 @@ syong               4
 Gui Park            2
 Liara K.            1
 
-"THE NICE GUYS" (Shane Black) [Out Of Competition]
+"LE CANCRE" (Paul Vecchiali) [Out Of Competition] Special Screening
 
-#todas
-Rüdiger Suchsland      6
-Marcelo Alderete        6
-Alejandro G. Calvo      8
-Xavi Serra              8
-Boris Nelepo            4.5
-Sergi Sanchez           5.5
-Ronald Rovers           4.5
-Eulalia Iglesias        7.5
+# todas
+Roger Koza              7
+Jaime Pena              7.5
+Cecilia Barrionuevo     7
+Alex Vicente            5
+Fernando Ganzo          7.5
+Boris Nelepo            7
+Javier H. Estrada       7
+Gustavo Beck            6
+Ángel Quintana         6
 # critic.de
-#Boris Nelepo          4
-#Rüdiger Suchsland    7.5
+Boris Nelepo          7.5
+Blake Williams        6
 #l
-Letterboxd _75_Users  7.4  http://letterboxd.com/film/the-nice-guys/ratings/
+Blake Williams      6
+Florent Boutet      5
+Sam C. Mac          5
+blackdavid _        5
+Matt Hoffman        4
+Jason Ooi           3
+paolawt             2
+
+"LA MORT DE LOUIS XIV" (Alberto Serra)  [Out Of Competition] Special Screening
+
+# todas
+Roger Koza              9
+Jaime Pena              9.5
+Daniel Kasman           7.5
+José Luis De Lorenzo   9
+Diego Lerer             8.5
+Diego Batlle            7
+Andrea Picard           8.5
+Cecilia Barrionuevo     9.5
+Alexandra Zawia         9
+Alex Vicente            7
+Marcelo Alderete        8.5
+Alejandro G. Calvo      9
+Xavi Serra              7.5
+Carlos F. Heredero      8.5
+Sergi Sanchez           8
+Eulalia Iglesias        9
+Javier H. Estrada       8.5
+José Luis Losa         9
+Gustavo Beck            8
+Raúl Camargo           9
+Ángel Quintana         9.5
+# critic.de
+Frédéric Jaeger     7.5
+Till Kadritzke        7.5
+#Daniel Kasman         6
+Michael Kienzl        5
+Boris Nelepo          7.5
+Lukas Stern           9
+Blake Williams        7.5
 #
-Josef Lederle              http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-the-nice-guys.html
+Boyd van Hoeij              http://www.hollywoodreporter.com/review/death-louis-xiv-la-mort-895712
+#l
+edissa              8
+Chuchaqui           8
+Blake Williams      7
+Zac Goldkind        7
+Crayfish            7
+Florent Boutet      6
 
 "GIMME DANGER" (Jim Jarmusch) [Out Of Competition] Midnight
 - Iggy Pop doc
@@ -4776,271 +5103,10 @@ Anthony Nesbitt     7
 Jangorama           6
 mightybutcher       4
 
-"CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
-
-# todas
-Roger Koza              6
-Jaime Pena              6
-José Luis De Lorenzo   5
-Rüdiger Suchsland      5.5
-Fernando Juan Lima      7
-Diego Lerer             5.5
-Fredy Friedlander       7
-Giona Nazzaro           6.5
-Diego Batlle            7
-Manu Yañez             7
-Cecilia Barrionuevo     7.5
-Carlos Reviriego        7
-Luciano Monteagudo      6
-Alexandra Zawia         1
-Marcelo Alderete        7
-Alejandro G. Calvo      5
-Xavi Serra              6
-Gerard Casau            6.5
-Boris Nelepo            7
-Carlos F. Heredero      6
-Pamela Bienzobas        3.5
-Sergi Sanchez           4.5
-Ronald Rovers           6
-Eulalia Iglesias        7
-Javier H. Estrada       5
-Violeta Kovacsics     6.5    http://www.magazinefa.com/24-7/kristen-stewart-y-woody-allen-abren-cannes-con-polemica/?platform=hootsuite
-Pablo Scholz            7
-José Luis Losa         7
-Ángel Quintana         7.5
-Alberto Sáez Villarino 7.5
-Alejandra Trelles       7
-# critic.de
-Andrey Arnold         5
-Pamela Biénzobas     2.5
-Frédéric Jaeger     4
-Till Kadritzke        6
-Michael Kienzl        4       http://www.critic.de/film/cafe-society-9689/
-Boris Nelepo          7       http://www.svoboda.org/content/article/27730742.html
-Lukas Stern           6
-Rüdiger Suchsland    5.5       http://www.artechock.de/film/text/special/2016/cannes/05_12_2.html
-Anke Westphal         5
-Blake Williams        5
-Alexandra Zawia       2.5
-# Le film français
-Frédéric Foubert      2.5  
-Jean-Claude Raspiergeas 5
-Thierry Chèze         5
-Eric Neuhoff          7.5
-Stéphane Delorme      2.5
-Isabelle Regnier      5
-Philippe Rouyer       7.5
-Pierre Vavasseur      5
-Pierre Murat          9
-Florence Ben Sadoun   5
-Serge Kaganski        7.5
-Gille Kerdreux        5
-Pascal Mérigeau       5
-Danielle Attali       5
-Christophe Carriére   5
-#
-Todd McCarthy         7     http://www.hollywoodreporter.com/review/cafe-society-cannes-review-892693
-Ramin Setoodeh              https://variety.com/2016/film/news/woody-allen-kristen-stewart-cafe-society-cannes-1201770285/
-Joachim Kurz                http://www.kino-zeit.de/blog/cannes/cafe-society-von-woody-allen
-Anne Thompson               http://www.indiewire.com/article/woody-allen-cafe-society-press-conference-kristen-stewart-woody-allen-audition-vittorio-storaro
-Eric Kohn             6     http://www.indiewire.com/article/cannes-2016-cafe-society-review-kristen-stewart-woody-allen
-Guy Lodge             4     https://twitter.com/GuyLodge/status/730400678070333441
-Filmoforia MT               http://www.filmuforia.co.uk/cafe-society-2016-cannes-2016/   
-Jessica Kiang         6     http://theplaylist.net/cannes-review-woody-allens-cafe-society-charming-film-years-20160511/
-Jordan Cronk          6     https://twitter.com/JordanCronk/status/730334029648670720
-David Acacia                http://icsfilm.org/features/cannes-2016-cafe-society-woody-allen/
-Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-woody-allen-cristi-piui-alain-guiraudie.html
-# l
-Elizavetach         9
-Corleone99          9
-VincentLan          9
-Electr0cuted        9
-Fares Akhaoui       9
-Mathijs Dekyvere    8
-Kev                 8
-Julitza Rivera      8
-Mathilde Pois-Fournier 8
-Jason Overbeck      8
-hannahhy            8
-raolhausen          8    https://letterboxd.com/raolhausen/film/cafe-society-2016/
-Lena                8
-Michiel Venmans     8
-FilmLandEmpire      8
-Tyler Lee           8
-tombeet             8
-Screen-Space        8
-gianskey            7
-pandiculating       7
-CLaro               7
-Tristan             7
-Teproc              7
-Henry Heistand      7
-Dave Scheck         7
-BitsOfParadise      7
-jeannepf            7
-MoohMooh            7
-AEC                 7
-Myra Zbib           7
-Max Schwarz         7
-William Boyle       7
-piou                7
-Etienne Felisaz     7
-Jangorama           7
-WillemVH            7
-SilviaGuedes        7
-karamazov           7
-Katherine McLaughlin 7
-mean_streets        7
-Txarles             7
-Matt Hoffman        7
-shaunline           6
-Florent Boutet      6
-d minúscula        6
-Jeroen Houben       6
-Aurelio Vindigni Ricca 6
-ANTONIASWAY         6
-Dave Crewe          6
-dorine aguilar      6
-Angéline           6
-AntCo               6
-Sabi Coppola        6
-VOSrevista          6
-Chuchaqui           6
-lucarenucci         6
-veroniquesacri      6
-bolivennes          6
-Nathaniel R         6
-ashavit23           6
-edissa              6
-bluesrgt            6
-Alyssia Duval       6
-breint              6
-marie_m             6
-shikaku             6
-Dave Jenkins        6
-Audiences Everywhere 6
-Dillon Freeman      6
-Eli Hayes           6
-fightclubitis       6
-Martyn Conterio     6
-Etsuko              6
-Serena Catalano     6
-James McAllister    6
-Jason Ooi           6
-Mike d'Angelo       6
-Nathaniel Irons     5
-Nathan Zuckerman    5
-Jake Anderson       5
-Jiro                5
-sandraghosn         5
-Gunnar Larson       5
-Niels Putman        5
-Francisco Zambrano  5
-fabrice             5
-Elena Lazic         5
-Johnnyshinobi       5
-Blake Williams      5
-Raquel_Garcia       4
-Carlota Moseguí    4
-Joyce D             4
-Simon               4
-EZULC               4
-Pablo Villaça      4
-Brandon Isaacson    3
-Rico Drago          3
-Crayfish            3
-
-
 "THE LAST RESORT (L'Ultima Spiaggia)" (Thanos Anastopoulos & Davide Del Degan) [Out Of Competition]
 
 karamazov           7
 Crayfish            7
-
-"HISSEIN HABRÉ, A CHADIAN TRAGEDY (Hissein Habré, Une Tragédie Tchadienne)" (Mahamat-Saleh Haroun)  [Out Of Competition] (Special Screening)
-
-Javier H. Estrada       7.5
-
-"LA MORT DE LOUIS XIV" (Alberto Serra)  [Out Of Competition] Special Screening
-
-# todas
-Roger Koza              9
-Jaime Pena              9.5
-Daniel Kasman           7.5
-José Luis De Lorenzo   9
-Diego Lerer             8.5
-Diego Batlle            7
-Cecilia Barrionuevo     9.5
-Alexandra Zawia         9
-Marcelo Alderete        8.5
-Alejandro G. Calvo      9
-Xavi Serra              7.5
-Carlos F. Heredero      8.5
-Sergi Sanchez           8
-Eulalia Iglesias        9
-José Luis Losa         9
-Gustavo Beck            8
-Ángel Quintana         9.5
-# critic.de
-Frédéric Jaeger     7.5
-Till Kadritzke        7.5
-#Daniel Kasman         6
-Michael Kienzl        5
-Boris Nelepo          7.5
-Lukas Stern           9
-Blake Williams        7.5
-#
-Boyd van Hoeij              http://www.hollywoodreporter.com/review/death-louis-xiv-la-mort-895712
-#l
-edissa              8
-Chuchaqui           8
-Blake Williams      7
-Zac Goldkind        7
-Crayfish            7
-Florent Boutet      6
-
-"LE CANCRE" (Paul Vecchiali) [Out Of Competition] Special Screening
-
-# todas
-Jaime Pena              7.5
-Cecilia Barrionuevo     7
-Fernando Ganzo          7.5
-Boris Nelepo            7
-Javier H. Estrada       7
-Gustavo Beck            6
-Ángel Quintana         6
-# critic.de
-Boris Nelepo          7.5
-Blake Williams        6
-#l
-Blake Williams      6
-Florent Boutet      5
-Sam C. Mac          5
-blackdavid _        5
-Matt Hoffman        4
-Jason Ooi           3
-paolawt             2
-
-"WRONG ELEMENTS" (Jonathan Littell) [Out Of Competition] Special Screening
-
-# todas
-Jaime Pena              8.5
-Daniel Kasman           5.5
-Javier H. Estrada       8.5
-Ángel Quintana         9
-# critic.de
-Daniel Kasman         5
-#l
-David Ehrlich       7    https://letterboxd.com/davidehrlich/film/wrong-elements/
-
-"La Forêt De Quinconces" (Grégoire Leprince-Ringuet) [Out Of Competition] Special Screening
-
-# todas
-José Luis Losa         6
-
-"CHOUF" (Karim Dridi) [Out Of Competition] Special Screening
-
-# todas
-Giona Nazzaro           4
 
 EOF
 
