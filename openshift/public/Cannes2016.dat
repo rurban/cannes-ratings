@@ -1119,14 +1119,14 @@ Cédric Succivalli       5
 David Acacia            3 
 Aldo Álvareztostado     3
 Marc van de Klashorst   
-#Diego Battle           
+#Diego Battle           6
 #Nicholas Bell          2
 #Chris Beney           
 David Honnorat          2
-Dana Keith             
+Dana Keith              4
 D W Mault               
 Eren Odabasi            5
-Isabelle Regnier        3
+Isabelle Regnier        2
 Clarence Tsui           5
 #Blake Williams         2
 # Chinese @CriticsGrid
@@ -1428,15 +1428,15 @@ Cédric Succivalli       9
 Blake Williams          4
 Alison Wilmore          8
 # ics
-Cédric Succivalli     9
-David Acacia           3 
+Cédric Succivalli       8
+David Acacia            3 
 Aldo Álvareztostado     5
 Marc van de Klashorst   3
 #Diego Battle           7
 #Nicholas Bell          5
-#Chris Beney           
-David Honnorat         
-Dana Keith             5
+#Chris Beney            4
+David Honnorat          4
+Dana Keith              5
 D W Mault               
 Eren Odabasi            8
 #Isabelle Regnier       9
@@ -1600,16 +1600,16 @@ Cédric Succivalli       6
 Blake Williams          7
 Alison Wilmore          7
 # ics
-Cédric Succivalli     7
-David Acacia           6 
-Aldo Álvareztostado     6
+Cédric Succivalli       7
+David Acacia            6 
+Aldo Álvareztostado     7
 Marc van de Klashorst   
 #Diego Battle           9
 #Nicholas Bell          8
 #Chris Beney           
-David Honnorat         5
-Dana Keith             7
-D W Mault               
+David Honnorat          5
+Dana Keith              7
+D W Mault               9
 Eren Odabasi            7
 #Isabelle Regnier       3
 Clarence Tsui           6
@@ -1752,18 +1752,18 @@ Cédric Succivalli       9
 Blake Williams          5
 Alison Wilmore          6
 # ics
-Cédric Succivalli     10
+Cédric Succivalli       10
 David Acacia            10
 Aldo Álvareztostado     8
 Marc van de Klashorst   8
 #Diego Battle           8
 #Nicholas Bell          5
 #Chris Beney           8
-David Honnorat         
-Dana Keith             
-D W Mault               7
-Eren Odabasi            6
-#Isabelle Regnier       8
+David Honnorat         10
+Dana Keith             7
+D W Mault               6
+Eren Odabasi            8
+#Isabelle Regnier       6
 Clarence Tsui           
 #Blake Williams         5
 # Chinese @CriticsGrid
@@ -1935,9 +1935,9 @@ Marc van de Klashorst   9
 David Honnorat         5
 Dana Keith             6
 D W Mault               7
-Eren Odabasi            
-#Isabelle Regnier                
-Clarence Tsui           
+Eren Odabasi            5
+#Isabelle Regnier       0.5        
+Clarence Tsui           5
 #Blake Williams         7
 # Chinese @CriticsGrid
 Guojie                  5
@@ -2087,15 +2087,15 @@ Cédric Succivalli       8
 Blake Williams          7
 Alison Wilmore          7
 # ics
-Cédric Succivalli     8
-David Acacia           8 
+Cédric Succivalli       8
+David Acacia            8 
 Aldo Álvareztostado     9
 Marc van de Klashorst   8
 #Diego Battle           9
 #Nicholas Bell          8
-#Chris Beney           7
-David Honnorat         9
-Dana Keith             7
+#Chris Beney            7
+David Honnorat          9
+Dana Keith              7
 D W Mault               6
 Eren Odabasi            8
 Isabelle Regnier       10
@@ -2232,7 +2232,7 @@ Cédric Succivalli       6
 Blake Williams          6
 Alison Wilmore          6
 # ics
-#Cédric Succivalli     6
+#Cédric Succivalli      6
 David Acacia            6
 Aldo Álvareztostado     7
 Marc van de Klashorst   5
@@ -2240,8 +2240,8 @@ Marc van de Klashorst   5
 #Nicholas Bell          5
 Christophe Beney        8
 David Honnorat          7
-Dana Keith             6
-D W Mault               
+Dana Keith              6
+D W Mault               8
 Eren Odabasi            5
 Isabelle Regnier        4
 Clarence Tsui           5
@@ -2375,7 +2375,7 @@ Blake Williams
 Alison Wilmore          3
 # ics
 Cédric Succivalli       2
-David Acacia            1
+David Acacia            0.5
 Aldo Álvareztostado     2
 Marc van de Klashorst   
 #Diego Battle           5
@@ -2383,7 +2383,7 @@ Marc van de Klashorst
 #Chris Beney           
 David Honnorat          3
 Dana Keith              5
-D W Mault               
+D W Mault               8
 Eren Odabasi            6
 Isabelle Regnier        2
 Clarence Tsui           
@@ -2510,20 +2510,20 @@ Cédric Succivalli
 Blake Williams          5
 Alison Wilmore          7
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
-#Christophe Beney        
-David Honnorat         
-Dana Keith             
-D W Mault               
-Eren Odabasi            
-#Isabelle Regnier                
-Clarence Tsui           
-#Blake Williams         
+Cédric Succivalli       4
+David Acacia            4
+Aldo Álvareztostado     7
+Marc van de Klashorst   8
+#Diego Battle           6
+#Nicholas Bell          5
+#Christophe Beney       8
+David Honnorat          8
+Dana Keith              8
+D W Mault               10
+Eren Odabasi            10
+#Isabelle Regnier       4        
+Clarence Tsui           10
+#Blake Williams         5
 # Chinese @CriticsGrid
 Guojie                  7.5
 Kate                    7.5
@@ -2657,16 +2657,16 @@ Cédric Succivalli       8
 Blake Williams          3
 Alison Wilmore          2
 # ics
-Cédric Succivalli       
-David Acacia            
-Aldo Álvareztostado     
-Marc van de Klashorst   
+Cédric Succivalli       8
+David Acacia            10
+Aldo Álvareztostado     6
+Marc van de Klashorst   0.5
 #Diego Battle           5
 #Nicholas Bell          2
 #Christophe Beney       8
 David Honnorat          4
 Dana Keith              
-D W Mault               
+D W Mault               3
 Eren Odabasi            2
 Isabelle Regnier        9
 Clarence Tsui           0.5
@@ -2784,19 +2784,19 @@ Cédric Succivalli
 Blake Williams          
 Alison Wilmore          
 # ics
-Cédric Succivalli     
-David Acacia            
-Aldo Álvareztostado     
+Cédric Succivalli       0.5
+David Acacia            0.5
+Aldo Álvareztostado     0.5
 Marc van de Klashorst   
-#Diego Battle           
-#Nicholas Bell          
+#Diego Battle           1
+#Nicholas Bell          1
 #Christophe Beney        
 David Honnorat         
 Dana Keith             
 D W Mault               
 Eren Odabasi            
-#Isabelle Regnier                
-Clarence Tsui           
+#Isabelle Regnier       3   
+Clarence Tsui           0.5
 #Blake Williams         
 # Chinese @CriticsGrid
 Guojie                  
