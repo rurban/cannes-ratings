@@ -2053,7 +2053,7 @@ Pierre Vavasseur
 Pierre Murat          5
 Florence Ben Sadoun   9
 Serge Kaganski        5
-Gille Kerdreux        
+Gille Kerdreux        5
 Pascal Mérigeau       7.5
 Danielle Attali       2.5
 Christophe Carriére   7.5
@@ -2465,21 +2465,21 @@ Anke Westphal         7.5
 Blake Williams        5
 Alexandra Zawia       6
 # Le film français
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
-Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat         
-Florence Ben Sadoun   
-Serge Kaganski        
-Gille Kerdreux        
-Pascal Mérigeau       
-Danielle Attali       
-Christophe Carriére   
+Frédéric Foubert        7.5
+Jean-Claude Raspiergeas 9
+Thierry Chèze         9
+Eric Neuhoff          7.5
+Stéphane Delorme      5
+Isabelle Regnier      5
+Philippe Rouyer       9
+Pierre Vavasseur      9
+Pierre Murat         7.5
+Florence Ben Sadoun  7.5 
+Serge Kaganski        7.5
+Gille Kerdreux        5
+Pascal Mérigeau       7.5
+Danielle Attali       5
+Christophe Carriére   7.5
 # screen daily
 Michel Ciment               
 Fabio Ferzetti              7.5
@@ -2612,21 +2612,21 @@ Anke Westphal         6
 Blake Williams        1
 Alexandra Zawia       1
 # Le film français
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
-Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
-Pierre Vavasseur      
-Pierre Murat         
-Florence Ben Sadoun   
-Serge Kaganski        
-Gille Kerdreux        
-Pascal Mérigeau       
-Danielle Attali       
-Christophe Carriére   
+Frédéric Foubert        2.5
+Jean-Claude Raspiergeas 9
+Thierry Chèze         5
+Eric Neuhoff          2.5
+Stéphane Delorme      7.5
+Isabelle Regnier      9
+Philippe Rouyer       5
+Pierre Vavasseur      2.5
+Pierre Murat          5
+Florence Ben Sadoun   2.5
+Serge Kaganski        2.5
+Gille Kerdreux        9
+Pascal Mérigeau       5
+Danielle Attali       5
+Christophe Carriére   5
 # screen daily
 Michel Ciment               
 Fabio Ferzetti             7.5
@@ -3495,7 +3495,7 @@ Pierre Murat         7.5
 Florence Ben Sadoun   
 Serge Kaganski        7.5
 Gille Kerdreux        
-Pascal Mérigeau       5
+Pascal Mérigeau       
 Danielle Attali       
 Christophe Carriére   
 #l
@@ -3793,7 +3793,7 @@ Till Kadritzke        7.5
 Alexandra Zawia       6
 # Le film français
 Frédéric Foubert        
-Jean-Claude Raspiergeas 
+Jean-Claude Raspiergeas 5
 Thierry Chèze          2.5
 Eric Neuhoff          
 Stéphane Delorme      
@@ -3804,7 +3804,7 @@ Pierre Murat
 Florence Ben Sadoun   
 Serge Kaganski        
 Gille Kerdreux        
-Pascal Mérigeau       
+Pascal Mérigeau       5
 Danielle Attali       
 Christophe Carriére   
 #
@@ -3849,20 +3849,20 @@ Andrey Arnold         6
 Blake Williams        5
 # Le film français
 Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze            9
+Jean-Claude Raspiergeas 9
+Thierry Chèze           9
 Eric Neuhoff          
-Stéphane Delorme      
+Stéphane Delorme      5
 Isabelle Regnier      
-Philippe Rouyer       
+Philippe Rouyer       7.5
 Pierre Vavasseur      
 Pierre Murat         
 Florence Ben Sadoun   
 Serge Kaganski        
-Gille Kerdreux        
+Gille Kerdreux        2.5
 Pascal Mérigeau       
 Danielle Attali       
-Christophe Carriére   
+Christophe Carriére   9
 #l
 Pablo Villaça      10
 tombeet             9
@@ -3893,6 +3893,22 @@ Alberto Sáez Villarino 7
 Alejandra Trelles       7
 # critic.de
 #Boris Nelepo          6
+# Le film français
+Frédéric Foubert        
+Jean-Claude Raspiergeas 
+Thierry Chèze            
+Eric Neuhoff          
+Stéphane Delorme      
+Isabelle Regnier      
+Philippe Rouyer       
+Pierre Vavasseur      
+Pierre Murat         2.5
+Florence Ben Sadoun   
+Serge Kaganski        
+Gille Kerdreux        
+Pascal Mérigeau       
+Danielle Attali       
+Christophe Carriére   
 #l
 jpdiaz              10    https://letterboxd.com/jpdiaz/film/the-happiest-day-in-the-life-of-olli-maki/
 Pablo Villaça      7
@@ -3909,7 +3925,7 @@ Alberto Sáez Villarino 6
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
-Thierry Chèze            
+Thierry Chèze            5
 Eric Neuhoff          
 Stéphane Delorme      
 Isabelle Regnier      
