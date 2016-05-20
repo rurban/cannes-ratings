@@ -1722,6 +1722,7 @@ HOWIE
 Leslie Felperin        6   http://www.hollywoodreporter.com/review/julieta-film-review-881691
 Letterboxd _162_Users  7   http://letterboxd.com/film/julieta/ratings/
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-olivier-assayas-pedro-almodovar-bertrand-tavernier.html
+Peter Bradshaw         6   http://www.theguardian.com/film/2016/may/17/julieta-review-pedro-almodovar-ties-himself-down-with-fractured-melodrama#img-1
 # l
 Tyler Lee           10
 Katherine McLaughlin 10
@@ -2048,6 +2049,8 @@ FilmLandEmpire      6
 Screen-Space        6
 #
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-dardennes-mendoza-filho.html
+Peter Bradshaw      8       http://www.theguardian.com/film/2016/may/17/aquarius-review-rich-and-mysterious-brazilian-story-of-societal-disintegration
+
 
 "LA FILLES INCONNU (The Unknown Girl)" (Jean-Pierre and Luc Dardenne) [Competition]
 
@@ -2190,6 +2193,7 @@ reedie              2
 monkeybox83         1
 #
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-dardennes-mendoza-filho.html
+Peter Bradshaw      4       http://www.theguardian.com/film/2016/may/19/graduation-review-cristian-mungiu-romania-cannes-2016
 
 "MA' ROSA" (Brillante Mendoza) [Competition]
 
@@ -2306,6 +2310,7 @@ Sam C. Mac          3
 Blake Williams      3
 #
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-dardennes-mendoza-filho.html
+Peter Bradshaw      6       http://www.theguardian.com/film/2016/may/18/marosa-review-brillante-mendoza-cannes
 
 "BACALAUREAT (Graduation)" (Cristian Mungiu) [Competition]
 
@@ -2409,6 +2414,8 @@ Tao Tao                 9
 Yixiong                 7.5
 Xie Meng                7.5
 HOWIE                   9
+#
+Peter Bradshaw      10      http://www.theguardian.com/film/2016/may/19/graduation-review-cristian-mungiu-romania-cannes-2016
 
 "JUSTE LA FIN DE MONDE (It’s Only the End of the World)" (Xavier Dolan) [Competition]
 
@@ -2513,6 +2520,7 @@ Xie Meng                5
 HOWIE                   
 #
 Peter Debruge                http://variety.com/2016/film/festivals/its-only-the-end-of-the-world-review-xavier-dolan-1201777980/#sthash.z9CrETWN.dpuf
+Peter Bradshaw      8       http://www.theguardian.com/film/2016/may/19/its-only-the-end-of-the-world-review-xavier-dolans-nightmarish-homecoming-is-a-dream
 #l
 Aurelio Vindigni Ricca 8
 Serena Catalano     8
@@ -2702,6 +2710,8 @@ Tao Tao                 2.5
 Yixiong                 7.5
 Xie Meng                2.5
 HOWIE                   7.5
+#
+Peter Bradshaw          6   http://www.theguardian.com/film/2016/may/20/the-neon-demon-review-nicolas-winding-refn-makes-zoolander-3-but-erotic-and-evil
 #l
 Lucie               10
 Gerardo Novelo      10
@@ -3942,8 +3952,10 @@ Carlos F. Heredero      6
 # critic.de
 Frédéric Jaeger     7.5
 Blake Williams        6
+#
+Catherine Shoard      8     http://www.theguardian.com/film/2016/may/19/julian-assange-wikileaks-risk-review-laura-poitras-cannes-2016
 #l
-Reini Urban         7
+Reini Urban         8
 AEC                 7
 
 "DIVINES" (Houda Benyamina) [Quinzaine]
@@ -5033,8 +5045,8 @@ Yixiong (Sina, China)
 Xie Meng (Artforum, China)
 HOWIE (Sina, China)
 ";
-# $critics_group[6] = "TF1.fr";
-#$critics[6] = "
+# $critics_group[7] = "TF1.fr";
+#$critics[7] = "
 #Aurelien Allin (Cinemateaser, France)
 #Evangeline Barbaroux (LCI, France)
 #Thomas Baurez (Studio CineLive, France)
