@@ -2654,7 +2654,7 @@ Nick James                  1
 Tim Robey/Robbie Collin     5
 Anton Dolin                 5
 Screen International        2.5
-#ioncinema 0-5
+# ioncinema
 Nicolas Bell            2
 Christophe Beney        8
 David Calhoun           4
@@ -2781,21 +2781,21 @@ Nick James
 Tim Robey/Robbie Collin     
 Anton Dolin                 
 Screen International        
-#ioncinema 0-5
+# ioncinema
 Nicolas Bell            
 Christophe Beney        
-David Calhoun           
-Per Juul Carlsen        
+David Calhoun           2
+Per Juul Carlsen        3
 Mike d'Angelo           
-Jean-Philippe Guerand   
+Jean-Philippe Guerand   1
 Carlos F. Heredero         
 Jessica Kiang              
-Eric Kohn               
+Eric Kohn               1
 Fabien Lemercier        
 Marc-André Lussier      
-Liu Min                 
+Liu Min                 2
 Isabelle Regnier        
-Cédric Succivalli       
+Cédric Succivalli       0.5
 Blake Williams          
 Alison Wilmore          
 # ics
@@ -2915,22 +2915,22 @@ Nick James
 Tim Robey/Robbie Collin     
 Anton Dolin                 
 Screen International        
-#ioncinema 0-5
-Nicolas Bell            
-Christophe Beney        
-David Calhoun           
-Per Juul Carlsen        
+#ioncinema
+Nicolas Bell            6   http://www.ioncinema.com/reviews/the-neon-demon-nicolas-winding-refn-review
+Christophe Beney        7
+David Calhoun           6
+Per Juul Carlsen        6
 Mike d'Angelo           
-Jean-Philippe Guerand   
-Carlos F. Heredero         
-Jessica Kiang              
+Jean-Philippe Guerand   5
+Carlos F. Heredero      0.5  
+Jessica Kiang           8
 Eric Kohn               5   http://www.indiewire.com/article/neon-demon-review-cannes-2016-elle-fanning-nicolas-winding-refn-keanu-reeves-jena-malone-cliff-martinez-bella-heathcote-sex-necrophilia-cannabalism
-Fabien Lemercier        
+Fabien Lemercier        6
 Marc-André Lussier      
-Liu Min                 
+Liu Min                 2
 Isabelle Regnier        
 Cédric Succivalli       
-Blake Williams          
+Blake Williams          5
 Alison Wilmore          
 # ics
 #Cédric Succivalli     
