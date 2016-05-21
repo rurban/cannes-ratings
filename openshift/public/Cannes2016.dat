@@ -2370,9 +2370,9 @@ Pascal Mérigeau       5
 Danielle Attali       7.5
 Christophe Carriére   
 # screen daily
-Michel Ciment               
-Fabio Ferzetti             7.5
-Kong Rithdee               5
+Michel Ciment               7.5
+Fabio Ferzetti              7.5
+Kong Rithdee                5
 Julien Gester/Didier Peron  5
 Jan Schulz-Ojala            7.5
 Stephanie Zacharek          5
@@ -2509,7 +2509,7 @@ Pascal Mérigeau       7.5
 Danielle Attali       5
 Christophe Carriére   7.5
 # screen daily
-Michel Ciment               
+Michel Ciment               9
 Fabio Ferzetti              7.5
 Kong Rithdee                7.5
 Julien Gester/Didier Peron  2.5
@@ -2662,7 +2662,7 @@ Pascal Mérigeau       5
 Danielle Attali       5
 Christophe Carriére   5
 # screen daily
-Michel Ciment               
+Michel Ciment              5
 Fabio Ferzetti             7.5
 Kong Rithdee               2.5
 Julien Gester/Didier Peron  1
@@ -2777,34 +2777,33 @@ Rüdiger Suchsland    1
 Anke Westphal         1
 Alexandra Zawia       1
 # Le film français
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
-Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
+Frédéric Foubert        1
+Jean-Claude Raspiergeas 1
+Thierry Chèze         1
+Eric Neuhoff          1
+Stéphane Delorme      1
+Isabelle Regnier      1
+Philippe Rouyer       1
 Pierre Vavasseur      
-Pierre Murat         
-Florence Ben Sadoun   
+Pierre Murat          1
+Florence Ben Sadoun   5
 Serge Kaganski        
-Gille Kerdreux        
-Pascal Mérigeau       
-Danielle Attali       
-Christophe Carriére   
+Gille Kerdreux        2.5
+Pascal Mérigeau       1
+Danielle Attali       1
+Christophe Carriére   1
 # screen daily
-Michel Ciment               
-Fabio Ferzetti             
+Michel Ciment               1
+Fabio Ferzetti              1
 Kong Rithdee               
 Julien Gester/Didier Peron  
-Jan Schulz-Ojala            
-Mahnola Dargis              
-Stephanie Zacharek          
-Justin Chang                
-Nick James                  
-Tim Robey/Robbie Collin     
-Anton Dolin                 
-Screen International        
+Jan Schulz-Ojala            1
+Stephanie Zacharek          1
+Justin Chang                1
+Nick James                  2.5
+Tim Robey/Robbie Collin     1
+Anton Dolin                 1
+Screen International        2.5
 # ioncinema
 Nicolas Bell            
 Christophe Beney        
@@ -2838,19 +2837,19 @@ Eren Odabasi
 Clarence Tsui           0.5
 #Blake Williams         
 # Chinese @CriticsGrid
-Guojie                  
-Kate                    
-Liu Min                 
+Guojie                  1
+Kate                    2.5
+Liu Min                 1
 Liuying                 
 Emily                   
 Muyan                   
-Shuang                  
+Shuang                  1
 Peter Cat               
-Qin Wan                 
-Tao Tao                 
-Yixiong                 
-Xie Meng                
-HOWIE                   
+Qin Wan                 1
+Tao Tao                 1
+Yixiong                 1
+Xie Meng                1
+HOWIE                   2.5
 #
 David Rooney                http://www.hollywoodreporter.com/review/sean-penns-last-face-cannes-896014
 Steve Pond                  http://www.thewrap.com/the-neon-demon-cannes-review-elle-fanning-potboiler-is-gloriously-lurid-and-stupidly-entertaining/
@@ -2920,34 +2919,33 @@ Anke Westphal         2.5
 Blake Williams        5
 Alexandra Zawia       5
 # Le film français
-Frédéric Foubert        
-Jean-Claude Raspiergeas 
-Thierry Chèze         
-Eric Neuhoff          
-Stéphane Delorme      
-Isabelle Regnier      
-Philippe Rouyer       
+Frédéric Foubert        5
+Jean-Claude Raspiergeas 1
+Thierry Chèze         2.5
+Eric Neuhoff          1
+Stéphane Delorme      9
+Isabelle Regnier      1
+Philippe Rouyer       7.5
 Pierre Vavasseur      
-Pierre Murat         
+Pierre Murat          5
 Florence Ben Sadoun   
-Serge Kaganski        
-Gille Kerdreux        
-Pascal Mérigeau       
-Danielle Attali       
-Christophe Carriére   
+Serge Kaganski        5
+Gille Kerdreux        1
+Pascal Mérigeau       2.5
+Danielle Attali       1
+Christophe Carriére   5
 # screen daily
-Michel Ciment               
-Fabio Ferzetti             
-Kong Rithdee               
+Michel Ciment               1
+Fabio Ferzetti             1
+Kong Rithdee               1
 Julien Gester/Didier Peron  
-Jan Schulz-Ojala            
-Mahnola Dargis              
-Stephanie Zacharek          
-Justin Chang                
-Nick James                  
-Tim Robey/Robbie Collin     
-Anton Dolin                 
-Screen International        
+Jan Schulz-Ojala            7.5
+Stephanie Zacharek          5
+Justin Chang                7.5
+Nick James                  5
+Tim Robey/Robbie Collin     7.5
+Anton Dolin                 2.5
+Screen International        5
 #ioncinema
 Nicolas Bell            6   http://www.ioncinema.com/reviews/the-neon-demon-nicolas-winding-refn-review
 Christophe Beney        7
@@ -3094,7 +3092,6 @@ Fabio Ferzetti
 Kong Rithdee               
 Julien Gester/Didier Peron  
 Jan Schulz-Ojala            
-Mahnola Dargis              
 Stephanie Zacharek          
 Justin Chang                
 Nick James                  
@@ -3225,7 +3222,6 @@ Fabio Ferzetti
 Kong Rithdee               
 Julien Gester/Didier Peron  
 Jan Schulz-Ojala            
-Mahnola Dargis              
 Stephanie Zacharek          
 Justin Chang                
 Nick James                  
@@ -3265,19 +3261,19 @@ Eren Odabasi
 Clarence Tsui           
 #Blake Williams         
 # Chinese @CriticsGrid
-Guojie                  
-Kate                    
-Liu Min                 
-Liuying                 
-Emily                   
-Muyan                   
-Shuang                  
-Peter Cat               
-Qin Wan                 
-Tao Tao                 
-Yixiong                 
-Xie Meng                
-HOWIE                   
+Guojie                  5
+Kate                    7.5
+Liu Min                 7.5
+Liuying                 5
+Emily                   7.5
+Muyan                   5
+Shuang                  7.5
+Peter Cat               7.5
+Qin Wan                 5
+Tao Tao                 7.5
+Yixiong                 5
+Xie Meng                9
+HOWIE                   5
 #
 Deborah Young               http://www.hollywoodreporter.com/review/salesman-forushande-cannes-review-896196
 #l
@@ -4060,12 +4056,12 @@ Alejandra Trelles       7
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
 Thierry Chèze            
-Eric Neuhoff          
+Eric Neuhoff          5
 Stéphane Delorme      
 Isabelle Regnier      
-Philippe Rouyer       
+Philippe Rouyer       5
 Pierre Vavasseur      
-Pierre Murat         2.5
+Pierre Murat          2.5
 Florence Ben Sadoun   
 Serge Kaganski        
 Gille Kerdreux        
@@ -4091,7 +4087,7 @@ Javier H. Estrada       5.5
 Alberto Sáez Villarino 6
 # Le film français
 Frédéric Foubert        
-Jean-Claude Raspiergeas 
+Jean-Claude Raspiergeas  1
 Thierry Chèze            5
 Eric Neuhoff          
 Stéphane Delorme      
