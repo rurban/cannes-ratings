@@ -2942,8 +2942,9 @@ Alejandra Trelles       1.5
 Andrey Arnold         6
 Frédéric Jaeger     7.5     http://www.critic.de/film/the-neon-demon-9644/
 Till Kadritzke        9
-Daniel Kasman         2.5
-Boris Nelepo          7.5
+#Daniel Kasman         2.5
+Michael Kienzl        6
+#Boris Nelepo          7.5
 Lukas Stern           9
 Anke Westphal         2.5
 Blake Williams        5
@@ -3107,12 +3108,13 @@ Alberto Sáez Villarino 8
 Andrey Arnold         6
 Frédéric Jaeger     9
 Till Kadritzke        9
-Daniel Kasman         7.5
+#Daniel Kasman         7.5
+Michael Kienzl        9
 #Boris Nelepo         6
 Lukas Stern           7.5
-Rüdiger Suchsland    9
+#Rüdiger Suchsland    9
 Blake Williams        7.5
-Alexandra Zawia       9
+#Alexandra Zawia       9
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -3156,7 +3158,7 @@ Marc-André Lussier
 Liu Min                 
 Isabelle Regnier        
 Cédric Succivalli       
-Blake Williams          
+Blake Williams          7.5
 Alison Wilmore          
 # ics
 Cédric Succivalli     10
@@ -3246,12 +3248,13 @@ Alberto Sáez Villarino 7.5
 Alejandra Trelles       7
 # critic.de
 Andrey Arnold         5
+Frédéric Jaeger     4       http://www.critic.de/film/the-salesman-9726/
 Till Kadritzke        6
 Michael Kienzl        5
 Lukas Stern           5
-Rüdiger Suchsland    5
+#Rüdiger Suchsland    5
 Blake Williams        6
-Alexandra Zawia       4
+#Alexandra Zawia       4
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -4117,7 +4120,10 @@ Gustavo Beck            2
 Alberto Sáez Villarino 7
 Alejandra Trelles       7
 # critic.de
-#Boris Nelepo          6
+Frédéric Jaeger     4
+#Boris Nelepo         6
+Lukas Stern           6
+Blake Williams        6
 # Le film français
 Frédéric Foubert        
 Jean-Claude Raspiergeas 
@@ -4204,8 +4210,9 @@ Gustavo Beck            4
 Alberto Sáez Villarino 7
 Alejandra Trelles       8.5
 # critic.de
-#Pamela Bienzobas     7.5
-#Boris Nelepo          5
+#Pamela Biénzobas     7.5
+Till Kadritzke        4
+#Boris Nelepo         5
 Rüdiger Suchsland    6
 Blake Williams        4
 # Le film français
