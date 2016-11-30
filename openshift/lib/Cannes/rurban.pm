@@ -638,7 +638,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/2016';
+  redirect '/Sundance2017';
 };
 
 1;

@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = qw(2016);
+our @YEARS = qw(2016 2017);
 our $comp_section = 'Wettbewerb';
 our @sections = ($comp_section, "Forum", "Panorama", "Generation", 
                  "Perspektive Deutsches Kino", "Forum Expanded", "Special",
@@ -564,6 +564,9 @@ sub _list {
 
 get '/Berlinale2016' => sub {
   _list(2016);
+};
+get '/Berlinale2017' => sub {
+  _list(2017);
 };
 
 get '/BerlinaleAll' => sub {

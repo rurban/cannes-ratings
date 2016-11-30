@@ -6,10 +6,11 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Sundance';
-our @YEARS = qw(2015 2016);
+our @YEARS = qw(2015 2016 2017);
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
-                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres", "Documentary Premieres", "Special Events", 
+                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres",
+                 "Documentary Premieres", "Special Events", 
                  "Slamdance");
 
 sub us_rating {
@@ -185,7 +186,7 @@ sub _dump {
   my @t = @{$_[2]};
   my @all = @t;
   my %sections = map{$_=>1} @sections;
-  @t = sort { $b->[1] <=> $a->[1] || $b->[0] <=> $a->[0] } @t;
+  @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
     $l =~ s/ \[(.+?)\]//; my $section = $1;
@@ -400,9 +401,8 @@ sub _dump {
   my $j=1; my $six=1;
   for (sort 
        {
-	 !$b->[2] ? -1
-	 : !$a->[2] ? 1
-	 : $b->[1] <=> $a->[1]
+	 $a->[1] <=> $b->[1] ? $a->[1] <=> $b->[1]
+                             : $a->[0] cmp $b->[0]
        } @t)
   {
     my ($l,$a,$n,$t) = @{$_};
@@ -563,6 +563,9 @@ get '/Sundance2015' => sub {
 get '/Sundance2016' => sub {
   _list(2016);
 };
+get '/Sundance2017' => sub {
+  _list(2017);
+};
 
 get '/SundanceAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
@@ -588,13 +591,13 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2016";
+  $all->{year} = "2015-2017";
   $all->{side_details} = _side_details(\%critic, \%title);
   template lc($BASE), $all;
 };
 
 #get '/' => sub {
-#  redirect '/Sundance2016';
+#  redirect '/Sundance2017';
 #};
 
 1;

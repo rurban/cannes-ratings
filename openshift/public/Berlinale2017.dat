@@ -1,0 +1,211 @@
+package Berlinale::rurban::2017; # -*- perl -*-
+#!/usr/bin/perl
+# Berlinale 2016 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+
+use utf8;
+our $DATA= <<'EOF';
+
+Wettbewerb
+Forum
+Panorama
+Generation
+Perspektive Deutsches Kino
+Forum Expanded
+Special
+Native
+Retrospektive
+Woche der Kritik
+
+""
+
+EOF
+
+our @critics;
+$critics[0] = "
+Miriam Bale (MUBI, US)
+Arnaud Hée (Critikat.com, France)
+Andrey Arnold (Die Presse, Austria)
+Dunja Bialas (artechock, Deutschland)
+Johannes Bluth (critic.de, Deutschland)
+Hannes Brühwiler (critic.de, Deutschland)
+Lukas Foerster (Perlentaucher, Deutschland)
+Martin Gobbin (critic.de, Deutschland)
+Thomas Groh (Perlentaucher, Deutschland)
+David Hudson (Fandor, US)
+Frédéric Jaeger (critic.de, Deutschland)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Claudia Reinhard (critic.de, Deutschland)
+Christoph Huber (Die Presse, Austria)
+Frédéric Jaeger (critic.de, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+Daniel Kasman (MUBI, US)
+Michael Kienzl (critic.de, Deutschland)
+Kevin B. Lee (Fandor, US)
+Boris Nelepo (Sceance.ru, Russland)
+Nikolaus Perneczky (Perlentaucher, Deutschland)
+Sonja M. Schultz (critic.de, Deutschland)
+Nino Klingler (critic.de, Deutschland)
+Rüdiger Suchsland (arteschock, Deutschland)
+Carolin Weidner (Tip, Deutschland)
+Alexandra Zawia (Ray, Austria)
+Ekkehard Knörer (Cargo, Deutschland)
+";
+# letterboxd
+$critics[1] = "
+Felix H. (Dis+Positiv, Deutschland)
+Pablo Villaça (Cinema em Cena, Brasilien)
+Vytenis Galvėnas (Vilnius University, Lithuania)
+Ole Johnny Fossås (Jump Cut, Norway)
+Jasper Behrensdorf (Leibniz Universität Hannover, Deutschland)
+Bumstead (Deutschland)
+Antonio Dakeyras (Deutschland)
+Stavros Tagres (GB)
+Eddie Falvey (One Room With A View, GB)
+Hoss Ghonouie (Everyman Cinemas, GB)
+Bradley Porter (Filmmaker, GB)
+John Tikis (Musician, Greece)
+";
+$critics[2] = "
+Otto Kylmälä (Loud Silents Festival, Lithuania)
+Joachim Kurz (Kino-Zeit, Deutschland)
+Beatrice Behn (Kino-Zeit, Deutschland)
+Harald Mühlbeyer (Kino-Zeit, Deutschland)
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alison Willmore (BuzzFeed, US)
+Alissa Wilkinson (Christianity Today, US)
+Angie Han (Slash, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Smith (UK)
+Bilge Ebiri  (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Bryan Bishop (The Verge, US)
+Carlos Aguilar (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, US)
+Daniel Mecca (The Film Stage, US)
+David D'Arcy (Screen International, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eric Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Jean-Christophe Simon (Films Boutique, Deutschland)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Glenn Kenny (RogerEbert.com, US)
+Gregory Ellwood (HitFix, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+James McAllister (Culture Fly, GB)
+Jason Bailey (Flavorwire, US)
+Jenni Miller  (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+John DeFore (The Hollywood Reporter, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Film School Rejects, MSN Movies, Boxoffice Magazine, US)
+Katie Walsh (The Playlist, US)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Mel Valentin (Next Projection, US)
+Michael Pattison (RogerEbert.com, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Mirjam Urban (Free, Deutschland)
+Neil Miller (Film School Rejects, US)
+Neil Young (RogerEbert.com, GB)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Oktay Ege Kozak (The Playlist, US)
+Peter Debruge (Variety, US)
+Reena Chohan (TIFF, Canada)
+Reini Urban (Free, Deutschland)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slash, US)
+Ryan Lattanzio (TOH!, US)
+Sam Fragoso (Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Victor Fraga (Dirty Movies, GB)
+Maysa Moncao (Dirty Movies, GB)
+Wesley Morris (Grantland, US)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Berlinale2017.dat
+
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
