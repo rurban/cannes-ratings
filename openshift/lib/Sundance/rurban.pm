@@ -9,7 +9,7 @@ our $BASE = 'Sundance';
 our @YEARS = qw(2015 2016 2017);
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
-                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Premieres",
+                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Kids", "Premieres",
                  "Documentary Premieres", "Special Events", 
                  "Slamdance");
 
@@ -50,7 +50,7 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^(\(|\s+)(\S.*)/ and $title) { # film comments, links
+    elsif (/^(-|\(|\s+)(\S.*)/ and $title) { # film comments, links
       my $cmt = $1.$2;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
@@ -70,7 +70,7 @@ sub _read {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
 	($critic,$mag,$cn) = ($1,'',$2);
-      } elsif (/^(\S[^\(]+) \s+ (\d[\d\.]* | [ABCDEF][\+\-]?)/x) {
+      } elsif (/^(\S[^-\(]+) \s+ (\d[\d\.]* | [ABCDEF][\+\-]?)/x) {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
