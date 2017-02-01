@@ -30,13 +30,18 @@ sub _read {
   for my $c (@{$critics}) {
     for (split/\n/,$c) {
       undef $critic;
-      if (/^(\S.+) \((.+), (.+)\)/) {
+      if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
-      } elsif (/^(\S.+) \((.+)\)/) {
-	($critic,$mag,$cn) = ($1,'',$2);
+      } elsif (/^(\S.+) \((.+?)\)/) {
+        if (length($2) > 3) {
+          ($critic,$mag,$cn) = ($1,$2,'');
+        } else {
+          ($critic,$mag,$cn) = ($1,'',$2);
+        }
       }
       next unless $critic;
-      $critic{$critic}->{cn} = $cn if $cn;
+      $critic =~ s/\s+$//;
+      $critic{$critic}->{cn}  = $cn if $cn;
       $critic{$critic}->{mag} = $mag if $mag;
       $critic{$critic}->{group} = $critics_group[$i];
     }
@@ -129,9 +134,12 @@ sub _detail {
     }
     $out .= "</code></tr>\n";
   }
-  for (sort {!defined $h->{critic}->{$b}->[0] ? -1
-	       : !defined $h->{critic}->{$a}->[0] ? 1
-	       : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]}
+  # sort reviews first, then ratings, then name
+  for (sort {(!defined $h->{critic}->{$a}->[0] ? 
+               ( !defined $h->{critic}->{$b}->[0] ? $a cmp $b : -1)
+              : !defined $h->{critic}->{$b}->[0] ? 1
+              : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0])
+	      || ($a cmp $b) }
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
@@ -250,7 +258,8 @@ sub _dump {
         #$title{$t}->{num}--;
         my $bak = $title{$t}->{critic}->{$c}->[0];
 	delete $title{$t}->{critic}->{$c};
-	#$title{$t}->{num} = scalar keys %{$title{$t}->{critic}};
+	$title{$t}->{numcritics} = scalar keys %{$title{$t}->{critic}};
+	$title{$t}->{numreviews} = scalar keys %{$title{$t}->{review}};
 	my ($n,$sum)=(0,0);
 	for (keys %{$title{$t}->{critic}}) {
 	  if (exists $title{$t}->{critic}->{$_}) {
@@ -324,9 +333,9 @@ sub _dump {
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
   }
+  $out .= "\n<h1>All official sections</h1>\n\n";
   my ($allreviews, $numratings) = (0,0);
   my %section;
-  $out .= "\n<h1>All official sections</h1>\n\n";
   for my $section (@sections) {
     my ($sum,$num) = (0,0); 
     my @titles = keys %title;
@@ -334,7 +343,8 @@ sub _dump {
       if ($title{$_}->{section} and $title{$_}->{section} eq $section) {
         my $numreviews = scalar keys %{$title{$_}->{review}};
         $allreviews += $numreviews;
-        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num}, $title{$_}->{stddev}, $numreviews ];
+        $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num},
+                                     $title{$_}->{stddev}, $numreviews ];
         if ($title{$_}->{num}) {
 	  $sum += $title{$_}->{avg}; 
 	  $num++
@@ -346,41 +356,48 @@ sub _dump {
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
       $out .= $num
-	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
-	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
-      for (sort 
-	   {
-	     !$section{$section}->{$b}->[1] ? -1
-	       : !$section{$section}->{$a}->[1] ? 1
-	       : ($section{$section}->{$b}->[0] <=> $section{$section}->{$a}->[0]
-                  || $a cmp $b)
-	   }
-	   keys %{$section{$section}})
-      { 
-	my $s=$section{$section}->{$_}->[2];
+      	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
+      	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
+      my $sect_t = $section{$section};
+      my @titles = sort keys %$sect_t;
+      my @rated_titles = grep {$sect_t->{$_}->[0] ? $_ : undef} @titles;
+      @rated_titles = sort {
+        $sect_t->{$b}->[0] <=> $sect_t->{$a}->[0]
+      } @rated_titles;
+      my @unrated_titles = grep {!$sect_t->{$_}->[0] ? $_ : undef} @titles;
+      @unrated_titles = sort {
+        $sect_t->{$b}->[3] <=> $sect_t->{$a}->[3]
+      } @unrated_titles if $num;
+      for (@rated_titles, @unrated_titles)
+      {
+        my $n=$sect_t->{$_}->[1];
+	my $s=$sect_t->{$_}->[2];
+        my $r=$sect_t->{$_}->[3];
 	$s=0 unless $s;
 	my $l=$title{$_}->{line};
 	$l=$s>=2.0?"<i>$l</i>":$l;
         $l="<small>$l</small>" if $num and $title{$_}->{num} < 10;
-        if ($six and $section{$section}->{$_}->[0] < 6) {
+        if ($six and $sect_t->{$_}->[0] < 6) {
           $six=0;
 	  $out .= "<tr><td colspan=3>";
 	  $out .= "-"x25;
 	  $out .= "</td></tr>\n";
 	}
-        my @l = ($section{$section}->{$_}->[0],
-                 $section{$section}->{$_}->[1],
-                 $section{$section}->{$_}->[2]);
-        my $ns = $section{$section}->{$_}->[1] 
-          ? sprintf("%0.2f/%d&nbsp;%0.1f", @l)
-          : '-';
-        my $detail = ($section{$section}->{$_}->[1] or $title{$_}->{comment})
+        my $ns = $n
+          ? sprintf("%0.2f/%d&nbsp;%0.1f", $sect_t->{$_}->[0], $n, $s)
+          : $r
+            ? 'reviews'
+            : '-';
+        my $cmt = $title{$_}->{comment} || "";
+        my $detail = ($n or $r or $cmt)
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
           : "[$ns]";
-        if ($section{$section}->{$_}->[1]) {
-          $out .= sprintf("<tr><td>%2d.</td> <td>%s</td> <td>%s</td></tr>\n", $j++, $l, $detail);
-        } elsif ($title{$_}->{comment}) {
-	  $out .= "<tr><td> </td>    <td>$l</td> <td>$detail</td></tr>\n";
+        if ($n) {
+          $out .= sprintf("<tr><td>%2d.</td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $j++, $cmt, $l, $detail);
+        } elsif ($r) {
+          $out .= sprintf("<tr><td> </td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $cmt, $l, $detail);
+        } elsif ($cmt) {
+	  $out .= sprintf("<tr><td> </td>    <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $cmt, $l, $detail);
         } else {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>[-]</td></tr>\n";
         }
@@ -397,9 +414,8 @@ sub _dump {
   my $j=1; my $six=1;
   for (sort 
        {
-	 !$b->[2] ? -1
-	 : !$a->[2] ? 1
-	 : ($b->[1] <=> $a->[1] || $a->[0] cmp $b->[0])
+	 $a->[1] <=> $b->[1] ? $b->[1] <=> $a->[1]
+                             : $a->[0] cmp $b->[0]
        } @t)
   {
     my ($l,$a,$n,$t) = @{$_};
