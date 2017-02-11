@@ -657,7 +657,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/Sundance2017';
+  redirect '/Berlinale2017';
 };
 
 1;
