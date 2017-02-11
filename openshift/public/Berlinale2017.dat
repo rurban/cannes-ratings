@@ -189,8 +189,6 @@ Jenny Jecke           5
 Ekkehard Knörer      7.5
 #
 Letterbox 18_Users       http://letterboxd.com/film/t2-trainspotting/
-ah0                 10   http://letterboxd.com/ah0/film/t2-trainspotting/
-maxinecrampton      10   http://letterboxd.com/maxinecrampton/film/t2-trainspotting/
 
 "Viceroy’s House" (Gurinder Chadha, Großbritannien) [Wettbewerb]
  Mit Hugh Bonneville, Gillian Anderson, Manish Dayal, Huma Qureshi. Weltpremiere – Außer Konkurrenz
@@ -1244,6 +1242,7 @@ Michael Kienzl        6
 EOF
 
 our @critics;
+$critics_group[0] = "critic.de";
 $critics[0] = "
 Miriam Bale (MUBI, US)
 Arnaud Hée (Critikat.com, France)
@@ -1275,6 +1274,7 @@ Alexandra Zawia (Ray, Austria)
 Ekkehard Knörer (Cargo, Deutschland)
 ";
 # letterboxd
+$critics_group[1] = "letterboxd";
 $critics[1] = "
 Felix H. (Dis+Positiv, Deutschland)
 Pablo Villaça (Cinema em Cena, Brasilien)
@@ -1289,6 +1289,7 @@ Hoss Ghonouie (Everyman Cinemas, GB)
 Bradley Porter (Filmmaker, GB)
 John Tikis (Musician, Greece)
 ";
+$critics_group[2] = "None";
 $critics[2] = "
 Otto Kylmälä (Loud Silents Festival, Lithuania)
 Joachim Kurz (Kino-Zeit, Deutschland)

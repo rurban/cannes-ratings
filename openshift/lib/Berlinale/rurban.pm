@@ -27,7 +27,9 @@ sub _read {
   my $critics = shift;
   my %critic = %{$_[0]};
   my %title = %{$_[1]};
+  my @critics_group = @{$_[2]};
   my ($critic,$mag,$cn,$out,@t);
+  my $i = 0;
   for my $c (@{$critics}) {
     for (split/\n/,$c) {
       undef $critic;
@@ -44,7 +46,9 @@ sub _read {
       $critic =~ s/\s+$//;
       $critic{$critic}->{cn}  = $cn if $cn;
       $critic{$critic}->{mag} = $mag if $mag;
+      $critic{$critic}->{group} = $critics_group[$i];
     }
+    $i++;
   }
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
@@ -134,9 +138,12 @@ sub _detail {
     }
     $out .= "</code></tr>\n";
   }
-  for (sort {!defined $h->{critic}->{$b}->[0] ? -1
-	       : !defined $h->{critic}->{$a}->[0] ? 1
-	       : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0]}
+  # sort reviews first, then ratings, then name
+  for (sort {(!defined $h->{critic}->{$a}->[0] ? 
+               ( !defined $h->{critic}->{$b}->[0] ? $a cmp $b : -1)
+              : !defined $h->{critic}->{$b}->[0] ? 1
+              : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0])
+	      || ($a cmp $b) }
        keys %{$h->{critic}}) {
     my $c = defined($h->{critic}->{$_}->[0]) ? $h->{critic}->{$_}->[0] : '';
     my $n = $_;
@@ -185,7 +192,7 @@ sub _dump {
   my @t = @{$_[2]};
   my @all = @t;
   my %sections = map{$_=>1} @sections;
-  @t = sort {$b->[1] <=> $a->[1]} @t;
+  @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
     $l =~ s/ \[(.+?)\]//; my $section = $1;
@@ -194,7 +201,7 @@ sub _dump {
     $title{$t}->{'avg'} = $a;
     $title{$t}->{'num'} = $n;
     $title{$t}->{'line'} = $l;
-    for my $c (keys %{$title{$t}->{critic}}) {
+    for my $c (sort keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
       if (defined $x) {
         push @{$title{$t}->{critic}->{$c}}, $x - $a;
@@ -207,6 +214,11 @@ sub _dump {
   if (Dancer::SharedData->request and params->{cn}) {
     $params_cn = ref(params->{cn}) eq 'ARRAY' ? params->{cn} : [ params->{cn} ];
     $params_cn{$_}++ for (@$params_cn);
+  }
+  my (%params_g, $params_g);
+  if (Dancer::SharedData->request and params->{g}) {
+    $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
+    $params_g{$_}++ for (@$params_g);
   }
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
@@ -237,6 +249,9 @@ sub _dump {
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
+    if ( %params_g and $critic{$c}->{group} ) {
+      $badcritic{$c}++ unless exists($params_g{$critic{$c}->{group}});
+    }
   }
   # remove critics from %title if critics->stddev > 2.5.
   # we could strike out the best and worst per film, but better strike out off-critics
@@ -265,7 +280,10 @@ sub _dump {
       }
     }
   }
-  @t = sort {$title{$b->[3]}->{avg} <=> $title{$a->[3]}->{avg}} @t;
+  @t = sort {
+    $title{$b->[3]}->{avg} <=> $title{$a->[3]}->{avg}
+    || $a->[3] cmp $b->[3]
+  } @t;
   my $i=1;
   for (@t) { 
     my $t = $_->[3]; 
@@ -283,7 +301,7 @@ sub _dump {
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n <= 3 or $a < 7.5;
+    next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
@@ -304,7 +322,7 @@ sub _dump {
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num}; 
-    next if $a < 6.0 or $a >= 7.5 or $n <= 3;
+    next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
@@ -405,9 +423,8 @@ sub _dump {
   my $j=1; my $six=1;
   for (sort 
        {
-	 !$b->[2] ? -1
-	 : !$a->[2] ? 1
-	 : $b->[1] <=> $a->[1]
+	 $a->[1] <=> $b->[1] ? $b->[1] <=> $a->[1]
+                             : $a->[0] cmp $b->[0]
        } @t)
   {
     my ($l,$a,$n,$t) = @{$_};
@@ -433,14 +450,15 @@ sub _dump {
   }
 
   my $numc = scalar(keys(%critic));
-  $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
-                  $numc - scalar(keys(%badcritic)),$numc;
-  $out .= "<i>filter stddev >2.5 from avg</i><br>\n";
-  $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
+  if ($numc) {
+    $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
+            $numc - scalar(keys(%badcritic)),$numc;
+    $out .= "<i>filter stddev >2.5 from avg</i><br>\n";
+    $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
 * &gt:1.5 over-rater,
 * &lt;-1.5 under-rater,
 * -1.5 - 1.5 deviant ratings in boths directions. e.g. ceiling effect\">±diff</i>\n<table>\n";
-  if ($numc) {
+  
     for (sort 
 	 {
 	   !exists $critic{$a}->{stddev} ? 1
@@ -460,6 +478,7 @@ sub _dump {
           $c = sprintf("%s (%s)", $_, $critic{$_}->{cn});
         } else {
           $c = $_;
+          next if $n == 1;
         }
       }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
@@ -492,20 +511,37 @@ sub _dump {
 sub _side_details {
   my %title = %{$_[0]};
   my %critic  = %{$_[1]};
+  my @critics_group  = @{$_[2]};
   my $out = '';
   if (Dancer::SharedData->request and params->{t}) {
     my $t = params->{t};
-    my %params_cn;
+    my (%params_cn, %params_g, %cn, %g_cnt);
     if (params->{cn}) {
       my $params_cn = ref(params->{cn}) eq 'ARRAY' ? params->{cn} : [ params->{cn} ];
       $params_cn{$_}++ for (@$params_cn);
     }
-    my ($cnbox, %cn) = ("<form><input type=hidden name=t value=\"$t\">\n");
+    if (params->{g}) {
+      my $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
+      $params_g{$_}++ for (@$params_g);
+    }
+    my $gbox = "<form><input type=hidden name=t value=\"$t\">\n";
+    my $cnbox = "";
     for (keys %critic) {
       if (my $cn = $critic{$_}->{cn}) {
 	$cn{$cn}++;
 	$params_cn{$cn}++ unless params->{cn};
       }
+      if (my $g = $critic{$_}->{group}) {
+	$g_cnt{$g}++;
+	$params_g{$g}++ unless params->{g};
+      }
+    }
+    for (@critics_group) {
+      next unless $_;
+      my $n = $g_cnt{$_} || 0;
+      $gbox .= "<label><input name=\"g\" type=checkbox value=\"$_\"";
+      $gbox .= " checked" if $params_g{$_};
+      $gbox .= ">$_ ($n)</input></label><br>\n";
     }
     for (sort keys(%cn)) {
       next if $_ eq '?';
@@ -520,9 +556,17 @@ sub _side_details {
 	    . ($t ne "*"
 	       ? '<p><a href="?t=*"> all details </a></p>'
 	       : '<p><a href="?t="> no details </a></p>'
-	      )
-	    . '
-            <div onclick="flipAll(\'cn\')"><b title="Filter ratings (click to flip all)">Critics countries</b></div>
+            )
+            ;
+    $out .= '
+            <h4 onclick="flipAll(\'g\')"><b title="Filter ratings (click to flip all)">Poll</b></h4>
+	    '
+	    . $gbox . 
+	    '<input type=submit value="Filter">
+	     <span class=hover onclick="selectAll(\'g\')" title="Click here to select all">[all]</span>
+	     <span class=hover onclick="flipAll(\'g\')"  title="Click here to invert the selection">[flip]</span><br />' if @critics_group;
+    $out .= '
+            <h4 onclick="flipAll(\'cn\')"><b title="Filter ratings (click to flip all)">Critics countries</b></h4>
 	    '
 	    . $cnbox . 
 	    '<input type=submit value="Filter">
@@ -550,11 +594,12 @@ sub _list {
   my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
-  my $vars = _dump( _read($DATA, \@critics, {}, {}) );
+  my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
+  my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group) );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
-  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic});
+  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
   if ($DATA) {
     template lc($BASE), $vars;
   } else {
@@ -585,7 +630,8 @@ get '/BerlinaleAll' => sub {
     my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
     my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
     my @critics = @{"$BASE\::rurban::$year\::critics"};
-    my @new = _read($DATA, \@critics, \%critic, \%title);
+    my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
+    my @new = _read($DATA, \@critics, \%critic, \%title, \@critics_group);
     %critic = %{$new[0]}; %title = %{$new[1]};
     push @t, @{$new[2]};
     $vars->{year} = $year;
@@ -593,9 +639,10 @@ get '/BerlinaleAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2016-";
-  $all->{side_details} = _side_details(\%critic, \%title);
-  template 'berlinale', $all;
+  $all->{year} = "2016-2017";
+  $all->{side_details} = _side_details(\%critic, \%title,
+                                       \@{"$BASE\::rurban::2017::critics_group"});
+  template lc($BASE), $all;
 };
 
 #get '/' => sub {
