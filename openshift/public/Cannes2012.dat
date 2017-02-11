@@ -1,4 +1,4 @@
-package Cannes::rurban::2012;
+package Cannes::2012;
 
 #!/usr/bin/perl -- -*- perl -*-
 # Cannes 2012 Critics Ratings, collected by Diego Lerer, ioncinema, indiewire and Reini Urban

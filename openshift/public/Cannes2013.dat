@@ -1,4 +1,4 @@
-package Cannes::rurban::2013;
+package Cannes::2013;
 
 #!/usr/bin/perl -- -*- perl -*-
 # Cannes 2013 Critics Ratings

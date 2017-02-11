@@ -1,4 +1,4 @@
-package Sundance::rurban::2015; # -*- perl -*-
+package Sundance::2015; # -*- perl -*-
 #!/usr/bin/perl
 # Sundance 2015 Critics Ratings
 # {'A+' => 10,  'A' => 9,   'A-' => 8,
