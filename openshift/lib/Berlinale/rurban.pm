@@ -316,7 +316,7 @@ sub _dump {
     }
     $i++;
   }
-  my $h = "<h1><a name=\"verygood\"></a> Very Good New Films (avg>7.5, n>3)</h1>\n<table>\n";
+  my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
   for (@t) { 
@@ -338,7 +338,7 @@ sub _dump {
     $i++;
   }
   if ($list) {
-    $out .= "<h1><a name=\"good\"></a>Good New Films (avg>6, n>3)</h1>\n<table>\n"
+    $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
   }
