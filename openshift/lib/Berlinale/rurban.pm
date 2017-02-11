@@ -245,7 +245,8 @@ sub _dump {
       $critic{$c}->{absdiff} = $asum / $num;
       $critic{$c}->{stddev}  = sqrt($s / $num);
     }
-    $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5;
+    $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5
+      and $c !~ /^(Letterbox|Cannes|Sundance) \d/;
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
