@@ -55,7 +55,7 @@ ello                5
 Kenji Fujishima     5
 Matt Severson       5
 Sandra              4
-ParanoidAndroid     4
+Matthias Hopf     4
 IvanZgaib           4
 Tommaso Tocci       4
 SteinBerg           4
@@ -109,7 +109,7 @@ ferhood             6
 beatMiguel          6
 Aristea Tomopoulou  5
 JM Oursler          5
-ParanoidAndroid     4
+Matthias Hopf     4
 ChristineT          4
 Slimsusie           2
 ersinali1           2
@@ -151,7 +151,7 @@ Hardy Zaubitzer     6
 Claudia Dostal      6
 Crayfish            6
 ChristineT          5
-ParanoidAndroid     5
+Matthias Hopf     5
 Tara                5
 Paul Perkins        5
 Arvena              5
@@ -206,7 +206,7 @@ NSlater90           6
 Claudia Dostal      6
 Alvis Gļeba        6
 Augusts B.          6
-ParanoidAndroid     5
+Matthias Hopf     5
 Pablo Villaça      5
 dingussi            5
 Crayfish            5
@@ -266,7 +266,7 @@ Traumkugel          7
 tobiwan1138         7
 Claudia Dostal      7
 Alvis Gļeba        7
-ParanoidAndroid     7
+Matthias Hopf     7
 Zane Timonina       7
 zombieatemyhead     6
 Bruno Carmelo       6   http://letterboxd.com/brunocarmelo/film/the-party-2017/
@@ -364,7 +364,7 @@ Bruno Carmelo       6   http://letterboxd.com/brunocarmelo/film/on-body-and-soul
 klaaargh            6
 ferhood             6
 Crayfish            5
-ParanoidAndroid     4
+Matthias Hopf     4
 JM Oursler          4
 
 "Toivon tuolla puolen (The Other Side of Hope)" (Aki Kaurismäki, Finnland) [Wettbewerb]
@@ -437,7 +437,7 @@ Kyynärpää        7
 Mikko               7
 jotoivio            7
 paolawt             6
-ParanoidAndroid     6
+Matthias Hopf     6
 Paul Thomas Heath   6
 ferhood             6
 Jussi Hulkkonen     6
@@ -477,7 +477,7 @@ demetrios_jb        7
 janrs               7
 Bruno Carmelo       7   http://letterboxd.com/brunocarmelo/film/a-fantastic-woman/
 Jorge López        7
-ParanoidAndroid     7
+Matthias Hopf     7
 Slimsusie           7
 JM Oursler          7
 mambolina           7
@@ -534,7 +534,7 @@ Tino Hahn           6
 Kenji Fujishima     6
 Andrew Grant        5
 beatMiguel          4
-ParanoidAndroid     4
+Matthias Hopf     4
 Antoine Waked       4
 pernillere          4
 klaaargh            4
@@ -565,7 +565,7 @@ Crayfish            8
 Amanda              7
 uj                  7
 Alex Shemp          7
-ParanoidAndroid     7
+Matthias Hopf     7
 Laura               6
 Anna                6
 blahr               6   http://letterboxd.com/blahr/film/bright-nights/
@@ -698,7 +698,7 @@ ChristianG          6
 ichbinsev           6
 Philipp             6
 tothnandor          6
-ParanoidAndroid     5
+Matthias Hopf     5
 Claudia Dostal      5
 Kenji Fujishima     5
 flippanta           4
@@ -733,7 +733,7 @@ Christian Ihle      7
 Hardy Zaubitzer     7
 Crayfish            7
 Jeth112             7
-ParanoidAndroid     7
+Matthias Hopf     7
 Claudia Dostal      7
 zombieatemyhead     6
 Traumkugel          6
@@ -847,7 +847,7 @@ Luke Grunau         7
 Bare Bard           7
 lindylieu           7
 Crayfish            7
-ParanoidAndroid     7
+Matthias Hopf     7
 John Palmer         7
 ferhood             6
 Tommaso Tocci       6
@@ -1129,7 +1129,7 @@ Thomas Groh           5
  A Documentary about the artist Tania Bruguera and her sessions with Dr. Frank M. Ochberg, the founding father of trauma therapy, after she was imprisoned in Cuba for eight months
 
 #letterboxd
-ParanoidAndroid     6
+Matthias Hopf     6
 Crayfish            6
 Tarek Boyd          5
 
@@ -1690,7 +1690,7 @@ mtb                 8
 Paul Thomas Heath   8
 Adolf El Assal      7
 lehmanns            7
-ParanoidAndroid     7
+Matthias Hopf     7
 uj                  7
 Truppi              6
 J.                  6
@@ -2048,6 +2048,7 @@ Rüdiger Suchsland (arteschock, Deutschland)
 Carolin Weidner (Tip, Deutschland)
 Alexandra Zawia (Ray, Austria)
 Ekkehard Knörer (Cargo, Deutschland)
+Pamela Biénzobas (Mabuse, Chile) 
 ";
 # letterboxd
 $critics_group[1] = "letterboxd";
@@ -2065,6 +2066,7 @@ Hoss Ghonouie (Everyman Cinemas, GB)
 Bradley Porter (Filmmaker, GB)
 John Tikis (Musician, Greece)
 Aristea Tomopoulou (Filmmaker, Greece)
+Matthias Hopf (dasfilmfeuilleton.de blog, Deutschland)
 ";
 $critics_group[2] = "None";
 $critics[2] = "
