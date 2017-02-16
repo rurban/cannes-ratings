@@ -163,7 +163,7 @@ Hotline             4
 Rowan Woods         4
 Traumkugel          4
 Pierre              4
-brunocarmelo        4   http://letterboxd.com/brunocarmelo/film/the-dinner-2017/
+Bruno Carmelo       4   http://letterboxd.com/brunocarmelo/film/the-dinner-2017/
 Kristin_Berlin      4
 ichbinsev           4
 Stephan             4
@@ -198,7 +198,7 @@ Philipp Schwarz       5
 Lukas Stern           6
 #letterboxd
 ello                8
-brunocarmelo        8   http://letterboxd.com/brunocarmelo/film/felicite-2017/
+Bruno Carmelo       8   http://letterboxd.com/brunocarmelo/film/felicite-2017/
 sacinephile         6
 Antoine Waked       6
 ichbinsev           6
@@ -269,7 +269,7 @@ Alvis Gļeba        7
 ParanoidAndroid     7
 Zane Timonina       7
 zombieatemyhead     6
-brunocarmelo        6   http://letterboxd.com/brunocarmelo/film/the-party-2017/
+Bruno Carmelo       6   http://letterboxd.com/brunocarmelo/film/the-party-2017/
 Alex Shemp          6
 Hardy Zaubitzer     6
 Mads Voss           6
@@ -314,7 +314,7 @@ Sven Layh           6
 breakerfall         6
 janrs               6
 ichbinsev           6
-brunocarmelo        6   http://letterboxd.com/brunocarmelo/film/spoor/
+Bruno Carmelo       6   http://letterboxd.com/brunocarmelo/film/spoor/
 Claudia Dostal      6
 Dave Jenkins        6
 Aristea Tomopoulou  6
@@ -360,7 +360,7 @@ Jimmy B.            6
 Maximilien Proctor  6
 lehmanns            6
 Pierre              6
-brunocarmelo        6   http://letterboxd.com/brunocarmelo/film/on-body-and-soul/
+Bruno Carmelo       6   http://letterboxd.com/brunocarmelo/film/on-body-and-soul/
 klaaargh            6
 ferhood             6
 Crayfish            5
@@ -475,7 +475,7 @@ Alvis Gļeba        8
 tothnandor          7
 demetrios_jb        7
 janrs               7
-brunocarmelo        7   http://letterboxd.com/brunocarmelo/film/a-fantastic-woman/
+Bruno Carmelo       7   http://letterboxd.com/brunocarmelo/film/a-fantastic-woman/
 Jorge López        7
 ParanoidAndroid     7
 Slimsusie           7
@@ -576,7 +576,7 @@ ferhood             6
 paolawt             5
 muntzer thomas      5
 viviano             5
-brunocarmelo        5   http://letterboxd.com/brunocarmelo/film/bright-nights/
+Bruno Carmelo       5   http://letterboxd.com/brunocarmelo/film/bright-nights/
 Christian76         5
 LittleMary          5
 Arvena              5
@@ -869,7 +869,7 @@ Martin Gobbin         5
 bettikoehler        8
 PerseuEvans         7
 ferhood             7
-brunocarmelo        6   http://letterboxd.com/brunocarmelo/film/vazante/
+Bruno Carmelo       6   http://letterboxd.com/brunocarmelo/film/vazante/
 ditte               6
 Antonio Dakeyras    6
 Matilda Muybridge   5
@@ -1037,7 +1037,7 @@ Martin Gobbin         5
 #letterboxd
 Pablo Villaça      10
 Crayfish            9
-brunocarmelo        8   http://letterboxd.com/brunocarmelo/film/pendular/
+Bruno Carmelo       8   http://letterboxd.com/brunocarmelo/film/pendular/
 Carlos Magalhães   8
 tothnandor          7
 Arvena              6
@@ -1263,7 +1263,7 @@ Generation Kplus
 Pamela Biénzobas     6
 #letterboxd
 Francisco Bianchi   8
-brunocarmelo        7   http://letterboxd.com/brunocarmelo/film/two-irenes/
+Bruno Carmelo       7   http://letterboxd.com/brunocarmelo/film/two-irenes/
 movie_man           7   http://letterboxd.com/movie_man/film/two-irenes/
 mtb                 6
 Bare Bard           4
@@ -1962,7 +1962,7 @@ Michael Kienzl        5
 
 "TAMAROZ (SIMULATION)" (Abed Abest, Iran) [Forum] WP
 
-"EL TEATRO DE LA DESAPARICIÓN (THE THEATRE OF DISAPPEARANCE)" (Adrián Villar Rojas, Argentina [Forum] WP
+"EL TEATRO DE LA DESAPARICIÓN (THE THEATRE OF DISAPPEARANCE)" (Adrián Villar Rojas, Argentina) [Forum] WP
 
 # critic.de
 Till Kadritzke        7.5     http://www.critic.de/film/the-theatre-of-disappearance-10865/
@@ -2067,6 +2067,7 @@ John Tikis (Musician, Greece)
 ";
 $critics_group[2] = "None";
 $critics[2] = "
+Bruno Carmelo (adorocinema.com, Brasil)
 Otto Kylmälä (Loud Silents Festival, Lithuania)
 Joachim Kurz (Kino-Zeit, Deutschland)
 Beatrice Behn (Kino-Zeit, Deutschland)
