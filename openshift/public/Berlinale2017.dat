@@ -31,7 +31,7 @@ Pamela Biénzobas     2.5
 David Hudson          2.5
 Jenny Jecke           2.5
 G.Marchini Camia      4
-Sonja M. Schultz 1
+Sonja M. Schultz      1
 Philipp Schwarz       4
 Lukas Stern           1       http://www.critic.de/film/django-10699/
 #letterboxd
@@ -79,6 +79,7 @@ Tazio               2
 # critic.de
 David Hudson          6
 Philipp Schwarz       6       http://www.critic.de/film/beuys-10705/
+Carolin Weidner       7.5
 #letterboxd
 MrMDK               10
 lauriejacobine      8
@@ -106,6 +107,7 @@ Jenny Jecke           1
 Till Kadritzke        6
 Michael Kienzl        7.5
 Nino Klingler         6
+Carolin Weidner       6
 #letterboxd
 Bruno Carmelo       9
 Pablo Villaça      8
@@ -209,6 +211,7 @@ Michael Kienzl        5
 G.Marchini Camia      4
 Philipp Schwarz       5
 Lukas Stern           6
+Carolin Weidner       6
 #letterboxd
 monkeybox83         9
 ello                8
@@ -264,6 +267,16 @@ ichbinsev           3
 Pablo Villaça      3
 Crayfish            3
 Calum Marsh         3
+
+"Have a Nice Day (Hao ji le)" (Jian Liu, China) [Wettbewerb]
+
+# critic.de
+Manon Cavagna         2.5
+Jenny Jecke           4
+Lukas Stern           4
+#letterboxd
+Crayfish              7
+Alex Shemp            5
 
 "Ein Kuss von Béatrice (Sage femme/The Midwife)" (Martin Provost, Frankreich) [Wettbewerb]
 
@@ -580,6 +593,19 @@ Crayfish            3
 "Bamui haebyun-eoseo honja (On the Beach at Night Alone)" (Hong Sangsoo, Korea) [Wettbewerb]
  Mit Kim Minhee, Seo Younghwa, Jung Jaeyoung, Moon Sungkeun, Kwon Haehyo, Song Seonmi, Ahn Jaehong, Park Yeaju. Weltpremiere
 
+# critic.de
+Andrey Arnold         7.5
+Dunja Bialas          6
+Hannes Brühwiler     9
+Martin Gobbin         5
+Jenny Jecke           7.5
+Till Kadritzke        9
+Michael Kienzl        5
+Ekkehard Knörer      9
+G.Marchini Camia      9
+Philipp Schwarz       7.5
+Lukas Stern           7.5
+Carolin Weidner       7.5
 #letterboxd
 Neil Bahadur        10
 Kamilleroboter      10
@@ -637,6 +663,7 @@ Christopher Kniep   2
 # critic.de
 Andrey Arnold         7.5
 Thomas Groh           6
+Jenny Jecke           4
 #letterboxd
 Ben Tomkins         9
 Alvis Gļeba        9
@@ -725,6 +752,15 @@ monkeybox83         1
 "Joaquim" (Marcelo Gomes, Brasilien) [Wettbewerb]
  Mit Julio Machado, Isabél Zuaa, Nuno Lopes, Rômulo Braga, Welket Bungué, Karay Rya Pua. Weltpremiere
 
+# critic.de
+Andrey Arnold         6
+Dunja Bialas          1
+Till Kadritzke        2.5
+Michael Kienzl        5
+G.Marchini Camia      6
+Philipp Schwarz       6       http://www.critic.de/film/joaquim-10681/
+Lukas Stern           6
+Carolin Weidner       5
 #letterboxd
 Crayfish            7
 Alvis Gļeba        6
@@ -801,6 +837,7 @@ David Hudson          2.5
 Jenny Jecke           1
 Philipp Schwarz       2.5
 Lukas Stern           1       http://www.critic.de/film/return-to-montauk-10703/
+Carolin Weidner       4
 #letterboxd
 JanJekal            8
 Alvis Gļeba        8
@@ -878,6 +915,7 @@ G.Marchini Camia      6
 Sonja M. Schultz      4
 Philipp Schwarz       5
 Lukas Stern           6       http://www.critic.de/film/wilde-maus-10331/
+Carolin Weidner       4
 #letterboxd
 LittleMary          9
 Hebbie101           8
@@ -1173,11 +1211,19 @@ ferhood             5
 # critic.de
 Andrey Arnold         7.5
 Michael Kienzl        7.5
+Carolin Weidner       7.5
 
 "Dream Boat" (Tristan Ferland Milewski, D)  [Panorama]
 
 # critic.de
 Sonja M. Schultz     5
+
+"Fluidø" (Shu Lea Cheang, D)  [Panorama]
+
+# critic.de
+Till Kadritzke        4
+Michael Kienzl        5
+Lukas Stern           7.5
 
 "From the Balcony (Fra Balkongen)" (Ole Giæver, No)  [Panorama]
 
@@ -1188,6 +1234,7 @@ Martin Gobbin         6
  Mit Jamyang Jamtsho Wangchuk, Sonam Tashi Choden. Das Debüt der Regisseurin, die bereits 2015 mit einem Kurzfilm auf der Berlinale vertreten war, ist ein veritabler buddhistischer Film Noir. Atmosphärisch dichtes Kino, aufgeladen von der Dynamik zwischen Spannung und Ruhe, Glaube und Moral. Europapremiere
 
 # critic.de
+Manon Cavagna         4
 Till Kadritzke        6
 #letterboxd
 sky_erosion         9
@@ -1257,7 +1304,7 @@ Martin Gobbin         4
 Martin Gobbin         1
 Jenny Jecke           2.5
 
-"God's Own Country" (Francis lee, GB)   [Panorama]
+"God's Own Country" (Francis Lee, GB)   [Panorama]
 
 # critic.de
 Michael Kienzl        4
@@ -1279,6 +1326,7 @@ Jenny Jecke           4
 # critic.de
 Till Kadritzke        6
 Sonja M. Schultz      9
+Lukas Stern           5
 #letterboxd
 Arthouse88          10
 Andrea              9
@@ -1420,6 +1468,7 @@ Kaja                7
 
 Letterbox 59_Users	6.37  https://letterboxd.com/film/weirdos/
 # critic.de
+Martin Gobbin         6
 Till Kadritzke        4
 
 "Simulation (Tamaroz)" (Abed Abest, Iran)  [Generation]
@@ -1551,6 +1600,7 @@ Michael Kienzl        7.5
 Nino Klingler         7.5
 Philipp Schwarz       9
 Lukas Stern           9
+Carolin Weidner       6
 #letterboxd
 Maximilien Proctor  8
 notsidneyatall      8
@@ -1676,7 +1726,7 @@ Michael Pattison              http://www.rogerebert.com/festivals-and-awards/ber
 # critic.de
 Nino Klingler         7.5
 G.Marchini Camia      7.5
-Carolin Weidner       6
+Carolin Weidner       7.5
 
 "Green White Green" (Abba Makama, Nigeria 2016) [Woche der Kritik]
  C: Ifeanyi Dike Jr., Samuel Robinson, Jamal Ibrahim, Crystabel Goddy, DP: Segun Olademiji, NG 2016, 102 min., English OV – DP Does there exist a unified notion of Nigeria – historical disjunctions notwithstanding? Abba Makama’s quest for contemporary answers unfolds as a satirical take on Nollywood, whereby the sheer joy and starry-eyed cinephilia make everything fall into place: African and American pop culture, Nigerian past and tradition. A satirical take on Nollywood, whereby the sheer joy and starry-eyed cinephilia make everything fall into place: African and American pop culture, Nigerian past and tradition.
@@ -1700,6 +1750,9 @@ Ekkehard Knörer      9
 Letterbox 165_Users	6.70  http://letterboxd.com/film/i-am-not-madame-bovary/ratings/
 # critic.de
 Pamela Biénzobas     4
+Martin Gobbin         7.5
+Jenny Jecke           7.5
+Michael Kienzl        6
 Nino Klingler         7.5
 G.Marchini Camia      7.5
 Carolin Weidner       6
@@ -1707,7 +1760,9 @@ Carolin Weidner       6
 "Planetarium" (Rebecca Zlotowski)   [Woche der Kritik]
 
 # critic.de
+Till Kadritzke        7.5
 Nino Klingler         5
+Ekkehard Knörer      6
 
 "Sarah Winchester, opéra fantôme" (Bertrand Bonello, F 2016 short)  [Woche der Kritik]
  C: Reda Kateb, Marie-Agnès Gillot, Juliette Vial, DP: Irina Lubtchansky, FR 2016, 24 min., French OV – DP An opera that might never be and a woman growing rich on the arms trade. In his short film, Betrand Bonello pits deranged and dancing women one against the other. “There will be blood.” Haunted by the ghosts of US history. The memories of a gun maker’s wife are re-enacted in a strict choreography.
@@ -1838,8 +1893,14 @@ Till Kadritzke        6
   A year in the life of a 90-year-old north German farmer, who lives alone on a rural farmstead.
 
 # critic.de
+Dunja Bialas          7.5
+Manon Cavagna         7.5
 Thomas Groh           9
 Frédéric Jaeger     7.5
+Jenny Jecke           7.5
+Till Kadritzke        6
+G.Marchini Camia      6
+Lukas Stern           6
 #letterboxd
 Rüdiger Tomczak    10
 gruhl               8
@@ -1948,6 +2009,7 @@ Nino Klingler         6
 
 # critic.de
 Dunja Bialas          4
+Hannes Brühwiler     7.5
 
 "Discreet" (Travis Mathews, USA) [Forum]
 
@@ -1958,6 +2020,7 @@ Martin Gobbin         6
 
 # critic.de
 Pamela Biénzobas     6
+Carolin Weidner       7.5
 
 "For Ahkeem" (Jeremy Levine, Landon Van Soest, USA) [Forum] WP
  The sensitive long-term documentary was shot in Missouri, focussing on Daje, who lives with her single mother in St. Louis. Like many black teenagers in the neighbourhood, she has problems at school, while her everyday life is shaken again and again by the violent deaths of her friends.
@@ -1965,6 +2028,7 @@ Pamela Biénzobas     6
 # critic.de
 Till Kadritzke        7.5
 Michael Kienzl        5
+Carolin Weidner       6
 
 "Golden Exits" (Alex Ross Perry, USA 2017) [Forum] <i>Sundance</i>
   The story of a young Australian woman who comes to New York for a few months and unwittingly throws the lives of two couples into disarray. 
@@ -1972,14 +2036,20 @@ Michael Kienzl        5
 Sundance 45_Ratings   5.93  https://cannes-rurban.rhcloud.com/Sundance2017?t=84#84
 Letterbox 57_Users    6.4   http://letterboxd.com/film/golden-exits/
 # critic.de
+Andrey Arnold         6
+Dunja Bialas          2.5
+Hannes Brühwiler     4
+Martin Gobbin         7.5
 Thomas Groh           6
 David Hudson          5
 Frédéric Jaeger     2.5
+Jenny Jecke           9
 Till Kadritzke        7.5
 Michael Kienzl        6
 G.Marchini Camia      6
 Philipp Schwarz       6
 Lukas Stern           7.5
+Carolin Weidner       7.5
 
 "Jassad Gharib (Foreign Body)" (Raja Amari, Tunesia/France 2016) [Forum]
 
@@ -2000,6 +2070,7 @@ gwself              3
 "The Last Witness (Choihui jeungin)" (Lee Doo-yong, Korea) [Forum]
 
 # critic.de
+Till Kadritzke        9
 Michael Kienzl        9
 
 "LOKTAK LAIREMBEE (Lady of the Lake)" (Haobam Paban Kumar, India) [Forum]
@@ -2023,6 +2094,7 @@ Nino Klingler         7.5
 
 # critic.de
 Andrey Arnold         7.5
+Dunja Bialas          7.5
 Hannes Brühwiler     7.5
 Martin Gobbin         7.5
 Till Kadritzke        6
@@ -2052,7 +2124,9 @@ Michael Kienzl        4       http://www.critic.de/special/das-erdrueckende-koll
 "MON ROT FAI (Railway Sleepers)" (Sompot Chidgasornpongse, Thailand) [Forum]
 
 # critic.de
+Manon Cavagna         6
 Thomas Groh           7.5
+Michael Kienzl        7.5
 G.Marchini Camia      7.5
 #letterboxd
 despairlord         10
@@ -2161,6 +2235,9 @@ Lukas Stern           4
 
 "TIGMI N IGREN (HOUSE IN THE FIELDS)" (Tala Hadid, Morocco/Qatar) [Forum] WP
 
+# critic.de
+Sonja M. Schultz      7.5
+
 "TINSELWOOD" (Marie Voignier, France) [Forum] WP
 
 # critic.de
@@ -2188,6 +2265,7 @@ G.Marchini Camia      6
 "Rudzienko"    (Sharon Lockhart, USA/PL) [Forum Expanded]
 
 # critic.de
+Dunja Bialas          4
 Michael Kienzl        6
 
 "Ulysses in the Subway" (Ken Jacobs, Marc Downie, Paul Kaiser, Flo Jacobs, USA)   [Forum Expanded]
