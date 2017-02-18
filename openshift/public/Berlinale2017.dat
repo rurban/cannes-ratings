@@ -160,6 +160,18 @@ Ronan_mack          1
  Mit Richard Gere, Laura Linney, Steve Coogan, Rebecca Hall, Chloë Sevigny. Weltpremiere
 
 Michael Pattison              http://www.rogerebert.com/festivals-and-awards/berlin-2017-the-dinner-spoor-california-dreams
+Nicholas Bell         7       http://www.ioncinema.com/reviews/the-dinner-oren-moverman-review
+Peter Bradshaw        2       https://www.theguardian.com/film/2017/feb/10/the-dinner-review-steve-coogan-laura-linney-richard-gere-rebecca-hall
+Kenji Fujishima (House Next Door)  http://www.slantmagazine.com/house/article/berlinale-2017-the-dinner-review
+Owen Gleiberman (Variety)     http://variety.com/2017/film/markets-festivals/the-dinner-review-berlinale-2017-1201982940/
+Jessica Kiang         B+      http://theplaylist.net/everyone-eaten-alive-oren-movermans-savage-dinner-steve-coogan-laura-linney-richard-gere-rebecca-hall-berlin-review-20170210/
+Eric Kohn             B-      http://www.indiewire.com/2017/02/berlinale-2017-berlin-film-festival-the-dinner-review-richard-gere-steve-coogan-1201781536/
+Giovanni Marchini Camia (Notebook)  https://mubi.com/notebook/posts/berlinale-2017-family-dinners-and-parisian-hotels
+Lee Marshall (Screen)         http://www.screendaily.com/reviews/the-dinner-berlin-review/5114847.article
+Paul O’Callaghan (Exberliner)  http://www.exberliner.com/blogs/the-berlinale-blog/the-berlinale-blog-cancel-those-dinner-reservations/
+Rory O’Connor         C-  https://thefilmstage.com/reviews/berlin-review-the-dinner-bites-off-more-than-it-can-chew/
+Tim Robey (Telegraph) 6      http://www.telegraph.co.uk/films/2017/02/16/berlin-film-festival-dinner-review-steve-coogan-startles-bitter/
+Boyd van Hoeij                http://www.hollywoodreporter.com/review/dinner-review-974229
 # critic.de
 Andrey Arnold         5
 Martin Gobbin         6
@@ -417,6 +429,12 @@ beatMiguel          2
 "Teströl és lélekröl (On Body and Soul)" (Ildiko Enyedi, Ungarn) [Wettbewerb] Best Film, Economical + Fipresci Jury Price
  Mit Géza Morcsányi, Alexandra Borbély, Zoltán Schneider. Weltpremiere
 
+Nicholas Bell         7       http://www.ioncinema.com/reviews/on-body-and-soul-ildiko-enyedi-review
+Thomas Humphrey               http://screenanarchy.com/2017/02/berlinale-2017-review-on-body-and-soul-one-of-those-films-that-makes-you-see-afresh.html
+Jordan Mintzer                http://www.hollywoodreporter.com/review/body-soul-review-974234
+Bénédicte Prot (Cineuropa)    http://cineuropa.org/nw.aspx?t=newsdetail&l=en&did=323031
+Jonathan Romney (Screen)      http://www.screendaily.com/reviews/on-body-and-soul-berlin-review/5114834.article
+Zhuo-Ning Su (Film Stage) B   https://thefilmstage.com/reviews/berlin-review-on-body-and-soul-is-a-dreamy-hungarian-relationship-drama/
 # critic.de
 Andrey Arnold         2.5
 Thomas Groh           6
@@ -2626,6 +2644,7 @@ Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
 ";
 $critics_group[2] = "None";
 $critics[2] = "
+Rory O’Connor (Film Stage, UK)
 Christian Ihle (TAZ Popblog, Deutschland)
 Bruno Carmelo (adorocinema.com, Brasil)
 Otto Kylmälä (Loud Silents Festival, Lithuania)
