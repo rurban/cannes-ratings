@@ -35,28 +35,30 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"Loveless" (Andrei Zvyagintsev) [Competition]
-"Good Time" (Benny and Josh Safdie) [Competition]
-"You Were Never Really Here" (Lynne Ramsay) [Competition]
-"L'Amant Double" (Francois Ozon) [Competition]
-"A Gentle Creature" (Sergei Loznitsa) [Competition]
-"The Killing of a Sacred Deer" (Yorgos Lanthimos) [Competition]
-"Hikari" (Radiance)" (Naomi Kawase) [Competition]
-"The Day After" (Hong Sangsoo) [Competition]
-"Le Redoutable" (Michel Hazanavicius ) [Competition]
-"Wonderstruck" (Todd Haynes) [Competition]
-"Happy End" (Michael Haneke) [Competition]
-"The Beguiled" (Sofia Coppola) [Competition]
-"120 Battements par Minute" (Robin Campillo) [Competition]
-"Okja" (Bong Joon-Ho) [Competition]
+"Les Fantomes D’Ismael" (Arnaud Desplechin) [Competition] Opening Film
 "Aus dem Nichts (In the Fade)" (Fatih Akin) [Competition]
-"Les Fantomes D’Ismael" (Arnaud Desplechin) [Competition]
 "The Meyerowitz Stories" (Noah Baumbach) [Competition]
+"Okja" (Bong Joon-Ho) [Competition]
+"120 Battements par Minute" (Robin Campillo) [Competition]
+"The Beguiled" (Sofia Coppola) [Competition]
+"Rodin" (Francois Doillon) [Competition]
+"Happy End" (Michael Haneke) [Competition]
+"Wonderstruck" (Todd Haynes) [Competition]
+"Le Redoutable" (Michel Hazanavicius ) [Competition]
+"The Day After" (Hong Sangsoo) [Competition]
+"Hikari" (Radiance)" (Naomi Kawase) [Competition]
+"The Killing of a Sacred Deer" (Yorgos Lanthimos) [Competition]
+"A Gentle Creature" (Sergei Loznitsa) [Competition]
+"Jupiter's Moon" (Kornel Mondruczo) [Competition]
+"L'Amant Double" (Francois Ozon) [Competition]
+"You Were Never Really Here" (Lynne Ramsay) [Competition]
+"Good Time" (Benny and Josh Safdie) [Competition]
+"Loveless (Nelyubov))" (Andrei Zvyagintsev) [Competition]
 
 UN CERTAIN REGARD
 
-"Barbara" (Mathieu Amalric) [Un Certain Regard]
-"A Novia Del Desierto (The Desert Bride)" (Cecilia Atan &Valeria Pivato) [Un Certain Regard]
+"Barbara" (Mathieu Amalric) [Un Certain Regard] Opening Film
+"A Novia Del Desierto (The Desert Bride)" (Cecilia Atan & Valeria Pivato) [Un Certain Regard]
 "Tesnota (Closeness)" (Kantemir Balagov) [Un Certain Regard]
 "Aala Kaf Ifrit (Beauty and The Dogs)" (Kaouther Ben Hania) [Un Certain Regard]
 "L’Atelier" (Laurent Cantet) [Un Certain Regard]
@@ -66,7 +68,7 @@ UN CERTAIN REGARD
 "Posoki (Directions)" (Stephan Komandarev) [Un Certain Regard]
 "Out" (Gyorgy Kristof) [Un Certain Regard]
 "Sanpo Suru Shinryakusha (Before We Vanish)" (Kiyoshi Kurosawa) [Un Certain Regard]
-"En Attendant Les Hirondelles (The Nature of Time)" (Karim Moussaoui) [Un Certain Regard]
+"En Attendant Les Hirondelles (Until The Birds Return)" (Karim Moussaoui) [Un Certain Regard]
 "Lerd (Dregs)" (Mohammad Rasoulof) [Un Certain Regard]
 "Jeune Femme" (Leonor Serrraille) [Un Certain Regard]
 "Wind River" (Taylor Sheridan) [Un Certain Regard]
@@ -97,7 +99,7 @@ SPECIAL SCREENINGS
 "The Merciless" (Byun Sung-Hyun) [Out Of Competition] Midnight Screening
 "Prayer Before Dawn" (Jean-Stephane Sauvaire) [Out Of Competition] Midnight Screening
 
-"Carne y Arena" (Alejandro G. Inarritu) [Out Of Competition] VR
+"Carne y Arena" (Alejandro G. Inarritu) [Out Of Competition] VR Exhibition
 
 EOF
 
