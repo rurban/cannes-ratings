@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = qw(2010 2011 2012 2013 2014 2015 2016);
+our @YEARS = qw(2010 2011 2012 2013 2014 2015 2016 2017);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other");
@@ -601,6 +601,9 @@ sub _list {
 get '/Cannes2016' => sub {
   _list(2016);
 };
+get '/Cannes2017' => sub {
+  _list(2016);
+};
 get '/2010' => sub {
   _list(2010);
 };
@@ -621,6 +624,9 @@ get '/2015' => sub {
 };
 get '/2016' => sub {
   _list(2016);
+};
+get '/2017' => sub {
+  _list(2017);
 };
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
@@ -647,17 +653,17 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2016";
+  $all->{year} = "2010-2017";
   {
     no strict 'refs';
     $all->{side_details} = _side_details(\%critic, \%title, 
-                                         \@{"$BASE\::rurban::2015::critics_group"});
+                             \@{"$BASE\::rurban::2015::critics_group"});
   }
   template lc($BASE), $all;
 };
 
 get '/' => sub {
-  redirect '/Berlinale2017';
+  redirect '/2017';
 };
 
 1;
