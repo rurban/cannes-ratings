@@ -359,6 +359,11 @@ SimonHatton         8
 "Thelma" (Joachim Trier) not yet selected [Hopeful (temp.)]
  and female superpowers
 
+"The Summit (La cordillera)" (Santiago Mitre) not yet selected [Hopeful (temp.)]
+ with Ricardo Darin, Elena Anaya. Quinzaine or Semaine
+
+"Let the Corpses Tan (Laissez bronzer les cadavres!)" (Bruno Forzani and Hélène Cattet)  not yet selected [Hopeful (temp.)]
+  Quinzaine or Semaine
 
 EOF
 
@@ -366,14 +371,10 @@ my $almost = <<'EOF';
 
 Other sections maybe:
 
-* The Square - Ruben Östlund, with Elisabeth Moss
-* Les Gardiennes - Xavier Beauvois, with Nathalie Baye, Laura Smet
-* Thelma - Joachim Trier and female superpowers
-* Madame Hyde -  Serge Bozon
-* "Mary Shelley" by Haifaa Al-Mansour, with Elle Fanning
-* Fleuve noir - Erick Zonca with Vincent Cassel, Romain Duris, Sandrine Kiberlain
+* "Madame Hyde" (Serge Bozon)
+* "Mary Shelley" (Haifaa Al-Mansour), with Elle Fanning
+* "Fleuve noir" (Erick Zonca with Vincent Cassel, Romain Duris, Sandrine Kiberlain
 * Foxtrot - Samuel Maoz (Israeli soldier story)
-* The Summit/‘La cordillera’ Santiago Mitre, with Ricardo Darin, Elena Anaya. Quinzaine or Semaine
 * Dark River - Clio Barnard ("The Selfish Giant")
 * Jeannette - Bruno Dumont (The Childhood of Joan de Arc)
 * Nos Années Folles - André Téchiné
@@ -391,7 +392,6 @@ Other sections maybe:
 * Quien te cantará - Carlos Vermut
 * The Devil Outside - Andrew Hulme
 * Monos - Alexis Dos Santos, Alejandro Landes
-* Let the Corpses Tan/Laissez bronzer les cadavres! - Bruno Forzani and Hélène Cattet.  Quinzaine or Semaine
 * One Step Behind the Seraphim Romania. Daniel Sandu ("Cai Putere" short) with Stefan Iancu, Vlad Ivanov
 * I Am Not a Witch -Rungano Nyoni, Zambia. A hit at the Les Arcs co-pro market last December
 * Hunting Season "Temporada de Caza" - Natalia Garagiola (Arg, first feature)
