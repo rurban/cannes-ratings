@@ -30,7 +30,7 @@ package Cannes::rurban::2017; # -*- perl -*-
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 
-#use utf8;
+use utf8;
 our $DATA= <<'EOF';
 
 COMPETITION
