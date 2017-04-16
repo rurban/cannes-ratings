@@ -36,42 +36,185 @@ our $DATA= <<'EOF';
 COMPETITION
 
 "Les Fantomes D’Ismael" (Arnaud Desplechin) [Competition] Opening Film
+
 "Aus dem Nichts (In the Fade)" (Fatih Akin) [Competition]
+
 "The Meyerowitz Stories" (Noah Baumbach) [Competition]
+
 "Okja" (Bong Joon-Ho) [Competition]
+
 "120 Battements par Minute" (Robin Campillo) [Competition]
+
 "The Beguiled" (Sofia Coppola) [Competition]
+#letterboxd
+seenbysophie        8
+Douglas Rathbun     6
+zsportsfan88        2
+
 "Rodin" (Francois Doillon) [Competition]
+
 "Happy End" (Michael Haneke) [Competition]
+#letterboxd
+Natzure             8
+Sourav Mal          8
+Aritro Roy          8
+Sean Richards       8
+Wolfgang Renner     6
+Kubrick13           6
+lacyann87           6
+NatalieKae          5
+chrissweet1967      4   https://letterboxd.com/chrissweet1967/film/happy-end-2017/
+
 "Wonderstruck" (Todd Haynes) [Competition]
+
 "Le Redoutable" (Michel Hazanavicius ) [Competition]
+#letterboxd
+Eliecer Gaspar      1
+
 "The Day After" (Hong Sangsoo) [Competition]
+
 "Hikari" (Radiance)" (Naomi Kawase) [Competition]
+
 "The Killing of a Sacred Deer" (Yorgos Lanthimos) [Competition]
+#letterboxd
+tylerstravis        9
+Vamstad             8
+Vegetastan          7
+ThePumaMan          6
+
 "A Gentle Creature" (Sergei Loznitsa) [Competition]
+
 "Jupiter's Moon" (Kornel Mondruczo) [Competition]
+
 "L'Amant Double" (Francois Ozon) [Competition]
+
 "You Were Never Really Here" (Lynne Ramsay) [Competition]
+
 "Good Time" (Benny and Josh Safdie) [Competition]
+#letterboxd
+spaceygrl           7   https://letterboxd.com/spaceygrl/film/good-time/
+emmaming            6   https://letterboxd.com/emmaming/film/good-time/
+Eli Fine            2
+
 "Loveless (Nelyubov)" (Andrei Zvyagintsev) [Competition]
 
 UN CERTAIN REGARD
 
 "Barbara" (Mathieu Amalric) [Un Certain Regard] Opening Film
+
 "A Novia Del Desierto (The Desert Bride)" (Cecilia Atan & Valeria Pivato) [Un Certain Regard]
+
 "Tesnota (Closeness)" (Kantemir Balagov) [Un Certain Regard]
+
 "Aala Kaf Ifrit (Beauty and The Dogs)" (Kaouther Ben Hania) [Un Certain Regard]
+
 "L’Atelier" (Laurent Cantet) [Un Certain Regard]
+
 "Fortunata (Lucky)" (Sergio Castellito) [Un Certain Regard]
+
 "Las Hijas de Abril (April's Daughter)" (Michel Franco) [Un Certain Regard]
+
 "Western" (Valeska Grisebach) [Un Certain Regard]
+
 "Posoki (Directions)" (Stephan Komandarev) [Un Certain Regard]
+
 "Out" (Gyorgy Kristof) [Un Certain Regard]
+
 "Sanpo Suru Shinryakusha (Before We Vanish)" (Kiyoshi Kurosawa) [Un Certain Regard]
+
 "En Attendant Les Hirondelles (Until The Birds Return)" (Karim Moussaoui) [Un Certain Regard]
+
 "Lerd (Dregs)" (Mohammad Rasoulof) [Un Certain Regard]
+
 "Jeune Femme" (Léonor Séraille) [Un Certain Regard]
+
 "Wind River" (Taylor Sheridan) [Un Certain Regard]
+#letterboxd
+ffccffccffcc        10
+Thomas              10
+krader              10   https://letterboxd.com/krader/film/wind-river-2017/
+Shabadoo            10
+George McCann       10
+Juan Felipe Díaz Herrera 9
+Mark                9
+Alexandria          9
+A.A. Dowd           9
+Mfairbanks          9
+MickGuffin          9
+Jordan Barrett      9
+npizano3            9
+Keyser Soze         9
+lindylieu           9
+Schvyler            9
+Kevflix             9
+Jordan Foxworthy    9
+Michael Keene       9
+Ava Davis           9
+Mike Scholtz        9
+Matt Hoffman        9
+Tyler               8
+JasonMichael        8
+Blake Moran         8
+et144               8
+chamals             8
+Dan Lollar          8
+Dan Moore           8
+Travis Reinders     8
+Samuel Parker Smith 8
+Anna                8
+Cameron Burnett     8
+Chunkysalsa         8
+Screen Zealots      8
+Drew Tekulve        8
+Hannah              8
+Jacob               8
+Ethan Anderton      7
+kevinyang           7   https://letterboxd.com/kevinyang/film/wind-river-2017/
+Jordan Ford         7
+Eslamov             7
+Reed Tyler          7
+edouglasww          7
+Matt Goldberg       7
+Joe Salvato         7
+Eugene Wei          7
+Mike Ryan           7
+David Ehrlich       7
+Aidan Irish         7
+Ryan Hartley        7
+Peter Sciretta      7
+jdoyle              7
+ginopags            7
+Kevin Conner        7
+Ben Delgado         7
+Noel Murray         7
+Lou Schumaker       6
+Evgenii Popov       6
+Collin Kerr         6
+Logan Joiner        6
+cofalt              6   https://letterboxd.com/cofalt/film/wind-river-2017/
+Jason Bailey        6
+Eric                6
+Brian Tallerico     6
+Walker King         6
+Tony Donisch        6
+Scott Parker        6
+Matt Wigham         6
+Adam Chitwood       6
+mdrewduncan         6
+Josh Cabrita        6
+Lawrence Garcia     6
+A.A. Dowd           6
+Marco Cerritos      5
+metalmeatwad        5
+DukeSilver          5
+Joshua Carlon       5
+Dylan Moses Griffin 5
+Matt Singer         5
+Jordan Raup         5
+Rob Hunter          4
+skyhir              2
+zambetty            1
+
 "Dopo la guerra (After the War)" (Annarita Zambrano) [Un Certain Regard]
 
 QUINZAINE
@@ -83,30 +226,146 @@ ACID
 SPECIAL SCREENINGS
 
 "How to Talk to Girls at Parties" (John Cameron Mitchell) [Out Of Competition]
+
 "Visages, Villages" (Agnes Varda & JR) [Out Of Competition]
+
 "Mugen Non Junin (Blade of the Immortal)" (Takashi Miike) [Out Of Competition]
 
 "Claire’s Camera" (Hong Sangsoo) [Out Of Competition] Special Screening
+# letterboxd
+Sun Joaquim     8
+
 "12 Jours" (Raymond Depardon) [Out Of Competition] Special Screening
+
 "They" (Anahita Ghazvinizadeh) [Out Of Competition] Special Screening
+
 "Promised Land" (Eugene Jarecki) [Out Of Competition] Special Screening
+
 "Napalm" (Claude Lanzmann) [Out Of Competition] Special Screening
+
 "Demons in Paradise" (Jude Ratman) [Out Of Competition] Special Screening
+
 "Sea Sorrow" (Vanessa Redgrave) [Out Of Competition] Special Screening
+
 "An Inconvenient Sequel" (Bonni Cohen, Jon Shenk) [Out Of Competition] Special Screening
 
 "The Villainess" (Jung Byung-Gil) [Out Of Competition] Midnight Screening
+
 "The Merciless" (Byun Sung-Hyun) [Out Of Competition] Midnight Screening
+
 "Prayer Before Dawn" (Jean-Stephane Sauvaire) [Out Of Competition] Midnight Screening
 
 "Carne y Arena" (Alejandro G. Inarritu) [Out Of Competition] VR Exhibition
+
+HOPEFUL
+
+"Three Billboards Outside Ebbing, Missouri" (M.McDonagh) [Hopeful (temp.)]
+#letterboxd
+your_harry_son      10
+Adam Scott          10
+Adam Rolseth        9
+filmspaz            8
+Fredrick            7
+
+"Euphoria" (Lisa Langseth) [Hopeful (temp.)]
+ with Alicia Vikander, Eva Green, Charlotte Rampling
+#letterboxd
+sofia               10
+
+"Downsizing" (Alexander Payne) [Hopeful (temp.)]
+#letterboxd
+Sonia 🍰          10
+Chris Aguilar       4
+Adam Rolseth        3
+
+"Le Fidèle (Racer and the Jailbird)" (Michaël R. Roskam) [Hopeful (temp.)]
+ with Matthias Schoenaerts and Adèle Exarchopoulos
+#letterboxd
+Meister_kun         6
+
+"Young Lions of Gypsy" (Carpignano) [Hopeful (temp.)]
+#letterboxd
+Gabriele Capolino   8
+Farid Rodriguez Rivero 7
+Bruno Viana         6
+Mark Gubarenko | Марк Губаренко 4
+
+"Kings" (Deniz Gamze Ergüven) [Hopeful (temp.)]
+ (Rodney King riots)
+#letterboxd
+Deva Kyle           8
+frod0               8
+Wasanta             7
+SeraphicWings       4
+jesper              4
+
+"The Leisure Seeker" (Paolo Virzi) [Hopeful (temp.)]
+ with Helen Mirren, Donald Sutherland. Quinzaine?
+#letterboxd
+Matilda Muybridge   5
+
+"War Machine" (David Michôd) [Hopeful (temp.)]
+#letterboxd
+Lenny Feder         5
+Alex Martin         4
+nnya                2
+Órla               2
+Henry Rosenbloom    2
+Brian Haver-Scanlon 2
+metalmeatwad        1
+Ezra Cubero         1
+
+"His Master’s Voice" (György Pálfi)  [Hopeful (temp.)]
+  The Stanislaw Lem story
+#letterboxd
+FlorinRadu          8
+Paula Fernandes     8
+Caleb Chadwick      7
+ScottMerica         7
+Caleb_woods         7
+Muhammed Arafa      7
+mari                7
+MuckMuck            6
+Andrés Gutiérrez  5
+Knut Erik Slettum   2
+Immanuel            1
+
+"It Comes at Night" (Trey Edwards Shults) [Hopeful (temp.)]
+#letterboxd
+your_harry_son      8
+Adam Rolseth        8
+Andrew Schwarz      5
+RyanNotBryan        5
+Jacob               5
+
+"Under the Silver Lake" (David Robert Mitchell)
+  8.5mill
+
+"The Snowman" (Tomas Alfredson) [Hopeful (temp.)]
+#letterboxd
+Alabdha             10
+John                3
+
+"Victoria and Abdul" (Stephen Frears) [Hopeful (temp.)]
+#letterboxd
+SimonHatton         8
+
+"The Square" (Ruben Östlund) [Hopeful (temp.)]
+ with Elisabeth Moss
+
+"Les Gardiennes" (Xavier Beauvois) [Hopeful (temp.)]
+ with Nathalie Baye, Laura Smet
+
+"Thelma" (Joachim Trier) [Hopeful (temp.)]
+ and female superpowers
+
 
 EOF
 
 my $almost = <<'EOF';
 
 Other sections maybe:
-* Downsizing - Payne (a comedy)
+
 * The Square - Ruben Östlund, with Elisabeth Moss
 * Les Gardiennes - Xavier Beauvois, with Nathalie Baye, Laura Smet
 * Thelma - Joachim Trier and female superpowers
@@ -118,26 +377,14 @@ Other sections maybe:
 * Dark River - Clio Barnard ("The Selfish Giant")
 * Jeannette - Bruno Dumont (The Childhood of Joan de Arc)
 * Nos Années Folles - André Téchiné
-* Kings - Deniz Gamze Ergüven (Rodney King riots)
 * Yesterday - Bálint Kenyeres (Hun), filmed in Morocco
 * Face - Małgorzata Szumowska
-* Euphoria - Lisa Langseth, with Alicia Vikander, Eva Green, Charlotte Rampling
-* Le Fidèle (Racer and the Jailbird) - Michaël R. Roskam with Matthias Schoenaerts and Adèle Exarchopoulos
+* American Made - Doug Liman. The Barry Seal CIA story
 * Abracadabra - Pablo Berger
 * L'amant d'un jour - Philippe Garrel, with Esther Garrel
 * A Sort of Family/Una especie de familia - Diego Lerman
-* The Leisure Seeker - Paolo Virzi with Helen Mirren, Donald Sutherland. Quinzaine
 * Cobain - Nanouk Leopold - NL
-* War Machine - David Michôd
-* His Master’s Voice - György Pálfi. The Stanislaw Lem story
 * Lean on Pete - Andrew Haigh
-* Three Billboards Outside Ebbing, Missouri M.McDonagh
-* It Comes at Night - Trey Edwards Shults
-* Under the Silver Lake 2017 - David Robert Mitchell, 8.5mill
-* Young Lions of Gypsy - Carpignano
-* American Made - Doug Liman. The Barry Seal CIA story
-* The Snowman - Tomas Alfredson
-* Victoria and Abdul - Stephen Frears
 * The Shape of Water - Guillermo del Toro
 * The Florida Project - Sean Baker
 * Au revoir là-haut - Albert Dupontel

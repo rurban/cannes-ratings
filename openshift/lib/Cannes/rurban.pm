@@ -8,7 +8,7 @@ our $BASE = 'Cannes';
 our @YEARS = (2010..2017);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
-                 "Semaine", "ACID", "Other");
+                 "Semaine", "ACID", "Other", "Hopeful (temp.)");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
