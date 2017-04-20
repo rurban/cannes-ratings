@@ -136,7 +136,6 @@ krader              10   https://letterboxd.com/krader/film/wind-river-2017/
 Shabadoo            10
 George McCann       10
 Juan Felipe Díaz Herrera 9
-Mark                9
 Alexandria          9
 A.A. Dowd           9
 Mfairbanks          9
@@ -218,6 +217,50 @@ zambetty            1
 "Dopo la guerra (After the War)" (Annarita Zambrano) [Un Certain Regard]
 
 QUINZAINE
+
+"Un Beau Soleil Intérieur" (Claire Denis) [Quinzaine] Opening
+
+"Young Lions of Gypsy (A Ciambra)" (Jonas Carpignano) [Quinzaine]
+
+"Alive in France" (Abel Ferrara) [Quinzaine]
+
+"L'amant d'un jour" (Philippe Garrel) [Quinzaine]
+  with Esther Garrel
+
+"Bushwick" (Cary Murnion & Jonathan Milott) [Quinzaine]
+
+"Cuori Puri" (Roberto De Paolis) [Quinzaine]
+  1er film
+
+"The Florida Project" (Sean Baker) [Quinzaine]
+
+"Frost" (Sharunas Bartas) [Quinzaine]
+
+"I Am Not a Witch" (Rungano Nyoni) [Quinzaine]
+  1er film, Zambia
+
+"Jeannette (The Childhood of Joan de Arc)" (Bruno Dumont) [Quinzaine]
+  
+"L’intrusa" (Leonardo Di Costanzo) [Quinzaine]
+
+"La defensa del dragón" (Natalia Santa) [Quinzaine]
+ 1er film
+
+"Marlina si pembunuh dalam empat babak" (Mouly Surya) [Quinzaine]
+
+"Mobile Homes" (Vladimir de Fontenay) [Quinzaine]
+
+"Nothingwood" (Sonia Kronlund) [Quinzaine]
+  1er film
+
+"Ôtez-moi d’un doute" (Carine Tardieu) [Quinzaine]
+
+"The Rider" (Chloé Zhao) [Quinzaine]
+
+"West of the Jordan River (Field diary revisited)" (Amos Gitai) [Quinzaine]
+
+"Patti Cake$" (Geremy Jasper) [Quinzaine] closing (Sundance)
+  1er film
 
 SEMAINE
 
@@ -311,8 +354,6 @@ Adam Rolseth        3
 #letterboxd
 Meister_kun         6
 
-"Young Lions of Gypsy (A Ciambra)" (Jonas Carpignano) not yet selected [Hopeful (temp.)]
-
 "Kings" (Deniz Gamze Ergüven) not yet selected [Hopeful (temp.)]
  (Rodney King riots)
 #letterboxd
@@ -395,9 +436,6 @@ SimonHatton         8
 
 "One Step Behind the Seraphim" (Daniel Sandu) not yet selected [Hopeful (temp.)]
   Romania ("Cai Putere" short) with Stefan Iancu, Vlad Ivanov
-"I Am Not a Witch" (Rungano Nyoni) not yet selected [Hopeful (temp.)]
-  Zambia. A hit at the Les Arcs co-pro market last December
-
 EOF
 
 my $almost = <<'EOF';
@@ -409,7 +447,6 @@ Other sections maybe:
 * "Fleuve noir" (Erick Zonca with Vincent Cassel, Romain Duris, Sandrine Kiberlain
 * "Foxtrot" (Samuel Maoz) (Israeli soldier story)
 * "Dark River" (Clio Barnard) ("The Selfish Giant")
-* "Jeannette" (Bruno Dumont) (The Childhood of Joan de Arc)
 * "Nos Années Folles" (André Téchiné)
 * "Yesterday" (Bálint Kenyeres) (Hun), filmed in Morocco
 * "Face" (Małgorzata Szumowska)
