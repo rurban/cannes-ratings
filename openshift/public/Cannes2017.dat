@@ -218,7 +218,7 @@ zambetty            1
 
 QUINZAINE
 
-"Un Beau Soleil Intérieur" (Claire Denis) [Quinzaine] Opening
+"Dark Glasses (Un Beau Soleil Intérieur)" (Claire Denis) [Quinzaine] Opening
 
 "Young Lions of Gypsy (A Ciambra)" (Jonas Carpignano) [Quinzaine]
 
@@ -264,7 +264,60 @@ QUINZAINE
 
 SEMAINE
 
+"SICILIAN GHOST STORY" (Fabio Grassadonia and Antonio Piazza) [Semaine] Opening
+
+"AVA" (Léa Mysius) [Semaine]
+
+"LA FAMILIA" (Gustavo Rondón Córdova) [Semaine]
+
+"GABRIEL E A MONTANHA (GABRIEL AND THE MOUNTAIN)" (Fellipe Gamarano Barbosa) [Semaine]
+
+"MAKALA" (Emmanuel Gras) [Semaine]
+
+"OH LUCY!" (Atsuko Hirayanagi) [Semaine]
+
+"LOS PERROS" (Marcela Said) [Semaine]
+
+"TEHRAN TABOO" (Ali Soozandeh) [Semaine]
+
+"BRIGSBY BEAR" (Dave McCary) [Semaine] Closing, Sundance
+
+"PETIT PAYSAN (BLOODY MILK)" (Hubert Charuel) [Semaine] Special Screening
+
+"UNE VIE VIOLENTE (A VIOLENT LIFE)" (Thierry de Perretti) [Semaine] Special Screening
+
 ACID
+
+"SCAFFOLDING" (Matan Yair) [ACID]
+  1st feature
+
+"SANS ADIEU" (Christophe Agou) [ACID]
+  1st feature
+
+"LAST LAUGH" (Zhang Tao) [ACID]
+  1st feature
+
+"KISS AND CRY" (Lila Pinell, Chloé Mahieu) [ACID]
+  1st feature
+
+"COBY" (Christian Sonderegger) [ACID]
+  1st feature
+
+"LE CIEL ÉTOILÉ AU-DESSUS DE MA TÊTE" (Ilan Klipper) [ACID]
+
+"BELINDA" (Marie Dumora) [ACID]
+
+"AVANT LA FIN DE L’ÉTÉ" (Maryam Goormaghtigh) [ACID]
+  1st feature
+
+"L’ASSEMBLÉE" (Mariana Otero) [ACID]
+
+"HUMIDITY" (Nikola Ljuca) [ACID] Special Serbia
+
+"REQUIEM FOR Ms J." (Bojan Vuletić) [ACID] Special Serbia
+
+"Pour le réconfort" (Vincent Macaigne) [ACID] Special Screening
+  1st feature, world premiere
 
 SPECIAL SCREENINGS
 
@@ -328,7 +381,11 @@ ginopags            4
 
 "Carne y Arena" (Alejandro G. Inarritu) [Out Of Competition] VR Exhibition
 
-HOPEFUL
+EOF
+
+my $almost = <<'EOF';
+
+The unlucky ones:
 
 "Three Billboards Outside Ebbing, Missouri" (Martin McDonagh) not yet selected [Hopeful (temp.)]
 #letterboxd
@@ -436,11 +493,6 @@ SimonHatton         8
 
 "One Step Behind the Seraphim" (Daniel Sandu) not yet selected [Hopeful (temp.)]
   Romania ("Cai Putere" short) with Stefan Iancu, Vlad Ivanov
-EOF
-
-my $almost = <<'EOF';
-
-Other sections maybe:
 
 * "Madame Hyde" (Serge Bozon)
 * "Mary Shelley" (Haifaa Al-Mansour), with Elle Fanning
