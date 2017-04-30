@@ -50,8 +50,8 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^(\(|\s+)(\S.*)/ and $title) { # film comments, links
-      my $cmt = $1.$2;
+    elsif (/^\s+(\S.*)/ and $title) { # film comments, links
+      my $cmt = $1;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
     } elsif (/^["“](.+)["”]/) {
@@ -60,27 +60,31 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/[\w\)]:? [-\x{2013} \t]*(\d[\d\.]*)(\s+http\S+)?/) {
-      my $x = $1; $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
-      $s += $x; $n++; undef $critic;
+    } elsif (/\w[\w\)]:?[\x{2013} \t]+(\d|\d\.?\d|[ABCDEF][\+\-]?)(\s+.*)?$/) {
+      my $x = $1;
+      $x = us_rating($x) if $x =~ /^[ABCDEF]/;
+      $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
+      undef $critic;
       $url = $2;
       $url =~ s/^\s+// if $url;
+      undef $url if $url and $url !~ /^http/;
       if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
 	($critic,$mag,$cn) = ($1,'',$2);
-      } elsif (/^(\S[^\(]+)\s+\d/) {
+      } elsif (/^(\S[^-\(]+) \s+ (?:\d[\d\.]?)/x) {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
       next unless $critic;
+      $s += $x; $n++;
       $critic =~ s/\s+$//;
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
-    } elsif (/[\w\)] [-\x{2013}\s]*(http\S+)/) { # review link only
+    } elsif (/\w[\w\)][-\x{2013}\s]+(http\S+)/u) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {
@@ -351,7 +355,7 @@ sub _dump {
 	}
       }
     }
-    if (1 or $num) {
+    if ($num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
@@ -393,7 +397,12 @@ sub _dump {
           ? "[<a name=\"$i\" href=\"?t=$i#$i\">$ns</a>]"
           : "[$ns]";
         if ($n) {
-          $out .= sprintf("<tr><td>%2d.</td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $j++, $cmt, $l, $detail);
+          if ($cmt =~ /<a href/) {
+            my ($s) = $cmt =~ m|<a href=.*?>(.*?)</a>|;
+            $out .= sprintf("<tr><td>%2d.</td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $j++, $s, $l, $detail);
+          } else {
+            $out .= sprintf("<tr><td>%2d.</td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $j++, $cmt, $l, $detail);
+          }
         } elsif ($r) {
           $out .= sprintf("<tr><td> </td> <td title=\"%s\">%s</td> <td class=r>%s</td></tr>\n", $cmt, $l, $detail);
         } elsif ($cmt) {
