@@ -29,7 +29,7 @@ package Cannes::rurban::2017; # -*- perl -*-
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-
+ 
 use utf8;
 our $DATA= <<'EOF';
 
