@@ -1,6 +1,6 @@
 package Cannes::rurban;
 use Dancer ':syntax';
-use File::Basename qw(basename);
+use File::Basename qw(dirname basename);
 use utf8;
 
 our $VERSION = '0.2';
@@ -84,7 +84,7 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
-    } elsif (/\w[\w\)][-\x{2013}\s]+(http\S+)/u) { # review link only
+    } elsif (/\w[\w\)][-\x{2013}\s]+(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {

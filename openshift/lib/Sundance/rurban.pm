@@ -1,7 +1,7 @@
 package Sundance::rurban;
 our @ISA = ('Cannes::rurban');
 use Dancer ':syntax';
-#use File::Basename 'dirname';
+use File::Basename qw(dirname basename);
 use utf8;
 
 our $VERSION = '0.2';
