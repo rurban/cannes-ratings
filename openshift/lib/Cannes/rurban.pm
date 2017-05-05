@@ -1,6 +1,6 @@
 package Cannes::rurban;
 use Dancer ':syntax';
-use File::Basename qw(dirname basename);
+use File::Basename qw(basename);
 use utf8;
 
 our $VERSION = '0.2';
