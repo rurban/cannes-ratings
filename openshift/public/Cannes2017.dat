@@ -35,8 +35,6 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"Les Fantomes D’Ismael" (Arnaud Desplechin) [Competition] Opening Film
-
 "Wonderstruck" (Todd Haynes) [Competition]
 
 "Loveless (Nelyubov)" (Andrei Zvyagintsev) [Competition]
@@ -357,6 +355,19 @@ ACID
   1st feature, world premiere
 
 SPECIAL SCREENINGS
+
+"Les Fantomes D’Ismael" (Arnaud Desplechin) [Out Of Competition] Opening Film
+# todas
+Eulalia Iglesias        6
+#letterboxd
+Matt Hoffman        7
+Katherine McLaughlin 6
+Martyn Conterio     6
+Truman2712          6
+Crayfish            6
+Sam Gray            5
+Hugo Emmerzael      4
+Tanner Stechnij     4
 
 "Sea Sorrow" (Vanessa Redgrave) [Out Of Competition] Special Screening
 
