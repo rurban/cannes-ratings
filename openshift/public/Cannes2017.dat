@@ -1226,6 +1226,7 @@ our (@critics, @critics_group);
 $critics_group[0] = "Todas";
 $critics[0] = "
 Alejandro G. Calvo (Sensacine, España)
+Alejandra Trelles (International Film Festival Uruguay, Uruguay)
 Alex Vicente (Público, España) 
 Alexandra Zawia (ray, Austria)
 Ángel Quintana (Cahiers du cinema Espana, España)
