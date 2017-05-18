@@ -418,7 +418,7 @@ Imma Merino             7
 Carlota Moseguí        2.5
 # critic.de
 Andrey Arnold         7.5
-Pamela Biénzobas     6
+#Pamela Biénzobas     6
 Frédéric Jaeger     7.5   http://www.critic.de/film/ismaels-ghosts-10960/
 Jenny Jecke           6
 Daniel Kasman         6
@@ -468,7 +468,7 @@ José Luis Losa         3.5
 Alejandra Trelles       7
 Imma Merino             5
 # critic.de
-Pamela Biénzobas     2.5
+#Pamela Biénzobas     2.5
 Jenny Jecke           1
 #Boris Nelepo         5
 
@@ -810,11 +810,17 @@ Xavi Serra (Ara, España)
 Ronald Rovers (Cinema.nl, Netherlands)
 Dominik Kamalzadeh (Der Standard, Austria)
 Alvaro Arroba (Cinema Scope, España)
-Inma Merino (España)
+Imma Merino (España)
 Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
 Andrea Picard (TIFF, Cinema Scope, Canada)
 Kong Rithdee (The Bangkok Post, Thailand) 
 Guillaume Muyan Wang (‎Cinemaround, China)
+Juanma Ruíz (Screenwriter, España)
+Damián Hoffman (Arriba Argentinos, Argentina)
+Pedro Segura
+Nicolás Kusmin (OtrosCines, Argentina)
+Carlota Moseguí (España)
+Agustín Mango (The Hollywood Reporter, Argentina)
 ";
 $critics_group[1] = "ioncinema";
 $critics[1] = "
@@ -886,6 +892,8 @@ Till Kadritzke (critic.de, Deutschland)
 Daniel Kasman (MUBI, USA)
 Michael Kienzl (critic.de, Deutschland)
 Nino Klingler (critic.de, Deutschland)
+G.Marchini Camia (Filmstage)
+Jenny Jecke (moviepilot.de, Deutschland)
 ";
 # ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2015/
 $critics_group[5] = "ICSfilm panel";

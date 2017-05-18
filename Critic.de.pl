@@ -3,6 +3,7 @@
 # no timestamp by server
 use File::Copy;
 use utf8;
+use 5.20;
 my $url = "http://jury.critic.de/cannes/";
 my $c = "Critic.de.html";
 my $bak = "$c.old";
