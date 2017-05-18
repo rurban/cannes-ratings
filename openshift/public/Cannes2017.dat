@@ -1284,7 +1284,7 @@ Juanma Ruíz (Screenwriter, España)
 Damián Hoffman (Arriba Argentinos, Argentina)
 Pedro Segura
 Nicolás Kusmin (OtrosCines, Argentina)
-Carlota Moseguí (España)
+Carlota Moseguí (El Septimo Arte, España)
 Agustín Mango (The Hollywood Reporter, Argentina)
 ";
 $critics_group[1] = "ioncinema";
@@ -1366,7 +1366,7 @@ $critics_group[5] = "ICSfilm panel";
 $critics[5] = "
 Cédric Succivalli (International Cinephil Society, France)
 David Acacia (International Cinephil Society, Canada)
-Tommaso Tocci (International Cinephil Society, Italy)
+Tommaso Tocci (Freelance, Italy)
 Ioannis Kanonakis (International Cinephil Society, Greece)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
 Isabelle Regnier (Le Monde, France)
@@ -1374,14 +1374,14 @@ Guy Lodge
 Justin Chang
 Diego Battle
 Nicholas Bell
-David Honnorat (International Cinephil Society, France)
-Dana Keith (International Cinephil Society, USA)
+David Honnorat (calmos.net, France)
+Dana Keith (Miami Beach Cinematheque, USA)
 Dennis Lim
 Blake Williams
 Jon Frosch
 Stephanie Zacharek
 Boyd Van Hoeij
-Jay Weissberg
+Jay Weissberg (Variety, Italy)
 ";
 #Christophe Beney (Accreds, France)
 #Aldo Álvareztostado (International Cinephil Society, Mexico)
@@ -1464,7 +1464,7 @@ David Sexton (Evening Standard, UK)
 David Sterrit (Tikkun Magazine, USA)
 David Stratton (The Australian, Australia) 
 Dennis Harvey (Variety, US)
-Dennis Lim (New York Times, USA)
+Dennis Lim (Film Society Lincoln Center, USA)
 Derek Malcolm (London Evening, UK) 
 Diana Drumm (The Black Maria, The Film Experience, Sound on Sight, USA)
 Don Simpson (Smells Like Screen Spirit, USA)
