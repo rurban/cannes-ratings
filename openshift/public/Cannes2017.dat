@@ -6,15 +6,15 @@ package Cannes::rurban::2017; # -*- perl -*-
 # Recalc and sort ratings by all Cannes critics:
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
-#   http://www.lefilmfrancais.com/document/cannes2016/quotidien/FF9/index.html (scale 0-4)
+#   http://www.lefilmfrancais.com/document/cannes2017/quotidien/FF9/index.html (scale 0-4)
 #   http://jury.critic.de/cannes/
 #   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
-#   http://icsfilm.org/features/cannes-2016-the-grid/
+#   http://icsfilm.org/features/cannes-2017-the-grid/
 #   http://lci.tf1.fr/festival-de-cannes/
-#   http://letterboxd.com/rurban/list/cannes2016
+#   http://letterboxd.com/rurban/list/cannes2017
 # More:
 #   http://www.indiewire.com/critic/
-#   http://www.theguardian.com/film/cannes-2016
+#   http://www.theguardian.com/film/cannes-2017
 #
 # Published at http://cannes-rurban.rhcloud.com/2017
 # History at https://github.com/rurban/cannes-critics-ratings
@@ -37,7 +37,9 @@ COMPETITION
 
 "Wonderstruck" (Todd Haynes) [Competition]
 
-Michael Sennhauser        https://sennhausersfilmblog.ch/2017/05/18/cannes-17-wonderstruck-von-todd-haynes/
+Michael Sennhauser          https://sennhausersfilmblog.ch/2017/05/18/cannes-17-wonderstruck-von-todd-haynes/
+Wendy Ide                   http://www.screendaily.com/reviews/wonderstruck-cannes-review/5118064.article?blocktitle=Latest-Reviews&contentID=592
+#Nicholas Bell           6   http://www.ioncinema.com/reviews/wonderstruck-todd-haynes-review
 # todas
 Diego Batlle            7.5
 Alejandro G. Calvo      8
@@ -50,6 +52,81 @@ Till Kadritzke        7.5
 Michael Kienzl        9
 Lukas Stern           9
 Blake Williams        7.5
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# ioncinema
+Nicolas Bell             6   http://www.ioncinema.com/reviews/wonderstruck-todd-haynes-review
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+Blake Williams           
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+Diego Battle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+Blake Williams        2
+Jon Frosch            5
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         8
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Kate                
+Xie Meng            
+Emily               
+Taotao              
+Qin Wan             
+Li Yunbo            
+Liuying             
 #letterboxd
 Tanner Stechnij     9
 David Ehrlich       9
@@ -79,6 +156,7 @@ Kiarash Anvari      1
 "Loveless (Nelyubov)" (Andrei Zvyagintsev) [Competition]
 
 Dan Fainaru                http://www.screendaily.com/reviews/loveless-cannes-review/5118020.article?blocktitle=REVIEWS&contentID=40296
+Eric Lavallée           7  http://www.ioncinema.com/reviews/loveless-andrei-zvyagintsev-review
 # todas
 Roger Koza              5
 Jaime Pena              4.5
@@ -98,14 +176,89 @@ Damián Hoffman         7
 Nicolás Kusmin         6.5
 Imma Merino             7
 Carlota Moseguí        8
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# ioncinema
+Nicolas Bell             
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+Blake Williams           
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
 # critic.de
 Andrey Arnold         2.5
 Frédéric Jaeger     2.5
 Till Kadritzke        4
 Michael Kienzl        4
 #Boris Nelepo         5
-G.Marchini Camia      5
+Giovanni Marchini Camina      5
 Blake Williams        2.5
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+Diego Battle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+# Chinese @CriticsGrid
+Li Xun              7.5
+Liu Min             7.5
+Muyan               2.5
+Yin Xiang           5
+Kate                7.5
+Xie Meng            5
+Emily               7.5
+Taotao              7.5
+Qin Wan             7.5
+Li Yunbo            
+Liuying             5
 #letterboxd
 Aaron Salazar       9
 Bernardo Pajares    9
@@ -132,9 +285,201 @@ Vahid Mortazavi     2
 
 "Okja" (Bong Joon-Ho) [Competition]
 
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# ioncinema
+Nicolas Bell             
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+Blake Williams           
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+Diego Battle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+
 "Jupiter's Moon" (Kornel Mondruczo) [Competition]
 
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# ioncinema
+Nicolas Bell             
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+Blake Williams           
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+Diego Battle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+
 "120 Battements par Minute" (Robin Campillo) [Competition]
+
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# ioncinema
+Nicolas Bell             
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+Blake Williams           
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+Diego Battle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
 
 "The Square" (Ruben Östlund) [Competition]
 
@@ -201,6 +546,7 @@ UN CERTAIN REGARD
 
 "Western" (Valeska Grisebach) [Un Certain Regard]
 
+Jonathan Romney             http://www.screendaily.com/reviews/western-cannes-review/5118078.article?blocktitle=REVIEWS&contentID=40296
 # todas
 Diego Batlle            7.5
 Nicolás Kusmin         7.5
@@ -343,7 +689,8 @@ Daniel Knobelsdorf  7
 
 QUINZAINE
 
-"Dark Glasses (Un Beau Soleil Intérieur)" (Claire Denis) [Quinzaine] Opening
+"Let The Sunshine In (Un Beau Soleil Intérieur)" (Claire Denis) [Quinzaine] Opening
+Jonathan Romney             http://www.screendaily.com/reviews/let-the-sunshine-in-cannes-review/5118073.article?blocktitle=Latest-Reviews&contentID=592
 
 "Young Lions of Gypsy (A Ciambra)" (Jonas Carpignano) [Quinzaine]
 
@@ -466,6 +813,7 @@ SPECIAL SCREENINGS
 "Les Fantomes D’Ismael" (Arnaud Desplechin) [Out Of Competition] Opening Film
 Lisa Nesselson               http://www.screendaily.com/reviews/ismaels-ghosts-cannes-review-opening-film/5117510.article?blocktitle=Latest-Reviews&contentID=592
 Eric Kohn               5    http://www.indiewire.com/2017/05/ismaels-ghosts-review-marion-cotillard-mathieu-amalric-arnaud-desplechin-cannes-1201817096/
+David Acacia                 http://icsfilm.org/reviews/cannes-2017-review-ismaels-ghosts-arnaud-desplechin/
 # todas
 Roger Koza              6.5
 Jaime Pena              6.5
@@ -488,6 +836,34 @@ Damián Hoffman         7.5
 Nicolás Kusmin         7
 Imma Merino             7
 Carlota Moseguí        2.5
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# Le film français
+Gaël Golhen             2.5
+Jean-Claude Raspiergeas 2.5
+Thierry Chèze           7.5
+Eric Neuhoff            7.5
+Stéphane Delorme        5
+Thomas Sotinel          2.5
+Philippe Rouyer         5
+Pierre Vavasseur        5
+Pierre Murat            9
+Phalène de La Valette   1
+Serge Kaganski          9
+Gille Kerdreux          5
+Nicolas Schaller        5
+Barbara Théate          5
+Christophe Carriére     5
 # critic.de
 Andrey Arnold         7.5
 #Pamela Biénzobas     6
@@ -496,7 +872,7 @@ Jenny Jecke           6
 Daniel Kasman         6
 Michael Kienzl        5
 #Boris Nelepo         6
-G.Marchini Camia      7.5
+Giovanni Marchini Camina      7.5
 Lukas Stern           7.5
 Blake Williams        5
 #letterboxd
@@ -558,6 +934,8 @@ Jenny Jecke           1
 #Boris Nelepo         5
 
 "Mugen Non Junin (Blade of the Immortal)" (Takashi Miike) [Out Of Competition]
+
+Lee Marshall                http://www.screendaily.com/reviews/blade-of-the-immortal-cannes-review/5118086.article?blocktitle=Latest-Reviews&contentID=592
 #letterboxd
 daisy_jay           6
 Mutia R.            6
@@ -910,58 +1288,59 @@ Carlota Moseguí (España)
 Agustín Mango (The Hollywood Reporter, Argentina)
 ";
 $critics_group[1] = "ioncinema";
+# http://www.ioncinema.com/news/film-festivals/live-cannes-2017-introducing-cannes-critics-panel
 $critics[1] = "
 Nicolas Bell (Ioncinema.com, USA)
-Christophe Beney (Accreds, France)
+Giovanni Marchini Camina (Filmstage)
 David Calhoun (Time Out London, UK)
 Per Juul Carlsen (Danish National Radio, Denmark)
-Mike d'Angelo (AV Club, USA)
+Marc Cassivi (La Presse, France)
 Jean-Philippe Guerand (Film Francais, France)
 Carlos F. Heredero (Caimán Cuadernos de Cine, España)
 Jessica Kiang (The Playlist, USA)
 Eric Kohn (Indiewire, USA)
+Eric Lavallée (Ioncinema.com, Canada)
 Fabien Lemercier (Cineuropa.org, Belgium)
-Marc-André Lussier (La Presse, France)
 Liu Min (Sina.com, China)
 Isabelle Regnier (Le Monde, France)
 Cédric Succivalli (International Cinephil Society, France)
 Blake Williams (Ioncinema.com, Canada)
-Alison Wilmore (Buzzfeed, USA)
 ";
 # Le film français 0-4
+# http://www.lefilmfrancais.com/cinema/132375/cannes-2017-les-etoiles-de-la-critique-1
 $critics_group[2] = "Le film français";
 $critics[2] = "
-Frédéric Foubert (Premiere, France)     
+Gaël Golhen (Premiere, France)
 Jean-Claude Raspiergeas (la Croix, France)
 Thierry Chèze (Studio ciné live, France)        
 Eric Neuhoff (Le Figaro, France)
 Stéphane Delorme (Cahiers du cinema, France)
-Isabelle Regnier (Le Monde, France)
+Thomas Sotinel (Le Monde, France)
 Philippe Rouyer (Positif, France)
 Pierre Vavasseur (le Parisien, France)
 Pierre Murat (Telerama, France)
-Florence Ben Sadoun (Elle, France)     
+Phalène de La Valette (Le Point, France)
 Serge Kaganski (Les Inrockuptibles, France)
 Gille Kerdreux (oeust france, France)
-Pascal Mérigeau (Observateur, France)      
-Danielle Attali (Le Journal du Dimanche, France)
+Nicolas Schaller (Observateur, France)
+Barbara Théate (Le Journal du Dimanche, France)      
 Christophe Carriére (L'Express, France)
 ";
 # screen daily 0-4
 # http://issuu.com/emap_/docs/screen_cannes_day_1_2013
+# http://www.screendaily.com/festivals/cannes/cannes-2017-screens-dailies/5117892.article?blocktitle=Festival-News&contentID=826
 $critics_group[3] = "Screen Daily";
 $critics[3] = "
-Michel Ciment (Positif, France) 
 Fabio Ferzetti (El Messagero, Italy)
-Kong Rithdee (The Bangkok Post, Thailand) 
 Julien Gester/Didier Peron (Liberation, France) 
-Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
-Mahnola Dargis (New York Times, USA)
+Michel Ciment (Positif, France) 
+Kong Rithdee (The Bangkok Post, Thailand) 
 Stephanie Zacharek (Village Voice, USA)
 Justin Chang (Los Angeles Times, USA)
 Nick James (Sight & Sound, UK)
 Tim Robey/Robbie Collin (Daily Telegraph, UK)
 Anton Dolin (Afisha, Russia)
+Katja Nicodemus (Die Zeit, Deutschland)
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -979,37 +1358,49 @@ Till Kadritzke (critic.de, Deutschland)
 Daniel Kasman (MUBI, USA)
 Michael Kienzl (critic.de, Deutschland)
 Nino Klingler (critic.de, Deutschland)
-G.Marchini Camia (Filmstage)
+Giovanni Marchini Camina (Filmstage, USA)
 Jenny Jecke (moviepilot.de, Deutschland)
 ";
-# ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2015/
+# ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2017/
 $critics_group[5] = "ICSfilm panel";
 $critics[5] = "
 Cédric Succivalli (International Cinephil Society, France)
 David Acacia (International Cinephil Society, Canada)
-Aldo Álvareztostado (International Cinephil Society, Mexico)
+Tommaso Tocci (International Cinephil Society, Italy)
+Ioannis Kanonakis (International Cinephil Society, Greece)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
+Isabelle Regnier (Le Monde, France)
+Guy Lodge
+Justin Chang
+Diego Battle
+Nicholas Bell
 David Honnorat (International Cinephil Society, France)
-Christophe Beney (Accreds, France)
 Dana Keith (International Cinephil Society, USA)
-D W Mault (International Cinephil Society, UK)
-Eren Odabasi (International Cinephil Society, Turkey)
+Dennis Lim
+Blake Williams
+Jon Frosch
+Stephanie Zacharek
+Boyd Van Hoeij
+Jay Weissberg
 ";
+#Christophe Beney (Accreds, France)
+#Aldo Álvareztostado (International Cinephil Society, Mexico)
+#D W Mault (International Cinephil Society, UK)
+#Eren Odabasi (International Cinephil Society, Turkey)
 $critics_group[6] = "Chinese Grid";
+# https://twitter.com/CriticsGrid
 $critics[6] = "
-Guojie (Suho Movie, China)
-Kate (Movie View, China)
-Liu Min (Sina, China)
-Liuying (CinemaWorld, China)
-Emily (Figaro, China)
+Li Xun (CTP Cinema, China)
+Liu Min (Sina Movie, China)
 Muyan (Bund Pictorial, China)
-Shuang (WorldScreen, China)
-Peter Cat (DeepFocus, China)
-Qin Wan (iFeng Movie, China)
-Tao Tao (Tao Movie, China)
-Yixiong (Sina, China)
-Xie Meng (Artforum, China)
-HOWIE (Sina, China)
+Yin Xiang (Cinephilia, China)
+Kate (Movie View, China)
+Xie Meng (Southern Weekly, China)
+Emily (163.com, China)
+Taotao (TaoMovie, China)
+Qin Wan (Phoenix, China)
+Li Yunbo (DuSir Movie)
+Liuying (DeepFocus, China)
 ";
 # $critics_group[7] = "TF1.fr";
 #$critics[7] = "
@@ -1035,6 +1426,7 @@ Adam Woodward (Little White Lies blog, UK)
 Alex Billington (FirstShowing.net, USA)
 Allan Hunter (Screen Daily, USA)
 Allison Loring (Film School Rejects, USA)
+Alison Wilmore (Buzzfeed, USA)
 Amber Wilkinson (The Telegraph, UK)
 Andrei Creţulescu (HBO, Romania) 
 Andrew O'Hehir (Salon.com, USA) 
@@ -1061,6 +1453,7 @@ Corina Roettger (Next Projection, Deutschland)
 Craig Skinner (Film Divider, UK)
 Craig Williams (Cine Vue, UK)
 Dan Fainaru (Screen International, Israel)
+Danielle Attali (Le Journal du Dimanche, France)
 David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Movies.com, Box Office Magazine, Reverse Shot)
 David Fear (Time Out New York, USA) 
@@ -1087,19 +1480,23 @@ Ethan Anderton (FirstShowing.net, USA)
 Eugene Hernandez (Film Society of Lincoln Center, USA) 
 Fico Cangiano (CineXpress, Puerto Rico)
 Fionnuala Hannigan (Screen International, USA)
+Florence Ben Sadoun (Elle, France)     
 Fred Topel (CraveOnline, USA)
+Frédéric Foubert (Premiere, France)
 Frédéric Jaeger (critic.de, Deutschland)
 Frédéric Strauss (Telerama, France)
 Geoffrey MacNab (The Independent, UK)
-Giovanni Marchini Camia (Filmstage)
+Giovanni Marchini Camia (Filmstage, USA)
 Rory O'Connor (Filmstage)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
 Gregory Ellwood (HitFix, USA)
 Guy Lodge (Variety, USA)
 Hemanth Kissoon (Filmaluation, UK)
 Henry Barnes (Guardian, UK)
+Isabelle Regnier (Le Monde, France)
 Ignatiy Vishnevetsky (A.V. Club, USA)
 Jacques Morice (Telerama, France)
+Jan Schulz-Ojala (Der Tagesspiegel, Deutschland) 
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) 
 Jamie Graham (Total Film, UK)
 Jason Bailey (Flavorwire)
@@ -1144,6 +1541,7 @@ Louis Guichard (Telerama, France)
 Maggie Lee (Variety, USA)
 Manohla Dargis (New York Times, USA)
 Manon Dumais (Voir, Canada)
+Marc-André Lussier (La Presse, France)
 Mark Adams (Screen International, USA)
 Mathilde Blottière (Telerama, France)
 Mathilde Cesbron (Le Figaro, France)
@@ -1153,7 +1551,7 @@ Maxime Pargaud (Le Figaro, France)
 Michael Ghennam (Les Fiches du Cinéma, Tess Magazine, France)
 Michael Giltz (The Huffington Post, USA)
 Michael Sennhauser (SRF, Suisse)
-Mirjam Urban (Free, Deutschland)
+Mike d'Angelo (AV Club, USA)
 Nev Pierce (Empire, USA)
 Nicholas Barber (BBC, UK)
 Nigel M Smith (Indiewire, USA)
@@ -1162,6 +1560,7 @@ Noel Murray (The Dissolve, USA)
 Oliver Lyttelton (The Playlist, USA)
 Patrick Heidmann (Cineman, Berliner Zeitung, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
+Pascal Mérigeau (Observateur, France)
 Paul Martin (Indies Movies Online, USA) 
 Pete Hammond (Boxoffice Magazine, USA) 
 Peter Bradshaw (Guardian, UK) 
