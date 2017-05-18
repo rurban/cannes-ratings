@@ -1,12 +1,13 @@
-#!/usr/bin/perl -s
+#!/usr/local/bin/perl5.24 -s
 # usage: ./Critic.de.pl
 # no timestamp by server
 use File::Copy;
 use utf8;
-use 5.20;
+use v5.20;
 my $url = "http://jury.critic.de/cannes/";
 my $c = "Critic.de.html";
 my $bak = "$c.old";
+no strict;
 $max = 4;
 
 unless ($u) {
