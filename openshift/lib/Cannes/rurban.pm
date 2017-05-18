@@ -60,7 +60,7 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif (/\w[\w\)]:?[\x{2013} \t]+(\d|\d\.?\d|[ABCDEF][\+\-]?)(\s+.*)?$/) {
+    } elsif ($title and /\w[\w\)]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
       my $x = $1;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
       $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
@@ -72,7 +72,7 @@ sub _read {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
 	($critic,$mag,$cn) = ($1,'',$2);
-      } elsif (/^(\S[^-\(]+) \s+ (?:\d[\d\.]?)/x) {
+      } elsif (/^(\S[^\(]+) \s+ (?:\d+\.?)/x) {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
@@ -84,7 +84,7 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
-    } elsif (/\w[\w\)][-\x{2013}\s]+(http\S+)/) { # review link only
+    } elsif ($title and /\w[\w\)][-\x{2013}\s]+(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {
@@ -316,7 +316,7 @@ sub _dump {
   my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
-  for (@t) { 
+  for (@t) {
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num}; 
@@ -469,7 +469,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      next if /^(IMDB|Letterboxd?) _?\d+/;
+      next if /^(IMDB|Letterboxd?|Sundance) _?\d+_Ratings/;
       my $c;
       if ($critic{$_}->{mag}) {
         $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
