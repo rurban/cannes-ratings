@@ -9,12 +9,11 @@ package Cannes::rurban::2017; # -*- perl -*-
 #   http://www.lefilmfrancais.com/document/cannes2017/quotidien/FF9/index.html (scale 0-4)
 #   http://jury.critic.de/cannes/
 #   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
-#   http://icsfilm.org/features/cannes-2017-the-grid/
-#   http://lci.tf1.fr/festival-de-cannes/
-#   http://letterboxd.com/rurban/list/cannes2017
+#   http://icsfilm.org/features/ics-cannes-poll-2017/
+#   https://twitter.com/CriticsGrid
 # More:
 #   http://www.indiewire.com/critic/
-#   http://www.theguardian.com/film/cannes-2017
+#   https://www.theguardian.com/film/cannes-2017
 #
 # Published at http://cannes-rurban.rhcloud.com/2017
 # History at https://github.com/rurban/cannes-critics-ratings
@@ -713,6 +712,7 @@ Eulalia Iglesias        8.5
 Pablo Scholz            5.5
 José Luis Losa         7.5
 Ángel Quintana         8.5
+Alejandra Trelles       7
 Philipp Engel           6.5
 Juanma Ruíz            7
 Damián Hoffman         4.5
@@ -753,6 +753,7 @@ Carlos F. Heredero      6
 Eulalia Iglesias        7.5
 José Luis Losa         7
 Ángel Quintana         6.5
+Alejandra Trelles       7
 Nicolás Kusmin         7.5
 Carlota Moseguí        7
 # critic.de
@@ -1153,6 +1154,7 @@ Eulalia Iglesias        6
 Pablo Scholz            6
 José Luis Losa         7.5
 Ángel Quintana         8
+Alejandra Trelles       8
 Philipp Engel           5.5
 Juanma Ruíz            6
 Damián Hoffman         7.5
@@ -1281,7 +1283,7 @@ Pamela Bienzobas        3
 Pablo Scholz            4
 José Luis Losa         3.5
 Ángel Quintana         4.5
-Alejandra Trelles       7
+Alejandra Trelles       6.5
 Imma Merino             5
 # critic.de
 #Pamela Biénzobas     2.5
