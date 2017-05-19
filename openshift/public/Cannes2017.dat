@@ -78,7 +78,7 @@ Daniel Kasman         5
 Michael Kienzl        9       http://www.critic.de/film/wonderstruck-11011/
 Lukas Stern           9
 Rüdiger Suchsland    7.5
-Blake Williams        7.5
+#Blake Williams        7.5
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -94,19 +94,20 @@ Screen International
 # ioncinema
 Nicolas Bell             6   http://www.ioncinema.com/reviews/wonderstruck-todd-haynes-review
 Giovanni Marchini Camina 
-David Calhoun            
-Per Juul Carlsen         
-Marc Cassivi             
-Jean-Philippe Guerand    
+David Calhoun            5
+Per Juul Carlsen         6
+Marc Cassivi             4
+Bilge Ebiri              
+Jean-Philippe Guerand    7
 Carlos F. Heredero       
 Jessica Kiang            
 Eric Kohn                
-Eric Lavallée            
-Fabien Lemercier         
+Eric Lavallée            6
+Fabien Lemercier         9
 Liu Min                  
 Isabelle Regnier         
 Cédric Succivalli        
-Blake Williams           
+Blake Williams           7
 # Le film français
 Gaël Golhen             
 Jean-Claude Raspiergeas 
@@ -143,17 +144,17 @@ Stephanie Zacharek
 Boyd Van Hoeij        
 Jay Weissberg         8
 # Chinese @CriticsGrid
-Li Xun              
-Liu Min             
-Muyan               
-Yin Xiang           
-Kate                
-Xie Meng            
-Emily               
-Taotao              
-Qin Wan             
-Li Yunbo            
-Liuying             
+Li Xun              9
+Liu Min             5
+Muyan               7.5
+Yin Xiang           9
+Kate                5
+Xie Meng            5
+Emily               5
+Taotao              5
+Qin Wan             5
+Li Yunbo            5
+Liuying             2.5
 #letterboxd
 FilmLandEmpire      10
 monkeybox83         10
@@ -197,7 +198,6 @@ Kiarash Anvari      1
 
 Dan Fainaru                http://www.screendaily.com/reviews/loveless-cannes-review/5118020.article?blocktitle=REVIEWS&contentID=40296
 Leslie Felperin            http://www.hollywoodreporter.com/review/loveless-review-1004910
-Eric Lavallée           7  http://www.ioncinema.com/reviews/loveless-andrei-zvyagintsev-review
 # todas
 Roger Koza              5
 Jaime Pena              4.5
@@ -238,7 +238,7 @@ Michael Kienzl        4
 Giovanni Marchini Camina 5
 Lukas Stern           4       http://www.critic.de/film/loveless-11018/
 Rüdiger Suchsland    4
-Blake Williams        2.5
+#Blake Williams        2.5
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -252,21 +252,21 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell             
-Giovanni Marchini Camina 
-David Calhoun            
-Per Juul Carlsen         
-Marc Cassivi             
-Jean-Philippe Guerand    
-Carlos F. Heredero       
+Nicolas Bell             7
+Giovanni Marchini Camina 4
+David Calhoun            8
+Per Juul Carlsen         9
+Marc Cassivi             7
+Jean-Philippe Guerand    9
+Carlos F. Heredero       5
 Jessica Kiang            
-Eric Kohn                
-Eric Lavallée            
-Fabien Lemercier         
+Eric Kohn                6
+Eric Lavallée            7  http://www.ioncinema.com/reviews/loveless-andrei-zvyagintsev-review
+Fabien Lemercier         8
 Liu Min                  
 Isabelle Regnier         
 Cédric Succivalli        
-Blake Williams           
+Blake Williams           3
 # Le film français
 Gaël Golhen             
 Jean-Claude Raspiergeas 
@@ -347,72 +347,6 @@ Lawrence Garcia     4
 Tanner Stechnij     3
 Blake Williams      3
 Vahid Mortazavi     2
-
-"Okja" (Bong Joon-Ho) [Competition]
-
-# screen daily
-Fabio Ferzetti        
-Julien Gester/Didier Peron 
-Michel Ciment         
-Kong Rithdee          
-Stephanie Zacharek    
-Justin Chang          
-Nick James            
-Tim Robey/Robbie Collin 
-Anton Dolin           
-Katja Nicodemus       
-Screen International  
-# ioncinema
-Nicolas Bell             
-Giovanni Marchini Camina 
-David Calhoun            
-Per Juul Carlsen         
-Marc Cassivi             
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Jessica Kiang            
-Eric Kohn                
-Eric Lavallée            
-Fabien Lemercier         
-Liu Min                  
-Isabelle Regnier         
-Cédric Succivalli        
-Blake Williams           
-# Le film français
-Gaël Golhen             
-Jean-Claude Raspiergeas 
-Thierry Chèze           
-Eric Neuhoff            
-Stéphane Delorme        
-Thomas Sotinel          
-Philippe Rouyer         
-Pierre Vavasseur        
-Pierre Murat            
-Phalène de La Valette   
-Serge Kaganski          
-Gille Kerdreux          
-Nicolas Schaller        
-Barbara Théate          
-Christophe Carriére     
-# ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
-Isabelle Regnier      
-Guy Lodge             
-Justin Chang          
-Diego Battle          
-Nicholas Bell         
-David Honnorat        
-Dana Keith            
-Dennis Lim            
-Blake Williams         
-Jon Frosch            
-Stephanie Zacharek    
-Boyd Van Hoeij        
-Jay Weissberg         
 
 "Jupiter's Moon" (Kornel Mondruczo) [Competition]
 Boyd van Hoeij              http://www.hollywoodreporter.com/review/jupiters-moon-jupiter-holdja-review-1005004
@@ -499,6 +433,18 @@ Jon Frosch
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
+# Chinese @CriticsGrid
+Li Xun              2.5
+Liu Min             5
+Muyan               5
+Yin Xiang           7.6
+Kate                5
+Xie Meng            5
+Emily               5
+Taotao              7.5
+Qin Wan             7.5
+Li Yunbo            7.5
+Liuying             7.5
 #letterboxd
 onozorobi           7
 FilmLandEmpire      7
@@ -514,6 +460,84 @@ the_gaffer          3
 Crayfish            2
 Josh Cabrita        2
 Carlota Moseguí    1
+
+"Okja" (Bong Joon-Ho) [Competition]
+
+# screen daily
+Fabio Ferzetti        
+Julien Gester/Didier Peron 
+Michel Ciment         
+Kong Rithdee          
+Stephanie Zacharek    
+Justin Chang          
+Nick James            
+Tim Robey/Robbie Collin 
+Anton Dolin           
+Katja Nicodemus       
+Screen International  
+# ioncinema
+Nicolas Bell             
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+Blake Williams           
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+Diego Battle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Kate                
+Xie Meng            
+Emily               
+Taotao              
+Qin Wan             
+Li Yunbo            
+Liuying             
 
 "120 Battements par Minute" (Robin Campillo) [Competition]
 
@@ -580,6 +604,18 @@ Jon Frosch
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Kate                
+Xie Meng            
+Emily               
+Taotao              
+Qin Wan             
+Li Yunbo            
+Liuying             
 
 "The Square" (Ruben Östlund) [Competition]
 
@@ -1566,7 +1602,7 @@ Cédric Succivalli (International Cinephil Society, France)
 Blake Williams (Ioncinema.com, Canada)
 ";
 # Le film français 0-4
-# http://www.lefilmfrancais.com/cinema/132375/cannes-2017-les-etoiles-de-la-critique-1
+# http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
 $critics_group[2] = "Le film français";
 $critics[2] = "
 Gaël Golhen (Premiere, France)
