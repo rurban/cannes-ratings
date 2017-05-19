@@ -64,7 +64,7 @@ sub readhtml {
           s/<br>/ /g;
           s/Pamela Biénzobas/#Pamela Bienzobas/;
           s/Boris Nelepo/#Boris Nelepo/;
-          s/G.Marchini Camia/#Giovanni Marchini Camina/;
+          s/G.Marchini Camia/#Giovanni Marchini Camina /;
           $_
         } else {
           "";
