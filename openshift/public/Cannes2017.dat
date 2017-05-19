@@ -1582,12 +1582,13 @@ SimonHatton         8
 * "Quien te cantará" (Carlos Vermut)
 * "The Devil Outside" (Andrew Hulme)
 * "Monos" (Alexis Dos Santos, Alejandro Landes)
-* "Call Me by Your Name" Sundance, Berlin: For the best rated Sundance movie, which went under in cold Berlin there always is a place in the Quinzaine.
-* "Gemini"" (Aaron Katz) SXWS. Maybe Quinzaine
+* "Call Me by Your Name" Sundance, Berlin: For the best rated Sundance movie, which went under in cold Berlin there should always be a place in the Quinzaine. Nope, it is not.
+* "Gemini" (Aaron Katz) SXWS. Maybe Quinzaine
 * "Casting JonBenet" Sundance
 * "A Season in France" (Mahamat-Saleh Haroun) (if ready)
 * "Lear on the Shore/Umibe No Lear" (Kobayashi)
 * "My Son" (Christian Carion)
+   1 star https://letterboxd.com/muybridge/film/mon-garcon/
 * "When the Waves are Gone" (Lav Diaz) (if ready)
 * "Custody/Jusqu’à la garde" (Xavier Legrand) divorce drama
 * "Shanghai Youth" (Wang)
@@ -2087,8 +2088,6 @@ List:
 http://letterboxd.com/rurban/list/cannes-2017/
 Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Cannes2017.dat 
-
-See also http://www.jigsawlounge.co.uk/film/reviews/cannes-2017/
 </pre>";
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
