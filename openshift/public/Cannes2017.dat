@@ -8,6 +8,8 @@ package Cannes::rurban::2017; # -*- perl -*-
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/document/cannes2017/quotidien/FF9/index.html (scale 0-4)
 #   http://jury.critic.de/cannes/
+#   http://variety.com/c/reviews/
+#   http://www.hollywoodreporter.com/topic/movie-reviews
 #   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
 #   http://icsfilm.org/features/cannes-2017-critics-panel/
 #   https://twitter.com/CriticsGrid
@@ -503,6 +505,8 @@ Carlota Moseguí    1
 "Okja" (Bong Joon-Ho) [Competition]
 
 Peter Bradshaw          10  https://www.theguardian.com/film/2017/may/19/okja-review-netflix-tilda-swinton-giant-korean-pig-cannes-2017
+Peter Debruge               http://variety.com/2017/film/reviews/okja-review-1202434900/
+Steven Dalton               http://www.hollywoodreporter.com/review/okja-review-1005403
 Jordan Ruimy                https://twitter.com/mrRuimy/status/865498896742498304
 Ghislain Loustalot          https://twitter.com/GhisLoustalot/status/865498053699969028
 Bilge Ebiri                 https://twitter.com/BilgeEbiri/status/865493383719960578
@@ -824,6 +828,7 @@ John Tikis          2
 "Western" (Valeska Grisebach) [Un Certain Regard]
 
 Jonathan Romney             http://www.screendaily.com/reviews/western-cannes-review/5118078.article?blocktitle=REVIEWS&contentID=40296
+Guy Lodge                   http://variety.com/2017/film/reviews/western-review-cannes-1202436668/
 # todas
 Roger Koza              9
 Jaime Pena              7
@@ -883,6 +888,7 @@ Frédéric Jaeger     4
 Eren Odabasi        3
 
 "Aala Kaf Ifrit (Beauty and The Dogs)" (Kaouther Ben Hania) [Un Certain Regard]
+Boyd van Hoeij            http://www.hollywoodreporter.com/review/beauty-dogs-1003573
 #letterboxd
 Millie C            7
 Pieter Vermeersch   6
@@ -1075,6 +1081,7 @@ Sebastian Quevedo   2
 Kiarash Anvari      1
 
 "Young Lions of Gypsy (A Ciambra)" (Jonas Carpignano) [Quinzaine]
+David Rooney                http://www.hollywoodreporter.com/review/a-ciambra-cannes-2017-1005473
 # todas
 Fernando Ganzo          4
 
@@ -1082,6 +1089,7 @@ Fernando Ganzo          4
 
 "L'amant d'un jour" (Philippe Garrel) [Quinzaine]
   with Esther Garrel
+Boyd van Hoeij              http://www.hollywoodreporter.com/review/lover-a-day-lamant-dun-jour-review-1003622
 # todas
 Boris Nelepo            6.5
 # critic.de
@@ -1474,6 +1482,7 @@ Vahid Mortazavi     7
 Truman2712          6
 
 "They" (Anahita Ghazvinizadeh) [Out Of Competition] Special Screening
+Jordan Mintzer              http://www.hollywoodreporter.com/review/they-film-review-cannes-2017-1001608
 #letterboxd
 Truman2712          5
 Pablo Villaça      2
