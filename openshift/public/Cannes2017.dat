@@ -9,7 +9,7 @@ package Cannes::rurban::2017; # -*- perl -*-
 #   http://www.lefilmfrancais.com/document/cannes2017/quotidien/FF9/index.html (scale 0-4)
 #   http://jury.critic.de/cannes/
 #   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
-#   http://icsfilm.org/features/ics-cannes-poll-2017/
+#   http://icsfilm.org/features/cannes-2017-critics-panel/
 #   https://twitter.com/CriticsGrid
 # More:
 #   http://www.indiewire.com/critic/
@@ -327,6 +327,7 @@ Bernardo Pajares    9
 Truman2712          9
 Sam Gray            9
 John Tikis          9
+Eli Hayes           8
 Carlota Moseguí    8
 Pablo Villaça      8
 Martyn Conterio     8
@@ -474,6 +475,7 @@ Carlota Moseguí    1
 "Okja" (Bong Joon-Ho) [Competition]
 
 Jordan Ruimy                https://twitter.com/mrRuimy/status/865498896742498304
+Ghislain Loustalot          https://twitter.com/GhisLoustalot/status/865498053699969028
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -551,6 +553,8 @@ Taotao
 Qin Wan             
 Li Yunbo            
 Liuying             
+#letterboxd
+Eli Hayes           9       https://letterboxd.com/elihayes/film/okja/1/
 
 "120 Battements par Minute" (Robin Campillo) [Competition]
 
@@ -1490,6 +1494,7 @@ Immanuel            1
 
 "It Comes at Night" (Trey Edwards Shults) not yet selected [Hopeful (temp.)]
 #letterboxd
+Eli Hayes           8
 your_harry_son      8
 Adam Rolseth        8
 Andrew Schwarz      5
