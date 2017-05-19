@@ -241,11 +241,11 @@ Frédéric Jaeger     2.5
 Till Kadritzke        4
 Daniel Kasman         4
 Michael Kienzl        4
-#Boris Nelepo         5
+Boris Nelepo         5.5       http://www.svoboda.org/a/28496048.html
 Giovanni Marchini Camina 5
 Lukas Stern           4       http://www.critic.de/film/loveless-11018/
 Rüdiger Suchsland    4
-#Blake Williams        2.5
+Blake Williams        2.5
 # screen daily
 Fabio Ferzetti        9
 Julien Gester/Didier Peron 2.5
@@ -380,9 +380,10 @@ Damián Hoffman         4
 Imma Merino             5
 Carlota Moseguí        1
 # critic.de
+Andrey Arnold         4
 Frédéric Jaeger     6
 Jenny Jecke           2.5
-Till Kadritzke        4
+Till Kadritzke        4       http://www.critic.de/film/jupiters-moon-11014/
 Lukas Stern           5
 # screen daily
 Fabio Ferzetti        
@@ -488,6 +489,13 @@ Roger Koza              6.5
 Diego Batlle            7
 Alejandro G. Calvo      7
 Agustín Mango          6
+# critic.de
+Andrey Arnold         7.5
+Frédéric Jaeger     6
+Till Kadritzke        4
+Michael Kienzl        7.5
+Giovanni Marchini Camina 7.5
+Lukas Stern           4
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -791,14 +799,15 @@ Alejandra Trelles       8
 Nicolás Kusmin         7.5
 Carlota Moseguí        7
 # critic.de
+Andrey Arnold         9
 Frédéric Jaeger     7.5     http://www.critic.de/film/western-11027/
 Jenny Jecke           7.5
 Till Kadritzke        7.5
 Michael Kienzl        7.5
 #Boris Nelepo         7.5
-#Giovanni Marchini Camina 7.5
-Blake Williams        6
+Giovanni Marchini Camina 7.5
 Lukas Stern           7.5
+Blake Williams        6
 # letterboxd
 Jean-Christophe Simon 10
 Truman2712          9
@@ -822,6 +831,8 @@ John Tikis          6
 b gudivada          5
 
 "Lerd (Dregs/A Man of Integrity)" (Mohammad Rasoulof) [Un Certain Regard]
+# critic.de
+Frédéric Jaeger     4
 
 "Aala Kaf Ifrit (Beauty and The Dogs)" (Kaouther Ben Hania) [Un Certain Regard]
 
@@ -1013,6 +1024,9 @@ Sebastian Quevedo   2
   with Esther Garrel
 # todas
 Boris Nelepo            6.5
+# critic.de
+#Boris Nelepo         6
+Blake Williams        6
 #letterboxd
 b gudivada          7
 Vahid Mortazavi     7
@@ -1208,6 +1222,18 @@ Nicolás Kusmin         7
 Imma Merino             7
 Carlota Moseguí        2.5
 Agustín Mango          7
+# critic.de
+Andrey Arnold         7.5
+#Pamela Biénzobas     6
+Frédéric Jaeger     7.5   http://www.critic.de/film/ismaels-ghosts-10960/
+Jenny Jecke           6
+Daniel Kasman         6
+Michael Kienzl        5
+Boris Nelepo         6       http://www.svoboda.org/a/28493933.html
+Giovanni Marchini Camina      7.5
+Lukas Stern           7.5
+#Rüdiger Suchsland    7.5
+Blake Williams        5
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -1236,18 +1262,6 @@ Gille Kerdreux          5
 Nicolas Schaller        5
 Barbara Théate          5
 Christophe Carriére     5
-# critic.de
-Andrey Arnold         7.5
-#Pamela Biénzobas     6
-Frédéric Jaeger     7.5   http://www.critic.de/film/ismaels-ghosts-10960/
-Jenny Jecke           6
-Daniel Kasman         6
-Michael Kienzl        5
-#Boris Nelepo         6
-Giovanni Marchini Camina      7.5
-Lukas Stern           7.5
-#Rüdiger Suchsland    7.5
-Blake Williams        5
 # ics
 Cédric Succivalli     4
 David Acacia          2
@@ -1335,7 +1349,7 @@ Imma Merino             5
 # critic.de
 #Pamela Biénzobas     2.5
 Jenny Jecke           1
-#Boris Nelepo         5
+Boris Nelepo         5       http://www.svoboda.org/a/28496420.html
 #letterboxd
 Benedict Seal       6
 David Ehrlich       6
@@ -1380,6 +1394,8 @@ Jordan Hoffman         10   https://www.theguardian.com/film/2017/may/19/visages
 Roger Koza              8
 Diego Batlle            8
 Boris Nelepo            6
+# critic.de
+#Boris Nelepo         5
 
 "They" (Anahita Ghazvinizadeh) [Out Of Competition] Special Screening
 
