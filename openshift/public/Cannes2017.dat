@@ -400,6 +400,7 @@ Bilge Ebiri                 https://twitter.com/BilgeEbiri/status/86549338371996
 Roger Koza              6
 Jaime Pena              6.5
 José Luis De Lorenzo   7.5
+Rüdiger Suchsland      7
 Giona Nazzaro           8
 Diego Batlle            7
 Luciano Monteagudo      5
@@ -408,6 +409,7 @@ Alejandro G. Calvo      7
 Carlos F. Heredero      6.5
 Pamela Bienzobas        5
 Sergi Sanchez           5.5
+Eulalia Iglesias        7
 José Luis Losa         7.5
 Juanma Ruíz            7.5
 Damián Hoffman         8
@@ -565,6 +567,7 @@ José Luis Losa         0.5
 Philipp Engel           3.5
 Juanma Ruíz            2.5
 Damián Hoffman         4
+Pedro Segura            2
 Imma Merino             5
 Carlota Moseguí        1
 # critic.de
@@ -689,6 +692,13 @@ Carlota Moseguí    1
 
 "120 Battements par Minute" (Robin Campillo) [Competition]
 
+# todas
+Rüdiger Suchsland      3
+Diego Batlle            7.5
+José Luis Losa         5.5
+Ángel Quintana         7.5
+Imma Merino             7.5
+Agustín Mango          7
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -776,15 +786,20 @@ Todd McCarthy               http://www.hollywoodreporter.com/review/square-revie
 Jaime Pena              3
 Daniel Kasman           4.5
 José Luis De Lorenzo   7
+Rüdiger Suchsland      8
 Fredy Friedlander       7
+Diego Batlle            4
 Luciano Monteagudo      4
 Fernando Ganzo          3.5
+Alejandro G. Calvo      5
 Boris Nelepo            4
 Carlos F. Heredero      7
+Sergi Sanchez           7
+Eulalia Iglesias        6
 José Luis Losa         4
 Ángel Quintana         5.5
 Damián Hoffman         7.5
-Pedro Segura            4.5
+Pedro Segura            3.5
 Imma Merino             3
 # critic.de
 Jenny Jecke           5
@@ -951,6 +966,7 @@ Guy Lodge               6   https://www.theguardian.com/film/2017/may/19/barbara
 Jaime Pena              7.5
 Daniel Kasman           5
 José Luis De Lorenzo   4
+Rüdiger Suchsland      4
 Fernando Juan Lima      8
 Diego Lerer             8
 Fredy Friedlander       5
@@ -1009,6 +1025,7 @@ Roger Koza              9
 Jaime Pena              7
 Daniel Kasman           7.5
 José Luis De Lorenzo   9
+Rüdiger Suchsland      8.5
 Fernando Juan Lima      8
 Diego Lerer             8
 Diego Batlle            8
@@ -1066,6 +1083,7 @@ b gudivada          5
 Deborah Young               http://www.hollywoodreporter.com/review/a-man-integrity-1005450
 # todas
 José Luis De Lorenzo   6
+José Luis Losa         5.5
 # critic.de
 Frédéric Jaeger     4
 Michael Kienzl        4
@@ -1084,6 +1102,7 @@ Eren Odabasi        3
 Boyd van Hoeij            http://www.hollywoodreporter.com/review/beauty-dogs-1003573
 Jay Weissberg             http://variety.com/2017/film/reviews/beauty-and-the-dogs-review-1202436889/
 # todas
+Eulalia Iglesias        4
 Damián Hoffman         2
 #letterboxd
 Antoine Waked       8
@@ -1245,6 +1264,7 @@ Boris Nelepo            5.5
 Carlos F. Heredero      6.5
 Pamela Bienzobas        5.5
 Sergi Sanchez           9.5
+Eulalia Iglesias        8
 José Luis Losa         6.5
 Ángel Quintana         8
 Juanma Ruíz            4
@@ -1354,6 +1374,7 @@ Giona Nazzaro           10
 Diego Batlle            7.5
 Luciano Monteagudo      7.5
 Fernando Ganzo          8
+Alejandro G. Calvo      8
 Boris Nelepo            6.5
 Pamela Bienzobas        5.5
 Ángel Quintana         6.5
@@ -1800,6 +1821,7 @@ Diego Batlle            8
 Luciano Monteagudo      8
 Boris Nelepo            6
 Carlos F. Heredero      9
+José Luis Losa         7.5
 Ángel Quintana         9
 Nicolás Kusmin         8.5
 Imma Merino             10
@@ -1858,10 +1880,15 @@ Felicia Chaidez     8
 Simon               6
 
 "Le Venerable W." (Barbet Schroeder) [Out Of Competition]
+# todas
+Diego Batlle            7
+Pamela Bienzobas        7.5
 #letterboxd
 Jansushi            4
 
 "Promised Land" (Eugene Jarecki) [Out Of Competition] Special Screening
+# todas
+Diego Batlle            6.5
 
 "How to Talk to Girls at Parties" (John Cameron Mitchell) [Out Of Competition]
 #letterboxd
@@ -2317,7 +2344,7 @@ Xie Meng (Southern Weekly, China)
 Emily (163.com, China)
 Taotao (TaoMovie, China)
 Qin Wan (Phoenix, China)
-Li Yunbo (DuSir Movie)
+Li Yunbo (DuSir Movie, China)
 Liuying (DeepFocus, China)
 ";
 # $critics_group[7] = "TF1.fr";
