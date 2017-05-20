@@ -60,7 +60,7 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0; 
-    } elsif ($title and /\w[\w\)]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
+    } elsif ($title and /\w[\w\)\.]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
       my $x = $1;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
       $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;

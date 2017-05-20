@@ -1748,7 +1748,7 @@ Tanner Stechnij     6
 Lawrence Garcia     6
 Blake Williams      6
 David Ehrlich       6
-Lydia M.            5
+Lydia Milano        5
 A.A. Dowd           5
 Sebastian Quevedo   2
 Kiarash Anvari      1
@@ -1892,7 +1892,7 @@ Louisa              7
 "The Rider" (Chloé Zhao) [Quinzaine]
 Peter Bradshaw      8     https://www.theguardian.com/film/2017/may/20/rider-review-bronco-rider-chloe-zhao-south-dakota-drama-documentary
 #letterboxd
-Lydia M.            8
+Lydia Milano        8
 Sam Gray            7
 
 "West of the Jordan River (Field diary revisited)" (Amos Gitai) [Quinzaine]
@@ -2834,6 +2834,8 @@ Serena Catalano (Movieplayer.it, France)
 Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
 John Tikis (Musician, Greece)
 Sam C. Mac (Slant Magazine, USA)
+Lydia Milano (Rap videos, USA)
+Sam Gray (Film maker, UK)
 ";
 # indiewire + various other
 $critics_group[8] = "None";
