@@ -62,9 +62,11 @@ sub readhtml {
 	if (m{ class='kritiker sort'>(.+?)</a>}) {
           $_ = $1;
           s/<br>/ /g;
+          s/G.Marchini Camia/#Giovanni Marchini Camina /;
           s/Pamela Biénzobas/#Pamela Bienzobas/;
           s/Boris Nelepo/#Boris Nelepo/;
-          s/G.Marchini Camia/#Giovanni Marchini Camina /;
+          s/Daniel Kasman/#Daniel Kasman/;
+          s/Rüdiger Suchsland/#Rüdiger Suchsland/;
           $_
         } else {
           "";
