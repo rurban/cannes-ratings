@@ -536,7 +536,7 @@ Txarles             6
 Zach Martin         6
 James Thompson      6
 nslomka             5
-Sam C. Mac          5
+Sam C. Mac          5       https://letterboxd.com/samcmac/film/okja/1/
 Tommaso Tocci       5
 Till Kadritzke      5
 Philippe            4
@@ -2334,6 +2334,7 @@ Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
 Serena Catalano (Movieplayer.it, France)
 Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
 John Tikis (Musician, Greece)
+Sam C. Mac (Slant Magazine, USA)
 ";
 # indiewire + various other
 $critics_group[8] = "None";
