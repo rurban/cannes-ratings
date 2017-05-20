@@ -723,6 +723,7 @@ José Luis Losa         5.5
 Imma Merino             7.5
 Agustín Mango          7
 # critic.de
+Frédéric Jaeger     5       http://www.critic.de/film/120-battements-par-minute-11009/
 Michael Kienzl        9
 Lukas Stern           7.5
 Blake Williams        7.5
@@ -854,6 +855,8 @@ Till Kadritzke        1
 Daniel Kasman         4
 #Boris Nelepo         2.5
 Giovanni Marchini Camina 5
+Lukas Stern           5
+#Rüdiger Suchsland    9
 #Blake Williams        4
 # screen daily
 Fabio Ferzetti        
@@ -1421,7 +1424,7 @@ Diego Lerer             8
 Diego Batlle            8
 Luciano Monteagudo      8
 Alejandro G. Calvo      8.5
-Boris Nelepo            8
+Boris Nelepo            8   http://www.svoboda.org/a/28499366.html
 Carlos F. Heredero      6
 Eulalia Iglesias        7.5
 José Luis Losa         7
@@ -1693,7 +1696,7 @@ Fredy Friedlander       8
 Diego Batlle            9
 Luciano Monteagudo      8
 Alex Vicente            7.5
-Boris Nelepo            5.5
+Boris Nelepo            5.5  http:///www.svoboda.org/a/28499366.html
 Carlos F. Heredero      6.5
 Pamela Bienzobas        5.5
 Sergi Sanchez           9.5
@@ -1804,6 +1807,9 @@ Clarence Tsui
 Luciano Monteagudo      5.5
 Boris Nelepo            6.5
 Gustavo Beck            4
+# critic.de
+#Boris Nelepo         6
+Blake Williams        5
 #letterboxd
 Josh Cabrita        2
 
@@ -1820,7 +1826,7 @@ Diego Batlle            7.5
 Luciano Monteagudo      7.5
 Fernando Ganzo          8
 Alejandro G. Calvo      8
-Boris Nelepo            6.5
+Boris Nelepo            6.5  http://www.svoboda.org/a/28499366.html
 Pamela Bienzobas        5.5
 Gustavo Beck            8
 Ángel Quintana         6.5
@@ -2263,7 +2269,7 @@ Rüdiger Suchsland      8
 Fernando Juan Lima      9
 Giona Nazzaro           8
 Alejandro G. Calvo      6.5
-Boris Nelepo            6
+Boris Nelepo            6   http://www.svoboda.org/a/28499366.html
 Pamela Bienzobas        6.5
 Pablo Scholz            4
 Juanma Ruíz            4
@@ -2300,7 +2306,7 @@ José Luis De Lorenzo   8.5
 Diego Lerer             8
 Diego Batlle            8
 Luciano Monteagudo      8
-Boris Nelepo            6
+Boris Nelepo            6   http://www.svoboda.org/a/28499366.html
 Carlos F. Heredero      9
 José Luis Losa         7.5
 Gustavo Beck            5
@@ -2308,8 +2314,10 @@ Gustavo Beck            5
 Nicolás Kusmin         8.5
 Imma Merino             10
 # critic.de
-#Boris Nelepo         5
-Blake Williams        7.5
+Frédéric Jaeger     7.5
+#Boris Nelepo         5       http://www.svoboda.org/a/28499366.html
+#Giovanni Marchini Camina 7.5
+#Blake Williams        7.5
 # ics
 Cédric Succivalli     
 David Acacia          8
