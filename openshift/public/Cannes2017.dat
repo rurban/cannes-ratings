@@ -865,6 +865,7 @@ Arvena              3   https://letterboxd.com/arvena/film/120-beats-per-minute/
 Peter Bradshaw          8   https://www.theguardian.com/film/2017/may/19/the-square-review-ruben-ostlund-elisabeth-moss-cannes-2017
 Owen Gleiberman             http://variety.com/2017/film/reviews/the-square-review-cannes-1202436834/
 Todd McCarthy               http://www.hollywoodreporter.com/review/square-review-1005693
+Ronald Rovers               http://filmkrant.nl/nieuws_2017/15507
 # todas
 Jaime Pena              3
 Daniel Kasman           4.5
@@ -1837,6 +1838,7 @@ QUINZAINE
 Jonathan Romney             http://www.screendaily.com/reviews/let-the-sunshine-in-cannes-review/5118073.article?blocktitle=Latest-Reviews&contentID=592
 Jordan Mintzer              http://www.hollywoodreporter.com/review/let-sunshine-beau-soleil-interieur-review-1004956
 Peter Bradshaw          8   https://www.theguardian.com/film/2017/may/19/un-beau-soleil-interieur-let-the-sunshine-in-review-juliette-binoche-cannes-2017
+Hugo Emmerzael              http://filmkrant.nl/nieuws_2017/15504
 # todas
 Roger Koza              7
 Jaime Pena              7
@@ -2251,6 +2253,7 @@ Lisa Nesselson               http://www.screendaily.com/reviews/ismaels-ghosts-c
 Eric Kohn               5    http://www.indiewire.com/2017/05/ismaels-ghosts-review-marion-cotillard-mathieu-amalric-arnaud-desplechin-cannes-1201817096/
 David Acacia                 http://icsfilm.org/reviews/cannes-2017-review-ismaels-ghosts-arnaud-desplechin/
 Peter Bradshaw          4    https://www.theguardian.com/film/2017/may/17/ismaels-ghosts-review-marion-cotillard-cannes-2017-opening-film
+Ronald Rovers                http://filmkrant.nl/nieuws_2017/15494
 # todas
 Roger Koza              6.5
 Jaime Pena              6.5
@@ -2996,7 +2999,6 @@ Violeta Kovacsics (Caimán Cuadernos de Cine, España)
 Javier H. Estrada (Caimán CDC, España)
 Pamela Bienzobas (Mabuse, Chile) 
 Xavi Serra (Ara, España) 
-Ronald Rovers (Cinema.nl, Netherlands)
 Dominik Kamalzadeh (Der Standard, Austria)
 Alvaro Arroba (Cinema Scope, España)
 Imma Merino (España)
@@ -3148,6 +3150,7 @@ Sam Gray (Film maker, UK)
 Pablo Villaça (Cinema em Cena, Brasilien)
 Aaron Salazar (Filmmaker, US)
 Laurent de Alberti (filmlandempire.com, UK)
+Hugo Emmerzael (De Filmkrant, Netherlands)
 ";
 # indiewire + various other
 $critics_group[8] = "None";
@@ -3310,6 +3313,7 @@ Richard Mowe (Eye For Film, UK)
 Robbie Collin (The Telegraph, UK)
 Robert Gassaway (The Flicksation Podcast, USA)
 Rodrigo Perez (The Playlist, USA)
+Ronald Rovers (De Filmkrant, Netherlands)
 Ruta Buciunaite (theupcoming.co.uk, UK)
 Ryan Lattanzio (Thompson on Hollywood!, USA)
 Ryland Aldrich (Twitch Film, USA)
