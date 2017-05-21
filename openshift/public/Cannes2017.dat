@@ -1107,6 +1107,29 @@ Taotao
 Qin Wan             
 Li Yunbo            
 Liuying             
+#letterboxd
+Johann Rucker       9   https://letterboxd.com/_ruckerish/film/the-meyerowitz-stories/
+Johann Rucker       9   https://letterboxd.com/_ruckerish/film/the-meyerowitz-stories/
+klaaargh            9
+Matt Hoffman        9
+Eli Hayes           9   https://letterboxd.com/elihayes/film/the-meyerowitz-stories/
+Crayfish            9
+onozorobi           8
+Truman2712          8
+David Ehrlich       8   https://letterboxd.com/davidehrlich/film/the-meyerowitz-stories/
+Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/the-meyerowitz-stories/
+Antoine Waked       8
+Pieter Vermeersch   8
+the_gaffer          7
+Zane Timonina       7   https://letterboxd.com/zanet/film/the-meyerowitz-stories/
+Arvena              7
+Mikko Pihkoluoma    7   https://letterboxd.com/mikkopihkoluoma/film/the-meyerowitz-stories/
+Michael Bishay      7
+Josh Cabrita        6
+Gaz Evans           6
+Vincent Briscoe     5   https://letterboxd.com/vpbriscoe/film/the-meyerowitz-stories/
+Philippe            4
+BrunoD              4
 
 "Le Redoutable" (Michel Hazanavicius) [Competition]
 
@@ -2724,6 +2747,9 @@ Joel                8
 Crayfish           10
 Matilda Muybridge   8
 Sun Joaquim         8
+Truman2712          7
+Vahid Mortazavi     7
+the_gaffer          7
 
 "Napalm" (Claude Lanzmann) [Out Of Competition] Special Screening
 
@@ -3216,6 +3242,8 @@ Pablo Villaça (Cinema em Cena, Brasilien)
 Aaron Salazar (Filmmaker, US)
 Laurent de Alberti (filmlandempire.com, UK)
 Hugo Emmerzael (De Filmkrant, Netherlands)
+Truman2712  (filmstarts.de, Deutschland)
+the_gaffer (, Deutschland)
 ";
 # indiewire + various other
 $critics_group[8] = "None";
