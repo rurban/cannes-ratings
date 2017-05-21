@@ -489,18 +489,18 @@ Ioannis Kanonakis     5
 Marc van de Klashorst 5
 Isabelle Regnier      
 Guy Lodge             
-Justin Chang          
-##Diego Batlle          7
+Justin Chang          8
+#Diego Batlle          7
 Nicholas Bell         
 David Honnorat        8
-Dana Keith            
+Dana Keith            6
 Dennis Lim            
 Blake Williams         
-Jon Frosch            
-Stephanie Zacharek    
+Jon Frosch            6
+Stephanie Zacharek    2
 Boyd Van Hoeij        
 Jay Weissberg         
-Clarence Tsui         
+Clarence Tsui         5
 Carlota Moseguí       
 # Chinese @CriticsGrid
 Li Xun              2.5
@@ -647,22 +647,22 @@ Nicolas Schaller        1
 Barbara Théate          1
 Christophe Carriére     7.5
 # ics
-Cédric Succivalli     
+Cédric Succivalli     4
 David Acacia          6
 Tommaso Tocci         6
 Ioannis Kanonakis     2
 Marc van de Klashorst 6
 Isabelle Regnier      0.1
 Guy Lodge             
-Justin Chang          
+Justin Chang          6
 #Diego Batlle          3
-Nicholas Bell         
+Nicholas Bell         4
 David Honnorat        5
-Dana Keith            
+Dana Keith            4
 Dennis Lim            4
-Blake Williams         
+Blake Williams        1
 Jon Frosch            5
-Stephanie Zacharek    
+Stephanie Zacharek    4
 Boyd Van Hoeij        5
 Jay Weissberg         
 Clarence Tsui         
@@ -796,26 +796,26 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
+Cédric Succivalli     10
+David Acacia          10
+Tommaso Tocci         7
+Ioannis Kanonakis     7
+Marc van de Klashorst 7
 Isabelle Regnier      
 Guy Lodge                 http://variety.com/2017/film/reviews/bpm-beats-per-minute-review-1202438204/
 Justin Chang          
-#Diego Batlle          
-Nicholas Bell         
-David Honnorat        
-Dana Keith            
+#Diego Batlle          8
+Nicholas Bell         7
+David Honnorat        6
+Dana Keith            8
 Dennis Lim            
-Blake Williams         
+Blake Williams        8 
 Jon Frosch            
 Stephanie Zacharek    
-Boyd Van Hoeij        
+Boyd Van Hoeij        6
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       1
+#Carlota Moseguí       
 # Chinese @CriticsGrid
 Li Xun              
 Liu Min             
@@ -947,26 +947,26 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
+Cédric Succivalli     6
+David Acacia          5
+Tommaso Tocci         7
+Ioannis Kanonakis     3
+Marc van de Klashorst 8
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
-Nicholas Bell         
-David Honnorat        
-Dana Keith            
+#Diego Batlle          5
+Nicholas Bell         8
+David Honnorat        8
+Dana Keith            6
 Dennis Lim            
 #Blake Williams        4 
 Jon Frosch            6
 Stephanie Zacharek    
-Boyd Van Hoeij        
-Jay Weissberg         
+Boyd Van Hoeij        5
+Jay Weissberg         9
 Clarence Tsui         
-#Carlota Moseguí       1
+#Carlota Moseguí       
 # Chinese @CriticsGrid
 Li Xun              7.5
 Liu Min             7.5
@@ -1475,7 +1475,25 @@ Daniel Kasman         4
 #Boris Nelepo         6
 Lukas Stern           7.5
 # ics
+Cédric Succivalli     6
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      8
+Guy Lodge             
+Justin Chang          
+#Diego Batlle            7.5
+Nicholas Bell         4
+David Honnorat        7
+Dana Keith            
+Dennis Lim            
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
 Jay Weissberg         6
+Clarence Tsui         
+Carlota Moseguí       
 #letterboxd
 manilazic           7
 Crayfish            7
@@ -1550,10 +1568,12 @@ Lukas Stern           9
 Blake Williams        6
 # ics
 Isabelle Regnier      5
+Justin Chang          7
 Nicholas Bell         7
 Dennis Lim            9
 Boyd Van Hoeij        5
 Clarence Tsui         7
+Carlota Moseguí       7
 # Le film français
 Gaël Golhen             
 Jean-Claude Raspiergeas 
@@ -1608,6 +1628,8 @@ Frédéric Jaeger     4
 Michael Kienzl        4
 # ics
 Marc van de Klashorst 7
+Jay Weissberg         8
+Clarence Tsui         6
 #letterboxd
 brownsvillegirl     10
 Simon Abrams        8   https://letterboxd.com/simonsaybrams/film/a-man-of-integrity/
@@ -1642,6 +1664,27 @@ Gille Kerdreux
 Nicolas Schaller        
 Barbara Théate          
 Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        7
+Jay Weissberg         5
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Daphne Passa        8   https://letterboxd.com/daphnee/film/beauty-and-the-dogs/
 Antoine Waked       8
@@ -1662,12 +1705,31 @@ Diego Lerer             5.5
 José Luis Losa         4.5
 Alejandra Trelles       6
 Nicolás Kusmin         4.5
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        2
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 b gudivada          5
 edissa              4
 Benedict Seal       3   https://letterboxd.com/benedictseal/film/walking-past-the-future/
-
-"April's Daughter"
 
 "Las Hijas de Abril (April's Daughter)" (Michel Franco) [Un Certain Regard]
 Boyd van Hoeij              http://www.hollywoodreporter.com/review/aprils-daughters-las-hijas-de-abril-1005670
@@ -1679,6 +1741,27 @@ Eulalia Iglesias        2
 Alejandra Trelles       6.5
 Nicolás Kusmin         3.5
 Carlota Moseguí        7.5
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         7
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        5
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Carlota Moseguí    8
 Martyn Conterio     8
@@ -1880,8 +1963,8 @@ Isabelle Regnier
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell             http://www.ioncinema.com/reviews/bright-sunshine-in-claire-denis-review
-David Honnorat        
+Nicholas Bell         8   http://www.ioncinema.com/reviews/bright-sunshine-in-claire-denis-review
+David Honnorat        5
 Dana Keith            8
 Dennis Lim            
 #Blake Williams        7
@@ -1963,14 +2046,14 @@ Blake Williams        6
 Cédric Succivalli     
 David Acacia          
 Tommaso Tocci         
-Ioannis Kanonakis     8
+Ioannis Kanonakis     9
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-Nicholas Bell         
+Nicholas Bell         7
 David Honnorat        
-Dana Keith            
+Dana Keith            7
 Dennis Lim            
 Jon Frosch            
 Stephanie Zacharek    
@@ -2024,6 +2107,7 @@ Stephanie Zacharek
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
+Carlota Moseguí       
 
 "The Rider" (Chloé Zhao) [Quinzaine]
 Peter Bradshaw      8     https://www.theguardian.com/film/2017/may/20/rider-review-bronco-rider-chloe-zhao-south-dakota-drama-documentary
@@ -2036,6 +2120,27 @@ Gustavo Beck            3
 Juanma Ruíz            3
 # critic.de
 Till Kadritzke        4
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            8
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 manilazic           8
 Sam Gray            8
@@ -2144,7 +2249,7 @@ Isabelle Regnier
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         5
 David Honnorat        
 Dana Keith            
 Dennis Lim            
@@ -2153,7 +2258,7 @@ Jon Frosch
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         8
-Clarence Tsui         
+Clarence Tsui         4
 #Carlota Moseguí      
 #letterboxd
 Tommaso Tocci       8
@@ -2201,6 +2306,8 @@ José Luis Losa         3.5
 Gustavo Beck            2
 Alejandra Trelles       2.5
 Pedro Segura            4
+# ics
+Marc van de Klashorst 3
 #letterboxd
 Crayfish            9
 Martyn Conterio     8
@@ -2335,14 +2442,14 @@ Isabelle Regnier      5
 Guy Lodge             
 Justin Chang          4
 #Diego Batlle          6
-Nicholas Bell         5
-David Honnorat        
+Nicholas Bell         
+David Honnorat        5
 Dana Keith            
-Dennis Lim            
+Dennis Lim            6
 Blake Williams        5
 Jon Frosch            7
-Stephanie Zacharek    
-Boyd Van Hoeij        
+Stephanie Zacharek    5
+Boyd Van Hoeij        7
 Jay Weissberg         4
 Clarence Tsui         4
 #Carlota Moseguí      2
@@ -2427,6 +2534,27 @@ Imma Merino             5
 #Pamela Bienzobas     2.5
 Jenny Jecke           1
 Boris Nelepo         5       http://www.svoboda.org/a/28496420.html
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          5
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Benedict Seal       6
 David Ehrlich       6   https://letterboxd.com/davidehrlich/film/sea-sorrow/
@@ -2455,6 +2583,27 @@ Andrey Arnold         6
 #Daniel Kasman         7.5
 #Boris Nelepo         5
 #Rüdiger Suchsland    9
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        3
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Crayfish            8
 Gerard Casau        7
@@ -2505,7 +2654,7 @@ Giovanni Marchini Camina 7.5
 Cédric Succivalli     
 David Acacia          8
 Tommaso Tocci         
-Ioannis Kanonakis     
+Ioannis Kanonakis     8
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             
@@ -2520,7 +2669,7 @@ Jon Frosch
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
-Clarence Tsui         
+Clarence Tsui         9
 #Carlota Moseguí       
 #letterboxd
 Michael Bishay      9
@@ -2591,6 +2740,27 @@ Boris Nelepo            7
 Carlos F. Heredero      6
 Pamela Bienzobas        7.5
 Ángel Quintana         6
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          7
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         6
+#Carlota Moseguí       
 #letterboxd
 Daphne Passa        7   https://letterboxd.com/daphnee/film/the-venerable-w/
 Txarles             7
