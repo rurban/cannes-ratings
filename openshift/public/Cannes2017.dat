@@ -165,7 +165,7 @@ Qin Wan             5
 Li Yunbo            5
 Liuying             2.5
 #letterboxd
-FilmLandEmpire      10
+Laurent de Alberti    10
 monkeybox83         9
 the_gaffer          9
 Tanner Stechnij     9   https://letterboxd.com/tstechnij/film/wonderstruck/
@@ -348,7 +348,7 @@ Qin Wan             7.5
 Li Yunbo            
 Liuying             5
 #letterboxd
-FilmLandEmpire      10
+Laurent de Alberti  10 http://www.filmlandempire.com/2017/05/cannes-2017-loveless-by-andrey.html
 TheMovieWaffler.com 9   https://letterboxd.com/themoviewaffler/film/loveless-2017/
 Mikko Pihkoluoma    9   https://letterboxd.com/mikkopihkoluoma/film/loveless-2017/
 Zane Timonina       9   https://letterboxd.com/zanet/film/loveless-2017/
@@ -535,7 +535,7 @@ Pablo Villaça      8
 David Ehrlich       8   https://letterboxd.com/davidehrlich/film/okja/
 Truman2712          8
 Michael Bo          8
-FilmLandEmpire      8
+Laurent de Alberti    8
 Crayfish            8
 BrunoD              8
 the_gaffer          8
@@ -684,7 +684,7 @@ Michael Bishay      10
 Eren Odabasi        8   https://letterboxd.com/erenodabasi/film/jupiters-moon-2017/
 klaaargh            8
 onozorobi           7
-FilmLandEmpire      7
+Laurent de Alberti    7
 Michael Bo          7
 monkeybox83         6
 Antoine Waked       6
@@ -829,7 +829,7 @@ Qin Wan
 Li Yunbo            
 Liuying             
 #letterboxd
-FilmLandEmpire      10
+Laurent de Alberti    10
 Pablo Villaça      10
 Tanner Stechnij     10   https://letterboxd.com/tstechnij/film/120-beats-per-minute/
 John Tikis          10   https://letterboxd.com/johntikis/film/120-beats-per-minute/
@@ -979,7 +979,7 @@ Qin Wan             9
 Li Yunbo            9
 Liuying             7.5
 #letterboxd
-FilmLandEmpire      10
+Laurent de Alberti    10
 Michael Bishay      9
 Pablo Villaça      9
 onozorobi           9
@@ -1579,7 +1579,7 @@ Till Kadritzke      8
 vinminsituation     8
 Pablo Villaça      8
 brownsvillegirl     8
-FilmLandEmpire      8
+Laurent de Alberti    8
 Tanner Stechnij     8
 Matilda Muybridge   8
 Michael Bo          8
@@ -1980,7 +1980,7 @@ Crayfish            9
 Carlota Moseguí    8
 Philippe            8
 Hugo Emmerzael      8   https://letterboxd.com/hemmerzael/film/lover-for-a-day/
-FilmLandEmpire      8
+Laurent de Alberti    8
 John Tikis          7
 Txarles             7
 b gudivada          7
@@ -2364,7 +2364,7 @@ b gudivada          6
 A.A. Dowd           6
 Lawrence Garcia     6
 Matt Hoffman        6
-FilmLandEmpire      6
+Laurent de Alberti  6   http://www.filmlandempire.com/2017/05/cannes-2017-ismaels-ghosts-by-arnaud.html
 fightclubitis       6   https://letterboxd.com/fightclubitis/film/ismaels-ghosts/
 Serena Catalano     6   https://letterboxd.com/serena/film/ismaels-ghosts/
 Adrien Corbeel      6
@@ -2552,7 +2552,7 @@ Niels Putman        5
 Truman2712          5
 Philippe            4
 Txarles             4
-FilmLandEmpire      4
+Laurent de Alberti    4
 Vahid Mortazavi     3
 Pablo Villaça      2
 
@@ -2573,7 +2573,7 @@ James Thompson      6
 Simon               6
 Martyn Conterio     4
 Sam Gray            4
-FilmLandEmpire      2
+Laurent de Alberti  2
 
 "Le Venerable W." (Barbet Schroeder) [Out Of Competition]
 
@@ -3145,6 +3145,9 @@ John Tikis (Musician, Greece)
 Sam C. Mac (Slant Magazine, USA)
 Lydia Milano (Rap videos, USA)
 Sam Gray (Film maker, UK)
+Pablo Villaça (Cinema em Cena, Brasilien)
+Aaron Salazar (Filmmaker, US)
+Laurent de Alberti (filmlandempire.com, UK)
 ";
 # indiewire + various other
 $critics_group[8] = "None";
