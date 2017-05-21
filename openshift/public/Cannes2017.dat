@@ -608,7 +608,7 @@ Anton Dolin           2.5
 Katja Nicodemus       5
 Screen International  7.5
 # ioncinema
-Nicolas Bell             
+Nicolas Bell             4
 Giovanni Marchini Camina 
 David Calhoun            2
 Per Juul Carlsen         5
@@ -623,7 +623,7 @@ Fabien Lemercier         5
 Liu Min                  6
 Isabelle Regnier         0.1
 Cédric Succivalli        2
-Blake Williams           
+Blake Williams           3
 # Le film français
 Gaël Golhen             2.5
 Jean-Claude Raspiergeas 2.5
@@ -756,22 +756,22 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell             
+Nicolas Bell             7
 Giovanni Marchini Camina 
-David Calhoun            
-Per Juul Carlsen         
-Marc Cassivi             
+David Calhoun            8
+Per Juul Carlsen         8
+Marc Cassivi             8
 Bilge Ebiri              
 Jean-Philippe Guerand    
 Carlos F. Heredero       
 Jessica Kiang            
-Eric Kohn                
-Eric Lavallée            
-Fabien Lemercier         
+Eric Kohn                6
+Eric Lavallée            4
+Fabien Lemercier         9
 Liu Min                  
 Isabelle Regnier         
 Cédric Succivalli        
-Blake Williams           
+Blake Williams           7
 # Le film français
 Gaël Golhen             
 Jean-Claude Raspiergeas 
@@ -900,22 +900,22 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell                  http://www.ioncinema.com/reviews/the-square-ruben-ostlund-review
-Giovanni Marchini Camina 
-David Calhoun            
-Per Juul Carlsen         
-Marc Cassivi             
-Bilge Ebiri              
+Nicolas Bell            8      http://www.ioncinema.com/reviews/the-square-ruben-ostlund-review
+Giovanni Marchini Camina 5
+David Calhoun            7
+Per Juul Carlsen         6
+Marc Cassivi             8
+Bilge Ebiri              7
 Jean-Philippe Guerand    
-Carlos F. Heredero       
+Carlos F. Heredero       6
 Jessica Kiang            
 Eric Kohn                
-Eric Lavallée            
-Fabien Lemercier         
+Eric Lavallée            7
+Fabien Lemercier         7
 Liu Min                  
 Isabelle Regnier         
 Cédric Succivalli        
-#Blake Williams           
+#Blake Williams          4 
 # Le film français
 Gaël Golhen             
 Jean-Claude Raspiergeas 
@@ -1111,7 +1111,7 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell                  
+Nicolas Bell                5  
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
