@@ -765,6 +765,7 @@ Pedro Segura            5.5
 Imma Merino             7.5
 Agustín Mango          7
 # critic.de
+Andrey Arnold         6
 Frédéric Jaeger     5       http://www.critic.de/film/120-battements-par-minute-11009/
 Michael Kienzl        9
 Lukas Stern           7.5
@@ -1061,6 +1062,10 @@ Eulalia Iglesias        7.5
 Damián Hoffman         8.5
 Pedro Segura            7
 Imma Merino             6
+# critic.de
+#Pamela Biénzobas     7.5
+Frédéric Jaeger     9
+Jenny Jecke           7.5
 # screen daily
 Fabio Ferzetti        
 Julien Gester/Didier Peron 
@@ -1201,6 +1206,9 @@ Pedro Segura            1
 Imma Merino             5
 Agustín Mango          3
 # critic.de
+Andrey Arnold         5
+#Pamela Biénzobas     1
+Frédéric Jaeger     6
 Jenny Jecke           2.5
 Till Kadritzke        1
 #Boris Nelepo         1
@@ -2143,6 +2151,7 @@ Clarence Tsui
 Carlota Moseguí       
 
 "The Rider" (Chloé Zhao) [Quinzaine]
+
 Peter Bradshaw      8     https://www.theguardian.com/film/2017/may/20/rider-review-bronco-rider-chloe-zhao-south-dakota-drama-documentary
 Nancy Tartaglione         http://deadline.com/2017/05/the-rider-chloe-zhao-cannes-directors-fortnight-protagonist-pictures-ones-to-watch-clip-video-1202090289/
 Guy Lodge                 http://variety.com/2017/film/reviews/the-rider-review-1202433700/
@@ -2226,6 +2235,12 @@ Giona Nazzaro           10
 Boris Nelepo            6
 # critic.de
 Michael Kienzl        4
+Lukas Stern           7.5
+Blake Williams        9
+# critic.de
+Michael Kienzl        4
+#Boris Nelepo         5
+Giovanni Marchini Camina 7.5
 Lukas Stern           7.5
 Blake Williams        9
 
@@ -2392,6 +2407,9 @@ Aaron Salazar       7   https://letterboxd.com/whocaresdad/film/bloody-milk/
 Benedict Seal       7
 
 "GABRIEL E A MONTANHA (GABRIEL AND THE MOUNTAIN)" (Fellipe Gamarano Barbosa) [Semaine]
+
+# critic.de
+Pamela Biénzobas     6
 
 "OH LUCY!" (Atsuko Hirayanagi) [Semaine]
 #letterboxd
@@ -2783,7 +2801,8 @@ José Luis De Lorenzo   4
 Fernando Juan Lima      4
 Alejandro G. Calvo      7.5
 # critic.de
-Michael Kienzl        7.5
+Jenny Jecke           6
+Michael Kienzl        7.5     http://www.critic.de/film/a-prayer-before-dawn-11038/
 #letterboxd
 Felicia Chaidez     8
 Truman2712          7
@@ -2850,6 +2869,8 @@ Diego Batlle            6.5
 Carlos F. Heredero      8
 Ángel Quintana         7.5
 Imma Merino             6
+# critic.de
+Jenny Jecke           7.5
 #letterboxd
 Pablo Villaça      10
 Txarles             8
@@ -2863,6 +2884,9 @@ Sam Gray            7
 # todas
 Rüdiger Suchsland      7.5
 Alejandro G. Calvo      6
+# critic.de
+Giovanni Marchini Camina 2.5
+Lukas Stern           2.5
 #letterboxd
 onozorobi           8
 Joel                8
@@ -2885,6 +2909,11 @@ Imma Merino             6
 Pedro Segura            8.5
 Nicolás Kusmin         5.5
 Imma Merino             6
+# critic.de
+Frédéric Jaeger     9
+#Boris Nelepo         6
+Giovanni Marchini Camina 5
+Blake Williams        7.5
 #letterboxd
 Crayfish            10
 Mikko Pihkoluoma    8   https://letterboxd.com/mikkopihkoluoma/film/claires-camera/
@@ -2907,6 +2936,9 @@ Eulalia Iglesias        6
 Pedro Segura            3.5
 Nicolás Kusmin         5.5
 Imma Merino             6
+# critic.de
+#Boris Nelepo         4
+Blake Williams        6
 #letterboxd
 the_gaffer          6
 Txarles             3
