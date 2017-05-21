@@ -62,7 +62,7 @@ sub readhtml {
 	if (m{ class='kritiker sort'>(.+?)</a>}) {
           $_ = $1;
           s/<br>/ /g;
-          s/G.Marchini Camia/#Giovanni Marchini Camina /;
+          s/G.Marchini Camia/Giovanni Marchini Camina /;
           s/Pamela Biénzobas/#Pamela Bienzobas/;
           s/Boris Nelepo/#Boris Nelepo/;
           s/Daniel Kasman/#Daniel Kasman/;
