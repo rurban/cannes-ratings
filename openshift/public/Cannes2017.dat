@@ -100,7 +100,7 @@ Anton Dolin           9
 Katja Nicodemus       5
 Screen International  7.5
 # ioncinema
-Nicolas Bell             6   http://www.ioncinema.com/reviews/wonderstruck-todd-haynes-review
+Nicholas Bell            6   http://www.ioncinema.com/reviews/wonderstruck-todd-haynes-review
 Giovanni Marchini Camina 
 David Calhoun            5
 Per Juul Carlsen         6
@@ -284,7 +284,7 @@ Anton Dolin           9
 Katja Nicodemus       5
 Screen International  7.5
 # ioncinema
-Nicolas Bell             7
+Nicholas Bell            7
 Giovanni Marchini Camina 4
 David Calhoun            8
 Per Juul Carlsen         9
@@ -456,7 +456,7 @@ Anton Dolin           7.5
 Katja Nicodemus       2.5
 Screen International  5
 # ioncinema
-Nicolas Bell             4    http://www.ioncinema.com/reviews/okja-bong-joon-ho-review
+Nicholas Bell            4    http://www.ioncinema.com/reviews/okja-bong-joon-ho-review
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         9
@@ -622,7 +622,7 @@ Anton Dolin           2.5
 Katja Nicodemus       5
 Screen International  7.5
 # ioncinema
-Nicolas Bell             4
+Nicholas Bell            4
 Giovanni Marchini Camina 
 David Calhoun            2
 Per Juul Carlsen         5
@@ -773,7 +773,7 @@ Anton Dolin           5
 Katja Nicodemus       5
 Screen International  7.5
 # ioncinema
-Nicolas Bell             7
+Nicholas Bell            7
 Giovanni Marchini Camina 
 David Calhoun            8
 Per Juul Carlsen         8
@@ -924,7 +924,7 @@ Anton Dolin           5
 Katja Nicodemus       5
 Screen International  7.5
 # ioncinema
-Nicolas Bell            8      http://www.ioncinema.com/reviews/the-square-ruben-ostlund-review
+Nicholas Bell           8      http://www.ioncinema.com/reviews/the-square-ruben-ostlund-review
 Giovanni Marchini Camina 5
 David Calhoun            7
 Per Juul Carlsen         6
@@ -1050,7 +1050,7 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell                  
+Nicholas Bell                 
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
@@ -1184,7 +1184,7 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell                5  
+Nicholas Bell               5  
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
@@ -1279,7 +1279,7 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell                  
+Nicholas Bell                 
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
@@ -1366,7 +1366,7 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicolas Bell                  
+Nicholas Bell                 
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
@@ -3146,7 +3146,7 @@ Agustín Mango (The Hollywood Reporter, Argentina)
 $critics_group[1] = "ioncinema";
 # http://www.ioncinema.com/news/film-festivals/live-cannes-2017-introducing-cannes-critics-panel
 $critics[1] = "
-Nicolas Bell (Ioncinema.com, USA)
+Nicholas Bell (ioncinema, USA)
 Giovanni Marchini Camina (Filmstage)
 David Calhoun (Time Out London, UK)
 Per Juul Carlsen (Danish National Radio, Denmark)
