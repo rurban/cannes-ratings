@@ -949,15 +949,15 @@ David Calhoun            7
 Per Juul Carlsen         6
 Marc Cassivi             8
 Bilge Ebiri              7
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    7
 Carlos F. Heredero       6
 Jessica Kiang            
-Eric Kohn                
+Eric Kohn                4
 Eric Lavallée            7
 Fabien Lemercier         7
-Liu Min                  
-Isabelle Regnier         
-Cédric Succivalli        
+Liu Min                  8
+Isabelle Regnier         0.1
+Cédric Succivalli        6
 #Blake Williams          4 
 # Le film français
 Gaël Golhen             5
@@ -1094,19 +1094,19 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicholas Bell                 
+Nicholas Bell            6
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
-Marc Cassivi             
+Marc Cassivi             8
 Bilge Ebiri              
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    7
 Carlos F. Heredero       
 Jessica Kiang            
 Eric Kohn                
-Eric Lavallée            
+Eric Lavallée            6
 Fabien Lemercier         
-Liu Min                  
+Liu Min                  6
 Isabelle Regnier         
 Cédric Succivalli        
 #Blake Williams           
@@ -1257,22 +1257,22 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicholas Bell               5  
+Nicholas Bell            5  
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
-Marc Cassivi             
+Marc Cassivi             7
 Bilge Ebiri              
-Jean-Philippe Guerand    
-Carlos F. Heredero       
+Jean-Philippe Guerand    8
+Carlos F. Heredero       0.1
 Jessica Kiang            
-Eric Kohn              7   http://www.indiewire.com/2017/05/the-redoubtable-review-louis-garrel-stacy-martin-jean-luc-godard-cannes-1201817616/  
+Eric Kohn                7   http://www.indiewire.com/2017/05/the-redoubtable-review-louis-garrel-stacy-martin-jean-luc-godard-cannes-1201817616/  
 Eric Lavallée            
-Fabien Lemercier         
-Liu Min                  
-Isabelle Regnier         
+Fabien Lemercier         8
+Liu Min                  7
+Isabelle Regnier         0.1
 Cédric Succivalli        
-#Blake Williams           
+#Blake Williams          4
 # Le film français
 Gaël Golhen             
 Jean-Claude Raspiergeas 
@@ -1473,20 +1473,20 @@ Anton Dolin
 Katja Nicodemus       
 Screen International  
 # ioncinema
-Nicholas Bell                 
+Nicholas Bell            8
 Giovanni Marchini Camina 
 David Calhoun            
 Per Juul Carlsen         
 Marc Cassivi             
-Bilge Ebiri              
+Bilge Ebiri              4
 Jean-Philippe Guerand    
 Carlos F. Heredero       
 Jessica Kiang            
 Eric Kohn                
-Eric Lavallée            
+Eric Lavallée            7
 Fabien Lemercier         
 Liu Min                  
-Isabelle Regnier         
+Isabelle Regnier         2
 Cédric Succivalli        
 #Blake Williams           
 # Le film français
@@ -2718,6 +2718,23 @@ Tim Robey/Robbie Collin
 Anton Dolin           
 Katja Nicodemus       
 Screen International  
+# ioncinema
+Nicholas Bell                 
+Giovanni Marchini Camina 
+David Calhoun            
+Per Juul Carlsen         
+Marc Cassivi             
+Bilge Ebiri              
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Jessica Kiang            
+Eric Kohn                
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Isabelle Regnier         
+Cédric Succivalli        
+#Blake Williams           
 # Le film français
 Gaël Golhen             2.5
 Jean-Claude Raspiergeas 2.5
