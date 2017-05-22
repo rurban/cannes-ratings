@@ -826,17 +826,17 @@ David Acacia          10
 Tommaso Tocci         7
 Ioannis Kanonakis     7
 Marc van de Klashorst 7
-Isabelle Regnier      
-Guy Lodge                 http://variety.com/2017/film/reviews/bpm-beats-per-minute-review-1202438204/
+Isabelle Regnier      9
+Guy Lodge             9    http://variety.com/2017/film/reviews/bpm-beats-per-minute-review-1202438204/
 Justin Chang          
 #Diego Batlle          8
 Nicholas Bell         7
 David Honnorat        6
 Dana Keith            8
-Dennis Lim            
+Dennis Lim            6
 Blake Williams        8 
-Jon Frosch            
-Stephanie Zacharek    
+Jon Frosch            8
+Stephanie Zacharek    7
 Boyd Van Hoeij        6
 Jay Weissberg         
 Clarence Tsui         
@@ -981,21 +981,21 @@ David Acacia          5
 Tommaso Tocci         7
 Ioannis Kanonakis     3
 Marc van de Klashorst 8
-Isabelle Regnier      
+Isabelle Regnier      0.1
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          5
 Nicholas Bell         8
 David Honnorat        8
 Dana Keith            6
-Dennis Lim            
+Dennis Lim            8
 #Blake Williams        4 
 Jon Frosch            6
-Stephanie Zacharek    
+Stephanie Zacharek    7
 Boyd Van Hoeij        5
 Jay Weissberg         9
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí       6
 # Chinese @CriticsGrid
 Li Xun              7.5
 Liu Min             7.5
@@ -1128,21 +1128,21 @@ Barbara Théate
 Christophe Carriére     
 # ics
 Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
+David Acacia          4
+Tommaso Tocci         5
 Ioannis Kanonakis     
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
-David Honnorat        
+Nicholas Bell         6
+David Honnorat        5
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
 Jon Frosch            
-Stephanie Zacharek    
+Stephanie Zacharek    5
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
@@ -1290,25 +1290,25 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
-Isabelle Regnier      
+Cédric Succivalli     5
+David Acacia          7
+Tommaso Tocci         5
+Ioannis Kanonakis     3
+Marc van de Klashorst 6
+Isabelle Regnier      0.1
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
-David Honnorat        
+Nicholas Bell         5
+David Honnorat        5
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
-Jon Frosch            
-Stephanie Zacharek    
+#Blake Williams       5
+Jon Frosch            5
+Stephanie Zacharek    6
 Boyd Van Hoeij        
 Jay Weissberg         
-Clarence Tsui         
+Clarence Tsui         3
 #Carlota Moseguí       
 # Chinese @CriticsGrid
 Li Xun              
@@ -1520,8 +1520,8 @@ David Honnorat
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
-Jon Frosch            
-Stephanie Zacharek    
+Jon Frosch            6
+Stephanie Zacharek    2
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
@@ -1652,11 +1652,11 @@ Marc van de Klashorst
 Isabelle Regnier      8
 Guy Lodge             
 Justin Chang          
-#Diego Batlle            7.5
+#Diego Batlle          7.5
 Nicholas Bell         4
 David Honnorat        7
 Dana Keith            
-Dennis Lim            
+Dennis Lim            5
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
@@ -1816,6 +1816,7 @@ Barbara Théate          5
 Christophe Carriére     
 # ics
 Marc van de Klashorst 7
+Isabelle Regnier      6
 Jay Weissberg         8
 Clarence Tsui         6
 #letterboxd
@@ -1865,7 +1866,7 @@ Guy Lodge
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         
-David Honnorat        
+David Honnorat        5
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
@@ -1979,7 +1980,7 @@ Guy Lodge
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         7
-David Honnorat        
+David Honnorat        7
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
@@ -1988,7 +1989,7 @@ Stephanie Zacharek
 Boyd Van Hoeij        5
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí      8 
 #letterboxd
 Eren Odabasi        8   https://letterboxd.com/erenodabasi/film/aprils-daughter/
 Carlota Moseguí    8
@@ -2035,6 +2036,27 @@ Gille Kerdreux
 Nicolas Schaller        
 Barbara Théate          
 Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    8
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Ava Davis           9    https://letterboxd.com/avadavis/film/wind-river-2017/
 Juan Felipe Díaz Herrera 9   https://letterboxd.com/jdiaz/film/wind-river-2017/
@@ -2070,6 +2092,27 @@ Gille Kerdreux
 Nicolas Schaller        
 Barbara Théate          
 Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      6
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Laurent de Alberti  9
 Benedict Seal       7
@@ -2108,6 +2151,27 @@ Gille Kerdreux
 Nicolas Schaller        
 Barbara Théate          
 Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        5
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Luca Fontò         7
 Sam Gray            5
@@ -2116,22 +2180,363 @@ Crayfish            2
 
 "En Attendant Les Hirondelles (Until The Birds Return)" (Karim Moussaoui) [Un Certain Regard]
 
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
+
 "L’Atelier" (Laurent Cantet) [Un Certain Regard]
+
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 
 "Out" (Gyorgy Kristof) [Un Certain Regard]
 
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
+
 "Jeune Femme (Montparnasse - Bienvenue)" (Léonor Séraille) [Un Certain Regard]
+
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 
 "Dopo la guerra (After the War)" (Annarita Zambrano) [Un Certain Regard]
 
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
+
 "Tesnota (Closeness)" (Kantemir Balagov) [Un Certain Regard]
+
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 
 "The Summit (La cordillera)" (Santiago Mitre) [Un Certain Regard]
 
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
+
 "A Novia Del Desierto (The Desert Bride)" (Cecilia Atan & Valeria Pivato) [Un Certain Regard]
+
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 
 "Posoki (Directions)" (Stephan Komandarev) [Un Certain Regard]
 
+# Le film français
+Gaël Golhen             
+Jean-Claude Raspiergeas 
+Thierry Chèze           
+Eric Neuhoff            
+Stéphane Delorme        
+Thomas Sotinel          
+Philippe Rouyer         
+Pierre Vavasseur        
+Pierre Murat            
+Phalène de La Valette   
+Serge Kaganski          
+Gille Kerdreux          
+Nicolas Schaller        
+Barbara Théate          
+Christophe Carriére     
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Daniel Knobelsdorf  7
 
@@ -2180,8 +2585,8 @@ David Acacia
 Tommaso Tocci         
 Ioannis Kanonakis     
 Marc van de Klashorst 
-Isabelle Regnier      
-Guy Lodge             
+Isabelle Regnier      8
+Guy Lodge             9
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         8   http://www.ioncinema.com/reviews/bright-sunshine-in-claire-denis-review
@@ -2194,7 +2599,7 @@ Stephanie Zacharek
 Boyd Van Hoeij        
 Jay Weissberg         8
 Clarence Tsui         7
-#Carlota Moseguí      
+#Carlota Moseguí      7
 #letterboxd
 Matt Hoffman        9
 Elie                8
@@ -2277,10 +2682,10 @@ Marc van de Klashorst
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-Nicholas Bell         7
+Nicholas Bell         6
 David Honnorat        
 Dana Keith            7
-Dennis Lim            
+Dennis Lim            7
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        5
@@ -2324,12 +2729,12 @@ Tommaso Tocci
 Ioannis Kanonakis     
 Marc van de Klashorst 8
 Isabelle Regnier      
-Guy Lodge             
+Guy Lodge             5
 Justin Chang          
 Nicholas Bell         
 David Honnorat        
 Dana Keith            
-Dennis Lim            
+Dennis Lim            7
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
@@ -2356,7 +2761,7 @@ Tommaso Tocci
 Ioannis Kanonakis     
 Marc van de Klashorst 
 Isabelle Regnier      
-Guy Lodge             
+Guy Lodge             7
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         
@@ -2403,6 +2808,27 @@ Carlota Moseguí        7
 # critic.de
 #Boris Nelepo         6
 Blake Williams        5
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        4
+Dana Keith            
+Dennis Lim            
+#Blake Williams        5 
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       7
 #letterboxd
 LucaMarchetti       8
 Truman2712          8
@@ -2443,6 +2869,27 @@ Michael Kienzl        4
 Giovanni Marchini Camina 7.5
 Lukas Stern           7.5
 Blake Williams        9
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         8
+Ioannis Kanonakis     7
+Marc van de Klashorst 4
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         8
+#Carlota Moseguí       
 #letterboxd
 Philippe            8
 Vahid Mortazavi     8
@@ -2460,6 +2907,27 @@ Matt Hoffman        4
 
 # todas
 Juanma Ruíz            7
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 FrancesJa           10
 Felicia Chaidez     9
@@ -2475,6 +2943,27 @@ James Thompson      4
 Jaime Pena              6.5
 Fredy Friedlander       7.5
 Pedro Segura            2
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         5
+#Carlota Moseguí       
 
 "The Intruder (L’intrusa)" (Leonardo Di Costanzo) [Quinzaine]
 
@@ -2520,11 +3009,6 @@ Jay Weissberg               http://variety.com/2017/film/reviews/sicilian-ghost-
 # todas
 Fernando Juan Lima      7
 Giona Nazzaro           8
-#letterboxd
-Crayfish            8
-monkeybox83         7
-Martyn Conterio     6
-LucaMarchetti       6
 # ics
 Cédric Succivalli     8
 David Acacia          
@@ -2538,7 +3022,7 @@ Justin Chang
 Nicholas Bell         5
 David Honnorat        
 Dana Keith            
-Dennis Lim            
+Dennis Lim            6
 Blake Williams        
 Jon Frosch            
 Stephanie Zacharek    
@@ -2598,6 +3082,7 @@ Alejandra Trelles       2.5
 Pedro Segura            4
 # ics
 Marc van de Klashorst 3
+Isabelle Regnier      5
 #letterboxd
 Crayfish            9
 Maëva              8
@@ -2644,6 +3129,9 @@ Pablo Villaça      9
 Simon               7
 
 "UNE VIE VIOLENTE (A VIOLENT LIFE)" (Thierry de Perretti) [Semaine] Special Screening
+
+# ics
+Isabelle Regnier      3
 
 "LA FAMILIA" (Gustavo Rondón Córdova) [Semaine]
 
@@ -2999,7 +3487,7 @@ Stephanie Zacharek
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         9
-#Carlota Moseguí       
+#Carlota Moseguí       6
 #letterboxd
 ericguzman          10
 Michael Bishay      9
@@ -3097,7 +3585,7 @@ Dennis Lim
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
-Jay Weissberg         
+Jay Weissberg         7
 Clarence Tsui         6
 #Carlota Moseguí       
 #letterboxd
@@ -3123,6 +3611,8 @@ Carlos F. Heredero      8
 Imma Merino             6
 # critic.de
 Jenny Jecke           7.5
+# ics
+#Diego Batlle         7
 #letterboxd
 Pablo Villaça      10
 Txarles             8
@@ -3141,6 +3631,27 @@ Juanma Ruíz            8
 # critic.de
 Giovanni Marchini Camina 2.5
 Lukas Stern           2.5
+# ics
+Cédric Succivalli     5
+David Acacia          5
+Tommaso Tocci         8
+Ioannis Kanonakis     3
+Marc van de Klashorst 7
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        6
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    7
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Sam Gray            8
 monkeybox83         8
@@ -3189,6 +3700,27 @@ Frédéric Jaeger     9
 #Boris Nelepo         6
 Giovanni Marchini Camina 5
 Blake Williams        7.5
+# ics
+Cédric Succivalli     9
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     9
+Marc van de Klashorst 7
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         7
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         6
+#Carlota Moseguí       
 #letterboxd
 Crayfish            10
 Zac Kindergelt      9   https://letterboxd.com/pzng97/film/claires-camera/
