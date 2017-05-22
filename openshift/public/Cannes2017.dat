@@ -56,7 +56,7 @@ Diego Lerer             9.5
 Fredy Friedlander       6.5
 Giona Nazzaro           4.5
 Diego Batlle            7.5
-Cecilia Barrionuevo     5.5
+Cecilia Barrionuevo     6
 Luciano Monteagudo      8
 Alex Vicente            6
 Fernando Ganzo          4
@@ -72,6 +72,7 @@ Gustavo Beck            4
 Alejandra Trelles       6.5
 Philipp Engel           7
 Juanma Ruíz            8
+Nando Salva             7
 Damián Hoffman         3
 Nicolás Kusmin         6.5
 Imma Merino             9
@@ -258,6 +259,7 @@ Gustavo Beck            2
 Alejandra Trelles       8.5
 Philipp Engel           4.5
 Juanma Ruíz            6.5
+Nando Salva             4.5
 Damián Hoffman         7
 Nicolás Kusmin         6.5
 Imma Merino             7
@@ -436,6 +438,7 @@ Eulalia Iglesias        7
 José Luis Losa         7.5
 Gustavo Beck            5
 Juanma Ruíz            7.5
+Nando Salva             4.5
 Damián Hoffman         8
 Agustín Mango          6
 # critic.de
@@ -609,6 +612,7 @@ José Luis Losa         0.5
 Ángel Quintana         4
 Philipp Engel           3.5
 Juanma Ruíz            2.5
+Nando Salva             2
 Damián Hoffman         4
 Pedro Segura            2
 Imma Merino             5
@@ -766,6 +770,7 @@ Eulalia Iglesias        7.5
 José Luis Losa         5.5
 Ángel Quintana         7.5
 Alejandra Trelles       6
+Nando Salva             6
 Damián Hoffman         8.5
 Pedro Segura            5.5
 Imma Merino             7.5
@@ -919,6 +924,7 @@ José Luis Losa         4
 Gustavo Beck            1
 Ángel Quintana         5.5
 Alejandra Trelles       6
+Nando Salva             7
 Damián Hoffman         7.5
 Pedro Segura            3.5
 Imma Merino             3
@@ -1072,6 +1078,7 @@ Rüdiger Suchsland      4
 Diego Lerer             8
 Fredy Friedlander       6.5
 Diego Batlle            7.5
+Luciano Monteagudo      7
 Alex Vicente            5
 Alejandro G. Calvo      9
 Carlos F. Heredero      7.5
@@ -1081,9 +1088,11 @@ Eulalia Iglesias        7.5
 José Luis Losa         5.5
 Gustavo Beck            3
 Ángel Quintana         6
+Nando Salva             6.5
 Damián Hoffman         8.5
 Pedro Segura            7
 Imma Merino             6
+Agustín Mango          9
 # critic.de
 #Pamela Biénzobas     7.5
 Jenny Jecke           7.5
@@ -1241,6 +1250,7 @@ José Luis Losa         6
 Ángel Quintana         2
 Alejandra Trelles       5.5
 Juanma Ruíz            4
+Nando Salva             3.5
 Damián Hoffman         7.5
 Pedro Segura            1
 Imma Merino             5
@@ -1369,8 +1379,11 @@ Peter Debruge               http://variety.com/2017/film/reviews/the-killing-of-
 Peter Bradshaw          8   https://www.theguardian.com/film/2017/may/22/the-killing-of-a-sacred-deer-review-colin-farrell-nicole-kidman-lanthimos-cannes-2017
 # todas
 Diego Batlle            3
+Cecilia Barrionuevo     3
 Fernando Ganzo          2.5
+Alejandro G. Calvo      5
 Boris Nelepo            7
+Pamela Bienzobas        5
 Ángel Quintana         5
 Pedro Segura            5.5
 Imma Merino             1
@@ -1499,12 +1512,14 @@ José Luis De Lorenzo   4
 Diego Lerer             4
 Fredy Friedlander       5
 Diego Batlle            6
+Cecilia Barrionuevo     5
 Luciano Monteagudo      6
 Alex Vicente            6
 Fernando Ganzo          3
 Alejandro G. Calvo      2
 Boris Nelepo            7
 Carlos F. Heredero      5.5
+Pamela Bienzobas        5.5
 José Luis Losa         7
 Ángel Quintana         3
 Alejandra Trelles       6
@@ -1633,10 +1648,18 @@ chrissweet1967      4   https://letterboxd.com/chrissweet1967/film/happy-end-201
 "The Day After" (Hong Sangsoo) [Competition]
 
 # todas
+Roger Koza              9
 José Luis De Lorenzo   6.5
 Diego Batlle            8
+Cecilia Barrionuevo     9.5
+Luciano Monteagudo      7.5
 Fernando Ganzo          9.5
+Alejandro G. Calvo      9
 Boris Nelepo            8
+Ángel Quintana         7
+Pedro Segura            8
+Imma Merino             7
+Agustín Mango          8.5
 # critic.de
 Andrey Arnold         7.5
 Frédéric Jaeger     5
@@ -2152,11 +2175,12 @@ Chance Lytle        5
 "Sanpo Suru Shinryakusha (Before We Vanish)" (Kiyoshi Kurosawa) [Un Certain Regard]
 
 # todas
-Daniel Kasman           8
+Daniel Kasman           7.5
 Boris Nelepo            6.5
 Carlos F. Heredero      5
 José Luis Losa         6.5
 Gustavo Beck            6
+Ángel Quintana         7
 # critic.de
 #Daniel Kasman        7.5
 Michael Kienzl        7.5
@@ -2310,6 +2334,10 @@ Clarence Tsui
 
 "L’Atelier" (Laurent Cantet) [Un Certain Regard]
 
+# todas
+José Luis De Lorenzo   6
+Boris Nelepo            5.5
+Ángel Quintana         6
 # critic.de
 Boris Nelepo         5
 # Le film français
@@ -2352,6 +2380,8 @@ Clarence Tsui
 
 "Out" (Gyorgy Kristof) [Un Certain Regard]
 
+# todas
+Boris Nelepo            4
 # critic.de
 Boris Nelepo         4
 # Le film français
@@ -2746,6 +2776,7 @@ Fernando Juan Lima      7.5
 Diego Lerer             8.5
 Giona Nazzaro           10
 Diego Batlle            7.5
+Cecilia Barrionuevo     8
 Luciano Monteagudo      7.5
 Alex Vicente            8
 Fernando Ganzo          8
@@ -2955,6 +2986,7 @@ Luciano Monteagudo      8.5
 Boris Nelepo            6
 Ángel Quintana         6.5
 Juanma Ruíz            1.5
+Pedro Segura            7
 Imma Merino             3
 Carlota Moseguí        5.5
 # critic.de
@@ -3499,6 +3531,7 @@ Daniel Kasman           7   http://mubi.com/notebook/posts/cannes-2017-forever-k
 Rüdiger Suchsland      8
 Fernando Juan Lima      9
 Giona Nazzaro           8
+Cecilia Barrionuevo     6
 Alejandro G. Calvo      6.5
 Boris Nelepo            6   http://www.svoboda.org/a/28499366.html
 Pamela Bienzobas        6.5
@@ -3816,7 +3849,7 @@ Gustavo Beck            7
 Ángel Quintana         5
 Alejandra Trelles       5
 Juanma Ruíz            6.5
-Pedro Segura            8.5
+Pedro Segura            9
 Nicolás Kusmin         5.5
 Imma Merino             6
 Carlota Moseguí        7.5
@@ -3933,6 +3966,8 @@ AEC                 5
 "An Inconvenient Sequel" (Bonni Cohen, Jon Shenk) [Out Of Competition] Special Screening
 
 Letterboxd _27_Ratings  6.2  https://letterboxd.com/film/an-inconvenient-sequel/
+# todas
+Fredy Friedlander       7
 # critic.de
 Jenny Jecke           2.5
 #letterboxd
@@ -3956,6 +3991,8 @@ Tasha Robinson      4   https://letterboxd.com/tasharobinson/film/an-inconvenien
 #old letterboxd ignored
 
 "Golden Years" (Andre Techine) [Out Of Competition] Special Screening
+# todas
+Boris Nelepo            8
 
 "24 Frames" (Abbas Kiarostami) [Out Of Competition] Special Screening
 
