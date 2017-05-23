@@ -1335,10 +1335,10 @@ Marc van de Klashorst 6
 Isabelle Regnier      0.1
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle          4
 Nicholas Bell         5
 David Honnorat        5
-Dana Keith            
+Dana Keith            5
 Dennis Lim            
 #Blake Williams       5
 Jon Frosch            5
@@ -1471,20 +1471,20 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
+Cédric Succivalli     7
+David Acacia          8
+Tommaso Tocci         7
+Ioannis Kanonakis     2
+Marc van de Klashorst 9
 Isabelle Regnier      
 Guy Lodge             
-Justin Chang          
+Justin Chang          6
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         5
 David Honnorat        
-Dana Keith            
+Dana Keith            8
 Dennis Lim            
-#Blake Williams         
+#Blake Williams        6 
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
@@ -1636,26 +1636,26 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
+Cédric Succivalli     2
+David Acacia          0.1
+Tommaso Tocci         4
 Ioannis Kanonakis     
-Marc van de Klashorst 
+Marc van de Klashorst 1
 Isabelle Regnier      
 Guy Lodge             
-Justin Chang          
-#Diego Batlle          
-Nicholas Bell         
-David Honnorat        
-Dana Keith            
+Justin Chang          8
+#Diego Batlle         6
+Nicholas Bell         8
+David Honnorat        7
+Dana Keith            7
 Dennis Lim            
-#Blake Williams         
+#Blake Williams       7 
 Jon Frosch            6
 Stephanie Zacharek    2
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí      5 
 # Chinese @CriticsGrid
 Li Xun              
 Liu Min             
@@ -1781,23 +1781,23 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
+Cédric Succivalli     8
+David Acacia          7
+Tommaso Tocci         2
+Ioannis Kanonakis     9
+Marc van de Klashorst 8
 Isabelle Regnier      
-Guy Lodge             
+Guy Lodge                 http://variety.com/2017/film/reviews/the-day-after-review-1202439977/
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         6
 David Honnorat        
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
 Jon Frosch            
 Stephanie Zacharek    
-Boyd Van Hoeij            http://www.hollywoodreporter.com/review/day-geu-hu-review-1006050
+Boyd Van Hoeij        6   http://www.hollywoodreporter.com/review/day-geu-hu-review-1006050
 Jay Weissberg         
 Clarence Tsui         
 #Carlota Moseguí       
@@ -2541,9 +2541,9 @@ Tommaso Tocci
 Ioannis Kanonakis     
 Marc van de Klashorst 
 Isabelle Regnier      8
-Guy Lodge             
+Guy Lodge             6
 Justin Chang          
-#Diego Batlle          7.5
+#Diego Batlle         8
 Nicholas Bell         4
 David Honnorat        7
 Dana Keith            
@@ -3010,11 +3010,11 @@ Isabelle Regnier      6
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         5
 David Honnorat        
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
+#Blake Williams       7 
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
@@ -3179,9 +3179,9 @@ Ioannis Kanonakis
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             
-Justin Chang          
+Justin Chang          8
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         5
 David Honnorat        
 Dana Keith            
 Dennis Lim            
@@ -3718,9 +3718,9 @@ Ioannis Kanonakis
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             7
-Justin Chang          
+Justin Chang          9
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         6
 David Honnorat        
 Dana Keith            8
 Dennis Lim            
@@ -3827,7 +3827,7 @@ Michael Kienzl        4
 #Boris Nelepo         5
 Giovanni Marchini Camina 7.5
 Lukas Stern           7.5
-Blake Williams        9
+#Blake Williams        9
 # ics
 Cédric Succivalli     
 David Acacia          
@@ -3842,13 +3842,13 @@ Nicholas Bell
 David Honnorat        
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
+Blake Williams       10  
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         8
-#Carlota Moseguí       
+#Carlota Moseguí       5
 #letterboxd
 monkeybox83         9
 Juan Soto           8
@@ -3955,6 +3955,27 @@ Pamela Bienzobas        7
 Juanma Ruíz            9
 # critic.de
 Blake Williams        5
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          10
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            7
+Dennis Lim            
+#Blake Williams        5 
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 CaptainKenobi       9
 thiedig             8
@@ -4765,18 +4786,18 @@ Marc van de Klashorst 7
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle         6 
 Nicholas Bell         7
 David Honnorat        
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
+#Blake Williams       7
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         6
-#Carlota Moseguí       
+#Carlota Moseguí      8
 #letterboxd
 Juan Soto           10
 Crayfish            10
@@ -4844,6 +4865,27 @@ Michael Kienzl        6
 Lukas Stern           7.5
 #Rüdiger Suchsland    7.5
 Blake Williams        6
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Blake Williams      6
 the_gaffer          6
@@ -4906,6 +4948,27 @@ Tasha Robinson      4   https://letterboxd.com/tasharobinson/film/an-inconvenien
 Boris Nelepo            8
 José Luis Losa         4
 Alejandra Trelles       4.5
+# ics
+Cédric Succivalli     3
+David Acacia          3
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         5
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 monkeybox83         9
 Crayfish            9
