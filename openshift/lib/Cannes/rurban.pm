@@ -87,7 +87,7 @@ sub _read {
       if (    !exists $critic{$critic}->{mag}
           and !exists $critic{$critic}->{cn}
           and !exists $critic{$critic}->{group}) {
-        $critic{$critic}->{group} = $critics_group[7]; # letterboxd
+        $critic{$critic}->{group} = $critics_group[$#critics_group]; # letterboxd
       }
     } elsif ($title and /\w[\w\)][-\x{2013}\s]+(http\S+)/) { # review link only
       undef $critic;

@@ -4224,7 +4224,7 @@ Philippe Rouyer (Positif, France)
 Caroline Vie (20 minutes, Suisse)
 ";
 # indiewire + various other
-$critics_group[7] = "None";
+$critics_group[7] = "Other";
 $critics[7] = "
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
@@ -4395,9 +4395,7 @@ Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
-";
 # former apichatpoll members
-$critics[8] = "
 Arthur Mas (Independencia, France) 
 Camille Brunel (Independencia, France) 
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 

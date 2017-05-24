@@ -5916,25 +5916,9 @@ Liuying (DeepFocus, China)
 #Philippe Rouyer (Positif, France)
 #Caroline Vie (20 minutes, Suisse)
 #";
-$critics_group[7] = "Letterboxd";
-$critics[7] = "
-Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
-Serena Catalano (Movieplayer.it, France)
-Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
-John Tikis (Musician, Greece)
-Sam C. Mac (Slant Magazine, USA)
-Lydia Milano (Rap videos, USA)
-Sam Gray (Film maker, UK)
-Pablo Villaça (Cinema em Cena, Brasilien)
-Aaron Salazar (Filmmaker, US)
-Laurent de Alberti (filmlandempire.com, UK)
-Hugo Emmerzael (De Filmkrant, Netherlands)
-Truman2712  (filmstarts.de, Deutschland)
-the_gaffer (, Deutschland)
-";
 # indiewire + various other
-$critics_group[8] = "None";
-$critics[8] = "
+$critics_group[7] = "Other";
+$critics[7] = "
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
 Aaron Hillis (GreenCine Daily, USA)
@@ -6120,9 +6104,7 @@ Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
-";
 # former apichatpoll members
-$critics[9] = "
 Arthur Mas (Independencia, France) 
 Camille Brunel (Independencia, France) 
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
@@ -6140,6 +6122,22 @@ Christophe Beney (Accreds, France)
 Aldo Álvareztostado (International Cinephil Society, Mexico)
 D W Mault (International Cinephil Society, UK)
 Eren Odabasi (International Cinephil Society, Turkey)
+";
+$critics_group[8] = "Letterboxd";
+$critics[8] = "
+Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
+Serena Catalano (Movieplayer.it, France)
+Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
+John Tikis (Musician, Greece)
+Sam C. Mac (Slant Magazine, USA)
+Lydia Milano (Rap videos, USA)
+Sam Gray (Film maker, UK)
+Pablo Villaça (Cinema em Cena, Brasilien)
+Aaron Salazar (Filmmaker, US)
+Laurent de Alberti (filmlandempire.com, UK)
+Hugo Emmerzael (De Filmkrant, Netherlands)
+Truman2712  (filmstarts.de, Deutschland)
+the_gaffer (, Deutschland)
 ";
 
 our $HEADER = <<"EOF";
