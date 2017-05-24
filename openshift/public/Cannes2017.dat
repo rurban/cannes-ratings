@@ -1186,18 +1186,18 @@ Christophe Carriére     2.5
 Cédric Succivalli     
 David Acacia          4
 Tommaso Tocci         5
-Ioannis Kanonakis     
+Ioannis Kanonakis     2
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle         8
 Nicholas Bell         6
 David Honnorat        5
-Dana Keith            
+Dana Keith            5
 Dennis Lim            
 #Blake Williams         
-Jon Frosch            
+Jon Frosch            8
 Stephanie Zacharek    5
 Boyd Van Hoeij        
 Jay Weissberg         
@@ -1367,12 +1367,12 @@ Ioannis Kanonakis     3
 Marc van de Klashorst 6
 Isabelle Regnier      0.1
 Guy Lodge             
-Justin Chang          
-#Diego Batlle          4
+Justin Chang          4
+#Diego Batlle         5
 Nicholas Bell         5
 David Honnorat        5
-Dana Keith            5
-Dennis Lim            
+Dana Keith            3
+Dennis Lim            2
 #Blake Williams       5
 Jon Frosch            5
 Stephanie Zacharek    6
@@ -1525,12 +1525,12 @@ Guy Lodge
 Justin Chang          6
 #Diego Batlle          
 Nicholas Bell         5
-David Honnorat        
+David Honnorat        6
 Dana Keith            8
-Dennis Lim            
+Dennis Lim            2
 #Blake Williams        6 
 Jon Frosch            
-Stephanie Zacharek    
+Stephanie Zacharek    2
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
@@ -1709,7 +1709,7 @@ Christophe Carriére     2.5
 Cédric Succivalli     2
 David Acacia          0.1
 Tommaso Tocci         4
-Ioannis Kanonakis     
+Ioannis Kanonakis     7
 Marc van de Klashorst 1
 Isabelle Regnier      
 Guy Lodge             
@@ -1717,8 +1717,8 @@ Justin Chang          8
 #Diego Batlle         6
 Nicholas Bell         8
 David Honnorat        7
-Dana Keith            7
-Dennis Lim            
+Dana Keith            
+Dennis Lim            6
 #Blake Williams       7 
 Jon Frosch            6
 Stephanie Zacharek    2
@@ -1887,12 +1887,12 @@ Guy Lodge                 http://variety.com/2017/film/reviews/the-day-after-rev
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         6
-David Honnorat        
-Dana Keith            
-Dennis Lim            
-#Blake Williams         
+David Honnorat        3
+Dana Keith            7
+Dennis Lim            8
+#Blake Williams        6 
 Jon Frosch            
-Stephanie Zacharek    
+Stephanie Zacharek    5
 Boyd Van Hoeij        6   http://www.hollywoodreporter.com/review/day-geu-hu-review-1006050
 Jay Weissberg         
 Clarence Tsui         
@@ -2011,22 +2011,22 @@ Nicolas Schaller
 Barbara Théate          
 Christophe Carriére     
 # ics
-Cédric Succivalli     
-David Acacia          
+Cédric Succivalli     5
+David Acacia          6
 Tommaso Tocci         
-Ioannis Kanonakis     
+Ioannis Kanonakis     6
 Marc van de Klashorst 
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         2
 David Honnorat        
-Dana Keith            
+Dana Keith            4
 Dennis Lim            
-#Blake Williams         
+#Blake Williams        4 
 Jon Frosch            
-Stephanie Zacharek    
+Stephanie Zacharek    5
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
@@ -2233,9 +2233,9 @@ Nicholas Bell
 David Honnorat        
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
-Jon Frosch            
-Stephanie Zacharek    
+#Blake Williams         2
+Jon Frosch            4
+Stephanie Zacharek    5
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
@@ -3384,12 +3384,12 @@ Guy Lodge
 Justin Chang          8
 #Diego Batlle          
 Nicholas Bell         5
-David Honnorat        
+David Honnorat        5
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
 Jon Frosch            
-Stephanie Zacharek    
+Stephanie Zacharek    8
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
@@ -3444,7 +3444,7 @@ Guy Lodge
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         
-David Honnorat        
+David Honnorat        5
 Dana Keith            
 Dennis Lim            
 #Blake Williams         
@@ -3537,14 +3537,14 @@ Cédric Succivalli
 David Acacia          
 Tommaso Tocci         
 Ioannis Kanonakis     
-Marc van de Klashorst 
+Marc van de Klashorst 5
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
 Nicholas Bell         
 David Honnorat        
-Dana Keith            
+Dana Keith            5
 Dennis Lim            
 #Blake Williams         
 Jon Frosch            
@@ -4087,8 +4087,8 @@ Justin Chang
 #Diego Batlle          
 Nicholas Bell         
 David Honnorat        
-Dana Keith            
-Dennis Lim            
+Dana Keith            8
+Dennis Lim            8
 Blake Williams       10  
 Jon Frosch            
 Stephanie Zacharek    
@@ -4140,7 +4140,7 @@ Jon Frosch
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
-Clarence Tsui         
+Clarence Tsui         5
 #Carlota Moseguí       
 #letterboxd
 FrancesJa           10
@@ -4228,7 +4228,7 @@ Justin Chang          10
 Nicholas Bell         
 David Honnorat        
 Dana Keith            7
-Dennis Lim            
+Dennis Lim            7
 #Blake Williams        5 
 Jon Frosch            
 Stephanie Zacharek    
@@ -4271,6 +4271,8 @@ Gustavo Beck            3
 Ángel Quintana         6.5
 Juanma Ruíz            5.5
 Pedro Segura            6
+# ics
+Jon Frosch            6
 #letterboxd
 edissa              6
 Sam Gray            4
@@ -5215,18 +5217,18 @@ Marc van de Klashorst
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle          6
 Nicholas Bell         
 David Honnorat        
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
+#Blake Williams         6
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+Carlota Moseguí       0.1
 #letterboxd
 Blake Williams      6
 the_gaffer          6
@@ -5299,7 +5301,7 @@ Pedro Segura            3
 # critic.de
 Michael Kienzl        5
 #Boris Nelepo         6
-Blake Williams        4
+#Blake Williams        4
 # ics
 Cédric Succivalli     3
 David Acacia          3
@@ -5314,7 +5316,7 @@ Nicholas Bell         5
 David Honnorat        
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
+Blake Williams        3 
 Jon Frosch            
 Stephanie Zacharek    
 Boyd Van Hoeij        
@@ -5351,6 +5353,27 @@ Imma Merino             8
 # critic.de
 #Boris Nelepo         6
 Blake Williams        7.5
+# ics
+Cédric Succivalli     10
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     10
+Marc van de Klashorst 3
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        
+Dana Keith            
+Dennis Lim            
+#Blake Williams         8
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       
 #letterboxd
 Eli Hayes           10   https://letterboxd.com/elihayes/film/24-frames/
 Simon Abrams        9   https://letterboxd.com/simonsaybrams/film/24-frames/
