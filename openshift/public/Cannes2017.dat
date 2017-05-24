@@ -2,7 +2,7 @@ package Cannes::rurban::2017; # -*- perl -*-
 
 #!/usr/bin/perl
 # Cannes 2017 Critics Ratings
-# Collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
+# Collected by Diego Lerer, ioncinema, critic.de, ics, screendaily and Reini Urban
 # Recalc and sort ratings by all Cannes critics:
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
@@ -365,6 +365,7 @@ Bernardo Pajares    9
 Truman2712          9
 Sam Gray            9   https://letterboxd.com/sam_gray/film/loveless-2017/
 John Tikis          9
+franniedeckas       8
 WiktorWiktor        8
 Michael Bishay      8
 Daphne Passa        8   https://letterboxd.com/daphnee/film/loveless-2017/
@@ -384,7 +385,6 @@ monkeybox83         8
 Antoine Waked       7
 Chad Eberle         7   https://letterboxd.com/chadeberle/film/loveless-2017/
 David Ehrlich       7
-franniedeckas       7
 Pieter Vermeersch   7
 Michael Bo          7
 Eren Odabasi        7   https://letterboxd.com/erenodabasi/film/loveless-2017/
@@ -399,6 +399,7 @@ Crayfish            6
 Andy Malafaia       5
 klaaargh            5
 Josh Cabrita        5
+Dave Jenkins        4
 Saymon Nascimento   4   https://letterboxd.com/saymon_n/film/loveless-2017/
 the_gaffer          4
 edissa              4
@@ -550,6 +551,8 @@ Johann Rucker       9   https://letterboxd.com/_ruckerish/film/okja/
 WiktorWiktor        9
 AEC                 9
 Eli Hayes           9   https://letterboxd.com/elihayes/film/okja/
+Dave Jenkins        8
+GuerreroCGQ         8   https://letterboxd.com/guerrerocgq/film/okja/
 Zach Shevich        8
 Mike_Doc            8
 Marie-Laure Tittley 8
@@ -583,10 +586,10 @@ Gerard Casau        7
 Zane Timonina       7
 Sebastian Quevedo   7   https://letterboxd.com/sqvdo/film/okja/
 Niels Putman        7
-Andy Malafaia       7
 Bare Bard           7
 John Tikis          7
 karamazov           7
+Andy Malafaia       6
 edouglasww          6   https://letterboxd.com/edouglasww/film/okja/
 ericguzman          6
 Anna Bananna        6
@@ -748,6 +751,7 @@ Philippe            5
 WiktorWiktor        5
 Sebastian Quevedo   5
 Till Kadritzke      5
+Dave Jenkins        4
 Saymon Nascimento   4   https://letterboxd.com/saymon_n/film/jupiters-moon-2017/
 Chris Haydon        4
 Daphne Passa        4   https://letterboxd.com/daphnee/film/jupiters-moon-2017/
@@ -894,8 +898,9 @@ manilazic           9
 onozorobi           9
 Gaz Evans           9
 Michael Bo          9
-Matt Hoffman        9
 Aaron Salazar       9   https://letterboxd.com/whocaresdad/film/120-beats-per-minute/
+Dave Jenkins        8
+Matt Hoffman        8
 AlmostGinger        8
 Ncamcam             8   https://letterboxd.com/ncamcam/film/120-beats-per-minute/
 Niels Putman        8
@@ -1079,6 +1084,7 @@ Pieter Vermeersch   7
 Txarles             7
 Lawrence Garcia     7
 Sam Gray            7
+AEC                 6
 Hugo Emmerzael      6
 Mike_Doc            6
 Carlota Moseguí    6
@@ -1100,6 +1106,7 @@ Vahid Mortazavi     4
 Sam C. Mac          4
 Blake Williams      4
 James Thompson      3
+Dave Jenkins        2
 karamazov           2
 
 "The Meyerowitz Stories" (Noah Baumbach) [Competition]
@@ -1236,6 +1243,7 @@ Truman2712          8
 David Ehrlich       8   https://letterboxd.com/davidehrlich/film/the-meyerowitz-stories/
 Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/the-meyerowitz-stories/
 Antoine Waked       8
+BillyWildest        7
 onozorobi           7
 manilazic           7
 Benedict Seal       7
@@ -1396,6 +1404,7 @@ Qin Wan             9
 Li Yunbo            5
 Liuying             7.5
 #letterboxd
+franniedeckas       8
 Maëva              8
 Eli Hayes           8
 Truman2712          7
@@ -1413,12 +1422,14 @@ Zane Timonina       6
 Martyn Conterio     6
 Michael Bishay      6
 nslomka             6
+BillyWildest        5
 Zach Martin         5
 Sebastian Quevedo   5
 Blake Williams      5
 Gerard Casau        5
 edissa              5
 Sam Gray            5
+Dave Jenkins        4
 Crayfish            4
 A.A. Dowd           4
 John Tikis          4   https://letterboxd.com/johntikis/film/redoubtable/
@@ -1573,6 +1584,7 @@ Aaron Salazar       9   https://letterboxd.com/whocaresdad/film/the-killing-of-a
 Serena Catalano     9   https://letterboxd.com/serena/film/the-killing-of-a-sacred-deer/
 Heather_Grrrl       9
 tylerstravis        9
+BillyWildest        8
 Anna Bananna        8
 Carlito             8
 Nate Buzelli        8
@@ -1612,6 +1624,8 @@ Andy Malafaia       5
 Crayfish            5
 Lawrence Garcia     5
 Josh Cabrita        5
+Dave Jenkins        4
+Vahid Mortazavi     4
 BrunoD              4
 Tanner Stechnij     4   https://letterboxd.com/tstechnij/film/the-killing-of-a-sacred-deer/
 edissa              3
@@ -1751,6 +1765,9 @@ John Tikis          10
 Mikko Pihkoluoma    10   https://letterboxd.com/mikkopihkoluoma/film/happy-end-2017/
 Nate Buzelli        9
 Truman2712          9
+Ricardo Leite       8
+Dave Jenkins        8
+BillyWildest        8
 Laurent de Alberti  8
 Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/happy-end-2017/
 Maëva              8
@@ -1765,6 +1782,7 @@ Matt Hoffman        8
 Natzure             8
 Sourav Mal          8
 Aritro Roy          8
+Rowan Woods         7
 manilazic           7
 Pieter Vermeersch   7
 karamazov           7
@@ -1788,19 +1806,20 @@ Pablo Villaça      6
 Wolfgang Renner     6
 Kubrick13           6
 lacyann87           6
-Andy Malafaia       5
 b gudivada          5
 A.A. Dowd           5
 Gerard Casau        5
 Carlota Moseguí    5
 Lawrence Garcia     5
 NatalieKae          5
+Andy Malafaia       4
 Sam C. Mac          4
 Cornelia Eriksson   4
 the_gaffer          4
 klaaargh            4
 chrissweet1967      4   https://letterboxd.com/chrissweet1967/film/happy-end-2017/
 Sebastian Quevedo   3
+Kiarash Anvari      1
 
 "The Day After" (Hong Sangsoo) [Competition]
 
@@ -1924,18 +1943,18 @@ Eren Odabasi        9   https://letterboxd.com/erenodabasi/film/the-day-after-20
 karamazov           9
 Eli Hayes           9   https://letterboxd.com/elihayes/film/the-day-after-2017/
 Crayfish            8
-b gudivada          8
-Adam Norbury        8   https://letterboxd.com/madadude/film/the-day-after-2017/
 Greg Cwik           8   https://letterboxd.com/gregcwik/film/the-day-after-2017/
 Zac Kindergelt      8   https://letterboxd.com/pzng97/film/the-day-after-2017/
 Jason Ooi           8
 Joe Koski           8
 Christian Berger    8
+Adam Norbury        7   https://letterboxd.com/madadude/film/the-day-after-2017/
+b gudivada          7
 the_gaffer          7
 Zane Timonina       7
 Philippe            7
 Neil Bahadur        7
-manilazic           7
+manilazic           7   https://letterboxd.com/manilazic/film/the-day-after-2017/
 Luke Wulfensmith    7
 Truman2712          7
 Lawrence Garcia     6
@@ -2061,6 +2080,7 @@ Liuying             2.5
 Maëva              10   https://letterboxd.com/reggielampert/film/radiance-2017/
 BrunoD              10
 Laurent de Alberti  9
+AEC                 7
 Giovani Gasparetto  7
 Pablo Villaça      7
 Kurt Walker         7
@@ -2069,6 +2089,7 @@ Michael Bishay      7
 karamazov           7
 Crayfish            7
 Eli Hayes           7   https://letterboxd.com/elihayes/film/radiance-2017/
+Nicolas Courdouan   6
 Pieter Vermeersch   6
 John Tikis          6
 Antoine Waked       6
@@ -2086,6 +2107,7 @@ Saymon Nascimento   4   https://letterboxd.com/saymon_n/film/radiance-2017/
 Philippe            4
 Ragna               4
 Chad Eberle         4
+Dave Jenkins        3
 Chris Haydon        2
 Kiarash Anvari      1
 
@@ -2181,13 +2203,46 @@ Qin Wan
 Li Yunbo            
 Liuying             
 #letterboxd
+Dave Jenkins        10
+Vincent Briscoe     10   https://letterboxd.com/vpbriscoe/film/the-beguiled-2017/
+harry100            10
 angela76            10
 dilaraclem          10
 bradman1            10
+David Ehrlich       9   https://letterboxd.com/davidehrlich/film/the-beguiled-2017/
+Pablo Villaça      8
+Hugo Emmerzael      8
+Simon Abrams        8   https://letterboxd.com/simonsaybrams/film/the-beguiled-2017/
+TballB              8   https://letterboxd.com/tballb/film/the-beguiled-2017/
+Johann Rucker       8   https://letterboxd.com/_ruckerish/film/the-beguiled-2017/
+Matt Hoffman        8
+Eli Hayes           8   https://letterboxd.com/elihayes/film/the-beguiled-2017/
 onozorobi           8
 seenbysophie        8
+Carlito             7
+karamazov           7
+Sam Gray            7
+Truman2712          7
+Arvena              7
+Crayfish            7
+Pieter Vermeersch   7
+b gudivada          7
 Henry Heistand      7
+the_gaffer          6
+Philippe            6
+edissa              6
+Zane Timonina       6
+Josh Cabrita        6
+klaaargh            6
+Aaron Salazar       6   https://letterboxd.com/whocaresdad/film/the-beguiled-2017/
 Douglas Rathbun     6
+Bare Bard           5
+Andy Malafaia       5
+Antoine Waked       5
+Lawrence Garcia     5
+Saymon Nascimento   5   https://letterboxd.com/saymon_n/film/the-beguiled-2017/
+BrunoD              2
+Kiarash Anvari      2
 zsportsfan88        2
 
 "Rodin" (Francois Doillon) [Competition]
@@ -2291,12 +2346,14 @@ Liuying             5
 #letterboxd
 Pablo Villaça      7
 Sam C. Mac          6
-Arvena              6
+Arvena              6   https://letterboxd.com/arvena/film/rodin/
 Michael Bo          5
-Truman2712          5
+Truman2712          4
+Dave Jenkins        4
 Blake Williams      4
 klaaargh            4
 Lawrence Garcia     4
+Vahid Mortazavi     3
 Josh Cabrita        3
 Philippe            3
 reedie              3
@@ -2778,6 +2835,7 @@ Clarence Tsui
 Carlota Moseguí       
 #letterboxd
 Juan Soto           10
+Dave Jenkins        8
 manilazic           7
 Crayfish            7
 Eli Hayes           7
@@ -2885,6 +2943,7 @@ Christophe Carriére
 Jean-Christophe Simon 10
 Truman2712          9
 Crayfish            9
+Dave Jenkins        8
 Daphne Passa        8   https://letterboxd.com/daphnee/film/western-2017/
 the_gaffer          8
 Till Kadritzke      8
@@ -3325,7 +3384,9 @@ Jay Weissberg
 Clarence Tsui         
 #Carlota Moseguí       
 #letterboxd
+silbi88             8
 Carlo Beccaccini    7
+elestern            6
 fabioarcieri        6
 Luca Fontò         6
 Pieter Vermeersch   5
@@ -3441,10 +3502,12 @@ Clarence Tsui
 Juan Soto           9
 Benedict Seal       7
 John Tikis          7
+onozorobi           6
 manilazic           6
 Lawrence Garcia     6
 Pablo Villaça      6
 Mikko Pihkoluoma    6
+Chad Eberle         5
 edissa              5
 Truman2712          5
 Josh Cabrita        5
@@ -3548,6 +3611,7 @@ Jay Weissberg
 Clarence Tsui         
 #Carlota Moseguí       
 #letterboxd
+Dave Jenkins        8
 manilazic           8
 Truman2712          8
 Millie C            8
@@ -3556,6 +3620,7 @@ Pieter Vermeersch   5
 Chris Haydon        5
 Kurt Walker         5
 Arvena              5
+Vahid Mortazavi     3
 
 "Dopo la guerra (After the War)" (Annarita Zambrano) [Un Certain Regard]
 
@@ -3648,6 +3713,11 @@ Boyd Van Hoeij
 Jay Weissberg         
 Clarence Tsui         
 #Carlota Moseguí       
+#letterboxd
+Kurt Walker         8
+Philippe            7
+Zane Timonina       5
+Carlito             5
 
 "The Summit (La cordillera)" (Santiago Mitre) [Un Certain Regard]
 
@@ -3834,6 +3904,7 @@ Clarence Tsui         7
 #Carlota Moseguí      7
 #letterboxd
 Saymon Nascimento   10   https://letterboxd.com/saymon_n/film/let-the-sunshine-in/
+Dave Jenkins        9
 Matt Hoffman        9
 Elie                8
 ericguzman          8
@@ -3927,7 +3998,9 @@ Boyd Van Hoeij        5
 Jay Weissberg         
 Clarence Tsui         
 #letterboxd
+Dave Jenkins        9
 Crayfish            9
+Vahid Mortazavi     8
 Carlota Moseguí    8
 Philippe            8
 Hugo Emmerzael      8   https://letterboxd.com/hemmerzael/film/lover-for-a-day/
@@ -3936,7 +4009,6 @@ Elie                7
 John Tikis          7
 Txarles             7
 b gudivada          7
-Vahid Mortazavi     7
 Matilda Muybridge   7
 Saymon Nascimento   6   https://letterboxd.com/saymon_n/film/lover-for-a-day/
 Michael Bishay      6
@@ -4081,7 +4153,9 @@ Crayfish            8
 Truman2712          7
 Giovani Gasparetto  7
 Carlota Moseguí    7
+Dave Jenkins        6
 Gerard Casau        6
+AEC                 5
 Blake Williams      5
 Kurt Walker         4
 b gudivada          4
@@ -4146,6 +4220,7 @@ Jay Weissberg
 Clarence Tsui         8
 #Carlota Moseguí       5
 #letterboxd
+Dave Jenkins        10
 monkeybox83         9
 John Tikis          8
 Juan Soto           8
@@ -4197,8 +4272,10 @@ Clarence Tsui         5
 #letterboxd
 FrancesJa           10
 Felicia Chaidez     9
+Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/mobile-homes/
 Maëva              7
 Pieter Vermeersch   7
+Eli Hayes           6   https://letterboxd.com/elihayes/film/mobile-homes/
 Antoine Waked       5
 Niels Putman        4
 Johann Rucker       4   https://letterboxd.com/_ruckerish/film/mobile-homes/
@@ -4291,6 +4368,7 @@ Jay Weissberg
 Clarence Tsui         
 #Carlota Moseguí       
 #letterboxd
+Dave Jenkins        10
 the_gaffer          10
 Alban_R             9
 Dion Wyn            9   https://letterboxd.com/dijonwyn/film/the-florida-project/
@@ -4341,6 +4419,7 @@ Gustavo Beck            1
 Juanma Ruíz            5.5
 #letterboxd
 LucaMarchetti       6
+Chad Eberle         4
 b gudivada          4
 
 "La defensa del dragón" (Natalia Santa) [Quinzaine]
@@ -4538,6 +4617,7 @@ Isabelle Regnier      3
 #letterboxd
 Giovani Gasparetto  5
 Dion Wyn            4
+monkeybox83         3
 
 "LA FAMILIA" (Gustavo Rondón Córdova) [Semaine]
 
@@ -4548,9 +4628,13 @@ Diego Lerer             7
 Gustavo Beck            2
 #letterboxd
 Saymon Nascimento   5   https://letterboxd.com/saymon_n/film/la-familia/
+Andy Malafaia       4
 edissa              3
 
 "MAKALA" (Emmanuel Gras) [Semaine]
+
+#letterboxd
+Andy Malafaia       2
 
 "BRIGSBY BEAR" (Dave McCary) [Semaine] Closing <i>(Sundance)</i>
 
@@ -4678,6 +4762,7 @@ Clarence Tsui         4
 #Carlota Moseguí      2
 #letterboxd
 ln_brtssl           9   https://letterboxd.com/ln_brtssl/film/ismaels-ghosts/
+Dave Jenkins        8
 sferay              8
 sabee lynchies      8
 Florentine          8
@@ -4920,6 +5005,7 @@ Clarence Tsui         9
 #Carlota Moseguí       6
 #letterboxd
 ericguzman          10
+Dave Jenkins        9
 David Ehrlich       9   https://letterboxd.com/davidehrlich/film/visages-villages/
 Saymon Nascimento   9   https://letterboxd.com/saymon_n/film/visages-villages/
 Benedict Seal       9
@@ -5210,6 +5296,7 @@ Zac Kindergelt      9   https://letterboxd.com/pzng97/film/claires-camera/
 Jason Ooi           9   https://letterboxd.com/jasonooi/film/claires-camera/
 Joe Koski           9
 Christian Berger    9
+Dave Jenkins        8
 Greg Cwik           8   https://letterboxd.com/gregcwik/film/claires-camera/
 Adam Norbury        8
 Carlota Moseguí    8
@@ -5294,6 +5381,7 @@ Jay Weissberg
 Clarence Tsui         
 Carlota Moseguí       0.1
 #letterboxd
+Dave Jenkins        9
 Blake Williams      6
 the_gaffer          6
 Gerard Casau        4
@@ -5394,13 +5482,14 @@ Clarence Tsui
 #letterboxd
 monkeybox83         9
 Crayfish            9
+Dave Jenkins        6
 Josh Cabrita        6
 Laurent de Alberti  6
 Vahid Mortazavi     6
-Truman2712          6
 Sam C. Mac          5
 Lawrence Garcia     5
 John Tikis          5
+Truman2712          4
 Bare Bard           4
 Blake Williams      4
 Philippe            4
@@ -5450,6 +5539,7 @@ John Tikis          10
 Eli Hayes           10   https://letterboxd.com/elihayes/film/24-frames/
 Simon Abrams        9   https://letterboxd.com/simonsaybrams/film/24-frames/
 Felicia Chaidez     9
+Dave Jenkins        8
 edissa              8
 Hossein Eidizadeh   8
 Blake Williams      7
@@ -5482,6 +5572,7 @@ onozorobi           8
 Ángel Quintana         7.5
 #letterboxd
 Roy Parker          8   https://letterboxd.com/oh_itsroy/film/demons-in-paradise/
+Pablo Villaça      3
 
 "The Merciless (Bulhandang)" (Byun Sung-Hyun) [Out Of Competition] Midnight Screening
 #letterboxd
