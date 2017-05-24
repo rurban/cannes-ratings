@@ -3648,6 +3648,7 @@ Crayfish            2
 "Out" (Gyorgy Kristof) [Un Certain Regard]
 
 Wendy Ide                   http://www.screendaily.com/reviews/out-cannes-review/5117873.article?blocktitle=Latest-Reviews&contentID=592
+Leslie Felperin             http://www.hollywoodreporter.com/review/review-1007125
 # todas
 Boris Nelepo            4
 Nicolás Kusmin         5
@@ -4649,6 +4650,7 @@ Juanma Ruíz            7.5
 "Marlina the Murderer in Four Acts (Marlina si pembunuh dalam empat babak)" (Mouly Surya) [Quinzaine]
 
 Lisa Nesselson              http://www.screendaily.com/reviews/marlina-the-murderer-in-four-acts-cannes-review/5117813.article?blocktitle=DIRECTORS%27-FORTNIGHT&contentID=40446
+Boyd van Hoeij              http://www.hollywoodreporter.com/review/marlina-murderer-four-acts-1007100
 # todas
 Juanma Ruíz            3
 #letterboxd
@@ -5925,6 +5927,9 @@ EOF
 my $almost = <<'EOF';
 
 The unlucky ones:
+
+"Angamaly Diaries" (Lijo Jose Pellissery) Market
+Deborah Young  http://www.hollywoodreporter.com/review/angamali-diaries-review-1007106
 
 "Three Billboards Outside Ebbing, Missouri" (Martin McDonagh) not yet selected [Hopeful (temp.)]
 #letterboxd
