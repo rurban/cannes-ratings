@@ -2896,26 +2896,26 @@ Nicolas Schaller        2.5
 Barbara Théate          2.5
 Christophe Carriére     7.5
 # ics
-Cédric Succivalli     6
+Cédric Succivalli     5
 David Acacia          4
 Tommaso Tocci         8
-Ioannis Kanonakis     6
+Ioannis Kanonakis     5
 Marc van de Klashorst 10
-Isabelle Regnier      
-Guy Lodge             
-Justin Chang          
-#Diego Batlle          
+Isabelle Regnier      4
+Guy Lodge             7
+Justin Chang          8
+#Diego Batlle         3
 Nicholas Bell         7
-David Honnorat        
+David Honnorat        6
 Dana Keith            6
 Dennis Lim            
 #Blake Williams         4
 Jon Frosch            7
 Stephanie Zacharek    
-Boyd Van Hoeij        
+Boyd Van Hoeij        3
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí       7
 # Chinese @CriticsGrid
 Li Xun              5
 Liu Min             7.5
@@ -3015,31 +3015,31 @@ Isabelle Regnier
 Cédric Succivalli        
 Blake Williams           3
 # Le film français
-Gaël Golhen             
-Jean-Claude Raspiergeas 
-Thierry Chèze           
-Eric Neuhoff            
-Stéphane Delorme        
-Thomas Sotinel          
-Philippe Rouyer         
-Pierre Vavasseur        
-Pierre Murat            
-Phalène de La Valette   
-Serge Kaganski          
-Gille Kerdreux          
-Nicolas Schaller        
-Barbara Théate          
-Christophe Carriére     
+Gaël Golhen             1
+Jean-Claude Raspiergeas 2.5
+Thierry Chèze           5
+Eric Neuhoff            2.5
+Stéphane Delorme        1
+Thomas Sotinel          2.5
+Philippe Rouyer         2.5
+Pierre Vavasseur        9
+Pierre Murat            1
+Phalène de La Valette   2.5
+Serge Kaganski          1
+Gille Kerdreux          9
+Nicolas Schaller        1
+Barbara Théate          7.5
+Christophe Carriére     2.5
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
+Cédric Succivalli     3
+David Acacia          3
+Tommaso Tocci         8
+Ioannis Kanonakis     1
+Marc van de Klashorst 4
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle          3
 Nicholas Bell         
 David Honnorat        
 Dana Keith            
@@ -3159,42 +3159,42 @@ Isabelle Regnier
 Cédric Succivalli        
 Blake Williams           3
 # Le film français
-Gaël Golhen             
-Jean-Claude Raspiergeas 
-Thierry Chèze           
-Eric Neuhoff            
-Stéphane Delorme        
-Thomas Sotinel          
-Philippe Rouyer         
-Pierre Vavasseur        
-Pierre Murat            
-Phalène de La Valette   
-Serge Kaganski          
-Gille Kerdreux          
-Nicolas Schaller        
-Barbara Théate          
-Christophe Carriére     
+Gaël Golhen             2.5
+Jean-Claude Raspiergeas 7.5
+Thierry Chèze           5
+Eric Neuhoff            1
+Stéphane Delorme        1
+Thomas Sotinel          5
+Philippe Rouyer         7.5
+Pierre Vavasseur        1
+Pierre Murat            7.5
+Phalène de La Valette   7.5
+Serge Kaganski          2.5
+Gille Kerdreux          7.5
+Nicolas Schaller        2.5
+Barbara Théate          5
+Christophe Carriére     2.5
 # ics
-Cédric Succivalli     
-David Acacia          
-Tommaso Tocci         
-Ioannis Kanonakis     
-Marc van de Klashorst 
+Cédric Succivalli     6
+David Acacia          4
+Tommaso Tocci         2
+Ioannis Kanonakis     1
+Marc van de Klashorst 6
 Isabelle Regnier      
 Guy Lodge             
-Justin Chang          
-#Diego Batlle          
-Nicholas Bell         
+Justin Chang          7
+#Diego Batlle          6
+Nicholas Bell         7
 David Honnorat        
-Dana Keith            
+Dana Keith            5
 Dennis Lim            
 #Blake Williams       1  
-Jon Frosch                http://www.hollywoodreporter.com/review/amant-double-cannes-1007105
+Jon Frosch            7   http://www.hollywoodreporter.com/review/amant-double-cannes-1007105
 Stephanie Zacharek    
-Boyd Van Hoeij        
+Boyd Van Hoeij        8
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí      3
 # Chinese @CriticsGrid
 Li Xun              1
 Liu Min             7.5
@@ -3325,17 +3325,17 @@ Isabelle Regnier
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
-David Honnorat        
+Nicholas Bell         8
+David Honnorat        9
 Dana Keith            
 Dennis Lim            
-#Blake Williams         
-Jon Frosch            
+#Blake Williams        5 
+Jon Frosch            4
 Stephanie Zacharek    
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí       3
 # Chinese @CriticsGrid
 Li Xun              7.5
 Liu Min             7.5
@@ -4284,7 +4284,7 @@ Tommaso Tocci
 Ioannis Kanonakis     
 Marc van de Klashorst 
 Isabelle Regnier      4
-Guy Lodge             
+Guy Lodge             8
 Justin Chang          
 #Diego Batlle          7
 Nicholas Bell         
@@ -4423,10 +4423,10 @@ David Acacia
 Tommaso Tocci         
 Ioannis Kanonakis     
 Marc van de Klashorst 10
-Isabelle Regnier      
+Isabelle Regnier      10
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle         7
 Nicholas Bell         8
 David Honnorat        10
 Dana Keith            
@@ -4437,7 +4437,7 @@ Stephanie Zacharek
 Boyd Van Hoeij        
 Jay Weissberg         
 Clarence Tsui         
-#Carlota Moseguí       
+#Carlota Moseguí       8
 #letterboxd
 Eren Odabasi        10   https://letterboxd.com/erenodabasi/film/closeness/
 Carlota Moseguí    8
@@ -4499,7 +4499,7 @@ Stéphane Delorme
 Thomas Sotinel          
 Philippe Rouyer         5
 Pierre Vavasseur        
-Pierre Murat            
+Pierre Murat            5
 Phalène de La Valette   
 Serge Kaganski          
 Gille Kerdreux          
@@ -4515,7 +4515,7 @@ Marc van de Klashorst
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle         8 
 Nicholas Bell         2
 David Honnorat        
 Dana Keith            
@@ -4567,7 +4567,7 @@ Agustín Mango          5.5
 Gaël Golhen             
 Jean-Claude Raspiergeas 
 Thierry Chèze           
-Eric Neuhoff            
+Eric Neuhoff            5
 Stéphane Delorme        
 Thomas Sotinel          
 Philippe Rouyer         
@@ -4577,7 +4577,7 @@ Phalène de La Valette
 Serge Kaganski          
 Gille Kerdreux          
 Nicolas Schaller        
-Barbara Théate          
+Barbara Théate          5
 Christophe Carriére     
 # ics
 Cédric Succivalli     
@@ -4588,8 +4588,8 @@ Marc van de Klashorst
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
-Nicholas Bell         
+#Diego Batlle         7 
+Nicholas Bell         6
 David Honnorat        
 Dana Keith            
 Dennis Lim            
@@ -4649,7 +4649,7 @@ Isabelle Regnier
 Guy Lodge             
 Justin Chang          
 #Diego Batlle          
-Nicholas Bell         
+Nicholas Bell         2
 David Honnorat        
 Dana Keith            
 Dennis Lim            
@@ -5345,6 +5345,8 @@ Jonathan Milott     5   https://letterboxd.com/honestjon/film/the-dragon-defense
 
 Jordan Mintzer          http://www.hollywoodreporter.com/review/prince-nothingwood-review-998871
 Lisa Nesselson          http://www.screendaily.com/reviews/nothingwood-cannes-review/5117811.article?blocktitle=DIRECTORS%27-FORTNIGHT&contentID=40446
+# ics
+Boyd Van Hoeij        8
 #letterboxd
 Felicia Chaidez     9
 Johann Rucker       9   https://letterboxd.com/_ruckerish/film/nothingwood/
@@ -5388,6 +5390,27 @@ Daniel Kasman           7
 Carlota Moseguí        6
 # critic.de
 #Blake Williams        6
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        7
+Dana Keith            
+Dennis Lim            
+#Blake Williams        6 
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       6
 #letterboxd
 Vincent Briscoe     9   https://letterboxd.com/vpbriscoe/film/i-am-not-a-witch/
 daniellas           8
@@ -5436,7 +5459,26 @@ Juanma Ruíz            10
 Pedro Segura            7.5
 Carlota Moseguí        9.5
 # ics
-Blake Williams          7
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle          
+Nicholas Bell         
+David Honnorat        6
+Dana Keith            
+Dennis Lim            
+#Blake Williams       7 
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí       9
 #letterboxd
 Carlota Moseguí    9
 Alice               9
@@ -5676,6 +5718,27 @@ Gustavo Beck            3
 Pedro Segura            4
 # critic.de
 Lukas Stern           7.5
+# ics
+Cédric Succivalli     
+David Acacia          
+Tommaso Tocci         
+Ioannis Kanonakis     
+Marc van de Klashorst 
+Isabelle Regnier      
+Guy Lodge             
+Justin Chang          
+#Diego Batlle         
+Nicholas Bell         6
+David Honnorat        
+Dana Keith            6
+Dennis Lim            
+#Blake Williams        
+Jon Frosch            
+Stephanie Zacharek    
+Boyd Van Hoeij        
+Jay Weissberg         
+Clarence Tsui         
+#Carlota Moseguí      
 #letterboxd
 Dave Jenkins        8
 Laura Xue           7
@@ -6769,7 +6832,7 @@ Marc van de Klashorst 10
 Isabelle Regnier      
 Guy Lodge             
 Justin Chang          
-#Diego Batlle          
+#Diego Batlle         9
 Nicholas Bell         8
 David Honnorat        
 Dana Keith            
