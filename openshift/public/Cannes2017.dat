@@ -1693,10 +1693,7 @@ Liuying             1
 citizenlime         10   https://letterboxd.com/citizenlime/film/the-killing-of-a-sacred-deer/
 megalomano          10   https://letterboxd.com/megalomano/film/the-killing-of-a-sacred-deer/
 Martyn Conterio     10
-XylophoneSia        10
-BirthControl        10
-Canberra            10
-hedasphyxie         10
+#hedasphyxie         10
 Pablo Villaça      10
 monkeybox83         10
 Laurent de Alberti  10
@@ -6552,9 +6549,6 @@ Jay Weissberg
 Clarence Tsui         
 #Carlota Moseguí       
 #letterboxd
-XylophoneSia        10
-BirthControl        10
-Canberra            10
 Niels Putman        8
 Simon               8
 Michael Bishay      8
@@ -7862,6 +7856,7 @@ monkeybox83 (?, Deutschland)
 Nicolas Courdouan (Director+Writer, France)
 Neil Bahadur (Director, Canada)
 Dion Wyn (www.thatmovieguy.co.uk, UK)
+citizenlime (?, UK)
 ";
 
 our $HEADER = <<"EOF";
