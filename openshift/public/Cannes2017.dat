@@ -271,6 +271,7 @@ Giona Nazzaro           4
 Diego Batlle            5
 Manu Yañez             5
 Luciano Monteagudo      5
+Alex Vicente            5
 Marcelo Alderete        1
 Fernando Ganzo          1.5
 Alejandro G. Calvo      1
@@ -293,7 +294,7 @@ Nando Salva             4.5
 Damián Hoffman         8
 Nicolás Kusmin         6.5
 Imma Merino             7
-Carlota Moseguí        8
+Carlota Moseguí        9
 Agustín Mango          5
 # critic.de
 Andrey Arnold         2.5
@@ -481,6 +482,7 @@ Marcelo Alderete        7
 Fernando Ganzo          3.5
 Alejandro G. Calvo      7
 Xavi Serra              6.5
+Boris Nelepo            6
 Carlos F. Heredero      6.5
 Pamela Bienzobas        5
 Sergi Sanchez           5.5
@@ -493,6 +495,8 @@ Philipp Engel           6.5
 Juanma Ruíz            7.5
 Nando Salva             4.5
 Damián Hoffman         8
+Pedro Segura            9
+Carlota Moseguí        2.5
 Agustín Mango          6
 # critic.de
 Andrey Arnold         7.5
@@ -864,6 +868,7 @@ Luciano Monteagudo      7
 Alex Vicente            7.5
 Marcelo Alderete        5.5
 Xavi Serra              6
+Boris Nelepo            6.5
 Carlos F. Heredero      6
 Sergi Sanchez           6.5
 Ronald Rovers           6
@@ -880,6 +885,7 @@ Nando Salva             6
 Damián Hoffman         8.5
 Pedro Segura            5.5
 Imma Merino             7.5
+Carlota Moseguí        6
 Agustín Mango          7
 # critic.de
 Andrey Arnold         6
@@ -2035,8 +2041,9 @@ Marcelo Alderete        9.5
 Fernando Ganzo          9.5
 Alejandro G. Calvo      9
 Xavi Serra              7
-Boris Nelepo            8
+Boris Nelepo            9
 Carlos F. Heredero      7
+Pamela Bienzobas        7.5
 Sergi Sanchez           6
 Ronald Rovers           5
 Eulalia Iglesias        7.5
@@ -2051,7 +2058,7 @@ Juanma Ruíz            7.5
 Damián Hoffman         5
 Pedro Segura            9.5
 Imma Merino             7
-Carlota Moseguí        7.5
+Carlota Moseguí        8
 Agustín Mango          8.5
 # critic.de
 Andrey Arnold         7.5
@@ -2195,6 +2202,7 @@ José Luis De Lorenzo   4
 Rüdiger Suchsland      8
 Fernando Juan Lima      5
 Fredy Friedlander       9
+Diego Batlle            6
 Manu Yañez             5
 Luciano Monteagudo      5
 Alex Vicente            6.5
@@ -2213,6 +2221,7 @@ Philipp Engel           4.5
 Juanma Ruíz            6.5
 Damián Hoffman         6.5
 Imma Merino             5.5
+Carlota Moseguí        3
 # critic.de
 Frédéric Jaeger     6
 Till Kadritzke        2.5
@@ -2382,12 +2391,12 @@ José Luis Losa         9
 Gustavo Beck            4
 Ángel Quintana         7.5
 Philipp Engel           6.5
-Juanma Ruíz            7.5
+Juanma Ruíz            8
 Damián Hoffman         3
 Pedro Segura            6.5
 Nicolás Kusmin         6.5
 Imma Merino             8
-Carlota Moseguí        4
+Carlota Moseguí        4.5
 Agustín Mango          6
 # critic.de
 Andrey Arnold         4
@@ -2729,6 +2738,7 @@ Fionnuala Halligan          http://www.screendaily.com/festivals/cannes/cannes-2
 Roger Koza              6.5
 Jaime Pena              7.5
 Daniel Kasman           6
+José Luis De Lorenzo   8
 Diego Lerer             8
 Fredy Friedlander       5.5
 Giona Nazzaro           8.5
@@ -2742,9 +2752,11 @@ Alejandro G. Calvo      10
 Xavi Serra              9
 Boris Nelepo            7.5
 Carlos F. Heredero      5.5
+Pamela Bienzobas        6
 Sergi Sanchez           8
 Ronald Rovers           7.5
 Eulalia Iglesias        7
+Violeta Kovacsics       7.5
 Luciano Barisone        8
 Pablo Scholz            5.5
 José Luis Losa         3.5
@@ -2752,6 +2764,7 @@ Gustavo Beck            8
 Ángel Quintana         8.5
 Philipp Engel           9.5
 Juanma Ruíz            7.5
+Damián Hoffman         8
 Pedro Segura            8
 Imma Merino             5
 Carlota Moseguí        8
@@ -3435,6 +3448,7 @@ Alejandro G. Calvo      9
 Xavi Serra              8.5
 Boris Nelepo            6.5
 Carlos F. Heredero      7
+Pamela Bienzobas        6
 Sergi Sanchez           4
 Ronald Rovers           9.5
 Eulalia Iglesias        8
@@ -3444,10 +3458,11 @@ José Luis Losa         8
 Ángel Quintana         5
 Alejandra Trelles       4
 Juanma Ruíz            7.5
+Damián Hoffman         6
 Pedro Segura            1
 Nicolás Kusmin         6.5
 Imma Merino             3
-Carlota Moseguí        3
+Carlota Moseguí        3.5
 Agustín Mango          5
 # critic.de
 Andrey Arnold         6
@@ -3602,7 +3617,7 @@ Marcelo Alderete        8
 Fernando Ganzo          9
 Alejandro G. Calvo      7.5
 Xavi Serra              5.5
-Boris Nelepo            7
+Boris Nelepo            7.5
 Carlos F. Heredero      7.5
 Sergi Sanchez           7
 Eulalia Iglesias        8.5
@@ -3611,7 +3626,7 @@ José Luis Losa         7.5
 Ángel Quintana         8.5
 Alejandra Trelles       7
 Philipp Engel           7
-Juanma Ruíz            7
+Juanma Ruíz            8
 Damián Hoffman         4.5
 Nicolás Kusmin         6.5
 Imma Merino             8
@@ -3705,7 +3720,7 @@ Cecilia Barrionuevo     8.5
 Luciano Monteagudo      8.5
 Marcelo Alderete        8
 Alejandro G. Calvo      8.5
-Boris Nelepo            8   http://www.svoboda.org/a/28499366.html
+Boris Nelepo            8.5   http://www.svoboda.org/a/28499366.html
 Carlos F. Heredero      6
 Ronald Rovers           8
 Eulalia Iglesias        7.5
@@ -3715,7 +3730,7 @@ Gustavo Beck            8
 Alejandra Trelles       8
 Damián Hoffman         8
 Nicolás Kusmin         7.5
-Carlota Moseguí        7
+Carlota Moseguí        7.5
 # critic.de
 Andrey Arnold         9
 Frédéric Jaeger       9     http://www.critic.de/film/western-11027/
@@ -3792,6 +3807,7 @@ Diego Lerer             7
 Fredy Friedlander       7
 Luciano Monteagudo      6
 Boris Nelepo            6
+Pamela Bienzobas        6
 Pablo Scholz            7
 José Luis Losa         5
 Alejandra Trelles       6.5
@@ -4740,6 +4756,7 @@ Xavi Serra              7
 Carlos F. Heredero      6
 Pamela Bienzobas        7
 Sergi Sanchez           7
+Violeta Kovacsics       7
 Pablo Scholz            7
 José Luis Losa         5
 Gustavo Beck            4
@@ -4891,6 +4908,7 @@ José Luis De Lorenzo   7
 Rüdiger Suchsland      6.5
 Fernando Juan Lima      5.5
 Diego Batlle            7
+Pamela Bienzobas        7
 Eulalia Iglesias        5.5
 Pablo Scholz            6
 José Luis Losa         6
@@ -5084,7 +5102,7 @@ Philipp Engel           8.5
 Juanma Ruíz            8
 Pedro Segura            7.5
 Imma Merino             6
-Carlota Moseguí        8
+Carlota Moseguí        8.5
 # critic.de
 #Pamela Bienzobas     6
 Frédéric Jaeger     7.5
@@ -5333,7 +5351,7 @@ Gustavo Beck            2
 Juanma Ruíz            1.5
 Pedro Segura            7
 Imma Merino             3
-Carlota Moseguí        5.5
+Carlota Moseguí        6.5
 # critic.de
 Andrey Arnold         7.5
 Frédéric Jaeger     5
@@ -5445,7 +5463,7 @@ Fredy Friedlander       7.5
 Pamela Bienzobas        5
 Juanma Ruíz            6.5
 Pedro Segura            2
-Carlota Moseguí        2
+Carlota Moseguí        2.5
 # ics
 Cédric Succivalli     
 David Acacia          
@@ -5791,7 +5809,7 @@ Pamela Bienzobas        6.5
 Gustavo Beck            6
 Ángel Quintana         9.5
 Juanma Ruíz            10
-Pedro Segura            7.5
+Pedro Segura            8
 Carlota Moseguí        9.5
 # ics
 Cédric Succivalli     
@@ -5829,6 +5847,7 @@ Sundance _27_Ratings  7.0  https://cannes-rurban.rhcloud.com/Sundance2017?t=36#3
 # todas
 Fernando Juan Lima      7.5
 Giona Nazzaro           4.5
+Pamela Bienzobas        7
 Juanma Ruíz            4.5
 # critic.de
 Jenny Jecke           6
@@ -6467,7 +6486,7 @@ Gustavo Beck            5
 Pedro Segura            5
 Nicolás Kusmin         8.5
 Imma Merino             10
-Carlota Moseguí        6.5
+Carlota Moseguí        6
 # critic.de
 Frédéric Jaeger     7.5
 #Boris Nelepo         5       http://www.svoboda.org/a/28499366.html
@@ -6774,7 +6793,7 @@ Gustavo Beck            6
 Alejandra Trelles       5
 Philipp Engel           8
 Juanma Ruíz            6.5
-Pedro Segura            9
+Pedro Segura            9.5
 Nicolás Kusmin         5.5
 Imma Merino             6
 Carlota Moseguí        7.5
@@ -7269,7 +7288,7 @@ Fernando Juan Lima      6
 Diego Lerer             7
 Fredy Friedlander       6
 Giona Nazzaro           8.5
-Diego Batlle            6
+Diego Batlle            6.5
 Alex Vicente            5
 Marcelo Alderete        5.5
 Fernando Ganzo          5
