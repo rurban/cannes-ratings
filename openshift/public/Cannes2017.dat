@@ -1594,6 +1594,7 @@ Ronald Rovers           7
 Eulalia Iglesias        7
 Violeta Kovacsics       5.5
 Luciano Barisone        4
+Pablo Scholz            4.5
 José Luis Losa         8.5
 Ángel Quintana         5
 Philipp Engel           6.5
@@ -2010,6 +2011,7 @@ Ronald Rovers           5
 Eulalia Iglesias        7.5
 Violeta Kovacsics       9
 Luciano Barisone        7
+Pablo Scholz            5.5
 José Luis Losa         8
 Gustavo Beck            8
 Ángel Quintana         7
@@ -2171,6 +2173,7 @@ Carlos F. Heredero      5
 Sergi Sanchez           6.5
 Eulalia Iglesias        3.5
 Luciano Barisone        9
+Pablo Scholz            6.5
 José Luis Losa         5
 Ángel Quintana         5.5
 Philipp Engel           4.5
@@ -2337,6 +2340,7 @@ Carlos F. Heredero      7
 Pamela Bienzobas        6
 Ronald Rovers           5
 Eulalia Iglesias        8
+Pablo Scholz            7
 José Luis Losa         9
 Gustavo Beck            4
 Ángel Quintana         7.5
@@ -2549,6 +2553,7 @@ Carlos F. Heredero      5
 Pamela Bienzobas        4
 Sergi Sanchez           4
 Eulalia Iglesias        5.5
+Pablo Scholz            3.5
 José Luis Losa         3
 Ángel Quintana         8
 Alejandra Trelles       4.5
@@ -2696,6 +2701,7 @@ Sergi Sanchez           8
 Ronald Rovers           7.5
 Eulalia Iglesias        7
 Luciano Barisone        8
+Pablo Scholz            5.5
 José Luis Losa         3.5
 Gustavo Beck            8
 Ángel Quintana         8.5
@@ -2879,6 +2885,7 @@ Pamela Bienzobas        6.5
 Sergi Sanchez           5
 Eulalia Iglesias        6
 Luciano Barisone        5
+Pablo Scholz            3.5
 Gustavo Beck            2
 Ángel Quintana         5
 Alejandra Trelles       1
@@ -3020,15 +3027,18 @@ Fionnuala Halligan          http://www.screendaily.com/festivals/cannes/cannes-2
 Roger Koza              1
 Jaime Pena              2
 José Luis De Lorenzo   4
+Fernando Juan Lima      3
 Diego Lerer             4
 Fredy Friedlander       6
 Diego Batlle            4
+Luciano Monteagudo      4
 Xavi Serra              1
 Boris Nelepo            4
 Carlos F. Heredero      1.5
 Sergi Sanchez           3
 Ronald Rovers           4
 Eulalia Iglesias        1.5
+Pablo Scholz            6
 José Luis Losa         1
 Ángel Quintana         1
 Philipp Engel           4
@@ -3170,10 +3180,12 @@ Fionnuala Halligan          http://www.screendaily.com/festivals/cannes/cannes-2
 Roger Koza              1.5
 Jaime Pena              4.5
 José Luis De Lorenzo   6
+Fernando Juan Lima      6
 Diego Lerer             6
 Fredy Friedlander       5.5
 Diego Batlle            6.5
 Manu Yañez             5
+Luciano Monteagudo      5
 Alex Vicente            3
 Marcelo Alderete        0.5
 Fernando Ganzo          5.5
@@ -3185,6 +3197,7 @@ Pamela Bienzobas        4.5
 Sergi Sanchez           5
 Ronald Rovers           7.5
 Eulalia Iglesias        6
+Pablo Scholz            5.5
 José Luis Losa         8.5
 Gustavo Beck            1
 Ángel Quintana         6.5
@@ -3335,11 +3348,14 @@ Fionnuala Halligan          http://www.screendaily.com/festivals/cannes/cannes-2
 # todas
 Roger Koza              1.5
 Jaime Pena              1.5
+Daniel Kasman           6.5
 José Luis De Lorenzo   6
+Fernando Juan Lima      1
 Diego Lerer             4.5
 Fredy Friedlander       6
 Diego Batlle            4.5
 Manu Yañez             4
+Luciano Monteagudo      4
 Alex Vicente            6.5
 Marcelo Alderete        2.5
 Alejandro G. Calvo      9
@@ -3349,6 +3365,7 @@ Carlos F. Heredero      7
 Sergi Sanchez           4
 Ronald Rovers           9.5
 Eulalia Iglesias        8
+Pablo Scholz            5
 José Luis Losa         8
 Ángel Quintana         5
 Alejandra Trelles       4
@@ -3684,8 +3701,14 @@ Deborah Young               http://www.hollywoodreporter.com/review/a-man-integr
 Alissa Simon                http://variety.com/2017/film/reviews/a-man-of-integrity-review-1202438230/
 # todas
 José Luis De Lorenzo   6
+Diego Lerer             7
+Fredy Friedlander       7
+Luciano Monteagudo      6
+Boris Nelepo            6
+Pablo Scholz            7
 José Luis Losa         5
 Alejandra Trelles       6.5
+Carlota Moseguí        6
 # critic.de
 Frédéric Jaeger     4
 Michael Kienzl        4
@@ -3930,11 +3953,14 @@ Jaime Pena              6
 José Luis De Lorenzo   4
 Rüdiger Suchsland      6.5
 Diego Lerer             7
+Fredy Friedlander       6.5
+Luciano Monteagudo      7
 Alejandro G. Calvo      7
 Xavi Serra              7.5
 Boris Nelepo            2
 Carlos F. Heredero      6.5
 Eulalia Iglesias        5.5
+Pablo Scholz            7.5
 Ángel Quintana         6
 Juanma Ruíz            7
 Damián Hoffman         4
@@ -4178,6 +4204,7 @@ Jordan Mintzer              http://www.hollywoodreporter.com/review/birds-return
 # todas
 Jaime Pena              7.5
 José Luis De Lorenzo   3
+Fernando Juan Lima      7.5
 José Luis Losa         6
 Ángel Quintana         7.5
 Damián Hoffman         3
@@ -4324,6 +4351,7 @@ Wendy Ide                   http://www.screendaily.com/reviews/out-cannes-review
 Leslie Felperin             http://www.hollywoodreporter.com/review/review-1007125
 Alissa Simon                http://variety.com/2017/film/reviews/out-review-1202439192/
 # todas
+Fernando Juan Lima      4.5
 Boris Nelepo            4
 José Luis Losa         5
 Nicolás Kusmin         5
@@ -4518,7 +4546,7 @@ Fernando Ganzo          8.5
 Alejandro G. Calvo      9
 Boris Nelepo            8.5
 Eulalia Iglesias        8
-José Luis Losa         4
+José Luis Losa         5.5
 Gustavo Beck            6
 Carlota Moseguí        9
 Agustín Mango          8
@@ -4605,6 +4633,7 @@ Xavi Serra              7
 Carlos F. Heredero      6
 Pamela Bienzobas        7
 Sergi Sanchez           7
+Pablo Scholz            7
 José Luis Losa         5
 Gustavo Beck            4
 Ángel Quintana         6
@@ -4678,6 +4707,7 @@ Lee Marshall              http://www.screendaily.com/reviews/the-desert-bride-ca
 # todas
 Roger Koza              5
 Jaime Pena              5
+Fernando Juan Lima      6.5
 Diego Lerer             5
 Fredy Friedlander       7.5
 Diego Batlle            6.5
@@ -4685,6 +4715,7 @@ Luciano Monteagudo      5
 Boris Nelepo            6
 Carlos F. Heredero      6.5
 Eulalia Iglesias        5.5
+Pablo Scholz            6.5
 José Luis Losa         6.5
 Gustavo Beck            3
 Ángel Quintana         5.5
@@ -4749,8 +4780,10 @@ edissa              2
 # todas
 Jaime Pena              5.5
 José Luis De Lorenzo   7
+Fernando Juan Lima      5.5
 Diego Batlle            7
 Eulalia Iglesias        5.5
+Pablo Scholz            6
 José Luis Losa         6
 Alejandra Trelles       6
 Damián Hoffman         7
@@ -4835,6 +4868,7 @@ Gustavo Beck            5
 Ángel Quintana         8
 Philipp Engel           9
 Juanma Ruíz            4
+Pedro Segura            7.5
 Imma Merino             7
 Carlota Moseguí        7
 Agustín Mango          8
@@ -4992,8 +5026,10 @@ Guy Lodge                   http://variety.com/2017/film/reviews/a-ciambra-revie
 # todas
 Roger Koza              6
 Daniel Kasman           6.5
+Fernando Juan Lima      8
 Diego Lerer             8.5
 Giona Nazzaro           9
+Diego Batlle            8.5
 Cecilia Barrionuevo     7
 Fernando Ganzo          5
 Pamela Bienzobas        8.5
@@ -5001,6 +5037,7 @@ Luciano Barisone        8.5
 Gustavo Beck            6
 Juanma Ruíz            6.5
 Pedro Segura            4
+Carlota Moseguí        6
 # critic.de
 #Pamela Bienzobas     7.5
 #Daniel Kasman         6
@@ -5033,6 +5070,7 @@ Fionnuala Halligan        http://www.screendaily.com/reviews/the-rider-cannes-re
 Sam Gray            7     http://www.theupcoming.co.uk/2017/05/20/cannes-film-festival-2017-the-rider-review/
 Todd McCarthy             http://www.hollywoodreporter.com/review/rider-review-1006204
 # todas
+Fernando Juan Lima      4
 José Luis Losa         6
 Gustavo Beck            3
 Alejandra Trelles       4.5
@@ -5329,7 +5367,7 @@ Tim Grierson              http://www.screendaily.com/reviews/the-florida-project
 David Rooney              http://www.hollywoodreporter.com/review/florida-project-cannes-2017-1006653
 Maria Wiesner             http://www.kino-zeit.de/blog/cannes/cannes-2017-florida-project-von-sean-baker
 # todas
-Roger Koza              7
+Roger Koza              7.5
 Jaime Pena              8.5
 Daniel Kasman           7
 Fernando Juan Lima      8.5
@@ -5337,6 +5375,7 @@ Diego Lerer             7
 Giona Nazzaro           9
 Diego Batlle            8
 Manu Yañez             8
+Marcelo Alderete        8
 Fernando Ganzo          6
 Xavi Serra              9
 Boris Nelepo            7.5
@@ -5345,6 +5384,7 @@ Pamela Bienzobas        7
 Eulalia Iglesias        8
 Violeta Kovacsics       8.5
 Luciano Barisone        7.5
+José Luis Losa         7.5
 Ángel Quintana         8.5
 Alejandra Trelles       8.5
 Philipp Engel           8
@@ -5609,6 +5649,7 @@ Jonathan Romney         http://www.screendaily.com/reviews/the-nothing-factory-c
 Roger Koza              9
 Jaime Pena              9
 Daniel Kasman           7
+Fernando Juan Lima      9
 Giona Nazzaro           9
 Carlos F. Heredero      9
 Pamela Bienzobas        6.5
@@ -5650,6 +5691,7 @@ Blake Williams      7
 
 Sundance _27_Ratings  7.0  https://cannes-rurban.rhcloud.com/Sundance2017?t=36#36
 # todas
+Fernando Juan Lima      7.5
 Giona Nazzaro           4.5
 Juanma Ruíz            4.5
 # critic.de
@@ -6730,7 +6772,7 @@ Allan Hunter            http://www.screendaily.com/reviews/the-villainess-cannes
 Deborah Young           http://www.hollywoodreporter.com/review/villainess-review-1006369
 # todas
 José Luis De Lorenzo   8.5
-Fernando Juan Lima      7
+Fernando Juan Lima      8
 Marcelo Alderete        5
 Alejandro G. Calvo      7.5
 Damián Hoffman         8.5
@@ -6842,6 +6884,7 @@ Marcelo Alderete        6
 Boris Nelepo            7   http://www.svoboda.org/a/28509176.html
 Carlos F. Heredero      8.5
 Eulalia Iglesias        7
+Pablo Scholz            6
 Gustavo Beck            2
 Ángel Quintana         9.5
 Philipp Engel           9.5
@@ -6910,6 +6953,7 @@ Marco Visca         2
 Diego Batlle            8
 Xavi Serra              7
 Eulalia Iglesias        7.5
+Pablo Scholz            6.5
 José Luis Losa         6.5
 Imma Merino             8
 # ics
@@ -6949,6 +6993,7 @@ Pablo Villaça      3
 Jason Bechervaise       http://www.screendaily.com/reviews/the-merciless-cannes-review/5118484.article?blocktitle=MIDNIGHT/SPECIAL-SCREENINGS&contentID=40444
 Stephen Dalton          http://www.hollywoodreporter.com/review/merciless-review-1007581
 # todas
+Fernando Juan Lima      8
 Marcelo Alderete        4
 Alejandro G. Calvo      6
 Philipp Engel           5
@@ -6984,17 +7029,20 @@ Liz Shannon Miller        http://www.indiewire.com/2017/05/twin-peaks-review-sea
 Roger Koza              9
 Jaime Pena              9
 José Luis De Lorenzo   8
+Fernando Juan Lima      9
 Diego Lerer             9
 Giona Nazzaro           9.5
 Diego Batlle            9
+Luciano Monteagudo      8
 Marcelo Alderete        9
-Fernando Ganzo          9
+Fernando Ganzo          10
 Alejandro G. Calvo      10
 Xavi Serra              10
 Boris Nelepo            8
 Carlos F. Heredero      6
 Pamela Bienzobas        9.5
 Sergi Sanchez           10
+Pablo Scholz            8
 José Luis Losa         10
 Ángel Quintana         9.5
 Juanma Ruíz            10
@@ -7052,16 +7100,21 @@ Deborah Young           http://www.hollywoodreporter.com/review/based-a-true-sto
 Jonathan Romney         http://www.screendaily.com/reviews/based-on-a-true-story-cannes-review/5118567.article?blocktitle=OUT-OF-COMPETITION&contentID=40440
 Peter Debruge           http://variety.com/2017/film/reviews/based-on-a-true-story-review-roman-polanski-1202446485/
 # todas
-Roger Koza              5.5
+Roger Koza              5
 Jaime Pena              6.5
+José Luis De Lorenzo   5
+Fernando Juan Lima      6
 Diego Lerer             8
+Fredy Friedlander       6
 Giona Nazzaro           8.5
 Diego Batlle            6
 Alex Vicente            5
+Marcelo Alderete        5.5
 Fernando Ganzo          5
 Boris Nelepo            6
 Sergi Sanchez           6
 Eulalia Iglesias        7
+Pablo Scholz            6.5
 José Luis Losa         7.5
 Ángel Quintana         7.5
 Alejandra Trelles       5.5
