@@ -1135,7 +1135,7 @@ Li Yunbo            9
 Liuying             7.5
 #letterboxd
 Zane Timonina       10   https://letterboxd.com/zanet/film/the-square-2017/
-Maëva              10   https://letterboxd.com/reggielampert/film/the-square-2017/
+Maëva Saint-Albin   10   https://letterboxd.com/reggielampert/film/the-square-2017/
 Aaron Salazar       10   https://letterboxd.com/whocaresdad/film/the-square-2017/
 Laurent de Alberti  10
 TheMovieWaffler.com 9   https://letterboxd.com/themoviewaffler/film/the-square-2017/
@@ -1513,7 +1513,7 @@ Liuying             7.5
 #letterboxd
 Jangorama           8
 franniedeckas       8
-Maëva              8
+Maëva Saint-Albin   8
 Eli Hayes           8
 Henry Heistand      7
 Truman2712          7
@@ -1700,7 +1700,7 @@ hedasphyxie         10
 Pablo Villaça      10
 monkeybox83         10
 Laurent de Alberti  10
-Maëva              10   https://letterboxd.com/reggielampert/film/the-killing-of-a-sacred-deer/
+Maëva Saint-Albin   10   https://letterboxd.com/reggielampert/film/the-killing-of-a-sacred-deer/
 higorbralim         10
 Kiarash Anvari      10
 Giovani Gasparetto  10
@@ -1926,7 +1926,7 @@ Dave Jenkins        8
 BillyWildest        8
 Laurent de Alberti  8
 Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/happy-end-2017/
-Maëva              8
+Maëva Saint-Albin   8
 Zane Timonina       8   https://letterboxd.com/zanet/film/happy-end-2017/
 Txarles             8
 Chad Eberle         8   https://letterboxd.com/chadeberle/film/happy-end-2017/
@@ -2265,7 +2265,7 @@ Qin Wan             7.5
 Li Yunbo            2.5
 Liuying             2.5
 #letterboxd
-Maëva              10   https://letterboxd.com/reggielampert/film/radiance-2017/
+Maëva Saint-Albin   10   https://letterboxd.com/reggielampert/film/radiance-2017/
 BrunoD              10
 Laurent de Alberti  9
 Eren Odabasi        8   https://letterboxd.com/erenodabasi/film/radiance-2017/
@@ -2646,7 +2646,7 @@ Li Yunbo            1
 Liuying             5
 #letterboxd
 Felcie              8
-Maëva              7
+Maëva Saint-Albin   7
 Pablo Villaça      7
 KlaasRommelaere     6
 linyaya             6
@@ -2817,7 +2817,7 @@ Laurent de Alberti  8
 onozorobi           8
 Katherine McLaughlin 8
 Martyn Conterio     8
-Maëva              8
+Maëva Saint-Albin   8
 edissa              8
 marg_oh             7
 KvnM                7
@@ -3136,7 +3136,7 @@ Liuying
 vinminsituation     10
 ChristineT          9
 Alban_R             8
-Maëva              8   https://letterboxd.com/reggielampert/film/in-the-fade/
+Maëva Saint-Albin   8   https://letterboxd.com/reggielampert/film/in-the-fade/
 Arvena              8
 Benedict Seal       8
 Shelby              8
@@ -3296,7 +3296,7 @@ Qin Wan             9
 Li Yunbo            2.5
 Liuying             2.5
 #letterboxd
-Maëva              9
+Maëva Saint-Albin   9
 Pablo Villaça      9
 onozorobi           9
 Saymon Nascimento   9   https://letterboxd.com/saymon_n/film/lamant-double/
@@ -3472,7 +3472,7 @@ John Tikis          9
 Matt Hoffman        9
 Eren Odabasi        8   https://letterboxd.com/erenodabasi/film/you-were-never-really-here/
 Shelby              8
-Maëva              8
+Maëva Saint-Albin   8
 Txarles             8
 Pieter Vermeersch   8
 Zane Timonina       8
@@ -4327,7 +4327,7 @@ Juan Soto           9
 Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/the-workshop-2017/
 Eli Hayes           8   https://letterboxd.com/elihayes/film/the-workshop-2017/
 Daphne Passa        8   https://letterboxd.com/daphnee/film/the-workshop-2017/
-Maëva              7
+Maëva Saint-Albin   7
 Benedict Seal       7
 John Tikis          7
 onozorobi           6
@@ -5303,7 +5303,7 @@ Aaron Salazar       8   https://letterboxd.com/whocaresdad/film/mobile-homes/
 marg_oh             7
 Jangorama           7
 Pieter Vermeersch   7
-Maëva              6
+Maëva Saint-Albin   6
 Eli Hayes           5   https://letterboxd.com/elihayes/film/mobile-homes/
 Antoine Waked       5
 Niels Putman        4
@@ -5802,7 +5802,7 @@ Isabelle Regnier      5
 #letterboxd
 Crayfish            9
 Martyn Conterio     8
-Maëva              7
+Maëva Saint-Albin   7
 Matilda Muybridge   7
 Gerard Casau        7
 Elie                6   https://letterboxd.com/elie/film/ava/
@@ -7857,6 +7857,7 @@ the_gaffer (, Deutschland)
 Marie-Laure Tittley (Festival project manager, Canada)
 Ariel Esteban Cayer (Festival programmer, Canada)
 Chad Eberle (Blogger, USA)
+Maëva Saint-Albin (Blogger, France)
 ";
 
 our $HEADER = <<"EOF";
