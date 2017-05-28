@@ -102,7 +102,7 @@ sub _read {
       }
       next unless $critic;
       $critic =~ s/\s+$//;
-      $title{$title}->{critic}->{$critic} = [];
+      $title{$title}->{critic}->{$critic} = [] unless $title{$title}->{critic}->{$critic};
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
