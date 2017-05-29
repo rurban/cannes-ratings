@@ -552,7 +552,7 @@ veroniquesacri      7
 Blake Williams      7
 Etsuko              7
 Dillon Freeman      7
-fightclubitis       7       https://letterboxd.com/fightclubitis/film/slack-bay/
+Alexis Chrys        7       https://letterboxd.com/fightclubitis/film/slack-bay/
 Pieter Vermeersch   7
 Screen-Space        7
 Matt Hoffman        7
@@ -736,7 +736,7 @@ Chuchaqui           6
 Pieter Vermeersch   6
 Niels Putman        6
 Katherine McLaughlin 6
-fightclubitis       5
+Alexis Chrys        5
 Flamenca Stone      5
 Mike d'Angelo       5
 Antoine Waked       4
@@ -873,7 +873,7 @@ Katherine McLaughlin 9
 Eli Hayes           9       https://letterboxd.com/elihayes/film/the-handmaiden/
 tombeet             9
 Zac Goldkind        8
-fightclubitis       8       https://letterboxd.com/fightclubitis/film/the-handmaiden/
+Alexis Chrys        8       https://letterboxd.com/fightclubitis/film/the-handmaiden/
 Luke Driscoll       8
 Gerhard Maier       8
 Joseph Wythe        8
@@ -1378,7 +1378,7 @@ tombeet             8
 AEC                 8
 Niels Putman        8
 Pieter Vermeersch   8
-fightclubitis       7
+Alexis Chrys        7
 EZULC               7
 Adam Norbury        7
 Jake Anderson       6       https://letterboxd.com/jwanderson006/film/american-honey/
@@ -2074,7 +2074,7 @@ Joseph Wythe        8
 Laurent de Alberti    8
 monkeybox83         8
 Screen-Space        8
-fightclubitis       7
+Alexis Chrys        7
 Simon               7
 tombeet             7
 James Healey        7       https://letterboxd.com/jameshealey/film/personal-shopper/
@@ -2248,7 +2248,7 @@ Dillon Freeman      8       https://letterboxd.com/dillonf/film/aquarius/
 Florent Boutet      8
 Andy Malafaia       8
 Flamenca Stone      7
-fightclubitis       7       https://letterboxd.com/fightclubitis/film/aquarius/
+Alexis Chrys        7       https://letterboxd.com/fightclubitis/film/aquarius/
 Casey Pegram        7       https://letterboxd.com/oedipax/film/aquarius/
 blackdavid _        7
 Ruan Canniza        7
@@ -2407,7 +2407,7 @@ Chuchaqui           7
 Frederico Machado   7
 Dave Jenkins        7
 karamazov           7
-fightclubitis       6       https://letterboxd.com/fightclubitis/film/the-unknown-girl/
+Alexis Chrys        6       https://letterboxd.com/fightclubitis/film/the-unknown-girl/
 Pablo Villaça      6
 Jangorama           6
 Niels Putman        6
@@ -5404,7 +5404,7 @@ Dave Jenkins        6
 Audiences Everywhere 6
 Dillon Freeman      6
 Eli Hayes           6
-fightclubitis       6
+Alexis Chrys        6
 Martyn Conterio     6
 Etsuko              6
 Serena Catalano     6
@@ -5618,7 +5618,7 @@ Eithne              4
 Dave Jenkins        3
 Crayfish            3
 danvat              3
-fightclubitis       2
+Alexis Chrys        2
 karamazov           2
 
 "EXIL" (Rithy Panh) [Out Of Competition] Special Screening
@@ -6109,6 +6109,7 @@ Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/
 Andrea Picard (TIFF, Cinema Scope, Canada)
 Kong Rithdee (The Bangkok Post, Thailand) 
 Guillaume Muyan Wang (‎Cinemaround, China)
+Carlota Moseguí (El Septimo Arte, España)
 ";
 $critics_group[1] = "ioncinema";
 $critics[1] = "
@@ -6410,21 +6411,41 @@ Sergio Wolf (BAFICI, Argentina)
 Thomas Fioretti (Independencia, France) 
 Guido Castillo (Freelance, España)
 Cecilia Martinez (A Sala Llena Online, Argentina) 
-Jose Luis De Lorenzo (A Sala Llena, Argentina) 
+José Luis De Lorenzo (A Sala Llena, Argentina) 
 ";
 $critics_group[8] = "Letterboxd";
 $critics[8] = "
+Aaron Salazar (Filmmaker, USA)
+Alexis Chrys (Filmbuff, Greece)
+Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
+Ariel Esteban Cayer (Festival programmer, Canada)
+Bernardo Pajares (losextras.es, España)
+Carlos Elorza (www.lafinestradigital.com, elcontraplano.com, España)
+Chad Eberle (Blogger, USA)
+Dion Wyn (www.thatmovieguy.co.uk, UK)
+Eli Hayes (Filmmaker, USA)
 Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
-Serena Catalano (Movieplayer.it, France)
-Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
-John Tikis (Musician, Greece)
-Sam C. Mac (Slant Magazine, USA)
-Lydia Milano (Rap videos, USA)
-Sam Gray (Film maker, UK)
-Pablo Villaça (Cinema em Cena, Brasilien)
-Aaron Salazar (Filmmaker, US)
-Laurent de Alberti (filmlandempire.com, UK)
 Hugo Emmerzael (De Filmkrant, Netherlands)
+Jessica Ellicot (fourthreefilm.com, Australia)
+John Tikis (Musician, Greece)
+Laurent de Alberti (filmlandempire.com, UK)
+Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
+Lydia Milano (Rap videos, USA)
+Marie-Laure Tittley (Festival project manager, Canada)
+Maëva Saint-Albin (Blogger, France)
+Neil Bahadur (Director, Canada)
+Nicolas Courdouan (Director+Writer, France)
+Pablo Villaça (Cinema em Cena, Brasilien)
+Philippe Paturel (www.cinemaforever.net, Deutschland)
+Pieter Vermeersch (Freelance Director, Belgium)
+Sam C. Mac (Slant Magazine, USA)
+Sam Gray (Film maker, UK)
+Serena Catalano (Movieplayer.it, France)
+Truman2712  (filmstarts.de, Deutschland)
+animalium (?, France)
+citizenlime (?, UK)
+monkeybox83 (?, Deutschland)
+the_gaffer (?, Deutschland)
 ";
 # former apichatpoll members
 #$critics[9] = "
