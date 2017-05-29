@@ -214,7 +214,7 @@ karamazov           7
 megalomano          6   https://letterboxd.com/megalomano/film/wonderstruck/
 Dave Jenkins        6
 Florent Boutet      6
-jellicott           6
+Jessica Ellicot     6
 TheMovieWaffler.com 6   https://letterboxd.com/themoviewaffler/film/wonderstruck/
 Michael Bishay      6
 Sam Gray            6   https://letterboxd.com/sam_gray/film/wonderstruck/
@@ -1389,7 +1389,7 @@ klaaargh            9
 Matt Hoffman        9
 Crayfish            9
 maragibson          8
-jellicott           8
+Jessica Ellicot     8
 Eli Hayes           8   https://letterboxd.com/elihayes/film/the-meyerowitz-stories/
 Katherine McLaughlin 8
 Jangorama           8
@@ -2953,7 +2953,7 @@ Maëva Saint-Albin   8
 edissa              8
 Carlito             7
 fightclubitis       7   https://letterboxd.com/fightclubitis/film/good-time/
-jellicott           7
+Jessica Ellicot     7
 marg_oh             7
 KvnM                7
 Josh Cabrita        7
@@ -3659,7 +3659,7 @@ Dave Jenkins        9
 John Tikis          9
 Matt Hoffman        9
 Annalise Lamberty   8
-jellicott           8
+Jessica Ellicot     8
 Eren Odabasi        8   https://letterboxd.com/erenodabasi/film/you-were-never-really-here/
 Shelby              8
 Maëva Saint-Albin   8
@@ -3880,7 +3880,7 @@ Laurent de Alberti  8
 Tanner Stechnij     8
 Matilda Muybridge   8
 Michael Bo          8
-jellicott           7
+Jessica Ellicot     7
 Carlos Elorza        7
 Vahid Mortazavi     7
 Eren Odabasi        7   https://letterboxd.com/erenodabasi/film/western-2017/
@@ -4838,7 +4838,7 @@ Carlos Elorza        7
 Lawrence Garcia     7
 Aaron Salazar       7   https://letterboxd.com/whocaresdad/film/closeness/
 Philippe Paturel    7
-jellicott           6
+Jessica Ellicot     6
 Pieter Vermeersch   6
 Chad Eberle         6   https://letterboxd.com/chadeberle/film/closeness/
 Blake Williams      5
@@ -5157,7 +5157,7 @@ kathy               8   https://letterboxd.com/beigel/film/let-the-sunshine-in/
 Kurt Walker         8
 Crayfish            8
 Lawrence Garcia     7
-jellicott           7
+Jessica Ellicot     7
 Chad Eberle         7
 edissa              7
 Carlota Moseguí     7
@@ -5427,7 +5427,7 @@ Giovani Gasparetto  7
 Carlota Moseguí     7
 Dave Jenkins        6
 Gerard Casau        6
-jellicott           5
+Jessica Ellicot     5
 Ariel Esteban Cayer 5
 Blake Williams      5
 Kurt Walker         4
@@ -5507,7 +5507,7 @@ Philippe Paturel    8
 Vahid Mortazavi     8
 Crayfish            8
 Sam C. Mac          7   https://letterboxd.com/samcmac/film/jeannette-the-childhood-of-joan-of-arc/
-jellicott           7
+Jessica Ellicot     7
 thiedig             7
 Aaron Salazar       7   https://letterboxd.com/whocaresdad/film/jeannette-the-childhood-of-joan-of-arc/
 Elie                7
@@ -5713,7 +5713,7 @@ Chad Eberle         8
 A.A. Dowd           8
 Hugo Emmerzael      8
 thiedig             8
-jellicott           7
+Jessica Ellicot     7
 Josh Cabrita        7
 Matt Hoffman        7
 BrunoD              7
@@ -6658,7 +6658,7 @@ Josh Cabrita        8
 Philippe Paturel    8
 b gudivada          8
 edissa              8
-jellicott           7
+Jessica Ellicot     7
 Carlos Elorza        7
 Blake Williams      7
 Vahid Mortazavi     7
@@ -6981,7 +6981,7 @@ Laurent de Alberti  8
 Mikko Pihkoluoma    8   https://letterboxd.com/mikkopihkoluoma/film/claires-camera/
 Matilda Muybridge   8
 Sun Joaquim         8
-jellicott           7
+Jessica Ellicot     7
 Katherine McLaughlin 7
 Aaron Salazar       7   https://letterboxd.com/whocaresdad/film/claires-camera/
 Sam C. Mac          7   https://letterboxd.com/samcmac/film/claires-camera/
@@ -7248,7 +7248,7 @@ Pablo Villaça       7
 Elie                7
 Crayfish            7
 Tommaso Tocci       6
-jellicott           6
+Jessica Ellicot     6
 Vahid Mortazavi     6
 Sam C. Mac          6
 Giovani Gasparetto  6
@@ -7487,7 +7487,7 @@ Josh Cabrita        6
 Blake Williams      5
 Ricardo Leite       5
 the_gaffer          5
-jellicott           5
+Jessica Ellicot     5
 Lawrence Garcia     5
 edissa              5
 Truman2712          5
@@ -8201,6 +8201,7 @@ Bernardo Pajares (losextras.es, España)
 Pieter Vermeersch (Freelance Director, Belgium)
 Philippe Paturel (www.cinemaforever.net, Deutschland)
 Carlos Elorza (www.lafinestradigital.com, elcontraplano.com, España)
+Jessica Ellicot (fourthreefilm.com, Australia)
 ";
 
 our $HEADER = <<"EOF";
