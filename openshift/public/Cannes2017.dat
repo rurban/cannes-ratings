@@ -1224,7 +1224,7 @@ Zane Timonina       10   https://letterboxd.com/zanet/film/the-square-2017/
 Maëva Saint-Albin   10   https://letterboxd.com/reggielampert/film/the-square-2017/
 Aaron Salazar       10   https://letterboxd.com/whocaresdad/film/the-square-2017/
 Laurent de Alberti  10
-Nate Buzelli        9
+Nathanael Buzelli   9
 Sebastian Quevedo   9
 TheMovieWaffler.com 9   https://letterboxd.com/themoviewaffler/film/the-square-2017/
 Michael Bishay      9
@@ -1435,7 +1435,7 @@ Eli Hayes           8   https://letterboxd.com/elihayes/film/the-meyerowitz-stor
 Katherine McLaughlin 8
 Jangorama           8
 MatsT               8
-Nate Buzelli        8   https://letterboxd.com/civerts/film/the-meyerowitz-stories/
+Nathanael Buzelli   8   https://letterboxd.com/civerts/film/the-meyerowitz-stories/
 Chad Eberle         8   https://letterboxd.com/chadeberle/film/the-meyerowitz-stories/
 Gerard Casau        8
 Serena Catalano     8   https://letterboxd.com/serena/film/the-meyerowitz-stories/
@@ -1860,7 +1860,7 @@ MatsT               8
 BillyWildest        8
 Anna Bananna        8
 Carlito             8
-Nate Buzelli        8
+Nathanael Buzelli   8
 WiktorWiktor        8
 Chad Eberle         8   https://letterboxd.com/chadeberle/film/the-killing-of-a-sacred-deer/
 Chris Haydon        8
@@ -2062,7 +2062,7 @@ John Tikis          10
 Mikko Pihkoluoma    10   https://letterboxd.com/mikkopihkoluoma/film/happy-end-2017/
 tom_bond            9   https://letterboxd.com/tom_bond/film/happy-end-2017/
 Daphne Passa        9   https://letterboxd.com/daphnee/film/happy-end-2017/
-Nate Buzelli        9
+Nathanael Buzelli   9
 Truman2712          9
 Alice               8
 Vincent Martini     8   https://letterboxd.com/jakehannaford/film/happy-end-2017/
@@ -2713,7 +2713,7 @@ Andy Malafaia       5
 Antoine Waked       5
 Lawrence Garcia     5
 Saymon Nascimento   5   https://letterboxd.com/saymon_n/film/the-beguiled-2017/
-Nate Buzelli        4
+Nathanael Buzelli   4
 Carlota Moseguí     4
 BrunoD              4
 animalium           4
@@ -2860,7 +2860,7 @@ A.A. Dowd           5
 lucies              4
 Carlos Elorza       4
 Luca Pascotto       4
-Nate Buzelli        4
+Nathanael Buzelli   4
 TinkerbellColor     4
 Alexis Chrys        4   https://letterboxd.com/fightclubitis/film/rodin/
 Truman2712          4
@@ -3031,7 +3031,7 @@ Truman2712          9
 the_gaffer          9
 Renata Santoro      8
 Marielle            8
-Nate Buzelli        8
+Nathanael Buzelli   8
 Tommaso Tocci       8
 Patrick Mulcahy     8   https://letterboxd.com/pmulcahy/film/good-time/
 Miranna             8   https://letterboxd.com/miranna/film/good-time/
@@ -3395,7 +3395,7 @@ Li Yunbo            7.5
 Liuying             
 #letterboxd
 Marie-Renée Duguay  9
-Nate Buzelli        9
+Nathanael Buzelli   9
 ChristineT          9
 Vincent Martini     8   https://letterboxd.com/jakehannaford/film/in-the-fade/
 vinminsituation     8
@@ -3780,7 +3780,7 @@ Hugo Emmerzael      10
 Giovani Gasparetto  9
 Benedict Seal       9
 Cornelia Eriksson   9   https://letterboxd.com/idacornelia/film/you-were-never-really-here/
-Nate Buzelli        9
+Nathanael Buzelli   9
 manilazic           9
 marg_oh             9
 Eli Hayes           9   https://letterboxd.com/elihayes/film/you-were-never-really-here/
@@ -8502,6 +8502,8 @@ animalium (?, France)
 citizenlime (?, UK)
 monkeybox83 (?, Deutschland)
 the_gaffer (?, Deutschland)
+Nathanael Buzelli (nathanaelcinema.blogspot.de, Brazil)
+Juan Soto (Filmmaker+Editor, Colombia)
 ";
 
 our $HEADER = <<"EOF";
