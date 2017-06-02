@@ -608,6 +608,9 @@ sub _list {
   }
 }
 
+get '/Berlinale' => sub {
+  _list(2017);
+};
 get '/Berlinale2016' => sub {
   _list(2016);
 };

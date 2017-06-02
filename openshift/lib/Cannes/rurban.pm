@@ -612,6 +612,9 @@ sub _list {
   }
 }
 
+get '/Cannes' => sub {
+  _list(2017);
+};
 get '/Cannes2016' => sub {
   _list(2016);
 };
