@@ -2516,13 +2516,13 @@ US Dramatic Competition: <b>bold</b><br>
 </small><p>
 
 EOF
-#  <br>All sections updated daily.
+#  <br>All sections updated daily during the festival.
 
 our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Berlinale2016.dat
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Berlinale2016.dat
 
 </pre>";
 

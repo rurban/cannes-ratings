@@ -1085,7 +1085,7 @@ Wesley Morris (Grantland, US)
 
 our $HEADER = <<"EOF";
 
-<small>Collected and updated daily by Reini Urban.
+<small>Collected and updated daily during the festival by Reini Urban.
 <br>
 <b>Ratings</b>:<br>
 0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
@@ -1096,7 +1096,7 @@ stddev &gt;2: <i>controversial (italic)</i>.<br>
 &lt;10 ratings: small.<br>
 US Dramatic Competition: <b>bold</b><br>
  <br>
-All sections updated daily. </small><p>
+All sections updated daily during the festival. </small><p>
 
 EOF
 
@@ -1104,7 +1104,7 @@ our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Sundance2015.dat
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2015.dat
 
 </pre>";
 

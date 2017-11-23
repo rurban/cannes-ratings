@@ -37,7 +37,7 @@ function flipAll(name) {
 <body>
 <% content %>
 <div id="footer">
-Powered by <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>, Redhat's free <a href="http://www.openshift.com/">cloud service</a>, a little <a href="http://perl.org/">perl</a> logic and readable  <a href="https://github.com/rurban/cannes-rurban.rhcloud.com/">text files</a>.
+Powered by <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>, Heroku's free <a href="http://www.heroku.com/">cloud service</a>, a little <a href="http://perl.org/">perl</a> logic and readable <a href="https://github.com/rurban/cannes-rurban.rhcloud.com/">text files</a>.
 </div>
 </body>
 </html>

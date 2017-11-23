@@ -1,5 +1,4 @@
-package Cannes::rurban::2013;
-
+package Cannes::rurban::2013; # -*- perl -*-
 #!/usr/bin/perl -- -*- perl -*-
 # Cannes 2013 Critics Ratings
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
@@ -4448,7 +4447,7 @@ Thomas Fioretti (Independencia, France)
 
 our $HEADER = <<"EOF";
 
-<small>Collected and updated daily by Reini Urban from 7 critic polls.
+<small>Collected and updated daily during the festival by Reini Urban from 7 critic polls.
 The ApichatPoll http://www.todaslascriticas.com.ar/cannes (Diego Lerer+Javier Fish) (la crema),
 http://www.ioncinema.com/ (okay),
 Le film français (eclectic),
@@ -4468,7 +4467,7 @@ stddev &gt;2: <i>controversial (italic)</i>.<br>
 &lt;10 ratings: small.<br>
 Competition: <b>bold</b><br>
  <br>
-All sections updated daily. </small><p>
+All sections updated daily during the festival. </small><p>
 
 EOF
 
@@ -4476,7 +4475,7 @@ our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/openshift/public/Cannes2013.dat
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2013.dat
 
 </pre>";
 

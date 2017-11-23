@@ -2867,7 +2867,7 @@ votes, scores and averages.</i> - Diego Lerer<p>
 
 <small>Updated daily from http://micropsia.otroscines.com/ (Diego Lerer), http://www.ioncinema.com/, Mike d Angelo and more US critics.
 Same <a href=" http://www.facebook.com/notes/reini-urban/cannes-2010-critics/10150174713060012">as last year</a>: 0-10 points, only >6.00 avg and >3 international critics [avg/num stddev]. stddev>2: <i>controversial</i>.
-All sections (updated daily, official selection competition: bold)</small><p>
+All sections (updated daily during the festival, official selection competition: bold)</small><p>
 
 EOF
 our $FOOTER = "
