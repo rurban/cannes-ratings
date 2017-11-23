@@ -17,7 +17,7 @@ if ($ENV{'REMOTE_ADDR'} eq '127.0.0.1') {
   set environment => 'production';
 }
 
-my @path = ('..', 'openshift', 'bin', 'app.pl');
+my @path = ('..', 'bin', 'app.pl');
 my $psgi = path($root ? ($root, @path) : @path);
 die "Unable to read startup script: $psgi" unless -r $psgi;
 
