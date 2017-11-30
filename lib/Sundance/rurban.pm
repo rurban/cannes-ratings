@@ -6,12 +6,12 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Sundance';
-our @YEARS = qw(2015 2016 2017);
+our @YEARS = qw(2015 2016 2017 2018);
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
-                 "NEXT", "New Frontier", "Midnight", "Spotlight", "Kids", "Premieres",
+                 "NEXT", "Midnight", "Spotlight", "Kids", "Premieres",
                  "Documentary Premieres", "Special Events", 
-                 "Slamdance");
+                 "Slamdance"); # "New Frontier"
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -609,7 +609,7 @@ sub _list {
 }
 
 get '/Sundance' => sub {
-  _list(2017);
+  _list(2018);
 };
 get '/Sundance2015' => sub {
   _list(2015);
@@ -619,6 +619,9 @@ get '/Sundance2016' => sub {
 };
 get '/Sundance2017' => sub {
   _list(2017);
+};
+get '/Sundance2018' => sub {
+  _list(2018);
 };
 
 get '/SundanceAll' => sub {

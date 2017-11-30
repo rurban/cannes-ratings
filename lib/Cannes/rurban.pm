@@ -680,7 +680,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/2017';
+  redirect '/Sundance2018';
 };
 
 1;
