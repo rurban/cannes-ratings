@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = qw(2016 2017);
+our @YEARS = qw(2016 2017 2018);
 our $comp_section = 'Wettbewerb';
 our @sections = ($comp_section, "Forum", "Panorama", "Generation", 
                  "Perspektive Deutsches Kino", "Forum Expanded", "Special",
@@ -608,14 +608,17 @@ sub _list {
   }
 }
 
-get '/Berlinale' => sub {
-  _list(2017);
-};
 get '/Berlinale2016' => sub {
   _list(2016);
 };
 get '/Berlinale2017' => sub {
   _list(2017);
+};
+get '/Berlinale2018' => sub {
+  _list(2018);
+};
+get '/Berlinale' => sub {
+  _list(2018);
 };
 
 get '/BerlinaleAll' => sub {
@@ -643,9 +646,9 @@ get '/BerlinaleAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2016-2017";
+  $all->{year} = "2016-2018";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2017::critics_group"});
+                                       \@{"$BASE\::rurban::2018::critics_group"});
   template lc($BASE), $all;
 };
 

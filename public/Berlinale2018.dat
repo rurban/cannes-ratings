@@ -1,0 +1,183 @@
+package Berlinale::rurban::2018; # -*- perl -*-
+#!/usr/bin/perl
+# Berlinale 2018 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+
+use utf8;
+our $DATA= <<'EOF';
+
+Wettbewerb
+Forum
+Panorama
+Generation
+Perspektive Deutsches Kino
+Forum Expanded
+Special
+Native
+Retrospektive
+Woche der Kritik
+
+"Isle of Dogs" (Wes Anderson, USA)  [Wettbewerb]
+ Eröffnungsfilm. Weltpremiere
+
+"Don't Worry, He Won't Get Far on Foot" (Gus Van Sant, USA) [Wettbewerb]
+ With Joaquin Phoenix, Jonah Hill, Rooney Mara, Jack Black, Udo Kier. International premiere
+
+"Dovlatov" (Alexey German Jr., Russian Federation / Poland / Serbia) [Wettbewerb]
+ With Milan Maric, Danila Kozlovsky, Helena Sujecka, Artur Beschastny, Elena Lyadova. World premiere
+
+"Eva" (Benoit Jacquot, France) [Wettbewerb]
+ With Isabelle Huppert, Gaspard Ulliel, Julia Roy, Richard Berry. World premiere
+
+"Figlia mia (Daughter of Mine)" (Laura Bispuri, Italy / Germany / Switzerland) [Wettbewerb]
+ With Valeria Golino, Alba Rohrwacher, Sara Casu, Udo Kier. World premiere
+
+"In den Gängen (In the Aisles)" (Thomas Stuber, Germany) [Wettbewerb]
+ With Franz Rogowski, Sandra Hüller, Peter Kurth. World premiere
+
+"Mein Bruder heißt Robert und ist ein Idiot " (Philip Gröning, Germany) [Wettbewerb]
+ With Josef Mattes, Julia Zange, Urs Jucker, Stefan Konarske, Zita Aretz, Karolina Porcari, Vitus Zeplichal. World premiere
+
+"Twarz (Mug)" (Małgorzata Szumowska, Poland) [Wettbewerb]
+ With Mateusz Kościukiewicz, Agnieszka Podsiadlik, Małgorzata Gorol, Roman Gancarczyk, Dariusz Chojnacki, Robert Talarczyk, Anna Tomaszewska, Martyna Krzysztofik. World premiere
+
+SPECIAL
+
+"The Bookshop" (Isabel Coixet, Spain / United Kingdom / Germany) [Special]
+ With Emily Mortimer, Bill Nighy, Patricia Clarkson. German premiere
+
+"Das schweigende Klassenzimmer (The Silent Revolution)" (Lars Kraume, Germany) [Special]
+ With Leonard Scheicher, Tom Gramenz, Lena Klenke, Jonas Dassler, Florian Lukas, Jördis Triebel, Michael Gwisdek, Ronald Zehrfeld, Burghart Klaußner. World premiere
+
+PANORAMA
+
+
+EOF
+
+our @critics;
+$critics_group[0] = "critic.de";
+$critics[0] = "
+Miriam Bale (MUBI, US)
+Arnaud Hée (Critikat.com, France)
+Andrey Arnold (Die Presse, Austria)
+Dunja Bialas (artechock, Deutschland)
+Johannes Bluth (critic.de, Deutschland)
+Hannes Brühwiler (critic.de, Deutschland)
+Lukas Foerster (Perlentaucher, Deutschland)
+Martin Gobbin (critic.de, Deutschland)
+Thomas Groh (Perlentaucher, Deutschland)
+David Hudson (Fandor, US)
+Frédéric Jaeger (critic.de, Deutschland)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Claudia Reinhard (critic.de, Deutschland)
+Christoph Huber (Die Presse, Austria)
+Frédéric Jaeger (critic.de, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+Daniel Kasman (MUBI, US)
+Michael Kienzl (critic.de, Deutschland)
+Kevin B. Lee (Fandor, US)
+Boris Nelepo (Sceance.ru, Russland)
+Nikolaus Perneczky (Perlentaucher, Deutschland)
+Sonja M. Schultz (critic.de, Deutschland)
+Nino Klingler (critic.de, Deutschland)
+Rüdiger Suchsland (arteschock, Deutschland)
+Carolin Weidner (Tip, Deutschland)
+Alexandra Zawia (Ray, Austria)
+Ekkehard Knörer (Cargo, Deutschland)
+Pamela Biénzobas (Mabuse, Chile) 
+";
+# letterboxd
+$critics_group[1] = "letterboxd";
+$critics[1] = "
+Felix H. (Dis+Positiv, Deutschland)
+Pablo Villaça (Cinema em Cena, Brasilien)
+Vytenis Galvėnas (Vilnius University, Lithuania)
+Ole Johnny Fossås (Jump Cut, Norway)
+Jasper Behrensdorf (Leibniz Universität Hannover, Deutschland)
+Bumstead (Deutschland)
+Antonio Dakeyras (Deutschland)
+Stavros Tagres (GB)
+Eddie Falvey (One Room With A View, GB)
+Hoss Ghonouie (Everyman Cinemas, GB)
+Bradley Porter (Filmmaker, GB)
+John Tikis (Musician, Greece)
+Aristea Tomopoulou (Filmmaker, Greece)
+Matthias Hopf (dasfilmfeuilleton.de blog, Deutschland)
+Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
+";
+$critics_group[2] = "None";
+$critics[2] = "
+Rory O’Connor (Film Stage, UK)
+Christian Ihle (TAZ Popblog, Deutschland)
+Bruno Carmelo (adorocinema.com, Brasil)
+Otto Kylmälä (Loud Silents Festival, Lithuania)
+Joachim Kurz (Kino-Zeit, Deutschland)
+Beatrice Behn (Kino-Zeit, Deutschland)
+Harald Mühlbeyer (Kino-Zeit, Deutschland)
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alison Willmore (BuzzFeed, US)
+Alissa Wilkinson (Christianity Today, US)
+Angie Han (Slash, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Smith (UK)
+Bilge Ebiri  (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Bryan Bishop (The Verge, US)
+Carlos Aguilar (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, US)
+Daniel Mecca (The Film Stage, US)
+David D'Arcy (Screen International, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Ed Gibbs (The Guardian, UK)
+Jean-Christophe Simon (Films Boutique, Deutschland)
+James McAllister (Culture Fly, GB)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Neil Young (RogerEbert.com, GB)
+Noel Murray (The Playlist, US)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Berlinale2017.dat
+
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
