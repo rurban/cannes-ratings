@@ -22,7 +22,7 @@ Guy Lodge               http://variety.com/2018/film/reviews/american-animals-re
 #letterboxd
 nina wilder         9   https://letterboxd.com/ninatarantino/film/american-animals/
 Kevflix             8
-nextbestpicture     8   https://letterboxd.com/nextbestpicture/film/american-animals/
+Matt Neglia         8   https://letterboxd.com/nextbestpicture/film/american-animals/
 Matt Hoffman        8
 Jordan Foxworthy    8
 Javier              7
@@ -62,7 +62,7 @@ Erik Childress      7
 mikemak             7
 nina wilder         7   https://letterboxd.com/ninatarantino/film/blindspotting/
 Kevin Dando         7
-nextbestpicture     7   https://letterboxd.com/nextbestpicture/film/blindspotting/
+Matt Neglia         7   https://letterboxd.com/nextbestpicture/film/blindspotting/
 Matt Hoffman        7
 A.A. Dowd           6
 Hannah Hembree      6
@@ -624,7 +624,7 @@ Patrick John Danque 6
 Erik Childress      6
 Jordan Foxworthy    6
 Christopher Carpenter 6
-nextbestpicture     6   https://letterboxd.com/nextbestpicture/film/private-life-2018/
+Matt Neglia         6   https://letterboxd.com/nextbestpicture/film/private-life-2018/
 Brandon Hart        6
 myessick            5   https://letterboxd.com/myessick/film/private-life-2018/
 
@@ -1042,6 +1042,7 @@ Mark Olsen (LA Times, US)
 Matthew Jacobs (Huffington Post, US)
 Matt Goldberg (Collider, US)
 Matt Hoffman (Scene Creek, Canada)
+Matt Neglia (NextBestPicture.com, US)
 Mauricio Costa (Razão de Aspecto, Brazil)
 Mel Valentin (Next Projection, US)
 Michael Rechtshaffen  (The Hollywood Reporter, US)
@@ -1090,6 +1091,7 @@ Amir Moverman (Producer, US)
 Blake Schwarz (Film Student+Blogger, US)
 Brandon Hart (Film Fan, US)
 Drew Duncan (Industry, US)
+flowertwithat (Film Buff, US)
 Jason Myers (Twitter+Local, US)
 Jeremiah Holt (Youtube+Local, US)
 Kevin Conner (Industry, US)
@@ -1103,6 +1105,7 @@ Robert Saucedo (Houston Alamo, US)
 Sachin Dharwadker (Filmmaker, US)
 Tony Donisch (Discover, US)
 ";
+#Jacob (Local, US)
 
 our $HEADER = <<"EOF";
 
