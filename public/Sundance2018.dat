@@ -7,6 +7,8 @@ package Sundance::rurban::2018; # -*- perl -*-
 #  'D+' => 1.5, 'D' => 1,   'D-' => 1,
 #  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
 #  'F+' => 0,   'F' => 0,   'F-' => 0};
+# SLCWeekly: 0-4stars:
+# 0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
 
 use utf8;
 our $DATA= <<'EOF';
@@ -19,6 +21,7 @@ Presenting the world premieres of 16 narrative feature films, the Dramatic Compe
 
 Guy Lodge               http://variety.com/2018/film/reviews/american-animals-review-1202669037/
 #David Ehrlich           http://www.indiewire.com/2018/01/american-animals-review-bart-layton-sundance-2018-1201919451/
+Scott Renshaw       6.25 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
 #letterboxd
 BenEd               9
 nina wilder         8   https://letterboxd.com/ninatarantino/film/american-animals/
@@ -52,6 +55,7 @@ Sean P. Means           https://www.sltrib.com/artsliving/movies/2018/01/19/sass
 Alonso Duralde          https://www.thewrap.com/blindspotting-film-review-daveed-diggs/
 Todd McCarthy           https://www.hollywoodreporter.com/review/blindspotting-film-review-sundance-2018-1075844
 Mike Ryan               http://uproxx.com/movies/blindspotting-review-sundance/
+Scott Renshaw       6.25 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
 #letterboxd
 ssheppe             10
 camiseymour         9   https://letterboxd.com/camiseymour/film/blindspotting/
@@ -243,6 +247,7 @@ Brandon Hart        7
  — With unprecedented access to pivotal artists and the white-hot market surrounding them, this film dives deep into the contemporary art world, holding a funhouse mirror up to our values and our times – where everything can be bought and sold. World Premiere. HBO
 
 Brian Tallerico         https://www.rogerebert.com/sundance/sundance-2018-three-identical-strangers-crime--punishment-the-price-of-everything
+Scott Renshaw       7.5 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
 #letterboxd
 WiktorWiktor        7
 Those Eyebrows      6
@@ -287,6 +292,7 @@ Justin Lowe             https://www.hollywoodreporter.com/review/dead-pigs-revie
 
 Michael Rechtshaffen    https://www.hollywoodreporter.com/review/guilty-review-1075981
 Tomris Laffly           https://www.rogerebert.com/sundance/sundance-2018-loveling-pity-the-guilty
+Victor Morton       8.75 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
 #letterboxd
 Alex Billington     9   https://letterboxd.com/firstshowing/film/the-guilty-2018/
 Mallory Andrews     8
@@ -330,6 +336,7 @@ Craig Frantz        5   https://letterboxd.com/craig_frantz/film/loveling/
 Guy Lodge               http://variety.com/2018/film/reviews/pity-review-1202666347/
 Tomris Laffly           https://www.rogerebert.com/sundance/sundance-2018-loveling-pity-the-guilty
 Sheri Linden            https://www.hollywoodreporter.com/review/pity-1071034
+Victor Morton       7.5 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
 #letterboxd
 Kevin Conner        7
 Ben Delgado         7
@@ -378,6 +385,8 @@ Twelve documentaries by some of the most courageous and extraordinary internatio
 "Anote's Ark" (Matthieu Rytz, Canada) [World Documentaries]
  — How does a nation survive being swallowed by the sea? Kiribati, on a low-lying Pacific atoll, will disappear within decades due to rising sea levels, population growth, and climate change. This exploration of how to migrate an entire nation with dignity interweaves personal stories of survival and resilience. World Premiere. THE NEW CLIMATE (2016)
 
+Scott Renshaw       6.25 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
+
 "The Cleaners" (Moritz Riesewieck, Hans Block, Germany, Brazil) [World Documentaries]
  — When you post something on the web, can you be sure it stays there? Enter a hidden shadow industry of digital cleaning, where the Internet rids itself of what it doesn't like: violence, pornography and political content. Who is controlling what we see...and what we think? World Premiere
 
@@ -405,6 +414,7 @@ Matt Turner         6
  — The story of Donald Trump's election told entirely through Russian propaganda. By turns horrifying and hilarious, the film is a satirical portrait of Russian media that reveals an empire of fake news and the tactics of modern-day information warfare. World Premiere. DAY ONE
 
 Leslie Felperin         https://www.hollywoodreporter.com/topic/movie-reviews/3
+Scott Renshaw       7.5 https://www.cityweekly.net/BuzzBlog/archives/2018/01/19/sundance-film-festival-2018-day-1-capsules
 #letterboxd
 gregorysgardner     8   https://letterboxd.com/gregorysgardner/film/our-new-president/
 Erik Childress      6
@@ -448,6 +458,7 @@ Pure, bold works distinguished by an innovative, forward-thinking approach to st
 "306 Hollywood" (Elan + Jonathan Bogarín, Hungary) [NEXT]
  — When two siblings undertake an archaeological excavation of their late grandmother’s house, they embark on a magical-realist journey from her home in New Jersey to ancient Rome, from fashion to physics, in search of what life remains in the objects we leave behind. World Premiere. DAY ONE
 
+Victor Morton       6.25 https://www.cityweekly.net/BuzzBlog/archives/2018/01/19/sundance-film-festival-2018-day-1-capsules
 #letterboxd
 Mauricio Costa      10   https://letterboxd.com/malcosta/film/306-hollywood/
 Kevin Conner        8
@@ -472,6 +483,7 @@ A.A. Dowd           4
 
 Justin Lowe             https://www.hollywoodreporter.com/review/clara-s-ghost-1074644
 Nick Allen              https://www.rogerebert.com/sundance/sundance-2018-white-rabbit-claras-ghost
+Scott Renshaw       7.5 https://www.cityweekly.net/BuzzBlog/archives/2018/01/20/sundance-film-festival-2018-day-2-capsules
 #letterboxd
 Amber               7
 Hannah Hembree      6
@@ -639,6 +651,7 @@ Gregory Ellwood         https://theplaylist.net/private-life-sundance-review-201
 John DeFore             https://www.hollywoodreporter.com/review/private-life-review-1075835
 Kevin Fallon            https://www.thedailybeast.com/private-life-the-perfect-sundance-opening-night-film-11-years-in-the-making
 Anne Thompson           http://www.indiewire.com/2018/01/sundance-2018-private-life-tamara-jenkins-netflix-1201918180/
+Scott Renshaw       6.25 https://www.cityweekly.net/BuzzBlog/archives/2018/01/19/sundance-film-festival-2018-day-1-capsules
 #letterboxd
 #pedrobitar2018      10
 Jeremy Walker       10
@@ -698,6 +711,7 @@ gregorysgardner     6   https://letterboxd.com/gregorysgardner/film/the-game-cha
  — Lauren Greenfield’s postcard from the edge of the American Empire captures a portrait of a materialistic, image-obsessed culture. Simultaneously personal journey and historical essay, the film bears witness to the global boom–bust economy, the corrupted American Dream and the human costs of late stage capitalism, narcissism and greed. World Premiere. DAY ONE
 
 Daniel Fienberg         https://www.hollywoodreporter.com/review/generation-wealth-review-1075838
+Victor Morton       5   https://www.cityweekly.net/BuzzBlog/archives/2018/01/19/sundance-film-festival-2018-day-1-capsules
 #letterboxd
 Hannah Hembree      8
 Kevin Dando         8
@@ -1116,6 +1130,7 @@ Sam Fragoso (Movie Mezzanine, US)
 Sasha Bronner (Huffington Post, US)
 Scott Foundas (Variety, US)
 Scott Porch (The Guardian, US)
+Scott Renshaw (Salt Lake City Weekly, US)
 Sean P. Means (The Salt Lake Tribune, US)
 Siân Melton (Cinefilles, UK)
 Sheri Linden  (The Hollywood Reporter, US)
