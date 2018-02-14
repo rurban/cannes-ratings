@@ -12,7 +12,6 @@ use utf8;
 our $DATA= <<'EOF';
 
 Wettbewerb
-Forum
 Panorama
 Generation
 Perspektive Deutsches Kino
@@ -20,6 +19,7 @@ Forum Expanded
 Special
 Native
 Retrospektive
+Forum
 Woche der Kritik
 
 "Django" (Etienne Comar, Frankreich)  [Wettbewerb]

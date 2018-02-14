@@ -12,39 +12,357 @@ use utf8;
 our $DATA= <<'EOF';
 
 Wettbewerb
-Forum
+Out of competition
 Panorama
 Generation
 Perspektive Deutsches Kino
+Forum
 Forum Expanded
 Special
-Native
 Retrospektive
 Woche der Kritik
 
 "Isle of Dogs" (Wes Anderson, USA)  [Wettbewerb]
  Eröffnungsfilm. Weltpremiere
 
+"3 Tage in Quiberon (3 Days in Quiberon)" (Emily Atef, Germany/Austria/France) [Wettbewerb]
+
+"Damsel" (David Zellner and Nathan Zellner, USA) [Wettbewerb]
+
 "Don't Worry, He Won't Get Far on Foot" (Gus Van Sant, USA) [Wettbewerb]
  With Joaquin Phoenix, Jonah Hill, Rooney Mara, Jack Black, Udo Kier. International premiere
 
-"Dovlatov" (Alexey German Jr., Russian Federation / Poland / Serbia) [Wettbewerb]
+"Dovlatov" (Alexey German Jr., Russian Federation/Poland/Serbia) [Wettbewerb]
  With Milan Maric, Danila Kozlovsky, Helena Sujecka, Artur Beschastny, Elena Lyadova. World premiere
 
 "Eva" (Benoit Jacquot, France) [Wettbewerb]
  With Isabelle Huppert, Gaspard Ulliel, Julia Roy, Richard Berry. World premiere
 
-"Figlia mia (Daughter of Mine)" (Laura Bispuri, Italy / Germany / Switzerland) [Wettbewerb]
+"Figlia mia (Daughter of Mine)" (Laura Bispuri, Italy/Germany/Switzerland) [Wettbewerb]
  With Valeria Golino, Alba Rohrwacher, Sara Casu, Udo Kier. World premiere
 
 "In den Gängen (In the Aisles)" (Thomas Stuber, Germany) [Wettbewerb]
  With Franz Rogowski, Sandra Hüller, Peter Kurth. World premiere
 
+"Las herederas (The Heiresses)" (Marcelo Martinessi, Paraguay/Uruguay/Germany/Brazil/Norway/France) [Wettbewerb]
+ - First Feature
+
+"Khook (Pig)" (Mani Haghighi, Iran) [Wettbewerb]
+
 "Mein Bruder heißt Robert und ist ein Idiot" (Philip Gröning, Germany) [Wettbewerb]
  With Josef Mattes, Julia Zange, Urs Jucker, Stefan Konarske, Zita Aretz, Karolina Porcari, Vitus Zeplichal. World premiere
 
+"Museo (Museum)" (Alonso Ruizpalacios, Mexic) [Wettbewerb]
+
+"La prière (The Prayer)" (Cédric Kahn, France) [Wettbewerb]
+
+"Season of the Devil (Ang Panahon ng Halimaw)" (Lav Diaz, Philippines) [Wettbewerb]
+
+"Toppen av ingenting (The Real Estate)" (Måns Månsson and Axel Petersén, Sweden/United Kingdom) [Wettbewerb]
+
+"Touch Me Not" (Adina Pintilie, Romania/Germany/Czech Republic/Bulgaria/France) [Wettbewerb]
+ - First Feature
+
+"Transit" (Christian Petzold, Germany/France) [Wettbewerb]
+
 "Twarz (Mug)" (Małgorzata Szumowska, Poland) [Wettbewerb]
  With Mateusz Kościukiewicz, Agnieszka Podsiadlik, Małgorzata Gorol, Roman Gancarczyk, Dariusz Chojnacki, Robert Talarczyk, Anna Tomaszewska, Martyna Krzysztofik. World premiere
+
+"Utøya 22. juli" (Erik Poppe, Norway) [Wettbewerb]
+
+OUT OF COMPETITION
+
+"7 Days in Entebbe" (José Padilha, USA/United Kingdom) [Out of competition]
+
+"Ága" (Milko Lazarov, Bulgaria/Germany/France) [Out of competition]
+
+"Black 47" (Lance Daly (Ireland/Luxembourg) [Out of competition]
+
+"Eldorado" (Markus Imhoof, Switzerland/Germany) [Out of competition]
+ – Documentary 
+
+"Unsane" (Steven Soderbergh, USA) [Out of competition]
+
+
+PANORAMA
+
+"L'Animale" (Katharina Mückstein, Austria) [Panorama]
+ With Sophie Stockinger, Kathrin Resetarits, Dominik Warta, Julia Franz Richter, Jack Hofer, Dominic Marcus Singer, Simon Morzé, World premiere
+
+"Al Gami'ya (What Comes Around)" (Reem Saleh, Lebanon/Egypt/Greece/Qatar/Slovenia)  [Panorama]
+ Documentary. World premiere
+
+"Až přijde válka (When the War Comes)" (Jan Gebert, Czech Republic/Croatia) [Panorama]
+ - Documentary. World premiere
+
+"Bixa Travesty (Tranny Fag)" (Claudia Priscilla, Kiko Goifman, Brazil) [Panorama]
+ With Linn da Quebrada, Jup do Bairro, Liniker. Documentary. World premiere
+
+"La enfermedad del domingo (Sunday's Illness)" (Ramón Salazar, Spain) [Panorama]
+ With Bárbara Lennie, Susi Sánchez, Greta Fernández, Miguel Ángel Solá, Richard Bohringer. World premiere
+
+"Familienleben (Family Life)" (Rosa Hannah Ziegler, Germany) [Panorama]
+ Documentary. World premiere
+
+"Game Girls" (Alina Skrzeszewska, France/Germany) [Panorama]
+ Documentary. World premiere
+
+"Garbage" (Q, India) [Panorama]
+ With Tanmay Dhanania, Trimala Adhikari, Satarupa Das. World premiere
+
+"Generation Wealth" (Lauren Greenfield, USA) [Panorama] <i>Sundance</i>
+ Documentary. International premiere
+
+"Genezis (Genesis)" (Árpád Bogdán, Hungary) [Panorama]
+ With Anna Marie Cseh, Enikő Anna Illési, Milán Csordás. World premiere
+
+"Hojoom (Invasion) (Shahram Mokri, Iran) [Panorama]
+ With Abed Abest, Elaheh Bakhshi, Babak Karimi, Pedram Sharifi, Mehdi Etemad Saied. International premiere
+
+"Horizonti (Horizon)" (Tinatin Kajrishvili, Georgia/Sweden) [Panorama]
+ With George Bochorishvili, Ia Sukhitashvili, Jano Izoria, Soso Gogichaishvili. World premiere
+
+"Hotel Jugoslavija" (Nicolas Wagnières, Switzerland) [Panorama]
+ Documentary. European premiere
+
+"Human, Space, Time and Human (Inkan, gongkan, sikan grigo inkan)" (Kim Ki-duk, South Korea) [Panorama]
+ With Mina Fujii, Jang Keun-suk, Ahn Sung-ki, Lee Sung-jae, Ryoo Seung-bum, Sung Ki-youn, Joe Odagiri. World premiere
+
+"Je vois rouge (I See Red People)" (Bojina Panayotova, France/Bulgaria) [Panorama]
+ Documentary. World premiere
+
+"Jibril" (Henrika Kull, Germany) [Panorama]
+ With Susana Abdulmajid, Malik Adan, Doua Rahal, Emna El-Aouni. World premiere
+
+"Kinshasa Makambo" (Dieudo Hamadi, Congo/...) [Panorama]
+ Documentary. World premiere
+
+"When the Trees Fall (Koly padayut dereva)" (Marysia Nikitiuk, Ukraine/Poland/Macedonia) [Panorama]
+ With Anastasiia Pustovit, Sofia Halaimova, Maksym Samchyk, Mariia Svizhynska, Alla Samoilenko. World premiere
+
+"Land" (Babak Jalali, Italy/France/Netherlands/Mexico/Qatar) [Panorama]
+ With Rod Rondeaux, Florence Klein, James Coleman, Wilma Pelly. World premiere
+
+"Lemonade" (Ioana Uricaru, Romania/Canada/Germany/Sweden) [Panorama]
+ With Mălina Manovici, Steve Bacic, Dylan Scott Smith, Milan Hurduc, Ruxandra Maniu. World premiere
+
+"Marilyn" (Martín Rodríguez Redondo, Argentina/Chile) [Panorama]
+ With Walter Rodríguez, Catalina Saavedra, Germán de Silva, Ignacio Giménez, Rodolfo García Werner. World premiere
+
+"MATANGI / MAYA / M.I.A." (Steve Loveridge, USA/United Kingdom/Sri Lanka) [Panorama] <i>Sundance</i>
+ With Maya Arulpragasam. Documentary. International premiere
+
+"Mes provinciales (A Paris Education)" (Jean Paul Civeyrac, France) [Panorama]
+ With Andranic Manet, Corentin Fila, Gonzague Van Bervesselès, Diane Rouxel, Jenna Thiam, Sophie Verbeeck. World premiere
+
+"O processo (The Trial)" (Maria Ramos, Brazil/Germany/Netherlands) [Panorama]
+ Documentary. World premiere
+
+"Shock Waves - Diary of My Mind (Ondes de choc - Journal de ma tête) (Ursula Meier, Switzerland) [Panorama]
+ With Fanny Ardant, Kacey Mottet-Klein, Jean-Philippe Ecoffey, Carlo Brandt, Stéphanie Blanchoud, Jean-Quentin Châtelain. International premiere
+
+"Shock Waves - First Name: Mathieu (Ondes de choc - Prénom: Mathieu)" (Lionel Baier, Switzerland) [Panorama]
+ With Maxime Gorbatchevsky, Michel Vuillermoz, Ursina Lardi, Mickael Amman, Adrien Barazzone, Piere-Isaïe Duc, Nastassja Tanner. International premiere
+
+"Partisan" (Lutz Pehnert, Matthias Ehlert, Adama Ulrich, Germany) [Panorama]
+ With Frank Castorf, Sophie Rois, Kathrin Angerer, Herbert Fritsch, Henry Hübchen, Alexander Scheer. Documentary. World premiere
+
+"Girls Always Happy (Rou qing shi)" (Yang Mingming, China) [Panorama]
+ With Nai An, Yang Mingming, Zhang Xianmin, Li Qinqin, Huang Wei, Yuan Li. World premiere
+
+"Shakedown" (Leilah Weinraub, USA) [Panorama]
+ Documentary. World premiere
+
+"Shut Up and Play the Piano" (Philipp Jedicke, Germany/France/United Kingdom) [Panorama]
+ With Chilly Gonzales, Peaches , Leslie Feist, Sibylle Berg, Jarvis Cocker. Documentary. World premiere
+
+"La terra dell'abbastanza (Boys Cry)" (Damiano D'Innocenzo, Fabio D'Innocenzo, Italy) [Panorama]
+ With Matteo Olivetti, Andrea Carpenzano, Milena Mancini, Max Tortora, Luca Zingaretti. World premiere
+
+"The Silence of Others" (Almudena Carracedo, Robert Bahar, USA/Spain) [Panorama]
+ Documentary. World premiere
+
+"The Silk and the Flame" (Jordan Schiele, USA) [Panorama]
+ Documentary. World premiere
+
+"Styx" (Wolfgang Fischer, Germany/Austria) [Panorama]
+ With Susanne Wolff, Gedion Oduor Wekesa. World premiere
+
+"Tinta bruta (Hard Paint)" (Marcio Reolon, Filipe Matzembacher, Brazil) [Panorama]
+ With Shico Menegat, Bruno Fernandes, Guega Peixoto, Sandra Dani, Frederico Vasques. World premiere
+
+"Trinta Lumes (Thirty Souls) (Diana Toucedo, Spain) [Panorama]
+ With Alba Arias, Samuel Vilariño. World premiere
+
+"Xiao Mei" (Maren Hwang, Taiwan) [Panorama]
+ With Chen Yi-Wen, Liu Kuan-Ting, Na Dow, Wu Chien-Ho, Yin Shin, Laurence Chiu, Chang Shao-Huai, Samantha Ko, Wu Kang-Jen, Jao Cincin. World premiere
+
+"Yardie" (Idris Elba, United Kingdom) [Panorama]
+ With Aml Ameen, Shantol Jackson, Stephen Graham, Fraser James, Sheldon Shepherd, Everaldo Creary. European premiere
+
+"Ex Pajé (Ex Shaman)" (Luiz Bolognesi, Brazil) [Panorama]
+ Documentary. World premiere
+
+"Malambo, el hombre bueno (Malambo, the Good Man)" (Santiago Loza, Argentina) [Panorama]
+ With Gaspar Jofre, Fernando Muñoz, Pablo Lugones, Nubecita Vargas, Gabriela Pastor, Carlos Defeo. World premiere
+
+"Obscuro Barroco" (Evangelia Kranioti, France/Greece)  [Panorama]
+ Documentary. World premiere
+
+"La omisión (The Omission)" (Sebastián Schjaer, Argentina/Netherlands/Switzerland) [Panorama]
+ With Sofía Brito, Lisandro Rodriguez, Malena Hernández Díaz, Victoria Raposo, Pablo Sigal. World premiere
+
+"Profile" (Timur Bekmambetov, USA/UK/Cyprus) [Panorama]
+ With Valene Kane, Shazad Latif, Christine Adams, Morgan Watkins, Amir Rahimzadeh. World premiere
+
+"River's Edge" (Isao Yukisada, Japan) [Panorama]
+ With Fumi Nikaidou, Ryo Yoshizawa, SUMIRE , Shiori Doi, Aoi Morikawa. International premiere
+
+"That Summer" (Göran Hugo Olsson, Sweden/Denmark/USA) [Panorama]
+ With Peter Beard, Lee Radziwill, Edith Ewing Bouvier Beale, Edith Bouvier Beale, Andy Warhol. Documentary. European premiere
+
+"Yocho (Foreboding)" (Kiyoshi Kurosawa, Japan) [Panorama]
+ With Kaho, Shota Sometani, Masahiro Higashide. European premiere
+
+"Zentralflughafen THF" (Karim Aïnouz, Germany/Brazil/France) [Panorama]
+ Documentary. World premiere
+
+GENERATION 14plus
+
+"Adam" (Maria Solrun, Germany/Iceland/USA/Mexico) [Generation]
+ World premiere.
+
+"303" (Hans Weingartner, Germany) [Generation]
+ 303 tells the story of two university students, Jule (Mala Emde) and Jan (Anton Spieker) who leave Berlin together in an old camper on a road trip south, but for different reasons. As they philosophise on the world and themselves in passionate discussions, director Hans Weingartner maintains a natural closeness to the two young people against breathtaking backgrounds. World premiere
+
+"Cobain" (Nanouk Leopold, Netherlands/Belgium/Germany) [Generation]
+ After Wolfsbergen (Forum 2007), Brownian Movement (Forum 2011) and Boven is Het Stil (Panorama 2013), Dutch director Nanouk Leopold will be represented at the 2018 festival in the Generation 14plus competition. In her characteristic style of quiet radicalism, her newest film follows 15-year-old Cobain as he wanders through the city in search of his self-destructive mother. On his way he runs into her old friends, social workers and the methadone clinic. In his feature film debut, Bas Keizer gently and stirringly embodies the young man who must grow up far before his time. World premiere
+
+"Danmark (Denmark)" (Kasper Rune Larsen, Denmark) [Generation]
+ When 16-year-old Josephine finds out she’s pregnant, she sleeps with laconic Norge and tells him he’s the father. What follows is a wary approach in which questions on responsibility and commitment become increasingly important for the two young people. In his feature film debut, in attentively registered gestures and looks, and keenly observed bodies, faces and things the two protagonists say or don’t say, Kasper Rune Larsen paints a perceptive portrait of young people with deep respect for their wishes and fears, their mistakes and desires. International premiere
+
+"Dressage" (Pooya Badkoobeh, Iran) [Generation]
+ World premiere.
+
+"Les faux tatouages (Fake Tattoos)" (Pascal Plante, Canada) [Generation] <i>Slamdance</i>
+ Pascal Plante tells the story of young love - tenderly, but without drifting into pathos. Misfit Theo, played by Anthony Therrien (lead in Corbo, Generation 14plus 2015), meets Mag on his 18th birthday, and she invites him to spend the night with her. Music is the language they have in common: Framed by wild punk rhythms and filled with youthful passion, a relationship unfolds whose intensity is only increased by its unavoidably approaching end. With great candour and precision, Plante captures the hopes and dreams of young people on their path into an uncertain future. European premiere
+
+"Fortuna" (Germinal Roaux, Switzerland/Belgium) [Generation]
+ World premiere.
+
+"Güvercin (The Pigeon)" (Banu Sıvacı, Turkey) [Generation]
+ Only on the roof of his parents’ house, above the alleys of a slum in Adana, with his beloved pigeons, can Yusuf find peace, and himself. Finding a foothold in the dystopian world outside is more difficult. Banu Sıvacı’s feature film debut - which she also wrote and produced - follows Yusuf in sharply composed imagery through difficult times. His expressions and the twists and turns of his body open up his very own inner world that has lots to tell about the outside one. World premiere
+
+"Hendi & Hormoz" (Abbas Amini, ran/Czech Republic) [Generation]
+ World premiere
+
+"High Fantasy" (Jenna Bass, South Africa) [Generation]
+ European premiere
+
+"Kissing Candice" (Aoife McArdle, Ireland) [Generation]
+ European premiere
+
+"Para Aduma (Red Cow)" (Tsivia Barkai, Israel) [Generation]
+ Director, Berlinale Talents alumna and Jerusalem native Tsivia Barkai was already a guest of Generation in the 2006 14plus competition with her first short film Vika. In her feature film debut, she tells the story of patriarchic order, and youthful desire and rebellion. Benny, a young woman, lives in East Jerusalem and sees her father’s religious, utopian nationalism with increasing scepticism - unlike the secret embraces of her girlfriend Yael. A story told in pictures as powerful as the stormy yearnings of its heroine. World premiere
+
+"Retablo" (Álvaro Delgado-Aparicio L., Peru/Germany/Norway) [Generation]
+ European premiere
+
+"Unicórnio (Unicorn)" (Eduardo Nunes, Brazil) [Generation]
+ The mysterious drama by Brazilian director Eduardo Nunes develops the story of 13-year-old Maria, who lives alone with her mother in rural isolation. When a young man moves into the neighborhood with his herd of goats, their lives are thrown off balance. Using intoxicatingly immersive images, Nunes transmits the radical language and magical realism of author Hilda Hilst into a mystical, fairy-tale world in an imposing widescreen format. International premiere
+
+"Virus Tropical" (Santiago Caicedo, Columbia/France) [Generation]
+ Paola is growing up in Quito, Ecuador, as the youngest of three sisters. Dreams burst, companies fail, love grows and withers. In his feature film debut, director Santiago Caicedos translates the autobiographical story of the Ecuadorian comic illustrator Powerpaola into fast-paced, graphically daring, animated images. Emancipatory protest and a declaration of love combine to form an ironic perspective on contemporary Latin America. European premiere
+
+"What Walaa Wants" (Christy Garland, Canada/Denmark) [Generation]
+ World premiere
+
+GENERATION Kplus
+
+"Allons enfants (Cléo & Paul)" (Stéphane Demoustier, France)  [Generation]
+ Three-and-a-half-year-old Cléo is the reigning hide-and-seek champion. But then one day she forgets which path she took in the park. Suddenly the world is full of strangers staring at their smartphones. Cléo sets out on her own in the hustle-bustle of Paris in search of her brother Paul, who is lost as well. In tender proximity to its tiny protagonists, this laconic cinematic fairy tale by Stéphane Demoustier turns the daily urban doldrums into a marvelous cosmos of wonderful things, places and encounters. World premiere
+
+"Blue Wind Blows" (Tetsuya Tomina, Japan)  [Generation]
+ World premiere
+
+"Ceres" (Janet van den Brand, Belgium/Netherlands) [Generation]
+ World premiere
+
+"Circleen, Coco and the Wild Rhinoceros" (Jannik Hastrup, Denmark) [Generation]
+ World premiere
+
+"The Incredible Story of the Giant Pear" (Philip Einstein Lipski, Amalie Næsby Fick, Jørgen Lerdam, Denmark)  [Generation]
+ Den utrolige historie om den kæmpestore pære. Mitcho and Sebastian are quite surprised when they fish a message in a bottle out of the water one day. Inside is a letter from the mayor J.B., who vanished without a trace, and a seed that grows into a giant pear overnight. The pear turns into a sailboat and suddenly the anxious Sebastian and the hydrophobic Mitcho find themselves in the middle of the ocean with a mad professor. Based on the picture book by Jakob Martin Strid, this fast-paced, magical animation by a trio of directors tells the story of an adventurous journey to the mysterious island where Mayor J.B. is now believed to be located. International premiere
+
+"Los Bando" (Christian Lo, Norway/Sweden) [Generation]
+ International premiere
+
+"El día que resistía" (Alessia Chiesa, Argentina/France)  [Generation]
+ They play hide-and-seek, read to each other, roughhouse and tumble with their dog Coco: At first glance, the siblings Fan (8), Tino (6) and Claa (4) lead an unburdened childhood life. But they are completely alone, and the forest is just outside, and wasn’t there something about a big bad wolf? With ample sensuality, Berlinale Talents alumna and Argentina native Alessia Chiesa’s feature-length debut unfolds into a dreamy but increasingly gloomy world. World premiere
+
+"Gordon and Paddy" (Linda Hambäck, Sweden) [Generation]
+ Gordon och Paddy. Told in wildly popular Scandinavian whodunit style, frog police chief Gordon, voiced by Stellan Skarsgård, and his assistant Paddy (Melinda Kinnaman) uphold the law of the forest, track down nut thieves and protect forest residents from the fox. Courteousness is legal and dirty tricks are illegal. But that’s always a question of perspective, as this absorbing animation shows using oodles of charm and attention to detail, by filmmaker Linda Hambäck, born in South Korea. International premiere
+
+"My Giraffe" (Barbara Bredero, Netherlands/Belgium/Germany) [Generation]
+ Dikkertje Dap. Patterson’s best friend has a long neck and soft, brightly-spotted fur. His name is Raf, he was born the same day as Patterson, and he is: a talking giraffe. Now the two of them are turning four, and soon it’ll be their first day of school. Only animals aren’t allowed at school. Inspired by the classic Dutch children’s song and poem by Annie M.G. Schmidt, and told with a wink, this film is an imaginative story on value and flux in an unusual friendship. International premiere
+
+"Mochila de plomo (Packing Heavy)" (Darío Mascambroni, Argentina) [Generation]
+ World premiere
+
+"Les rois mongols (Cross My Heart)" (Luc Picard, Canada) [Generation]
+ Montreal, October 1970. Twelve-year-old Manon’s poverty-stricken family breaks apart: His father has cancer and his mother is on the verge of a nervous breakdown. When Manon and her little brother are to be taken to a foster family, she makes a daredevil plan. Featuring stirring actors and skillfully linked to the real-life upheavals, this film manages to create a moving portrayal of those times, simultaneously exposing the lies and lack of understanding in the grown-up world in tragic and humorous ways. European premiere
+
+"The Seen and Unseen" (Kamila Andini, Indonesia/Netherlands/Australia/Qatar) [Generation]
+ In Sekala Niskala (The Seen and Unseen), Indonesian director Kamila Andini, who presented her debut film The Mirror Never Lies at the Berlinale (Generation 2012) searches for answers to the question of how to say goodbye to a beloved person. Shaped by the Balinese understanding of Sekala - the seen, and Niskala - the unseen, Andini gives the world experience of a ten-year-old girl and her very ill twin brother an imagery of remarkable expressive power. European premiere
+
+"Supa Modo" (Likarion Wainaina, Germany/Kenya) [Generation]
+ This drama by Kenyan director Likarion Wainaina, co-produced by Tom Tykwer, tells the inspiring story of nine-year-old Jo. In her acting debut, Stycie Waweru embodies with touching earnestness the terminally ill girl who dreams of being a superhero. Against all odds and battling the time left her, a whole village takes it upon themselves to make Jo’s last wish a reality: to make a film and star in it. Wainaina succeeds in creating a deeply moving observation of the comforting value of imagination in the face of the finiteness of a still young life. World premiere
+
+"Wang Zha de yuxue (Wangdrak's Rain Boots)" (Lhapal Gyal, China) [Generation]
+ World premiere
+
+PERSPEKTIVE DEUTSCHES KINO
+
+"The Best Thing You Can Do With Your Life" (Zita Erffa, Germany) [Perspektive Deutsches Kino]
+ Documentary. World premiere
+
+"Die defekte Katze" (Susan Gordanshekan, Germany) [Perspektive Deutsches Kino]
+ With Pegah Ferydoni, Hadi Khanjanpour, Henrike von Kuick, Constantin von Jascheroff, Arash Marandi. World premiere
+
+"draußen" (Johanna Sunder-Plassmann, Tama Tobias-Macht, Germany) [Perspektive Deutsches Kino]
+ Documentary. World premiere
+
+"Feierabendbier" (Ben Brummer, Germany) [Perspektive Deutsches Kino]
+ With Tilman Strauß, Julia Dietze, Johann Jürgens, Christian Tramitz. World premiere
+
+"Impreza - Das Fest" (Alexandra Wesolowski, Germany) [Perspektive Deutsches Kino]
+ Documentary. German premiere
+
+"Kineski zid" (Aleksandra Odic, Germany 2017) [Perspektive Deutsches Kino]
+ Short
+
+Oliver Armknecht     6  https://www.film-rezensionen.de/2018/02/kineski-zid/
+
+"Luz" (Tilman Singer, Germany) [Perspektive Deutsches Kino]
+ With Luana Velis, Jan Bluthardt, Julia Riedler, Nadja Stübiger, Johannes Benecke. World premiere
+
+"Ra" (Sophia Bösch, Germany) [Perspektive Deutsches Kino]
+ Short
+
+"Rückenwind von vorn (Away You Go)" (Philipp Eichholtz, Germany) [Perspektive Deutsches Kino]
+ With Victoria Schulz, Aleksandar Radenković, Daniel Zillmann, Angelika Waller. World premiere
+
+"Storkow Kalifornia" (Kolja Malik, Germany) [Perspektive Deutsches Kino]
+ With Lana Cooper. Short
+
+"Verlorene (Lost Ones)" (Felix Hassenfratz, Germany) [Perspektive Deutsches Kino]
+ With Maria Dragus, Anna Bachmann, Clemens Schick, Enno Trebs, Meira Durand. World premiere
+
+"Whatever Happens Next" (Julian Pörksen, Germany) [Perspektive Deutsches Kino]
+ With Sebastian Rudolph, Lilith Stangenberg, Peter René Lüdicke, Christine Hoppe, Eike Weinreich. World premiere
+
+"Überall wo wir sind" (Veronika Kaserer, Germany) [Perspektive Deutsches Kino]
+ Documentary. World premiere
 
 FORUM
 
@@ -177,176 +495,38 @@ FORUM
 "Wild Relatives" (Jumana Manna, Germany/Lebanon/Norway) [Forum]
   WP
 
-"Yours in Sisterhood" (Irene Lusztig, USA)
+"Yours in Sisterhood" (Irene Lusztig, USA) [Forum]
   WP
 
-PANORAMA
+FORUM SPECIAL
 
-"L'Animale" (Katharina Mückstein, Austria) [Panorama]
- With Sophie Stockinger, Kathrin Resetarits, Dominik Warta, Julia Franz Richter, Jack Hofer, Dominic Marcus Singer, Simon Morzé, World premiere
+"11 x 14" (James Benning, USA 1976) [Retrospektive]
 
-"Bixa Travesty (Tranny Fag)" (Claudia Priscilla, Kiko Goifman, Brazil) [Panorama]
- With Linn da Quebrada, Jup do Bairro, Liniker. Documentary. World premiere
+"Der Film verlässt das Kino: Vom Kübelkind-Experiment und anderen Utopien (Film Beyond Cinema: The Dumpster Kid Experiment and Other Utopias)" (Robert Fischer, Germany) [Retrospektive]
+ – WP
 
-"Ex Pajé (Ex Shaman)" (Luiz Bolognesi, Brazil) [Panorama]
- Documentary. World premiere
+"Geschichten vom Kübelkind (Stories of the Dumpster Kid)" (Ula Stöckl, Edgar Reitz, Germany 1970) [Retrospektive]
 
-"Malambo, el hombre bueno (Malambo, the Good Man)" (Santiago Loza, Argentina) [Panorama]
- With Gaspar Jofre, Fernando Muñoz, Pablo Lugones, Nubecita Vargas, Gabriela Pastor, Carlos Defeo. World premiere
+"Kad budem mrtav i beo (When I Am Dead and Pale)" (Živojin Pavlović, Yugoslavia 1967) [Retrospektive]
 
-"Obscuro Barroco" (Evangelia Kranioti, France/Greece)  [Panorama]
- Documentary. World premiere
+"Santo contra Cerebro del mal (Santo vs. Evil Brain)" (Joselito Rodríguez, Mexico 1961) [Retrospektive]
 
-"La omisión (The Omission)" (Sebastián Schjaer, Argentina/Netherlands/Switzerland) [Panorama]
- With Sofía Brito, Lisandro Rodriguez, Malena Hernández Díaz, Victoria Raposo, Pablo Sigal. World premiere
+"Shaiu Umar" (Adamu Halilu, Nigeria 1976) [Retrospektive]
 
-"Profile" (Timur Bekmambetov, USA/UK/Cyprus) [Panorama]
- With Valene Kane, Shazad Latif, Christine Adams, Morgan Watkins, Amir Rahimzadeh. World premiere
+"Tahia ya Didou" (Mohamed Zinet, Algeria 1971) [Retrospektive]
 
-"River's Edge" (Isao Yukisada, Japan) [Panorama]
- With Fumi Nikaidou, Ryo Yoshizawa, SUMIRE , Shiori Doi, Aoi Morikawa. International premiere
+"Yama–Attack to Attack" (Mitsuo Sato, Kyoichi Yamaoka, Japan 1985) [Retrospektive]
 
-"That Summer" (Göran Hugo Olsson, Sweden/Denmark/USA) [Panorama]
- With Peter Beard, Lee Radziwill, Edith Ewing Bouvier Beale, Edith Bouvier Beale, Andy Warhol. Documentary. European premiere
+"Inflatable Sex Doll of the Wastelands" (Atsushi Yamatoya, Japan 1967) [Retrospektive]
 
-"Yocho (Foreboding)" (Kiyoshi Kurosawa, Japan) [Panorama]
- With Kaho, Shota Sometani, Masahiro Higashide. European premiere
+"Gushing Prayer" (Masao Adachi, Japan 1971) [Retrospektive]
 
-"Zentralflughafen THF" (Karim Aïnouz, Germany/Brazil/France) [Panorama]
- Documentary. World premiere
-
-GENERATION 14plus
-
-"Adam" (Maria Solrun, Germany / Iceland / USA / Mexico) [Generation]
- World premiere.
-
-"303" (Hans Weingartner, Germany) [Generation]
- 303 tells the story of two university students, Jule (Mala Emde) and Jan (Anton Spieker) who leave Berlin together in an old camper on a road trip south, but for different reasons. As they philosophise on the world and themselves in passionate discussions, director Hans Weingartner maintains a natural closeness to the two young people against breathtaking backgrounds. World premiere
-
-"Cobain" (Nanouk Leopold, Netherlands / Belgium / Germany) [Generation]
- After Wolfsbergen (Forum 2007), Brownian Movement (Forum 2011) and Boven is Het Stil (Panorama 2013), Dutch director Nanouk Leopold will be represented at the 2018 festival in the Generation 14plus competition. In her characteristic style of quiet radicalism, her newest film follows 15-year-old Cobain as he wanders through the city in search of his self-destructive mother. On his way he runs into her old friends, social workers and the methadone clinic. In his feature film debut, Bas Keizer gently and stirringly embodies the young man who must grow up far before his time. World premiere
-
-"Danmark (Denmark)" (Kasper Rune Larsen, Denmark) [Generation]
- When 16-year-old Josephine finds out she’s pregnant, she sleeps with laconic Norge and tells him he’s the father. What follows is a wary approach in which questions on responsibility and commitment become increasingly important for the two young people. In his feature film debut, in attentively registered gestures and looks, and keenly observed bodies, faces and things the two protagonists say or don’t say, Kasper Rune Larsen paints a perceptive portrait of young people with deep respect for their wishes and fears, their mistakes and desires. International premiere
-
-"Dressage" (Pooya Badkoobeh, Iran) [Generation]
- World premiere.
-
-"Les faux tatouages (Fake Tattoos)" (Pascal Plante, Canada) [Generation]
- Pascal Plante tells the story of young love - tenderly, but without drifting into pathos. Misfit Theo, played by Anthony Therrien (lead in Corbo, Generation 14plus 2015), meets Mag on his 18th birthday, and she invites him to spend the night with her. Music is the language they have in common: Framed by wild punk rhythms and filled with youthful passion, a relationship unfolds whose intensity is only increased by its unavoidably approaching end. With great candour and precision, Plante captures the hopes and dreams of young people on their path into an uncertain future. European premiere
-
-"Fortuna" (Germinal Roaux, Switzerland / Belgium) [Generation]
- World premiere.
-
-"Güvercin (The Pigeon)" (Banu Sıvacı, Turkey) [Generation]
- Only on the roof of his parents’ house, above the alleys of a slum in Adana, with his beloved pigeons, can Yusuf find peace, and himself. Finding a foothold in the dystopian world outside is more difficult. Banu Sıvacı’s feature film debut - which she also wrote and produced - follows Yusuf in sharply composed imagery through difficult times. His expressions and the twists and turns of his body open up his very own inner world that has lots to tell about the outside one. World premiere
-
-"Hendi & Hormoz" (Abbas Amini, ran / Czech Republic) [Generation]
- World premiere
-
-"High Fantasy" (Jenna Bass, South Africa) [Generation]
- European premiere
-
-"Kissing Candice" (Aoife McArdle, Ireland) [Generation]
- European premiere
-
-"Para Aduma (Red Cow)" (Tsivia Barkai, Israel) [Generation]
- Director, Berlinale Talents alumna and Jerusalem native Tsivia Barkai was already a guest of Generation in the 2006 14plus competition with her first short film Vika. In her feature film debut, she tells the story of patriarchic order, and youthful desire and rebellion. Benny, a young woman, lives in East Jerusalem and sees her father’s religious, utopian nationalism with increasing scepticism - unlike the secret embraces of her girlfriend Yael. A story told in pictures as powerful as the stormy yearnings of its heroine. World premiere
-
-"Retablo" (Álvaro Delgado-Aparicio L., Peru / Germany / Norway) [Generation]
- European premiere
-
-"Unicórnio (Unicorn)" (Eduardo Nunes, Brazil) [Generation]
- The mysterious drama by Brazilian director Eduardo Nunes develops the story of 13-year-old Maria, who lives alone with her mother in rural isolation. When a young man moves into the neighborhood with his herd of goats, their lives are thrown off balance. Using intoxicatingly immersive images, Nunes transmits the radical language and magical realism of author Hilda Hilst into a mystical, fairy-tale world in an imposing widescreen format. International premiere
-
-"Virus Tropical" (Santiago Caicedo, Columbia / France) [Generation]
- Paola is growing up in Quito, Ecuador, as the youngest of three sisters. Dreams burst, companies fail, love grows and withers. In his feature film debut, director Santiago Caicedos translates the autobiographical story of the Ecuadorian comic illustrator Powerpaola into fast-paced, graphically daring, animated images. Emancipatory protest and a declaration of love combine to form an ironic perspective on contemporary Latin America. European premiere
-
-"What Walaa Wants" (Christy Garland, Canada / Denmark) [Generation]
- World premiere
-
-Generation Kplus
-
-"Allons enfants (Cléo & Paul)" (Stéphane Demoustier, France)  [Generation]
- Three-and-a-half-year-old Cléo is the reigning hide-and-seek champion. But then one day she forgets which path she took in the park. Suddenly the world is full of strangers staring at their smartphones. Cléo sets out on her own in the hustle-bustle of Paris in search of her brother Paul, who is lost as well. In tender proximity to its tiny protagonists, this laconic cinematic fairy tale by Stéphane Demoustier turns the daily urban doldrums into a marvelous cosmos of wonderful things, places and encounters. World premiere
-
-"Blue Wind Blows" (Tetsuya Tomina, Japan)  [Generation]
- World premiere
-
-"Ceres" (Janet van den Brand, Belgium / Netherlands) [Generation]
- World premiere
-
-"Circleen, Coco and the Wild Rhinoceros" (Jannik Hastrup, Denmark) [Generation]
- World premiere
-
-"The Incredible Story of the Giant Pear" (Philip Einstein Lipski, Amalie Næsby Fick, Jørgen Lerdam, Denmark)  [Generation]
- Den utrolige historie om den kæmpestore pære. Mitcho and Sebastian are quite surprised when they fish a message in a bottle out of the water one day. Inside is a letter from the mayor J.B., who vanished without a trace, and a seed that grows into a giant pear overnight. The pear turns into a sailboat and suddenly the anxious Sebastian and the hydrophobic Mitcho find themselves in the middle of the ocean with a mad professor. Based on the picture book by Jakob Martin Strid, this fast-paced, magical animation by a trio of directors tells the story of an adventurous journey to the mysterious island where Mayor J.B. is now believed to be located. International premiere
-
-"Los Bando" (Christian Lo, Norway / Sweden) [Generation]
- International premiere
-
-"El día que resistía" (Alessia Chiesa, Argentina / France)  [Generation]
- They play hide-and-seek, read to each other, roughhouse and tumble with their dog Coco: At first glance, the siblings Fan (8), Tino (6) and Claa (4) lead an unburdened childhood life. But they are completely alone, and the forest is just outside, and wasn’t there something about a big bad wolf? With ample sensuality, Berlinale Talents alumna and Argentina native Alessia Chiesa’s feature-length debut unfolds into a dreamy but increasingly gloomy world. World premiere
-
-"Gordon and Paddy" (Linda Hambäck, Sweden) [Generation]
- Gordon och Paddy. Told in wildly popular Scandinavian whodunit style, frog police chief Gordon, voiced by Stellan Skarsgård, and his assistant Paddy (Melinda Kinnaman) uphold the law of the forest, track down nut thieves and protect forest residents from the fox. Courteousness is legal and dirty tricks are illegal. But that’s always a question of perspective, as this absorbing animation shows using oodles of charm and attention to detail, by filmmaker Linda Hambäck, born in South Korea. International premiere
-
-"My Giraffe" (Barbara Bredero, Netherlands / Belgium / Germany) [Generation]
- Dikkertje Dap. Patterson’s best friend has a long neck and soft, brightly-spotted fur. His name is Raf, he was born the same day as Patterson, and he is: a talking giraffe. Now the two of them are turning four, and soon it’ll be their first day of school. Only animals aren’t allowed at school. Inspired by the classic Dutch children’s song and poem by Annie M.G. Schmidt, and told with a wink, this film is an imaginative story on value and flux in an unusual friendship. International premiere
-
-"Mochila de plomo (Packing Heavy)" (Darío Mascambroni, Argentina) [Generation]
- World premiere
-
-"Les rois mongols (Cross My Heart)" (Luc Picard, Canada) [Generation]
- Montreal, October 1970. Twelve-year-old Manon’s poverty-stricken family breaks apart: His father has cancer and his mother is on the verge of a nervous breakdown. When Manon and her little brother are to be taken to a foster family, she makes a daredevil plan. Featuring stirring actors and skillfully linked to the real-life upheavals, this film manages to create a moving portrayal of those times, simultaneously exposing the lies and lack of understanding in the grown-up world in tragic and humorous ways. European premiere
-
-"The Seen and Unseen" (Kamila Andini, Indonesia / Netherlands / Australia / Qatar) [Generation]
- In Sekala Niskala (The Seen and Unseen), Indonesian director Kamila Andini, who presented her debut film The Mirror Never Lies at the Berlinale (Generation 2012) searches for answers to the question of how to say goodbye to a beloved person. Shaped by the Balinese understanding of Sekala - the seen, and Niskala - the unseen, Andini gives the world experience of a ten-year-old girl and her very ill twin brother an imagery of remarkable expressive power. European premiere
-
-"Supa Modo" (Likarion Wainaina, Germany / Kenya) [Generation]
- This drama by Kenyan director Likarion Wainaina, co-produced by Tom Tykwer, tells the inspiring story of nine-year-old Jo. In her acting debut, Stycie Waweru embodies with touching earnestness the terminally ill girl who dreams of being a superhero. Against all odds and battling the time left her, a whole village takes it upon themselves to make Jo’s last wish a reality: to make a film and star in it. Wainaina succeeds in creating a deeply moving observation of the comforting value of imagination in the face of the finiteness of a still young life. World premiere
-
-"Wang Zha de yuxue (Wangdrak's Rain Boots)" (Lhapal Gyal, China) [Generation]
- World premiere
-
-PERSPEKTIVE DEUTSCHES KINO
-
-"The Best Thing You Can Do With Your Life" (Zita Erffa, Germany) [Perspektive Deutsches Kino]
- Documentary. World premiere
-
-"Die defekte Katze" (Susan Gordanshekan, Germany) [Perspektive Deutsches Kino]
- With Pegah Ferydoni, Hadi Khanjanpour, Henrike von Kuick, Constantin von Jascheroff, Arash Marandi. World premiere
-
-"draußen" (Johanna Sunder-Plassmann, Tama Tobias-Macht, Germany) [Perspektive Deutsches Kino]
- Documentary. World premiere
-
-"Feierabendbier" (Ben Brummer, Germany) [Perspektive Deutsches Kino]
- With Tilman Strauß, Julia Dietze, Johann Jürgens, Christian Tramitz. World premiere
-
-"Impreza - Das Fest" (Alexandra Wesolowski, Germany) [Perspektive Deutsches Kino]
- Documentary. German premiere
-
-"Luz" (Tilman Singer, Germany) [Perspektive Deutsches Kino]
- With Luana Velis, Jan Bluthardt, Julia Riedler, Nadja Stübiger, Johannes Benecke. World premiere
-
-"Rückenwind von vorn (Away You Go)" (Philipp Eichholtz, Germany) [Perspektive Deutsches Kino]
- With Victoria Schulz, Aleksandar Radenković, Daniel Zillmann, Angelika Waller. World premiere
-
-"Verlorene (Lost Ones)" (Felix Hassenfratz, Germany) [Perspektive Deutsches Kino]
- With Maria Dragus, Anna Bachmann, Clemens Schick, Enno Trebs, Meira Durand. World premiere
-
-"Whatever Happens Next" (Julian Pörksen, Germany) [Perspektive Deutsches Kino]
- With Sebastian Rudolph, Lilith Stangenberg, Peter René Lüdicke, Christine Hoppe, Eike Weinreich. World premiere
-
-"Überall wo wir sind" (Veronika Kaserer, Germany) [Perspektive Deutsches Kino]
- Documentary. World premiere
+"Abnormal Family" (Masayuki Suo, Japan 1984) [Retrospektive]
 
 FORUM EXPANDED
 
 "6144 X 1024" (Margaret Honda, USA) [Forum Expanded]
  “separates out the entire colour spectrum of a digital projector in a computer-generated screening. This process lasts thirty-six hours in total and will be shown for a few hours each day over the course of the festival in the smaller of the two Arsenal cinema auditoria.”
-
-"Aala Kad Al Shawk (Le Voyage Immobile)" (Ghassan Salhab, Mohamed Soueid, Lebanon/France) [Forum Expanded]
 
 "Escape from Rented Island: The Lost Paradise of Jack Smith" (Jerry Tartaglia, USA)  [Forum Expanded]
  combines glamorous pictures of the performer and filmmaker, who died in 1989, with music from his own eccentric record collection.
@@ -354,20 +534,49 @@ FORUM EXPANDED
 "Eu sou o Rio" (Gabraz Sanna, Anne Santos, Brazil) [Forum Expanded]
  create both a portrait of Brazilian artist and musician Tantão and of the city of Rio.
 
+"Manila Scream Expanded" (Roxlee, Philippines) [Forum Expanded]
+
 "The Invisible Hands" (Marina Gioti, Georges Salameh, Greece, Egypt) [Forum Expanded]
- a documentary about the Egyptian band that’ll be giving a concert (see below).
+ Documentary about the Egyptian band that’ll be giving a concert.
 
 "An Untimely Film for Every One and No One" (Ayreen Anastas, Rene Gabri, US/Palestine/Armenia) [Forum Expanded]
 
 SPECIAL
 
-"The Bookshop" (Isabel Coixet, Spain / United Kingdom / Germany) [Special]
+"AMERICA Land of the FreeKS" (Ulli Lommel, Germany/USA) [Special]
+ – Documentary Form
+
+"The Bookshop" (Isabel Coixet, Spain/United Kingdom/Germany) [Special]
  With Emily Mortimer, Bill Nighy, Patricia Clarkson. German premiere
+
+"Gurrumul" (Paul Williams, Australia) [Special]
+ – Documentary, debut film
+
+"The Happy Prince" (Rupert Everett, Germany/Belgium/Italy) [Special]
+
+"The Interpreter" (Martin Šulík, Slovak Republic/Czech Republic/Austria) [Special]
+
+"Monster Hunt 2" (Raman Hui, Hong Kong, China) [Special]
+
+"RYŪICHI SAKAMOTO: async AT THE PARK AVENUE ARMORY" (Stephen Nomura Schible, USA/Japan) [Special]
+ – Documentary
 
 "Das schweigende Klassenzimmer (The Silent Revolution)" (Lars Kraume, Germany) [Special]
  With Leonard Scheicher, Tom Gramenz, Lena Klenke, Jonas Dassler, Florian Lukas, Jördis Triebel, Michael Gwisdek, Ronald Zehrfeld, Burghart Klaußner. World premiere
 
-Retrospektive
+"Songwriter" (Murray Cummings, United Kingdom) [Special]
+ - Documentary
+
+"Unga Astrid (Becoming Astrid)" (Pernille Fischer Christensen, Sweden/Germany/Denmark) [Special]
+
+"Usedom – Der freie Blick aufs Meer" (Heinz Brinkmann, Germany) [Special]
+ – Documentary
+
+"Viaje a los Pueblos Fumigados (A Journey to the Fumigated Towns)" (Fernando Solanas, Argentina) [Special]
+ - Documentary
+
+
+RETROSPEKTIVE
 
 "Das alte Gesetz" (Ewald André Dupont, Germany, 1923) [Retrospektive]
  World premiere of the digitally restored version in 2K DCP
@@ -390,7 +599,7 @@ Retrospektive
 "Tokyo Boshoku (Tokyo Twilight)" (Yasujiro Ozu, Japan, 1957) [Retrospektive]
  Presented by Wim Wenders. World premiere of the digitally restored version in 4K DCP
 
-Woche der Kritik
+WOCHE DER KRITIK
 
 "Scary Mother (Sashishi deda)" (Ana Urushadze, Georgia) [Woche der Kritik] Locarno
 

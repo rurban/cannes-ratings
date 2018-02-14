@@ -8,8 +8,8 @@ our $VERSION = '0.2';
 our $BASE = 'Berlinale';
 our @YEARS = qw(2016 2017 2018);
 our $comp_section = 'Wettbewerb';
-our @sections = ($comp_section, "Forum", "Panorama", "Generation", 
-                 "Perspektive Deutsches Kino", "Forum Expanded", "Special",
+our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
+                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Special",
                  "Native", "Retrospektive", "Woche der Kritik" );
 
 sub us_rating {
