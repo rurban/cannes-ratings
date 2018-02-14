@@ -653,7 +653,7 @@ get '/BerlinaleAll' => sub {
 };
 
 #get '/' => sub {
-#  redirect '/Berlinale2016';
+#  redirect '/Berlinale';
 #};
 
 1;

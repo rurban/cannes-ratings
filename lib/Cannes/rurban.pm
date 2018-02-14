@@ -680,7 +680,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/Sundance2018';
+  redirect '/Berlinale2018';
 };
 
 1;
