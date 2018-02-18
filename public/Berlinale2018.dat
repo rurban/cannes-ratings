@@ -417,7 +417,7 @@ Bruno Carmelo       5   https://letterboxd.com/brunocarmelo/film/the-heiresses/
 Marko Stojiljkovic  4   https://letterboxd.com/film_na_dan/film/the-heiresses/
 error_marc          4
 Wellington Almeida  4
-theomac93           3   https://letterboxd.com/theomac93/film/the-heiresses/
+Theo MacDonald      3   https://letterboxd.com/theomac93/film/the-heiresses/
 
 "Khook (Pig)" (Mani Haghighi, Iran) [Wettbewerb]
 
@@ -974,6 +974,7 @@ Cristian Rodríguez  5
 "Obscuro Barroco" (Evangelia Kranioti, France/Greece)  [Panorama]
  Documentary. World premiere
 
+Theo MacDonald          https://www.scenesjournal.com/reviews-1/2018/2/17/a-hypnagogic-trip-with-obscuro-barroco-alternative-berlinale
 # critic.de
 Jenny Jecke           4
 Sonja M. Schultz      5
@@ -2192,7 +2193,7 @@ RedHerring          6
 
 #letterboxd
 L Saturnino         10   https://letterboxd.com/lsaturn/film/theatre-of-war/
-theomac93           9   https://letterboxd.com/theomac93/film/theatre-of-war/
+Theo MacDonald    9   https://letterboxd.com/theomac93/film/theatre-of-war/
 Steini              8
 UNTERGRUNDSTAR      8
 alex8ymedio         5
@@ -2777,6 +2778,8 @@ Jessica Kiang (The Playlist, US)
 Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
 Neil Young (RogerEbert.com, GB)
 Noel Murray (The Playlist, US)
+Theo MacDonald (Scenes Journal)
+
 ";
 
 our $HEADER = <<"EOF";
