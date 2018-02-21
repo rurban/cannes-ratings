@@ -246,7 +246,7 @@ sub _dump {
       $critic{$c}->{stddev}  = sqrt($s / $num);
     }
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5
-      and $c !~ /^(Letterbox|Cannes|Sundance) \d/;
+      and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
@@ -470,7 +470,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      next if /^(IMDB|Letterbox) \d+/;
+      next if /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
       my $c;
       if ($critic{$_}->{mag}) {
         $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
