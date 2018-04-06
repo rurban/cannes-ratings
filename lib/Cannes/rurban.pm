@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2017);
+our @YEARS = (2010..2018);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other"); #, "Hopeful (temp.)"
@@ -360,7 +360,7 @@ sub _dump {
 	}
       }
     }
-    if ($num) {
+    if (1 || $num) {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
@@ -613,13 +613,16 @@ sub _list {
 }
 
 get '/Cannes' => sub {
+  _list(2018);
+};
+get '/Cannes2018' => sub {
+  _list(2018);
+};
+get '/Cannes2017' => sub {
   _list(2017);
 };
 get '/Cannes2016' => sub {
   _list(2016);
-};
-get '/Cannes2017' => sub {
-  _list(2017);
 };
 get '/2010' => sub {
   _list(2010);
@@ -644,6 +647,9 @@ get '/2016' => sub {
 };
 get '/2017' => sub {
   _list(2017);
+};
+get '/2018' => sub {
+  _list(2018);
 };
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
@@ -670,7 +676,7 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2017";
+  $all->{year} = "2010-2018";
   {
     no strict 'refs';
     $all->{side_details} = _side_details(\%critic, \%title, 
@@ -680,7 +686,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/Berlinale2018';
+  redirect '/Cannes2018';
 };
 
 1;
