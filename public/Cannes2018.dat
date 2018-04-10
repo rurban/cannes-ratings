@@ -75,7 +75,7 @@ my $hopeful = <<'EOF';
 
 "Burning" (Lee Chang-dong) [Competition]
 #letterboxd
-SupremeChun         10   https://letterboxd.com/supremechun/film/burning-1/
+#SupremeChun         10   https://letterboxd.com/supremechun/film/burning-1/
 Wicky2k5            6
 Void_Walka          5
 
@@ -83,13 +83,13 @@ Void_Walka          5
 
 "Radegund" (Terrence Malick) [Competition]
 #letterboxd
-Ekkard Bäuerle      10
+#Ekkard Bäuerle      10
 
 "The Wild Pear Tree" (Ceylan) [Competition]
 
 "Maya" (Mia Hansen-Løve) [Competition]
 
-"Roma" (Alfonso Cuarón) [Competition]
+"Roma" (Alfonso Cuarón) [Competition] Netflix
 #letterboxd
 robhsn              10
 SammyD1             10   https://letterboxd.com/sammyd1/film/roma-2018/
@@ -100,7 +100,6 @@ thAt                10
 dandahobs           10
 
 "Ash Is Purest White" (Jia Zhangke) [Competition]
-
 #letterboxd
 eugenshelling       7
 
@@ -110,7 +109,7 @@ eugenshelling       7
 
 "Loro" (Paolo Sorrentino) [Competition]?
 
-"The Image-Book" (Jean-Luc Godard) [Un Certain Regard]
+"Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Un Certain Regard]
 
 "Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
 
@@ -131,7 +130,6 @@ Gerry1996           10
 "Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré)
 
 "High Life" (Claire Denis)
-
 #letterboxd
 mebrosbigdaddy      6
 
@@ -185,6 +183,10 @@ Cristella Bond      6
 
 "Roads" (Sebastian Schipper)
 
+"Another Day of Life (Un día más con vida)" (Raúl de la Fuente, Damian Nenow)
+#letterboxd
+brutalmente_h       8
+
 "The Death And Life Of John F. Donovan" (Xavier Dolan)
 #letterboxd
 Deanndra            10
@@ -231,9 +233,8 @@ Krista Abela        5
 "The Beach Bum" (Harmony Korine) ??
 
 "Fahrenheit 451" (Ramin Bahrani)
-
 #letterboxd
-maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
+#maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
 Habobs              10
 meoretomi           7
 JackGough           6
@@ -243,8 +244,7 @@ BSides              5
 
 "Overgod" (Gabriel Mascaro)
 
-"The Other Side of the Wind" (Orson Welles) [Out of Competition]
-
+"The Other Side of the Wind" (Orson Welles) [Out of Competition] Netflix
 #letterboxd
 Mateo Garimberti    10
 Mário Guimarães     10   https://letterboxd.com/voidness/film/the-other-side-of-the-wind/
@@ -259,6 +259,8 @@ Devin Negrete       7
 icheckmovies        7
 GrimsChild          6
 robot2xl            5
+
+"They’ll Love Me When I’m Dead" (Morgan Neville) [Out of Competition] Netflix
 
 "La Quietud" (Pablo Trapero)
 
@@ -300,18 +302,15 @@ Rei_Hino_           6
 Regan Rigolo        1   https://letterboxd.com/honkeycat64/film/first-man/
 
 "Where'd You Go, Bernadette?" (Richard Linklater)
-
 #letterboxd
 A Something         6
 
 "The Modern Ocean" (Shane Carruth)
-
 #letterboxd
 seanom35            7
 
 
 "Psyché" (Gaspar Noé)
-
 #letterboxd
 Giacomooo           6
 
@@ -322,7 +321,6 @@ Giacomooo           6
 "At Eternity’s Gate" (Julian Schnabel)
 
 "Suspiria" (Luca Guadagnino)
-
 #letterboxd
 wizardofoz          10
 AlexHindson         10
@@ -360,10 +358,15 @@ Colton              1
 Luis Alfonso        1
 
 "The Little Stranger" (Lenny Abrahamson)
-
 #letterboxd
 artep               2
 marcuskbye          2
+
+"Norway" (Paul Greengrass)  Netflix
+#letterboxd
+Roy Parker      8   https://letterboxd.com/oh_itsroy/film/norway-2018/
+
+"Hold the Dark" (Jeremy Saulnier)  Netflix
 
 EOF
 
