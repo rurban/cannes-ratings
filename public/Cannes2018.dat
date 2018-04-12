@@ -48,7 +48,78 @@ COMPETITION
 #letterboxd
 juliavb             7
 
+"At War (Un autre monde)" (Stéphane Brizé) [Competition]
+
+"Dogman" (Matteo Garrone)  [Competition]
+
+"Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Competition]
+
+"Netemo sametemo" (Ryûsuke Hamaguchi) [Competition]
+
+"Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré)
+
+"Girls of the Sun (Les filles du soleil)" (Eva Husson) [Competition]
+
+"Ash Is Purest White" (Jia Zhangke) [Competition]
+#letterboxd
+eugenshelling       7
+
+"Shoplifters" (Koreeda) [Competition]
+
+"Cafarnaúm" (Nadine Labaki) [Competition]
+
+"Burning" (Lee Chang-dong) [Competition]
+#letterboxd
+#SupremeChun         10   https://letterboxd.com/supremechun/film/burning-1/
+Wicky2k5            6
+Void_Walka          5
+
+"BlackkKlansman" (Spike Lee) [Competition]
+
+"Under the Silver Lake" (David Robert Mitchell) [Competition]
+#letterboxd
+krrish27            7
+Elizabeth Bluhm     6
+
+"Three Faces" (Jafar Panahi) [Competition]
+
+"Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
+
+"Lazzaro Felice" (Alice Rohrwacher) [Competition]
+# super 16
+
+"Yomeddine" (Abu Bakr Shawky) [Competition]
+
+"The Summer (Leto)" (Kirill Serebrennikov) [Competition]
+# B&W
+
 UN CERTAIN REGARD
+
+#Granz Ali Abazi
+#Le Cahteui
+
+"Roadside Picnic (Di qiu zui hou de ye wan/Long Day's Journey Into Night)" (Bi Gan) [Un Certain Regard]
+
+"Manto" (Nandita Das) [Un Certain Regard]
+
+"Girl" (Lukas Dhont) [Un Certain Regard]
+
+"Little Tickles" (Andréa Bescond, Eric Métayer) [Un Certain Regard]
+
+"Sofia" (Meyem Benm’Barek) [Un Certain Regard]
+
+"Border" (Ali Abbasi) [Un Certain Regard]
+
+#(Vanessa ..)
+#"Euphoria" 
+#"My preferred ..." (Gaja Sishi, Syria)
+#"Distropers" (Etienne Galious, SA)
+#"Rafiki" Kenia
+
+"In My Room" (Ulrich Köhler)
+
+#"En Angel" (Ortega)
+#"On your knees guys" (Jirshanov, Kazakhstan)
 
 QUINZAINE
 
@@ -58,6 +129,26 @@ SPECIAL SCREENINGS
 
 "Solo : A Star Wars story " (Ron Howard) [Out Of Competition]
 
+"Dead Souls" (Wang Bing) [Out Of Competition]
+
+"10 Years In Thailand" (Aditya Assarat, Wisit Sasanatieng, Chulayarnon Sriphol & Apichatpong Weerasethakul) [Out Of Competition]
+
+"Pope Francis – A Man Of His Word" (Wim Wenders) [Out Of Competition]
+
+"La Traversée" (Romain Goupil) [Out Of Competition]
+
+"To The Four Winds" (Michel Toesca) [Out Of Competition]
+
+"Le Grand Cirque Mystique" (Carlos Diegues [Out Of Competition]
+
+"The State Against Mandela And The Others" (Nicolas Champeaux & Gilles Porte) [Out Of Competition]
+
+"Arctic" (Joe Penna) [Out Of Competition] Midnight Screening
+
+"The Spy Gone North" (Yoon Jong-Bing) [Out Of Competition] Midnight Screening
+
+"Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
+
 ACID
 
 
@@ -65,21 +156,9 @@ EOF
 
 my $hopeful = <<'EOF';
 
-"Roadside Picnic (Di qiu zui hou de ye wan/Long Day's Journey Into Night)" (Bi Gan)
-
 "Peterloo" (Mike Leigh) [Competition]
 
-"Lazzaro Felice" (Alice Rohrwacher) [Competition]
-
-"Three Faces" (Jafar Panahi) [Competition]
-
 "Where Life Is Born" (Carlos Reygadas)
-
-"Burning" (Lee Chang-dong) [Competition]
-#letterboxd
-#SupremeChun         10   https://letterboxd.com/supremechun/film/burning-1/
-Wicky2k5            6
-Void_Walka          5
 
 "Sunset" (Lazlo Nemes) [Competition]
 
@@ -101,23 +180,9 @@ Moviedude22         10
 thAt                10
 dandahobs           10
 
-"Ash Is Purest White" (Jia Zhangke) [Competition]
-#letterboxd
-eugenshelling       7
-
-"Dogman" (Matteo Garrone)  [Competition]
-
-"BlackkKlansman" (Spike Lee) [Competition]
-
 "Loro" (Paolo Sorrentino) [Competition]?
 
-"Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Un Certain Regard]
-
-"Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
-
 "Donbass" (Sergey Loznitsa) [Competition]
-
-"The Summer" (Kirill Serebrennikov) [Competition]
 
 "Birds of Passage (Pájaros de verano)" (Cristina Gallego, Ciro Guerra) [Competition]
 #letterboxd
@@ -129,15 +194,11 @@ Gerry1996           10
 
 "Vision" (Naomi Kawase) [Competition]
 
-"Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré)
-
 "High Life" (Claire Denis)  Special effects missing
 #letterboxd
 mebrosbigdaddy      6
 
 "Angelo" (Michael Schleinzer) [Un Certain Regard]
-
-"At War (Un autre monde)" (Stéphane Brizé)
 
 "Balcanic 1: Dog (Dragoste 1: Câine" (Florin Şerban)
 
@@ -176,7 +237,7 @@ Letterboxd 245_Ratings	8.4  https://letterboxd.com/film/eighth-grade/
 
 "The Man Who Killed Don Quixote (Terry Gilliam)
 #letterboxd
-Gemma Pecorini Goodall 8   https://letterboxd.com/gempecos/film/the-man-who-killed-don-quixote/
+#Gemma Pecorini Goodall 8   https://letterboxd.com/gempecos/film/the-man-who-killed-don-quixote/
 Simmen              8
 photogenic          7
 Fernsuarez          7
@@ -238,7 +299,7 @@ Krista Abela        5
 "Fahrenheit 451" (Ramin Bahrani)
 #letterboxd
 #maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
-Habobs              10
+#Habobs              10
 meoretomi           7
 JackGough           6
 avagreen            6
@@ -271,38 +332,32 @@ robot2xl            5
 “That’s Love” (Claire Burger)
 “The Fever” (Maya Da-Rin)
 "An Impossible Love" (Catherine Corsini)
-"Cafarnaúm" (Nadine Labaki)
 "Tramway to Jerusalem" (Amos Gitai) usually Venice
 "Yomeddine" (Abu Bakr Shawky, Egypt)
 "Weldi" (Mohamed Ben Attia, Tunisia)
 
-"Under the Silver Lake" (David Robert Mitchell)
-#letterboxd
-krrish27            7
-Elizabeth Bluhm     6
-
 "First Man" (Damien Chazelle)
 #letterboxd
-vox_lunae           10
-emma                10   https://letterboxd.com/disobedience/film/first-man/
-yazz 🦕              10
-willforthrill       10   https://letterboxd.com/willforthrill/film/first-man/
-Parker Ogilvy       10   https://letterboxd.com/p_ogilvy98/film/first-man/
-MostafaAgaber       10
-Rasmus Torstensson  10
-robhsn              10
-SammyD1             10
-Wayne___            10
-writerdirectora     10   https://letterboxd.com/writerdirectora/film/first-man/
-Moviedude22         10   https://letterboxd.com/moviedude22/film/first-man/
-thAt                10
-dandahobs           10
-ilovelalaland       10
-starjenamcp         10
-Kyle Scarselli      10
-Pollyjo             10
-Rei_Hino_           6
-Regan Rigolo        1   https://letterboxd.com/honkeycat64/film/first-man/
+#vox_lunae           10
+#emma                10   https://letterboxd.com/disobedience/film/first-man/
+#yazz 🦕              10
+#willforthrill       10   https://letterboxd.com/willforthrill/film/first-man/
+#Parker Ogilvy       10   https://letterboxd.com/p_ogilvy98/film/first-man/
+#MostafaAgaber       10
+#Rasmus Torstensson  10
+#robhsn              10
+#SammyD1             10
+#Wayne___            10
+#writerdirectora     10   https://letterboxd.com/writerdirectora/film/first-man/
+#Moviedude22         10   https://letterboxd.com/moviedude22/film/first-man/
+#thAt                10
+#dandahobs           10
+#ilovelalaland       10
+#starjenamcp         10
+#Kyle Scarselli      10
+#Pollyjo             10
+#Rei_Hino_           6
+#Regan Rigolo        1   https://letterboxd.com/honkeycat64/film/first-man/
 
 "Where'd You Go, Bernadette?" (Richard Linklater)
 #letterboxd
