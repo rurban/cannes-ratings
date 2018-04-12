@@ -103,17 +103,17 @@ UN CERTAIN REGARD
 
 "Girl" (Lukas Dhont) [Un Certain Regard]
 
-"Little Tickles" (Andréa Bescond, Eric Métayer) [Un Certain Regard]
+"Little Tickles (Les Chatouilles)" (Andréa Bescond, Eric Métayer) [Un Certain Regard]
 
 "Sofia" (Meyem Benm’Barek) [Un Certain Regard]
 
-"Border" (Ali Abbasi) [Un Certain Regard]
+"Border (Gräns)" (Ali Abbasi) [Un Certain Regard]
 
 "Angel Face" (Vanessa Filho) [Un Certain Regard]
 
 "Euphoria" (Valeria Golino) [Un Certain Regard]
 
-"Friend" (Wanuri Kahiu) [Un Certain Regard]
+"Friend (Rafiki)" (Wanuri Kahiu) [Un Certain Regard]
 
 "My Favorite Fabric" (Gaya Jiji) [Un Certain Regard]
 
@@ -133,6 +133,8 @@ SPECIAL SCREENINGS
 
 "Solo : A Star Wars story " (Ron Howard) [Out Of Competition]
 
+"Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
+
 "Dead Souls (Les Ames Mortes)" (Wang Bing) [Out Of Competition]
 
 "10 Years In Thailand" (Aditya Assarat, Wisit Sasanatieng, Chulayarnon Sriphol & Apichatpong Weerasethakul) [Out Of Competition]
@@ -150,8 +152,6 @@ SPECIAL SCREENINGS
 "Arctic" (Joe Penna) [Out Of Competition] Midnight Screening
 
 "The Spy Gone North (Gongjak)" (Yoon Jong-bin) [Out Of Competition] Midnight Screening
-
-"Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
 
 ACID
 
@@ -176,13 +176,13 @@ my $hopeful = <<'EOF';
 
 "Roma" (Alfonso Cuarón) [Competition] Netflix
 #letterboxd
-robhsn              10
-SammyD1             10   https://letterboxd.com/sammyd1/film/roma-2018/
-Wayne___            10
-writerdirectora     10
-Moviedude22         10
-thAt                10
-dandahobs           10
+#robhsn              10
+#SammyD1             10   https://letterboxd.com/sammyd1/film/roma-2018/
+#Wayne___            10
+#writerdirectora     10
+#Moviedude22         10
+#thAt                10
+#dandahobs           10
 
 "Loro" (Paolo Sorrentino) [Competition]?
 
@@ -194,7 +194,7 @@ domkirka            6
 
 "The House That Jack Built" (Lars Von Trier) [Competition]
 #letterboxd
-Gerry1996           10
+#Gerry1996           10
 
 "Vision" (Naomi Kawase) [Competition]
 
