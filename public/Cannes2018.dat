@@ -36,7 +36,8 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"Everybody Knows" (Asghar Farhadi) [Competition] Opening film
+"Everybody Knows" (Asghar Farhadi) [Competition]
+ Opening film
 
 # todas
 # critic.de
@@ -61,6 +62,7 @@ juliavb             7
 "Girls of the Sun (Les filles du soleil)" (Eva Husson) [Competition]
 
 "Ash Is Purest White" (Jia Zhangke) [Competition]
+
 #letterboxd
 eugenshelling       7
 
@@ -69,6 +71,7 @@ eugenshelling       7
 "Cafarnaúm" (Nadine Labaki) [Competition]
 
 "Burning" (Lee Chang-dong) [Competition]
+
 #letterboxd
 #SupremeChun         10   https://letterboxd.com/supremechun/film/burning-2018/
 Wicky2k5            6
@@ -78,6 +81,7 @@ TabascoTaco         4   https://letterboxd.com/tabascotaco/film/burning-2018/
 "BlackkKlansman" (Spike Lee) [Competition]
 
 "Under the Silver Lake" (David Robert Mitchell) [Competition]
+
 #letterboxd
 Elizabeth Bluhm     6
 krrish27            2
@@ -87,12 +91,12 @@ krrish27            2
 "Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
 
 "Lazzaro Felice" (Alice Rohrwacher) [Competition]
-# super 16
+ Super 16
 
 "Yomeddine" (Abu Bakr Shawky) [Competition]
 
 "The Summer (Leto)" (Kirill Serebrennikov) [Competition]
-# B&W
+ B&W
 
 UN CERTAIN REGARD
 
@@ -129,15 +133,19 @@ bonestructure       5
 
 "The Gentle Indifference of the World (Nochnoy Bog)" (Adilkhan Yerzhanov) [Un Certain Regard] <i>Moscow</i>
 
+
 QUINZAINE
 
 "Birds of Passage (Pájaros de verano)" (Cristina Gallego, Ciro Guerra) [Quinzaine]
+ Opener
+
 #letterboxd
 domkirka            6
 
 "Amin" (Philippe Faucon) [Quinzaine]
 
 "Climax (Psyché)" (Gaspar Noé) [Quinzaine]
+
 #letterboxd
 Giacomooo           6
 
@@ -165,7 +173,7 @@ Sundance 59_Ratings    7.22  http://cannes-ratings.herokuapp.com/Sundance2018?t=
 
 "Los silencios" (Beatriz Seigner) [Quinzaine]
 
-"Ming wang xing shi ke" (Ming Zhang) [Quinzaine]
+"Ming wang xing shi ke (The Pluto Moment)" (Ming Zhang) [Quinzaine]
   "Un film qui parle du cinéma et de politique et du rapport entre les villes et les campagnes."
 
 "Mandy" (Panos Cosmatos) [Quinzaine] <i>Sundance</i>
@@ -177,26 +185,24 @@ Sundance 83_Ratings    7.29  http://cannes-ratings.herokuapp.com/Sundance2018?t=
 "Mirai" (Mamoru Hosoda)  [Quinzaine]
  "Un hommage au cinéma d'animation Japonais et un hommage à Hosoda"
 
-"Le monde est à toi" (Romain Gavras) [Quinzaine]
+"The World is Yours (Le monde est à toi)" (Romain Gavras) [Quinzaine]
 
 "Petra" (Jaime Rosales) [Quinzaine]
  "Un film très cruel, une vision de l'Espagne inédite, un grand film !"
 
 "Samouni Road" (Stefano Savona)  [Quinzaine]
- "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
+ Documentary "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
 
-"Teret" (Ognjen Glavonic) [Quinzaine]
+"Teret (The Lord)" (Ognjen Glavonic) [Quinzaine]
  "Une manière très habile de raconter l'horreur sans la montrer"
 
-"Weldi" (Mohamed Ben Attia, Tunisia) [Quinzaine]
+"Weldi (Dear Son)" (Mohamed Ben Attia, Tunisia) [Quinzaine]
  "Un film extrêmement émouvant avec un acteur principal qui est bouleversant"
-
-"Troppa grazia" (Gianni Zanasi)  [Quinzaine] 
- "Une comédie complètement folle." Closing
 
 "Basses" (Félix Imbert) [Quinzaine]
 
-"Ce magnifique gâteau !" (Emma De Swaef, Marc Roels) [Quinzaine]
+"This Magnificent Cake (Ce magnifique gâteau)" (Emma De Swaef, Marc Roels) [Quinzaine]
+  TV Mini Series, Animation
 
 "La lotta" (Marco Bellocchio) [Quinzaine]
 
@@ -212,6 +218,8 @@ Sundance 83_Ratings    7.29  http://cannes-ratings.herokuapp.com/Sundance2018?t=
 
 "Le Sujet" (Patrick Bouchard) [Quinzaine]
 
+"Troppa grazia" (Gianni Zanasi)  [Quinzaine] 
+ "Une comédie complètement folle." Closing Film
 
 SEMAINE
 
