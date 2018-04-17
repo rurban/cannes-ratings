@@ -131,6 +131,82 @@ bonestructure       5
 
 QUINZAINE
 
+"Birds of Passage (Pájaros de verano)" (Cristina Gallego, Ciro Guerra) [Quinzaine]
+#letterboxd
+domkirka            6
+
+"Amin" (Philippe Faucon) [Quinzaine]
+
+"Climax (Psyché)" (Gaspar Noé) [Quinzaine]
+#letterboxd
+Giacomooo           6
+
+"Carmen y Lola" (Arantxa Echevarria) [Quinzaine]
+ First film "Un film sur l'amour de deux femmes"
+
+"Cómprame un revólver" (Julio Hernández Cordón) [Quinzaine]
+ "Un film Formidable, un mélange entre Peter Pan et Mad Max"
+
+"To the Ends of the Earth (Les Confins du monde)" (Guillaume Nicloux) [Quinzaine]
+ "Comment une guerre coloniale devient la guerre d'un seul homme"
+
+"El motoarrebatador" (Agustín Toscano) [Quinzaine]
+
+"En Liberté !" (Pierre Salvador) [Quinzaine]
+ "Une comédie réussie, avec Adèle Haenel et Pio Marmaï."
+
+"Leave No Trace" (Debra Granik)  [Quinzaine] <i>Sundance</i>
+
+"Treat Me Like Fire (Joueurs)" (Marie Monge) [Quinzaine]
+ First film
+
+"Los silencios" (Beatriz Seigner) [Quinzaine]
+
+"Ming wang xing shi ke" (Ming Zhang) [Quinzaine]
+  "Un film qui parle du cinéma et de politique et du rapport entre les villes et les campagnes."
+
+"Mandy" (Panos Cosmatos) [Quinzaine] <i>Sundance</i>
+ "Avec Nicolas Cage, un film d'action et d'horreur classique et fou. Un film de genre qui suit les règles !"
+
+"Mirai" (Mamoru Hosoda)  [Quinzaine]
+ "Un hommage au cinéma d'animation Japonais et un hommage à Hosoda"
+
+"Le monde est à toi" (Romain Gavras) [Quinzaine]
+
+"Petra" (Jaime Rosales) [Quinzaine]
+ "Un film très cruel, une vision de l'Espagne inédite, un grand film !"
+
+"Samouni Road" (Stefano Savona)  [Quinzaine]
+ "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
+
+"Teret" (Ognjen Glavonic) [Quinzaine]
+ "Une manière très habile de raconter l'horreur sans la montrer"
+
+"Weldi" (Mohamed Ben Attia, Tunisia) [Quinzaine]
+ "Un film extrêmement émouvant avec un acteur principal qui est bouleversant"
+
+"Troppa grazia" (Gianni Zanasi)  [Quinzaine] 
+ "Une comédie complètement folle." Closing
+
+"Basses" (Félix Imbert) [Quinzaine]
+
+"Ce magnifique gâteau !" (Emma De Swaef & Marc Roels) [Quinzaine]
+
+"La lotta" (Marco Bellocchio) [Quinzaine]
+
+"Las cruces" (Nicolas Boone) [Quinzaine]
+
+"La Nuit des sacs plastiques" (Gabriel Harel) [Quinzaine]
+
+"O órfão" (Carolina Markowicz) [Quinzaine]
+
+"Our Song to War" (Juanita Onzaga) [Quinzaine]
+
+"Skip Day" (Patrick Bresnan & Ivette Lucas) [Quinzaine]
+
+"Le Sujet" (Patrick Bouchard) [Quinzaine]
+
+
 SEMAINE
 
 "Chris the Swiss" (Anja Kofmel) [Semaine]
@@ -147,12 +223,14 @@ SEMAINE
 
 "Sir" (Rohena Gera) [Semaine]
 
-"Wildlife" (Paul Dano) [Semaine] Special Screening Opening Film <i>Sundance</i>
+"Wildlife" (Paul Dano) [Semaine] Special Screening <i>Sundance</i>
+ Opening Film
 
 Sundance 82_Ratings	7.66  http://cannes-ratings.herokuapp.com/Sundance2018?t=16#16
 Letterboxd 107_Ratings	7.5  https://letterboxd.com/film/wildlife-2018/
 
-"Guy" (Alex Lutz) [Semaine] Special Screening Closing Film
+"Guy" (Alex Lutz) [Semaine] Special Screening
+ Closing Film
 
 "Nos Batailles (Our Struggles)" (Guillaume Senez) [Semaine] Special Screening
 
@@ -202,7 +280,7 @@ ACID
 
 "Un violent désir de bonheur (A violent Desire for Joy)" (Clément Schneider) [ACID]
 
-"Alone at my wedding (Seule à mon mariage)" (Marta Bergman) [ACID]
+"Alone at My Wedding (Seule à mon mariage)" (Marta Bergman) [ACID]
 
 "We The Coyotes (Nous, les coyotes)" (Hanna Ladoul, Marco La Via) [ACID]
   aka "Just a Little Bit Longer"
@@ -250,10 +328,6 @@ my $hopeful = <<'EOF';
 
 "Donbass" (Sergey Loznitsa) [Competition]
 
-"Birds of Passage (Pájaros de verano)" (Cristina Gallego, Ciro Guerra) [Competition]
-#letterboxd
-domkirka            6
-
 "The House That Jack Built" (Lars Von Trier) [Competition]
 #letterboxd
 #Gerry1996           10
@@ -293,8 +367,6 @@ Letterboxd 245_Ratings	8.4  https://letterboxd.com/film/eighth-grade/
 
 "Farming" (Adewale Akinnuoye-Agbaje)
 
-"Fuga" (Agnieszka Smoczynska)
-
 "Keep Going (Continuer)" (Joachim Lafosse)
 
 "The Man Who Killed Don Quixote (Terry Gilliam)
@@ -319,8 +391,6 @@ brutalmente_h       8
 Chest Ramly         6   https://letterboxd.com/ram_hardy/film/domino-2018/
 
 "Non-Fiction (aka E-Book)" (Olivier Assayas)
-
-"The Nightingale" (Jennifer Kent)
 
 "Au poste" (Quentin Dupieux)
 
@@ -373,7 +443,6 @@ robot2xl            5
 “The Fever” (Maya Da-Rin)
 "An Impossible Love" (Catherine Corsini)
 "Tramway to Jerusalem" (Amos Gitai) usually Venice
-"Weldi" (Mohamed Ben Attia, Tunisia)
 
 "First Man" (Damien Chazelle)
 #letterboxd
@@ -405,11 +474,6 @@ A Something         6
 "The Modern Ocean" (Shane Carruth)
 #letterboxd
 seanom35            7
-
-
-"Psyché" (Gaspar Noé)
-#letterboxd
-Giacomooo           6
 
 "Pray For Jack" (Abdellatif Kechiche)
 
