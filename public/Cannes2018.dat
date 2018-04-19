@@ -98,7 +98,28 @@ krrish27            2
 "The Summer (Leto)" (Kirill Serebrennikov) [Competition]
  B&W
 
+"The Wild Pear Tree (Ahlat Agaci)" (Ceylan) [Competition]
+
+"Knife + Heart (Un couteau dans le cœur)" (Yann Gonzalez) [Competition]
+
+"The Little One (Ayka du kazakh)" (Sergei Dvortsevoy)  [Competition]
+
+"The Man Who Killed Don Quixote" (Terry Gilliam) [Competition]
+ Closing
+
+#letterboxd
+#Gemma Pecorini Goodall 8   https://letterboxd.com/gempecos/film/the-man-who-killed-don-quixote/
+Simmen              8
+photogenic          7
+Fernsuarez          7
+David Kawczynski    7
+Paul Dever          6
+Cristella Bond      6
+
 UN CERTAIN REGARD
+
+"Donbass" (Sergey Loznitsa) [Un Certain Regard]
+ Opener
 
 "Roadside Picnic (Di qiu zui hou de ye wan/Long Day's Journey Into Night)" (Bi Gan) [Un Certain Regard]
 
@@ -133,6 +154,9 @@ bonestructure       5
 
 "The Gentle Indifference of the World (Nochnoy Bog)" (Adilkhan Yerzhanov) [Un Certain Regard] <i>Moscow</i>
 
+"Muere, Monstruo, Muere" (Alejandro Fadel) [Un Certain Regard]
+
+"The Dead and the Others" (João Salaviza, Renée Nader Messora) [Un Certain Regard]
 
 QUINZAINE
 
@@ -259,6 +283,10 @@ SPECIAL SCREENINGS
 
 Letterboxd 38_Ratings	5.8  https://letterboxd.com/film/solo-a-star-wars-story/
 
+"The House That Jack Built" (Lars Von Trier) [Out Of Competition]
+#letterboxd
+#Gerry1996           10
+
 "Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
 
 "Dead Souls (Les Ames Mortes)" (Wang Bing) [Out Of Competition]
@@ -282,6 +310,17 @@ marcuskbye          4
 "Arctic" (Joe Penna) [Out Of Competition] Midnight Screening
 
 "The Spy Gone North (Gongjak)" (Yoon Jong-bin) [Out Of Competition] Midnight Screening
+
+"Fahrenheit 451" (Rahman Bahrani) [Out Of Competition] Midnight Screening
+
+#letterboxd
+#maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
+#Habobs              10
+meoretomi           7
+JackGough           6
+avagreen            6
+mukarjee            6
+BSides              5
 
 ACID
 
@@ -324,8 +363,6 @@ my $hopeful = <<'EOF';
 #letterboxd
 #Ekkard Bäuerle      10
 
-"The Wild Pear Tree" (Ceylan) [Competition]
-
 "Maya" (Mia Hansen-Løve) [Competition]
 
 "Roma" (Alfonso Cuarón) [Competition] Netflix
@@ -339,12 +376,6 @@ my $hopeful = <<'EOF';
 #dandahobs           10
 
 "Loro" (Paolo Sorrentino) [Competition]?
-
-"Donbass" (Sergey Loznitsa) [Competition]
-
-"The House That Jack Built" (Lars Von Trier) [Competition]
-#letterboxd
-#Gerry1996           10
 
 "Vision" (Naomi Kawase) [Competition]
 
@@ -383,16 +414,6 @@ Letterboxd 245_Ratings	8.4  https://letterboxd.com/film/eighth-grade/
 
 "Keep Going (Continuer)" (Joachim Lafosse)
 
-"The Man Who Killed Don Quixote (Terry Gilliam)
-#letterboxd
-#Gemma Pecorini Goodall 8   https://letterboxd.com/gempecos/film/the-man-who-killed-don-quixote/
-Simmen              8
-photogenic          7
-Fernsuarez          7
-David Kawczynski    7
-Paul Dever          6
-Cristella Bond      6
-
 "Roads" (Sebastian Schipper)
 
 "Another Day of Life (Un día más con vida)" (Raúl de la Fuente, Damian Nenow)
@@ -420,16 +441,6 @@ Krista Abela        5
 
 "The Beach Bum" (Harmony Korine) ??
 
-"Fahrenheit 451" (Ramin Bahrani)
-#letterboxd
-#maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
-#Habobs              10
-meoretomi           7
-JackGough           6
-avagreen            6
-mukarjee            6
-BSides              5
-
 "Overgod" (Gabriel Mascaro)
 
 "The Other Side of the Wind" (Orson Welles) [Out of Competition] Netflix
@@ -453,9 +464,13 @@ robot2xl            5
 "La Quietud" (Pablo Trapero)
 
 "The Mountain" (Rick Alverson)
+
 “That’s Love” (Claire Burger)
+
 “The Fever” (Maya Da-Rin)
+
 "An Impossible Love" (Catherine Corsini)
+
 "Tramway to Jerusalem" (Amos Gitai) usually Venice
 
 "First Man" (Damien Chazelle)
