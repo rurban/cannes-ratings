@@ -54,8 +54,10 @@ juliavb             7
 "Dogman" (Matteo Garrone)  [Competition]
 
 "Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Competition]
+#lb:"The Image Book"
 
 "Netemo sametemo" (Ryûsuke Hamaguchi) [Competition]
+#lb:"Netemosametemo"
 
 "Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré) [Competition]
 
@@ -72,6 +74,7 @@ eugenshelling       7
 "Shoplifters" (Hirekazu Kore-eda) [Competition]
 
 "Cafarnaúm" (Nadine Labaki) [Competition]
+#lb:"Capernaum"
 
 "Burning" (Lee Chang-dong) [Competition]
 
@@ -86,12 +89,13 @@ TabascoTaco         4   https://letterboxd.com/tabascotaco/film/burning-2018/
 "Under the Silver Lake" (David Robert Mitchell) [Competition]
 
 #letterboxd
+jalalbaqshi         6
 Elizabeth Bluhm     6
-krrish27            2
 
 "Three Faces" (Jafar Panahi) [Competition]
 
 "Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
+#lb:"Cold War"
 
 "Lazzaro Felice" (Alice Rohrwacher) [Competition]
  Super 16
@@ -111,12 +115,13 @@ krrish27            2
 
 #letterboxd
 #Gerry1996           10
+Victor Renan        6
 
 "Shadow" (Zhang Yimou) [Out Of Competition]
 
 "Solo : A Star Wars story " (Ron Howard) [Out Of Competition]
 
-Letterboxd 38_Ratings	5.8  https://letterboxd.com/film/solo-a-star-wars-story/
+Letterboxd 39_Ratings	5.9  https://letterboxd.com/film/solo-a-star-wars-story/
 
 "Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
 
@@ -155,6 +160,9 @@ bonestructure       5
 "Sofia" (Meyem Benm’Barek) [Un Certain Regard]
 
 "Border (Gräns)" (Ali Abbasi) [Un Certain Regard]
+
+#letterboxd
+Gavin               4
 
 "Angel Face (Gueule d'ange)" (Vanessa Filho) [Un Certain Regard]
 
@@ -197,6 +205,10 @@ Giacomooo           6
 "Carmen y Lola" (Arantxa Echevarria) [Quinzaine]
  First film "Un film sur l'amour de deux femmes"
 
+#letterboxd
+Carlota Moseguí     6
+Cristian Rodríguez  6
+
 "Cómprame un revólver" (Julio Hernández Cordón) [Quinzaine]
  "Un film Formidable, un mélange entre Peter Pan et Mad Max"
 
@@ -210,8 +222,8 @@ Giacomooo           6
 
 "Leave No Trace" (Debra Granik)  [Quinzaine] <i>Sundance</i>
 
-Letterboxd 98_Ratings  7.4   https://letterboxd.com/film/leave-no-trace/ratings/
 Sundance 59_Ratings    7.22  http://cannes-ratings.herokuapp.com/Sundance2018?t=34#34
+Letterboxd 140_Ratings  7.3  https://letterboxd.com/film/leave-no-trace/ratings/
 
 "Treat Me Like Fire (Joueurs)" (Marie Monge) [Quinzaine]
  First film
@@ -224,8 +236,8 @@ Sundance 59_Ratings    7.22  http://cannes-ratings.herokuapp.com/Sundance2018?t=
 "Mandy" (Panos Cosmatos) [Quinzaine] <i>Sundance</i>
  "Avec Nicolas Cage, un film d'action et d'horreur classique et fou. Un film de genre qui suit les règles !"
 
-Letterboxd 125_Ratings 7.2   https://letterboxd.com/film/mandy-2018/ratings/
 Sundance 83_Ratings    7.29  http://cannes-ratings.herokuapp.com/Sundance2018?t=31#31
+Letterboxd 127_Ratings 7.2   https://letterboxd.com/film/mandy-2018/ratings/
 
 "Mirai" (Mamoru Hosoda)  [Quinzaine]
  "Un hommage au cinéma d'animation Japonais et un hommage à Hosoda"
@@ -257,9 +269,15 @@ Sundance 83_Ratings    7.29  http://cannes-ratings.herokuapp.com/Sundance2018?t=
 
 "O órfão" (Carolina Markowicz) [Quinzaine]
 
+#letterboxd
+Mauries             8
+
 "Our Song to War" (Juanita Onzaga) [Quinzaine]
 
 "Skip Day" (Patrick Bresnan, Ivette Lucas) [Quinzaine]
+
+#letterboxd
+Mauries             8
 
 "Troppa grazia" (Gianni Zanasi)  [Quinzaine] 
  "Une comédie complètement folle." Closing Film
@@ -311,6 +329,9 @@ SPECIAL SCREENINGS
  Documentary
 
 #letterboxd
+harlow_tr           8
+JohnDoe             7
+Hannah Hembree      7
 Todd Malkin         6
 Andrew Jupin        5   https://letterboxd.com/jupinwhm/film/pope-francis-a-man-of-his-word/
 marcuskbye          4
@@ -330,6 +351,9 @@ marcuskbye          4
 
 "Whitney" (Kevin Macdonald) [Out Of Competition] Midnight Screening
 
+#letterboxd
+MelinaEm            8
+
 "Fahrenheit 451" (Rahman Bahrani) [Out Of Competition] Midnight Screening
 
 #letterboxd
@@ -345,7 +369,7 @@ ACID
 
 "Thunder Road" (Jim Cummings) [ACID] <i>SXSW</i>
 
-Letterboxd 41_Ratings	7.9  https://letterboxd.com/film/thunder-road-2018/
+Letterboxd 42_Ratings	7.8  https://letterboxd.com/film/thunder-road-2018/
 
 "Il se passe quelque chose" (Anne Alix) [ACID]
 
