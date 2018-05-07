@@ -36,7 +36,7 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"Everybody Knows" (Asghar Farhadi) [Competition]
+"Everybody Knows (Todos lo saben)" (Asghar Farhadi) [Competition]
  Opening film
 
 # todas
@@ -47,44 +47,45 @@ COMPETITION
 # ics
 # Chinese @CriticsGrid
 #letterboxd
+Raspou              4
 juliavb             7
 
-"At War (Un autre monde)" (Stéphane Brizé) [Competition]
+"Judgement Day (Yomeddine)" (Abu Bakr Shawky) [Competition]
 
-"Dogman" (Matteo Garrone)  [Competition]
+"The Summer (Leto)" (Kirill Serebrennikov) [Competition]
+ B&W
+
+"Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré) [Competition]
+
+"Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
+#lb:"Cold War"
 
 "Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Competition]
 #lb:"The Image Book"
 
-"Netemo sametemo" (Ryûsuke Hamaguchi) [Competition]
-#lb:"Netemosametemo"
+"Ash Is Purest White (Jiang hu er nv)" (Jia Zhangke) [Competition]
 
-"Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré) [Competition]
+#letterboxd
+eugenshelling       7
 
 "Girls of the Sun (Les filles du soleil)" (Eva Husson) [Competition]
 
 #letterboxd
 nikkiwild           1
 
-"Ash Is Purest White" (Jia Zhangke) [Competition]
+"Three Faces (Se Rokh)" (Jafar Panahi) [Competition]
 
-#letterboxd
-eugenshelling       7
+"Lazzaro Felice" (Alice Rohrwacher) [Competition]
+ Super 16
 
-"Shoplifters" (Hirekazu Kore-eda) [Competition]
+"Shoplifters (Manbiki kazoku)" (Hirekazu Kore-eda) [Competition]
 
-"Cafarnaúm" (Nadine Labaki) [Competition]
-#lb:"Capernaum"
+"Asako I & II (Netemo sametemo)" (Ryûsuke Hamaguchi) [Competition]
+#lb:"Netemosametemo"
 
-"Burning" (Lee Chang-dong) [Competition]
+"BlacKkKlansman" (Spike Lee) [Competition]
 
-#letterboxd
-#SupremeChun         10   https://letterboxd.com/supremechun/film/burning-2018/
-Wicky2k5            6
-Void_Walka          5
-TabascoTaco         4   https://letterboxd.com/tabascotaco/film/burning-2018/
-
-"BlackkKlansman" (Spike Lee) [Competition]
+"At War (En guerre/Un autre monde)" (Stéphane Brizé) [Competition]
 
 "Under the Silver Lake" (David Robert Mitchell) [Competition]
 
@@ -92,38 +93,28 @@ TabascoTaco         4   https://letterboxd.com/tabascotaco/film/burning-2018/
 jalalbaqshi         6
 Elizabeth Bluhm     6
 
-"Three Faces" (Jafar Panahi) [Competition]
+"Burning (Beoning)" (Lee Chang-dong) [Competition]
 
-"Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
-#lb:"Cold War"
+Letterboxd 4_Ratings	6.2  https://letterboxd.com/film/burning-2018/
+#SupremeChun         10   https://letterboxd.com/supremechun/film/burning-2018/
+#Wicky2k5            6
+#Void_Walka          5
+#TabascoTaco         4   https://letterboxd.com/tabascotaco/film/burning-2018/
+#letterboxd
 
-"Lazzaro Felice" (Alice Rohrwacher) [Competition]
- Super 16
+"Dogman" (Matteo Garrone)  [Competition]
 
-"Yomeddine" (Abu Bakr Shawky) [Competition]
-
-"The Summer (Leto)" (Kirill Serebrennikov) [Competition]
- B&W
-
-"The Wild Pear Tree (Ahlat Agaci)" (Ceylan) [Competition]
+"Capernaum (Capharnaüm)" (Nadine Labaki) [Competition]
+#lb:"Capernaum"
 
 "Knife + Heart (Un couteau dans le cœur)" (Yann Gonzalez) [Competition]
 
 "The Little One (Ayka du kazakh)" (Sergei Dvortsevoy)  [Competition]
 
-"The House That Jack Built" (Lars Von Trier) [Out Of Competition]
+"The Wild Pear Tree (Ahlat Agaci)" (Ceylan) [Competition]
 
 #letterboxd
-#Gerry1996           10
-Victor Renan        6
-
-"Shadow" (Zhang Yimou) [Out Of Competition]
-
-"Solo : A Star Wars story " (Ron Howard) [Out Of Competition]
-
-Letterboxd 39_Ratings	5.9  https://letterboxd.com/film/solo-a-star-wars-story/
-
-"Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
+moviemachine        7
 
 "The Man Who Killed Don Quixote" (Terry Gilliam) [Out Of Competition]
  Closing
@@ -144,48 +135,51 @@ UN CERTAIN REGARD
 "Donbass" (Sergey Loznitsa) [Un Certain Regard]
  Opener
 
-"Roadside Picnic (Di qiu zui hou de ye wan/Long Day's Journey Into Night)" (Bi Gan) [Un Certain Regard]
-
-#letterboxd
-bonestructure       5
-
-"Manto" (Nandita Das) [Un Certain Regard]
-
-"Sextape" (Antoine Desrosieres) [Un Certain Regard]
-
-"Girl" (Lukas Dhont) [Un Certain Regard]
-
-"Little Tickles (Les Chatouilles)" (Andréa Bescond, Eric Métayer) [Un Certain Regard]
-
-"Sofia" (Meyem Benm’Barek) [Un Certain Regard]
+"Friend (Rafiki)" (Wanuri Kahiu) [Un Certain Regard]
 
 "Border (Gräns)" (Ali Abbasi) [Un Certain Regard]
 
 #letterboxd
 Gavin               4
 
+"Sextape" (Antoine Desrosieres) [Un Certain Regard]
+
+"My Favorite Fabric" (Gaya Jiji) [Un Certain Regard]
+
+"El Angel" (Luis Ortega) [Un Certain Regard]
+
+"Girl" (Lukas Dhont) [Un Certain Regard]
+
+#letterboxd
+Raspou              6
+
 "Angel Face (Gueule d'ange)" (Vanessa Filho) [Un Certain Regard]
 
 #letterboxd
 a_doinel            10
 
-"Euforia" (Valeria Golino) [Un Certain Regard]
-
-"Friend (Rafiki)" (Wanuri Kahiu) [Un Certain Regard]
-
-"My Favorite Fabric" (Gaya Jiji) [Un Certain Regard]
-
-"The Harvesters" (Etienne Kallos) [Un Certain Regard]
-
-"In My Room" (Ulrich Köhler) [Un Certain Regard]
-
-"El Angel" (Luis Ortega) [Un Certain Regard]
-
-"The Gentle Indifference of the World (Nochnoy Bog)" (Adilkhan Yerzhanov) [Un Certain Regard] <i>Moscow</i>
+"Manto" (Nandita Das) [Un Certain Regard]
 
 "¡Muere, Monstruo, muere! (Die, Monster, die!)" (Alejandro Fadel) [Un Certain Regard]
 
+"The Harvesters" (Etienne Kallos) [Un Certain Regard]
+
+"Little Tickles (Les Chatouilles)" (Andréa Bescond, Eric Métayer) [Un Certain Regard]
+
+"Roadside Picnic (Di qiu zui hou de ye wan/Long Day's Journey Into Night)" (Bi Gan) [Un Certain Regard]
+
+#letterboxd
+bonestructure       5
+
+"Euforia" (Valeria Golino) [Un Certain Regard]
+
+"Sofia" (Meyem Benm’Barek) [Un Certain Regard]
+
 "The Dead and the Others (Chuva é cantoria na aldeia dos mortos)" (João Salaviza, Renée Nader Messora) [Un Certain Regard]
+
+"In My Room" (Ulrich Köhler) [Un Certain Regard]
+
+"The Gentle Indifference of the World (Nochnoy Bog)" (Adilkhan Yerzhanov) [Un Certain Regard] <i>Moscow</i>
 
 QUINZAINE
 
@@ -195,12 +189,56 @@ QUINZAINE
 #letterboxd
 domkirka            6
 
-"Amin" (Philippe Faucon) [Quinzaine]
+"Petra" (Jaime Rosales) [Quinzaine]
+ "Un film très cruel, une vision de l'Espagne inédite, un grand film !"
+
+"To the Ends of the Earth (Les Confins du monde)" (Guillaume Nicloux) [Quinzaine]
+ "Comment une guerre coloniale devient la guerre d'un seul homme"
+
+"Samouni Road" (Stefano Savona)  [Quinzaine]
+ Documentary "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
+
+"Los silencios" (Beatriz Seigner) [Quinzaine]
+
+"Treat Me Like Fire (Joueurs)" (Marie Monge) [Quinzaine]
+ First film
+
+"Teret (The Lord)" (Ognjen Glavonic) [Quinzaine]
+ "Une manière très habile de raconter l'horreur sans la montrer"
+
+"The World is Yours (Le monde est à toi)" (Romain Gavras) [Quinzaine]
+
+"Mandy" (Panos Cosmatos) [Quinzaine] <i>Sundance</i>
+ "Avec Nicolas Cage, un film d'action et d'horreur classique et fou. Un film de genre qui suit les règles !"
+
+Sundance 83_Ratings    7.29  http://cannes-ratings.herokuapp.com/Sundance2018?t=31#31
+Letterboxd 127_Ratings 7.2   https://letterboxd.com/film/mandy-2018/ratings/
 
 "Climax (Psyché)" (Gaspar Noé) [Quinzaine]
 
 #letterboxd
 Giacomooo           6
+
+"Weldi (Dear Son)" (Mohamed Ben Attia, Tunisia) [Quinzaine]
+ "Un film extrêmement émouvant avec un acteur principal qui est bouleversant"
+
+"Leave No Trace" (Debra Granik)  [Quinzaine] <i>Sundance</i>
+
+Sundance 59_Ratings    7.22  http://cannes-ratings.herokuapp.com/Sundance2018?t=34#34
+Letterboxd 140_Ratings  7.3  https://letterboxd.com/film/leave-no-trace/ratings/
+
+"Cómprame un revólver (Buy me a gun)" (Julio Hernández Cordón) [Quinzaine]
+ "Un film Formidable, un mélange entre Peter Pan et Mad Max"
+
+"En Liberté! (The Trouble with You)" (Pierre Salvador) [Quinzaine]
+ "Une comédie réussie, avec Adèle Haenel et Pio Marmaï."
+
+"This Magnificent Cake (Ce magnifique gâteau)" (Emma De Swaef, Marc Roels) [Quinzaine]
+  Animation
+
+"Amin" (Philippe Faucon) [Quinzaine]
+
+"El motoarrebatador (The Snatch Thief)" (Agustín Toscano) [Quinzaine]
 
 "Carmen y Lola" (Arantxa Echevarria) [Quinzaine]
  First film "Un film sur l'amour de deux femmes"
@@ -209,78 +247,37 @@ Giacomooo           6
 Carlota Moseguí     6
 Cristian Rodríguez  6
 
-"Cómprame un revólver" (Julio Hernández Cordón) [Quinzaine]
- "Un film Formidable, un mélange entre Peter Pan et Mad Max"
-
-"To the Ends of the Earth (Les Confins du monde)" (Guillaume Nicloux) [Quinzaine]
- "Comment une guerre coloniale devient la guerre d'un seul homme"
-
-"El motoarrebatador (The Snatch Thief)" (Agustín Toscano) [Quinzaine]
-
-"En Liberté !" (Pierre Salvador) [Quinzaine]
- "Une comédie réussie, avec Adèle Haenel et Pio Marmaï."
-
-"Leave No Trace" (Debra Granik)  [Quinzaine] <i>Sundance</i>
-
-Sundance 59_Ratings    7.22  http://cannes-ratings.herokuapp.com/Sundance2018?t=34#34
-Letterboxd 140_Ratings  7.3  https://letterboxd.com/film/leave-no-trace/ratings/
-
-"Treat Me Like Fire (Joueurs)" (Marie Monge) [Quinzaine]
- First film
-
-"Los silencios" (Beatriz Seigner) [Quinzaine]
+"Mirai" (Mamoru Hosoda)  [Quinzaine]
+ "Un hommage au cinéma d'animation Japonais et un hommage à Hosoda"
 
 "Ming wang xing shi ke (The Pluto Moment)" (Ming Zhang) [Quinzaine]
   "Un film qui parle du cinéma et de politique et du rapport entre les villes et les campagnes."
 
-"Mandy" (Panos Cosmatos) [Quinzaine] <i>Sundance</i>
- "Avec Nicolas Cage, un film d'action et d'horreur classique et fou. Un film de genre qui suit les règles !"
-
-Sundance 83_Ratings    7.29  http://cannes-ratings.herokuapp.com/Sundance2018?t=31#31
-Letterboxd 127_Ratings 7.2   https://letterboxd.com/film/mandy-2018/ratings/
-
-"Mirai" (Mamoru Hosoda)  [Quinzaine]
- "Un hommage au cinéma d'animation Japonais et un hommage à Hosoda"
-
-"The World is Yours (Le monde est à toi)" (Romain Gavras) [Quinzaine]
-
-"Petra" (Jaime Rosales) [Quinzaine]
- "Un film très cruel, une vision de l'Espagne inédite, un grand film !"
-
-"Samouni Road" (Stefano Savona)  [Quinzaine]
- Documentary "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
-
-"Teret (The Lord)" (Ognjen Glavonic) [Quinzaine]
- "Une manière très habile de raconter l'horreur sans la montrer"
-
-"Weldi (Dear Son)" (Mohamed Ben Attia, Tunisia) [Quinzaine]
- "Un film extrêmement émouvant avec un acteur principal qui est bouleversant"
-
-"Basses" (Félix Imbert) [Quinzaine]
-
-"This Magnificent Cake (Ce magnifique gâteau)" (Emma De Swaef, Marc Roels) [Quinzaine]
-  Animation
-
-"La lotta" (Marco Bellocchio) [Quinzaine]
-
-"Las cruces" (Nicolas Boone) [Quinzaine]
-
-"La Nuit des sacs plastiques" (Gabriel Harel) [Quinzaine]
-
-"O órfão" (Carolina Markowicz) [Quinzaine]
-
-#letterboxd
-Mauries             8
-
-"Our Song to War" (Juanita Onzaga) [Quinzaine]
-
-"Skip Day" (Patrick Bresnan, Ivette Lucas) [Quinzaine]
-
-#letterboxd
-Mauries             8
-
 "Troppa grazia" (Gianni Zanasi)  [Quinzaine] 
  "Une comédie complètement folle." Closing Film
+
+"Basses" (Félix Imbert) [Quinzaine] Short #2
+
+"La lotta" (Marco Bellocchio) [Quinzaine] Short #2
+
+"Las cruces" (Nicolas Boone) [Quinzaine] Short #2
+
+"La Nuit des sacs plastiques" (Gabriel Harel) [Quinzaine] Short #3
+
+"O órfão" (Carolina Markowicz) [Quinzaine] #Short #2
+
+#letterboxd
+Mauries             8
+
+"Our Song to War" (Juanita Onzaga) [Quinzaine] Short #3
+
+"Skip Day" (Patrick Bresnan, Ivette Lucas) [Quinzaine] Short #3
+
+#letterboxd
+Mauries             8
+
+"L'Arbre et la Pirogue" (Sebastian Marques) [Quinzaine] Out of Competition
+ Prix Oceans France, suive du film prime, Label Europa Cinemas
 
 SEMAINE
 
@@ -316,14 +313,35 @@ Letterboxd 108_Ratings	7.5  https://letterboxd.com/film/wildlife-2018/
 
 SPECIAL SCREENINGS
 
-"Another Day of Life (Un día más con vida)" (Raúl de la Fuente, Damian Nenow) [Out Of Competition]
- Special Screening
+"The Eyes of Orson Welles" (Mark Cousins) [Out Of Competition] Cannes Classics
 
 "Dead Souls (Les Ames Mortes)" (Wang Bing) [Out Of Competition]
  Documentary
 
 "10 Years In Thailand" (Aditya Assarat, Wisit Sasanatieng, Chulayarnon Sriphol & Apichatpong Weerasethakul) [Out Of Competition]
  Documentary
+
+"Arctic" (Joe Penna) [Out Of Competition] Midnight Screening
+
+"Another Day of Life (Un día más con vida)" (Raúl de la Fuente, Damian Nenow) [Out Of Competition]
+ Special Screening
+
+"The Spy Gone North (Gongjak)" (Yoon Jong-bin) [Out Of Competition] Midnight Screening
+
+"O Grande Circo Mistico (Le Grand Cirque Mystique)" (Carlos Diegues) [Out Of Competition]
+
+"Fahrenheit 451" (Rahman Bahrani) [Out Of Competition] Midnight Screening
+
+#letterboxd
+#maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
+#Habobs              10
+meoretomi           7
+JackGough           6
+avagreen            6
+mukarjee            6
+BSides              5
+
+"Le Grand Bain" (Gilles Lellouche) [Out Of Competition]
 
 "Pope Francis – A Man Of His Word" (Wim Wenders) [Out Of Competition]
  Documentary
@@ -336,34 +354,29 @@ Todd Malkin         6
 Andrew Jupin        5   https://letterboxd.com/jupinwhm/film/pope-francis-a-man-of-his-word/
 marcuskbye          4
 
-"La Traversée" (Romain Goupil) [Out Of Competition]
-
-"To The Four Winds" (Michel Toesca) [Out Of Competition]
-
-"O Grande Circo Mistico (Le Grand Cirque Mystique)" (Carlos Diegues) [Out Of Competition]
-
 "The State Against Mandela And The Others" (Nicolas Champeaux, Gilles Porte) [Out Of Competition]
  Documentary
 
-"Arctic" (Joe Penna) [Out Of Competition] Midnight Screening
+"The House That Jack Built" (Lars Von Trier) [Out Of Competition]
 
-"The Spy Gone North (Gongjak)" (Yoon Jong-bin) [Out Of Competition] Midnight Screening
+#letterboxd
+#Gerry1996           10
+Victor Renan        6
+
+"Solo : A Star Wars story " (Ron Howard) [Out Of Competition]
+
+Letterboxd 39_Ratings	5.9  https://letterboxd.com/film/solo-a-star-wars-story/
+
+#"Shadow" (Zhang Yimou) [Out Of Competition]??
+
+"La Traversée" (Romain Goupil) [Out Of Competition]
 
 "Whitney" (Kevin Macdonald) [Out Of Competition] Midnight Screening
 
 #letterboxd
 MelinaEm            8
 
-"Fahrenheit 451" (Rahman Bahrani) [Out Of Competition] Midnight Screening
-
-#letterboxd
-#maia                10   https://letterboxd.com/maiart/film/fahrenheit-451-2018/
-#Habobs              10
-meoretomi           7
-JackGough           6
-avagreen            6
-mukarjee            6
-BSides              5
+"To The Four Winds" (Michel Toesca) [Out Of Competition]
 
 ACID
 
