@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl5.24 -s
+#!/usr/local/bin/cperl5.26.2-nt -s
 # usage: ./Critic.de.pl
 # no timestamp by server
 use File::Copy;
