@@ -6,7 +6,7 @@ package Cannes::rurban::2018; # -*- perl -*-
 # Recalc and sort ratings by all Cannes critics:
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
-#   http://www.lefilmfrancais.com/document/cannes2017/quotidien/FF9/index.html (scale 0-4)
+#   http://www.lefilmfrancais.com/document/cannes2018/quotidien/FF9/index.html (scale 0-4)
 #   http://jury.critic.de/cannes/
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -90,6 +90,17 @@ Maria Ulfsak-Sheripova
 # Le film français
 # ics
 # Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Qin Wan             
+Emily Liang         
+Zeyuan              
 #letterboxd
 salimossal          9
 franki_xcx          8   https://letterboxd.com/franki_xcx/film/everybody-knows/
@@ -908,15 +919,15 @@ $critics_group[6] = "Chinese Grid";
 $critics[6] = "
 Li Xun (CTP Cinema, China)
 Liu Min (Sina Movie, China)
-Muyan (Bund Pictorial, China)
-Yin Xiang (Cinephilia, China)
-Kate (Movie View, China)
-Xie Meng (Southern Weekly, China)
-Emily (163.com, China)
+Muyan (Ellemen, France)
+Yin Xiang (Cinematik, China)
+Luo Jin (Iris, China)
+Xie Meng (Producer+Southern Weekly, China)
+PeterCat (DeepFocus, China)
 Taotao (TaoMovie, China)
 Qin Wan (Phoenix, China)
-Li Yunbo (DuSir Movie, China)
-Liuying (DeepFocus, China)
+Emily Liang (EmilyFilms, USA)
+Zeyuan (Worldscreen, China)
 ";
 # $critics_group[7] = "TF1.fr";
 #$critics[7] = "
