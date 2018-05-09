@@ -65,9 +65,14 @@ Víctor Esquirol        5.5
 # critic.de
 Annabel Brady-Brown   5
 Frédéric Jaeger     4
+Jenny Jecke           2.5
 Till Kadritzke        4
+#Daniel Kasman        2.5
+#Boris Nelepo         4
+Giovanni Marchini Camina 2.5
 Philipp Schwarz       4
 Lukas Stern           6
+Blake Williams        2.5
 # screen daily
 # ioncinema
 Marta Balaga             4
@@ -499,6 +504,8 @@ SEMAINE
 
 Sundance 82_Ratings	7.66  http://cannes-ratings.herokuapp.com/Sundance2018?t=16#16
 Letterboxd 113_Ratings	7.5  https://letterboxd.com/film/wildlife-2018/
+# critic.de
+Jenny Jecke           4
 #letterboxd
 Truman2712          7
 RafGeusens          7
@@ -826,7 +833,7 @@ Scott Foundas (Film Comment, USA)
 Gustavo Beck (Curitiba International Film Festival, Brazil)
 Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
 Javier H. Estrada (Caimán CDC, España)
-Pamela Bienzobas (Mabuse, Chile) 
+Pamela Bienzobas (Revista Cosas, Chile) 
 Xavi Serra (Ara, España) 
 Dominik Kamalzadeh (Der Standard, Austria)
 Alvaro Arroba (Cinema Scope, España)
@@ -903,23 +910,30 @@ Anton Dolin (Afisha, Russia)
 Katja Nicodemus (Die Zeit, Deutschland)
 Screen International (Screen International, USA) 
 ";
+#Michael Kienzl (critic.de, Deutschland)
+#Nino Klingler (critic.de, Deutschland)
+#Miriam Bale (MUBI, USA)
+#Arnaud Hée (Critikat.com, France)
+#Anke Westphal (Berliner Zeitung, Deutschland)
+#Claudia Reinhard (critic.de, Deutschland)
+#Christoph Huber (Die Presse, Austria)
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics_group[4] = "critic.de";
 $critics[4] = "
-Miriam Bale (MUBI, USA)
-Arnaud Hée (Critikat.com, France)
 Andrey Arnold (Die Presse, Austria)
-Anke Westphal (Berliner Zeitung, Deutschland)
-Claudia Reinhard (critic.de, Deutschland)
-Christoph Huber (Die Presse, Austria)
+Pamela Bienzobas (Revista Cosas, Chile) 
+Annabel Brady-Brown (Fireflies)
 Frédéric Jaeger (critic.de, Deutschland)
-Lukas Stern (critic.de, Deutschland)
+Jenny Jecke (Moviepilot, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
 Daniel Kasman (MUBI, USA)
-Michael Kienzl (critic.de, Deutschland)
-Nino Klingler (critic.de, Deutschland)
-Giovanni Marchini Camina (Filmstage, USA)
-Jenny Jecke (moviepilot.de, Deutschland)
+Violeta Kovacsics (D.d.Tarragona, España) 
+Boris Nelepo (Svoboda.org, Russia)
+Giovanni Marchini Camina (Sight & Sound, USA)
+Philipp Schwarz (critic.de, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Rüdiger Suchsland (arteschock, Deutschland) 
+Blake Williams (Filmmaker Magazine, Canada)
 ";
 # ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2017/
 $critics_group[5] = "ICSfilm panel";
