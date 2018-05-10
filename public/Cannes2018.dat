@@ -246,6 +246,7 @@ sacinephile         2
 "Judgement Day (Yomeddine)" (Abu Bakr Shawky) [Competition]
 
 Tim Grierson                  https://www.screendaily.com/reviews/yomeddine-cannes-review/5129099.article
+Peter Bradshaw          4     https://www.theguardian.com/film/2018/may/10/yomeddine-review-egyptian-leper-colony-drama-is-slight-and-sugary
 # todas
 Jaime Pena              4.5
 Daniel Kasman           1.5
@@ -567,7 +568,8 @@ mangemanche         3
 
 "Friend (Rafiki)" (Wanuri Kahiu) [Un Certain Regard]
 
-Hannah Summers      https://www.theguardian.com/global-development/2018/apr/27/kenya-rafiki-film-nairobi-censors-cannes-wanuri-kahiu
+Hannah Summers         https://www.theguardian.com/global-development/2018/apr/27/kenya-rafiki-film-nairobi-censors-cannes-wanuri-kahiu
+Gwilym Mumford      6  https://www.theguardian.com/film/2018/may/09/rafiki-review-sweet-lesbian-romance-aims-to-change-kenyan-hearts-and-minds-cannes 
 # todas
 Diego Batlle            5.5
 Carlos F. Heredero      5.5
@@ -727,6 +729,7 @@ SPECIAL SCREENINGS
 
 "The Eyes of Orson Welles" (Mark Cousins) [Out Of Competition] Cannes Classics
 
+Peter Bradshaw      8   https://www.theguardian.com/film/2018/may/09/the-eyes-of-orson-welles-review-cannes-mark-cousins
 #letterboxd
 LilithAnything      8
 Alex Billington     6   https://letterboxd.com/firstshowing/film/the-eyes-of-orson-welles/
@@ -1051,6 +1054,7 @@ SEMAINE
 
 Sundance 82_Ratings	7.66  http://cannes-ratings.herokuapp.com/Sundance2018?t=16#16
 Letterboxd 113_Ratings	7.5  https://letterboxd.com/film/wildlife-2018/
+Peter Bradshaw          8    https://www.theguardian.com/film/2018/may/09/wildlife-review-paul-dano-carey-mulligan-jake-gyllenhaal
 # todas
 Fernando Juan Lima      7
 Fredy Friedlander       8
@@ -1596,6 +1600,7 @@ Zeyuan (Worldscreen, China)
 # indiewire + various other
 $critics_group[7] = "Other";
 $critics[7] = "
+Gwilym Mumford (Guardian, UK)
 Boyd Van Hoeij (The Hollywood Reporter, France)
 Jay Weissberg (Variety, Italy)
 Clarence Tsui (South China Morning Post, Hong Kong)
@@ -1775,7 +1780,6 @@ Pierre Murat (Telerama, France)
 Raffi Asdourian (The Film Stage, USA)
 Raphael Abraham (Financial Times, US)
 Rebecca Cope (Harper's Bazaar, USA)
-Reini Urban (Free, Austria)
 Richard Corliss (Time, USA)
 Richard Lawson (Vanity Fair, USA)
 Richard Mowe (Eye For Film, UK)
