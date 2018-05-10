@@ -86,10 +86,27 @@ Philipp Schwarz       4
 Lukas Stern           6
 Blake Williams        2.5
 # screen daily
+# Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# Le film français
+Gaël Golhen              7.5
+Jean-Claude Raspiengeas  2.5
+Thierry Chèze            5
+Eric Neuhoff             1
+Stéphane Delorme         1
+Jacques Mandelbaum       2.5
+Philippe Rouyer          7.5
+Pierre Vavasseur         5
+Pierre Murat             2.5
+Victoria Gairin          5
+Serge Kaganski           2.5
+Gilles Kerdreux          2.5
+Nicolas Schaller         5
+Barbara Théate           7.5
+Christophe Carriére      5
 # ioncinema
 Marta Balaga             4
 Beatrice Behn            
-Nicholas Bell            4
+Nicholas Bell            4    https://www.ioncinema.com/reviews/asghar-farhadi-everybody-knows-review
 Julia Blaga         
 Per Juul Carlsen    
 Monica Delgado      
@@ -107,7 +124,6 @@ Daniella Shreir
 Cédric Succivalli        3
 Tommaso Tocci            4
 Maria Ulfsak-Sheripova   
-# Le film français
 # ics
 Cédric Succivalli        3
 Emily Barnett            
@@ -129,8 +145,7 @@ Erik Anderson            5    http://awardswatch.com/2018/05/08/cannes-review-as
 Dennis Lim               
 Blake Williams           3
 Jon Frosch               6
-Nicholas Bell            4
-# Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+#Nicholas Bell           4
 # Chinese @CriticsGrid
 Li Xun              5
 Liu Min             5
@@ -251,6 +266,22 @@ Till Kadritzke        2.5
 Giovanni Marchini Camina 5
 Lukas Stern           2.5
 Blake Williams        2.5
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         2.5
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        6
 Emily Barnett            
@@ -273,6 +304,27 @@ Dennis Lim
 Blake Williams           2
 Jon Frosch               4
 Nicholas Bell            3
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga         
+Per Juul Carlsen    
+Monica Delgado      
+Bilge Ebiri         
+Jason Gorber        
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 #letterboxd
 Heather_Grrrl       8
 Alex Billington     8   https://letterboxd.com/firstshowing/film/yomeddine/
@@ -298,6 +350,22 @@ Amandine Moulis     2
 "The Summer (Leto)" (Kirill Serebrennikov) [Competition]
  B&W
 
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -436,6 +504,22 @@ Till Kadritzke        4       https://www.critic.de/film/birds-of-passage-11965/
 #Daniel Kasman        6
 Lukas Stern           4
 #Blake Williams        7.5
+# Le film français
+Gaël Golhen              7.5
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             5
+Stéphane Delorme         2.5
+Jacques Mandelbaum       1
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             7.5
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -494,6 +578,22 @@ Víctor Esquirol        4
 # critic.de
 Annabel Brady-Brown   6
 Frédéric Jaeger     5
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        6
 Emily Barnett            
@@ -541,6 +641,22 @@ Azadeh jafari       1
 
 "Border (Gräns)" (Ali Abbasi) [Un Certain Regard]
 
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -748,6 +864,7 @@ QUINZAINE
 
 Tim Grierson            https://twitter.com/TimGrierson/status/994145760689127424
 Marc van de Klashorst   https://icsfilm.org/reviews/cannes-2018-review-birds-passage-ciro-guerra-cristina-gallego/
+Eric Lavallée           https://www.ioncinema.com/reviews/cristina-gallego-ciro-guerra-birds-of-passage-pajaros-de-verano-review
 # todas
 Roger Koza              4.5
 Daniel Kasman           2.5
@@ -1364,24 +1481,24 @@ Carlota Mossegui (PERRO BLANCO, Spain)
 Daniella Shreir (Another Gaze Journal, UK)
 Cédric Succivalli (International Cinephil Society, France)
 Tommaso Tocci (International Cinephile Society, Italy)
-Maria Ulfsak (Eesti Ekspress, Estonia)
+Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 ";
 # Le film français 0-4
 # http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
 $critics_group[2] = "Le film français";
 $critics[2] = "
 Gaël Golhen (Premiere, France)
-Jean-Claude Raspiergeas (la Croix, France)
+Jean-Claude Raspiengeas (la Croix, France)
 Thierry Chèze (Studio ciné live, France)        
 Eric Neuhoff (Le Figaro, France)
 Stéphane Delorme (Cahiers du cinema, France)
-Thomas Sotinel (Le Monde, France)
+Jacques Mandelbaum (Le Monde, France)
 Philippe Rouyer (Positif, France)
 Pierre Vavasseur (le Parisien, France)
 Pierre Murat (Telerama, France)
-Phalène de La Valette (Le Point, France)
+Victoria Gairin (Le Point, France)
 Serge Kaganski (Les Inrockuptibles, France)
-Gille Kerdreux (oeust france, France)
+Gilles Kerdreux (oeust france, France)
 Nicolas Schaller (Observateur, France)
 Barbara Théate (Le Journal du Dimanche, France)      
 Christophe Carriére (L'Express, France)
