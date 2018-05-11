@@ -6,7 +6,7 @@ package Cannes::rurban::2018; # -*- perl -*-
 # Recalc and sort ratings by all Cannes critics:
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
-#   http://www.lefilmfrancais.com/document/cannes2018/quotidien/FF9/index.html (scale 0-4)
+#   http://www.lefilmfrancais.com/tags/13581/cannes-2018
 #   http://jury.critic.de/cannes/
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -271,6 +271,7 @@ sacinephile         2
 
 Tim Grierson                  https://www.screendaily.com/reviews/yomeddine-cannes-review/5129099.article
 Peter Bradshaw          4     https://www.theguardian.com/film/2018/may/10/yomeddine-review-egyptian-leper-colony-drama-is-slight-and-sugary
+Jay Weissberg                 http://variety.com/2018/film/reviews/yomeddine-review-1202805143/
 # todas
 Jaime Pena              4.5
 Daniel Kasman           2
@@ -467,7 +468,7 @@ Tommaso Tocci            7  https://icsfilm.org/reviews/cannes-2018-review-leto-
 #Carlota Moseguí         
 Gaia Furrer              8
 Marc van de Klashorst    6
-Guy Lodge                5
+Guy Lodge                5  http://variety.com/2018/film/reviews/leto-review-1202805279/
 #Diego Batlle            9
 Aldo Álvareztostado      9
 Stephanie Zacharek       8
@@ -557,6 +558,7 @@ bigur               2
 "Sorry Angel (Plaire, aimer et courir vite)" (Christophe Honoré) [Competition]
 
 Fionnuala Halligan      https://www.screendaily.com/reviews/sorry-angel-cannes-review/5129026.article
+Peter Debruge           http://variety.com/2018/film/reviews/sorry-angel-review-plaire-aimer-et-courir-vite-1202805122/
 # todas
 Jaime Pena              6
 Daniel Kasman           4.5
@@ -709,7 +711,7 @@ Elisabeth Franck-Dumas
 #Carlota Moseguí         
 Gaia Furrer              
 Marc van de Klashorst    
-Guy Lodge                
+Guy Lodge                    http://variety.com/2018/film/reviews/cold-war-review-1202804041/
 #Diego Batlle            
 Aldo Álvareztostado      
 Stephanie Zacharek       
@@ -827,6 +829,7 @@ UN CERTAIN REGARD
 "Donbass" (Sergey Loznitsa) [Un Certain Regard]
  Opener
 
+Jay Weissberg                 http://variety.com/2018/film/reviews/donbass-review-1202804243/
 # todas
 Roger Koza              4.5
 Daniel Kasman           7.5   https://mubi.com/notebook/posts/cannes-2018-correspondences-3-weed-in-columbia-war-in-ukraine
@@ -969,7 +972,7 @@ Elisabeth Franck-Dumas   6
 #Carlota Moseguí         
 Gaia Furrer              3
 Marc van de Klashorst    4
-Guy Lodge                6
+Guy Lodge                6   http://variety.com/2018/film/reviews/rafiki-review-1202805489/
 #Diego Batlle            6
 Aldo Álvareztostado      5
 Stephanie Zacharek       
@@ -983,6 +986,27 @@ Dennis Lim
 Blake Williams           
 Jon Frosch               
 Nicholas Bell            4
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+#Nicholas Bell           
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           
+Bilge Ebiri              
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 #letterboxd
 Giulia              10   https://letterboxd.com/onryou/film/friend-2018/
 FilmLandEmpire      8
@@ -1099,6 +1123,7 @@ Gavin               4
 
 "Sextape" (Antoine Desrosieres) [Un Certain Regard]
 
+Owen Gleiberman             http://variety.com/2018/film/reviews/sextape-review-cannes-1202805490/
 # todas
 Diego Batlle            5.5
 Fernando Ganzo          4
@@ -1207,8 +1232,9 @@ Antoine Waked       6
 Truman2712          5
 
 "Dead Souls (Les Ames Mortes)" (Wang Bing) [Out Of Competition]
- Documentary
+ Documentary 8hrs
 
+Owen Gleiberman            http://variety.com/2018/film/reviews/dead-souls-review-wang-bing-1202804340/
 # todas
 Jaime Pena              9
 Luciano Monteagudo      8.5
@@ -1344,6 +1370,7 @@ Tim Grierson            https://twitter.com/TimGrierson/status/99414576068912742
 Marc van de Klashorst   https://icsfilm.org/reviews/cannes-2018-review-birds-passage-ciro-guerra-cristina-gallego/
 Eric Lavallée           https://www.ioncinema.com/reviews/cristina-gallego-ciro-guerra-birds-of-passage-pajaros-de-verano-review
 Wendy Ide               https://www.screendaily.com/reviews/birds-of-passage-cannes-review/5129047.article
+Peter Debruge           http://variety.com/2018/film/reviews/birds-of-passage-review-1202803780/
 # todas
 Roger Koza              4.5
 Daniel Kasman           5.5   https://mubi.com/notebook/posts/cannes-2018-correspondences-3-weed-in-columbia-war-in-ukraine
@@ -1406,6 +1433,7 @@ edissa              4
 "Petra" (Jaime Rosales) [Quinzaine]
  "Un film très cruel, une vision de l'Espagne inédite, un grand film !"
 
+Jay Weissberg           B+   http://variety.com/2018/film/reviews/petra-review-1202805524/
 # todas
 Roger Koza              5
 Daniel Kasman           6.5
