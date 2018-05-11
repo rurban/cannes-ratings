@@ -10,7 +10,7 @@ package Cannes::rurban::2018; # -*- perl -*-
 #   http://jury.critic.de/cannes/
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
-#   http://www.screendaily.com/festivals/cannes/dailies/ (scale 0-4)
+#   https://www.screendaily.com/reviews/festivals/cannes
 #   http://icsfilm.org/features/cannes-2018-critics-panel/
 #   https://twitter.com/CriticsGrid
 # More:
@@ -411,6 +411,7 @@ Amandine Moulis     2
  B&W
 
 David Ehrlich           6  http://www.indiewire.com/2018/05/leto-review-kirill-serebrennikov-cannes-2018-1201962502/
+Jonathan Romney            https://www.screendaily.com/reviews/leto-cannes-review/5129112.article
 # todas
 Roger Koza              6
 Jaime Pena              7
@@ -687,6 +688,7 @@ Giacomooo           2
 "Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
 #lb:"Cold War"
 
+Fionnuala Halligan            https://www.screendaily.com/reviews/cold-war-cannes-review/5129035.article
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -1041,6 +1043,7 @@ Azadeh jafari       1
 
 "Border (Gräns)" (Ali Abbasi) [Un Certain Regard]
 
+Allan Hunter                https://www.screendaily.com/reviews/border-gr%C3%A4ns-cannes-review/5129122.article
 # todas
 Jaime Pena              5
 Daniel Kasman           2.5
@@ -1124,6 +1127,7 @@ Gavin               4
 "Sextape" (Antoine Desrosieres) [Un Certain Regard]
 
 Owen Gleiberman             http://variety.com/2018/film/reviews/sextape-review-cannes-1202805490/
+Lisa Nesselson              https://www.screendaily.com/reviews/sextape-cannes-review/5128675.article
 # todas
 Diego Batlle            5.5
 Fernando Ganzo          4
@@ -1434,6 +1438,7 @@ edissa              4
  "Un film très cruel, une vision de l'Espagne inédite, un grand film !"
 
 Jay Weissberg           B+   http://variety.com/2018/film/reviews/petra-review-1202805524/
+Wendy Ide                    https://www.screendaily.com/reviews/petra-cannes-review/5129121.article
 # todas
 Roger Koza              5
 Daniel Kasman           6.5
@@ -1489,6 +1494,7 @@ James Healey        3
 "To the Ends of the Earth (Les Confins du monde)" (Guillaume Nicloux) [Quinzaine]
  "Comment une guerre coloniale devient la guerre d'un seul homme"
 
+Lisa Nesselson              https://www.screendaily.com/reviews/to-the-ends-of-the-world-cannes-review/5128884.article
 # todas
 Fernando Ganzo          6
 José Luis Losa         7.5
@@ -1538,6 +1544,7 @@ Antoine Waked       5
 "Samouni Road" (Stefano Savona)  [Quinzaine]
  Documentary "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
 
+Lee Marshall          https://www.screendaily.com/reviews/samouni-road-cannes-review/5129162.article
 # ics
 Cédric Succivalli        
 Emily Barnett            
