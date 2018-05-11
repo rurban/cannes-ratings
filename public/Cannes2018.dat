@@ -108,25 +108,25 @@ Barbara Théate           7.5
 Christophe Carriére      5
 # ioncinema
 Marta Balaga             4
-Beatrice Behn            
+Beatrice Behn            5
 Nicholas Bell            4    https://www.ioncinema.com/reviews/asghar-farhadi-everybody-knows-review
-Julia Blaga         
-Per Juul Carlsen    
-Monica Delgado      
-Bilge Ebiri         
-Jason Gorber        
-Jean-Philippe Guerand    
+Julia Blaga              
+Per Juul Carlsen         5
+Monica Delgado           4
+Bilge Ebiri              
+Jason Gorber             1
+Jean-Philippe Guerand    8
 #Carlos F. Heredero      4
 Eric Lavallée            4
 Fabien Lemercier         6
-Liu Min                  
+Liu Min                  4
 Marc-André Lussier       
-Poly Lykourgou           
-Carlota Mossegui         
-Daniella Shreir          
+Poly Lykourgou           4
+Carlota Mossegui         5
+Daniella Shreir          5
 Cédric Succivalli        3
 Tommaso Tocci            4
-Maria Ulfsak-Sheripova   
+Maria Ulfsak-Sheripova   4
 # ics
 Cédric Succivalli        3
 Emily Barnett            
@@ -337,26 +337,26 @@ Blake Williams           2
 Jon Frosch               4
 Nicholas Bell            3
 # ioncinema
-Marta Balaga             
+Marta Balaga             5
 Beatrice Behn            
-Nicholas Bell            
-Julia Blaga         
-Per Juul Carlsen    
-Monica Delgado      
-Bilge Ebiri         
-Jason Gorber        
+#Nicholas Bell           3
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           6
+Bilge Ebiri              
+Jason Gorber             7
 Jean-Philippe Guerand    
 #Carlos F. Heredero      
 Eric Lavallée            
 Fabien Lemercier         
-Liu Min                  
+Liu Min                  6
 Marc-André Lussier       
 Poly Lykourgou           
 Carlota Mossegui         
-Daniella Shreir          
+Daniella Shreir          3
 Cédric Succivalli        
-Tommaso Tocci            
-Maria Ulfsak-Sheripova   
+Tommaso Tocci            7
+Maria Ulfsak-Sheripova   5
 # Chinese @CriticsGrid
 Li Xun              7.5
 Liu Min             7.5
@@ -481,6 +481,27 @@ Dennis Lim
 Blake Williams           
 Jon Frosch               6
 Nicholas Bell            7
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+#Nicholas Bell           
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           
+Bilge Ebiri              
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # Chinese @CriticsGrid
 Li Xun              
 Liu Min             
@@ -560,6 +581,22 @@ Till Kadritzke        9
 Philipp Schwarz       7.5
 Lukas Stern           9
 Blake Williams        4
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        8
 Emily Barnett            8
@@ -582,6 +619,27 @@ Dennis Lim
 Blake Williams           4
 Jon Frosch               9
 Nicholas Bell            6
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+#Nicholas Bell           
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           
+Bilge Ebiri              
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # Chinese @CriticsGrid
 Li Xun              
 Liu Min             
@@ -627,6 +685,77 @@ Giacomooo           2
 "Cold War (Zimna wojna)" (Pawel Pawlikowski) [Competition]
 #lb:"Cold War"
 
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Aldo Álvareztostado      
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Nicolas Rapold           
+Anne Thompson            
+Erik Anderson            
+Dennis Lim               
+Blake Williams           
+Jon Frosch               
+Nicholas Bell            
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+#Nicholas Bell           
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           
+Bilge Ebiri              
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Qin Wan             
+Emily Liang         
+Zeyuan              
 #letterboxd
 monkeybox83         10
 Jordan King         9   https://letterboxd.com/jordank98/film/cold-war-2018/
