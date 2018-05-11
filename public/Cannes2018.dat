@@ -88,8 +88,18 @@ Giovanni Marchini Camina 2.5
 Philipp Schwarz       4
 Lukas Stern           6
 Blake Williams        2.5
-# screen daily
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# screen daily
+Julien Gester/Didier Peron 2.5
+Katja Nicodemus          5
+Wang Muyan               2.5
+Nick James               5
+Kong Rithdee             2.5
+Tim Robey/Robbie Collin  2.5
+Justin Chang             5
+Michel Ciment            7.5
+Anton Dolin              5
+Screen International     7.5
 # Le film français
 Gaël Golhen              7.5
 Jean-Claude Raspiengeas  2.5
@@ -299,6 +309,17 @@ Till Kadritzke        2.5
 Giovanni Marchini Camina 5
 Lukas Stern           2.5
 Blake Williams        2.5
+# screen daily
+Julien Gester/Didier Peron 
+Katja Nicodemus          
+Wang Muyan               
+Nick James               
+Kong Rithdee             
+Tim Robey/Robbie Collin  
+Justin Chang             
+Michel Ciment            
+Anton Dolin              
+Screen International     
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  7.5
@@ -445,6 +466,17 @@ Till Kadritzke        4
 #Boris Nelepo         7.5
 Philipp Schwarz       6       http://www.critic.de/film/summer-12009/
 Lukas Stern           7.5
+# screen daily
+Julien Gester/Didier Peron 
+Katja Nicodemus          
+Wang Muyan               
+Nick James               
+Kong Rithdee             
+Tim Robey/Robbie Collin  
+Justin Chang             
+Michel Ciment            
+Anton Dolin              
+Screen International     
 # Le film français
 Gaël Golhen              7.5
 Jean-Claude Raspiengeas  9
@@ -584,6 +616,17 @@ Till Kadritzke        9
 Philipp Schwarz       7.5
 Lukas Stern           9
 Blake Williams        4
+# screen daily
+Julien Gester/Didier Peron 
+Katja Nicodemus          
+Wang Muyan               
+Nick James               
+Kong Rithdee             
+Tim Robey/Robbie Collin  
+Justin Chang             
+Michel Ciment            
+Anton Dolin              
+Screen International     
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -689,6 +732,17 @@ Giacomooo           2
 #lb:"Cold War"
 
 Fionnuala Halligan            https://www.screendaily.com/reviews/cold-war-cannes-review/5129035.article
+# screen daily
+Julien Gester/Didier Peron 
+Katja Nicodemus          
+Wang Muyan               
+Nick James               
+Kong Rithdee             
+Tim Robey/Robbie Collin  
+Justin Chang             
+Michel Ciment            
+Anton Dolin              
+Screen International     
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -771,6 +825,89 @@ JeanJacky           2
 
 "Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Competition]
 #lb:"The Image Book"
+
+# screen daily
+Julien Gester/Didier Peron 
+Katja Nicodemus          
+Wang Muyan               
+Nick James               
+Kong Rithdee             
+Tim Robey/Robbie Collin  
+Justin Chang             
+Michel Ciment            
+Anton Dolin              
+Screen International     
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Aldo Álvareztostado      
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Nicolas Rapold           
+Anne Thompson            
+Erik Anderson            
+Dennis Lim               
+Blake Williams           
+Jon Frosch               
+Nicholas Bell            
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+#Nicholas Bell           
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           
+Bilge Ebiri              
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Qin Wan             
+Emily Liang         
+Zeyuan              
 
 "Ash Is Purest White (Jiang hu er nv)" (Jia Zhangke) [Competition]
 
@@ -2198,20 +2335,18 @@ Barbara Théate (Le Journal du Dimanche, France)
 Christophe Carriére (L'Express, France)
 ";
 # screen daily 0-4
-# http://issuu.com/emap_/docs/screen_cannes_day_1_2013
-# http://www.screendaily.com/festivals/cannes/cannes-2017-screens-dailies/5117892.article?blocktitle=Festival-News&contentID=826
+# https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
 $critics_group[3] = "Screen Daily";
 $critics[3] = "
-Fabio Ferzetti (El Messagero, Italy)
 Julien Gester/Didier Peron (Liberation, France) 
-Michel Ciment (Positif, France) 
-Kong Rithdee (The Bangkok Post, Thailand) 
-Stephanie Zacharek (Village Voice, USA)
-Justin Chang (LA Times, USA)
-Nick James (Sight & Sound, UK)
-Tim Robey/Robbie Collin (Daily Telegraph, UK)
-Anton Dolin (Afisha, Russia)
 Katja Nicodemus (Die Zeit, Deutschland)
+Wang Muyan (Elemen, China)
+Nick James (Sight & Sound, UK)
+Kong Rithdee (Bangkok Post, Thailand) 
+Tim Robey/Robbie Collin (Daily Telegraph, UK)
+Justin Chang (LA Times, USA)
+Michel Ciment (Positif, France) 
+Anton Dolin (Afisha, Russia)
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -2287,6 +2422,7 @@ Zeyuan (Worldscreen, China)
 # indiewire + various other
 $critics_group[7] = "Other";
 $critics[7] = "
+Fabio Ferzetti (El Messagero, Italy)
 Gwilym Mumford (Guardian, UK)
 Boyd Van Hoeij (The Hollywood Reporter, France)
 Jay Weissberg (Variety, Italy)
