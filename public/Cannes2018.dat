@@ -11,7 +11,7 @@ package Cannes::rurban::2018; # -*- perl -*-
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
-#   http://icsfilm.org/features/cannes-2018-critics-panel/
+#   https://icsfilm.org/features/cannes-2018-ics-critics-panel/
 #   https://twitter.com/CriticsGrid
 # More:
 #   http://www.indiewire.com/critic/
@@ -448,7 +448,7 @@ Boris Nelepo            8
 Carlos F. Heredero      5.5
 Pamela Bienzobas        7
 Eulalia Iglesias        8
-Violeta Kovacsics       7
+Violeta Kovacsics       6.5
 José Luis Losa         7
 Ángel Quintana         8.5
 Juanma Ruíz            6
@@ -605,6 +605,7 @@ Boris Nelepo            7.5
 Carlos F. Heredero      6.5
 Eulalia Iglesias        6
 José Luis Losa         6.5
+Ángel Quintana         6
 Alejandra Trelles       8.5
 Carlota Moseguí        6
 Eduardo Valente         8
@@ -737,6 +738,14 @@ Giacomooo           2
 #lb:"Cold War"
 
 Fionnuala Halligan            https://www.screendaily.com/reviews/cold-war-cannes-review/5129035.article
+# todas
+Roger Koza              7.5
+Fredy Friedlander       9
+Marcelo Alderete        7.5
+Boris Nelepo            7
+Eulalia Iglesias        8.5
+Ángel Quintana         8
+Emilio Luna             7.5
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -1214,6 +1223,7 @@ Carlos F. Heredero      6
 Eulalia Iglesias        7
 Violeta Kovacsics       7
 José Luis Losa         7.5
+Ángel Quintana         6.5
 Alejandra Trelles       7
 Pedro Segura            1
 Eduardo Valente         5
@@ -1936,6 +1946,7 @@ mangemanche         5
 Jaime Pena              4
 Pamela Bienzobas        4.5
 José Luis Losa         8
+Alejandra Trelles       7
 # ics
 Cédric Succivalli        
 Emily Barnett            
