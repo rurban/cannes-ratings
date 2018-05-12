@@ -3,6 +3,7 @@
 # no timestamp by server
 use File::Copy;
 use utf8;
+use feature "unicode_strings";
 use v5.20;
 my $url = "http://jury.critic.de/cannes/";
 my $c = "Critic.de.html";
@@ -63,10 +64,11 @@ sub readhtml {
           $_ = $1;
           s/<br>/ /g;
           s/G.Marchini Camia/Giovanni Marchini Camina /;
-          s/Pamela Biénzobas/#Pamela Bienzobas/;
-          s/Boris Nelepo/#Boris Nelepo/;
-          s/Daniel Kasman/#Daniel Kasman/;
-          s/Rüdiger Suchsland/#Rüdiger Suchsland/;
+          s/Pamela(<br>| )Biénzobas/#Pamela Bienzobas/;
+          s/Boris(<br>| )Nelepo/#Boris Nelepo/;
+          s/Daniel(<br>| )Kasman/#Daniel Kasman/;
+          s/Rüdiger(<br>| )Suchsland/#Rüdiger Suchsland/;
+          s/Blake Williams/#Blake Williams/;
           $_
         } else {
           "";

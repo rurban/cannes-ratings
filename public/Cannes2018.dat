@@ -829,6 +829,7 @@ Frédéric Jaeger     5
 Till Kadritzke        7.5
 #Violeta Kovacsics     7.5
 #Boris Nelepo         6
+Philipp Schwarz       6       http://www.critic.de/film/Cold-War-12006/
 Lukas Stern           7.5
 Rüdiger Suchsland    5
 Blake Williams        5
@@ -1007,11 +1008,12 @@ Víctor Esquirol        5
 Daniel de Partearroyo   10
 # critic.de
 Andrey Arnold         7.5
-Frédéric Jaeger     7.5
+Frédéric Jaeger     7.5     http://www.critic.de/film/le-livre-dimage-11984/
 #Boris Nelepo         9
 Giovanni Marchini Camina 5
-Rüdiger Suchsland    9
-Blake Williams        9
+Lukas Stern           7.5
+#Rüdiger Suchsland    9
+#Blake Williams        9
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -1152,8 +1154,9 @@ Frédéric Jaeger     7.5
 Till Kadritzke        7.5
 #Boris Nelepo         7.5
 Giovanni Marchini Camina 7.5
-Lukas Stern           7.5
-Blake Williams        6
+Philipp Schwarz       6
+Lukas Stern           7.5     http://www.critic.de/film/ash-is-the-purest-white-12002/
+#Blake Williams        6
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -1353,9 +1356,9 @@ Till Kadritzke        4       https://www.critic.de/film/birds-of-passage-11965/
 #Daniel Kasman        6       https://mubi.com/notebook/posts/cannes-2018-correspondences-3-weed-in-columbia-war-in-ukraine
 #Boris Nelepo         1
 Giovanni Marchini Camina 5
-Philipp Schwarz       4
+Philipp Schwarz       4       http://www.critic.de/film/donbass-12026/
 Lukas Stern           4
-Rüdiger Suchsland    1
+#Rüdiger Suchsland    1
 #Blake Williams        7.5
 # Le film français
 Gaël Golhen              7.5
@@ -2622,9 +2625,10 @@ Vasiliy Stepanov        6.5
 Víctor Esquirol        3
 # critic.de
 Annabel Brady-Brown   7.5
-Frédéric Jaeger     6
+Frédéric Jaeger     6       http://www.critic.de/film/Diamantino-12053/
+Till Kadritzke        7.5
 Giovanni Marchini Camina 6
-Blake Williams        4
+#Blake Williams        4
 # ics
 Cédric Succivalli        3
 Emily Barnett            
