@@ -322,6 +322,7 @@ Till Kadritzke        2.5
 #Daniel Kasman        2.5
 Giovanni Marchini Camina 5
 Lukas Stern           2.5
+Rüdiger Suchsland    2.5
 Blake Williams        2.5
 # screen daily
 Julien Gester/Didier Peron 2.5
@@ -484,6 +485,7 @@ Till Kadritzke        4
 #Boris Nelepo         7.5
 Philipp Schwarz       6       http://www.critic.de/film/summer-12009/
 Lukas Stern           7.5
+Rüdiger Suchsland    9
 # screen daily
 Julien Gester/Didier Peron 5
 Katja Nicodemus          5
@@ -635,11 +637,12 @@ Vasiliy Stepanov        5
 Víctor Esquirol        6
 # critic.de
 Frédéric Jaeger     9
-Till Kadritzke        9
+Till Kadritzke        9       http://www.critic.de/film/sorry-angel-11975/
 #Daniel Kasman        4
 #Boris Nelepo         6
 Philipp Schwarz       7.5
 Lukas Stern           9
+Rüdiger Suchsland    7.5
 Blake Williams        4
 # screen daily
 Julien Gester/Didier Peron 
@@ -793,10 +796,12 @@ Daniel de Partearroyo   8.5
 # critic.de
 Andrey Arnold         5
 Annabel Brady-Brown   5
+Frédéric Jaeger     5
 Till Kadritzke        7.5
 #Violeta Kovacsics     7.5
 #Boris Nelepo         6
 Lukas Stern           7.5
+Rüdiger Suchsland    5
 Blake Williams        5
 # screen daily
 Julien Gester/Didier Peron 
@@ -949,6 +954,11 @@ Pedro Segura            10
 Emilio Luna             3
 Víctor Esquirol        5
 Daniel de Partearroyo   10
+# critic.de
+Frédéric Jaeger     7.5
+#Boris Nelepo         9
+Rüdiger Suchsland    9
+Blake Williams        9
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -1053,6 +1063,14 @@ Philipp Engel           5
 Pedro Segura            9
 Emilio Luna             6
 Víctor Esquirol        7
+# critic.de
+Annabel Brady-Brown   9
+Frédéric Jaeger     7.5
+Till Kadritzke        7.5
+#Boris Nelepo         7.5
+Giovanni Marchini Camina 7.5
+Lukas Stern           7.5
+Blake Williams        6
 #letterboxd
 eugenshelling       7
 
@@ -1144,6 +1162,7 @@ Till Kadritzke        4       https://www.critic.de/film/birds-of-passage-11965/
 Giovanni Marchini Camina 5
 Philipp Schwarz       4
 Lukas Stern           4
+Rüdiger Suchsland    1
 #Blake Williams        7.5
 # Le film français
 Gaël Golhen              7.5
@@ -1422,7 +1441,9 @@ Fernando Ganzo          4
 Denis Vilenkin          1
 # critic.de
 Frédéric Jaeger     7.5
+Till Kadritzke        7.5
 Lukas Stern           7.5
+Rüdiger Suchsland    6
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -1480,6 +1501,8 @@ Pablo Villaça       1
 # todas
 Diego Batlle            5
 Ángel Quintana         5.5
+# critic.de
+Rüdiger Suchsland    7.5
 #letterboxd
 Mauricio Ribeiro    6
 Dominique Leger     6
@@ -1496,6 +1519,7 @@ José Luis Losa         9
 Ángel Quintana         2.5
 Pedro Segura            3
 # critic.de
+#Boris Nelepo         5
 Lukas Stern           4
 #letterboxd
 Mauricio Ribeiro    7
@@ -1735,6 +1759,7 @@ Till Kadritzke        6       http://www.critic.de/film/birds-of-passage-11965/
 #Daniel Kasman        4       https://mubi.com/notebook/posts/cannes-2018-correspondences-3-weed-in-columbia-war-in-ukraine
 Philipp Schwarz       6
 Lukas Stern           6
+Rüdiger Suchsland    6
 #Blake Williams        4
 # ics
 Cédric Succivalli        8
@@ -2057,8 +2082,9 @@ Víctor Esquirol        7
 Daniel de Partearroyo   5
 # critic.de
 #Pamela Biénzobas     4
-Frédéric Jaeger     7.5
+Frédéric Jaeger     7.5     http://www.critic.de/film/wildlife-12052/
 Jenny Jecke           4
+#Violeta Kovacsics     6
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2194,6 +2220,11 @@ Pedro Segura            4
 Eduardo Valente         4
 Vasiliy Stepanov        6.5
 Víctor Esquirol        3
+# critic.de
+Annabel Brady-Brown   7.5
+Frédéric Jaeger     6
+Giovanni Marchini Camina 6
+Blake Williams        4
 #letterboxd
 Jansushi            7
 Antoine Waked       6
