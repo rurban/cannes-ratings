@@ -72,6 +72,7 @@ José Luis Losa         1.5
 Ángel Quintana         3
 Alberto Lechuga         3.5
 Alejandra Trelles       3.5
+Philipp Engel           5.5
 Juanma Ruíz            4.5
 Pedro Segura            4.5
 Carlota Moseguí        5
@@ -308,6 +309,7 @@ Violeta Kovacsics       3
 José Luis Losa         2
 Ángel Quintana         3
 Alejandra Trelles       2
+Philipp Engel           1
 Pedro Segura            0.5
 Eduardo Valente         2
 Emilio Luna             5
@@ -464,6 +466,7 @@ Eulalia Iglesias        8
 Violeta Kovacsics       6.5
 José Luis Losa         7
 Ángel Quintana         8.5
+Philipp Engel           5.5
 Juanma Ruíz            6
 Pedro Segura            6.5
 Carlota Moseguí        8
@@ -615,15 +618,16 @@ Daniel Kasman           4.5
 Diego Batlle            5.5
 Luciano Monteagudo      4
 Alex Vicente            6
-Marcelo Alderete        6
+Marcelo Alderete        5
 Fernando Ganzo          5.5
 Alejandro G. Calvo      3.5
 Boris Nelepo            7.5
 Carlos F. Heredero      6.5
 Eulalia Iglesias        6
-José Luis Losa         6.5
+José Luis Losa         8.5
 Ángel Quintana         6
 Alejandra Trelles       8.5
+Philipp Engel           5
 Carlota Moseguí        6
 Eduardo Valente         8
 Emilio Luna             4
@@ -763,18 +767,29 @@ Tim Robey               8  https://www.telegraph.co.uk/films/0/cold-war-review-l
 Geoffrey Macnab         8  https://www.independent.co.uk/arts-entertainment/films/reviews/cold-war-film-review-cannes-pawel-pawlikowski-joanna-kulig-new-wave-a8346221.html
 # todas
 Roger Koza              6.5
+Jaime Pena              7.5
+Daniel Kasman           5.5
 Diego Lerer             8
 Fredy Friedlander       9
-Marcelo Alderete        7.5
+Diego Batlle            8
+Alex Vicente            5
+Marcelo Alderete        7
+Fernando Ganzo          6
 Alejandro G. Calvo      8.5
 Xavi Serra              8
 Boris Nelepo            7
+Carlos F. Heredero      7
 Eulalia Iglesias        8.5
 Ángel Quintana         8
 Alberto Lechuga         8.5
+Philipp Engel           8.5
+Juanma Ruíz            8
+Pedro Segura            8
 Emilio Luna             7.5
 Denis Vilenkin          1
 Vasiliy Stepanov        6.5
+Víctor Esquirol        7
+Daniel de Partearroyo   8.5
 # critic.de
 Andrey Arnold         5
 Annabel Brady-Brown   5
@@ -913,6 +928,27 @@ JeanJacky           2
 "Image and Speech (Le livre d’image)" (Jean-Luc Godard) [Competition]
 #lb:"The Image Book"
 
+# todas
+Roger Koza              10
+Jaime Pena              10
+Daniel Kasman           8
+Diego Lerer             9.5
+Fredy Friedlander       2
+Diego Batlle            7
+Marcelo Alderete        10
+Fernando Ganzo          10
+Alejandro G. Calvo      10
+Boris Nelepo            10
+Carlos F. Heredero      9
+Eulalia Iglesias        8
+José Luis Losa         4.5
+Ángel Quintana         10
+Alberto Lechuga         10
+Philipp Engel           10
+Pedro Segura            10
+Emilio Luna             3
+Víctor Esquirol        5
+Daniel de Partearroyo   10
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -998,6 +1034,25 @@ Zeyuan
 
 "Ash Is Purest White (Jiang hu er nv)" (Jia Zhangke) [Competition]
 
+# todas
+Roger Koza              7
+Jaime Pena              8
+Daniel Kasman           8
+Diego Lerer             8.5
+Fredy Friedlander       7
+Diego Batlle            7.5
+Alex Vicente            7
+Fernando Ganzo          5.5
+Alejandro G. Calvo      7.5
+Boris Nelepo            8
+Carlos F. Heredero      8
+Eulalia Iglesias        6.5
+José Luis Losa         7
+Ángel Quintana         7
+Philipp Engel           5
+Pedro Segura            9
+Emilio Luna             6
+Víctor Esquirol        7
 #letterboxd
 eugenshelling       7
 
@@ -1072,11 +1127,13 @@ Eulalia Iglesias        4
 José Luis Losa         3
 Ángel Quintana         6
 Alejandra Trelles       4
+Philipp Engel           4
 Pedro Segura            2
 Carlota Moseguí        7
 Denis Vilenkin          1
 Vasiliy Stepanov        6
 Víctor Esquirol        7
+Daniel de Partearroyo   7.5
 # critic.de
 Andrey Arnold         9
 Annabel Brady-Brown   6
@@ -1276,6 +1333,7 @@ Daniel Kasman           2.5
 Diego Lerer             7.5
 Fredy Friedlander       5.5
 Luciano Monteagudo      7.5
+Alejandro G. Calvo      8
 Boris Nelepo            6
 Carlos F. Heredero      6
 Eulalia Iglesias        7
@@ -1417,18 +1475,30 @@ Mauricio Ribeiro    3
 Azadeh jafari       1
 Pablo Villaça       1
 
+"My Favorite Fabric" (Gaya Jiji) [Un Certain Regard]
+
+# todas
+Diego Batlle            5
+Ángel Quintana         5.5
+#letterboxd
+Mauricio Ribeiro    6
+Dominique Leger     6
+
 "El Angel" (Luis Ortega) [Un Certain Regard]
 
+# todas
+Roger Koza              7
+Jaime Pena              5.5
+Diego Batlle            7.5
+Boris Nelepo            5
+Eulalia Iglesias        3
+José Luis Losa         9
+Ángel Quintana         2.5
+Pedro Segura            3
 # critic.de
 Lukas Stern           4
 #letterboxd
 Mauricio Ribeiro    7
-
-"My Favorite Fabric" (Gaya Jiji) [Un Certain Regard]
-
-#letterboxd
-Mauricio Ribeiro    6
-Dominique Leger     6
 
 "Girl" (Lukas Dhont) [Un Certain Regard]
 
@@ -1502,6 +1572,7 @@ A.A. Dowd           7
 
 # todas
 Diego Lerer             7
+Diego Batlle            6
 Boris Nelepo            7
 Juanma Ruíz            7
 Pedro Segura            6
@@ -1526,8 +1597,10 @@ Josh Cabrita        4
 # todas
 Alejandro G. Calvo      8
 Xavi Serra              7.5
+Eulalia Iglesias        6.5
 Alberto Lechuga         6
 Eduardo Valente         7.5
+Daniel de Partearroyo   8
 # critic.de
 Andrey Arnold         4
 #letterboxd
@@ -1555,7 +1628,8 @@ AEC                 4   https://letterboxd.com/arielecayer/film/arctic-2018/
  Special Screening
 
 # todas
-Xavi Serra              5.5
+Carlos F. Heredero      6
+Juanma Ruíz            6.5
 #letterboxd
 brutalmente_h       8
 
@@ -1638,16 +1712,20 @@ Wendy Ide               https://www.screendaily.com/reviews/birds-of-passage-can
 Peter Debruge           http://variety.com/2018/film/reviews/birds-of-passage-review-1202803780/
 # todas
 Roger Koza              4.5
+Jaime Pena              4.5
 Daniel Kasman           5.5   https://mubi.com/notebook/posts/cannes-2018-correspondences-3-weed-in-columbia-war-in-ukraine
 Diego Lerer             7
 Fredy Friedlander       9
 Diego Batlle            6.5
 Marcelo Alderete        3
+Fernando Ganzo          4
 Alejandro G. Calvo      7.5
 Pamela Bienzobas        6
+José Luis Losa         7
 Alberto Lechuga         6.5
 Juanma Ruíz            7.5
 Eduardo Valente         4.5
+Víctor Esquirol        7
 Daniel de Partearroyo   7
 # critic.de
 #Pamela Biénzobas     6
@@ -1718,6 +1796,7 @@ Pedro Segura            1
 Carlota Moseguí        7.5
 Emilio Luna             7.5
 Víctor Esquirol        6.5
+Daniel de Partearroyo   1
 # critic.de
 #Daniel Kasman        6
 #Violeta Kovacsics     5
@@ -1813,6 +1892,8 @@ Antoine Waked       5
  Documentary "Un film original. C'est un mélange de matière pour raconter une histoire difficile à raconter."
 
 Lee Marshall          https://www.screendaily.com/reviews/samouni-road-cannes-review/5129162.article
+# todas
+Juanma Ruíz            6.5
 # critic.de
 Andrey Arnold         7.5
 # ics
@@ -1840,9 +1921,20 @@ Nicholas Bell
 
 "Los silencios" (Beatriz Seigner) [Quinzaine]
 
+# todas
+Juanma Ruíz            4.5
+Eduardo Valente         7
+
 "Treat Me Like Fire (Joueurs)" (Marie Monge) [Quinzaine]
  First film
 
+# todas
+Fernando Ganzo          0.5
+Carlos F. Heredero      3
+José Luis Losa         4
+Juanma Ruíz            2.5
+Denis Vilenkin          2
+ 
 #letterboxd
 James Healey        8   https://letterboxd.com/jameshealey/film/treat-me-like-fire/
 Nabil Aouad         4
@@ -1955,6 +2047,7 @@ Violeta Kovacsics       6.5
 José Luis Losa         7
 Ángel Quintana         6.5
 Alberto Lechuga         6
+Philipp Engel           7
 Juanma Ruíz            7
 Carlota Moseguí        7
 Emilio Luna             7
@@ -2089,19 +2182,26 @@ Raquel Garcia       5
 Lawrence Garcia     4
 Josh Cabrita        3
 
-"Shéhérazade" (Jean-Bernard Marlin) [Semaine] Special Screening
-
 "Diamantino" (Gabriel Abrantes & Daniel Schmidt) [Semaine]
 
 # todas
 Roger Koza              3.5
+Jaime Pena              2
+Daniel Kasman           5
 Diego Lerer             6
 Boris Nelepo            6.5
+Pedro Segura            4
 Eduardo Valente         4
 Vasiliy Stepanov        6.5
+Víctor Esquirol        3
 #letterboxd
 Jansushi            7
 Antoine Waked       6
+
+"Shéhérazade" (Jean-Bernard Marlin) [Semaine] Special Screening
+
+# todas
+Denis Vilenkin          2
 
 "Woman at War (Kona fer í stríð)" (Benedikt Erlingsson) [Semaine]
 
