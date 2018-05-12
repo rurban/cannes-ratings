@@ -94,7 +94,7 @@ Giovanni Marchini Camina 2.5
 Philipp Schwarz       4
 Lukas Stern           6
 Blake Williams        2.5
-# Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # screen daily
 Julien Gester/Didier Peron 2.5
 Katja Nicodemus          5
@@ -664,21 +664,21 @@ Michel Ciment
 Anton Dolin              
 Screen International     
 # Le film français
-Gaël Golhen              
-Jean-Claude Raspiengeas  
-Thierry Chèze            
-Eric Neuhoff             
-Stéphane Delorme         
-Jacques Mandelbaum       
-Philippe Rouyer          
-Pierre Vavasseur         
-Pierre Murat             
-Victoria Gairin          
-Serge Kaganski           
-Gilles Kerdreux          
-Nicolas Schaller         
-Barbara Théate           
-Christophe Carriére      
+Gaël Golhen              2.5
+Jean-Claude Raspiengeas  5
+Thierry Chèze            5
+Eric Neuhoff             2.5
+Stéphane Delorme         5
+Jacques Mandelbaum       5
+Philippe Rouyer          5
+Pierre Vavasseur         5
+Pierre Murat             7.5
+Victoria Gairin          7.5
+Serge Kaganski           9
+Gilles Kerdreux          5
+Nicolas Schaller         7.5
+Barbara Théate           7.5
+Christophe Carriére      5
 # ics
 Cédric Succivalli        8
 Emily Barnett            8
@@ -832,21 +832,21 @@ Michel Ciment
 Anton Dolin              
 Screen International     
 # Le film français
-Gaël Golhen              
-Jean-Claude Raspiengeas  
-Thierry Chèze            
-Eric Neuhoff             
-Stéphane Delorme         
-Jacques Mandelbaum       
-Philippe Rouyer          
-Pierre Vavasseur         
-Pierre Murat             
+Gaël Golhen              7.5
+Jean-Claude Raspiengeas  9
+Thierry Chèze            5
+Eric Neuhoff             7.5
+Stéphane Delorme         2.5
+Jacques Mandelbaum       2.5
+Philippe Rouyer          7.5
+Pierre Vavasseur         7.5
+Pierre Murat             9
 Victoria Gairin          
-Serge Kaganski           
-Gilles Kerdreux          
-Nicolas Schaller         
-Barbara Théate           
-Christophe Carriére      
+Serge Kaganski           2.5
+Gilles Kerdreux          7.5
+Nicolas Schaller         5
+Barbara Théate           2.5
+Christophe Carriére      7.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1456,15 +1456,15 @@ Blake Williams        5
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
-Thierry Chèze            
-Eric Neuhoff             
-Stéphane Delorme         
-Jacques Mandelbaum       
+Thierry Chèze            9
+Eric Neuhoff             5
+Stéphane Delorme         5
+Jacques Mandelbaum       5
 Philippe Rouyer          
 Pierre Vavasseur         
-Pierre Murat             
+Pierre Murat             2.5
 Victoria Gairin          
-Serge Kaganski           
+Serge Kaganski           5
 Gilles Kerdreux          
 Nicolas Schaller         
 Barbara Théate           
@@ -1518,7 +1518,7 @@ Gavin               4
 Pingxuan Chen       3   https://letterboxd.com/jiong/film/border-2018/
 Azadeh jafari       2
 
-"Sextape" (Antoine Desrosieres) [Un Certain Regard]
+"Sextape (A genoux les gars)" (Antoine Desrosieres) [Un Certain Regard]
 
 Owen Gleiberman             http://variety.com/2018/film/reviews/sextape-review-cannes-1202805490/
 Lisa Nesselson              https://www.screendaily.com/reviews/sextape-cannes-review/5128675.article
@@ -1533,18 +1533,18 @@ Till Kadritzke        7.5
 Lukas Stern           7.5
 Rüdiger Suchsland    6
 # Le film français
-Gaël Golhen              
+Gaël Golhen              2.5
 Jean-Claude Raspiengeas  
-Thierry Chèze            
+Thierry Chèze            7.5
 Eric Neuhoff             
-Stéphane Delorme         
-Jacques Mandelbaum       
-Philippe Rouyer          
-Pierre Vavasseur         
-Pierre Murat             
-Victoria Gairin          
-Serge Kaganski           
-Gilles Kerdreux          
+Stéphane Delorme         1
+Jacques Mandelbaum       1
+Philippe Rouyer          5
+Pierre Vavasseur         7.5
+Pierre Murat             5
+Victoria Gairin          5
+Serge Kaganski           2.5
+Gilles Kerdreux          2.5
 Nicolas Schaller         
 Barbara Théate           
 Christophe Carriére      
