@@ -727,7 +727,7 @@ Li Xun              5
 Liu Min             5
 Muyan               5
 Yin Xiang           7.5
-Luo Jin             
+Luo Jin             2.5
 Xie Meng            5
 PeterCat            5
 Taotao              5
@@ -891,17 +891,17 @@ Cédric Succivalli
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # Chinese @CriticsGrid
-Li Xun              
-Liu Min             
-Muyan               
-Yin Xiang           
-Luo Jin             
-Xie Meng            
-PeterCat            
-Taotao              
-Qin Wan             
-Emily Liang         
-Zeyuan              
+Li Xun              7.5
+Liu Min             9
+Muyan               7.5
+Yin Xiang           7.5
+Luo Jin             5
+Xie Meng            7.5
+PeterCat            2.5
+Taotao              7.5
+Qin Wan             7.5
+Emily Liang         9
+Zeyuan              5
 #letterboxd
 Bruno Carmelo       10   https://letterboxd.com/brunocarmelo/film/cold-war-2018/
 FilmLandEmpire      10
@@ -1063,17 +1063,17 @@ Cédric Succivalli
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # Chinese @CriticsGrid
-Li Xun              
-Liu Min             
-Muyan               
-Yin Xiang           
+Li Xun              7.5
+Liu Min             7.5
+Muyan               7.5
+Yin Xiang           5
 Luo Jin             
-Xie Meng            
-PeterCat            
+Xie Meng            7.5
+PeterCat            5
 Taotao              
-Qin Wan             
-Emily Liang         
-Zeyuan              
+Qin Wan             5
+Emily Liang         5
+Zeyuan              5
 #letterboxd
 Kurt Walker         9
 Antoine Waked       9
@@ -1126,6 +1126,88 @@ Till Kadritzke        7.5
 Giovanni Marchini Camina 7.5
 Lukas Stern           7.5
 Blake Williams        6
+# screen daily
+Julien Gester/Didier Peron 
+Katja Nicodemus          
+Wang Muyan               
+Nick James               
+Kong Rithdee             
+Tim Robey/Robbie Collin  
+Justin Chang             
+Michel Ciment            
+Anton Dolin              
+Screen International     
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Aldo Álvareztostado      
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Nicolas Rapold           
+Anne Thompson            
+Erik Anderson            
+Dennis Lim               
+Blake Williams           
+Jon Frosch               
+Nicholas Bell            
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+#Nicholas Bell           
+Julia Blaga              
+Per Juul Carlsen         
+Monica Delgado           
+Bilge Ebiri              
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Poly Lykourgou           
+Carlota Mossegui         
+Daniella Shreir          
+Cédric Succivalli        
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# Chinese @CriticsGrid
+Li Xun              5
+Liu Min             7.5
+Muyan               5
+Yin Xiang           1
+Luo Jin             
+Xie Meng            5
+PeterCat            5
+Taotao              7.5
+Qin Wan             7.5
+Emily Liang         7.5
+Zeyuan              
 #letterboxd
 Matt Hoffman        9
 franki_xcx          8   https://letterboxd.com/franki_xcx/film/ash-is-purest-white/
