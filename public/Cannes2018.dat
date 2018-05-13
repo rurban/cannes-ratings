@@ -95,7 +95,7 @@ Till Kadritzke        4
 #Daniel Kasman        2.5
 #Boris Nelepo         4
 Giovanni Marchini Camina 2.5
-Philipp Schwarz       4
+Philipp Schwarz       4       http://filmgazette.de/2018/05/09/festival-de-cannes-2018/
 Lukas Stern           6
 Blake Williams        2.5
 # 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
@@ -1433,7 +1433,7 @@ Víctor Esquirol        2
 # critic.de
 Annabel Brady-Brown   2.5
 Frédéric Jaeger     2.5
-Till Kadritzke        2.5
+Till Kadritzke        2.5     http://www.critic.de/film/girls-of-the-sun-12001/
 #Daniel Kasman        2.5
 Giovanni Marchini Camina 2.5
 #Blake Williams       4
@@ -1558,6 +1558,13 @@ Carlota Moseguí        5.5
 Eduardo Valente         9
 Emilio Luna             7.5
 Denis Vilenkin          3
+# critic.de
+Andrey Arnold         6
+Annabel Brady-Brown   7.5
+Frédéric Jaeger     6       http://www.critic.de/film/three-faces-12005/
+#Boris Nelepo         6
+Giovanni Marchini Camina 6
+#Blake Williams       5
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -1684,6 +1691,13 @@ Boris Nelepo            9.5
 Carlota Moseguí        6
 Eduardo Valente         7.5
 Emilio Luna             7
+# critic.de
+Till Kadritzke        9
+#Boris Nelepo         9
+Giovanni Marchini Camina 9
+Philipp Schwarz       9
+Lukas Stern           9
+#Blake Williams       6
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -2430,7 +2444,7 @@ Vasiliy Stepanov        2
 # critic.de
 Frédéric Jaeger     2.5
 #Boris Nelepo         5
-Lukas Stern           1
+Lukas Stern           1       http://www.critic.de/film/angel-face-11985/
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2508,6 +2522,10 @@ Mauricio Ribeiro    4
 Roger Koza              7
 Carlota Moseguí        7
 Eduardo Valente         3
+# critic.de
+Till Kadritzke        4
+Philipp Schwarz       2.5
+Lukas Stern           4
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2784,6 +2802,7 @@ Fredy Friedlander       5
 Boris Nelepo            6
 # critic.de
 Pamela Biénzobas     4
+#Boris Nelepo         6
 #letterboxd
 Mauricio Ribeiro    4
 LilithAnything      2
@@ -3217,7 +3236,10 @@ Pedro Segura            5
 Carlota Moseguí        7.5
 Víctor Esquirol        7.5
 # critic.de
+Andrey Arnold         7.5
+#Daniel Kasman        5
 #Boris Nelepo         4
+#Blake Williams       5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3312,7 +3334,9 @@ Juanma Ruíz            7.5
 Pedro Segura            3.5
 Daniel de Partearroyo   8.5
 # critic.de
+Andrey Arnold         9
 Jenny Jecke           6
+Lukas Stern           7.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3358,6 +3382,12 @@ Denis Vilenkin          9
 Daniel de Partearroyo   7.5
 # critic.de
 Frédéric Jaeger     9
+Till Kadritzke        4
+#Boris Nelepo         7.5
+Giovanni Marchini Camina 9
+Philipp Schwarz       5
+Lukas Stern           6
+#Blake Williams       9
 # ics
 Cédric Succivalli        
 Emily Barnett            
