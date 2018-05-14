@@ -1465,23 +1465,23 @@ Nicolas Schaller
 Barbara Théate           
 Christophe Carriére      
 # ics
-Cédric Succivalli        
-Emily Barnett            
+Cédric Succivalli        5
+Emily Barnett            6
 Elisabeth Franck-Dumas   0.5
-#Tommaso Tocci           
+#Tommaso Tocci           5
 #Carlota Moseguí         
 Gaia Furrer              
 Marc van de Klashorst    5
 Guy Lodge                
 #Diego Batlle           
-Aldo Álvareztostado      
+Aldo Álvareztostado      3
 Stephanie Zacharek       
 Dana Keith               
-Justin Chang             
+Justin Chang             3
 David Acacia             5
 Nicolas Rapold           
 Anne Thompson            
-Erik Anderson            
+Erik Anderson            3
 Dennis Lim               
 Blake Williams           4
 Jon Frosch               2
@@ -1593,27 +1593,27 @@ Nicolas Schaller
 Barbara Théate           
 Christophe Carriére      
 # ics
-Cédric Succivalli        
+Cédric Succivalli        7
 Emily Barnett            
 Elisabeth Franck-Dumas   
-#Tommaso Tocci           
-#Carlota Moseguí         
+#Tommaso Tocci           6
+#Carlota Moseguí         4
 Gaia Furrer              
-Marc van de Klashorst    
+Marc van de Klashorst    9
 Guy Lodge                
-#Diego Batlle           
-Aldo Álvareztostado      
+#Diego Batlle            8
+Aldo Álvareztostado      7
 Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
+Dana Keith               8
+Justin Chang             8
 David Acacia             
-Nicolas Rapold           
+Nicolas Rapold           8
 Anne Thompson            
 Erik Anderson            
 Dennis Lim               
-Blake Williams           
+Blake Williams           5
 Jon Frosch               
-Nicholas Bell            
+Nicholas Bell            6
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -1726,27 +1726,27 @@ Nicolas Schaller
 Barbara Théate           
 Christophe Carriére      
 # ics
-Cédric Succivalli        
+Cédric Succivalli        8
 Emily Barnett            
 Elisabeth Franck-Dumas   
-#Tommaso Tocci           
-#Carlota Moseguí         
+#Tommaso Tocci           6
+#Carlota Moseguí         6
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle           
-Aldo Álvareztostado      
+#Diego Batlle            8
+Aldo Álvareztostado      6
 Stephanie Zacharek       
 Dana Keith               
 Justin Chang             
 David Acacia             
 Nicolas Rapold           
-Anne Thompson            
+Anne Thompson            7
 Erik Anderson            
 Dennis Lim               
-Blake Williams           
-Jon Frosch               
-Nicholas Bell            
+Blake Williams           6
+Jon Frosch               5
+Nicholas Bell            6
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -2223,9 +2223,9 @@ Marc van de Klashorst
 Guy Lodge                
 #Diego Batlle            6
 Aldo Álvareztostado      
-Stephanie Zacharek      4 
+Stephanie Zacharek       4
 Dana Keith               
-Justin Chang             
+Justin Chang             4
 David Acacia             
 Nicolas Rapold           
 Anne Thompson            
@@ -2383,24 +2383,24 @@ Jenny Jecke           5
 #Daniel Kasman        6
 # ics
 Cédric Succivalli        7
-Emily Barnett            
+Emily Barnett            8
 Elisabeth Franck-Dumas   
 #Tommaso Tocci           6
 #Carlota Moseguí         
 Gaia Furrer              
-Marc van de Klashorst    
+Marc van de Klashorst    7
 Guy Lodge                
 #Diego Batlle            7
 Aldo Álvareztostado      
 Stephanie Zacharek       
 Dana Keith               
-Justin Chang             
+Justin Chang             8
 David Acacia             
 Nicolas Rapold           3
 Anne Thompson            
-Erik Anderson            
+Erik Anderson            8
 Dennis Lim               
-Blake Williams           
+Blake Williams           6
 Jon Frosch               
 Nicholas Bell            
 #letterboxd
@@ -2531,7 +2531,7 @@ Cédric Succivalli
 Emily Barnett            
 Elisabeth Franck-Dumas   
 #Tommaso Tocci           
-#Carlota Moseguí         
+#Carlota Moseguí         7
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
@@ -2850,6 +2850,8 @@ AlexProstyakoff     7   https://letterboxd.com/alexprostyakoff/film/le-grand-bai
  Documentary
 
 Letterboxd 8_Ratings	6.4  https://letterboxd.com/film/pope-francis-a-man-of-his-word/
+# ics
+Anne Thompson       7
 #letterboxd
 airfrog             6
 Crayfish            5
@@ -3245,7 +3247,7 @@ Cédric Succivalli
 Emily Barnett            
 Elisabeth Franck-Dumas   
 #Tommaso Tocci           
-#Carlota Moseguí         
+#Carlota Moseguí         8
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
@@ -3354,7 +3356,7 @@ Justin Chang
 David Acacia             
 Nicolas Rapold           
 Anne Thompson            
-Erik Anderson                 
+Erik Anderson                 6
 Dennis Lim               
 Blake Williams           
 Jon Frosch               
@@ -3390,7 +3392,7 @@ Lukas Stern           6
 #Blake Williams       9
 # ics
 Cédric Succivalli        
-Emily Barnett            
+Emily Barnett            6
 Elisabeth Franck-Dumas   
 #Tommaso Tocci           
 #Carlota Moseguí         
@@ -3400,16 +3402,16 @@ Guy Lodge
 #Diego Batlle            
 Aldo Álvareztostado      
 Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
+Dana Keith               6
+Justin Chang             5
 David Acacia             
 Nicolas Rapold           
 Anne Thompson            
 Erik Anderson                 
 Dennis Lim               
-Blake Williams           
+Blake Williams           9
 Jon Frosch               
-Nicholas Bell            
+Nicholas Bell            9
 #letterboxd
 monkeybox83         10
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/climax-2018/
@@ -3772,7 +3774,7 @@ Gaia Furrer
 Marc van de Klashorst    7
 Guy Lodge                
 #Diego Batlle            
-Aldo Álvareztostado      
+Aldo Álvareztostado      7
 Stephanie Zacharek       
 Dana Keith               
 Justin Chang             
