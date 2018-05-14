@@ -1310,7 +1310,7 @@ Eric Neuhoff             2.5
 Stéphane Delorme         5
 Jacques Mandelbaum       9
 Philippe Rouyer          9
-Pierre Vavasseur         
+Pierre Vavasseur         7.5
 Pierre Murat             7.5
 Victoria Gairin          5
 Serge Kaganski           5
@@ -1460,20 +1460,20 @@ Anton Dolin              2.5
 Screen International     2.5
 # Le film français
 Gaël Golhen              
-Jean-Claude Raspiengeas  
-Thierry Chèze            
-Eric Neuhoff             
-Stéphane Delorme         
-Jacques Mandelbaum       
-Philippe Rouyer          
-Pierre Vavasseur         
-Pierre Murat             
-Victoria Gairin          
-Serge Kaganski           
-Gilles Kerdreux          
-Nicolas Schaller         
-Barbara Théate           
-Christophe Carriére      
+Jean-Claude Raspiengeas  1
+Thierry Chèze            2.5
+Eric Neuhoff             1
+Stéphane Delorme         1
+Jacques Mandelbaum       1
+Philippe Rouyer          2.5
+Pierre Vavasseur         2.5
+Pierre Murat             1
+Victoria Gairin          2.5
+Serge Kaganski           2.5
+Gilles Kerdreux          2.5
+Nicolas Schaller         1
+Barbara Théate           1
+Christophe Carriére      5
 # ics
 Cédric Succivalli        5
 Emily Barnett            6
@@ -1604,21 +1604,21 @@ Michel Ciment            7.5
 Anton Dolin              7.5
 Screen International     7.5
 # Le film français
-Gaël Golhen              
-Jean-Claude Raspiengeas  
-Thierry Chèze            
-Eric Neuhoff             
-Stéphane Delorme         
+Gaël Golhen              5
+Jean-Claude Raspiengeas  7.5
+Thierry Chèze            7.5
+Eric Neuhoff             2.5
+Stéphane Delorme         7.5
 Jacques Mandelbaum       
-Philippe Rouyer          
-Pierre Vavasseur         
-Pierre Murat             
+Philippe Rouyer          7.5
+Pierre Vavasseur         2.5
+Pierre Murat             5
 Victoria Gairin          
-Serge Kaganski           
-Gilles Kerdreux          
-Nicolas Schaller         
-Barbara Théate           
-Christophe Carriére      
+Serge Kaganski           7.5
+Gilles Kerdreux          7.5
+Nicolas Schaller         7.5
+Barbara Théate           5
+Christophe Carriére      5
 # ics
 Cédric Succivalli        7
 Emily Barnett            
@@ -2170,7 +2170,7 @@ Víctor Esquirol        6
 #Boris Nelepo         5
 Blake Williams        5
 # Le film français
-Gaël Golhen              
+Gaël Golhen              9
 Jean-Claude Raspiengeas  
 Thierry Chèze            9
 Eric Neuhoff             5
@@ -2266,7 +2266,7 @@ Jacques Mandelbaum       1
 Philippe Rouyer          5
 Pierre Vavasseur         7.5
 Pierre Murat             5
-Victoria Gairin          5
+Victoria Gairin          2.5
 Serge Kaganski           2.5
 Gilles Kerdreux          2.5
 Nicolas Schaller         
@@ -2320,6 +2320,22 @@ Diego Batlle            5
 Ángel Quintana         5.5
 # critic.de
 #Rüdiger Suchsland    7.5
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  5
+Thierry Chèze            5
+Eric Neuhoff             
+Stéphane Delorme         1
+Jacques Mandelbaum       2.5
+Philippe Rouyer          5
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          2.5
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         5
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2379,6 +2395,22 @@ Emilio Luna             7
 Philipp Schwarz       2.5
 Lukas Stern           4
 #Rüdiger Suchsland    9
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  5
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          2.5
+Pierre Vavasseur         
+Pierre Murat             2.5
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        5
 Emily Barnett            2
@@ -2442,6 +2474,22 @@ Víctor Esquirol        6
 # critic.de
 Jenny Jecke           5
 #Daniel Kasman        6
+# Le film français
+Gaël Golhen              5
+Jean-Claude Raspiengeas  7.5
+Thierry Chèze            7.5
+Eric Neuhoff             7.5
+Stéphane Delorme         5
+Jacques Mandelbaum       5
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             5
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          7.5
+Nicolas Schaller         7.5
+Barbara Théate           9
+Christophe Carriére      
 # ics
 Cédric Succivalli        7
 Emily Barnett            8
@@ -2513,6 +2561,22 @@ Vasiliy Stepanov        2
 Frédéric Jaeger     2.5
 #Boris Nelepo         5
 Lukas Stern           1       http://www.critic.de/film/angel-face-11985/
+# Le film français
+Gaël Golhen              5
+Jean-Claude Raspiengeas  1
+Thierry Chèze            7.5
+Eric Neuhoff             1
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             5
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          2.5
+Nicolas Schaller         
+Barbara Théate           5
+Christophe Carriére      7.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2566,6 +2630,22 @@ Jaime Pena              5
 Fredy Friedlander       6
 Diego Batlle            4
 Carlos F. Heredero      3
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2613,6 +2693,22 @@ Eduardo Valente         3
 Till Kadritzke        4
 Philipp Schwarz       2.5
 Lukas Stern           4
+# Le film français
+Gaël Golhen              
+Jean-Claude Raspiengeas  
+Thierry Chèze            
+Eric Neuhoff             
+Stéphane Delorme         
+Jacques Mandelbaum       
+Philippe Rouyer          
+Pierre Vavasseur         
+Pierre Murat             
+Victoria Gairin          
+Serge Kaganski           
+Gilles Kerdreux          
+Nicolas Schaller         
+Barbara Théate           
+Christophe Carriére      
 # ics
 Cédric Succivalli        
 Emily Barnett            
