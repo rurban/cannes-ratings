@@ -1607,8 +1607,11 @@ Vasiliy Stepanov        6.5
 Víctor Esquirol        6.5
 # critic.de
 Andrey Arnold         6
+#Pamela Biénzobas     6
 Annabel Brady-Brown   7.5
 Frédéric Jaeger     6       http://www.critic.de/film/three-faces-12005/
+Jenny Jecke           9
+#Daniel Kasman        6
 #Boris Nelepo         6
 Giovanni Marchini Camina 6
 #Blake Williams       5
@@ -1771,7 +1774,13 @@ Emilio Luna             7
 Vasiliy Stepanov        8
 Víctor Esquirol        6.5
 # critic.de
+Andrey Arnold         9
+#Pamela Biénzobas     9
+Annabel Brady-Brown   9
+Frédéric Jaeger     9
+Jenny Jecke           6
 Till Kadritzke        9
+#Daniel Kasman        6
 #Boris Nelepo         9
 Giovanni Marchini Camina 9
 Philipp Schwarz       9
@@ -1896,6 +1905,8 @@ Fernando Ganzo          3
 Boris Nelepo            3.5
 Alberto Lechuga         8
 Emilio Luna             6.5
+# critic.de
+#Boris Nelepo         1
 #letterboxd
 FilmLandEmpire      10
 Pablo Villaça       10
@@ -2775,7 +2786,9 @@ Alejandra Trelles       4
 Carlota Moseguí        7
 Eduardo Valente         3
 # critic.de
+Andrey Arnold         6
 Till Kadritzke        4
+#Daniel Kasman        2.5
 Philipp Schwarz       2.5
 Lukas Stern           4
 # Le film français
@@ -3096,6 +3109,8 @@ José Luis Losa         3.5
 Ángel Quintana         5
 Juanma Ruíz            4.5
 Víctor Esquirol        3
+# critic.de
+Jenny Jecke           1
 #letterboxd
 BJReis              8
 tbakk               8   https://letterboxd.com/taylorbakken/film/fahrenheit-451-2018/
@@ -3160,6 +3175,8 @@ Letterboxd 8_Ratings	6.4  https://letterboxd.com/film/pope-francis-a-man-of-his-
 Roger Koza              3
 Diego Lerer             4
 Boris Nelepo            6
+# critic.de
+#Boris Nelepo         5
 # ics
 Anne Thompson       7
 #letterboxd
@@ -3687,7 +3704,9 @@ Víctor Esquirol        7
 Daniel de Partearroyo   8.5
 # critic.de
 Andrey Arnold         9
+Pamela Biénzobas     4
 Jenny Jecke           6
+#Boris Nelepo         7.5
 Lukas Stern           7.5
 # ics
 Cédric Succivalli        
@@ -3749,8 +3768,11 @@ Vasiliy Stepanov        9
 Víctor Esquirol        6.5
 Daniel de Partearroyo   7.5
 # critic.de
+Annabel Brady-Brown   9
 Frédéric Jaeger     9
+Jenny Jecke           5
 Till Kadritzke        4
+#Daniel Kasman        2.5
 #Boris Nelepo         7.5
 Giovanni Marchini Camina 9
 Philipp Schwarz       5
@@ -3821,6 +3843,8 @@ Juanma Ruíz            4
 Eduardo Valente         5.5
 Emilio Luna             6
 Denis Vilenkin          7
+# critic.de
+#Pamela Biénzobas     6
 #letterboxd
 ChristineT          7
 Antoine Waked       7
@@ -3835,6 +3859,8 @@ Sundance 59_Ratings    7.22  http://cannes-ratings.herokuapp.com/Sundance2018?t=
 Letterboxd 155_Ratings	7.4  https://letterboxd.com/film/leave-no-trace/
 # todas
 Juanma Ruíz            7
+# critic.de
+Andrey Arnold         7.5
 #letterboxd
 Quark Henares       8   https://letterboxd.com/quark/film/leave-no-trace/
 sassadinik          8
@@ -4172,6 +4198,8 @@ Tommaso Tocci       1
 
 # todas
 Denis Vilenkin          2
+# critic.de
+#Blake Williams       5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -4191,7 +4219,7 @@ Nicolas Rapold
 Anne Thompson            
 Erik Anderson                 
 Dennis Lim               
-Blake Williams           
+Blake Williams           5
 Jon Frosch               
 Nicholas Bell            
 #letterboxd
@@ -4210,6 +4238,7 @@ José Luis Losa         4.5
 Emilio Luna             6.5
 Víctor Esquirol        6
 # critic.de
+#Pamela Biénzobas     5
 Annabel Brady-Brown   6
 Giovanni Marchini Camina 6
 # ics
@@ -4255,6 +4284,8 @@ Josh Cabrita        5
 
 # todas
 Pamela Bienzobas        6.5
+# critic.de
+#Pamela Biénzobas     7.5
 #letterboxd
 Raspou              7
 Otto Kylmälä        6
