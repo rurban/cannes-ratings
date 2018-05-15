@@ -1496,7 +1496,7 @@ Víctor Esquirol        2
 # critic.de
 Annabel Brady-Brown   2.5
 Frédéric Jaeger     2.5
-Till Kadritzke        2.5     http://www.critic.de/film/girls-of-the-sun-12001/
+Till Kadritzke        1       http://www.critic.de/film/girls-of-the-sun-12001/
 #Daniel Kasman        2.5
 Giovanni Marchini Camina 2.5
 #Blake Williams       4
@@ -2159,12 +2159,13 @@ Denis Vilenkin          3
 Víctor Esquirol        7
 Daniel de Partearroyo   2
 # critic.de
+Andrey Arnold         6
 Annabel Brady-Brown   5
 Frédéric Jaeger     6
 Jenny Jecke           9
 Till Kadritzke        1
 #Daniel Kasman        7.5
-#Violeta Kovacsics     9
+Violeta Kovacsics     9
 Giovanni Marchini Camina 4
 Philipp Schwarz       4
 Lukas Stern           2.5
@@ -2313,10 +2314,11 @@ Emilio Luna             7
 Víctor Esquirol        6
 Daniel de Partearroyo   3.5
 # critic.de
+Andrey Arnold         5
 Annabel Brady-Brown   7.5
 Frédéric Jaeger     7.5
 Jenny Jecke           6
-Till Kadritzke        9
+Till Kadritzke        7.5
 #Daniel Kasman        5
 Giovanni Marchini Camina 7.5
 Philipp Schwarz       7.5
@@ -2450,6 +2452,9 @@ Fernando Ganzo          1.5
 Carlos F. Heredero      3
 Ángel Quintana         5
 Emilio Luna             4
+# critic.de
+Frédéric Jaeger     2.5
+Till Kadritzke        5
 #letterboxd
 ChristineT          8
 Ella Kemp           7
@@ -3485,6 +3490,10 @@ Carlos F. Heredero      10
 Alberto Lechuga         8
 Emilio Luna             8
 Daniel de Partearroyo   8.5
+# critic.de
+Annabel Brady-Brown   7.5
+Giovanni Marchini Camina 6
+Blake Williams       7.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3926,8 +3935,13 @@ Emilio Luna             7
 Denis Vilenkin          3
 Daniel de Partearroyo   2
 # critic.de
+Andrey Arnold         5
+Annabel Brady-Brown   1
+Frédéric Jaeger     6
 Till Kadritzke        2.5
+Giovanni Marchini Camina 7.5
 Philipp Schwarz       9
+Lukas Stern           7.5
 Blake Williams       9
 #letterboxd
 pernillere          10
@@ -5307,6 +5321,8 @@ ChristineT          3
 
 "Fuga (Fugue)" (Agnieszka Smoczyńska) [Semaine]
 
+# critic.de
+Lukas Stern           2.5
 #letterboxd
 franki_xcx          8   https://letterboxd.com/franki_xcx/film/the-fugue-1/
 monkeybox83         8
