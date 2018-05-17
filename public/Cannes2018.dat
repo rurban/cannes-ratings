@@ -71,6 +71,7 @@ Xavi Serra              6.5
 Boris Nelepo            4
 Carlos F. Heredero      4
 Pamela Bienzobas        4.5
+Sergi Sanchez           4
 Eulalia Iglesias        4
 Violeta Kovacsics       4
 Pablo Scholz            6
@@ -360,6 +361,7 @@ Alex Vicente            4
 Fernando Ganzo          3
 Carlos F. Heredero      3.5
 Pamela Bienzobas        3.5
+Sergi Sanchez           2.5
 Eulalia Iglesias        4
 Violeta Kovacsics       3
 Pablo Scholz            4.5
@@ -521,7 +523,7 @@ Peter Bradshaw          6  https://www.theguardian.com/film/2018/may/10/leto-rev
 # todas
 Roger Koza              6
 Jaime Pena              7
-Rüdiger Suchsland      8.5
+Rüdiger Suchsland      9
 Diego Lerer             7
 Fredy Friedlander       7
 Giona Nazzaro           7.5
@@ -536,6 +538,7 @@ Xavi Serra              5.5
 Boris Nelepo            8
 Carlos F. Heredero      5.5
 Pamela Bienzobas        7
+Sergi Sanchez           7
 Eulalia Iglesias        8
 Violeta Kovacsics       6.5
 Pablo Scholz            4.5
@@ -718,6 +721,7 @@ Alejandro G. Calvo      3.5
 Xavi Serra              5
 Boris Nelepo            7.5
 Carlos F. Heredero      6.5
+Sergi Sanchez           7
 Eulalia Iglesias        6
 Pablo Scholz            4.5
 José Luis Losa         6.5
@@ -938,6 +942,7 @@ Xavi Serra              8
 Boris Nelepo            7
 Carlos F. Heredero      7
 Pamela Bienzobas        8
+Sergi Sanchez           8.5
 Eulalia Iglesias        8.5
 Pablo Scholz            7.5
 José Luis Losa         8.5
@@ -1153,9 +1158,11 @@ Alex Vicente            7
 Marcelo Alderete        10
 Fernando Ganzo          10
 Alejandro G. Calvo      10
+Xavi Serra              5.5
 Boris Nelepo            10
 Carlos F. Heredero      9
 Pamela Bienzobas        8.5
+Sergi Sanchez           9
 Eulalia Iglesias        8
 Pablo Scholz            7
 José Luis Losa         4.5
@@ -1166,6 +1173,7 @@ Juanma Ruíz            8
 Pedro Segura            10
 Carlota Moseguí        9.5
 Eduardo Valente         8.5
+Arthur Mas              10
 Emilio Luna             3
 Denis Vilenkin          6
 Vasiliy Stepanov        7.5
@@ -1319,7 +1327,7 @@ Joseph Owen             8  https://www.theupcoming.co.uk/2018/05/11/cannes-film-
 Roger Koza              7
 Jaime Pena              8
 Daniel Kasman           8
-Rüdiger Suchsland      8
+Rüdiger Suchsland      8.5
 Fernando Juan Lima      8
 Diego Lerer             8.5
 Fredy Friedlander       7
@@ -1336,6 +1344,7 @@ Xavi Serra              6
 Boris Nelepo            8
 Carlos F. Heredero      8
 Pamela Bienzobas        7.5
+Sergi Sanchez           6
 Eulalia Iglesias        6.5
 Pablo Scholz            5.5
 José Luis Losa         7
@@ -1516,10 +1525,12 @@ Carlos Reviriego        2.5
 Luciano Monteagudo      2
 Xavi Serra              2
 Carlos F. Heredero      2
+Sergi Sanchez           2.5
 Eulalia Iglesias        3
 Pablo Scholz            4
 Ángel Quintana         4.5
 Alejandra Trelles       3
+Philipp Engel           1.5
 Denis Vilenkin          1
 Víctor Esquirol        2
 # critic.de
@@ -1674,9 +1685,11 @@ Xavi Serra              6
 Boris Nelepo            7
 Carlos F. Heredero      6.5
 Pamela Bienzobas        6.5
+Sergi Sanchez           7.5
 Eulalia Iglesias        7.5
 José Luis Losa         6.5
 Ángel Quintana         7.5
+Philipp Engel           6.5
 Juanma Ruíz            8
 Carlota Moseguí        5.5
 Eduardo Valente         9
@@ -1856,11 +1869,13 @@ Xavi Serra              7.5
 Boris Nelepo            9.5
 Carlos F. Heredero      7
 Pamela Bienzobas        8.5
+Sergi Sanchez           9
 Eulalia Iglesias        8.5
 José Luis Losa         9.5
 Ángel Quintana         9
 Alberto Lechuga         8
 Alejandra Trelles       8
+Philipp Engel           8.5
 Carlota Moseguí        6
 Eduardo Valente         7.5
 Emilio Luna             7
@@ -2021,11 +2036,14 @@ Fernando Ganzo          3
 Xavi Serra              7.5
 Boris Nelepo            3
 Carlos F. Heredero      7.5
+Sergi Sanchez           8.5
 José Luis Losa         8
 Ángel Quintana         5
 Alberto Lechuga         8
+Philipp Engel           8
 Juanma Ruíz            8.5
 Emilio Luna             6.5
+Vasiliy Stepanov        4
 Víctor Esquirol        7
 Daniel de Partearroyo   7
 # critic.de
@@ -2202,11 +2220,13 @@ José Luis Losa         4
 Ángel Quintana         7
 Alberto Lechuga         8
 Alejandra Trelles       5.5
+Philipp Engel           5
 Juanma Ruíz            5
 Carlota Moseguí        7
 Eduardo Valente         6.5
 Emilio Luna             6
 Denis Vilenkin          3
+Vasiliy Stepanov        7
 Víctor Esquirol        7
 Daniel de Partearroyo   2
 # critic.de
@@ -2363,15 +2383,18 @@ Alejandro G. Calvo      7.5
 Xavi Serra              7
 Carlos F. Heredero      5
 Pamela Bienzobas        7
+Sergi Sanchez           6.5
 Eulalia Iglesias        7.5
 José Luis Losa         8.5
 Ángel Quintana         8
 Alberto Lechuga         7
 Alejandra Trelles       8
+Philipp Engel           6
 Carlota Moseguí        4
 Eduardo Valente         7
 Emilio Luna             7
 Denis Vilenkin          6.5
+Vasiliy Stepanov        6.5
 Víctor Esquirol        6
 Daniel de Partearroyo   3.5
 # critic.de
@@ -2542,10 +2565,12 @@ Luciano Monteagudo      5.5
 Alex Vicente            5
 Fernando Ganzo          1.5
 Carlos F. Heredero      3
+Sergi Sanchez           5.5
 Eulalia Iglesias        3.5
 José Luis Losa         4.5
 Ángel Quintana         5
 Alejandra Trelles       6
+Philipp Engel           4
 Carlota Moseguí        3
 Emilio Luna             4
 Víctor Esquirol        6
@@ -2660,15 +2685,23 @@ Kaan Karsan         3
 
 # todas
 Roger Koza              6.5
+Jaime Pena              5.5
 Rüdiger Suchsland      8
 Diego Lerer             5
 Fredy Friedlander       5
 Diego Batlle            6
+Carlos Reviriego        8
 Alex Vicente            8
 Fernando Ganzo          10
 Alejandro G. Calvo      9
 Xavi Serra              8
+Carlos F. Heredero      4.5
+Sergi Sanchez           8
+José Luis Losa         8
 Ángel Quintana         6.5
+Alberto Lechuga         10
+Philipp Engel           9
+Denis Vilenkin          3
 Vasiliy Stepanov        6.5
 # screen daily
 Julien Gester/Didier Peron 
@@ -2807,6 +2840,24 @@ Vincent             2   https://letterboxd.com/jakehannaford/film/under-the-silv
 "Burning (Beoning)" (Lee Chang-dong) [Competition]
 
 Letterboxd 4_Ratings	6.2  https://letterboxd.com/film/burning-2018/
+# todas
+Roger Koza              8.5
+Jaime Pena              8.5
+Daniel Kasman           6.5
+Rüdiger Suchsland      9
+Diego Batlle            8.5
+Carlos Reviriego        8.5
+Alex Vicente            7
+Fernando Ganzo          5.5
+Xavi Serra              8.5
+Carlos F. Heredero      7.5
+Sergi Sanchez           9
+José Luis Losa         9
+Ángel Quintana         9
+Juanma Ruíz            7
+Eduardo Valente         8.5
+Vasiliy Stepanov        9
+Víctor Esquirol        8
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -3353,6 +3404,7 @@ Fernando Ganzo          4
 Alejandro G. Calvo      5
 Boris Nelepo            4
 Carlos F. Heredero      6.5
+Sergi Sanchez           6
 Eulalia Iglesias        4
 Pablo Scholz            4
 José Luis Losa         3
@@ -3836,6 +3888,7 @@ Pablo Scholz            7.5
 José Luis Losa         9
 Ángel Quintana         2.5
 Alejandra Trelles       6.5
+Philipp Engel           8
 Pedro Segura            3
 Emilio Luna             7
 # critic.de
@@ -4099,6 +4152,7 @@ Diego Lerer             3
 Fredy Friedlander       6
 Diego Batlle            4
 Carlos F. Heredero      3
+José Luis Losa         4
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -4357,13 +4411,15 @@ Crayfish            2
 
 # todas
 Roger Koza              7.5
+Jaime Pena              9
 Daniel Kasman           6.5
 Diego Lerer             9
 Diego Batlle            8.5
+Carlos Reviriego        9
 Alex Vicente            8
 Fernando Ganzo          5
 Carlos F. Heredero      10
-José Luis Losa         5
+José Luis Losa         6.5
 Ángel Quintana         9
 Alberto Lechuga         8
 Juanma Ruíz            10
@@ -4463,6 +4519,7 @@ Giona Nazzaro           3.5
 José Luis Losa         3
 Carlota Moseguí        5
 Emilio Luna             5.5
+Vasiliy Stepanov        5
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -4511,6 +4568,11 @@ jankaranka          5
 
 "Sofia" (Meyem Benm’Barek) [Un Certain Regard]
 
+# todas
+Carlos Reviriego        4.5
+Carlos F. Heredero      5
+Ángel Quintana         6
+Vasiliy Stepanov        6
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -4559,8 +4621,14 @@ pernillere          3
 "The Dead and the Others (Chuva é cantoria na aldeia dos mortos)" (João Salaviza, Renée Nader Messora) [Un Certain Regard]
 
 # todas
+Roger Koza              7.5
+Daniel Kasman           7
 Diego Lerer             8.5
 Ángel Quintana         6.5
+Diego Batlle            7.5
+Ángel Quintana         7
+Eduardo Valente         7.5
+Víctor Esquirol        6.5
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -4917,6 +4985,7 @@ Steven Cheshire     4   https://letterboxd.com/stevencheshire/film/the-spy-gone-
 # todas
 Carlos Reviriego        6
 Carlos F. Heredero      6
+Sergi Sanchez           5.5
 Eulalia Iglesias        6.5
 Ángel Quintana         6
 Juanma Ruíz            6.5
@@ -4934,6 +5003,7 @@ Letterboxd 15_Ratings	6.9  https://letterboxd.com/film/fahrenheit-451-2018/
 Diego Lerer             4
 Fernando Ganzo          4
 Alejandro G. Calvo      3.5
+Sergi Sanchez           3
 José Luis Losa         3.5
 Ángel Quintana         5
 Juanma Ruíz            4.5
@@ -5021,6 +5091,7 @@ Diego Batlle            5
 Alex Vicente            1
 Xavi Serra              3
 Boris Nelepo            6
+Sergi Sanchez           4
 Ángel Quintana         5
 # critic.de
 #Boris Nelepo         5
@@ -5087,10 +5158,12 @@ Alejandro G. Calvo      6
 Xavi Serra              6.5
 Carlos F. Heredero      5
 Pamela Bienzobas        3.5
+Sergi Sanchez           6.5
 Eulalia Iglesias        7.5
 José Luis Losa         6
 Ángel Quintana         7.5
-Alberto Lechuga         3
+Alberto Lechuga         2
+Philipp Engel           7.5
 Carlota Moseguí        6.5
 Emilio Luna             7
 Denis Vilenkin          3
@@ -5218,16 +5291,19 @@ Letterboxd 39_Ratings	5.9  https://letterboxd.com/film/solo-a-star-wars-story/
 Jaime Pena              3.5
 Diego Lerer             7
 Diego Batlle            7
-Carlos Reviriego        5
+Carlos Reviriego        4
 Alex Vicente            4
 Alejandro G. Calvo      6
 Xavi Serra              6.5
 Carlos F. Heredero      5
+Sergi Sanchez           3
 Eulalia Iglesias        4
 José Luis Losa         0.5
 Ángel Quintana         2
+Alberto Lechuga         6
 Juanma Ruíz            6.5
 Carlota Moseguí        5
+Vasiliy Stepanov        5
 Víctor Esquirol        4
 Daniel de Partearroyo   5
 # ics
@@ -5499,6 +5575,7 @@ Marcelo Alderete        3
 Alejandro G. Calvo      5.5
 Xavi Serra              6.5
 Carlos F. Heredero      6.5
+Sergi Sanchez           7
 Violeta Kovacsics       5
 Ángel Quintana         6.5
 Juanma Ruíz            6.5
@@ -6121,6 +6198,7 @@ EdgarReviews        7
 
 # todas
 Fernando Ganzo          7
+Ángel Quintana         7.5
 Juanma Ruíz            5.5
 # ics
 Cédric Succivalli        
@@ -6152,6 +6230,7 @@ KvnM                4
 "El motoarrebatador (The Snatch Thief)" (Agustín Toscano) [Quinzaine]
 
 # todas
+Jaime Pena              5.5
 Fredy Friedlander       7
 Diego Batlle            7.5
 Pamela Bienzobas        6.5
@@ -6189,6 +6268,8 @@ Vincent             3   https://letterboxd.com/jakehannaford/film/the-snatch-thi
 # todas
 Diego Lerer             4
 Carlos F. Heredero      4.5
+Sergi Sanchez           4
+José Luis Losa         3
 Juanma Ruíz            4
 Carlota Moseguí        6
 Víctor Esquirol        4
@@ -6225,6 +6306,8 @@ Cristian Rodríguez  6
 
 # todas
 Juanma Ruíz            7
+Denis Vilenkin          5
+Víctor Esquirol        6
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -6261,7 +6344,9 @@ spagatli            6
   "Un film qui parle du cinéma et de politique et du rapport entre les villes et les campagnes."
 
 # todas
+Jaime Pena              6.5
 Fernando Ganzo          4
+Juanma Ruíz            7
 #letterboxd
 domwakeford         7
 Michael Mahoney     5
@@ -6704,6 +6789,7 @@ Diego Lerer             7
 Carlota Moseguí        6.5
 Eduardo Valente         6.5
 Denis Vilenkin          1
+Víctor Esquirol        5
 # critic.de
 Lukas Stern           2.5
 #letterboxd
@@ -6722,6 +6808,8 @@ Ferenc Varga        3
 "Guy" (Alex Lutz) [Semaine] Special Screening
  Closing Film
 
+# todas
+José Luis Losa         5
 #letterboxd
 mangemanche         3
 
@@ -6791,6 +6879,9 @@ Jason               6
 "Un violent désir de bonheur (A violent Desire for Joy)" (Clément Schneider) [ACID]
 
 "L'amour debout (Stand Up Love)" (Michaël Dacheux) [ACID]
+
+# todas
+José Luis Losa         5
 
 "Reprise" (Hervé Le Roux) [ACID] Special Screening
  1996
