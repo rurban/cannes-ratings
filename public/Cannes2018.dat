@@ -384,7 +384,7 @@ Till Kadritzke        2.5
 #Daniel Kasman        2.5
 Giovanni Marchini Camina 5
 Lukas Stern           2.5
-Rüdiger Suchsland    2.5
+#Rüdiger Suchsland    2.5
 Blake Williams        2.5
 # screen daily
 Julien Gester/Didier Peron 2.5
@@ -566,7 +566,7 @@ Till Kadritzke        4
 #Boris Nelepo         7.5
 Philipp Schwarz       6       http://www.critic.de/film/summer-12009/
 Lukas Stern           7.5
-Rüdiger Suchsland    9
+#Rüdiger Suchsland    9
 # screen daily
 Julien Gester/Didier Peron 5
 Katja Nicodemus          5
@@ -745,7 +745,7 @@ Till Kadritzke        9       http://www.critic.de/film/sorry-angel-11975/
 #Boris Nelepo         6
 Philipp Schwarz       7.5
 Lukas Stern           9
-Rüdiger Suchsland    7.5
+#Rüdiger Suchsland    7.5
 Blake Williams        4
 # screen daily
 Julien Gester/Didier Peron 7.5
@@ -2251,7 +2251,7 @@ Till Kadritzke        1
 #Daniel Kasman        7.5
 Violeta Kovacsics     9
 Giovanni Marchini Camina 4
-Philipp Schwarz       4
+Philipp Schwarz       4       http://www.critic.de/film/asako-i-ii-11989/
 Lukas Stern           2.5
 #Blake Williams       7.5
 # screen daily
@@ -2593,8 +2593,13 @@ Carlota Moseguí        3
 Emilio Luna             4
 Víctor Esquirol        6
 # critic.de
+Andrey Arnold         5
 Frédéric Jaeger     2.5
 Till Kadritzke        5
+#Daniel Kasman        5
+Philipp Schwarz       5
+#Rüdiger Suchsland    2.5
+#Blake Williams       5
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -2724,6 +2729,16 @@ Alberto Lechuga         10
 Philipp Engel           9
 Denis Vilenkin          3
 Vasiliy Stepanov        6.5
+# critic.de
+Andrey Arnold         6
+Annabel Brady-Brown   7.5
+Jenny Jecke           6
+Till Kadritzke        7.5
+Giovanni Marchini Camina 7.5
+Philipp Schwarz       2.5
+Lukas Stern           7.5
+#Rüdiger Suchsland    9
+#Blake Williams       2.5
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -2898,6 +2913,15 @@ Juanma Ruíz            7
 Eduardo Valente         8.5
 Vasiliy Stepanov        9
 Víctor Esquirol        8
+# critic.de
+Annabel Brady-Brown   2.5
+Frédéric Jaeger     7.5
+Jenny Jecke           9
+Till Kadritzke        5
+Giovanni Marchini Camina 9
+Philipp Schwarz       6
+Lukas Stern           5
+#Blake Williams       9
 # screen daily
 Julien Gester/Didier Peron 
 Katja Nicodemus          
@@ -3826,7 +3850,7 @@ Denis Vilenkin          1
 Frédéric Jaeger     7.5
 Till Kadritzke        7.5
 Lukas Stern           7.5
-Rüdiger Suchsland    6
+#Rüdiger Suchsland    6
 # Le film français
 Gaël Golhen              2.5
 Jean-Claude Raspiengeas  
@@ -4233,6 +4257,8 @@ Fredy Friedlander       6
 Diego Batlle            4
 Carlos F. Heredero      3
 José Luis Losa         4
+# critic.de
+Rüdiger Suchsland    4
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -4516,8 +4542,10 @@ Víctor Esquirol        8
 Daniel de Partearroyo   8.5
 # critic.de
 Annabel Brady-Brown   7.5
+Jenny Jecke           9
+#Daniel Kasman        5
 Giovanni Marchini Camina 6
-Blake Williams       7.5
+#Blake Williams       7.5
 # Le film français
 Gaël Golhen              
 Jean-Claude Raspiengeas  
@@ -5106,7 +5134,9 @@ José Luis Losa         3.5
 Juanma Ruíz            4.5
 Víctor Esquirol        3
 # critic.de
+Annabel Brady-Brown   2.5
 Jenny Jecke           1
+Rüdiger Suchsland    7.5
 #letterboxd
 Boris Novikov       8
 truman segal        7   https://letterboxd.com/trumansegal/film/fahrenheit-451-2018/
@@ -5195,6 +5225,7 @@ Sergi Sanchez           4
 Ángel Quintana         5
 # critic.de
 #Boris Nelepo         5
+Rüdiger Suchsland    7.5
 # ics
 Stephanie Zacharek  8
 Anne Thompson       7
@@ -5278,12 +5309,15 @@ Daniel de Partearroyo   2
 # critic.de
 Andrey Arnold         5
 Annabel Brady-Brown   1
-Frédéric Jaeger     6
+Frédéric Jaeger     6       http://www.critic.de/film/the-house-that-jack-built-11977/
+Jenny Jecke           6
 Till Kadritzke        2.5
+#Daniel Kasman        2.5
 Giovanni Marchini Camina 7.5
 Philipp Schwarz       9
 Lukas Stern           7.5
-Blake Williams       9
+Rüdiger Suchsland    7.5
+#Blake Williams       9
 # ics
 Cédric Succivalli        
 Emily Barnett            8
@@ -5417,6 +5451,13 @@ Carlota Moseguí        5
 Vasiliy Stepanov        5
 Víctor Esquirol        4
 Daniel de Partearroyo   5
+# critic.de
+Andrey Arnold         5
+Annabel Brady-Brown   4
+Jenny Jecke           5
+Philipp Schwarz       4
+Lukas Stern           4
+#Rüdiger Suchsland    7.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -6475,6 +6516,8 @@ Cristian Rodríguez  6
 Juanma Ruíz            7
 Denis Vilenkin          5
 Víctor Esquirol        6
+# critic.de
+Jenny Jecke           7.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -6517,6 +6560,9 @@ domwakeford         5
 Jaime Pena              6.5
 Fernando Ganzo          4
 Juanma Ruíz            7
+# critic.de
+Jenny Jecke           4
+#Blake Williams       5
 #letterboxd
 domwakeford         7
 Vincent             5   https://letterboxd.com/jakehannaford/film/the-moment-of-pluto/
@@ -6967,6 +7013,7 @@ Eduardo Valente         6.5
 Denis Vilenkin          1
 Víctor Esquirol        5
 # critic.de
+Annabel Brady-Brown   4
 Lukas Stern           2.5
 #letterboxd
 franki_xcx          8   https://letterboxd.com/franki_xcx/film/the-fugue-1/
@@ -7319,7 +7366,7 @@ Philip Engel (Go Mag, España)
 Philipp Engel (Go Mag, España)
 Robert Koehler (Variety, USA) 
 Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Rüdiger Suchsland (Negativ-film, arteschock, Deutschland) 
+Rüdiger Suchsland (arteschock, Deutschland) 
 Sergi Sanchez (La Razón, España)
 Jan Pieter Ekker (Cinema.nl, Netherlands)
 Emiliano Fernández (A Sala Llena, Argentina)
@@ -7407,7 +7454,7 @@ $critics_group[4] = "critic.de";
 $critics[4] = "
 Andrey Arnold (Die Presse, Austria)
 Pamela Bienzobas (Revista Cosas, Chile) 
-Annabel Brady-Brown (Fireflies)
+Annabel Brady-Brown (Fireflies, UK)
 Frédéric Jaeger (critic.de, Deutschland)
 Jenny Jecke (Moviepilot, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
