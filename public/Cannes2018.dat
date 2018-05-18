@@ -1202,6 +1202,7 @@ Pablo Scholz            7
 José Luis Losa         4.5
 Ángel Quintana         10
 Alberto Lechuga         10
+Alejandra Trelles       5
 Philipp Engel           10
 Juanma Ruíz            8
 Pedro Segura            10
@@ -1919,10 +1920,10 @@ Carlos F. Heredero      7
 Pamela Bienzobas        8.5
 Sergi Sanchez           9
 Eulalia Iglesias        8.5
-José Luis Losa         9.5
+José Luis Losa         10
 Ángel Quintana         9
 Alberto Lechuga         8
-Alejandra Trelles       8
+Alejandra Trelles       9.5
 Philipp Engel           8.5
 Carlota Moseguí        6
 Eduardo Valente         7.5
@@ -2258,6 +2259,7 @@ Jonathan Romney             https://www.screendaily.com/reviews/asako-i-and-ii-c
 Roger Koza              6.5
 Jaime Pena              8
 Daniel Kasman           8
+Fernando Juan Lima      7
 Diego Lerer             7
 Giona Nazzaro           9
 Diego Batlle            7
@@ -2774,6 +2776,7 @@ fightclubitis       2   https://letterboxd.com/fightclubitis/film/at-war/
 Roger Koza              6.5
 Jaime Pena              5.5
 Rüdiger Suchsland      8
+Fernando Juan Lima      7.5
 Diego Lerer             5
 Fredy Friedlander       5
 Diego Batlle            6
@@ -2977,6 +2980,7 @@ Roger Koza              8.5
 Jaime Pena              8.5
 Daniel Kasman           6.5
 Rüdiger Suchsland      9
+Fernando Juan Lima      8
 Diego Lerer             8.5
 Fredy Friedlander       7
 Diego Batlle            8.5
@@ -2990,8 +2994,9 @@ Xavi Serra              8.5
 Carlos F. Heredero      7.5
 Sergi Sanchez           9
 Eulalia Iglesias        8.5
-José Luis Losa         9
+José Luis Losa         9.5
 Ángel Quintana         9
+Philipp Engel           7.5
 Juanma Ruíz            7
 Carlota Moseguí        8
 Eduardo Valente         8.5
@@ -3192,13 +3197,25 @@ mangemanche         4
 
 # todas
 Roger Koza              3.5
+Jaime Pena              4
+Daniel Kasman           5.5
+Fernando Juan Lima      3
 Diego Lerer             6.5
 Giona Nazzaro           9
 Diego Batlle            6.5
+Alex Vicente            7
+Fernando Ganzo          4
 Alejandro G. Calvo      7
+Carlos F. Heredero      5
+Sergi Sanchez           7
 Eulalia Iglesias        6
+José Luis Losa         7
+Ángel Quintana         6
+Philipp Engel           6.5
+Carlota Moseguí        6
 Denis Vilenkin          4
 Vasiliy Stepanov        6.5
+Víctor Esquirol        6
 # critic.de
 Jenny Jecke           2.5
 #Daniel Kasman        5
@@ -3364,6 +3381,19 @@ Sam C. Mac          3
 "Capernaum (Capharnaüm)" (Nadine Labaki) [Competition]
 #lb:"Capernaum"
 
+# todas
+Jaime Pena              3
+Daniel Kasman           3.5
+Fernando Juan Lima      0.5
+Diego Lerer             4
+Diego Batlle            4.5
+Carlos F. Heredero      1
+Sergi Sanchez           0.5
+Ángel Quintana         3
+Alejandra Trelles       2
+Carlota Moseguí        2
+Vasiliy Stepanov        3
+Víctor Esquirol        2
 # critic.de
 Andrey Arnold         4
 Frédéric Jaeger     2.5
@@ -3989,7 +4019,7 @@ Fredy Friedlander       5.5
 Luciano Monteagudo      7.5
 Fernando Ganzo          4.5
 Alejandro G. Calvo      8
-Boris Nelepo            6
+Boris Nelepo            5
 Carlos F. Heredero      6
 Eulalia Iglesias        7
 Violeta Kovacsics       7
@@ -4565,6 +4595,7 @@ Stephen Dalton          https://www.hollywoodreporter.com/review/murder-me-monst
 Roger Koza              7
 Jaime Pena              4.5
 Daniel Kasman           4
+Fernando Juan Lima      8.5
 Diego Lerer             8.5
 Fredy Friedlander       6
 Giona Nazzaro           4
@@ -4955,7 +4986,7 @@ Giona Nazzaro           8
 Carlos Reviriego        4.5
 Luciano Monteagudo      6
 Carlos F. Heredero      5
-Ángel Quintana         6
+Ángel Quintana         7
 Vasiliy Stepanov        6
 # Le film français
 Gaël Golhen              
@@ -5016,6 +5047,7 @@ pernillere          3
 
 # todas
 Roger Koza              7.5
+Jaime Pena              7.5
 Daniel Kasman           7
 Diego Lerer             8.5
 Diego Batlle            7.5
@@ -5078,11 +5110,24 @@ edissa              4
 "In My Room" (Ulrich Köhler) [Un Certain Regard]
 
 # todas
-Roger Koza              6
+Roger Koza              5.5
+Jaime Pena              7
+Daniel Kasman           7
+Diego Lerer             5.5
 Fredy Friedlander       5
-Alberto Lechuga         3
+Diego Batlle            6
+Fernando Ganzo          5
+Carlos F. Heredero      4.5
+José Luis Losa         5
+Ángel Quintana         5
+Alberto Lechuga         3.5
+Alejandra Trelles       7
+Philipp Engel           7
+Juanma Ruíz            5.5
+Carlota Moseguí        7
 Eduardo Valente         6
 Vasiliy Stepanov        4
+Víctor Esquirol        6
 Daniel de Partearroyo   3.5
 # critic.de
 Annabel Brady-Brown   9
@@ -5151,7 +5196,11 @@ Arvena              2   https://letterboxd.com/arvena/film/in-my-room-2018/
 "The Gentle Indifference of the World (Nochnoy Bog)" (Adilkhan Yerzhanov) [Un Certain Regard] <i>Moscow</i>
 
 # todas
-Roger Koza              6
+Roger Koza              5
+José Luis Losa         4
+Alejandra Trelles       4
+Carlota Moseguí        7
+Víctor Esquirol        4.5
 # critic.de
 Daniel Kasman        4
 # Le film français
@@ -5773,6 +5822,7 @@ Eulalia Iglesias        4
 José Luis Losa         0.5
 Ángel Quintana         2
 Alberto Lechuga         6
+Philipp Engel           6
 Juanma Ruíz            6.5
 Carlota Moseguí        5
 Vasiliy Stepanov        5
@@ -5996,6 +6046,12 @@ Roman               1
 
 # todas
 Diego Batlle            7.5
+Alex Vicente            5
+Carlos F. Heredero      4
+Sergi Sanchez           4
+José Luis Losa         5
+Ángel Quintana         5.5
+Víctor Esquirol        5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -6040,7 +6096,12 @@ axelopac            4
 "La Traversée" (Romain Goupil) [Out Of Competition]
 
 # todas
+Jaime Pena              4
 Giona Nazzaro           6.5
+Alex Vicente            4
+José Luis Losa         3.5
+Ángel Quintana         6.5
+Alejandra Trelles       5.5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -6116,7 +6177,7 @@ Peter Debruge           http://variety.com/2018/film/reviews/birds-of-passage-re
 Jordan Mintzer          https://www.hollywoodreporter.com/review/birds-passage-pajaros-de-verano-film-review-cannes-2018-1110101
 Zoe Tamara           6  https://www.theupcoming.co.uk/2018/05/09/cannes-film-festival-2018-birds-of-passage-pajaros-de-verano-review/
 # todas
-Roger Koza              4.5
+Roger Koza              6
 Jaime Pena              4.5
 Daniel Kasman           5.5   https://mubi.com/notebook/posts/cannes-2018-correspondences-3-weed-in-columbia-war-in-ukraine
 Diego Lerer             7
@@ -6216,6 +6277,7 @@ Carlos F. Heredero      6.5
 Sergi Sanchez           7
 Violeta Kovacsics       5
 Ángel Quintana         6.5
+Philipp Engel           8
 Juanma Ruíz            6.5
 Pedro Segura            1
 Carlota Moseguí        7.5
@@ -6589,13 +6651,14 @@ Zoe Tamara              6    https://www.theupcoming.co.uk/2018/05/13/cannes-fil
 # todas
 Jaime Pena              6.5
 Daniel Kasman           3.5
+Fernando Juan Lima      4.5
 Giona Nazzaro           7
 Andrea Picard           8.5
 Carlos Reviriego        0.5
 Marcelo Alderete        4
 Alejandro G. Calvo      8
 Boris Nelepo            9
-José Luis Losa         3
+José Luis Losa         6
 Alberto Lechuga         7
 Juanma Ruíz            1
 Denis Vilenkin          9
@@ -6783,6 +6846,7 @@ edissa              4
 Todd McCarthy           https://www.hollywoodreporter.com/review/buy-me-a-gun-review-1111538 
 # todas
 Roger Koza              7
+Jaime Pena              7
 Diego Lerer             7
 Juanma Ruíz            5
 Carlota Moseguí        7
@@ -6939,6 +7003,7 @@ Diego Lerer             4
 Carlos F. Heredero      4.5
 Sergi Sanchez           4
 José Luis Losa         3
+Philipp Engel           6.5
 Juanma Ruíz            4
 Carlota Moseguí        6
 Víctor Esquirol        4
@@ -7067,9 +7132,11 @@ Michael Mahoney     5
 Conrad Mildner      4
 the_gaffer          3
 
-"Troppa grazia" (Gianni Zanasi)  [Quinzaine] 
+"Lucia's Grace (Troppa grazia)" (Gianni Zanasi)  [Quinzaine] 
  "Une comédie complètement folle." Closing Film
 
+# todas
+Juanma Ruíz            4
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -7274,6 +7341,7 @@ Giona Nazzaro           7.5
 Pamela Bienzobas        4.5
 José Luis Losa         8
 Alejandra Trelles       7
+Carlota Moseguí        7
 Denis Vilenkin          2
 # critic.de
 Pamela Biénzobas     5
@@ -7643,7 +7711,9 @@ Jason               6
 "L'amour debout (Stand Up Love)" (Michaël Dacheux) [ACID]
 
 # todas
+Fernando Ganzo          6
 José Luis Losa         5
+Alberto Lechuga         7.5
 
 "Reprise" (Hervé Le Roux) [ACID] Special Screening
  1996
