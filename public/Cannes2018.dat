@@ -3500,11 +3500,11 @@ Cédric Succivalli        5
 Emily Barnett            
 Elisabeth Franck-Dumas   
 Tommaso Tocci            7
-#Carlota Moseguí         
+#Carlota Moseguí         6
 Gaia Furrer              8
 Marc van de Klashorst    8
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            7
 Aldo Álvareztostado      8
 Stephanie Zacharek       
 Dana Keith               6
@@ -3512,10 +3512,10 @@ Justin Chang             6
 David Acacia             7
 Nicolas Rapold           
 Anne Thompson            
-Erik Anderson            
+Erik Anderson            6
 Dennis Lim               5
 Blake Williams           4
-Jon Frosch               
+Jon Frosch               6
 Nicholas Bell            6
 # ioncinema
 Marta Balaga             
@@ -3743,22 +3743,22 @@ Christophe Carriére
 Cédric Succivalli        
 Emily Barnett            
 Elisabeth Franck-Dumas   
-Tommaso Tocci            
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
+Tommaso Tocci            4
+#Carlota Moseguí         2
+Gaia Furrer              4
+Marc van de Klashorst    0.5
+Guy Lodge                5
+#Diego Batlle            4
 Aldo Álvareztostado      3
 Stephanie Zacharek       
 Dana Keith               6
 Justin Chang             
-David Acacia             
+David Acacia             3
 Nicolas Rapold           
-Anne Thompson            
+Anne Thompson            8
 Erik Anderson            
 Dennis Lim               
-Blake Williams           
+Blake Williams           4
 Jon Frosch               
 Nicholas Bell            
 # ioncinema
@@ -3911,26 +3911,26 @@ Nicolas Schaller
 Barbara Théate           
 Christophe Carriére      
 # ics
-Cédric Succivalli        
-Emily Barnett            
+Cédric Succivalli        0.5
+Emily Barnett            8
 Elisabeth Franck-Dumas   
-Tommaso Tocci            
+Tommaso Tocci            2
 #Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
+Gaia Furrer              5
+Marc van de Klashorst    0.5
 Guy Lodge                
-#Diego Batlle            
-Aldo Álvareztostado      
+#Diego Batlle            6
+Aldo Álvareztostado      3
 Stephanie Zacharek       
-Dana Keith               
+Dana Keith               3
 Justin Chang             
-David Acacia             
+David Acacia             3
 Nicolas Rapold           
 Anne Thompson            
-Erik Anderson            
+Erik Anderson            8
 Dennis Lim               
-Blake Williams           
-Jon Frosch               
+Blake Williams           4
+Jon Frosch               6
 Nicholas Bell            
 # ioncinema
 Marta Balaga             
@@ -4100,26 +4100,26 @@ Barbara Théate
 Christophe Carriére      
 # ics
 Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci            
+Emily Barnett            0.5
+Elisabeth Franck-Dumas   3
+Tommaso Tocci            6
 #Carlota Moseguí         
 Gaia Furrer              
-Marc van de Klashorst    
+Marc van de Klashorst    5
 Guy Lodge                
-#Diego Batlle            
-Aldo Álvareztostado      
+#Diego Batlle            7
+Aldo Álvareztostado      5
 Stephanie Zacharek       
 Dana Keith               
 Justin Chang             
-David Acacia             
+David Acacia             3
 Nicolas Rapold           
 Anne Thompson            
 Erik Anderson            
 Dennis Lim               
-Blake Williams           
+Blake Williams           6
 Jon Frosch               
-Nicholas Bell            
+Nicholas Bell            7
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -4234,21 +4234,21 @@ Elisabeth Franck-Dumas
 Tommaso Tocci            
 #Carlota Moseguí         
 Gaia Furrer              
-Marc van de Klashorst    
+Marc van de Klashorst    9
 Guy Lodge                
 #Diego Batlle            
-Aldo Álvareztostado      
+Aldo Álvareztostado      7
 Stephanie Zacharek       
-Dana Keith               
+Dana Keith               8
 Justin Chang             
-David Acacia             
+David Acacia             8
 Nicolas Rapold           
 Anne Thompson            
 Erik Anderson            
 Dennis Lim               
 Blake Williams           
 Jon Frosch               
-Nicholas Bell            
+Nicholas Bell            7
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -5674,14 +5674,14 @@ Barbara Théate
 Christophe Carriére      
 # ics
 Cédric Succivalli        
-Emily Barnett            
+Emily Barnett            5
 Elisabeth Franck-Dumas   
 Tommaso Tocci            
 #Carlota Moseguí         8
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            7
 Aldo Álvareztostado      
 Stephanie Zacharek       
 Dana Keith               
@@ -5768,11 +5768,11 @@ Cédric Succivalli
 Emily Barnett            
 Elisabeth Franck-Dumas   
 Tommaso Tocci            6
-#Carlota Moseguí         
-Gaia Furrer              
+#Carlota Moseguí         7
+Gaia Furrer              6
 Marc van de Klashorst    6
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            6
 Aldo Álvareztostado      
 Stephanie Zacharek       
 Dana Keith               
@@ -5782,7 +5782,7 @@ Nicolas Rapold
 Anne Thompson            
 Erik Anderson            
 Dennis Lim               8
-Blake Williams           
+Blake Williams           7
 Jon Frosch               
 Nicholas Bell            
 #letterboxd
@@ -5857,7 +5857,7 @@ Cédric Succivalli
 Emily Barnett            
 Elisabeth Franck-Dumas   
 Tommaso Tocci            
-#Carlota Moseguí         
+#Carlota Moseguí         7
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
@@ -6805,8 +6805,8 @@ José Luis Losa         5
 Víctor Esquirol        5
 # ics
 Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
+Emily Barnett            6
+Elisabeth Franck-Dumas   6
 Tommaso Tocci            
 #Carlota Moseguí         
 Gaia Furrer              
@@ -8583,6 +8583,8 @@ Jason               6
 Fernando Ganzo          6
 José Luis Losa         5
 Alberto Lechuga         7.5
+# ics
+Elisabeth Franck-Dumas   6
 
 "Reprise" (Hervé Le Roux) [ACID] Special Screening
  1996
