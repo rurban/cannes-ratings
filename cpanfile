@@ -1,10 +1,7 @@
 requires 'Test::Base';
 requires 'YAML';
-requires 'Dancer';
 requires 'JSON::XS';
-requires 'Cpanel::JSON::XS';
-requires 'Plack::Handler::Apache2';
-requires 'Plack::Runner';
-requires 'Plack::Request';
+requires 'Plack', '1.0000';
+requires 'DBI', '1.6';
+requires 'Dancer';
 requires 'Starman::Server';
-requires 'Net::Server::PreFork';
