@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Sundance';
-our @YEARS = qw(2015 2016 2017 2018);
+our @YEARS = qw(2015 2016 2017 2018 2019);
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
                  "NEXT", "Midnight", "Spotlight", "Kids", "Premieres",
@@ -610,7 +610,7 @@ sub _list {
 }
 
 get '/Sundance' => sub {
-  _list(2018);
+  _list(2019);
 };
 get '/Sundance2015' => sub {
   _list(2015);
@@ -623,6 +623,9 @@ get '/Sundance2017' => sub {
 };
 get '/Sundance2018' => sub {
   _list(2018);
+};
+get '/Sundance2019' => sub {
+  _list(2019);
 };
 
 get '/SundanceAll' => sub {

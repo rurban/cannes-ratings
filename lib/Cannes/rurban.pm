@@ -686,7 +686,7 @@ get '/all' => sub {
 };
 
 get '/' => sub {
-  redirect '/Cannes2018';
+  redirect '/Sundance2019';
 };
 
 1;
