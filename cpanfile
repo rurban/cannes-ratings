@@ -1,6 +1,6 @@
 requires 'Test::Base';
 requires 'YAML';
-requires 'Cpanel::JSON:XS';
+requires 'Cpanel::JSON::XS';
 requires 'JSON:XS';
 requires 'HTTP::Parser::XS';
 requires 'Plack', '1.0000';
