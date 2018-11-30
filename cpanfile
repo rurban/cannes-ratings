@@ -2,6 +2,7 @@ requires 'Test::Base';
 requires 'YAML';
 requires 'Dancer';
 requires 'JSON::XS';
+requires 'Cpanel::JSON::XS';
 requires 'Plack::Handler::Apache2';
 requires 'Plack::Runner';
 requires 'Plack::Request';
