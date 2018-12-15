@@ -676,7 +676,7 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2018";
+  $all->{year} = "2010-2019";
   {
     no strict 'refs';
     $all->{side_details} = _side_details(\%critic, \%title, 

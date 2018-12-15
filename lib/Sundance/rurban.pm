@@ -653,14 +653,14 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2017";
+  $all->{year} = "2015-2019";
   $all->{side_details} = _side_details(\%critic, \%title,
                                        \@{"$BASE\::rurban::2017::critics_group"});
   template lc($BASE), $all;
 };
 
 #get '/' => sub {
-#  redirect '/Sundance2017';
+#  redirect '/Sundance2019';
 #};
 
 1;
