@@ -655,7 +655,7 @@ get '/SundanceAll' => sub {
   my $all = _dump( \%critic, \%title, \@t);
   $all->{year} = "2015-2019";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2017::critics_group"});
+                                       \@{"$BASE\::rurban::2019::critics_group"});
   template lc($BASE), $all;
 };
 
