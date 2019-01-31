@@ -1,4 +1,4 @@
-e package Sundance::rurban::2019; # -*- perl -*-
+package Sundance::rurban::2019; # -*- perl -*-
 #!/usr/bin/perl
 # Sundance 2019 Critics Ratings
 # {'A+' => 10,  'A' => 9,   'A-' => 8,
