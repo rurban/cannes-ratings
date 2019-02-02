@@ -9,8 +9,8 @@ our $BASE = 'Berlinale';
 our @YEARS = qw(2016 2017 2018 2019);
 our $comp_section = 'Wettbewerb';
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
-                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Special",
-                 "Native", "Retrospektive", "Woche der Kritik" );
+                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Panorama 40",
+                 "Special", "Native", "Retrospektive", "Woche der Kritik" );
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
