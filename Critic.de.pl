@@ -9,7 +9,7 @@ my $url = "http://jury.critic.de/cannes/";
 my $c = "Critic.de.html";
 my $bak = "$c.old";
 no strict;
-$max = 4;
+my $max = 4;
 
 unless ($u) {
   move $c, $bak;
@@ -24,18 +24,18 @@ if (-s $c) {
   if ($u or $diff) {
     #warn "process updates";
     if (1 or -f $bak) {
-      open $cf, ">", "$c.text";
+      open $cf, ">", "$c.dat";
       select $cf;
     }
     $ch = readhtml($c);
     close $cf;
     if (-f $bak) {
-      open $bf, ">", "$bak.text";
+      open $bf, ">", "$bak.dat";
       select $bf;
       $bh = readhtml($bak);
       close $bf;
       select *STDOUT;
-      my $cmd = "diff -bu $bak.text $c.text";
+      my $cmd = "diff -bu $bak.dat $c.dat";
       print "$cmd\n";
       print `$cmd`;
     }
@@ -58,7 +58,7 @@ sub readhtml {
     if (m{<th class='colkritiker'>}) {
       s{.*?<thead>.*?Sektion</a></th>}{};
       s{<tfoot>.*}{};
-      $all = $_;
+      my $all = $_;
       @c = grep { 
 	if (m{ class='kritiker sort'>(.+?)</a>}) {
           $_ = $1;
