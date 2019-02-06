@@ -685,8 +685,8 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-get '/' => sub {
-  redirect '/Sundance2019';
-};
+#get '/' => sub {
+#  redirect '/Cannes2019';
+#};
 
 1;
