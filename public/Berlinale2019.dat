@@ -514,8 +514,6 @@ Crayfish            7
 JaredAbbott         6
 LilithAnything      4
 Wellington Almeida  4
-
-
 #critic.de
 Philipp Schwarz       6
 
@@ -836,6 +834,8 @@ Dana De Niro        4
 
 #letterboxd
 Letterboxd 28_Ratings	6.1  https://letterboxd.com/film/the-night-2014/
+# critic.de
+Michael Kienzl        2.5
 
 FORUM
 91-126
@@ -868,8 +868,6 @@ Japancuts           2
 
 
 #letterboxd
-
-
 #critic.de
 Till Kadritzke        6
 Michael Kienzl        5
@@ -1375,17 +1373,12 @@ Letterboxd 7_Ratings	6.9  https://letterboxd.com/film/scum-manifesto/
 
 #letterboxd
 Letterboxd 236_Ratings	6.9  https://letterboxd.com/film/variety/
-
-
 #critic.de
 Hannes Brühwiler     9
 Michael Kienzl        7.5
 
 "What We Left Unfinished" (Mariam Ghani, USA/Afg) [Forum]
  Mariam Ghani’s documentary explores five uncompleted films made between 1978 and 1992 under the various communist regimes in Afghanistan, a time when a blossoming film industry was set against censorship and propaganda. Documentary
-
----
-
 
 #letterboxd
 
@@ -1849,12 +1842,12 @@ emersonray          9
 Jay                 9
 epiphany            8
 
-"Stardust Memories" () [Retrospektive]
+"Stardust Memories" (Woody Allen, US 1980) [Retrospektive]
 
 #letterboxd
-Letterboxd 497_Ratings	10.0  https://letterboxd.com/film/stardust-memories/
+Letterboxd 497_Ratings	7.4  https://letterboxd.com/film/stardust-memories/
 
-"Swimming Pool" (François Ozon, F) [Retrospektive]
+"Swimming Pool" (François Ozon, F 2003) [Retrospektive]
 
 # critic.de
 Michael Kienzl        6
@@ -1865,7 +1858,7 @@ Dustin Davis        8
 kubrickvari         8
 ifu                 8
 
-"Under the Sand" (François Ozon, F) [Retrospektive]
+"Under the Sand" (François Ozon, F 2000) [Retrospektive]
 
 #letterboxd
 Letterboxd 499_Ratings	7.2  https://letterboxd.com/film/under-the-sand/
@@ -1873,10 +1866,10 @@ epiphany            8
 ilkyaz              7
 Alyc                7
 
-"The Verdict" () [Retrospektive]
+"The Verdict" (Sidney Lumet, US 1982) [Retrospektive]
 
 #letterboxd
-Letterboxd 497_Ratings	10.0  https://letterboxd.com/film/the-verdict-1982/
+Letterboxd 497_Ratings	7.8  https://letterboxd.com/film/the-verdict-1982/
 plasmasphinx        10
 Beaux Thomas        10
 
@@ -2155,14 +2148,15 @@ monotono            5
 Letterboxd 87_Ratings	5.0  https://letterboxd.com/film/roi-soleil/
 Bertô               7
 saeedbdr            6
-
-
 #critic.de
 Michael Kienzl        4       https://www.perlentaucher.de/im-kino/beobachtungen-auf-der-viennale-2018.html
 G.Marchini Camia      6
 
 "Sophia Antipolis" (Virgil Vernier, F 2018) [Woche der Kritik] <i>Locarno, San Sebastian</i>
 
+# critic.de
+Michael Kienzl        7.5
+G.Marchini Camia      7.5
 
 EOF
 
