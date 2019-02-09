@@ -328,6 +328,7 @@ sub _dump {
     my $l=$title{$t}->{line};
     next if $title{$t}->{section} eq "Retrospektive";
     next if $l =~ / 19\d\d\)$/;
+    next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
