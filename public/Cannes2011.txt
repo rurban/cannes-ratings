@@ -19,9 +19,9 @@ use utf8;
 my $DATA= <<'EOF';
 
 "Les Biens-aimes / Beloved" Christophe Honoré
-DIEGO BATLLE (La Nación / OtrosCines, Argentina) – 6
-RUDIGER SUCHSLAND (FAZ / Negativ, Deutschland) – 8
-NANDO SALVA (El Periódico, España) – 1
+Diego Batlle (La Nación / OtrosCines, Argentina) – 6
+Rudiger Suchsland (FAZ / Negativ, Deutschland) – 8
+Nando Salva (El Periódico, España) – 1
  Indiewire:
 Simon Abrams (Freelance, USA) 5 B-
 Jon Frosch (France 24,USA) 9 A
