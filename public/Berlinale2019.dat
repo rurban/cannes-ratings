@@ -1,13 +1,6 @@
 package Berlinale::rurban::2019; # -*- perl -*-
-#!/usr/bin/perl
 # Berlinale 2019 Critics Ratings
 # 7.2 - 17.2
-# {'A+' => 10,  'A' => 9,   'A-' => 8,
-#  'B+' => 7,   'B' => 6,   'B-' => 5,
-#  'C+' => 4,   'C' => 3,   'C-' => 2,
-#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
-#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
-#  'F+' => 0,   'F' => 0,   'F-' => 0};
 
 use utf8;
 our $DATA= <<'EOF';
@@ -43,6 +36,7 @@ Rüdiger Suchsland     4
 silviabahl          10
 Paul Perkins        10
 dylan               10
+Amaury Fou          9
 Marko Stojiljkovic  9   https://letterboxd.com/film_na_dan/film/by-the-grace-of-god-2018/
 margotcassandre     9
 JoeUrsell           9
@@ -54,6 +48,7 @@ bebe_garcon         9
 elmariachi82        9
 Michaela Mederer    9   https://letterboxd.com/filmisamiracle/film/by-the-grace-of-god-2018/
 svenpost            9
+Victor Van De Kadsye 8
 Jesse Ung           8
 Leodefives          8
 Lou Thomas          8
@@ -202,6 +197,7 @@ zigggystardust      7
 Tatiana Shorokhova  7
 Janick Nolting      7
 Mart Noorkõiv       7   https://letterboxd.com/kinemart/film/elisa-marcela/
+onlyRed             6
 Eddie Falvey        6   https://letterboxd.com/1roomwithaview/film/elisa-marcela/
 Steini              6
 ello                6
@@ -237,6 +233,7 @@ Roberto Gonzalez    3
 crisiscrisis        3
 Werner Hochbaum-Schrein 3
 the_gaffer          3
+Crayfish            2
 PepperTree          2   https://letterboxd.com/peppertree/film/elisa-marcela/
 Pingxuan Chen       2   https://letterboxd.com/jiong/film/elisa-marcela/
 bebe_garcon         2
@@ -275,6 +272,9 @@ monkeybox83         9
 RedmondBarry975     9
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/ghost-town-anthology/
 Marco               9
+PhilGariepy         8
+Diego Lerer         8
+Philippe M.         8
 lFilmzed            8
 Julien Falardeau    8
 uptoparamore        8
@@ -336,6 +336,7 @@ Marc                6
 Hind Mezaina        6
 Ori                 6
 AEC                 6   https://letterboxd.com/arielecayer/film/ghost-town-anthology/
+Alex Petković       5
 clamaghe            5
 Matthias Hopf       5
 Crustologe          5
@@ -545,6 +546,7 @@ clekir              7
 Janick Nolting      7
 Marvin Meiendresch  7   https://letterboxd.com/marvinator6000/film/the-golden-glove/
 lukaslossi          7
+LobotheHobo         6
 guede               6
 Charlie Baker       6
 David R             6
@@ -758,6 +760,7 @@ the_gaffer          8   https://letterboxd.com/the_gaffer/film/i-was-at-home-but
 Werner Hochbaum-Schrein 8
 svenpost            8
 Dominic Schmid      8
+mischahedinger      7
 lFilmzed            7
 Alain LeRoy         7
 misantropen         7   https://letterboxd.com/misantropen/film/i-was-at-home-but/
@@ -872,7 +875,6 @@ Diego Aparicio      6
 What_Lena_Did       6
 juanpavlo           6
 Nember              6
-Kelsey              6
 Kristin_Berlin      6
 Lukgol              6
 Savina Petkova      6
@@ -883,6 +885,7 @@ chrosTV             6
 Benny Kohzer        6   https://letterboxd.com/sleeplessinusa/film/the-kindness-of-strangers-2019/
 Janick Nolting      6
 David               6
+Kelsey              5
 Alain LeRoy         5
 uptoparamore        5
 LiquidDom           5
@@ -1011,10 +1014,12 @@ mlumley99           7
 breakerfall         7
 Kambole Campbell    7   https://letterboxd.com/kambole/film/mr-jones-2019/
 Carmen Paddock      7
-Alex Petković       7
 Sven Holl           7
 Megan Christopher   7
 reese1410           7
+Alex Petković       6
+Christian Ihle      6
+clemens_oskar       6
 Elia Molo           6
 lFilmzed            6
 gropayo             6   https://letterboxd.com/gropayo/film/mr-jones-2019/
@@ -1052,7 +1057,6 @@ Marc                5
 Redmond Bacon       5   https://letterboxd.com/redbacon/film/mr-jones-2019/
 samfrazher          5
 Dominic Schmid      5
-clemens_oskar       5
 Gernot Poetsch      5   https://letterboxd.com/gernot/film/mr-jones-2019/
 Bruno Carmelo       5   https://letterboxd.com/brunocarmelo/film/mr-jones-2019/
 zigggystardust      5
@@ -1123,6 +1127,7 @@ Andrew Gutman       8   https://letterboxd.com/guttygutty/film/ondog/
 Richard K           8
 Nember              8
 Carmen Paddock      8
+joball              7
 Kristin_Berlin      7
 Alain LeRoy         7
 uptoparamore        7
@@ -1170,6 +1175,7 @@ medinait            5
 lndfrs              5
 jankaranka          5
 Joe Biglin          5
+clemens_oskar       4
 Louis Raaschou      4
 daydreamDE          4
 Niklas Michalik     4
@@ -1177,7 +1183,6 @@ sylviewang          4
 pernillere          4
 Utku Ögeturk        4
 klaaargh            4   https://letterboxd.com/klaaargh/film/ondog/
-clemens_oskar       3
 Mads KH             3
 Romeo Filsinger     3
 HurtigWill          3
@@ -1215,6 +1220,7 @@ Andrei              10
 artellectie         9
 silviabahl          9
 Carmen Paddock      9
+ChristinaOslo       8
 Ingrid KR           8
 BobaFett            8
 Richard K           8
@@ -1266,7 +1272,7 @@ Nenette             6
 Vincent             6
 LMMurphy            6
 Christian Eichler   6   https://letterboxd.com/doktorschwarz/film/out-stealing-horses/
-Aled Meredith       5
+Aled Meredith       5   https://letterboxd.com/thealedshow/film/out-stealing-horses/
 gropayo             5   https://letterboxd.com/gropayo/film/out-stealing-horses/
 Redmond Bacon       5   https://letterboxd.com/redbacon/film/out-stealing-horses/
 Kristoffer          5
@@ -1314,6 +1320,7 @@ Andrey Arnold         5
 G.Marchini Camia      2.5
 Philipp Schwarz       4       https://www.critic.de/film/piranhas-12636/
 #letterboxd
+Giogi               10
 Happyxnoreason      10
 BenTreloar          10   https://letterboxd.com/bentreloar/film/piranhas/
 Maavors             10
@@ -1323,6 +1330,10 @@ jancp               9
 tttttttttttbm       9
 Honza7              9
 monkeybox83         9
+yesel               8
+Mounir Derbal       8
+reese1410           8
+Ilcannibale         8   https://letterboxd.com/ilcannibale/film/piranhas/
 Carlo Pisani        8
 Tomas Ticciati      8
 Superhusbands       8
@@ -1352,6 +1363,7 @@ Janick Nolting      8
 Max Borg            8
 Sara                8
 Eagle_Vision        8
+Marcello Pedretti   7
 Christoph Gumpert   7   https://letterboxd.com/gumbi/film/piranhas/
 Marc                7
 Tob Waylan          7
@@ -1381,6 +1393,7 @@ Martine             7
 Nenette             7
 ello                7
 jankaranka          7
+zziikii             6
 Astfgl              6
 goinga              6
 Elia Molo           6
@@ -1473,6 +1486,7 @@ AndiNeu             9
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/so-long-my-son/
 Juho Lipponen       9
 Redmond Bacon       9   https://letterboxd.com/redbacon/film/so-long-my-son/
+Amber Cropp         8
 PepperTree          8
 Miles Jackson       8   https://letterboxd.com/themilesjackson/film/so-long-my-son/
 Gaines              8
@@ -1505,6 +1519,7 @@ timmychen           7
 kell666             7
 Crayfish            7
 Jacqueline Wang     7   https://letterboxd.com/jwvisuals/film/so-long-my-son/
+Ada Smyk            6
 Wellington Almeida  6
 Felix Kerth         6
 Kristin_Berlin      6
@@ -1513,7 +1528,6 @@ Chp100              6
 Ori                 6
 tavitian            6
 Max Borg            6
-Ada Smyk            5
 Pierò Le Fou        5
 Lennart_W           5
 Tatiana Shorokhova  4
@@ -1541,6 +1555,7 @@ bebe_garcon         10
 Simon               10
 pierreemo           10
 Tatiana Shorokhova  10
+Diego Lerer         9   https://letterboxd.com/dlerer/film/synonyms/
 Werner Hochbaum-Schrein 9   https://letterboxd.com/schwanenmeister/film/synonyms/
 Konstantin Hartwig  9
 Pingxuan Chen       9   https://letterboxd.com/jiong/film/synonyms/
@@ -1552,6 +1567,9 @@ BenTreloar          9   https://letterboxd.com/bentreloar/film/synonyms/
 Ori                 9
 connor joseph       9   https://letterboxd.com/cnnrjsph/film/synonyms/
 Kazushi80           9
+matthias            8
+Marc                8   https://letterboxd.com/marckg/film/synonyms/
+AndiNeu             8
 WhiskyandCigar      8
 Matti               8
 Gábor Osváth        8
@@ -1562,6 +1580,9 @@ Crayfish            8
 Alex Billington     8   https://letterboxd.com/firstshowing/film/synonyms/
 Carlota Moseguí     8
 PowWow              8   https://letterboxd.com/powwow/film/synonyms/
+Threeone            7
+Nils Feldhus        7
+DerDude_            7
 clemens_oskar       7
 Wellington Almeida  7
 uptoparamore        7
@@ -1582,6 +1603,7 @@ gropayo             7   https://letterboxd.com/gropayo/film/synonyms/
 Tommaso Tocci       7
 Ella Kemp           7   https://letterboxd.com/ellakemp/film/synonyms/
 Max Borg            7
+Roberto Gonzalez    6
 PepperTree          6
 lFilmzed            6
 mickeyone           6
@@ -1633,12 +1655,14 @@ Daniel Kasman         4
 Philipp Schwarz       4
 Rüdiger Suchsland     7.5
 #letterboxd
+lenaminttu          10
 pie_pia             10
 frances             10
 silviabahl          10
 friederike          10   https://letterboxd.com/friederike/film/system-crasher/
 Michaela Mederer    10   https://letterboxd.com/filmisamiracle/film/system-crasher/
 Joe Downey          10
+Marc Raymond        9
 Christoph Gumpert   9   https://letterboxd.com/gumbi/film/system-crasher/
 blackholebird       9
 farinsky            9
@@ -1651,7 +1675,7 @@ Jen Gouchoe         9   https://letterboxd.com/jgouch/film/system-crasher/
 janrs               9
 Werner Hochbaum-Schrein 9   https://letterboxd.com/schwanenmeister/film/system-crasher/
 Bergilicious        8
-Mark Gubarenko      8
+Mark Gubarenko      8   https://letterboxd.com/gubarenko/film/system-crasher/
 Flynn               8
 nrieke              8
 Wirbelwurm          8
@@ -1680,6 +1704,8 @@ timmychen           8
 Redmond Bacon       8   https://letterboxd.com/redbacon/film/system-crasher/
 Crayfish            8
 tavitian            8
+Chp100              7
+Solvita V           7
 Alain LeRoy         7
 JoeUrsell           7
 samfrazher          7
@@ -1738,6 +1764,7 @@ G.Marchini Camia      4
 Philipp Schwarz       6       https://www.critic.de/film/a-tale-of-three-sisters-12632/
 Rüdiger Suchsland     6
 #letterboxd
+krisc               10
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/a-tale-of-three-sisters/
 Carmen Paddock      9
 Wiktor Krampikowski 8
@@ -1751,6 +1778,7 @@ Fanchise            8
 Matīss Kaža         8
 Eddie Falvey        8   https://letterboxd.com/1roomwithaview/film/a-tale-of-three-sisters/
 Eagle_Vision        8
+Kristin             7
 medinait            7
 Nember              7
 Alain LeRoy         7
@@ -1785,6 +1813,7 @@ CasWalter           6
 gropayo             6   https://letterboxd.com/gropayo/film/a-tale-of-three-sisters/
 Kambole Campbell    6   https://letterboxd.com/kambole/film/a-tale-of-three-sisters/
 Arvena              6
+clemens_oskar       5
 Tatiana Shorokhova  5
 Victorienbarr       5
 bebe_garcon         5
@@ -1827,6 +1856,7 @@ Marco Busselmaier   9
 Alex Billington     9   https://letterboxd.com/firstshowing/film/amazing-grace-2018/
 Max Borg            9
 divineblkpearl      9   https://letterboxd.com/divineblkpearl/film/amazing-grace-2018/
+Amber Cropp         8
 KazvanKlee          8
 joball              8
 Eddie Falvey        8   https://letterboxd.com/1roomwithaview/film/amazing-grace-2018/
@@ -1842,6 +1872,7 @@ Marvin Meiendresch  8   https://letterboxd.com/marvinator6000/film/amazing-grace
 Matt Cornell        8
 Juho Lipponen       8
 Kambole Campbell    8
+WaltNP              7
 aliciabr            7
 Bela75              7
 sylviewang          7   https://letterboxd.com/sylviewang/film/amazing-grace-2018/
@@ -1878,6 +1909,7 @@ Sonja M. Schultz      6
 Philipp Schwarz       6
 Silvia Szymanski      5
 #letterboxd
+AndiNeu             8
 Nember              8
 Crayfish            8
 Crustologe          8
@@ -1937,6 +1969,8 @@ Pemulis0            2
 
 Stephen Dalton          https://www.hollywoodreporter.com/review/marighella-review-1187147
 #letterboxd
+Leandro25           10
+pjbrazz             10
 gabriel             10
 Max Weiss           8
 John Prado          8
@@ -1945,6 +1979,7 @@ yossi               7
 Bruno Carmelo       7   https://letterboxd.com/brunocarmelo/film/marighella-2019/
 Clemens             7
 Max Borg            7
+Sergey Nekrasov     6   https://letterboxd.com/batesmote1/film/marighella-2019/
 bebe_garcon         6
 Bruno Henrique      6
 Sebastian H.        6
@@ -1958,6 +1993,7 @@ Simon Ramshaw       6   https://letterboxd.com/drivefiction19/film/marighella-20
 jgcaffarelli        6
 Roberto Gonzalez    5
 kell666             5
+Marco Busselmaier   4
 Marvin Meiendresch  4   https://letterboxd.com/marvinator6000/film/marighella-2019/
 Tatiana Shorokhova  4
 Wellington Almeida  4
@@ -1965,6 +2001,8 @@ tadaaaaa            4
 Christian Ihle      4   https://letterboxd.com/christian76/film/marighella-2019/
 Thomas Hakim        3
 PowWow              2   https://letterboxd.com/powwow/film/marighella-2019/
+joaoakimichi        1
+maxcampilongo       1
 MSoares08           1
 Joe Biglin          1
 
@@ -2052,9 +2090,9 @@ Mart Noorkõiv       4   https://letterboxd.com/kinemart/film/the-operative-2019
 Tobias Weiss        4
 Werner Hochbaum-Schrein 4
 Kambole Campbell    4   https://letterboxd.com/kambole/film/the-operative-2019/
-Roberto Gonzalez    4
 David               4
 AlexProstyakoff     4
+Roberto Gonzalez    3
 Marc                3   https://letterboxd.com/marckg/film/the-operative-2019/
 Arvena              3   https://letterboxd.com/arvena/film/the-operative-2019/
 the_gaffer          2
@@ -2126,6 +2164,7 @@ Pierò Le Fou        8
 David Ehrlich       8   https://letterboxd.com/davidehrlich/film/varda-by-agnes/
 tadaaaaa            8
 Savina Petkova      8
+Amber Cropp         7
 fepessoab           7
 pernillere          7
 Henrique Palazzo    7
@@ -2190,6 +2229,7 @@ Alexander Milchev   8
 Puthumana           8
 jeffschissler       8
 Joel                8
+RRRRRRRRR DDDDDDD   7   https://letterboxd.com/badaboom/film/anthropocene-the-human-epoch/
 Andrew Gutman       7
 Marc                7
 maxthue             6
@@ -2306,49 +2346,14 @@ Joe Biglin          2
 Jay Weissberg           https://variety.com/2019/film/reviews/gully-boy-review-1203135142/
 Peter Bradshaw    6    https://www.theguardian.com/film/2019/feb/11/gully-boy-review-berlin-film-festival
 #letterboxd
-Pratham13           10
-Siddharth Joshi     10
-maittri97           10
-Pranav              10   https://letterboxd.com/pranavmutatkar/film/gully-boy/
-hamsi_p             10
-Harshit Gupta       10
-Vaibhav             10
-faaiz_dastagir      10
-flapjackswag        10
+Clive Azavedo       10   https://letterboxd.com/vanillawallah/film/gully-boy/
 jay                 10   https://letterboxd.com/djangomundane/film/gully-boy/
 Heisenbergcooksmeth 10
-Pavan Bhat          10
-KaseByKishan        10
-Jayesh Jaidka       10   https://letterboxd.com/jayeshjaidka/film/gully-boy/
-Yash Bhatia         10   https://letterboxd.com/yashbhatia/film/gully-boy/
-a                   10
-asif                10
-Aditya              10
-navmi               10   https://letterboxd.com/navmi/film/gully-boy/
-Esi420              10
-RathiR              10
-Kamal Kishor        10
-Jainik24            10
-GuruYuva            10
-vijetha             10
-emoweaboo           9
 Sophie              9
 LittleFelicity      9
 cine_melange        9   https://letterboxd.com/cine_melange/film/gully-boy/
 Dariusch            9
 firebolt13          9   https://letterboxd.com/firebolt13/film/gully-boy/
-SehanSinghe         9
-Gagan K Reddy       9
-Jinesh              9
-bhictoria           9
-Azaanh              9
-Ananya              9
-Dhaval              9
-Tipu Sultan         9   https://letterboxd.com/tiputhesultan/film/gully-boy/
-Jagat Antony        9
-Nafisa Anjum        9
-Saunak              9   https://letterboxd.com/saunak/film/gully-boy/
-moviemusings        9
 sanjee              9
 Madhukar Jha        9   https://letterboxd.com/maojay/film/gully-boy/
 amethodical         9
@@ -2357,20 +2362,6 @@ Yash Bansal         9
 mattbowes           9
 Erin Fraser         9
 Jash                9
-anushka             9
-Byju Rajan          9
-Varghese Eapen      9   https://letterboxd.com/varghese_no1/film/gully-boy/
-Kumar Ritwik        9   https://letterboxd.com/kritwik/film/gully-boy/
-Faizan              9   https://letterboxd.com/noxsnow/film/gully-boy/
-najeebkhalid        9
-Siddhartha Srivastava 9
-Humad               9
-Chikeershu          9
-Mithil Bhoras       9   https://letterboxd.com/mithil/film/gully-boy/
-ayush19             9   https://letterboxd.com/ayush19/film/gully-boy/
-Anurag Bhawate      9
-Arnav               9   https://letterboxd.com/arnav15magic/film/gully-boy/
-Chandan CM          9
 alexisrose          9   https://letterboxd.com/alexisrose/film/gully-boy/
 ali4mee             9   https://letterboxd.com/ali4mee/film/gully-boy/
 HulcutPsideyFli     9   https://letterboxd.com/hulcutpsideyfli/film/gully-boy/
@@ -2383,215 +2374,26 @@ Ilahi               9
 lonelywinterman     9
 prince shah         9   https://letterboxd.com/orangeprince/film/gully-boy/
 Fin Marquordt       9   https://letterboxd.com/fintommenace/film/gully-boy/
-Vishal Dubey        8   https://letterboxd.com/veirdvishal/film/gully-boy/
-Zsuzsu              8
-rhllor_             8
-Sourav De           8
-Anish Ghosh         8
 Christoph Gumpert   8   https://letterboxd.com/gumbi/film/gully-boy/
-Prashant Pendurkar  8   https://letterboxd.com/prashpendu/film/gully-boy/
-Rahul Aggarwal      8
-kass                8
-Khader Farooqui     8   https://letterboxd.com/kfarooqui/film/gully-boy/
-Abhilash            8
-AjaYe NaiYr         8   https://letterboxd.com/ajaynair79/film/gully-boy/
-sameerpaisari       8
 TheJimmyCage        8   https://letterboxd.com/thejimmycage/film/gully-boy/
-Soumayan Chakraborty 8
-kaushikkr           8
-Rohit Kumar         8
-Pranay Roy          8   https://letterboxd.com/pranayroy/film/gully-boy/
-Tannika             8
-Pratikshah5         8
-ShakeTheFilmGeek    8   https://letterboxd.com/shakefilmgeek/film/gully-boy/
-dankychoo           8   https://letterboxd.com/dankychoo/film/gully-boy/
-jasneet1996         8
-Neekeetasha         8
 Sam Blum            8   https://letterboxd.com/samblum155/film/gully-boy/
-Darshan             8
-Dushyanta           8
-DoctorRadiohead     8
-Vaibhav Jhunjhunwala 8
-Godfather           8
-Ronit Jadhav        8
-Tarun Patel         8
-waynedcruz          8
-Dipanjan Dey        8
-Angga Caesar        8
-Prasad_R_S          8
-Aditya Prakash      8
-sally               8
-Trishala            8
-monishap            8
-Piyush Chhabra      8
-Himani              8
-Saurabh_B           8
-Abhimanyu           8   https://letterboxd.com/abhiagg/film/gully-boy/
-Cleo                8
-Ninad Adawadkar     8
-oheyitsjules        8
-Hum                 8
-Shubhra             8
-mesopystic          8
-Stanley Mathews     8
-Shritan             8   https://letterboxd.com/shritan/film/gully-boy/
-kriti               8   https://letterboxd.com/lenmccoys/film/gully-boy/
-Rahul Gaur          8
-Kevin Ma            8   https://letterboxd.com/thegoldenrock/film/gully-boy/
-Rasyidharry         8
-Ekachai Chawla      8
-kinleymovies        8
-Jahan Bakshi        8
-mmoiyadi            8
-Demon_616           8   https://letterboxd.com/demon_616/film/gully-boy/
-Sanjeet Singh       8   https://letterboxd.com/sanjeet_singh/film/gully-boy/
-Shivam Kumar        8   https://letterboxd.com/shivam98/film/gully-boy/
-Akash Deshpande     8
-Kkran               8
-Abhishek Guin       8
-niyantha            8
-Shakithyan Niranjan 8
-ankura              8
-Varun Mathur        8
-Musanna Ahmed       8
-Seemita             8
-Sumit               8   https://letterboxd.com/sumitreviews/film/gully-boy/
-Amlnisar            8
-Archisman Pal       8
-Hemanth             8
-harshini            8
-Pablo1              8
-Harnek Singh        8
-Sandeep Narayan     8
-Anwesha             8
-Nikhil Dash         8   https://letterboxd.com/nikhil1004/film/gully-boy/
-manasi_k            8
 timmychen           8
 Bruno Carmelo       8   https://letterboxd.com/brunocarmelo/film/gully-boy/
 Eagle_Vision        8
 Kristin_Berlin      7
 jerdesign           7
 Charles George      7
-Paras Arora         7
-Praveen             7
-Anupam Verma        7
-Nakul               7   https://letterboxd.com/itsnacool/film/gully-boy/
-Harry Singh         7   https://letterboxd.com/harrymovieguy/film/gully-boy/
-myfilmylife         7
-RhinoRampage        7
-Jai                 7   https://letterboxd.com/420b00tywizard/film/gully-boy/
-DarthUmar           7
-Don                 7
-sabrinabegum        7
-Alain LeRoy         7
-pege                7
-lolgappa            7
-JeeteshKenobi       7
-Tanay Borkar        7   https://letterboxd.com/luccese/film/gully-boy/
-k. m.               7
-Abhishek_Ahl        7
-Hani Hamza          7   https://letterboxd.com/zzirhanzalot/film/gully-boy/
-Kamal S             7   https://letterboxd.com/imkds/film/gully-boy/
-Vetrivel            7
-lameguest21         7
-aaqilar             7
-Yaswanth            7
-Advait Kamat        7
-StormRuler          7
-jewhaina            7
-Atharva             7
-yothisisyo          7
-iamanakin           7
-Cinema Geek         7
-OrangeFilterSky     7
-ammusk              7
-Naman               7
-Shreyas Shivam      7   https://letterboxd.com/shreyasshivam/film/gully-boy/
-Dibyendu Pal        7   https://letterboxd.com/dibyendu/film/gully-boy/
-iabhishekk          7
-Friend_O            7   https://letterboxd.com/friend_o/film/gully-boy/
-Alannah Rose        7   https://letterboxd.com/alannahrose/film/gully-boy/
-shuhad              7
-MrRabbit7           7   https://letterboxd.com/mrrabbit7/film/gully-boy/
-Chirag Vadgama      7
-PaurushG            7
-Sourabh Manhar      7   https://letterboxd.com/saurabhtdkr/film/gully-boy/
-whitehouse          7   https://letterboxd.com/whitehouse/film/gully-boy/
-Ashish Lavudia      7   https://letterboxd.com/l_ash/film/gully-boy/
-Yeswanth Mocharla   7
-bob dasgupta        7   https://letterboxd.com/psemophil/film/gully-boy/
-Pallavi Sridhar     7
-Ilyas Muhammed      7
-Nikhil              7
-shreya              7   https://letterboxd.com/amberlius/film/gully-boy/
-NikhilArora         7
-Karunakar Bonagiri  7
-Rahul Roy           7
-iamsuhebkhan        7
-Jithin K Mohan      7   https://letterboxd.com/jithindurden/film/gully-boy/
 cyklow              7   https://letterboxd.com/cyklow/film/gully-boy/
 chrosTV             7
 KidCaligari         7
 Rebecca             7
-Amritt Rukhaiyaar   6
-agrimsansanwal      6
-Shashwat Upadhyay   6
-siri                6
-Aftab               6
-Rahul Adusumilli    6   https://letterboxd.com/redstupid/film/gully-boy/
-Mrin                6
-peepoye             6
-Divyaraj Bavishi    6   https://letterboxd.com/divyaraj/film/gully-boy/
-Sameer Volvoicar    6
-varun_vijay         6
-Noor                6   https://letterboxd.com/noor440/film/gully-boy/
-Fahad Ahmed         6   https://letterboxd.com/lanternatomika/film/gully-boy/
-Katie Chow          6
-Aditya Vijaykumar   6   https://letterboxd.com/adivijaykumar/film/gully-boy/
-Deepshikha Deb      6
-Aswin Sreesh        6   https://letterboxd.com/aswinsreesh/film/gully-boy/
-Akhil Subramanian   6
-devthetank          6
-rstarun             6
-River Stone (Rakesh K) 6
-YASHODHARA DATAR    6   https://letterboxd.com/yashodhara/film/gully-boy/
-kiddleydivey        6
-Jaiwardhan Singh Bholu 6   https://letterboxd.com/eatenmist5/film/gully-boy/
-Protyasha           6
-noorakhalfan        6
-kingofools          6
-Tejas Nair          6   https://letterboxd.com/tejasnair/film/gully-boy/
-Rüdiger Tomczak     6
-Rohit Thadi         6
 Abel Eve Adam       6   https://letterboxd.com/abeleveadam/film/gully-boy/
-Jaydev Raol         6   https://letterboxd.com/jaydevraol/film/gully-boy/
-Abhinandhan Bhaskaran 6   https://letterboxd.com/abhinandhan22/film/gully-boy/
-Devang Pathak       6   https://letterboxd.com/devangpathak/film/gully-boy/
 mcorman             6
-hemachandra         5
-Sahil Bhalla        5
-ajaykoli            5
-Shikhar Verma       5   https://letterboxd.com/shikhar29/film/gully-boy/
-Adit Andrew Mohanty 5
-tyriter nafees      5   https://letterboxd.com/nafees/film/gully-boy/
-dagarabedian        5
-Vigniche            5
-Mosin Qureshi       5
-Aravind Nair        5
-Ninaad Kothawade    5   https://letterboxd.com/filmy_ninaad/film/gully-boy/
-Rahul Patel         5
 Tatiana Shorokhova  5
 Carlos Reviriego    5
-Karthik S V         4   https://letterboxd.com/svkarthik19/film/gully-boy/
-sheyer              4
-Tanishq Desai       4   https://letterboxd.com/iswearimnot14/film/gully-boy/
-Shirishvasu         4
-tarrabella          4   https://letterboxd.com/nipunintended/film/gully-boy/
 Wirbelwurm          4
 Neon Bresson        3
 daydreamDE          3
-Sarah               2
-Charan Das          2
 dundjay             2
 
 "It Could Have Been Worse - Mario Adorf" (Dominik Wessely, D) [Special]
@@ -2661,6 +2463,7 @@ CasWalter           7
 Josefine Algieri    7   https://letterboxd.com/andforgotten/film/photograph/
 Gaines              7
 breakerfall         7
+Amber Cropp         6
 Jannis Funk         6
 thetriceratops      6
 Koozya              6
@@ -2687,6 +2490,7 @@ Mart Noorkõiv       6   https://letterboxd.com/kinemart/film/watergate-or-how-w
 #letterboxd
 Letterboxd 37_Ratings	7.06  https://letterboxd.com/film/who-will-write-our-history/
 David Dingler       10
+Danger              9
 MaryAnn Johanson    9
 breakerfall         8
 closeface           7
@@ -2776,6 +2580,8 @@ breakerfall         8
 zombieatemyhead     8
 Traumkugel          8   https://letterboxd.com/traumkugel/film/37-seconds/
 enni                8
+Benny Kohzer        7
+juga                7
 Suri Grennell       7
 aloensen            7
 Andrew Gutman       7   https://letterboxd.com/guttygutty/film/37-seconds/
@@ -2833,11 +2639,15 @@ ello                6
 John Prado          6
 NEW-WAVE-NIC        6
 anila_che           6
+Irina555            5
+Janick Nolting      5
 crisiscrisis        5
 Redmond Bacon       5   https://letterboxd.com/redbacon/film/acid-2018-1/
 Taina               5
 Ilya                5
 nisker              5
+ikkenneth           4
+Criscross           4
 Hossein Eidizadeh   4
 macplanet           4
 Marc                4
@@ -2967,6 +2777,7 @@ Nomisi              9
 Louis Nokes         9   https://letterboxd.com/lounok2408/film/buoyancy/
 Flo                 9
 Taryn Joffe         9
+Laurent123          8
 Nils Feldhus        8
 ZombAid             8
 Christoph Gumpert   8   https://letterboxd.com/gumbi/film/buoyancy/
@@ -3053,12 +2864,16 @@ Nember              7
 PowWow              7   https://letterboxd.com/powwow/film/the-day-after-im-gone/
 Redmond Bacon       7
 CasWalter           7
+Deepshikha Deb      6
+Mikel               6
+Kelsey              6
 macplanet           6
 Dominic Schmid      6
 Florian             5
 Clemens             5
 Loles Fanlo         5
 Werner Hochbaum-Schrein 5
+ikkenneth           4
 Wiktor Krampikowski 4
 
 "Divine Love" (Gabriel Mascaro, Brazil/Uruguay/Denmark/Norway/Chile) [Panorama] <i>Sundance</i>
@@ -3105,6 +2920,8 @@ kell666             7
 Max Weiss           7
 Adrian Vega Albela Osorio 7   https://letterboxd.com/stripedbeatle/film/divine-love/
 JoanPamiesLl        7
+Amber Cropp         6
+Jacopo Fiorancio    6
 kass                6
 filmisnothing       6
 Pingxuan Chen       6   https://letterboxd.com/jiong/film/divine-love/
@@ -3177,6 +2994,7 @@ Ingvaldsson         4   https://letterboxd.com/ingvaldsson/film/a-dog-barking-at
 zombieatemyhead     4
 Dominic Schmid      4
 Juho Lipponen       4
+misantropen         3
 daydreamDE          3
 Mario Skjølås       3   https://letterboxd.com/marioskjolaas/film/a-dog-barking-at-the-moon/
 Dennis              2
@@ -3187,6 +3005,7 @@ Arvid Schmiedehausen 1
 
 Stephen Dalton          https://www.hollywoodreporter.com/review/a-dog-called-money-review-1184667
 #critic.de
+Till Kadritzke        5
 Michael Kienzl        4
 G.Marchini Camia      6
 #letterboxd
@@ -3197,6 +3016,8 @@ Fanchise            9
 Carlota Moseguí     8
 Magnus Cappelen     8
 jancp               8
+Amber Cropp         7
+Kelsey              7
 FrankPoole          7
 ello                7
 Gaines              7
@@ -3211,6 +3032,7 @@ Roberto Gonzalez    6
 Gernot Poetsch      6   https://letterboxd.com/gernot/film/a-dog-called-money/
 Woody23             6
 trockendock         6
+Marco               5
 Simón               5
 Matt Cornell        4   https://letterboxd.com/mattcornell/film/a-dog-called-money/
 Ben Clay            4
@@ -3334,11 +3156,13 @@ Eagle_Vision        1
 
 David Rooney            https://www.hollywoodreporter.com/review/flesh-out-berlin-2019-1186214
 #letterboxd
+Max Borg            8
 juga                8
 Kamilleroboter      8   https://letterboxd.com/kamilleroboter/film/flesh-out/
 ello                7
 dittedc             7
 Tommaso Tocci       7
+Amber Cropp         6
 macplanet           6
 Wiktor Krampikowski 6
 liv                 6
@@ -3356,9 +3180,12 @@ brokencircle        3
 #letterboxd
 Max Borg            8
 macplanet           8
+crisiscrisis        7
+yossi               7
 Bruno Carmelo       7   https://letterboxd.com/brunocarmelo/film/greta-2019/
 PowWow              7   https://letterboxd.com/powwow/film/greta-2019/
 LilithAnything      7
+misantropen         6
 Roberto Gonzalez    6
 connor joseph       6   https://letterboxd.com/cnnrjsph/film/greta-2019/
 FrankPoole          5
@@ -3471,6 +3298,7 @@ breakerfall         8
 lehmanns            8
 NEW-WAVE-NIC        8
 Filip Klouda        8
+reese1410           7
 Lin                 7   https://letterboxd.com/linchan/film/idol-2019/
 Schorsch K.         7
 herrhampus          7
@@ -3544,6 +3372,7 @@ Florian             5
 sith98              5   https://letterboxd.com/sith98/film/jessica-forever/
 elmariachi82        4
 S. Rosenow          4
+Amber Cropp         3
 Liam Calvert        3   https://letterboxd.com/itsleeeem/film/jessica-forever/
 Redmond Bacon       2   https://letterboxd.com/redbacon/film/jessica-forever/
 Kristin_Berlin      2
@@ -3561,6 +3390,7 @@ Criscross           6
 Crayfish            6
 Konradnice          6
 Alistair Ryder      6   https://letterboxd.com/cinemole/film/lemebel/
+Amber Cropp         5
 crisiscrisis        5
 ikkenneth           4
 FrankPoole          4
@@ -3609,6 +3439,7 @@ Dodo81              8
 Clemens             8
 Reini Urban         8   https://letterboxd.com/rurban/film/light-of-my-life/
 MrCutterknife       8
+Jacopo Fiorancio    7
 Christoph Gumpert   7   https://letterboxd.com/gumbi/film/light-of-my-life/
 Dariusch            7
 zigggystardust      7
@@ -3691,6 +3522,8 @@ Letterboxd 29_Ratings	8.0  https://letterboxd.com/film/midnight-traveler/
 macplanet           9
 ikkenneth           9
 cau_marques         9
+Amber Cropp         8
+juga                8
 Ada Smyk            8
 Criscross           8
 s_c_o_t_t           8
@@ -3904,6 +3737,7 @@ nisker              7
 WarMMachine         6
 Blue_Cat            6
 Magnus Cappelen     6
+Simon Ramshaw       5
 crisiscrisis        5
 daydreamDE          5
 brokencircle        4
@@ -4011,11 +3845,13 @@ Christina           7   https://letterboxd.com/christina501/film/searching-eva/
 JerMic              7
 Crayfish            7
 crisiscrisis        6
+Amber Cropp         5
 jancp               5
 Nele_               5
 Sara                3   https://letterboxd.com/paqu/film/searching-eva/
 Criscross           3
 Eagle_Vision        3
+Sararl              2
 McDermott           2
 juga                2
 Zsuzsu              1
@@ -4145,6 +3981,9 @@ aloensen            4
 
 #letterboxd
 Letterboxd 207_Ratings	7.3  https://letterboxd.com/film/skin-2018/
+DonnaCarranza       10
+Mac McCarthy        10
+Andi Ralph          10
 Joeblank            10
 Katherine Bolinger  10   https://letterboxd.com/kgbolinger/film/skin-2018/
 Persia Beheshti     10
@@ -4173,6 +4012,12 @@ Cine_Wolf           9
 Adam H              9
 tylerparrish9       9
 rw1ll1ams           9   https://letterboxd.com/rw1ll1ams/film/skin-2018/
+Keith Moser         8
+Ktswings            8   https://letterboxd.com/ktswings/film/skin-2018/
+CrayonRed           8
+jake                8
+Michael Lang        8
+Superhusbands       8
 Mocobrick           8
 beccasemanski       8
 Nember              8
@@ -4184,7 +4029,6 @@ andreamatom         8
 Marvin Meiendresch  8   https://letterboxd.com/marvinator6000/film/skin-2018/
 Josh                8   https://letterboxd.com/joshg77/film/skin-2018/
 sisook              8   https://letterboxd.com/sisook/film/skin-2018/
-Stormlord19         8
 Madeline            8
 gabiwana            8
 mollsmd             8
@@ -4237,6 +4081,11 @@ Simi                8
 Joe Botten          8
 Paraic              8
 Hannah              8   https://letterboxd.com/hannahcamp/film/skin-2018/
+Cole Mahan          7
+Nathan Hartke       7   https://letterboxd.com/nathanhartke/film/skin-2018/
+Kay Téa             7
+Celine Brown        7
+James Miller        7
 Christoph Gumpert   7   https://letterboxd.com/gumbi/film/skin-2018/
 Zachary             7
 amartino            7
@@ -4276,6 +4125,12 @@ aaronssny           7
 Vakreader           7   https://letterboxd.com/vkahler/film/skin-2018/
 reginea             7   https://letterboxd.com/reginea/film/skin-2018/
 Tim Flink           7
+Stormlord19         6
+jmcg1101            6
+Toasterlad          6
+TrevorW             6   https://letterboxd.com/trevorw/film/skin-2018/
+Christopher Moore   6
+taxidrivers         6
 Jon                 6
 Erin Letry          6
 vivianhartley       6
@@ -4318,6 +4173,9 @@ Toby Ximenez        6
 rruby               6
 Michael Casey       6
 Ivan Morales        6
+Michael Miller      5
+trompcard           5
+Pianoroark          5
 Ori                 5
 lFilmzed            5
 mtndewggan          5
@@ -4338,6 +4196,7 @@ Chrystian           5
 incolortheory       5
 Julian D.B.         5
 Sophia              5
+wudubz              4
 sam loves mobies    4   https://letterboxd.com/samlabell/film/skin-2018/
 Merrik              4
 Alex Throndson      4
@@ -4356,6 +4215,7 @@ Daniel Hoag         3
 𝖒𝖎𝖆                 3
 Matthias Hopf       3
 bebe_garcon         3
+Deron Overpeck      2   https://letterboxd.com/doktamoox/film/skin-2018/
 Jen                 2
 lilbear2018         2
 kaqueena            2
@@ -4398,6 +4258,7 @@ soelv               10
 Marc                10   https://letterboxd.com/marckg/film/the-souvenir/
 Neil Fox            10   https://letterboxd.com/neitherfamenor/film/the-souvenir/
 MiaBays             10
+joball              9
 Patrick Mulcahy     9   https://letterboxd.com/pmulcahy/film/the-souvenir/
 thetriceratops      9
 AlexLinden          9
@@ -4407,8 +4268,8 @@ bebe_garcon         9
 clemens_oskar       9
 Dominic Schmid      9
 Mart Noorkõiv       9   https://letterboxd.com/kinemart/film/the-souvenir/
+Amber Cropp         8
 aliciabr            8   https://letterboxd.com/aliciabr/film/the-souvenir/
-joball              8
 uptoparamore        8
 pernillere          8
 lndfrs              8
@@ -4603,6 +4464,7 @@ Jordan Mintzer          https://www.hollywoodreporter.com/review/talking-trees-r
 #critic.de
 Silvia Szymanski      6       https://www.critic.de/film/talking-about-trees-12778/
 #letterboxd
+John Prado          10
 macplanet           10
 Jacopo Fiorancio    10
 juga                10
@@ -4649,6 +4511,7 @@ Ingrid KR           8
 Redmond Bacon       8   https://letterboxd.com/redbacon/film/tremors-2019/
 Roberto Gonzalez    8
 Carlota Moseguí     8
+Jacopo Fiorancio    7
 half_book           7
 Nember              7
 macplanet           7
@@ -4724,6 +4587,7 @@ Sonja M. Schultz      4
 Kamilleroboter      10
 JerMic              8
 MrCutterknife       7
+Amber Cropp         6
 AlissaSophie        6
 John Prado          6
 Marco               5
@@ -4750,6 +4614,7 @@ Edmund Von Danilovich 8
 Eddie Falvey        8   https://letterboxd.com/1roomwithaview/film/what-she-said-the-art-of-pauline-kael/
 Josefine Algieri    8
 Ella Kemp           8   https://letterboxd.com/ellakemp/film/what-she-said-the-art-of-pauline-kael/
+Amber Cropp         7
 Criscross           7
 chrosTV             7
 jto111              7   https://letterboxd.com/jto111/film/what-she-said-the-art-of-pauline-kael/
@@ -4781,6 +4646,7 @@ Josefine Nitzsche   5
 Matthias Hopf       5
 Lugait              5
 Alex Billington     5   https://letterboxd.com/firstshowing/film/what-she-said-the-art-of-pauline-kael/
+Patrick Devitt      4
 JanJekal            4
 Louisa              4
 aloensen            3
@@ -4908,6 +4774,8 @@ Buut                10
 Jdsarmiento         10   https://letterboxd.com/jdsarmiento/film/rebels-of-the-neon-god/
 norbun              10
 carbomb             10   https://letterboxd.com/carbomb/film/rebels-of-the-neon-god/
+Néstor Trujillo Bazán 9   https://letterboxd.com/nestortrujillo/film/rebels-of-the-neon-god/
+EsorciccioBerg      9
 Mathias             9   https://letterboxd.com/meichbaum/film/rebels-of-the-neon-god/
 Yici Hg             9
 daydreamDE          9
@@ -5014,6 +4882,7 @@ adaB105             8
 Jeff Cross          8
 Rjj131              8   https://letterboxd.com/rjj131/film/and-your-bird-can-sing/
 xiaoyu              8
+Amber Cropp         7
 Sayuri              7
 Benny Kohzer        7
 zzroad2010          7
@@ -5083,6 +4952,8 @@ Nils Feldhus        8
 cyklow              8
 Charles             8
 Simone              8
+misantropen         7
+mischahedinger      7
 Dennis              7
 Matthew             7   https://letterboxd.com/mattcole15/film/bait-2019/
 Marcus Cook         7
@@ -5094,6 +4965,7 @@ Alexander Milchev   7
 blahr               7
 monotono            7
 David               7
+Superhusbands       6
 Hind Mezaina        6
 Pingxuan Chen       6   https://letterboxd.com/jiong/film/bait-2019/
 jto111              6   https://letterboxd.com/jto111/film/bait-2019/
@@ -5110,6 +4982,8 @@ Savina Petkova      5
 Martin Gobbin         5
 Rüdiger Suchsland     7.5
 #letterboxd
+Hind Mezaina        8
+Florian Weigl       7   https://letterboxd.com/whyfloat/film/belonging-2019/
 fluszeit            7
 WarMMachine         7
 Chp100              7
@@ -5210,6 +5084,7 @@ G.Marchini Camia      7.5     https://bit.ly/2GADZ7K
 Philipp Schwarz       5       https://www.critic.de/film/erde-12798/
 #letterboxd
 Keyvin Teofilo Compres 10
+hdgdlbzwm           9
 juga                8
 JerMic              8
 Savina Petkova      8
@@ -5226,6 +5101,7 @@ A.A. Dowd           7   https://letterboxd.com/cinemalex95/film/earth-2019/
 Roberto Gonzalez    7
 blahr               6
 DerDude_            6
+mischahedinger      5
 Carlota Moseguí     5
 Victor Guimarães    5
 dittedc             5
@@ -5240,6 +5116,7 @@ David Hudson          4
 Till Kadritzke        6
 #letterboxd
 Carlota Moseguí     7
+jancp               6
 Steini              6
 Simon               6
 Sans_Soleil         6
@@ -5343,6 +5220,8 @@ Carlota Moseguí     8
 Matthew             7
 Max Krumm           7
 sylviewang          7   https://letterboxd.com/sylviewang/film/from-tomorrow-on-i-will/
+Honza7              6
+mischahedinger      6
 Maximilien Proctor  6
 Hind Mezaina        6
 Roberto Gonzalez    6
@@ -5380,6 +5259,7 @@ Astfgl              7
 CEL                 7
 DerDude_            7
 Hebbie101           7
+Amber Cropp         6
 Ada Smyk            6
 Christoph Gumpert   6   https://letterboxd.com/gumbi/film/fukuoka/
 AndiNeu             6
@@ -5473,6 +5353,7 @@ Matt Portner        6
 Josefine Algieri    6   https://letterboxd.com/andforgotten/film/hormigas/
 BTtowers            6   https://letterboxd.com/bttowers/film/hormigas/
 jankaranka          6
+mischahedinger      5
 WaltNP              5
 cau_marques         4   https://letterboxd.com/cau_marques/film/hormigas/
 Simon               4
@@ -5503,6 +5384,7 @@ LilithAnything      8
 Mathieu Li-Goyette  8
 filmisnothing       7
 Matt Cornell        7
+mischahedinger      6
 Hebbie101           6
 PowWow              6   https://letterboxd.com/powwow/film/just-dont-think-ill-scream/
 Pingxuan Chen       5   https://letterboxd.com/jiong/film/just-dont-think-ill-scream/
@@ -5556,9 +5438,11 @@ Dominic Schmid      5
 KathyVanhout        5
 PowWow              5   https://letterboxd.com/powwow/film/die-kinder-der-toten/
 DerDude_            5
+mischahedinger      4
 Christian Ihle      4
 Brett Weiser-Schlesinger 4   https://letterboxd.com/brettws/film/die-kinder-der-toten/
 ZombAid             4   https://letterboxd.com/zombaid/film/die-kinder-der-toten/
+Amber Cropp         3
 Werner Hochbaum-Schrein 3
 blahr               3   https://letterboxd.com/blahr/film/die-kinder-der-toten/
 klaaargh            3   https://letterboxd.com/klaaargh/film/die-kinder-der-toten/
@@ -5591,6 +5475,7 @@ Criscross           8
 Eric Tuscanes       8
 Mauricio Costa      8   https://letterboxd.com/malcosta/film/lapu/
 franalejo19         8
+mischahedinger      7
 Florian Weigl       7   https://letterboxd.com/whyfloat/film/lapu/
 Aldo Padilla        7
 Carlota Moseguí     7
@@ -5627,6 +5512,7 @@ Pieraccio           7
 elephante           6   https://letterboxd.com/elephante/film/the-last-to-see-them/
 LewisL              6
 Andrew Gutman       6
+Florian Weigl       5   https://letterboxd.com/whyfloat/film/the-last-to-see-them/
 Elia Molo           4
 Alexander Milchev   4
 Hind Mezaina        4
@@ -5700,11 +5586,11 @@ Sans_Soleil         8
 Ethan Soffe         7
 Simon Ramshaw       7
 cau_marques         7
+Roberto Gonzalez    6
 Joe_Vesey           6
 artichokerbyro      6   https://letterboxd.com/artichokerbyro/film/mother-i-am-suffocating-this-is-my-last-film-about-you/
 matthias            6
 Carlota Moseguí     6
-Roberto Gonzalez    5
 Mathieu Li-Goyette  4
 gropayo             3   https://letterboxd.com/gropayo/film/mother-i-am-suffocating-this-is-my-last-film-about-you/
 Carlos Reviriego    3
@@ -5728,8 +5614,10 @@ AlexLinden          7
 Roberto Gonzalez    7
 filmisnothing       7
 Jared Mobarak       7   https://letterboxd.com/jaredmobarak/film/ms-slavic-7/
+Amber Cropp         6
 AEC                 6
 plaincrois          6
+mischahedinger      5
 Bruno Carmelo       4   https://letterboxd.com/brunocarmelo/film/ms-slavic-7/
 Matthew             4   https://letterboxd.com/mattcole15/film/ms-slavic-7/
 
@@ -5738,7 +5626,10 @@ Matthew             4   https://letterboxd.com/mattcole15/film/ms-slavic-7/
 
 
 #letterboxd
+mischahedinger      8
+Fabian              8
 Simon               8
+hdgdlbzwm           7
 AlexLinden          7
 monotono            7
 Christian Ihle      6
@@ -5757,6 +5648,7 @@ Kevin B. Lee          6
 #letterboxd
 Crayfish            9
 ZiaPadora           8
+mischahedinger      7
 WarMMachine         7
 Florian Weigl       6   https://letterboxd.com/whyfloat/film/olanda/
 shookone            6
@@ -5789,12 +5681,15 @@ Till Kadritzke        6
 Kevin B. Lee          6
 Rüdiger Suchsland     7.5
 #letterboxd
+Honza7              8
 monotono            8
 RedmondBarry975     8
 JerMic              8
 Carlota Moseguí     8
+silviabahl          7
 rockywaschbaer      7
 Carlos Reviriego    7
+mischahedinger      6
 Elia Molo           6
 Hebbie101           6
 Matthias Hopf       5
@@ -5802,6 +5697,7 @@ hdgdlbzwm           4
 Simone              4
 PowWow              2   https://letterboxd.com/powwow/film/our-defeats/
 David               2
+Superhusbands       1
 Redmond Bacon       1
 Michaela Mederer    1   https://letterboxd.com/filmisamiracle/film/our-defeats/
 Victor Guimarães    1
@@ -5845,6 +5741,7 @@ Pieraccio           6
 Magnus Cappelen     6
 Simone              6
 monotono            6
+mischahedinger      5
 Rahul Patel         5
 dundjay             5
 Matthias Hopf       5
@@ -5878,6 +5775,7 @@ Silvia Szymanski      6
 #letterboxd
 Letterboxd 36_Ratings	6.6  https://letterboxd.com/film/the-portuguese-woman/
 benradetski         10   https://letterboxd.com/benradetski/film/the-portuguese-woman/
+uva                 9   https://letterboxd.com/samson/film/the-portuguese-woman/
 Tiere               8
 Carlos Reviriego    7
 RedmondBarry975     7
@@ -5997,6 +5895,7 @@ Josefine Nitzsche   6
 Carlos Reviriego    6
 iamachaos           5
 lorenzod            5
+Amber Cropp         4
 Gisela 🌈            4
 monotono            4
 Hebbie101           4
@@ -6011,6 +5910,7 @@ callpauline         2
 
 #letterboxd
 Letterboxd 24_Ratings	6.7  https://letterboxd.com/film/the-stone-speakers/
+Jared Mobarak       7   https://letterboxd.com/jaredmobarak/film/the-stone-speakers/
 Maximilien Proctor  6
 Arvena              6   https://letterboxd.com/arvena/film/the-stone-speakers/
 Aldo Padilla        6
@@ -6132,6 +6032,7 @@ kidhan              4
 
 #letterboxd
 Letterboxd 32_Ratings	7.9  https://letterboxd.com/film/be-pretty-and-shut-up/
+Amber Cropp         9
 
 "The Garden" (Derek Jarman, UK 1990) [Forum]
  Made in 1990 in Jarman’s garden, this version of the Passion of Christ shifts between horror and humour. In polemical, highly personal fashion, the recently restored work questions the role of the church in the centuries-old persecution of the queer. with Tilda Swinton, Johnny Mills, Kevin Collins, Pete Lee-Wilson, Spencer Leigh
@@ -6191,6 +6092,7 @@ nisker              6
 
 #letterboxd
 theachilles         10
+Amber Cropp         8
 Baran B.            8
 fluszeit            6
 Michael DeSimone    4
@@ -6209,13 +6111,13 @@ Nino Klingler         9
 G.Marchini Camia      9
 #letterboxd
 Letterboxd 3429_Ratings	8.76  https://letterboxd.com/film/satantango/
+Bolshoi Booze       10
 Pat                 10
 Twinsanity          10
 Christopher Kniep   10   https://letterboxd.com/derchrizz/film/satantango/
-RickiL91            10
+Ricki Loglisci      10
 Muhannad            10   https://letterboxd.com/muhannadselawii/film/satantango/
 Patrik F.           10
-Andisu              10
 verbalvision        10
 Gustav Rydell       10
 Cameron Fairchild   10
@@ -6263,6 +6165,10 @@ Daniel Kasman       9
 LewisL              9
 Hind Mezaina        9
 S R                 9
+Amber Cropp         8
+AlexLinden          8
+fluszeit            8
+Florian Weigl       8
 Eleanor ✝️          8
 delbert             8
 aliciabr            8   https://letterboxd.com/aliciabr/film/variety/
@@ -6272,6 +6178,7 @@ blahr               8
 Steini              8
 AEC                 8
 Davi_1966           8
+misantropen         7
 Pemulis0            7
 dundjay             7
 Jacopo Fiorancio    7
@@ -6313,7 +6220,7 @@ Daniel Kasman         9
 Letterboxd 119_Ratings	7.2  https://letterboxd.com/film/adoption/
 Daniel Kasman       9
 Daniel Kroenke      9
-jankaranka          9
+jankaranka          8
 Luis Baia           8
 Heather_Grrrl       8
 Ferenc Varga        8
@@ -6397,6 +6304,7 @@ Letterboxd 19_Ratings	6.5  https://letterboxd.com/film/my-sisters-good-fortune/
 #letterboxd
 Wavjin              6
 catarinaalmeida     6
+jancp               5
 
 "Nie wieder schlafen -  Nie mehr zurück" (Pia Frankenberg, GER, 1992) [Retrospektive]
 
@@ -6493,6 +6401,7 @@ Joe_Vesey           7
 Ethan Soffe         6
 Crayfish            5
 TylerWills          5
+Laurent123          3
 Lucie               3   https://letterboxd.com/lululudgate/film/by-the-name-of-tania/
 brokencircle        3
 
@@ -6519,6 +6428,7 @@ Letterboxd 40_Ratings	6.9  https://letterboxd.com/film/the-crossing-2018/
 Emilia Kathryn      9   https://letterboxd.com/emiliakathryn/film/the-crossing-2018/
 Kat                 9
 johannovermeer      9   https://letterboxd.com/johannovermeer/film/the-crossing-2018/
+yiwensong11         8   https://letterboxd.com/yiwensong11/film/the-crossing-2018/
 Steini              8
 rockywaschbaer      8
 thetriceratops      8
@@ -6581,6 +6491,7 @@ oliviahardcastl     4
 
 #letterboxd
 Letterboxd 7_Ratings	7.4  https://letterboxd.com/film/a-first-farewell/
+juga                9
 WaltNP              8
 Jamie Cansdale      8   https://letterboxd.com/codthrilla/film/a-first-farewell/
 greta               7
@@ -6607,7 +6518,6 @@ sj_toni             7
 phoaquinjoenix      7
 Cedric Muyres       7
 LMMurphy            7
-Superhusbands       6
 Flo                 6
 David Ehrlich       6   https://letterboxd.com/davidehrlich/film/goldie-2019/
 databuzz            6
@@ -6618,6 +6528,7 @@ PowWow              5   https://letterboxd.com/powwow/film/goldie-2019/
 AEC                 5   https://letterboxd.com/arielecayer/film/goldie-2019/
 HeleneNordfeld      5
 Paul Perkins        5
+Superhusbands       4
 NEW-WAVE-NIC        4
 jto111              4   https://letterboxd.com/jto111/film/goldie-2019/
 Matt Portner        4
@@ -6631,6 +6542,7 @@ adaB105             1
 
 #letterboxd
 Letterboxd 32_Ratings	7.1  https://letterboxd.com/film/house-of-hummingbird/
+Rüdiger Tomczak     10   https://letterboxd.com/shomingeki/film/house-of-hummingbird/
 Antonia Quiroz      10   https://letterboxd.com/antoniahi/film/house-of-hummingbird/
 anvo                10
 Crustologe          9
@@ -6639,6 +6551,7 @@ OskarHiro           9
 liv                 9
 mickeyone           9
 Jamie Cansdale      9   https://letterboxd.com/codthrilla/film/house-of-hummingbird/
+Kelsey              8
 Christoph Gumpert   8   https://letterboxd.com/gumbi/film/house-of-hummingbird/
 Khue Nguyen         8
 juga                7
@@ -6693,9 +6606,11 @@ Cai                 9   https://letterboxd.com/pretentiousgeek/film/knives-and-s
 mrcertainly         8
 databuzz            8
 Bare Bard           8
+Astfgl              7
 amoghimi            7
 tadaaaaa            7
 LMMurphy            7
+aliciabr            6   https://letterboxd.com/aliciabr/film/knives-and-skin/
 Gisela 🌈            6
 CEL                 6
 Jonathan Bradshaw   6   https://letterboxd.com/jonnybradshaw/film/knives-and-skin/
@@ -6739,6 +6654,7 @@ Zsuzsu              1
 #letterboxd
 Letterboxd 5_Ratings	8.0  https://letterboxd.com/film/kokdu-a-story-of-guardian-angels/
 Christoph Gumpert   7   https://letterboxd.com/gumbi/film/kokdu-a-story-of-guardian-angels/
+Superhusbands       4
 janrs               4
 
 "Lotte and the Lost Dragons" (Heiki Ernits, Janno Põldma, Estonia/Latvia) [Generation]
@@ -6784,6 +6700,7 @@ Tore Kristian       8
 Christian Høkaas    8
 xdpirate            8
 Suport7000          8
+______________1     7
 Barakamon           7
 adeless             7
 Lexern              7
@@ -6801,6 +6718,7 @@ pokerfacen          7
 Thomas Heie H.      7
 Geir Friestad       7
 andrefau            7
+Superhusbands       6
 Cosimo Salvadori    6
 gropayo             6   https://letterboxd.com/gropayo/film/louis-luca-mission-to-the-moon/
 clamaghe            6
@@ -6934,8 +6852,10 @@ jeppemarno          1
 Jordan Mintzer          https://www.hollywoodreporter.com/review/ringside-review-1186659
 #letterboxd
 fritzerik           10
+Laurent123          9
 alxwmr              9
 Neil Fox            9   https://letterboxd.com/neitherfamenor/film/ringside-2019/
+Jared Mobarak       8   https://letterboxd.com/jaredmobarak/film/ringside-2019/
 Eddie Falvey        8   https://letterboxd.com/1roomwithaview/film/ringside-2019/
 Joakim (Paperinukke) 8
 Carmen Paddock      8
@@ -6973,6 +6893,7 @@ Kristin_Berlin      7
 marnix              7
 Lucy                7
 enni                7
+Laurent123          6
 minnajee            6   https://letterboxd.com/minnajee/film/stupid-young-heart/
 Ana                 6
 Eagle_Vision        6
@@ -7124,6 +7045,7 @@ inhei               8   https://letterboxd.com/inhei/film/we-are-little-zombies/
 phoaquinjoenix      8
 Cai                 8   https://letterboxd.com/pretentiousgeek/film/we-are-little-zombies/
 BobaFett            8   https://letterboxd.com/bobafett/film/we-are-little-zombies/
+knuettgen           7
 Christoph Gumpert   7   https://letterboxd.com/gumbi/film/we-are-little-zombies/
 blackholebird       7
 KimmyCat            7
@@ -7173,8 +7095,10 @@ laura____           10
 QuinnMallory        10
 miliamar            10
 Lucie               9   https://letterboxd.com/lululudgate/film/your-turn-2019/
+Laurent123          8
 matthias            8
 Wellington Almeida  8
+Henrique Palazzo    7
 OskarHiro           7   https://letterboxd.com/oskarhiro/film/your-turn-2019/
 Criscross           6
 Bruno Carmelo       4   https://letterboxd.com/brunocarmelo/film/your-turn-2019/
@@ -7378,6 +7302,7 @@ clekir              3
  The Berlin Bruisers are Germany’s first gay rugby team and, at least in terms of their game, the worst team around! But that is not a big problem, because for Adam, Nico, Su and the rest it is not just about winning.
 
 #letterboxd
+ChristinaOslo       10
 Serpentine23        7
 
 "Dreissig (Thirty)" (Simona Kostova) [Perspektive Deutsches Kino] <i>Rotterdam</i>
@@ -7445,6 +7370,7 @@ Dominic Schmid      8
 mickeyone           8
 angusmacd           8
 The Art Of Memory   8
+Tim                 8
 
 "Die Sieger (The Invincibles)" (Dominik Graf, D 1994) [Retrospektive]
 
@@ -7464,7 +7390,7 @@ RolandTopor         10
 Joshua Gaul         10
 Tamara              10
 Juan Manuel         10
-RickiL91            10
+Ricki Loglisci      10
 Aidanf99            10
 gcs                 10
 Ruairi_McCann       10
@@ -7552,6 +7478,7 @@ G.Marchini Camia      7.5
 Rüdiger Suchsland     4
 #letterboxd
 Letterboxd 13324_Ratings	7.46  https://letterboxd.com/film/45-years/
+lastrada            10
 MarLeonor           10   https://letterboxd.com/marleonor/film/45-years/
 aechapman           10
 apace89             10
@@ -7582,6 +7509,7 @@ teleshev            10
 Pemulis0            10
 Simón               9   https://letterboxd.com/simonsds/film/the-damned/
 Julian BLOWER       9   https://letterboxd.com/julianblower/film/the-damned/
+Ioannis Kanonakis   8
 delbert             8
 Triers              8
 londinium42         8
@@ -7599,6 +7527,7 @@ asif m.             8
 Cyril Chen          8   https://letterboxd.com/kyrillus/film/hannah-2017-1/
 Hind Mezaina        8
 Max Krumm           8
+matteo 🍂            8
 Alejandro Rogua     7
 carmenmaura         7
 Jakob Freudendal    7
@@ -7641,6 +7570,7 @@ ZombAid             7   https://letterboxd.com/zombaid/film/max-my-love/
 Mart Noorkõiv       7   https://letterboxd.com/kinemart/film/max-my-love/
 fluszeit            6
 Florian             6
+Hind Mezaina        5
 RedmondBarry975     1
 
 "The Night Porter (Il portiere di notte)" (Liliana Cavani, I 1974) [Retrospektive]
@@ -7658,7 +7588,7 @@ Jay                 9
 SgtSact             8
 fluszeit            8
 maustal             8
-RickiL91            8
+Ricki Loglisci      8
 Janick Nolting      8
 cassie512           8
 gadnerd             8
@@ -7686,12 +7616,16 @@ Michael Kienzl        6
 Silvia Szymanski      7.5
 #letterboxd
 Letterboxd 4618_Ratings	6.66  https://letterboxd.com/film/swimming-pool/
+dumbass             10
 Zeyn                10
 coffeetea           9
 nc4861              9
 Paulo Mangini       9
 TWY                 9
 nathaxnne wilhelmina 9
+birdbirdbird        8
+Darin Rachunok      8
+johannesschade      8
 macburton           8
 thegreenmailman     8
 LaMangold           8
@@ -7784,6 +7718,7 @@ svenpost            9
 Daniel Kroenke      8
 Hind Mezaina        7
 tisc                7
+jancp               5
 
 "Töchter zweier Welten" (Serap Berrakkarasu, D 1991) [Retrospektive]
  A Turkish mother and her daughter talk about their experiences and problems. The mother arrived in Germany as a “guest worker”. Her daughter, now 24, survived an arranged marriage that was hell for her.
@@ -7841,6 +7776,7 @@ fepessoab           8
 misantropen         8
 anittta             8
 Ole Johnny          8
+fluszeit            7
 L Saturnino         7   https://letterboxd.com/lsaturn/film/marianne-and-juliane/
 borgona             4
 
@@ -7849,6 +7785,7 @@ borgona             4
 
 #letterboxd
 fluszeit            7
+Hind Mezaina        5
 blahr               4
 
 "Ich denke oft an Hawaii" (Elfi Mikesch, DDR 1978) [Retrospektive]
@@ -7939,8 +7876,8 @@ Dennis              5
 
 
 #letterboxd
+jancp               6
 blahr               6
-jancp               5
 
 "Im Kreise der Lieben (The Terrible Threesome)" (Hermine Huntgeburth, D 1991) [Retrospektive]
  A black comedy about a scam artist who bilks men with a marriage con, with the help and support of her mother and grandmother. When two defrauded men get wise to their ways, the family tribe uses brutal means to defend itself. with Barbara Auer, Karin Baal, Ruth Hellberg, Edgar Selge, Wolfgang Rüter
@@ -7977,6 +7914,7 @@ CULINARIC
 #letterboxd
 Letterboxd 464_Ratings	7.60  https://letterboxd.com/film/aruna-and-her-palate/
 icyglaze            9
+Cynthia Lim         8
 Derrie              8
 prima safa          8
 reginaheidy         8
@@ -8109,6 +8047,7 @@ DeanJames007        9
 Ashkan H.S. Jawadi  9
 medinait            9   https://letterboxd.com/medinait/film/tanna/
 Saleh Bonayan       9
+isaacchasteen       8   https://letterboxd.com/isaacchasteen/film/tanna/
 sofiagh             8
 eifos               8
 jenna               8   https://letterboxd.com/chastainly/film/tanna/
