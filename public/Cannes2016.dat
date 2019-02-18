@@ -1,6 +1,5 @@
 package Cannes::rurban::2016; # -*- perl -*-
 
-#!/usr/bin/perl
 # Cannes 2016 Critics Ratings
 # Collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all Cannes critics:
@@ -18,7 +17,7 @@ package Cannes::rurban::2016; # -*- perl -*-
 #
 # Published at http://cannes-ratings.herokuapp.com/2016
 # History at https://github.com/rurban/cannes-critics-ratings
-# Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014, 2015, 2016
+# Perl script by Reini Urban (c) 2010-2016
 # US ratings:
 #   A+ 10   A 9   A- 8
 #   B+ 7    B 6   B- 5
@@ -35,7 +34,7 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"RESTER VERTICAL (Stay Vertical)" (Alain Guiraudie) [Competition]
+"Rester Vertical (Stay Vertical)" (Alain Guiraudie) [Competition]
 
 #todas
 Roger Koza              9
@@ -219,7 +218,7 @@ camilla toschi      2       https://letterboxd.com/camillatoschi/film/staying-ve
 karamazov           2
 Luc Benito          1
 
-"SIERANEVADA" (Cristi Puiu) [Competition]
+"Sieranevada" (Cristi Puiu) [Competition]
 
 # todas
 Roger Koza              9.5
@@ -392,7 +391,7 @@ Blake Williams      5
 Dillon Freeman      3
 whocaresdad                 https://letterboxd.com/whocaresdad/film/sieranevada/
 
-"MA LOUTE (Slack Bay)" (Bruno Dumont) [Competition]
+"Ma loute (Slack Bay)" (Bruno Dumont) [Competition]
 
 # todas
 Roger Koza              7.5
@@ -587,7 +586,7 @@ FlashBack           2
 d minúscula        1       https://letterboxd.com/_d/film/slack-bay/
 AntCo               1       https://letterboxd.com/antco/film/slack-bay/
 
-"I, DANIEL BLAKE" (Ken Loach) [Competition] Palme d'Or
+"I, Daniel Blake" (Ken Loach) [Competition] Palme d'Or
 
 # todas
 Roger Koza              4
@@ -745,7 +744,7 @@ VOSrevista          4
 James McAllister    4
 Dillon Freeman      2       https://letterboxd.com/dillonf/film/i-daniel-blake/
 
-"AGASSI (아가씨, The Handmaid, Mademoiselle)" (Park Chan-wook) [Competition]
+"The Handmaid (아가씨, Agassi, Mademoiselle)" (Park Chan-wook) [Competition]
 # "Lady" - Adaption of Sarah Waters novel
 
 # todas
@@ -911,7 +910,7 @@ James McAllister    4
 Carlota Moseguí    2       https://letterboxd.com/carlotamosegui/film/the-handmaiden/
 jameshealey                 https://letterboxd.com/jameshealey/film/the-handmaiden/
 
-"TONI ERDMANN" (Maren Ade) [Competition] FIPRESCI Price
+"Toni Erdmann" (Maren Ade) [Competition] FIPRESCI Price
 
 # todas
 Roger Koza              9
@@ -1094,7 +1093,7 @@ Dillon Freeman      5       https://letterboxd.com/dillonf/film/toni-erdmann/
 #
 Lee Marshall        9     http://www.screendaily.com/reviews/toni-erdmann-cannes-review/5103888.article?blocktitle=CANNES-REVIEWS&contentID=40395
 
-"MAL DE PIERRES (From the Land of the Moon)" (Nicole Garcia) [Competition]
+"Mal de pierres (From the Land of the Moon)" (Nicole Garcia) [Competition]
 # Milena Agus novel "Mal di Pietre"
 
 # todas
@@ -1234,7 +1233,7 @@ Niels Putman        2
 blackdavid _        1
 karamazov           1
 
-"AMERICAN HONEY" (Andrea Arnold) [Competition] Jury Prize
+"American Honey" (Andrea Arnold) [Competition] Jury Prize
 
 # todas
 Roger Koza              6
@@ -1404,7 +1403,7 @@ Guy Lodge                   https://variety.com/2016/film/reviews/american-honey
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-andrea-arnold-park-chan-wook.html
 Jonathan Romney             http://www.screendaily.com/reviews/american-honey-cannes-review/5103945.article?blocktitle=IN-COMPETITION&contentID=40428
 
-"LOVING" (Jeff Nichols) [Competition]
+"Loving" (Jeff Nichols) [Competition]
 
 # todas
 Roger Koza              6
@@ -1580,7 +1579,7 @@ Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/ein
 Sophie Monks Kaufman        http://lwlies.com/festivals/loving-first-look-review/
 Tim Grierson                http://www.screendaily.com/reviews/loving-cannes-review/5104015.article?blocktitle=IN-COMPETITION&contentID=40428
 
-"PATERSON" (Jim Jarmusch) [Competition]
+"Paterson" (Jim Jarmusch) [Competition]
 
 # todas
 Roger Koza              8.5
@@ -1754,7 +1753,7 @@ Florent Boutet      3
 Andy Malafaia       3
 Aaron Salazar       3       https://letterboxd.com/whocaresdad/film/paterson/
 
-"JULIETA" (Pedro Almodovar) [Competition]
+"Julieta" (Pedro Almodovar) [Competition]
 
 # todas
 Roger Koza              5.5
@@ -1929,7 +1928,7 @@ Antoine Waked       3
 milenartist         2
 Carlota Moseguí    2
 
-"PERSONAL SHOPPER" (Olivier Assayas) [Competition] Best Director Ex-Aequo
+"Personal Shopper" (Olivier Assayas) [Competition] Best Director Ex-Aequo
 
 # todas
 Roger Koza              7.5
@@ -2109,7 +2108,7 @@ Peter Bradshaw         10   http://www.theguardian.com/film/2016/may/16/personal
 Ben Croll                   http://www.thewrap.com/personal-shopper-cannes-review-does-kristen-stewart-drama-deserve-all-those-boos/
 Giovanni Marchini Camia  6  https://thefilmstage.com/reviews/cannes-review-personal-shopper/
 
-"AQUARIUS" (Kleber Mendonça Filho) [Competition]
+"Aquarius" (Kleber Mendonça Filho) [Competition]
 
 # todas
 Roger Koza              8
@@ -2271,7 +2270,7 @@ Peter Bradshaw      8       http://www.theguardian.com/film/2016/may/17/aquarius
 Jay Weissberg               https://variety.com/2016/film/reviews/aquarius-review-1201776731/
 Wendy Ide                   http://www.screendaily.com/reviews/aquarius-cannes-review/5104107.article?blocktitle=IN-COMPETITION&contentID=40428
 
-"LA FILLES INCONNU (The Unknown Girl)" (Jean-Pierre and Luc Dardenne) [Competition]
+"La filles inconnu (The Unknown Girl)" (Jean-Pierre and Luc Dardenne) [Competition]
 
 # todas
 Roger Koza              5.5
@@ -2438,7 +2437,7 @@ Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/ein
 Peter Bradshaw      4       http://www.theguardian.com/film/2016/may/19/graduation-review-cristian-mungiu-romania-cannes-2016
 Lee Marshall                http://www.screendaily.com/reviews/the-unknown-girl-cannes-review/5104151.article?blocktitle=IN-COMPETITION&contentID=40428
 
-"MA' ROSA" (Brillante Mendoza) [Competition] Best Actress
+"Ma' Rosa" (Brillante Mendoza) [Competition] Best Actress
 
 # todas
 Roger Koza              3
@@ -2575,7 +2574,7 @@ Blake Williams      3
 Josef Lederle               http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-dardennes-mendoza-filho.html
 Peter Bradshaw      6       http://www.theguardian.com/film/2016/may/18/marosa-review-brillante-mendoza-cannes
 
-"BACALAUREAT (Graduation)" (Cristian Mungiu) [Competition] Best Director Ex-Aequo
+"Bacalaureat (Graduation)" (Cristian Mungiu) [Competition] Best Director Ex-Aequo
 
 # todas
 Roger Koza              6
@@ -2744,7 +2743,7 @@ whocaresdad                 https://letterboxd.com/whocaresdad/film/graduation-2
 Peter Bradshaw      10      http://www.theguardian.com/film/2016/may/19/graduation-review-cristian-mungiu-romania-cannes-2016
 Dan Fainaru                 http://www.screendaily.com/reviews/graduation-cannes-review/5104197.article?blocktitle=IN-COMPETITION&contentID=40428
 
-"JUSTE LA FIN DE MONDE (It’s Only the End of the World)" (Xavier Dolan) [Competition] Grand Prix + Prix jury oecumenique
+"Juste la fin de monde (It’s Only the End of the World)" (Xavier Dolan) [Competition] Grand Prix + Prix jury oecumenique
 
 # todas
 Roger Koza              3.5
@@ -2902,7 +2901,7 @@ Dave Jenkins        2
 Andy Malafaia       2
 Laurent de Alberti    2
 
-"THE LAST FACE" (Sean Penn) [Competition]
+"The Last Face" (Sean Penn) [Competition]
 
 # todas
 Daniel Kasman           3
@@ -3036,7 +3035,7 @@ Matt Hoffman        1
 #
 Benjamin Lee        2       http://www.theguardian.com/film/2016/may/20/the-last-face-review-sean-penn-charlize-theron-crass-romance-cannes
 
-"THE NEON DEMON" (Nicholas Anders Refn) [Competition]
+"The Neon Demon" (Nicholas Anders Refn) [Competition]
 
 # todas
 Roger Koza              5
@@ -3210,7 +3209,7 @@ Tyler Lee           2
 Anthony Magnoni     2
 Pablo Villaça      2
 
-"ELLE" (Paul Verhoeven) [Competition]
+"Elle" (Paul Verhoeven) [Competition]
 
 # todas
 Roger Koza              10
@@ -3369,7 +3368,7 @@ Tensin              5
 ILARIA PIZZALUGA    5
 Tyler Lee           4
 
-"THE SALESMAN (Foroushande)" (Ashgar Farhadi) [Competition] Best Screenplay + Actor
+"The Salesman (Foroushande)" (Ashgar Farhadi) [Competition] Best Screenplay + Actor
 
 # todas
 Roger Koza              6
@@ -3518,7 +3517,7 @@ Aaron Salazar       4
 
 UN CERTAIN REGARD
 
-"ESHTEBAK (Clash)" (Mohamed Diab) [Un Certain Regard] Opening Film
+"Eshtebak (Clash)" (Mohamed Diab) [Un Certain Regard] Opening Film
 
 # todas
 Jaime Pena              5
@@ -3567,7 +3566,7 @@ Antoine Waked       6
 ashavit23           4
 Flamenca Stone      4
 
-"OMOR SHAKHSIYA (Personal Affairs)" (Maha Haj) [Un Certain Regard]
+"Omor Shakhsiya (Personal Affairs)" (Maha Haj) [Un Certain Regard]
 
 # todas
 Roger Koza              3.5
@@ -3613,7 +3612,7 @@ ashavit23           5
 Hugo Emmerzael      4
 Pablo Villaça      3
 
-"UCHENIK (The Student)" (Kirill Serebrennikov) [Un Certain Regard]
+"Uchenik (The Student)" (Kirill Serebrennikov) [Un Certain Regard]
 
 # todas
 Jaime Pena              7
@@ -3666,7 +3665,7 @@ Pieter Vermeersch   6
 VOSrevista          4
 EZULC               4
 
-"LA DANSEUSE (The Dancer)" (Stéphanie Di Giusto) [Un Certain Regard]
+"La danseuse (The Dancer)" (Stéphanie Di Giusto) [Un Certain Regard]
 
 # todas
 José Luis De Lorenzo   3
@@ -3719,7 +3718,7 @@ Jason Ooi           4
 Florent Boutet      2
 Kurt Walker         2
 
-"THE TRANSFIGURATION" (Michael O’Shea) [Un Certain Regard]
+"The Transfiguration" (Michael O’Shea) [Un Certain Regard]
 
 # todas
 Rüdiger Suchsland      4
@@ -3783,7 +3782,7 @@ Blake Williams      3
 Jason Ooi           3
 Anthony Magnoni     2
 
-"FUCHI NI TATSU (Harmonium)" (Fukada Kôji) [Un Certain Regard] UCR Jury Price
+"Fuchi ni tatsu (Harmonium)" (Fukada Kôji) [Un Certain Regard] UCR Jury Price
 
 # todas
 Roger Koza              5.5
@@ -3828,7 +3827,7 @@ camilla toschi      5
 Adolf El Assal      4
 karamazov           3
 
-"DOGS (Caini)" (Bogdan Mirica) [Un Certain Regard] FIPRESCI Prize for UCR
+"Dogs (Caini)" (Bogdan Mirica) [Un Certain Regard] FIPRESCI Prize for UCR
 
 # todas
 Roger Koza              5
@@ -3887,7 +3886,7 @@ Jason Ooi           4
 camilla toschi      4
 Aaron Salazar       2
 
-"ME’EVER LAHARIM VEHAGVAOT (Beyond the Mountains and Hills)" (Eran Kolirin) [Un Certain Regard]
+"Me’Ever Laharim Vehagvaot (Beyond the Mountains and Hills)" (Eran Kolirin) [Un Certain Regard]
 
 # todas
 Rüdiger Suchsland      7
@@ -3938,7 +3937,7 @@ Jangorama           4
 Flamenca Stone      3
 karamazov           2
 
-"APPRENTICE" (Boo Junfeng) [Un Certain Regard]
+"Apprentice" (Boo Junfeng) [Un Certain Regard]
 
 # todas
 Jaime Pena              7
@@ -3993,7 +3992,7 @@ paolawt             3
 karamazov           3
 reedie              2
 
-"HELL OR HIGH WATER" (David Mackenzie) [Un Certain Regard]
+"Hell or High Water" (David Mackenzie) [Un Certain Regard]
 - prev as Comancheria
 
 # todas
@@ -4060,7 +4059,7 @@ Jason Ooi           6
 AEC                 5
 blackdavid _        4
 
-"VOIR DU PAYS (The Stopover)" (Delphine & Muriel Coulin) [Un Certain Regard] UCR Best Screenplay Award
+"Voir du pays (The Stopover)" (Delphine & Muriel Coulin) [Un Certain Regard] UCR Best Screenplay Award
 
 # todas
 Boris Nelepo            6.5
@@ -4095,7 +4094,7 @@ Pieter Vermeersch   3
 Peter Bradshaw         8   http://www.theguardian.com/film/2016/may/16/hell-or-high-water-review-cannes-film-jeff-bridges-chris-pine
 
 
-"CAPTAIN FANTASTIC" (Matt Ross) [Un Certain Regard] Sundance, UCR Best Director Award
+"Captain Fantastic" (Matt Ross) [Un Certain Regard] Sundance, UCR Best Director Award
 
 # todas
 Jaime Pena              5
@@ -4137,7 +4136,7 @@ Anthony Kaufman                   http://www.screendaily.com/reviews/captain-fan
 Letterboxd _31_Users  6.8         http://letterboxd.com/film/captain-fantastic/ratings/
 Sundance Rating _16_Users   6.75  http://cannes-ratings.herokuapp.com/Sundance2016?t=38#38
 
-"VAROONEGI (Inversion)" (Behnam Behzadi) [Un Certain Regard]
+"Varoonegi (Inversion)" (Behnam Behzadi) [Un Certain Regard]
 
 # todas
 Fernando Juan Lima      5.5
@@ -4169,7 +4168,7 @@ Pieter Vermeersch   5
 Pablo Villaça      4
 
 
-"AFTER THE STORM (Umi yori mo mada fukaku)" (Hirekazu Kore-eda) [Un Certain Regard]
+"After the Storm (Umi yori mo mada fukaku)" (Kore-eda Hirekazu) [Un Certain Regard]
 
 # todas
 Roger Koza              5
@@ -4227,7 +4226,7 @@ Dave Jenkins        6
 Tensin              6
 blackdavid _        5
 
-"LA TORTUE ROUGE (The Red Turtle)" (Michael Dudok De Wit)  [Un Certain Regard] UCR Special Jury Prize
+"La tortue rouge (The Red Turtle)" (Michael Dudok De Wit)  [Un Certain Regard] UCR Special Jury Prize
 
 # todas
 Roger Koza              5.5
@@ -4289,7 +4288,7 @@ Blake Williams      5
 Laurent de Alberti    5
 Crayfish            4
 
-"THE HAPPIEST DAY IN THE LIFE OF OLLI MÄKI (Hymyilevä Mies)" (Juho Kuosmanen) [Un Certain Regard] Prix UCR
+"The Happiest Day in the Life of Olli Mäki (Hymyilevä Mies)" (Juho Kuosmanen) [Un Certain Regard] Prix UCR
 
 # todas
 Jaime Pena              5.5
@@ -4341,7 +4340,7 @@ Anthony Magnoni     5
 Flamenca Stone      4
 Pieter Vermeersch   4
 
-"PERICLE IL NERO" (Stefano Mordini) [Un Certain Regard]
+"Pericle il nero" (Stefano Mordini) [Un Certain Regard]
 
 # todas
 Giona Nazzaro           6.5
@@ -4379,7 +4378,7 @@ Serena Catalano     5
 Nazeer Vawda        4
 Carlota Moseguí    2
 
-"FRANCISCO SANCTIS'S LONG NIGHT (La larga noche de Francisco Sanctis)" (Francisco Márquez & Andrea Testa) [Un Certain Regard]
+"Francisco Sanctis's Long Night (La larga noche de Francisco Sanctis)" (Francisco Márquez & Andrea Testa) [Un Certain Regard]
 
 # todas
 Roger Koza              7
@@ -4446,7 +4445,7 @@ Pablo Villaça      2
 
 QUINZAINE
 
-"SWEET DREAMS (Fai bei Sogni)" (Marco Bellocchio) [Quinzaine]
+"Sweet Dreams (Fai bei Sogni)" (Marco Bellocchio) [Quinzaine]
 
 # todas
 Roger Koza              6
@@ -4503,7 +4502,7 @@ karamazov           5
 Pieter Vermeersch   5
 reedie              2
 
-"NERUDA" (Pablo Larraín) [Quinzaine]
+"Neruda" (Pablo Larraín) [Quinzaine]
 
 # todas
 Jaime Pena              4
@@ -4554,7 +4553,7 @@ Flamenca Stone      5
 EZULC               4
 blackdavid _        3
 
-"AFTER LOVE (L’Économie du couple)" (Joachim Lafosse) [Quinzaine]
+"After Love (L’Économie du couple)" (Joachim Lafosse) [Quinzaine]
 
 # todas
 Jaime Pena              4
@@ -4585,7 +4584,7 @@ VellutoGrigio       1
 #
 Jordan Mintzer         https://www.hollywoodreporter.com/review/love-leconomie-du-couple-cannes-889166
 
-"LIKE CRAZY (La Pazza Gioia)" (Paolo Virzì) [Quinzaine]
+"Like Crazy (La Pazza Gioia)" (Paolo Virzì) [Quinzaine]
 
 # todas
 Fredy Friedlander       7
@@ -4634,7 +4633,7 @@ RoyBean             4
 Cipo                3
 tittytwister        2
 
-"ENDLESS POETRY (Poesía sin fin)" (Alejandro Jodorowsky) [Quinzaine]
+"Endless Poetry (Poesía sin fin)" (Alejandro Jodorowsky) [Quinzaine]
 
 # todas
 Roger Koza              3.5
@@ -4675,7 +4674,7 @@ Chuchaqui           4
 Sarah               3
 Mirjam Urban        2
 
-"TOUR DE FRANCE" (Rachid Djaïdani) [Quinzaine]
+"Tour de France" (Rachid Djaïdani) [Quinzaine]
 
 # todas
 Andrea Picard           4.5
@@ -4694,7 +4693,7 @@ Reini Urban         4       https://letterboxd.com/rurban/film/tour-de-france/
 AEC                 4
 Chuchaqui           1
 
-"MY LIFE AS A ZUCCHINI (Ma vie de Courgette)" (Claude Barras) [Quinzaine] Annecy Prix spéciaux
+"My Life as a Zucchini (Ma vie de Courgette)" (Claude Barras) [Quinzaine] <i>Annecy Prix spéciaux</i>
 - Animation
 
 # todas
@@ -4724,7 +4723,7 @@ Sarah               7
 Luc_Benito          7
 Chuchaqui           6
 
-"MEAN DREAMS" (Nathan Morlando) [Quinzaine]
+"Mean Dreams" (Nathan Morlando) [Quinzaine]
 
 # todas
 Javier H. Estrada       3
@@ -4737,7 +4736,7 @@ Mirjam Urban        4
 EZULC               3
 Sam C. Mac          1       https://letterboxd.com/samcmac/film/mean-dreams/
 
-"PSYCHO RAMAN (Raman Raghav 2.0)" (Anurag Kashyap) [Quinzaine]
+"Psycho Raman (Raman Raghav 2.0)" (Anurag Kashyap) [Quinzaine]
 
 # todas
 Giona Nazzaro           6.5
@@ -4767,7 +4766,7 @@ tomsk               8
 VellutoGrigio       7
 Reini Urban         5       https://letterboxd.com/rurban/film/les-vies-de-therese/
 
-"WOLF AND SHEEP" (Shahrbanoo Sadat) [Quinzaine] Art Cinema Award
+"Wolf and Sheep" (Shahrbanoo Sadat) [Quinzaine] Art Cinema Award
 
 # todas
 Fernando Juan Lima      5
@@ -4792,7 +4791,7 @@ Tyler Lee           2
 #
 Allan Hunter                http://www.screendaily.com/reviews/wolf-and-sheep-cannes-review/5104253.article?blocktitle=CANNES-REVIEWS&contentID=40395
 
-"FIORE" (Claudio Giovannesia) [Quinzaine]
+"Fiore" (Claudio Giovannesia) [Quinzaine]
 
 # todas
 Giona Nazzaro           8.5
@@ -4811,7 +4810,7 @@ Mirjam Urban        6
 Serena Catalano     6
 reedie              2
 
-"THE LIFE AQUATIC (L'effet aquatique)" (Sólveig Anspach) [Quinzaine] Prix SACD
+"The Life Aquatic (L'effet aquatique)" (Sólveig Anspach) [Quinzaine] Prix SACD
 
 # todas
 Fernando Juan Lima      5
@@ -4824,7 +4823,7 @@ Florent Boutet      5
 Mirjam Urban        5
 Pieter Vermeersch   3
 
-"TWO LOVERS AND A BEAR" (Kim Nguyen) [Quinzaine]
+"Two Lovers and a Bear" (Kim Nguyen) [Quinzaine]
 
 # todas
 Javier H. Estrada       3.5
@@ -4845,7 +4844,7 @@ Bogdan Bogdan Stamatin 4
 Kurt Walker         2
 James Healey        1       https://letterboxd.com/jameshealey/film/two-lovers-and-a-bear/
 
-"MERCENAIRE" (Sacha Wolff) [Quinzaine] Europa Cinéma Label Prize
+"Mercenaire" (Sacha Wolff) [Quinzaine] Europa Cinéma Label Prize
 
 # todas
 Fernando Juan Lima      4.5
@@ -4858,7 +4857,7 @@ Alberto Sáez Villarino 6.5
 Reini Urban         6       https://letterboxd.com/rurban/film/mercenaire/
 Mirjam Urban        4
 
-"RISK" (Laura Poitras) [Quinzaine] NY
+"Risk" (Laura Poitras) [Quinzaine] NY
 
 # todas
 Roger Koza              6
@@ -4887,7 +4886,7 @@ Sarah               5
 Dave Jenkins        5
 Flamenca Stone      3
 
-"DIVINES" (Houda Benyamina) [Quinzaine] Camera d'Or
+"Divines" (Houda Benyamina) [Quinzaine] Camera d'Or
 
 # todas
 Pamela Bienzobas        5.5
@@ -4907,7 +4906,7 @@ Michael Leader      7
 Mirjam Urban        3
 Reini Urban         2       https://letterboxd.com/rurban/film/divines/
 
-"DOG EAT DOG" (Paul Schrader) [Quinzaine]
+"Dog Eat Dog" (Paul Schrader) [Quinzaine]
 
 # todas
 Daniel Kasman           6.5
@@ -4963,14 +4962,14 @@ tombeet             3
 Laurent de Alberti    3
 James McAllister    2
 
-#"LOS PASOS DEL AGUA" (César Augusto Acevedo) [Quinzaine] Special
+#"Los pasos del agua" (César Augusto Acevedo) [Quinzaine] Special
 
 #"Bonne figure/Smile + En Moi + Kitty"	(Sandrine Kiberlain, Laetitia Casta, Chloë Sevigny) [Quinzaine] Closing films, shorts
 
 
 SEMAINE
 
-"VICTORIA (In Bed with Victoria)" (Justine Triet) [Semaine] Opening
+"Victoria (In Bed with Victoria)" (Justine Triet) [Semaine] Opening
 
 # todas
 Jaime Pena              8
@@ -4996,7 +4995,7 @@ Florent Boutet      5
 Carlota Moseguí    5
 Blake Williams      5
 
-"ALBUM (Albüm)"	(Mehmet Can Mertoğlu) [Semaine]  France 4 Visionary Award
+"Album (Albüm)"	(Mehmet Can Mertoğlu) [Semaine]  France 4 Visionary Award
 
 # todas
 Jaime Pena              5
@@ -5016,7 +5015,7 @@ VOSrevista          5
 Florent Boutet      2
 Flamenca Stone      2
 
-"RAW (Grave)" (Julia Ducournau) [Semaine] FIPRESCI Prize for best First Film
+"Raw (Grave)" (Julia Ducournau) [Semaine] FIPRESCI Prize for best First Film
 
 # todas
 Daniel Kasman           7
@@ -5049,7 +5048,7 @@ Flamenca Stone      6
 Elena Lazic         5
 VellutoGrigio       4
 
-"DIAMOND ISLAND" (Davy Chou) [Semaine] SACD Award
+"Diamond Island" (Davy Chou) [Semaine] SACD Award
 
 # todas
 Jaime Pena              6.5
@@ -5070,7 +5069,7 @@ VOSrevista          6
 Blake Williams      5
 Jangorama           4
 
-"HAPPY TIMES WILL COME SOON (I tempi felici verranno presto)"	(Alessandro Comodin) [Semaine] Special
+"Happy Times Will Come Soon (I tempi felici verranno presto)"	(Alessandro Comodin) [Semaine] Special
 
 # todas
 Giona Nazzaro           8
@@ -5093,7 +5092,7 @@ Blake Williams      6
 reedie              5
 blackdavid _        5
 
-"ONE WEEK AND A DAY (	שבוע ויום Shavua ve yom)" (Asaph Polonsky) [Semaine] Distribution Award
+"One Week and a Day (	שבוע ויום Shavua ve yom)" (Asaph Polonsky) [Semaine] Distribution Award
 
 # todas
 Carlo Chatrian          4
@@ -5104,12 +5103,12 @@ David Ehrlich       7       https://letterboxd.com/davidehrlich/film/one-week-an
 Luc_Benito          6
 Flamenca Stone      5
 
-"APNÉE"	(Jean-Christophe Meurisse) [Semaine] Special
+"Apnée"	(Jean-Christophe Meurisse) [Semaine] Special
 
 # letterboxd
 camilla toschi      4       https://letterboxd.com/camillatoschi/film/apnee-2016/
 
-"MIMOSAS" (Oliver Laxe) [Semaine] Grand Prix Semaine
+"Mimosas" (Oliver Laxe) [Semaine] Grand Prix Semaine
 
 # todas
 Roger Koza              7.5
@@ -5154,7 +5153,7 @@ Reini Urban         3       https://letterboxd.com/rurban/film/mimosas/
 Jangorama           2
 Mirjam Urban        1
 
-"TRAMONTANE (ربيع Rabi'h)" (Vatche Boulghourjian) [Semaine]
+"Tramontane (ربيع Rabi'h)" (Vatche Boulghourjian) [Semaine]
 
 # todas
 Jaime Pena              5.5
@@ -5167,7 +5166,7 @@ Michael Kienzl        5
 Bogdan Bogdan Stamatin 7
 karamazov           7
 
-"A YELLOW BIRD" (K. Rajagopal) [Semaine]
+"A Yellow Bird" (K. Rajagopal) [Semaine]
 
 # todas
 Pamela Bienzobas        4.5
@@ -5181,7 +5180,7 @@ blackdavid _        1
 
 ACID
 
-"LA JEUNE FILLE SANS MAINS (The Girl Without Hands)" (Sébastien Laudenbach) [ACID]
+"La jeune fille sans mains (The Girl Without Hands)" (Sébastien Laudenbach) [ACID]
 - http://www.lacid.org/La-Jeune-fille-sans-mains (Animation)
 
 # todas
@@ -5190,44 +5189,40 @@ Raúl Camargo           6
 # letterboxd
 tombeet             7
 
-"ISOLA" (Fabianny Deschamps) [ACID]
+"Isola" (Fabianny Deschamps) [ACID]
 - http://www.lacid.org/Isola
 
-# todas
 Paolo Bertolin          4
 # letterboxd
 Meli G              4
 
-"SWAGGER" (Olivier Babinet) [ACID]
+"Swagger" (Olivier Babinet) [ACID]
 - http://www.lacid.org/Swagger
 
-"TOMBÉ DU CIEL" (Wissam Charaf) [ACID]
+"Tombé du ciel" (Wissam Charaf) [ACID]
 - http://www.lacid.org/Tombe-du-ciel
 
-"MADAME B, HISTOIRE D’UNE NORD-CORÉENNE" (Jero Yun) [ACID]
+"Madame B, Histoire d’une Nord-Coréenne" (Jero Yun) [ACID]
 - http://www.lacid.org/Madame-B-histoire-d-une-Nord
 
-# todas
 Marcelo Alderete        6
 Raúl Camargo           5
 # letterboxd
 Simon McEnteggart   2
 
-"LE VOYAGE AU GROENLAND" (Sébastien Betbeder) [ACID]
+"Le voyage au Groenland" (Sébastien Betbeder) [ACID]
 - http://www.lacid.org/Le-Voyage-au-Groenland
 
-# todas
 Raúl Camargo           5
 # letterboxd
 tombeet             6
 
-"SAC LA MORT" (Emmanuel Parraud) [ACID]
+"Sac la mort" (Emmanuel Parraud) [ACID]
 - http://www.lacid.org/Sac-la-mort
 
-# todas
 Raúl Camargo           5.5
 
-"LE PARC" (Damien Manivel) [ACID]
+"Le parc" (Damien Manivel) [ACID]
 - http://www.lacid.org/Le-Parc
 
 Diego Lerer                 http://www.otroscineseuropa.com/le-parc-damien-manivel/
@@ -5249,11 +5244,11 @@ Blake Williams      6
 Frederico Machado   3
 Mirjam Urban        1
 
-"WILLY 1er" (Ludovic et Zoran Boukherma, Marielle Gautier, Hugo P. Thomas) [ACID]
+"Willy 1er" (Ludovic et Zoran Boukherma, Marielle Gautier, Hugo P. Thomas) [ACID]
 
 SPECIAL SCREENINGS
 
-"CAFE SOCIETY" (Woody Allen) [Out Of Competition] Opening Film
+"Cafe Society" (Woody Allen) [Out Of Competition] Opening Film
 
 # todas
 Roger Koza              6
@@ -5438,7 +5433,7 @@ Crayfish            3
 menboong                    https://letterboxd.com/menboong/film/cafe-society-2016/
 pandabakers                 https://letterboxd.com/pandabakers/film/cafe-society-2016/
 
-"MONEY MONSTER" (Jodie Foster) [Out Of Competition]
+"Money Monster" (Jodie Foster) [Out Of Competition]
 
 # todas
 Jaime Pena              4
@@ -5622,7 +5617,7 @@ danvat              3
 Alexis Chrys        2
 karamazov           2
 
-"EXIL" (Rithy Panh) [Out Of Competition] Special Screening
+"Exil" (Rithy Panh) [Out Of Competition] Special Screening
 
 # todas
 Jaime Pena              6.5
@@ -5662,11 +5657,11 @@ blackdavid _        5
 Blake Williams      4
 Andy Malafaia       3
 
-"PESHMERGA" (Bertrand-Henri Lévy) [Out Of Competition] Special Screening
+"Peshmerga" (Bertrand-Henri Lévy) [Out Of Competition] Special Screening
 
 Peter Bradshaw      8       http://www.theguardian.com/film/2016/may/20/peshmerga-review-bernard-henri-levy-cannes-2016
 
-"TRAIN TO BUSAN (Busan-Haeng / Seoul Station)" (Yeon Sang-Ho) [Out Of Competition] Midnight
+"Train to Busan (Busan-Haeng / Seoul Station)" (Yeon Sang-Ho) [Out Of Competition] Midnight
 - Animation
 
 # todas
@@ -5684,7 +5679,7 @@ Michael Kienzl        6       http://www.critic.de/film/bu-san-haeng-9751/
 # letterboxd
 Jeroen Van Rossem   7
 
-"DISNEY'S THE BFG" (Steven Spielberg) [Out Of Competition]
+"Disney's the Bfg" (Steven Spielberg) [Out Of Competition]
 
 # todas
 José Luis De Lorenzo   7.5
@@ -5735,7 +5730,7 @@ EZULC               3
 Pablo Villaça      2
 Flamenca Stone      2
 
-"WRONG ELEMENTS" (Jonathan Littell) [Out Of Competition] Special Screening
+"Wrong Elements" (Jonathan Littell) [Out Of Competition] Special Screening
 
 # todas
 Jaime Pena              8.5
@@ -5747,14 +5742,14 @@ Daniel Kasman         5
 # letterboxd
 David Ehrlich       7    https://letterboxd.com/davidehrlich/film/wrong-elements/
 
-"CHOUF" (Karim Dridi) [Out Of Competition] Special Screening
+"Chouf" (Karim Dridi) [Out Of Competition] Special Screening
 
 # todas
 Giona Nazzaro           4
 # letterboxd
 Luke Driscoll       7
 
-"THE NICE GUYS" (Shane Black) [Out Of Competition]
+"The Nice Guys" (Shane Black) [Out Of Competition]
 
 # todas
 Rüdiger Suchsland      6.5
@@ -5775,18 +5770,18 @@ David Raposa          7    https://letterboxd.com/falsebinary/film/the-nice-guys
 Peter Labuza               http://laist.com/2016/05/19/the_nice_guys_review.php
 Josef Lederle              http://www.filmdienst.de/aktuelles/blogbeitraege/einzelansicht/artikel/cannes-16-the-nice-guys.html
 
-"HISSEIN HABRÉ, A CHADIAN TRAGEDY (Hissein Habré, Une Tragédie Tchadienne)" (Mahamat-Saleh Haroun)  [Out Of Competition] (Special Screening)
+"Hissein Habré, A Chadian Tragedy (Hissein Habré, Une Tragédie Tchadienne)" (Mahamat-Saleh Haroun)  [Out Of Competition] (Special Screening)
 
 # todas
 Paolo Bertolin          7.5
 Javier H. Estrada       7.5
 
-"LA FORÊT DE QUINCONCES" (Grégoire Leprince-Ringuet) [Out Of Competition] Special Screening
+"La forêt de quinconces" (Grégoire Leprince-Ringuet) [Out Of Competition] Special Screening
 
 # todas
 José Luis Losa         6
 
-"THE WAILING (GOKSUNG)" (Na Hong-Jin) [Out Of Competition]
+"The Wailing (Goksung)" (Na Hong-Jin) [Out Of Competition]
 
 # todas
 Jaime Pena              7
@@ -5869,7 +5864,7 @@ syong               4
 Gui Park            2
 Liara K.            1
 
-"LE CANCRE (The Dunce)" (Paul Vecchiali) [Out Of Competition] Special Screening
+"Le cancre (The Dunce)" (Paul Vecchiali) [Out Of Competition] Special Screening
 
 # todas
 Roger Koza              7
@@ -5895,7 +5890,7 @@ Matt Hoffman        4
 Jason Ooi           3
 paolawt             2
 
-"LA MORT DE LOUIS XIV" (Alberto Serra)  [Out Of Competition] Special Screening
+"La mort de Louis XIV" (Alberto Serra)  [Out Of Competition] Special Screening
 
 # todas
 Roger Koza              10
@@ -5952,7 +5947,7 @@ Zac Goldkind        7
 Crayfish            7
 Florent Boutet      6
 
-"GIMME DANGER" (Jim Jarmusch) [Out Of Competition] Midnight
+"Gimme Danger" (Jim Jarmusch) [Out Of Competition] Midnight
 - Iggy Pop doc
 
 # todas
@@ -5991,7 +5986,7 @@ Zac Goldkind        4
 Pablo Villaça       4
 Jangorama           4
 
-"BLOOD FATHER" (Jean-Francois Richet) [Out Of Competition] Midnight
+"Blood Father" (Jean-Francois Richet) [Out Of Competition] Midnight
 
 # todas
 Roger Koza              3
@@ -6010,7 +6005,7 @@ Tyler Lee           4
 mightybutcher       4
 Luigi Moggeno       3
 
-"THE LAST RESORT (L'Ultima Spiaggia)" (Thanos Anastopoulos & Davide Del Degan) [Out Of Competition]
+"The Last Resort (L'Ultima Spiaggia)" (Thanos Anastopoulos & Davide Del Degan) [Out Of Competition]
 
 karamazov           7
 Crayfish            7
