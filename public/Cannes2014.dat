@@ -11,9 +11,9 @@ package Cannes::rurban::2014; # -*- perl -*-
 # http://www.indiewire.com/critic/
 # http://www.guardian.co.uk/film/series/first-look-review+cannes-2014
 #
-# Published at http://cannes-ratings.herokuapp.com/2014
+# Published at http://cannes-ratings.herokuapp.com/Cannes2014
 # History at https://github.com/rurban/cannes-critics-ratings
-# Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014
+# Perl script by Reini Urban (c) 2010-2014
 # US ratings:
 # A+ 10   A 9   A- 8
 # B+ 7    B 6   B- 5 (or 6)
@@ -31,6 +31,7 @@ COMPETITION
 
 "Mr Turner" (Mike Leigh) [Competition] Best actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010559/year/2014.html
+
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
 Roger Alan Koza       6
 Alexandra Zawia       8
@@ -3395,7 +3396,7 @@ Glenn Heath Jr        4
 
 "Of Men and War" (Laurent Bécue-Renard) [Special Screening]
 
-"Maidan" (Sergei LOZNITSA) [Special Screening]
+"Maidan" (Sergei Loznitsa) [Special Screening]
 
 Roger Alan Koza       10
 Alexandra Zawia       10

@@ -26,7 +26,7 @@ package Cannes::rurban::2013; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-"HELI" (Amat ESCALANTE) [Competition] Best director
+"Heli" (Amat Escalante) [Competition] Best director
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409854/year/2013.html
 Roger Koza           6
 Diego Batlle         4.5
@@ -150,7 +150,7 @@ Mehdi Omais           4
 #Philippe Rouyer      0
 Stephanie Zacharek              http://www.villagevoice.com/2013-05-15/film/heli-movie-review-cannes/
 
-"JEUNE & JOLIE (YOUNG & BEAUTIFUL)" (François OZON) [Competition]
+"Jeune & Jolie (Young & Beautiful)" (François Ozon) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409938/year/2013.html
 Roger Koza            5.5
 Diego Batlle          6
@@ -275,7 +275,7 @@ Roman Vern            4
 Mehdi Omais           8
 #Philippe Rouyer      6
 
-"TIAN ZHU DING (A TOUCH OF SIN)" (JIA Zhangke) [Competition] Best screenplay
+"Tian Zhu Ding (A Touch of Sin)" (Jia Zhangke) [Competition] Best screenplay
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409320/year/2013.html
 Roger Koza            9
 Diego Batlle          7.5
@@ -398,7 +398,7 @@ Roman Vern            4
 Mehdi Omais           8
 #Philippe Rouyer      
 
-"LE PASSÉ (THE PAST)" (Asghar FARHADI) [Competition] Ecumenical Jury Award, Best actress
+"Le passé (The Past)" (Asghar Farhadi) [Competition] Ecumenical Jury Award, Best actress
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407556/year/2013.html
 Mike d'Angelo         8.2     http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            
@@ -523,7 +523,7 @@ Roman Vern            8
 Mehdi Omais           10
 #Philippe Rouyer      8
 
-"JIMMY P. (PSYCHOTHERAPY OF A PLAINS INDIAN)" (Arnaud DESPLECHIN) [Competition]
+"Jimmy P. (Psychotherapy of a Plains Indian)" (Arnaud Desplechin) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409900/year/2013.html
 Mike d'Angelo        3.5      http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Roger Koza            7
@@ -646,7 +646,7 @@ Roman Vern            2
 Mehdi Omais           2
 #Philippe Rouyer      8
 
-"SOSHITE CHICHI NI NARU (Like Father, Like Son)" (KORE-EDA Hirokazu) [Competition] Jury Prize
+"Soshite Chichi ni Naru (Like Father, Like Son)" (Kore-Eda Hirokazu) [Competition] Jury Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406706/year/2013.html
 Mike d'Angelo        4.2      http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Roger Koza            5.5
@@ -766,7 +766,7 @@ Kevin Jagernauth     8        http://blogs.indiewire.com/theplaylist/cannes-revi
 John Bleasdale       8        http://www.cine-vue.com/2013/05/cannes-film-festival-2013-like-father.html
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-2013-like-father-like-son-review
 
-"BORGMAN" (Alex VAN WARMERDAM) [Competition]
+"Borgman" (Alex Van Warmerdam) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409861/year/2013.html
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336075606947155969
 Roger Koza            
@@ -888,7 +888,7 @@ Clementine Gallot     1.5     http://www.indiewire.com/film/borgman
 John Bleasdale        8       http://www.cine-vue.com/2013/05/cannes-film-festival-2013-borgman-review.html
 Catherine Shoard (Guardian, UK)   6       http://www.guardian.co.uk/film/2013/may/19/cannes-film-festival-borgman-review
 
-"INSIDE LLEWYN DAVIS" (Ethan COEN, Joel COEN) [Competition] Grand prix
+"Inside Llewyn Davis" (Ethan Coen, Joel Coen) [Competition] Grand prix
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11405872/year/2013.html
 Mike d'Angelo         5.7     https://twitter.com/gemko/status/335841004601085952
 Roger Koza            7
@@ -1020,7 +1020,7 @@ Roman Vern            10
 Mehdi Omais           10
 #Philippe Rouyer      10
 
-"WARA NO TATE (Shield of Straw)" (Takashi MIIKE) [Competition]
+"Wara No Tate (Shield of Straw)" (Takashi Miike) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408059/year/2013.html
 Mike d'Angelo        6.4    http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
 Roger Koza            
@@ -1140,7 +1140,7 @@ Shaun Munro          5       http://www.filmschoolrejects.com/reviews/cannes-201
 Peter Bradshaw       2       http://www.guardian.co.uk/film/2013/may/20/shield-of-straw-cannes-2013-review
 Manohla Dargis                http://artsbeat.blogs.nytimes.com/2013/05/22/cannes-film-festival-miikes-honest-cop-winding-refns-wallpaper/
 
-"UN CHÂTEAU EN ITALIE (A CASTLE IN ITALY)" (Valeria BRUNI TEDESCHI) [Competition]
+"Un château en Italie (A Castle in Italy)" (Valeria Bruni Tedeschi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409902/year/2013.html
 Mike d'Angelo         2.4    https://twitter.com/gemko/status/336812768692957184
 Roger Koza            
@@ -1256,7 +1256,7 @@ Mehdi Omais           8
 Shaun Munro           3       http://www.filmschoolrejects.com/reviews/cannes-2013-review-a-castle-in-italy-is-decent-drama-elevated-by-central-performance.php
 Peter Bradshaw        2       http://www.guardian.co.uk/film/2013/may/21/cannes-2013-castle-in-italy-review
 
-"BEHIND THE CANDELABRA (Ma vie avec Liberace)" (Steven SODERBERGH) [Competition]
+"Behind the Candelabra (Ma vie avec Liberace)" (Steven Soderbergh) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11407636/year/2013.html
 Mike d'Angelo         5.5     https://twitter.com/gemko/status/336811426758938624
 Roger Koza            5.5
@@ -1389,7 +1389,7 @@ Wesley Morris             http://www.grantland.com/blog/hollywood-prospectus/pos
 Stephanie Zacharek        http://www.villagevoice.com/2013-05-22/film/behind-the-candelabra-hbo/
 
 
-"LA GRANDE BELLEZZA (THE GREAT BEAUTY)" (Paolo SORRENTINO) [Competition]
+"La Grande Bellezza (The Great Beauty)" (Paolo Sorrentino) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409775/year/2013.html
 Mike d'Angelo         5.8     https://twitter.com/gemko/status/336597342511849473
 Roger Koza            
@@ -1507,7 +1507,7 @@ Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/21/cannes-r
 Manohla Dargis                http://www.nytimes.com/2013/05/24/movies/many-films-still-in-running-at-cannes-for-palme-dor.html?pagewanted=2&_r=0
 Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77659/cannes-diary-day-7-behind-the-candelabra-changes-everything
 
-"ONLY GOD FORGIVES" (Nicolas WINDING REFN) [Competition]
+"Only God Forgives" (Nicolas Winding Refn) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11408165/year/2013.html
 Mike d'Angelo         1.7     https://twitter.com/gemko/status/337169804937023488
 Roger Koza            
@@ -1639,7 +1639,7 @@ Jordan Hoffman      5         http://www.film.com/movies/only-god-forgives-revie
 Peter Debruge       3         http://variety.com/2013/film/reviews/cannes-film-review-only-god-forgives-1200486200/
 Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/only-god-forgives-movie-review/
 
-"GRIGRIS" (Mahamat-Saleh HAROUN) [Competition]
+"Grigris" (Mahamat-Saleh Haroun) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409856/year/2013.html
 Mike d'Angelo         4.8     https://twitter.com/gemko/status/336975857224663040
 Roger Koza            6.5
@@ -1753,7 +1753,7 @@ Michael Kienzl       4        http://www.critic.de/film/grigris-5549/
 #
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/22/cannes-2013-grigris-review
 
-"NEBRASKA" (Alexander PAYNE) [Competition] Best actor
+"Nebraska" (Alexander Payne) [Competition] Best actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409873/year/2013.html
 Mike d'Angelo         7.1     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Roger Koza            
@@ -1880,7 +1880,7 @@ Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-ca
 Emanuel Levy          7       http://www.emanuellevy.com/review/nebraska-from-alexander-payne/
 Robbie Collin         8       http://www.telegraph.co.uk/culture/film/cannes-film-festival/10076267/Cannes-2013-Nebraska-review.html
 
-"LA VIE D'ADÈLE - CHAPITRE 1 & 2 (BLUE IS THE WARMEST COLOUR)" (Abdellatif KECHICHE) [Competition]  Palme d'Or + FIPRESCI Prize Competition
+"La vie d'Adèle - Chapitre 1 & 2 (Blue is the Warmest Colour)" (Abdellatif Kechiche) [Competition]  Palme d'Or + FIPRESCI Prize Competition
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409897/year/2013.html
 Mike d'Angelo         6.9     http://www.avclub.com/articles/cannes-2013-day-eight-from-infatuation-to-disillus,98137/
 Roger Koza            9
@@ -2011,7 +2011,7 @@ Ali Naderzad                  http://screencomment.com/2013/05/blue-is-the-warme
 Jonathan Romney (Sight&Sound, UK) http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-close-physical
 Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/cannes-2013-award-winners/
 
-"THE IMMIGRANT" (James GRAY) [Competition]
+"The Immigrant" (James Gray) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409863/year/2013.html
 Mike d'Angelo         5.6     https://twitter.com/gemko/status/337879203880001537
 Roger Koza            9
@@ -2130,7 +2130,7 @@ Clementine Gallot    8        http://www.indiewire.com/film/lowlife
 Jon Frosch           6        http://www.indiewire.com/film/lowlife
 Stephanie Zacharek            http://www.villagevoice.com/2013-05-22/film/the-immigrant-movie-review/
 
-"MICHAEL KOHLHAAS" (Arnaud DES PALLIÈRES) [Competition]
+"Michael Kohlhaas" (Arnaud Des Pallières) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409909/year/2013.html
 Mike d'Angelo         5.4    https://twitter.com/gemko/status/338297770291130368
 Roger Koza            7.5
@@ -2247,7 +2247,7 @@ Clementine Gallot     7       http://www.indiewire.com/film/michael-kohlhaas
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 
 
-"LA VÉNUS À LA FOURRURE (VENUS IN FUR)" (Roman POLANSKI) [Competition]
+"La Vénus à la fourrure (Venus in Fur)" (Roman Polanski) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409865/year/2013.html
 Mike d'Angelo         6.1    https://twitter.com/gemko/status/338207781314240512
 Roger Koza            5
@@ -2363,7 +2363,7 @@ Jessica Kiang         3       http://blogs.indiewire.com/theplaylist/emmanuelle-
 Patrick Heidmann      7       http://www.indiewire.com/film/venus-in-fur
 Clementine Gallot     7       http://www.indiewire.com/film/venus-in-fur
 
-"ONLY LOVERS LEFT ALIVE" (Jim JARMUSCH) [Competition] 
+"Only Lovers Left Alive" (Jim Jarmusch) [Competition] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411996/year/2013.html
 Mike d'Angelo         7.7     https://twitter.com/gemko/status/338016031668850688
 Roger Koza            8
@@ -2480,7 +2480,7 @@ Eric Kohn           7         http://www.indiewire.com/article/with-only-lovers-
 
 UN CERTAIN REGARD
 
-"THE BLING RING" (Sofia COPPOLA) [Un Certain Regard]
+"The Bling Ring" (Sofia Coppola) [Un Certain Regard]
 Mike d'Angelo        3.2   http://www.avclub.com/articles/cannes-2013-day-one-sofia-coppola-offers-the-first,97832/
 Kevin Jagernauth     4     http://blogs.indiewire.com/theplaylist/cannes-review-sofia-coppola-the-bling-ring-a-mostly-empty-exercise-in-excess-20130516
 Roger Koza           5.5           
@@ -2578,7 +2578,7 @@ Till Kadritzke        6       http://www.critic.de/film/the-bling-ring-5396/
 Daniel Kasman         2.5     http://mubi.com/notebook/posts/cannes-2013-dialogues-sofia-coppolas-the-bling-ring
 Michael Kienzl        5       
 
-"FRUITVALE STATION" (Ryan COOGLER) [Un Certain Regard] UCR Avenir Prize
+"Fruitvale Station" (Ryan Coogler) [Un Certain Regard] UCR Avenir Prize <i>Sundance</i>
   Sundance - Main Prizes
 # metacritic
 Eric Kohn (Indiewire, USA) 8.3 http://www.indiewire.com/article/sundance-review-ryan-cooglers-fruitvale-renders-a-tragic-police-shooting-in-personal-terms
@@ -2664,7 +2664,7 @@ Blake Williams       4.0     https://twitter.com/Astrostic/status/33515790604133
 John Bleasdale       10      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-fruitvale.html
 Jo Ann Titmarsh      8        http://www.flickeringmyth.com/2013/05/66th-cannes-film-festival-review.html
 
-"L'INCONNU DU LAC (Stranger by the Lake)" (Alain GUIRAUDIE) [Un Certain Regard] UCR Best director, Queer Palm
+"L'inconnu du lac (Stranger by the Lake)" (Alain Guiraudie) [Un Certain Regard] UCR Best director, Queer Palm
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409923/year/2013.html
 Mike d'Angelo        5       http://www.avclub.com/articles/cannes-2013-day-two-iranian-director-asghar-farhad,97892/
 Roger Koza            10
@@ -2746,7 +2746,7 @@ Cédric Succivalli            http://icsfilm.org/news/198-cannes-2013-review-lin
 Geoff Andrews (Sight&Sound, UK)   http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-tough-acts-follow
 
 
-"MIELE" (Valeria GOLINO) [Un Certain Regard]
+"Miele" (Valeria Golino) [Un Certain Regard]
   (Italy premiered already Mai 1st)
 Lee Marshall (Screen Daily, USA)  http://www.screendaily.com/reviews/the-latest/miele/5054710.article?blocktitle=UN-CERTAIN-REGARD&contentID=40442
 Kevin Jagernauth     6        http://blogs.indiewire.com/theplaylist/cannes-review-death-lingers-lifts-in-thoughtful-miele-20130517
@@ -2787,7 +2787,7 @@ Michael Kienzl
 #
 John Bleasdale        4      http://www.cine-vue.com/2013/05/cannes-film-festival-2013-miele-review.html
 
-"GRAND CENTRAL" (Rebecca ZLOTOWSKI) [Un Certain Regard] François Chalais Prize
+"Grand Central" (Rebecca Zlotowski) [Un Certain Regard] François Chalais Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409904/year/2013.html
 Mike d'Angelo                 https://twitter.com/gemko/status/335789145567948802
 Roger Koza            
@@ -2866,7 +2866,7 @@ John Bleasdale       8      http://www.cine-vue.com/2013/05/cannes-film-festival
 Blake Williams       4.4    https://twitter.com/Astrostic/status/335713192271552514
 
 
-"BENDS" (Flora LAU) [Un Certain Regard]
+"Bends" (Flora Lau) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11404616/year/2013.html
 Mike d'Angelo              https://twitter.com/gemko/status/336075030393913344
 Diego Lerer           6
@@ -2886,7 +2886,7 @@ Adam Cook            5
 Tim Grierson                  http://www.screendaily.com/reviews/the-latest/bends/5056354.article?blocktitle=The-Latest&contentID=598
 Blake Williams       5.1      https://twitter.com/Astrostic/status/335754171531804675
 
-"L'IMAGE MANQUANTE (The missing picture)" (Rithy PANH) [Un Certain Regard] Top Prize UCR
+"L'image manquante (The missing picture)" (Rithy Panh) [Un Certain Regard] Top Prize UCR
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409770/year/2013.html
 Roger Koza            7.5
 Diego Batlle          7.5
@@ -2961,7 +2961,7 @@ Christophe Carriére
 # 
 Blake Williams        4.3     https://twitter.com/Astrostic/status/336159252731269120
 
-"DEATH MARCH" (Adolfo ALIX JR.) [Un Certain Regard]
+"Death March" (Adolfo Alix Jr.) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409819/year/2013.html
 Diego Lerer           4
 Ángel Quintana       6
@@ -2998,7 +2998,7 @@ Till Kadritzke
 Daniel Kasman        4
 Michael Kienzl       
 
-"OMAR" (Hany ABU-ASSAD) [Un Certain Regard] UCR Jury Prize
+"Omar" (Hany Abu-Assad) [Un Certain Regard] UCR Jury Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409601/year/2013.html
 Jose Luis De Lorenzo  5
 Dana Linssen          6
@@ -3028,7 +3028,7 @@ Ryland Aldrich        7       http://www.indiewire.com/film/omar
 Barbara Scharres              http://www.rogerebert.com/cannes/globe-trotting-cannes-report-may-23
 Wesley Morris               http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77535/cannes-diary-day-6-false-alarms-speed-dating-inside-llewyn-davis-and-a-last-tango-in-tikrit
 
-"AS I LAY DYING" (James FRANCO) [Un Certain Regard]
+"As I Lay Dying" (James Franco) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11406263/year/2013.html
 Mike d'Angelo         0     https://twitter.com/gemko/status/336597474598858752
 Roger Koza            5
@@ -3103,7 +3103,7 @@ Shaun Munro           0.5     http://www.filmschoolrejects.com/reviews/cannes-20
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/20/james-franco-as-i-lay-dying-review
 Logan Hill                    http://artsbeat.blogs.nytimes.com/2013/05/21/cannes-film-festival-james-franco-on-adapting-novels-and-multitasking/
 
-"SARAH PRÉFÈRE LA COURSE (SARAH PREFERS TO RUN)" (Chloé ROBICHAUD) [Un Certain Regard]
+"Sarah préfère la course (Sarah Prefers To Run)" (Chloé Robichaud) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409764/year/2013.html
 Jose Luis De Lorenzo  7.5
 Ángel Quintana       5
@@ -3132,7 +3132,7 @@ Christophe Carriére
 #
 Shaun Munro           6       http://www.filmschoolrejects.com/reviews/cannes-2013-review-sarah-prefers-to-run.php
 
-"LES SALAUDS (BASTARDS)" (Claire DENIS) [Un Certain Regard]
+"Les salauds (Bastards)" (Claire Denis) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409929/year/2013.html
 Mike d'Angelo         6.3     https://twitter.com/gemko/status/336976294615068675
 Roger Koza            8.5
@@ -3215,7 +3215,7 @@ Shaun Munro          1        http://www.filmschoolrejects.com/reviews/cannes-20
 Xan Brooks           4        http://www.guardian.co.uk/film/2013/may/21/les-salauds-cannes-2013
 Amy Taubin (Sight&Sound, UK)  http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2013-this-noir
 
-"WAKOLDA" (Lucía PUENZO) [Un Certain Regard]
+"Wakolda" (Lucía Puenzo) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11412006/year/2013.html
 Roger Koza            6
 Diego Batlle          7
@@ -3287,7 +3287,7 @@ Clementine Gallot     6       http://www.indiewire.com/film/wakolda
 Shaun Munro           1       http://www.filmschoolrejects.com/reviews/cannes-2013-review-wakolda.php
 Blake Williams        3.7     https://twitter.com/Astrostic/status/337204495811506176
 
-"LA JAULA DE ORO" (Diego QUEMADA-DIEZ) [Un Certain Regard] UCR A Certain Talent Prize
+"La jaula de oro" (Diego Quemada-Diez) [Un Certain Regard] UCR A Certain Talent Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409875/year/2013.html
 Diego Batlle          6
 Diego Lerer           6.5
@@ -3327,13 +3327,13 @@ Clementine Gallot     6       http://www.indiewire.com/film/la-jaula-de-oro
 Ryland Aldrich        6       http://www.indiewire.com/film/la-jaula-de-oro
 Peter Bradshaw                http://www.guardian.co.uk/film/2013/may/23/golden-cage-jaula-de-oro-review
 
-"MY SWEET PEPPER LAND" (Hiner SALEEM) [Un Certain Regard]
+"My Sweet Pepper Land" (Hiner Saleem) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11416039/year/2013.html
 José Luis Losa       1.5
 Robert Koehler        3.5
 Blake Williams        3.9     https://twitter.com/Astrostic/status/337450571181207552
 
-"NORTE, HANGGANAN NG KASAYSAYAN (NORTE, THE END OF HISTORY)" (Lav DIAZ) [Un Certain Regard]
+"Norte, Hangganan Ng Kasaysayan (Norte, the End of History)" (Lav Diaz) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409844/year/2013.html
 Roger Koza            
 Diego Batlle          6
@@ -3392,7 +3392,7 @@ Michael Kienzl       9
 Blake Williams       7.8      https://twitter.com/Astrostic/status/337565096823902209
 Wesley Morris                 http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77914/cannes-diary-day-9-alexander-paynes-gray-new-movie-and-finally-an-honest-to-goodness-masterpiece
 
-"TORE TANZT (NOTHING BAD CAN HAPPEN)" (Katrin GEBBE) [Un Certain Regard]
+"Tore Tanzt (Nothing Bad Can Happen)" (Katrin Gebbe) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11411998/year/2013.html
 Diego Batlle          3
 José Luis Losa       5.5
@@ -3412,7 +3412,7 @@ Daniel Kasman
 Michael Kienzl       5
 Blake Williams       0.6      https://twitter.com/Astrostic/status/337607129622007808
 
-"DAST-NEVESHTEHAA NEMISOOSAND (Manuscripts Don’t Burn)" (Mohammad RASOULOF) [Un Certain Regard] FIPRESCI Prize UCR
+"Dast-Neveshtehaa Nemisoosand (Manuscripts Don’t Burn)" (Mohammad Rasoulof) [Un Certain Regard] FIPRESCI Prize UCR
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/11409842/year/2013.html
 Roger Koza            7.5
 Diego Batlle          6.5
@@ -3427,7 +3427,7 @@ Javier H. Estrada     5.5
 
 OUT OF COMPETITION
 
-"ALL IS LOST" (J.C CHANDOR) [Out of Competition]
+"All Is Lost" (J.C Chandor) [Out of Competition]
 Mike d'Angelo         7.4     https://twitter.com/gemko/status/337170891639246848
 Diego Batlle          6.5
 Diego Lerer           6.5
@@ -3459,7 +3459,7 @@ Robbie Collin         6       http://www.telegraph.co.uk/culture/film/cannes-fil
 Peter Bradshaw        6       http://www.guardian.co.uk/film/2013/may/22/all-is-lost-review-cannes-2013
 
 
-"BLOOD TIES" (Guillaume CANET) [Out of Competition]
+"Blood Ties" (Guillaume Canet) [Out of Competition]
 Alex Vicente          5
 Ángel Quintana       5.5
 José Luis Losa       5
@@ -3481,7 +3481,7 @@ Shaun Munro           3      http://www.filmschoolrejects.com/reviews/cannes-201
 Xan Brooks           6       http://www.guardian.co.uk/film/2013/may/19/cannes-blood-ties-review
 Emanuel Levy         4       http://www.emanuellevy.com/review/blood-ties/
 
-"LE DERNIER DES INJUSTES (THE LAST OF THE UNJUST)" (Claude LANZMANN) [Out of Competition]
+"Le dernier des injustes (The Last of the Unjust)" (Claude Lanzmann) [Out of Competition]
 Roger Koza            10
 Diego Batlle          9
 Diego Lerer           8.5
@@ -3537,7 +3537,7 @@ Till Kadritzke
 Daniel Kasman         7.5        
 Michael Kienzl        7.5    
 
-"THE GREAT GATSBY" (Baz LUHRMANN) [Out of Competition]
+"The Great Gatsby" (Baz Luhrmann) [Out of Competition]
   (US premiered already May 7)
 Stephanie Zacharek (Village Voice, USA) 7 http://www.villagevoice.com/2013-05-08/film/gatsby-s-sometimes-great-but-not-always-good/full/
 Todd McCarthy (The Hollywood Reporter, USA) 7 http://www.hollywoodreporter.com/movie/great-gatsby/review/451988
@@ -3640,7 +3640,7 @@ Roman Vern            2
 Mehdi Omais           6
 #Philippe Rouyer      2
 
-"ZULU" (Jérôme SALLE) [Out of Competition]
+"Zulu" (Jérôme Salle) [Out of Competition]
 Jose Luis De Lorenzo  3.5
 Cecilia Martinez      2
 José Luis Losa       4.5
@@ -3653,7 +3653,7 @@ Raffi Asdourian       7       http://thefilmstage.com/reviews/cannes-review-zulu
 
 MIDNIGHT PROJECTIONS
 
-"MONSOON SHOOTOUT" (Amit KUMAR) [Out of Competition]
+"Monsoon Shootout" (Amit Kumar) [Out of Competition]
 Roger Koza            3
 Paolo Bertolin        7.5
 Alejandro G. Calvo    4
@@ -3663,7 +3663,7 @@ Ryland Aldrich        5      http://www.indiewire.com/film/monsoon-shootout
 Shaun Munro           1      http://www.filmschoolrejects.com/reviews/cannes-2013-review-monsoon-shootout.php
 Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/19/cannes-2013-monsoon-shootout-review
 
-"BLIND DETECTIVE (MAN TAM)" (Johnnie TO) [Out of Competition]
+"Blind Detective (Man Tam)" (Johnnie To) [Out of Competition]
 Mike d'Angelo        4.9      http://www.avclub.com/articles/cannes-2013-day-five-takashi-miike-schlocks-it-up,97957/
 Roger Koza            8
 Diego Batlle          4.5
@@ -3728,19 +3728,19 @@ Blake Williams        5.3    https://twitter.com/Astrostic/status/33653628609563
 
 SPECIAL SCREENINGS
 
-"STOP THE POUNDING HEART" (Roberto MINERVINI) [Special Screening]
+"Stop The Pounding Heart" (Roberto Minervini) [Special Screening]
 Carlo Chatrian        7.5
 
-"OTDAT KONCI (BITE THE DUST)" (Taisia IGUMENTSEVA) [Special Screening]
+"Otdat Konci (Bite the Dust)" (Taisia Igumentseva) [Special Screening]
 José Luis Losa       6.5
 Neil Young            5       http://www.hollywoodreporter.com/review/bite-dust-otdat-konci-cannes-524958
 Fernando Juan Lima    2
 Pablo O. Scholz       4
 Javier H. Estrada     6.5
 
-"BOMBAY TALKIES" (Zoya AKHTAR, Dibakar BANERJEE, Karan JOHAR, Anurag KASHYAP) [Special Screening]
+"Bombay Talkies" (Zoya Akhtar, Dibakar Banerjee, Karan Johar, Anurag Kashyap) [Special Screening]
 
-"SEDUCED AND ABANDONED" (James TOBACK) [Special Screening]
+"Seduced and Abandoned" (James Toback) [Special Screening]
 Mike d'Angelo        5.2      https://twitter.com/gemko/status/336076257953464321
 José Luis Losa       7
 Jaime Pena            6
@@ -3757,7 +3757,7 @@ Kevin Jagernauth     6       http://blogs.indiewire.com/theplaylist/review-seduc
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/19/cannes-seduced-and-abandoned-review
 Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parties-faulkner-and-cannibal-families
 
-"MUHAMMAD ALI'S GREATEST FIGHT" (Stephen FREARS) [Special Screening]
+"Muhammad Ali's Greatest Fight" (Stephen Frears) [Special Screening]
 Eulalia Iglesias     3.5
 José Luis Losa       2
 Rüdiger Suchsland    6
@@ -3767,14 +3767,14 @@ Logan Hill           2       http://www.indiewire.com/film/muhammad-alis-greates
 Xan Brooks           4       http://www.guardian.co.uk/film/2013/may/22/muhammad-ali-greatest-fight-cannes-2013
 Barbara Scharres              http://www.rogerebert.com/cannes/am-i-blue-cannes-report-may-22
 
-"WEEKEND OF A CHAMPION" (Frank SIMON) [Special Screening]
+"Weekend of a Champion" (Frank Simon) [Special Screening]
 Rüdiger Suchsland     8.5
 Neil Young            6.5
 # criticwire
 Ryland Aldrich        6      http://www.indiewire.com/film/weekend-of-a-champion
 Peter Bradshaw        6      http://www.guardian.co.uk/film/2013/may/21/cannes-2013-weekend-of-a-champion-review
 
-"MAX ROSE" (Daniel NOAH) [Special Screening]
+"Max Rose" (Daniel Noah) [Special Screening]
 Jaime Pena            4
 #
 Ryland Aldrich        0      https://twitter.com/RylandAldrich/status/337637358956589056
@@ -3782,8 +3782,7 @@ Michal Oleszczyk             http://www.rogerebert.com/cannes/everythings-coming
 
 SEMAINE DE LA CRITIC
 
-"AIN'T THEM BODIES SAINTS" (David Lowery) [Semaine]
-  (Sundance)
+"Ain't Them Bodies Saints" (David Lowery) [Semaine] <i>Sundance</i>
 Alex Vicente          6
 Carlo Chatrian        5
 Jaime Pena            6
@@ -3807,7 +3806,7 @@ Rodrigo Perez         8       http://www.indiewire.com/film/aint-them-bodies-sai
 Alex Billington       8       http://www.indiewire.com/film/aint-them-bodies-saints
 Till Kadritzke        7.5      
 
-"SALVO" (Fabio Grassadonia & Antonio Piazza) [Semaine] Semaine Grand Prix + France 4 Revelation Prize
+"Salvo" (Fabio Grassadonia & Antonio Piazza) [Semaine] Semaine Grand Prix + France 4 Revelation Prize
 Roger Koza            8
 Alex Vicente          8
 Violeta Kovacsics     6
@@ -3818,7 +3817,7 @@ Fernando Juan Lima    9
 Paolo Bertolin        8
 Javier H. Estrada     7
 
-"SUZANNE" (Katell Quillévéré) [Semaine]
+"Suzanne" (Katell Quillévéré) [Semaine]
 Diego Lerer           6.5
 Alex Vicente          6
 Ángel Quintana       7.5
@@ -3833,25 +3832,25 @@ Till Kadritzke       5
 Daniel Kasman        
 Michael Kienzl       
 
-"LE DÉMANTÈLEMENT (The Dismantling)" (Sébastien Pilote) [Semaine] Semaine best screenplay
+"Le démantèlement (The Dismantling)" (Sébastien Pilote) [Semaine] Semaine best screenplay
 Alex Vicente          6
 Robert Koehler        2
 
-"FOR THOSE IN PERIL" (Paul Wright) [Semaine]
+"For Those In Peril" (Paul Wright) [Semaine]
 Alex Vicente          3
 Kieron Corless        1.5
 Robert Koehler        4
 #
 Peter Bradshaw       6        http://www.guardian.co.uk/film/2013/may/18/cannes-for-those-in-peril-review
 
-"THE LUNCHBOX (Dabba)" (Ritesh Batra) [Semaine] Rails d’Or (critics week viewers choice award)
+"The Lunchbox (Dabba)" (Ritesh Batra) [Semaine] Rails d’Or (critics week viewers choice award)
 Alex Vicente          7
 Carlo Chatrian        6.5
 Robert Koehler        7
 Dana Linssen          4.5
 Paolo Bertolin        8
 
-"LES RENCONTRES D’APRÈS MINUIT" (Yann Gonzalez) [Semaine]
+"Les rencontres d’après minuit" (Yann Gonzalez) [Semaine]
 Alex Vicente          6
 Fernando Ganzo        6
 Kieron Corless        6.5
@@ -3866,7 +3865,7 @@ Alvaro Arroba         6.5
 Adam Cook             5       
 Arnaud Hée            6       
 
-"LOS DUEÑOS" (Agustín Toscano & Ezequiel Radusky) [Semaine] Lobende Erwaehnung
+"Los dueños" (Agustín Toscano & Ezequiel Radusky) [Semaine] Lobende Erwaehnung
 Roger Koza            7.5
 Diego Batlle          7.5
 Diego Lerer           6.5
@@ -3878,14 +3877,14 @@ Robert Koehler        6.5
 Fernando Juan Lima    7.5
 Pablo O. Scholz       7
 
-"NOS HÉROS SONT MORTS CE SOIR" (David Perrault) [Semaine]
+"Nos héros sont morts ce soir" (David Perrault) [Semaine]
 Roger Koza            4
 Alex Vicente          2
 José Luis Losa       2.5
 Robert Koehler        3
 Javier H. Estrada     5
 
-"THE MAJOR" (Yury Bykov) [Semaine]
+"The Major" (Yury Bykov) [Semaine]
 Alex Vicente          4
 
 "3X3D" (Peter Greenaway, Jean-Luc Godard & Edgar Perâ) [Semaine]
@@ -3912,7 +3911,7 @@ Blake Williams       7.0      https://twitter.com/Astrostic/status/3357776271367
 
 QUINZAINE
 
-"THE CONGRESS" (Ari Folman) [Quinzaine]
+"The Congress" (Ari Folman) [Quinzaine]
 Jessica Kiang        4.5  http://blogs.indiewire.com/theplaylist/cannes-review-ari-folmans-the-congress-has-too-a-little-too-much-of-everything-20130516
 Guy Lodge            5	  http://www.hitfix.com/in-contention/review-robin-wright-gets-animated-in-messy-sometimes-mesmerising-the-congress
 Alex Vicente          5
@@ -3941,7 +3940,7 @@ Blake Williams       5.2      https://twitter.com/Astrostic/status/3360019132985
 Xan Brooks           6        http://www.guardian.co.uk/film/2013/may/16/the-congress-review
 Raffi Asdourian      8        http://thefilmstage.com/reviews/cannes-review-the-congress/
 
-"THE SELFISH GIANT" (Clio Barnard) [Quinzaine]  Best European film
+"The Selfish Giant" (Clio Barnard) [Quinzaine]  Best European film
 Mike d'Angelo         6.8        http://www.avclub.com/articles/cannes-2013-day-three,97927/
 Diego Batlle          7.5
 Diego Lerer           7
@@ -3963,7 +3962,7 @@ Blake Williams        5.8        https://twitter.com/Astrostic/status/3354678460
 Peter Bradshaw        8          http://www.guardian.co.uk/film/2013/may/17/the-selfish-giant-cannes-2013-review
 Stephanie Zacharek               http://www.villagevoice.com/2013-05-15/film/the-selfish-giant-review-cannes/
 
-"UN VOYAGEUR (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
+"Un voyageur (Ain't Misbehavin)" (Marcel Ophuls) [Quinzaine]
 Roger Koza            6
 Diego Batlle          8
 Eulalia Iglesias     6
@@ -3987,14 +3986,14 @@ Till Kadritzke
 Daniel Kasman        4       
 Michael Kienzl       
 
-"UGLY" (Anurag Kashyap) [Quinzaine]
+"Ugly" (Anurag Kashyap) [Quinzaine]
 Kieron Corless       3
 Paolo Bertolin        8
 Javier H. Estrada     6
 Christoph Huber      6       
 Frédéric Jaeger      2.5     
 
-"BLUE RUIN" (Jeremy Saulnier) [Quinzaine] FIPRESCI Prize parallel sections
+"Blue Ruin" (Jeremy Saulnier) [Quinzaine] FIPRESCI Prize parallel sections
 Eulalia Iglesias     6.5
 Ángel Quintana       6
 Cristina Nord         6.5
@@ -4007,7 +4006,7 @@ Eric Kohn                    http://www.indiewire.com/article/how-brooklyn-based
 Blake Williams        5.0    https://twitter.com/Astrostic/status/336484904428781569
 
 
-"LA DANZA DE LA REALIDAD (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
+"La danza de la realidad (The Dance of Reality)" (Alejandro Jodorowsky) [Quinzaine]
 Roger Koza            1
 Jose Luis De Lorenzo  10
 Cecilia Martinez      6
@@ -4028,13 +4027,13 @@ Christoph Huber      9
 Daniel Kasman        6       
 Michael Kienzl       5
 # criticwire       
-Alex Billington      5       http://www.indiewire.com/film/la-danza-de-la-realidad
+cAlex Billington      5       http://www.indiewire.com/film/la-danza-de-la-realidad
 Eric Kohn             7        http://www.indiewire.com/article/cannes-review-the-dance-of-reality-alejandro-jodorworskys-first-film-in-23-years-is-a-wacky-intimate-return-to-form
 Craig Skinner        9       http://www.indiewire.com/film/la-danza-de-la-realidad
 Peter Bradshaw       8       http://www.guardian.co.uk/film/2013/may/18/cannes-2013-alejandro-jodorowsky-reality-dance
 Raffi Asdourian      6       http://thefilmstage.com/reviews/cannes-review-the-dance-of-reality/
 
-"JODOROWSKY'S DUNE" (Frank Pavich) [Quinzaine]
+"Jodorowsky's Dune" (Frank Pavich) [Quinzaine]
 Roger Koza            5
 Eulalia Iglesias     5.5
 José Luis Losa       6
@@ -4047,12 +4046,12 @@ Pamela Bienzobas      6
 Raffi Asdourian      7    http://thefilmstage.com/reviews/cannes-review-jodorowskys-dune/
 Alex Billington      8    http://www.indiewire.com/film/jodorowskys-dune
 
-"ILO ILO" (Anthony Chen) [Quinzaine] Camera d'Or (best first feature)
+"Ilo Ilo" (Anthony Chen) [Quinzaine] Camera d'Or (best first feature)
 Robert Koehler        7.5
 Paolo Bertolin        7.5
 Javier H. Estrada     6.5
 
-"TIP TOP" (Serge Bozon) [Quinzaine] Special mention
+"Tip Top" (Serge Bozon) [Quinzaine] Special mention
 Roger Koza            5.5
 Diego Batlle          6.5
 Diego Lerer           7
@@ -4083,7 +4082,7 @@ Glenn Heath Jr       7        http://www.indiewire.com/film/tip-top
 Blake Williams       6.0      https://twitter.com/Astrostic/status/336087169171066881
 Henry Barnes (Guardian, UK)   4    http://www.guardian.co.uk/film/2013/may/19/cannes-2013-tip-top-review
 
-"L'ESCALE (Stop-over)" (Kaveh Bakhtiari) [Quinzaine]
+"L'escale (Stop-over)" (Kaveh Bakhtiari) [Quinzaine]
 José Luis Losa       4.5
 Carlo Chatrian        6.5
 Robert Koehler        3.5
@@ -4093,14 +4092,14 @@ Javier H. Estrada     5
 # 
 Blake Williams        3.9     https://twitter.com/Astrostic/status/336124896327397377
 
-"EL VERANO DE LOS PECES VOLADORES (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
+"El verano de los peces voladores (The Summer of Flying Fish)" (Marcela Said) [Quinzaine]
 Roger Koza            6.5
 Diego Lerer           7
 Eulalia Iglesias     6.5
 Robert Koehler        4.5
 Pamela Bienzobas      6.5
 
-"LES GARÇONS ET GUILLAUME, À TABLE ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine] Art Cinema Award + Prix SACD
+"Les garçons et Guillaume, à table ! (Me Myself and Mum)" (Guillaume Gallienne) [Quinzaine] Art Cinema Award + Prix SACD
 Carlo Chatrian        4
 Robert Koehler        6.5
 #
@@ -4111,20 +4110,19 @@ Franck Nouchi (Le Monde, France)    http://www.lemonde.fr/festival-de-cannes-201
 Olivier Séguret (Liberation, France) http://next.liberation.fr/cinema/2013/05/20/gallienne-a-la-colle-maternelle_904360
 Laurent Delmas               http://www.franceinter.fr/blog-le-blog-de-laurent-delmas-itineraire-dun-enfant-pas-gay
 
-"THE LAST DAYS ON MARS" (Ruairí Robinson) [Quinzaine]
+"The Last Days On Mars" (Ruairí Robinson) [Quinzaine]
 Kieron Corless        4.5
 Robert Koehler        4.5
 Javier H. Estrada     2.5
 Arnaud Hée            2.5       
 
-"A STRANGE COURSE OF EVENTS" (Raphaël Nadjari) [Quinzaine]
+"A Strange Course of Events" (Raphaël Nadjari) [Quinzaine]
 José Luis Losa       2
 Robert Koehler        1.5
 Paolo Bertolin        3
 Javier H. Estrada     4
 
-"WE ARE WHAT WE ARE" (Jim Mickle) [Quinzaine]
-  (Sundance Midnight)
+"We Are What We Are" (Jim Mickle) [Quinzaine] <i>Sundance</i>
 Eric Kohn            9.1      http://www.indiewire.com/article/review_survival_of_the_trimmest_mexican_cannibalism_as_metaphor_in_we_are_w/
 Keith Uhlich         2        http://newyork.timeout.com/arts-culture/film/924889/we-are-what-we-are
 Tim Grierson (Screen Daily, USA)   http://www.screendaily.com/reviews/the-latest/we-are-what-we-are/5055835.article?blocktitle=DIRECTORS'-FORTNIGHT&contentID=40446
@@ -4138,7 +4136,7 @@ Javier H. Estrada     4.5
 #
 Ben Kenigsberg               http://www.rogerebert.com/cannes/cannes-yacht-parties-faulkner-and-cannibal-families
 
-"ATÉ VER A LUZ" (Basil da Cunha) [Quinzaine]
+"Até ver a luz" (Basil da Cunha) [Quinzaine]
 Kieron Corless        5
 Carlo Chatrian        7
 Jaime Pena            5.5
@@ -4147,11 +4145,11 @@ Paolo Moretti         5
 Javier H. Estrada     4
 Blake Williams         5.5     https://twitter.com/Astrostic/status/337127683970441216
 
-"LES APACHES" (Thierry de Peretti) [Quinzaine]
+"Les apaches" (Thierry de Peretti) [Quinzaine]
 Javier H. Estrada     6.5
 Blake Williams         4.3     https://twitter.com/Astrostic/status/337172984945049602
 
-"LA FILLE DU 14 JUILLET (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
+"La fille du 14 juillet (The Rendez-Vous of Déjà-Vu)" (Antonin Peretjatko) [Quinzaine]
 Fernando Ganzo        8.5
 Kieron Corless        2.5
 Carlo Chatrian        5
@@ -4162,8 +4160,7 @@ Alvaro Arroba         8.5
 #
 Arnaud Hée            5  
 
-"MAGIC MAGIC" (Sebastián Silva) [Quinzaine]
-  (Sundance)
+"Magic Magic" (Sebastián Silva) [Quinzaine] <i>Sundance</i>
 Carlo Chatrian        4.5
 Carlos F. Heredero    2
 Robert Koehler        2
@@ -4188,13 +4185,13 @@ Joe Bendel           4       http://www.indiewire.com/film/magic-magic
 Eric Kohn            4       http://www.indiewire.com/film/magic-magic
 Arnaud Hée           2.5     
 
-"ON THE JOB" (Erik Matti) [Quinzaine]
+"On the Job" (Erik Matti) [Quinzaine]
 Neil Young            6.5
 Paolo Bertolin        8
 Javier H. Estrada     6
 Michael Kienzl       7.5
 
-"HENRI" (Yolande Moreau) [Quinzaine]
+"Henri" (Yolande Moreau) [Quinzaine]
 Diego Batlle          4.5
 Diego Lerer           5
 Neil Young            5
