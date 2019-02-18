@@ -1,5 +1,4 @@
 package Cannes::rurban::2012; # -*- perl -*-
-#!/usr/bin/perl
 # Cannes 2012 Critics Ratings, collected by Diego Lerer, ioncinema, indiewire and Reini Urban
 # Recalc and sort ratings by all cannes critics from
 # http://micropsia.otroscines.com/2012/05/cannes-2012-arrancan-los-votos-de-la-critica/
@@ -11,7 +10,7 @@ package Cannes::rurban::2012; # -*- perl -*-
 # Published at http://cannes-ratings.herokuapp.com/2012, static at 
 # http://rurban.xarch.at/film/Cannes2012.sorted.html
 # and https://github.com/rurban/cannes-critics-ratings
-# Perl script by Reini Urban (c) 2010, 2011, 2012
+# Perl script by Reini Urban (c) 2010-2012
 # US ratings:
 # A+ 10   A 9   A- 8
 # B+ 7    B 6   B- 5
@@ -24,7 +23,7 @@ package Cannes::rurban::2012; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-"MOONRISE KINGDOM" (Wes Anderson) [Competition]
+"Moonrise Kingdom" (Wes Anderson) [Competition]
 Alejandro G. Calvo 7.5
 Alex Vicente 8
 Alexandra Zawia 6
@@ -160,7 +159,7 @@ Manohla Dargis (New York Times, USA) 7
 Glenn Kenny (MSN Movies, USA) 10
 Derek Malcolm (London Evening Standard, UK) 6
 
-"DE ROUILLE ET D'OS (RUST AND BONE)" (Jacques Audiard) [Competition]
+"De rouille et d'os (Rust and Bone)" (Jacques Audiard) [Competition]
 Alejandro G. Calvo 4
 Alex Vicente 5
 Alexandra Zawia 4.5
@@ -259,7 +258,7 @@ David Gritten (The Telegraph, UK) 8
 Emanuel Levy 7 B+
 Derek Malcolm (London Evening Standard, UK) 8
 
-"HOLY MOTORS" (Leos Carax) [Competition]
+"Holy Motors" (Leos Carax) [Competition]
 Alejandro G. Calvo 9
 Alex Vicente 8
 Alexandra Zawia 7.7
@@ -376,7 +375,7 @@ Simon Gallagher 7 B+
 Drew McWeeny 10 A+
 Derek Malcolm (London Evening Standard, UK) 4
 
-"COSMOPOLIS" (David Cronenberg) [Competition]
+"Cosmopolis" (David Cronenberg) [Competition]
 Alejandro G. Calvo 9.9
 Alex Vicente 7
 Alexandra Zawia 5.9
@@ -472,7 +471,7 @@ Mathieu Carratier (Premiere, France) 7.5 (3/4)
 # (Phychologies, Russia) 9 (4/4)
 Peter Bradshaw 4
 
-"THE PAPERBOY" (Lee Daniels) [Competition]
+"The Paperboy" (Lee Daniels) [Competition]
 Alejandro G. Calvo 1
 Alexandra Zawia 3.5
 Carlo Chatrian 4
@@ -578,7 +577,7 @@ Peter Bradshaw (Guardian, UK) 8
 Xan Brooks (Guardian, UK) 0
 Simon Gallagher 4 C+
 
-"KILLING THEM SOFTLY" (Andrew Dominik) [Competition]
+"Killing Them Softly" (Andrew Dominik) [Competition]
 Alejandro G. Calvo 8
 Alex Vicente 5
 Alexandra Zawia 5
@@ -681,7 +680,7 @@ Simon Gallagher 8 A-
 Mark Adams (Screen Daily, USA) 8
 Robbie Collins 10
 
-"REALITY" (Matteo Garrone) [Competition] Grand Prix
+"Reality" (Matteo Garrone) [Competition] Grand Prix
 Alejandro G. Calvo 4.8
 Alex Vicente 4
 Alexandra Zawia 6.5
@@ -773,7 +772,7 @@ Simon Gallagher 7 B+
 Robbie Collins (The Telegraph, UK) 8
 Emanuel Levy 4 C+
 
-"AMOUR (LOVE)" (Michael Haneke) [Competition] Palme d'Or
+"Amour (Love)" (Michael Haneke) [Competition] Palme d'Or
 Alejandro G. Calvo 6
 Alex Vicente 9
 Alexandra Zawia 7.2
@@ -874,7 +873,7 @@ Anne Thompson 9 A
 # Other:
 Peter Bradshaw 10
 
-"LAWLESS" (John Hillcoat) [Competition]
+"Lawless" (John Hillcoat) [Competition]
 Alejandro G. Calvo 6.2
 Alex Vicente 4
 Alexandra Zawia 4
@@ -972,7 +971,7 @@ Simon Gallagher 10 A+
 Robbie Collins (The Telegraph, UK) 6
 Ruta Buciunaite 10
 
-"DA-REUN NA-RA-E-SUH (IN ANOTHER COUNTRY)" (Hong Sangsoo) [Competition]
+"Da-reun na-ra-e-suh (In Another Country)" (Hong Sangsoo) [Competition]
 Alejandro G. Calvo 8.5
 Alex Vicente 6
 Alexandra Zawia 8.3
@@ -1074,7 +1073,7 @@ Sarah Watt
 # Other:
 Peter Bradshaw 6
 
-"DO-NUI MAT (TASTE OF MONEY)" (Im Sangsoo) [Competition]
+"Do-nui mat (Taste of Money)" (Im Sangsoo) [Competition]
 Alejandro G. Calvo 3.6
 Alexandra Zawia 1.5
 Boris Nelepo 1
@@ -1142,7 +1141,7 @@ Pascal Merigeau
 Danielle Attali 
 Christophe Carriére 
 
-"LIKE SOMEONE IN LOVE" (Abbas Kiarostami) [Competition]
+"Like Someone In Love" (Abbas Kiarostami) [Competition]
 Alejandro G. Calvo 10
 Alex Vicente 5
 Alexandra Zawia 9
@@ -1242,7 +1241,7 @@ Sarah Watt 4 C+
 # Other:
 Peter Bradshaw 4
 
-"THE ANGELS' SHARE" (Ken Loach) [Competition] Jury Price
+"The Angels' Share" (Ken Loach) [Competition] Jury Price
  Two of the jury members laughed through half the film. A promising young director indeed
 Alejandro G. Calvo 3.4
 Alex Vicente 3
@@ -1347,7 +1346,7 @@ Allan Hunter (Screen Daily, USA) 6
 Simon Gallagher 9 A
 Derek Malcolm (London Evening Standard, UK) 8
 
-"IM NEBEL (IN THE FOG)" (Sergei Loznitsa) [Competition] Fipresci Price
+"Im Nebel (In the Fog)" (Sergei Loznitsa) [Competition] Fipresci Price
 Alejandro G. Calvo 7.4
 Alexandra Zawia 8
 Arthur Mas 7.1
@@ -1427,7 +1426,7 @@ Anna Tatarska 7 B+
 # Other:
 Peter Bradshaw 8
 
-"BEYOND THE HILLS" (Cristian Mungiu) [Competition] Best screenplay + actresses
+"Beyond The Hills" (Cristian Mungiu) [Competition] Best screenplay + actresses
 Alejandro G. Calvo 9.4
 Alexandra Zawia 7
 Carlo Chatrian 6.02
@@ -1520,7 +1519,7 @@ Eric D. Snider 1 D
 Drew McWeeny (InContention, USA) 2 C-
 Peter Bradshaw 8
 
-"BAAD EL MAWKEAA (AFTER THE BATTLE)" (Yousry Nasrallah) [Competition]
+"Baad El Mawkeaa (After the Battle)" (Yousry Nasrallah) [Competition]
 Alejandro G. Calvo 3
 Alexandra Zawia 3
 Boris Nelepo 7.5
@@ -1607,7 +1606,7 @@ Michal Oleszczyk 0 F
 # Other:
 David Gritten (The Telegraph, UK) 4
 
-"MUD" (Jeff Nichols) [Competition]
+"Mud" (Jeff Nichols) [Competition]
 Alejandro G. Calvo 7.5
 Alex Vicente 7.5
 Alexandra Zawia 6.8
@@ -1707,7 +1706,7 @@ Sarah Watt
 # Other:
 Peter Bradshaw 6
 
-"VOUS N'AVEZ ENCORE RIEN VU (YOU AIN'T SEEN NOTHIN' YET)" (Alain Resnais) [Competition]
+"Vous n'avez encore rien vu (You Ain't Seen Nothin' Yet)" (Alain Resnais) [Competition]
 Alejandro G. Calvo 4.9
 Alex Vicente 4
 Alexandra Zawia 5.7
@@ -1802,7 +1801,7 @@ Sarah Watt
 # Other:
 Peter Bradshaw 4
 
-"POST TENEBRAS LUX" (Carlos Reygadas) [Competition] Best director
+"Post Tenebras Lux" (Carlos Reygadas) [Competition] Best director
 Alejandro G. Calvo 4
 Alex Vicente 6
 Alexandra Zawia 5.9
@@ -1913,7 +1912,7 @@ Sarah Watt
 # Other:
 Peter Bradshaw 4
 
-"ON THE ROAD" (Walter Salles) [Competition]
+"On the Road" (Walter Salles) [Competition]
 Alejandro G. Calvo 3.5
 Alex Vicente 5
 Alexandra Zawia 4
@@ -2026,7 +2025,7 @@ Sarah Watt
 Simon Gallagher 2 C-
 Lee Marshall (Screen Daily, USA) 4
 
-"PARADIES : Liebe (PARADISE : Love)" (Ulrich Seidl) [Competition]
+"Paradies : Liebe (Paradise : Love)" (Ulrich Seidl) [Competition]
 Alejandro G. Calvo 3
 Alexandra Zawia 6
 Arthur Mas 7.7
@@ -2122,7 +2121,7 @@ Simon Gallagher 2 C-
 Ruta Buciunaite 8
 Emanuel Levy 4 C+
 
-"JAGTEN (THE HUNT)" (Thomas Vinterberg) [Competition] Ecumenical Jury Award + Actor
+"Jagten (The Hunt)" (Thomas Vinterberg) [Competition] Ecumenical Jury Award + Actor
 Alejandro G. Calvo 5.1
 Alex Vicente 3
 Alexandra Zawia 5
@@ -2212,7 +2211,7 @@ Peter Bradshaw 8
 Ruta Buciunaite 10
 Simon Gallagher 10 A+
 
-"THERESE DESQUEYROUX" (Claude Miller) [Out of Competition]
+"Therese Desqueyroux" (Claude Miller) [Out of Competition]
  forgotten in the todoslascriticas spreadsheet
 # IonCinema:
 Christophe Beney 
@@ -2252,7 +2251,7 @@ Simon Abrams 3 C
 
 UN CERTAIN REGARD
 
-"MYSTERY" (Lou Ye) [Un Certain Regard]
+"Mystery" (Lou Ye) [Un Certain Regard]
 Boris Nelepo 1.5
 Carlos F. Heredero 4
 Carlos Reviriego 3
@@ -2306,7 +2305,7 @@ Blake Williams 4 C+
 Peter Bradshaw 6
 Simon Gallagher 6 B
 
-"MISS LOVELY" (Ashim Ahluwalia) [Un Certain Regard]
+"Miss Lovely" (Ashim Ahluwalia) [Un Certain Regard]
 Carlo Chatrian 6.05
 Carlos Reviriego 4
 Diego Lerer 4.4
@@ -2335,7 +2334,7 @@ Pascal Merigeau
 Danielle Attali 
 Christophe Carriére 
 
-"LA PLAYA D.C." (Juan Andrés Arango) [Un Certain Regard]
+"La playa D.C." (Juan Andrés Arango) [Un Certain Regard]
 Alejandro G. Calvo 5
 Carlo Chatrian 5.8
 Carlos F. Heredero 6
@@ -2371,7 +2370,7 @@ Pascal Merigeau
 Danielle Attali 
 Christophe Carriére 
 
-"LES CHEVAUX DE DIEU (GOD'S HORSES)" (Nabil Ayouch) [Un Certain Regard]
+"Les chevaux de dieu (God's Horses)" (Nabil Ayouch) [Un Certain Regard]
 Alejandro G. Calvo 1
 Carlos F. Heredero 6
 Carlos Reviriego 2
@@ -2399,7 +2398,7 @@ Christophe Carriére
 Kaleen Aftab 7 B+
 Ryland Aldrich 5 B-
 
-"TROIS MONDES (THREE WORLDS)" (Catherine Corsini) [Un Certain Regard]
+"Trois mondes (Three Worlds)" (Catherine Corsini) [Un Certain Regard]
 Carlo Chatrian 2
 Diego Batlle 5.5
 Diego Lerer 4.8
@@ -2423,7 +2422,7 @@ Christophe Carriére
 # Indiewire: (1)
 Blake Williams 3 C
 
-"ANTIVIRAL" (Brandon Cronenberg) [Un Certain Regard]
+"Antiviral" (Brandon Cronenberg) [Un Certain Regard]
 Alejandro G. Calvo 6
 Alex Vicente 3
 Boris Nelepo 2
@@ -2495,7 +2494,7 @@ Blake Williams 3 C
 James Rocchi 5
 Simon Gallagher 7 B+
 
-"7 DIAS EN LA HABANA" (BDT, PT, JM, ES, JCT, GN y LC) [Un Certain Regard]
+"7 dias en la Habana" (BDT, PT, JM, ES, JCT, GN y LC) [Un Certain Regard]
 Alex Vicente 3
 Carlos F. Heredero 4.5
 Carlos Reviriego 3.5
@@ -2527,7 +2526,7 @@ Blake Williams 2 C-
 Mike d'Angelo 4.6 - Suleiman's film is typically good, Noé's is scary-sensual, everything else is passable to dreck to Medem.
 
 
-"LE GRAND SOIR" (Benoit Delépine & Gustave Kervern) [Un Certain Regard] UCR Jury Price
+"Le grand soir" (Benoit Delépine & Gustave Kervern) [Un Certain Regard] UCR Jury Price
 Carlo Chatrian 7.4
 Dana Linssen 6.1
 Diego Batlle 8.3
@@ -2557,7 +2556,7 @@ Christophe Carriére 7.5
 Michael Ghennam 7 B+
 Aaron Hillis 4 C+
 
-"LAURENCE ANYWAYS" (Xavier Dolan) [Un Certain Regard]
+"Laurence Anyways" (Xavier Dolan) [Un Certain Regard]
 Alex Vicente 7.5
 Alexandra Zawia 3.5
 Arthur Mas 5
@@ -2616,7 +2615,7 @@ Eric Kohn 4 C+
 Simon Gallagher 2 C-
 Ruta Buciunaite 8
 
-"DESPUES DE LUCIA" (Michel Franco) [Un Certain Regard] Top Price UCR
+"Despues de lucia" (Michel Franco) [Un Certain Regard] Top Price UCR
 Carlo Chatrian 2.01
 Diego Batlle 2
 Diego Lerer 2.5
@@ -2642,7 +2641,7 @@ Christophe Carriére
 # Indiewire: (1)
 Kaleen Aftab 8 A-
 
-"AIMER À PERDRE LA RAISON (OUR CHILDREN/LOVING WITHOUT REASON)" (Joachim Lafosse) [Un Certain Regard]
+"Aimer à perdre la raison (Our Children/Loving Without Reason)" (Joachim Lafosse) [Un Certain Regard]
 Alex Vicente 7
 Carlo Chatrian 7
 Eulalia Iglesias 6.1
@@ -2675,7 +2674,7 @@ Michael Ghennam 5 B
 Frédéric Jaeger 3 C
 Blake Williams 3 C
 
-"STUDENT" (Darezhan Omirbayev) [Un Certain Regard]
+"Student" (Darezhan Omirbayev) [Un Certain Regard]
 Alexandra Zawia 8
 Arthur Mas 8.2
 Boris Nelepo 7
@@ -2712,7 +2711,7 @@ Pascal Merigeau
 Danielle Attali 
 Christophe Carriére 
 
-"LA PIROGUE" (Moussa Toure) [Un Certain Regard]
+"La pirogue" (Moussa Toure) [Un Certain Regard]
 Carlo Chatrian 5.05
 Diego Batlle 6
 Diego Lerer 5.6
@@ -2736,7 +2735,7 @@ Christophe Carriére
 # Indiewire: (1)
 Blake Williams 4 C+
 
-"ELEFANTE BLANCO" (Pablo Trapero) [Un Certain Regard]
+"Elefante blanco" (Pablo Trapero) [Un Certain Regard]
 Alejandro G. Calvo 6
 Alexandra Zawia 5.5
 Carlos F. Heredero 4.5
@@ -2778,7 +2777,7 @@ Patrick Z. McGavin 3 C
 # Other:
 Ruta Buciunaite 6
 
-"CONFESSION OF A CHILD OF THE CENTURY" (Sylvie Verheyde) [Un Certain Regard]
+"Confession of a Child of the Century" (Sylvie Verheyde) [Un Certain Regard]
 Alexandra Zawia 3
 Carlo Chatrian 4.01
 Carlos F. Heredero 3
@@ -2805,7 +2804,7 @@ Christophe Carriére
 # Other:
 Catherine Shoard (Guardian, UK) 2
 
-"11.25 THE DAY MISHIMA CHOSE HIS OWN FATE" (Koji Wakamatsu) [Un Certain Regard]
+"11.25 The Day Mishima Chose His Own Fate" (Koji Wakamatsu) [Un Certain Regard]
 Alejandro G. Calvo 5
 Arthur Mas 9
 Carlos F. Heredero 1
@@ -2843,7 +2842,7 @@ Pascal Merigeau
 Danielle Attali 
 Christophe Carriére 
 
-"BEASTS OF THE SOUTHERN WILD" (Benh Zeitlin) [Un Certain Regard] Fipresci Price UCR + Camera d'Or (best first feature)
+"Beasts of the Southern Wild" (Benh Zeitlin) [Un Certain Regard] Fipresci Price UCR + Camera d'Or (best first feature) <i>Sundance</i>
   Sundance
 Alejandro G. Calvo 4
 Alex Vicente 7
@@ -2943,7 +2942,7 @@ Sarah Watt
 # Other:
 Guy Lodge 6 B
 
-"DJECA" (Aida Begic) [Un Certain Regard] UCR Special Jury Mention
+"Djeca" (Aida Begic) [Un Certain Regard] UCR Special Jury Mention
 Cristina Nord 4.8
 Dana Linssen 5.9
 Diego Batlle 7
@@ -2973,8 +2972,7 @@ Christophe Carriére
 # Other:
 Peter Bradshaw 6
 
-"GIMME THE LOOT" (Adam Leon) [Un Certain Regard]
-  SXSW
+"Gimme the Loot" (Adam Leon) [Un Certain Regard] <i>SXSW</i>
 Carlos F. Heredero 4
 Carlos Reviriego 6
 Diego Batlle 7.3
@@ -3007,7 +3005,7 @@ Andrew Schenker (Slant, USA) 6.5
 Reini Urban (facebook, Austria) 4
 Simon Gallagher 6 B
 
-"RENOIR" (Gilles Bourdos) [Un Certain Regard]
+"Renoir" (Gilles Bourdos) [Un Certain Regard]
 Carlos Reviriego 5.5
 Manu Yáñez 5
 Roger Alan Koza  5.8
@@ -3030,21 +3028,21 @@ Christophe Carriére
 
 SEMANA DE LA CRÍTICA
 
-"BROKEN" (Rufus Norris) [Semaine]
+"Broken" (Rufus Norris) [Semaine]
 Jaime Pena 3
 Pedro Butcher 1.5
 # Other:
 Peter Bradshaw 4
 Derek Malcolm (London Evening Standard, UK) 6
 
-"AQUÍ Y ALLÁ" (Antonio Méndez Esparza) [Semaine] Semaine Grand Prize
+"Aquí y allá" (Antonio Méndez Esparza) [Semaine] Semaine Grand Prize
 Carlos F. Heredero 6.5
 Jaime Pena 5
 Neil Young 4
 Pamela Bienzobas 4
 Roger Alan Koza  4.7
 
-"AU GALOP" (LouisDo de Lencquesaing) [Semaine]
+"Au galop" (LouisDo de Lencquesaing) [Semaine]
 Carlos Reviriego 6.7
 Fernando Juan Lima 8
 Gonzalo de Pedro 5
@@ -3052,23 +3050,22 @@ Martial Pisani 3.1
 Pamela Bienzobas 5
 Philipp Engel 8
 
-"LES VOISINS DE DIEU" (Meni Yaesh) [Semaine] Gaul's Society of Authors, Directors and Composers award
+"Les voisins de dieu" (Meni Yaesh) [Semaine] Gaul's Society of Authors, Directors and Composers award
 Eulalia Iglesias 3.5
 Rüdiger Suchsland  7
  
-"HORS LES MURS" (Damien Lambert) [Semaine]
+"Hors les murs" (Damien Lambert) [Semaine]
 Fernando Juan Lima 2
 Pamela Bienzobas 4
 
-"PEDDLERS" (Vasan Bala) [Semaine]
+"Peddlers" (Vasan Bala) [Semaine]
 Carlo Chatrian 5.5
 Jaime Pena 5.5
 Javier H. Estrada 6.3
 Pamela Bienzobas 3
 Sergio Wolf 6
 
-"LOS SALVAJES" (Alejandro Fadel) [Semaine] ACID/CCAS support price for distribution
-  BAFICI2012
+"Los salvajes" (Alejandro Fadel) [Semaine] ACID/CCAS support price for distribution <i>BAFICI</i>
 Alejandro G. Calvo 7
 Carlo Chatrian 5
 Diego Batlle 8.5
@@ -3082,15 +3079,15 @@ Roger Alan Koza  7.2
 Sergio Wolf 8
 Violeta Kovacsics 7
 
-"SOFIA'S LAST AMBULANCE" (Ilian Metev) [Semaine] Visionary Price Semaine
+"Sofia'S Last Ambulance" (Ilian Metev) [Semaine] Visionary Price Semaine
 Neil Young 6
 Pamela Bienzobas 6.7
 
-"AUGUSTINE" (Alice Winocour) [Semaine]
+"Augustine" (Alice Winocour) [Semaine]
 Neil Young 7
 Thomas Fioretti 4.5
 
-"J’ENRAGE DE SON ABSENCE" (Sandrine Bonnaire) [Semaine]
+"J’enrage de son absence" (Sandrine Bonnaire) [Semaine]
 Alexandra Zawia 5
 Boris Nelepo 1.5
 Cristina Nord 3.7
@@ -3112,18 +3109,18 @@ Pamela Bienzobas 7
 Roger Alan Koza  6
 Sergio Wolf 7
 
-"ADIEU BERTHE, L'ENTERREMENT DE MÉMÉ" (Bruno Podalydès) [Quinzaine]
+"Adieu Berthe, l'enterrement de mémé" (Bruno Podalydès) [Quinzaine]
 Javier H. Estrada 4
 Martial Pisani 4.9
 Thomas Fioretti 4.9
 
-"ALYAH" (Elie Wajeman) [Quinzaine]
+"Alyah" (Elie Wajeman) [Quinzaine]
 Carlo Chatrian 6.5
 Javier H. Estrada 6
 Pamela Bienzobas 6
 Thomas Fioretti 2.9
 
-"CAMILLE REDOUBLE" (Noémie Lvovsky) [Quinzaine] Quinzaine French Language Film Trophy
+"Camille redouble" (Noémie Lvovsky) [Quinzaine] Quinzaine French Language Film Trophy
 Alex Vicente 7
 Cristina Nord 7
 Jaime Pena 5
@@ -3131,29 +3128,29 @@ Javier H. Estrada 4.8
 Robert Koehler 3
 Thomas Fioretti 5.8
 
-"DAE GI EUI WANG" (Yeun Sang-Ho) [Quinzaine]
+"Dae gi eui wang (The King of Pigs)" (Yeun Sang-Ho) [Quinzaine]
 Carlo Chatrian 5.5
 Diego Batlle 5.5
 Javier H. Estrada 6.5
 Paolo Bertolin 7
 
-"DANGEROUS LIAISONS" (Hur Jinho) [Quinzaine]
+"Dangerous liaisons" (Hur Jinho) [Quinzaine]
 Fernando Juan Lima 2
 Javier H. Estrada 6.5
 
-"EL TAAIB (THE REPENTANT)" (Merzak Allouache) [Quinzaine] Best European Quinzaine Film
+"El Taaib (The Repentant)" (Merzak Allouache) [Quinzaine] Best European Quinzaine Film
 Javier H. Estrada 6
 Luciano Barisone 7
 Thomas Fioretti 5.6
 
-"ERNEST ET CÉLESTINE" (Stéphane Aubier, Vincent Patar & Benjamin Renner) [Quinzaine]
+"Ernest et Célestine" (Stéphane Aubier, Vincent Patar & Benjamin Renner) [Quinzaine]
 Carlo Chatrian 6
 Dana Linssen 6.4
 Javier H. Estrada 4.5
 Pamela Bienzobas 6.8
 Sergio Wolf 7
 
-"FOGO" (Yulene Olaizola) [Quinzaine]
+"Fogo" (Yulene Olaizola) [Quinzaine]
 Diego Batlle 7
 Eulalia Iglesias 6
 Fernando Juan Lima 8
@@ -3166,12 +3163,12 @@ Roger Alan Koza  8
 Sergio Wolf 6
 Thomas Fioretti 5.1
 
-"GANGS OF WASSEYPUR" (Anurag Kashyap) [Quinzaine]
+"Gangs of Wasseypur" (Anurag Kashyap) [Quinzaine]
 Javier H. Estrada 4.5
 Rüdiger Suchsland  7.5
 Thomas Fioretti 5.3
 
-"INFANCIA CLANDESTINA" (Benjamín Ávila) [Quinzaine]
+"Infancia clandestina" (Benjamín Ávila) [Quinzaine]
 Carlos Reviriego 6
 Diego Batlle 6.8
 Diego Lerer 6.8
@@ -3184,7 +3181,7 @@ Neil Young 5
 Pamela Bienzobas 6.7
 Roger Alan Koza  6.5
 
-"LA NOCHE DE ENFRENTE" (Raúl Ruiz) [Quinzaine]
+"La noche de enfrente" (Raúl Ruiz) [Quinzaine]
 Boris Nelepo 9.5
 Carlos F. Heredero 8.5
 Cristina Nord 8
@@ -3203,7 +3200,7 @@ Violeta Kovacsics 8
 # Other:
 Mike d'Angelo 5.6
 
-"LA SIRGA" (William Vega) [Quinzaine]
+"La sirga" (William Vega) [Quinzaine]
 Carlo Chatrian 6.5
 Carlos F. Heredero 6.5
 Diego Batlle 6.5
@@ -3215,7 +3212,7 @@ Robert Koehler 7
 Roger Alan Koza  6.5
 Thomas Fioretti 6.5
 
-"NO" (Pablo Larraín) [Quinzaine] Quinzaine Top Prize ("Art Cinema Award")
+"No" (Pablo Larraín) [Quinzaine] Quinzaine Top Prize ("Art Cinema Award")
 Alexandra Zawia 7
 Carlo Chatrian 6
 Carlos F. Heredero 6
@@ -3240,12 +3237,12 @@ Mike d'Angelo 6.8
 Guy Lodge 8.5 A-
 Eric Kohn 9 A
 
-"OPÉRATION LIBERTAD" (Nicolas Wadimoff) [Quinzaine]
+"Opération libertad" (Nicolas Wadimoff) [Quinzaine]
 Dana Linssen 5.9
 Javier H. Estrada 4
 Sergio Wolf 5
 
-"RENGAINE (HOLD BACK)" (Rachid Djaïdani) [Quinzaine] Fipresci Price Quinzaine
+"Rengaine (Hold Back)" (Rachid Djaïdani) [Quinzaine] Fipresci Price Quinzaine
 Carlo Chatrian 7.4
 Eulalia Iglesias 6
 Javier H. Estrada 8
@@ -3255,7 +3252,7 @@ Pamela Bienzobas 8.2
 Robert Koehler 8
 Thomas Fioretti 1.8
 
-"ROOM 237" (Rodney Ascher) [Quinzaine]
+"Room 237" (Rodney Ascher) [Quinzaine]
 Alejandro G. Calvo 5.9
 Alex Vicente 6
 Carlo Chatrian 6.03
@@ -3283,7 +3280,7 @@ Michal Oleszczyk 7 B+
 Mike d'Angelo 5.8
 Blake Williams 7
 
-"SIGHTSEERS" (Ben Wheatley) [Quinzaine]
+"Sightseers" (Ben Wheatley) [Quinzaine]
 Alejandro G. Calvo 6
 Alexandra Zawia 3
 Boris Nelepo 6
@@ -3301,7 +3298,7 @@ James Rocchi 9 A
 # Other:
 Peter Bradshaw 6
 
-"SUEÑO Y SILENCIO" (Jaime Rosales) [Quinzaine]
+"Sueño y silencio" (Jaime Rosales) [Quinzaine]
 Alejandro G. Calvo 3.5
 Carlos F. Heredero 7.5
 Carlos Reviriego 4
@@ -3319,7 +3316,7 @@ Xavi Serra  4.5
 # Other:
 Peter Bradshaw 8
 
-"THE WE AND THE I" (Michel Gondry) [Quinzaine]
+"The We and the I" (Michel Gondry) [Quinzaine]
 Alejandro G. Calvo 8
 Alex Vicente 7.5
 Camille Brunel 8.2
@@ -3374,7 +3371,7 @@ Anne Thompson
 Ignatiy Vishnevetsky 
 Sarah Watt
 
-"YEK KHANÉVADÉH-E MOHTARAM (A RESPECTABLE FAMILY)" (Massoud Bakhshi) [Quinzaine]
+"Yek Khanévadéh-E Mohtaram (A Respectable Family)" (Massoud Bakhshi) [Quinzaine]
 Fernando Juan Lima 3
 Javier H. Estrada 4.5
 Pamela Bienzobas 7.5
@@ -3383,7 +3380,7 @@ Thomas Fioretti 6.3
 
 FUERA DE COMPETENCIA
 
-"IO E TE (ME AND YOU)" (Bernardo Bertolucci)
+"Io e te (Me and You)" (Bernardo Bertolucci)
 Alejandro G. Calvo 5
 Alex Vicente 4
 Boris Nelepo 6.9
@@ -3406,20 +3403,20 @@ Kevin Jagernauth 2 C-
 # Other:
 Mike d'Angelo 5.2
 
-"MADAGASCAR 3, EUROPE'S MOST WANTED" (Eric Darnell y Tom McGrath)
+"Madagascar 3, Europe'S Most Wanted" (Eric Darnell y Tom McGrath)
 Diego Lerer 3.2
 Manu Yáñez 3
 # Indiewire (2):
 Raffi Asdourian 5 B-
 Patrick Heidmann 2 C-
 
-"HEMINGWAY & GELLHORN" (Philip Kaufman)
+"Hemingway & Gellhorn" (Philip Kaufman)
 Nando Salva 2
 Scott Foundas  8
 
 PROYECCIONES DE MEDIANOCHE
 
-"DARIO ARGENTO'S DRACULA 3D" (Dario Argento)
+"Dario Argento's Dracula 3D" (Dario Argento)
 Alejandro G. Calvo 2
 Alexandra Zawia 2
 Fernando Juan Lima 5
@@ -3439,7 +3436,7 @@ Eric D. Snider 0 F
 # Other:
 Simon Gallagher 1.5 D+
 
-"AI TO MAKOTO" (Takashi Miike)
+"Ai to makoto (For Love's Sake)" (Takashi Miike)
 Mike d'Angelo 5.5
 Alejandro G. Calvo 2
 Boris Nelepo 7
@@ -3459,11 +3456,11 @@ Michael Ghennam
 Patrick Z. McGavin 5 B-
 Eric D. Snider
 
-"UNE JOURNÉE PARTICULIÈRE" (Gilles Jacob y Samuel Faure)
+"Une journée particulière" (Gilles Jacob y Samuel Faure)
 Alejandro G. Calvo 2
 José Luis de Lorenzo 2
 
-"THE SAPPHIRES" (Wayne Blair)
+"The Sapphires" (Wayne Blair)
 Alejandro G. Calvo 2
 Fernando Juan Lima 6
 Luciano Barisone 3
@@ -3473,13 +3470,11 @@ Eric Kohn 4 C+
 Simon Gallagher 7 B+
 Henry Barnes (Guardian, UK) 6
 
-"MANIAC" (Franck Khalfoun)
+"Maniac" (Franck Khalfoun)
 Mike d'Angelo W/O. "Had I known it's a first-person-camera slasher film I wouldn't have bothered. You can't even *see* Elijah Wood!"
-
-"MANIAC" (Franck Khalfoun) [Fuera De Competencia]
 Marcelo Alderete 6
 
-"DER MÜLL IM GARTEN EDEN (POLLUTING PARADISE)" (Fatih Akin) 
+"Der Müll im Garten Eden (Polluting Paradise)" (Fatih Akin) 
 Alexandra Zawia 3
 Cristina Nord 5
 Dana Linssen 4.9
@@ -3495,7 +3490,7 @@ Rüdiger Suchsland  5
  IndieWire:
 Michal Oleszczyk 6 B
 
-"ROMAN POLANSKI: A FILM MEMOIR" (Laurent Bouzereau) [Funciones Especiales]
+"Roman Polanski: A Film Memoir" (Laurent Bouzereau) [Funciones Especiales]
 Alejandro G. Calvo 2
 Alex Vicente 3
 Alexandra Zawia 3.2
@@ -3518,7 +3513,7 @@ Peter Bradshaw 6
 Simon Gallagher 5 B-
 Emanuel Levy 7 B+
 
-"THE CENTRAL PARK FIVE" (Ken Burns, Sarah Burns y David McMahon) [Funciones Especiales]
+"The Central Park Five" (Ken Burns, Sarah Burns y David McMahon) [Funciones Especiales]
 Alejandro G. Calvo 6
 Carlo Chatrian 4.88
 Carlos Reviriego 5
@@ -3530,7 +3525,7 @@ Pedro Butcher 6.5
 Philipp Engel 5
 Rüdiger Suchsland  6.8
 
-"LES INVISIBLES" (Sébastien Lifshitz) [Funciones Especiales]
+"Les invisibles" (Sébastien Lifshitz) [Funciones Especiales]
 Carlo Chatrian 6.01
 Eulalia Iglesias 6.9
 Fernando Juan Lima 7
@@ -3541,7 +3536,7 @@ Michael Ghennam 7 B+
 Anna Tatarska 3 C
 Blake Williams 4 C+
 
-"JOURNAL DE FRANCE" (Claudine Nougaret y Raymond Depardon) [Funciones Especiales]
+"Journal de France" (Claudine Nougaret y Raymond Depardon) [Funciones Especiales]
 Alex Vicente 6
 Boris Nelepo 7.3
 Carlo Chatrian 5.03
@@ -3562,12 +3557,12 @@ Sergio Wolf 8
 Michael Ghennam 6 B
 Blake Williams 3 C
 
-"A MUSICA SEGUNDO TOM JOBIM" (Nelson Pereira Dos Santos) [Funciones Especiales]
+"A musica segundo Tom Jobim" (Nelson Pereira Dos Santos) [Funciones Especiales]
 Martial Pisani 5.9
 Pedro Butcher 7
 Roger Alan Koza  4.5
 
-"VILLEGAS" (Gonzalo Tobal) [Funciones Especiales]
+"Villegas" (Gonzalo Tobal) [Funciones Especiales]
 Carlos F. Heredero 7
 Carlos Reviriego 6.5
 Diego Batlle 7.2
@@ -3582,7 +3577,7 @@ Robert Koehler 4
 Roger Alan Koza  6.7
 Violeta Kovacsics 5.5
 
-"MEKONG HOTEL" (Apichatpong Weerasethakul) [Funciones Especiales]
+"Mekong Hotel" (Apichatpong Weerasethakul) [Funciones Especiales]
 Alejandro G. Calvo 7
 Alexandra Zawia 7
 Boris Nelepo 9
@@ -3642,13 +3637,13 @@ Blake Williams 2.6 D+
 Ruta Buciunaite 6
 Peter Bradshaw 6
 
-"TRASHED" (Candida Brady) [Funciones Especiales]
+"Trashed" (Candida Brady) [Funciones Especiales]
 Eulalia Iglesias 5.9
 Neil Young 6
 
-"LE SERMENT DE TOBRUK (Bernard-Henry Lévy) 
+"Le serment de Tobruk (Bernard-Henry Lévy) 
 
-"SISTER (L'ENFANT D'EN HAUT)" (Ursula Meier) [Market]
+"Sister (L'enfant d'en haut)" (Ursula Meier) [Market]
   Berlin
 Mike d'Angelo 6.8
 # Indiewire:
