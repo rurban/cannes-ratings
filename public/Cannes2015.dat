@@ -32,7 +32,7 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"THE TALE OF TALES (Il Racconto dei Racconti)" (Matteo GARRONE) [Competition]
+"The Tale of Tales (Il Racconto dei Racconti)" (Matteo Garrone) [Competition]
 
 Diego Lerer           5
 Roger Alan Koza       3.5
@@ -71,7 +71,6 @@ José Luis Losa       5
 Dominik Kamalzadeh    5.5   http://derstandard.at/2000015835323/Filmfestival-Cannes-Wirre-Gefuehle-gefaehrliche-Wuensche
 Gustavo Beck          1
 Guillaume Muyan Wang  7
-
 # critic.de
 Andrey Arnold         6
 Adam Cook             4
@@ -155,7 +154,7 @@ Jordan Cronk          4
 Diana Drumm           9
 Tim Grierson          7
 
-"OUR LITTLE SISTER (Umimachi Diary/海街ｄｉａｒｙ)" (KORE-EDA Hirokazu) [Competition]
+"Our Little Sister (Umimachi Diary/海街ｄｉａｒｙ)" (Kore-Eda Hirokazu) [Competition]
 
 Diego Lerer           7.5
 Roger Alan Koza       5.5
@@ -186,7 +185,6 @@ Dominik Kamalzadeh    6.5
 Gustavo Beck          2
 Paolo Bertolin        6
 Guillaume Muyan Wang  6.5
-
 # critic.de
 Andrey Arnold         6
 Adam Cook             2.5
@@ -261,7 +259,7 @@ Robbie Collin         8    http://blogs.indiewire.com/theplaylist/cannes-review-
 Anna Tatarska         6
 Tim Grierson          7
 
-"SON OF SAUL (Saul Fia)" (László NEMES) [Competition] Grand Prix + FIPRESCI
+"Son of Saul (Saul Fia)" (László Nemes) [Competition] Grand Prix + FIPRESCI
 # First film
 
 Diego Lerer           4
@@ -301,7 +299,6 @@ Dominik Kamalzadeh    5
 Gustavo Beck          3
 Paolo Bertolin        5
 Guillaume Muyan Wang  7.5
-
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             6
@@ -388,7 +385,7 @@ Anne Thompson         9
 Jordan Cronk          4
 Tim Grierson          8
 
-"THE LOBSTER" (Yorgos LANTHIMOS) [Competition] Jury Prize
+"The Lobster" (Yorgos Lanthimos) [Competition] Jury Prize
 
 Diego Lerer           3.5
 Roger Alan Koza       5
@@ -430,7 +427,6 @@ Dominik Kamalzadeh    9     http://derstandard.at/2000015886383/The-Lobster-Sing
 Gustavo Beck          3
 Paolo Bertolin        7.5
 Guillaume Muyan Wang  3
-
 # ioncinema 0-5
 Nicolas Bell          6     http://www.ioncinema.com/reviews/the-lobster-review
 Christophe Beney      10
@@ -515,7 +511,7 @@ Michael Ghennam       9
 Corina Roettger       8
 Glenn Heath Jr        4
 
-"THE SEA OF TREES" (Gus VAN SANT) [Competition]
+"The Sea of Trees" (Gus Van Sant) [Competition]
 http://blogs.indiewire.com/criticwire/first-reviews-gus-van-sants-sea-of-trees-is-cannes-first-stinker-20150515
 
 Diego Lerer           3
@@ -549,7 +545,6 @@ Luciano Barisone      4
 José Luis Losa       0.5
 Dominik Kamalzadeh    0.5   http://derstandard.at/2000015936250/Todd-Haynes-Carol-Schallgedaempfte-Liebe
 Guillaume Muyan Wang  0.5
-
 # critic.de
 Andrey Arnold         2.5
 Arnaud Hée           4
@@ -631,7 +626,7 @@ Anna Tatarska        1
 Kaleem Aftab         1
 Diana Drumm          1
 
-"MIA MADRE" (Nani MORETTI) [Competition]
+"Mia Madre" (Nani Moretti) [Competition]
 
 Diego Lerer           8
 Roger Alan Koza       7
@@ -668,7 +663,6 @@ José Luis Losa       5
 Dominik Kamalzadeh    5.5
 Gustavo Beck          4
 Guillaume Muyan Wang  6
-
 # ioncinema 0-5
 Nicolas Bell          5
 Christophe Beney      7
@@ -740,7 +734,7 @@ Robbie Collin         4     http://www.telegraph.co.uk/film/cannes-festival/2015
 Glenn Heath Jr        5     https://twitter.com/MatchCuts/status/599550491773771776
 
 
-"CAROL" (Todd HAYNES) [Competition]
+"Carol" (Todd Haynes) [Competition]
 
 Diego Lerer           9
 Roger Alan Koza       8.5
@@ -779,7 +773,6 @@ Dominik Kamalzadeh    7     http://derstandard.at/2000015936250/Todd-Haynes-Caro
 Gustavo Beck          8
 Paolo Bertolin        9.5
 Guillaume Muyan Wang  5
-
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             5
@@ -862,7 +855,7 @@ Patrick Heidmann      9
 Anne Thompson         8
 Jordan Cronk          6
 
-"MON ROI" (MAÏWENN) [Competition]
+"Mon Roi" (Maïwenn) [Competition]
 
 Jaime Pena            2
 Rüdiger Suchsland    1.5
@@ -882,7 +875,6 @@ Eulalia Iglesias      3
 Eugenio Renzi         3.5
 Dominik Kamalzadeh    1
 Guillaume Muyan Wang  6.5
-
 # critic.de
 Frédéric Jaeger     7.5
 Till Kadritzke        7.5     http://www.critic.de/film/mon-roi-8165/
@@ -958,7 +950,7 @@ Peter Debruge         9
 Corina Roettger       5
 Patrick Heidmann      6
 
-"LOUDER THAN BOMBS" (Joachim TRIER) [Competition]
+"Louder Than Bombs" (Joachim Trier) [Competition]
 
 Diego Lerer           6
 Jaime Pena            5
@@ -992,7 +984,6 @@ José Luis Losa       5.5
 Dominik Kamalzadeh    5.5   http://derstandard.at/2000015994527/Im-Wuergegriff-der-Fiskalpolitik
 Gustavo Beck          2
 Guillaume Muyan Wang  5.5
-
 # critic.de
 Andrey Arnold         6
 Adam Cook             6
@@ -1078,7 +1069,7 @@ Jordan Cronk          6
 Diana Drumm           7
 Tim Grierson          7
 
-"THE MEASURE OF A MAN (La loi du Marché)" (Stéphane BRIZÉ) [Competition]
+"The Measure of a Man (La loi du Marché)" (Stéphane Brizé) [Competition]
 
 Diego Lerer           6.5
 Roger Alan Koza       7
@@ -1103,7 +1094,6 @@ José Luis Losa       4
 Dominik Kamalzadeh    6
 Gustavo Beck          5
 Guillaume Muyan Wang  6.5
-
 # critic.de
 Andrey Arnold         6
 Arnaud Hée           4
@@ -1169,7 +1159,7 @@ Eric Lavallée               http://www.ioncinema.com/news/film-festivals/2015-c
 Blake Williams        5.3   https://twitter.com/Astrostic/status/600217264152059904
 David Sexton          4     http://www.standard.co.uk/goingout/film/cannes-2015--la-loi-du-marchethe-measure-of-a-man-review-10260116.html
 
-"MARGUERITE ET JULIEN" (Valérie DONZELLI) [Competition]
+"Marguerite et Julien" (Valérie Donzelli) [Competition]
 
 Diego Lerer           5
 Jaime Pena            5.5
@@ -1200,7 +1190,6 @@ José Luis Losa       4
 Dominik Kamalzadeh    1.5
 Gustavo Beck          1
 Guillaume Muyan Wang  0.5
-
 # critic.de
 Andrey Arnold         6
 Arnaud Hée           1
@@ -1274,7 +1263,7 @@ Ignatiy Vishnevetsky  3     http://www.avclub.com/article/cannes-latest-pixar-an
 Anna Tatarska         3
 Diana Drumm           1
 
-"SICARIO" (Denis VILLENEUVE) [Competition]
+"Sicario" (Denis Villeneuve) [Competition]
 
 Diego Lerer           5.5
 Jaime Pena            5.5
@@ -1303,7 +1292,6 @@ Violeta Kovacsics     6.5
 José Luis Losa       6.5
 Gustavo Beck          1
 Guillaume Muyan Wang  4
-
 # critic.de
 Andrey Arnold         1
 Michael Kienzl        5
@@ -1383,7 +1371,7 @@ Anne Thompson         5
 Diana Drumm           6
 Tim Grierson          5
 
-"MOUNTAINS MAY DEPART (Shan he gu ren/山河故人)" (JIA Zhang-Ke) [Competition]
+"Mountains May Depart (Shan he gu ren/山河故人)" (Jia Zhang-Ke) [Competition]
 
 Diego Lerer           8
 Roger Alan Koza       8.5
@@ -1422,7 +1410,6 @@ Dominik Kamalzadeh    7.5   http://derstandard.at/2000016117996/Cannes-Die-versc
 Gustavo Beck          8
 Paolo Bertolin        9.5
 Guillaume Muyan Wang  3.5
-
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             5
@@ -1505,7 +1492,7 @@ Anne Thompson         7
 Diana Drumm           7
 Tim Grierson          6
 
-"YOUTH (La giovinezza)" (Paolo SORRENTINO) [Competition]
+"Youth (La giovinezza)" (Paolo Sorrentino) [Competition]
 
 Diego Lerer           5.5
 Roger Alan Koza       3
@@ -1538,7 +1525,6 @@ Luciano Barisone      7.5
 José Luis Losa       5
 Dominik Kamalzadeh    4     http://derstandard.at/2000016117996/Cannes-Die-verschlungenen-Wege-der-Erinnerung
 Guillaume Muyan Wang  2
-
 # critic.de
 Frédéric Jaeger     4
 Till Kadritzke        2.5
@@ -1617,7 +1603,7 @@ Anne Thompson         7
 Diana Drumm           6
 Tim Grierson          7
 
-"THE ASSASSIN (Nie Yinniang/聶隱娘)" (HOU Hsiao Hsien) [Competition] Best Director
+"The Assassin (Nie Yinniang/聶隱娘)" (Hou Hsiao Hsien) [Competition] Best Director
 
 Diego Lerer           10
 Roger Alan Koza       10
@@ -1656,7 +1642,6 @@ Dominik Kamalzadeh    9.5   http://derstandard.at/2000016248746/Cannes-Finale-Ka
 Gustavo Beck          10
 Paolo Bertolin        8.5
 Guillaume Muyan Wang  9
-
 # critic.de
 Andrey Arnold         9
 Adam Cook             9
@@ -1742,7 +1727,7 @@ Diana Drumm           7
 Corina Roettger       6
 Tim Grierson          6
 
-"DHEEPAN" (Jacques AUDIARD) [Competition] Palme d'Or
+"Dheepan" (Jacques Audiard) [Competition] Palme d'Or
 
 Diego Lerer           5.5
 Jaime Pena            5
@@ -1774,7 +1759,6 @@ Luciano Barisone      7
 José Luis Losa       5
 Dominik Kamalzadeh    3.5
 Guillaume Muyan Wang  7
-
 # critic.de
 Arnaud Hée           2.5
 Frédéric Jaeger     2.5
@@ -1848,7 +1832,7 @@ Corina Roettger       7
 Patrick Heidmann      8
 Tim Grierson          6
 
-"VALLEY OF LOVE" (Guillaume NICLOUX) [Competition]
+"Valley of Love" (Guillaume Nicloux) [Competition]
 
 Diego Lerer           7
 Roger Alan Koza       4
@@ -1877,7 +1861,6 @@ José Luis Losa       7
 Dominik Kamalzadeh    7.5   http://derstandard.at/2000016248746/Cannes-Finale-Kampfszenen-wie-Scherenschnitte
 Gustavo Beck          3
 Guillaume Muyan Wang  5.5
-
 # critic.de
 Arnaud Hée           6
 Frédéric Jaeger     7.5
@@ -1949,7 +1932,7 @@ Michael Ghennam       5
 Diana Drumm           9
 Corina Roettger      7
 
-"CHRONIC" (Michel FRANCO) [Competition] Best Screenplay
+"Chronic" (Michel Franco) [Competition] Best Screenplay
 
 Diego Lerer           4
 Roger Alan Koza       3.5
@@ -1976,7 +1959,6 @@ Violeta Kovacsics     5.5
 Robert Koehler        8.5
 José Luis Losa       6.5
 Guillaume Muyan Wang  4
-
 # critic.de
 Andrey Arnold         5
 Frédéric Jaeger     6
@@ -2048,7 +2030,7 @@ Oliver Lyttelton      5     http://blogs.indiewire.com/theplaylist/cannes-review
 Kaleem Aftab          8
 Diana Drumm           6
 
-"MACBETH" (Justin KURZEL) [Competition]
+"Macbeth" (Justin Kurzel) [Competition]
   http://www.hollywoodreporter.com/news/cannes-justin-kurzel-what-makes-796236?utm_source=twitter
 
 Diego Lerer           7
@@ -2072,7 +2054,6 @@ Javier H. Estrada     4
 José Luis Losa       4.5
 Paolo Bertolin        7
 Guillaume Muyan Wang  5
-
 # critic.de
 Andrey Arnold         4
 Frédéric Jaeger     6
@@ -2150,7 +2131,7 @@ Tim Grierson          4
 
 UN CERTAIN REGARD
 
-"AN (SWEET RED BEAN PASTE/あん)" (KAWASE Naomi) [Un Certain Regard]
+"An (Sweet Red Bean Paste/あん)" (Kawase Naomi) [Un Certain Regard]
 
 Diego Lerer           7
 Jaime Pena            4
@@ -2176,7 +2157,6 @@ José Luis Losa       5.5
 Gustavo Beck          2
 Paolo Bertolin        7
 Guillaume Muyan Wang  0.5
-
 # critic.de
 Adam Cook             2.5     http://www.indiewire.com/article/why-does-the-cannes-film-festival-keep-programming-naomi-kawases-movies-20150517
 Arnaud Hée           4
@@ -2207,7 +2187,7 @@ Oliver Lyttelton      2       http://blogs.indiewire.com/theplaylist/cannes-revi
 Deborah Young                 http://www.hollywoodreporter.com/review/an-cannes-review-795624
 Diana Drumm           3
 
-"ONE FLOOR BELOW (UN ETAJ MAI JOS)" (Radu MUNTEAN) [Un Certain Regard]
+"One Floor Below (Un etaj mai jos)" (Radu Muntean) [Un Certain Regard]
 
 Diego Lerer           8.5
 Roger Alan Koza       8
@@ -2234,7 +2214,6 @@ Dominik Kamalzadeh    6.5
 Gustavo Beck          5
 Paolo Bertolin        6.5
 Guillaume Muyan Wang  4.5
-
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2273,7 +2252,7 @@ Jessica Kiang         3    http://blogs.indiewire.com/theplaylist/cannes-review-
 Jordan Cronk          7
 Tim Grierson          6
 
-"RAMS (Hrútar)" (Grímur HÁKONARSON) [Un Certain Regard] Prix UCR
+"Rams (Hrútar)" (Grímur Hákonarson) [Un Certain Regard] Prix UCR
 # Iceland, Beliers
 
 Diego Lerer           6.5
@@ -2286,7 +2265,6 @@ Carlos Heredero       4
 Ronald Rovers         5.5
 Paolo Bertolin        7.5
 Guillaume Muyan Wang  3.5
-
 # critic.de
 Adam Cook             5
 Arnaud Hée           4
@@ -2310,7 +2288,7 @@ Christophe Carriére
 Todd McCarthy               http://www.hollywoodreporter.com/review/rams-cannes-review-796093
 Jordan Cronk          3
 
-"THE FOURTH DIRECTION (Chauthi KOOT)" (Gurvinder SINGH) [Un Certain Regard]
+"The Fourth Direction (Chauthi Koot)" (Gurvinder Singh) [Un Certain Regard]
 
 Jaime Pena            7
 Fernando Juan Lima    4
@@ -2343,13 +2321,12 @@ Deborah Young               http://www.hollywoodreporter.com/review/fourth-direc
 Blake Williams        6.1   https://twitter.com/Astrostic/status/601873931147079681
 Anna Tatarska         3
 
-"THE SHAMELESS (MU-ROE-HAN)" (OH Seung-Uk) [Un Certain Regard]
+"The Shameless (Mu-roe-han)" (Oh Seung-Uk) [Un Certain Regard]
 # also known as "Rouge"
 
 Rüdiger Suchsland    6.5
 Alejandro G. Calvo    6
 Guillaume Muyan Wang  4
-
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2370,7 +2347,7 @@ Christophe Carriére
 Blake Williams        4.2    https://twitter.com/Astrostic/status/599450265130037248
 Hemanth Kissoon       5      http://www.filmaluation.com/the-shameless.html
 
-"NAHID" (Ida PANAHANDEH) [Un Certain Regard]
+"Nahid" (Ida Panahandeh) [Un Certain Regard]
 # First film
 
 Diego Batlle          7
@@ -2396,7 +2373,7 @@ Christophe Carriére
 #
 Barbara Scharres            http://www.rogerebert.com/cannes/cannes-2015-carol-nahid
 
-"MARYLAND (Disorder)" (Alice WINOCOUR) [Un Certain Regard]
+"Maryland (Disorder)" (Alice Winocour) [Un Certain Regard]
 
 Jaime Pena            3
 Emiliano Fernández   8
@@ -2408,7 +2385,6 @@ Eulalia Iglesias      3.5
 Javier H. Estrada     5
 José Luis Losa       3
 Guillaume Muyan Wang  6.5
-
 # Le film français 0-4
 Stéphanie Lamome      5
 Arnaud Schwartz       1
@@ -2439,7 +2415,7 @@ Gregory Ellwood       5    http://www.hitfix.com/in-contention/the-lobster-the-a
 Jessica Kiang         6    http://blogs.indiewire.com/theplaylist/cannes-review-matthias-schoenaerts-and-diane-kruger-shine-in-alice-winocours-disorder-20150521
 Jordan Cronk          6
 
-"THE HIGH SUN (Zvizdan)" (Dalibor MATANIC) [Un Certain Regard] UCR Jury Price
+"The High Sun (Zvizdan)" (Dalibor Matanic) [Un Certain Regard] UCR Jury Price
 # Croatia (4th film)
 
 Jaime Pena            6
@@ -2449,7 +2425,6 @@ Carlos Heredero       6.5
 Eulalia Iglesias      6.5
 Javier H. Estrada     6
 José Luis Losa       4.5
-
 # critic.de
 Andrey Arnold         4
 Arnaud Hée           4
@@ -2478,7 +2453,7 @@ Barbara Scharres           http://www.rogerebert.com/cannes/cannes-2015-mon-roi-
 Kaleem Aftab          8    brilliantly handled account of War / post-war / future in the Balkans!
 Jordan Cronk          1
 
-"JOURNEY TO THE SHORE (Kishibe No Tabi)" (KUROSAWA Kiyoshi) [Un Certain Regard] UCR Best Director Award
+"Journey to the Shore (Kishibe No Tabi)" (Kurosawa Kiyoshi) [Un Certain Regard] UCR Best Director Award
 
 Diego Lerer           6
 Roger Alan Koza       4
@@ -2501,7 +2476,6 @@ Violeta Kovacsics     7
 José Luis Losa       4
 Gustavo Beck          4
 Guillaume Muyan Wang  7
-
 # critic.de
 Adam Cook             6
 Arnaud Hée           7.5
@@ -2535,7 +2509,7 @@ Glenn Heath Jr        1.5  https://twitter.com/MatchCuts/status/6000313330464727
 Jessica Kiang         2    http://blogs.indiewire.com/theplaylist/cannes-review-the-afterlife-is-deathly-dull-in-kiyoshi-kurosawas-journey-to-the-shore-20150525
 Jordan Cronk          3
 
-"CEMETERY OF SPLENDOUR (RAK TI KHON KAEN)" (Apichatpong "Joe" WEERASETHAKUL) [Un Certain Regard]
+"Cemetery Of Splendour (Rak Ti Khon Kaen)" (Apichatpong "Joe" Weerasethakul) [Un Certain Regard]
 
 Diego Lerer           9.5
 Roger Alan Koza       9
@@ -2571,7 +2545,6 @@ Dominik Kamalzadeh    8.5   http://derstandard.at/2000016117996/Cannes-Die-versc
 Gustavo Beck          9
 Paolo Bertolin        10
 Guillaume Muyan Wang  7.5
-
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             9
@@ -2615,7 +2588,7 @@ Anna Tatarska         9
 Jordan Cronk          9
 Tim Grierson          8
 
-"THE CHOSEN ONES (Las Elegidas)" (David PABLOS) [Un Certain Regard]
+"The Chosen Ones (Las Elegidas)" (David Pablos) [Un Certain Regard]
 
 Roger Alan Koza       5
 Rüdiger Suchsland    7
@@ -2623,7 +2596,6 @@ Fernando Juan Lima    5
 Ronald Rovers         6
 Eulalia Iglesias      7
 José Luis Losa       7.5
-
 # critic.de
 Rüdiger Suchsland    7.5
 # Le film français 0-4
@@ -2646,14 +2618,13 @@ Christophe Carriére
 Boyd van Hoeij              http://www.hollywoodreporter.com/review/chosen-las-elegidas-cannes-review-796504
 Guy Lodge                   https://variety.com/2015/film/festivals/cannes-film-review-the-chosen-ones-1201501435/
 
-"ALIAS MARIA" (Jose Luis RUGELES) [Un Certain Regard] Cartageno Film Fest
+"Alias Maria" (Jose Luis Rugeles) [Un Certain Regard] Cartageno Film Fest
 
 Roger Alan Koza       5
 Diego Batlle          5.5
 Carlo Chatrian        4
 Luciano Barisone      7
 José Luis Losa       4.5
-
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2675,7 +2646,7 @@ Boyd van Hoeij              http://www.hollywoodreporter.com/review/alias-maria-
 Tim Grierson          5
 Anne Thompson         3
 
-"TAKLUB" (Brillante MENDOZA) [Un Certain Regard]
+"Taklub (Trap)" (Brillante Mendoza) [Un Certain Regard]
 
 Diego Lerer           7
 Diego Batlle          7
@@ -2689,7 +2660,6 @@ Javier H. Estrada     5.5
 José Luis Losa       5.5
 Paolo Bertolin        6
 Guillaume Muyan Wang  6.5
-
 # critic.de
 Arnaud Hée           1
 Till Kadritzke        9
@@ -2716,7 +2686,7 @@ Christophe Carriére
 Mike d'Angelo         5.2   https://twitter.com/gemko/status/600945669591924736
 
 
-"MASAAN (Fly away solo)" (Neeraj GHAYWAN) [Un Certain Regard]
+"Masaan (Fly away solo)" (Neeraj Ghaywan) [Un Certain Regard]
 # Indian
 
 Roger Alan Koza       4
@@ -2724,7 +2694,6 @@ Rüdiger Suchsland    7.5
 Fernando Juan Lima    3
 Cristina Nord         4.5
 Paolo Bertolin        7
-
 # critic.de
 Cristina Nord         5
 Rüdiger Suchsland    7.5
@@ -2747,14 +2716,13 @@ Christophe Carriére
 #
 Barbara Scharres            http://www.rogerebert.com/cannes/cannes-2015-chronic-masaan
 
-"MADONNA" (SHIN Suwon) [Un Certain Regard]
+"Madonna" (Shin Suwon) [Un Certain Regard]
 
 Diego Lerer           4
 Diego Batlle          4.5
 Fernando Juan Lima    2.5
 Kong Rithdee          4.5
 Paolo Bertolin        7
-
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       
@@ -2772,7 +2740,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 
-"I AM A SOLDIER (Je Suis un Soldat)" (Laurent LARIVIÈRE) [Un Certain Regard]
+"I Am A Soldier (Je Suis un Soldat)" (Laurent Larivière) [Un Certain Regard]
 
 Diego Lerer           6
 Jaime Pena            5.5
@@ -2783,7 +2751,6 @@ Fernando Juan Lima    7
 Luciano Monteagudo    6
 Eulalia Iglesias      7
 José Luis Losa       7
-
 # critic.de
 Arnaud Hée           2.5
 Rüdiger Suchsland    5
@@ -2807,11 +2774,10 @@ Christophe Carriére
 Jon Frosch                  http://www.hollywoodreporter.com/review/i-am-a-soldier-je-797242
 Jessica Kiang         5     http://blogs.indiewire.com/theplaylist/cannes-review-laurent-larivieres-i-am-a-soldier-starring-louise-bourgoin-and-jean-hughes-anglade-20150526
 
-"LAMB" (Yared ZELEKE) [Un Certain Regard]
+"Lamb" (Yared Zeleke) [Un Certain Regard]
 
 Javier H. Estrada     5
 Guillaume Muyan Wang  5.5
-
 # Le film français 0-4
 Stéphanie Lamome      
 Arnaud Schwartz       5
@@ -2829,7 +2795,7 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 
-"TREASURE (Comoara)" (Corneliu PORUMBOIU) [Un Certain Regard] UCR Prix “Un Certain Talent”
+"Treasure (Comoara)" (Corneliu Porumboiu) [Un Certain Regard] UCR Prix “Un Certain Talent”
 
 Diego Lerer           8
 Roger Alan Koza       9
@@ -2862,7 +2828,6 @@ José Luis Losa       7.5
 Dominik Kamalzadeh    8.5
 Gustavo Beck          7
 Paolo Bertolin        9
-
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             7.5
@@ -2902,7 +2867,7 @@ Tim Grierson         6
 Jordan Cronk         7
 Glenn Heath Jr       7
 
-"THE OTHER SIDE" (Roberto MINERVINI) [Un Certain Regard]
+"The Other Side" (Roberto Minervini) [Un Certain Regard]
 
 Diego Lerer           7.5
 Roger Alan Koza       7.5
@@ -2922,7 +2887,6 @@ Javier H. Estrada     6.5
 Robert Koehler        9
 Gustavo Beck          8
 Paolo Bertolin        7
-
 # critic.de
 Andrey Arnold         6
 Adam Cook             5
@@ -2957,7 +2921,7 @@ Jordan Cronk          5
 
 SPECIAL SCREENINGS
 
-"STANDING TALL (La Tête Haute)" (Emmanuelle BERCOT) [Special Screening] Opening Film
+"Standing Tall (La Tête Haute)" (Emmanuelle Bercot) [Special Screening] Opening Film
 
 Diego Lerer           6.5
 Diego Batlle          5
@@ -3022,7 +2986,8 @@ Dominik Kamalzadeh         http://t.co/uHiiB6PnOC
 David Sexton          6    http://www.standard.co.uk/goingout/film/cannes-2015-la-tte-haute-review-passionately-wellmade-10249317.html
 Robbie Collin         6    http://www.telegraph.co.uk/film/standing-tall/review/
 
-"MAD MAX: FURY ROAD" (George MILLER) [Out of Competition]
+"Mad Max: Fury Road" (George Miller) [Out of Competition]
+
 Diego Lerer           8
 Diego Batlle          8
 Emiliano Fernández   10
@@ -3043,7 +3008,6 @@ Jan Pieter Ekker      8
 Ronald Rovers         9.5
 José Luis Losa       7
 Guillaume Muyan Wang  3
-
 # critic.de
 Till Kadritzke        7.5
 Michael Kienzl        7.5
@@ -3077,7 +3041,7 @@ Anne Thompson        9
 Patrick Heidmann     9
 Tim Grierson         7
 
-"IRRATIONAL MAN" (Woody ALLEN) [Out of Competition]
+"Irrational Man" (Woody Allen) [Out of Competition]
 
 Diego Lerer           6
 Jaime Pena            7.5
@@ -3099,7 +3063,6 @@ Ronald Rovers         5
 Eulalia Iglesias      7.5
 José Luis Losa       9
 Guillaume Muyan Wang  2
-
 # critic.de
 Andrey Arnold         5
 Adam Cook             5
@@ -3126,7 +3089,7 @@ Corina Roettger       7
 Anne Thompson         6
 Tim Grierson          5
 
-"AFTERTHOUGHT (HAYORED LEMA'ALA)" (Elad KEIDAN) [Out of Competition]
+"Afterthought (Hayored Lema'ala)" (Elad Keidan) [Out of Competition]
 # First film
 
 Javier H. Estrada     4
@@ -3134,13 +3097,12 @@ Javier H. Estrada     4
 Jordan Hoffman              http://www.vanityfair.com/hollywood/2015/05/cannes-son-of-saul-les-anarchistes-afterthought
 Blake Williams        6.1   https://twitter.com/Astrostic/status/599304011578273792
 
-"A TALE OF LOVE AND DARKNESS (Sipur al ahava ve choshech)" (Natalie PORTMAN) [Special Screening]
+"A Tale of Love and Darkness (Sipur al ahava ve choshech)" (Natalie Portman) [Special Screening]
 # First film
 
 Fredy Friedlander     5
 Alexandra Zawia       1.5
 Alex Vicente          2
-
 # critic.de
 #Alexandra Zawia       2.5
 #
@@ -3150,7 +3112,7 @@ Robbie Collin         6     http://www.telegraph.co.uk/film/irrational-man/revie
 Eric Kohn             3     http://www.indiewire.com/article/cannes-review-natalie-portmans-a-tale-of-love-and-darkness-is-a-bland-earnest-period-piece-20150515
 Corina Roettger       6
 
-"AMY" (Asif KAPADIA) [Out Of Competition] Midnight
+"Amy" (Asif Kapadia) [Out Of Competition] Midnight
 
 Diego Lerer           4
 Fredy Friedlander     8
@@ -3175,7 +3137,7 @@ Kaleem Aftab          9     http://www.indiewire.com/article/cannes-review-asif-
 Jessica Kiang         7     http://blogs.indiewire.com/theplaylist/cannes-review-asif-kapadias-devastating-discomfiting-amy-winehouse-documentary-amy-20150516
 Diana Drumm           8
 
-"INSIDE OUT (VICE-VERSA)" (Pete DOCTER & Ronaldo DEL CARMEN) [Out of Competition]
+"Inside Out (Vice-Versa)" (Pete Docter & Ronaldo Del Carmen) [Out of Competition]
 
 Diego Lerer           6
 Diego Batlle          7.5
@@ -3190,7 +3152,6 @@ Jan Pieter Ekker      9
 Eulalia Iglesias      8
 Violeta Kovacsics     8.5
 José Luis Losa       6
-
 # critic.de
 Frédéric Jaeger     6
 Anke Westphal         7.5
@@ -3211,7 +3172,7 @@ Anne Thompson         8
 Diana Drumm           8
 Tim Grierson          7
 
-"O PISEU (Office)" (HONG Won-Chan) [Out Of Competition] Midnight
+"O Piseu (Office)" (Hong Won-Chan) [Out Of Competition] Midnight
 # First film
 
 Emiliano Fernández   4
@@ -3222,7 +3183,6 @@ Marcelo Alderete      2
 Alejandro G. Calvo    6
 Violeta Kovacsics     5
 José Luis Losa       6
-
 # critic.de
 Michael Kienzl        6
 Rüdiger Suchsland    6
@@ -3230,7 +3190,7 @@ Rüdiger Suchsland    6
 Oliver Lyttelton     3      http://blogs.indiewire.com/theplaylist/cannes-review-korean-horror-thriller-office-brings-murder-to-the-workplace-20150521
 Michael Ghennam      1
 
-"AMNESIA" (Barbet SCHROEDER) [Special Screening]
+"Amnesia" (Barbet Schroeder) [Special Screening]
 
 Diego Lerer           2
 Jaime Pena            4
@@ -3247,7 +3207,6 @@ Boris Nelepo          5.5
 Carlos Heredero       6.5
 Sergi Sanchez         2.5
 José Luis Losa       5.5
-
 # critic.de
 Boris Nelepo          5
 Cristina Nord         2.5
@@ -3256,16 +3215,16 @@ Alexandra Zawia       1
 #
 Jordan Mintzer              http://www.hollywoodreporter.com/review/amnesia-cannes-review-797037
 
-"ASPHALTE" (Samuel BENCHETRIT) [Special Screening]
+"Asphalte" (Samuel Benchetrit) [Special Screening]
 
 Jordan Mintzer        7     http://www.hollywoodreporter.com/review/macadam-stories-asphalte-cannes-review-796238
 
-"UNE HISTOIRE DE FOU" (Robert GUEDIGUIAN) [Special Screening]
+"Une histoire de fou" (Robert Guediguian) [Special Screening]
 
 Carlos Heredero       5
 Luciano Barisone      6.5
 
-"LOVE" (Gaspar Noé) [Out Of Competition] Midnight
+"Love" (Gaspar Noé) [Out Of Competition] Midnight
 
 Diego Lerer           4
 Jaime Pena            5.5
@@ -3289,7 +3248,6 @@ Eulalia Iglesias      2
 Violeta Kovacsics     2.5
 José Luis Losa       0.5
 Guillaume Muyan Wang  3
-
 # critic.de
 Adam Cook             5
 Frédéric Jaeger     5       http://www.critic.de/film/love-8195/
@@ -3306,7 +3264,7 @@ David Acacia
 Eren Odabasi          
 David Honorat         4
 Christophe Beney      4
-
+#
 Nicolas Bell          5     http://www.ioncinema.com/reviews/love-review
 Eric Kohn             3     http://www.indiewire.com/article/cannes-review-hardcore-sex-isnt-the-craziest-thing-about-gaspar-noes-3d-love-20150520
 Blake Williams        6.6   https://twitter.com/Astrostic/status/601194251540631553
@@ -3328,7 +3286,7 @@ Diana Drumm           4
 Corina Roettger       5
 Reini Urban           5
 
-"OUR HOUSE (OKA)" (Souleymane CISSÉ) [Special Screening]
+"Our House (Oka)" (Souleymane Cissé) [Special Screening]
 
 Roger Alan Koza       7.5
 Jaime Pena            6
@@ -3339,7 +3297,6 @@ Luciano Monteagudo    7.5
 Carlos Heredero       5
 Javier H. Estrada     7.5
 José Luis Losa       5
-
 # critic.de
 Till Kadritzke        6       http://www.critic.de/film/oka-8197/
 Daniel Kasman         5
@@ -3350,10 +3307,10 @@ Deborah Young               http://www.hollywoodreporter.com/review/house-cannes
 Glenn Heath Jr       3      https://twitter.com/MatchCuts/status/601007621928259584
 Jordan Cronk         4
 
-"PANAMA" (Pavle VUCKOVIC) [Special Screening]
+"Panama" (Pavle Vuckovic) [Special Screening]
 # First film
 
-"THE LITTLE PRINCE (Le Petit Prince)" (Mark OSBORNE) [Out of Competition]
+"The Little Prince (Le Petit Prince)" (Mark Osborne) [Out of Competition]
 
 Emiliano Fernández   4
 Giona Nazzaro         4
@@ -3371,12 +3328,11 @@ Tim Grierson          5
 Diana Drumm           7
 Corina Roettger       8
 
-"ICE AND THE SKY (La glace et le ciel)" (Luc Jacquet) [Out of Competition]
+"Ice and the Sky (La glace et le ciel)" (Luc Jacquet) [Out of Competition]
 
 Roger Alan Koza       5
 Fernando Juan Lima    3.5
 Fredy Friedlander     7
-
 # critic.de
 Frédéric Jaeger     6
 
@@ -3384,7 +3340,7 @@ Andrew Pulver       8       http://www.theguardian.com/film/2015/may/23/ice-and-
 
 QUINZAINE
 
-"L’OMBRE DES FEMMES (In the Shadow of Women)" (Philippe GARREL) [Quinzaine] Opening Film
+"L’ombre des femmes (In the Shadow of Women)" (Philippe Garrel) [Quinzaine] Opening Film
   http://www.quinzaine-realisateurs.com/in-the-shadow-of-women-by-philippe-garrel-will-open-the-47th-edition-of-the-directors-fortnight-p481.html
 
 Diego Lerer           8
@@ -3419,7 +3375,6 @@ José Luis Losa       6.5
 Dominik Kamalzadeh    8.5   http://derstandard.at/2000015835323/Filmfestival-Cannes-Wirre-Gefuehle-gefaehrliche-Wuensche
 Gustavo Beck          8
 Guillaume Muyan Wang  8
-
 # critic.de
 Andrey Arnold         6
 Adam Cook             7.5
@@ -3444,9 +3399,9 @@ Boyd van Hoeij             http://www.hollywoodreporter.com/review/shadow-women-
 Eric Kohn             5    http://www.indiewire.com/article/cannes-review-phillipe-garrels-in-the-shadow-of-women-is-charming-but-weve-seen-this-movie-before-20150514
 Jordan Cronk          8
 
-"CHILE FACTORY"
+"Chile Factory"
 
-"EL ABRAZO DE LA SERPIENTE (Embrace of the Serpent)" (Ciro GUERRA) [Quinzaine] Art Cinema Award
+"El abrazo de la serpiente (Embrace of the Serpent)" (Ciro Guerra) [Quinzaine] Art Cinema Award
 
 Diego Lerer           7
 Roger Alan Koza       7
@@ -3458,7 +3413,6 @@ Carlos Heredero       6.5
 Luciano Barisone      7
 José Luis Losa       4.5
 Paolo Bertolin        7.5
-
 # critic.de
 Till Kadritzke        4
 Cristina Nord         7.5
@@ -3471,7 +3425,7 @@ Glenn Heath Jr        4     https://twitter.com/MatchCuts/status/602216193630597
 Jordan Cronk          4
 Blake Williams        4
 
-"TROIS SOUVENIRS DE JEUNESSE (My Golden Years)" (Arnaud DESPLECHIN) [Quinzaine] SACD Prize
+"Trois souvenirs de jeunesse (My Golden Years)" (Arnaud Desplechin) [Quinzaine] SACD Prize
   http://www.quinzaine-realisateurs.com/my-golden-years-by-desplechin-will-be-at-the-directors-fortnight-p482.html
 
 Diego Lerer           9
@@ -3504,7 +3458,6 @@ José Luis Losa       10
 Dominik Kamalzadeh    6.5   http://derstandard.at/2000015886383/The-Lobster-Singles-Paare-und-seltsame-Tiere
 Gustavo Beck          7
 Guillaume Muyan Wang  5.5
-
 # critic.de
 Adam Cook             7.5
 Arnaud Hée           7.5
@@ -3523,7 +3476,7 @@ Glenn Heath Jr        7.5   https://twitter.com/MatchCuts/status/599323204683988
 Oliver Lyttelton      8    http://blogs.indiewire.com/theplaylist/cannes-review-finely-honed-my-golden-days-is-one-of-arnaud-desplechins-best-20150520
 Jordan Cronk          7
 
-"A PERFECT DAY" (Fernando Leon de ARANOA) [Quinzaine]
+"A Perfect Day" (Fernando Leon de Aranoa) [Quinzaine]
 
 Fernando Juan Lima    2.5
 Manu Yañez           5
@@ -3545,7 +3498,7 @@ Ben Kenigsberg              http://www.rogerebert.com/festivals-and-awards/canne
 Oliver Lyttelton      3     http://blogs.indiewire.com/theplaylist/cannes-review-bosnian-aid-worker-comedy-a-perfect-day-starring-benicio-del-toro-tim-robbins-olga-kurylenko-20150518
 Reini Urban           4
 
-"ALLENDE, MI ABUELO ALLENDE" (Marcia TAMBUTTI) [Quinzaine]
+"Allende, mi abuelo Allende" (Marcia Tambutti) [Quinzaine]
 
 Roger Alan Koza       6.5
 Rüdiger Suchsland    7
@@ -3557,7 +3510,6 @@ Pamela Bienzobas      7
 Javier H. Estrada     5
 Luciano Barisone      5
 José Luis Losa       4
-
 # critic.de
 Adam Cook             6
 Arnaud Hée           2.5
@@ -3567,7 +3519,7 @@ Deborah Young               http://www.hollywoodreporter.com/review/beyond-my-gr
 Glenn Heath Jr        7.5   https://twitter.com/MatchCuts/status/599862218587545600
 Jordan Cronk          5
 
-"LE TOUT NOUVEAU TESTAMENT" (Jaco van DORMAEL) [Quinzaine]
+"Le tout nouveau testament" (Jaco van Dormael) [Quinzaine]
 
 Alexandra Zawia       5
 Alejandro G. Calvo    1
@@ -3578,7 +3530,7 @@ Luciano Barisone      8
 Jordan Hoffman        8     http://www.theguardian.com/film/2015/may/19/the-brand-new-testament-review-cannes-film-festival-2015
 Deborah Young               http://www.hollywoodreporter.com/review/brand-new-testament-cannes-review-796467
 
-"GREEN ROOM" (Jeremy SAULNIER) [Quinzaine]
+"Green Room" (Jeremy Saulnier) [Quinzaine]
 
 Diego Lerer           7.5
 Jaime Pena            6.5
@@ -3607,7 +3559,7 @@ Jason Gorber          9    http://www.indiewire.com/article/cannes-review-blue-r
 Tim Grierson          5
 Corina Roettger       8
 
-"LES COWBOYS" (Thomas BIDEGAIN) [Quinzaine]
+"Les Cowboys" (Thomas Bidegain) [Quinzaine]
 
 Jaime Pena            7
 Emiliano Fernández   6
@@ -3617,13 +3569,12 @@ Eulalia Iglesias      7.5
 Javier H. Estrada     6
 Luciano Barisone      4
 José Luis Losa       8
-
 #
 Mirjam Urban          7
 Oliver Lyttelton      2     http://blogs.indiewire.com/theplaylist/cannes-review-les-cowboys-directed-by-rust-bone-writer-thomas-bidegain-starring-john-c-reilly-20150520
 Kaleem Aftab          8     
 
-"MUSTANG" (Deniz Gamze ERGUVEN) [Quinzaine] Europa Cinéma Label Prize
+"Mustang" (Deniz Gamze Erguven) [Quinzaine] Europa Cinéma Label Prize
 
 Diego Lerer           5.5
 Diego Batlle          7.5   http://www.otroscines.com/festivales_detalle.php?idnota=9770&idsubseccion=163
@@ -3633,7 +3584,7 @@ Jan Pieter Ekker      7.5
 Javier H. Estrada     3.5
 Luciano Barisone      6
 Gustavo Beck          1
-
+#
 Jordan Hoffman        8   http://www.theguardian.com/film/2015/may/19/mustang-review-the-virgin-suicides-in-istanbul-is-a-turkish-delight
 Mathilde Blottière        http://www.telerama.fr/festival-de-cannes/2015/mustang-de-deniz-gamze-erguven-un-emballant-hymne-a-la-liberte,126962.php
 David Rooney              http://www.hollywoodreporter.com/review/mustang-cannes-review-795711
@@ -3643,7 +3594,7 @@ Mirjam Urban          7.5
 Jessica Kiang         6   http://blogs.indiewire.com/theplaylist/cannes-review-directors-fortnight-prize-winner-mustang-by-first-timer-deniz-gamze-erguven-20150524
 Jordan Cronk          4
 
-"SONGS MY BROTHERS TAUGHT ME" (Chloe ZHAO) [Quinzaine] Sundance
+"Songs My Brothers Taught Me" (Chloe Zhao) [Quinzaine] <i>Sundance</i>
 
 Jaime Pena            5
 Manu Yañez           6
@@ -3651,7 +3602,6 @@ Carlos Reviriego      6.5
 Eugenio Renzi         6.5
 Luciano Barisone      8
 Paolo Bertolin        6.5
-
 # critic.de
 Till Kadritzke        7.5
 #
@@ -3660,15 +3610,15 @@ Mirjam Urban          8
 Blake Williams        5.5   https://twitter.com/Astrostic/status/600631876852776960
 Jordan Cronk          5
 
-"MUCH LOVED" (Nabil AYOUCH) [Quinzaine]
+"Much Loved" (Nabil Ayouch) [Quinzaine]
 
 Javier H. Estrada     5.5
 Luciano Barisone      5
-
+#
 Reini Urban           4.5
 Mirjam Urban          5
 
-"AS MIL E UMA NOITES (Arabian Nights)" (Miguel GOMEZ) [Quinzaine]
+"As Mil e Uma Noites (Arabian Nights)" (Miguel Gomez) [Quinzaine]
   http://www.quinzaine-realisateurs.com/arabian-nights-by-miguel-gomes-selected-at-the-fortnight-p485.html
 
 Diego Lerer           8
@@ -3699,7 +3649,6 @@ Robert Koehler        10
 José Luis Losa       6.5
 Dominik Kamalzadeh    10    http://derstandard.at/2000015994527/Im-Wuergegriff-der-Fiskalpolitik
 Paolo Bertolin        9
-
 # critic.de
 Andrey Arnold         7.5
 Adam Cook             9     http://www.indiewire.com/article/the-most-ambitious-movie-at-this-years-cannes-film-festival-is-arabian-nights-20150522
@@ -3723,10 +3672,9 @@ Kaleem Aftab          9
 Oliver Lyttelton      9     http://blogs.indiewire.com/theplaylist/cannes-review-tabu-director-miguel-gomes-astonishing-six-hour-arabian-nights-20150520
 Jordan Cronk          8
 
-"FATIMA" (Philippe FAUCON) [Quinzaine]
+"Fatima" (Philippe Faucon) [Quinzaine]
 
 Javier H. Estrada     6
-
 # critic.de
 Arnaud Hée           6
 #
@@ -3734,7 +3682,7 @@ Mirjam Urban          4
 Leslie Felperin             http://www.hollywoodreporter.com/review/fatima-cannes-review-797120
 Michael Ghennam      9
 
-"PEACE TO US IN OUR DREAMS" (Sharunas BARTAS) [Quinzaine]
+"Peace to Us in Our Dreams" (Sharunas Bartas) [Quinzaine]
 
 Roger Alan Koza       7
 Jaime Pena            8.5
@@ -3745,7 +3693,6 @@ Javier H. Estrada     8
 Robert Koehler        7
 José Luis Losa       7
 Dominik Kamalzadeh    5.5
-
 # critic.de
 Andrey Arnold         9
 Frédéric Jaeger     6
@@ -3753,17 +3700,17 @@ Michael Kienzl        6
 
 Blake Williams        4.1   https://twitter.com/Astrostic/status/601032611872538624
 
-"EFTERSALV (THE HERE AFTER)" (Magnus von HORN) [Quinzaine]
+"Eftersalv (The Here After)" (Magnus von Horn) [Quinzaine]
 
 Diego Batlle          7.5   http://www.otroscines.com/festivales_detalle.php?idnota=9770&idsubseccion=163
 Javier H. Estrada     7.5
-
+#
 Stephen Dalton              http://www.hollywoodreporter.com/review/efterskalv-cannes-review-796722
 Reini Urban          7.5
 Mirjam Urban         7
 Jonathan Romney             http://m.screendaily.com/5087659.article
 
-"YAKUZA APOCALYPSE: THE GREAT WAR OF THE UNDERWORLD" (Takashi MIIKE) [Quinzaine] Special Screening
+"Yakuza Apocalypse: The Great War Of The Underworld" (Takashi Miike) [Quinzaine] Special Screening
 
 Fernando Juan Lima    8.5
 Giona Nazzaro         6
@@ -3771,7 +3718,6 @@ Marcelo Alderete      5.5
 Boris Nelepo          7.5
 José Luis Losa       7
 Paolo Bertolin        8
-
 # critic.de
 Andrey Arnold         7.5
 Boris Nelepo          7.5
@@ -3783,13 +3729,12 @@ Robbie Collin        10     http://t.co/ma12iS3ZMb
 Ignatiy Vishnevetsky 5      http://www.avclub.com/article/cannes-new-films-gaspar-noe-paolo-sorrentino-and-t-219804
 Jessica Kiang        8      http://blogs.indiewire.com/theplaylist/cannes-review-takashi-miike-buys-license-for-next-five-duds-with-transcendently-batshit-yakuza-apocalypse-20150522
 
-"DOPE" (Rick FAMUYIWA) [Quinzaine] Sundance, Closer
+"Dope" (Rick Famuyiwa) [Quinzaine] <i>Sundance</i>, Closer
 
 Diego Batlle          6     http://www.otroscines.com/festivales_detalle.php?idnota=9770&idsubseccion=163
 Giona Nazzaro         6
 Pamela Bienzobas      5
 Javier H. Estrada     5
-
 # critic.de
 Andrey Arnold         4
 #
@@ -3811,7 +3756,7 @@ Ryan Lattanzio        4
 
 SEMAINE
 
-"LES ANARCHISTES (The Anarchists)" (Elie WAJEMAN) [Semaine] Opening film
+"Les anarchistes (The Anarchists)" (Elie Wajeman) [Semaine] Opening film
 # Second film. France
 
 Jaime Pena            5.5
@@ -3833,7 +3778,7 @@ Jessica Kiang         4     http://blogs.indiewire.com/theplaylist/cannes-review
 Jordan Mintzer              http://www.hollywoodreporter.com/review/anarchists-les-anarchistes-cannes-review-795561
 Michael Ghennam       2
 
-"SLEEPING GIANT" (Andrew CIDIVINO) [Semaine]
+"Sleeping Giant" (Andrew Cidivino) [Semaine]
 # First film. Canada
 
 Giona Nazzaro         5.5
@@ -3850,7 +3795,7 @@ Michael Ghennam       1
 Corina Roettger       6
 Tim Grierson          4
 
-"PAULINA (La patota)" (Santiago MITRE) [Semaine] Grand Prix Semaine
+"Paulina (La patota)" (Santiago Mitre) [Semaine] Grand Prix Semaine
 # Second film. Argentina-Brazil-France
 
 Diego Lerer           7
@@ -3883,7 +3828,7 @@ Blake Williams        4.9   https://twitter.com/Astrostic/status/601822184680599
 Glenn Heath Jr        1     https://twitter.com/MatchCuts/status/599196875258998785
 Jordan Cronk          3
 
-"NI LE CIEL, NI LA TERRE (The Wakhan Front)" (Clement COGITORE) [Semaine]
+"Ni le ciel, ni la terre (The Wakhan Front)" (Clement Cogitore) [Semaine]
 # First film. France
 
 Daniel Kasman         4
@@ -3894,34 +3839,31 @@ Arnaud Hée           5
 Michael Kienzl        5
 Claudia Reinhard      6       http://www.critic.de/film/the-wakhan-front-8212/
 
-"COIN LOCKER GIRL" (HAN Jun-hee) [Semaine] Special screening
+"Coin Locker Girl" (Han Jun-hee) [Semaine] Special screening
 # South Korea
 
 Giona Nazzaro         5.5
-
 # critic.de
 Claudia Reinhard      5
 #
 Hemanth Kissoon       5      http://www.filmaluation.com/coin-locker-girl.html
 
-"DEGRADE" (Arab and Tarzan ABUNASSER) [Semaine]
+"Degrade" (Arab and Tarzan Abunasser) [Semaine]
 # First film. Palestine
 
 Carlo Chatrian        5
-
 # critic.de
 Claudia Reinhard      5
 #
 Deborah Young               http://www.hollywoodreporter.com/review/degrade-cannes-review-796559
 
-"LAND AND SHADE (La Tierra y la Sombra)" (Cesar ACEVEDO) [Semaine] 2nd price + SACD Semaine + Camera d'Or (Best First Feature)
+"Land and Shade (La Tierra y la Sombra)" (Cesar Acevedo) [Semaine] 2nd price + SACD Semaine + Camera d'Or (Best First Feature)
 # First film, Colombia
 
 Roger Alan Koza       7
 Pamela Bienzobas      6.5
 Jan Pieter Ekker      7
 Robert Koehler        7
-
 # critic.de
 Till Kadritzke        7.5
 Claudia Reinhard      5
@@ -3930,7 +3872,7 @@ Reini Urban           6
 Mirjam Urban          5
 Michael Ghennam       2
 
-"LES DEUX AMIS" (Louis GARREL) [Semaine] Special screening
+"Les deux amis" (Louis Garrel) [Semaine] Special screening
 # First film. France
 
 Giona Nazzaro         7.5
@@ -3938,7 +3880,6 @@ Alexandra Zawia       6
 Alex Vicente          6
 Philipp Engel         6.5
 Eugenio Renzi         2.5
-
 # critic.de
 Frédéric Jaeger     5       http://www.critic.de/film/les-deux-amis-8216/
 Till Kadritzke        5
@@ -3949,9 +3890,8 @@ Blake Williams        4.0   https://twitter.com/Astrostic/status/600360678956933
 Jérémie Couston             http://www.telerama.fr/festival-de-cannes/2015/les-deux-amis-louis-garrel-entre-charmes-et-defauts-facon-marivaux,126960.php
 
 
-"MEDITERRANEA" (Jonas CARPIGNANO) [Semaine]
+"Mediterranea" (Jonas Carpignano) [Semaine]
 # First film.  Germany-U.S.-U.K.-Italy-France
-
 # critic.de
 Claudia Reinhard      6
 #
@@ -3960,7 +3900,7 @@ David Rooney                http://www.hollywoodreporter.com/review/mediterranea
 Glenn Heath Jr       6      https://twitter.com/MatchCuts/status/600632527590727680
 Jessica Kiang        6      http://blogs.indiewire.com/theplaylist/cannes-review-jonas-carpignano-topical-intelligent-empathetic-mediterranea-20150525
 
-"KRISHA" (Trey Edward SHULTS) [Semaine] SXSW
+"Krisha" (Trey Edward Shults) [Semaine] <i>SXSW</i>
 # First film. US, SXSW Winner
 
 Jaime Pena            4
@@ -3976,7 +3916,7 @@ Tim Grierson          7
 Nigel M Smith         7
 Ryan Lattanzio        6
 
-"LA VIE EN GRAND ((Learn by Heart)" (Mathieu VADEPIED) [Semaine] Closing film
+"La Vie en Grand (Learn by Heart)" (Mathieu Vadepied) [Semaine] Closing film
 # First film.
 
 # critic.de
@@ -3984,17 +3924,17 @@ Lukas Stern           5
 
 CANNES CLASSICS
 
-"SEMBENE!" (Jason Silverman/Samba Gadjigo) [Cannes Classics]
+"Sembene!" (Jason Silverman/Samba Gadjigo) [Cannes Classics]
 
 Roger Alan Koza       5.5
 
 Sophie Monks Kaufman        http://www.huckmagazine.com/art-and-culture/film-2/dispatches-cannes-father-african-film-ousmane-sembenes-work-restored/
 
-"LA LEGENDE DE LA PALM D'OR" [Cannes Classics]
+"La Legende de la Palm D'Or" [Cannes Classics]
 
 Jan Pieter Ekker      6
 
-"HITCHCOCK/TRUFFAUT" (Kent Jones) [Cannes Classics]
+"Hitchcock/Truffaut" (Kent Jones) [Cannes Classics]
 
 Diego Lerer           7
 Roger Alan Koza       7.5
@@ -4012,7 +3952,7 @@ Peter Bradshaw        8     http://www.theguardian.com/film/2015/may/19/hitchcoc
 
 ACID
 
-"COSMODRAMA" (Philippe FERNANDEZ) [ACID] Rotterdam
+"Cosmodrama" (Philippe Fernandez) [ACID] Rotterdam
 http://www.lacid.org/-acid-program-in-the-cannes-film-109-
 
 Roger Alan Koza       5
@@ -4023,18 +3963,18 @@ Javier H. Estrada     4
 #
 Blake Williams        4.6
 
-"RAGING ROSE" (Julia Kowalski) [ACID]
+"Raging Rose" (Julia Kowalski) [ACID]
 
-"WHERE THERE IS SHADE (DE L'OMBRE IL Y A)" (Nathan Nicholovitch) [ACID]
+"Where There Is Shade (De l'Ombre il y a)" (Nathan Nicholovitch) [ACID]
 
 Carlo Chatrian        5.5
 
-"GAZ DE FRANCE (FRANCE IS A GAS)" (Benoit Forgeard) [ACID]
+"Gaz de France (France Is a Gas)" (Benoit Forgeard) [ACID]
 
 Carlo Chatrian        5
 Eugenio Renzi         6
 
-"JE SUIS LE PEUPLE (I AM THE PEOPLE)" (Anna Roussillon) [ACID] 
+"Je suis le peuple (I Am The People)" (Anna Roussillon) [ACID] 
 
 Giona Nazzaro         10
 Javier H. Estrada     6.5
@@ -4043,13 +3983,13 @@ Luciano Barisone      8.5
 #
 Blake Williams        5.6
 
-"PAULINE" (Emilie Brisavoine) [ACID]
+"Pauline" (Emilie Brisavoine) [ACID]
 
 Carlo Chatrian        6
 Luciano Barisone      8
 Gustavo Beck          1
 
-"THE GRIEF OF OTHERS" (Patrick Wang) [ACID] SXSW
+"The Grief of Others" (Patrick Wang) [ACID] <i>SXSW</i>
 
 Eugenio Renzi         7
 
@@ -4057,11 +3997,11 @@ Eric Kohn             6    http://www.indiewire.com/article/sxsw-review-patrick-
 Justin Chang               https://variety.com/2015/film/festivals/sxsw-film-review-the-grief-of-others-1201457364/
 Blake Williams        5.1  https://twitter.com/Astrostic/status/601762881328304129
 
-"LA VANITÉ" (Lionel Baier) [ACID]
+"La Vanité" (Lionel Baier) [ACID]
 
 Boris Nelepo          6.5
 
-"VOLTA A TERRAA" (João Pedro Plácido) [ACID]
+"Volta a Terraa" (João Pedro Plácido) [ACID]
 
 Jaime Pena            7.5
 Giona Nazzaro         8
