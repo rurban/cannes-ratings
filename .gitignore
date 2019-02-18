@@ -33,7 +33,7 @@ letterbox.dat
 letterbox-*.dat.old
 letterbox.diff
 lettr-*-list.html
-lib/Insert.pm
+lib/*.pm
 git_push.sh
 hot_deploy-bump.sh
 logs/
