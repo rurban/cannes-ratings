@@ -1,6 +1,4 @@
-package Cannes::rurban::2011;
-
-#!/usr/bin/perl -- -*- perl -*- 
+package Cannes::rurban::2011; # -*- perl -*- 
 # "The ApichatPoll"
 # Cannes 2011 Critics Ratings, collected by Diego Lerer, ioncinema, indiewire and Reini Urban
 # Recalc and sort ratings by 40 critics from http://micropsia.otroscines.com/2011/05/
@@ -20,7 +18,7 @@ package Cannes::rurban::2011;
 use utf8;
 our $DATA= <<'EOF';
 
-"Les Biens-aimes / Beloved" Christophe Honoré
+"Les Biens-aimes / Beloved" Christophe Honoré [Out Of Competition]
 Diego Batlle (La Nación / OtrosCines, Argentina) – 6
 Rudiger Suchsland (FAZ / Negativ, Deutschland) – 8
 Nando Salva (El Periódico, España) – 1
@@ -278,7 +276,7 @@ Peter Bradshaw (Guardian, UK) 6
 "The Look" Angelina Maccarone [Cannes Classics]
 Rudiger Suchsland (WAZ / Negativ, Deutschland) – 7
 
-"Corman's World" Alex Stapleton
+"Corman's World" Alex Stapleton [Cannes Classics]
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
 Simon Reynolds (DigiatSpy, USA) 8
 
@@ -313,19 +311,21 @@ Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 Carlos Heredero (Cahiers du cinéma, España) –  2
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
-"Dias De Gracia (Days Of Grace)" Everardo Gout
+"Dias De Gracia (Days Of Grace)" Everardo Gout [Out Of Competition]
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 3
 Marcelo Alderete  (Mar del Plata Film Festival, Argentina) –  0
 
-"La Khaoufa Baada Al'Yaoum (No More Fear)" Mourad Ben Cheikh
+"La Khaoufa Baada Al'Yaoum (No More Fear)" Mourad Ben Cheikh [Special Screenings]
 Luciano Monteagudo (Página12, Argentina) –  6
 
-"La Conquête (The Conquest)" Xavier Durringer
+"La Conquête (The Conquest)" Xavier Durringer [Out Of Competition]
 Rudiger Suchsland (WAZ / Negativ, Deutschland) –  7
 Sergi Sanchez (La Razón, España) – 5.5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  6
 Nando Salva (El Periódico, España) – 3
 Agnès C Poirier (Guardian, UK) 4
+
+"18 days (Tamantashar yom)" (Ahmad Abdallah, Mariam Abou Ouf, ..., Egypt) [Special Screenings]
 
 "The Big Fix" Josh Tickell [Special Screenings]
 Simon Gallagher (filmschoolrejects.com, UK) 8 A-
@@ -352,7 +352,7 @@ Sergio Wolf (BAFICI, Argentina) – 6
 
 "Des Jeunes Gens Mödernes" Jérôme de Missol [Quinzaine]
 
-"Pourquoi tu pleures?" Katia Lewkowic
+"Pourquoi tu pleures? (Bachelor Days Are Over)" Katia Lewkowic [Semaine]
 
 "Sur la planche" Leïla Kilani [Quinzaine]
 
@@ -535,7 +535,7 @@ Alejandro G. Calvo (SensaCine, España) –  7
 Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  7
 Mike d'Angelo (AV Club, USA) ??? Reading the reviews, it's clear that the film's central conceit completely escaped me. 2nd viewing required.
 
-“This is Not a Film” Jafar Panahi & Mojtaba Mirtahmasb (7.14) 14 votos
+“This is Not a Film” Jafar Panahi & Mojtaba Mirtahmasb [Special Screenings]
 Fernando Ganzo (Lumiere, España) – 4
 Carlos Heredero (Cahiers du cinéma, España) –  4
 Luciano Monteagudo (Página12, Argentina) –  9
@@ -816,7 +816,7 @@ Alvaro Arroba (La Lectora Provisoria, Argentina) –  1
 Pablo O. Scholz (Clarín, Argentina) –  5
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  4
 
-"The Beaver" Jody Foster (2.80) 5 votos [Out of Competition]
+"The Beaver" Jody Foster (2.80) 5 votos [Out Of Competition]
 Carlos Heredero (Cahiers du cinéma, España) –  3
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  4
 Violeta Kovacsics (Diari de Tarragona, España) -  2
@@ -1208,7 +1208,8 @@ Alejandro G. Calvo (SensaCine, España) –  2
 Jose Luis De Lorenzo (A Sala Llena, Argentina) -  4
 Fernando Juan Lima (El Amante, Argentina) -  6
 
-"Unlawful Killing" Keith Allen
+"Unlawful Killing" Keith Allen [Market]
+ Banned Princess Diana death doc
 Simon Gallagher (filmschoolrejects.com, UK) 6.25 B
 Matt Holmes (Obsessedwithfilm.com, USA) 3
 
@@ -1425,7 +1426,7 @@ Jon Frosch (France 24, USA) 7.5 B+
 Michael Giltz (The Huffington Post, USA) 1 D- 1.5/4
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 1 D
 
-“Take Shelter” Jeff Nichols (6.90) 10 votos [Semaine] (Sundance) Semain Best Picture + Prix SACD
+“Take Shelter” Jeff Nichols (6.90) 10 votos [Semaine] <i>Sundance</i> Semain Best Picture + Prix SACD
 Kevin Jagernauth (Indiewire's The Playlist, USA) 8 A- (Sundance)
 Eric Kohn (Indiewire, USA) 9 A (Sundance)
 Eric D. Snider (Film.com, USA) 7.5 B+ (Sundance)
@@ -1462,7 +1463,7 @@ Alvaro Arroba (La Lectora Provisoria, Argentina) –  9.5
 Pablo O. Scholz (Clarín, Argentina) –  7
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  8
 
-"Martha Marcy May Marlene" Sean Durkin (6.07) 13 votos [Un Certain Regard] (Sundance)
+"Martha Marcy May Marlene" Sean Durkin (6.07) 13 votos [Un Certain Regard] <i>Sundance<i>
 Imdb (79 votes) 7.6
 Kate Erbland (Gordon and the Whale, USA) 9 Sundance
 Raffi Asdourian (The Film Stage, USA) 8 A- Sundance
@@ -1744,7 +1745,7 @@ Fernando Juan Lima (El Amante, Argentina) –  4
 Rudiger Suchsland (WAZ / Negativ, Deutschland) –  5
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 
-“Wu Xia” Peter Ho Sun-Chan (5.78) 9 votos
+“Wu Xia (Dragon)” Peter Ho Sun-Chan (5.78) 9 votos [Out Of Competition]
 Fernando Ganzo (Lumiere, España) –  3
 Kong Rithdee (The Bangkok Post. Thailand) –  5
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
@@ -1875,7 +1876,7 @@ Sukhdev Sandhu (Telegraph, UK) 4
 Simon Reynolds (Digital Spy, UK) 6
 Anne Thompson (Indiewire, USA) 5 B-
 
-“Tous au Lazarc” Christian Rouaud (4.66) 3 votos [Special Screenings]
+“Tous au Lazarc (Leader-Sheep))” Christian Rouaud (4.66) 3 votos [Special Screenings]
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 5
 Luciano Barisone (Duellanti / Panoramiches, Italy) 5
 Carlo Chatrian (Duellanti / Panoramiches, Italy) 4
@@ -2188,12 +2189,14 @@ James Rocchi (MSN Movies, Indiewire's The Playlist, USA) Cloying too-cute cartoo
 Blake Williams (Ioncinema.com, Canada) 5
 Michael Giltz (The Huffington Post, USA) 7.5 3/4
 
-“Labrador” Frederikke Aspock (3.17) 3 votos  [Special Screenings]
+“Labrador (Out of Bounds)” Frederikke Aspöck (3.17) 3 votos  [Special Screenings]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 4.5
 Alvaro Arroba (La Lectora Provisoria, Argentina) 1
 Pablo O. Scholz (Clarín, Argentina) 4
 
-“Bollywood”  R. Omprakash Mehra, Jeffrey Zimbalis (2.00) 2 votos  [Special Screenings]
+“The Postman (Al-boustaguy)” (Hussian Kamal, Egypt 1968) [Special Screenings]
+
+“Bollywood”  R. Omprakash Mehra, Jeffrey Zimbalis (2.00) 2 votos [Out Of Competition]
 Fernando Ganzo (Lumiere, España) – 0
 Luciano Barisone (Duellanti / Panoramiches, Italy) – 4
 Mayer Nissim (Digital Spy, UK) 6
@@ -2586,7 +2589,7 @@ Peter Howell (The Toronto Star, USA) 5 B-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 7.5 B
 Raffi Asdourian (The Film Stage, USA) 3 C
 
-“Midnight in Paris” Woody Allen (5,97) 29 votos [Out of Competition]
+“Midnight in Paris” Woody Allen (5,97) 29 votos [Out Of Competition]
 Fernando Ganzo (Lumiere, España)
 Carlos Heredero (Cahiers du cinéma, España) 5
 Luciano Monteagudo (Página12, Argentina) 6
@@ -2674,7 +2677,6 @@ Peter Howell (The Toronto Star, USA) 5 B-
 Karina Longworth (LA Weekly, USA) 6.25 B
 Jonathan Rosenbaum (Chicago Reader, USA) 5 B-
 
-"."
 --
 http://micropsia.otroscines.com/2011/05/
 http://www.ioncinema.com/
