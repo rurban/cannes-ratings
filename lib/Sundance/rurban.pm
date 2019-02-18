@@ -191,6 +191,7 @@ sub _dump {
   my %critic = %{$_[0]};
   my %title  = %{$_[1]};
   my @t = @{$_[2]};
+  my $year = $_[3];
   my @all = @t;
   my %sections = map{$_=>1} @sections;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
@@ -246,7 +247,8 @@ sub _dump {
       $critic{$c}->{absdiff} = $asum / $num;
       $critic{$c}->{stddev}  = sqrt($s / $num);
     }
-    $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5;
+    $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5
+      and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
@@ -306,7 +308,15 @@ sub _dump {
     next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
+    next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
+    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    if ($lyear) {
+      next if $year - $lyear > 1;
+      # in the 2 New sections skip old films with prev:
+      next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
+        keys %{$title{$t}->{critic}};
+    }
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s >= 2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -317,7 +327,7 @@ sub _dump {
     }
     $i++;
   }
-  my $h = "<h1><a name=\"verygood\"></a> Very Good New Films (avg>7.5, n>3)</h1>\n<table>\n";
+  my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
   for (@t) { 
@@ -327,7 +337,15 @@ sub _dump {
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
+    next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
+    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    if ($lyear) {
+      next if $year - $lyear > 1;
+      # in the 2 New sections skip old films with prev:
+      next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
+        keys %{$title{$t}->{critic}};
+    }
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -339,9 +357,9 @@ sub _dump {
     $i++;
   }
   if ($list) {
-    $out .= "<h1><a name=\"good\"></a>Good New Films (avg>6, n>3)</h1>\n<table>\n"
+    $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
-	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
+	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
   }
   $out .= "\n<h1>All official sections</h1>\n\n";
   my ($allreviews, $numratings) = (0,0);
@@ -471,7 +489,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      next if /^(IMDB|Letterbox) \d+/;
+      next if /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
       my $c;
       if ($critic{$_}->{mag}) {
         $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
@@ -597,7 +615,7 @@ sub _list {
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
-  my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group) );
+  my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group), $year );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;

@@ -255,6 +255,18 @@ sub _dump {
       $badcritic{$c}++ unless exists($params_g{$critic{$c}->{group}});
     }
   }
+  # include the badcritic ratings for the title stddev
+  for (@t) {
+    my $t = $_->[3];
+    my ($a,$s)=($title{$t}->{avg},0);
+    for (keys %{$title{$t}->{critic}}) {
+      my $v = $title{$t}->{critic}->{$_}->[0];
+      if (defined($v) and $v > 0) {
+        $s += ($v-$a)*($v-$a);
+      }
+    }
+    $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
+  }
   # remove critics from %title if critics->stddev > 2.5.
   # we could strike out the best and worst per film, but better strike out off-critics
   # See http://www.facebook.com/note.php?note_id=10150174713060012
@@ -359,7 +371,7 @@ sub _dump {
   if ($list) {
     $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
-	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or has not enough votes.</i></small>\n";
+	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
   }
   $out .= "\n<h1>All official sections</h1>\n\n";
   my ($allreviews, $numratings) = (0,0);
