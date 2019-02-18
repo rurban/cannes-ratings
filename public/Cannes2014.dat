@@ -1,5 +1,4 @@
 package Cannes::rurban::2014; # -*- perl -*-
-#!/usr/bin/perl
 # Cannes 2014 Critics Ratings
 # collected by Diego Lerer, ioncinema, indiewire, screendaily and Reini Urban
 # Recalc and sort ratings by all cannes critics http://www.todaslascriticas.com.ar/cannes
@@ -30,7 +29,7 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"MR TURNER" (Mike LEIGH) [Competition] Best actor
+"Mr Turner" (Mike Leigh) [Competition] Best actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010559/year/2014.html
 Scott Foundas                   http://variety.com/2014/film/reviews/cannes-film-review-mr-turner-1201182098/
 Roger Alan Koza       6
@@ -166,8 +165,9 @@ Nigel M Smith                   http://www.indiewire.com/article/cannes-timothy-
 Jon Frosch            6
 Jordan Cronk          4
 
-"TIMBUKTU" (Abderrahmane SISSAKO) [Competition] Ecumenical Jury Award
+"Timbuktu" (Abderrahmane Sissako) [Competition] Ecumenical Jury Award
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009821/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       6.5
 Alexandra Zawia       7.5
@@ -292,8 +292,9 @@ Tim Robey             8         http://www.telegraph.co.uk/culture/film/filmrevi
 Jon Frosch            8
 Jordan Cronk          6
 
-"THE CAPTIVE" (Atom EGOYAN) [Competition]
+"The Captive" (Atom Egoyan) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001748/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       
 Alexandra Zawia       1
@@ -406,8 +407,9 @@ Nick James                      http://www.bfi.org.uk/news-opinion/sight-sound-m
 Jon Frosch            6
 David Rooney                    http://www.hollywoodreporter.com/review/captive-cannes-review-704831
 
-"WINTER SLEEP (Kis Uykusu)" (Nuri Bilge CEYLAN) [Competition] FIPRESCI Prize Competition + <b>Palme d'Or<b>
+"Winter Sleep (Kis Uykusu)" (Nuri Bilge Ceylan) [Competition] FIPRESCI Prize Competition + <b>Palme d'Or<b>
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012204/year/2014.html
+
 Roger Alan Koza       8
 Alexandra Zawia       9
 Diego Batlle          8.5     http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -533,8 +535,9 @@ Jon Frosch            7
 Jessica Kiang         3       http://blogs.indiewire.com/theplaylist/cannes-review-nuri-bilge-ceylans-winter-sleep-20140516
 Jordan Cronk          8
 
-"SAINT LAURENT" (Bertrand BONELLO) [Competition]
+"Saint Laurent" (Bertrand Bonello) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009757/year/2014.html
+
 Roger Alan Koza       7
 Alexandra Zawia       6
 Diego Batlle          6.5       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -656,8 +659,9 @@ Barbara Scharres              http://www.rogerebert.com/cannes/cannes-2014-day-f
 Jordan Cronk        5         http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/cannes-2014-eyes-have-it-saint-laurent-bertrand
 Nikola Grozdanović  2         http://blogs.indiewire.com/theplaylist/cannes-review-bertrand-bonellos-saint-laurent-starring-gaspard-ulliel-lea-seydoux-louis-garrel-more-20140517
 
-"WILD TALES (RELATOS SALVAJES)" (Damian SZIFRON) [Competition]
+"Wild Tales (Relatos Salvajes)" (Damian Szifron) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100003777/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       4.5
 Alexandra Zawia       4
@@ -777,8 +781,9 @@ Peter Bradshaw        8         http://www.theguardian.com/film/2014/may/17/cann
 Donald Clarke         8         http://www.irishtimes.com/blogs/screenwriter/2014/05/17/cannes-review-of-wild-tales/
 Oliver Lyttleton      6         http://blogs.indiewire.com/theplaylist/cannes-review-snappily-made-darkly-funny-wild-tales-announces-a-sparkling-new-talent-20140517
 
-"THE HOMESMAN" (Tommy Lee JONES) [Competition]
+"The Homesman" (Tommy Lee Jones) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011777/year/2014.html
+
 Roger Alan Koza       6.5
 Alexandra Zawia       5
 Robert Koehler        
@@ -896,8 +901,9 @@ Richard Lawson        6         http://www.vanityfair.com/vf-hollywood/the-homes
 Jordan Cronk          3
 Jon Frosch            6
 
-"LE MERAVIGLIE (The Wonders)" (Alice ROHRWACHER) [Competition] Grand prix
+"Le Meraviglie (The Wonders)" (Alice Rohrwacher) [Competition] Grand prix
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010668/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       7
 Alexandra Zawia       7
@@ -1009,8 +1015,9 @@ Peter Bradshaw        6         http://www.theguardian.com/film/2014/may/17/cann
 Jon Frosch            7
 Oliver Lyttleton      5         http://blogs.indiewire.com/theplaylist/cannes-review-alice-rohrwachers-the-wonders-a-familiar-but-deeply-felt-coming-of-age-tale-20140519
 
-"FOXCATCHER" (Bennett MILLER) [Competition] Best director
+"Foxcatcher" (Bennett Miller) [Competition] Best director
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006317/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       
 Alexandra Zawia       7.5
@@ -1133,8 +1140,9 @@ Alex Billington       9       http://www.firstshowing.net/2014/cannes-2014-tatum
 Richard Lawson        7       http://www.vanityfair.com/vf-hollywood/channing-tatum-foxcatcher-review
 Yorgos Krassakopoulos  8
 
-"MAPS TO THE STARS" (David CRONENBERG) [Competition] Best actress
+"Maps to the Stars" (David Cronenberg) [Competition] Best actress
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004169/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       5.5
 Alexandra Zawia       4.5
@@ -1259,8 +1267,9 @@ Michal Oleszczyk                http://www.rogerebert.com/cannes/the-fault-in-ou
 Catherine Bray                http://blog.film4.com/cannes-review-maps-to-the-stars/
 Craig Skinner         6       http://www.filmdivider.com/cannes-maps-to-the-stars-review/
  
-"DEUX JOURS, UNE NUIT (TWO DAYS, ONE NIGHT)" (Jean-Pierre and Luc DARDENNE) [Competition] 
+"Deux jours, une nuit (Two Days, One Night)" (Jean-Pierre and Luc Dardenne) [Competition] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004439/year/2014.html
+
 Roger Alan Koza       7.5
 Alexandra Zawia       
 Robert Koehler        
@@ -1386,8 +1395,9 @@ Jon Frosch            7
 Jordan Cronk          7
 Glenn Heath Jr        9
 
-"STILL THE WATER (FUTATSUME NO MADO)" (KAWASE Naomi) [Competition]
+"Still the Water (Futatsume no mado)" (Kawase Naomi) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009507/year/2014.html
+
 Roger Alan Koza       5.5
 Alexandra Zawia       5
 Robert Koehler        
@@ -1507,8 +1517,9 @@ Nikola Grozdanović    7       http://blogs.indiewire.com/theplaylist/cannes-rev
 Jordan Cronk          3
 
 
-"THE SEARCH" (Michel HAZANAVICIUS) [Competition]
+"The Search" (Michel Hazanavicius) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010964/year/2014.html
+
 Diego Batlle          2       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
 Diego Lerer           1      http://micropsia.otroscines.com/2014/05/cannes-2014-the-search-de-michael-hazanavicius-y-jimmys-hall-de-ken-loach/
 Eulàlia Iglesias     0.5
@@ -1605,8 +1616,9 @@ Peter Bradshaw        4       http://www.theguardian.com/film/2014/may/21/the-se
 Oliver Lyttleton      1.5     http://blogs.indiewire.com/theplaylist/cannes-review-michel-hazanavicius-the-artist-follow-up-the-search-starring-berenice-bejo-annette-bening-20140521
 Craig Skinner         2       http://www.filmdivider.com/cannes-the-search-review/
 
-"ADIEU AU LANGAGE (GOODBYE TO LANGUAGE)" (Jean-Luc GODARD) [Competition] Jury Prize
+"Adieu au langage (Goodbye to Language)" (Jean-Luc Godard) [Competition] Jury Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011773/year/2014.html
+
 # what happened to those 3?
 Roger Alan Koza       10
 Alexandra Zawia       8.5
@@ -1737,7 +1749,7 @@ Glenn Heath Jr        9
 Oliver Lyttleton      6      http://blogs.indiewire.com/theplaylist/cannes-review-jean-luc-godards-playful-sly-frustrating-goodbye-to-language-in-3d-20140521
 Jordan Cronk          9
 
-"JIMMY’S HALL" (Ken LOACH) [Competition]
+"Jimmy’s Hall" (Ken Loach) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100007371/year/2014.html
 Alexandra Zawia       4.5
 Diego Batlle          7       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -1830,8 +1842,9 @@ Beatrice Behn                 http://www.kino-zeit.de/blog/cannes/jimmy-s-hall
 Mark Adams                    http://www.screendaily.com/reviews/the-latest/jimmys-hall/5072367.article?blocktitle=Other-latest-Reviews&contentID=592
 Matt Mueller                  http://blogs.indiewire.com/thompsononhollywood/cannes-jimmys-hall-a-fitting-swansong-for-ken-loach
 
-"MOMMY" (Xavier DOLAN) [Competition] Jury Prize
+"Mommy" (Xavier Dolan) [Competition] Jury Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010779/year/2014.html
+
 Roger Alan Koza       4.5
 Alexandra Zawia       8
 Diego Batlle          6       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -1950,8 +1963,9 @@ Jon Frosch            8
 Richard Lawson        9       http://www.vanityfair.com/vf-hollywood/xavier-dolan-mommy-cannes-review
 Guy Lodge             5       http://www.hitfix.com/in-contention/review-flashes-of-brilliance-overcome-xavier-dolans-mommy-issues
 
-"CLOUDS OF SILS MARIA" (Olivier ASSAYAS) [Competition]
+"Clouds of Sils Maria" (Olivier Assayas) [Competition]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009214/year/2014.html
+
 Roger Alan Koza       6
 Alexandra Zawia       4.5
 Diego Batlle          7       http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -2075,8 +2089,9 @@ Nikola Grozdanović
 Jordan Cronk          6
 
 
-"LEVIATHAN" (Andrey ZVYAGINTSEV) [Competition] Best screenplay
+"Leviathan" (Andrey Zvyagintsev) [Competition] Best screenplay
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010863/year/2014.html
+
 Roger Alan Koza       4
 Alexandra Zawia       5
 Diego Batlle          7     http://www.otroscines.com/festivales_detalle.php?idnota=8575&idsubseccion=148
@@ -2191,8 +2206,9 @@ Yorgos Krassakopoulos  9
 
 UN CERTAIN REGARD
 
-"PARTY GIRL" (Marie AMACHOUKELI-BARSACQ, Claire BURGER, Samuel THEIS) [Un Certain Regard] UCR Ensemble Prize, Caméra d’Or (best first feature)
+"Party Girl" (Marie Amachoukeli-Barsacq, Claire Burger, Samuel Theis) [Un Certain Regard] UCR Ensemble Prize, Caméra d’Or (best first feature)
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001880/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       4.5
 Alexandra Zawia       3
@@ -2256,8 +2272,9 @@ Glenn Heath Jr        4.5     https://twitter.com/MatchCuts/status/4669422771062
 Nigel M Smith                 http://www.indiewire.com/article/family-therapy-at-cannes-why-party-girl-is-unlike-anything-playing-at-the-festival
 David Acacia                  http://icsfilm.org/news/254-party-girl
 
-"THAT LOVELY GIRL (HARCHECK MI HEADRO/LOIN DE MON PERE)" (Keren YEDAYA) [Un Certain Regard] 
+"That Lovely Girl (Harcheck mi headro/Loin de mon pere)" (Keren Yedaya) [Un Certain Regard] 
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008335/year/2014.html
+
 Roger Alan Koza       2
 Diego Batlle          4
 Diego Lerer           3
@@ -2306,7 +2323,7 @@ Jon Frosch            5
 Jordan Cronk          1.5
 
 
-"THE BLUE ROOM (La chambre bleue)" (Mathieu AMALRIC) [Un Certain Regard]
+"The Blue Room (La chambre bleue)" (Mathieu Amalric) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005442/year/2014.html
 Scott Foundas         
 Roger Alan Koza       
@@ -2379,8 +2396,9 @@ Robbie Collin         8         http://www.telegraph.co.uk/culture/film/cannes-f
 Jon Frosch            5
 Jordan Cronk          6
 
-"AMOUR FOU" (Jessica HAUSNER) [Un Certain Regard]
+"Amour Fou" (Jessica Hausner) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008384/year/2014.html
+
 Roger Alan Koza       7.5
 Alexandra Zawia       6.5
 Diego Lerer           7
@@ -2442,8 +2460,9 @@ Blake Williams        7.1     https://twitter.com/Astrostic/status/4674228065408
 Marc van de Klashorst         http://icsfilm.org/news/255-amour-fou
 Nikola Grozdanović    6       http://blogs.indiewire.com/theplaylist/cannes-review-amour-fou-a-delightful-but-slight-comedy-of-errors-20140517       
 
-"RUN" (Philippe LACOTE) [Un Certain Regard]
+"Run" (Philippe Lacote) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000813/year/2014.html
+
 Alexandra Zawia       2
 José Luis Losa       1
 Pedro Butcher         4
@@ -2469,8 +2488,9 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 
-"THE DISAPPEARANCE OF ELEANOR RIGBY: THEM" (Ned BENSON) [Un Certain Regard] <i>The short version</i>
+"The Disappearance of Eleanor Rigby: Them" (Ned Benson) [Un Certain Regard] <i>Toronto, The short version</i>
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000266/year/2014.html
+
 Alexandra Zawia       2
 Diego Batlle          4
 Eulàlia Iglesias     5
@@ -2522,7 +2542,7 @@ Noel Murray (The Dissolve, USA) 6
 Jordan M. Smith (IONCINEMA.com, USA) 5
 
 
-"WHITE GOD (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard] Prix UCR
+"White God (Fehér Isten)" (Kornel Mundruczo) [Un Certain Regard] Prix UCR
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100009237/year/2014.html
 Roger Alan Koza       2
 Diego Batlle          5
@@ -2573,7 +2593,7 @@ Jordan Cronk         3
 Jessica Kiang        7        http://blogs.indiewire.com/theplaylist/cannes-review-un-certain-regard-top-prize-winner-white-god-20140523
 Glenn Heath Jr       4
 
-"TURIST (Force Majeure)" (Ruben ÖSTLUND) [Un Certain Regard] UCR Jury Prize
+"Turist (Force Majeure)" (Ruben Östlund) [Un Certain Regard] UCR Jury Prize
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010409/year/2014.html
 
 Roger Alan Koza       7
@@ -2621,8 +2641,9 @@ Eric Lavallée         8
 Glenn Heath Jr        8
 Jordan Cronk          7
 
-"HERMOSA JUVENTUD (Beautiful Youth)" (Jaime ROSALES) [Un Certain Regard] Ecumenical Jury recommendation
+"Hermosa juventud (Beautiful Youth)" (Jaime Rosales) [Un Certain Regard] Ecumenical Jury recommendation
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000218/year/2014.html
+
 Roger Alan Koza       6
 Diego Batlle          6.5
 Diego Lerer           6.5
@@ -2673,8 +2694,9 @@ Glenn Heath Jr        2
 Jordan Cronk          3
 
 
-"JAUJA" (Lisandro ALONSO) [Un Certain Regard] FIPRESCI Prize UCR
+"Jauja" (Lisandro Alonso) [Un Certain Regard] FIPRESCI Prize UCR
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100001614/year/2014.html
+
 Scott Foundas         
 Roger Alan Koza       10
 Alexandra Zawia       10
@@ -2748,8 +2770,9 @@ Jessica Kiang        4         http://blogs.indiewire.com/theplaylist/cannes-rev
 Glenn Heath Jr       8
 
 
-"A GIRL AT MY DOOR (DOHEE-YA)" (July JUNG aka JUNG Joo-Ri) [Un Certain Regard]
+"A Girl at my Door (Dohee-ya)" (July Jung aka Jung Joo-Ri) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010477/year/2014.html
+
 Roger Alan Koza       5
 Alex Vicente          4
 Rüdiger Suchsland    7
@@ -2778,8 +2801,9 @@ Christophe Carriére
 Jordan Cronk          4
 
 
-"XENIA" (Panos KOUTRAS) [Un Certain Regard]
+"Xenia" (Panos Koutras) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100006042/year/2014.html
+
 Eulàlia Iglesias     3.5
 Ángel Quintana       4.5
 José Luis Losa       5.5
@@ -2803,8 +2827,9 @@ Pascal Merigeau       1
 Danielle Attali       5
 Christophe Carriére   2.5
 
-"BIRD PEOPLE" (Pascale FERRAN) [Un Certain Regard]
+"Bird People" (Pascale Ferran) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100000816/year/2014.html
+
 Alexandra Zawia       5
 Diego Batlle          5
 Diego Lerer           6       http://micropsia.otroscines.com/2014/05/cannes-2014-white-god-bird-people-lost-river/
@@ -2854,8 +2879,9 @@ A.A. Dowd                     https://twitter.com/AADowd/status/4688212405146296
 Oliver Lyttleton      3       http://blogs.indiewire.com/theplaylist/cannes-review-pascal-ferrans-curious-fable-of-alienation-bird-people-starring-josh-charles-radha-mitchell-20140521
 Jordan Cronk          8
 
-"TITLI" (Kanu BEHL) [Un Certain Regard]
+"Titli" (Kanu Behl) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005440/year/2014.html
+
 Diego Lerer           6
 Pedro Butcher         3
 Alex Vicente          5
@@ -2880,8 +2906,9 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 
-"LOST RIVER" (Ryan GOSLING) [Un Certain Regard]
+"Lost River" (Ryan Gosling) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100012165/year/2014.html
+
 Alexandra Zawia       4
 Diego Batlle          3
 Diego Lerer           6       http://micropsia.otroscines.com/2014/05/cannes-2014-white-god-bird-people-lost-river/
@@ -2937,7 +2964,7 @@ Craig Skinner       1         http://www.filmdivider.com/cannes-lost-river-revie
 # Not unlike a stereotypical student film made on a grand scale, Lost River is a disaster.
 
 
-"THE SALT OF THE EARTH" (Juliano Ribeiro SALGADO and Wim WENDERS) [Un Certain Regard] UCR Special Jury Prize, Ecumenical Jury recommendation
+"The Salt of the Earth" (Juliano Ribeiro Salgado and Wim Wenders) [Un Certain Regard] UCR Special Jury Prize, Ecumenical Jury recommendation
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100008611/year/2014.html
 
 Diego Batlle          5.5
@@ -2973,8 +3000,9 @@ Jay Weissberg                 http://variety.com/2014/film/reviews/cannes-film-r
 Mike d'Angelo       6.2       https://twitter.com/gemko/status/469525544112230401
 
 
-"FANTASIA" (Wang CHAO) [Un Certain Regard]
+"Fantasia" (Wang Chao) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002470/year/2014.html
+
 Diego Batlle          5
 José Luis Losa       4
 Fernando Juan Lima    1
@@ -3001,8 +3029,9 @@ Michael Kienzl        1
 #
 Jordan Cronk          4       https://twitter.com/JordanCronk/status/469793160949141504
 
-"SNOW IN PARADISE" (Andrew HULME) [Un Certain Regard]
+"Snow in Paradise" (Andrew Hulme) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010768/year/2014.html
+
 Ángel Quintana       5
 José Luis Losa       4
 Alex Vicente          6
@@ -3027,8 +3056,9 @@ Christophe Carriére
 Mike d'Angelo                 https://twitter.com/gemko/status/469230243770032128
 Jessica Kiang         1       http://blogs.indiewire.com/theplaylist/cannes-review-andrew-hulmes-snow-in-paradise-a-tired-and-tiresome-brit-gangster-film-20140521
 
-"CHARLIE’S COUNTRY" (Rolf de HEER) [Un Certain Regard] UCR Best Actor
+"Charlie’s Country" (Rolf de Heer) [Un Certain Regard] UCR Best Actor
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100010761/year/2014.html
+
 Roger Alan Koza       7
 Diego Batlle          7
 Luciano Monteagudo    7
@@ -3057,8 +3087,9 @@ Pascal Merigeau
 Danielle Attali       
 Christophe Carriére   
 
-"INCOMPRESA (The Misunderstood)" (Asia ARGENTO) [Un Certain Regard]
+"Incompresa (The Misunderstood)" (Asia Argento) [Un Certain Regard]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002304/year/2014.html
+
 Roger Alan Koza       6.5
 Alexandra Zawia       6
 Diego Batlle          8
@@ -3100,8 +3131,8 @@ Christophe Carriére
 
 SPECIAL SCREENINGS
 
-"GRACE OF MONACO" (Olivier DAHAN) [Out of Competition]
-  http://www.festival-cannes.fr/en/
+"Grace of Monaco" (Olivier Dahan) [Out of Competition]
+
 Scott Foundas         2
 Roger Alan Koza       2
 Alexandra Zawia       0.5
@@ -3198,7 +3229,7 @@ Jon Frosch           2
 Stephanie Zacharek          http://www.villagevoice.com/2014-05-14/film/grace-of-monaco-cannes/
 David Acacia                http://icsfilm.org/news/250-grace-of-monaco
 
-"HOW TO TRAIN YOUR DRAGON 2" (Dean DEBLOIS) [Out Of Competition]
+"How to Train Your Dragon 2" (Dean Deblois) [Out Of Competition]
 Michal Oleszczyk      8
 Xavi Serra            6
 #
@@ -3206,7 +3237,7 @@ Craig Skinner         7
 Oliver Lyttleton      5
 Robbie Collin         6     http://www.telegraph.co.uk/culture/film/filmreviews/10836129/How-to-Train-Your-Dragon-2-review-armrest-gripping-fun.html 
 
-"SILVERED WATER, SYRIA SELF-PORTRAIT (EAU ARGENTEE)" (Mohammed OSSAMA) [Special Screening]
+"Silvered Water, Syria Self-Portrait (Eau argentee)" (Mohammed Ossama) [Special Screening]
 Diego Batlle          8.5
 Carlo Chatrian        9.5
 Luciano Monteagudo    8.5
@@ -3227,8 +3258,9 @@ Andrea Picard         7.5
 Jean-Baptiste Morain             http://cannes2014.lesinrocks.com/2014/05/17/eau-argentee-syrie-autoportrait-beau-et-troublant-moment-du-festival/
 Nick Vivarelli                   http://variety.com/2014/film/news/cannes-syrian-director-talks-silvered-water-filming-revolution-on-cell-phones-1201184769/
 
-"RED ARMY" (Gabe POLSKY) [Special Screening]
+"Red Army" (Gabe Polsky) [Special Screening]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100011577/year/2014.html
+
 Alexandra Zawia       6.5
 Diego Batlle          7
 Diego Lerer           6.5
@@ -3243,14 +3275,15 @@ Donald Clarke         10        http://www.irishtimes.com/blogs/screenwriter/201
 Mahnola Dargis                http://www.nytimes.com/2014/05/19/movies/red-army-is-among-the-notables-at-festival.html
 Alex Billington       9       http://www.firstshowing.net/2014/cannes-2014-gabe-polskys-outstanding-red-army-hockey-doc/
 
-"THE GO-GO BOYS: THE INSIDE STORY OF CANNON" (Hilla Medalia) [Cannes Classics]
+"The Go-Go Boys: The Inside Story of Cannon" (Hilla Medalia) [Cannes Classics]
 Craig Skinner         6       http://www.filmdivider.com/cannes-the-go-go-boys-the-inside-story-of-cannon-films-review/
 Todd McCarthy                 http://www.hollywoodreporter.com/review/go-go-boys-cannes-review-705096
 Tom Christie                  http://blogs.indiewire.com/thompsononhollywood/cannes-review-hilla-medalias-documentary-the-go-go-boys-remembers-1980s-hollywood
 Gali Raz (Jewish Business News)  http://jewishbusinessnews.com/2014/05/18/the-go-go-boys-rock-the-cannes-film-festival-once-again/
 
-"THE SALVATION" (Kristian LEVRING) [Out Of Competition] Midnight
+"The Salvation" (Kristian Levring) [Out Of Competition] Midnight
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100005263/year/2014.html
+
 Eulàlia Iglesias     5.5
 Ángel Quintana       4.5
 Alex Vicente          4
@@ -3267,16 +3300,18 @@ Beatrice Behn                  http://www.kino-zeit.de/blog/cannes/the-salvation
 Jessica Kiang         4        http://blogs.indiewire.com/theplaylist/cannes-review-kristian-levrings-the-salvation-starring-mads-mikkelsen-eva-green-20140517
 Mike d'Angelo         6.5      https://twitter.com/gemko/status/468154346707095552
 
-"KHALIL GIBRAN’S THE PROPHET" (Roger ALLERS, Gaëtan BRIZZI, ...) [Special Screening]
+"Khalil Gibran’s the Prophet" (Roger Allers, Gaëtan Brizzi, ...) [Special Screening]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100016282/year/2014.html
 
-"THE OWNERS" (Adilkhan Yerzhanov) [Special Screening]
+"The Owners" (Adilkhan Yerzhanov) [Special Screening]
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100002115/year/2014.html
+
 Giona Nazzaro         8
 Paolo Bertolin        7.5
 
-"THE ROVER" (David MICHOD) [Out Of Competition] Midnight
+"The Rover" (David Michod) [Out Of Competition] Midnight
   http://www.festival-cannes.fr/en/archives/ficheFilm/id/100004744/year/2014.html
+
 Alexandra Zawia       5
 Diego Batlle         7       https://twitter.com/dmbatlle/status/467652788311556096
 Diego Lerer           6
@@ -3300,9 +3335,10 @@ Jessica Kiang         7       http://blogs.indiewire.com/theplaylist/cannes-revi
 Alex Billington       8       http://www.firstshowing.net/2014/cannes-2014-michods-the-rover-a-quiet-film-that-speaks-loudly/
 Marc van de Klashorst         http://icsfilm.org/news/258-the-rover
 
-"CARICATURISTES – FANTASSINS DE LA DEMOCRATIE" (Stephanie VALLOATTO) [Special Screening]
+"Caricaturistes – Fantassins de la Democratie" (Stephanie Valloatto) [Special Screening]
 
-"EL ARDOR" (Pablo Fendrik) [Special Screening]
+"El Ardor" (Pablo Fendrik) [Special Screening]
+
 Roger Alan Koza       3.5
 Diego Batlle          7
 Diego Lerer           7.5
@@ -3316,7 +3352,8 @@ Pablo Scholz          7.5
 # critic.de
 Till Kadritzke        7.5
 
-"COMING HOME (GUI LAI)" (Zhang YIMOU) [Out Of Competition]
+"Coming Home (Gui Lai)" (Zhang Yimou) [Out Of Competition]
+
 Ángel Quintana       3
 José Luis Losa       4
 Carlos Heredero       6
@@ -3334,13 +3371,13 @@ Jessica Kiang         5       http://blogs.indiewire.com/theplaylist/cannes-revi
 Alex Billington       8.5     http://www.firstshowing.net/2014/cannes-2014-zhang-yimous-tender-moving-new-film-coming-home/
 Marc van de Klashorst         http://icsfilm.org/news/261-coming-home
 
-"LES GENS DU MONDE (People of the World)" (Yves JEULAND) [Out Of Competition]
+"Les gens du monde (People of the World)" (Yves Jeuland) [Out Of Competition]
 
-"GERONIMO" (Tony Gatlif) [Special Screening]
+"Geronimo" (Tony Gatlif) [Special Screening]
 Roger Alan Koza       3.5
 Carlo Chatrian        5
 
-"IN THE NAME OF MY DAUGHTER (L'HOMME QU'ON AIMAIT TROP)" (Andre Techine) [Out Of Competition]
+"In The Name of my Daughter (L'homme qu'on aimait trop)" (Andre Techine) [Out Of Competition]
 Ángel Quintana       5
 José Luis Losa       6
 Carlos Heredero       4.5
@@ -3356,9 +3393,10 @@ Jon Frosch            7
 Jordan Cronk          6
 Glenn Heath Jr        4
 
-"OF MEN AND WAR" (Laurent Bécue-Renard) [Special Screening]
+"Of Men and War" (Laurent Bécue-Renard) [Special Screening]
 
-"MAIDAN" (Sergei LOZNITSA) [Special Screening]
+"Maidan" (Sergei LOZNITSA) [Special Screening]
+
 Roger Alan Koza       10
 Alexandra Zawia       10
 Diego Lerer           9
@@ -3388,7 +3426,8 @@ Boris Nelepo          5
 Cristina Nord         9       http://www.taz.de/Kolumne-Cannes-Cannes/!138950/
 Rüdiger Suchsland    5
 
-"THE BRIDGES OF SARAJEVO" (various directors) [Special Screening]
+"The Bridges of Sarajevo" (various directors) [Special Screening]
+
 Roger Alan Koza       5
 Alexandra Zawia       5
 Diego Lerer           5.5
@@ -3412,7 +3451,7 @@ Boris Nelepo          2.5
 #
 Jordan Cronk          6       https://twitter.com/JordanCronk/status/469432999822778368
 
-"THE TARGET (PYOJEOK)" (YOON Hong-seung aka Chang) [Out Of Competition] Midnight
+"The Target (Pyojeok)" (Yoon Hong-seung aka Chang) [Out Of Competition] Midnight
 
 Diego Batlle          6
 José Luis Losa       3.5
@@ -3431,7 +3470,8 @@ Rüdiger Suchsland    7.5
 
 QUINZAINE
 
-"BANDE DE FILLES (Girlhood)" (Céline SCIAMMA) [Quinzaine]
+"Bande de filles (Girlhood)" (Céline SCIAMMA) [Quinzaine]
+
 Eulàlia Iglesias     7.5
 Ángel Quintana       7
 José Luis Losa       5.5
@@ -3473,7 +3513,8 @@ Adam Woodward                 http://www.littlewhitelies.co.uk/features/articles
 Catherine Bray                http://blog.film4.com/cannes-review-girlhood-bande-de-filles/
 Jordan Cronk          3
 
-"CATCH ME DADDY" (Daniel WOLFE) [Quinzaine]
+"Catch Me Daddy" (Daniel Wolfe) [Quinzaine]
+
 Roger Alan Koza       4
 Luciano Barisone      7
 Javier Estrada        7
@@ -3486,14 +3527,15 @@ Robbie Collin         8     http://www.telegraph.co.uk/culture/film/cannes-film-
 Adam Woodward               http://www.littlewhitelies.co.uk/features/articles/cannes-2014-girlhood-catch-me-daddy-26752
 
 
-"GETT – LE PROCÈS DE VIVIANNE AMSALEM (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi ELKABETZ) [Quinzaine]
+"Gett – Le procès de Vivianne Amsalem (Gett, The Trial Of Viviane Amsallem)" (Ronit et Shlomi Elkabetz) [Quinzaine]
+
 José Luis Losa       7
 Alex Vicente          6.5
 Luciano Barisone      7.5
 Javier Estrada        7
 Jay Weissberg                   http://variety.com/2014/film/reviews/cannes-film-review-gett-the-trial-of-viviane-amsalem-1201184801/
 
-"NATIONAL GALLERY" (Frederick WISEMAN) [Quinzaine]
+"National Gallery" (Frederick Wiseman) [Quinzaine]
 Roger Alan Koza       9
 Alexandra Zawia       7
 Diego Lerer           8
@@ -3531,7 +3573,8 @@ Oliver Lyttleton      7     http://blogs.indiewire.com/theplaylist/cannes-review
 Jordan Cronk          7
 
 
-"LES COMBATTANTS (LOVE AT FIRST FIGHT)" (Thomas CAILLEY) [Quinzaine] FIPRESCI Prize parallel sections, Art Cinema Award, SACD Prize, Europa Cinéma Label Prize
+"Les combattants (Love at First Fight)" (Thomas Cailley) [Quinzaine] FIPRESCI Prize parallel sections, Art Cinema Award, SACD Prize, Europa Cinéma Label Prize
+
 Alex Vicente          8
 Luciano Barisone      6.5
 Dana Linssen          5
@@ -3545,7 +3588,7 @@ Frédéric Jaeger     7.5
 #
 Peter Debruge                 http://variety.com/2014/film/reviews/cannes-film-review-les-combattants-1201180523/
 
-"A HARD DAY" (KIM Seong-Hun) [Quinzaine]
+"A Hard Day" (Kim Seong-Hun) [Quinzaine]
 Diego Batlle          8.5
 Luciano Barisone      7.5
 Fernando Juan Lima    9
@@ -3557,7 +3600,7 @@ Nino Klingler         6
 #
 Jessica Kiang         9     http://blogs.indiewire.com/theplaylist/cannes-review-twisty-inventive-hilarious-korean-cop-thriller-a-hard-day-is-a-total-blast-20140518
 
-"REFUGIADO" (Diego LERMAN) [Quinzaine]
+"Refugiado" (Diego Lerman) [Quinzaine]
 Roger Alan Koza       7
 Diego Batlle          8
 Diego Lerer           8       http://micropsia.otroscines.com/2014/05/cannes-2014-refugiado-de-diego-lerman/
@@ -3566,7 +3609,7 @@ Luciano Monteagudo    7
 Pablo Scholz          7.5
 Andrea Picard         4
 
-"MANGE TES MORTS (Eat Your Bones)" (Jean-Charles HUE) [Quinzaine]
+"Mange tes morts (Eat Your Bones)" (Jean-Charles Hue) [Quinzaine]
 Diego Batlle          7
 Diego Lerer           8
 Fernando Ganzo        7.5
@@ -3580,7 +3623,7 @@ Andrea Picard         7
 Arnaud Hée           5
 Daniel Kasman         6       http://www.mubi.com/notebook/posts/cannes-2014-jean-charles-hues-eat-your-bones
 
-"COLD IN JULY" (Jim MICKLE) [Quinzaine]
+"Cold in July" (Jim Mickle) [Quinzaine] <i>Sundance</i>
   Sundance Midnight
 Diego Lerer           7
 Ángel Quintana       6.5
@@ -3606,14 +3649,14 @@ Sam Adams             5
 Nicolas Bell          9
 Noel Murray           7
 
-"THESE FINAL HOURS" (Zach HILDITCH) [Quinzaine]
+"These Final Hours" (Zach Hilditch) [Quinzaine]
 Jaime Pena            3
 Luciano Barisone      2
 Giona Nazzaro         3.5
 Paolo Bertolin        8
 Javier Estrada        2.5
 
-"QUEEN AND COUNTRY" (John BOORMAN) [Quinzaine]
+"Queen And Country" (John Boorman) [Quinzaine]
 Diego Batlle          6
 Diego Lerer           5
 José Luis Losa       6
@@ -3640,8 +3683,8 @@ Oliver Lyttleton      6       http://blogs.indiewire.com/theplaylist/cannes-revi
 Glenn Heath Jr        4
 Jordan Cronk          3
 
-"WHIPLASH" (Damien CHAZELLE) [Quinzaine]
-  Sundance
+"Whiplash" (Damien Chazelle) [Quinzaine] <i>Sundance</i>
+
 Alexandra Zawia       5
 Diego Batlle          8
 Diego Lerer           7
@@ -3684,7 +3727,7 @@ Todd McCarthy         7       http://www.hollywoodreporter.com/review/whiplash-s
 Herny Barnes          8       http://www.theguardian.com/film/2014/jan/17/sundance-film-festival-review-whiplash
 Amber Wilkinson       8       http://www.telegraph.co.uk/culture/film/filmreviews/10581557/Sundance-2014-Whiplash-review.html
 
-"TU DORS NICOLE" (Stéphane LAFLEUR) [Quinzaine]
+"Tu dors Nicole" (Stéphane Lafleur) [Quinzaine]
 Luciano Monteagudo    6
 Javier Estrada        5.5
 # critic.de
@@ -3695,7 +3738,7 @@ Mike d'Angelo         7.1     https://twitter.com/gemko/status/46888588026736230
 Oliver Lyttleton      9       http://blogs.indiewire.com/theplaylist/cannes-review-stephane-lafleurs-delightful-quebecois-comedy-tu-dors-nicole-is-the-hidden-gem-of-the-festival-20140522
 Glenn Heath Jr        7
 
-"LE CONTE DE LA PRINCESSE KAGUYA (The Story Of Princess Kaguya)" (Isao TAKAHATA) [Quinzaine]
+"Le conte de la Princesse Kaguya (The Story Of Princess Kaguya)" (Isao Takahata) [Quinzaine]
 # Already released in Japan to wide success
 Carlo Chatrian        9
 Jaime Pena            6.5
@@ -3716,11 +3759,11 @@ Daniel Kasman         9
 #
 Maggie Lee                    http://variety.com/2014/film/reviews/film-review-japanese-b-o-hit-the-tale-of-princess-kaguya-1201140562/
 
-"NEXT TO HER (AY LI LAYLA)" (Asaf KORMAN) [Quinzaine]
+"Next to Her (Ay li layla)" (Asaf KORMAN) [Quinzaine]
 # critic.de
 Frédéric Jaeger     4
 
-"ALLELUIA" (Fabrice du WELZ) [Quinzaine]
+"Alleluia" (Fabrice du Welz) [Quinzaine]
 José Luis Losa       3
 Pedro Butcher         7
 Giona Nazzaro         7
@@ -3735,13 +3778,13 @@ Michael Kienzl        6       http://www.critic.de/film/alleluia-6786/
 Blake Williams        6.9     https://twitter.com/Astrostic/status/469443238869622784
 Marc van de Klashorst         http://icsfilm.org/news/264-alleluia
 
-"PRIDE" (Matthew WARCHUS) [Quinzaine]
+"Pride" (Matthew Warchus) [Quinzaine]
 Paolo Moretti         5
 Carlos Reviriego      4
 Fernando Juan Lima    7
 Philip Engel          4
 
-"P’TIT QUINQUIN" (Bruno DUMONT) [Special Screening]
+"P’tit Quinquin" (Bruno Dumont) [Special Screening]
 Roger Alan Koza       9
 Alexandra Zawia       10
 Diego Batlle          9
@@ -3768,7 +3811,7 @@ Nikola Grozdanović            http://blogs.indiewire.com/theplaylist/cannes-rev
 
 SEMAINE
 
-"FAIRE: L'AMOUR" (Djinn CARRÉNARD) [Semaine]
+"Faire: L'Amour" (Djinn Carrénard) [Semaine]
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 Miriam Bale              
 Arnaud Hée               
@@ -3777,7 +3820,7 @@ Frédéric Jaeger          7.5
 Till Kadritzke           
 Daniel Kasman            
 
-"DARKER THAN MIDNIGHT (Più Buio di Mezzanotte)" (Sebastiano RISO) [Semaine]
+"Darker Than Midnight (Più Buio di Mezzanotte)" (Sebastiano Riso) [Semaine]
 Eulàlia Iglesias     5
 Ángel Quintana       4.5
 José Luis Losa       5
@@ -3790,10 +3833,10 @@ Miriam Bale           5
 Frédéric Jaeger     6
 Till Kadritzke        4
 
-"SELF MADE (Boreg)" (Shira GEFFEN) [Semaine]
+"Self Made (Boreg)" (Shira Geffen) [Semaine]
 Fredy Friedlander     4.5
 
-"IT FOLLOWS" (David Robert MITCHELL) [Semaine]
+"It Follows" (David Robert Mitchell) [Semaine]
 Carlo Chatrian        7.5
 Giona Nazzaro         7
 Javier Estrada        6.5
@@ -3809,14 +3852,14 @@ Craig Skinner         7
 Catherine Bray                http://blog.film4.com/cannes-review-it-follows/
 Marc van de Klashorst         http://icsfilm.org/news/259-it-follows
 
-"GENTE DE BIEN" (Franco LOLLI) [Semaine]
+"Gente de bien" (Franco Lolli) [Semaine]
 Roger Alan Koza       7
 Luciano Barisone      6
 # critic.de
 Miriam Bale           4
 Frédéric Jaeger     6
 
-"WHEN ANIMALS DREAM (Når Dyrene Drømmer)" (Jonas Alexander ARNBY) [Semaine]
+"When Animals Dream (Når Dyrene Drømmer)" (Jonas Alexander Arnby) [Semaine]
 José Luis Losa       2.5
 Giona Nazzaro         6
 # critic.de
@@ -3824,13 +3867,13 @@ Frédéric Jaeger     4
 #
 Blake Williams       4.1      https://twitter.com/Astrostic/status/468513878339756032
 
-"HOPE" (Boris LOJKINE) [Semaine] Prix SACD
+"Hope" (Boris Lojkine) [Semaine] Prix SACD
 Dana Linssen          5.5
 # critic.de
 Frédéric Jaeger     6
 #Dana Linssen          6
 
-"THE TRIBE (Plemya)" (Myroslav SLABOSHPYTSKIY) [Semaine] Semaine Grand Prix + Prix Révélation + Distribution Grant
+"The Tribe (Plemya)" (Myroslav Slaboshpytskiy) [Semaine] Semaine Grand Prix + Prix Révélation + Distribution Grant
 Eulàlia Iglesias     6
 José Luis Losa       7.5
 Violeta Kovacsics     6
@@ -3858,19 +3901,19 @@ Leslie Felperin               http://www.hollywoodreporter.com/review/tribe-plem
 Vanina Arrighi de Casanova (Premiere, France) http://www.premiere.fr/Cinema/News-Cinema/REVIEW-The-Tribe-un-premier-film-muet-hardcore-est-LE-choc-du-festival-4002646
 Thomas Sotinel                http://www.lemonde.fr/festival-de-cannes/article/2014/05/22/plemya-sans-les-mots-la-violence-se-fait-plus-terrible_4423360_766360.html
 
-"FLA" (Djinn Carrénard) [Opening Film]
+"Fla" (Djinn Carrénard) [Opening Film]
 Roger Alan Koza       3
 Fernando Ganzo        2
 Andrea Picard         3
 # critic.de
 Frédéric Jaeger     7.5     http://www.critic.de/film/faire-lamour-6772/
 
-"BREATHE (Respire)" (Mélanie LAURENT) [Special Screening]
+"Breathe (Respire)" (Mélanie Laurent) [Special Screening]
 Jessica Kiang         7         http://blogs.indiewire.com/theplaylist/cannes-review-insightful-layered-teen-respire-directed-by-melanie-laurent-20140517
 
-"HIPPOCRATES" (Thomas LILTI) [Special Screening]
+"Hippocrates" (Thomas Lilti) [Special Screening]
 
-"THE KINDERGARTEN TEACHER (Haganenet / L’Institutrice)" (Nadav LAPID) [Special Screening]
+"The Kindergarten Teacher (Haganenet / L’Institutrice)" (Nadav Lapid) [Special Screening]
 Alexandra Zawia       7
 Ángel Quintana       7.5
 José Luis Losa       9
@@ -3893,7 +3936,7 @@ Michael Kienzl        5
 Blake Williams        6.5       https://twitter.com/Astrostic/status/468839731460308992
 Jordan Cronk          7         https://twitter.com/JordanCronk/status/468837584777773056
 
-"WELCOME TO NEW YORK" (Abel Ferrara) [Laptop on the beach]
+"Welcome to New York" (Abel Ferrara) [Laptop on the beach]
 # critic.de
 Christoph Huber       7.5
 Daniel Kasman         6       http://www.mubi.com/notebook/posts/cannes-2014-abel-ferraras-welcome-to-new-york
@@ -3907,7 +3950,7 @@ Rachel Donadio (New York Times, USA)  http://artsbeat.blogs.nytimes.com/2014/05/
 Jon Frosch                      http://www.theatlantic.com/entertainment/archive/2014/05/the-dominique-strauss-kahn-movie-has-arrived-at-cannes/371120/
 Peter Labuza          7         http://thefilmstage.com/reviews/cannes-review-welcome-to-new-york/
 
-"HARD TO BE A GOD" Alexei GERMAN [Market]
+"Hard to Be a God" (Alexei German) [Market]
   Rome Film festival
 Peter Labuza          8         http://thefilmstage.com/reviews/cannes-review-hard-to-be-a-god/
 
