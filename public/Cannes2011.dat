@@ -18,7 +18,7 @@ package Cannes::rurban::2011; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-"Les Biens-aimes / Beloved" Christophe Honoré [Out Of Competition]
+"Les Biens-aimes / Beloved" (Christophe Honoré) [Out Of Competition]
 Diego Batlle (La Nación / OtrosCines, Argentina) – 6
 Rudiger Suchsland (FAZ / Negativ, Deutschland) – 8
 Nando Salva (El Periódico, España) – 1
@@ -29,7 +29,7 @@ Eric Kohn (indieWIRE, USA) 6.25 B
 Guy Lodge (InContention, USA) 1.5 D+
 James Rocchi (Indiewire's The Playlist, USA) 1.2 D
 
-“The Source” Radu Mihaileanu (1.10) 5 votos [Competition]
+“The Source” (Radu Mihaileanu) (1.10) 5 votos [Competition]
 Fernando Ganzo (Lumiere, España) -
 Carlos Heredero (Cahiers du cinéma, España) -
 Luciano Monteagudo (Página12, Argentina) -
@@ -103,7 +103,7 @@ Alberto Crespi (L'Unita, Italy)
 Bo Green Jensen (Weekandavisen Berlingske, Denmark) 5
 Screen International (Screen International, USA) 7.5
 
-“Once Upon a Time in Anatolya” Nuri Bilge Ceylan (7.12) 12 votos [Competition] Grand prix
+“Once Upon a Time in Anatolya” (Nuri Bilge Ceylan) (7.12) 12 votos [Competition] Grand prix
 Fernando Ganzo (Lumiere, España) – 5.5
 Carlos Heredero (Cahiers du cinéma, España) -
 Luciano Monteagudo (Página12, Argentina) –  8
@@ -182,14 +182,14 @@ Jon Frosch (France 24,USA) 9 A
 Peter Howell (The Toronto Star, Canada) 6.25 B
 Eric Kohn (indieWIRE, USA) 8 A-
 
-"Elena" Andrei Zvyagintsev [Un Certain Regard] Special Jury Price UCR
+"Elena" (Andrei Zvyagintsev) [Un Certain Regard] Special Jury Price UCR
 Diego Batlle (La Nación / OtrosCines, Argentina) – 7
 
-"Les Géants" Bouli Lanner [Quinzaine] Art Cinema award + Prix SACD
+"Les Géants" (Bouli Lanner) [Quinzaine] Art Cinema award + Prix SACD
 
-"Atmen" Karl Markovic [Quinzaine] Label Europa Cinemas award
+"Atmen" (Karl Markovic) [Quinzaine] Label Europa Cinemas award
 
-“This Must Be the Place” Paolo Sorrentino (3.075) 19 votos [Competition] Ecumenical Jury prize
+“This Must Be the Place” (Paolo Sorrentino) (3.075) 19 votos [Competition] Ecumenical Jury prize
 Fernando Ganzo (Lumiere, España) -
 Carlos Heredero (Cahiers du cinéma, España) –  3
 Luciano Monteagudo (Página12, Argentina) - 3
@@ -273,52 +273,52 @@ Eric Kohn (indieWIRE) 1.5 D+
 #Guy Lodge (InContention) 2 C-
 Peter Bradshaw (Guardian, UK) 6
 
-"The Look" Angelina Maccarone [Cannes Classics]
+"The Look" (Angelina Maccarone) [Cannes Classics]
 Rudiger Suchsland (WAZ / Negativ, Deutschland) – 7
 
-"Corman's World" Alex Stapleton [Cannes Classics]
+"Corman's World" (Alex Stapleton) [Cannes Classics]
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
 Simon Reynolds (DigiatSpy, USA) 8
 
-"Blue Bird" Gust Van den Berghe [Quinzaine]
+"Blue Bird" (Gust Van den Berghe) [Quinzaine]
 Cristina Nord (Die Tageszeitung, Deutschland) – 6.8
 Rudiger Suchsland (WAZ / Negativ, Deutschland) – 2
 
-"Sauna on Moon" Zou Pen [Semaine]
+"Sauna on Moon" (Zou Pen) [Semaine]
 Rudiger Suchsland (WAZ / Negativ, Deutschland) – 5.8
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  5
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 6.5
 Paolo Bertolin (Cineforum, Italia) - 5
 Scott Foundas (Film Comment, U.S.) - 6
 
-"Après le sud" Jean-Jacques Jauffre [Quinzaine]
+"Après le sud" (Jean-Jacques Jauffre) [Quinzaine]
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  2
 
-"Avé" Konstantin Bojano [Semaine]
+"Avé" (Konstantin Bojano) [Semaine]
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.50
 Rudiger Suchsland (WAZ / Negativ, Deutschland) – 7.00
 
-"El velador / The Night Watchman" Natalia Almada (6,00) 2 votos [Quinzaine]
+"El velador (The Night Watchman)" (Natalia Almada) (6,00) 2 votos [Quinzaine]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
 ?? () 6
 
-"My Little Princess" Eva Ionescu [Semaine]
+"My Little Princess" (Eva Ionescu) [Semaine]
 Sergio Wolf (BAFICI, Argentina) – 1
 Rudiger Suchsland (WAZ / Negativ, Deutschland) – 3.9
 
-"Snowtown" Justin Kurzel [Semaine] (Adelaide) Special Mention
+"Snowtown" (Justin Kurzel) [Semaine] <i>Adelaide</i> Special Mention
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 Carlos Heredero (Cahiers du cinéma, España) –  2
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
-"Dias De Gracia (Days Of Grace)" Everardo Gout [Out Of Competition]
+"Dias De Gracia (Days Of Grace)" (Everardo Gout) [Out Of Competition]
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 3
 Marcelo Alderete  (Mar del Plata Film Festival, Argentina) –  0
 
-"La Khaoufa Baada Al'Yaoum (No More Fear)" Mourad Ben Cheikh [Special Screenings]
+"La Khaoufa Baada Al'Yaoum (No More Fear)" (Mourad Ben Cheikh) [Special Screenings]
 Luciano Monteagudo (Página12, Argentina) –  6
 
-"La Conquête (The Conquest)" Xavier Durringer [Out Of Competition]
+"La Conquête (The Conquest)" (Xavier Durringer) [Out Of Competition]
 Rudiger Suchsland (WAZ / Negativ, Deutschland) –  7
 Sergi Sanchez (La Razón, España) – 5.5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  6
@@ -327,14 +327,14 @@ Agnès C Poirier (Guardian, UK) 4
 
 "18 days (Tamantashar yom)" (Ahmad Abdallah, Mariam Abou Ouf, ..., Egypt) [Special Screenings]
 
-"The Big Fix" Josh Tickell [Special Screenings]
+"The Big Fix" (Josh Tickell) [Special Screenings]
 Simon Gallagher (filmschoolrejects.com, UK) 8 A-
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 3
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  0
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  4
 Alejandro G. Calvo (SensaCine, España) –  5
 
-"Okhotnik / The Hunter" Bakur Bakuradze [Un Certain Regard]
+"Okhotnik (The Hunter)" (Bakur Bakuradze) [Un Certain Regard]
 Luciano Monteagudo (Página12, Argentina) – 5
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) - 7
 Diego Batlle (La Nación / OtrosCines, Argentina) – 6
@@ -344,19 +344,19 @@ Fernando Juan Lima (El Amante, Argentina) - 2
 Rudiger Suchsland (WAZ / Negativ, Deutschland) –  4
 Fernando Ganzo (Lumiere, España) – 3
 
-“Return” Liza Johnson [Quinzaine]
+“Return” (Liza Johnson) [Quinzaine]
 Mike d'Angelo (AV Club, USA) 6.1 Promising debut
 Sergio Wolf (BAFICI, Argentina) – 6
 
-"En ville" Valérie Mréjen et Bertrand Schefe [Quinzaine]
+"En ville" (Valérie Mréjen, Bertrand Schefe) [Quinzaine]
 
-"Des Jeunes Gens Mödernes" Jérôme de Missol [Quinzaine]
+"Des Jeunes Gens Mödernes" (Jérôme de Missol) [Quinzaine]
 
-"Pourquoi tu pleures? (Bachelor Days Are Over)" Katia Lewkowic [Semaine]
+"Pourquoi tu pleures? (Bachelor Days Are Over)" (Katia Lewkowic) [Semaine]
 
-"Sur la planche" Leïla Kilani [Quinzaine]
+"Sur la planche" (Leïla Kilani) [Quinzaine]
 
-“Drive” Nicolas Winding Refn (7.28) 21 votos [Competition] Best Director
+“Drive” (Nicolas Winding Refn) (7.28) 21 votos [Competition] Best Director
 Mike d'Angelo (AV Club, USA) 7.6 B+
 Fernando Ganzo (Lumiere, España) -
 Carlos Heredero (Cahiers du cinéma, España) - 6.5
@@ -442,7 +442,7 @@ Patrick Z. McGavin (Lightsensitive.typepad.com) 5 B-
 Rob Nelson (Variety) 5 B-
 Peter Bradshaw (Guardian, UK) 8
 
-"The Murderer / The Yellow Sea" Nan Hong-jin (7.675) 12 votos [Un Certain Regard]
+"The Murderer / The Yellow Sea" (Nan Hong-jin) (7.675) 12 votos [Un Certain Regard]
 Mike d'Angelo (AV Club, USA) 4.7 Hollywood audition reels. Setup intrigues but then it's generic car crashes and hatchet fights. Done with Na.
 Fernando Ganzo (Lumiere, España) – 4
 Luciano Monteagudo (Página12, Argentina) – 8
@@ -457,13 +457,13 @@ Pamela Bienzobas (Mabuse, Chile) –  6.3
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) – 8
 Alejandro G. Calvo (SensaCine, España) –  8
 
-"La Nuit, elles dansent" Isabelle Lavigne et Stéphane Thibault (6.00) 4 votos [Quinzaine]
+"La Nuit, elles dansent" (Isabelle Lavigne, Stéphane Thibault) (6.00) 4 votos [Quinzaine]
 Fernando Ganzo (Lumiere, España) –  4
 Luciano Barisone (Duellanti / Panoramiches, Italy) –  6
 Rudiger Suchsland (FAZ / Negativ, Deutschland) –  6
 Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) –  8
 
-"Chatrak" Vimukthi Jayasundara (5.92) 6 votos [Quinzaine]
+"Chatrak" (Vimukthi Jayasundara) (5.92) 6 votos [Quinzaine]
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  6.5
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  7
@@ -471,7 +471,7 @@ Alvaro Arroba (La Lectora Provisoria, Argentina) –  4
 Paolo Bertolin (Cineforum, Italia) – 9
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  5
 
-"L'Exercise de L'Etat / The Minister" Pierre Schoeller (6.05) 10 votos [Un Certain Regard]
+"L'Exercise de L'Etat (The Minister)" (Pierre Schoeller) (6.05) 10 votos [Un Certain Regard]
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 4.5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  6.5
 Cristina Nord (Die Tageszeitung, Deutschland) – 6.9
@@ -482,14 +482,14 @@ Scott Foundas (Film Comment, U.S.) –  6
 Rudiger Suchsland (FAZ / Negativ, Deutschland) –  7.1
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6
 
-"Koi no Tsumi / Guilty of Romance" Sion Sono (8.44) 5 votos [Quinzaine]
+"Koi no Tsumi (Guilty of Romance)" (Sion Sono) (8.44) 5 votos [Quinzaine]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 8
 Violeta Kovacsics (Diari de Tarragona, España) -  9.2
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  7.5
 Fernando Juan Lima (El Amante, Argentina) -  9.5
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  8
 
-“The Day He Arrives” Hong Sangsoo (7.65) 22 votos [Un Certain Regard]
+“The Day He Arrives” (Hong Sangsoo) (7.65) 22 votos [Un Certain Regard]
 Fernando Ganzo (Lumiere, España) –  8.80
 Carlos Heredero (Cahiers du cinéma, España) – 8.50
 Luciano Monteagudo (Página12, Argentina) -
@@ -535,7 +535,7 @@ Alejandro G. Calvo (SensaCine, España) –  7
 Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -  7
 Mike d'Angelo (AV Club, USA) ??? Reading the reviews, it's clear that the film's central conceit completely escaped me. 2nd viewing required.
 
-“This is Not a Film” Jafar Panahi & Mojtaba Mirtahmasb [Special Screenings]
+“This is Not a Film” (Jafar Panahi, Mojtaba Mirtahmasb) [Special Screenings]
 Fernando Ganzo (Lumiere, España) – 4
 Carlos Heredero (Cahiers du cinéma, España) –  4
 Luciano Monteagudo (Página12, Argentina) –  9
@@ -552,7 +552,7 @@ Pablo O. Scholz (Clarín, Argentina) –  8
 Pamela Bienzobas (Mabuse, Chile) -  7
 Mike d'Angelo (AV Club, USA) 5.1
 
-"La Piel Que Habito / The Skin I Live In" Pedro Almodóva (6,92) 28 votos [Competition]
+"La Piel Que Habito (The Skin I Live In)" (Pedro Almodóvar) (6,92) 28 votos [Competition]
 Fernando Ganzo (Lumiere, España) –  7
 Carlos Heredero (Cahiers du cinéma, España) –  5
 Luciano Monteagudo (Página12, Argentina) –  6
@@ -639,7 +639,7 @@ Patrick Z. McGavin (Lightsensitive.typepad.com) 6.25 B
 Rob Nelson (Variety) 5 B
 Peter Bradshaw (Guardian, UK) 8
 
-“Melancholia” Lars von Trier (5.54) 26 votos [Competition]
+“Melancholia” (Lars von Trier) (5.54) 26 votos [Competition]
 Fernando Ganzo (Lumiere, España) – 5.2012
 Carlos Heredero (Cahiers du cinéma, España) –  8
 Luciano Monteagudo (Página12, Argentina) –  5
@@ -732,7 +732,7 @@ Sasha Stone (AwardsDaily, USA) 7.5 B+
 Chase Whale (Gordon and the Whale, USA) 10 A+
 Joshua Brunsting (Gordon and the Whale, USA) 9 A
 
-“Ichimei / Hara-kiri”, de Takashi Miike (6.15) 24 votos [Competition]
+“Ichimei (Hara-kiri)” (Takashi Miike) (6.15) 24 votos [Competition]
 Fernando Ganzo (Lumiere, España) –  4
 Carlos Heredero (Cahiers du cinéma, España) –  7
 Luciano Monteagudo (Página12, Argentina) – 7.50
@@ -806,7 +806,7 @@ Alberto Crespi (L'Unita, Italy) 2.5
 Bo Green Jensen (Weekandavisen Berlingske, Denmark) 5
 Screen International (Screen International, USA) 5
 
-"Oslo, 31. August" Joachim Trier (4.25) 8 votos [Un Certain Regard]
+"Oslo, 31. August" (Joachim Trier) (4.25) 8 votos [Un Certain Regard]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  6
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
@@ -816,7 +816,7 @@ Alvaro Arroba (La Lectora Provisoria, Argentina) –  1
 Pablo O. Scholz (Clarín, Argentina) –  5
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  4
 
-"The Beaver" Jody Foster (2.80) 5 votos [Out Of Competition]
+"The Beaver" (Jody Foster) (2.80) 5 votos [Out Of Competition]
 Carlos Heredero (Cahiers du cinéma, España) –  3
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  4
 Violeta Kovacsics (Diari de Tarragona, España) -  2
@@ -843,7 +843,7 @@ Matt Singer (IFC News, USA) 5 B-
 Anne Thompson (Indiewire, USA) 7.5 B+
 Chase Whale (Gordon and the Whale) 3 C 
 
-“Loverboy”, de Catalin Mitulescu (5.18) 10 votos [Un Certain Regard]
+“Loverboy” (Catalin Mitulescu) (5.18) 10 votos [Un Certain Regard]
 Carlos Heredero (Cahiers du cinéma, España) –  3
 Luciano Monteagudo (Página12, Argentina) –  5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  6.5
@@ -855,7 +855,7 @@ Fernando Juan Lima (El Amante, Argentina) –  5
 Pablo O. Scholz (Clarín, Argentina) –  5
 Mike d'Angelo (AV Club, USA) 0 walkaout
 
-"Skoonheid / Beauty" Oliver Hermanus (2.40) 5 votos [Un Certain Regard]
+"Skoonheid (Beauty)" (Oliver Hermanus) (2.40) 5 votos [Un Certain Regard]
 Kong Rithdee (The Bangkok Post. Thailand) –  5
 Olivier Pere (Les Inrockuptibles, France) –  0
 Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) –  3
@@ -864,7 +864,7 @@ Alejandro G. Calvo (SensaCine, España) –  1
 Guy Lodge (InContention.com, South Africa) 7.5 B+
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
-"Tatsumi" Eric Khoo (6.59) 13 voto [Un Certain Regard]
+"Tatsumi" (Eric Khoo) [Un Certain Regard]
 Ernando Ganzo (Lumiere, España) –  5
 Carlos Heredero (Cahiers du cinéma, España) –  5
 Luciano Monteagudo (Página12, Argentina) -
@@ -909,7 +909,7 @@ Carlos Reviriego (El Cultural / Cahiers du cinéma, España) -
 Alejandro G. Calvo (SensaCine, España) –  8
 Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand) -
 
-"Hanezu No Tsuki" Naomi Kawase (6.30) 22 votos [Competition]
+"Hanezu No Tsuki" (Naomi Kawase) (6.30) 22 votos [Competition]
 Fernando Ganzo (Lumiere, España) –  6
 Carlos Heredero (Cahiers du cinéma, España) - 7
 Luciano Monteagudo (Página12, Argentina) - 7
@@ -985,22 +985,22 @@ Screen International (Screen International, USA) 5
 Joshua Brunsting (Chase and the Whale, USA) 2 C-
 Michael Giltz (The Huffington Post, USA) 3.25 1.5/4
 
-"Busong" Auraeus Solito (5.30) 5 votos [Quinzaine]
+"Busong" (Auraeus Solito) (5.30) 5 votos [Quinzaine]
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6
 Alvaro Arroba (La Lectora Provisoria, Argentina) –  4.5
 Paolo Bertolin (Cineforum, Italia) - 6
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6
 
-"The Island" Kamen Kalev (5.50) 2 votos [Quinzaine]
+"The Island" (Kamen Kalev) (5.50) 2 votos [Quinzaine]
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  3
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  8
 
-"Corpo celeste" Alice Rohrwacher (6.50) 2 votos [Quinzaine]
+"Corpo celeste" (Alice Rohrwacher) (6.50) 2 votos [Quinzaine]
 Fernando Ganzo (Lumiere, España) –  6
 Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
 
-"O abismo prateado" Karim Aïnouz (5.91) 11 votos [Quinzaine]
+"O abismo prateado" (Karim Aïnouz) (5.91) 11 votos [Quinzaine]
 Carlos Heredero (Cahiers du cinéma, España) –  6
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) – 5.5
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  6
@@ -1013,7 +1013,7 @@ Pedro Butcher (Filme B / Folha de Sao Paulo, Brasil) – 6.5
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  2
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  6.50
 
-"Pater" Alain Cavalier (5.77) 22 votos [Competition]
+"Pater" (Alain Cavalier) (5.77) 22 votos [Competition]
 Fernando Ganzo (Lumiere, España) -
 Carlos Heredero (Cahiers du cinéma, España) -
 Luciano Monteagudo (Página12, Argentina) - 6
@@ -1090,7 +1090,7 @@ Mike d'Angelo (AV Club, USA) 2.6 D+
 Simon Abrams (Freelance, USA) 2 C-
 David Calhoun (Time Out London, UK) 4
 
-"Play" Ruben Östlun (6.04) 5 votos [Quinzaine] Séance "Coup de coeur" prize 
+"Play" (Ruben Östlun) (6.04) 5 votos [Quinzaine] Séance "Coup de coeur" prize 
 Diego Batlle (La Nación / OtrosCines, Argentina) –  8
 Cristina Nord (Die Tageszeitung, Deutschland) – 6.9
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
@@ -1098,7 +1098,7 @@ Rudiger Suchsland (WAZ / Negativ, Deutschland) –  7.3
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  2
 Mike d'Angelo (AV Club, USA) 5.9
 
-“Impardonnables” André Techine (4.97) 11 votos [Quinzaine]
+“Impardonnables” (André Techine) (4.97) 11 votos [Quinzaine]
 Fernando Ganzo (Lumiere, España) –  3.1416
 Carlos Heredero (Cahiers du cinéma, España) -  5
 Luciano Monteagudo (Página12, Argentina) –  5
@@ -1112,7 +1112,7 @@ Fernando Juan Lima (El Amante, Argentina) – 6
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  5
 Mike d'Angelo (AV Club, USA) 3.8
 
-“Le Havre” Aki Kaurismaki (8.72) 29 votos [Competition] FIPRESCI Price
+“Le Havre” (Aki Kaurismaki) (8.72) 29 votos [Competition] FIPRESCI Price
 Fernando Ganzo (Lumiere, España) - 8.8
 Carlos Heredero (Cahiers du cinéma, España) – 9.9
 Luciano Monteagudo (Página12, Argentina) - 9
@@ -1194,7 +1194,7 @@ Joshua Brunsting (Chase and the Whale, USA) 9 A
 Eric Kohn (Indiewire, USA) 8 A-
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4
 
-“Et maintenant, on va ou?” Nadine Labaki (3.125) 8 votos [Un Certain Regard]
+“Et maintenant, on va ou?” (Nadine Labaki) (3.125) 8 votos [Un Certain Regard]
 Carlos Heredero (Cahiers du cinéma, España) -  2
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  5
 Diego Batlle (La Nación / OtrosCines, Argentina) -  5
@@ -1204,16 +1204,16 @@ Fernando Juan Lima (El Amante, Argentina) –  2
 Manu Yáñez(Fotogramas, España) -  2
 Alejandro G. Calvo (SensaCine, España) –  2
 
-"Code Blue" Urszula Antonia (5.00) 2 votos [Quinzaine]
+"Code Blue" (Urszula Antonia) (5.00) 2 votos [Quinzaine]
 Jose Luis De Lorenzo (A Sala Llena, Argentina) -  4
 Fernando Juan Lima (El Amante, Argentina) -  6
 
-"Unlawful Killing" Keith Allen [Market]
+"Unlawful Killing" (Keith Allen) [Market]
  Banned Princess Diana death doc
 Simon Gallagher (filmschoolrejects.com, UK) 6.25 B
 Matt Holmes (Obsessedwithfilm.com, USA) 3
 
-“Hors Satan” Bruno Dumont (5.97) 26 votos [Un Certain Regard]
+“Hors Satan” (Bruno Dumont) (5.97) 26 votos [Un Certain Regard]
 Fernando Ganzo (Lumiere, España) –  2.01
 Carlos Heredero (Cahiers du cinéma, España) –  3
 Luciano Monteagudo (Página12, Argentina) -  8
@@ -1249,7 +1249,7 @@ Michael Giltz (The Huffington Post, USA) 5 2/4 (2 C-)
 Rob Nelson (Variety, USA) 6.25 B
 Guy Lodge (InContention.com, South Africa) 1.5 D+
 
-“The Tree of Life” Terrence Malick (7.09) 30 votos [Competition] Palm d'Or
+“The Tree of Life” (Terrence Malick)s (7.09) 30 votos [Competition] Palm d'Or
 Fernando Ganzo (Lumiere, España) – 6.666
 Carlos Heredero (Cahiers du cinéma, España) –  6.5
 Luciano Monteagudo (Página12, Argentina) -  6
@@ -1342,7 +1342,7 @@ Rob Nelson (Variety, USA) 8 A-
 Jonathan Rosenbaum (Chicago Reader, USA) 4 C+
 Chase Whale (Gordon and the Whale, USA) 2 C-
 
-“L'Apollonide” Bertrand Bonello (6.10) 22 votos [Competition]
+“L'Apollonide” (Bertrand Bonello) (6.10) 22 votos [Competition]
 Fernando Ganzo (Lumiere, España) - 9
 Carlos Heredero (Cahiers du cinéma, España) - 3
 Luciano Monteagudo (Página12, Argentina) - 5
@@ -1426,7 +1426,7 @@ Jon Frosch (France 24, USA) 7.5 B+
 Michael Giltz (The Huffington Post, USA) 1 D- 1.5/4
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 1 D
 
-“Take Shelter” Jeff Nichols (6.90) 10 votos [Semaine] <i>Sundance</i> Semain Best Picture + Prix SACD
+“Take Shelter” (Jeff Nichols) (6.90) 10 votos [Semaine] <i>Sundance</i> Semain Best Picture + Prix SACD
 Kevin Jagernauth (Indiewire's The Playlist, USA) 8 A- (Sundance)
 Eric Kohn (Indiewire, USA) 9 A (Sundance)
 Eric D. Snider (Film.com, USA) 7.5 B+ (Sundance)
@@ -1448,7 +1448,7 @@ Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  7
 Mike d'Angelo (AV Club, USA) 5.9
 Paul Martin (Indies Movies Online, USA) 6
 
-“Duch, Master of the Forges of Hell” Rithy Panh (8.13) 13 votos [Special Screenings]
+“Duch, Master of the Forges of Hell” (Rithy Panh) (8.13) 13 votos [Special Screenings]
 Fernando Ganzo (Lumiere, España) –  8
 Carlos Heredero (Cahiers du cinéma, España) -  8.5
 Luciano Monteagudo (Página12, Argentina) –  9
@@ -1463,7 +1463,7 @@ Alvaro Arroba (La Lectora Provisoria, Argentina) –  9.5
 Pablo O. Scholz (Clarín, Argentina) –  7
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  8
 
-"Martha Marcy May Marlene" Sean Durkin (6.07) 13 votos [Un Certain Regard] <i>Sundance<i>
+"Martha Marcy May Marlene" (Sean Durkin) (6.07) 13 votos [Un Certain Regard] <i>Sundance<i>
 Imdb (79 votes) 7.6
 Kate Erbland (Gordon and the Whale, USA) 9 Sundance
 Raffi Asdourian (The Film Stage, USA) 8 A- Sundance
@@ -1511,7 +1511,7 @@ James Rocchi (MSN Movies, USA) 10 A+
 Kyle Smith (New York Post, USA) 8 A- 
 Kim Voynar (Movie City News, USA) 9 A 
 
-"Walk Away Renée" Jonathan Caouette (5.08) 6 votos [Semaine]
+"Walk Away Renée" (Jonathan Caouette) (5.08) 6 votos [Semaine]
 Fernando Ganzo (Lumiere, España) –  4
 Cristina Nord (Die Tageszeitung, Deutschland) –  6
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.5
@@ -1520,7 +1520,7 @@ Pamela Bienzobas (Mabuse, Chile) –  6
 Carlos Reviriego (El Cultural / Cahiers du cinéma, España) –  5
 Eric Kohn (Indiewire, USA) 6.25 B
 
-“Halt auf freier Strecke / Stopped on Tracks” Andreas Dresen (5.63) 9 votos [Un Certain Regard] Main Price UCR
+“Halt auf freier Strecke (Stopped on Tracks)” (Andreas Dresen) (5.63) 9 votos [Un Certain Regard] Main Price UCR
 Carlos Heredero (Cahiers du cinéma, España) -  7
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) – 6.5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  5
@@ -1532,7 +1532,7 @@ Rudiger Suchsland (FAZ / Negativ, Deutschland) –  2.7
 Pablo O. Scholz (Clarín, Argentina) –  6
 Sukhdev Sandhu (Telegraph, UK) 8
 
-"The Artist" Michel Hazanaviciu  (5.66) 19 votos [Competition]
+"The Artist" (Michel Hazanavicius) (5.66) 19 votos [Competition]
 Mike d'Angelo (AV Club, USA) 5.2 Depicting the end of the silent era *as* a silent film is an inspired idea. Film itself is less inspired.
 Matt Holmes (Obsessedwithfilm.com, USA) 9
 Fernando Ganzo (Lumiere, España) 6.5
@@ -1620,7 +1620,7 @@ Michael Giltz (The Huffington Post, USA) 8.75 B+ 3.5/4
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 Eric Kohn (Indiewire, USA) 7.5 B+
 
-“Le gamin au vélo” Jean-Pierre et Luc Dardenne (7.86) 31 votos [Competition] Grand prix
+“Le gamin au vélo” (Jean-Pierre & Luc Dardenne) (7.86) 31 votos [Competition] Grand prix
 Fernando Ganzo (Lumiere, España)
 Carlos Heredero (Cahiers du cinéma, España) 7.5
 Luciano Monteagudo (Página12, Argentina) –  8
@@ -1702,7 +1702,7 @@ Jon Frosch (France 24, France) 6.25 B
 Michael Giltz (The Huffington Post, USA) 8 A-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 7.5 B+
 
-"Bonsaï" Cristián Jiménez (5.00) 5 votos [Un Certain Regard]
+"Bonsaï" (Cristián Jiménez) (5.00) 5 votos [Un Certain Regard]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4.5
 Jose Luis De Lorenzo (A Sala Llena, Argentina) –  3
@@ -1711,14 +1711,14 @@ Pamela Bienzobas (Mabuse, Chile) –  7.5
 #Mike d'Angelo (AV Club, USA) 0
 Michael Giltz (The Huffington Post, USA) 5 2/4
 
-“Porfirio” Alejandro Landes (6.50) 4 votos [Quinzaine]
+“Porfirio” (Alejandro Landes) (6.50) 4 votos [Quinzaine]
 Carlos Heredero (Cahiers du cinéma, España) –  6.5
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  6
 Luciano Barisone (Duellanti / Panoramiches, Italy) –  7
 Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6.5
 Blake Williams (Ioncinema.com, Canada) 7
 
-“17 filles” Delphine & Muriel Coulin (6.02) 6 votos [Semaine]
+“17 filles” (Delphine & Muriel Coulin) (6.02) 6 votos [Semaine]
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) –  5
 Diego Batlle (La Nación / OtrosCines, Argentina) –  7
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  4
@@ -1727,7 +1727,7 @@ Carlo Chatrian (Duellanti / Panoramiches, Italy) –  6
 Rudiger Suchsland (FAZ / Negativ, Deutschland) -  7.3
 Michael Giltz (The Huffington Post, USA) 5  2/4
 
-“La Fin du silence” Roland Edzar (3.75) 4 votos [Quinzaine]
+“La Fin du silence” (Roland Edzar) (3.75) 4 votos [Quinzaine]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  3
 Luciano Barisone (Duellanti / Panoramiches, Italy) –  5
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) – 1
@@ -1735,7 +1735,7 @@ Carlos Reviriego (El Cultural / Cahiers du cinéma, España) – 6
 ?? (Outnow, CH) 5
 Michael Giltz (The Huffington Post, USA) 5 B- 2/4
 
-“Les neiges du Kilimandjaro” Robert Guediguian (4.36) 7 votos [Un Certain Regard]
+“Les neiges du Kilimandjaro” (Robert Guediguian) (4.36) 7 votos [Un Certain Regard]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) –  4.5
 Francisco Ferreira (Expresso, Portugal) –  0
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  3.5
@@ -1745,7 +1745,7 @@ Fernando Juan Lima (El Amante, Argentina) –  4
 Rudiger Suchsland (WAZ / Negativ, Deutschland) –  5
 Kevin Jagernauth (Indiewire's The Playlist, USA) 4 C+
 
-“Wu Xia (Dragon)” Peter Ho Sun-Chan (5.78) 9 votos [Out Of Competition]
+“Wu Xia (Dragon)” (Peter Ho Sun-Chan) (5.78) 9 votos [Out Of Competition]
 Fernando Ganzo (Lumiere, España) –  3
 Kong Rithdee (The Bangkok Post. Thailand) –  5
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) –  6
@@ -1762,7 +1762,7 @@ Raffi Asdourian (The Film Stage, USA) 7.5 B+
 Joshua Brunsting (Chase and the Whale, USA) 6.25 B
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4 (5 B-)
 
-“Michael” Markus Schleinzer (4.58) 25 votos [Competition]
+“Michael” (Markus Schleinzer) (4.58) 25 votos [Competition]
 Fernando Ganzo (Lumiere, España) –  2
 Carlos Heredero (Cahiers du cinéma, España) 4
 Luciano Monteagudo (Página12, Argentina) –  7
@@ -1842,7 +1842,7 @@ Joshua Brunsting (Chase and the Whale, USA) 3 C
 Jon Frosch (France 24, USA) 6.25 B
 Michael Giltz (The Huffington Post, USA) 7.5 B+ 3/4
 
-"Bé Omid É Didar / Goodbye" Mohammad Rasoulof (6.68) 17 votos [Un Certain Regard] Best Director UCR
+"Bé Omid É Didar (Goodbye)" (Mohammad Rasoulof) (6.68) 17 votos [Un Certain Regard] Best Director UCR
 Carlos Heredero (Cahiers du cinéma, España) 8
 Luciano Monteagudo (Página12, Argentina) 7
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 6.5
@@ -1862,7 +1862,7 @@ Pamela Bienzobas (Mabuse, Chile) –  5.5
 Alejandro G. Calvo (SensaCine, España) –  6
 Eric Kohn (Indiewire, USA) 8 A-
 
-“Pirates of the Caribbean: On Stranger Tides” Rob Marshall (4.32) 6 votos [Special Screenings]
+“Pirates of the Caribbean: On Stranger Tides” (Rob Marshall) (4.32) 6 votos [Special Screenings]
 Diego Batlle (La Nación / OtrosCines, Argentina) 7
 Jose Luis De Lorenzo (A Sala Llena, Argentina) 4
 Sergi Sanchez (La Razón, España) 3
@@ -1876,15 +1876,15 @@ Sukhdev Sandhu (Telegraph, UK) 4
 Simon Reynolds (Digital Spy, UK) 6
 Anne Thompson (Indiewire, USA) 5 B-
 
-“Tous au Lazarc (Leader-Sheep))” Christian Rouaud (4.66) 3 votos [Special Screenings]
+“Tous au Lazarc (Leader-Sheep)” (Christian Rouaud) (4.66) 3 votos [Special Screenings]
 Jaime Pena (El Amante, Argentina y Cahiers du cinéma, España) 5
 Luciano Barisone (Duellanti / Panoramiches, Italy) 5
 Carlo Chatrian (Duellanti / Panoramiches, Italy) 4
 
-“Eldfjall” Rúnar Rúnarsson [Quinzaine]
+“Eldfjall” (Rúnar Rúnarsson) [Quinzaine]
 Arthur Mas (Independencia, France) -  5.50
 
-“Hearat Shulayim / Footnote” Joseph Cedar (5,21) 29 votos [Competition] Best Screenplay
+“Hearat Shulayim (Footnote)” (Joseph Cedar) (5,21) 29 votos [Competition] Best Screenplay
 Mike d'Angelo (AV Club, USA) 5.6
 Fernando Ganzo (Lumiere, España) 5
 Carlos Heredero (Cahiers du cinéma, España) 5
@@ -1967,13 +1967,13 @@ Michael Giltz (The Huffington Post, USA) 8.75 A-
 Peter Howell (The Toronto Star, USA) 7.5 B+
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 
-“The Slut” Hagar Ben Asher (5.17) 3 votos [Semaine]
+“The Slut” (Hagar Ben Asher) (5.17) 3 votos [Semaine]
 Olivier Pere (Locarno Film Festival, Switzerland) 2
 Fernando Juan Lima (El Amante, Argentina) 6.50
 Rudiger Suchsland (WAZ / Negativ, Deutschland) 7
 Michael Giltz (The Huffington Post, USA) 5 2/4
 
-“Arirang” Kim Ki-duk (3.89) 14 votos [Un Certain Regard] Main Price UCR
+“Arirang” (Kim Ki-duk) (3.89) 14 votos [Un Certain Regard] Main Price UCR
 Mike d'Angelo (AV Club, USA) 0.7
 Fernando Ganzo (Lumiere, España) 1
 Carlos Heredero (Cahiers du cinéma, España) 0
@@ -1992,13 +1992,13 @@ Belinda Van De Graaf (Trouw, Holanda) 9
 Eric Kohn (Indiewire, USA) 8 A-
 Raffi Asdourian (The Film Stage, USA) 4 C+
 
-“Toomelah” Ivan Sen (3.00) 3 votos [Un Certain Regard]
+“Toomelah” (Ivan Sen) (3.00) 3 votos [Un Certain Regard]
 Jose Luis De Lorenzo (A Sala Llena, Argentina) 3
 Fernando Juan Lima (El Amante, Argentina) 3
 Sergio Wolf (BAFICI, Argentina) 3
 Guy Lodge (InContention.com, South Africa) 5 B-
 
-“Miss Bala” Gerardo Naranjo (5.68) 19 votos [Un Certain Regard]
+“Miss Bala” (Gerardo Naranjo) (5.68) 19 votos [Un Certain Regard]
 Fernando Ganzo (Lumiere, España) – 6
 Carlos Heredero (Cahiers du cinéma, España)
 Luciano Monteagudo (Página12, Argentina) –  6
@@ -2050,7 +2050,7 @@ Kevin Jagernauth (Indiewire's The Playlist, USA) 8 A-
 #Alex Billington (Firstshowing, USA) 9
 Raffi Asdourian (The Film Stage, USA) 7.5 B+
 
-“Jeanne Captive” Philippe Ramos (5.39) 11 votos [Quinzaine]
+“Jeanne Captive” (Philippe Ramos) (5.39) 11 votos [Quinzaine]
 Fernando Ganzo (Lumiere, España) 2
 Carlos Heredero (Cahiers du cinéma, España) 6
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 7.5
@@ -2066,7 +2066,7 @@ Blake Williams (Ioncinema.com, Canada) 4
 Paul Martin (Indies Movies Online, USA) 4
 Michael Giltz (The Huffington Post, USA) 6.25 B- 2.5/4
 
-“Michel Petrucciani” Michael Radford (6.89) 7 votos [Special Screenings]
+“Michel Petrucciani” (Michael Radford) (6.89) 7 votos [Special Screenings]
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 5.5
 Kong Rithdee (The Bangkok Post. Thailand) 7
 Luciano Barisone (Duellanti / Panoramiches, Italy) 7
@@ -2077,7 +2077,7 @@ Pamela Bienzobas (Mabuse, Chile) –  6.7
 	  Indiewire:
 Michael Giltz (The Huffington Post, USA) 6.25 2.5/4 (2 C-)
 
-“The Other Side of Sleep” Rebecca Daly (3,00) 4 votos [Quinzaine]
+“The Other Side of Sleep” (Rebecca Daly) (3,00) 4 votos [Quinzaine]
 Olivier Pere (Locarno Film Festival, Switzerland) 3
 Carlo Chatrian (Duellanti / Panoramiches, Italy) 2
 Sergio Wolf (BAFICI, Argentina) –  5
@@ -2085,7 +2085,7 @@ Marcelo Alderete (Mar del Plata Film Festival, Argentina) 2
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) Memory-and-murder tale is well-shot, well-acted, Arnold-influenced ... but lacks the necessary drive of story.
 Emma Rowley (Indies Movies Online, USA) 6
 
-“Las Acacias” Pablo Giorgelli (6.86) 9 votos [Semaine] Camera d'Or, Soutien ACID/CCAS and the Prix OFAJ de la (Toute) jeune Critique
+“Las Acacias” (Pablo Giorgelli) (6.86) 9 votos [Semaine] Camera d'Or, Soutien ACID/CCAS and the Prix OFAJ de la (Toute) jeune Critique
 Carlos Heredero (Cahiers du cinéma, España) 6.5
 Luciano Monteagudo (Página12, Argentina) 7
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 7
@@ -2096,7 +2096,7 @@ Fernando Juan Lima (El Amante, Argentina) –  8
 Pablo O. Scholz (Clarín, Argentina) 7
 Marcelo Alderete (Mar del Plata Film Festival, Argentina) –  6
 
-“Habemus Papam” Nanni Moretti (6.45) 29 votos [Competition]
+“Habemus Papam” (Nanni Moretti) (6.45) 29 votos [Competition]
 Fernando Ganzo (Lumiere, España) – 8
 Carlos Heredero (Cahiers du cinéma, España) – 6
 Luciano Monteagudo (Página12, Argentina) – 8
@@ -2182,26 +2182,26 @@ Michael Giltz (The Huffington Post, USA) 7.5 3/4 6.25 B
 Peter Howell (The Toronto Star, USA) 5 B-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 5 B-
 
-“La fée” Dominique Abel, Fiona Gordon and Bruno Romy (6.60) 2 votos [Quinzaine]
+“La fée” (Dominique Abel, Fiona Gordon, Bruno Romy) (6.60) 2 votos [Quinzaine]
 Cristina Nord (Die Tageszeitung, Deutschland) 7
 Arthur Mas & Martial Pisani (Independencia, France) 6.2
 James Rocchi (MSN Movies, Indiewire's The Playlist, USA) Cloying too-cute cartoony comedy; from France/Belgium; I think it gave everyone in the Quinzane theater diabetes.
 Blake Williams (Ioncinema.com, Canada) 5
 Michael Giltz (The Huffington Post, USA) 7.5 3/4
 
-“Labrador (Out of Bounds)” Frederikke Aspöck (3.17) 3 votos  [Special Screenings]
+“Labrador (Out of Bounds)” (Frederikke Aspöck) (3.17) 3 votos  [Special Screenings]
 Roger Alan Koza (La Voz del Interior / Con los ojos abiertos, Argentina) 4.5
 Alvaro Arroba (La Lectora Provisoria, Argentina) 1
 Pablo O. Scholz (Clarín, Argentina) 4
 
 “The Postman (Al-boustaguy)” (Hussian Kamal, Egypt 1968) [Special Screenings]
 
-“Bollywood”  R. Omprakash Mehra, Jeffrey Zimbalis (2.00) 2 votos [Out Of Competition]
+“Bollywood” (R. Omprakash Mehra, Jeffrey Zimbalis) (2.00) 2 votos [Out Of Competition]
 Fernando Ganzo (Lumiere, España) – 0
 Luciano Barisone (Duellanti / Panoramiches, Italy) – 4
 Mayer Nissim (Digital Spy, UK) 6
 
-“La guerre est declarée” Valérie Donzelli (6,73) 11 votos [Semaine]
+“La guerre est declarée” (Valérie Donzelli) (6,73) 11 votos [Semaine]
 Fernando Ganzo (Lumiere, España) 8.5
 Eulalia Iglesias (Rockdelux, Cahiers du cinéma, España) 7.5
 Violeta Kovacsics (Diari de Tarragona, España) 5
@@ -2214,7 +2214,7 @@ Alvaro Arroba (La Lectora Provisoria, Argentina) –  7.5
 Pamela Bienzobas (Mabuse, Chile) 7.5
 Alejandro G. Calvo (SensaCine, España) –  7
 
-“Trabalhar cansa / Hard Labor” Marco Dutra, Juliana Rojas (6,425) 12 votos [Un Certain Regard]
+“Trabalhar cansa (Hard Labor)” (Marco Dutra, Juliana Rojas) (6,425) 12 votos [Un Certain Regard]
 Fernando Ganzo (Lumiere, España)
 Carlos Heredero (Cahiers du cinéma, España)
 Luciano Monteagudo (Página12, Argentina) 6
@@ -2261,7 +2261,7 @@ Anchalee Chaiworaporn (Siam Rath, Image Magazine, Thailand)
   PROMEDIO: 6,425 (12 votos)
 Paul Martin (Indies Movies Online, USA) 8
 
-“Polisse” Maiwenn Le Besco (2,95) 28 votos [Competition] Special Jury Price
+“Polisse” (Maiwenn Le Besco) (2,95) 28 votos [Competition] Special Jury Price
 Fernando Ganzo (Lumiere, España) 0
 Carlos Heredero (Cahiers du cinéma, España) 5
 Luciano Monteagudo (Página12, Argentina) 1
@@ -2345,7 +2345,7 @@ Michael Giltz (The Huffington Post, USA) 6.25 2.5/4 (5 B-)
 Peter Howell (The Toronto Star, USA) 4 C+
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 3 C
 
-“Restless” Gus Van Sant (6.84) 27 votos [Un Certain Regard]
+“Restless” (Gus Van Sant) (6.84) 27 votos [Un Certain Regard]
 Fernando Ganzo (Lumiere, España) 8
 Carlos Heredero (Cahiers du cinéma, España) 8
 Luciano Monteagudo (Página12, Argentina) 7
@@ -2404,7 +2404,7 @@ Mayer Nissim (Digital Spy, UK) 8
 Raffi Asdourian (The Film Stage, USA) 7.5 B+
 Michael Giltz (The Huffington Post, USA) 3.75 1.5/4
 
-"We Need to Talk About Kevin" Lynne Ramsay (4,47) 26 votos [Competition]
+"We Need to Talk About Kevin" (Lynne Ramsay) (4,47) 26 votos [Competition]
 Fernando Ganzo (Lumiere, España)
 Carlos Heredero (Cahiers du cinéma, España) 4
 Luciano Monteagudo (Página12, Argentina) 5
@@ -2496,7 +2496,7 @@ Alberto Crespi (L'Unita, Italy) 5
 Bo Green Jensen (Weekandavisen Berlingske, Denmark) 7.5
 Screen International (Screen International, USA) 7.5
 
-“Sleeping Beauty” Julia Leigh (4,16) 27 votos [Competition]
+“Sleeping Beauty” (Julia Leigh) (4,16) 27 votos [Competition]
 Fernando Ganzo (Lumiere, España)
 Carlos Heredero (Cahiers du cinéma, España) 6
 Luciano Monteagudo (Página12, Argentina) 5
@@ -2589,7 +2589,7 @@ Peter Howell (The Toronto Star, USA) 5 B-
 Patrick Z. McGavin (Lightsensitive.typepad.com, USA) 7.5 B
 Raffi Asdourian (The Film Stage, USA) 3 C
 
-“Midnight in Paris” Woody Allen (5,97) 29 votos [Out Of Competition]
+“Midnight in Paris” (Woody Allen) (5,97) 29 votos [Out Of Competition]
 Fernando Ganzo (Lumiere, España)
 Carlos Heredero (Cahiers du cinéma, España) 5
 Luciano Monteagudo (Página12, Argentina) 6
