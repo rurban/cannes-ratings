@@ -190,6 +190,7 @@ sub _dump {
   my %critic = %{$_[0]};
   my %title  = %{$_[1]};
   my @t = @{$_[2]};
+  my $year = $_[3];
   my @all = @t;
   my %sections = map{$_=>1} @sections;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
@@ -308,6 +309,13 @@ sub _dump {
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
+    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    if ($lyear) {
+      next if $year - $lyear > 1;
+      # in the 2 New sections skip old films with prev:
+      next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
+        keys %{$title{$t}->{critic}};
+    }
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s >= 2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -331,6 +339,13 @@ sub _dump {
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
+    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    if ($lyear) {
+      next if $year - $lyear > 1;
+      # in the 2 New sections skip old films with prev:
+      next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
+        keys %{$title{$t}->{critic}};
+    }
     my $s=sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
@@ -600,7 +615,7 @@ sub _list {
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
-  my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group) );
+  my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group), $year );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
@@ -653,9 +668,9 @@ get '/BerlinaleAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2016-2018";
+  $all->{year} = "2016-2019";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2018::critics_group"});
+                                       \@{"$BASE\::rurban::2019::critics_group"});
   template lc($BASE), $all;
 };
 
