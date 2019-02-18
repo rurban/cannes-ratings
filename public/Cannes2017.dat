@@ -6390,7 +6390,7 @@ Saymon Nascimento   6   https://letterboxd.com/saymon_n/film/gabriel-and-the-mou
 victorblanes        4
 Andy Malafaia       4
 
-"OH LUCY!" (Atsuko Hirayanagi) [Semaine]
+"Oh Lucy!" (Atsuko Hirayanagi) [Semaine]
 
 David Rooney              http://www.hollywoodreporter.com/review/oh-lucy-cannes-2017-1004978
 Xan Brooks          6     https://www.theguardian.com/film/2017/may/22/oh-lucy-review-japanese-office-worker-josh-hartnett-cannes-2017
@@ -7872,6 +7872,9 @@ Carlota Moseguí     6
 "Pour le réconfort" (Vincent Macaigne) [ACID] Special Screening
   1st feature, world premiere
 
+"Djam" (Tony Gatlif) [Cinéma de la Plage]
+Stephen Dalton            http://www.hollywoodreporter.com/review/djam-review-1007991
+
 EOF
 
 my $almost = <<'EOF';
@@ -7913,9 +7916,6 @@ frod0               8
 Wasanta             7
 SeraphicWings       4
 jesper              4
-
-"Djam" (Tony Gatlif) Plage
-Stephen Dalton            http://www.hollywoodreporter.com/review/djam-review-1007991
 
 "The Leisure Seeker" (Paolo Virzi) not yet selected [Hopeful (temp.)]
  with Helen Mirren, Donald Sutherland. Quinzaine?
