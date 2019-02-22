@@ -1,6 +1,6 @@
 package Berlinale::rurban::2017; # -*- perl -*-
 #!/usr/bin/perl
-# Berlinale 2016 Critics Ratings
+# Berlinale 2017 Critics Ratings
 # {'A+' => 10,  'A' => 9,   'A-' => 8,
 #  'B+' => 7,   'B' => 6,   'B-' => 5,
 #  'C+' => 4,   'C' => 3,   'C-' => 2,
@@ -27,7 +27,8 @@ Woche der Kritik
 
 Andreas Busche              http://www.tagesspiegel.de/kultur/django-eroeffnungsfilm-der-berlinale-mehr-synkopen/19373046.html
 Beatrice Behn               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-django-von-etienne-comar
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/09/gypsy-swing-mit-nazis-django-der-eroeffnungsfilm-der-berlinale.html
+#critic.de
 Andrey Arnold         2.5
 Pamela Biénzobas     2.5
 David Hudson          2.5
@@ -106,7 +107,7 @@ muntzer thomas      4
 
 Peter von Becker            http://www.tagesspiegel.de/kultur/beuys-bei-der-berlinale-der-grosskuenstler-als-selbstdarsteller/19392260.html
 Joachim Kurz                http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-beuys-von-andres-veiel
-# critic.de
+#critic.de
 David Hudson          6
 Philipp Schwarz       6       http://www.critic.de/film/beuys-10705/
 Carolin Weidner       7.5
@@ -131,7 +132,7 @@ Pablo Villaça      3
  Mit João Pedro Vaz, Alice Albergaria Borges, Beatriz Batarda, Clara Jost. Weltpremiere
 
 Beatrice Behn              http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-colo-von-teresa-villaverde
-# critic.de
+#critic.de
 Andrey Arnold         7.5
 Manon Cavagna         6
 Thomas Groh           5
@@ -181,7 +182,7 @@ Rory O’Connor         C-  https://thefilmstage.com/reviews/berlin-review-the-d
 Tim Robey (Telegraph) 6      http://www.telegraph.co.uk/films/2017/02/16/berlin-film-festival-dinner-review-steve-coogan-startles-bitter/
 Boyd van Hoeij                http://www.hollywoodreporter.com/review/dinner-review-974229
 Joachim Kurz                  http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-the-dinner-von-oren-moverman
-# critic.de
+#critic.de
 Andrey Arnold         5
 Martin Gobbin         6
 David Hudson          5       http://www.fandor.com/keyframe/berlinale-2017-diary-2
@@ -257,7 +258,7 @@ Calum Marsh         1
 Thekla Dannenberg            https://www.perlentaucher.de/berlinale-blog/2017/02/11/alain-gomis-felicite-wettbewerb-berlinale-kritik.html
 Anderas Busche               http://www.tagesspiegel.de/kultur/berlinale-wettbewerbsfilm-felicite-ein-gesicht-das-alles-ueberstrahlt/19379198.html
 Sonja Hartl                  http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-felicite-von-alain-gomis
-# critic.de
+#critic.de
 Andrey Arnold         5
 Pamela Biénzobas     5
 Hannes Brühwiler     6
@@ -298,7 +299,7 @@ ferhood             4
 "Have a Nice Day (Hao ji le)" (Jian Liu, China) [Wettbewerb]
 
 Beatrice Behn               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-have-a-nice-day-von-liu-jian
-# critic.de
+#critic.de
 Manon Cavagna         2.5
 Jenny Jecke           4
 Lukas Stern           4
@@ -325,7 +326,7 @@ Bruno Carmelo       2
 Christiane Peitz            http://www.tagesspiegel.de/kultur/the-party-im-berlinale-wettbewerb-ein-schneller-boeser-spass/19386126.html
 Anja Seeliger               https://www.perlentaucher.de/berlinale-blog/2017/02/13/filmkritik-zu-the-party-von-sally-potter-berlinale-2017-wettbewerb.html
 Joachim Kurz                http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-the-party-von-sally-potter
-# critic.de
+#critic.de
 Andrey Arnold         4
 Martin Gobbin         4
 David Hudson          6
@@ -391,7 +392,7 @@ Tino Hahn           3
 
 Michael Pattison              http://www.rogerebert.com/festivals-and-awards/berlin-2017-the-dinner-spoor-california-dreams
 Joachim Kurz                  http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-pokot-von-agnieszka-holland
-# critic.de
+#critic.de
 Martin Gobbin         4
 Thomas Groh           2.5
 Jenny Jecke           6
@@ -454,7 +455,7 @@ Bénédicte Prot (Cineuropa)    http://cineuropa.org/nw.aspx?t=newsdetail&l=en&d
 Jonathan Romney (Screen)      http://www.screendaily.com/reviews/on-body-and-soul-berlin-review/5114834.article
 Zhuo-Ning Su (Film Stage) B   https://thefilmstage.com/reviews/berlin-review-on-body-and-soul-is-a-dreamy-hungarian-relationship-drama/
 Verena Schmöller              http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-on-body-and-soul-von-ildiko-enyedi
-# critic.de
+#critic.de
 Andrey Arnold         2.5
 Thomas Groh           6       https://www.perlentaucher.de/berlinale-blog/2017/02/10/on-body-and-soul-filmkritik-berlinale-wettbewerb.html
 David Hudson          5       http://www.fandor.com/keyframe/berlinale-2017-diary-2
@@ -502,7 +503,7 @@ monkeybox83         2
 
 Kerstin Decker              http://www.tagesspiegel.de/kultur/fluechtlings-melodram-im-wettbewerb-wir-neustarter/19392258.html
 Sonja Hartl                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-the-other-side-of-hope-von-aki-kaurismaeki
-# critic.de
+#critic.de
 Andrey Arnold         5
 Pamela Biénzobas     6
 Manon Cavagna         6
@@ -600,7 +601,7 @@ Ronan_mack          2
  Mit Daniela Vega, Francisco Reyes, Luis Gnecco, Aline Küppenheim, Amparo Noguera. Weltpremiere
 
 Beatrice Behn               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-una-mujer-fantastica-von-sebastian-lelio
-# critic.de
+#critic.de
 Andrey Arnold         5
 Pamela Biénzobas     6
 David Hudson          7.5
@@ -659,7 +660,7 @@ Crayfish            3
 
 Andreas Busche              http://www.tagesspiegel.de/kultur/berlinale-wettbewerb-reisschnaps-gegen-zweifel/19404016.html
 Joachim Kurz                http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-on-the-beach-at-night-alone-von-hong-sang-soo
-# critic.de
+#critic.de
 Andrey Arnold         7.5
 Dunja Bialas          6
 Hannes Brühwiler     9
@@ -749,7 +750,8 @@ monkeybox83         1
  Mit Blanca Suárez, Mario Casas, Carmen Machi, Terele Pávez, Secun de la Rosa, Alejandro Awada, Joaquín Climent, Jaime Ordóñez. Weltpremiere – Außer Konkurrenz
 
 Beatrice Behn               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-el-bar-von-alex-de-la-iglesia
-# critic.de
+Katrin Doerksen         https://www.perlentaucher.de/berlinale-blog/2017/02/15/alex-de-la-iglesia-el-bar-berlinale-kritik.html
+#critic.de
 Andrey Arnold         7.5
 Thomas Groh           6
 Jenny Jecke           4
@@ -803,7 +805,7 @@ Calum Marsh         1
 
 Andreas Busche              http://www.tagesspiegel.de/kultur/berlinale-wettbewerb-reise-in-den-nebel/19386676.html
 Sonja Hartl                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-helle-naechte-von-thomas-arslan
-# critic.de
+#critic.de
 Andrey Arnold         6
 Thomas Groh           9
 David Hudson          7.5
@@ -859,7 +861,7 @@ monkeybox83         1
 "Final Portrait" (Stanley Tucci, GB)   [Wettbewerb]
 
 Joachim Kurz                http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-final-portrait-von-stanley-tucci
-# critic.de
+#critic.de
 Jenny Jecke           6
 #letterboxd
 Paul Thomas Heath   8
@@ -898,7 +900,7 @@ Calum Marsh         3
  Mit Julio Machado, Isabél Zuaa, Nuno Lopes, Rômulo Braga, Welket Bungué, Karay Rya Pua. Weltpremiere
 
 Beatrice Behn               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-joaquim-von-marcelo-gomes
-# critic.de
+#critic.de
 Andrey Arnold         6
 Dunja Bialas          1
 Till Kadritzke        2.5
@@ -997,7 +999,8 @@ andoula             1
 "Ein Kuss von Béatrice (Sage femme/The Midwife)" (Martin Provost, Frankreich) [Wettbewerb]
 
 Beatrice Behn                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-sage-femme-von-martin-provost
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/15/filmkritik-zu-ein-kuss-von-beatrice-von-martin-provost-berlinale-2017-wettbewerb.html
+#critic.de
 Manon Cavagna         5       http://www.critic.de/film/ein-kuss-von-beatrice-10701/
 #letterboxd
 J.                  10        https://letterboxd.com/andforgotten/film/the-mArvena              7
@@ -1026,7 +1029,7 @@ Joseph Proimakis    3
  Mit Stellan Skarsgård, Nina Hoss, Susanne Wolff, Niels Arestrup. Weltpremiere
 
 Sonja Hartl                  http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-rueckkehr-nach-montauk-von-volker-schloendorff
-# critic.de
+#critic.de
 David Hudson          2.5
 Jenny Jecke           1
 Philipp Schwarz       2.5
@@ -1063,7 +1066,8 @@ vinminsituation     1
 Peter Bradshaw        8  https://www.theguardian.com/film/2017/jan/19/t2-trainspotting-review-ewan-mcgregor-danny-boyle-sequel
 Joachim Kurz             http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-t2-trainspotting-von-danny-boyle
 Letterbox 500_Users	9.21  https://letterboxd.com/film/t2-trainspotting/
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/10/danny-boyles-t2-trainspotting-wettbewerb-berlinale.html
+#critic.de
 Andrey Arnold         5
 Jenny Jecke           5
 Nino Klingler         6       http://www.critic.de/film/t2-trainspotting-2-10099/
@@ -1074,7 +1078,7 @@ Ekkehard Knörer      7.5
 
 Fabian Tietke                 https://www.taz.de/!5382167/
 Beatrice Behn                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-viceroy-s-house-von-gurinder-chadha
-# critic.de
+#critic.de
 Jenny Jecke           2.5
 #letterboxd
 liki                8
@@ -1105,7 +1109,7 @@ Pablo Villaça      2
  Mit Josef Hader, Pia Hierzegger, Georg Friedrich, Jörg Hartmann, Denis Moschitto. Hader Komödie um die Rache des Musikkritikers. Weltpremiere – Debütfilm
 
 Joachim Kurz                http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-wilde-maus-von-josef-hader
-# critic.de
+#critic.de
 Andrey Arnold         5
 Martin Gobbin         7.5
 Thomas Groh           6
@@ -1156,7 +1160,7 @@ SPECIAL
 
 "Close-Up (Nema-ye Nazdik)" (Abbas Kioristami, Iran 1990) [Special]
 
-# critic.de
+#critic.de
 Till Kadritzke        9
 Michael Kienzl        9
 G.Marchini Camia      9
@@ -1168,7 +1172,7 @@ Letterbox 50_Users	4.86  http://letterboxd.com/film/la-reina-de-espana/
 
 "La libertad del diablo (Devil's Freedom)" (Everardo González, Mex)  [Special] Amnesty Int. Filmpreis
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 #letterboxd
 bettikoehler        10
@@ -1182,7 +1186,7 @@ demetrios_jb        4
 "Le jeune Karl Marx (Der junge Karl Marx)" (Raoul Peck, Frankreich) [Special]
  Mit August Diehl, Stefan Konarske, Vicky Krieps, Hannah Steele, Olivier Gourmet. Weltpremiere
 
-# critic.de
+#critic.de
 Jenny Jecke           6
 #letterboxd
 Crayfish            7
@@ -1203,12 +1207,12 @@ JM Oursler          4
 "Últimos días en La Habana (Last Days in Havana)" (Fernando Pérez, Kuba) [Special]
  Mit Jorge Martínez, Patricio Wood, Gabriela Ramos. Europapremiere
 
-# critic.de
+#critic.de
 Pamela Biénzobas     6
 
 "The Bomb" (Eric Schlosser, Smriti Keshari, Kevin Ford, USA 2016)  [Special]
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 Philipp Schwarz       5
 Lukas Stern           6
@@ -1224,7 +1228,7 @@ Letterbox 1_Users       8.00  http://letterboxd.com/film/eight-hours-are-not-a-d
 "Es war einmal in Deutschland..." (Sam Garbarski, Deutschland) [Special]
  Mit Moritz Bleibtreu, Antje Traue, Mark Ivanir, Tim Seyfi, Hans Löw, Anatol Taubman, Pál Mácsai, Vaclav Jakoubek. Weltpremiere
 
-# critic.de
+#critic.de
 Jenny Jecke           4
 Sonja M. Schultz      2.5
 #letterboxd
@@ -1255,7 +1259,7 @@ PANORAMA
 "Vazante" (Daniela Thomas, Brasilien) [Panorama]
  Mit Adriano Carvalho, Luana Nastas, Juliana Carneiro da Cunha, Sandra Corveloni, Roberto Audio. Weltpremiere. Daniela Thomas, Co-Regisseurin vieler Produktionen mit Walter Salles, zeigt ihren ersten Film in Eigenregie. Brasilien ist das letzte Land, das erst 1888 offiziell das historische Sklaventum abschaffte. Die Filmerzählung (Co-Autor ist Beto Amaral) spielt 1821, ein Jahr vor der Unabhängigkeit von Portugal. Der Reichtum, der aus dem Lande geschafft wird, besteht aus den Edelsteinen der Minen von Minas Gerais. Geborgen werden die Werte von Sklaven, an deren Leiden heute kaum noch etwas erinnert - dabei bildet diese Zeit die Basis des heutigen Brasilien, das sich von der Ungeheuerlichkeit der Ereignisse noch nicht erholt hat.
 
-# critic.de
+#critic.de
 Martin Gobbin         5
 #letterboxd
 Jean-Christophe Simon 9
@@ -1276,7 +1280,8 @@ Wellington Almeida  2
  Mit Nakhane Touré, Bongile Mantsai, Niza Jay Ncoyini. Der Eröffnungsfilm des diesjährigen Panorama-Hauptprogramms kommt aus Südafrika. Wie Männlichkeit hergestellt wird ist ein durchgängiges Aufmerksamkeitsthema im Panorama. Hier werden wir Zeugen der Initiationsriten einer Gruppe von Xhosa-Männern aus dem Ostkap, Südafrika. Tradition und Moderne prallen aufeinander, wenn ein urbanisierter Geschäftsmann aus Johannesburg beschließt, seinen 17-jährigen Sohn der Beschneidungszeremonie seiner traditionellen Kultur auszusetzen. Produzent Elias Ribeiro begeisterte bereits im Panorama 2015 mit Necktie Youth. Europapremiere
 
 Sundance 5_Ratings   6.8  http://cannes-ratings.herokuapp.com/Sundance2017?t=43#43
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/10/austreibung-der-boesen-geister-john-trengoves-the-wound-berlinale-2017-panorama.html
+#critic.de
 Martin Gobbin         6
 Jenny Jecke           6
 Till Kadritzke        4
@@ -1315,7 +1320,8 @@ Anja Seeliger                 https://www.perlentaucher.de/berlinale-blog/2017/0
 Verena Lueken                 http://www.faz.net/aktuell/feuilleton/berlinale/berlinale-wettbewerb-die-indianer-das-sind-wir-14881333.html
 Sonja Hartl                   http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-i-am-not-your-negro-von-raoul-peck
 Letterbox 500_Users	9.06  http://letterboxd.com/film/i-am-not-your-negro/
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/16/filmkritik-zu-i-am-not-your-negro-und-der-junge-karl-marx-von-raoul-peck-berlinale-2017-panorama.html
+#critic.de
 Hannes Brühwiler     5
 Jenny Jecke           9
 Nino Klingler         7.5
@@ -1328,14 +1334,15 @@ Crayfish            7
  Der Spielfilmregisseur Fernando León de Aranoa, mehrfach zu Gast im Panorama, erlaubt uns einen detaillierten Blick auf die Situation in Spanien. Der mediale Lärm um Syrien, Trump und andere Erdbeben verschleiert die Wahrnehmung der Grundfeste unserer Zukunft: Politik in Europa. Wir erinnern uns an den Aufbruch in der BRD, als sich die Grünen gründeten: So entstand auch Podemos und ist nicht mehr zu marginalisieren, selbst wenn dies die alten Kräfte dank eines unaufgearbeiteten Faschismus gerade wieder in Angriff nehmen. Eine geschichtsverdrängte Situation, die wie eine Zeitbombe in vielen Ländern der Erde tickt. Der erschreckende Zeitgeist erfordert den mutigen Auftritt derer, die sich nicht hinter die Ziellinien der jüngeren Vergangenheit abdrängen lassen wollen. Europapremiere
 
 Letterbox 23_Users	6.78  http://letterboxd.com/film/politics-instructions-manual/
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/11/fernando-leon-politica-manual-de-instrucciones-berlinale-kritik.html
+#critic.de
 Andrey Arnold         6
 David Hudson          6
 Philipp Schwarz       5
 
 "1945" (Ferenc Török, Hungary)    [Panorama]
 
-# critic.de
+#critic.de
 Lukas Stern           7.5
 #letterboxd
 AmirMoverman520     9
@@ -1347,7 +1354,7 @@ Arvena              6
 
 Harald Mühlbeyer            http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-berlin-syndrome-von-cate-shortland
 Sundance 37_Ratings   6.78  http://cannes-ratings.herokuapp.com/Sundance2017?t=45#45
-# critic.de
+#critic.de
 Martin Gobbin         4
 Frédéric Jaeger     4
 G.Marchini Camia      4
@@ -1356,7 +1363,7 @@ Carolin Weidner       4
 "Combat au bout de la nuit (Fighting Through the Night)" (Sylvain L’Espérance, Kanada) [Panorama]
  Der knapp fünfstündige Dokumentar-Essay führt uns direkt ins Herz der europäischen Misere: nach Athen. Im griechischen Parlament werden vor leeren Rängen endlos viele Artikel verabschiedet. Die Hafenlandschaft zieht an uns vorbei, mit ihren endlosen Verwaltungsgebäuden, die bald in die Hände außereuropäischer Geldgeber fallen werden. Dann sind wir mittendrin in der Besetzung des Finanzamtes durch die Putzkräfte - eine Langzeitbeobachtung über 286 Tage, die Raum gibt für einfühlsame Begegnungen mit den marginalisierten Playern der Krise. Das Vakuum, das die technokratische Politik hinterlassen hat, wird von den neuen Faschisten mit der Geste des Sich-Kümmerns um die Vergessenen gefüllt - ein sich in allen Ländern Europas und darüber hinaus wiederholendes Szenario. Internationale Premiere
 
-# critic.de
+#critic.de
 Dunja Bialas          6
 #letterboxd
 TerribleMiasma      7
@@ -1367,7 +1374,7 @@ Simon Drees         6
 
 Sonja Hartl                http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-casting-jonbenet-von-kitty-green
 Sundance 16_Ratings   8.0  http://cannes-ratings.herokuapp.com/Sundance2017?t=6#6
-# critic.de
+#critic.de
 Jenny Jecke           2.5
 G.Marchini Camia      7.5
 Lukas Stern           7.5
@@ -1418,14 +1425,14 @@ monkeybox83         1
 
 "Ciao Ciao" (Song Chuan, F/CH)  [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         2.5
 Frédéric Jaeger     2.5
 
 "Close-Knit (Karera ga honki de amu toki wa)" (Naoko Ogigami, Japan)  [Panorama]
 
 Katrin Doerksen             http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-close-knit-von-naoko-ogigami
-# critic.de
+#critic.de
 Till Kadritzke        6
 Carolin Weidner       5
 
@@ -1433,7 +1440,7 @@ Carolin Weidner       5
 
 Sonja Hartl                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-call-me-by-your-name-von-luca-guadagnino
 Sundance 66_Ratings      9.03  http://cannes-ratings.herokuapp.com/Sundance2017?t=1#1
-# critic.de
+#critic.de
 Manon Cavagna         7.5
 David Hudson          5
 Jenny Jecke           7.5
@@ -1456,7 +1463,7 @@ Simon Hauck           http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017
 
 "Denk ich an Deutschland in der Nacht" (Romuald Karmakar, D)  [Panorama]
 
-# critic.de
+#critic.de
 Andrey Arnold         7.5
 Michael Kienzl        7.5
 Carolin Weidner       7.5
@@ -1472,19 +1479,19 @@ Tarek Boyd          4
 
 "Dream Boat" (Tristan Ferland Milewski, D)  [Panorama]
 
-# critic.de
+#critic.de
 Sonja M. Schultz     5
 
 "Fluidø" (Shu Lea Cheang, D)  [Panorama]
 
-# critic.de
+#critic.de
 Till Kadritzke        4
 Michael Kienzl        5
 Lukas Stern           7.5
 
 "From the Balcony (Fra Balkongen)" (Ole Giæver, No)  [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 
 "Fünf Sterne" (Annekatrin Hendel, D)  [Panorama] Heiner-Carow Preis
@@ -1492,7 +1499,7 @@ Martin Gobbin         6
 "Honeygiver Among the Dogs" (Dechen Roder, Bhutan) [Panorama]
  Mit Jamyang Jamtsho Wangchuk, Sonam Tashi Choden. Das Debüt der Regisseurin, die bereits 2015 mit einem Kurzfilm auf der Berlinale vertreten war, ist ein veritabler buddhistischer Film Noir. Atmosphärisch dichtes Kino, aufgeladen von der Dynamik zwischen Spannung und Ruhe, Glaube und Moral. Europapremiere
 
-# critic.de
+#critic.de
 Manon Cavagna         4
 Till Kadritzke        6
 #letterboxd
@@ -1503,7 +1510,8 @@ ferhood             5
 
 "Inflame (Kaygı)" (Ceylan Ozgun Ozcelik, Turkey)  [Panorama]
 
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/12/ceylan-oezguen-oezcelik-berlinale-panorama-kritik.html
+#critic.de
 Martin Gobbin         5
 #letterboxd
 Anna                7
@@ -1541,14 +1549,14 @@ Letterbox 4_Users	8.75  http://letterboxd.com/film/small-talk-2016/ratings/
 
 "The Taste of Betel Nut (Bing Lang Xue)" (Hu Jia, China) [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         2.5
 Jenny Jecke           6
 
 "Untitled" (Michael Glawogger, Monika Willi, Österreich) [Panorama]
  „Dieser Film soll ein Bild der Welt entstehen lassen, wie es nur gemacht werden kann, wenn man keinem Thema nachgeht, keine Wertung sucht und kein Ziel verfolgt. Wenn man sich von nichts treiben lässt außer der eigenen Neugier und Intuition.“ - Der Regisseur Michael Glawogger verstarb 2014 während der Dreharbeiten. Monika Willi realisierte einen faszinierenden Film aus dem Material, das während der vier Monate und 19 Tage dauernden Reise durch den Balkan, Italien, Nordwest- und Westafrika entstanden ist - einer Reise, um zu beobachten, zuzuhören und zu erleben, mit aufmerksamen Augen, mutig und roh. Weltpremiere
 
-# critic.de
+#critic.de
 Thomas Groh           9
 David Hudson          7.5
 Michael Kienzl        6
@@ -1563,24 +1571,24 @@ vinminsituation     4
 
 "El Pacto De Adriana (Adriana's Pact)" (Lissette Orozco, Chile) [Panorama]
 
-# critic.de
+#critic.de
 Pamela Biénzobas     9
 Till Kadritzke        7.5
 
 "One Thousand Ropes" (Tusi Tamasese, NZ)  [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         4
 
 "GHOST IN THE MOUNTAINS" (Heng Yang, China)  [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         1
 Jenny Jecke           2.5
 
 "God's Own Country" (Francis Lee, GB)   [Panorama]
 
-# critic.de
+#critic.de
 Michael Kienzl        4
 #letterboxd
 Kamilleroboter      10
@@ -1627,19 +1635,19 @@ Matilda Muybridge   4
 
 "Requiem for Mrs. J (Rekvijem za gospodju J)" (Bojan Vuletic, Serbia)  [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 
 "Skins (Pieles)" (Eduardo Casanova, Spain)   [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 Jenny Jecke           4
 
 "Strong Island" (Yance Ford, USA/Denmark)  [Panorama]
  Documentary
 
-# critic.de
+#critic.de
 Till Kadritzke        6
 Sonja M. Schultz      9
 Lukas Stern           5
@@ -1660,7 +1668,7 @@ TerribleMiasma      4
 
 "Revolution of Sound. Tangerine Dream"	(Margarete Kreuzer, D)   [Panorama]
 
-# critic.de
+#critic.de
 Thomas Groh           5
 
 "Tania Libre" (Lynn Hershman Leeson, USA)  [Panorama]
@@ -1674,12 +1682,12 @@ Tarek Boyd          5
 
 "Istiyad Ashbah (Ghost Hunting)" (Raed Andoni, Israel)  [Panorama]
 
-# critic.de
+#critic.de
 Pamela Biénzobas     9
 
 "Belinda" (Marie Dumora)   [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 Jenny Jecke           4
 Sonja M. Schultz      6
@@ -1688,7 +1696,7 @@ Sonja M. Schultz      6
 
 "Tiger Girl" (Jakob Lass, D) [Panorama]
 
-# critic.de
+#critic.de
 Martin Gobbin         4
 Thomas Groh           6
 David Hudson          5
@@ -1715,7 +1723,7 @@ Ben Tomkins         7
 "Butterfly Kisses" (Rafael Kapelinski, Großbritannien) [Generation]
  Jake und seine Freunde vertreiben sich die Zeit in den Höfen ihrer Hochhaussiedlung, in Billard-Hallen, reden über Mädchen, gucken Pornos und betrinken sich. Jake trägt schwer an einem düsteren Geheimnis, das ihn mehr und mehr von den anderen entfernt und in eine gefährliche Isolation treibt. Rafael Kapelinski inszeniert seinen Debütfilm in kontraststarkem Schwarz-Weiß und in respektvoller Nähe zu seinen Figuren, beeindruckend dargestellt von Neuentdeckungen und jungen Talenten (u.a. Thomas Turgoose - This Is England, Generation 2007). Weltpremiere
 
-# critic.de
+#critic.de
 Martin Gobbin         5
 #letterboxd
 Eagle_Vision        9
@@ -1739,7 +1747,7 @@ Francisco Bianchi   3
  In epischer Breite und formaler Vielgestaltigkeit folgt der Film einer Gruppe junger Menschen in Québec, die sich im Nachgang studentischer Proteste zur revolutionären Zelle formieren. Mit ihnen exerziert der schonungslose Film von Mathieu Denis (Corbo, Generation 2015) und Simon Lavoie durch, was es heute bedeuten mag, eine Revolution anzufachen und für eine Sache zu kämpfen. Europapremiere
 
 Letterbox 56_Users	6.73  https://letterboxd.com/film/those-who-make-revolution-halfway-only-dig-their-own-graves/
-# critic.de
+#critic.de
 Till Kadritzke        7.5
 
 Letterbox 47_Users	6.87  http://letterboxd.com/film/those-who-make-revolution-halfway-only-dig-their-own-graves/ratings/
@@ -1747,7 +1755,7 @@ Letterbox 47_Users	6.87  http://letterboxd.com/film/those-who-make-revolution-ha
 "Don't Swallow My Heart, Alligator Girl! (Não Devore Meu Coração)" (Felipe Bragança, Bra)  [Generation] <i>Sundance</i>
 
 Sundance 9_Ratings    6.67  http://cannes-ratings.herokuapp.com/Sundance2017?t=49#49
-# critic.de
+#critic.de
 Till Kadritzke        6
 Michael Kienzl        5
 #letterboxd
@@ -1769,7 +1777,7 @@ Letterbox 14_Users	7.07  http://letterboxd.com/film/emo-the-musical/ratings/
  Er ist nicht gerade beliebt, hat Freundschaftssorgen, will mit der Schülerzeitung hoch hinaus und heißt, wie sein Erfinder, Dash. Im Keller seiner Schule entdeckt er ein Geheimnis, das seine ganze Welt ins Wanken bringt. Graphic Novelist Shaw hofft, dass sein Film 15-jährige Nerds erreicht die, genau wie er in diesem Alter, auf Zeichnungen und Malerei stehen. Der vor Einfallsreichtum übersprudelnde Animationsfilm mit den Stimmen von Jason Schwartzman, Maya Rudolph, Lena Dunham und Susan Sarandon wird nicht nur diese begeistern. Europapremiere
 
 Letterbox 137_Users	6.50  http://letterboxd.com/film/my-entire-high-school-sinking-into-the-sea/ratings/
-# critic.de
+#critic.de
 Till Kadritzke        6
 
 "The Inland Road" (Jackie van Beek) [Generation]
@@ -1793,13 +1801,13 @@ Kaja                7
  Nach Ende des Vietnamkriegs und inmitten der Feierlichkeiten zum 200. Geburtstag der USA 1976, trampen Ausreißer Kit und seine Freundin Alice an die kanadische Ostküste. Bruce McDonald (The Tracey Fragments, Panorama 2007) inszeniert einen Coming-of-Age-Film, der zugleich Road Movie ist und von einem fantastischen Soundtrack seiner Tage angetrieben wird. Eine rebellische Reise in Schwarz-Weiß, auf der viele Gewissheiten auf der Strecke bleiben werden. Europapremiere
 
 Letterbox 59_Users	6.37  https://letterboxd.com/film/weirdos/
-# critic.de
+#critic.de
 Martin Gobbin         6
 Till Kadritzke        4
 
 "Simulation (Tamaroz)" (Abed Abest, Iran)  [Generation]
 
-# critic.de
+#critic.de
 G.Marchini Camia      4
 Philipp Schwarz       4
 Lukas Stern           5
@@ -1809,7 +1817,7 @@ Generation Kplus
 "As duas Irenes (Two Irenes)" (Fabio Meira, Brasilien) [Generation]
  In der flirrenden Hitze Brasiliens entdeckt die 13-jährige Irene ein dunkles Geheimnis ihres Vaters: Es existiert noch eine Familie und Tochter mit gleichem Namen. Irene beginnt ein gewagtes Spiel das jeden Moment aufzufliegen droht. Die träge sommerliche Stimmung von Fabio Meiras Langfilmdebüt kann nicht darüber hinwegtäuschen, dass es unter der Oberfläche brodelt. Weltpremiere
 
-# critic.de
+#critic.de
 Pamela Biénzobas     6
 #letterboxd
 Francisco Bianchi   8
@@ -1845,7 +1853,7 @@ Bare Bard           6
 "Shi Tou (Stonehead)" (Xiang Zhao, China) [Generation]
  Der zehnjährige Shi Tou, Kind eines Wanderarbeiters, wächst allein bei seiner Großmutter auf. Was ist richtig und was ist falsch? Eine Belohnung mit den Klassenkameraden zu teilen oder bis zur Rückkehr des Vaters zu warten, dem Lehrer zu gehorchen oder den Freund zu beschützen? Mit einem dokumentarisch geschärften Blick zeichnet Xiang Zhao ein Bild vom Leben im ländlichen China und einer Gesellschaft, in der nicht selten eine ganze Generation in Abwesenheit ihrer Eltern aufwächst. Weltpremiere
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 
 "Uilenbal" (Simone van Dusseldorp, 2016) [Generation]
@@ -1871,7 +1879,7 @@ PERSPEKTIVE DEUTSCHES KINO
 "Back for Good" (Mia Spengler) [Perspektive Deutsches Kino]
  Die Geschichte von Angie, einem ehemaligen Trash-TV-Starlet (Kim Riedle), ihrer verhassten Mutter (Juliane Köhler) und ihrer pubertierenden Schwester (Leonie Wesselow). Angie bringt mit der Rückkehr in das Kaff ihrer Kindheit das Gefüge zwischen den Frauen ordentlich durcheinander, so dass alle drei ihre Rolle im Leben neu definieren müssen. Back for Good ist eine Ode an die Menschlichkeit – leise gesummt während ein Auto-Tune-Popsong aus dem Radio dröhnt. Abschlussfilm Ludwigsburg
 
-# critic.de
+#critic.de
 Sonja M. Schultz 7.5
 Philipp Schwarz       4
 #letterboxd
@@ -1882,7 +1890,7 @@ ShortCut            5
 
 "Die Beste Aller Welten" (Adrian Goiginger)   [Perspektive Deutsches Kino]
 
-# critic.de
+#critic.de
 Andrey Arnold         5
 Sonja M. Schultz      7.5
 Philipp Schwarz       7.5
@@ -1891,7 +1899,7 @@ Lukas Stern           7.5
 "Ein Weg (Paths)" (Chris Miera)  [Perspektive Deutsches Kino]
   Sehr behutsame Annäherung an eine lange Liebesbeziehung bis hin zu ihrer Trennung. Während der Sohn Max langsam erwachsen wird, begleiten wir Andreas (Mike Hoffmann) und Martin (Mathis Reinhardt) über 15 Jahre hinweg durch die Höhen und Tiefen des alltäglichen Beziehungslebens. Wie ein Dokumentarfilm gedreht, ist Ein Weg mit kleinem Team und Budget an realen Orten mit großer Intensität und Flexibilität entstanden und hat im Prozess der Montage zu seiner besonderen Form über Zeit zu erzählen, gefunden. Konrad Wolf
 
-# critic.de
+#critic.de
 Martin Gobbin         7.5
 Philipp Schwarz       2.5
 #letterboxd
@@ -1901,7 +1909,7 @@ Wellington Almeida  4
 "Eisenkopf (Ironhead)" (Tian Dong) [Perspektive Deutsches Kino]
  Dokumentarfilm über eine junge Shaolin-Kung-Fu-Fußballmannschaft ab. Tian Dong besucht die jungen Leute in ihrer Sportschule und redet mit ihnen über ihren Alltag und ihre Träume und zeichnet über diesen Weg ein aufwühlendes Bild chinesischer Politik. Abschlussfilm KHM Köln
 
-# critic.de
+#critic.de
 Philipp Schwarz       7.5
 #letterboxd
 lauriejacobine      9
@@ -1912,12 +1920,12 @@ Pablo Villaça      4
 
 "Erase and Forget" (Andrea Luka Zimmerman, GB)  [Perspektive Deutsches Kino]
 
-# critic.de
+#critic.de
 Sonja M. Schultz 5
 
 "Könige der Welt" (Christian von Brockhausen, Timo Großpietsch	D) [Perspektive Deutsches Kino]
 
-# critic.de
+#critic.de
 Philipp Schwarz       2.5
 
 "Selbstkritik eines bürgerlichen Hundes" (Julian Radlmaier) [Perspektive Deutsches Kino]
@@ -1925,7 +1933,7 @@ Philipp Schwarz       2.5
 
 Gunda Bartels              http://www.tagesspiegel.de/kultur/berlinale-perspektive-deutsches-kino-aepfel-der-verbloedung/19404032.html
 Thekla Dannenberg          https://www.perlentaucher.de/berlinale-blog/2017/02/17/filmkritik-zu-selbstkritik-eines-buergerlichen-hundes-von-julian-radlmaier-berlinale-2017-perspektive-deutsches-kino.html
-# critic.de
+#critic.de
 Andrey Arnold         6
 Frédéric Jaeger     7.5
 Michael Kienzl        7.5
@@ -1956,14 +1964,14 @@ Christiaan Boesenach 2
 
 "Die Tochter"  (Mascha Schilinski)  [Perspektive Deutsches Kino]
 
-# critic.de
+#critic.de
 Philipp Schwarz       5
 Lukas Stern           2.5
 
 "Zwischen den Jahren" (Lars Hennig)   [Perspektive Deutsches Kino]
 
 Joachim Kurz            http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-zwischen-den-jahren-von-lars-henning
-# critic.de
+#critic.de
 Philipp Schwarz       5
 #letterboxd
 steinar12           8
@@ -1975,20 +1983,20 @@ Ronan_mack          1
 "Kontener" (Sebastian Lang) [Perspektive Deutsches Kino]
  Der erste kürzere Spielfilm von Sebastian Lang an der Filmuniversität Babelsberg Konrad Wolf, in dem er uns von „den zwei Polinnen“ erzählt, die auf einem Milchhof in Brandenburg arbeiten. Aus der Perspektive Marynas (Joanna Drozda), deren Stimme uns durch die Geschichte führt, zeichnet der Film Tavas (Anka Graczyk) letzte Nacht vor ihrem Verschwinden nach. Mittellanger Spielfilm. Weltpremiere
 
-# critic.de
+#critic.de
 Philipp Schwarz       4
 Lukas Stern           4
 
 "Mikel" (Cavo Kernich) [Perspektive Deutsches Kino]
  Es geht um einen jungen Flüchtling, der von Nigeria nach Berlin kam und hier nach gerecht bezahlter Arbeit und einem würdigen Leben sucht. Es ist die erste mittellange Regiearbeit von Cavo Kernich, der damit sein Studium an der Universität der Künste Berlin in der Klasse „Narrativer Film“ bei Thomas Arslan abschließt.
 
-# critic.de
+#critic.de
 Philipp Schwarz       4
 Lukas Stern           1
 
 "Millennials" (Jana Bürgelin)  [Perspektive Deutsches Kino]
 
-# critic.de
+#critic.de
 Philipp Schwarz       2.5
 Lukas Stern           1
 
@@ -2008,20 +2016,20 @@ Letterbox 63_Users	7.60  http://letterboxd.com/film/canoa/ratings/
  entstand im Stil eines amerikanischen B-Pictures. Die Presse reagierte nach der Premiere kritisch auf den Film, der einen pessimistischen Blick auf die Gesellschaft im Nachkriegsdeutschland warf. Käutner wurde zudem aufgrund einer Szene in dem Film Antisemitismus vorgeworfen. Für den deutschen Verleih überarbeitete Käutner den Film und versah ihn mit einem weniger düsteren Ende. Weltpremiere der digitalen Fassung. Im Vorführformat 4K DCP
 
 Letterbox 4_Users	7.75  http://letterboxd.com/film/black-gravel/ratings/
-# critic.de
+#critic.de
 Michael Kienzl        9
 
 WOCHE DER KRITIK
 
 "Aroused by Gymnopedies (Jimunopedi ni midareru)" (Isao Yukisada, JP) [Woche der Kritik]
 
-# critic.de
+#critic.de
 Nino Klingler         2.5
 
 "El Auge Del Humano (The Human Surge)" (Eduardo Williams, Arg 2016)  [Woche der Kritik] <i>Locarno, Toronto, NYFF, ...</i>
  C: Sergio Morosini, Shine Marx, Domingos Marengula, Chai Fonacier, DP: Joaquin Neira, Julien Guillery, Eduardo Williams, AR/BR/PT 2016, 100 min., Spanish-Portuguese-Cebuano O/U – DP Buenos Aires. Exe, 25 years old, has just lost his job and is not looking for another one. Online, he meets Alf, a boy from Mozambique who is also bored with his job and who is about to follow Archie, another boy who has run away into the jungle. The periphery becomes the center. Humans are everywhere in this trajectory of movement across three continents that shifts seamlessly between spaces and perspectives. The lines are blurred, organic and man-made may not be told apart, melting into a searing, searching gaze.
 
-# critic.de
+#critic.de
 Andrey Arnold         6
 Hannes Brühwiler     7.5
 Michael Kienzl        5
@@ -2061,7 +2069,7 @@ James Lattimer	        http://www.slantmagazine.com/house/article/locarno-film-f
  The film, screened here as a world premiere, unfolds as a semi-fictional journey against the backdrop of the Californian landscape, almost leading its main character to Germany. The latter’s motivation: a film shoot in Berlin, a hope for new directions. Like some of Ott’s earlier works “California Dreams” is inspired by the longtime friendship between the director and the protagonist Cory Zacharia.
 
 Michael Pattison              http://www.rogerebert.com/festivals-and-awards/berlin-2017-the-dinner-spoor-california-dreams
-# critic.de
+#critic.de
 Nino Klingler         7.5
 G.Marchini Camia      7.5
 Carolin Weidner       7.5
@@ -2070,7 +2078,7 @@ Carolin Weidner       7.5
  C: Ifeanyi Dike Jr., Samuel Robinson, Jamal Ibrahim, Crystabel Goddy, DP: Segun Olademiji, NG 2016, 102 min., English OV – DP Does there exist a unified notion of Nigeria – historical disjunctions notwithstanding? Abba Makama’s quest for contemporary answers unfolds as a satirical take on Nollywood, whereby the sheer joy and starry-eyed cinephilia make everything fall into place: African and American pop culture, Nigerian past and tradition. A satirical take on Nollywood, whereby the sheer joy and starry-eyed cinephilia make everything fall into place: African and American pop culture, Nigerian past and tradition.
 
 Letterbox 14_Users	5.36  http://letterboxd.com/film/green-white-green/ratings/
-# critic.de
+#critic.de
 Nino Klingler         5
 G.Marchini Camia      6
 Carolin Weidner       6
@@ -2079,14 +2087,14 @@ Carolin Weidner       6
 "Lass den Sommer nie wieder kommen" (Alexandre Koberidze, D)  [Woche der Kritik]
 
 Philipp Schwarz        http://www.critic.de/film/lass-den-sommer-nie-wieder-kommen-10874/
-# critic.de
+#critic.de
 Ekkehard Knörer      9
 
 "I am Not Madame Bovary" (Feng Xiaogang, China 2016) [Woche der Kritik]
  Wo bu shi Pan Jinlian. C: Fan Bingbing, Guo Tao, Da Peng, Zhang Jiayi, DP: Luo Pan, CN 2016, 139 min., Mandarin OV – DP Lone lady contra the class political — or, is it — classily contra politics?! Feng Xiaogang offers a parable of the Chinese state machinery in skilfully stylized tableaux succeeding soon enough to bind these in a block, nay — in a blockbuster. The hilarity of a woman fighting in court against her own divorce reaches perfect pitch of absurdity as men of politics from Beijing to provincial backwaters curry favor.
 
 Letterbox 165_Users	6.70  http://letterboxd.com/film/i-am-not-madame-bovary/ratings/
-# critic.de
+#critic.de
 Pamela Biénzobas     4
 Martin Gobbin         7.5
 Jenny Jecke           7.5
@@ -2097,7 +2105,7 @@ Carolin Weidner       6
 
 "Planetarium" (Rebecca Zlotowski)   [Woche der Kritik]
 
-# critic.de
+#critic.de
 Till Kadritzke        7.5
 Nino Klingler         5
 Ekkehard Knörer      6
@@ -2201,7 +2209,7 @@ FORUM
  WP
 
 Katrin Doerksen             http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-2-2-22-the-alphabet-von-heinz-emigholz
-# critic.de
+#critic.de
 Dunja Bialas          7.5
 Thomas Groh           7.5
 David Hudson          6
@@ -2210,7 +2218,7 @@ Michael Kienzl        7.5
 "Adiós Entusiasmo (So Long Enthusiasm)" (Vladimir Durán, Arg) [Forum]
  At once realistic and surreal and one of three Argentinian films showing in the main programme. Ten-year-old Axel lives with his mother and three sisters in a flat in Buenos Aires. They’d be a perfectly normal family if only the mother weren’t imprisoned in one of the rooms. WP
 
-# critic.de
+#critic.de
 Pamela Biénzobas     6
 G.Marchini Camia     2.5
 #letterboxd
@@ -2228,14 +2236,14 @@ manilazic           1
 
 "The Aimless Bullet (Obaltan)" (Hyun-mok Yoo, Korea)  [Forum]
 
-# critic.de
+#critic.de
 Michael Kienzl        7.5
 
 "At Elske Pia (Loving Pia)" (Daniel Joseph Borgmann, Denmark 2016) [Forum]
  WP
 
 Simon Hauck                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-loving-pia-von-daniel-borgman
-# critic.de
+#critic.de
 Till Kadritzke        4
 Carolin Weidner       5
 #letterboxd
@@ -2245,7 +2253,7 @@ Till Kadritzke      4
 "Aus einem Jahr der Nichtereignisse" (Ann Carolin Renninger, René Frölke, D 2017) [Forum]
   A year in the life of a 90-year-old north German farmer, who lives alone on a rural farmstead.
 
-# critic.de
+#critic.de
 Dunja Bialas          7.5
 Manon Cavagna         7.5
 Thomas Groh           9
@@ -2266,13 +2274,13 @@ Till Kadritzke      7
 
 "The Barber of the Poor District (Hallaq Darb al-Fuqara’)" (Mohammed Reggab, MA) [Forum]
 
-# critic.de
+#critic.de
 Michael Kienzl        5
 
 "Barrage" (Laura Schroeder, Luxembourg/Belgium/France) [Forum]
  WP
 
-# critic.de
+#critic.de
 Jenny Jecke           6
 Michael Kienzl        2.5
 G.Marchini Camia      2.5
@@ -2318,14 +2326,14 @@ ferhood             3
 "Bickels [Socialism]" (Heinz Emigholz, Germany/Israel 2016) [Forum]
  WP
 
-# critic.de
+#critic.de
 Thomas Groh           7.5
 Michael Kienzl        7.5
 
 "Casa Roshell" (Camila José Donoso, Chile) [Forum]
   A portrait of a most unusual institution in the Mexican capital, a place where men learn to be women during the day, before the parties get going at night. All manner of boundaries blur in this tiny utopia: between gay, straight and bi, male and female, past and present, reality and fiction. WP
 
-# critic.de
+#critic.de
 Sonja M. Schultz 6
 
 "Casting" (Nicolas Wackerbarth, D) [Forum]
@@ -2333,7 +2341,7 @@ Sonja M. Schultz 6
 
 Anja Seeliger               https://www.perlentaucher.de/berlinale-blog/2017/02/12/filmkritik-zu-casting-von-nicolas-wackerbarth-forum-berlinale-2017.html
 Simon Hauck                 http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-casting-von-nicolas-wackerbarth
-# critic.de
+#critic.de
 Dunja Bialas          7.5
 David Hudson          7.5
 Frédéric Jaeger       7.5
@@ -2347,12 +2355,12 @@ Carolin Weidner       7.5
 "Cuatreros (Rustlers)" (Albertina Carri, Arg) [Forum]
  Examines Argentina’s complex recent past: Isidro Velázquez was a bandit and dissident active in the 1960s whose story formed both the basis for a sociology book by her father Roberto Carri and a feature film that is now lost. The director draws on archive images to bring her own biography into alignment with wider historical events. IP
 
-# critic.de
+#critic.de
 Pamela Biénzobas     6
 
 "Chemi Bednieri Ojakhi (My Happy Family)" (Nana & Simon, Germany/Georgia/France 2017) [Forum]
 
-# critic.de
+#critic.de
 David Hudson          6
 Michael Kienzl        6
 #letterboxd
@@ -2370,33 +2378,33 @@ skyhir              7
  The story of a thirteen-year-old who has lost direction following the death of his brother, meaning that being initiated into a local gang now appears a necessary step towards becoming a man. A search for brotherhood in an African American community in the rural South. 
 
 Sundance 28_Ratings   6.50  http://cannes-ratings.herokuapp.com/Sundance2017?t=56#56
-# critic.de
+#critic.de
 Martin Gobbin         6
 Nino Klingler         6
 
 "Dieste [Uruguay]" (Heinz Emigholz, Germany) [Forum]
  WP
 
-# critic.de
+#critic.de
 Dunja Bialas          4
 Hannes Brühwiler     7.5
 
 "Discreet" (Travis Mathews, USA) [Forum]
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 
 "Drôles d’Oiseaux (Strange Birds)" (Elise Girard, France) [Forum]
  IP
 
-# critic.de
+#critic.de
 Pamela Biénzobas     6
 Carolin Weidner       7.5
 
 "For Ahkeem" (Jeremy Levine, Landon Van Soest, USA) [Forum] WP
  The sensitive long-term documentary was shot in Missouri, focussing on Daje, who lives with her single mother in St. Louis. Like many black teenagers in the neighbourhood, she has problems at school, while her everyday life is shaken again and again by the violent deaths of her friends.
 
-# critic.de
+#critic.de
 Till Kadritzke        7.5
 Michael Kienzl        5
 Carolin Weidner       6
@@ -2406,7 +2414,7 @@ Carolin Weidner       6
 
 Sundance 45_Ratings   5.93  http://cannes-ratings.herokuapp.com/Sundance2017?t=84#84
 Letterbox 57_Users    6.4   http://letterboxd.com/film/golden-exits/
-# critic.de
+#critic.de
 Andrey Arnold         6
 Dunja Bialas          2.5
 Hannes Brühwiler     4
@@ -2441,13 +2449,13 @@ gwself              3
 
 "The Last Witness (Choihui jeungin)" (Lee Doo-yong, Korea) [Forum]
 
-# critic.de
+#critic.de
 Till Kadritzke        9
 Michael Kienzl        9
 
 "LOKTAK LAIREMBEE (Lady of the Lake)" (Haobam Paban Kumar, India) [Forum]
 
-# critic.de
+#critic.de
 Martin Gobbin         4
 #letterboxd
 Vinay_bhat          8
@@ -2460,13 +2468,14 @@ Rüdiger Tomczak    6
 "MAMAN COLONELLE (MAMA COLONEL)" (Dieudo Hamadi, Congo) [Forum] Best Film Forum
  WP
 
-# critic.de
+Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2017/02/15/maman-colonelle-forum-berlinale-kritik.html
+#critic.de
 Nino Klingler         7.5
 
 "EL MAR LA MAR" (J.P. Sniadecki, Joshua Bonnetta, USA) [Forum] Caligari Filmpreis
  WP
 
-# critic.de
+#critic.de
 Andrey Arnold         7.5
 Dunja Bialas          7.5
 Hannes Brühwiler     7.5
@@ -2479,7 +2488,7 @@ Philipp Schwarz       6
 "EL MAR NOS MIRA DE LEJOS (THE SEA STARES AT US FROM AFAR)" (Manuel Muñoz Rivas, Spain/NL) [Forum]
  WP
 
-# critic.de
+#critic.de
 Thomas Groh           4
 
 "Menashe" (Joshua Z Weinstein, USA 2017) [Forum] <i>Sundance</i>
@@ -2487,12 +2496,12 @@ Thomas Groh           4
 
 Beatrice Behn               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-menashe-von-joshua-z-weinstein
 Sundance 20_Ratings   6.90  http://cannes-ratings.herokuapp.com/Sundance2017?t=38#38
-# critic.de
+#critic.de
 Till Kadritzke        2.5
 
 "The Mirage (Assarab)" (Ahmed Bouanani, MA) [Forum]
 
-# critic.de
+#critic.de
 Michael Kienzl        4       http://www.critic.de/special/das-erdrueckende-kollektiv-4099/
 
 "MITTSU NO HIKARI (THREE LIGHTS)" (Kohki Yoshida, Japan) [Forum]
@@ -2500,7 +2509,7 @@ Michael Kienzl        4       http://www.critic.de/special/das-erdrueckende-koll
 
 "MON ROT FAI (Railway Sleepers)" (Sompot Chidgasornpongse, Thailand) [Forum]
 
-# critic.de
+#critic.de
 Manon Cavagna         6
 Thomas Groh           7.5
 Michael Kienzl        7.5
@@ -2537,24 +2546,24 @@ Bradley J. Dixon    6
 "MOTZA EL HAYAM (LOW TIDE)" (Daniel Mann, Israel/France) [Forum]
  WP
 
-# critic.de
+#critic.de
 Philipp Schwarz       4
 Lukas Stern           5
 
 "MZIS QALAQI (CITY OF THE SUN)" (Rati Oneli, Georgia/USA/The Netherlands/Qatar) [Forum]
  WP
 
-# critic.de
+#critic.de
 Hannes Brühwiler     2.5
 
 "NEWTON" (Amit V Masurkar, India) [Forum] WP CICAE Art Cinema Award
 
-# critic.de
+#critic.de
 Martin Gobbin         6
 
 "OCCIDENTAL" (Neïl Beloufa, France) [Forum] IP
 
-# critic.de
+#critic.de
 Dunja Bialas          6
 Till Kadritzke        7.5
 Michael Kienzl        6
@@ -2562,12 +2571,12 @@ G.Marchini Camia      6
 
 "Oh the Days! (Alyam, Alyam)" (Ahmed El-Maanouni, MA)  [Forum]
 
-# critic.de
+#critic.de
 Michael Kienzl        9       http://www.critic.de/special/das-erdrueckende-kollektiv-4099/
 
 "Org" (Fernando Birri, Arg) [Forum]
 
-# critic.de
+#critic.de
 Thomas Groh           7.5     http://www.perlentaucher.de/berlinale-blog/2017/02/09/fernando-birri-org-1977-berlinale-2017-forum-filmkritik.html
 Till Kadritzke        7.5
 Michael Kienzl        7.5
@@ -2578,7 +2587,7 @@ Michael Kienzl        7.5
   IP
 
 Letterbox 26_Users	6.08  http://letterboxd.com/film/rifle/
-# critic.de
+#critic.de
 Till Kadritzke        4
 G.Marchini Camia      4
 
@@ -2590,7 +2599,7 @@ G.Marchini Camia      4
 
 "SOMNILOQUIES" (Verena Paravel, Lucien Castaing-Taylor, France/USA) [Forum] WP
 
-# critic.de
+#critic.de
 David Hudson          5
 Michael Kienzl        7.5
 G.Marchini Camia      6
@@ -2601,66 +2610,66 @@ Carolin Weidner       6
 
 "STREETSCAPES [DIALOGUE]" (Heinz Emigholz, Germany) [Forum] WP
 
-# critic.de
+#critic.de
 Michael Kienzl        5
 
 "TAMAROZ (SIMULATION)" (Abed Abest, Iran) [Forum] WP
 
 "EL TEATRO DE LA DESAPARICIÓN (THE THEATRE OF DISAPPEARANCE)" (Adrián Villar Rojas, Argentina) [Forum] WP
 
-# critic.de
+#critic.de
 Till Kadritzke        7.5     http://www.critic.de/film/the-theatre-of-disappearance-10865/
 
 "Traces (Wechma)" (Hamid Benani, MA) [Forum]
 
-# critic.de
+#critic.de
 Michael Kienzl        7.5     http://www.critic.de/special/das-erdrueckende-kollektiv-4099/
 
 "TIERE (ANIMALS)" (Greg Zglinski, Switzerland/Austria/Poland) [Forum] WP
 
 Maria Wiesner               http://www.kino-zeit.de/blog/berlinale-2017/berlinale-2017-tiere-von-greg-zglinski
-# critic.de
+#critic.de
 Philipp Schwarz       4
 Lukas Stern           4
 
 "TIGMI N IGREN (HOUSE IN THE FIELDS)" (Tala Hadid, Morocco/Qatar) [Forum] WP
 
-# critic.de
+#critic.de
 Sonja M. Schultz      7.5
 
 "TINSELWOOD" (Marie Voignier, France) [Forum] WP
 
-# critic.de
+#critic.de
 Dunja Bialas          6
 Nino Klingler         7.5     http://www.critic.de/film/tinselwood-10774/
 
 "Werewolf" (Ashley McKenzie, Canada 2016) [Forum] IP
 
 Letterbox 67_Users	6.40  http://letterboxd.com/film/werewolf-2016/
-# critic.de
+#critic.de
 Thomas Groh           6       http://www.perlentaucher.de/berlinale-blog/2017/02/10/werewolf-von-ashley-mc-kenzie-filmkritik-berlinale-forum.html
 Till Kadritzke        6       http://www.critic.de/film/werewolf-10672/
 Carolin Weidner       5
 
 "YOZORA HA ITSU DEMO SAIKOU MITSUDO NO AOIRO DA (THE TOKYO NIGHT SKY IS ALWAYS THE DENSEST SHADE OF BLUE)" (Yuya Ishii, Japan) [Forum] WP
 
-# critic.de
+#critic.de
 Martin Gobbin         4
 
 "HASHTI Tehran"	(Daniel Kötter, Iran) [Forum Expanded]
 
-# critic.de
+#critic.de
 G.Marchini Camia      6
 
 "Rudzienko"    (Sharon Lockhart, USA/PL) [Forum Expanded]
 
-# critic.de
+#critic.de
 Dunja Bialas          4
 Michael Kienzl        6
 
 "Ulysses in the Subway" (Ken Jacobs, Marc Downie, Paul Kaiser, Flo Jacobs, USA)   [Forum Expanded]
 
-# critic.de
+#critic.de
 G.Marchini Camia      7.5
 Philipp Schwarz       7.5
 
