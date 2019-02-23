@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2018);
+our @YEARS = (2010..2019);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other"); #, "Hopeful (temp.)"
@@ -651,6 +651,9 @@ sub _list {
 get '/Cannes' => sub {
   _list(2018);
 };
+get '/Cannes2019' => sub {
+  _list(2019);
+};
 get '/Cannes2018' => sub {
   _list(2018);
 };
@@ -686,6 +689,9 @@ get '/2017' => sub {
 };
 get '/2018' => sub {
   _list(2018);
+};
+get '/2019' => sub {
+  _list(2019);
 };
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
