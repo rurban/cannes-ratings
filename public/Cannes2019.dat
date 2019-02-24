@@ -1,5 +1,5 @@
 package Cannes::rurban::2019; # -*- perl -*-
-# Cannes 2019 Critics Ratings
+# Cannes 2019 Critics Ratings, May 14-25
 # Published at http://cannes-ratings.herokuapp.com/Cannes2019
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2019
@@ -33,7 +33,7 @@ Gavin               7
 #letterboxd
 Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 
-"Pain & Glory" (Pedro Almodovar)
+"Pain & Glory (Dolor y gloria)" (Pedro Almodovar)
 
 #letterboxd
 Noel Ceballos       10   https://letterboxd.com/noelceballos/film/pain-glory/
@@ -45,7 +45,7 @@ Beita               10
 #letterboxd
 
 "The Traitor (Il traditore)" (Marco Bellocchio)
- (Quinzaine)
+ (Quinzaine?)
 
 #letterboxd
 
@@ -65,7 +65,7 @@ Beita               10
 
 #letterboxd
 
-"Portrait of the Girl on Fire" (Céline Sciamma)
+"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)
 
 #letterboxd
 
@@ -77,15 +77,15 @@ Beita               10
 
 #letterboxd
 
-"Bacurau" ()Kleber Mendonça Filho and Juliano Dornelles)
+"Bacurau" (Kleber Mendonça Filho, Juliano Dornelles, BR)
 
 #letterboxd
 
-"Matthias & Maxime" Xavier Dolan
+"Matthias & Maxime" (Xavier Dolan)
 
 #letterboxd
 
-"La fille au bracelet" Stéphane Demoustier
+"La fille au bracelet" (Stéphane Demoustier)
 
 #letterboxd
 
@@ -97,11 +97,11 @@ Beita               10
 
 #letterboxd
 
-"To the Ends of the Earth" Kiyoshi Kurosawa
+"To the Ends of the Earth" (Kiyoshi Kurosawa)
 
 #letterboxd
 
-"Jeanne" Bruno Dumont
+"Jeanne" (Bruno Dumont)
 
 #letterboxd
 
@@ -122,11 +122,11 @@ Beita               10
 
 #letterboxd
 
-"Malmkrog" Cristi Puiu
+"Malmkrog" (Cristi Puiu)
 
 #letterboxd
 
-"The Passenger" Corneliu Porumboiu
+"The Passenger" (Corneliu Porumboiu)
  "The Whistlers/Gomera" (was also in the 2018 list)
 
 #letterboxd
@@ -135,7 +135,7 @@ Beita               10
 
 #letterboxd
 
-"Little Joe" Jessica Hausner
+"Little Joe" (Jessica Hausner)
 
 #letterboxd
 
@@ -174,20 +174,20 @@ A Short Film About OrgasmSphere 2
 
 #letterboxd
 
-"Zombie Child" Bertrand Bonello
+"Zombie Child" (Bertrand Bonello)
  Maybe not ready
 
 #letterboxd
 
-"First Cow" Kelly Reichardt
+"First Cow" (Kelly Reichardt)
 
 #letterboxd
 
-"Wendy" Benh Zeitlin
+"Wendy" (Benh Zeitlin)
 
 #letterboxd
 
-"Frankie" Ira Sachs
+"Frankie" (Ira Sachs)
 
 #letterboxd
 katika              7
@@ -202,7 +202,7 @@ katika              7
 Sarahfilm           8   https://letterboxd.com/sarahfilm/film/madre-1/
 rrshawndeon         7
 
-"The County" Grímur Hákonarson
+"The County" (Grímur Hákonarson)
 
 #letterboxd
 
@@ -244,15 +244,11 @@ roxannemal          2
 
 #letterboxd
 
-"Persian Lessons" Vadim Perelman
+"Persian Lessons" (Vadim Perelman)
 
 #letterboxd
 
-"An Easy Girl" Rebecca Zlotowski
-
-#letterboxd
-
-"Proxima" Alice Winocour
+"Proxima" (Alice Winocour)
 
 #letterboxd
 
@@ -269,7 +265,7 @@ roxannemal          2
 
 #letterboxd
 
-"The Translators" Régis Roinsard
+"The Translators (Les Traducteurs)" (Régis Roinsard)
 
 #letterboxd
 maria_leite         10
@@ -278,7 +274,8 @@ maria_leite         10
 
 #letterboxd
 
-"La fameuse invasion des ours en Sicile" Lorenzo Mattotti (I)
+"The Bears' Famous Invasion of Sicily (La fameuse invasion des ours en Sicile)" Lorenzo Mattotti (I)
+ Animation
 
 #letterboxd
 
@@ -637,7 +634,6 @@ dittedc             2
 "Bergman Island" Mia Hansen-Love
  with an US all-star cast, possible but unlikely to be ready. Still need to shoot some short scenes
 
-
 #letterboxd
 
 "Undine" (Christian Petzold, D)
@@ -669,6 +665,9 @@ dittedc             2
 "Les Champs pourpres" Keren Yedaya
 
 "The Beloved Stranger" (Chang Tso-Chi, Taiwan)
+
+"Booksmart" (Olivia Wilde)
+ wide US release 24.May, not at Sundance
 
 "Cook, Fuck, Kill" (Mira Fornay, Svk) 
  probably KIFF or Locarno
