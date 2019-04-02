@@ -19,12 +19,7 @@ our $DATA= <<'EOF';
 
 PREDICTIONS
 
-"Ahmed" (Jean-Pierre and Luc Dardenne)
-
-#letterboxd
-Gavin               7
-
-"The Truth" (Hirokazu Kore-eda)
+"The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda)
 
 #letterboxd
 SanthoshkumarG      6
@@ -34,8 +29,19 @@ SanthoshkumarG      6
 #letterboxd
 Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 
+"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)
+
+"Ad Astra" (James Gray)
+
+#letterboxd
+Daniel Araújo       10
+Thar Soe            9
+M.K. Rhodes         8
+Joaby               3
+
 "Pain & Glory (Dolor y gloria)" (Pedro Almodovar)
 
+Jaime Esteve Bengoechea	(International Cinephil Society)  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 #letterboxd
 BarbaraSandwich     10
 gatamon             10
@@ -50,39 +56,28 @@ Trailers y Estrenos 8
 nadiabronte         8
 John Tones          8
 
+"Parasite" (Bong Joon-ho)
+
+"Ahmed" (Jean-Pierre and Luc Dardenne)
+
+#letterboxd
+Gavin               7
+
+
 "Oh Mercy" (Arnaud Desplechin)
 
-#letterboxd
 
 "The Traitor (Il traditore)" (Marco Bellocchio)
- (Quinzaine?)
 
-
-#letterboxd
 
 "Sorry We Missed You" (Ken Loach)
 
 
-#letterboxd
-
 "About Endlessness" (Roy Andersson)
 
 
-#letterboxd
-
-"Parasite" (Bong Joon-ho)
-
-
-#letterboxd
-
-"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)
-
-
-#letterboxd
-
 "The Dead Don’t Die" (Jim Jarmusch)
 
-#letterboxd
 
 "Frankie" (Ira Sachs)
 
@@ -93,30 +88,20 @@ katika              7
 "Bacurau" (Kleber Mendonça Filho, Juliano Dornelles, BR)
 
 
-#letterboxd
-
 "Matthias & Maxime" (Xavier Dolan)
 
 
 "La fille au bracelet" (Stéphane Demoustier)
 
 
-#letterboxd
-
 "Eden" (Agnes Kocsis, Hun)
 
-
-#letterboxd
 
 "It Must Be Heaven" (Elia Suleiman, Palestine)
 
 
-#letterboxd
-
 "To the Ends of the Earth" (Kiyoshi Kurosawa)
 
-
-#letterboxd
 
 "Jeanne" (Bruno Dumont)
 
@@ -127,79 +112,52 @@ Davitru             7
 "Saturday Fiction" (Lou Ye, China)
 
 
-#letterboxd
-
 "Böse Spiele" (Ulrich Seidl)
 
 
-#letterboxd
-
 "Ema" (Pablo Larrain)
 
-
-#letterboxd
 
 "The Beanpole" (Kantemir Balagov)
  "Russia's wunderkind director" 
 
 
-#letterboxd
-
 "Malmkrog" (Cristi Puiu)
 
-
-#letterboxd
 
 "The Passenger" (Corneliu Porumboiu)
  "The Whistlers/Gomera" (was also in the 2018 list)
 
 
-#letterboxd
 
 "Heidi" (Catalin Mitulescu, Rom)
 
 
-#letterboxd
 
 "Little Joe" (Jessica Hausner)
 
 
-#letterboxd
 
 "Wild Goose Lake" (Diao Yi’nan, China)
  known for "Black Coal, Thin Ice" (2014)
 
 
-#letterboxd
 
 "All inclusive" (Malgorzata Szumowska, POL)
 
 
-#letterboxd
-
-"Ad Astra" (James Gray)
-
-#letterboxd
-Daniel Araújo       10
-Thar Soe            9
-M.K. Rhodes         8
-Joaby               3
 
 "First Cow" (Kelly Reichardt)
 
-#letterboxd
 
 "Wendy" (Benh Zeitlin)
 
-#letterboxd
 
 "Port Authority" (Danielle Lessovitz)
 
-#letterboxd
 
 "Shirley" (Josephine Decker)
 
-#letterboxd
 
 "The Last Black Man in San Francisco" (Joe Talbot) <i>Sundance</i>
   Quinzaine?
@@ -346,10 +304,12 @@ Rachel Wagner       4
 Marco Cerritos      4
 henrym              1
 
+"Yves" (Benoît Forgeard)
+ ACID 2015
+
 "A Sun That Never Sets" (Olivier Laxe)
 
 
-#letterboxd
 
 "Mother (Madre)" (Rodrigo Sorogoyen, Spain)
 
@@ -360,17 +320,14 @@ rrshawndeon         7
 "The County" (Grímur Hákonarson)
 
 
-#letterboxd
 
 "Wet Season" (Anthony Chen, Singapur)
 
 
-#letterboxd
 
 "Pelican Blood" (Katrin Gebbe, D)
 
 
-#letterboxd
 
 "Suicide Tourist (Selvmordsturisten)" (Jonas Alexander Arnby, Den)
 
@@ -381,12 +338,10 @@ Cas de Kock         9
 "Adoration" (Fabrice du Welz, Bel)
 
 
-#letterboxd
 
 "Against All Enemies" (Benedict Andrews, Aus)
 
 
-#letterboxd
 
 "The Lighthouse" (Robert Eggers, US)
 
@@ -397,43 +352,35 @@ roxannemal          2
 "Positive School" (Nabil Ayouch, Mor)
 
 
-#letterboxd
 
 "Luz" (Flora Lau, China)
 
 
-#letterboxd
 
 "Waves" (Trey Edward Shults)
 
 
-#letterboxd
 
 "Persian Lessons" (Vadim Perelman)
 
 
-#letterboxd
 
 "Proxima" (Alice Winocour)
 
 
-#letterboxd
 
 "Sybil" (Justine Triet, F)
 
 
-#letterboxd
 
 "Gloria Mundi" (Robert Guédiguian)
 
 
-#letterboxd
 
 "Un monde plus grand" (Fabienne Berthaud, F)
  from "Mon initiation chez les Chamanes"
 
 
-#letterboxd
 
 "The Translators (Les Traducteurs)" (Régis Roinsard)
 
@@ -443,13 +390,11 @@ maria_leite         10
 "JUMBO" (Zoé Wittock, F)
 
 
-#letterboxd
 
 "The Bears' Famous Invasion of Sicily (La fameuse invasion des ours en Sicile)" (Lorenzo Mattotti, I)
  Animation
 
 
-#letterboxd
 
 "Midsommar" (Ari Aster, US)
  Midnight
@@ -470,19 +415,16 @@ CriterionReview     1
  Midnight
 
 
-#letterboxd
 
 "Paradise Drifters" (Mees Peijnenburg, NL)
  (first) UCR
 
 
-#letterboxd
 
 "The Wind Blew On" (Katrin Olfasdottir, ISL)
  first
 
 
-#letterboxd
 
 "Personalien" (Albert Serra)
 
@@ -499,12 +441,10 @@ Patrick             4
 "La Cordillère des songes" (Patricio Guzmán)
 
 
-#letterboxd
 
 "2019" (Lav Diaz)
 
 
-#letterboxd
 
 "Radioactive" (Marjane Satrapi)
 
@@ -514,43 +454,31 @@ ludovicozanette     7
 "My Zoe" (Julie Delpy)
 
 
-#letterboxd
 
 "Mignonnes (Cuties)" (Maïmouna Doucouré, F/Sen)
  UCR (first)
 
 
-#letterboxd
 
 "The Devil Between The Legs (El diablo entre las piernas)" (Arturo Ripstein)
 
 
-#letterboxd
 
 "The Barefoot Emperor" (Jessica Hope Woodworth, Peter Brosens)
 
 
-#letterboxd
-
-"Pure as Snow (Blanche comme neige)" (Anne Fontaine)
-
-#letterboxd
-Charlie Baker       2
 
 "The Dreams of a Few (Lo que algunos soñaron)" (Michel Franco)
 
 
-#letterboxd
 
 "Waiting for the Barbarians" (Ciro Guerra)
 
 
-#letterboxd
 
 "Joyeux Anniversaire (Happy Birthday)" (Cédric Kahn)
 
 
-#letterboxd
 
 "As filhas do Fogo (Vitalina Varela)" (Pedro Costa)
 
@@ -567,12 +495,10 @@ Alberto Farina      5   https://letterboxd.com/albertofarina/film/sin-2019/
 "La Daronne" (Jean-Paul Salomé)
 
 
-#letterboxd
 
 "The Invisible Life of Euridice Gusmao (A Vida Invisível)" (Karim Aïnouz)
 
 
-#letterboxd
 
 "Roads" (Sebastian Schipper)
   End of May release, but questionable. Tribeca?
@@ -592,28 +518,18 @@ Ibiza Spitza        4
 "As Long as the War Lasts (Mientras dure la guerra)" (Alejandro Amenábar)
  Strong Franco story
 
-#letterboxd
-
-"Casanova, Last Love (Dernier Amour)" (Benoît Jacquot)
-
-#letterboxd
-Patrick Devitt      6
-thierryjousse       5
 
 "The Fire Next Time (La Prochaine fois le feu)" (Mati Diop)
  prev. as The Atlantides
 
-#letterboxd
 
 "Alexanderplatz" (Burhan Qurbani)
 
 
-#letterboxd
 
 "Only Beasts (Seules les Bêtes)" (Dominik Moll)
 
 
-#letterboxd
 
 "Valley of the Gods" (Lech Majewski)
  (Crazy but probably too bad. Semaine maybe)
@@ -626,34 +542,28 @@ Dead_Heat           2
  (Mille Miglia, animation - Quinzaine)
 
 
-#letterboxd
 
 "The Weasels (El cuento de las comadrejas)" (Juan José Campanella)
 
 
-#letterboxd
 
 "Monday" (Argyris Papadimitropoulos)
 
 
-#letterboxd
 
 "De Nos Freres Blessés (My Traitor, My Love)" (Hélier Cisterne)
  with Vicky Krieps
 
 
-#letterboxd
 
 "Esau" (Pavel Lungin)
  with Harvey Keitel
 
-#letterboxd
 
 "One Second" (Zhang Yimou)
  This is the one which had visa problems in Berlin
 
 
-#letterboxd
 
 "Radegund" (Terrence Malick)
  In the third year finally? No bets. Venice more likely
@@ -667,19 +577,16 @@ A Short Film About OrgasmSphere 2
  ?
 
 
-#letterboxd
 
 "Zombie Child" (Bertrand Bonello)
  Maybe not ready
 
 
-#letterboxd
 
 "Walking to Paris" (Peter Greenaway)
  ?
 
 
-#letterboxd
 
 "Le Prince oublié" (Michel Hazanavicius)
 (?)
@@ -689,146 +596,120 @@ A Short Film About OrgasmSphere 2
  (?)
 
 
-#letterboxd
 
 "The 20th Century" (Matthew Rankin)
  (Semaine)
 
 
-#letterboxd
 
 "Martin Eden" (Pietro Marcello)
 
 
-#letterboxd
 
 "C’est extra (Just Great)" (Guillaume Nicloux)
 
 
-#letterboxd
 
 "Anton" (Zaza Urushadze)
  (UCR)
 
 
-#letterboxd
 
 "Notre-Dame du Nil (Our Lady of the Nile)" (Atiq Rahimi, Afgh)
 
 
-#letterboxd
 
 "Mano de obra" (David Zonana)
 
 
-#letterboxd
 
 "Technoboss" (João Nicolau, POR)
 
 
-#letterboxd
 
 "Les hirondelles de Kaboul" (Zabou Breitman, Eléa Gobbé-Mévellec)
  Animation
 
 
-#letterboxd
 
 "Deerskin (Le daim)" (Quentin Dupieux "Mr Oizo")
 
 
-#letterboxd
 
 "Sisters (Soeurs)" (Yamina Benguigui)
  with Isabelle Adjani, Maïwenn, Rachida Brakni (Quotenfrauen?)
 
 
-#letterboxd
 
 "Notre dame" (Valérie Donzelli)
 
 
-#letterboxd
 
 "Les plus belles années d’une vie (The Most Beautiful Years)" (Claude Lelouch)
  (Out of Comp?)
 
 
-#letterboxd
 
 "Tijuana Bible" (Jean-Charles Hue)
 
 
-#letterboxd
 
 "Chanson douce" (Lucie Borleteau, F)
  "Fidelio", Writer "White Material"
 
 
-#letterboxd
 
 "Arab Blues" (Manele Labidi Labbé, Tun)
  with Golshifteh (first)
 
 
-#letterboxd
 
 "Echo" (Rúnar Rúnarsson)
 
 
-#letterboxd
 
 "Les héros ne meurent jamais" (Aude Léa Rapin)
 
 
-#letterboxd
 
 "Les voeux" (Sarah Suco, F)
  "Nos Enfants"
 
 
-#letterboxd
 
 "Sole" (Carlo Sironi, I)
  (first)
 
 
-#letterboxd
 
 "Perfect 10" (Eva Riley, UK)
  Brighton (first)
 
 
-#letterboxd
 
 "Canción sin nombre (Song Without a Name)" (Melina León, Peru) 
  first
 
 
-#letterboxd
 
 "Les particules" (Blaise Harrison)
  (first)
 
 
-#letterboxd
 
 "Qu’un sang impur…" (Abdel Raouf Dafri)
  (Writer "A Prophet")
 
 
-#letterboxd
 
 "Camille" (Boris Lojkine, F)
 
 
-#letterboxd
 
 "My Days of Glory (Le jour de gloire)" (Antoine de Bary, F)
  "L'Enfance d'un chef"
 
 
-#letterboxd
 
 "The Room" (Christian Volckman, F)
  "Renaissance"
@@ -839,71 +720,64 @@ dittedc             2
 "L’état sauvage" (David Perrault, F)
 
 
-#letterboxd
 
 "Revenir" (Jessica Palud, F)
  "Marlon"
 
 
-#letterboxd
 
 "I’m No Longer Here (Ya no estoy aqui)" (Fernando Frias, MEX)
  (2nd, Rezeta)
 
 
-#letterboxd
 
 "438 Days (438 Dagar)" (Jesper Ganslandt)
 
 
-#letterboxd
 
 "The Disciple" (Ivan Ostrochovský, Svk)
  B&W 4:3 (Ida Camera)
 
 
-#letterboxd
 
 "A Girl Missing" (Koji Fukada, J)
 
 
-#letterboxd
 
 "Etre vivant et le savoir" (Alain Cavalier)
  doc about Emmanuèle Bernheim
 
-#letterboxd
 
 "La Frontière (The Border)" (Frédéric Fonteyne, Bel)
 
-#letterboxd
 
 "Salt of Tears" (Philippe Garrel)
  Quinzaine?
 
-#letterboxd
 
 "Undine" (Christian Petzold, D)
  must be very fast in post, just started shooting in 2019
 
 "Yalda" (Massoud Bakhshi, Iran)
 
-#letterboxd
 
 "Blue Train" (Dalei Zhang, China/Russia)
 
-#letterboxd
 
 "Where It Begins" (Zhao Fei, China)
 
+"Le quai de Ouistreham" (Emmanuel Carrère, F)
+ w. Juliette Binoche
+
+"Mamasa" (Brillante Mendoza)
+
+
 "The Orphanage" (Shahrbanoo Sadat, Afghan.)
 
-#letterboxd
 
 "Litigante (The Defendant)" (Franco Lolli, Col)
 
 
-#letterboxd
 
 "Terminal Sud" (Rabah Ameur-Zaïmeche)
  very late. Shooting Sep 3 2018" (8 weeks)
@@ -911,18 +785,13 @@ dittedc             2
 "Les Misérables" (Ladj Ly)
  from his short
 
-#letterboxd
 
 "L'angle mort (The Dead Angle)" (Pierre Trividic & Patrick Mario Bernard, F)
   becoming invisible. with Jean-Christophe Folly, Isabelle Carré and Golshifteh Farahani.
 
 
-#letterboxd
-
 "Rain Anyway (Wees blij dat het regent)" (Gust Van den Berghe, NL)
 
-
-#letterboxd
 
 "The Box" (Lorenzo Vigas)
  Quinzaine?
@@ -930,12 +799,69 @@ dittedc             2
 "The Purple Fields" (Keren Yedaya, Isr)
  Musical. pitched as Red Fields: intl.filmfund.org.il/films/?nom=002889&film=Red%20Fields
 
-#letterboxd
 
 "The Beloved Stranger" (Chang Tso-Chi, Taiwan)
 
+"Yesterday" (Danny Boyle)
+  ooc
+
+"Sun" (Jonathan Desoindre & Elia Kowalska) 
+ First film
+
+"7500" (Patrick Vollrath, D) 
+ Semaine?
+
+"Femme-Enfant" (Amro Hamzawi, F)
+￼
+"Greener Grass" (Jocelyn DeBoer & Dawn Luebbe, US)
+ black comedy, 1st film
+
+"Patrick" (Tim Mielants, BEL)
+ 1st film
+￼
+"Judgement" (Raymund Ribay Gutierrez, Phi)
+
+"Fourmi" (Julien Rappeneau, F)
+
+"Certain Kind of Silence" (Michal Hogenauer, Cz)
+ was "Outside"
+
+"L'échappée" (Mathias Pardo)
+
+"Alice et le maire (Alice and the Mayor)" (Nicolas Pariser)
+
 "Cook, Fuck, Kill" (Mira Fornay, Svk) 
  probably KIFF or Locarno
+
+"It was raining birds" (Louise Archambault, Can)
+
+"Fishsex (Poissonsexe)" (Olivier Babinet)
+
+"Le milieu de l'horizon" (Delphine Lehericey)
+
+"Merveilles à Montfermeil" (Jeanne Balibar, F)
+ 1st film
+
+"Jardin noir, ciel bleu" (Nora Martirosyan, Armenia)
+ 1st film
+
+"Neither I from you, nor me from you" (Tudor Cristian Jurgiu, Rom)
+
+"Long time no see" (Pierre Filmon, F)
+ 1st fiction film
+
+"My Body Will Bury You (Il mio corpo vi seppellirà)" (Giovanni La Parola, I)
+
+"My brother's wife (La femme de mon frère )" (Monia Chokri, Can)
+ 1st film
+
+"Perdrix" (Erwan Le Duc, F)
+ 1st film
+
+"THE BEAST" (Yeong-ho Lee, Kor)
+ - midnight
+
+"Alice and the Mayor (Alice et le maire)" (Nicolas Pariser, F)
 
 EOF
 
@@ -1237,6 +1163,7 @@ Henry Barnes (Guardian, UK)
 Ignatiy Vishnevetsky (A.V. Club, USA)
 Isabelle Regnier (Le Monde, France)
 Jacques Morice (Telerama, France)
+Jaime Esteve Bengoechea	(International Cinephil Society, Spain)
 Jamie Graham (Total Film, UK)
 Jason Bailey (Flavorwire)
 Jason Gorber (Twitch, Canada)
