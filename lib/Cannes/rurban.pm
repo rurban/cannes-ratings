@@ -197,16 +197,23 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
-  my %sections = map{$_=>1} @sections;
+  my %sections = map {$_=>1} @sections;
+  my $section;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
-    my ($l,$a,$n,$t) = @{$_}; 
-    $l =~ s/ \[(.+?)\]//; my $section = $1;
-    $section='Other' if !$section or !$sections{$section};
-    $title{$t}->{'section'} = $section; 
-    $title{$t}->{'avg'} = $a;
-    $title{$t}->{'num'} = $n;
-    $title{$t}->{'line'} = $l;
+    my ($l,$a,$n,$t) = @{$_};
+    $section = 'Predicted';
+    if ($l =~ m/ \[(.+?)\]/) {
+      $section = $1;
+      if (!$section or !$sections{$section}) {
+        $section='Other'; # or Predicted?
+      }
+    }
+    $title{$t}->{section} = $section;
+    $title{$t}->{avg} = $a;
+    $title{$t}->{num} = $n;
+    $l =~ s/ \[(.+?)\]//;
+    $title{$t}->{line} = $l;
     for my $c (sort keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
       if (defined $x) {
@@ -392,11 +399,11 @@ sub _dump {
                                      $title{$_}->{stddev}, $numreviews ];
         if ($title{$_}->{num}) {
 	  $sum += $title{$_}->{avg}; 
-	  $num++
+	  $num++;
 	}
       }
     }
-    if (1 || $num) {
+    if ($num || 1) { #|| $section eq 'Other') {
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
