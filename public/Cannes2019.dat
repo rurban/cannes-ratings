@@ -20,16 +20,19 @@ our $DATA= <<'EOF';
 PREDICTIONS
 
 "The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda)
+ Comp
 
 #letterboxd
 SanthoshkumarG      6
 
 "Once Upon a Time in Hollywood" (Quentin Tarantino)
+ Comp
 
 #letterboxd
 Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 
 "Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)
+ Comp
 
 
 "Ad Astra" (James Gray)
@@ -41,6 +44,7 @@ M.K. Rhodes         8
 Joaby               3
 
 "Pain & Glory (Dolor y gloria)" (Pedro Almodovar)
+ Comp
 
 Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 #letterboxd
@@ -545,15 +549,33 @@ Pablo Alén          7
 porg1               7
 Larry_Gopnik        7
 
-"Parasite" (Bong Joon-ho)
-
-
 "Ahmed" (Jean-Pierre and Luc Dardenne)
+ Comp
 
 #letterboxd
 juliavb             7
 Soplanit            7
 Gavin               7
+
+"Sorry We Missed You" (Ken Loach)
+ Comp
+
+
+"About Endlessness" (Roy Andersson)
+ Comp
+
+
+"The Dead Don’t Die" (Jim Jarmusch)
+ Comp
+
+#letterboxd
+paul09              6
+
+"The Beanpole" (Kantemir Balagov)
+ Comp
+
+"Parasite" (Bong Joon-ho)
+ Comp
 
 
 "Oh Mercy" (Arnaud Desplechin)
@@ -561,18 +583,6 @@ Gavin               7
 
 "The Traitor (Il traditore)" (Marco Bellocchio)
 
-
-"Sorry We Missed You" (Ken Loach)
-
-
-"About Endlessness" (Roy Andersson)
-
-
-"The Dead Don’t Die" (Jim Jarmusch)
-
-
-#letterboxd
-paul09              6
 
 "Frankie" (Ira Sachs)
 
@@ -590,12 +600,13 @@ katika              7
 
 
 "Eden" (Agnes Kocsis, Hun)
-
+ UCR
 
 "It Must Be Heaven" (Elia Suleiman, Palestine)
 
 
 "To the Ends of the Earth" (Kiyoshi Kurosawa)
+ UCR
 
 
 "Jeanne" (Bruno Dumont)
@@ -605,16 +616,16 @@ katika              7
 Davitru             7
 
 "Saturday Fiction" (Lou Ye, China)
+ UCR
+
+"Jessica" (Ninja Thyberg, Swe)
+ Semaine
 
 
 "Böse Spiele" (Ulrich Seidl)
 
 
 "Ema" (Pablo Larrain)
-
-
-"The Beanpole" (Kantemir Balagov)
- "Russia's wunderkind director" 
 
 
 "Malmkrog" (Cristi Puiu)
@@ -643,7 +654,8 @@ Davitru             7
 "Wendy" (Benh Zeitlin)
 
 
-"Port Authority" (Danielle Lessovitz)
+"Port Authority" (Danielle Lessovitz, US)
+ 1st film
 
 
 "Shirley" (Josephine Decker)
@@ -957,6 +969,7 @@ SimonHatton         2
 
 
 "As filhas do Fogo (Vitalina Varela)" (Pedro Costa)
+ Quinzaine
 
 #letterboxd
 Mike Stuart         4
@@ -1050,12 +1063,8 @@ A Short Film About OrgasmSphere 2
  ?
 
 
-"Walking to Paris" (Peter Greenaway)
- ?
-
-
 "Guest of Honour" (Atom Egoyan)
- (?)
+ (UCR?)
 
 
 "The 20th Century" (Matthew Rankin)
@@ -1111,6 +1120,7 @@ A Short Film About OrgasmSphere 2
 
 
 "Echo" (Rúnar Rúnarsson)
+ UCR
 
 
 "Les héros ne meurent jamais" (Aude Léa Rapin)
@@ -1129,7 +1139,7 @@ A Short Film About OrgasmSphere 2
 
 
 "Canción sin nombre (Song Without a Name)" (Melina León, Peru) 
- first
+ first, Quinzaine
 
 
 "Les particules" (Blaise Harrison)
@@ -1141,6 +1151,7 @@ A Short Film About OrgasmSphere 2
 
 
 "Camille" (Boris Lojkine, F)
+ UCR
 
 
 "My Days of Glory (Le jour de gloire)" (Antoine de Bary, F)
@@ -1214,10 +1225,10 @@ Navid Aghaz         1
 
 
 "Terminal Sud" (Rabah Ameur-Zaïmeche)
- very late. Shooting Sep 3 2018 (8 weeks)
+ very late. Shooting Sep 3 2018 (8 weeks), UCR
 
 "Les Misérables" (Ladj Ly)
- from his short
+ 1st film, from his short, Quinzaine
 
 
 "L'angle mort (The Dead Angle)" (Pierre Trividic & Patrick Mario Bernard, F)
@@ -1578,6 +1589,18 @@ Raspou              2
  Midnight
 
 "Alice and the Mayor (Alice et le maire)" (Nicolas Pariser, F)
+
+"Vers la bataille" (Aurélien Vernhes-Lermusiaux)
+ 1st film, Semaine
+
+"Good Bye Mister Wong" (Kiyé Somin Luang, Laos)
+ 1st film, ACID
+
+"Marona's Fantastic Tale" (Anca Damian, Rom)
+ Animation
+
+"Walking to Paris" (Peter Greenaway)
+ ?
 
 EOF
 
