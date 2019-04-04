@@ -19,38 +19,29 @@ our $DATA= <<'EOF';
 
 PREDICTIONS
 
-"The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda)
+"The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda) [Competition]
  Comp
 
 #letterboxd
 SanthoshkumarG      6
 
-"Once Upon a Time in Hollywood" (Quentin Tarantino)
+"Once Upon a Time in Hollywood" (Quentin Tarantino) [Competition]
  Comp
 
 #letterboxd
 Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 
-"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)
- Comp
+"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)  [Competition]
 
 
-"Ad Astra" (James Gray)
-
-#letterboxd
-Daniel Araújo       10
-Thar Soe            9
-M.K. Rhodes         8
-Joaby               3
-
-"Pain & Glory (Dolor y gloria)" (Pedro Almodovar)
+"Pain & Glory (Dolor y gloria)" (Pedro Almodovar) [Competition]
  Comp
 
 Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 #letterboxd
 Letterboxd 690_Ratings	8.00  https://letterboxd.com/film/pain-glory/
 
-"Ahmed" (Jean-Pierre and Luc Dardenne)
+"Ahmed" (Jean-Pierre and Luc Dardenne) [Competition]
  Comp
 
 #letterboxd
@@ -58,20 +49,20 @@ juliavb             7
 Soplanit            7
 Gavin               7
 
-"Sorry We Missed You" (Ken Loach)
+"Sorry We Missed You" (Ken Loach) [Competition]
  Comp
 
 
-"The Dead Don’t Die" (Jim Jarmusch)
+"The Dead Don’t Die" (Jim Jarmusch) [Competition]
  Comp
 
 #letterboxd
 paul09              6
 
-"The Beanpole" (Kantemir Balagov)
+"The Beanpole" (Kantemir Balagov) [Competition]
  Comp
 
-"A Hidden Life" (Terrence Malick)
+"A Hidden Life" (Terrence Malick) [Competition]
  aka Radegund. Comp
 
 #letterboxd
@@ -80,6 +71,13 @@ CaptainT            10
 Ekkard Bäuerle      10
 A Short Film About OrgasmSphere 2
 
+"Ema" (Pablo Larrain) [Competition]
+ Comp
+
+"The Passenger" (Corneliu Porumboiu)
+ "The Whistlers/Gomera" (was also in the 2018 list)
+
+
 "Parasite" (Bong Joon-ho)
  Comp
 
@@ -87,6 +85,14 @@ A Short Film About OrgasmSphere 2
 "About Endlessness" (Roy Andersson)
  Comp? (still filming)
 
+"Ad Astra" (James Gray)
+ OOC?
+
+#letterboxd
+Daniel Araújo       10
+Thar Soe            9
+M.K. Rhodes         8
+Joaby               3
 
 "Oh Mercy" (Arnaud Desplechin)
 
@@ -131,14 +137,7 @@ Davitru             7
  Semaine
 
 
-"Ema" (Pablo Larrain)
-
-
 "Malmkrog" (Cristi Puiu)
-
-
-"The Passenger" (Corneliu Porumboiu)
- "The Whistlers/Gomera" (was also in the 2018 list)
 
 
 "Heidi" (Catalin Mitulescu, Rom)
@@ -269,6 +268,25 @@ Luis Baia           7   https://letterboxd.com/lbaia/film/personalien/
 monnsss             6
 Pablo               6   https://letterboxd.com/alvysinger_/film/personalien/
 Patrick             4
+
+"I Lost My Body (J’ai perdu mon corps)" (Jérémy Clapin)
+ Quinzaine?
+
+"Maradona" (Asif Kapadia)
+
+"Rocketman" (Dexter Fletcher)
+ OOC
+
+"An Easy Girl (Une fille facile)" (Rebecca Zlotowski)
+ Venice?
+
+"The Nest" (Sean Durkin)
+
+"Too Old to Die Young - Pilot" (Nicolas Winding Refn)
+ Midnight
+
+"Toy Story 4" (Josh Cooley)
+ OOC
 
 "La Cordillère des songes" (Patricio Guzmán)
 
