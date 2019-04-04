@@ -20,13 +20,11 @@ our $DATA= <<'EOF';
 PREDICTIONS
 
 "The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda) [Competition]
- Comp
 
 #letterboxd
 SanthoshkumarG      6
 
 "Once Upon a Time in Hollywood" (Quentin Tarantino) [Competition]
- Comp
 
 #letterboxd
 Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
@@ -35,7 +33,6 @@ Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-holly
 
 
 "Pain & Glory (Dolor y gloria)" (Pedro Almodovar) [Competition]
- Comp
 
 Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 #letterboxd
@@ -50,20 +47,17 @@ Soplanit            7
 Gavin               7
 
 "Sorry We Missed You" (Ken Loach) [Competition]
- Comp
 
 
 "The Dead Don’t Die" (Jim Jarmusch) [Competition]
- Comp
 
 #letterboxd
 paul09              6
 
 "The Beanpole" (Kantemir Balagov) [Competition]
- Comp
 
 "A Hidden Life" (Terrence Malick) [Competition]
- aka Radegund. Comp
+ aka Radegund.
 
 #letterboxd
 Sam Parks           10
@@ -72,9 +66,9 @@ Ekkard Bäuerle      10
 A Short Film About OrgasmSphere 2
 
 "Ema" (Pablo Larrain) [Competition]
- Comp
 
-"The Passenger" (Corneliu Porumboiu)
+
+"The Passenger" (Corneliu Porumboiu) [Competition]
  "The Whistlers/Gomera" (was also in the 2018 list)
 
 
