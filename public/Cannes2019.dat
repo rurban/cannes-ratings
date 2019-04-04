@@ -20,11 +20,13 @@ our $DATA= <<'EOF';
 PREDICTIONS
 
 "The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda) [Competition]
+ ready?
 
 #letterboxd
 SanthoshkumarG      6
 
 "Once Upon a Time in Hollywood" (Quentin Tarantino) [Competition]
+ ready?
 
 #letterboxd
 Letterboxd 91_Ratings	9.1  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
@@ -72,8 +74,7 @@ A Short Film About OrgasmSphere 2
  "The Whistlers/Gomera" (was also in the 2018 list)
 
 
-"Parasite" (Bong Joon-ho)
- Comp
+"Parasite" (Bong Joon-ho) [Competition]
 
 
 "About Endlessness" (Roy Andersson)
@@ -214,7 +215,7 @@ Cas de Kock         9
 #letterboxd
 maria_leite         10
 
-"JUMBO" (Zoé Wittock, F)
+"Jumbo" (Zoé Wittock, F)
 
 
 "The Bears' Famous Invasion of Sicily (La fameuse invasion des ours en Sicile)" (Lorenzo Mattotti, I)
@@ -234,7 +235,7 @@ Paula               2
 Hydrogen_bob        1
 CriterionReview     1
 
-"Les hirondelles de Kaboul" (Zabou Breitman, Eléa Gobbé-Mévellec)
+"Les hirondelles de Kaboul" (Zabou Breitman & Eléa Gobbé-Mévellec)
  Animation
 
 "Marona's Fantastic Tale" (Anca Damian, Rom)
@@ -285,7 +286,7 @@ samuel              1
 Will Robinson       1
 
 "An Easy Girl (Une fille facile)" (Rebecca Zlotowski)
- Venice?
+ Ready? Venice? 
 
 "The Nest" (Sean Durkin)
 
