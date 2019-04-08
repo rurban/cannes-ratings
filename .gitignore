@@ -33,6 +33,7 @@ letterbox-*.pl
 letterbox-*.dat
 letterbox.dat
 letterbox-*.dat.old
+letterbox-*.lst
 letterbox.diff
 lettr-*-list.html
 lib/*.pm
@@ -44,3 +45,5 @@ scrape/
 tmp/
 imdb-ratings.csv
 *-recovery-codes.txt
+public/*20*.dat.bak
+/up.sh
