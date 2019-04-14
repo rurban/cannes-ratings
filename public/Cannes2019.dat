@@ -19,6 +19,12 @@ our $DATA= <<'EOF';
 
 PREDICTIONS
 
+"The Dead Don’t Die" (Jim Jarmusch) [Competition]
+ Opener
+
+#letterboxd
+paul09              6
+
 "The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda) [Competition]
  ready?
 
@@ -51,11 +57,6 @@ Gavin               7
 "Sorry We Missed You" (Ken Loach) [Competition]
 
 
-"The Dead Don’t Die" (Jim Jarmusch) [Competition]
-
-#letterboxd
-paul09              6
-
 "The Beanpole" (Kantemir Balagov) [Competition]
 
 "A Hidden Life" (Terrence Malick) [Competition]
@@ -65,9 +66,6 @@ paul09              6
 CaptainT            10
 Ekkard Bäuerle      10
 A Short Film About OrgasmSphere 2
-
-"Ema" (Pablo Larrain) [Competition]
- rumors that Netflix bought it, so out
 
 "The Passenger" (Corneliu Porumboiu) [Competition]
  "The Whistlers/Gomera" (was also in the 2018 list)
@@ -659,6 +657,9 @@ Letterboxd 247_Ratings	6.9  https://letterboxd.com/film/greener-grass-2019/
 Letterboxd 76_Ratings	6.0  https://letterboxd.com/film/the-day-shall-come/
 
 ----
+
+"Ema" (Pablo Larrain)
+ rumors that Netflix bought it, so out
 
 "First Cow" (Kelly Reichardt)
 
