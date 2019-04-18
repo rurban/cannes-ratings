@@ -17,33 +17,28 @@ package Cannes::rurban::2019; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-PREDICTIONS
+COMPETITION
 
 "The Dead Don’t Die" (Jim Jarmusch) [Competition] Opener
 
 #letterboxd
 paul09              6
 
-"The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda) [Competition]
- ready?
-
-#letterboxd
-SanthoshkumarG      6
-
-"Once Upon a Time in Hollywood" (Quentin Tarantino) [Competition]
- ready?
-
-#letterboxd
-Letterboxd 111_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
-
-"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)  [Competition]
-
-
 "Pain & Glory (Dolor y gloria)" (Pedro Almodovar) [Competition]
 
 Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 #letterboxd
 Letterboxd 813_Ratings	8.8  https://letterboxd.com/film/pain-glory/
+
+"The Traitor (Il traditore)" (Marco Bellocchio)
+
+"Parasite" (Bong Joon-ho) [Competition]
+
+#letterboxd
+SupremeChun         10   https://letterboxd.com/supremechun/film/parasite-2019/
+
+"Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)  [Competition]
+
 
 "Ahmed" (Jean-Pierre and Luc Dardenne) [Competition]
  Comp
@@ -53,10 +48,9 @@ juliavb             7
 Soplanit            7
 Gavin               7
 
+"Little Joe" (Jessica Hausner) [Competition]
+
 "Sorry We Missed You" (Ken Loach) [Competition]
-
-
-"The Beanpole" (Kantemir Balagov) [Competition]
 
 "A Hidden Life" (Terrence Malick) [Competition]
  aka Radegund.
@@ -66,14 +60,138 @@ CaptainT            10
 Ekkard Bäuerle      10
 A Short Film About OrgasmSphere 2
 
+"Les Misérables" (Ladj Ly) [Competition]
+ 1st film, from his short
+
 "The Passenger" (Corneliu Porumboiu) [Competition]
  "The Whistlers/Gomera" (was also in the 2018 list)
 
-
-"Parasite" (Bong Joon-ho) [Competition]
+"Frankie" (Ira Sachs) [Competition]
 
 #letterboxd
-SupremeChun         10   https://letterboxd.com/supremechun/film/parasite-2019/
+katika              7
+
+"Bacurau" (Kleber Mendonça Filho, Juliano Dornelles, BR) [Competition]
+
+"Matthias & Maxime" (Xavier Dolan) [Competition]
+
+"It Must Be Heaven" (Elia Suleiman, Palestine) [Competition]
+
+"Sybil" (Justine Triet, F) [Competition]
+
+"The Fire Next Time (La Prochaine fois le feu)" (Mati Diop) [Competition]
+ prev. as "The Atlantides"
+
+"Wild Goose Lake" (Diao Yi’nan, China) [Competition]
+ known for "Black Coal, Thin Ice" (2014)
+
+"Oh Mercy" (Arnaud Desplechin) [Competition]
+
+UN CERTAIN REGARD
+
+"Evge" (Nariman Aliev) [Un Certain Regard]
+
+"The Beanpole" (Kantemir Balagov) [Un Certain Regard]
+
+"The Swallows of Kabul (Les hirondelles de Kaboul)" (Zabou Breitman & Eléa Gobbé-Mévellec) [Un Certain Regard]
+ Animation
+
+"My Brother's Wife (La femme de mon frère)" (Monia Chokri, Can) [Un Certain Regard]
+ 1st film
+
+"The Climb" (Michael Covino) [Un Certain Regard]
+
+"Joan of Arc (Jeanne)" (Bruno Dumont) [Un Certain Regard]
+
+#letterboxd
+Davitru             7
+
+"Chambre 212" (Christophe Honore) [Un Certain Regard]
+
+"A Sun That Never Sets" (Olivier Laxe) [Un Certain Regard]
+
+"Port Authority" (Danielle Lessovitz, US) [Un Certain Regard]
+ 1st film
+
+"Papicha" (Mounia Meddour) [Un Certain Regard]
+
+"Nina Wu (Zhuo Ren Mi Mi)" (Midi Z) [Un Certain Regard]
+
+"Personalien (Liberte)" (Albert Serra) [Un Certain Regard]
+
+Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/personalien/
+#letterboxd
+
+"Bull" (Annie Silverstein) [Un Certain Regard]
+
+"Adam" (Maryam Touzani) [Un Certain Regard]
+
+"Summer of Changsha (Liu Yu Tian)" (Zu Feng) [Un Certain Regard]
+
+OUT OF COMPETITION
+
+"La Belle Epoque" (Nicolas Bedos) [Out Of Competition]
+
+"Rocketman" (Dexter Fletcher) [Out Of Competition]
+
+#letterboxd
+Letterboxd 13_Ratings  6.0  https://letterboxd.com/film/rocketman-2019/
+
+"Maradona" (Asif Kapadia) [Out Of Competition]
+
+"Les plus belles années d’une vie (The Most Beautiful Years)" (Claude Lelouch) [Out Of Competition]
+
+"Too Old to Die Young - North of Hollywood, West of Hell" (Nicolas Winding Refn) [Out Of Competition]
+
+MIDNIGHT
+
+"The Gangster, The Cop, The Devil" (Lee Won-Tae) [Out Of Competition]
+ Midnight
+
+SPECIAL SCREENINGS
+
+"For Sama" (Waad Al Kateab, Edwards Watts) [Out Of Competition]
+
+"Share" (Pippa Bianco) [Out Of Competition]
+
+"Etre vivant et le savoir" (Alain Cavalier) [Out Of Competition]
+ doc about Emmanuèle Bernheim
+
+"Tommaso" (Abel Ferrara) [Out Of Competition]
+
+"Family Romance, LLC." (Werner Herzog) [Out Of Competition]
+
+"Que Sea Ley" (Juan Solanas) [Out Of Competition]
+
+QUINZAINE
+
+# [Quinzaine]
+
+SEMAINE
+
+# [Semaine]
+
+ACID
+
+# [ACID]
+
+EOF
+
+my $PREDICTIONS = <<'EOF';
+
+"Once Upon a Time in Hollywood" (Quentin Tarantino)
+ ready?
+
+#letterboxd
+Letterboxd 111_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+
+"The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda)
+ ready?
+
+#letterboxd
+SanthoshkumarG      6
+
+
 
 "About Endlessness" (Roy Andersson)
  Comp? (still filming)
@@ -87,41 +205,16 @@ Thar Soe            9
 M.K. Rhodes         8
 Joaby               3
 
-"Oh Mercy" (Arnaud Desplechin)
-
-
-"The Traitor (Il traditore)" (Marco Bellocchio)
-
-
-"Frankie" (Ira Sachs)
-
-#letterboxd
-katika              7
-
-
-"Bacurau" (Kleber Mendonça Filho, Juliano Dornelles, BR)
-
-
-"Matthias & Maxime" (Xavier Dolan)
-
-
 "La fille au bracelet" (Stéphane Demoustier)
 
 
 "Eden" (Agnes Kocsis, Hun)
  UCR
 
-"It Must Be Heaven" (Elia Suleiman, Palestine)
-
 
 "To the Ends of the Earth" (Kiyoshi Kurosawa)
  UCR
 
-
-"Jeanne" (Bruno Dumont)
-
-#letterboxd
-Davitru             7
 
 "Saturday Fiction" (Lou Ye, China)
  UCR
@@ -136,21 +229,10 @@ Davitru             7
 "Heidi" (Catalin Mitulescu, Rom)
 
 
-"Little Joe" (Jessica Hausner)
-
-
-"Wild Goose Lake" (Diao Yi’nan, China)
- known for "Black Coal, Thin Ice" (2014)
-
-
 "All inclusive" (Malgorzata Szumowska, POL)
 
 
 "Wendy" (Benh Zeitlin)
-
-
-"Port Authority" (Danielle Lessovitz, US)
- 1st film
 
 
 "Shirley" (Josephine Decker)
@@ -158,9 +240,6 @@ Davitru             7
 
 "Yves" (Benoît Forgeard)
  ACID 2015
-
-
-"A Sun That Never Sets" (Olivier Laxe)
 
 
 "Mother (Madre)" (Rodrigo Sorogoyen, Spain)
@@ -198,9 +277,6 @@ Cas de Kock         9
 "Proxima" (Alice Winocour)
 
 
-"Sybil" (Justine Triet, F)
-
-
 "Gloria Mundi" (Robert Guédiguian)
 
 
@@ -233,9 +309,6 @@ Paula               2
 Hydrogen_bob        1
 CriterionReview     1
 
-"Les hirondelles de Kaboul" (Zabou Breitman & Eléa Gobbé-Mévellec)
- Animation
-
 "Marona's Fantastic Tale" (Anca Damian, Rom)
  Animation
 
@@ -248,29 +321,13 @@ CriterionReview     1
 "The Wind Blew On" (Katrin Olfasdottir, ISL)
  first
 
-"Personalien" (Albert Serra)
-
-Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/personalien/
-#letterboxd
-
 "I Lost My Body (J’ai perdu mon corps)" (Jérémy Clapin)
  Quinzaine?
-
-"Maradona" (Asif Kapadia)
-
-"Rocketman" (Dexter Fletcher)
- OOC
-
-#letterboxd
-Letterboxd 13_Ratings  6.0  https://letterboxd.com/film/rocketman-2019/
 
 "An Easy Girl (Une fille facile)" (Rebecca Zlotowski)
  Ready? Venice? 
 
 "The Nest" (Sean Durkin)
-
-"Too Old to Die Young - Pilot" (Nicolas Winding Refn)
- Midnight
 
 "Toy Story 4" (Josh Cooley)
  OOC
@@ -342,10 +399,6 @@ Alberto Farina      5   https://letterboxd.com/albertofarina/film/sin-2019/
  Strong Franco story
 
 
-"The Fire Next Time (La Prochaine fois le feu)" (Mati Diop)
- prev. as "The Atlantides"
-
-
 "The Thousand Miles" (Sylvain Chomet)
  (Mille Miglia, animation - Quinzaine)
 
@@ -398,9 +451,6 @@ JuanmaOzan          2
 
 "Notre dame" (Valérie Donzelli)
 
-
-"Les plus belles années d’une vie (The Most Beautiful Years)" (Claude Lelouch)
- (Out of Comp?)
 
 
 "Tijuana Bible" (Jean-Charles Hue)
@@ -480,10 +530,6 @@ dittedc             2
 "A Girl Missing" (Koji Fukada, J)
 
 
-"Etre vivant et le savoir" (Alain Cavalier)
- doc about Emmanuèle Bernheim
-
-
 "Filles de joie (Girls of Joy)" (Frédéric Fonteyne & Anne Paulicevich, Bel)
  aka "La Frontière"
 
@@ -526,10 +572,6 @@ Navid Aghaz         1
 
 "Terminal Sud" (Rabah Ameur-Zaïmeche)
  very late. Shooting Sep 3 2018 (8 weeks), UCR
-
-
-"Les Misérables" (Ladj Ly)
- 1st film, from his short, Quinzaine
 
 
 "L'angle mort (The Dead Angle)" (Pierre Trividic & Patrick Mario Bernard, F)
@@ -597,9 +639,6 @@ dshie24601          7   https://letterboxd.com/dshie24601/film/certain-kind-of-s
 
 "My Body Will Bury You (Il mio corpo vi seppellirà)" (Giovanni La Parola, I)
 
-"My Brother's Wife (La femme de mon frère)" (Monia Chokri, Can)
- 1st film
-
 "The Bare Necessity (Perdrix)" (Erwan Le Duc, F)
  1st film
 
@@ -657,8 +696,7 @@ Letterboxd 76_Ratings	6.0  https://letterboxd.com/film/the-day-shall-come/
 
 ----
 
-"Ema" (Pablo Larrain)
- rumors that Netflix bought it, so out
+"Ema" (Pablo Larrain) Netflix
 
 "First Cow" (Kelly Reichardt)
 
