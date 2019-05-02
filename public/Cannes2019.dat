@@ -221,9 +221,29 @@ QUINZAINE
 thierryjousse       7
 Jansushi            7
 
-"An Easy Girl (Une fille facile)" (Rebecca Zlotowski) [Quinzaine]
- Ready?
+"And Then We Danced" (Levan Akin) [Quinzaine]
 
+"Blow it to bits (On va tout peter)" (Lech Kowalski) [Quinzaine]
+
+"Canción sin nombre (Song Without a Name)" (Melina León, Peru) [Quinzaine]
+ first
+
+#letterboxd
+queirolo            10
+
+"Zombi Child" (Bertrand Bonello) [Quinzaine]
+
+"Hatsukoi (First Love)" (Takashi Miike) [Quinzaine]
+
+"Oleg" (Juris Kursietis) [Quinzaine]
+
+"The Staggering Girl" (Luca Guadagnino) [Quinzaine] Special
+
+"Give Me Liberty" (Kirill Mikhanovsky) [Quinzaine]
+
+"Alice and the Mayor (Alice et le maire)" (Nicolas Pariser, F) [Quinzaine]
+
+"The Orphanage" (Shahrbanoo Sadat, Afghan.)
 
 "The Lighthouse" (Robert Eggers) [Quinzaine]
 
@@ -232,63 +252,38 @@ dumboldtrump        8   https://letterboxd.com/dumboldtrump/film/the-lighthouse-
 Goldenface          2
 roxannemal          2
 
-"Canción sin nombre (Song Without a Name)" (Melina León, Peru) [Quinzaine]
- first
+"The Bare Necessity (Perdrix)" (Erwan Le Duc) [Quinzaine]
 
-#letterboxd
-queirolo            10
+"An Easy Girl (Une fille facile)" (Rebecca Zlotowski) [Quinzaine]
 
-"Alice and the Mayor (Alice et le maire)" (Nicolas Pariser, F) [Quinzaine]
-
-
-"Zombi Child" (Bertrand Bonello) [Quinzaine]
-
-
-"Mignonnes (Cuties)" (Maïmouna Doucouré, F/Sen)
- first
-
-"The Orphanage" (Shahrbanoo Sadat, Afghan.)
-
-"Arab Blues" (Manele Labidi Labbé, Tun)
- with Golshifteh (first)
-
-
-"Filles de joie (Girls of Joy)" (Frédéric Fonteyne & Anne Paulicevich, Bel)
+"Filles de joie (Girls of Joy)" (Frédéric Fonteyne & Anne Paulicevich, Bel) [Quinzaine]
  aka "La Frontière"
 
-"Eden" (Agnes Kocsis, Hun)
+"To Live to Sing" (Johnny Ma) [Quinzaine]
 
-"The Wind Blew On" (Katrin Olfasdottir, ISL)
+"Lillian" (Andreas Horvath) [Quinzaine]
+
+"Dogs Don't Wear Pants" (Jukka-Pekka Valkeapaa) [Quinzaine]
+
+"Tlamess" (Ala Eddine Slim) [Quinzaine]
+
+"Por el dinero (For the Money)" (Alejo Moguillansky) [Quinzaine]
+
+"Wounds" (Babak Anvari) [Quinzaine]
+
+"Les particules (Particles)" (Blaise Harrison) [Quinzaine]
  first
 
-"Esau" (Pavel Lungin)
- with Harvey Keitel
+"The Halt (Ang Hupa)" (Lav Diaz) [Quinzaine]
+ 4h 36m
 
-"Marona's Fantastic Tale" (Anca Damian, Rom)
- Animation
+"All About Yves" (Benoît Forgeard) [Quinzaine] (Closing Film)
 
-"Luz" (Flora Lau, China)
+"Sick, Sick, Sick" (Alice Furtado) [Quinzaine]
 
-"Judgement" (Raymund Ribay Gutierrez, Phi)
- (rating from the short)
+"Ghost Tropic" (Bas Devos) [Quinzaine]
 
-#letterboxd
-_emaily             9
-happyhajoon         9
-timmychen           8
-siobhan             8
-nora                6   https://letterboxd.com/jakeperalta/film/judgement-2018-1/
-Alireza Nury        6
-highhorse           6
-yungsalem           6
-daviopinheiro       6
-hangukmovies        6
-Michael Leader      6
-Conch               5
-ln_brtssl           4
-Thibaut Buccellato  4
-Brendan Bennett     3
-Raspou              2
+----
 
 
 SEMAINE
@@ -448,6 +443,28 @@ EOF
 
 my $PREDICTIONS = <<'EOF';
 
+"Mignonnes (Cuties)" (Maïmouna Doucouré, F/Sen)
+ first
+
+"Arab Blues" (Manele Labidi Labbé, Tun)
+ with Golshifteh (first)
+
+"Eden" (Agnes Kocsis, Hun)
+
+"The Wind Blew On" (Katrin Olfasdottir, ISL)
+ first
+
+"Esau" (Pavel Lungin)
+ with Harvey Keitel
+
+"Marona's Fantastic Tale" (Anca Damian, Rom)
+ Animation
+
+"Luz" (Flora Lau, China)
+
+"Judgement" (Raymund Ribay Gutierrez, Phi)
+ (rating from the short)
+
 "Once Upon a Time in Hollywood" (Quentin Tarantino)
  ready?
 
@@ -459,8 +476,6 @@ Letterboxd 111_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-holl
 
 #letterboxd
 SanthoshkumarG      6
-
-
 
 "About Endlessness" (Roy Andersson)
  Comp? (still filming)
@@ -501,10 +516,6 @@ Joaby               3
 
 
 "Shirley" (Josephine Decker)
-
-
-"Yves" (Benoît Forgeard)
- ACID 2015
 
 
 "Mother (Madre)" (Rodrigo Sorogoyen, Spain)
@@ -594,9 +605,6 @@ dittedc             9
 
 
 "La Cordillère des songes" (Patricio Guzmán)
-
-
-"2019" (Lav Diaz)
 
 
 "Radioactive" (Marjane Satrapi)
@@ -691,7 +699,6 @@ JuanmaOzan          2
 "Notre dame" (Valérie Donzelli)
 
 
-
 "Tijuana Bible" (Jean-Charles Hue)
 
 
@@ -713,10 +720,6 @@ JuanmaOzan          2
 
 "Perfect 10" (Eva Riley, UK)
  Brighton (first)
-
-
-"Les particules" (Blaise Harrison)
- (first)
 
 
 "Qu’un sang impur…" (Abdel Raouf Dafri)
