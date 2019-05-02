@@ -32,6 +32,11 @@ Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar
 #letterboxd
 Letterboxd 1109_Ratings	9.1  https://letterboxd.com/film/pain-glory/
 
+"Once Upon a Time in Hollywood" (Quentin Tarantino)
+
+#letterboxd
+Letterboxd 111_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+
 "The Traitor (Il traditore)" (Marco Bellocchio)
 "Parasite" (Bong Joon-ho) [Competition]
 
@@ -102,6 +107,10 @@ bonestructure       7
 
 "Oh Mercy" (Arnaud Desplechin) [Competition]
 
+"Mektoub, My Love: Intermezzo" (Abdellatif Kechiche) [Competition]
+ 4 hrs
+
+
 UN CERTAIN REGARD
 
 "Evge (Homeward)" (Nariman Aliev) [Un Certain Regard]
@@ -150,6 +159,25 @@ Letterboxd 12_Ratings  7.4  https://letterboxd.com/film/personalien/
 
 "Summer of Changsha (Liu Yu Tian)" (Zu Feng) [Un Certain Regard]
 
+"The Bears' Famous Invasion of Sicily" (Lorenzo Mattotti, I) [Un Certain Regard]
+ Animation
+
+#letterboxd
+Raphaël Eyssautier  10
+rosa                10
+Leilâ               10
+tim                 10
+akooldude27         8
+DJ                  8
+Tania               6
+mrhollywoodyt       6
+RaeAnn Q.           2
+Paula               2
+Hydrogen_bob        1
+CriterionReview     1
+
+"Odnazhdy v Trubchevske" (Larissa Sadilova) [Un Certain Regard]
+
 OUT OF COMPETITION
 "La Belle Epoque" (Nicolas Bedos) [Out Of Competition]
 
@@ -178,6 +206,9 @@ MIDNIGHT
 Uahan               3
 Jeongsoo            3
 
+"Lux Æterna" (Gaspar Noé) [Out Of Competition]
+ Midnight, 50 min
+
 SPECIAL SCREENINGS
 
 "For Sama" (Waad Al Kateab, Edwards Watts) [Out Of Competition] <i>SXSW</i>
@@ -191,6 +222,10 @@ Letterboxd 43_Ratings  7.62  https://letterboxd.com/film/for-sama/
 Sundance 88_Ratings    6.57  http://cannes-ratings.herokuapp.com/Sundance2019?t=341#341
 Letterboxd 134_Ratings 6.56  https://letterboxd.com/film/share-2019/
 
+"Chicuarotes" (Gael García Bernal) [Out Of Competition]
+
+"La Cordillère des songes" (Patricio Guzmán)
+
 "Etre vivant et le savoir" (Alain Cavalier) [Out Of Competition]
  doc about Emmanuèle Bernheim
 
@@ -199,6 +234,11 @@ Letterboxd 134_Ratings 6.56  https://letterboxd.com/film/share-2019/
 "Family Romance, LLC." (Werner Herzog) [Out Of Competition]
 
 "Que Sea Ley" (Juan Solanas) [Out Of Competition]
+
+"Ice on Fire" (Leila Conners) [Out Of Competition]
+
+"5B" (Dan Krauss)  [Out Of Competition]
+
 
 QUINZAINE
 
@@ -474,12 +514,6 @@ my $PREDICTIONS = <<'EOF';
 "Judgement" (Raymund Ribay Gutierrez, Phi)
  (rating from the short)
 
-"Once Upon a Time in Hollywood" (Quentin Tarantino)
- ready?
-
-#letterboxd
-Letterboxd 111_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
-
 "The Truth (La Vérité sur Catherine)" (Hirokazu Kore-eda)
  ready?
 
@@ -573,24 +607,6 @@ maria_leite         10
 
 "Jumbo" (Zoé Wittock, F)
 
-
-"The Bears' Famous Invasion of Sicily" (Lorenzo Mattotti, I)
- Animation
-
-#letterboxd
-Raphaël Eyssautier  10
-rosa                10
-Leilâ               10
-tim                 10
-akooldude27         8
-DJ                  8
-Tania               6
-mrhollywoodyt       6
-RaeAnn Q.           2
-Paula               2
-Hydrogen_bob        1
-CriterionReview     1
-
 "Muscle" (Gerard Johnson, UK)
  Midnight
 
@@ -611,9 +627,6 @@ Letterboxd 368_Ratings	7.2  https://letterboxd.com/film/toy-story-4/
 dittedc             9
 
 "Il pleuvait des oiseaux (And The Birds Rained Down)" (Louise Archambault, Can)
-
-
-"La Cordillère des songes" (Patricio Guzmán)
 
 
 "Radioactive" (Marjane Satrapi)
