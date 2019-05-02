@@ -30,19 +30,22 @@ paul09              6
 
 Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 #letterboxd
-Letterboxd 1109_Ratings	9.1  https://letterboxd.com/film/pain-glory/
+Letterboxd 1124_Ratings	9.1  https://letterboxd.com/film/pain-glory/
 
 "Once Upon a Time in Hollywood" (Quentin Tarantino)
 
 #letterboxd
-Letterboxd 111_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+Letterboxd 109_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 
 "The Traitor (Il traditore)" (Marco Bellocchio)
+
+
 "Parasite" (Bong Joon-ho) [Competition]
 
 #letterboxd
 SupremeChun         10   https://letterboxd.com/supremechun/film/parasite-2019/
 Ben Clay            9
+ludovicbeot         6
 Sebastian Blaich    2
 
 "Portrait of the Girl on Fire (Portrait de la jeune fille en feu)" (Céline Sciamma)  [Competition]
@@ -110,6 +113,9 @@ bonestructure       7
 "Mektoub, My Love: Intermezzo" (Abdellatif Kechiche) [Competition]
  4 hrs
 
+#letterboxd
+Giuliacap           2
+Dariy               2
 
 UN CERTAIN REGARD
 
@@ -184,7 +190,7 @@ OUT OF COMPETITION
 "Rocketman" (Dexter Fletcher) [Out Of Competition]
 
 #letterboxd
-Letterboxd 16_Ratings	6.0  https://letterboxd.com/film/rocketman-2019/
+Letterboxd 18_Ratings	5.8  https://letterboxd.com/film/rocketman-2019/
 
 "Diego Maradona" (Asif Kapadia) [Out Of Competition]
 
@@ -214,7 +220,7 @@ SPECIAL SCREENINGS
 "For Sama" (Waad Al Kateab, Edwards Watts) [Out Of Competition] <i>SXSW</i>
 
 #letterboxd
-Letterboxd 43_Ratings  7.62  https://letterboxd.com/film/for-sama/
+Letterboxd 45_Ratings	8.6  https://letterboxd.com/film/for-sama/
 
 "Share" (Pippa Bianco) [Out Of Competition] <i>Sundance</i>
 
@@ -239,6 +245,10 @@ Letterboxd 134_Ratings 6.56  https://letterboxd.com/film/share-2019/
 
 "5B" (Dan Krauss)  [Out Of Competition]
 
+#letterboxd
+Sagemane            8
+Hob                 8   https://letterboxd.com/hob/film/5b/
+turtlese            7
 
 QUINZAINE
 
@@ -396,7 +406,7 @@ Letterboxd 4600_Ratings        10.0  https://letterboxd.com/film/lage-dor/
 "Pasqualino Settebellezze (Seven Beauties)" (Lina Wertmüller, 1975) [Out Of Competition] Cannes Classics
 
 #letterboxd
-Letterboxd 997_Ratings 8.9  https://letterboxd.com/film/seven-beauties/
+Letterboxd 1002_Ratings 8.9  https://letterboxd.com/film/seven-beauties/
 
 "Miracolo a Milano (Miracle in Milan)" (Vittorio De Sica, 1951) [Out Of Competition] Cannes Classics
  The 1951 “Palme d'or”
@@ -521,7 +531,7 @@ my $PREDICTIONS = <<'EOF';
 SanthoshkumarG      6
 
 "About Endlessness" (Roy Andersson)
- Comp? (still filming)
+ (still filming)
 
 "Ad Astra" (James Gray)
  OOC?
@@ -534,32 +544,21 @@ Joaby               3
 
 "La fille au bracelet" (Stéphane Demoustier)
 
-
 "To the Ends of the Earth" (Kiyoshi Kurosawa)
- UCR
-
 
 "Saturday Fiction" (Lou Ye, China)
- UCR
 
 "Jessica" (Ninja Thyberg, Swe)
- Semaine
-
 
 "Malmkrog" (Cristi Puiu)
 
-
 "Heidi" (Catalin Mitulescu, Rom)
-
 
 "All inclusive" (Malgorzata Szumowska, POL)
 
-
 "Wendy" (Benh Zeitlin)
 
-
 "Shirley" (Josephine Decker)
-
 
 "Mother (Madre)" (Rodrigo Sorogoyen, Spain)
 
@@ -569,12 +568,9 @@ rrshawndeon         7
 
 "The County" (Grímur Hákonarson)
 
-
 "Wet Season" (Anthony Chen, Singapur)
 
-
 "Pelican Blood" (Katrin Gebbe, D)
-
 
 "Suicide Tourist (Selvmordsturisten)" (Jonas Alexander Arnby, Den)
 
@@ -583,22 +579,16 @@ Cas de Kock         9
 
 "Adoration" (Fabrice du Welz, Bel)
 
-
 "Positive School" (Nabil Ayouch, Mor)
-
 
 "Persian Lessons" (Vadim Perelman)
 
-
 "Proxima" (Alice Winocour)
-
 
 "Gloria Mundi" (Robert Guédiguian)
 
-
 "Un monde plus grand" (Fabienne Berthaud, F)
  from "Mon initiation chez les Chamanes"
-
 
 "The Translators (Les Traducteurs)" (Régis Roinsard)
 
@@ -628,7 +618,6 @@ dittedc             9
 
 "Il pleuvait des oiseaux (And The Birds Rained Down)" (Louise Archambault, Can)
 
-
 "Radioactive" (Marjane Satrapi)
 
 #letterboxd
@@ -637,24 +626,17 @@ SimonHatton         2
 
 "My Zoe" (Julie Delpy)
 
-
 "The Devil Between The Legs (El diablo entre las piernas)" (Arturo Ripstein)
-
 
 "The Barefoot Emperor" (Jessica Hope Woodworth, Peter Brosens)
 
-
 "The Dreams of a Few (Lo que algunos soñaron)" (Michel Franco)
-
 
 "Waiting for the Barbarians" (Ciro Guerra)
 
-
 "Joyeux Anniversaire (Happy Birthday)" (Cédric Kahn)
 
-
 "As filhas do Fogo (Vitalina Varela)" (Pedro Costa)
- Quinzaine
 
 #letterboxd
 Mike Stuart         4
@@ -667,17 +649,13 @@ Alberto Farina      5   https://letterboxd.com/albertofarina/film/sin-2019/
 
 "La Daronne" (Jean-Paul Salomé)
 
-
 "The Invisible Life of Euridice Gusmao (A Vida Invisível)" (Karim Aïnouz)
-
 
 "As Long as the War Lasts (Mientras dure la guerra)" (Alejandro Amenábar)
  Strong Franco story
 
-
 "The Thousand Miles" (Sylvain Chomet)
  (Mille Miglia, animation - Quinzaine)
-
 
 "The Weasels (El cuento de las comadrejas)" (Juan José Campanella)
 
@@ -686,75 +664,51 @@ JuanmaOzan          2
 
 "Monday" (Argyris Papadimitropoulos)
 
-
 "De Nos Freres Blessés (My Traitor, My Love)" (Hélier Cisterne)
  with Vicky Krieps
 
-
 "The 20th Century" (Matthew Rankin)
- (Semaine)
-
 
 "Martin Eden" (Pietro Marcello)
 
-
 "C’est extra (Just Great)" (Guillaume Nicloux)
 
-
 "Anton" (Zaza Urushadze)
- (UCR)
-
 
 "Notre-Dame du Nil (Our Lady of the Nile)" (Atiq Rahimi, Afgh)
 
-
 "Mano de obra" (David Zonana)
 
-
 "Technoboss" (João Nicolau, POR)
-
 
 "Sisters (Soeurs)" (Yamina Benguigui)
  with Isabelle Adjani, Maïwenn, Rachida Brakni (Quotenfrauen?)
 
-
 "Notre dame" (Valérie Donzelli)
 
-
 "Tijuana Bible" (Jean-Charles Hue)
-
 
 "Chanson douce" (Lucie Borleteau, F)
  "Fidelio", Writer "White Material"
 
-
 "Echo" (Rúnar Rúnarsson)
- UCR
-
 
 "Les voeux" (Sarah Suco, F)
  "Nos Enfants"
 
-
 "Sole" (Carlo Sironi, I)
  (first)
-
 
 "Perfect 10" (Eva Riley, UK)
  Brighton (first)
 
-
 "Qu’un sang impur…" (Abdel Raouf Dafri)
  (Writer "A Prophet")
 
-
 "Camille" (Boris Lojkine, F)
- UCR
-
 
 "My Days of Glory (Le jour de gloire)" (Antoine de Bary, F)
  "L'Enfance d'un chef"
-
 
 "The Room" (Christian Volckman, F)
  "Renaissance"
@@ -764,29 +718,20 @@ dittedc             2
 
 "L’état sauvage" (David Perrault, F)
 
-
 "Revenir" (Jessica Palud, F)
  "Marlon"
-
 
 "I’m No Longer Here (Ya no estoy aqui)" (Fernando Frias, MEX)
  (2nd, Rezeta)
 
-
 "438 Days (438 Dagar)" (Jesper Ganslandt)
-
 
 "The Disciple" (Ivan Ostrochovský, Svk)
  B&W 4:3 (Ida Camera)
 
-
 "A Girl Missing" (Koji Fukada, J)
 
-
-
 "Salt of Tears" (Philippe Garrel)
- Quinzaine?
-
 
 "Undine" (Christian Petzold, D)
  must be very fast in post, just started shooting in 2019
@@ -799,7 +744,6 @@ Navid Aghaz         1
 
 "Blue Train" (Dalei Zhang, China/Russia)
 
-
 "Where It Begins" (Zhao Fei, China)
 
 "Le quai de Ouistreham" (Emmanuel Carrère, F)
@@ -807,23 +751,17 @@ Navid Aghaz         1
 
 "Mamasa" (Brillante Mendoza)
 
-
 "Lines" (Hussein Khan, Ind)
 
-
 "Nomadland" (Chloe Zhao)
-
 
 "Terminal Sud" (Rabah Ameur-Zaïmeche)
  very late. Shooting Sep 3 2018 (8 weeks), UCR
 
-
 "L'angle mort (The Dead Angle)" (Pierre Trividic & Patrick Mario Bernard, F)
   becoming invisible. with Jean-Christophe Folly, Isabelle Carré and Golshifteh Farahani.
 
-
 "Rain Anyway (Wees blij dat het regent)" (Gust Van den Berghe, NL)
-
 
 "The Box" (Lorenzo Vigas)
  Quinzaine?
@@ -831,9 +769,7 @@ Navid Aghaz         1
 "The Purple Fields" (Keren Yedaya, Isr)
  Musical. pitched as Red Fields: intl.filmfund.org.il/films/?nom=002889&film=Red%20Fields
 
-
 "The Beloved Stranger" (Chang Tso-Chi, Taiwan)
-
 
 "Sun" (Jonathan Desoindre & Elia Kowalska) 
  First film
@@ -843,7 +779,6 @@ LukaGalle           7
 Lazarenko           7
 
 "Femme-Enfant" (Amro Hamzawi, F)
-￼
 
 "Patrick" (Tim Mielants, BEL)
  1st film
@@ -854,7 +789,6 @@ Pietje101           7
 Marna Larsen        6
 
 "Fourmi" (Julien Rappeneau, F)
-
 
 "Certain Kind of Silence" (Michal Hogenauer, Cz)
  was "Outside"
@@ -966,9 +900,7 @@ Letterboxd 42_Ratings  4.8  https://letterboxd.com/film/4x4/
 "Alexanderplatz" (Burhan Qurbani)
  ?
 
-
 "Only Beasts (Seules les Bêtes)" (Dominik Moll)
-
 
 "Valley of the Gods" (Lech Majewski)
  (Crazy but probably too bad. Semaine maybe)
