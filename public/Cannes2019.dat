@@ -39,8 +39,8 @@ Benjamin Frohman    4
 Tiago_Calmon        10   https://letterboxd.com/tiago_calmon/film/bacurau/
 Jansushi            6
 
-"The Fire Next Time (La Prochaine fois le feu)" (Mati Diop) [Competition]
- prev. as "The Atlantides"
+"Atlantics (La Prochaine fois le feu)" (Mati Diop) [Competition]
+ prev. as "The Atlantides/The Fire Next Time"
 
 "Sorry we missed you" (Ken Loach) [Competition]
 
@@ -62,7 +62,7 @@ Letterboxd 1124_Ratings	9.1  https://letterboxd.com/film/pain-glory/
 #letterboxd
 bonestructure       7
 
-"The Passenger (The Whistlers)" (Corneliu Porumboiu) [Competition]
+"The Whistlers (The Passenger)" (Corneliu Porumboiu) [Competition]
  "The Whistlers/Gomera" (was also in the 2018 list)
 
 #letterboxd
@@ -1259,15 +1259,16 @@ Christophe Carriére (L'Express, France)
 # https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
 $critics_group[3] = "Screen Daily";
 $critics[3] = "
-Julien Gester/Didier Peron (Liberation, France) 
-Katja Nicodemus (Die Zeit, Deutschland)
-Wang Muyan (Elemen, China)
-Nick James (Sight & Sound, UK)
-Kong Rithdee (Bangkok Post, Thailand) 
-Tim Robey/Robbie Collin (Daily Telegraph, UK)
+Stephanie Zacharek (Time Magazine, USA)
 Justin Chang (LA Times, USA)
+Peter Bradshaw (Guardian, UK) 
+Nick James (Sight & Sound, UK)
+Tim Robey/Robbie Collin (Daily Telegraph, UK)
+Julien Gester/Didier Peron (Liberation, France) 
 Michel Ciment (Positif, France) 
-Anton Dolin (Afisha, Russia)
+Katja Nicodemus (Die Zeit, Deutschland)
+Wang Muyan (The Paper, China)
+Anton Dolin (Meduza, Russia)
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -1474,6 +1475,7 @@ Keith Uhlich (Time Out New York, USA)
 Kenneth Turan (Los Angeles Times, USA)
 Kevin Jagernauth (Indiewire's The Playlist, USA) 
 Kirk Honeycott (The Hollywood Reporter, USA)
+Kong Rithdee (Bangkok Post, Thailand)
 Kristy Puchko (Freelance, USA)
 Kurt Brokaw (Independent Magazine)
 Kyle Smith (NY Post, USA)
