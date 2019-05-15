@@ -13,6 +13,19 @@ package Cannes::rurban::2019; # -*- perl -*-
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+#   http://www.todaslascriticas.com.ar/cannes
+#   http://www.ioncinema.com/ (scaled to 0-10)
+#   http://www.lefilmfrancais.com/cannes2019
+#   http://jury.critic.de/cannes/
+#   http://variety.com/c/reviews/
+#   http://www.hollywoodreporter.com/topic/movie-reviews
+#   https://www.screendaily.com/reviews/festivals/cannes
+#   https://issuu.com/search?q=screen%20daily&sortby=date
+#   https://icsfilm.org/features/cannes-2019-ics-critics-panel/
+#   https://twitter.com/CriticsGrid
+# More:
+#   http://www.indiewire.com/critic/
+#   https://www.theguardian.com/film/cannes-2019
  
 use utf8;
 our $DATA= <<'EOF';
@@ -39,6 +52,22 @@ Frédéric Jaeger     2.5
 Jenny Jecke           4
 Till Kadritzke        4
 Philipp Schwarz       4
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         5
+Eric Neuhoff             2.5
+Philippe Rouyer          2.5
+Thomas Sotinel           5
+Samuel Douhaire          1
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        7.5
+Dominique Widemann       5
+Nicolas Schaller         2.5
+Gilles Kerdreux          
+Christophe Carriére      7.5
+Barbara Théate           5
+Mathilde Cesbron         5
 #letterboxd
 FilmLandEmpire      10
 Nastya Declercq     10
@@ -209,6 +238,22 @@ Bourguet            2
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 #letterboxd
 
 "Bacurau" (Kleber Mendonça Filho, Juliano Dornelles, BR) [Competition]
@@ -1423,20 +1468,20 @@ Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 $critics_group[2] = "Le film français";
 $critics[2] = "
 Gaël Golhen (Premiere, France)
-Jean-Claude Raspiengeas (la Croix, France)
-Thierry Chèze (Studio ciné live, France)        
-Eric Neuhoff (Le Figaro, France)
-Stéphane Delorme (Cahiers du cinema, France)
-Jacques Mandelbaum (Le Monde, France)
-Philippe Rouyer (Positif, France)
 Pierre Vavasseur (le Parisien, France)
-Pierre Murat (Telerama, France)
-Victoria Gairin (Le Point, France)
-Serge Kaganski (Les Inrockuptibles, France)
-Gilles Kerdreux (oeust france, France)
+Stéphane Delorme (Cahiers du cinema, France)
+Eric Neuhoff (Le Figaro, France)
+Philippe Rouyer (Positif, France)
+Thomas Sotinel (Le Monde, France)
+Samuel Douhaire (Telerama, France)
+Jean-Claude Raspiengeas (la Croix, France)
+Jean-Marc Lalanne (Les Inrockuptibles, France)
+Dominique Widemann (L'Humanite, France)
 Nicolas Schaller (Observateur, France)
-Barbara Théate (Le Journal du Dimanche, France)      
+Gilles Kerdreux (oeust france, France)
 Christophe Carriére (L'Express, France)
+Barbara Théate (Le Journal du Dimanche, France)
+Mathilde Cesbron (Le Point, France)
 ";
 # screen daily 0-4
 # https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
