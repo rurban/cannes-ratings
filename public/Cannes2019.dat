@@ -21,7 +21,7 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
 #   https://issuu.com/search?q=screen%20daily&sortby=date
-#   https://icsfilm.org/features/cannes-2019-ics-critics-panel/
+#   https://icsfilm.org/features/cannes-2019-ics-critics-industry-panel/
 #   https://twitter.com/CriticsGrid
 # More:
 #   http://www.indiewire.com/critic/
@@ -70,6 +70,41 @@ Gilles Kerdreux
 Christophe Carriére      7.5
 Barbara Théate           5
 Mathilde Cesbron         5
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci            5
+Carlota Moseguí          
+Gaia Furrer              
+Marc van de Klashorst    7
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               6
+Justin Chang             
+David Acacia             6
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          4
+Blake Williams           6
+Jon Frosch               4
+Nicholas Bell            5
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              7.5
+Liu Min             5
+Muyan               5
+Yin Xiang           
+Luo Jin             2.5
+Xie Meng            
+PeterCat            5
+Taotao              7.5
+Ming                5
+Emily Liang         
+Hang Lu             5
 #letterboxd
 FilmLandEmpire      10
 Nastya Declercq     10
@@ -256,6 +291,41 @@ Gilles Kerdreux
 Christophe Carriére      
 Barbara Théate           
 Mathilde Cesbron         
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+#Nicholas Bell           
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Ming                
+Emily Liang         
+Hang Lu             
 #letterboxd
 
 "Bacurau" (Kleber Mendonça Filho, Juliano Dornelles, BR) [Competition]
@@ -294,6 +364,41 @@ Wendy Ide              https://www.screendaily.com/reviews/pain-and-glory-cannes
 Roger Koza              8.5
 Diego Lerer             8.5
 #critic.de
+# ics
+Cédric Succivalli        10
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+Carlota Moseguí          6
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          9
+Blake Williams           
+Jon Frosch               
+#Nicholas Bell           
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Ming                
+Emily Liang         
+Hang Lu             
 #letterboxd
 Letterboxd 1124_Ratings	9.1  https://letterboxd.com/film/pain-glory/
 
@@ -718,10 +823,56 @@ SEMAINE
 "The Defendant (Litigante)" (Franco Lolli) [Semaine] Opener
 
 Fionnuala Halligan     https://www.screendaily.com/reviews/litigante-cannes-review/5139369.article
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+#Nicholas Bell           
+Dennis Lim               
 #letterboxd
 
 "The Unknown Saint (Le Miracle du Saint Inconnu)" (Alaa Eddine Aljem) [Semaine]
 
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell          5
+Dennis Lim               
 #letterboxd
 Florent Boutet      7
 
@@ -730,12 +881,58 @@ Florent Boutet      7
 "Heroes don't die (Les héros ne meurent jamais)" (Aude Léa Rapin) [Semaine]
  Special Screening
 
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell            6
+Dennis Lim               
 #letterboxd
 ludovicbeot         5
 pizzabot            5
 
 "I Lost My Body (J’ai perdu mon corps)" (Jérémy Clapin) [Semaine]
 
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           5
+Jon Frosch               
+Nicholas Bell            6
+Dennis Lim               
 #letterboxd
 smcclurg            8
 Blake Williams      5
