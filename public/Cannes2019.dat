@@ -78,18 +78,18 @@ Boris Nelepo          7.5  https://www.svoboda.org/a/29941402.html
 Giovanni Marchini Camina 4
 Philipp Schwarz       4
 # Le film français
-Gaël Golhen              
-Pierre Vavasseur         
+Gaël Golhen              1
+Pierre Vavasseur         1
 Stéphane Delorme         5
 Eric Neuhoff             2.5
 Philippe Rouyer          2.5
 Thomas Sotinel           5
 Samuel Douhaire          1
-Jean-Claude Raspiengeas  
+Jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        7.5
 Dominique Widemann       5
 Nicolas Schaller         2.5
-Gilles Kerdreux          
+Gilles Kerdreux          5
 Christophe Carriére      7.5
 Barbara Théate           5
 Mathilde Cesbron         5
@@ -115,7 +115,7 @@ Anna Tatarska
 Tommaso Tocci            4
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        5
 Emily Barnett            
 Elisabeth Franck-Dumas   
 Tommaso Tocci            5
@@ -124,13 +124,13 @@ Gaia Furrer
 Marc van de Klashorst    7
 Guy Lodge                
 #Diego Batlle            
-Meredith Taylor          
+Meredith Taylor          8
 Stephanie Zacharek       
 Dana Keith               6
 Justin Chang             
 David Acacia             6
 Valerie Complex          
-Lorna Tee                
+Lorna Tee                5
 Daniela Michel           
 Ela Bittencourt          4
 Blake Williams           6
@@ -141,13 +141,13 @@ Dennis Lim
 Li Xun              7.5
 Liu Min             5
 Muyan               5
-Yin Xiang           
+Yin Xiang           5
 Luo Jin             2.5
-Xie Meng            
+Xie Meng            5
 PeterCat            5
 Taotao              7.5
 Ming                5
-Emily Liang         
+Emily Liang         5
 Hang Lu             5
 #letterboxd
 brune75             10
@@ -509,20 +509,20 @@ Giovanni Marchini Camina 7.5
 Philipp Schwarz       7.5
 # Le film français
 Gaël Golhen              
-Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Dominique Widemann       
-Nicolas Schaller         
-Gilles Kerdreux          
+Pierre Vavasseur         9
+Stéphane Delorme         9
+Eric Neuhoff             5
+Philippe Rouyer          7.5
+Thomas Sotinel           7.5
+Samuel Douhaire          5
+Jean-Claude Raspiengeas  9
+Jean-Marc Lalanne        5
+Dominique Widemann       7.5
+Nicolas Schaller         5
+Gilles Kerdreux          9
 Christophe Carriére      
-Barbara Théate           
-Mathilde Cesbron         
+Barbara Théate           5
+Mathilde Cesbron         7.5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -548,7 +548,7 @@ Maria Ulfsak-Sheripova
 Cédric Succivalli        
 Emily Barnett            
 Elisabeth Franck-Dumas   
-#Tommaso Tocci           
+#Tommaso Tocci           6
 #Carlota Moseguí         
 Gaia Furrer              
 Marc van de Klashorst    
@@ -562,23 +562,23 @@ David Acacia
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
-Ela Bittencourt          
+Ela Bittencourt          9
 Blake Williams           
 Jon Frosch               
 #Nicholas Bell           
 Dennis Lim               
 # Chinese @CriticsGrid
-Li Xun              
-Liu Min             
-Muyan               
+Li Xun              7.5
+Liu Min             7.5
+Muyan               7.5
 Yin Xiang           
-Luo Jin             
-Xie Meng            
-PeterCat            
-Taotao              
-Ming                
-Emily Liang         
-Hang Lu             
+Luo Jin             2.5
+Xie Meng            7.5
+PeterCat            7.5
+Taotao              5
+Ming                9
+Emily Liang         7.5
+Hang Lu             5
 #letterboxd
 FilmBuda            10
 Pat96               10   https://letterboxd.com/pat96/film/les-miserables-2019/
@@ -634,6 +634,78 @@ Engin Ertan             7.5
 #critic.de
 Annabel Brady-Brown   7.5
 Giovanni Marchini Camina 9
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         7.5
+Eric Neuhoff             1
+Philippe Rouyer          2.5
+Thomas Sotinel           5
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        5
+Dominique Widemann       5
+Nicolas Schaller         9
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           7.5
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci           8
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell           8
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              9
+Liu Min             
+Muyan               7.5
+Yin Xiang           
+Luo Jin             5
+Xie Meng            5
+PeterCat            7.5
+Taotao              5
+Ming                7.5
+Emily Liang         5
+Hang Lu             7.5
 #letterboxd
 charlesdea          10   https://letterboxd.com/charlesdea/film/bacurau/
 camperronifan       10   https://letterboxd.com/camperronifan/film/bacurau/
@@ -696,12 +768,156 @@ Simón               2
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell           
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Ming                
+Emily Liang         
+Hang Lu             
 #letterboxd
 
 "Sorry we missed you" (Ken Loach) [Competition]
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell           
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Ming                
+Emily Liang         
+Hang Lu             
 #letterboxd
 Max Tyler           6
 
@@ -709,6 +925,78 @@ Max Tyler           6
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell           
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Ming                
+Emily Liang         
+Hang Lu             
 #letterboxd
 Matt Orenstein      7   https://letterboxd.com/maorenstein/film/little-joe-2019/
 
@@ -806,6 +1094,78 @@ Jana                8
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+Nicholas Bell           
+Dennis Lim               
+# Chinese @CriticsGrid
+Li Xun              
+Liu Min             
+Muyan               
+Yin Xiang           
+Luo Jin             
+Xie Meng            
+PeterCat            
+Taotao              
+Ming                
+Emily Liang         
+Hang Lu             
 #letterboxd
 bonestructure       7
 
@@ -924,6 +1284,66 @@ Alejandra Trelles       8
 Annabel Brady-Brown   2.5
 Frédéric Jaeger     6
 Giovanni Marchini Camina 1
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      5
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        8
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    3
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             6
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+#Nicholas Bell           
+Dennis Lim               
 #letterboxd
 George Wood         8   https://letterboxd.com/woodyg/film/a-brothers-love/
 Lennart Johannsen   8
@@ -960,6 +1380,66 @@ Daniel de Partearroyo   4
 #critic.de
 Annabel Brady-Brown   2.5
 Giovanni Marchini Camina 2.5
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         2.5
+Eric Neuhoff             
+Philippe Rouyer          5
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       2.5
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         2.5
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+#Tommaso Tocci           
+#Carlota Moseguí         
+Gaia Furrer              
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          
+Blake Williams           
+Jon Frosch               
+#Nicholas Bell           
+Dennis Lim               
 #letterboxd
 George Wood         9   https://letterboxd.com/woodyg/film/bull-2019/
 raebundy            8   https://letterboxd.com/raebundy/film/bull-2019/
@@ -1006,11 +1486,89 @@ Crayfish            3
 
 "The Beanpole" (Kantemir Balagov) [Un Certain Regard]
 
+#todas
+#critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 #letterboxd
 
 "The Swallows of Kabul (Les hirondelles de Kaboul)" (Zabou Breitman & Eléa Gobbé-Mévellec) [Un Certain Regard]
  Animation
 
+#todas
+#critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
+# ioncinema
+Marta Balaga             
+Beatrice Behn            
+Nicholas Bell            
+Julia Blaga              
+Per Juul Carlsen         
+Marc Cassavi             
+Monica Delgado           
+Rodrigo Fonseca          
+Leda Galanou             
+Jason Gorber             
+Jean-Philippe Guerand    
+#Carlos F. Heredero      
+Dubravka Lakic           
+Fabien Lemercier         
+Liu Min                  
+Carlota Moseguí         
+#Cédric Succivalli        
+Anna Tatarska            
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 #letterboxd
 Raspou              7
 pizzabot            6
