@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = qw(2016 2017 2018 2019);
+our @YEARS = qw(2016..2019);
 our $comp_section = 'Wettbewerb';
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
                  "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Panorama 40",
@@ -97,7 +97,7 @@ sub _read {
       }
       next unless $critic;
       $critic =~ s/\s+$//;
-      $title{$title}->{critic}->{$critic} = [];
+      $title{$title}->{critic}->{$critic} = [] unless $title{$title}->{critic}->{$critic};
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
@@ -192,7 +192,8 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
-  my %sections = map{$_=>1} @sections;
+  my %sections = map {$_=>1} @sections;
+  my $section;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_}; 
@@ -358,7 +359,7 @@ sub _dump {
       next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
     }
-    my $s=sprintf("%0.1f",$title{$t}->{stddev});
+    my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;

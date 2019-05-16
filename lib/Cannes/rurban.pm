@@ -19,6 +19,7 @@ sub us_rating {
            'F+' => 0,   'F' => 0,   'F-' => 0};
   return $r->{$_[0]};
 }
+
 sub _read {
   my $DATA = shift;
   my $critics = shift;
@@ -72,7 +73,7 @@ sub _read {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
 	($critic,$mag,$cn) = ($1,'',$2);
-      } elsif (/^(\S[^\(]+) \s+ (?:\d+\.?)/x) {
+      } elsif (/^(\S[^\(]+) \s+ (\d[\d\.]* | [ABCDEF][\+\-]?)/x) {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
@@ -330,10 +331,10 @@ sub _dump {
     next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive)$/;
-    next if $l =~ / 19\d\d\)$/;
-    next if $l =~ / 200\d\)$/;
+    next if $l =~ / 19\d\d\)/;
+    next if $l =~ / 200\d\)/;
     next if $l =~ m{</i>$}; # other festivals
-    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    my ($lyear) = $l =~ / (20\d\d)\)/;
     if ($lyear) {
       next if $year - $lyear > 1;
       # in the 2 New sections skip old films with prev:
@@ -360,10 +361,10 @@ sub _dump {
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive)$/;
-    next if $l =~ / 19\d\d\)$/;
-    next if $l =~ / 200\d\)$/;
+    next if $l =~ / 19\d\d\)/;
+    next if $l =~ / 200\d\)/;
     next if $l =~ m{</i>$}; # other festivals
-    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    my ($lyear) = $l =~ / (20\d\d)\)/;
     if ($lyear) {
       next if $year - $lyear > 1;
       # in the 2 New sections skip old films with prev:
