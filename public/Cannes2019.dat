@@ -593,7 +593,7 @@ Jean-Marc Lalanne        5
 Dominique Widemann       7.5
 Nicolas Schaller         5
 Gilles Kerdreux          9
-Christophe Carriére      
+Christophe Carriére      7.5
 Barbara Théate           5
 Mathilde Cesbron         7.5
 # ioncinema
@@ -796,15 +796,15 @@ Stéphane Delorme         7.5
 Eric Neuhoff             1
 Philippe Rouyer          2.5
 Thomas Sotinel           5
-Samuel Douhaire          
-Jean-Claude Raspiengeas  
+Samuel Douhaire          7.5
+Jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        5
 Dominique Widemann       5
 Nicolas Schaller         9
 Gilles Kerdreux          
-Christophe Carriére      
+Christophe Carriére      5
 Barbara Théate           7.5
-Mathilde Cesbron         
+Mathilde Cesbron         2.5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -996,18 +996,18 @@ Philipp Schwarz       6
 # Le film français
 Gaël Golhen              
 Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Dominique Widemann       
-Nicolas Schaller         
+Stéphane Delorme         2.5
+Eric Neuhoff             2.5
+Philippe Rouyer          7.5
+Thomas Sotinel           7.5
+Samuel Douhaire          2.5
+Jean-Claude Raspiengeas  2.5
+Jean-Marc Lalanne        5
+Dominique Widemann       5
+Nicolas Schaller         2.5
 Gilles Kerdreux          
-Christophe Carriére      
-Barbara Théate           
+Christophe Carriére      2.5
+Barbara Théate           5
 Mathilde Cesbron         
 # ioncinema
 Marta Balaga             
@@ -1135,13 +1135,13 @@ Till Kadritzke        6
 Gaël Golhen              
 Pierre Vavasseur         
 Stéphane Delorme         
-Eric Neuhoff             
+Eric Neuhoff             5
 Philippe Rouyer          
-Thomas Sotinel           
+Thomas Sotinel           5
 Samuel Douhaire          
-Jean-Claude Raspiengeas  
+Jean-Claude Raspiengeas  9
 Jean-Marc Lalanne        
-Dominique Widemann       
+Dominique Widemann       5
 Nicolas Schaller         
 Gilles Kerdreux          
 Christophe Carriére      
@@ -1629,18 +1629,18 @@ Giovanni Marchini Camina 1
 Gaël Golhen              
 Pierre Vavasseur         
 Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
+Eric Neuhoff             1
+Philippe Rouyer          2.5
 Thomas Sotinel           
 Samuel Douhaire          
 Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
+Jean-Marc Lalanne        5
 Dominique Widemann       
-Nicolas Schaller         
+Nicolas Schaller         5
 Gilles Kerdreux          
 Christophe Carriére      5
-Barbara Théate           
-Mathilde Cesbron         
+Barbara Théate           2.5
+Mathilde Cesbron         2.5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -1899,11 +1899,11 @@ Philipp Schwarz       4
 # Le film français
 Gaël Golhen              
 Pierre Vavasseur         
-Stéphane Delorme         
+Stéphane Delorme         5
 Eric Neuhoff             
-Philippe Rouyer          
+Philippe Rouyer          9
 Thomas Sotinel           
-Samuel Douhaire          
+Samuel Douhaire          7.5
 Jean-Claude Raspiengeas  
 Jean-Marc Lalanne        
 Dominique Widemann       
@@ -1911,7 +1911,7 @@ Nicolas Schaller
 Gilles Kerdreux          
 Christophe Carriére      
 Barbara Théate           
-Mathilde Cesbron         
+Mathilde Cesbron         2.5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -1980,7 +1980,7 @@ Gaël Golhen
 Pierre Vavasseur         
 Stéphane Delorme         
 Eric Neuhoff             
-Philippe Rouyer          
+Philippe Rouyer          5
 Thomas Sotinel           
 Samuel Douhaire          
 Jean-Claude Raspiengeas  
@@ -1990,7 +1990,7 @@ Nicolas Schaller
 Gilles Kerdreux          
 Christophe Carriére      
 Barbara Théate           
-Mathilde Cesbron         
+Mathilde Cesbron         5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
