@@ -2655,6 +2655,7 @@ UN CERTAIN REGARD
 
 Jessica Kiang           https://variety.com/2019/film/reviews/a-brothers-love-review-1203215650/
 Lisa Nesselson          https://www.screendaily.com/reviews/a-brothers-love-cannes-review/5139270.article
+Cédric Succivalli       https://icsfilm.org/features/cannes-2019-interview-monia-chokri/
 #todas
 Jaime Pena              3.5
 Rüdiger Suchsland       4.5
@@ -6425,25 +6426,25 @@ Agustín Mango (The Hollywood Reporter, Argentina)
 $critics_group[1] = "ioncinema";
 # https://www.ioncinema.com/news/film-festivals/2018-cannes-critics-panel-day-1-asghar-farhadi-everybody-knows
 $critics[1] = "
-Marta Balaga (Episodi, Cineuropa, PL/FI)
+Marta Balaga (Episodi / Cineuropa, Poland)
 Beatrice Behn (Kino-Zeit, Deutschland)
 Nicholas Bell (Ioncinema.com, USA)
 Julia Blaga (HotNews.ro, Harper’s BAZAAR, Romania)         
 Per Juul Carlsen (Danish National Radio 1, Denmark)
+Marc Cassavi (La Presse, Canada)
 Mónica Delgado (Desistfilm, Peru)
-Bilge Ebiri (The Village Voice, US)
+Rodrigo Fonseca (TV Globo / GShow, Brazil)
+Leda Galanou (Flix.gr, Greece)
 Jason Gorber (Dorkshelf.com / CTV News Channel, Canada)
 Jean-Philippe Guerand (Le Film Francais, France)
 Carlos F. Heredero (Caimán Cuadernos de Cine, España)
-Eric Lavallée (Ioncinema.com, Canada)
+Dubravka Lakic (Politika Daily, Croatia)
 Fabien Lemercier (Cineuropa.org, Belgium)
 Liu Min (Sina.com, China)
-Marc-André Lussier (La Presse, France)
-Poly Lykourgou (Flix.gr, Greece)           
 Carlota Moseguí (Cineurope, Spain)
-Daniella Shreir (Another Gaze Journal, UK)
 Cédric Succivalli (International Cinephil Society, France)
-Tommaso Tocci (International Cinephile Society, Italy)
+Anna Tatarska (Onet / Vogue, Poland)
+Tommaso Tocci (International Cinephile Society / MyMovies.it, Italy)
 Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 ";
 # Le film français 0-4
@@ -6485,7 +6486,7 @@ Screen International (Screen International, USA)
 $critics_group[4] = "critic.de";
 $critics[4] = "
 Andrey Arnold (Die Presse, Austria)
-Pamela Bienzobas (Revista Cosas, Chile) 
+Pamela Bienzobas (Cinema23, Chile) 
 Annabel Brady-Brown (Fireflies, UK)
 Frédéric Jaeger (critic.de, Deutschland)
 Jenny Jecke (Moviepilot, Deutschland)
@@ -6495,34 +6496,34 @@ Violeta Kovacsics (D.d.Tarragona, España)
 Boris Nelepo (Svoboda.org, Russia)
 Giovanni Marchini Camina (Sight & Sound, USA)
 Philipp Schwarz (critic.de, Deutschland)
-Lukas Stern (critic.de, Deutschland)
 Rüdiger Suchsland (arteschock, Deutschland) 
 Blake Williams (Filmmaker Magazine, Canada)
 ";
-# ICSfilm panel (0-5) http://icsfilm.org/features/ics-cannes-poll-2017/
+# ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
 $critics_group[5] = "ICSfilm panel";
 $critics[5] = "
 Cédric Succivalli (International Cinephil Society, France)
-Emily Barnett 
-Elisabeth Franck-Dumas 
+Emily Barnett (Les Inrockuptibles, France)
+Elisabeth Franck-Dumas (Libération, France)
 Tommaso Tocci (International Cinephile Society, Italy)
 Carlota Moseguí (Cineurope, España)
 Gaia Furrer (Giornati Autori, Italy)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
 Guy Lodge (Variety, USA)
 Diego Batlle (Otros Cines, La Nation, Argentina)
-Aldo Álvareztostado (International Cinephil Society, Mexico)
+Meredith Taylor (Filmuforia.co.uk, UK)
 Stephanie Zacharek (TIME, USA)
 Dana Keith (Miami Beach Cinematheque, USA)
 Justin Chang (LA Times, USA)
 David Acacia (International Cinephil Society, Canada)
-Nicolas Rapold (Film Comment, USA)
-Anne Thompson (Indiewire, USA)
-Erik Anderson (International Cinephile Society, AwardsWatch, USA)
-Dennis Lim (Film Society Lincoln Center, USA)
+Valerie Complex (AwardsWatch.com, US)
+Lorna Tee (International Film Festival & Awards Macao, Netherlands)
+Daniela Michel (Morelia International Film Festival/Cine Premier México, Mexico)
+Ela Bittencourt (Lyssaria.com / The Hollywood Reporter, Brazil)
 Blake Williams (Filmmaker Magazine, Canada)
 Jon Frosch (The Hollywood Reporter, USA)
 Nicholas Bell (ioncinema, USA)
+Dennis Lim (Film Society Lincoln Center, USA)
 ";
 $critics_group[6] = "Chinese Grid";
 # https://twitter.com/CriticsGrid
@@ -6800,7 +6801,7 @@ Marie-Laure Tittley (Festival project manager, Canada)
 Maëva Saint-Albin (Blogger, France)
 Neil Bahadur (Director, Canada)
 Nicolas Courdouan (Director+Writer, France)
-Pablo Villaça (Cinema em Cena, Brasilien)
+Pablo Villaça (Cinema em Cena, Brazil)
 Philippe Paturel (www.cinemaforever.net, Deutschland)
 Pieter Vermeersch (Freelance Director, Belgium)
 Sam C. Mac (Slant Magazine, USA)
