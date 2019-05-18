@@ -922,7 +922,7 @@ Jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        5
 Dominique Widemann       5
 Nicolas Schaller         9
-Gilles Kerdreux          
+Gilles Kerdreux          7.5
 Christophe Carriére      5
 Barbara Théate           7.5
 Mathilde Cesbron         2.5
@@ -1178,7 +1178,7 @@ Nicolas Schaller         2.5
 Gilles Kerdreux          
 Christophe Carriére      2.5
 Barbara Théate           5
-Mathilde Cesbron         
+Mathilde Cesbron         2.5
 # ioncinema
 Marta Balaga             7
 Beatrice Behn            7
@@ -1376,20 +1376,20 @@ Anton Dolin
 Screen International        
 # Le film français
 Gaël Golhen              
-Pierre Vavasseur         
-Stéphane Delorme         
+Pierre Vavasseur         9
+Stéphane Delorme         2.5
 Eric Neuhoff             5
-Philippe Rouyer          
+Philippe Rouyer          7.5
 Thomas Sotinel           5
-Samuel Douhaire          
+Samuel Douhaire          7.5
 Jean-Claude Raspiengeas  9
-Jean-Marc Lalanne        
-Dominique Widemann       5
+Jean-Marc Lalanne        2.5
+Dominique Widemann       9
 Nicolas Schaller         
-Gilles Kerdreux          
-Christophe Carriére      
-Barbara Théate           
-Mathilde Cesbron         
+Gilles Kerdreux          7.5
+Christophe Carriére      7.5
+Barbara Théate           5
+Mathilde Cesbron         7.5
 # ioncinema
 Marta Balaga             7
 Beatrice Behn            8
@@ -1588,18 +1588,18 @@ Screen International
 # Le film français
 Gaël Golhen              
 Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Samuel Douhaire          
+Stéphane Delorme         2.5
+Eric Neuhoff             2.5
+Philippe Rouyer          5
+Thomas Sotinel           7.5
+Samuel Douhaire          2.5
 Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Dominique Widemann       
+Jean-Marc Lalanne        5
+Dominique Widemann       1
 Nicolas Schaller         
 Gilles Kerdreux          
 Christophe Carriére      
-Barbara Théate           
+Barbara Théate           1
 Mathilde Cesbron         
 # ioncinema
 Marta Balaga             
@@ -1747,21 +1747,21 @@ Michel Ciment
 Anton Dolin                 
 Screen International        
 # Le film français
-Gaël Golhen              
-Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Dominique Widemann       
-Nicolas Schaller         
-Gilles Kerdreux          
-Christophe Carriére      
-Barbara Théate           
-Mathilde Cesbron         
+Gaël Golhen              9
+Pierre Vavasseur         9
+Stéphane Delorme         9
+Eric Neuhoff             5
+Philippe Rouyer          9
+Thomas Sotinel           9
+Samuel Douhaire          5
+Jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        9
+Dominique Widemann       9
+Nicolas Schaller         9
+Gilles Kerdreux          7.5
+Christophe Carriére      9
+Barbara Théate           9
+Mathilde Cesbron         9
 # ioncinema
 Marta Balaga             8
 Beatrice Behn            
@@ -3357,17 +3357,17 @@ Philipp Schwarz       4
 Gaël Golhen              
 Pierre Vavasseur         
 Stéphane Delorme         5
-Eric Neuhoff             
+Eric Neuhoff             9
 Philippe Rouyer          9
 Thomas Sotinel           
 Samuel Douhaire          7.5
-Jean-Claude Raspiengeas  
+Jean-Claude Raspiengeas  7.5
 Jean-Marc Lalanne        
 Dominique Widemann       
 Nicolas Schaller         
 Gilles Kerdreux          
 Christophe Carriére      
-Barbara Théate           
+Barbara Théate           5
 Mathilde Cesbron         2.5
 # ioncinema
 Marta Balaga             
@@ -3495,7 +3495,7 @@ Eric Neuhoff
 Philippe Rouyer          5
 Thomas Sotinel           
 Samuel Douhaire          
-Jean-Claude Raspiengeas  
+Jean-Claude Raspiengeas  7.5
 Jean-Marc Lalanne        
 Dominique Widemann       
 Nicolas Schaller         
@@ -3624,6 +3624,22 @@ Alejandra Trelles       4
 Joseph Fahim            7
 #critic.de
 Jenny Jecke           6
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3678,6 +3694,22 @@ Emilio Luna             5.5
 Joseph Fahim            1.5
 Francesc Villallonga    7.5
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          2.5
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        
+Dominique Widemann       7.5
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3735,6 +3767,22 @@ Jonas Chadarevian   4
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3765,6 +3813,22 @@ signewashere        6
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3795,6 +3859,22 @@ Davitru             7
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3826,6 +3906,22 @@ Alejandro Meroi     8   https://letterboxd.com/arthousestreet/film/personalien/
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3855,6 +3951,22 @@ Dennis Lim
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3885,6 +3997,22 @@ dittedc             4
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3914,6 +4042,22 @@ Dennis Lim
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3944,6 +4088,22 @@ Dennis Lim
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3977,6 +4137,22 @@ pizzabot            6
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -4007,6 +4183,22 @@ Dennis Lim
 #todas
 Giona Nazzaro           4.5
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -4036,6 +4228,22 @@ Dennis Lim
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -4065,6 +4273,22 @@ Dennis Lim
 
 #todas
 #critic.de
+# Le film français
+Gaël Golhen              
+Pierre Vavasseur         
+Stéphane Delorme         
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Samuel Douhaire          
+Jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Dominique Widemann       
+Nicolas Schaller         
+Gilles Kerdreux          
+Christophe Carriére      
+Barbara Théate           
+Mathilde Cesbron         
 # ics
 Cédric Succivalli        
 Emily Barnett            
