@@ -754,7 +754,7 @@ Michel Ciment               5
 Anton Dolin                 5
 Screen International        7.5
 # Le film français
-Gaël Golhen              
+Gaël Golhen              7.5
 Pierre Vavasseur         9
 Stéphane Delorme         9
 Eric Neuhoff             5
@@ -1803,7 +1803,7 @@ Nicolas Schaller
 Gilles Kerdreux          2.5
 Christophe Carriére      
 Barbara Théate           1
-Mathilde Cesbron         
+Mathilde Cesbron         5
 # ioncinema
 Marta Balaga             4
 Beatrice Behn            8
@@ -2221,17 +2221,17 @@ Gaël Golhen              7.5
 Pierre Vavasseur         
 Stéphane Delorme         7.5
 Eric Neuhoff             5
-Philippe Rouyer          
+Philippe Rouyer          7.5
 Thomas Sotinel           5
 Samuel Douhaire          9
 Jean-Claude Raspiengeas  7.5
 Jean-Marc Lalanne        2.5
 Dominique Widemann       9
 Nicolas Schaller         7.5
-Gilles Kerdreux          
+Gilles Kerdreux          5
 Christophe Carriére      5
 Barbara Théate           2.5
-Mathilde Cesbron         
+Mathilde Cesbron         5
 # ioncinema
 Marta Balaga             7
 Beatrice Behn            
@@ -2401,16 +2401,16 @@ Giovanni Marchini Camina 5
 # Le film français
 Gaël Golhen              
 Pierre Vavasseur         
-Stéphane Delorme         
+Stéphane Delorme         5
 Eric Neuhoff             5
-Philippe Rouyer          
+Philippe Rouyer          5
 Thomas Sotinel           2.5
 Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
+Jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        2.5
 Dominique Widemann       7.5
 Nicolas Schaller         
-Gilles Kerdreux          
+Gilles Kerdreux          2.5
 Christophe Carriére      
 Barbara Théate           
 Mathilde Cesbron         
@@ -2554,20 +2554,20 @@ Till Kadritzke        9
 Giovanni Marchini Camina 2.5
 # Le film français
 Gaël Golhen              
-Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
+Pierre Vavasseur         9
+Stéphane Delorme         1
+Eric Neuhoff             2.5
+Philippe Rouyer          5
+Thomas Sotinel           5
 Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Dominique Widemann       
+Jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        5
+Dominique Widemann       2.5
 Nicolas Schaller         
 Gilles Kerdreux          
 Christophe Carriére      
-Barbara Théate           
-Mathilde Cesbron         
+Barbara Théate           7.5
+Mathilde Cesbron         7.5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            9
@@ -2710,21 +2710,21 @@ Frédéric Jaeger     7.5
 Giovanni Marchini Camina 2.5
 Philipp Schwarz       9       https://www.critic.de/film/a-hidden-life-13077/
 # Le film français
-Gaël Golhen              
+Gaël Golhen              9
 Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
+Stéphane Delorme         2.5
+Eric Neuhoff             9
+Philippe Rouyer          9
+Thomas Sotinel           2.5
 Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Dominique Widemann       
-Nicolas Schaller         
-Gilles Kerdreux          
-Christophe Carriére      
+Jean-Claude Raspiengeas  9
+Jean-Marc Lalanne        2.5
+Dominique Widemann       7.5
+Nicolas Schaller         7.5
+Gilles Kerdreux          2.5
+Christophe Carriére      7.5
 Barbara Théate           
-Mathilde Cesbron         
+Mathilde Cesbron         7.5
 # ioncinema
 Marta Balaga             
 Beatrice Behn            
@@ -4023,7 +4023,7 @@ Dominique Widemann
 Nicolas Schaller         
 Gilles Kerdreux          
 Christophe Carriére      
-Barbara Théate           5
+Barbara Théate           7.5
 Mathilde Cesbron         2.5
 # ioncinema
 Marta Balaga             
@@ -4307,7 +4307,7 @@ Jenny Jecke           6
 Gaël Golhen              
 Pierre Vavasseur         
 Stéphane Delorme         2.5
-Eric Neuhoff             
+Eric Neuhoff             5
 Philippe Rouyer          
 Thomas Sotinel           
 Samuel Douhaire          
@@ -4492,7 +4492,7 @@ Engin Ertan             3
 #critic.de
 Jenny Jecke           4
 # Le film français
-Gaël Golhen              
+Gaël Golhen              2.5
 Pierre Vavasseur         
 Stéphane Delorme         5
 Eric Neuhoff             
@@ -4506,7 +4506,7 @@ Nicolas Schaller
 Gilles Kerdreux          
 Christophe Carriére      
 Barbara Théate           
-Mathilde Cesbron         
+Mathilde Cesbron         5
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -4624,12 +4624,12 @@ Till Kadritzke        7.5     https://www.critic.de/film/jeanne-13067/
 Giovanni Marchini Camina 9
 # Le film français
 Gaël Golhen              
-Pierre Vavasseur         
+Pierre Vavasseur         9
 Stéphane Delorme         7.5
 Eric Neuhoff             
 Philippe Rouyer          7.5
 Thomas Sotinel           
-Samuel Douhaire          
+Samuel Douhaire          7.5
 Jean-Claude Raspiengeas  7.5
 Jean-Marc Lalanne        5
 Dominique Widemann       7.5
@@ -4637,7 +4637,7 @@ Nicolas Schaller
 Gilles Kerdreux          
 Christophe Carriére      
 Barbara Théate           
-Mathilde Cesbron         
+Mathilde Cesbron         2.5
 # ics
 Cédric Succivalli        6
 Emily Barnett            
@@ -4722,8 +4722,8 @@ Giovanni Marchini Camina 6
 # Le film français
 Gaël Golhen              
 Pierre Vavasseur         
-Stéphane Delorme         
-Eric Neuhoff             
+Stéphane Delorme         1
+Eric Neuhoff             1
 Philippe Rouyer          
 Thomas Sotinel           
 Samuel Douhaire          
@@ -4775,19 +4775,19 @@ Till Kadritzke        7.5     https://www.critic.de/film/chambre-212-13100/
 # Le film français
 Gaël Golhen              
 Pierre Vavasseur         
-Stéphane Delorme         
+Stéphane Delorme         5
 Eric Neuhoff             
 Philippe Rouyer          
 Thomas Sotinel           
 Samuel Douhaire          
-Jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
+Jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        7.5
 Dominique Widemann       
 Nicolas Schaller         
-Gilles Kerdreux          
+Gilles Kerdreux          9
 Christophe Carriére      
-Barbara Théate           
-Mathilde Cesbron         
+Barbara Théate           5
+Mathilde Cesbron         5
 # ics
 Cédric Succivalli        
 Emily Barnett            
