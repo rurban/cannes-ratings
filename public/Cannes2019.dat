@@ -20,7 +20,7 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
-#   http://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=e3f16bd6-8a80-47ed-b29c-62e91da405a2
+#   https://www.screendaily.com/cannes-2019-screens-dailies/5139341.article http://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=e3f16bd6-8a80-47ed-b29c-62e91da405a2
 #   https://icsfilm.org/features/cannes-2019-ics-critics-industry-panel/
 #   https://twitter.com/CriticsGrid
 # More:
@@ -3321,16 +3321,16 @@ Tommaso Tocci            3
 Gaia Furrer              
 Marc van de Klashorst    6
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            6
 Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
+Stephanie Zacharek       2
+Dana Keith               5
+Justin Chang             5
 David Acacia             6
 Valerie Complex          
 Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
+Daniela Michel           8
+Ela Bittencourt          7
 Blake Williams           7
 Jon Frosch               
 Nicholas Bell            5
@@ -3517,23 +3517,23 @@ Anna Tatarska            3
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        8
 Emily Barnett            8
 Elisabeth Franck-Dumas   
 Tommaso Tocci           
 #Carlota Moseguí         
 Gaia Furrer              
-Marc van de Klashorst    
+Marc van de Klashorst    7
 Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
+#Diego Batlle            7
+Meredith Taylor          6
+Stephanie Zacharek       4
 Dana Keith               
-Justin Chang             
-David Acacia             
+Justin Chang             6
+David Acacia             2
 Valerie Complex          
 Lorna Tee                
-Daniela Michel           
+Daniela Michel           7
 Ela Bittencourt          
 Blake Williams           4
 Jon Frosch               
@@ -3712,15 +3712,15 @@ Guy Lodge
 Meredith Taylor          
 Stephanie Zacharek       
 Dana Keith               
-Justin Chang             
+Justin Chang             8
 David Acacia             
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
 Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
+Blake Williams           6
+Jon Frosch               9
+Nicholas Bell            6
 Dennis Lim               
 # Chinese @CriticsGrid
 Li Xun              
@@ -3870,19 +3870,19 @@ Tommaso Tocci
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            8
 Meredith Taylor          
 Stephanie Zacharek       
 Dana Keith               
-Justin Chang             
+Justin Chang             9
 David Acacia             
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           7
 Jon Frosch               
-Nicholas Bell           
+Nicholas Bell            7
 Dennis Lim               
 # Chinese @CriticsGrid
 Li Xun              
@@ -5819,7 +5819,7 @@ Dana Keith
 Justin Chang             
 David Acacia             
 Valerie Complex          
-Lorna Tee                
+Lorna Tee                8
 Daniela Michel           
 Ela Bittencourt          
 Blake Williams           5
@@ -6044,7 +6044,7 @@ Daniela Michel
 Ela Bittencourt          
 Blake Williams           
 Jon Frosch               
-Nicholas Bell           
+Nicholas Bell           6
 Dennis Lim               
 #letterboxd
 CaterinaPalp        10
@@ -6111,16 +6111,16 @@ Christophe Carriére
 Barbara Théate           
 Mathilde Cesbron         
 # ics
-Cédric Succivalli        
+Cédric Succivalli        8
 Emily Barnett            
 Elisabeth Franck-Dumas   
 Tommaso Tocci           
 #Carlota Moseguí         
 Gaia Furrer              
-Marc van de Klashorst    
+Marc van de Klashorst    8
 Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
+#Diego Batlle            7
+Meredith Taylor          8
 Stephanie Zacharek       
 Dana Keith               
 Justin Chang             
@@ -6128,7 +6128,7 @@ David Acacia
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
-Ela Bittencourt          
+Ela Bittencourt          10
 Blake Williams           
 Jon Frosch               
 Nicholas Bell           
@@ -6233,7 +6233,7 @@ Tommaso Tocci
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+Diego Batlle            5
 Meredith Taylor          
 Stephanie Zacharek       
 Dana Keith               
@@ -7720,7 +7720,7 @@ Daniela Michel
 Ela Bittencourt          
 Blake Williams           7
 Jon Frosch               
-Nicholas Bell           
+Nicholas Bell            7
 Dennis Lim               
 #letterboxd
 Crayfish            10
@@ -8891,7 +8891,7 @@ Justin Chang
 David Acacia             
 Valerie Complex          
 Lorna Tee                
-Daniela Michel           
+Daniela Michel           9
 Ela Bittencourt          
 Blake Williams           
 Jon Frosch               8
@@ -8961,7 +8961,7 @@ Dana Keith
 Justin Chang             
 David Acacia             
 Valerie Complex          
-Lorna Tee                
+Lorna Tee                7
 Daniela Michel           
 Ela Bittencourt          
 Blake Williams           
@@ -9029,7 +9029,7 @@ Emily Barnett
 Elisabeth Franck-Dumas   
 Tommaso Tocci           
 #Carlota Moseguí         
-Gaia Furrer              
+Gaia Furrer              8
 Marc van de Klashorst    
 Guy Lodge                
 #Diego Batlle            
@@ -9042,7 +9042,7 @@ Valerie Complex
 Lorna Tee                
 Daniela Michel           
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           5
 Jon Frosch               
 Nicholas Bell           
 Dennis Lim               
@@ -9122,7 +9122,7 @@ Tommaso Tocci
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            7
 Meredith Taylor          
 Stephanie Zacharek       
 Dana Keith               
@@ -9131,7 +9131,7 @@ David Acacia
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
-Ela Bittencourt          
+Ela Bittencourt          8
 Blake Williams           
 Jon Frosch               
 Nicholas Bell           
@@ -9843,6 +9843,29 @@ Giona Nazzaro           9
 Pamela Bienzobas        10
 Joseph Fahim            7.5
 #critic.de
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Elisabeth Franck-Dumas   
+Tommaso Tocci           
+Carlota Moseguí         
+Gaia Furrer              7
+Marc van de Klashorst    
+Guy Lodge                
+#Diego Batlle            
+Meredith Taylor          
+Stephanie Zacharek       
+Dana Keith               
+Justin Chang             
+David Acacia             
+Valerie Complex          
+Lorna Tee                
+Daniela Michel           
+Ela Bittencourt          8
+Blake Williams           
+Jon Frosch               
+Nicholas Bell            
+Dennis Lim               
 #letterboxd
 Allison M.          6   https://letterboxd.com/allisoncm/film/abou-leila/
 Dominique Leger     5
