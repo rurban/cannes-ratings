@@ -850,7 +850,7 @@ Elisabeth Franck-Dumas
 Gaia Furrer              
 Marc van de Klashorst    4
 Guy Lodge                6
-#Diego Batlle            
+#Diego Batlle            6
 Meredith Taylor          6
 Stephanie Zacharek       7
 Dana Keith               5
@@ -1144,7 +1144,7 @@ Tommaso Tocci            8
 Gaia Furrer              9
 Marc van de Klashorst    7
 Guy Lodge                5
-#Diego Batlle            
+#Diego Batlle            7
 Meredith Taylor          
 Stephanie Zacharek       7
 Dana Keith               8
@@ -1466,14 +1466,14 @@ Tommaso Tocci            8
 Gaia Furrer              7
 Marc van de Klashorst    3
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            6
 Meredith Taylor          4
 Stephanie Zacharek       6
 Dana Keith               7
 Justin Chang             7
 David Acacia             4
 Valerie Complex          5
-Lorna Tee                
+Lorna Tee                8
 Daniela Michel           8
 Ela Bittencourt          4
 Blake Williams           6
@@ -1746,7 +1746,7 @@ Tommaso Tocci            6
 Gaia Furrer              
 Marc van de Klashorst    6
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            7
 Meredith Taylor          
 Stephanie Zacharek       6
 Dana Keith               6
@@ -2069,7 +2069,7 @@ Dana Keith               6
 Justin Chang             7
 David Acacia             7
 Valerie Complex          
-Lorna Tee                
+Lorna Tee                6
 Daniela Michel           
 Ela Bittencourt          
 Blake Williams           6
@@ -2312,7 +2312,7 @@ Carlota Moseguí          6
 Gaia Furrer              10
 Marc van de Klashorst    8
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            8
 Meredith Taylor          6
 Stephanie Zacharek       10
 Dana Keith               8
@@ -2582,21 +2582,21 @@ Tommaso Tocci            6
 Maria Ulfsak-Sheripova   6
 # ics
 Cédric Succivalli        4
-Emily Barnett            
+Emily Barnett            2
 Elisabeth Franck-Dumas   
 Tommaso Tocci            6
 #Carlota Moseguí         
 Gaia Furrer              
 Marc van de Klashorst    3
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            6
 Meredith Taylor          6
 Stephanie Zacharek       6
 Dana Keith               6
 Justin Chang             
 David Acacia             2
 Valerie Complex          
-Lorna Tee                
+Lorna Tee                8
 Daniela Michel           
 Ela Bittencourt          
 Blake Williams           
@@ -2820,13 +2820,13 @@ Maria Ulfsak-Sheripova   2
 # ics
 Cédric Succivalli        
 Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         6
-Gaia Furrer              
-Marc van de Klashorst    6
+Elisabeth Franck-Dumas   7
+Tommaso Tocci            6
+#Carlota Moseguí         8
+Gaia Furrer              6
+Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            9
 Meredith Taylor          
 Stephanie Zacharek       6
 Dana Keith               7
@@ -2834,8 +2834,8 @@ Justin Chang
 David Acacia             5
 Valerie Complex          
 Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          6
+Daniela Michel           6
+Ela Bittencourt          8
 Blake Williams           5
 Jon Frosch               
 Nicholas Bell            7
@@ -3033,19 +3033,19 @@ Cédric Succivalli        9
 Emily Barnett            4
 Elisabeth Franck-Dumas   7
 Tommaso Tocci            9
-#Carlota Moseguí         
-Gaia Furrer              
+#Carlota Moseguí         4
+Gaia Furrer              8
 Marc van de Klashorst    9
 Guy Lodge                9
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
+#Diego Batlle            7
+Meredith Taylor          8
+Stephanie Zacharek       10
 Dana Keith               6
 Justin Chang             9
 David Acacia             10
 Valerie Complex          10
 Lorna Tee                
-Daniela Michel           
+Daniela Michel           10
 Ela Bittencourt          10
 Blake Williams           4
 Jon Frosch               8
@@ -3330,20 +3330,20 @@ Cédric Succivalli        8
 Emily Barnett            2
 Elisabeth Franck-Dumas   
 Tommaso Tocci            9
-#Carlota Moseguí         
+#Carlota Moseguí         3
 Gaia Furrer              
 Marc van de Klashorst    10
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            7
 Meredith Taylor          
-Stephanie Zacharek       
+Stephanie Zacharek       3
 Dana Keith               5
 Justin Chang             8
 David Acacia             8
 Valerie Complex          
 Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
+Daniela Michel           7
+Ela Bittencourt          6
 Blake Williams           6
 Jon Frosch               
 Nicholas Bell            5
@@ -3626,13 +3626,13 @@ Cédric Succivalli        4
 Emily Barnett            8
 Elisabeth Franck-Dumas   
 Tommaso Tocci            3
-#Carlota Moseguí         
+#Carlota Moseguí         8
 Gaia Furrer              
 Marc van de Klashorst    6
 Guy Lodge                
 #Diego Batlle            6
 Meredith Taylor          
-Stephanie Zacharek       2
+Stephanie Zacharek       4
 Dana Keith               5
 Justin Chang             5
 David Acacia             6
@@ -3643,7 +3643,7 @@ Ela Bittencourt          7
 Blake Williams           7
 Jon Frosch               
 Nicholas Bell            5
-Dennis Lim               
+Dennis Lim               4
 # Chinese @CriticsGrid
 Li Xun              5
 Liu Min             5
@@ -3888,15 +3888,15 @@ Maria Ulfsak-Sheripova
 # ics
 Cédric Succivalli        8
 Emily Barnett            8
-Elisabeth Franck-Dumas   
+Elisabeth Franck-Dumas   4
 Tommaso Tocci            2
 #Carlota Moseguí         4
 Gaia Furrer              
 Marc van de Klashorst    7
 Guy Lodge                
-#Diego Batlle            7
+#Diego Batlle            6
 Meredith Taylor          6
-Stephanie Zacharek       4
+Stephanie Zacharek       5
 Dana Keith               
 Justin Chang             6
 David Acacia             2
@@ -3907,7 +3907,7 @@ Ela Bittencourt
 Blake Williams           4
 Jon Frosch               
 Nicholas Bell            6    https://www.ioncinema.com/reviews/ira-sachs-frankie-review
-Dennis Lim               9
+Dennis Lim               
 # Chinese @CriticsGrid
 Li Xun              5
 Liu Min             2.5
@@ -4129,26 +4129,26 @@ Maria Ulfsak-Sheripova
 # ics
 Cédric Succivalli        4
 Emily Barnett            6
-Elisabeth Franck-Dumas   
+Elisabeth Franck-Dumas   4
 Tommaso Tocci            6
-#Carlota Moseguí         
+#Carlota Moseguí         8
 Gaia Furrer              
 Marc van de Klashorst    7
 Guy Lodge                6
-#Diego Batlle            
+#Diego Batlle            9
 Meredith Taylor          
-Stephanie Zacharek       
+Stephanie Zacharek       10
 Dana Keith               
 Justin Chang             8
 David Acacia             7
 Valerie Complex          
 Lorna Tee                
-Daniela Michel           
+Daniela Michel           10
 Ela Bittencourt          
 Blake Williams           6
 Jon Frosch               9
 Nicholas Bell            6    https://www.ioncinema.com/reviews/quentin-tarantino-once-upon-a-time-in-hollywood-review
-Dennis Lim               
+Dennis Lim               9
 # Chinese @CriticsGrid
 Li Xun              9
 Liu Min             7.5
@@ -4383,7 +4383,7 @@ Marc van de Klashorst    8
 Guy Lodge                
 #Diego Batlle            8
 Meredith Taylor          
-Stephanie Zacharek       
+Stephanie Zacharek       7
 Dana Keith               8
 Justin Chang             9
 David Acacia             8
@@ -4671,7 +4671,7 @@ Anna Tatarska            8
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   8
 # ics
-Cédric Succivalli        
+Cédric Succivalli        7
 Emily Barnett            10
 Elisabeth Franck-Dumas   
 Tommaso Tocci           
@@ -4679,19 +4679,19 @@ Tommaso Tocci
 Gaia Furrer              
 Marc van de Klashorst    4
 Guy Lodge                7
-#Diego Batlle            
+#Diego Batlle            4
 Meredith Taylor          8
 Stephanie Zacharek       5
-Dana Keith               
+Dana Keith               6
 Justin Chang             4
-David Acacia             
+David Acacia             3
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           7
 Ela Bittencourt          
-Blake Williams           
-Jon Frosch              5 
-Nicholas Bell           2
+Blake Williams           5
+Jon Frosch               5
+Nicholas Bell            2
 Dennis Lim               
 # Chinese @CriticsGrid
 Li Xun              7.5
@@ -4954,15 +4954,15 @@ Anna Tatarska
 Tommaso Tocci            7
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        6
+Cédric Succivalli        7
 Emily Barnett            2
 Elisabeth Franck-Dumas   
-Tommaso Tocci            
+Tommaso Tocci            7
 #Carlota Moseguí         2
 Gaia Furrer              
 Marc van de Klashorst    3
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            5
 Meredith Taylor          
 Stephanie Zacharek       7
 Dana Keith               
@@ -4973,7 +4973,7 @@ Lorna Tee
 Daniela Michel           
 Ela Bittencourt          
 Blake Williams           
-Jon Frosch               7
+Jon Frosch               6
 Nicholas Bell            6
 Dennis Lim               
 # Chinese @CriticsGrid
@@ -5153,27 +5153,27 @@ Anna Tatarska
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        9
 Emily Barnett            
 Elisabeth Franck-Dumas   
-Tommaso Tocci           
+Tommaso Tocci            9
 #Carlota Moseguí         
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            9
 Meredith Taylor          
 Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
+Dana Keith               6
+Justin Chang             6
 David Acacia             
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           7
 Jon Frosch               
-Nicholas Bell           
+Nicholas Bell            8
 Dennis Lim               
 # Chinese @CriticsGrid
 Li Xun              7.5
@@ -5272,27 +5272,27 @@ Anna Tatarska
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        9
 Emily Barnett            
 Elisabeth Franck-Dumas   
-Tommaso Tocci           
+Tommaso Tocci            8
 #Carlota Moseguí         
 Gaia Furrer              
 Marc van de Klashorst    
 Guy Lodge                
-#Diego Batlle            
+#Diego Batlle            3
 Meredith Taylor          
 Stephanie Zacharek       
 Dana Keith               
-Justin Chang             
+Justin Chang             1
 David Acacia             
 Valerie Complex          
 Lorna Tee                
 Daniela Michel           
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           4
 Jon Frosch               
-Nicholas Bell           
+Nicholas Bell            3
 Dennis Lim               
 # Chinese @CriticsGrid
 Li Xun              2.5
