@@ -32,6 +32,7 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   https://thefilmstage.com/?tags=cannes-2019
 #   https://www.theguardian.com/film/cannes-2019
 #   https://www.thewrap.com/
+#   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
  
 use utf8;
 our $DATA= <<'EOF';
