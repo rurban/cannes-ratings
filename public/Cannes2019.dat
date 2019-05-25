@@ -12468,44 +12468,6 @@ andoula             3
 TheOperator         3
 Fidelio94           2
 
-"Filles de joie (Girls of Joy)" (Frédéric Fonteyne & Anne Paulicevich, Bel) [Quinzaine]
- aka "La Frontière"
-
-#todas
-#critic.de
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
-#letterboxd
-
 "To Live to Sing" (Johnny Ma) [Quinzaine]
 
 #todas
@@ -14823,6 +14785,9 @@ EOF
 
 # but not selected
 my $PREDICTIONS = <<'EOF';
+
+"Filles de joie (Girls of Joy)" (Frédéric Fonteyne & Anne Paulicevich, Bel)
+ aka "La Frontière"
 
 "Mignonnes (Cuties)" (Maïmouna Doucouré, F/Sen)
  first
