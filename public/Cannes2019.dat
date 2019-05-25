@@ -11,7 +11,7 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   E 0.5   F 0
 # indiewire does C => 4
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
-# dk 1-5: 2x
+# dk 1-5: x2
 # ru 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
