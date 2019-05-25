@@ -22,15 +22,16 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
-#   https://www.screendaily.com/cannes-2019-screens-dailies/5139341.article http://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=e3f16bd6-8a80-47ed-b29c-62e91da405a2
+#   https://www.screendaily.com/cannes-2019-screens-dailies/5139341.article
 #   https://icsfilm.org/features/cannes-2019-ics-critics-industry-panel/
 #   https://twitter.com/CriticsGrid
 #   http://cannes.lesinrocks.com/cannes2019/
 #   https://kinoart.ru/cannes2019/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2019/
 # More:
-#   http://www.indiewire.com/critic/
+#   https://thefilmstage.com/?tags=cannes-2019
 #   https://www.theguardian.com/film/cannes-2019
+#   https://www.thewrap.com/
  
 use utf8;
 our $DATA= <<'EOF';
@@ -979,6 +980,8 @@ Jonas Martelli      9
 James Calver        9
 - ̗̀megan ̖́-       9   https://letterboxd.com/megancinema/film/les-miserables-2019/
 Alex Billington     9   https://letterboxd.com/firstshowing/film/les-miserables-2019/
+Claire-Issa         8
+Florent Boutet      8
 Anais Bordages      8
 mpelle              8
 Leon Emonds-Pool    8
@@ -1025,6 +1028,7 @@ Martyn Conterio     8   https://letterboxd.com/martynconterio/film/les-miserable
 manilazic           8
 lucarenucci         8
 Heather_Grrrl       8
+anna ❄️             7
 Costanza            7
 skammen             7   https://letterboxd.com/skammen/film/les-miserables-2019/
 Henry Baime         7
@@ -1331,9 +1335,11 @@ Doug Dillaman       9   https://letterboxd.com/dillamonster/film/bacurau/
 lucarenucci         9
 bebe_garcon         9
 Max Weiss           9   https://letterboxd.com/maxmw/film/bacurau/
+julieng             8
+PedroFN             8   https://letterboxd.com/pedrofn/film/bacurau/
 Kristiana Stala     8
 Vincent             8   https://letterboxd.com/jakehannaford/film/bacurau/
-Mikko Pihkoluoma    8
+Mikko Pihkoluoma    8   https://letterboxd.com/mikkopihkoluoma/film/bacurau/
 Caterina            8
 domwakeford         8
 UDF                 8   https://letterboxd.com/dinof/film/bacurau/
@@ -1380,7 +1386,6 @@ Efim Gugnin         8
 louisjean2kz        8
 Max Borg            8
 yashiab             8   https://letterboxd.com/yashiab/film/bacurau/
-HSMediaNerd         8
 xChillphil          8   https://letterboxd.com/xchillphil/film/bacurau/
 Jonas Chadarevian   8
 James Witherspoon   8
@@ -1427,7 +1432,6 @@ BrunoD              7   https://letterboxd.com/brunod/film/bacurau/
 Roberto Gonzalez    7
 ThatJacqueline      7   https://letterboxd.com/thatjacqueline/film/bacurau/
 Roelie post         7
-PedroFN             7   https://letterboxd.com/pedrofn/film/bacurau/
 chloe               7   https://letterboxd.com/chloebhumgara/film/bacurau/
 Sam Gray            7   https://letterboxd.com/sam_gray/film/bacurau/
 Jansushi            7
@@ -1442,6 +1446,8 @@ Brimmer-Beller      7   https://letterboxd.com/jefcostello/film/bacurau/
 layla               7
 Alex Billington     7   https://letterboxd.com/firstshowing/film/bacurau/
 iana                7
+HSMediaNerd         6
+Nasogrigio          6
 Thomas Hakim        6
 alekabate           6   https://letterboxd.com/alekabate/film/bacurau/
 jdoyle              6
@@ -1472,6 +1478,7 @@ monkeybox83         6
 Maxp26              6
 Joel Mayward        6   https://letterboxd.com/jmayward/film/bacurau/
 Blake Williams      6
+Florent Boutet      5
 Leon Emonds-Pool    5   https://letterboxd.com/leonespl/film/bacurau/
 Travis Misarti      5
 vldmlqmffjem        5
@@ -1672,10 +1679,13 @@ Veronika Khlebnikov 8
 monab               10
 bebe_garcon         10
 FilmLandEmpire      10
+Joel Whitaker       9
 Alex Gabel          9
 JamesSlaymaker      9
 Dan Breeze          9
 mkafoury            9
+Florent Boutet      8
+macklyle            8
 Matthew Kelly       8
 Anais Bordages      8
 lotte verkaik       8
@@ -1700,7 +1710,6 @@ Devon Miller        8
 SuperMario          8
 JacobStolworthy     8   https://letterboxd.com/jacobstolworthy/film/atlantics-2019/
 Brandon Shillingford 8
-Luke Hicks          8   https://letterboxd.com/lou_kicks/film/atlantics-2019/
 elephante           8
 lucia               8   https://letterboxd.com/laluzve/film/atlantics-2019/
 Anton Vanha-Majamaa 8   https://letterboxd.com/aavama/film/atlantics-2019/
@@ -1719,6 +1728,7 @@ amoghimi            8
 ludovicbeot         8
 louisjean2kz        8
 camperronifan       8   https://letterboxd.com/camperronifan/film/atlantics-2019/
+Luke Hicks          7   https://letterboxd.com/lou_kicks/film/atlantics-2019/
 TMC                 7
 Thomas Hakim        7
 Diddy               7
@@ -1755,6 +1765,8 @@ AEC                 7   https://letterboxd.com/arielecayer/film/atlantics-2019/
 iana                7
 briansykes          7
 James Calver        7
+ferhood             6
+Nasogrigio          6
 Thibaut Buccellato  6
 timothé             6
 Michael Leader      6
@@ -2010,8 +2022,8 @@ Yves niet zo Klein  10
 Allison M.          10   https://letterboxd.com/allisoncm/film/sorry-we-missed-you/
 Cinzia97            10
 Sam Saxby           10   https://letterboxd.com/samsaxby/film/sorry-we-missed-you/
-HSMediaNerd         10
-Pablo Villaça       10
+Pablo Villaça       9
+HSMediaNerd         9
 Edoardo Nerboni     9
 Lynn Zhou           9
 Roee Myzel          9   https://letterboxd.com/mizel103/film/sorry-we-missed-you/
@@ -2143,6 +2155,7 @@ Megabohne           7
 Arvena              7   https://letterboxd.com/arvena/film/sorry-we-missed-you/
 iana                7
 Crayfish            7
+Florent Boutet      6
 Carlos Gómez Iniesta 6
 Milocavadini        6
 CannesMember0       6
@@ -2164,6 +2177,7 @@ Mauricio Ribeiro    6   https://letterboxd.com/marfil/film/sorry-we-missed-you/
 Sam Gray            6
 Efim Gugnin         6
 Max Tyler           6
+Nasogrigio          5
 Matthew Kelly       5
 AbledRunner         5
 Forest Chilton      5   https://letterboxd.com/fchilton/film/sorry-we-missed-you/
@@ -2374,6 +2388,7 @@ A.A. Dowd           8   https://letterboxd.com/alexegers/film/little-joe-2019/
 Roelie post         8
 Ella Kemp           8   https://letterboxd.com/ellakemp/film/little-joe-2019/
 James Witherspoon   8   https://letterboxd.com/moviemanjames/film/little-joe-2019/
+Nasogrigio          7
 Txarles             7
 Anais Bordages      7
 brittany            7   https://letterboxd.com/britfitz/film/little-joe-2019/
@@ -2396,6 +2411,8 @@ Sam Gray            7   https://letterboxd.com/sam_gray/film/little-joe-2019/
 Robin Finetto       7
 Jasper Loos         7   https://letterboxd.com/jasperloos/film/little-joe-2019/
 Matt Orenstein      7   https://letterboxd.com/maorenstein/film/little-joe-2019/
+Florent Boutet      6
+melx91              6
 Henry Baime         6
 K Townsend          6
 charlenelydon       6
@@ -2428,6 +2445,7 @@ Michael Leader      6
 Gielroggeveen       6
 camperronifan       6   https://letterboxd.com/camperronifan/film/little-joe-2019/
 Antoine Waked       6
+Sebastian Quevedo   5
 Eoin Daly           5
 JamesSlaymaker      5
 GabixM98            5
@@ -2445,9 +2463,9 @@ Mauricio Ribeiro    5   https://letterboxd.com/marfil/film/little-joe-2019/
 elephante           5
 TMC                 5
 David Ehrlich       5   https://letterboxd.com/davidehrlich/film/little-joe-2019/
-HSMediaNerd         5
 Crayfish            5
 James Calver        5
+HSMediaNerd         4
 Maja                4
 Hattiegibson        4
 Jack Barron         4   https://letterboxd.com/jacksbarron/film/little-joe-2019/
@@ -2465,10 +2483,12 @@ kgillesp51          4
 kell666             4
 BrunoD              4
 EdgarReviews        4
+fightclubitis       3
 latendresse         3
 andoula             3
 Pablo Villaça       3
 Paula C Ferraz      3
+Casey Pegram        2   https://letterboxd.com/oedipax/film/little-joe-2019/
 CannesMember0       2
 Taubaja             2
 michidg             2
@@ -2822,6 +2842,7 @@ José Luis Losa          7.5
 Alberto Lechuga         5.5
 Alejandra Trelles       6.5
 Pedro Segura            6.5
+Carlota Moseguí         8
 Emilio Luna             6
 Víctor Esquirol         7
 Daniel de Partearroyo   5
@@ -2834,6 +2855,7 @@ Andrey Arnold         6
 Annabel Brady-Brown   6
 Frédéric Jaeger     7.5
 Violeta Kovacsics     7.5
+Giovanni Marchini Camina 6
 Philipp Schwarz       7.5     https://www.critic.de/film/the-wild-goose-lake-13069/
 #Rüdiger Suchsland   7.5
 # screen daily
@@ -2954,6 +2976,7 @@ Sean Fahey          10   https://letterboxd.com/sfahey/film/the-wild-goose-lake/
 FilmLandEmpire      10
 monkeybox83         9
 Mikko Pihkoluoma    9   https://letterboxd.com/mikkopihkoluoma/film/the-wild-goose-lake/
+Carlota Moseguí     8
 Txarles             8
 jgtokyo             8   https://letterboxd.com/jgtokyo/film/the-wild-goose-lake/
 Alex Billington     8   https://letterboxd.com/firstshowing/film/the-wild-goose-lake/
@@ -2977,6 +3000,7 @@ Waseet              8
 Martyn Conterio     8
 James Witherspoon   8   https://letterboxd.com/moviemanjames/film/the-wild-goose-lake/
 Mark Gubarenko      8   https://letterboxd.com/gubarenko/film/the-wild-goose-lake/
+TheOperator         7
 Thomas Hakim        7
 Max Borg            7
 Crayfish            7
@@ -3008,8 +3032,11 @@ Sam C. Mac          7   https://letterboxd.com/samcmac/film/the-wild-goose-lake/
 A.A. Dowd           7
 Mauricio Ribeiro    7   https://letterboxd.com/marfil/film/the-wild-goose-lake/
 Simón               7   https://letterboxd.com/simonsds/film/the-wild-goose-lake/
+Florent Boutet      6
+Effy                6
+Nasogrigio          6
 Abel                6   https://letterboxd.com/arx1/film/the-wild-goose-lake/
-Leon Emonds-Pool    6
+Leon Emonds-Pool    6   https://letterboxd.com/leonespl/film/the-wild-goose-lake/
 monab               6
 Jaap Deinum         6
 Matt Orenstein      6   https://letterboxd.com/maorenstein/film/the-wild-goose-lake/
@@ -3041,6 +3068,7 @@ Michael Leader      6
 Bruno Carmelo       6   https://letterboxd.com/brunocarmelo/film/the-wild-goose-lake/
 Alberto Farina      6
 EdgarReviews        6
+Maxime Duquette     5   https://letterboxd.com/maxtheduke99/film/the-wild-goose-lake/
 Nicolò Grasso       5
 brittany            5   https://letterboxd.com/britfitz/film/the-wild-goose-lake/
 Efim Gugnin         5
@@ -3060,6 +3088,7 @@ andoula             4
 Sam Gray            4
 Doug Dillaman       4   https://letterboxd.com/dillamonster/film/the-wild-goose-lake/
 Rebecca             4
+Gojko Dimić         2
 CannesMember0       2
 bonestructure       2
 CaterinaPalp        2
@@ -3261,6 +3290,8 @@ the_gaffer          8
 Mikko Pihkoluoma    8   https://letterboxd.com/mikkopihkoluoma/film/the-whistlers/
 Crayfish            8
 Pieter Vermeersch   8
+Luke Hicks          7
+Flo                 7
 fightclubitis       7   https://letterboxd.com/fightclubitis/film/the-whistlers/
 Cedric Muyres       7
 Ricardo Fernández   7
@@ -3275,6 +3306,8 @@ elephante           7
 Sam                 7
 jankaranka          7
 Andy Hazel          7   https://letterboxd.com/talkingelvish/film/the-whistlers/
+Florent Boutet      6
+Txarles             6
 Matchuko            6
 leoz55              6
 Anais Bordages      6
@@ -3294,6 +3327,9 @@ Mauricio Ribeiro    6
 A.A. Dowd           6
 Sam C. Mac          6   https://letterboxd.com/samcmac/film/the-whistlers/
 Adolf El Assal      6
+Carlos Gómez Iniesta 5
+Nasogrigio          5
+Thibaut Buccellato  5
 brittany            5   https://letterboxd.com/britfitz/film/the-whistlers/
 Henry Baime         5
 Shubhra             5   https://letterboxd.com/shubhra/film/the-whistlers/
@@ -3332,6 +3368,7 @@ Peter Bradshaw    10    https://www.theguardian.com/film/2019/may/20/portrait-of
 Jordan Ruimy      A-    https://www.worldofreel.com/blog/2019/5/portrait-of-a-lady-on-fire
 David Ehrlich     A    https://www.indiewire.com/2019/05/portrait-of-a-lady-on-fire-celine-sciamma-us-rights-release-1202143835/
 #todas
+Roger Koza              7.5
 Jaime Pena              8
 Daniel Kasman           5.5
 Rüdiger Suchsland       6.5
@@ -3345,6 +3382,7 @@ Marcelo Alderete        6.5
 Fernando Ganzo          6.5
 Alejandro G. Calvo      9
 Xavi Serra              9
+Boris Nelepo            5.5
 Carlos F. Heredero      7
 Eulalia Iglesias        8
 Violeta Kovacsics       9
@@ -3490,6 +3528,12 @@ Peter Shepotinnik   6
 Tatyana Shorokhova  
 Veronika Khlebnikov 
 #letterboxd
+Romeo Filsinger     10
+Travis Misarti      10
+Sami Babboni        10
+Matthew Kelly       10
+Martyn Conterio     10
+Florent Boutet      10
 monab               10
 Anais Bordages      10
 raquel              10
@@ -3535,6 +3579,8 @@ Pablo Villaça       10
 latendresse         10
 FilmLandEmpire      10
 ellieolman          10
+Ilias Tahri         9
+Laura Venning       9
 lucia               9   https://letterboxd.com/laluzve/film/portrait-of-a-lady-on-fire/
 aijiujoe            9   https://letterboxd.com/aijiujoe/film/portrait-of-a-lady-on-fire/
 aliciabr            9   https://letterboxd.com/aliciabr/film/portrait-of-a-lady-on-fire/
@@ -3579,6 +3625,15 @@ kell666             9
 David Ehrlich       9   https://letterboxd.com/davidehrlich/film/portrait-of-a-lady-on-fire/
 Andrea Rendón       9
 Crayfish            9
+Claire-Issa         8
+Shubhra             8
+popkorn95           8
+Dan Wood            8
+Chin Lin Gan        8   https://letterboxd.com/spikejonzevevo/film/portrait-of-a-lady-on-fire/
+goodnightale        8   https://letterboxd.com/goodnightale/film/portrait-of-a-lady-on-fire/
+Jshin621            8
+HSMediaNerd         8
+smomayez            8
 Alistair Ryder      8   https://letterboxd.com/cinemole/film/portrait-of-a-lady-on-fire/
 macklyle            8   https://letterboxd.com/macklyle/film/portrait-of-a-lady-on-fire/
 ThanosLovesYou      8
@@ -3617,6 +3672,9 @@ Cinzia97            8
 Michael Leader      8
 jankaranka          8
 the_gaffer          8
+mc                  7   https://letterboxd.com/mariecel/film/portrait-of-a-lady-on-fire/
+graciela            7   https://letterboxd.com/gracefromspace/film/portrait-of-a-lady-on-fire/
+Nasogrigio          7
 Joseph Alexander    7
 colefowler          7
 Jeffrey van Dalen   7
@@ -3629,6 +3687,8 @@ Joel Mayward        7   https://letterboxd.com/jmayward/film/portrait-of-a-lady-
 ferhood             7
 Simón               7   https://letterboxd.com/simonsds/film/portrait-of-a-lady-on-fire/
 Alonso Díaz de la Vega 7
+Caterina            6
+Antoine Waked       6
 lucarenucci         6
 Tim                 6
 Thistle Boosinger   6   https://letterboxd.com/thistlie/film/portrait-of-a-lady-on-fire/
@@ -3640,6 +3700,7 @@ Yasmin Omar         6
 aeaoua              6
 Ximini              6
 GabeReels           6
+Gojko Dimić         5
 TheOperator         5
 monkeybox83         5
 Sam C. Mac          5   https://letterboxd.com/samcmac/film/portrait-of-a-lady-on-fire/
@@ -3698,6 +3759,7 @@ Juanma Ruíz             6
 Pedro Segura            4
 Imma Merino             7
 Carlota Moseguí         3
+Eduardo Valente         5.5
 Emilio Luna             7.5
 Vasiliy Stepanov        8
 Víctor Esquirol         3
@@ -3858,6 +3920,7 @@ JamesSlaymaker      10
 Daniele Bucceri     10
 CaptainT            10
 Ekkard Bäuerle      10
+Nathan Mazenc       9
 Sven Hollebeke      9
 Marco               9   https://letterboxd.com/mackey_/film/a-hidden-life-2019/
 Alessandro          9
@@ -3871,6 +3934,12 @@ Max Borg            9
 Talia               9
 Clau Barrán         9   https://letterboxd.com/claubarran/film/a-hidden-life-2019/
 BillyWildest        9
+Artz                8
+Adam Cook           8
+Louis Stall         8
+Effy                8
+Tyler Hagan         8
+LorenzoSartor       8
 monab               8
 Riemann             8
 aijiujoe            8   https://letterboxd.com/aijiujoe/film/a-hidden-life-2019/
@@ -3923,6 +3992,7 @@ Mikko Pihkoluoma    8   https://letterboxd.com/mikkopihkoluoma/film/a-hidden-lif
 Alex Billington     8   https://letterboxd.com/firstshowing/film/a-hidden-life-2019/
 Efim Gugnin         8
 David Ehrlich       8   https://letterboxd.com/davidehrlich/film/a-hidden-life-2019/
+Gojko Dimić         7
 Vinny Simpson       7   https://letterboxd.com/vinsim27/film/a-hidden-life-2019/
 Anais Bordages      7
 WillMustin          7
@@ -3960,6 +4030,7 @@ John Holliday       7   https://letterboxd.com/john_holliday/film/a-hidden-life-
 Tim                 7
 TheOperator         7
 inneyp              7
+Florent Boutet      6
 UDF                 6
 quintonfun          6   https://letterboxd.com/quintonfun/film/a-hidden-life-2019/
 Luthor              6
@@ -3993,6 +4064,7 @@ Peter Bradshaw      6   https://letterboxd.com/peterbradshaw/film/a-hidden-life-
 EdgarReviews        6
 James Witherspoon   6   https://letterboxd.com/moviemanjames/film/a-hidden-life-2019/
 AlexProstyakoff     6   https://letterboxd.com/alexprostyakoff/film/a-hidden-life-2019/
+Nasogrigio          5
 danisec             5
 MrJWills1           5   https://letterboxd.com/mrjwills1/film/a-hidden-life-2019/
 MelvinUdall         5   https://letterboxd.com/melvinudall/film/a-hidden-life-2019/
@@ -4200,6 +4272,11 @@ Simón               8   https://letterboxd.com/simonsds/film/young-ahmed/
 Bruno Carmelo       8   https://letterboxd.com/brunocarmelo/film/young-ahmed/
 Max Borg            8
 Tatiana Shorokhova  8   https://letterboxd.com/zlobuster/film/young-ahmed/
+Jules Van Boxem     7
+ooosimonooo         7   https://letterboxd.com/ooosimonooo/film/young-ahmed/
+FloreCst            7
+Florent Boutet      7
+Nasogrigio          7
 Jangorama           7
 Adrien Corbeel      7
 Roxane              7
@@ -4553,6 +4630,8 @@ zenglusz            6   https://letterboxd.com/zenglusz/film/frankie-2019/
 Crayfish            6
 miakoda             6
 Mikko Pihkoluoma    6   https://letterboxd.com/mikkopihkoluoma/film/frankie-2019/
+Florent Boutet      5
+Nasogrigio          5
 camtun              5
 Henry Baime         5
 Madison             5
@@ -4787,6 +4866,7 @@ Tatyana Shorokhova  6
 Veronika Khlebnikov 8
 #letterboxd
 Letterboxd 114_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+jade                10
 pffctgranger        10
 Mathisdjrd          10
 Corish              10
@@ -4822,6 +4902,8 @@ LilithAnything      9
 Marcela             9   https://letterboxd.com/roberteggers/film/once-upon-a-time-in-hollywood/
 Archuf              9   https://letterboxd.com/archuf/film/once-upon-a-time-in-hollywood/
 Max Borg            9
+Florent Boutet      8
+Nasogrigio          8
 morgane             8
 Hattiegibson        8
 N. B.               8
@@ -4937,6 +5019,7 @@ Alberto Lechuga         7.5
 Philipp Engel           7
 Juanma Ruíz             8
 Pedro Segura            9
+Carlota Moseguí         7
 Eduardo Valente         7.5
 Emilio Luna             7.5
 Vasiliy Stepanov        8.5
@@ -5070,6 +5153,15 @@ Peter Shepotinnik   6
 Tatyana Shorokhova  10
 Veronika Khlebnikov 4
 #letterboxd
+Ilias Tahri         10
+jonathan edge       10
+Harry Benbow        10
+Serena Fischer      10
+anna ❄️             10
+Marcela Cárdenas    10
+clararivera         10
+Shigby              10
+lottanurmela        10   https://letterboxd.com/lottanurmela/film/parasite-2019/
 Sean Fahey          10   https://letterboxd.com/sfahey/film/parasite-2019/
 Yasmin Omar         10   https://letterboxd.com/yasmin_omar6/film/parasite-2019/
 Clau Barrán         10   https://letterboxd.com/claubarran/film/parasite-2019/
@@ -5088,7 +5180,6 @@ Blaise Radley       10   https://letterboxd.com/blaiser123/film/parasite-2019/
 Ross Taylor         10   https://letterboxd.com/rosst1993/film/parasite-2019/
 brittany            10   https://letterboxd.com/britfitz/film/parasite-2019/
 Mirjam              10
-Matthew Kelly       10
 iana                10
 Hannah Kaylor       10   https://letterboxd.com/hannahk/film/parasite-2019/
 Marielle            10
@@ -5141,6 +5232,18 @@ Rebecca             10
 Austin Kennedy      10
 Matīss Kaža         10
 Ximini              10
+Tommy James         9   https://letterboxd.com/elite_flibble/film/parasite-2019/
+Matthew Kelly       9
+Fletcher            9   https://letterboxd.com/frp225/film/parasite-2019/
+jon                 9   https://letterboxd.com/wc__/film/parasite-2019/
+Marco               9
+raquel              9
+dyna                9
+Gojko Dimić         9
+Laura C             9   https://letterboxd.com/cinemeh/film/parasite-2019/
+yazz 🦕              9   https://letterboxd.com/yazzjames/film/parasite-2019/
+Joe Hadman          9
+Sardonicast         9
 Oliver Hayhoe       9
 skammen             9
 mpelle              9
@@ -5223,6 +5326,14 @@ Abbey Strang        9
 Luke Murray         9
 Andrew Cozens       9
 Ben Clay            9
+Jack Barron         8   https://letterboxd.com/jacksbarron/film/parasite-2019/
+Florent Boutet      8
+Piboh               8
+Shecanbeanyone      8
+LorenzoSartor       8
+aliciabr            8
+A.A. Dowd           8   https://letterboxd.com/alexegers/film/parasite-2019/
+Enrique Geras       8   https://letterboxd.com/enriquegeras/film/parasite-2019/
 topbasbaha          8   https://letterboxd.com/topbasbaha/film/parasite-2019/
 colefowler          8
 Dan Wood            8
@@ -5273,6 +5384,8 @@ leoz55              8
 Waseet              8
 memetic             8
 thierryjousse       8
+Carlota Moseguí     7
+Nasogrigio          7
 Luthor              7
 miakoda             7
 lasseholdhus        7
@@ -5281,6 +5394,7 @@ Bruno Carmelo       7   https://letterboxd.com/brunocarmelo/film/parasite-2019/
 bonestructure       7
 kell666             7
 Sam C. Mac          7   https://letterboxd.com/samcmac/film/parasite-2019/
+popkorn95           6
 CannesMember0       6
 Mikko Pihkoluoma    6   https://letterboxd.com/mikkopihkoluoma/film/parasite-2019/
 Aletz               6
@@ -5324,7 +5438,7 @@ José Luis Losa          2
 Alejandra Trelles       4
 Pedro Segura            3.5
 Carlota Moseguí         7
-Emilio Luna             8
+Emilio Luna             7
 Víctor Esquirol         5
 Nil Kural               2
 Frédéric Jaeger         9.5
@@ -5451,7 +5565,6 @@ Peter Shepotinnik   2
 Tatyana Shorokhova  4
 Veronika Khlebnikov 8
 #letterboxd
-Sami Babboni        10
 mc                  10   https://letterboxd.com/mariecel/film/matthias-and-maxime/
 duo                 10
 rachel bryant       10   https://letterboxd.com/rchelbrynt/film/matthias-and-maxime/
@@ -5470,7 +5583,6 @@ Héloïse             10
 Laurine🐉            10   https://letterboxd.com/l4ur1ne/film/matthias-and-maxime/
 Claire-Issa         10
 Bella               10   https://letterboxd.com/belephant/film/matthias-and-maxime/
-Bruhhh              10
 monab               9
 zineb               9
 michelle            9   https://letterboxd.com/suspirium/film/matthias-and-maxime/
@@ -5560,7 +5672,6 @@ jdoyle              7
 Lynn Zhou           7
 RafGeusens          7
 Effy                7
-HSMediaNerd         7
 Luthor              7   https://letterboxd.com/luthor/film/matthias-and-maxime/
 Tasha               7
 John Holliday       7
@@ -5594,7 +5705,7 @@ Thibaut Buccellato  7
 Crayfish            7
 Soplanit            7
 Ximini              7
-bigmamavix          7
+HSMediaNerd         6
 Michel Carvalho     6
 quintonfun          6   https://letterboxd.com/quintonfun/film/matthias-and-maxime/
 Michael Leader      6
@@ -5646,13 +5757,14 @@ Sam                 5
 Oliver Hayhoe       5
 James Thompson      5
 Tatiana Shorokhova  5   https://letterboxd.com/zlobuster/film/matthias-and-maxime/
+Florent Boutet      4
 Thomas Hakim        4
 James Witherspoon   4   https://letterboxd.com/moviemanjames/film/matthias-and-maxime/
 Efim Gugnin         4
 eeshcapisce         4
 Tarek Shoukri       4   https://letterboxd.com/silverstar/film/matthias-and-maxime/
 miakoda             4
-Michael Mahoney     4
+Michael Mahoney     4   https://letterboxd.com/mratomic/film/matthias-and-maxime/
 PapaBear9           4   https://letterboxd.com/papabear9/film/matthias-and-maxime/
 BenniValde          4
 BrunoD              4
@@ -5839,10 +5951,11 @@ Veronika Khlebnikov 6
 #letterboxd
 Cinzia97            8
 ludovicbeot         8
-Luke Hicks          8
+Luke Hicks          7
 Costanza            7
 SuperMario          7
 Néstor Juez Rojo    7
+Florent Boutet      6
 mangemanche         6
 Guy                 6   https://letterboxd.com/yeblod/film/oh-mercy/
 Michael Leader      6
@@ -5891,6 +6004,7 @@ Andy Hazel          5
 Mikko Pihkoluoma    5   https://letterboxd.com/mikkopihkoluoma/film/oh-mercy/
 andoula             5
 Sam                 5
+Joel Whitaker       4
 Cedric Muyres       4
 Carlos Gómez Iniesta 4
 Laurie              4
@@ -6096,8 +6210,9 @@ Peter Shepotinnik   8
 Tatyana Shorokhova  6
 Veronika Khlebnikov 10
 #letterboxd
+TeoMes              10
 _attis              10
-TeoMes              8
+NicoloAmedeo        9
 Henry Baime         8
 Anbord              8
 AlexInc             6
@@ -6262,6 +6377,7 @@ Matthew Kelly       10
 ludovicbeot         10
 karras              10
 Crayfish            9
+Florent Boutet      8
 Sean Fahey          8   https://letterboxd.com/sfahey/film/mektoub-my-love-intermezzo/
 Max Borg            8
 Anthony             7
@@ -6281,8 +6397,8 @@ Arvena              5
 Roberto Gonzalez    5
 Mikko Pihkoluoma    5   https://letterboxd.com/mikkopihkoluoma/film/mektoub-my-love-intermezzo/
 SuperMario          5
-Pablo Villaça       5
 Blake Williams      5
+Pablo Villaça       4
 Georgia De Souza    4   https://letterboxd.com/georgiadesouza_/film/mektoub-my-love-intermezzo/
 Giovanni Pedrini    4   https://letterboxd.com/giovala/film/mektoub-my-love-intermezzo/
 Peter Bradshaw      4   https://letterboxd.com/peterbradshaw/film/mektoub-my-love-intermezzo/
@@ -6296,14 +6412,16 @@ Romeo Filsinger     3
 CasWalter           3
 Bruno Carmelo       3   https://letterboxd.com/brunocarmelo/film/mektoub-my-love-intermezzo/
 A.A. Dowd           3
-Sam Gray            3
 Marco               3
 David Ehrlich       3   https://letterboxd.com/davidehrlich/film/mektoub-my-love-intermezzo/
+Sam Gray            2
+domwakeford         2
 Louis Stall         2
 TMC                 2
 CannesMember0       2
 Giuliacap           2
 Dariy               2
+verydisco           1
 Anais Bordages      1
 JamesSlaymaker      1   https://letterboxd.com/jamesslaymaker/film/mektoub-my-love-intermezzo/
 Henry Baime         1
@@ -6344,6 +6462,7 @@ Juanma Ruíz             7
 Carlota Moseguí         8
 Eduardo Valente         8.5
 Emilio Luna             6
+Vasiliy Stepanov        6
 Víctor Esquirol         7.5
 Nil Kural               6
 Engin Ertan             5.5
@@ -6476,6 +6595,8 @@ Pablo Villaça       9
 elephante           9
 TMC                 9
 Mark Gubarenko      9
+Florent Boutet      8
+Carlota Moseguí     8
 fightclubitis       8   https://letterboxd.com/fightclubitis/film/it-must-be-heaven/
 Sami Babboni        8
 Laura Venning       8
@@ -6656,10 +6777,11 @@ Anais Bordages      10
 zzzzzzzzzpppp       10
 Mike Bellivet       9
 elow92              9
+Hugo Jadeau         8   https://letterboxd.com/delkey/film/sibyl/
+Kerviche            8
 Sophie Weasley      8
 bourcuicui          8
 elisa               8
-julieng             8
 pyq                 8
 James Healey        8
 Margaux             8
@@ -6668,6 +6790,9 @@ Alexandre Dupret    8
 Victor Van De Kadsye 8
 RentonDuc           8   https://letterboxd.com/rentonduc/film/sibyl/
 ludovicbeot         8
+julieng             7
+océane              7
+marjorieharries     7
 SaintPauly          7
 Maëva               7
 onozorobi           7
@@ -6686,6 +6811,7 @@ the_gaffer          7
 Cédric Renol        7   https://letterboxd.com/cobretti/film/sibyl/
 emma                7   https://letterboxd.com/emmabarton/film/sibyl/
 thierryjousse       7
+Loxxbru             6
 Jonas Chadarevian   6
 fightclubitis       6   https://letterboxd.com/fightclubitis/film/sibyl/
 ooosimonooo         6   https://letterboxd.com/ooosimonooo/film/sibyl/
@@ -6848,6 +6974,7 @@ MelvinUdall         7   https://letterboxd.com/melvinudall/film/a-brothers-love/
 louisjean2kz        7
 George Wood         7   https://letterboxd.com/woodyg/film/a-brothers-love/
 Arvena              7   https://letterboxd.com/arvena/film/a-brothers-love/
+Florent Boutet      6
 Anais Bordages      6
 Amelia Ritagli      6   https://letterboxd.com/ameliaritagli/film/a-brothers-love/
 Diana29             6
@@ -7016,6 +7143,7 @@ Max Weiss           7
 Arvena              7
 camperronifan       7   https://letterboxd.com/camperronifan/film/bull-2019/
 Lennart Johannsen   7
+Florent Boutet      6
 Cedric Muyres       6
 Aliya Jones         6   https://letterboxd.com/aliyajones/film/bull-2019/
 Roberto Gonzalez    6
@@ -7036,10 +7164,10 @@ Allison M.          6   https://letterboxd.com/allisoncm/film/bull-2019/
 PedroFN             6   https://letterboxd.com/pedrofn/film/bull-2019/
 Truman2712          6
 davidpardi97        6
-HSMediaNerd         6
 louisjean2kz        6
 Pat96               6   https://letterboxd.com/pat96/film/bull-2019/
 Jonas Chadarevian   6
+HSMediaNerd         5
 brittany            5   https://letterboxd.com/britfitz/film/bull-2019/
 Brooke              5
 A.A. Dowd           5
@@ -7194,6 +7322,7 @@ Yves niet zo Klein  10   https://letterboxd.com/sys77/film/the-beanpole/
 Miguel Moura        9   https://letterboxd.com/barracamoura/film/the-beanpole/
 Max Borg            9
 mkafoury            9
+Nasogrigio          8
 John Bleasdale      8   https://letterboxd.com/drjonty/film/the-beanpole/
 cotroxell           8
 FilmBuda            8
@@ -7402,7 +7531,6 @@ Lorenzo Gianni      6
 monkeybox83         6
 midlangley          6
 Alexander Halford   6   https://letterboxd.com/alexhalford/film/the-swallows-of-kabul/
-HSMediaNerd         6
 Jimmy               6
 Clara 🍋             6   https://letterboxd.com/theclara/film/the-swallows-of-kabul/
 Allison M.          6   https://letterboxd.com/allisoncm/film/the-swallows-of-kabul/
@@ -7414,6 +7542,7 @@ Crayfish            6
 kell666             6
 Joel Mayward        6
 pizzabot            6
+HSMediaNerd         5
 Fletcher            5
 daniela.            5   https://letterboxd.com/danielablanco/film/the-swallows-of-kabul/
 Jshin621            5
@@ -7437,6 +7566,7 @@ sammishack          4
 Txarles             4
 Luca Buzzi Reschini 4
 Carmen Chavez       4   https://letterboxd.com/acciocarmen/film/the-swallows-of-kabul/
+Florent Boutet      3
 Sesilya             3
 fightclubitis       2   https://letterboxd.com/fightclubitis/film/the-swallows-of-kabul/
 
@@ -7642,6 +7772,7 @@ amoghimi            9
 Raquel Bartra       9
 alix                9   https://letterboxd.com/alixwins/film/papicha/
 Camila              9   https://letterboxd.com/segismunda_/film/papicha/
+Florent Boutet      8
 Anais Bordages      8
 IvanStankov         8
 Sdiary              8
@@ -7765,6 +7896,7 @@ Heather_Grrrl       8
 Samantha Nork       8   https://letterboxd.com/sam_is_rocking/film/port-authority/
 Mark Gubarenko      8   https://letterboxd.com/gubarenko/film/port-authority/
 Danni               8
+Florent Boutet      7
 popkorn95           7
 alekabate           7   https://letterboxd.com/alekabate/film/port-authority/
 danny               7
@@ -7781,6 +7913,7 @@ Mikko Pihkoluoma    7   https://letterboxd.com/mikkopihkoluoma/film/port-authori
 camperronifan       7   https://letterboxd.com/camperronifan/film/port-authority/
 Andy Hazel          7   https://letterboxd.com/talkingelvish/film/port-authority/
 SuperMario          7
+Txarles             6
 jrgchevres          6
 Thomas R P Streekstra 6   https://letterboxd.com/thomas1992/film/port-authority/
 charlenelydon       6
@@ -7927,6 +8060,7 @@ Théo Ribeton        2.5
 #letterboxd
 Faezeka             10
 Max Borg            10
+Nasogrigio          9
 Crayfish            9
 Soplanit            8
 Aletz               8
@@ -7940,6 +8074,7 @@ Carlota Moseguí     7
 Pablo Villaça       7
 Blake Williams      7
 Davitru             7
+Txarles             6
 melis_              6
 Joel Mayward        6   https://letterboxd.com/jmayward/film/joan-of-arc-2019/
 Allison M.          6   https://letterboxd.com/allisoncm/film/joan-of-arc-2019/
@@ -8148,6 +8283,7 @@ Allison M.          8   https://letterboxd.com/allisoncm/film/on-a-magical-night
 Carlito             8
 Mauricio Ribeiro    8   https://letterboxd.com/marfil/film/on-a-magical-night/
 Daniele S.          8
+Nasogrigio          7
 Brimmer-Beller      7   https://letterboxd.com/jefcostello/film/on-a-magical-night/
 Rebecca             7   https://letterboxd.com/rebbarba/film/on-a-magical-night/
 harrietwhinkup      7
@@ -8181,6 +8317,7 @@ pernillere          1
 
 "The Invisible Life of Euridice Gusmao (A Vida Invisível)" (Karim Aïnouz) [Un Certain Regard] UCR Best Film
 
+Guy Lodge               https://variety.com/2019/film/reviews/cannes-film-review-the-invisible-life-of-euridice-gusmao-1203225913/
 #todas
 Roger Koza              7
 Fernando Juan Lima      5.5
@@ -8255,6 +8392,7 @@ lotte verkaik       9
 clararivera         9
 Juliet              9
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/the-invisible-life-of-euridice-gusmao/
+Carlota Moseguí     8
 alekabate           8   https://letterboxd.com/alekabate/film/the-invisible-life-of-euridice-gusmao/
 SuperMario          8
 Rae                 8
@@ -8269,6 +8407,7 @@ Tatiana Shorokhova  8
 BrunoD              8
 Pablo Villaça       8   https://letterboxd.com/pablovillaca/film/the-invisible-life-of-euridice-gusmao/
 Waseet              8
+Nasogrigio          7
 Ilias Tahri         7
 ferhood             7
 Claire-Issa         7
@@ -8360,10 +8499,10 @@ Théo Ribeton
 #letterboxd
 Bastien 🌵           10
 Marcela Cárdenas    10
-HSMediaNerd         9
 popkorn95           9
 Brimmer-Beller      9   https://letterboxd.com/jefcostello/film/nina-wu/
 Cici                9   https://letterboxd.com/cicidedodo/film/nina-wu/
+HSMediaNerd         8
 Rae                 8
 eeshcapisce         8
 topbasbaha          8   https://letterboxd.com/topbasbaha/film/nina-wu/
@@ -8372,10 +8511,10 @@ Fletcher            8
 Caterina            8
 Charlie Walton      8
 Karsten Runquist    8   https://letterboxd.com/kurstboy/film/nina-wu/
-Luke Hicks          8   https://letterboxd.com/lou_kicks/film/nina-wu/
 James Witherspoon   8   https://letterboxd.com/moviemanjames/film/nina-wu/
 Max Borg            8
 Andy Hazel          8   https://letterboxd.com/talkingelvish/film/nina-wu/
+Luke Hicks          7   https://letterboxd.com/lou_kicks/film/nina-wu/
 quintonfun          7   https://letterboxd.com/quintonfun/film/nina-wu/
 Eoin Daly           7
 brittany            7   https://letterboxd.com/britfitz/film/nina-wu/
@@ -8429,6 +8568,7 @@ Sam Gray            5
 Thibaut Buccellato  5
 AEC                 5
 FilmLandEmpire      5
+Florent Boutet      4
 Jshin621            4
 monab               4
 Costanza            4
@@ -8512,13 +8652,13 @@ Théo Ribeton
 Joel Whitaker       9
 Laurine🐉            9   https://letterboxd.com/l4ur1ne/film/adam-2019-1/
 Sam                 9
+HSMediaNerd         8
 Effy                8
 bonestructure       8
 Patrick Mulcahy     8
 Kat Docalovich      8   https://letterboxd.com/pawsitivelykat/film/adam-2019-1/
 Adolf El Assal      8
 Matīss Kaža         8
-HSMediaNerd         8
 Héloïse             8
 Soplanit            7
 chrisspargo         7
@@ -8542,6 +8682,7 @@ kell666             3
 "The Bears' Famous Invasion of Sicily" (Lorenzo Mattotti, I) [Un Certain Regard]
  Animation
 
+Deborah Young           https://www.hollywoodreporter.com/review/bears-famous-invasion-sicily-1213728
 #todas
 Alex Vicente            6
 Alejandro G. Calvo      7.5
@@ -8606,6 +8747,7 @@ Théo Ribeton
 CaterinaPalp        10
 Doug Dillaman       9   https://letterboxd.com/dillamonster/film/the-bears-famous-invasion-of-sicily/
 Max Borg            9
+Nasogrigio          8
 macklyle            8
 Jake Cunningham     8
 Michele Graffieti   8
@@ -8746,6 +8888,7 @@ Efim Gugnin         7
 Mauricio Ribeiro    7
 Marcela             7
 ferhood             7
+Florent Boutet      6
 Effy                6
 Alistair Ryder      6   https://letterboxd.com/cinemole/film/fire-will-come/
 Blake Williams      6
@@ -8859,7 +9002,7 @@ Daniel Kasman           4
 Rüdiger Suchsland       6
 Fernando Juan Lima      5
 Fredy Friedlander       6.5
-Diego Batlle            6
+Diego Batlle            5.5
 Boris Nelepo            6
 Eulalia Iglesias        4
 José Luis Losa          3.5
@@ -9118,6 +9261,7 @@ Bruno Carmelo       8   https://letterboxd.com/brunocarmelo/film/for-sama/
 EdgarReviews        8
 Ryan Christopher    8   https://letterboxd.com/ryancla/film/for-sama/
 vern                8
+topbasbaha          7   https://letterboxd.com/topbasbaha/film/for-sama/
 Sam Gray            7
 SuperMario          7
 Brendan Sawyer      7
@@ -9834,6 +9978,7 @@ Jean-Marc Lalanne
 JB Morain           
 Théo Ribeton        
 #letterboxd
+Nasogrigio          8
 louisjean2kz        8
 TheOperator         7
 Blake Williams      6
@@ -9947,6 +10092,8 @@ FilmLandEmpire      8
 Martyn Conterio     8
 Valentina Eid       8   https://letterboxd.com/valeid/film/the-cordillera-of-dreams/
 Raspou              8   https://letterboxd.com/raspou/film/the-cordillera-of-dreams/
+Florent Boutet      7
+Nasogrigio          7
 andoula             7
 Ricardo Fernández   7
 Jonas Chadarevian   7
@@ -10133,13 +10280,13 @@ Théo Ribeton
 #letterboxd
 Pablo Villaça       8
 Doug Dillaman       8   https://letterboxd.com/dillamonster/film/family-romance-llc/
-HSMediaNerd         8
 jankaranka          7
 Devon Miller        7
 Adam Cook           7
 Truman2712          7
 the_gaffer          7
 Crayfish            7
+HSMediaNerd         6
 charlotte80         6
 cookie              6   https://letterboxd.com/cuqui/film/family-romance-llc/
 Effy                6
@@ -10149,6 +10296,7 @@ Alex Billington     6   https://letterboxd.com/firstshowing/film/family-romance-
 Blake Williams      6
 Alonso Díaz de la Vega 6
 Gaz Evans           6
+Txarles             5
 Jshin621            5
 JamesSlaymaker      5
 lucia               5   https://letterboxd.com/laluzve/film/family-romance-llc/
@@ -10232,7 +10380,8 @@ titouan_            9
 Stephen Miller      9
 A.A. Dowd           9   https://letterboxd.com/alexegers/film/lux-terna/
 Doug Dillaman       9   https://letterboxd.com/dillamonster/film/lux-terna/
-Luke Hicks          9   https://letterboxd.com/lou_kicks/film/lux-terna/
+Luke Hicks          8   https://letterboxd.com/lou_kicks/film/lux-terna/
+Nasogrigio          8
 Cedric Muyres       8
 Pieter Vermeersch   8
 James Thompson      8
@@ -10613,6 +10762,7 @@ Carlos Gómez Iniesta 4
 onozorobi           4
 jankaranka          4
 Matchuko            3
+Florent Boutet      2
 Diddy               2
 Crayfish            2
 Andrea Rendón       2
@@ -10726,6 +10876,7 @@ Dennis Lim
 Alex Billington     7   https://letterboxd.com/firstshowing/film/ice-on-fire/
 Andrea Rendón       7
 HSMediaNerd         7
+Florent Boutet      6
 Sami Babboni        6
 mangemanche         6
 Truman2712          6
@@ -10777,6 +10928,9 @@ Danastri Nabilah    9   https://letterboxd.com/anamoelya/film/the-gangster-the-c
 Achmad Muchtar      9
 Nikolas Salgado     9   https://letterboxd.com/nikolasalg/film/the-gangster-the-cop-the-devil/
 Sabsarae            9
+Valencia Julieta    8
+ivannmakhsara       8
+ibnuabrar           8   https://letterboxd.com/ibnuabrar/film/the-gangster-the-cop-the-devil/
 Wahyu Trinanda      8
 hoobey              8
 Hannah              8   https://letterboxd.com/hrylee/film/the-gangster-the-cop-the-devil/
@@ -10799,6 +10953,8 @@ Sunnysun1           8
 DaveTrump           8
 James Marsh         8
 Pierce Conran       8   https://letterboxd.com/pierceconran/film/the-gangster-the-cop-the-devil/
+diahbyanto          7
+Mario               7
 borislianto         7
 CasWalter           7
 Jubrek              7
@@ -10832,6 +10988,7 @@ Jaemin Bae          7
 Hyukseung           7
 plha                7
 choo                7
+Florent Boutet      6
 nuguya              6   https://letterboxd.com/nuguya/film/the-gangster-the-cop-the-devil/
 David Arga          6
 Sami Babboni        6
@@ -11214,6 +11371,7 @@ Sean Fahey          6   https://letterboxd.com/sfahey/film/blow-it-to-bits/
 John Prado          6
 elephante           6
 the_gaffer          6
+Nasogrigio          5
 mangemanche         5
 BrunoD              5
 TheOperator         5
@@ -11368,6 +11526,7 @@ Diogo Vale          9   https://letterboxd.com/psycho_dioxx/film/zombi-child/
 Ella Kemp           9   https://letterboxd.com/ellakemp/film/zombi-child/
 Lennart Johannsen   9
 EdgarReviews        9
+Nasogrigio          8
 monab               8
 Riemann             8
 filmisnothing       8
@@ -11393,6 +11552,7 @@ Crayfish            8
 SuperMario          8
 queen_purk          8   https://letterboxd.com/queen_purk/film/zombi-child/
 James Witherspoon   8   https://letterboxd.com/moviemanjames/film/zombi-child/
+Carlota Moseguí     7
 Alistair Ryder      7   https://letterboxd.com/cinemole/film/zombi-child/
 elephante           7
 cinemacollage       7
@@ -11567,7 +11727,6 @@ David Ehrlich       7   https://letterboxd.com/davidehrlich/film/first-love-2019
 BrunoD              7
 Aletz               7
 sals                7
-HSMediaNerd         7
 Matchuko            7   https://letterboxd.com/matchuko/film/first-love-2019/
 ferhood             7
 iana                7
@@ -11576,6 +11735,7 @@ Crayfish            7
 AEC                 7   https://letterboxd.com/arielecayer/film/first-love-2019/
 Karsten Runquist    7   https://letterboxd.com/kurstboy/film/first-love-2019/
 xChillphil          7   https://letterboxd.com/xchillphil/film/first-love-2019/
+HSMediaNerd         6
 CannesMember0       6
 Jack King           6
 Diogo Vale          6
@@ -11586,6 +11746,7 @@ Brian Quinn         6
 Blake Williams      6
 Antoine Waked       6
 Alonso Díaz de la Vega 6
+Nasogrigio          5
 Max Weiss           5
 A.A. Dowd           5
 kell666             5
@@ -11710,7 +11871,6 @@ Patrik F.           6
 Jshin621            6
 Kasia               6
 vldmlqmffjem        6
-HSMediaNerd         6
 onozorobi           6
 Georgi              6
 amoghimi            6
@@ -11729,6 +11889,7 @@ Eric Heckler        5   https://letterboxd.com/eheck25/film/the-staggering-girl/
 Jonas Chadarevian   5
 Sara                5
 vern                5
+HSMediaNerd         4
 CannesMember0       4
 gbhill              4
 jankaranka          4
@@ -11788,6 +11949,7 @@ Jamie Pitts         9
 Bastien 🌵           8
 maryke              8
 George Wood         8   https://letterboxd.com/woodyg/film/give-me-liberty-2019/
+BuluBulu            7
 Cedric Muyres       7
 Lalilalou           7
 Carlito             7
@@ -11967,6 +12129,9 @@ Jean-Marc Lalanne
 JB Morain           
 Théo Ribeton        5
 #letterboxd
+Luke Hicks          10   https://letterboxd.com/lou_kicks/film/the-lighthouse-2019/
+Sardonicast         10
+Shigby              10
 Oliver Hayhoe       10
 myfriendgoo         10
 jerryseinfeld       10
@@ -12037,11 +12202,11 @@ George Wood         10
 Kat Docalovich      10
 cookie              10
 jianna justice      10   https://letterboxd.com/jiannajustice/film/the-lighthouse-2019/
+dyna                9
 Lara                9
 Jaap Deinum         9
 jay @ cannes        9   https://letterboxd.com/greenroom/film/the-lighthouse-2019/
 ThatJacqueline      9   https://letterboxd.com/thatjacqueline/film/the-lighthouse-2019/
-Joe Hadman          9
 Blaise Radley       9   https://letterboxd.com/blaiser123/film/the-lighthouse-2019/
 Lyanna Hindley      9   https://letterboxd.com/lyannaxxh/film/the-lighthouse-2019/
 anna ❄️             9
@@ -12050,7 +12215,6 @@ Costanza            9
 skammen             9
 Jack Barron         9   https://letterboxd.com/jacksbarron/film/the-lighthouse-2019/
 TMC                 9
-Sardonicast         9
 Ckhosla             9
 kell666             9
 graciela            9
@@ -12087,6 +12251,8 @@ Victor Cannell      9   https://letterboxd.com/victorcannell/film/the-lighthouse
 Andy Hazel          9   https://letterboxd.com/talkingelvish/film/the-lighthouse-2019/
 Joel Mayward        9   https://letterboxd.com/jmayward/film/the-lighthouse-2019/
 Devon Miller        9
+Nicconoh            8   https://letterboxd.com/nicconoh/film/the-lighthouse-2019/
+Joe Hadman          8
 Jshin621            8
 lucia               8   https://letterboxd.com/laluzve/film/the-lighthouse-2019/
 Lilly Nesbitt       8   https://letterboxd.com/lillynesbitt/film/the-lighthouse-2019/
@@ -12232,6 +12398,7 @@ AEC                 7   https://letterboxd.com/arielecayer/film/the-bare-necessi
 Carlota Moseguí     7
 maryke              5
 Diana29             5
+Florent Boutet      4
 CannesMember0       4
 Effy                3
 VellutoGrigio       2
@@ -13039,7 +13206,8 @@ Théo Ribeton
 Isobel Frances Ha   10
 Joel Whitaker       10
 Sean Fahey          10   https://letterboxd.com/sfahey/film/ghost-tropic/
-Blaise Radley       8   https://letterboxd.com/blaiser123/film/ghost-tropic/
+Blaise Radley       9   https://letterboxd.com/blaiser123/film/ghost-tropic/
+Carlota Moseguí     8
 hoobey              8   https://letterboxd.com/hoobey/film/ghost-tropic/
 Itxel Garcia        8
 Edvin Eriksson      8
@@ -13124,10 +13292,10 @@ A.A. Dowd           4   https://letterboxd.com/alexegers/film/yves/
 bonestructure       4
 hoobey              4
 Thibaut Buccellato  4
+Matchuko            3   https://letterboxd.com/matchuko/film/yves/
 shokaorange         3
 the_gaffer          3
 ferhood             3
-Matchuko            1   https://letterboxd.com/matchuko/film/yves/
 
 SEMAINE
 
@@ -13189,6 +13357,7 @@ Screen-Space        8   https://letterboxd.com/screen_space/film/the-defendant/
 Soplanit            7
 Truman2712          7
 Max Weiss           7
+Florent Boutet      6
 ugurhant            6
 BenniValde          6
 Arvena              6
@@ -13477,6 +13646,7 @@ Michael Leader      8
 Sam                 8
 Heather_Grrrl       8
 smcclurg            8
+Florent Boutet      7
 TMC                 7
 Maxime Duquette     7   https://letterboxd.com/maxtheduke99/film/i-lost-my-body/
 jkirk96             7
@@ -13569,6 +13739,7 @@ A.A. Dowd           7   https://letterboxd.com/alexegers/film/vivarium/
 mangemanche         7
 Matchuko            7   https://letterboxd.com/matchuko/film/vivarium/
 Antoine Waked       7
+Florent Boutet      6
 fghtclb             6
 eeshcapisce         6
 BenniValde          6
@@ -13627,6 +13798,7 @@ JB Morain           5
 Théo Ribeton        
 #letterboxd
 Valentina Eid       8
+Florent Boutet      7
 pernillere          7
 Dominique Leger     7
 Isobel Frances Ha   7
@@ -13769,6 +13941,7 @@ Andrea Rendón       8
 abi ✨               8
 Txarles             7
 Isobel Frances Ha   7
+Florent Boutet      6
 Ricardo Fernández   6
 Pieter Vermeersch   6
 Roberto Gonzalez    6
@@ -13961,6 +14134,7 @@ Eamyvz              8
 Magah               8
 justinemoo          8   https://letterboxd.com/justinemoo/film/take-me-somewhere-nice/
 Angela              8
+Patrick J           7
 De Protagonisten    7
 Bastien 🌵           7   https://letterboxd.com/bastid/film/take-me-somewhere-nice/
 Anais Bordages      6
@@ -14583,6 +14757,7 @@ Lewis DeJong        8
 "Cinecittà - I mestieri del cinema Bernardo Bertolucci" (Mario Sesti, Italy) [Out Of Competition] Cannes Classics
 
 #letterboxd
+Michael Mahoney     4   https://letterboxd.com/mratomic/film/cinecitta-i-mestieri-del-cinema-bernardo-bertolucci/
 
 "Les Silences de Johnny" (Pierre-William Glenn) [Out Of Competition] Cannes Classics
 
