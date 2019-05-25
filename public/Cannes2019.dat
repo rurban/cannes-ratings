@@ -38,7 +38,8 @@ our $DATA= <<'EOF';
 
 COMPETITION
 
-"The Dead Don’t Die" (Jim Jarmusch) [Competition] Opener
+"The Dead Don’t Die" (Jim Jarmusch) [Competition]
+ Opening Film
 
 David Ehrlich     B-    https://www.indiewire.com/2019/05/dead-dont-die-review-jim-jarmusch-cannes-1202140841/
 Tim Grierson            https://www.screendaily.com/reviews/the-dead-dont-die-cannes-review/5139365.article
@@ -2495,7 +2496,7 @@ michidg             2
 Yves niet zo Klein  2   https://letterboxd.com/sys77/film/little-joe-2019/
 bonestructure       1
 
-"Pain & Glory (Dolor y gloria)" (Pedro Almodovar) [Competition]
+"Pain & Glory (Dolor y gloria)" (Pedro Almodovar) [Competition] Best Actor
 
 Jaime Esteve Bengoechea	  https://icsfilm.org/reviews/pain-glory-pedro-almodovar/
 Wendy Ide               https://www.screendaily.com/reviews/pain-and-glory-cannes-review/5138909.article
@@ -6433,7 +6434,7 @@ Tatiana Shorokhova  1   https://letterboxd.com/zlobuster/film/mektoub-my-love-in
 Piboh               1
 Stephen Miller      1   https://letterboxd.com/sdavidmiller/film/mektoub-my-love-intermezzo/
 
-"It Must Be Heaven" (Elia Suleiman, Palestine) [Competition] FIPRESCI, Special Mention of the Jury
+"It Must Be Heaven" (Elia Suleiman, Palestine) [Competition] FIPRESCI, Special Mention
 
 Jay Weissberg           https://variety.com/2019/film/reviews/it-must-be-heaven-review-1203225342/
 Deborah Young           https://www.hollywoodreporter.com/review/it-be-heaven-review-1213473
@@ -11054,7 +11055,8 @@ jangwonyoung        1
 
 QUINZAINE
 
-"Deerskin (Le daim)" (Quentin Dupieux "Mr Oizo") [Quinzaine] Opener
+"Deerskin (Le daim)" (Quentin Dupieux "Mr Oizo") [Quinzaine]
+ Opening Film
 
 Owen Gleiberman         https://variety.com/2019/film/reviews/deerskin-review-jean-dujardin-1203215532/
 Allan Hunter            https://www.screendaily.com/reviews/deerskin-cannes-review/5139425.article
@@ -13191,7 +13193,8 @@ Perry R             6   https://letterboxd.com/xl9/film/ghost-tropic/
 alekabate           5   https://letterboxd.com/alekabate/film/ghost-tropic/
 TheOperator         4
 
-"All About Yves (Yves)" (Benoît Forgeard) [Quinzaine] Closing
+"All About Yves (Yves)" (Benoît Forgeard) [Quinzaine]
+ Closing Film
 
 Lisa Nesselson          https://www.screendaily.com/reviews/all-about-yves-cannes-review/5139811.article
 #todas
@@ -13261,7 +13264,8 @@ ferhood             3
 
 SEMAINE
 
-"The Defendant (Litigante)" (Franco Lolli) [Semaine] Opener
+"The Defendant (Litigante)" (Franco Lolli) [Semaine]
+ Opening Film
 
 Fionnuala Halligan     https://www.screendaily.com/reviews/litigante-cannes-review/5139369.article
 Leslie Felperin         https://www.hollywoodreporter.com/review/litigante-review-1210840
