@@ -11,6 +11,8 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   E 0.5   F 0
 # indiewire does C => 4
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# dk 1-5: 2x
+# ru 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 #   http://www.todaslascriticas.com.ar/cannes
@@ -97,7 +99,7 @@ Violeta Kovacsics     6
 Giovanni Marchini Camina 4
 Philipp Schwarz       4
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                5
 Peter Bradshaw              5
 Nick James                  5
@@ -179,6 +181,36 @@ Taotao              7.5
 Ming                5
 Emily Liang         5
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett          2.5
+Bruno Deruisseau       7.5
+Marilou Duponchel      5
+Jacky Goldberg         1
+Jean-Marc Lalanne      7.5
+JB Morain              5
+Théo Ribeton           5
+# dk stjernebarometer
+Ariane Allard          4
+#Justin Chang          4
+Claus Christensen      2
+Nanna Frank Rasmussen  4
+Kjetil Lismoen         4
+Lee Marshall           2
+Pragya Mishra          6
+Damon Wise             2
+#Stephanie Zacharek    6
+# kinoart.ru
+Egor Belikov           6
+Julia Gulyan           8
+Anton Dolin            8
+Valery Kichin          8
+Yegor Moskvitin        8
+Andrey Plakhov         6
+Zinaida Pronchenko     2
+Vasily Stepanov        6
+Peter Shepotinnik      4
+Tatyana Shorokhova     6
+Veronika Khlebnikov    6
 #letterboxd
 ReallyBadBook       10
 Noria               10
@@ -799,7 +831,7 @@ Violeta Kovacsics     5
 Giovanni Marchini Camina 7.5
 Philipp Schwarz       7.5
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                7.5
 Peter Bradshaw              5
 Nick James                  7.5
@@ -881,6 +913,36 @@ Taotao              5
 Ming                9
 Emily Liang         7.5
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett          5
+Bruno Deruisseau       
+Marilou Duponchel      9
+Jacky Goldberg         9
+Jean-Marc Lalanne      9
+JB Morain              9
+Théo Ribeton           7.5
+# dk stjernebarometer
+Ariane Allard          6
+#Justin Chang          6
+Claus Christensen      4
+Nanna Frank Rasmussen  6
+Kjetil Lismoen         6
+Lee Marshall           4
+Pragya Mishra          8
+Damon Wise             4
+#Stephanie Zacharek    6
+# kinoart.ru
+Egor Belikov           6
+Julia Gulyan           4
+Anton Dolin            6
+Valery Kichin          10
+Yegor Moskvitin        6
+Andrey Plakhov         8
+Zinaida Pronchenko     6
+Vasily Stepanov        6
+Peter Shepotinnik      6
+Tatyana Shorokhova     8
+Veronika Khlebnikov    2
 #letterboxd
 patkelman           10
 vldmlqmffjem        10
@@ -1120,7 +1182,7 @@ Violeta Kovacsics     6
 Giovanni Marchini Camina 9
 Philipp Schwarz       2.5
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                7.5
 Peter Bradshaw              7.5
 Nick James                  7.5
@@ -1202,6 +1264,36 @@ Taotao              5
 Ming                7.5
 Emily Liang         5
 Hang Lu             7.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Lara                10
 canelka             10
@@ -1464,7 +1556,7 @@ Violeta Kovacsics     6
 Giovanni Marchini Camina 4
 Philipp Schwarz       6
 # screen daily
-Stephanie Zacharek          5
+#Stephanie Zacharek          5
 Justin Chang                7.5
 Peter Bradshaw              7.5
 Nick James                  7.5
@@ -1546,6 +1638,36 @@ Taotao              2.5
 Ming                2.5
 Emily Liang         5
 Hang Lu             9
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 monab               10
 bebe_garcon         10
@@ -1757,7 +1879,7 @@ Till Kadritzke        6
 Violeta Kovacsics     2.5
 Philipp Schwarz       6       https://www.critic.de/film/sorry-we-missed-you-13075/
 # screen daily
-Stephanie Zacharek          5
+#Stephanie Zacharek          5
 Justin Chang                5
 Peter Bradshaw              9
 Nick James                  5
@@ -1839,6 +1961,36 @@ Taotao              7.5
 Ming                5
 Emily Liang         9
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Artz                10
 Joel Whitaker       10
@@ -2090,7 +2242,7 @@ Violeta Kovacsics     7.5
 Giovanni Marchini Camina 2.5
 Philipp Schwarz       5
 # screen daily
-Stephanie Zacharek          2.5
+#Stephanie Zacharek          2.5
 Justin Chang                7.5
 Peter Bradshaw              2.5
 Nick James                  7.5
@@ -2172,6 +2324,36 @@ Taotao              7.5
 Ming                5
 Emily Liang         5
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/little-joe-2019/
 Ali Benzekri        8   https://letterboxd.com/alibenzekri/film/little-joe-2019/
@@ -2344,7 +2526,7 @@ Frédéric Jaeger     7.5
 Violeta Kovacsics     7.5
 Philipp Schwarz       7.5     https://www.critic.de/film/dolor-y-gloria-12684/
 # screen daily
-Stephanie Zacharek          9
+#Stephanie Zacharek          9
 Justin Chang                9
 Peter Bradshaw              7.5
 Nick James                  7.5
@@ -2426,6 +2608,36 @@ Taotao              5
 Ming                7.5
 Emily Liang         7.5
 Hang Lu             9
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Letterboxd 1175_Ratings	9.1  https://letterboxd.com/film/pain-and-glory/
 pmriolacci          10
@@ -2625,7 +2837,7 @@ Violeta Kovacsics     7.5
 Philipp Schwarz       7.5     https://www.critic.de/film/the-wild-goose-lake-13069/
 #Rüdiger Suchsland   7.5
 # screen daily
-Stephanie Zacharek          5
+#Stephanie Zacharek          5
 Justin Chang                7.5
 Peter Bradshaw              5
 Nick James                  5
@@ -2707,6 +2919,36 @@ Taotao              5
 Ming                7.5
 Emily Liang         5
 Hang Lu             7.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Sean Fahey          10   https://letterboxd.com/sfahey/film/the-wild-goose-lake/
 FilmLandEmpire      10
@@ -2879,7 +3121,7 @@ Till Kadritzke        6
 Violeta Kovacsics     9
 Giovanni Marchini Camina 5
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                7.5
 Peter Bradshaw              7.5
 Nick James                  7.5
@@ -2961,6 +3203,36 @@ Taotao              7.5
 Ming                5
 Emily Liang         5
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Alex Billington     10   https://letterboxd.com/firstshowing/film/the-whistlers/
 Max Borg            9
@@ -3105,7 +3377,7 @@ Violeta Kovacsics     9
 Giovanni Marchini Camina 2.5
 Philipp Schwarz       7.5
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                9
 Peter Bradshaw              9
 Nick James                  7.5
@@ -3187,6 +3459,36 @@ Taotao              7.5
 Ming                
 Emily Liang         9
 Hang Lu             
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 monab               10
 Anais Bordages      10
@@ -3413,7 +3715,7 @@ Violeta Kovacsics     5
 Giovanni Marchini Camina 2.5
 Philipp Schwarz       9       https://www.critic.de/film/a-hidden-life-13077/
 # screen daily
-Stephanie Zacharek          2.5
+#Stephanie Zacharek          2.5
 Justin Chang                9
 Peter Bradshaw              5
 Nick James                  2.5
@@ -3495,6 +3797,36 @@ Taotao
 Ming                7.5
 Emily Liang         7.5
 Hang Lu             7.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 rebeccah328         10
 Omar Franini        10
@@ -3737,7 +4069,7 @@ Violeta Kovacsics     5
 Giovanni Marchini Camina 1
 Philipp Schwarz       5       https://www.critic.de/film/young-ahmed-13034/
 # screen daily
-Stephanie Zacharek          2.5
+#Stephanie Zacharek          2.5
 Justin Chang                5
 Peter Bradshaw              5
 Nick James                  7.5
@@ -3819,6 +4151,36 @@ Taotao
 Ming                1
 Emily Liang         7.5
 Hang Lu             2.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 JelrikHupkes        10
 worldofgrimm        10
@@ -4013,7 +4375,7 @@ Till Kadritzke        7.5     https://www.critic.de/film/frankie-13080/
 Violeta Kovacsics     7.5
 Philipp Schwarz       6
 # screen daily
-Stephanie Zacharek          5
+#Stephanie Zacharek          5
 Justin Chang                5
 Peter Bradshaw              1
 Nick James                  5
@@ -4095,6 +4457,36 @@ Taotao              5
 Ming                2.5
 Emily Liang         5
 Hang Lu             7.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 A.A. Dowd           9   https://letterboxd.com/alexegers/film/frankie-2019/
 Andrea Rendón       9
@@ -4281,7 +4673,7 @@ Till Kadritzke        5
 Violeta Kovacsics     7.5
 Giovanni Marchini Camina 2.5
 # screen daily
-Stephanie Zacharek          9
+#Stephanie Zacharek          9
 Justin Chang                7.5
 Peter Bradshaw              9
 Nick James                  9
@@ -4363,6 +4755,36 @@ Taotao              9
 Ming                7.5
 Emily Liang         7.5
 Hang Lu             7.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Letterboxd 114_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 pffctgranger        10
@@ -4535,7 +4957,7 @@ Violeta Kovacsics     7.5
 Giovanni Marchini Camina 9
 Philipp Schwarz       9       https://www.critic.de/film/parasite-12988/
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                9
 Peter Bradshaw              7.5
 Nick James                  7.5
@@ -4617,7 +5039,36 @@ Taotao              9
 Ming                9
 Emily Liang         5
 Hang Lu             9
-#SupremeChun        10   https://letterboxd.com/supremechun/film/parasite-2019/
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Sean Fahey          10   https://letterboxd.com/sfahey/film/parasite-2019/
 Yasmin Omar         10   https://letterboxd.com/yasmin_omar6/film/parasite-2019/
@@ -4887,7 +5338,7 @@ Till Kadritzke        9
 Giovanni Marchini Camina 5
 Philipp Schwarz       7.5
 # screen daily
-Stephanie Zacharek          5
+#Stephanie Zacharek          5
 Justin Chang                5
 Peter Bradshaw              7.5
 Nick James                  5
@@ -4969,6 +5420,36 @@ Taotao              2.5
 Ming                7.5
 Emily Liang         5
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Sami Babboni        10
 mc                  10   https://letterboxd.com/mariecel/film/matthias-and-maxime/
@@ -5243,7 +5724,7 @@ Till Kadritzke        6       https://www.critic.de/film/oh-mercy-13070/
 Violeta Kovacsics     7.5
 Philipp Schwarz       6
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                5
 Peter Bradshaw              2.5
 Nick James                  5
@@ -5325,6 +5806,36 @@ Taotao              5
 Ming                5
 Emily Liang         5
 Hang Lu             7.5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Cinzia97            8
 ludovicbeot         8
@@ -5472,7 +5983,7 @@ Jenny Jecke           6
 Giovanni Marchini Camina 6
 Philipp Schwarz       2.5     https://www.critic.de/film/the-traitor-13031/
 # screen daily
-Stephanie Zacharek          7.5
+#Stephanie Zacharek          7.5
 Justin Chang                5
 Peter Bradshaw              5
 Nick James                  7.5
@@ -5554,6 +6065,36 @@ Taotao              7.5
 Ming                
 Emily Liang         9
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 _attis              10
 TeoMes              8
@@ -5602,7 +6143,7 @@ Till Kadritzke        7.5
 Giovanni Marchini Camina 1
 Philipp Schwarz       4
 # screen daily
-Stephanie Zacharek          1
+#Stephanie Zacharek          1
 Justin Chang                1     https://www.latimes.com/entertainment/movies/la-et-mn-cannes-mektoub-my-love-intermezzo-abdellatif-kechiche-20190523-story.html
 Peter Bradshaw              2.5
 Nick James                  2.5
@@ -5684,6 +6225,36 @@ Taotao              1
 Ming                5
 Emily Liang         2.5
 Hang Lu             5
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Francesco Zanatta   10   https://letterboxd.com/francesco_z/film/mektoub-my-love-intermezzo/
 otxjunior           10   https://letterboxd.com/otxjunior/film/mektoub-my-love-intermezzo/
@@ -5785,7 +6356,7 @@ Frédéric Jaeger     1
 Jenny Jecke           4
 Giovanni Marchini Camina 2.5
 # screen daily
-Stephanie Zacharek          
+#Stephanie Zacharek          
 Justin Chang                
 Peter Bradshaw              
 Nick James                  
@@ -5867,6 +6438,36 @@ Taotao
 Ming                
 Emily Liang         
 Hang Lu             
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Andrea Campinoti    10
 Illy Levi           10   https://letterboxd.com/illylevi/film/it-must-be-heaven/
@@ -5938,7 +6539,7 @@ Frédéric Jaeger     5
 Jenny Jecke           6
 Till Kadritzke        6       https://www.critic.de/film/sibyl-13057/
 # screen daily
-Stephanie Zacharek          
+#Stephanie Zacharek          
 Justin Chang                
 Peter Bradshaw              
 Nick James                  
@@ -6020,6 +6621,36 @@ Taotao
 Ming                
 Emily Liang         
 Hang Lu             
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
+# dk stjernebarometer
+Ariane Allard           
+Justin Chang           
+Claus Christensen      
+Nanna Frank Rasmussen  
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Damon Wise             
+Stephanie Zacharek     
+# kinoart.ru
+Egor Belikov        
+Julia Gulyan        
+Anton Dolin         
+Valery Kichin       
+Yegor Moskvitin     
+Andrey Plakhov      
+Zinaida Pronchenko  
+Vasily Stepanov     
+Peter Shepotinnik   
+Tatyana Shorokhova  
+Veronika Khlebnikov 
 #letterboxd
 Anais Bordages      10
 zzzzzzzzzpppp       10
@@ -6091,6 +6722,14 @@ dittedc             2
 
 #todas
 #critic.de
+# Les Inrockuptibles
+Emily Barnett       
+Bruno Deruisseau    
+Marilou Duponchel   
+Jacky Goldberg      
+Jean-Marc Lalanne   
+JB Morain           
+Théo Ribeton        
 #letterboxd
 Soplanit            8
 Cedric Muyres       6
@@ -14074,6 +14713,42 @@ Qin Wan (Phoenix, China)
 Emily Liang (EmilyFilms, USA)
 Zeyuan (Worldscreen, China)
 ";
+$critics_group[7] = "Les Inrockuptibles";
+$critics[7] = "
+Emily Barnett (Les Inrockuptibles, France)
+Bruno Deruisseau (, France)
+Marilou Duponchel (, France)
+Jacky Goldberg (, France)
+JM Lalanne (Les Inrockuptibles, France)
+JB Morain (, France)
+Théo Ribeton (, France)
+";
+$critics_group[8] = "dk stjernebarometer";
+$critics[8] = "
+Ariane Allard (Positif, France)
+Justin Chang (LA Times, USA)	
+Claus Christensen (Ekko, Danmark)
+Nanna  Frank Rasmussen (Jyllands-Posten, Danmark)	
+Kjetil Lismoen (Aftenposten, Norge)	
+Lee Marshall (Screen, England)	
+Pragya Mishra (Dainik Prabhat Kiran, Indien)	
+Damon Wise (Uncut, England)
+Stephanie Zacharek (Time, USA)
+";
+$critics_group[9] = "kinoart.ru";
+$critics[9] = "
+Egor Belikov (, Ru)
+Julia Gulyan (, Ru)
+Anton Dolin (, Ru)
+Valery Kichin (, Ru)
+Yegor Moskvitin (, Ru)
+Andrey Plakhov (, Ru)
+Zinaida Pronchenko (, Ru)
+Vasily Stepanov (, Ru)
+Peter Shepotinnik (, Ru)
+Tatyana Shorokhova (, Ru)
+Veronika Khlebnikov (, Ru)
+";
 # $critics_group[7] = "TF1.fr";
 #$critics[7] = "
 #Aurelien Allin (Cinemateaser, France)
@@ -14087,8 +14762,8 @@ Zeyuan (Worldscreen, China)
 #Caroline Vie (20 minutes, Suisse)
 #";
 # indiewire + various other
-$critics_group[7] = "Other";
-$critics[7] = "
+$critics_group[10] = "Other";
+$critics[10] = "
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
 Aaron Hillis (GreenCine Daily, USA)
@@ -14314,8 +14989,8 @@ Yair Raveh (Cinema Scope, Israel)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
 ";
-$critics_group[8] = "Letterboxd";
-$critics[8] = "
+$critics_group[11] = "Letterboxd";
+$critics[11] = "
 Aaron Salazar (Filmmaker, USA)
 Alexis Chrys (Filmbuff, Greece)
 Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
@@ -14362,6 +15037,7 @@ http://jury.critic.de/cannes/ (german),
 Screen Daily (US/UK mainstream),
 http://twitter.com/CriticsGrid (chinese),
 ICS Critics & Industry Panel (mixed),
+Les Inrockuptibles, Danish and Russian polls, 
 http://letterboxd.com/rurban/list/cannes-2019-1/ (the industry),
 and the usual papers and individual critics on site.<br>
 
