@@ -1,8 +1,12 @@
 .project
 TAGS
+plackup.sh
 Cannes20*.html.text
 Cannes20*.html
 Cannes20*.dat
+todas.pl
+todas20[0-9][0-9].dat
+todas20[0-9][0-9].html
 Critic.de.pl
 Critic.de.berlin.pl
 Critic.de.dat
@@ -28,6 +32,8 @@ screendaily.dat
 screendaily.pl
 variety.dat
 variety.pl
+calmos-emoji.dat
+calmos-emoji.pl
 awardswatch.dat
 awardswatch.pl
 perlentaucher.dat
