@@ -14,13 +14,11 @@ package Cannes::rurban::2019; # -*- perl -*-
 # dk,ru,FNE 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# Polls:
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2019
 #   http://jury.critic.de/cannes/
-#   http://variety.com/c/reviews/
-#   http://www.hollywoodreporter.com/topic/movie-reviews
-#   https://www.screendaily.com/reviews/festivals/cannes
 #   https://www.screendaily.com/cannes-2019-screens-dailies/5139341.article
 #   https://icsfilm.org/features/cannes-2019-ics-critics-industry-panel/
 #   https://twitter.com/CriticsGrid
@@ -32,7 +30,11 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   http://www.chaosreign.fr/cannes-2019-etoiles-kechiche-miserables-douleur-gloire-almodovar-malick-sciamma-tarantino-bong-joon-ho-palme-dolan-roubaix-kechiche-palmometre/
 #   https://mediacine.club/?p=1175
 #   https://twitter.com/MehdiOmais/status/1132228599224971265
-# More:
+# Reviews:
+#   http://variety.com/c/reviews/
+#   http://www.hollywoodreporter.com/topic/movie-reviews
+#   https://www.screendaily.com/reviews/festivals/cannes
+#   https://www.indiewire.com/t/cannes
 #   https://thefilmstage.com/?tags=cannes-2019
 #   https://www.theguardian.com/film/cannes-2019
 #   https://www.thewrap.com/
