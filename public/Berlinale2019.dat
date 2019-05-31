@@ -2,6 +2,8 @@ package Berlinale::rurban::2019; # -*- perl -*-
 # Berlinale 2019 Critics Ratings
 # 7.2 - 17.2
 
+# TODO https://www.filmneweurope.com/images/FNE%20Critics/BerlinaleCritics2019.pdf
+
 use utf8;
 our $DATA= <<'EOF';
 

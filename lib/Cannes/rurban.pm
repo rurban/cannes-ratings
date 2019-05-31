@@ -39,6 +39,8 @@ sub _read {
         } else {
           ($critic,$mag,$cn) = ($1,'',$2);
         }
+      } else {
+        ($critic,$mag,$cn) = ($_,'','');
       }
       next unless $critic;
       $critic =~ s/\s+$//;

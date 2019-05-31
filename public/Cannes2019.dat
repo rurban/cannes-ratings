@@ -14,6 +14,7 @@ package Cannes::rurban::2019; # -*- perl -*-
 # dk 1-5: x2
 # ru 1-5: x2
 # British 0-5: x2
+# FNE 1-5?: 1: 1, 2: 2.5, 3: 5, 4: 7.5, 5: 9
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
@@ -28,7 +29,13 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   http://cannes.lesinrocks.com/cannes2019/
 #   https://kinoart.ru/cannes2019/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2019/
+# TODO:
 #   http://cannes.calmos.net/emoji (not yet properly matched)
+
+#   http://filmneweurope.com/images/FNE%20Critics/cannes2019critics%20-%20Sheet1.pdf
+#   http://www.chaosreign.fr/cannes-2019-etoiles-kechiche-miserables-douleur-gloire-almodovar-malick-sciamma-tarantino-bong-joon-ho-palme-dolan-roubaix-kechiche-palmometre/
+#   https://mediacine.club/?p=1175
+#   https://twitter.com/MehdiOmais/status/1132228599224971265
 # More:
 #   https://thefilmstage.com/?tags=cannes-2019
 #   https://www.theguardian.com/film/cannes-2019
@@ -223,6 +230,27 @@ Vasily Stepanov        6
 Peter Shepotinnik      4
 Tatyana Shorokhova     6
 Veronika Khlebnikov    6
+# FNE Critics
+Alberto Ramos          6
+Andrea Martini         6
+Anna Serdiukow         4
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     2
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      4
+Joao Antunes           2
+Jorge Gutman           2
+Jose Luis Losa         4
+Kerem Akca             6
+Kirill Razlogov        4
+Marco Zucchi           4
+Ninos Mikelides        8
+Pamela Jahn            6
+Rita Di Santo          2
+Vecdi Sayar            4
 #letterboxd
 ReallyBadBook       10
 Noria               10
@@ -963,6 +991,27 @@ Vasily Stepanov        6
 Peter Shepotinnik      6
 Tatyana Shorokhova     8
 Veronika Khlebnikov    2
+# FNE Critics
+Alberto Ramos          6
+Andrea Martini         6
+Anna Serdiukow         6
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     4
+Gyenge Zsolt           8
+Isabelle Danel         8
+Janusz Wróblewski      6
+Joao Antunes           8
+Jorge Gutman           8
+Jose Luis Losa         6
+Kerem Akca             4
+Kirill Razlogov        6
+Marco Zucchi           6
+Ninos Mikelides        6
+Pamela Jahn            8
+Rita Di Santo          8
+Vecdi Sayar            8
 #letterboxd
 Natasha Ferguson    10
 Eupholea            10
@@ -1359,6 +1408,27 @@ Vasily Stepanov
 Peter Shepotinnik   6
 Tatyana Shorokhova  6
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          8
+Andrea Martini         6
+Anna Serdiukow         8
+Barbara Lorey          6
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     2
+Gyenge Zsolt           8
+Isabelle Danel         8
+Janusz Wróblewski      6
+Joao Antunes           4
+Jorge Gutman           8
+Jose Luis Losa         8
+Kerem Akca             4
+Kirill Razlogov        
+Marco Zucchi           8
+Ninos Mikelides        6
+Pamela Jahn            6
+Rita Di Santo          6
+Vecdi Sayar            4
 #letterboxd
 pierreemo           10
 MoaraPassoni        10   https://letterboxd.com/moarapassoni/film/bacurau/
@@ -1765,6 +1835,27 @@ Vasily Stepanov
 Peter Shepotinnik   2
 Tatyana Shorokhova  4
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         6
+Anna Serdiukow         8
+Barbara Lorey          4
+Bojidar Manov          
+Eva Peydro             4
+Gautaman Bhaskaran     2
+Gyenge Zsolt           6
+Isabelle Danel         6
+Janusz Wróblewski      8
+Joao Antunes           2
+Jorge Gutman           6
+Jose Luis Losa         6
+Kerem Akca             6
+Kirill Razlogov        6
+Marco Zucchi           6
+Ninos Mikelides        
+Pamela Jahn            4
+Rita Di Santo          8
+Vecdi Sayar            4
 #letterboxd
 Solène Charton      10
 Ben                 10
@@ -2140,6 +2231,27 @@ Vasily Stepanov     8
 Peter Shepotinnik   6
 Tatyana Shorokhova  4
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          10
+Andrea Martini         8
+Anna Serdiukow         6
+Barbara Lorey          10
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     4
+Gyenge Zsolt           8
+Isabelle Danel         10
+Janusz Wróblewski      8
+Joao Antunes           5
+Jorge Gutman           10
+Jose Luis Losa         2
+Kerem Akca             
+Kirill Razlogov        4
+Marco Zucchi           8
+Ninos Mikelides        10
+Pamela Jahn            6
+Rita Di Santo          8
+Vecdi Sayar            8
 #letterboxd
 mememily            10   https://letterboxd.com/emforce/film/sorry-we-missed-you/
 Julie               10   https://letterboxd.com/julielavigne/film/sorry-we-missed-you/
@@ -2538,6 +2650,27 @@ Vasily Stepanov     6
 Peter Shepotinnik   4
 Tatyana Shorokhova  
 Veronika Khlebnikov 4
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         4
+Anna Serdiukow         8
+Barbara Lorey          6
+Bojidar Manov          
+Eva Peydro             4
+Gautaman Bhaskaran     2
+Gyenge Zsolt           4
+Isabelle Danel         2
+Janusz Wróblewski      4
+Joao Antunes           6
+Jorge Gutman           
+Jose Luis Losa         8
+Kerem Akca             6
+Kirill Razlogov        4
+Marco Zucchi           6
+Ninos Mikelides        6
+Pamela Jahn            6
+Rita Di Santo          4
+Vecdi Sayar            4
 #letterboxd
 Julie               9   https://letterboxd.com/julielavigne/film/little-joe-2019/
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/little-joe-2019/
@@ -2886,6 +3019,27 @@ Vasily Stepanov
 Peter Shepotinnik   8
 Tatyana Shorokhova  6
 Veronika Khlebnikov 10
+# FNE Critics
+Alberto Ramos          4
+Andrea Martini         8
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     4
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      10
+Joao Antunes           8
+Jorge Gutman           10
+Jose Luis Losa         4
+Kerem Akca             6
+Kirill Razlogov        6
+Marco Zucchi           8
+Ninos Mikelides        8
+Pamela Jahn            6
+Rita Di Santo          10
+Vecdi Sayar            8
 #letterboxd
 Letterboxd 1175_Ratings	9.1  https://letterboxd.com/film/pain-and-glory/
 pmriolacci          10
@@ -3205,6 +3359,27 @@ Vasily Stepanov
 Peter Shepotinnik   4
 Tatyana Shorokhova  8
 Veronika Khlebnikov 4
+# FNE Critics
+Alberto Ramos          8
+Andrea Martini         6
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           8
+Isabelle Danel         6
+Janusz Wróblewski      6
+Joao Antunes           4
+Jorge Gutman           
+Jose Luis Losa         6
+Kerem Akca             6
+Kirill Razlogov        6
+Marco Zucchi           8
+Ninos Mikelides        8
+Pamela Jahn            
+Rita Di Santo          8
+Vecdi Sayar            4
 #letterboxd
 Sean Fahey          10   https://letterboxd.com/sfahey/film/the-wild-goose-lake/
 FilmLandEmpire      10
@@ -3522,6 +3697,27 @@ Vasily Stepanov     10
 Peter Shepotinnik   4
 Tatyana Shorokhova  
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          8
+Andrea Martini         8
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             4
+Gautaman Bhaskaran     4
+Gyenge Zsolt           6
+Isabelle Danel         8
+Janusz Wróblewski      6
+Joao Antunes           4
+Jorge Gutman           6
+Jose Luis Losa         8
+Kerem Akca             4
+Kirill Razlogov        4
+Marco Zucchi           2
+Ninos Mikelides        4
+Pamela Jahn            8
+Rita Di Santo          6
+Vecdi Sayar            4
 #letterboxd
 Alex Billington     10   https://letterboxd.com/firstshowing/film/the-whistlers/
 Max Borg            9
@@ -3805,6 +4001,27 @@ Vasily Stepanov
 Peter Shepotinnik   6
 Tatyana Shorokhova  
 Veronika Khlebnikov 
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         6
+Anna Serdiukow         10
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             8
+Gautaman Bhaskaran     2
+Gyenge Zsolt           
+Isabelle Danel         8
+Janusz Wróblewski      10
+Joao Antunes           4
+Jorge Gutman           8
+Jose Luis Losa         10
+Kerem Akca             6
+Kirill Razlogov        8
+Marco Zucchi           6
+Ninos Mikelides        4
+Pamela Jahn            10
+Rita Di Santo          6
+Vecdi Sayar            8
 #letterboxd
 TraviSancho         10
 Natasha Ferguson    10
@@ -4276,6 +4493,27 @@ Vasily Stepanov     8
 Peter Shepotinnik   6
 Tatyana Shorokhova  10
 Veronika Khlebnikov 10
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         6
+Anna Serdiukow         
+Barbara Lorey          10
+Bojidar Manov          
+Eva Peydro             10
+Gautaman Bhaskaran     4
+Gyenge Zsolt           10
+Isabelle Danel         8
+Janusz Wróblewski      10
+Joao Antunes           8
+Jorge Gutman           6
+Jose Luis Losa         2
+Kerem Akca             6
+Kirill Razlogov        6
+Marco Zucchi           10
+Ninos Mikelides        10
+Pamela Jahn            6
+Rita Di Santo          8
+Vecdi Sayar            10
 #letterboxd
 Brett Robinson      10   https://letterboxd.com/beingbrettr/film/a-hidden-life-2019/
 colossalmess        10
@@ -4689,6 +4927,27 @@ Vasily Stepanov     4
 Peter Shepotinnik   8
 Tatyana Shorokhova  8
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          10
+Andrea Martini         8
+Anna Serdiukow         
+Barbara Lorey          6
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     4
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      6
+Joao Antunes           6
+Jorge Gutman           8
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        4
+Marco Zucchi           4
+Ninos Mikelides        8
+Pamela Jahn            4
+Rita Di Santo          8
+Vecdi Sayar            8
 #letterboxd
 JelrikHupkes        10
 worldofgrimm        10
@@ -5057,6 +5316,27 @@ Vasily Stepanov     6
 Peter Shepotinnik   8
 Tatyana Shorokhova  4
 Veronika Khlebnikov 
+# FNE Critics
+Alberto Ramos          6
+Andrea Martini         4
+Anna Serdiukow         
+Barbara Lorey          2
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     2
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      4
+Joao Antunes           4
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             2
+Kirill Razlogov        
+Marco Zucchi           2
+Ninos Mikelides        
+Pamela Jahn            6
+Rita Di Santo          2
+Vecdi Sayar            8
 #letterboxd
 A.A. Dowd           9   https://letterboxd.com/alexegers/film/frankie-2019/
 Andrea Rendón       9
@@ -5380,6 +5660,27 @@ Vasily Stepanov     10
 Peter Shepotinnik   8
 Tatyana Shorokhova  6
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         6
+Anna Serdiukow         8
+Barbara Lorey          4
+Bojidar Manov          
+Eva Peydro             8
+Gautaman Bhaskaran     2
+Gyenge Zsolt           
+Isabelle Danel         2
+Janusz Wróblewski      8
+Joao Antunes           8
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        6
+Marco Zucchi           6
+Ninos Mikelides        6
+Pamela Jahn            6
+Rita Di Santo          6
+Vecdi Sayar            4
 #letterboxd
 Letterboxd 114_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 Constantinos20      10
@@ -5692,6 +5993,27 @@ Vasily Stepanov     10
 Peter Shepotinnik   6
 Tatyana Shorokhova  10
 Veronika Khlebnikov 4
+# FNE Critics
+Alberto Ramos          10
+Andrea Martini         6
+Anna Serdiukow         10
+Barbara Lorey          10
+Bojidar Manov          
+Eva Peydro             10
+Gautaman Bhaskaran     4
+Gyenge Zsolt           
+Isabelle Danel         8
+Janusz Wróblewski      6
+Joao Antunes           4
+Jorge Gutman           8
+Jose Luis Losa         
+Kerem Akca             8
+Kirill Razlogov        8
+Marco Zucchi           8
+Ninos Mikelides        8
+Pamela Jahn            10
+Rita Di Santo          8
+Vecdi Sayar            10
 #letterboxd
 Dysan Aufar         10
 Raspou              10   https://letterboxd.com/raspou/film/parasite-2019/
@@ -6199,6 +6521,27 @@ Vasily Stepanov
 Peter Shepotinnik   2
 Tatyana Shorokhova  4
 Veronika Khlebnikov 8
+# FNE Critics
+Alberto Ramos          2
+Andrea Martini         6
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     2
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      4
+Joao Antunes           
+Jorge Gutman           4
+Jose Luis Losa         
+Kerem Akca             4
+Kirill Razlogov        4
+Marco Zucchi           6
+Ninos Mikelides        6
+Pamela Jahn            6
+Rita Di Santo          2
+Vecdi Sayar            4
 #letterboxd
 Natasha Ferguson    10
 liztresidder        10
@@ -6644,6 +6987,27 @@ Vasily Stepanov     4
 Peter Shepotinnik   6
 Tatyana Shorokhova  
 Veronika Khlebnikov 6
+# FNE Critics
+Alberto Ramos          4
+Andrea Martini         8
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     4
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      6
+Joao Antunes           
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             2
+Kirill Razlogov        
+Marco Zucchi           4
+Ninos Mikelides        6
+Pamela Jahn            4
+Rita Di Santo          2
+Vecdi Sayar            6
 #letterboxd
 Michael Bo          8
 Cinzia97            8
@@ -6925,6 +7289,27 @@ Vasily Stepanov     10
 Peter Shepotinnik   8
 Tatyana Shorokhova  6
 Veronika Khlebnikov 10
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         8
+Anna Serdiukow         
+Barbara Lorey          10
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      8
+Joao Antunes           
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        6
+Marco Zucchi           8
+Ninos Mikelides        
+Pamela Jahn            6
+Rita Di Santo          10
+Vecdi Sayar            6
 #letterboxd
 alexi21             10
 Matteo Messina      10
@@ -7097,6 +7482,27 @@ Vasily Stepanov     10
 Peter Shepotinnik   2
 Tatyana Shorokhova  2
 Veronika Khlebnikov 10
+# FNE Critics
+Alberto Ramos           
+Andrea Martini         6
+Anna Serdiukow         4
+Barbara Lorey          8
+Bojidar Manov           
+Eva Peydro              
+Gautaman Bhaskaran     4
+Gyenge Zsolt            
+Isabelle Danel         4
+Janusz Wróblewski       
+Joao Antunes            
+Jorge Gutman            
+Jose Luis Losa          
+Kerem Akca              
+Kirill Razlogov        6
+Marco Zucchi           8
+Ninos Mikelides         
+Pamela Jahn            6
+Rita Di Santo          2
+Vecdi Sayar            6
 #letterboxd
 Francesco Zanatta   10   https://letterboxd.com/francesco_z/film/mektoub-my-love-intermezzo/
 otxjunior           10   https://letterboxd.com/otxjunior/film/mektoub-my-love-intermezzo/
@@ -7337,6 +7743,27 @@ Vasily Stepanov     8
 Peter Shepotinnik   4
 Tatyana Shorokhova  6
 Veronika Khlebnikov 
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          6
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           8
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        4
+Marco Zucchi           4
+Ninos Mikelides        8
+Pamela Jahn            8
+Rita Di Santo          8
+Vecdi Sayar            8
 #letterboxd
 sandraghosn         10
 Carlos Gómez Iniesta 10
@@ -7566,6 +7993,27 @@ Vasily Stepanov
 Peter Shepotinnik   4
 Tatyana Shorokhova  6
 Veronika Khlebnikov 
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        4
+Marco Zucchi           2
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          6
+Vecdi Sayar            8
 #letterboxd
 Anais Bordages      10
 zzzzzzzzzpppp       10
@@ -16461,8 +16909,9 @@ Dead_Heat           2
 EOF
 
 our (@critics, @critics_group);
-$critics_group[0] = "Todas";
-$critics[0] = "
+my $i=0;
+$critics_group[$i] = "Todas";
+$critics[$i++] = "
 Alejandro G. Calvo (Sensacine, España)
 Alejandra Trelles (International Film Festival Uruguay, Uruguay)
 Alex Vicente (Público, España) 
@@ -16525,9 +16974,9 @@ Nicolás Kusmin (OtrosCines, Argentina)
 Carlota Moseguí (El Septimo Arte, España)
 Agustín Mango (The Hollywood Reporter, Argentina)
 ";
-$critics_group[1] = "ioncinema";
+$critics_group[$i] = "ioncinema";
 # https://www.ioncinema.com/news/film-festivals/2018-cannes-critics-panel-day-1-asghar-farhadi-everybody-knows
-$critics[1] = "
+$critics[$i++] = "
 Marta Balaga (Episodi / Cineuropa, Poland)
 Beatrice Behn (Kino-Zeit, Deutschland)
 Nicholas Bell (Ioncinema.com, USA)
@@ -16551,8 +17000,8 @@ Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 ";
 # Le film français 0-4
 # http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
-$critics_group[2] = "Le film français";
-$critics[2] = "
+$critics_group[$i] = "Le film français";
+$critics[$i++] = "
 Gaël Golhen (Premiere, France)
 Pierre Vavasseur (le Parisien, France)
 Stéphane Delorme (Cahiers du cinema, France)
@@ -16571,8 +17020,8 @@ Mathilde Cesbron (Le Point, France)
 ";
 # screen daily 0-4
 # https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
-$critics_group[3] = "Screen Daily";
-$critics[3] = "
+$critics_group[$i] = "Screen Daily";
+$critics[$i++] = "
 Stephanie Zacharek (Time Magazine, USA)
 Justin Chang (LA Times, USA)
 Peter Bradshaw (Guardian, UK) 
@@ -16585,8 +17034,8 @@ Anton Dolin (Meduza, Russia)
 Screen International (Screen International, USA) 
 ";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
-$critics_group[4] = "critic.de";
-$critics[4] = "
+$critics_group[$i] = "critic.de";
+$critics[$i++] = "
 Andrey Arnold (Die Presse, Austria)
 Pamela Bienzobas (Cinema23, Chile) 
 Annabel Brady-Brown (Fireflies, UK)
@@ -16602,8 +17051,8 @@ Rüdiger Suchsland (arteschock, Deutschland)
 Blake Williams (Filmmaker Magazine, Canada)
 ";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
-$critics_group[5] = "ICSfilm panel";
-$critics[5] = "
+$critics_group[$i] = "ICSfilm panel";
+$critics[$i++] = "
 Cédric Succivalli (International Cinephil Society, France)
 Emily Barnett (Les Inrockuptibles, France)
 Elisabeth Franck-Dumas (Libération, France)
@@ -16627,9 +17076,9 @@ Jon Frosch (The Hollywood Reporter, USA)
 Nicholas Bell (ioncinema, USA)
 Dennis Lim (Film Society Lincoln Center, USA)
 ";
-$critics_group[6] = "Chinese Grid";
+$critics_group[$i] = "Chinese Grid";
 # https://twitter.com/CriticsGrid
-$critics[6] = "
+$critics[$i++] = "
 Li Xun (CTP Cinema, China)
 Liu Min (Sina Movie, China)
 Muyan (Ellemen, France)
@@ -16642,8 +17091,8 @@ Qin Wan (Phoenix, China)
 Emily Liang (EmilyFilms, USA)
 Zeyuan (Worldscreen, China)
 ";
-$critics_group[7] = "Les Inrockuptibles";
-$critics[7] = "
+$critics_group[$i] = "Les Inrockuptibles";
+$critics[$i++] = "
 Emily Barnett (Les Inrockuptibles, France)
 Bruno Deruisseau (Les Inrockuptibles, France)
 Marilou Duponchel (Les Inrockuptibles, France)
@@ -16652,8 +17101,8 @@ JM Lalanne (Les Inrockuptibles, France)
 JB Morain (Les Inrockuptibles, France)
 Théo Ribeton (Les Inrockuptibles, France)
 ";
-$critics_group[8] = "dk stjernebarometer";
-$critics[8] = "
+$critics_group[$i] = "dk stjernebarometer";
+$critics[$i++] = "
 Ariane Allard (Positif, France)
 Justin Chang (LA Times, USA)	
 Claus Christensen (Ekko, Danmark)
@@ -16664,8 +17113,8 @@ Pragya Mishra (Dainik Prabhat Kiran, Indien)
 Damon Wise (Uncut, UK)
 Stephanie Zacharek (Time, USA)
 ";
-$critics_group[9] = "kinoart.ru";
-$critics[9] = "
+$critics_group[$i] = "kinoart.ru";
+$critics[$i++] = "
 Egor Belikov (, Ru)
 Julia Gulyan (, Ru)
 Anton Dolin (, Ru)
@@ -16678,8 +17127,8 @@ Peter Shepotinnik (, Ru)
 Tatyana Shorokhova (, Ru)
 Veronika Khlebnikov (, Ru)
   ";
-$critics_group[10] = "calmos emoji";
-$critics[10] = "
+$critics_group[$i] = "calmos emoji";
+$critics[$i++] = "
 Hugo Alexandre (calmos.net, France)
 David Honnorat (calmos.net, France)
 Anaïs Bordages (Slate.fr, France)
@@ -16688,8 +17137,31 @@ Perrine Quennesson (French Film, France)
 Lucile Bellan (Artistik Rezo, France)
 Thomas Gastaldi (Wask / FilmDeCulte, France)
 ";
-#$critics_group[7] = "TF1.fr";
-#$critics[7] = "
+$critics_group[$i] = "FNE Critics";
+$critics[$i++] = "
+Alberto Ramos (Havana International Festival, Cuba)
+Andrea Martini (La Nazione/Il Giorno, Italy)
+Anna Serdiukow (Kultura Liberalna/Cinergia European Cinema Forum, Poland)
+Barbara Lorey (Freelance, France)
+Bojidar Manov (Critic/Journalist, Bulgaria)
+Eva Peydro (El Hype, Spain)
+Gautaman Bhaskaran (Seoul Times/Hindustan Times, India)
+Gyenge Zsolt (Film critic/Academic, Hungary)
+Isabelle Danel (Freelance, France)
+Janusz Wróblewski (Polityka, Poland)
+Joao Antunes (Jornal de Notícias, Portugal)
+Jorge Gutman (El Popular, Canada)
+Jose Luis Losa (Cineuropa Film Festival, Spain)
+Kerem Akca (Film critic, Turkey)
+Kirill Razlogov (Culture and Art, Russia)
+Marco Zucchi (Semaine/Locarno, Suisse)
+Ninos Mikelides (ELEFTHEROTYPIA, Greece)
+Pamela Jahn (Electric Sheep, UK)
+Rita Di Santo (Freelance, UK)
+Vecdi Sayar (Hurriyet, Turkey)
+";
+#$critics_group[$i] = "TF1.fr";
+#$critics[$i++] = "
 #Aurelien Allin (Cinemateaser, France)
 #Evangeline Barbaroux (LCI, France)
 #Thomas Baurez (Studio CineLive, France)
@@ -16701,8 +17173,8 @@ Thomas Gastaldi (Wask / FilmDeCulte, France)
 #Caroline Vie (20 minutes, Suisse)
 #";
 # indiewire + various other
-$critics_group[11] = "Other";
-$critics[11] = "
+$critics_group[$i] = "Other";
+$critics[$i++] = "
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
 Aaron Hillis (GreenCine Daily, USA)
@@ -16927,8 +17399,8 @@ Yair Raveh (Cinema Scope, Israel)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
 ";
-$critics_group[12] = "Letterboxd";
-$critics[12] = "
+$critics_group[$i] = "Letterboxd";
+$critics[$i++] = "
 Aaron Salazar (Filmmaker, USA)
 Alexis Chrys (Filmbuff, Greece)
 Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
