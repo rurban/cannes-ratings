@@ -18,6 +18,9 @@ ber[12][0-9]/
 sun[12][0-9]/
 c[12][0-9]/
 20*.pl
+dkstjernebarometer.pl
+kinoart.ru.pl
+lesinrocks.pl
 indiewire.dat
 indiewire.pl
 guardian.dat
