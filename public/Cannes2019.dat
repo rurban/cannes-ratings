@@ -10,7 +10,7 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   D+ 1.5  D 1   D- 1
 #   E 0.5   F 0
 # indiewire does C => 4
-# Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# Le film français+Screen Daily+Media Cine 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # dk,ru,FNE 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -29,9 +29,9 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2019/
 #   http://cannes.calmos.net/emoji (not yet properly matched)
 #   http://filmneweurope.com/images/FNE%20Critics/cannes2019critics%20-%20Sheet1.pdf
-# TODO:
 #   http://www.chaosreign.fr/cannes-2019-etoiles-kechiche-miserables-douleur-gloire-almodovar-malick-sciamma-tarantino-bong-joon-ho-palme-dolan-roubaix-kechiche-palmometre/
 #   https://mediacine.club/?p=1175
+# TODO:
 #   https://twitter.com/MehdiOmais/status/1132228599224971265
 # More:
 #   https://thefilmstage.com/?tags=cannes-2019
@@ -259,6 +259,40 @@ Ninos Mikelides        8
 Pamela Jahn            6
 Rita Di Santo          2
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 ReallyBadBook       10
 Noria               10
@@ -1031,6 +1065,40 @@ Ninos Mikelides        6
 Pamela Jahn            8
 Rita Di Santo          8
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Natasha Ferguson    10
 Eupholea            10
@@ -1459,6 +1527,40 @@ Ninos Mikelides        6
 Pamela Jahn            6
 Rita Di Santo          6
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 pierreemo           10
 MoaraPassoni        10   https://letterboxd.com/moarapassoni/film/bacurau/
@@ -1897,6 +1999,40 @@ Ninos Mikelides
 Pamela Jahn            4
 Rita Di Santo          8
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Solène Charton      10
 Ben                 10
@@ -2304,6 +2440,40 @@ Ninos Mikelides        10
 Pamela Jahn            6
 Rita Di Santo          8
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 mememily            10   https://letterboxd.com/emforce/film/sorry-we-missed-you/
 Julie               10   https://letterboxd.com/julielavigne/film/sorry-we-missed-you/
@@ -2734,6 +2904,40 @@ Ninos Mikelides        6
 Pamela Jahn            6
 Rita Di Santo          4
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Julie               9   https://letterboxd.com/julielavigne/film/little-joe-2019/
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/little-joe-2019/
@@ -3114,6 +3318,40 @@ Ninos Mikelides        8
 Pamela Jahn            6
 Rita Di Santo          10
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Letterboxd 1175_Ratings	9.1  https://letterboxd.com/film/pain-and-glory/
 pmriolacci          10
@@ -3465,6 +3703,40 @@ Ninos Mikelides        8
 Pamela Jahn            
 Rita Di Santo          8
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Sean Fahey          10   https://letterboxd.com/sfahey/film/the-wild-goose-lake/
 FilmLandEmpire      10
@@ -3814,6 +4086,40 @@ Ninos Mikelides        4
 Pamela Jahn            8
 Rita Di Santo          6
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Alex Billington     10   https://letterboxd.com/firstshowing/film/the-whistlers/
 Max Borg            9
@@ -4129,6 +4435,40 @@ Ninos Mikelides        4
 Pamela Jahn            10
 Rita Di Santo          6
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 TraviSancho         10
 Natasha Ferguson    10
@@ -4632,6 +4972,40 @@ Ninos Mikelides        10
 Pamela Jahn            6
 Rita Di Santo          8
 Vecdi Sayar            10
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Brett Robinson      10   https://letterboxd.com/beingbrettr/film/a-hidden-life-2019/
 colossalmess        10
@@ -5077,6 +5451,40 @@ Ninos Mikelides        8
 Pamela Jahn            4
 Rita Di Santo          8
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 JelrikHupkes        10
 worldofgrimm        10
@@ -5477,6 +5885,40 @@ Ninos Mikelides
 Pamela Jahn            6
 Rita Di Santo          2
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 A.A. Dowd           9   https://letterboxd.com/alexegers/film/frankie-2019/
 Andrea Rendón       9
@@ -5832,6 +6274,40 @@ Ninos Mikelides        6
 Pamela Jahn            6
 Rita Di Santo          6
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Letterboxd 114_Ratings	9.2  https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 Constantinos20      10
@@ -6176,6 +6652,40 @@ Ninos Mikelides        8
 Pamela Jahn            10
 Rita Di Santo          8
 Vecdi Sayar            10
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Dysan Aufar         10
 Raspou              10   https://letterboxd.com/raspou/film/parasite-2019/
@@ -6715,6 +7225,40 @@ Ninos Mikelides        6
 Pamela Jahn            6
 Rita Di Santo          2
 Vecdi Sayar            4
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Natasha Ferguson    10
 liztresidder        10
@@ -7192,6 +7736,40 @@ Ninos Mikelides        6
 Pamela Jahn            4
 Rita Di Santo          2
 Vecdi Sayar            6
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Michael Bo          8
 Cinzia97            8
@@ -7505,6 +8083,40 @@ Ninos Mikelides
 Pamela Jahn            6
 Rita Di Santo          10
 Vecdi Sayar            6
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Francesco Torto     10   https://letterboxd.com/letterino/film/the-traitor-2019/
 EsorciccioBerg      10
@@ -7998,6 +8610,40 @@ Ninos Mikelides
 Pamela Jahn            6
 Rita Di Santo          2
 Vecdi Sayar            6
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Francesco Zanatta   10   https://letterboxd.com/francesco_z/film/mektoub-my-love-intermezzo/
 otxjunior           10   https://letterboxd.com/otxjunior/film/mektoub-my-love-intermezzo/
@@ -8270,6 +8916,40 @@ Ninos Mikelides        8
 Pamela Jahn            8
 Rita Di Santo          8
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 sandraghosn         10
 Carlos Gómez Iniesta 10
@@ -8531,6 +9211,40 @@ Ninos Mikelides
 Pamela Jahn            
 Rita Di Santo          6
 Vecdi Sayar            8
+# Club Média Ciné
+Sophie Avon            
+Renaud Baronian        
+Stéphanie Belpêche     
+Olivier Benkemoun      
+Samuel Blumenfeld      
+Olivier Bousquet       
+Charlotte Bouteloup    
+Camille Choteau        
+Bruno Cras             
+Francoise Delbeque     
+Laurent Delmas         
+Sarah Drouhaud         
+Thierry Gandillot      
+Sabine Gorny           
+Marie-Jo Jouan         
+Sophie Laubie          
+Fabrice Leclerc        
+Florence Leroy         
+Bertrand Lesguillons   
+Maryline Letertre      
+Candice Mahout         
+Lisa Nesselson         
+Maximilien Pierrette   
+Bertrand Neau          
+Eric Neuhoff           
+Mehdi Omais            
+Perrine Quennesson     
+Philipe Royer          
+Marie Sauvion          
+Nicolas Schaller       
+Emmanuelle Spadacenta   
+Caroline Vié           
+Pierre Zéni            
 #letterboxd
 Anais Bordages      10
 zzzzzzzzzpppp       10
@@ -18541,6 +19255,43 @@ Julien Gester (Libération, France)
 Jean-Jacky Goldberg (Les Inrocks, France) 
 Philippe Rouyer (Positif, France) 
 Jordan Ruimy  (The Playlist, Canada)
+";
+# https://mediacine.club/?p=1175
+$critics_group[$i] = "Club Média Ciné";
+$critics[$i++] = "
+Sophie Avon (Sud Ouest, France)
+Renaud Baronian (Le Parisien, France)
+Stéphanie Belpêche (JDD, France)
+Olivier Benkemoun (C News, France)
+Samuel Blumenfeld (Le Monde, France)
+Olivier Bousquet (CSD, France)
+Charlotte Bouteloup (France 2, France)
+Camille Choteau (Gala, France)
+Bruno Cras (Radio Classique, France)
+Francoise Delbeque (Elle, France)
+Laurent Delmas (France Inter, France)
+Sarah Drouhaud (Le Film Francais, France)
+Thierry Gandillot (Les Echos, France)
+Sabine Gorny (France 3, France)
+Marie-Jo Jouan (Membre Fondateur, France)
+Sophie Laubie (AFP, France)
+Fabrice Leclerc (Paris Match, France)
+Florence Leroy (Sud Radio, France)
+Bertrand Lesguillons (NRJ, France)
+Maryline Letertre (Madame Figaro, France)
+Candice Mahout (BFM TV, France)
+Lisa Nesselson (France 24, France)
+Maximilien Pierrette (Allo Cine, France)
+Bertrand Neau (M6, France)
+Eric Neuhoff (Le Figaro, France)
+Mehdi Omais (Le Journal des Femmes, France)
+Perrine Quennesson (Nociné, France)
+Philipe Royer (Positif, France)
+Marie Sauvion (Le cercle, France)
+Nicolas Schaller (L'obs, France)
+Emmanuelle Spadacenta (Cinema Teaser, France)
+Caroline Vié (20 minutes, Suisse)
+Pierre Zéni (Canal+, France)
 ";
 #$critics_group[$i] = "TF1.fr";
 #$critics[$i++] = "
