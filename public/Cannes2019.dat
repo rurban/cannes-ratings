@@ -11,10 +11,8 @@ package Cannes::rurban::2019; # -*- perl -*-
 #   E 0.5   F 0
 # indiewire does C => 4
 # Le film français+Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
-# dk 1-5: x2
-# ru 1-5: x2
+# dk,ru,FNE 1-5: x2
 # British 0-5: x2
-# FNE 1-5?: 1: 1, 2: 2.5, 3: 5, 4: 7.5, 5: 9
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 #   http://www.todaslascriticas.com.ar/cannes
 #   http://www.ioncinema.com/ (scaled to 0-10)
@@ -8593,6 +8591,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   5
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          2
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             4
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      4
+Joao Antunes           
+Jorge Gutman           4
+Jose Luis Losa         2
+Kerem Akca             6
+Kirill Razlogov        4
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            4
 #letterboxd
 Dan Breeze          10
 raebundy            9   https://letterboxd.com/raebundy/film/a-brothers-love/
@@ -8752,6 +8771,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         6
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           8
+Jorge Gutman           8
+Jose Luis Losa         4
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          4
+Vecdi Sayar            
 #letterboxd
 Michael Bo          8
 Leonardo Roque      8   https://letterboxd.com/leonardoroq/film/bull-2019/
@@ -8961,6 +9001,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          8
+Andrea Martini         
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             8
+Gautaman Bhaskaran     
+Gyenge Zsolt           10
+Isabelle Danel         
+Janusz Wróblewski      6
+Joao Antunes           
+Jorge Gutman           8
+Jose Luis Losa         8
+Kerem Akca             8
+Kirill Razlogov        8
+Marco Zucchi           
+Ninos Mikelides        8
+Pamela Jahn            
+Rita Di Santo          4
+Vecdi Sayar            
 #letterboxd
 raebundy            10   https://letterboxd.com/raebundy/film/the-beanpole/
 tmilner             10
@@ -9127,6 +9188,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          6
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         4
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           6
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          8
+Vecdi Sayar            8
 #letterboxd
 - ̗̀megan ̖́-       9
 Raquel Bartra       9   https://letterboxd.com/raquharu/film/the-swallows-of-kabul/
@@ -9296,6 +9378,27 @@ Jacky Goldberg      7.5
 Jean-Marc Lalanne   2.5
 JB Morain           
 Théo Ribeton        5
+# FNE Critics
+Alberto Ramos          4
+Andrea Martini         
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           4
+Jose Luis Losa         2
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            6
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 mat_mat             10
 FilmLandEmpire      10
@@ -9419,6 +9522,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             4
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           2
+Jorge Gutman           6
+Jose Luis Losa         4
+Kerem Akca             
+Kirill Razlogov        6
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 patkelman           10
 callieraff          10
@@ -9545,6 +9669,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           4
+Jose Luis Losa         2
+Kerem Akca             4
+Kirill Razlogov        6
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            4
 #letterboxd
 BricenoCC           10   https://letterboxd.com/bricenocc/film/port-authority/
 charlesdea          10   https://letterboxd.com/charlesdea/film/port-authority/
@@ -9728,6 +9873,27 @@ Jacky Goldberg
 #Jean-Marc Lalanne  5
 JB Morain           
 Théo Ribeton        2.5
+# FNE Critics
+Alberto Ramos          10
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           6
+Isabelle Danel         
+Janusz Wróblewski      4
+Joao Antunes           
+Jorge Gutman           6
+Jose Luis Losa         6
+Kerem Akca             6
+Kirill Razlogov        4
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          4
+Vecdi Sayar            6
 #letterboxd
 Faezeka             10
 Max Borg            10
@@ -9870,6 +10036,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          4
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         2
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         10
+Kerem Akca             8
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          4
+Vecdi Sayar            2
 #letterboxd
 Letterboxd 12_Ratings  7.4  https://letterboxd.com/film/personalien/
 inigoab             8
@@ -9946,6 +10133,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   7.5
 JB Morain           7.5
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         6
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Lara                9
 Mark Gubarenko      9
@@ -10058,6 +10266,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          10
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             4
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             4
+Kirill Razlogov        8
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            4
 #letterboxd
 MoaraPassoni        10   https://letterboxd.com/moarapassoni/film/the-invisible-life-of-euridice-gusmao/
 Martyn Conterio     10
@@ -10178,6 +10407,8 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Anna Serdiukow         6
 #letterboxd
 Bastien 🌵           10
 Marcela Cárdenas    10
@@ -10345,6 +10576,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          6
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           8
+Jose Luis Losa         
+Kerem Akca             4
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          2
+Vecdi Sayar            
 #letterboxd
 Ben                 9
 Joel Whitaker       9
@@ -10445,6 +10697,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           5
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         8
+Anna Serdiukow         
+Barbara Lorey          6
+Bojidar Manov          
+Eva Peydro             6
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         8
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        6
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            8
 #letterboxd
 CaterinaPalp        10
 Doug Dillaman       9   https://letterboxd.com/dillamonster/film/the-bears-famous-invasion-of-sicily/
@@ -10574,6 +10847,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          10
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          8
+Bojidar Manov          
+Eva Peydro             8
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            8
 #letterboxd
 Hibiscus            9   https://letterboxd.com/hibiscus/film/fire-will-come/
 Bruno Carmelo       9   https://letterboxd.com/brunocarmelo/film/fire-will-come/
@@ -10679,6 +10973,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          8
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 danisec             9
 TraviSancho         8
@@ -10774,6 +11089,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          4
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         2
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Caterina            8
 kraniczbence        7
@@ -10887,6 +11223,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          6
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         4
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             2
+Kirill Razlogov        8
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Tatiana Shorokhova  8
 Matt Cipolla        7   https://letterboxd.com/mattcipolla/film/once-in-trubchevsk/
@@ -11849,38 +12206,6 @@ Diego Batlle            6.5
 Eulalia Iglesias        7.5
 Pablo Scholz            6.5
 Ángel Quintana          6
-#critic.de
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 DownStreet          5
 
@@ -11895,36 +12220,7 @@ Boris Nelepo            7
 Carlos F. Heredero      4.5
 #critic.de
 # ics
-Cédric Succivalli        
-Emily Barnett            
 Elisabeth Franck-Dumas   3
-Tommaso Tocci            
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell            
-Dennis Lim               
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 Neva999             10
 AleFig              10
@@ -12006,14 +12302,6 @@ Blake Williams           6
 Jon Frosch               
 Nicholas Bell            6
 Dennis Lim               6
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 tom_bond            8   https://letterboxd.com/tom_bond/film/family-romance-llc/
 Pablo Villaça       8
@@ -12097,14 +12385,6 @@ Blake Williams           7
 Jon Frosch               
 Nicholas Bell            8   https://www.ioncinema.com/reviews/gaspar-noe-lux-aeterna-review
 Dennis Lim               4
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 Soplanit            10
 Andrea Corsini      10   https://letterboxd.com/andreacorsini/film/lux-terna/
@@ -12199,38 +12479,6 @@ Sundance 88_Ratings    6.57  http://cannes-ratings.herokuapp.com/Sundance2019?t=
 José Luis Losa          4.5
 Emilio Luna             5.5
 Francesc Villallonga    5
-#critic.de
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 Letterboxd 134_Ratings 6.56  https://letterboxd.com/film/share-2019/
 Matt Jaems          9   https://letterboxd.com/mattjaems/film/share-2019/
@@ -12471,30 +12719,6 @@ Eulalia Iglesias        4.5
 Pablo Scholz            4
 Emilio Luna             4
 Francesc Villallonga    4.5
-#critic.de
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
 #letterboxd
 Valentina Eid       10
 BricenoCC           10   https://letterboxd.com/bricenocc/film/chicuarotes/
@@ -12608,30 +12832,6 @@ Wendy Ide               https://www.screendaily.com/reviews/ice-on-fire-cannes-r
 #todas
 Carlos F. Heredero      1
 Francesc Villallonga    5.5
-#critic.de
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
 #letterboxd
 Alex Billington     7   https://letterboxd.com/firstshowing/film/ice-on-fire/
 Andrea Rendón       7
@@ -12659,29 +12859,6 @@ Alberto Lechuga         4
 Víctor Esquirol         6
 #critic.de
 Jenny Jecke           5
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
 #letterboxd
 realgae             10
 Cedric Muyres       9
@@ -12909,6 +13086,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   5
 JB Morain           
 Théo Ribeton        7.5
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           6
+Jorge Gutman           8
+Jose Luis Losa         6
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           10
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Ckhosla             10
 megasmall           10
@@ -13060,6 +13258,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         2
+Kerem Akca             4
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 pierreemo           10
 monkeybox83         10
@@ -13168,6 +13387,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           4
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         4
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          10
+Vecdi Sayar            
 #letterboxd
 LauraRinker         9
 Lennart Johannsen   8
@@ -13227,6 +13467,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           6
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          10
+Vecdi Sayar            
 #letterboxd
 queirolo            10
 dittedc             9
@@ -13322,6 +13583,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   7.5
 JB Morain           5
 Théo Ribeton        5
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         4
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         10
+Kerem Akca             2
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Sean Fahey          10   https://letterboxd.com/sfahey/film/zombi-child/
 Anais Bordages      9
@@ -13504,6 +13786,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         4
+Kerem Akca             4
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          6
+Vecdi Sayar            
 #letterboxd
 Patrik F.           10
 eeshcapisce         10
@@ -13618,6 +13921,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          4
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Jeffrey van Dalen   10
 jan117              8
@@ -13637,38 +13961,8 @@ Giona Nazzaro           9
 Alex Vicente            5
 Pamela Bienzobas        5
 Juanma Ruíz             6.5
-#critic.de
 # ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
 Tommaso Tocci           4
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 Andrea Rendón       10   https://letterboxd.com/andrearendon_/film/the-staggering-girl/
 Bella               10   https://letterboxd.com/belephant/film/the-staggering-girl/
@@ -13766,6 +14060,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           7.5
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Letterboxd 56_Ratings	7.20  https://letterboxd.com/film/give-me-liberty-2019/
 BenniValde          9
@@ -13828,6 +14143,27 @@ Jacky Goldberg      9
 Jean-Marc Lalanne   7.5
 JB Morain           7.5
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          2
+Vecdi Sayar            
 #letterboxd
 VellutoGrigio       7
 Mark Gubarenko      6
@@ -13882,6 +14218,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 jan117              8
 Diddy               8
@@ -13960,6 +14317,27 @@ Jacky Goldberg      5
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        5
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           8
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             8
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            10
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 moviemachine        10
 Sam Osborne         10
@@ -14267,6 +14645,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Valentina Eid       8   https://letterboxd.com/valeid/film/the-bare-necessity/
 sals                7
@@ -14333,6 +14732,27 @@ Jacky Goldberg      7.5
 Jean-Marc Lalanne   9
 JB Morain           7.5
 Théo Ribeton        9
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          6
+Vecdi Sayar            
 #letterboxd
 maryke              8
 John Bleasdale      6   https://letterboxd.com/drjonty/film/an-easy-girl/
@@ -14387,6 +14807,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Maxime Duquette     8   https://letterboxd.com/maxtheduke99/film/to-live-to-sing/
 carlogriseri        8
@@ -14442,6 +14883,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 jan117              8
 Carlota Moseguí     8
@@ -14497,6 +14959,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Max Borg            10
 Kat Docalovich      10   https://letterboxd.com/pawsitivelykat/film/dogs-dont-wear-pants/
@@ -14571,6 +15054,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 SuperMario          6
 jan117              5
@@ -14633,6 +15137,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 clararivera         10
 Antonio Prieto      10
@@ -14651,44 +15176,12 @@ SidneyLumetSuxx     4
 jan117              3
 domwakeford         3
 
-"Red 11" (Robert Rodriguez) [Quinzaine] <i>SXSW</i>
+"Red 11" (Robert Rodriguez) [Quinzaine] Special <i>SXSW</i>
 
 #todas
 Diego Lerer             7
 Vasiliy Stepanov        7.5
 Víctor Esquirol         6
-#critic.de
-# ics
-Cédric Succivalli        
-Emily Barnett            
-Elisabeth Franck-Dumas   
-Tommaso Tocci           
-#Carlota Moseguí         
-Gaia Furrer              
-Marc van de Klashorst    
-Guy Lodge                
-#Diego Batlle            
-Meredith Taylor          
-Stephanie Zacharek       
-Dana Keith               
-Justin Chang             
-David Acacia             
-Valerie Complex          
-Lorna Tee                
-Daniela Michel           
-Ela Bittencourt          
-Blake Williams           
-Jon Frosch               
-Nicholas Bell           
-Dennis Lim               
-# Les Inrockuptibles
-#Emily Barnett      
-Bruno Deruisseau    
-Marilou Duponchel   
-Jacky Goldberg      
-Jean-Marc Lalanne   
-JB Morain           
-Théo Ribeton        
 #letterboxd
 Letterboxd 34_Ratings	6.08 https://letterboxd.com/film/red-11/
 Efim Gugnin         7
@@ -14755,6 +15248,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Letterboxd 147_Ratings	4.96  https://letterboxd.com/film/wounds/
 Edoardo Nerboni     7
@@ -14845,6 +15359,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   5
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 elephante           7
 domwakeford         7
@@ -14913,6 +15448,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 alanpark            10   https://letterboxd.com/alanpark/film/the-halt/
 CannesMember0       10   https://letterboxd.com/cannesmember0/film/the-halt/
@@ -14997,6 +15553,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         2
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 SuperMario          7
 Cedric Muyres       6
@@ -15068,6 +15645,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             4
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Ben                 10
 Isobel Frances Ha   10
@@ -15142,6 +15740,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Doug Dillaman       8   https://letterboxd.com/dillamonster/film/yves/
 Ckhosla             8
@@ -15221,6 +15840,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 VernonSubutex       8
 Amber Wilkinson     8   https://letterboxd.com/ninjaworrier/film/the-defendant/
@@ -15291,6 +15931,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          8
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         2
+Janusz Wróblewski      
+Joao Antunes           6
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Tatiana Shorokhova  8   https://letterboxd.com/zlobuster/film/the-unknown-saint/
 Josh H              7   https://letterboxd.com/zombeaner/film/the-unknown-saint/
@@ -15373,6 +16034,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          6
+Andrea Martini         
+Anna Serdiukow         8
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     10
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           6
+Jorge Gutman           
+Jose Luis Losa         6
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          4
+Vecdi Sayar            
 #letterboxd
 raebundy            10   https://letterboxd.com/raebundy/film/a-white-white-day/
 dittedc             9
@@ -15462,6 +16144,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        5
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 maryke              7
 Max Weiss           7
@@ -15506,6 +16209,27 @@ Blake Williams           5
 Jon Frosch               
 Nicholas Bell            6
 Dennis Lim               
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         8
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 BenniValde          10
 Max Borg            10
@@ -15597,6 +16321,27 @@ Jacky Goldberg      2.5
 Jean-Marc Lalanne   
 JB Morain           
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         6
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           2
+Isabelle Danel         4
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          8
+Vecdi Sayar            
 #letterboxd
 pierreemo           10
 monkeybox83         10
@@ -15688,6 +16433,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           5
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Valentina Eid       8
 Florent Boutet      7
@@ -15734,6 +16500,27 @@ Blake Williams
 Jon Frosch               
 Nicholas Bell            
 Dennis Lim               
+# FNE Critics
+Alberto Ramos          4
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        4
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 EJChiddy            8
 Thomas Hakim        7
@@ -15787,6 +16574,27 @@ Blake Williams
 Jon Frosch               
 Nicholas Bell            
 Dennis Lim               
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           4
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Niels Putman        6
 Allison M.          6   https://letterboxd.com/allisoncm/film/abou-leila/
@@ -15830,6 +16638,27 @@ Blake Williams
 Jon Frosch               
 Nicholas Bell            
 Dennis Lim               
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         6
+Janusz Wróblewski      
+Joao Antunes           6
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             6
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Maxime Duquette     8   https://letterboxd.com/maxtheduke99/film/our-mothers/
 Andrea Rendón       8
@@ -15885,6 +16714,27 @@ Jacky Goldberg
 Jean-Marc Lalanne   
 JB Morain           7.5
 Théo Ribeton        
+# FNE Critics
+Alberto Ramos          
+Andrea Martini         
+Anna Serdiukow         
+Barbara Lorey          
+Bojidar Manov          
+Eva Peydro             
+Gautaman Bhaskaran     
+Gyenge Zsolt           
+Isabelle Danel         
+Janusz Wróblewski      
+Joao Antunes           
+Jorge Gutman           
+Jose Luis Losa         
+Kerem Akca             
+Kirill Razlogov        
+Marco Zucchi           
+Ninos Mikelides        
+Pamela Jahn            
+Rita Di Santo          
+Vecdi Sayar            
 #letterboxd
 Aletz               8
 CannesMember0       8
