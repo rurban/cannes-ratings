@@ -19,7 +19,7 @@
           <% side_details %>
 
           <li>
-            <h3>Resources</h3>
+            <h3>References</h3>
 
             <ul class="links">
               <li><a href="https://twitter.com/search?q=%23sundance%20review&src=typd">twitter</a></li>
