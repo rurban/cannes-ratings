@@ -1,6 +1,6 @@
 package Sundance::rurban::2020; # -*- perl -*-
 #!/usr/bin/perl
-# Sundance 2019 Critics Ratings
+# Sundance 2020 Critics Ratings
 # {'A+' => 10,  'A' => 9,   'A-' => 8,
 #  'B+' => 7,   'B' => 6,   'B-' => 5,
 #  'C+' => 4,   'C' => 3,   'C-' => 2,
@@ -633,14 +633,14 @@ our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2019.dat
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2020.dat
 
 </pre>";
 
 # links:
-# https://letterboxd.com/rurban/list/sundance-slamdance-2019/
+# https://letterboxd.com/rurban/list/sundance-slamdance-2020/
 # https://twitter.com/search?q=%23sundance%20review
-# http://www.theguardian.com/film/sundance-2019
+# http://www.theguardian.com/film/sundance-2020
 # http://www.indiewire.com/critic/
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
