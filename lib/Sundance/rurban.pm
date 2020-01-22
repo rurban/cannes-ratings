@@ -454,7 +454,7 @@ sub _dump {
     $l="<i>$l</i>" if $s>=2.0;
     if ($l =~ / \[\Q$comp_section\E\]/) { 
       $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
-    } else { $l =~ s/ \[[\w ]+?\]//;}
+    } else { $l =~ s/ \[[\w. ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
     if ($six and $n and $a<6.0){
       $six=0;
