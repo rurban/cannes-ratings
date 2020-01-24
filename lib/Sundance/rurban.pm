@@ -305,11 +305,11 @@ sub _dump {
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n<=3 or $a < 7.5; 
+    next if $n <= 3 or $a < 7.5;
     my $l = $title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
-    next if $l =~ m{</i>$}; # other festivals
+    next if $l =~ m{</i>$} and $l !~ m{<i>Netflix}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
       next if $year - $lyear > 1;
@@ -338,7 +338,7 @@ sub _dump {
     my $l=$title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
-    next if $l =~ m{</i>$}; # other festivals
+    next if $l =~ m{</i>$} and $l !~ m{<i>Netflix}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
       next if $year - $lyear > 1;
