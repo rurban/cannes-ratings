@@ -333,7 +333,7 @@ sub _dump {
   for (@t) { 
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
-    my $n=$title{$t}->{num}; 
+    my $n=$title{$t}->{num};
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
