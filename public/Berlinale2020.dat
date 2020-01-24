@@ -8,13 +8,411 @@ use utf8;
 our $DATA= <<'EOF';
 
 Wettbewerb
+
 Out of competition
+
+"My Salinger Year" (Philippe Falardeau) [Out of competition]
+ OPENER, with Margaret Qualley and Sigourney Weaver.
+
+"High Ground" (Stephen Maxwell Johnson, Aus) [Out of competition]
+
+"Time to Hunt" (Yoon Sung-hyun, Kor) [Out of competition]
+
 Panorama
-Generation
+
+"The Assistant" (Kitty Green, US) [Panorama]
+ IP
+
+"Notes from the Underworld" (Tizza Covi, Rainer Frimmel, Aut) [Panorama]
+ Documentary WP
+
+"Bloody Nose, Empty Pockets" (Bill Ross, Turner Ross, US) [Panorama]
+ IP
+
+"Shine Your Eyes" (Matias Mariani, Bra/Fr) [Panorama]
+ WP
+
+"Digger" (Georgis Grigorakis, Gre/Fr) [Panorama]
+ WP
+"Eeb Allay Ooo!" (Prateek Vats, Ind) [Panorama]
+
+"Exile" (Visar Morina, Ger/Bel/Kos) [Panorama]
+
+"No Hard Feelings" (Faraz Shariat, Ger) [Panorama]
+ WP
+"Hope" (Maria Sødahl, Nor/Swe) [Panorama]
+
+"Running on Empty" (Lisa Weber, Aust) [Panorama]
+ Documentary WP
+"Wildland" (Jeanette Nordahl, Den) [Panorama]
+ WP
+
+"Las Mil y Una" (Clarisa Navas, Arg/Ger) [Panorama]
+ WP
+
+"Pari" (Siamak Etemadi, Gre/Fr/NL/Bul) [Panorama]
+ WP
+
+"Little Girl" (Sébastien Lifshitz, Fr) [Panorama]
+ Documentay WP
+
+"Black Milk" (Uisenma Borchu, Ger/Mon) [Panorama]
+ WP
+
+"If It Were Love" (Patric Chiha, Fr) [Panorama]
+ WP
+
+"Suk Suk" (Ray Yeung, HK/Chi) [Panorama]
+
+"Welcome to Chechnya" (David France, US) [Panorama]
+ IP
+
+"A l’abordage" (Guillaume Brac, Fr) [Panorama]
+ WP
+
+"Always Amber" (Lia Hietala, Hannah Reinikainen, Swe) [Panorama]
+ WP
+
+"Days of Cannibalism" (Teboho Edkins, Fr/SA/Neth) [Panorama]
+ WP 
+
+"I Dream of Singapore" (Lei Yuan Bin, Sing) [Panorama]
+ IP
+
+"The Foundation Pit" (Andrey Gryazev, Rus) [Panorama]
+ WP
+
+"Mare" (Andrea Štaka, Swi/Cro) [Panorama]
+ WP
+
+"Minyan" (Eric Steel, US) [Panorama]
+ WP
+
+"Mogul Mowgli" (Bassam Tariq, UK) [Panorama]
+ WP
+
+"Nardjes A." (Karim Aïnouz, Alg/Fra/Ger/Bra/Qat) [Panorama]
+ WP
+
+"One of These Days" (Bastian Günther, Ger/US) [Panorama]
+ WP
+
+"Father" (Srdan Golubović, Ser/Fra/Ger/Cro/Slo/B&H) [Panorama]
+ WP 
+
+"Amazon Mirror" (Fernando Segtowick, Braz) [Panorama]
+ WP
+
+"Schlingensief – A Voice That Shook the Silence" (Bettina Böhler, Ger) [Panorama]
+ WP
+
+"Sow the Wind" (Danilo Caputo, It/Fr/Gre) [Panorama]
+ WP
+
+"Surge" (Aneil Karia, UK) [Panorama]
+ IP
+
+"A Common Crime" (Francisco Márquez, Arg/Bra/Swi) [Panorama]
+ WP
+
+"Dry Wind" (Daniel Nolasco, Braz) [Panorama]
+ WP
+
+Generation 14plus
+
+"Alice Júnior" (Gil Baroni, Brazil) [Generation]
+ Alice Júnior is trans, confident and ready to confront life. In the new school in the Brazilian province, she is first bullied and then admired. In her struggle for acceptance, her YouTube community is omnipresent, in the comments and emojis on her page, but also all throughout the visual level of the film. IP
+
+"The Earth Is Blue as an Orange" (Iryna Tsilyk, Ukraine / Lithuania) [Generation]
+ The budding filmmaker Myroslava and her family are at home in the middle of the Ukrainian war zone. In the formerly lively environment, emptiness has spread, once familiar things now seem threatening. By re-enacting scenes and telling each other what has happened, the family members process the persistent state of emergency together. 1st, doc
+
+"Irmã (Sisters in the End of the World)" (Luciana Mazeto, Vinícius Lopes, Brazil) [Generation]
+ The mother is dying, the father has never cared. The two sisters Ana and Ju, however, remain strong and in solidarity with each other - even if the world around them collapses and asteroids fall from the sky. An experimental road movie in pulsating images, containing ingenious dialogues and songs that reverberate. WP, 1st
+
+"Jumbo" (Zoé Wittock, D/B/Lux)  [Generation] <i>Sundance</i>
+ The shy Jeanne (Noémie Merlant) still lives with her mother. At night, she works in an amusement park. Suddenly, the new attraction Jumbo - a huge idiosyncratic carousel - appears and begins to put the young woman under its spell. A wild and unusual love story unfolds. 1st
+
+"Kokon" (Leonie Krippendorff, Ger) [Generation]
+ In the shimmering midsummer days, there are many first times for young Nora from Kreuzberg: menstruating, smoking marijuana, discovering sexual desires. And then there's Romy as well. The two young women, impressively played by Lena Urzendowsky and Jella Haase, gently approach each other.
+
+"My Name is Baghdad" (Caru Alves de Souza, Bra) [Generation]
+ A film from the skater world of São Paulo, where it is women who call the shots. Bagdá is surrounded by self-confident role models in her family. However, outside on the streets, in the venues and clubs, the old machismo continues to dominate. Bagdá and her fellow comrades-in-arms confront it defiantly. WP
+
+"Our Lady of the Nile (Notre-Dame de Nil)" (Atiq Rahimi, Fr) [Generation]
+ In the microcosm of an elite Catholic school in Rwanda, the contrasts and hostilities between Hutu and Tutsi that are already deeply rooted in society are mirrored by a group of teenage girls. A literary film adaptation, inspired by the real events that forewarn the genocide of the Rwandan Civil War in 1994.
+
+"Palazzo di Giustizia (Ordinary Justice)" (Chiara Bellosi, Ita/Sui) [Generation]
+ While a trial involving murder, manslaughter and armed robbery is being conducted inside the courtroom, the two daughters of the accused are sentenced to wait outside in the hallway. It is the casual, although meaningful moments which are captured that make this portrayal of a very ordinary day at the court truly impressive. WP, 1st
+
+"Paradise Drifters" (Mees Peijnenburg, NL) [Generation]
+ On the edge of Europe's affluent society, in the middle of the concrete jungle, the paths of Yousef, Chloe and Lorenzo intersect. Three homeless young people who combine their silent longing for security with their loud cry for independence.
+
+"Pompei" (Anna Falguères, John Shank, Bel/Fr/Can) [Generation]
+ Swaggering with the coolness of James Dean, the members of a youthful gang exist in a world virtually without adults. Following their own rules, they search in the middle of nowhere for the artefacts of a lost civilization, until the appearance of a young woman changes everything. A powerful story of liberation reminiscent of “Lord of the Flies”.
+
+"White Riot" (Rubika Shah, UK)
+ What kind of democratic resistance can young people offer in times of burgeoning racism? The filmmaker, who herself was faced with racism as a young woman, pursues the forces of the "Rock against Racism" movement in London in the mid-1970s. A movement embodied by the music of The Clash, Steel Pulse and X-Ray Spex. IP, 1st, Doc
+
+"Kaze no Denwa (Voices in the Wind)" (Nobuhiro Suwa, Japan) [Generation]
+ Years after her family was killed in the 2011 tsunami, the quiet Haru, played by the young Japanese star Serena Motola, travels across Japan in search of traces. A calm road movie that collects miniature portraits as painted by encounters, thus becoming the portrait of a society that is still deeply marked by trauma. IP
+
+"La déesse des mouches à feu (Goddess of the Fireflies)" (Anaïs Barbeau-Lavalette, Can) [Generation]
+ Following the separation of her parents, 16-year-old Catherine loses her footing. She plunges into life, lets herself be carried away by drugs and music, and finds a new family in a clique of her peers as well as the opportunity for her first sexual encounter. Pure teen spirit, impressively embodied by the high-energy, Canadian actress Kelly Depeault. WP
+
+"Yalda, la nuit du pardon (Yalda, a Night for Forgiveness)" (Massoud Bakhshi, F/D/Sui/Lux/Lebanon/Iran) [Generation]
+ In the artificial entertainment world of the Iranian TV show “Joy of Forgiveness”, the wronged daughter and a public of millions judge the fate of a young woman who is sentenced to death. Maryam is said to have murdered her much older husband, a man with whom she had lived in a temporary marriage. A tense drama about the power of forgiveness and the women who are doomed to remain prisoners.
+
+Generation Kplus
+
+"Las niñas (Schoolgirls)" (Pilar Palomero, Spa) [Generation]
+ Prodded by the rebellious Brisa, puberty is awakening in twelve-year-old Celia. Quickly, the two become allies against the rigid rules of authority in the Catholic girls’ school. However, questions about the right bra, cool bands and sexy clothing cannot hide the urgent search for their own identity. WP 1st
+
+"Cuties" (Maïmouna Doucouré, Fr) [Generation] <i>Sundance</i>
+
+"Death Of Nintendo" (Raya Martin, Phil/US) [Generation]
+ Only something truly earthshaking can keep four 13-year-olds away from their computer games: the eruption of a volcano, the first feelings of falling in love, the dreaded initiation into manhood. Filipino director Raya Martin (Independencia, 2009 WCF and La Última Película, 2014 Forum Expanded) plunges into a dazzling world of the pop culture of the 1990s.
+
+"H Is For Happiness" (John Sheedy, Aus) [Generation]
+
+"Los Lobos" (Samuel Kishi Leopo, Mex) [Generation]
+
+"Mamá, mamá, mamá (Mum, Mum, Mum)" (Sol Berruezo Pichon-Riviére, Arg) [Generation]
+ A veil of sadness lies over the oppressively hot summer days. Cleo dives into daydreams with her cousins, the girls share secret signs and rituals. Flowing gently, in impressionistic images, the empty space that the death of Cleo’s sister has left in the family is poetically encircled. WP 1st
+
+"Mugge & vejfesten (Monty and the Street Party)" (Anders Morgenthaler, Mikael Wulff, Den)  [Generation]
+ Monty, a cheerful optimist, wants to organise a big neighbourhood party to reconcile his parents shortly before their divorce. Nuns with beards on stilts and enthusiastic parkour nudists, those are part of everyday life in his little town. A breath-taking firework of bizarre and pointed punch lines on the occasion of a hopeless situation. IP, Animation
+
+"Ochite mi sini, rokljata sharena (Blue Eyes and Colorful My Dress)" (Polina Gumiela, Ger) [Generation]
+  Full of self-confidence, three-year-old Zhana explores her neighbourhood in Plovdiv, Bulgaria. A fresh look at the world, at places and people who fascinate, who make one laugh, who challenge or are challenged by the little explorer. A documentary as an endless chain of little miracles. World premiere / Documentary
+
+"Perro" (Lin Sternal, Ger) [Generation]
+
+"Sweet Thing" (Alexandre Rockwell, US) [Generation]
+
+"Veins Of The World" (Byambasuren Davaa, Ger/Mon) [Generation]
+
+"Sthalpuran (Chronicle of Space)" (Akshay Indikar, India) [Generation]
+ The move from the city to the country, the disappearance of the father. Nobody explained to Dhigu why this is so. Throughout the summer, the observant boy takes note of his surroundings. Together with Dhigu, the film explores his new place of life in the Indian province, with images of vastness and abundance that become deeply etched into the memory. WP
+
+"Sune – Best Man" (Jon Holmberg, Swe) [Generation]
+ Sune meets himself as a figure from the future, someone who wants to give him the lead on an important decision. But it is in Sune’s family that no one can really make a decision. Aimlessness and inventiveness characterise grandpa, the parents and the children. After Sune vs. Sune, a turbulent family trip with heart, humour and action. IP
+
+
 Perspektive Deutsches Kino
+
+"A Fish Swimming Upside Down" (Eliza Petkova, Ger) [Perspektive Deutsches Kino]
+
+"Garage People" (Natalija Yefimkina, Ger) [Perspektive Deutsches Kino]
+
+"Kids Run" (Barbara Ott, Ger) [Perspektive Deutsches Kino]
+ opening film
+
+"Walchensee Forever" (Janna Ji Wonders, Ger) [Perspektive Deutsches Kino]
+
+
 Forum
+
+"Anne At 13,000 Ft" (Kazik Radwanski, Can/US)) [Forum]
+ EP
+
+"A Storm Was Coming" (Javier Fernández Vázquez, Spa) [Forum]
+ WP
+"Window Boy Would Also Like To Have A Submarine" (Alex Piperno, Uru-Arg-Bra-Neth-Phil) [Forum]
+ WP
+"Entre Perro Y Lobo" (Irene Gutiérrez, Cuba-Spa) [Forum]
+ WP
+"This Is My Desire" (Arie Esiri, Chuko Esiri, Nig-US) [Forum]
+ WP
+"Frem" (Viera Čákanyová, Cze Rep-Slo) [Forum]
+ IP
+"Generations" (Lynne Siefert, US) [Forum]
+ WP
+"The Notes Of Anna Azzori / A Mirror That Travels Through Time" (Constanze Ruhm, Aust-Ger-Fra) [Forum]
+ WP
+"In Deep Sleep" (Maria Ignatenko, Rus) [Forum]
+ WP
+"Strike Or Die" (Jonathan Rescigno, Fra) [Forum]
+ WP
+"The Exit Of The Trains" (Radu Jude, Adrian Cioflâncă, Rom) [Forum]
+ WP
+"As Above So Below" (Sarah Francis, Leb) [Forum]
+ WP
+"Art Comes From The Beak The Way It Has Grown" (Sabine Herpich, Ger) [Forum]
+ WP
+"The House Of Love" (Luca Ferri, Ita) [Forum]
+ WP
+"Red Moon Tide" (Lois Patiño, Spa) [Forum]
+ WP
+"Light In The Tropics" (Paula Gaitán, Bra) [Forum]
+ WP
+"Maggie’s Farm" (James Benning, US) [Forum]
+ WP
+"Medium" (Edgardo Cozarinsky, Arg) [Forum]
+ WP
+"The Alien" (Nader Saeivar, Ira) [Forum]
+ WP
+"Oeconomia" (Carmen Losmann, Ger) [Forum]
+ WP
+"Ouvertures" (Louis Henderson, Olivier Marboeuf together with The Living and the Dead Ensemble, UK-Fra) [Forum]
+ WP
+"Petit Samedi" (Paola Sermon-Daï, Bel) [Forum]
+ WP
+"The Calming" (SONG Fang, Chi) [Forum]
+ WP
+"Corporate Accountability" (Jonathan Perel, Arg) [Forum]
+ WP
+"Zero" (Kazuhiro Soda, Jap-US) [Forum]
+ EP
+"The Tango Of The Widower And Its Distorting Mirror" (Raúl Ruiz, Valeria Sarmiento, Chile) [Forum]
+ WP
+"Uppercase Print" (Radu Jude, Rom) [Forum]
+ IP
+"After the Crossing" (Joël Richmond Mathieu Akafou, Fra-Côte d’Ivoire) [Forum]
+ WP
+"The Twentieth Century" (Matthew Rankin, Can) [Forum]
+ EP
+"The Two Sights" (Joshua Bonnetta, Can-UK) [Forum]
+ WP
+
+"Victoria" (Sofie Benoot, Liesbeth De Ceulaer, Isabelle Tollenaere, Bel) [Forum]
+ WP
+
+"The Viewing Booth" (Ra’anan Alexandrowicz, Isa-US) [Forum]
+ IP
+
+"Divinely Evil" (Gustavo Vinagre, Bra) [Forum]
+ WP
+
+"What Remains I Re-Visited" (Clarissa Thieme, Ger-Aust-B&H) [Forum]
+ WP
+
+"Zeus Machine. The Invincible" (Nadia Ranocchi, David Zamagni, Ita) [Forum]
+ IP
+
 Forum Expanded
-Special
+
+"Abstracted / Family" (Koki Tanaka, Japan)
+  IP
+
+"Akiya" (Jonna Kina, Finland / Japan / USA) [Forum Expanded]
+  WP
+
+"Al-Houbut (The Landing)" (Akram Zaatari, Lebanon / United Arab Emirates) [Forum Expanded]
+ 
+ IP
+
+"Al-Maw’oud (The Promised)" (Ahmed Elghoneimy, Egypt) [Forum Expanded]
+ WP
+
+"Apiyemiyekî?" (Ana Vaz, Brazil / France / Netherlands / Portugal) [Forum Expanded]
+ IP
+
+Born of the * * *
+"On Zarathustra'’s Going Under from Cairo to Oran" (Ayreen Anastas, Rene Gabri, Palestine / USA) [Forum Expanded]
+ WP
+
+"Citizens of the Cosmos" (Anton Vidokle, USA / Japan / Ukraine) [Forum Expanded]
+ EP
+
+"Doublewide" (Jenny Perlin, USA) [Forum Expanded]
+ WP
+
+"Equinox" (Margaret Honda, USA) [Forum Expanded]
+ WP
+
+"Expedition Content" (Ernst Karel, Veronika Kusumaryati, USA) [Forum Expanded]
+ WP
+
+"Her Name Was Europa" (Anja Dornieden, Juan David González Monroy, Germany) [Forum Expanded]
+ WP
+
+"Jiíbie" (Laura Huertas Millán, Colombia / France) [Forum Expanded]
+ EP
+
+"Jogos Dirigidos (Directed Games)" (Jonathas de Andrade, Brazil) [Forum Expanded]
+ IP
+
+"letter to a friend" (Emily Jacir, Palestine / USA) [Forum Expanded]
+ IP
+
+"Matata" (Petna Ndaliko Katondolo, Democratic Republic of the Congo / USA / Netherlands) [Forum Expanded]
+ IP
+
+"Moazzam ma yalla haqeqy (Most of What Follows Is True)" (Maged Nader, Egypt) [Forum Expanded]
+ WP
+
+"On vous parle de Paris: Maspero, les mots ont un sens" (Chris Marker, France 1970) [Forum Expanded]
+
+"(Outros) Fundamentos ((Other) Foundations)" (Aline Motta, Brazil) [Forum Expanded]
+ EP
+
+"The Phantom Menace" (Graeme Arnfield, United Kingdom) [Forum Expanded]
+ WP
+
+"Recovery" (Kevin Jerome Everson, USA) [Forum Expanded]
+ WP
+
+"Purple Sea" (Amel Alzakout, Khaled Abdulwahed, Germany) [Forum Expanded]
+ WP
+
+"Tatsuniya II" (Rahima Gambo, Nigeria) [Forum Expanded]
+ IP
+
+"Untitled Sequence of Gaps" (Vika Kirchenbauer, Germany) [Forum Expanded]
+ WP
+
+"Vaga Carne (Dazed Flesh)" (Grace Passô, Ricardo Alves Jr., Brazil) [Forum Expanded]
+ EP
+
+"Télé Réalité" (Lucile Desamory, Gustave Fundi, Glodie Mubikay, B/Ger/Congo) [Forum Expanded]
+ WP
+
+"The Whole Shebang" (Ken Jacobs, USA) [Forum Expanded]
+ EP
+
+Berlinale Special
+
+"The American Sector" (Courtney Stephens, Pacho Velez, US) [Special]
+
+"Golda Maria" (Patrick Sobelman, Hugo Sobelman, F) [Special]
+
+"Numbers" (Oleg Sentsov, Akhtem Seitablaiev, Ukr-Pol-Cze-Fra) [Special]
+
+Encounters
+
+"Funny Face" (Tim Sutton, US) [Encounters]
+ 
+"Gunda" (Victor Kossakovsky, Nor-US) [Encounters] 
+ doc
+
+"Isabella" (Matías Piñeiro, Arg) [Encounters]
+ 
+"The Shepherdess And The Seven Songs" (Pushpendra Singh, Ind) [Encounters]
+ 
+"Los Conductos" (Camilo Restrepo, Fra-Col-Bra) [Encounters]
+ 
+"The Last City" (Heinz Emigholz, Ger) [Encounters]
+ 
+"Malmkrog" (Cristi Puiu, Rom-Ser-Switz-Swe-Bos-Mac) [Encounters]
+ 
+"The Metamorphosis Of Birds" (Catarina Vasconcelos, Por) [Encounters]
+  doc
+
+"Naked Animals" (Melanie Waelde, Ger) [Encounters]
+ 
+"Orphea" (Alexander Kluge, Khavn, Ger) [Encounters]
+ 
+"Shirley" (Josephine Decker, US) [Encounters]
+ 
+"Servants" (Ivan Ostrochovský, Slo-Rom-Cze Rep-Ire) [Encounters]
+ 
+"The Trouble With Being Born" (Sandra Wollner, Aust-Ger) [Encounters]
+ 
+"The Works And Days (Of Tayoko Shiojiri In The Shiotani Basin)" (C.W. Winter, Anders Edström, US-Swe-Jap-HK-UK) [Encounters]
+ 
+"Kill It And Leave This Town" (Mariusz Wilczyński, Pol) [Encounters]
+ 
+
 Retrospektive
 Woche der Kritik
 

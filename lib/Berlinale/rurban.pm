@@ -6,10 +6,10 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = qw(2016..2019);
+our @YEARS = qw(2016..2020);
 our $comp_section = 'Wettbewerb';
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
-                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Panorama 40",
+                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Encounters", "Panorama 40",
                  "Special", "Native", "Retrospektive", "Woche der Kritik" );
 
 sub us_rating {
@@ -392,7 +392,8 @@ sub _dump {
 	}
       }
     }
-    if (1 or $num) {
+    if ($year >= 2020 or $num) {
+      next if $year >= 2020 and $section =~ /^(Native|Panorama 40|Forum Expanded)$/;
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
@@ -652,8 +653,11 @@ get '/Berlinale2018' => sub {
 get '/Berlinale2019' => sub {
   _list(2019);
 };
+get '/Berlinale2020' => sub {
+  _list(2020);
+};
 get '/Berlinale' => sub {
-  _list(2019);
+  _list(2020);
 };
 
 get '/BerlinaleAll' => sub {
