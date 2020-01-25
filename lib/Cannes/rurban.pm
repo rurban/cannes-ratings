@@ -240,7 +240,7 @@ sub _dump {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
     $critic{$c}->{stddev} = 0;
-    unless (@k){delete $critic{$c};next};
+    next unless @k;
     my $num = scalar(@k);
     for (@k) {
       my ($x,$a,$d) = @{$critic{$c}->{title}->{$_}};

@@ -130,11 +130,16 @@ sub _detail {
   if (params->{debug}) {
     require Data::Dumper;
     my $x = $h;
+    #delete $x->{comment};
     #delete $x->{review};
-    $out .= "<tr><td colspan=3><code>".Data::Dumper::Dumper($x);
-    for (keys %{$x->{critic}}) {
+    my $d = Data::Dumper->new($x)->Sortkeys;
+    $out .= "<tr><td colspan=3><code>".$d->Dump;
+    for (sort keys %{$x->{critic}}) {
       $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
 	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
+    }
+    for (sort keys %{$x->{review}}) {
+      $out .= ($_."=>".$critic->{$_}->{mag}."<br>\n");
     }
     $out .= "</code></tr>\n";
   }
@@ -152,12 +157,12 @@ sub _detail {
         $n = "<strike>$n</strike>" unless $nostrike;
         $c = abs($c);
       }
-      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
       if ($critic->{$_}->{mag}) {
         $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
       } elsif ($critic->{$_}->{cn}) {
         $n .= " ($critic->{$_}->{cn})";
       }
+      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
       if ($url) {
         $n = qq(<a href="$url">$n</a>);
         $c = qq(<a href="$url">$c</a>) if $c;
@@ -226,7 +231,7 @@ sub _dump {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
     $critic{$c}->{stddev} = 0;
-    unless (@k){delete $critic{$c};next};
+    next unless @k;
     my $num = scalar(@k);
     for (@k) {
       my ($x,$a,$d) = @{$critic{$c}->{title}->{$_}};

@@ -111,8 +111,13 @@ sub _read {
 # boolean: show details for indexed t? (movie or critic)
 sub _show_detail {
   my $i = shift;
-  Dancer::SharedData->request or return undef;
-  my $t = params->{t} or return undef;;
+  my $t;
+  if (0 && $ENV{t}) { # local cli-debugging only
+    $t = $ENV{t};
+  } else {
+    Dancer::SharedData->request or return undef;
+    $t = params->{t} or return undef;;
+  }
   if (($t eq $i) || ($t eq '*')) { return $t; }
   else { return undef; }
 }
@@ -128,7 +133,7 @@ sub _detail {
          ."</i></td></tr>\n"
     if exists $h->{comment};
 
-  if (params->{debug}) {
+  if (Dancer::SharedData->request && params->{debug}) {
     require Data::Dumper;
     my $x = $h;
     #delete $x->{review};
@@ -226,7 +231,7 @@ sub _dump {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
     $critic{$c}->{stddev} = 0;
-    unless (@k){delete $critic{$c};next};
+    next unless @k;
     my $num = scalar(@k);
     for (@k) {
       my ($x,$a,$d) = @{$critic{$c}->{title}->{$_}};
