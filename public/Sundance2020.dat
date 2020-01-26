@@ -1939,6 +1939,7 @@ aika1801            10
  ​— ​A brilliant former hip hop executive grapples with whether to go public about her rape by one of the most powerful men in the music industry. A gripping and profound examination of race, gender, intersectionality, and the toll sexual abuse takes on survivors and on society at large. ​World Premiere
 
 Amy Kaufman             https://www.latimes.com/entertainment-arts/movies/story/2020-01-26/on-the-record-sundance-premiere-russell-simmons-documentary
+Benjamin Lee            https://www.theguardian.com/film/2020/jan/25/on-the-record-oprah-winfrey-russell-simmons
 #letterboxd
 Alex Billington     8   https://letterboxd.com/firstshowing/film/untitled-kirby-dick-amy-ziering-film/
 Brian Tallerico     8   https://letterboxd.com/briantt/film/untitled-kirby-dick-amy-ziering-film/
@@ -2687,6 +2688,7 @@ https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2
 # https://twitter.com/search?q=%23sundance%20review
 # http://www.theguardian.com/film/sundance-2020
 # http://www.indiewire.com/critic/
+# https://www.latimes.com/topic/sundance-film-festival
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
 $FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
