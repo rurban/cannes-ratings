@@ -314,7 +314,7 @@ sub _dump {
     my $l = $title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
-    next if $l =~ m{</i>$} and $l !~ m{<i>Netflix}; # other festivals
+    next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
       next if $year - $lyear > 1;
@@ -343,7 +343,7 @@ sub _dump {
     my $l=$title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
-    next if $l =~ m{</i>$} and $l !~ m{<i>Netflix}; # other festivals
+    next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
       next if $year - $lyear > 1;
