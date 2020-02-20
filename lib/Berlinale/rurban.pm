@@ -8,8 +8,9 @@ our $VERSION = '0.2';
 our $BASE = 'Berlinale';
 our @YEARS = qw(2016..2020);
 our $comp_section = 'Wettbewerb';
+# "Encounters" 2020+
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
-                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Encounters", "Panorama 40",
+                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded", "Panorama 40",
                  "Special", "Native", "Retrospektive", "Woche der Kritik" );
 
 sub us_rating {
@@ -197,6 +198,9 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
+  if ($year => 2020) { # no Out of Competition anymore
+    @sections = ($sections[0], "Encounters", @sections[2..$#sections]);
+  }
   my %sections = map {$_=>1} @sections;
   my $section;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
