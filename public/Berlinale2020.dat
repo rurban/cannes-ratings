@@ -9,47 +9,53 @@ our $DATA= <<'EOF';
 
 Wettbewerb
 
-"Berlin Alexanderplatz" (Burhan Qurbani, D/NL) [Wettbewerb]
- with Welket Bungué, Jella Haase, Albrecht Schuch, Joachim Król, Annabelle Mandeng, Nils Verkooijen, Richard Fouofié Djimeli
-World premiere
-
-#letterboxd
-
-"DAU. Natasha" (Ilya Khrzhanovskiy, Jekaterina Oertel, D/Ukr/UK/Rus) [Wettbewerb]
- with Natalia Berezhnaya, Olga Shkabarnya, Vladimir Azhippo, Alexei Blinov, Luc Bigé. WP
-
-#letterboxd
-ichibata            9
-
-"Domangchin yeoja (The Woman Who Ran)" (Hong Sangsoo, Korea) [Wettbewerb]
- with Kim Minhee, Seo Younghwa, Song Seonmi, Kim Saebyuk, Lee Eunmi, Kwon Haehyo, Shin Seokho, Ha Seongguk. WP
-
-#letterboxd
-
-"Effacer l'historique (Delete History)" (Benoît Delépine, Gustave Kervern, F/B) [Wettbewerb]
- with Blanche Gardin, Denis Podalydès, Corinne Masiero. WP
-
-#letterboxd
-Victor Lhosmot      7
-AlexInc             7
-
 "El prófugo (The Intruder)" (Natalia Meta, Arg/Mex) [Wettbewerb]
  with Érica Rivas, Nahuel Pérez Biscayart, Daniel Hendler, Cecilia Roth, Guillermo Arengo, Agustín Rittano, Mirta Busnelli. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
 Javi3d              10
 nikitos             8   https://letterboxd.com/nikitos/film/the-intruder-2020/
 Bai Yutong          6
 
-"Favolacce (Bad Tales)" (Damiano & Fabio D'Innocenzo, I/CH) [Wettbewerb]
- with Elio Germano, Barbara Chichiarelli, Lino Musella, Gabriel Montesi, Max Malatesta. WP
+"Volevo nascondermi (Hidden Away)" (Giorgio Diritti, Italy) [Wettbewerb]
+ with Elio Germano. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#critic.de
+Andrey Arnold         9
 #letterboxd
-Alberto Farina      8
+melodina            9
+Simone Cerasi       9
+Luca Giusto         8
+ally                8
+Requ13m             7
 
 "First Cow" (Kelly Reichardt, USA) [Wettbewerb] <i>Telluride</i>
  with John Magaro, Orion Lee, Toby Jones, Scott Shepherd, Gary Farmer, Lily Gladstone. IP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
 Letterboxd 306_Ratings	0.0  https://letterboxd.com/film/first-cow/
 David Sims          10   https://letterboxd.com/davidlsims/film/first-cow/
@@ -61,60 +67,91 @@ watsonaliza         8
 cat sullivan        8   https://letterboxd.com/catsullivan/film/first-cow/
 Evan Mosakowski     8
 
-"Irradiés (Irradiated)" (Rithy Panh, France / Cambodia) [Wettbewerb]
- WP, doc
-
-#letterboxd
-
 "Le sel des larmes (The Salt of Tears)" (Philippe Garrel, F/CH) [Wettbewerb]
  with Logann Antuofermo, Oulaya Amamra, André Wilms, Louise Chevillotte, Souheila Yacoub. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
 thierryjousse       7
 Jansushi            7
 Iain_Glaz           5
 
-"Never Rarely Sometimes Always" (Eliza Hittman, USA) [Wettbewerb] <i>Sundance</i>
- with Sidney Flanigan, Talia Ryder, Théodore Pellerin, Ryan Eggold, Sharon Van Etten. IP
+"Todos os mortos (All the Dead Ones)" (Caetano Gotardo, Marco Dutra, Bra/F) [Wettbewerb]
+ with Mawusi Tulani, Clarissa Kiste, Carolina Bianchi, Thaia Perez, Alaíde Costa, Leonor Silveira, Agyei Augusto, Rogério Brito, Thomás Aquino, Andrea Marquee. WP
 
-Sundance 90_Ratings    8.10  http://cannes-ratings.herokuapp.com/Sundance2020?t=12#12
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
-Letterboxd 205_Ratings	7.6  https://letterboxd.com/film/never-rarely-sometimes-always/
-Jake Kring-Schreifels 8
-BrighamTaylor       7
-Jacob McCabe        7
+
+"Undine" (Christian Petzold, D/F) [Wettbewerb]
+ with Paula Beer, Franz Rogowski, Maryam Zaree, Jacob Matschenz. WP
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
-Jake Kring-Schreifels 8
+Tim                 6
+Raspou              6
+Ibiza Spitza        5
 
-"Rizi (Days)" (Tsai Ming-Liang, Taiwan) [Wettbewerb]
- with Lee Kang-Sheng, Anong Houngheuangsy. WP
+"Effacer l'historique (Delete History)" (Benoît Delépine, Gustave Kervern, F/B) [Wettbewerb]
+ with Blanche Gardin, Denis Podalydès, Corinne Masiero. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
-Bai Yutong          6
-
-"The Roads Not Taken" (Sally Potter, UK) [Wettbewerb]
- with Javier Bardem, Elle Fanning, Salma Hayek, Laura Linney. WP
-
-#letterboxd
-Tim Greiving        4   https://letterboxd.com/tgreiving/film/the-roads-not-taken/
-Amber Cropp         4
-Rupert Cole         3   https://letterboxd.com/rupertcole/film/the-roads-not-taken/
+Victor Lhosmot      7
+AlexInc             7
 
 "Schwesterlein (My Little Sister)" (Stéphanie Chuat, Véronique Reymond, CH) [Wettbewerb]
  with Nina Hoss, Lars Eidinger, Marthe Keller, Jens Albinus, Thomas Ostermeier, Linne-Lu Lungershausen, Noah Tscharland, Isabelle Caillat, Moritz Gottwald, Urs Jucker. WP
 
-#letterboxd
-
-"Sheytan vojud nadarad (There Is No Evil)" (Mohammad Rasoulof, D/Cz/Iran) [Wettbewerb]
- World premiere
-
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
 
 "Siberia" (Abel Ferrara, I/D/Mex) [Wettbewerb]
  with Willem Dafoe, Dounia Sichov, Simon McBurney, Cristina Chiriac. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
-Letterboxd 11_Ratings	4.0  https://letterboxd.com/film/siberia-2020/
 Gallileus           5
 spencerverse        4
 Abimael Lopes       4
@@ -126,36 +163,145 @@ Mikael Wassberg     4
 GHAIDA AZIZ         2
 jsbibra             2
 
-"Todos os mortos (All the Dead Ones)" (Caetano Gotardo, Marco Dutra, Bra/F) [Wettbewerb]
- with Mawusi Tulani, Clarissa Kiste, Carolina Bianchi, Thaia Perez, Alaíde Costa, Leonor Silveira, Agyei Augusto, Rogério Brito, Thomás Aquino, Andrea Marquee. WP
+"Domangchin yeoja (The Woman Who Ran)" (Hong Sangsoo, Korea) [Wettbewerb]
+ with Kim Minhee, Seo Younghwa, Song Seonmi, Kim Saebyuk, Lee Eunmi, Kwon Haehyo, Shin Seokho, Ha Seongguk. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
 
-"Undine" (Christian Petzold, D/F) [Wettbewerb]
- with Paula Beer, Franz Rogowski, Maryam Zaree, Jacob Matschenz. WP
+"Favolacce (Bad Tales)" (Damiano & Fabio D'Innocenzo, I/CH) [Wettbewerb]
+ with Elio Germano, Barbara Chichiarelli, Lino Musella, Gabriel Montesi, Max Malatesta. WP
 
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
-Tim                 6
-Raspou              6
-Ibiza Spitza        5
+Alberto Farina      8
 
-"Volevo nascondermi (Hidden Away)" (Giorgio Diritti, Italy) [Wettbewerb]
- with Elio Germano. WP
+"Never Rarely Sometimes Always" (Eliza Hittman, USA) [Wettbewerb] <i>Sundance</i>
+ with Sidney Flanigan, Talia Ryder, Théodore Pellerin, Ryan Eggold, Sharon Van Etten. IP
 
+Sundance 90_Ratings    8.10  http://cannes-ratings.herokuapp.com/Sundance2020?t=12#12
+Letterboxd 205_Ratings	7.6  https://letterboxd.com/film/never-rarely-sometimes-always/
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
 #letterboxd
-melodina            9
-Simone Cerasi       9
-Luca Giusto         8
-ally                8
-Requ13m             7
-#critic.de
-Andrey Arnold         9
+Jake Kring-Schreifels 8
+BrighamTaylor       7
+Jacob McCabe        7
+Jake Kring-Schreifels 8
+
+"Berlin Alexanderplatz" (Burhan Qurbani, D/NL) [Wettbewerb]
+ with Welket Bungué, Jella Haase, Albrecht Schuch, Joachim Król, Annabelle Mandeng, Nils Verkooijen, Richard Fouofié Djimeli. WP
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#letterboxd
+
+"DAU. Natasha" (Ilya Khrzhanovskiy, Jekaterina Oertel, D/Ukr/UK/Rus) [Wettbewerb]
+ with Natalia Berezhnaya, Olga Shkabarnya, Vladimir Azhippo, Alexei Blinov, Luc Bigé. WP
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#letterboxd
+ichibata            9
+
+"The Roads Not Taken" (Sally Potter, UK) [Wettbewerb]
+ with Javier Bardem, Elle Fanning, Salma Hayek, Laura Linney. WP
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#letterboxd
+Tim Greiving        4   https://letterboxd.com/tgreiving/film/the-roads-not-taken/
+Amber Cropp         4
+Rupert Cole         3   https://letterboxd.com/rupertcole/film/the-roads-not-taken/
+
+"Rizi (Days)" (Tsai Ming-Liang, Taiwan) [Wettbewerb]
+ with Lee Kang-Sheng, Anong Houngheuangsy. WP
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#letterboxd
+Bai Yutong          6
+
+"Irradiés (Irradiated)" (Rithy Panh, France / Cambodia) [Wettbewerb]
+ WP, doc
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#letterboxd
+
+"Sheytan vojud nadarad (There Is No Evil)" (Mohammad Rasoulof, D/Cz/Iran) [Wettbewerb]
+ WP
+
+#screendaily
+Helena Lindblad        
+Paolo Bertolin         
+Anton Dolin            
+Katja Nicodemus        
+Wang Muyan             
+Rita DiSanto           
+Screen International   
+#letterboxd
+
 
 Encounters
 
 "Malmkrog" (Cristi Puiu, Rom/Ser/CH/Swe/Bos/Mac) [Encounters]
  Opener
 
+#critic.de
+Till Kadritzke        6
+G.Marchini Camia      6
+Philipp Schwarz       4
 #letterboxd
 mihaifulger         10
 Dominic Schmid      9
@@ -169,46 +315,50 @@ feridemercury       6
 Hebbie101           5
 BobbyStankovic      5
 Nandor Toth         2
-#critic.de
-Till Kadritzke        6
-G.Marchini Camia      6
-Philipp Schwarz       4
 
 "Funny Face" (Tim Sutton, US) [Encounters]
 
+#critic.de
 #letterboxd
 Marcphilipp17       8
 
 "Gunda" (Victor Kossakovsky, No/US) [Encounters]
  Doc w/o dialog
 
+#critic.de
 #letterboxd
 
 "Isabella" (Matías Piñeiro, Arg) [Encounters]
 
+#critic.de
 #letterboxd
 
 "The Shepherdess and the Seven Songs" (Pushpendra Singh, Ind) [Encounters]
 
+#critic.de
 #letterboxd
 
 "Los Conductos" (Camilo Restrepo, F/Col/Bra) [Encounters]
 
+#critic.de
 #letterboxd
 Carlota Moseguí     9
 
 "The Last City" (Heinz Emigholz, D) [Encounters]
 
+#critic.de
 #letterboxd
 
 "The Metamorphosis of Birds" (Catarina Vasconcelos, Por) [Encounters]
   Doc
 
+#critic.de
 #letterboxd
 Manuel Kalmanovitz  10   https://letterboxd.com/manuelk/film/the-metamorphosis-of-birds/
 
 "Naked Animals" (Melanie Waelde, D) [Encounters]
 
+#critic.de
 #letterboxd
 labsklaus           8
 knutkuhles          8
@@ -216,6 +366,7 @@ Hagge               6
 
 "Orphea" (Alexander Kluge, Khavn, D) [Encounters]
 
+#critic.de
 #letterboxd
 Carlota Moseguí     2
 
@@ -225,6 +376,7 @@ Peter Debruge           https://variety.com/2020/film/reviews/shirley-review-eli
 Todd McCarthy           https://www.hollywoodreporter.com/review/shirley-review-1272679
 David Ehrlich       B+   https://www.indiewire.com/2020/01/shirley-review-josephine-decker-1202205435/
 Sundance 75_Ratings    7.46  http://cannes-ratings.herokuapp.com/Sundance2020?t=38#38
+#critic.de
 #letterboxd
 Jennifer            7
 JoKatz              6   https://letterboxd.com/jokatz/film/shirley-2020/
@@ -233,24 +385,26 @@ NatalieRoseM        5
 
 "Servants" (Ivan Ostrochovský, Slo/Rom/Cze Rep/Ire) [Encounters]
 
+#critic.de
 #letterboxd
 Josh Brunsting      8
 
 "The Trouble with Being Born" (Sandra Wollner, A/D) [Encounters]
 
-#letterboxd
-Carlota Moseguí     7
 #critic.de
 Andrey Arnold         6
+#letterboxd
+Carlota Moseguí     7
 
 "The Works and Days (of Tayoko Shiojiri in the Shiotani Basin)" (C.W. Winter, Anders Edström, US/Swe/Jap/HK/UK) [Encounters]
 
+#critic.de
 #letterboxd
 
 "Kill It and Leave This Town" (Mariusz Wilczyński, Pol) [Encounters]
 
+#critic.de
 #letterboxd
-
 
 Panorama
 
@@ -258,6 +412,11 @@ Panorama
  IP
 
 Sundance 59_Ratings    6.90  http://cannes-ratings.herokuapp.com/Sundance2020?t=173#173
+#critic.de
+Hannes Brühwiler      6
+G.Marchini Camia      5
+Jonas Nestroy         6
+Philipp Schwarz       6
 #letterboxd
 George Napper       10   https://letterboxd.com/the_may_queen/film/the-assistant-2019/
 jnyland             8   https://letterboxd.com/jnyland/film/the-assistant-2019/
@@ -277,11 +436,6 @@ RySeal              8
 astormofswans       8   https://letterboxd.com/astormofswans/film/the-assistant-2019/
 jnivison28          8
 renataklein         8
-#critic.de
-Hannes Brühwiler      6
-G.Marchini Camia      5
-Jonas Nestroy         6
-Philipp Schwarz       6
 
 "Notes from the Underworld" (Tizza Covi, Rainer Frimmel, A) [Panorama]
  Documentary WP
@@ -295,35 +449,36 @@ Amy Nicholson           https://variety.com/2020/film/reviews/bloody-nose-empty-
 Leslie Felperin         https://www.hollywoodreporter.com/review/bloody-nose-empty-pockets-review-1272822
 Anthony Kaufman         https://www.screendaily.com/reviews/bloody-nose-empty-pockets-sundance-review/5146364.article
 Sundance 42_Ratings    7.65  http://cannes-ratings.herokuapp.com/Sundance2020?t=32#32
-#letterboxd
-Sarah               8
-Till Kadritzke      8
-tayupdate           8
 #critic.de
 Till Kadritzke        7.5
 Michael Kienzl        5
 Jonas Nestroy         7.5
+#letterboxd
+Sarah               8
+Till Kadritzke      8
+tayupdate           8
 
 "Shine Your Eyes" (Matias Mariani, Bra/Fr) [Panorama]
  WP
 
+#critic.de
+Till Kadritzke        7.5
 #letterboxd
 Till Kadritzke      8
 Christian Ihle      4
-#critic.de
-Till Kadritzke        7.5
 
 "Digger" (Georgis Grigorakis, Gre/Fr) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 trockendock         7
 
 "Eeb Allay Ooo!" (Prateek Vats, Ind) [Panorama]
 
-#letterboxd
 #critic.de
 Jonas Nestroy         2.5
+#letterboxd
 
 "Exil" (Visar Morina, D/Bel/Kos) [Panorama] <i>Sundance</i>
 
@@ -372,6 +527,8 @@ Roberto Gonzalez    4
 "Las Mil y Una (One in a Thousand)" (Clarisa Navas, Arg/D) [Panorama]
  WP
 
+#critic.de
+Michael Kienzl        4
 #letterboxd
 Fly                 8   https://letterboxd.com/flyinvisible/film/one-in-a-thousand/
 Carlota Moseguí     8
@@ -393,12 +550,11 @@ JaredAbbott         4
 lucas_milhomem      4   https://letterboxd.com/lucas_milhomem/film/one-in-a-thousand/
 Arvena              2
 elsupersonico       2
-#critic.de
-Michael Kienzl        4
 
 "Pari" (Siamak Etemadi, Gre/Fr/NL/Bul) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 Okt8v               9
 xiaoyu              8
@@ -407,40 +563,41 @@ LilithAnything      6
 "Little Girl" (Sébastien Lifshitz, Fr) [Panorama]
  Documentay WP
 
-#letterboxd
 #critic.de
 Michael Kienzl        6
+#letterboxd
 
 "Black Milk (Schwarze Milch)" (Uisenma Borchu, D/Mon) [Panorama]
  WP
 
-#letterboxd
-Till Kadritzke      7
 #critic.de
 Till Kadritzke        6
+#letterboxd
+Till Kadritzke      7
 
 "If It Were Love" (Patric Chiha, Fr) [Panorama]
  WP
 
-#letterboxd
-Jansushi            7
-LilithAnything      3
 #critic.de
 Andrey Arnold         7.5
 Michael Kienzl        7.5
+#letterboxd
+Jansushi            7
+LilithAnything      3
 
 "Suk Suk" (Ray Yeung, HK/Chi) [Panorama]
 
+#critic.de
+Michael Kienzl        5
 #letterboxd
 Wellington Almeida  7
 wwh                 7
-#critic.de
-Michael Kienzl        5
 
 "Welcome to Chechnya" (David France, US) [Panorama] <i>Sundance</i>
  IP
 
 Sundance 15_Ratings    8.13  http://cannes-ratings.herokuapp.com/Sundance2020?t=10#10
+#critic.de
 #letterboxd
 Jordan Raup         7
 Robert Fenske       7
@@ -448,45 +605,46 @@ Robert Fenske       7
 "A l’abordage" (Guillaume Brac, Fr) [Panorama]
  WP
 
-#letterboxd
-trockendock         10
-Clémence            6
 #critic.de
 G.Marchini Camia      6
 Philipp Schwarz       7.5
+#letterboxd
+trockendock         10
+Clémence            6
 
 "Always Amber" (Lia Hietala, Hannah Reinikainen, Swe) [Panorama]
  WP
 
-#letterboxd
 #critic.de
 Michael Kienzl        4
+#letterboxd
 
 "Days of Cannibalism" (Teboho Edkins, Fr/SA/NL) [Panorama]
  WP 
 
-#letterboxd
-williamfrost        8
 #critic.de
 Michael Kienzl        5
+#letterboxd
+williamfrost        8
 
 "I Dream of Singapore" (Lei Yuan Bin, Sing) [Panorama] <i>Singapore</i>
  IP
 
-#letterboxd
 #critic.de
 Philipp Schwarz       4
+#letterboxd
 
 "The Foundation Pit" (Andrey Gryazev, Rus) [Panorama]
  WP
 
-#letterboxd
 #critic.de
 Jonas Nestroy         6
+#letterboxd
 
 "Mare" (Andrea Štaka, CH/Cro) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 Christian Ihle      6
 Ewan Graf           5   https://letterboxd.com/ewangraf/film/mare-2020/
@@ -494,26 +652,29 @@ Ewan Graf           5   https://letterboxd.com/ewangraf/film/mare-2020/
 "Minyan" (Eric Steel, US) [Panorama]
  WP
 
+#critic.de
+Michael Kienzl        4
 #letterboxd
 trockendock         8
 tihuanica           7
-#critic.de
-Michael Kienzl        4
 
 "Mogul Mowgli" (Bassam Tariq, UK) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 LilithAnything      8
 
 "Nardjes A." (Karim Aïnouz, Alg/F/D/Bra/Qat) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 
 "One of These Days" (Bastian Günther, D/US) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 trockendock         7
 LilithAnything      6   https://letterboxd.com/lilithanything/film/one-of-these-days-2020/
@@ -521,31 +682,35 @@ LilithAnything      6   https://letterboxd.com/lilithanything/film/one-of-these-
 "Father" (Srdan Golubović, Ser/F/D/Cro/Slo/B&H) [Panorama]
  WP 
 
+#critic.de
 #letterboxd
 trockendock         8
 
 "Amazon Mirror" (Fernando Segtowick, Braz) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 Sean Erickson       8
 
 "Schlingensief – A Voice That Shook the Silence" (Bettina Böhler, D) [Panorama]
  WP
 
+#critic.de
 #letterboxd
 
 "Sow the Wind" (Danilo Caputo, It/Fr/Gre) [Panorama]
  WP
 
-#letterboxd
 #critic.de
 Jonas Nestroy         1
+#letterboxd
 
 "Surge" (Aneil Karia, UK) [Panorama] <i>Sundance</i>
  IP
 
 Sundance 39_Ratings    5.05  http://cannes-ratings.herokuapp.com/Sundance2020?t=121#121
+#critic.de
 #letterboxd
 JuliaRooksNest      10
 monkeybox83         8
@@ -558,11 +723,11 @@ Miragez             4
 "A Common Crime" (Francisco Márquez, Arg/Bra/CH) [Panorama]
  WP
 
-#letterboxd
-Carlota Moseguí     8
 #critic.de
 Michael Kienzl        2.5
 Philipp Schwarz       2.5
+#letterboxd
+Carlota Moseguí     8
 
 "Dry Wind" (Daniel Nolasco, Braz) [Panorama]
  WP
@@ -570,6 +735,7 @@ Philipp Schwarz       2.5
 Generation (59 entries at all, 29 WO, 11 1st)
 Generation 14plus
 
+#critic.de
 #letterboxd
 LilithAnything      6
 
@@ -578,16 +744,19 @@ LilithAnything      6
 
 #critic.de
 Till Kadritzke        4
+#letterboxd
 
 "Alice Júnior" (Gil Baroni, Bra 2019) [Generation] <i>Venice</i>
  Alice Júnior is trans, confident and ready to confront life. In the new school in the Brazilian province, she is first bullied and then admired. In her struggle for acceptance, her YouTube community is omnipresent, in the comments and emojis on her page, but also all throughout the visual level of the film. IP
 
+#critic.de
 #letterboxd
 
 "The Earth Is Blue as an Orange" (Iryna Tsilyk, Ukr/Lit) [Generation]
  The budding filmmaker Myroslava and her family are at home in the middle of the Ukrainian war zone. In the formerly lively environment, emptiness has spread, once familiar things now seem threatening. By re-enacting scenes and telling each other what has happened, the family members process the persistent state of emergency together. 1st, doc
 
 Guy Lodge               https://variety.com/2020/film/reviews/the-earth-is-blue-as-an-orange-review-sundance-berlin-1203506416/
+#critic.de
 #letterboxd
 JaredAbbott         6
 Miragez             6
@@ -595,10 +764,10 @@ Miragez             6
 "Irmã (Sisters in the End of the World)" (Luciana Mazeto, Vinícius Lopes, Bra) [Generation]
  The mother is dying, the father has never cared. The two sisters Ana and Ju, however, remain strong and in solidarity with each other - even if the world around them collapses and asteroids fall from the sky. An experimental road movie in pulsating images, containing ingenious dialogues and songs that reverberate. WP, 1st
 
-#letterboxd
-Mandy Castro        5
 #critic.de
 Jonas Nestroy         6
+#letterboxd
+Mandy Castro        5
 
 "Jumbo" (Zoé Wittock, D/B/Lux)  [Generation] <i>Sundance</i>
  The shy Jeanne (Noémie Merlant) still lives with her mother. At night, she works in an amusement park. Suddenly, the new attraction Jumbo - a huge idiosyncratic carousel - appears and begins to put the young woman under its spell. A wild and unusual love story unfolds. 1st
@@ -607,21 +776,22 @@ Amy Nicholson           https://variety.com/2020/film/reviews/jumbo-review-12034
 Fionnuala Halligan      https://www.screendaily.com/reviews/jumbo-sundance-review/5146294.article
 David Ehrlich       B-   https://www.indiewire.com/2020/01/jumbo-review-sundance-1202205652/
 Sundance 61_Ratings    6.41  http://cannes-ratings.herokuapp.com/Sundance2020?t=78#78
-#letterboxd
-Miragez             2
 #critic.de
 Jonas Nestroy         5
+#letterboxd
+Miragez             2
 
 "My Name is Baghdad" (Caru Alves de Souza, Bra) [Generation]
  A film from the skater world of São Paulo, where it is women who call the shots. Bagdá is surrounded by self-confident role models in her family. However, outside on the streets, in the venues and clubs, the old machismo continues to dominate. Bagdá and her fellow comrades-in-arms confront it defiantly. WP
 
-#letterboxd
 #critic.de
 Maurice Lahde         5
+#letterboxd
 
 "Our Lady of the Nile (Notre-Dame de Nil)" (Atiq Rahimi, Fr) [Generation]
  In the microcosm of an elite Catholic school in Rwanda, the contrasts and hostilities between Hutu and Tutsi that are already deeply rooted in society are mirrored by a group of teenage girls. A literary film adaptation, inspired by the real events that forewarn the genocide of the Rwandan Civil War in 1994.
 
+#critic.de
 #letterboxd
 guizzbiz            6
 infinityjo          6
@@ -631,27 +801,29 @@ ThibaultRoche       4
 "Palazzo di Giustizia (Ordinary Justice)" (Chiara Bellosi, Ita/CH) [Generation]
  While a trial involving murder, manslaughter and armed robbery is being conducted inside the courtroom, the two daughters of the accused are sentenced to wait outside in the hallway. It is the casual, although meaningful moments which are captured that make this portrayal of a very ordinary day at the court truly impressive. WP, 1st
 
-#letterboxd
-LilithAnything      4
 #critic.de
 Philipp Schwarz       4
+#letterboxd
+LilithAnything      4
 
 "Paradise Drifters" (Mees Peijnenburg, NL) [Generation]
  On the edge of Europe's affluent society, in the middle of the concrete jungle, the paths of Yousef, Chloe and Lorenzo intersect. Three homeless young people who combine their silent longing for security with their loud cry for independence.
 
-#letterboxd
-mayrasoares         6
 #critic.de
 Michael Kienzl        4
+#letterboxd
+mayrasoares         6
 
 "Pompei" (Anna Falguères, John Shank, Bel/Fr/Can) [Generation]
  Swaggering with the coolness of James Dean, the members of a youthful gang exist in a world virtually without adults. Following their own rules, they search in the middle of nowhere for the artefacts of a lost civilization, until the appearance of a young woman changes everything. A powerful story of liberation reminiscent of “Lord of the Flies”.
 
+#critic.de
 #letterboxd
 
 "White Riot" (Rubika Shah, UK 2019) [Generation] <i>London</i>
  What kind of democratic resistance can young people offer in times of burgeoning racism? The filmmaker, who herself was faced with racism as a young woman, pursues the forces of the "Rock against Racism" movement in London in the mid-1970s. A movement embodied by the music of The Clash, Steel Pulse and X-Ray Spex. IP, 1st, Doc
 
+#critic.de
 #letterboxd
 
 "Kaze no Denwa (Voices in the Wind)" (Nobuhiro Suwa, Japan) [Generation]
@@ -659,6 +831,7 @@ Michael Kienzl        4
 
 James Hadfield      https://www.japantimes.co.jp/culture/2020/01/23/films/film-reviews/voices-wind-loss-haunting-journey-home/
 
+#critic.de
 #letterboxd
 Rüdiger Tomczak     9
 Hiroki              7
@@ -668,12 +841,14 @@ muuuuchu            5
 "La déesse des mouches à feu (Goddess of the Fireflies)" (Anaïs Barbeau-Lavalette, Can) [Generation]
  Following the separation of her parents, 16-year-old Catherine loses her footing. She plunges into life, lets herself be carried away by drugs and music, and finds a new family in a clique of her peers as well as the opportunity for her first sexual encounter. Pure teen spirit, impressively embodied by the high-energy, Canadian actress Kelly Depeault. WP
 
+#critic.de
 #letterboxd
 
 "Yalda, la nuit du pardon (Yalda, a Night for Forgiveness)" (Massoud Bakhshi, F/D/CH/Lux/Lebanon/Iran) [Generation] <i>Sundance</i>
  In the artificial entertainment world of the Iranian TV show “Joy of Forgiveness”, the wronged daughter and a public of millions judge the fate of a young woman who is sentenced to death. Maryam is said to have murdered her much older husband, a man with whom she had lived in a temporary marriage. A tense drama about the power of forgiveness and the women who are doomed to remain prisoners.
 
 Sundance 7_Ratings    5.57  http://cannes-ratings.herokuapp.com/Sundance2020?t=119#119
+#critic.de
 #letterboxd
 
 Generation Kplus
@@ -681,33 +856,34 @@ Generation Kplus
 "Las niñas (Schoolgirls)" (Pilar Palomero, Spa) [Generation]
  Prodded by the rebellious Brisa, puberty is awakening in twelve-year-old Celia. Quickly, the two become allies against the rigid rules of authority in the Catholic girls’ school. However, questions about the right bra, cool bands and sexy clothing cannot hide the urgent search for their own identity. WP 1st
 
+#critic.de
+Maurice Lahde         6
 #letterboxd
 JoseMRomeroSER      8
 Anabel              7
-#critic.de
-Maurice Lahde         6
 
 "Cuties" (Maïmouna Doucouré, Fr) [Generation] <i>Sundance, Netflix</i>
 
 Amy Nicholson           https://variety.com/2020/film/reviews/cuties-review-1203476991/
 Sundance 36_Ratings    6.77  http://cannes-ratings.herokuapp.com/Sundance2020?t=115#115
+#critic.de
+Jonas Nestroy         7.5
 #letterboxd
 Rochus Wolff        8
 Brett Robinson      8   https://letterboxd.com/beingbrettr/film/cuties-2020/
-#critic.de
-Jonas Nestroy         7.5
 
 "Death Of Nintendo" (Raya Martin, Phil/US) [Generation]
  Only something truly earthshaking can keep four 13-year-olds away from their computer games: the eruption of a volcano, the first feelings of falling in love, the dreaded initiation into manhood. Filipino director Raya Martin (Independencia, 2009 WCF and La Última Película, 2014 Forum Expanded) plunges into a dazzling world of the pop culture of the 1990s.
 
-#letterboxd
-Wellington Almeida  2
 #critic.de
 Michael Kienzl        7.5
 Philipp Schwarz       5
+#letterboxd
+Wellington Almeida  2
 
 "H Is For Happiness" (John Sheedy, Aus) [Generation]
 
+#critic.de
 #letterboxd
 Rochus Wolff        8
 John Goldsworthy    6
@@ -715,40 +891,45 @@ Jaydan Danes        6   https://letterboxd.com/jaydandanes/film/h-is-for-happine
 hongye              5
 Felix Brown         5   https://letterboxd.com/felixbrownie/film/h-is-for-happiness/
 
-"Los Lobos" (Samuel Kishi Leopo, Mex) [Generation]
+"Los Lobos" (Samuel Kishi Leopo, Mex 2019) [Generation]
+ Young brothers Max and Leo dream of going to Disneyland, but having just emigrated from Mexico to the USA they first have to settle in their new homeland. And they have to stick to the seven rules their mother has set down for them.
+
+#critic.de
 
 "Mamá, mamá, mamá (Mum, Mum, Mum)" (Sol Berruezo Pichon-Riviére, Arg) [Generation]
  A veil of sadness lies over the oppressively hot summer days. Cleo dives into daydreams with her cousins, the girls share secret signs and rituals. Flowing gently, in impressionistic images, the empty space that the death of Cleo’s sister has left in the family is poetically encircled. WP 1st
 
-#letterboxd
-LilithAnything      5
 #critic.de
 Jonas Nestroy         6
+#letterboxd
+LilithAnything      5
 
 "Mugge & vejfesten (Monty and the Street Party)" (Anders Morgenthaler, Mikael Wulff, Den 2019)  [Generation]
  Monty, a cheerful optimist, wants to organise a big neighbourhood party to reconcile his parents shortly before their divorce. Nuns with beards on stilts and enthusiastic parkour nudists, those are part of everyday life in his little town. A breath-taking firework of bizarre and pointed punch lines on the occasion of a hopeless situation. IP, Animation
 
+#critic.de
 #letterboxd
 Rochus Wolff        4
 
 "Ochite mi sini, rokljata sharena (Blue Eyes and Colorful My Dress)" (Polina Gumiela, D) [Generation]
   Full of self-confidence, three-year-old Zhana explores her neighbourhood in Plovdiv, Bulgaria. A fresh look at the world, at places and people who fascinate, who make one laugh, who challenge or are challenged by the little explorer. A documentary as an endless chain of little miracles. WP, doc
 
+#critic.de
 #letterboxd
 
 "Perro" (Lin Sternal, D) [Generation]
 
-#letterboxd
-VinceVega           5
 #critic.de
 Jonas Nestroy         2.5
+#letterboxd
+VinceVega           5
 
 "Sweet Thing" (Alexandre Rockwell, US) [Generation]
 
-#letterboxd
-LilithAnything      6
 #critic.de
 Michael Kienzl        6
+#letterboxd
+LilithAnything      6
 
 "Veins Of The World" (Byambasuren Davaa, D/Mon) [Generation]
 
@@ -757,76 +938,89 @@ Michael Kienzl        6
 "Sthalpuran (Chronicle of Space)" (Akshay Indikar, India) [Generation]
  The move from the city to the country, the disappearance of the father. Nobody explained to Dhigu why this is so. Throughout the summer, the observant boy takes note of his surroundings. Together with Dhigu, the film explores his new place of life in the Indian province, with images of vastness and abundance that become deeply etched into the memory. WP
 
-#letterboxd
 #critic.de
 Maurice Lahde         7.5
+#letterboxd
 
 "Sune – Best Man" (Jon Holmberg, Swe 2019) [Generation]
  Sune meets himself as a figure from the future, someone who wants to give him the lead on an important decision. But it is in Sune’s family that no one can really make a decision. Aimlessness and inventiveness characterise grandpa, the parents and the children. After Sune vs. Sune, a turbulent family trip with heart, humour and action. IP
 
+#critic.de
+#letterboxd
 
 Perspektive Deutsches Kino
-
-#letterboxd
 
 "Kids Run" (Barbara Ott) [Perspektive Deutsches Kino]
  with Jannis Niewöhner, Lena Tronina, Eline Doenst, Giuseppe Bonvissuto, Carol Schuler, Sascha Geršak, Oliver Konietzny
  Andi’s life is a constant battle for his home, his three children and the woman he still loves. He only has two weeks to pay her back the borrowed 5,000 €. When he loses his job, an amateur boxing tournament looks like the only solution. WP, Opener, 1st
 
+#critic.de
 #letterboxd
 
 "Ein Fisch, der auf dem Rücken schwimmt (A Fish Swimming Upside Down)" (Eliza Petkova) [Perspektive Deutsches Kino]
  with Nina Schwabe, Theo Trebs, Henning Kober, Anna Manolova, Márton Nagy, Leon Ullrich
  Andrea, a woman without a past, is the object of both Philipp’s and his son’s desire. A love triangle filled with expectations, longing and fears leaves open the speculation of who knows what about whom. WP
 
+#critic.de
 #letterboxd
 
 "Garagenvolk (Garage People)" (Natalija Yefimkina) [Perspektive Deutsches Kino]
  In Russia’s unwelcoming north, garages stretch out into endlessness. Behind rusty doors everything can be found, except cars. They are the refuge of the Russian man, the vanishing point out of bleak daily life and a signal of hope for big dreams. WP, doc, 1st
 
+#critic.de
 #letterboxd
 
 "Walchensee Forever" (Janna Ji Wonders) [Perspektive Deutsches Kino]
  If there is such a thing as a family memory that carries forward over the course of history, then it determines the actions of every generation. The director tells the story of the women in her family, set amongst Walchensee, the Summer of Love, hippie dreams and the harem surrounding Rainer Langhans. WP, doc, 1st
 
+#critic.de
 #letterboxd
 
 "Automotive" (Jonas Heldt)  [Perspektive Deutsches Kino]
  While Sedanur spends the whole night in Ingolstadt sorting car parts, headhunter Eva is looking for specialists in logistics automation. Two very different representatives of a generation in which, sooner or later, everyone will be replaceable. WP, doc, 1st
 
+#critic.de
 #letterboxd
 
 "Im Feuer (Sisters Apart)" (Daphne Charizani, D/GR) [Perspektive Deutsches Kino]
  with Almila Bagriacik, Zübeyde Bulut, Maryam Boubani, Christoph Letkowski, Gonca de Haas
  Rojda, a German soldier and native Kurd, volunteers for a mission to train female Kurdish soldiers in Iraq to fight ISIS. No one must know that she is actually looking for her missing sister. WP
 
+#critic.de
 #letterboxd
 
 "Schlaf (Sleep)" (Michael Venus)  [Perspektive Deutsches Kino]
  with Gro Swantje Kohlhof, Sandra Hüller, August Schmölzer, Marion Kracht, Agata Buzek
  Mona’s days are filled with concern for her mother, a woman broken by her belief that her nightmares are real. In search of answers, Mona arrives in a village where she encounters an old family curse in a strange hotel. WP
 
+#critic.de
 #letterboxd
 
 "Wagenknecht" (Sandra Kaudelka) [Perspektive Deutsches Kino]
  Left-wing politician Sahra Wagenknecht’s working day is marked by applause and admiration but also doubts and intrigues. This film follows her and her team: from the 2017 election campaign to her withdrawal from political leadership in 2019. WP, doc
 
+#critic.de
 #letterboxd
 
 "Out of Place" (Friederike Güssefeld) [Perspektive Deutsches Kino]
  Three young Germans sent to an educational project in the middle of Romania. This quietly observational film brings us closer to Kevin, Dominik and David – their loneliness, their desires and their turmoil – in this remote place. doc
 
+#critic.de
+Michael Kienzl        6
 #letterboxd
 Jan-Gerrit Heddinga 9
 Sérgio Gomes        3
-#critic.de
-Michael Kienzl        6
 
 Forum
 
 "El tango del viudo y su espejo deformante (The Tango Of The Widower And Its Distorting Mirror)" (Raúl Ruiz, Valeria Sarmiento, Chile) [Forum]
  Raúl Ruiz’ first feature was shot in 1967, but never completed. Edited together on the basis of his notes and with a soundtrack created from scratch, his vision finally comes to the big screen: a fever dream that skilfully plays with its own temporality. Opener. WP
 
+#critic.de
+Till Kadritzke        6
+Karsten Munt          5
+Jonas Nestroy         6
+Philipp Schwarz       5
 #letterboxd
 PapoDeCinema        8   https://letterboxd.com/papodecinema/film/el-tango-del-viudo-y-su-espejo-deformante/
 Nasogrigio          7
@@ -838,15 +1032,14 @@ Darren Hughes       6
 Blake Williams      6
 Roberto Gonzalez    6
 shookone            5   https://letterboxd.com/shookone/film/el-tango-del-viudo-y-su-espejo-deformante/
-#critic.de
-Till Kadritzke        6
-Karsten Munt          5
-Jonas Nestroy         6
-Philipp Schwarz       5
 
 "Anne At 13,000 Ft" (Kazik Radwanski, Can/US 2019) [Forum] <i>Toronto</i>
  EP
 
+#critic.de
+Martin Gobbin         7.5
+Till Kadritzke        7.5
+Jonas Nestroy         4
 #letterboxd
 Alex Billington     9   https://letterboxd.com/firstshowing/film/anne-at-13000-ft/
 jankaranka          8
@@ -860,91 +1053,95 @@ Nasogrigio          6
 hansen              6
 Christian Ihle      6
 tihuanica           5
-#critic.de
-Martin Gobbin         7.5
-Till Kadritzke        7.5
-Jonas Nestroy         4
 
 "A Storm Was Coming" (Javier Fernández Vázquez, Spa) [Forum]
  WP
 
-#letterboxd
-Till Kadritzke      7
 #critic.de
 Till Kadritzke        5
+#letterboxd
+Till Kadritzke      7
 
 "Window Boy Would Also Like To Have A Submarine" (Alex Piperno, Uru/Arg/Bra/NL/Phil) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "Entre Perro Y Lobo" (Irene Gutiérrez, Cuba/Spa) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "This Is My Desire" (Arie Esiri, Chuko Esiri, Nig/US) [Forum]
  WP
 
-#letterboxd
-Till Kadritzke      8
 #critic.de
 Till Kadritzke        7.5
+#letterboxd
+Till Kadritzke      8
 
 "FREM" (Viera Čákanyová, Cz/Slo 2019) [Forum]
  IP
 
+#critic.de
 #letterboxd
 Borninflames        8
 
 "Generations" (Lynne Siefert, US) [Forum]
  WP
 
+#critic.de
 #letterboxd
 LilithAnything      2
 
 "The Notes Of Anna Azzori / A Mirror That Travels Through Time" (Constanze Ruhm, A/D/F) [Forum]
  WP
 
+#critic.de
 #letterboxd
 crisiscrisis        6
 
 "In Deep Sleep" (Maria Ignatenko, Rus) [Forum]
  WP
 
-#letterboxd
 #critic.de
 Karsten Munt          4
+#letterboxd
 
 "Strike or Die" (Jonathan Rescigno, Fra) [Forum]
  WP
 
-#letterboxd
 #critic.de
 Jonas Nestroy         9
+#letterboxd
 
 "The Exit of the Trains" (Radu Jude, Adrian Cioflâncă, Rom) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "As Above So Below" (Sarah Francis, Leb) [Forum]
  WP
 
-#letterboxd
-Nace Zavrl          8
 #critic.de
 Jonas Nestroy         1
 Philipp Schwarz       2.5
+#letterboxd
+Nace Zavrl          8
 
 "Art Comes from the Beak the Way It Has Grown" (Sabine Herpich, Ger) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "The House of Love" (Luca Ferri, Ita) [Forum]
  WP
 
+#critic.de
 #letterboxd
 Carlota Moseguí     7
 hansen              7
@@ -959,68 +1156,75 @@ danielruprech       2
 "Red Moon Tide" (Lois Patiño, Spa) [Forum]
  WP
 
-#letterboxd
-Till Kadritzke      6
 #critic.de
 Till Kadritzke        6
 Karsten Munt          2.5
 Philipp Schwarz       2.5
+#letterboxd
+Till Kadritzke      6
 
 "Light in the Tropics" (Paula Gaitán, Bra) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "Maggie’s Farm" (James Benning, US) [Forum]
  WP
 
-#letterboxd
-Neil Fox            10
-Josh Brunsting      6
-Maximilien Proctor  6   https://letterboxd.com/maxwolf333/film/maggies-farm/
-Patrick Devitt      2
 #critic.de
 Maurice Lahde         7.5
 Karsten Munt          6
 Jonas Nestroy         7.5
 Philipp Schwarz       6
+#letterboxd
+Neil Fox            10
+Josh Brunsting      6
+Maximilien Proctor  6   https://letterboxd.com/maxwolf333/film/maggies-farm/
+Patrick Devitt      2
 
 "Medium" (Edgardo Cozarinsky, Arg) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "The Alien" (Nader Saeivar, Ira) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "Oeconomia" (Carmen Losmann, Ger) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "Ouvertures" (Louis Henderson, Olivier Marboeuf, UK/Fra) [Forum]
  together with The Living and the Dead Ensemble. WP
 
+#critic.de
+Till Kadritzke        6
+Karsten Munt          4
+Philipp Schwarz       5
 #letterboxd
 Joel Whitaker       10
 Till Kadritzke      9
 williamfrost        9
 Hazel               8
-#critic.de
-Till Kadritzke        6
-Karsten Munt          4
-Philipp Schwarz       5
 
 "Petit Samedi" (Paola Sermon-Daï, Bel) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "The Calming" (SONG Fang, Chi) [Forum]
  WP
 
+#critic.de
+Martin Gobbin         2.5
 #letterboxd
 hongye              8
 svenpost            7
@@ -1031,160 +1235,175 @@ Caterina            7
 Moritz_St           6
 Darren Hughes       5   https://letterboxd.com/longpauses/film/the-calming/
 Blake Williams      5
-#critic.de
-Martin Gobbin         2.5
 
 "Corporate Accountability" (Jonathan Perel, Arg) [Forum]
  WP
 
+#critic.de
 #letterboxd
 LilithAnything      2
 
 "Zero" (Kazuhiro Soda, Jap/US) [Forum] <i>MoMa</i>
  Observational Film #9, 128min. EP, doc
 
+#critic.de
+G.Marchini Camia      6
+Karsten Munt          7.5
 #letterboxd
 Kazushi80           9
 Jim Jiang           8
 Chun Hei Cheung     7
 kiranewmark         6
-#critic.de
-G.Marchini Camia      6
-Karsten Munt          7.5
 
 "Uppercase Print (Tipografic majuscul)" (Radu Jude, Rom) [Forum]
  WP
 
+#critic.de
+G.Marchini Camia      5
+Karsten Munt          7.5
+Philipp Schwarz       6
 #letterboxd
 Alina Agafiței      9
 LilithAnything      7
 mihaifulger         6
 Catalin             2
-#critic.de
-G.Marchini Camia      5
-Karsten Munt          7.5
-Philipp Schwarz       6
 
 "After the Crossing" (Joël Richmond Mathieu Akafou, Fra/Côte d’Ivoire) [Forum]
  WP
 
-#letterboxd
-Till Kadritzke      6
 #critic.de
 Till Kadritzke        6
+#letterboxd
+Till Kadritzke      6
 
 "The Twentieth Century" (Matthew Rankin, Can 2019) [Forum] <i>Toronto</i>
  EP
 
-#letterboxd
-Delphine Lestage Archambault 9
-martinkramer        7
 #critic.de
 Till Kadritzke        2.5
 Karsten Munt          2.5
 Jonas Nestroy         5
 Philipp Schwarz       2.5
+#letterboxd
+Delphine Lestage Archambault 9
+martinkramer        7
 
 "The Two Sights" (Joshua Bonnetta, Can/UK) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "Victoria" (Sofie Benoot, Liesbeth De Ceulaer, Isabelle Tollenaere, Bel) [Forum]
  WP
 
+#critic.de
+Till Kadritzke        5
 #letterboxd
 Till Kadritzke      5
 Wellington Almeida  4
 LilithAnything      3
-#critic.de
-Till Kadritzke        5
 
 "The Viewing Booth" (Ra’anan Alexandrowicz, Isr/US 2019) [Forum]  <i>Docaviv</i>
  IP
 
+#critic.de
+Hannes Brühwiler      6
 #letterboxd
 natfet              8
 SterBear8           8
-#critic.de
-Hannes Brühwiler      6
 
 "Divinely Evil" (Gustavo Vinagre, Bra) [Forum]
  WP
 
-#letterboxd
 #critic.de
 G.Marchini Camia      5
+#letterboxd
 
 "Was bleibt I Šta ostaje I What remains / Re-visited" (Clarissa Thieme, Ger/Aus/B&H) [Forum]
  WP
 
+#critic.de
 #letterboxd
 
 "Zeus Machine. L’invincibile" (Nadia Ranocchi, David Zamagni (Zapruder), Ita 2019) [Forum]
  IP, Doc
 
-Forum Expanded
-
+#critic.de
 #letterboxd
+
+Forum Expanded
 
 "Abstracted / Family" (Koki Tanaka, Japan 2019) <i>Aichi Triennale<i>
   IP
 
+#critic.de
 #letterboxd
 
 "Akiya" (Jonna Kina, Fin/J/US) [Forum Expanded]
   WP
 
+#critic.de
 #letterboxd
 
 "Apiyemiyekî? (Jiibie)" (Laura Huertas Millán, Col/F 2019) [Forum Expanded] <i>Mar del Plata</i>
  EP
 
+#critic.de
 #letterboxd
 Patrick Devitt      4
 
 "Al-Houbut (The Landing)" (Akram Zaatari, Leb/UAE 2019) [Forum Expanded] <i>Sharjah Biennial</i>
  IP
 
+#critic.de
 #letterboxd
 
 "Al-Maw’oud (The Promised)" (Ahmed Elghoneimy, Egypt) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "On Zarathustra'’s Going Under from Cairo to Oran" (Ayreen Anastas, Rene Gabri, Pal/US) [Forum Expanded]
  WP
 
+#critic.de
+
 "Citizens of the Cosmos" (Anton Vidokle, US/J/Ukr 2019) [Forum Expanded] <i>Toronto</i>
  EP
 
+#critic.de
 #letterboxd
 
 "Doublewide" (Jenny Perlin, US) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Equinox" (Margaret Honda, US) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Expedition Content" (Ernst Karel, Veronika Kusumaryati, US) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Her Name Was Europa" (Anja Dornieden, Juan David González Monroy, D) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Jogos Dirigidos (Directed Games)" (Jonathas de Andrade, Bra 2019) [Forum Expanded] <i>various museums</i>
  IP
 
+#critic.de
 #letterboxd
 dudafeistauer       10
 duda 🦖              10
@@ -1200,17 +1419,20 @@ Deuilton B. Júnior  5
 "letter to a friend" (Emily Jacir, Pal/US 2019) [Forum Expanded] <i>Bard College</i>
  IP
 
+#critic.de
 #letterboxd
 
 "Matata" (Petna Ndaliko Katondolo, Congo/US/NL 2019) [Forum Expanded] <i>Lubumbashi</i>
  IP
 
+#critic.de
 #letterboxd
 Tatevik Martirosian 9
 
 "Moazzam ma yalla haqeqy (Most of What Follows Is True)" (Maged Nader, Egypt) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "On vous parle de Paris: Maspero, les mots ont un sens" (Chris Marker, F 1970) [Forum Expanded]
@@ -1218,42 +1440,50 @@ Tatevik Martirosian 9
 "(Outros) Fundamentos" (Aline Motta, Bra 2019) [Forum Expanded]
  EP
 
+#critic.de
 #letterboxd
 
 "The Phantom Menace" (Graeme Arnfield, UK) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Recovery" (Kevin Jerome Everson, US) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Purple Sea" (Amel Alzakout, Khaled Abdulwahed, D) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Tatsuniya II" (Rahima Gambo, Nig 2019) [Forum Expanded]
  IP
 
+#critic.de
 #letterboxd
 
 "Untitled Sequence of Gaps" (Vika Kirchenbauer, D) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 "Vaga Carne (Dazed Flesh)" (Grace Passô, Ricardo Alves Jr., Bra 2019) [Forum Expanded]
  EP
 
+#critic.de
 #letterboxd
 Daniel Rabicho      1
 
 "Télé Réalité" (Lucile Desamory, Gustave Fundi, Glodie Mubikay, B/Ger/Congo) [Forum Expanded]
  WP
 
+#critic.de
 #letterboxd
 
 
@@ -1266,6 +1496,12 @@ Berlinale Special
 Peter Debruge           https://variety.com/2020/film/reviews/my-salinger-year-review-1203508881/
 Boyd van Hoeij          https://www.hollywoodreporter.com/review/my-salinger-year-review-1280097
 Peter Bradshaw    2    https://www.theguardian.com/film/2020/feb/20/my-salinger-year-review-bafflingly-insipid-berlin-opener-clunks-hard
+#critic.de
+Andrey Arnold         7.5
+Till Kadritzke        2.5
+Michael Kienzl        4
+Sonja M. Schultz      7.5
+Philipp Schwarz       2.5
 #letterboxd
 Rebekka             9
 Zarito              9
@@ -1335,18 +1571,13 @@ Christian Eichler   4
 elsupersonico       4
 danielruprech       4
 Pemulis0            3
-#critic.de
-Andrey Arnold         7.5
-Till Kadritzke        2.5
-Michael Kienzl        4
-Sonja M. Schultz      7.5
-Philipp Schwarz       2.5
 
 "Onward" (Dan Scanlon, USA) [Special]
  with the voices of Tom Holland, Chris Pratt, Julia-Louis Dreyfus, Octavia Spencer, Mel Rodriguez, Kyle Bornheimer, Lena Waithe, Ali Wong. IP, Animation
 
-#letterboxd
 Letterboxd 77_Ratings	  https://letterboxd.com/film/onward-2020/
+#critic.de
+#letterboxd
 LincolnOh           8
 Demi Adejuyigbe     8   https://letterboxd.com/demiadejuyigbe/film/onward-2020/
 JohnCotter          8   https://letterboxd.com/johncotter/film/onward-2020/
@@ -1357,17 +1588,20 @@ Wil Jones           5
 "Curveball" (Johannes Naber, Germany) [Special]
  with Sebastian Blomberg, Dar Salim, Virginia Kull, Michael Wittenborn, Thorsten Merten, Franziska Brandmeier. WP
 
+#critic.de
 #letterboxd
 
 "DAU. Degeneratsia (DAU. Degeneration)" (Ilya Khrzhanovskiy, Ilya Permyakov, D/Ukr/UK/Ru) [Special]
  We all know what this is. WP
 
+#critic.de
 #letterboxd
 rafy                10
 
 "Speer Goes to Hollywood" (Vanessa Lapa, Israel) [Special]
  World premiere / Documentary form
 
+#critic.de
 #letterboxd
 
 On Transmission
@@ -1375,79 +1609,97 @@ On Transmission
 "Testről és lélekről (On Body and Soul)" (Ildikó Enyedi, Hun 2017) [Special]
  with Géza Morcsányi, Alexandra Borbély, Zoltán Schneider
 
+#critic.de
 #letterboxd
 
 "Egy Nap (One Day)" (Zsófia Szilágyi, Hun 2018) [Special]
  with Zsófia Szamosi, Leó Füredi, Annamária Láng
 
+#critic.de
 #letterboxd
 
 "Cesare deve morire (Caesar Must Die)" (Paolo and Vittorio Taviani, Ita 2012) [Special]
  with Cosimo Rega, Salvatore Striano, Giovanni Arcuri, Antonio Frasca
 
+#critic.de
 #letterboxd
 
 "Sole" (Carlo Sironi, ITA/POL 2019) [Special]
  with Sandra Drzymalska, Claudio Segaluscio, Barbara Ronchi, Bruno Buzzi, Marco Felli, Vitaliano Trevisan
 
+#critic.de
 #letterboxd
 
 "Heller Wahn (Sheer Madness)" (Margarethe von Trotta, BRD 1983) [Special]
 with Hanna Schygulla, Angela Winkler, Peter Striebeck, Christine Fersen
 World premiere of the digitally restored version in 4K DCP
 
+#critic.de
 #letterboxd
 
 "Der Architekt (The Architect)" (Ina Weisse, D 2008) [Special]
  with Josef Bierbichler, Hilde van Miegheim, Matthias Schweighöfer, Sandra Hüller, Sophie Rois, Lucas Zolger
 
+#critic.de
 #letterboxd
 
 "Xiao Wu (Artisan Pickpocket)" (Jia Zhang-Ke, China 1998) [Special]
  with Wang Hongwei, Zuo Baitao, Hao Hongjian. World premiere of the digitally restored version in 4K DCP
 
+#critic.de
+
 "Guo Zhao Guan (Crossing the Border - Zhaoguan)" (Huo Meng, China 2018) [Special]
  with Yang Taiyi, Li Yunhu, Wan Zhong
+
+#critic.de
 
 "35 rhums (35 Shots of Rum)" (Claire Denis, F/D 2008) [Special]
  with Alex Descas, Mati Diop, Nicole Dogué, Grégoire Colin
 
+#critic.de
 #letterboxd
 
 "Irma Vep" (Olivier Assayas, F 1996) [Special]
  with Maggie Cheung, Jean-Pierre Léaud, Nathalie Richard
 
+#critic.de
 #letterboxd
 
 "En kärlekshistoria (A Swedish Love Story)" (Roy Andersson, Swe 1970) [Special]
  with Ann-Sofie Kylin, Rolf Sohlman, Anita Lindblom, Bertil Norström, Lennart Tellfeldt, Margreth Weivers
 
+#critic.de
 #letterboxd
 
 "Brokeback Mountain" (Ang Lee, USA 2005) [Special]
  with Heath Ledger, Jake Gyllenhaal, Anne Hathaway, Michelle Williams
 
+#critic.de
 #letterboxd
 
 "Wandafuru Raifu (After Life)" (Hirokazu Kore-eda, Japan 1998) [Special]
  with Arata, Erika Oda, Kyōko Kagawa, Susumu Terajima, Takashi Naitô
 
+#critic.de
 #letterboxd
 
 "The American Sector" (Courtney Stephens, Pacho Velez, US) [Special]
   WP, doc
 
+#critic.de
 #letterboxd
 erinmay             10   https://letterboxd.com/erinmay/film/the-american-sector/
 
 "Golda Maria" (Patrick Sobelman, Hugo Sobelman, F) [Special]
   WP, doc
 
+#critic.de
 #letterboxd
 
 "Numbers" (Oleg Sentsov, Akhtem Seitablaiev, Ukr/Pol/Cze/F) [Special]
   with Evhen Chernykov, Agatha Larionova, Oleksandr Begma, Maksym Devizorov, Iryna Mak
 
+#critic.de
 #letterboxd
 LilithAnything      7   https://letterboxd.com/lilithanything/film/numbers-2020/
 hansen              6   https://letterboxd.com/handsome0126/film/numbers-2020/
@@ -1459,11 +1711,13 @@ Melanie             3
 "Persian Lessons" (Vadim Perelman, RU/D/Bel)
  with Nahuel Pérez Biscayart, Lars Eidinger, Jonas Nay, Leonie Benesch, Alexander Beyer, David Schütter, Luisa-Celine Gaffron. WP
 
+#critic.de
 #letterboxd
 
 "Police (Night Shift)" (Anne Fontaine, F) [Special]
  with Omar Sy, Virginie Efira, Grégory Gadebois, Payman Maadi. WP
 
+#critic.de
 #letterboxd
 PassionFruchti      5
 Nico Ihrke          5
@@ -1476,12 +1730,14 @@ seb719              3
 "High Ground" (Stephen Maxwell Johnson, Aus) [Special]
  with Simon Baker, Jacob Junior Nayinggul, Jack Thompson, Callan Mulvey, Witiyana Marika, Esmerelda Marimowa, Aaron Pedersen. WP
 
+#critic.de
 #letterboxd
 Luke Murray         8
 
 "Time to Hunt (Sa-nyang-eui-si-gan)" (Yoon Sung-hyun, Kor) [Special]
  with Lee Je-hoon, Ahn Jae-hong, Choi Woo-shik, Park Jeong-min, Park Hae-soo. WP
 
+#critic.de
 #letterboxd
 
 "The Nutty Professor" (Jerry Lewis, US 1963) [Special]
@@ -1500,12 +1756,14 @@ BDC / RASIE         8   https://letterboxd.com/beedeecee/film/the-nutty-professo
 "Charlatan" (Agnieszka Holland, CZ/Irl/Pol/Slo) [Special]
  with Ivan Trojan, Josef Trojan, Juraj Loj, Jaroslava Pokorná. WP
 
+#critic.de
 #letterboxd
 ༺ChAnAkA SanDaRuWaN ༻ 10
 
 "Minamata" (Andrew Levitas, UK) [Special]
  with Johnny Depp, Hiroyuki Sanada, Minami, Bill Nighy. WP
 
+#critic.de
 #letterboxd
 Alex Billington     9   https://letterboxd.com/firstshowing/film/minamata/
 Arvena              6
@@ -1528,11 +1786,13 @@ Aurel Graf          3   https://letterboxd.com/airelgraph/film/minamata/
 
 Ben Travers         B+   https://www.indiewire.com/2020/01/hillary-review-hillary-clinton-hulu-documentary-1202205475/
 Sundance 1_Rating    7.0  http://cannes-ratings.herokuapp.com/Sundance2020?t=220#220
+#critic.de
 #letterboxd
 
 "Last and First Men" (Jóhann Jóhannsson, Iceland) [Special]
  Narrated by Tilda Swinton. WP, doc
 
+#critic.de
 #letterboxd
 JJPandas            10
 Tyler               10   https://letterboxd.com/tgc_films/film/last-and-first-men/
@@ -1542,6 +1802,11 @@ Bai Yutong          6
 "Swimming Out Till The Sea Turns Blue (Yi Zhi You Dao Hai Shui Bian Lan)" (Jia Zhang-ke, China) [Special]
  WP, doc
 
+#critic.de
+G.Marchini Camia      5
+Karsten Munt          7.5
+Jonas Nestroy         4
+Philipp Schwarz       6
 #letterboxd
 Alex Billington     8   https://letterboxd.com/firstshowing/film/swimming-out-till-the-sea-turns-blue/
 PapoDeCinema        7   https://letterboxd.com/papodecinema/film/swimming-out-till-the-sea-turns-blue/
@@ -1555,20 +1820,13 @@ Blake Williams      5
 Bai Yutong          5
 Jaime Lapaz         4
 LilithAnything      3
-#critic.de
-G.Marchini Camia      5
-Karsten Munt          7.5
-Jonas Nestroy         4
-Philipp Schwarz       6
 
 "Pinocchio" (Matteo Garrone, I/F/UK 2019) [Special]
  with Roberto Benigni. IP
 
 Jay Weissberg    https://variety.com/2019/film/reviews/pinocchio-review-roberto-benigni-1203451504/
 Lee Marshall     https://www.screendaily.com/reviews/pinocchio-review/5145660.article
-
-Retrospektive
-
+#critic.de
 #letterboxd
 melodina            9
 Simone Cerasi       9
@@ -1576,44 +1834,53 @@ Luca Giusto         8
 ally                8
 Requ13m             7
 
+Retrospektive
+
 "Il bidone (The Swindle)" (Federico Fellini, ITA/F 1955) [Retrospektive]
  with Broderick Crawford, Giulietta Masina, Richard Basehart, Franco Fabrizi, Sue Ellen Blake, Irene Cefaro. World premiere of the digitally restored version (DCP 4K)
 
-
+#critic.de
 #letterboxd
 
 "Bushido zankoku monogatari (Cruel Tale of Bushido)" (Tadashi Imai, Japan 1963) [Retrospektive]
  with Kinnosuke Nakamura (in 7 roles), Satomi Oka, Kyoko Kishida, Misako Watanabe, Yoshiko Mita. World premiere of the digitally restored version (DCP 2K)
 
+#critic.de
+
 "Daleká cesta (Distant Journey)" (Alfréd Radok, CZ 1949) [Retrospektive]
  with Blanka Waleská, Otomar Krejča, Viktor Očásek, Zdeňka Baldová, Eduard Kohout. World premiere of the digitally restored version 2019 (DCP 4K)
 
+#critic.de
 #letterboxd
 
 "A Fish Called Wanda" (Charles Crichton, UK/US 1988) [Retrospektive]
  with John Cleese, Jamie Lee Curtis, Kevin Kline, Michael Palin, Maria Aitken. World premiere of the digitally restored version 2017–2019 (DCP 2K)
 
+#critic.de
 #letterboxd
 
 "Ostatni etap (The Last Stage)" (Wanda Jakubowska, POL 1948) [Retrospektive]
  with Wanda Bartówna, Huguette Faget, Tatjana Górecka, Antonina Górecka, Maria Winogradowa, Barbara Drapińska, Aleksandra Śląska. World premiere of the digitally restored version 2019 (DCP 4K)
 
+#critic.de
 #letterboxd
 
 "Das Wachsfigurenkabinett (Waxworks)" (Paul Leni, D 1924) [Retrospektive]
  with Emil Jannings, Conrad Veidt, Werner Krauss, Wilhelm Dieterle, Olga Belajeff. World premiere of the digitally restored version 2015–2019 (DCP 2K) — with audio description
 
-Woche der Kritik
-
+#critic.de
 #letterboxd
 
-"Common Birds" (Silvia Maglioni, Graeme Thomson, FR/GR 2019) [Woche der Kritik]
- 84 Min. – Deutschlandpremiere
+Woche der Kritik
 
+"Common Birds" (Silvia Maglioni, Graeme Thomson, FR/GR 2019) [Woche der Kritik]
+ 84 Min. – DP
+
+#critic.de
 #letterboxd
 
 "Faith" (Valentina Pedicini, IT 2019) [Woche der Kritik]
- 94 Min. – Deutschlandpremiere
+ 94 Min. – DP
 
 #critic.de
 Jonas Nestroy         6
@@ -1621,8 +1888,12 @@ Jonas Nestroy         6
 "For the Time Being (Tal día hizo un año)" (Salka Tiziana, DE/ES/CH 2020) [Woche der Kritik]
  71 Min.
 
+#critic.de
+
 "Ivana the Terrible (Ivana cea Groaznica)" (Ivana Mladenović, RO/SRB 2019) [Woche der Kritik]
- 86 Min. – Deutschlandpremiere
+ 86 Min. – DP
+
+#critic.de
 
 "Los fantasmas" (Sebastián Lojo, GT/AR 2020) [Woche der Kritik]
  75 Min. – Deutschlandpremiere, 1st
@@ -1631,19 +1902,30 @@ Jonas Nestroy         6
 G.Marchini Camia      5
 
 "The Lost Okoroshi" (Abba Makama, NG 2019) [Woche der Kritik]
- 92 Min. – Deutschlandpremiere
+ 92 Min. – DP
+
+#critic.de
 
 "My Punch-Drunk Boxer (Pansori Boxer)" (Jung Hyuk-ki, KOR 2019) [Woche der Kritik]
- 115 Min. – Internationale Premiere
+ 115 Min. – IP
 
 "Seven Years in May (Sete anos em maio)" (Affonso Uchôa, BR/AR 2019) [Woche der Kritik]
- 42 Min. – Deutschlandpremiere
+ 42 Min. – DP
 
 EOF
 
 our @critics;
-$critics_group[0] = "critic.de";
+$critics_group[0] = "screendaily";
 $critics[0] = "
+Helena Lindblad (Dagens Nyherer, Schweden)
+Paolo Bertolin (Segnocinema, Italy)
+Anton Dolin (Meduza, Russia)
+Katja Nicodemus (ex-Zeit, Deutschland)
+Wang Muyan (The Paper, China)
+Rita DiSanto (The Morning Star, UK)
+";
+$critics_group[1] = "critic.de";
+$critics[1] = "
 Miriam Bale (MUBI, US)
 Arnaud Hée (Critikat.com, France)
 Andrey Arnold (Die Presse, Austria)
@@ -1682,8 +1964,8 @@ Anke Westphal (Berliner Zeitung, Deutschland)
 Alexandra Zawia (Ray, Austria)
 ";
 # letterboxd
-$critics_group[1] = "letterboxd";
-$critics[1] = "
+$critics_group[2] = "letterboxd";
+$critics[2] = "
 Felix H. (Dis+Positiv, Deutschland)
 Pablo Villaça (Cinema em Cena, Brasilien)
 Vytenis Galvėnas (Vilnius University, Lithuania)
@@ -1705,8 +1987,8 @@ Werner Hochbaum-Schrein (negativespace.blogger.de, Deutschland)
 Ron Junghans (jay-carpet.com, Deutschland)
 Serena Scateni (cinematographe.it, Scotland)
 ";
-$critics_group[2] = "None";
-$critics[2] = "
+$critics_group[3] = "None";
+$critics[3] = "
 Rory O’Connor (Film Stage, UK)
 Christian Ihle (TAZ Popblog, Deutschland)
 Bruno Carmelo (adorocinema.com, Brasil)
