@@ -198,8 +198,10 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
-  if ($year => 2020) { # no Out of Competition anymore
-    @sections = ($sections[0], "Encounters", @sections[2..$#sections]);
+  if ($year => 2020) { # no Out of Competition, Native
+    @sections = ($comp_section, "Encounters", "Panorama", "Generation",
+                 "Perspektive Deutsches Kino", "Forum", "Forum Expanded",
+                 "Special", "Retrospektive", "Forum 50", "Woche der Kritik" );
   }
   my %sections = map {$_=>1} @sections;
   my $section;
@@ -327,7 +329,7 @@ sub _dump {
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
     next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
-    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40)$/;
+    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50)$/;
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
@@ -357,7 +359,7 @@ sub _dump {
     my $n=$title{$t}->{num}; 
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
-    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40)$/;
+    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50)$/;
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
