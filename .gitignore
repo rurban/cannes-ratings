@@ -17,6 +17,7 @@ insert-[bcs][12][0-9]
 ber[12][0-9]/
 sun[12][0-9]/
 c[12][0-9]/
+b20-auto.sh
 20*.pl
 *.dat.bak
 dkstjernebarometer.pl
