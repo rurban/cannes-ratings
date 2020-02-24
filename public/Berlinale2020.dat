@@ -4474,9 +4474,10 @@ G.Marchini Camia      5
 
 EOF
 
-our @critics;
-$critics_group[0] = "screendaily";
-$critics[0] = "
+our (@critics, @critics_group);
+my $i=0;
+$critics_group[$i] = "screendaily";
+$critics[$i++] = "
 Helena Lindblad (Dagens Nyherer, Schweden)
 Paolo Bertolin (Segnocinema, Italy)
 Anton Dolin (Meduza, Russia)
@@ -4484,8 +4485,8 @@ Katja Nicodemus (ex-Zeit, Deutschland)
 Wang Muyan (The Paper, China)
 Rita DiSanto (The Morning Star, UK)
 ";
-$critics_group[1] = "critic.de";
-$critics[1] = "
+$critics_group[$i] = "critic.de";
+$critics[$i++] = "
 Alexandra Zawia (Ray, Austria)
 Andrey Arnold (Die Presse, Austria)
 Anke Westphal (Berliner Zeitung, Deutschland)
@@ -4523,8 +4524,8 @@ Thomas Groh (Perlentaucher, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
 ";
 # letterboxd
-$critics_group[2] = "letterboxd";
-$critics[2] = "
+$critics_group[$i] = "letterboxd";
+$critics[$i++] = "
 Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
 Antonio Dakeyras (Deutschland)
 Aristea Tomopoulou (Filmmaker, Greece)
@@ -4546,8 +4547,8 @@ Stavros Tagres (GB)
 Vytenis Galvėnas (Vilnius University, Lithuania)
 Werner Hochbaum-Schrein (negativespace.blogger.de, Deutschland)
 ";
-$critics_group[3] = "None";
-$critics[3] = "
+$critics_group[$i] = "None";
+$critics[$i++] = "
 A.A. Dowd (The A.V. Club, US)
 Adam Chitwood (Collider, US)
 Alex Billington (FirstShowing.net)
