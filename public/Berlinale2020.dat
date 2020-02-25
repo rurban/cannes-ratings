@@ -2,7 +2,7 @@ package Berlinale::rurban::2020; # -*- perl -*-
 # Berlinale 2020 Critics Ratings
 # 20.2 - 1.3.
 
-# TODO https://www.filmneweurope.com/images/FNE%20Critics/BerlinaleCritics2020.pdf
+# https://www.filmneweurope.com/images/FNE%20Critics/BerlinaleCritics2020.pdf
 
 use utf8;
 our $DATA= <<'EOF';
@@ -33,6 +33,23 @@ Katja Nicodemus        7.5
 Wang Muyan             5
 Rita DiSanto           5
 Screen International   5
+#fipresci
+Alberto Ramos          6
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar    4
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn            
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser     8
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 elmariachi82        10
 Actual Grandma      10   https://letterboxd.com/ohnewitz/film/the-intruder-2020/
@@ -228,6 +245,23 @@ Katja Nicodemus        5
 Wang Muyan             2.5
 Rita DiSanto           5
 Screen International   7.5
+#fipresci
+Alberto Ramos          4
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar    4
+Kerem Akca
+Kirsten Liese          6
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         4
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser    6
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 gingar🦊             9   https://letterboxd.com/gingar/film/hidden-away-2020/
 lorenzwur           9
@@ -343,6 +377,23 @@ Katja Nicodemus        7.5
 Wang Muyan             5
 Rita DiSanto           7.5
 Screen International   9
+#fipresci
+Alberto Ramos          8
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar    8
+Kerem Akca
+Kirsten Liese          2
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         4
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Letterboxd 306_Ratings	7.8  https://letterboxd.com/film/first-cow/
 Tatiana Shorokhova  10
@@ -540,6 +591,23 @@ Katja Nicodemus        2.5
 Wang Muyan             7.5
 Rita DiSanto           7.5
 Screen International   7.5
+#fipresci
+Alberto Ramos          8
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar    1
+Kerem Akca
+Kirsten Liese          6
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         6
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser    4
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Tanja Bresan        10
 svenpost            9
@@ -670,6 +738,23 @@ Katja Nicodemus        5
 Wang Muyan             9
 Rita DiSanto           7.5
 Screen International   5
+#fipresci
+Alberto Ramos          8
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar    8
+Kerem Akca             8
+Kirsten Liese          2
+Leo Bankersen          4
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         4
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Louis_levi          9
 Walfisch            9
@@ -782,6 +867,23 @@ Katja Nicodemus        7.5
 Wang Muyan             9
 Rita DiSanto           2.5
 Screen International   7.5
+#fipresci
+Alberto Ramos          4
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese          2
+Leo Bankersen          8
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         8
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser    8
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Kunow Tobias        10
 consdanse           10
@@ -938,6 +1040,23 @@ Katja Nicodemus        2.5
 Wang Muyan             5
 Rita DiSanto           9
 Screen International   5
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese          6
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Lu Zeng             9
 Hugo Emmerzael      9
@@ -1009,6 +1128,23 @@ Katja Nicodemus        5
 Wang Muyan             2.5
 Rita DiSanto           5
 Screen International   5
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese          10
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Yortj               9
 Sven Holl           8
@@ -1081,6 +1217,23 @@ Katja Nicodemus        2.5
 Wang Muyan             5
 Rita DiSanto           7.5
 Screen International   1
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca             4
+Kirsten Liese          2
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Mikko Pihkoluoma    10   https://letterboxd.com/mikkopihkoluoma/film/siberia-2020/
 Redmond Bacon       10   https://letterboxd.com/redbacon/film/siberia-2020/
@@ -1180,6 +1333,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Bai Yutong          6
 
@@ -1194,6 +1364,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Alberto Farina      8
 
@@ -1211,6 +1398,23 @@ Katja Nicodemus
 Wang Muyan
 Rita DiSanto
 Screen International
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca             6
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Letterboxd 205_Ratings	7.6  https://letterboxd.com/film/never-rarely-sometimes-always/
 Emile Eid           10   https://letterboxd.com/emileeid/film/never-rarely-sometimes-always/
@@ -1252,6 +1456,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Luc Freijer         10
 
@@ -1266,6 +1487,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 ichibata            9
 
@@ -1280,6 +1518,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Tim Greiving        4   https://letterboxd.com/tgreiving/film/the-roads-not-taken/
 Amber Cropp         4
@@ -1296,6 +1551,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Bai Yutong          6
 
@@ -1310,6 +1582,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 
 "Sheytan vojud nadarad (There Is No Evil)" (Mohammad Rasoulof, D/Cz/Iran) [Wettbewerb]
@@ -1323,6 +1612,23 @@ Katja Nicodemus
 Wang Muyan             
 Rita DiSanto           
 Screen International   
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 
 
@@ -1843,6 +2149,23 @@ Michael Kienzl        5
 G.Marchini Camia      5
 Jonas Nestroy         6
 Philipp Schwarz       6
+#fipresci
+Alberto Ramos         6
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Friedrich Lau       8   https://letterboxd.com/friedrich_lau/film/the-assistant-2019/
 Peter Dragovich     8
@@ -2380,6 +2703,23 @@ chuleos             3
 David Rooney            https://www.hollywoodreporter.com/review/minyan-review-berlin-2020-1280281
 #critic.de
 Michael Kienzl        4
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser    6
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Oli                 10   https://letterboxd.com/beaubeau/film/minyan/
 Tomás Mateus        10
@@ -3226,6 +3566,23 @@ Till Kadritzke        6
 Karsten Munt          5
 Jonas Nestroy         6
 Philipp Schwarz       5
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         6
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 rodrigogaray        9
 timmychen           9
@@ -3277,6 +3634,23 @@ Till Kadritzke        7.5
 Adina Lauenburger     6
 Boris Nelepo          6
 Jonas Nestroy         4
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca            6
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Alex Billington     9   https://letterboxd.com/firstshowing/film/anne-at-13000-ft/
 jacob_roy           8
@@ -3362,6 +3736,23 @@ okanacmak           2
   Three soldiers moving through the Cuban jungle: combat exercises and camouflage techniques are practised, but the battle never arrives. The nature of their mission becomes an ever-greater mystery, echoing unanswered in the impassive natural surroundings. With Miguel Soto, Alberto Santana, Juan Bautista López. WP
 
 #critic.de
+#fipresci
+Alberto Ramos          6
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Neil Fox            10   https://letterboxd.com/neitherfamenor/film/entre-perro-y-lobo/
 
@@ -3456,6 +3847,23 @@ Maximilien Proctor  1
 Till Kadritzke        7.5
 Jonas Nestroy         9
 Philipp Schwarz       7.5
+#fipresci
+Alberto Ramos         6
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 AndiNeu             9
 mischahedinger      8
@@ -3503,6 +3911,23 @@ RedHerring          7
 
 #critic.de
 Hannes Brühwiler      6
+#fipresci
+Alberto Ramos         2
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Ellen Kemp          8
 tobiwan1138         7
@@ -3696,6 +4121,23 @@ FrankPoole          3
  WP
 
 #critic.de
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca            
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         6
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Kip Tjappings       9
 jeffgc15            8
@@ -3741,6 +4183,23 @@ Dunja Bialas          6
 G.Marchini Camia      5
 Karsten Munt          7.5
 Philipp Schwarz       6
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca            8
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal         
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Jonas Chadarevian   9
 filipipo            9
@@ -3817,6 +4276,23 @@ Karsten Munt          2.5
 Jonas Nestroy         5
 Philipp Schwarz       2.5
 Rüdiger Suchsland     7.5
+#fipresci
+Alberto Ramos         6
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca            8
+Kirsten Liese
+Leo Bankersen         6
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Maximilian Klausen  9   https://letterboxd.com/klausenmax/film/the-twentieth-century/
 lyssiemoller        9
@@ -3913,6 +4389,23 @@ Anja Seeliger           https://www.perlentaucher.de/berlinale-blog/2020/02/24/f
 Hannes Brühwiler      6
 Adina Lauenburger     6
 Rüdiger Suchsland     7.5
+#fipresci
+Alberto Ramos         10
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmoeller
 #letterboxd
 Schmun              9
 juga                9
@@ -5508,7 +6001,25 @@ Sonja M. Schultz (critic.de, Deutschland)
 Thomas Groh (Perlentaucher, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
 ";
-# letterboxd
+$critics_group[$i] = "fipresci";
+$critics[$i++] = "
+Alberto Ramos (FIPRESCI)
+Andrea Martini (FIPRESCI)
+Barbara Lorey (FIPRESCI)
+Esin Kucuktepepinar (FIPRESCI)
+Kerem Akca (FIPRESCI)
+Kirsten Liese (FIPRESCI)
+Leo Bankersen (FIPRESCI)
+Lulia Blaga (FIPRESCI)
+Pamela Jahn (FIPRESCI)
+Paolo Portugal (FIPRESCI)
+Philip Bergson (FIPRESCI)
+Jana Podskalska (FIPRESCI)
+Steven Yates (FIPRESCI)
+Thomas Abeltshauser (FIPRESCI)
+Ugo Brusaporco (FIPRESCI)
+Verena Schmoeller (FIPRESCI)
+";
 $critics_group[$i] = "letterboxd";
 $critics[$i++] = "
 Alex Hodge (Film student, Australia)
