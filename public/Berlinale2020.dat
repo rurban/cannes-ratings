@@ -5517,6 +5517,7 @@ Till Kadritzke (critic.de, Deutschland)
 # letterboxd
 $critics_group[$i] = "letterboxd";
 $critics[$i++] = "
+Alex Hodge (Film student, Australia)
 Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
 Antonio Dakeyras (Deutschland)
 Aristea Tomopoulou (Filmmaker, Greece)
@@ -5586,6 +5587,7 @@ Miriam Bale (MUBI, US)
 Neil Young (RogerEbert.com, GB)
 Noel Murray (The Playlist, US)
 Otto Kylmälä (Loud Silents Festival, Lithuania)
+Peter Bradshaw (The Guardian, UK)
 Rory O’Connor (Film Stage, UK)
 Sarah Ward (Screen International, UK)
 Stephen Dalton (The Hollywood Reporter, UK)
