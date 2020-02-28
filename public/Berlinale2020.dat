@@ -3986,7 +3986,7 @@ G.Marchini Camia      5
 Jonas Nestroy         6
 Philipp Schwarz       6
 #fipresci
-Alberto Ramos         6
+Alberto Ramos         8
 Andrea Martini
 Barbara Lorey
 Esin Kucuktepepinar
@@ -3998,7 +3998,7 @@ Pamela Jahn
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
-Steven Yates
+Steven Yates           6
 Thomas Abeltshauser
 Ugo Brusaporco
 Verena Schmöller
@@ -4044,7 +4044,7 @@ Pamela Jahn
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
-Steven Yates
+Steven Yates          8
 Thomas Abeltshauser
 Ugo Brusaporco
 Verena Schmöller
@@ -4134,6 +4134,23 @@ shookone            3
 
 IMDB 11_Ratings   7.2   http://www.imdb.com/title/tt9389916/
 #critic.de
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca            4
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates          6
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmöller
 #letterboxd
 cogi                10
 konsteza            8
@@ -4188,6 +4205,24 @@ IMDB 22_Ratings   6.9   http://www.imdb.com/title/tt8955708/
 Redmond Bacon	https://culturedvultures.com/exile-review-berlinale-2020/
 Carmen Paddock	https://oneroomwithaview.com/2020/02/25/exile-berlinale-2020-review/
 Sundance 20_Ratings    6.30  http://cannes-ratings.herokuapp.com/Sundance2020?t=93#93
+#critic.de
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson        10
+Jana Podskalska
+Steven Yates
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmöller        
 #letterboxd
 JohnDoe             9
 Lediona Kasapi      9
@@ -4231,6 +4266,7 @@ Buktino             3
 "Hope" (Maria Sødahl, Nor/Swe) [Panorama] <i>Toronto</i>
 
 IMDB 102_Ratings   7.8   http://www.imdb.com/title/tt9812614/
+#critic.de
 #letterboxd
 dittedc             10
 Vincent             9
@@ -4268,6 +4304,7 @@ Wellington Almeida  4
  WP
 
 Jessica Kiang           https://variety.com/2020/film/reviews/no-hard-feelings-review-1203511943/
+#critic.de
 #fipresci
 Alberto Ramos        6
 Andrea Martini
@@ -4331,6 +4368,7 @@ Farhad Delaram      1
 
 "Running on Empty" (Lisa Weber, A) [Panorama]
  Doc, WP
+#critic.de
 #letterboxd
 abacus767           9   https://letterboxd.com/abacus767/film/running-on-empty-2020/
 corinnataro         8
@@ -4346,6 +4384,7 @@ ikkenneth           3
 
 Guy Lodge               https://variety.com/2020/film/reviews/wildland-film-review-1203508040/
 Peter Bradshaw    8    https://www.theguardian.com/film/2020/feb/21/wildland-review-danish-drama-with-the-makings-of-a-big-hit
+#critic.de
 #fipresci
 Alberto Ramos        6
 Andrea Martini
@@ -5034,7 +5073,7 @@ Pamela Jahn
 Paolo Portugal       4
 Philip Bergson
 Jana Podskalska
-Steven Yates
+Steven Yates         6
 Thomas Abeltshauser
 Ugo Brusaporco
 Verena Schmöller
@@ -5209,6 +5248,23 @@ IMDB 43_Ratings   8.0   http://www.imdb.com/title/tt9048802/
 Redmond Bacon	https://culturedvultures.com/otac-father-review-berlinale-2020/
 Arman Fatic	https://www.duart.hr/news/srdjan-golubovic-father-review
 #critic.de
+#fipresci
+Alberto Ramos
+Andrea Martini
+Barbara Lorey
+Esin Kucuktepepinar
+Kerem Akca
+Kirsten Liese
+Leo Bankersen
+Lulia Blaga
+Pamela Jahn
+Paolo Portugal
+Philip Bergson
+Jana Podskalska
+Steven Yates         8
+Thomas Abeltshauser
+Ugo Brusaporco
+Verena Schmöller
 #letterboxd
 teofilovic          10
 nobodypk            10
