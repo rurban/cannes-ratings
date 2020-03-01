@@ -362,7 +362,7 @@ sub _dump {
     next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50)$/;
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
-    next if $l =~ m{</i>$}; # other festivals
+    next if $l =~ m{<i>}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
       next if $year - $lyear > 1;
