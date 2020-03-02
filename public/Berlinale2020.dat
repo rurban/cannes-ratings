@@ -7,7 +7,7 @@ package Berlinale::rurban::2020; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-Wettbewerb
+WETTBEWERB
 
 "El prófugo (The Intruder)" (Natalia Meta, Arg/Mex) [Wettbewerb]
  with Érica Rivas, Nahuel Pérez Biscayart, Daniel Hendler, Cecilia Roth, Guillermo Arengo, Agustín Rittano, Mirta Busnelli. WP
@@ -45,7 +45,7 @@ Kerem Akca
 Kirsten Liese          4
 Leo Bankersen
 Lulia Blaga
-Pamela Jahn            
+Pamela Jahn            4
 Paolo Portugal         4
 Philip Bergson
 Jana Podskalska
@@ -291,14 +291,14 @@ Screen International   7.5
 #fipresci
 Alberto Ramos          4
 Andrea Martini         4
-Barbara Lorey
+Barbara Lorey          8
 Esin Kucuktepepinar    4
 Kerem Akca
 Kirsten Liese          6
 Leo Bankersen
 Lulia Blaga
 Pamela Jahn
-Paolo Portugal         2
+Paolo Portugal         4
 Philip Bergson
 Jana Podskalska
 Steven Yates
@@ -469,13 +469,13 @@ Screen International   9
 #fipresci
 Alberto Ramos          8
 Andrea Martini         8
-Barbara Lorey
+Barbara Lorey          10
 Esin Kucuktepepinar    6
 Kerem Akca             8
 Kirsten Liese          4
 Leo Bankersen
 Lulia Blaga            6
-Pamela Jahn
+Pamela Jahn            8
 Paolo Portugal         6
 Philip Bergson
 Jana Podskalska
@@ -747,7 +747,7 @@ Kerem Akca
 Kirsten Liese          6
 Leo Bankersen
 Lulia Blaga            4
-Pamela Jahn
+Pamela Jahn            2
 Paolo Portugal         4
 Philip Bergson
 Jana Podskalska
@@ -943,7 +943,7 @@ Screen International   5
 #fipresci
 Alberto Ramos          8
 Andrea Martini         4
-Barbara Lorey          
+Barbara Lorey          4
 Esin Kucuktepepinar    6
 Kerem Akca             8
 Kirsten Liese          2
@@ -1408,7 +1408,7 @@ Screen International   5
 #fipresci
 Alberto Ramos          2
 Andrea Martini         4
-Barbara Lorey
+Barbara Lorey          6
 Esin Kucuktepepinar    4
 Kerem Akca
 Kirsten Liese          6
@@ -1583,13 +1583,13 @@ Screen International   5
 #fipresci
 Alberto Ramos          6
 Andrea Martini         2
-Barbara Lorey
+Barbara Lorey          8
 Esin Kucuktepepinar
 Kerem Akca
 Kirsten Liese          10
 Leo Bankersen
 Lulia Blaga
-Pamela Jahn
+Pamela Jahn            8
 Paolo Portugal         4
 Philip Bergson
 Jana Podskalska
@@ -1757,13 +1757,13 @@ Screen International   1
 #fipresci
 Alberto Ramos
 Andrea Martini         4
-Barbara Lorey
+Barbara Lorey          4
 Esin Kucuktepepinar
 Kerem Akca             4
 Kirsten Liese          2
 Leo Bankersen          4
 Lulia Blaga            2
-Pamela Jahn
+Pamela Jahn            2
 Paolo Portugal         2
 Philip Bergson
 Jana Podskalska
@@ -2089,7 +2089,7 @@ Rita DiSanto           9
 Screen International   7.5
 #fipresci
 Alberto Ramos          8
-Andrea Martini
+Andrea Martini         8
 Barbara Lorey
 Esin Kucuktepepinar    6
 Kerem Akca
@@ -2587,7 +2587,7 @@ Kerem Akca             6
 Kirsten Liese          8
 Leo Bankersen          6
 Lulia Blaga            6
-Pamela Jahn
+Pamela Jahn            6
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
@@ -2932,14 +2932,14 @@ Rita DiSanto           2.5
 Screen International   5
 #fipresci
 Alberto Ramos          2
-Andrea Martini         
+Andrea Martini         4
 Barbara Lorey
 Esin Kucuktepepinar    2
 Kerem Akca             8
-Kirsten Liese          4
+Kirsten Liese          2
 Leo Bankersen          8
 Lulia Blaga
-Pamela Jahn
+Pamela Jahn            8
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
@@ -3140,14 +3140,14 @@ Rita DiSanto           7.5
 Screen International   5
 #fipresci
 Alberto Ramos          8
-Andrea Martini
-Barbara Lorey
+Andrea Martini         6
+Barbara Lorey          4
 Esin Kucuktepepinar    2
 Kerem Akca             4
-Kirsten Liese          4
+Kirsten Liese          2
 Leo Bankersen          6
 Lulia Blaga            2
-Pamela Jahn
+Pamela Jahn            4
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
@@ -3320,24 +3320,21 @@ Rita DiSanto           9
 Screen International   5
 #fipresci
 Alberto Ramos          2
-Andrea Martini         
-Barbara Lorey
+Andrea Martini         4
+Barbara Lorey          4
 Esin Kucuktepepinar    2
 Kerem Akca
 Kirsten Liese          4
 Leo Bankersen          6
 Lulia Blaga            2
-Pamela Jahn
+Pamela Jahn            4
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
 Steven Yates           4
 Thomas Abeltshauser
 Ugo Brusaporco         8
-Verena Schmöller
-Deborah Young           https://www.hollywoodreporter.com/review/roads-not-taken-1281310
-Screendaily             https://www.screendaily.com/reviews/the-roads-not-taken-berlin-review/5147666.article
-Thekla Dannenberg       https://www.perlentaucher.de/berlinale-blog/2020/02/26/filmkritik-zu-sally-potters-the-roads-not-taken-wettbewerb-berlinale-2020.html
+Verena Schmöller       10
 #letterboxd
 Evelina Zliobaite   10
 v_nadia             10
@@ -3563,15 +3560,15 @@ Wang Muyan             7.5
 Rita DiSanto           9
 Screen International   9
 #fipresci
-Alberto Ramos          10
-Andrea Martini
-Barbara Lorey
+Alberto Ramos          8
+Andrea Martini         4
+Barbara Lorey          6
 Esin Kucuktepepinar
 Kerem Akca             8
 Kirsten Liese          2
-Leo Bankersen
+Leo Bankersen          4
 Lulia Blaga            2
-Pamela Jahn
+Pamela Jahn            6
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
@@ -3771,12 +3768,12 @@ Wang Muyan            5
 Rita DiSanto          9
 Screen International  5
 #fipresci
-Alberto Ramos
+Alberto Ramos         8
 Andrea Martini
 Barbara Lorey
 Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
+Kerem Akca            6
+Kirsten Liese         4
 Leo Bankersen
 Lulia Blaga
 Pamela Jahn
@@ -3897,12 +3894,12 @@ Wang Muyan             5
 Rita DiSanto           9
 Screen International   5
 #fipresci
-Alberto Ramos
-Andrea Martini
+Alberto Ramos          10
+Andrea Martini         8
 Barbara Lorey
 Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
+Kerem Akca             2
+Kirsten Liese          10
 Leo Bankersen
 Lulia Blaga
 Pamela Jahn
@@ -4010,7 +4007,7 @@ NicolasBardot       3
 kerem_akca          3
 
 
-Encounters
+ENCOUNTERS
 
 "Malmkrog" (Cristi Puiu, Rom/Ser/CH/Swe/Bos/Mac) [Encounters] Best Director Encounters
  From Vladimir Solovyov’s 1915 text War and Christianity: Three Conversations. https://archive.org/details/warchristianityf00solouoft/page/n6/mode/2up Opener, 200min
@@ -5114,7 +5111,7 @@ vividiecoolste      3
 Till Angel          2
 elmariachi82        1
 
-Panorama
+PANORAMA
 
 "The Assistant" (Kitty Green, US) [Panorama] <i>Telluride, Sundance</i>
  IP
@@ -5137,7 +5134,7 @@ Alberto Ramos         8
 Andrea Martini
 Barbara Lorey
 Esin Kucuktepepinar
-Kerem Akca
+Kerem Akca            4
 Kirsten Liese
 Leo Bankersen
 Lulia Blaga
@@ -5269,6 +5266,8 @@ Redmond Bacon	https://culturedvultures.com/shine-your-eyes-review-berlinale-2020
 #critic.de
 Till Kadritzke        7.5
 Maurice Lahde         7.5
+#fipresci
+Alberto Ramos         8
 #letterboxd
 Josh Brumpton       9   https://letterboxd.com/hsojb/film/shine-your-eyes/
 Daniel Salazar      9
@@ -5319,22 +5318,8 @@ shookone            3
 IMDB 11_Ratings   7.2   http://www.imdb.com/title/tt9389916/
 #critic.de
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
 Kerem Akca            4
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
 Steven Yates          6
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 cogi                10
 M M                 8
@@ -5404,22 +5389,7 @@ Carmen Paddock	https://oneroomwithaview.com/2020/02/25/exile-berlinale-2020-revi
 Sundance 20_Ratings    6.30  http://cannes-ratings.herokuapp.com/Sundance2020?t=93#93
 #critic.de
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
 Philip Bergson        10
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller        
 #letterboxd
 Tilman              9
 Uwe Broeske         9
@@ -5539,21 +5509,6 @@ Jessica Kiang           https://variety.com/2020/film/reviews/no-hard-feelings-r
 #critic.de
 #fipresci
 Alberto Ramos        6
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 Oli                 10   https://letterboxd.com/beaubeau/film/no-hard-feelings-2020/
 cocokfl             10
@@ -5644,21 +5599,6 @@ Peter Bradshaw    8    https://www.theguardian.com/film/2020/feb/21/wildland-rev
 #critic.de
 #fipresci
 Alberto Ramos        6
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 JanaIsa             10
 SylvaHaeutle        10
@@ -5784,21 +5724,6 @@ Redmond Bacon	https://culturedvultures.com/one-in-a-thousand-review-berlinale-20
 #critic.de
 Michael Kienzl        4
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
 Verena Schmöller     6
 #letterboxd
 Coldini             10
@@ -6446,22 +6371,7 @@ IMDB 13_Ratings   7.2   http://www.imdb.com/title/tt10268550/
 #critic.de
 Michael Kienzl        4
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
 Thomas Abeltshauser    6
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 fljotavik_          10
 Luki                10   https://letterboxd.com/loslabern/film/minyan/
@@ -6521,7 +6431,7 @@ crisiscrisis        4
 Pavao Vlajcic       3   https://letterboxd.com/powwow/film/minyan/
 Franciszek          2   https://letterboxd.com/ciszek/film/minyan/
 
-"Mogul Mowgli" (Bassam Tariq, UK) [Panorama] Fipresci
+"Mogul Mowgli" (Bassam Tariq, UK) [Panorama] Fipresci Prize
  WP
 
 Guy Lodge               https://variety.com/2020/film/reviews/mogul-mowgli-film-review-1203510490/
@@ -6533,22 +6443,9 @@ Joseph Owen	https://www.theupcoming.co.uk/2020/02/22/berlin-film-festival-2020-m
 David Hudson          4
 Jenny Jecke           4
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
+Pamela Jahn          8
 Paolo Portugal       4
-Philip Bergson
-Jana Podskalska
 Steven Yates         6
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 JanaIsa             10
 izzy                10   https://letterboxd.com/izzytrevisan/film/mogul-mowgli/
@@ -6761,22 +6658,7 @@ Arman Fatic	https://www.duart.hr/news/srdjan-golubovic-father-review
 Jessica Kiang           https://variety.com/2020/film/reviews/father-review-1203511719/
 #critic.de
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
 Steven Yates         8
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 Eye6                10
 Mara                10
@@ -6883,6 +6765,8 @@ Konrad Kögler       5   https://letterboxd.com/daskulturblog/film/schlingensief
 IMDB 6_Ratings   7.0   http://www.imdb.com/title/tt11723916/
 #critic.de
 Jonas Nestroy         1
+#fipresci
+Andrea Martini        4
 #letterboxd
 silviabahl          9
 Fly                 8   https://letterboxd.com/flyinvisible/film/sow-the-wind/
@@ -6916,6 +6800,8 @@ Sundance 39_Ratings    5.05  http://cannes-ratings.herokuapp.com/Sundance2020?t=
 IMDB 37_Ratings   7.6   http://www.imdb.com/title/tt9305634/
 #critic.de
 Adina Lauenburger     6
+#fipresci
+Kerem Akca            6
 #letterboxd
 JuliaRooksNest      10
 Caz Armstrong       9   https://letterboxd.com/cazarmstrong/film/surge-2020/
@@ -6993,6 +6879,8 @@ AndiNeu             2
 Michael Kienzl        2.5
 Maurice Lahde         4
 Philipp Schwarz       2.5
+#fipresci
+Verena Schmöller    8
 #letterboxd
 Lara                10
 Daniel Salazar      8
@@ -7032,27 +6920,10 @@ MariaBa             2
 "Dry Wind" (Daniel Nolasco, Braz) [Panorama]
  WP
 
-Generation (59 entries at all, 29 WO, 11 1st)
-Generation 14plus
-
 #critic.de
 #fipresci
-Alberto Ramos         
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson         10
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
+Alberto Ramos         6
+Philip Bergson        10
 #letterboxd
 Louis_levi          10
 John Prado          10
@@ -7099,6 +6970,10 @@ gvozden             2
 palemone            2
 hizuru              1
 Uwe Broeske         1
+
+GENERATION (59 entries at all, 29 WO, 11 1st)
+
+GENERATION 14plus
 
 "Kokon" (Leonie Krippendorff, D) [Generation]
  Opener. In the shimmering midsummer days, there are many first times for young Nora from Kreuzberg: menstruating, smoking marijuana, discovering sexual desires. And then there's Romy as well. The two young women, impressively played by Lena Urzendowsky and Jella Haase, gently approach each other.
@@ -7530,7 +7405,6 @@ frrgl               4
 
 James Hadfield      https://www.japantimes.co.jp/culture/2020/01/23/films/film-reviews/voices-wind-loss-haunting-journey-home/
 Ekkehard Knörer        https://www.perlentaucher.de/berlinale-blog/2020/02/26/filmkritik-zu-voices-in-the-wind-von-nobuhiro-suwa-generation-14plus-berlinale-2020.html
-
 #critic.de
 Till Kadritzke        6
 #letterboxd
@@ -8308,7 +8182,7 @@ Michael Kienzl        6
 Jan-Gerrit Heddinga 9
 Sérgio Gomes        3
 
-Forum
+FORUM
 
 "El tango del viudo y su espejo deformante (The Tango Of The Widower And Its Distorting Mirror)" (Raúl Ruiz, Valeria Sarmiento, Chile) [Forum]
  Raúl Ruiz’ first feature was shot in 1967, but never completed. Edited together on the basis of his notes and with a soundtrack created from scratch, his vision finally comes to the big screen: a fever dream that skilfully plays with its own temporality. Opener. WP
@@ -8323,21 +8197,7 @@ Karsten Munt          5
 Jonas Nestroy         6
 Philipp Schwarz       5
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
 Paolo Portugal        6
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
 Verena Schmöller      10
 #letterboxd
 Peachy_Keen         9
@@ -8411,7 +8271,7 @@ Kerem Akca            6
 Kirsten Liese
 Leo Bankersen
 Lulia Blaga
-Pamela Jahn
+Pamela Jahn           6
 Paolo Portugal
 Philip Bergson
 Jana Podskalska
@@ -8578,20 +8438,6 @@ Haahr               1
 #critic.de
 #fipresci
 Alberto Ramos        8
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal         
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
 Verena Schmöller     2
 #letterboxd
 Neil Fox            10   https://letterboxd.com/neitherfamenor/film/entre-perro-y-lobo/
@@ -8699,6 +8545,11 @@ Lily Gu             2
  WP
 
 #critic.de
+Kevin B. Lee          6
+Dana Linssen          6
+Jonas Nestroy         5
+#fipresci
+Steven Yates        4
 #letterboxd
 Elias Engelhardt    6
 crisiscrisis        6
@@ -8759,21 +8610,6 @@ Jonas Nestroy         9
 Philipp Schwarz       7.5
 #fipresci
 Alberto Ramos         6
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal         
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 AndiNeu             9
 mischahedinger      8
@@ -8795,22 +8631,7 @@ BananaSam           3
 #critic.de
 Jenny Jecke           7.5
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
 Lulia Blaga            6
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 D W Mault           10
 AndiNeu             9
@@ -8869,21 +8690,6 @@ Ekkehard Knörer        https://www.perlentaucher.de/berlinale-blog/2020/02/23/f
 Hannes Brühwiler      6
 #fipresci
 Alberto Ramos         2
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal         
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 Ellen Kemp          8
 Jacopo Fiorancio    7
@@ -8914,7 +8720,7 @@ Lily Gu             4
 MrMDK               2
 Konrad Kögler       2   https://letterboxd.com/daskulturblog/film/the-house-of-love/
 
-"Red Moon Tide" (Lois Patiño, Spa) [Forum]
+"Red Moon Tide (Lua Vermella)" (Lois Patiño, Spa) [Forum]
  WP
 
 #critic.de
@@ -8923,6 +8729,9 @@ Till Kadritzke        6
 Dana Linssen          7.5
 Karsten Munt          2.5
 Philipp Schwarz       2.5
+#fipresci
+Alberto Ramos         10
+Kerem Akca            8
 #letterboxd
 Michael             9   https://letterboxd.com/dasholzspatel/film/red-moon-tide/
 Carlota Moseguí     8
@@ -8977,6 +8786,8 @@ Nic Cheung          1   https://letterboxd.com/nickycolky/film/red-moon-tide/
  WP
 
 #critic.de
+#fipresci
+Verena Schmöller    4
 #letterboxd
 DerDude_            5
 
@@ -9021,21 +8832,6 @@ Patrick Devitt      2
 
 #critic.de
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
 Verena Schmöller     6
 #letterboxd
 McPaulsen           6
@@ -9217,20 +9013,7 @@ hanle               1
 
 #critic.de
 #fipresci
-Alberto Ramos
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca            
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
 Paolo Portugal       6
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
 Ugo Brusaporco       6
 Verena Schmöller     4
 #letterboxd
@@ -9407,21 +9190,6 @@ Balazs Viezer       1
 Till Kadritzke        6
 #fipresci
 Alberto Ramos         6
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
-Paolo Portugal
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 maira_              10   https://letterboxd.com/maira_/film/after-the-crossing/
 Abigail Ruth Forbes 8
@@ -9683,21 +9451,7 @@ Blake Williams      3
 G.Marchini Camia      5
 #fipresci
 Alberto Ramos         8
-Andrea Martini
-Barbara Lorey
-Esin Kucuktepepinar
-Kerem Akca
-Kirsten Liese
-Leo Bankersen
-Lulia Blaga
-Pamela Jahn
 Paolo Portugal        6
-Philip Bergson
-Jana Podskalska
-Steven Yates
-Thomas Abeltshauser
-Ugo Brusaporco
-Verena Schmöller
 #letterboxd
 fluszeit            8
 ProsperDune         8
