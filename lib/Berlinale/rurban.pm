@@ -210,10 +210,10 @@ sub _dump {
     my ($l,$a,$n,$t) = @{$_}; 
     $l =~ s/ \[(.+?)\]//; my $section = $1;
     $section='Other' if !$section or !$sections{$section};
-    $title{$t}->{'section'} = $section; 
-    $title{$t}->{'avg'} = $a;
-    $title{$t}->{'num'} = $n;
-    $title{$t}->{'line'} = $l;
+    $title{$t}->{section} = $section; 
+    $title{$t}->{avg} = $a;
+    $title{$t}->{num} = $n;
+    $title{$t}->{line} = $l;
     for my $c (sort keys %{$title{$t}->{critic}}) {
       my $x = $title{$t}->{critic}->{$c}->[0];
       if (defined $x) {
@@ -337,7 +337,7 @@ sub _dump {
     if ($lyear) {
       next if $year - $lyear > 1;
       # in the 2 New sections skip old films with prev:
-      next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
+      next if grep /^(Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
     }
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
