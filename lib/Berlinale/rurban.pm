@@ -259,7 +259,7 @@ sub _dump {
       $critic{$c}->{stddev}  = sqrt($s / $num);
     }
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5
-      and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+      and $c !~ /^(Letterbox|Letterboxd|Cannes|Sundance) \d/;
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
@@ -362,12 +362,12 @@ sub _dump {
     next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50)$/;
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
-    next if $l =~ m{<i>}; # other festivals
+    next if $l =~ /<i>/; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
       next if $year - $lyear > 1;
       # in the 2 New sections skip old films with prev:
-      next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
+      next if grep /^(Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
     }
     my $s = sprintf("%0.1f",$title{$t}->{stddev});
@@ -514,7 +514,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      next if /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+      next if /^(Letterbox|Letterboxd|Cannes|Sundance) \d/;
       my $c;
       if ($critic{$_}->{mag}) {
         $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});
