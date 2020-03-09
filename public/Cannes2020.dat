@@ -64,13 +64,16 @@ my $PREDICTIONS = <<'EOF';
 
 "True Mothers" (Naomi Kawase)
 
-"Lo que algunos soñaron" (Michel Franco)
+"Lo que algunos soñaron (The Dreams of a Few)" (Michel Franco)
 
-"Il Buco" (Michaelangelo Frammartino)
+"Il buco" (Michaelangelo Frammartino)
 
 "Mona Lisa and the Blood Moon" (Ana Lily Amirpour)
 
 "Those Who Wish Me Dead" (Taylor Sheridan)
+
+#letterboxd
+domi ellis          7
 
 "Serre Moi Fort" (Mathieu Amalric)
 
@@ -97,6 +100,9 @@ my $PREDICTIONS = <<'EOF';
 "Blonde" (Andrew Dominik)
  with Ana de Armas, Adrien Brody, Bobby Cannavale
 
+#letterboxd
+jipuo               4
+
 "On the Rocks" (Sofia Coppola)
  with Rashida Jones, Jessica Henwick, Bill Murray
 
@@ -104,13 +110,26 @@ my $PREDICTIONS = <<'EOF';
  Comedy and drama.
  with Meryl Streep, Gemma Chan, Lucas Hedges
 
+#letterboxd
+bbro                7
+
 "Da 5 Bloods" (Spike Lee)
  Drama.
  with Chadwick Boseman, Delroy Lindo, Jean Reno
 
+#letterboxd
+Sam C. Mac          8
+Frank Yan           4
+
 "Benedetta" (Paul Verhoeven)
  Biopic, drama, history and romance.
  with Virginie Efira, Daphne Patakia, Charlotte Rampling
+
+#letterboxd
+Rocco Rojo          9
+JoKatz              7   https://letterboxd.com/jokatz/film/benedetta/
+Gilberto Assoy      6
+jipuo               5
 
 "Annette" (Leos Carax)
  Drama and musical.
@@ -118,8 +137,17 @@ my $PREDICTIONS = <<'EOF';
 
 "Ammonite" (Francis Lee)
 
+#letterboxd
+duy le              10
+FV_98               10   https://letterboxd.com/fv_98/film/ammonite/
+alexastma           8
+
 "Bergman Island" (Mia Hansen-Løve)
  Release: June 3, 2020. Drama. with Mia Wasikowska, Tim Roth, Vicky Krieps
+
+#letterboxd
+Josh Atkinson       8
+EricEason           6
 
 "Human comedy" (Giannoli, 2021)
  Release: 2021. History and drama. with Cécile de France, Xavier Dolan, Gérard Depardieu
@@ -146,6 +174,13 @@ my $PREDICTIONS = <<'EOF';
 "Mank" (David Fincher)
  Biopic. with Gary Oldman, Amanda Seyfried, Lily Collins
 
+#letterboxd
+jonlad              10
+Osprey2             10
+jipuo               8
+Danikremser         6
+Xlfredo             6
+
 "Mandibules" (Quentin Dupieux (Mr. Oizo))
  Release: May 20, 2020. Comedy. with Grégoire Ludig, David Marsais, Dave Chapman
 
@@ -153,9 +188,28 @@ my $PREDICTIONS = <<'EOF';
  Release: August 12, 2020. Horror-Horror, action and drama.
  with Gang Dong-won, Lee Jung-hyun, Lee Re
 
+#letterboxd
+Esafrez             7
+
 "Last Night in Soho" (Edgar Wright)
  Release: September 23, 2020. Drama, Horror-horror and thriller.
  with Anya Taylor Joy, Matt Smith, Thomasin McKenzie
+
+#letterboxd
+jonlad              10
+STEM3000            10
+laetenv             10
+AlexHutchings       10
+Raphael Bleu        10
+Daniel Ghazi        9
+jipuo               9
+Rocco Rojo          8
+morteip             8
+Carrie Slaughter    8
+BlushfulAres01      8
+DMcNBwnj8           7
+absolutepast        6
+mohammad            4
 
 "By this half-clear morning" (Bruno Dumont)
  Drama and comedy. with Léa Seydoux, Benoît Magimel and Blanche Gardin
@@ -173,6 +227,9 @@ my $PREDICTIONS = <<'EOF';
 
 "Druk (The Alcohol Project)" (Thomas Vinterberg)
 
+#letterboxd
+Emma Caroline Helm  10
+
 "Drift Away (A little son)" (Xavier Beauvois)
   Release: September 2020. Drama. with Jérémie Renier, Marie-Julie Maille, Iris Bry
 
@@ -181,6 +238,12 @@ my $PREDICTIONS = <<'EOF';
 
 "The Green Knight" (David Lowery)
  Release: May 29, 2020. Drama, fantasy and romance. with Dev Patel, Alicia Vikander, Joel Edgerton
+
+#letterboxd
+charlie             10
+Fladenbrot1111      5
+Zach Scheitlin      3
+Nick Britton        1
 
 "Onoda, 10,000 nights in the jungle" (Arthur Harari, 2020)
  Release: 2020. History, war and drama.
