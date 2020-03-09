@@ -1,5 +1,5 @@
 package Cannes::rurban::2020; # -*- perl -*-
-# Cannes 2020 Critics Ratings, May 14-25
+# Cannes 2020 Critics Ratings, May 12-23
 # Published at http://cannes-ratings.herokuapp.com/Cannes2020
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
@@ -43,11 +43,46 @@ package Cannes::rurban::2020; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
+Will be most likely cancelled
 
 EOF
 
 # but not selected
 my $PREDICTIONS = <<'EOF';
+
+# https://www.worldofreel.com/blog/2020/2/cannes
+
+"Memoria" (Apichatpong Weerasethakul)
+
+"Pieces of a Woman " (Kornél Mundruczó)
+
+"Wife of a Spy" (Kiyoshi Kurosawa)
+
+"Petrov's Flu" (Kirill Serebrennikov)
+
+"Böse Spiele" (Ulrich Seidl)
+
+"True Mothers" (Naomi Kawase)
+
+"Lo que algunos soñaron" (Michel Franco)
+
+"Il Buco" (Michaelangelo Frammartino)
+
+"Mona Lisa and the Blood Moon" (Ana Lily Amirpour)
+
+"Those Who Wish Me Dead" (Taylor Sheridan)
+
+"Serre Moi Fort" (Mathieu Amalric)
+
+"For Better or For Worse" (Stéphane Brizé)
+
+"The Ties" (Daniele Luchetti)
+
+"Goodnight, Soldier”" (Hiner Saleem)
+
+"Love After Love" (Ann Hui)
+
+"Simple Passion" (Danielle Arbid)
 
 # https://www.senscritique.com/liste/Cannes_2020_rumeurs_predictions/2523526
 
@@ -111,7 +146,7 @@ my $PREDICTIONS = <<'EOF';
 "Mank" (David Fincher)
  Biopic. with Gary Oldman, Amanda Seyfried, Lily Collins
 
-"Mandibles" (Quentin Dupieux (Mr. Oizo))
+"Mandibules" (Quentin Dupieux (Mr. Oizo))
  Release: May 20, 2020. Comedy. with Grégoire Ludig, David Marsais, Dave Chapman
 
 "Peninsula" (Yeon Sang-ho, Kor)
@@ -138,7 +173,7 @@ my $PREDICTIONS = <<'EOF';
 
 "Druk (The Alcohol Project)" (Thomas Vinterberg)
 
-"A little son" (Xavier Beauvois)
+"Drift Away (A little son)" (Xavier Beauvois)
   Release: September 2020. Drama. with Jérémie Renier, Marie-Julie Maille, Iris Bry
 
 "Nomadland" (Chloe Zhao)
@@ -146,8 +181,6 @@ my $PREDICTIONS = <<'EOF';
 
 "The Green Knight" (David Lowery)
  Release: May 29, 2020. Drama, fantasy and romance. with Dev Patel, Alicia Vikander, Joel Edgerton
-
-"The Story of My Wife" (Ildikó Enyedi)
 
 "Onoda, 10,000 nights in the jungle" (Arthur Harari, 2020)
  Release: 2020. History, war and drama.
