@@ -52,74 +52,196 @@ my $PREDICTIONS = <<'EOF';
 
 # https://www.worldofreel.com/blog/2020/2/cannes
 
-"Memoria" (Apichatpong Weerasethakul)
+"Memoria" (Apichatpong Weerasethakul, Thai)
 
-"Pieces of a Woman " (Kornél Mundruczó)
+"Pieces of a Woman " (Kornél Mundruczó, Hun)
 
-"Wife of a Spy" (Kiyoshi Kurosawa)
+"Wife of a Spy" (Kiyoshi Kurosawa, Jap)
 
-"Petrov's Flu" (Kirill Serebrennikov)
+"Petrov's Flu" (Kirill Serebrennikov, Rus)
 
-"Böse Spiele" (Ulrich Seidl)
+"Wicked Games (Böse Spiele)" (Ulrich Seidl, Aut)
 
-"True Mothers" (Naomi Kawase)
+"True Mothers" (Naomi Kawase, Jap)
 
-"Lo que algunos soñaron (The Dreams of a Few)" (Michel Franco)
+"Lo que algunos soñaron (The Dreams of a Few)" (Michel Franco, Mex)
 
-"Il buco" (Michaelangelo Frammartino)
+"The Hole (Il buco)" (Michaelangelo Frammartino, Ita)
 
-"Mona Lisa and the Blood Moon" (Ana Lily Amirpour)
+"Mona Lisa and the Blood Moon" (Ana Lily Amirpour, US)
 
-"Those Who Wish Me Dead" (Taylor Sheridan)
+"Those Who Wish Me Dead" (Taylor Sheridan, US)
 
 #letterboxd
 domi ellis          7
 
-"Serre Moi Fort" (Mathieu Amalric)
+"Serre Moi Fort" (Mathieu Amalric, Fra)
 
-"For Better or For Worse" (Stéphane Brizé)
+"For Better or For Worse" (Stéphane Brizé, Fra)
 
 "The Ties" (Daniele Luchetti)
 
-"Goodnight, Soldier”" (Hiner Saleem)
+"Goodnight, Soldier”" (Hiner Saleem, Iran)
 
-"Love After Love" (Ann Hui)
+"Love After Love" (Ann Hui, Taiwan)
 
-"Simple Passion" (Danielle Arbid)
+"Simple Passion" (Danielle Arbid, Lebanon)
+
+# https://cineuropa.org/en/newsdetail/386008/
+
+"Lingui" (Mahamat Saleh-Haroun, Chad)
+
+"Suzanna Andler" (Benoît Jacquot, F)
+
+"The Macaluso Sisters (La sorelle Macaluso)" (Emma Dante, Ita)
+
+"Miss Marx" (Susanna Nichiarelli)
+
+"Fools (Glupzy)" (Tomasz Wasilewski, Pol)
+
+"The Girl and the Spider" (Ramön Zurcher, Sui)
+
+"The Last Ones (Viimased)" (Veiko Õunpuu, Est)
+
+"The Innocents (De uskildyge)" (Eskil Vogt, Nor) 
+
+"Shorta" (Danois Frederik, Louis Hviid, Anders Ølholm, Den)
+
+"Los europeos" (Víctor García León, Spa)
+
+"Wise Blood" (Bouli Lanners and Tim Mielants, Bel)
+
+"Amira" (Mohamed Diab, Egypt)
+
+"The Notebooks" (Joana Hadjithomas and Khalil Joreige, Leb)
+
+"The Man Who Sold His Skin" (Kaouther Ben Hania, Tun)
+
+"A Story of Love and Desire" (Leyla Bouzid, Tun)
+
+"Positive School" (Nabil Ayouch, Mor)
+
+"La Nuit des Rois" (Philippe Lacôte, Ivory Coast)
+
+"Here We Are" (Nir Bergman, Isr)
+
+"Shake Your Cares Away" (Tom Shoval, Isr)
+
+"Mainstream" (Gia Coppola, US)
+
+#letterboxd
+Al-e McWhorter      7
+dcheifetz           4
+Ryan                2   https://letterboxd.com/rjt524/film/mainstream-2020/
+
+"Les Années 10" (Thierry de Peretti, F)
+
+"Les choses qu’on dit, les choses qu’on fait" (Emmanuel Mouret, F)
+
+"After Blue (Paradis sale)" (Bertrand Mandico, F)
+
+"Mon légionnaire (Our Men)" (Rachel Lang, F)
+ with Louis Garrel
+
+"Médecin de nuit" (Elie Wajeman, F)
+
+FIRST FILMS
+
+"The Drover’s Wife" (Leah Purcell, Aus)
+
+"Skies of Lebanon" (Chloé Mazlo, F)
+
+"Bruno Reidal" (Vincent Le Port, F)
+
+"The Third War" (Giovanni Aloï, Ita)
+
+"Natural Light" (Dénes Nagy, Hun)
+
+"The Swarn" (Just Philippot, F)
+
+"The Translator" (Rana Kazkaz and Anas Khalaf, Syria)
+
+"Hatching" (Hanna Bergholm, Fin)
+
+"Naked Sky" (Dea Kulumbegashvili, Georgia)
+
+"Unclenching The Fists" (Kira Kovalenko, Rus)
+
+"Taste" (Le Bao, Vietnam)
+
+"Gagarin" (Fanny Liatard and Jérémy Trouilh, F 2015)
+
+#letterboxd
+Camila Jaquiel      10
+Mariana González    9
+Daia                7
+Marcelo Ribeiro     7
+Julie               7
+Caio Pires          6
+Cecilia Barroso     6
+
+"Rascal" (Peter Dourountzis, F)
+
+"Les Héroïques" (Maxime Roy, F)
+
+"My Best Part" (Nicolas Maury, F))
+
+"The Hill Where Lionesses Roar" (Luàna Bajram, F/Kosovo)
+
+"Apples" (Christos Nikou, Greece)
+
+"Libertad" (Clara Roquet, Spa)
+
+"Bootlegger" (Caroline Monnet, Can)
+
+"Sans Soleil" (Banu Akseki, Bel)
+
+"Moneyboys" (Chen Bo Yilin, China)
+
+"The Brain" (Jean-Stéphane Bron, Sui)
+  doc
+
+"Une histoire à soi" (Amandine Gay)
+  doc
+
+"Bigger Than Us" (Flore Vasseur)
+ doc
+
+"La Traversée" (Florence Miailhe)
+  Anim
 
 # https://www.senscritique.com/liste/Cannes_2020_rumeurs_predictions/2523526
 
-"Dune" (Denis Villeneuve)
+"Dune" (Denis Villeneuve, US)
  Release: December 23, 2020. Adventure, drama and science fiction.
  with Timothée Chalamet, Rebecca Ferguson, Oscar Isaac
 
 Letterboxd 196_Ratings	7.8  https://letterboxd.com/film/dune-2020/
 
-"West Side Story" (Steven Spielberg)
+"West Side Story" (Steven Spielberg, US)
  Release: December 18, 2020. Crime, drama, musical and romance.
  with Ansel Elgort, Rita Moreno, Maddie Ziegler
 
 Letterboxd 63_Ratings	7.2  https://letterboxd.com/film/west-side-story-2020/
 
-"Blonde" (Andrew Dominik)
+"Blonde" (Andrew Dominik, US)
  with Ana de Armas, Adrien Brody, Bobby Cannavale
 
 #letterboxd
 jipuo               4
 
-"On the Rocks" (Sofia Coppola)
- with Rashida Jones, Jessica Henwick, Bill Murray
+"On the Rocks" (Sofia Coppola, US)
+ with Rashida Jones, Jessica Henwick, Bill Murray. produced by Apple, but ok.
 
-"Let Them All Talk" (Steven Soderbergh)
+"Let Them All Talk" (Steven Soderbergh, US)
  Comedy and drama.
  with Meryl Streep, Gemma Chan, Lucas Hedges
 
 #letterboxd
 bbro                7
 
-"Da 5 Bloods" (Spike Lee)
- Drama.
- with Chadwick Boseman, Delroy Lindo, Jean Reno
+"Da 5 Bloods" (Spike Lee, US) <i>Netflix</i>
+ Drama. with Chadwick Boseman, Delroy Lindo, Jean Reno (most likely TIFF)
 
 #letterboxd
 Sam C. Mac          8
@@ -135,7 +257,7 @@ JoKatz              7   https://letterboxd.com/jokatz/film/benedetta/
 Gilberto Assoy      6
 jipuo               5
 
-"Annette" (Leos Carax)
+"Annette" (Leos Carax, F)
  Drama and musical.
  with Adam Driver, Marion Cotillard, Angèle
 
@@ -153,33 +275,33 @@ alexastma           8
 Josh Atkinson       8
 EricEason           6
 
-"Human comedy" (Giannoli, 2021)
+"Lost Illusions (Human comedy)" (Xavier Giannoli, F 2021)
  Release: 2021. History and drama. with Cécile de France, Xavier Dolan, Gérard Depardieu
 
-"Summer of 85 (Été 85)" (François Ozon)
+"Summer of 85 (Été 85)" (François Ozon, F)
  Drama. with Félix Lefebvre, Benjamin Voisin, Philippine Velge
 
-"Goodbye idiots" (2020)
+"Goodbye idiots" (Albert Dupontel, F)
  Release: October 21, 2020. Comedy and drama.
- Film by Albert Dupontel with Virginie Efira, Albert Dupontel, Nicolas Marié
+ with Virginie Efira, Albert Dupontel, Nicolas Marié
 
-"The French Dispatch" (Wes Anderson)
+"The French Dispatch" (Wes Anderson, US)
  1 h 48 min. Release: August 26, 2020. Comedy, drama and romance. with Benicio Del Toro, Adrien Brody, Tilda Swinton
 
 Letterboxd 63_Ratings	8.3  https://letterboxd.com/film/the-french-dispatch/
 
-"Tre Piani (Our Way)" (Nanni Moretti)
+"Tre Piani (Our Way)" (Nanni Moretti, Ita)
  Dramatic comedy. with Riccardo Scamarcio, Alba Rohrwacher, Nanni Moretti
 
-"Soul" (Pete Docter and Kemp Powers)
+"Soul" (Pete Docter/Kemp Powers, US)
  Release: June 24, 2020. Animation, adventure, comedy and musical. with Jamie Foxx, Tina Fey, Ahmir-Khalib Thompson
 
-"Tenet" (Christopher Nolan)
+"Tenet" (Christopher Nolan, US)
  Release: July 22, 2020. Action, drama and thriller. with John David Washington, Robert Pattinson, Elizabeth Debicki
 
 Letterboxd 91_Ratings	9.4  https://letterboxd.com/film/tenet/
 
-"Mank" (David Fincher)
+"Mank" (David Fincher, US)
  Biopic. with Gary Oldman, Amanda Seyfried, Lily Collins
 
 #letterboxd
@@ -189,7 +311,7 @@ jipuo               8
 Danikremser         6
 Xlfredo             6
 
-"Mandibules" (Quentin Dupieux (Mr. Oizo))
+"Mandibules" (Quentin Dupieux/Mr. Oizo, F)
  Release: May 20, 2020. Comedy. with Grégoire Ludig, David Marsais, Dave Chapman
 
 "Peninsula" (Yeon Sang-ho, Kor)
@@ -219,21 +341,21 @@ DMcNBwnj8           7
 absolutepast        6
 mohammad            4
 
-"By this half-clear morning" (Bruno Dumont)
+"By this half-clear morning" (Bruno Dumont, F/Bel)
  Drama and comedy. with Léa Seydoux, Benoît Magimel and Blanche Gardin
 
-"Lisa Redler" (Nicole Garcia, 2019)
+"Lisa Redler" (Nicole Garcia, 2019, F)
  Thriller and drama. with Stacy Martin, Benoît Magimel, Pierre Niney
 
-"Ahed's Knee" (Nadav Lapid)
+"Ahed's Knee" (Nadav Lapid, Isr)
  Drama.
 
-"DNA (ADN)" (Maïwenn)
+"DNA (ADN)" (Maïwenn, F)
  Drama. with Louis Garrel, Maïwenn, Marine Vacth
 
-"Arthur Rambo" (Laurent Cantet)
+"Arthur Rambo" (Laurent Cantet, F)
 
-"Druk (The Alcohol Project)" (Thomas Vinterberg)
+"Druk (The Alcohol Project)" (Thomas Vinterberg, Den)
 
 #letterboxd
 Emma Caroline Helm  10
@@ -241,10 +363,10 @@ Emma Caroline Helm  10
 "Drift Away (A little son)" (Xavier Beauvois)
   Release: September 2020. Drama. with Jérémie Renier, Marie-Julie Maille, Iris Bry
 
-"Nomadland" (Chloe Zhao)
+"Nomadland" (Chloe Zhao, US)
  Drama. Frances McDormand, David Strathairn, Linda May
 
-"The Green Knight" (David Lowery)
+"The Green Knight" (David Lowery, US)
  Release: May 29, 2020. Drama, fantasy and romance. with Dev Patel, Alicia Vikander, Joel Edgerton
 
 #letterboxd
@@ -253,16 +375,16 @@ Fladenbrot1111      5
 Zach Scheitlin      3
 Nick Britton        1
 
-"Onoda, 10,000 nights in the jungle" (Arthur Harari, 2020)
+"Onoda, 10,000 nights in the jungle" (Arthur Harari, F)
  Release: 2020. History, war and drama.
 
-"Le Quai de Ouistreham" (Emmanuel Carrère, 2018)
+"Le Quai de Ouistreham" (Emmanuel Carrère, F 2018)
  with Juliette Binoche
 
-"Madeleine Collins" (Antoine Barraud, 2019)
+"Madeleine Collins" (Antoine Barraud, F 2019)
  with Virginie Efira, Quim Gutiérrez, Bruno Salomone
 
-"Madame Claude" (Sylvie Verheyde, 2019)
+"Madame Claude" (Sylvie Verheyde, F 2019)
  Biopic and drama. with Karole Rocher, Roschdy Zem, Garance Marillier
 
 
