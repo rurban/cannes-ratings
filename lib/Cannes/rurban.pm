@@ -676,6 +676,24 @@ get '/Cannes2017' => sub {
 get '/Cannes2016' => sub {
   _list(2016);
 };
+get '/Cannes2015' => sub {
+  _list(2015);
+};
+get '/Cannes2014' => sub {
+  _list(2014);
+};
+get '/Cannes2013' => sub {
+  _list(2013);
+};
+get '/Cannes2012' => sub {
+  _list(2012);
+};
+get '/Cannes2011' => sub {
+  _list(2011);
+};
+get '/Cannes2010' => sub {
+  _list(2010);
+};
 get '/2010' => sub {
   _list(2010);
 };
