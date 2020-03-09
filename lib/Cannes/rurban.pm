@@ -470,7 +470,7 @@ sub _dump {
     }
   }
 
-  $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
+  $out .= "\n<h1><a name=\"all\"></a>All predicted films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
   my $j=1; my $six=1;
   for (sort 
        {
