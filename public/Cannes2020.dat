@@ -45,10 +45,10 @@ our $DATA= <<'EOF';
 
 Will be most likely cancelled
 
-EOF
+#EOF
 
 # but not selected
-my $PREDICTIONS = <<'EOF';
+#my $PREDICTIONS = <<'EOF';
 
 # https://www.worldofreel.com/blog/2020/2/cannes
 

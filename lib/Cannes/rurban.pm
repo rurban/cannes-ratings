@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2019);
+our @YEARS = (2010..2020);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other"); #, "Hopeful (temp.)"
@@ -659,7 +659,10 @@ sub _list {
 }
 
 get '/Cannes' => sub {
-  _list(2019);
+  _list(2020);
+};
+get '/Cannes2020' => sub {
+  _list(2020);
 };
 get '/Cannes2019' => sub {
   _list(2019);
@@ -703,6 +706,9 @@ get '/2018' => sub {
 get '/2019' => sub {
   _list(2019);
 };
+get '/2020' => sub {
+  _list(2020);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
@@ -728,11 +734,11 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2019";
+  $all->{year} = "2010-2020";
   {
     no strict 'refs';
     $all->{side_details} = _side_details(\%critic, \%title, 
-                             \@{"$BASE\::rurban::2015::critics_group"});
+                             \@{"$BASE\::rurban::2019::critics_group"});
   }
   template lc($BASE), $all;
 };
