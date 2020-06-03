@@ -205,7 +205,7 @@ sub _dump {
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_};
-    $section = 'Predicted';
+    $section = '';
     if ($l =~ m/ \[(.+?)\]/) {
       $section = $1;
       if (!$section or !$sections{$section}) {
@@ -470,7 +470,7 @@ sub _dump {
     }
   }
 
-  $out .= "\n<h1><a name=\"all\"></a>All predicted films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
+  $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
   my $j=1; my $six=1;
   for (sort 
        {
@@ -761,6 +761,6 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Cannes2019'; };
+get '/' => sub { redirect '/Cannes2020'; };
 
 1;

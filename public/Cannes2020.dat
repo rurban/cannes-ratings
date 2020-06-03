@@ -1,5 +1,5 @@
 package Cannes::rurban::2020; # -*- perl -*-
-# Cannes 2020 Critics Ratings, May 12-23
+# Cannes 2020 Critics Ratings, May 12-23??
 # Published at http://cannes-ratings.herokuapp.com/Cannes2020
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
@@ -43,12 +43,135 @@ package Cannes::rurban::2020; # -*- perl -*-
 use utf8;
 our $DATA= <<'EOF';
 
-Will be most likely cancelled
+FAITHFUL
 
-#EOF
+"The French Dispatch" (Wes Anderson, USA) [Competition]
+
+"ÉTÉ 85" (François Ozon, France) [Competition]
+
+"ASA GA KURU (True Mothers)" (Naomi Kawase, Japan) [Competition]
+
+"LOVERS ROCK" (Steve McQueen, UK) [Competition]
+
+"MANGROVE" (Steve McQueen, UK) [Competition]
+
+"DRUK (Another Round)" (Thomas Vinterberg, Danmark) [Competition]
+
+ADN (DNA) by Maïwenn (France / Algeria) [Competition]
+
+LAST WORDS by Jonathan Nossiter (USA) [Competition]
+
+HEAVEN: TO THE LAND OF HAPPINESS by IM Sang-Soo (South Korea) [Competition]
+
+"EL OLVIDO QUE SEREMOS (Forgotten we'll be)" (Fernando Trueba, Spain) [Competition]
+
+"PENINSULA" (YEON Sang-Ho, South Korea) [Competition]
+
+"IN THE DUSK (Au crépuscule)" (Sharunas BARTAS (Lituania) [Competition]
+
+"DES HOMMES (Home Front)" (Lucas BELVAUX, Belgium) [Competition]
+
+"THE REAL THING" (Kôji Fukada, Japan) [Competition]
+- 3h48
+
+THE NEWCOMERS
+ 
+"PASSION SIMPLE" (Danielle Arbid, Lebanon)
+
+"A GOOD MAN" (Marie Castille Mention-Schaar, France)
+
+"LES CHOSES QU’ON DIT, LES CHOSES QU’ON FAIT" (Emmanuel Mouret, France)
+
+"SOUAD" (Ayten Amin, Egypt)
+
+"LIMBO" (Ben Sharrock, UK) 
+
+"ROUGE (Red Soil)" (Farid Bentoumi, France) [Other]
+
+"SWEAT" (Magnus Von Horn, Sweden) [Other]
+
+"TEDDY" (Ludovic et Zoran Boukherma, France) [Other]
+
+"FEBRUARY (Février)" (Kamen Kalev, Bulgaria) [Other]
+
+"AMMONITE" (Francis Lee, UK) [Other]
+
+"UN MÉDECIN DE NUIT" (Elie Wajeman, France) [Other] 
+
+"ENFANT TERRIBLE" (Oskar Roehler, Germany) [Other]
+
+"NADIA, BUTTERFLY" (Pascal Plante, Canada) [Other]
+
+"HERE WE ARE" (Nir Bergman, Israel) [Other]
+
+AN OMNIBUS FILM
+ 
+"SEPTET: THE STORY OF HONG KONG" (Ann Hui, Johnnie TO, Tsui Hark, Sammo Hung, Yuen Woo-Ping et Patrick Tam, Hong Kong) [Other]
+
+THE FIRST FEATURES
+ 
+"FALLING" (Viggo Mortensen, USA) [Other]
+
+"PLEASURE" (Ninja Thyberg, Sweden) [Other]
+
+"SLALOM" (Charlène Favier, France) [Other]
+
+"CASA DE ANTIGUIDADES (Memory House)" (Joao Paulo Miranda Maria, Brazil) [Other] 
+
+"BROKEN KEYS (Fausse note)" (Jimmy Keyrouz, Lebanon) [Other]
+
+"IBRAHIM" (Samir Guesmi, France) [Other]
+
+"BEGINNING (Au commencement)" (Déa Kulumbegashvili, Georgia) [Other]
+
+"GAGARINE" (Fanny Liatard et Jérémy Trouilh, France) [Other]
+
+"16 PRINTEMPS" (Suzanne Lindon, France) [Other] 
+
+"VAURIEN" (Peter Dourountzis, France) [Other]
+
+"GARÇON CHIFFON" (Nicolas Maury, France) [Other]
+
+"SI LE VENT TOMBE (Should the Wind Fall)" (Nora Martirosyan, Armenia) [Other] 
+
+"JOHN AND THE HOLE" (Pascual Sisto, USA) [Other]
+
+"STRIDING INTO THE WIND (Courir au gré du vent)" (WEI Shujun, China) [Other]
+
+"THE DEATH OF CINEMA AND MY FATHER TOO (La Mort du cinéma et de mon père aussi)" (Dani Rosenberg, Israel) [Other]
+
+3 DOCUMENTARY FILMS
+
+"EN ROUTE POUR LE MILLIARD (The Billion Road)" (Dieudo Hamadi, Congo) [Other]
+
+"THE TRUFFLE HUNTERS" (Michael Dweck et Gregory Kershaw, USA) [Other] 
+
+"9 JOURS A RAQQA" (Xavier de Lauzanne -, France) [Other]
+
+5 COMEDY FILMS 
+
+"ANTOINETTE DANS LES CÉVÈNNES" (Caroline Vignal, France) [Other]
+
+"LES DEUX ALFRED" (Bruno Podalydès, France) [Other]
+
+"UN TRIOMPHE (The big hit)" (Emmanuel Courcol, France) [Other]
+
+"L’ORIGINE DU MONDE" (Laurent Lafitte, France) [Other]
+
+"LE DISCOURS" (Laurent Tirard, France) [Other]
+
+"AYA TO MAJO (Earwig and the Witch)" (Gorô Miyazaki, Japan) [Other]
+
+"FLEE" (Jonas Poher Rasmussen, Denmark) [Other] 
+
+"JOSEP" (Aurel, France) [Other]
+
+"SOUL" (Pete Docter, USA) [Other]
+
+EOF
 
 # but not selected
-#my $PREDICTIONS = <<'EOF';
+my $PREDICTIONS = <<'EOF';
 
 # https://www.worldofreel.com/blog/2020/2/cannes
 
