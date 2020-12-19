@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = qw(2016..2020);
+our @YEARS = qw(2016..2021);
 our $comp_section = 'Wettbewerb';
 # "Encounters" 2020+
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
@@ -667,6 +667,9 @@ get '/Berlinale2019' => sub {
 get '/Berlinale2020' => sub {
   _list(2020);
 };
+get '/Berlinale2021' => sub {
+  _list(2021);
+};
 get '/Berlinale' => sub {
   _list(2020);
 };
@@ -696,12 +699,12 @@ get '/BerlinaleAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2016-2019";
+  $all->{year} = "2016-2021";
   $all->{side_details} = _side_details(\%critic, \%title,
                                        \@{"$BASE\::rurban::2019::critics_group"});
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Berlinale2020'; };
+#get '/' => sub { redirect '/Berlinale2021'; };
 
 1;

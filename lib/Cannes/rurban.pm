@@ -661,6 +661,9 @@ sub _list {
 get '/Cannes' => sub {
   _list(2020);
 };
+get '/Cannes2021' => sub {
+  _list(2021);
+};
 get '/Cannes2020' => sub {
   _list(2020);
 };
@@ -727,6 +730,9 @@ get '/2019' => sub {
 get '/2020' => sub {
   _list(2020);
 };
+get '/2021' => sub {
+  _list(2021);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
@@ -761,6 +767,6 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-get '/' => sub { redirect '/Cannes2020'; };
+#get '/' => sub { redirect '/Cannes2021'; };
 
 1;
