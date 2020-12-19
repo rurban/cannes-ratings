@@ -1,0 +1,450 @@
+package Sundance::rurban::2021; # -*- perl -*-
+#!/usr/bin/perl
+# Sundance 2021 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+# SLCWeekly: 0-4stars:
+# 0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
+
+use utf8;
+our $DATA= <<'EOF';
+
+U.S. DRAMATIC COMPETITION
+
+"The 40-Year-Old Version​" (Radha Blank) [U.S. Dramatic]
+
+"CODA" (Siân Heder) [U.S. Dramatic]
+ — As a CODA—Child of Deaf Adults—Ruby is the only hearing person in her deaf family. When the family’s fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents. Online Premiere: Thu. 1/28, 5:45 p.m. MT. Then Sat. 1/30, 8:00 a.m. MT
+
+"I Was a Simple Man" (Christopher Makoto Yogi) [U.S. Dramatic]
+ — As a family in Hawai’i faces the imminent death of their eldest, the ghosts of the past haunt the countryside. Online Premiere: Fri. 1/29, 1:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Jockey" (Clint Bentley) [U.S. Dramatic]
+ An aging jockey in failing health tries to survive his final season and win one last championship, but his dream is flipped upside down when a young jockey shows up claiming to be his son. Online Premiere: Sun. 1/31, 4:00 p.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"John and the Hole" (Pascual Sisto) [U.S. Dramatic]
+ A nontraditional coming-of-age story, set in the unsettling reality of John, a kid who holds his family captive in a hole in the ground. Online Premiere: Fri. 1/29, 4:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Mayday" (Karen Cinorre) [U.S. Dramatic]
+ Ana is transported to a dreamlike, dangerous land where she joins an army of girls engaged in a never-ending war along a rugged coast. Though she finds strength in this exhilarating world, she comes to realize that she’s not the killer they want her to be. Online Premiere: Sun. 1/31, 1:00 p.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"On the Count of Three" (Jerrod Carmichael) [U.S. Dramatic]
+ Two guns. Two best friends. And a pact to end their lives when the day is done. Online Premiere: Fri. 1/29, 7:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Passing" (Rebecca Hall) [U.S. Dramatic]
+ Two African American women who can “pass” as white choose to live on opposite sides of the color line in 1929 New York in this exploration of racial and gender identity, performance, obsession, and repression. Based on the novella by Nella Larsen. Online Premiere: Sat. 1/30, 4:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"Superior" (Erin Vassilopoulos) [U.S. Dramatic]
+ On the run, Marian returns to her hometown in upstate New York to hide out with her estranged identical twin sister, Vivian. Struggling to put the past behind her, Marian lies about the reason for her return, leaving her sister in the dark until their two worlds begin to collide. Online Premiere: Sat. 1/30, 7:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"Together Together" (Nikole Beckwith) [U.S. Dramatic]
+ When young loner Anna is hired as the surrogate for Matt, a single man in his 40s, the two strangers come to realize this unexpected relationship will quickly challenge their perceptions of connection, boundaries, and the particulars of love. Online Premiere: Sun. 1/31, 12:30 p.m. MT. Tue. 2/2, 8:00 a.m. MT
+
+"Wild Indian" (Lyle Mitchell Corbine Jr.) [U.S. Dramatic]
+ Two men are inextricably bound together after covering up the savage murder of a schoolmate. After years of separation following wildly divergent paths, they must confront how their traumatic secret has irrevocably shaped their live
+s. Online Premiere: Sat. 1/30, 1:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+U.S. DOCUMENTARY COMPETITION
+
+"Ailey" (Jamila Wignot) [U.S. Documentaries]
+ Alvin Ailey was a visionary artist who found salvation through dance. Told in his own words and through the creation of a dance inspired by his life, this immersive portrait follows a man who, when confronted by a world that refused to embrace him, determined to build one that would. Online Premiere: Sat. 1/30, 10:00 a.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"All Light, Everywhere" (Theo Anthony) [U.S. Documentaries]
+ An exploration of the shared histories of cameras, weapons, policing, and justice. As surveillance technologies become a fixture in everyday life, the film interrogates the complexity of an objective point of view, probing the biases inherent in both human perception and the lens. Online Premiere: Sun. 1/31, 1:00 p.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"At the Ready" (Maisie Crow) [U.S. Documentaries]
+ Students at El Paso’s Horizon High School, home to one of the region’s largest law enforcement education programs, train to become police officers and Border Patrol agents.  They discover the realities of their dream jobs may be at odds with the truths and people they hold most dear. Online Premiere: Sun. 1/31, 10:00 a.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"Cusp" (Parker Hill, Isabel Bethencourt) [U.S. Documentaries]
+ In a Texas military town, three teenage girls confront the dark corners of adolescence at the end of a feverdream summer.  Contains discussion of sexual violence. Online Premiere: Sat. 1/30, 4:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"Homeroom" (Peter Nicks) [U.S. Documentaries]
+ Following the class of 2020 at Oakland High School in a year marked by seismic change, exploring the emotional world of teenagers coming of age against the backdrop of a rapidly changing world. Online Premiere: Fri. 1/29, 10:00 a.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Rebel Hearts" (Pedro Kos)  [U.S. Documentaries]
+ A group of pioneering nuns bravely stand up to the Catholic Church patriarchy, fighting for their livelihoods, convictions, and equality against an all-powerful cardinal. From marching in Selma in 1965 to the Women’s March in 2018, these women have reshaped our society with their bold acts of defiance. Online Premiere: Fri. 1/29, 7:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Rita Moreno: Just a Girl" (Mariem Pérez Riera) [U.S. Documentaries]
+ Who Decided to Go For It Rita Moreno defied both her humble upbringing and relentless racism to become one of a select few who have won an Emmy, Grammy, Oscar, and Tony Award. Over a 70-year career, she has paved the way for Hispanic American performers by refusing to be pigeonholed into one-dimensional stereotypes. Online Premiere: Fri. 1/29, 1:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Summer Of Soul (…Or, When The Revolution Could Not Be Televised)" (Ahmir “Questlove” Thompson) [U.S. Documentaries]
+ During the same summer as Woodstock, more than 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity.  The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America’s history lost—until now. Online Premiere: Thu. 1/28, 8:00 p.m. MT. Then Sat. 1/30, 8:00 a.m. MT
+
+"Try Harder!" (Debbie Lum) [U.S. Documentaries]
+ In a universe where cool kids are nerds, the orchestra is world class, and being Asian American is the norm, seniors at Lowell High School compete for the top prize: admission to the college of their dreams.
+Online Premiere: Sat. 1/30, 1:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"Users" (Natalia Almada)  [U.S. Documentaries]
+ A mother wonders: Will my children love their perfect machines more than they love me, their imperfect mother?  She switches on a smart-crib lulling her crying baby to sleep. This perfect mother is everywhere. She watches over us, takes care of us. We listen to her. We trust her. Online Premiere: Sun. 1/31, 4:00 p.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+
+WORLD CINEMA DRAMATIC COMPETITION
+
+"The Dog Who Wouldn’t Be Quiet" (Ana Katz, Argentina) [World Dramatic]
+ Sebastian, a man in his thirties, works a series of temporary jobs and embraces love at every opportunity. He transforms, through a series of short encounters, as the world flirts with potential apocalypse. Online Premiere: Sun. 1/31, 10:00 a.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"Fire in the Mountains" (Ajitpal Singh, India)  [World Dramatic]
+ A mother toils to save money to build a road in a Himalayan village to take her wheelchair-bound son for physiotherapy, but her husband, who believes that an expensive religious ritual is the remedy, steals her savings.  Online Premiere: Sun. 1/31, 7:00 p.m. MT Then Tue. 2/2, 8:00 a.m. MT
+
+"Hive" (Blerta Basholli, Kosovo/Switzerland/Macedonia/Albania) [World Dramatic]
+
+Fahrije’s husband has been missing since the war in Kosovo. She sets up her own small business to provide for her kids, but as she fights against a patriarchal society that does not support her, she faces a crucial decision: to wait for his return, or to continue to persevere. Online Premiere: Sun. 1/31, 1:00 p.m. MT. Tue. 2/2, 8:00 a.m. MT
+
+"Human Factors" (Ronny Trocker, Germany/Italy/Denmark) [World Dramatic]
+ A mysterious housebreaking exposes the agony of an exemplary middleclass family. Online Premiere: Fri. 1/29, 10:00 a.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Luzzu" (Alex Camilleri, Malta)  [World Dramatic]
+ Jesmark, a struggling fisherman on the island of Malta, is forced to turn his back on generations of tradition and risk everything by entering the world of black-market fishing to provide for his wife and newborn baby. Online Premiere: Fri. 1/29, 1:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"One for the Road" (Baz Poonpiriya, China/Hong Kong/Thailand) [World Dramatic]
+ Boss is a consummate ladies’ man, a free spirit, and a bar owner in NYC. One day, he gets a surprise call from Aood, an estranged friend who has returned home to Thailand. Dying of cancer, Aood enlists Boss’s help to complete a bucket list—but both are hiding something. Online Premiere: Thu. 1/28, 8:00 p.m. MT. Then Sat. 1/30, 8:00 a.m. MT
+
+"The Pink Cloud" (Iuli Gerbase, Brazil)  [World Dramatic]
+ A mysterious and deadly pink cloud appears across the globe, forcing everyone to stay home. Strangers at the outset, Giovana and Yago try to invent themselves as a couple as years of shared lockdown pass. While Yago is living in his own utopia, Giovana feels trapped deep inside. Online Premiere: Fri. 1/29, 4:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"El Planeta" (Amalia Ulman, US/Spain) [World Dramatic]
+ Amidst the devastation of post-crisis Spain, mother and daughter bluff and grift to keep up the lifestyle they think they deserve, bonding over common tragedy and an impending eviction. Online Premiere: Sat. 1/30, 4:00 p.m. MT. Mon. 2/1, 8:00 a.m. MT
+
+"Pleasure" (Ninja Thyberg, Sweden/Netherlands/France) [World Dramatic]
+ A 20-year-old girl moves from her small town in Sweden to Los Angeles for a shot at a career in the adult-film industry. Online Premiere: Sun. 1/31, 10:00 p.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"Prime Time" (Jakub Piątek, Poland) [World Dramatic]
+ On the last day of 1999, 20-year-old Sebastian locks himself in a TV studio.  He has two hostages, a gun, and an important message for the world. The story of the attack explores a rebel’s extreme measures and last resort. Online Premiere: Sat. 1/30, 1:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+WORLD CINEMA DOCUMENTARY COMPETITION
+ 
+"Faya Dayi" (Jessica Beshir, Ethiopia/USA) [World Documentaries]
+ A spiritual journey into the highlands of Harar, immersed in the rituals of khat, a leaf Sufi Muslims chewed for centuries for religious meditations—and Ethiopia’s most lucrative cash crop today. A tapestry of intimate stories offers a window into the dreams of youth under a repressive regime. Online Premiere: Sat. 1/30, 1:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"Flee" (Jonas Poher Rasmussen, Denmark/France/Sweden/Norway) [World Documentaries]
+ Amin arrived as an unaccompanied minor in Denmark from Afghanistan.  Today, he is a successful academic and is getting married to his longtime boyfriend. A secret he has been hiding for 20 years threatens to ruin the life he has built. Online Premiere: Thu. 1/28, 8:00 p.m. MT. Then Sat. 1/30, 8:00 a.m. MT
+
+"Inconvenient Indian" (Michelle Latimer, Canada) [World Documentaries]
+ An examination of Thomas King’s dismantling of North America’s colonial narrative, which reframes history with the powerful voices of those continuing the tradition of Indigenous resistance. Online Premiere: Sun. 1/31, 7:00 p.m. MT.  Then Tue. 2/2, 8:00 a.m. MT
+
+"Misha and the Wolves" (Sam Hobkinson, UK/Belgium) [World Documentaries]
+ A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth. Online Premiere: Sun. 1/31, 1:00 p.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"The Most Beautiful Boy in the World" (Kristina Lindström, Kristian Petri, Sweden) [World Documentaries]
+ Swedish actor/musician Björn Andrésen’s life was forever changed at the age of 15, when he played Tadzio, the object of Dirk Bogarde’s obsession in Death in Venice—a role that led Italian maestro Luchino Visconti to dub him “the world’s most beautiful boy.” Online Premiere: Fri. 1/29, 1:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Playing With Sharks" (Sally Aitken, Australia) [World Documentaries]
+ Valerie Taylor is a shark fanatic and an Australian icon—a marine maverick who forged her way as a fearless diver, cinematographer, and conservationist.  She filmed the real sharks for Jaws and famously wore a chainmail suit, using herself as shark bait, changing our scientific understanding of sharks forever. Online Premiere: Fri. 1/29, 7:00 p.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"President" (Camilla Nielsson, Denmark/USA/Norway) [World Documentaries]
+ Zimbabwe is at a crossroads. The leader of the opposition MDC party, Nelson Chamisa, challenges the old guard ZANU-PF led by Emmerson Mnangagwa, known as “The Crocodile.”  The election tests both the
+ruling party and the opposition—how do they interpret principles of democracy in discourse and in practice? Online Premiere: Fri. 1/29, 10:00 a.m. MT. Then Sun. 1/31, 8:00 a.m. MT
+
+"Sabaya" (Hogir Hirori, Sweden) [World Documentaries]
+ With just a mobile phone and a gun, Mahmud, Ziyad and their group risk their lives trying to save Yazidi women and girls being held by ISIS as sabaya (abducted sex slaves) in the most dangerous camp
+in the Middle East, Al-Hol in Syria. Online Premiere: Sat. 1/30, 10:00 a.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+"Taming the Garden" (Salomé Jashi, Switzerland/Germany/Georgia) [World Documentaries]
+ A poetic ode to the rivalry between men and nature. Online Premiere: Sun. 1/31, 10:00 a.m. MT. Then Tue. 2/2, 8:00 a.m. MT
+
+"Writing With Fire" (Rintu Thomas/Sushmit Ghosh, India) [World Documentaries]
+ Into a cluttered news landscape dominated by men emerges India’s only newspaper run by Dalit women. Armed with smartphones, chief reporter Meera and her journalists break traditions on the frontlines of India’s biggest issues and within the confines of their own homes, redefining what it means to be powerful. Online Premiere: Sat. 1/30, 7:00 p.m. MT. Then Mon. 2/1, 8:00 a.m. MT
+
+
+NEXT
+
+ [NEXT]
+
+MIDNIGHT
+
+ [Midnight]
+
+PREMIERES
+
+ [Premieres]
+
+
+DOCUMENTARY PREMIERES
+
+ [Documentary Premieres] <i>Netflix</i>
+
+SPOTLIGHT
+
+ [Spotlight]
+
+KIDS
+
+ [Kids]
+
+SPECIAL EVENTS
+
+ [Special Events] TV Mini-Series
+
+SLAMDANCE NARRATIVE FEATURES
+
+ [Slamdance]
+
+SLAMDANCE BREAKOUT FEATURES 
+
+
+EOF
+
+our (@critics, @critics_group);
+$critics_group[0] = "Critics";
+$critics[0] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alex Heeney (Seventh Row, Canada)
+Alexander Miller (Filmenquiry.com, Battleshippretension.com, US)
+Allan Hunter (Screen International, US)
+Ali Shimkus (Slug Magazine, US)
+Alison Willmore (Vulture, US)
+Alissa Wilkinson (Christianity Today, US)
+Alonso Durade (The Wrap, US)
+Amy Nicholson (Variety, US)
+Amy Kaufman (LA Times, US)
+Andrew Barker (Variety, US)
+Andrew Bundy (The Playlist, US)
+Andrew Crump (The Playlist, US)
+Angie Han (Slashfilm, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+April Wolfe (The Wrap, US)
+Beandrea July (The Hollywood Reporter, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Croll (The Wrap, US)
+Ben Smith (UK)
+Benjamin Lee (The Guardian, US)
+Bilge Ebiri (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Brian Tallerico (RogerEbert.com, US)
+Bryan Bishop (The Verge, US)
+Candice Frederick (The Wrap, US)
+Carlos Aguilar (The Wrap, US)
+Chris Evangelista (Slashfilm, US)
+Chris Lindahl (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Clint Worthington (Consequence of Sound, US)
+Connor Lockie (Slug Magazine, US)
+Damon Wise  (The Guardian, UK)
+Dan Mecca (The Film Stage, US)
+Dan Callahan (The Wrap, US)
+Daniel Fienberg (The Hollywood Reporter, US)
+David Canfield (EW, US)
+David D'Arcy (Screen International, US)
+David Edelstein (New York Magazine Vulture, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Dilarah Elbir (The Playlist, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eli Fine (The Playlist, US)
+Elizabeth Weitzman (The Wrap, US)
+Emily Yoshida (New York Magazine Vulture, US)
+Erik Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Erik Luers (No Film School, IFP, US)
+Evan Saathoff (birthmoviesdeath.com, US)
+Jeremy Smith (birthmoviesdeath.com, US)
+Jean-Christophe Simon (Films Boutique, Germany)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (The Playlist, HitFix, US)
+Guy Lodge (Variety, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jake Howell (The Film Stage, US)
+Jared Mobarak (The Film Stage, US)
+Jason Bailey (The Playlist, Flavorwire, US)
+Jenni Miller (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+John DeFore (The Hollywood Reporter, US)
+John Fink (The Film Stage, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan Ruimy (The Playlist, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Indiewire, US)
+Kathy Rong Zhou (Slug Magazine, US)
+Katie Walsh (The Playlist, US)
+Kees Wamelink (Filmhuis Lisse, NL)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kevin Wozniak (kevflix.com, US)
+Kimber Myers (The Playlist, US)
+Kyle Kohner (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leah Greenblatt (EW, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Lois Brady (Slug Magazine, US)
+Lorry Kikta (filmthreat.com, US)
+Marco Cerritos (The Movielens, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Matt Hoffman (We Got This Covered, Scene Creek, Canada)
+Matt Neglia (NextBestPicture.com, US)
+Mauricio Costa (Razão de Aspecto, Brazil)
+Mel Valentin (Next Projection, US)
+Michael Rechtshaffen  (The Hollywood Reporter, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Molly Laich (doghatesfilm.com, US)
+Monica Castillo (The Wrap, US)
+Neil Miller (Film School Rejects, US)
+Nick Allen (RogerEbert.com, US)
+Nick Schager (Variety, US)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Norman Gidney (filmthreat.com, US)
+Oktay Ege Kozak (The Playlist, US)
+Owen Gleiberman (Variety, US)
+Paige Zuckerman  (Slug Magazine, US)
+Parker Scott Mortensen (Slug Magazine, US)
+Peter Debruge (Variety, US)
+Peter Sciretta (Slashfilm, US)
+Rebecca Martin (Cinema Femme, US)
+Reena Chohan (TIFF, Canada)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Robert Daniels (The Playlist, US)
+Robert Abele (The Wrap, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slashfilm, US)
+Ryan Lattanzio (TOH!, US)
+Sam Adams (Slate, US)
+Sam Fragoso (The Wrap, Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Scott Renshaw (Salt Lake City Weekly, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Farber (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Stephen Whitty (Screen International, US)
+Steve Pond (The Wrap, US)
+Susannah Gruder (Reverse Shot, US)
+Tasha Robinson (The Verge, Dissolve, A.V. Club, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Tomris Laffly (The Wrap, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Victor Morton (Salt Lake City Weekly, US)
+Wendy Ide (Screen International, US)
+Wesley Morris (Grantland, US)
+Dan Callahan (The Wrap, US)
+William Bibbiani (The Wrap, US)
+Zaina Abujebarah (Slug Magazine, US)
+";
+$critics_group[1] = "Other";
+$critics[1] = "
+Aaron Salazar (Filmmaker, US)
+Abbie Porter (Movie Nerd, US)
+Allison Boyer (Writer, Filmmaker, US)
+Allison Stone (Filmmaker, US)
+Amber (Film Student, US)
+Amir Moverman (Producer, US)
+Bare Bard (Film festival worker, US)
+Bill Skaleski (Artist, US)
+Blake Schwarz (Film Student+Blogger, US)
+Brandon Hart (Film Fan, US)
+Daniel Arthur (Public House Cinema, US)
+Danny Hensel (NPR Stateside, Student Editor, US)
+Drew Duncan (Industry, US)
+Eddie White (Filmmaker, Aus)
+Emily Guinto (Local film buff, US)
+flowertwithat (Film Buff, US)
+Jordan Foxworthy (Sundance Circle member, US)
+Gregory S Gardner (Double Exposure Distribution, US)
+Hannah Hembree (Industry, US)
+# Theatre Miami
+Javier (Industry, US)
+Jason Myers (Twitter+Local, US)
+Jason Osia (Film Buff, US)
+Jeremiah Holt (Youtube+Local, US)
+Jon Madsen (Local reviewer, US)
+Kevin Bolger (Local Filmmaker, US)
+Kevin Conner (Industry, US)
+Kevin Dando (Ex-PBS, US)
+Lee Stobby (Producer, US)
+Martin Jacob (Film Student+Blogger, US)
+Matt Cipolla (Freelance, US)
+Matt Wigham (bigcartel.com+Local, US)
+Matthew Reddick (Actor, US)
+Mei Chen (Student, US)
+Nick Kush (moviebabblereviews.com, US)
+Nik Velimirovic (Filmmaker, US)
+Pontus Ridderstedt (Librarian, Sweden)
+p. m. orr (Filmmaker, Volunteer, US)
+Robert Saucedo (Houston Alamo, US)
+Rosalie Kicks (moviejawn.com, US)
+Sachin Dharwadker (Filmmaker, US)
+shane (Actor, US)
+Shelby Slade (Local reporter Daily Herald, US)
+Skye McLennan (Industry, US)
+Stephen (Local film buff, US)
+Stephen Jones (Musician, Lawyer, US)
+Wiktor Krampikowski (Industry, PL)
+Thomas Callahan (Filmstudent, US)
+Tony Donisch (Discover, US)
+";
+#Jacob (Local, US)
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out.
+<i>(Filtered to help with statistical inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2021.dat
+
+</pre>";
+
+# links:
+# https://letterboxd.com/rurban/list/sundance-slamdance-2021/
+# https://twitter.com/search?q=%23sundance%20review
+# http://www.theguardian.com/film/sundance-2021
+# http://www.indiewire.com/critic/
+# https://www.latimes.com/topic/sundance-film-festival
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
