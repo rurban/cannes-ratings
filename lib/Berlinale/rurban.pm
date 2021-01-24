@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = qw(2016..2021);
+our @YEARS = (2016..2021);
 our $comp_section = 'Wettbewerb';
 # "Encounters" 2020+
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
