@@ -55,6 +55,7 @@ letterbox-*.lst
 letterbox-*.lst.1
 letterbox.diff
 lettr-*-list.html
+lettr-*-list-2.html
 lib/*.pm
 git_push.sh
 hot_deploy-bump.sh
