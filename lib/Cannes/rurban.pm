@@ -647,15 +647,16 @@ sub _side_details {
       $gbox .= "</form>\n";
       $out .= $gbox;
     }
-    return $out;
+  }
+  return $out;
 }
 
 sub _list {
   my $year = shift;
-  my $dir = dirname(__FILE__);
+  my $dir = File::Basename::dirname(__FILE__);
   my $dat = "$dir/../../public/$BASE$year.dat";
   if (-e $dat) {
-    do "$dat" or die "invalid ".basename($dat);
+    do "$dat" or die "invalid ".File::Basename::basename($dat);
   } else {
     eval "require $BASE\::rurban::$year;"
       or die "invalid year $year";
@@ -757,7 +758,7 @@ get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
     no strict 'refs';
-    my $dir = dirname(__FILE__);
+    my $dir = File::Basename::dirname(__FILE__);
     my $dat = "$dir/../../public/$BASE$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
