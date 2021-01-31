@@ -1,7 +1,7 @@
 package Cannes::rurban;
 use Dancer ':syntax';
-use File::Basename ();
-#use utf8;
+use File::Basename qw(dirname basename);
+use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
@@ -626,27 +626,6 @@ sub _side_details {
 	    </form>' .
 	    '
           </li>';
-  }
-  # turn off lb
-  else {
-    my $s = $critics_group[$#critics_group];
-    if ($s eq 'Letterboxd') {
-      my $gbox = "<form><input type=hidden name=t value=\"\">\n";
-      for (@critics_group) {
-        next if $_ eq $s;
-        $gbox .= "<label><input type=hidden name=g value=\"$_\" checked></input></label>\n";
-      }
-      $gbox .= "<label><input name=\"g\" type=checkbox value=\"$s\"";
-      $gbox .= " checked" if params->{g};
-      $gbox .= "> $s </input></label><br>\n";
-      if (params->{g}) { # already clicked off
-        $gbox .= '<input type=submit value="On">';
-      } else {
-        $gbox .= '<input type=submit value="Off">';
-      }
-      $gbox .= "</form>\n";
-      $out .= $gbox;
-    }
   }
   return $out;
 }
