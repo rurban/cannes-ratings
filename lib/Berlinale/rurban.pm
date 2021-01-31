@@ -208,7 +208,7 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
-  if ($year => 2020) { # no Out of Competition, Native
+  if ($year >= 2020) { # no Out of Competition, Native
     @sections = ($comp_section, "Encounters", "Panorama", "Generation",
                  "Perspektive Deutsches Kino", "Forum", "Forum Expanded",
                  "Special", "Retrospektive", "Forum 50", "Woche der Kritik" );
