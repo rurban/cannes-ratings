@@ -1,7 +1,7 @@
 package Cannes::rurban;
 use Dancer ':syntax';
 use File::Basename ();
-#use utf8;
+use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
