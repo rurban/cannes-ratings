@@ -1,8 +1,8 @@
 package Sundance::rurban;
 our @ISA = ('Cannes::rurban');
 use Dancer ':syntax';
-use File::Basename qw(dirname basename);
-use utf8;
+use File::Basename ();
+#use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Sundance';
@@ -85,6 +85,11 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url if $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
+      if (    !exists $critic{$critic}->{mag}
+          and !exists $critic{$critic}->{cn}
+          and !exists $critic{$critic}->{group}) {
+        $critic{$critic}->{group} = $critics_group[$#critics_group]; # letterboxd
+      }
     } elsif (/[\w\)]\s+(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
@@ -102,6 +107,11 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
+      if (    !exists $critic{$critic}->{mag}
+          and !exists $critic{$critic}->{cn}
+          and !exists $critic{$critic}->{group}) {
+        $critic{$critic}->{group} = $critics_group[$#critics_group]; # letterboxd
+      }
     }
   }
   $a = $n ? sprintf("%.02f", $s/$n) : 0;
@@ -601,15 +611,36 @@ sub _side_details {
 	    '
           </li>';
   }
+  # turn off lb
+  else {
+    my $s = $critics_group[$#critics_group];
+    if ($s eq 'Letterboxd') {
+      my $gbox = "<form><input type=hidden name=t value=\"\">\n";
+      for (@critics_group) {
+        next if $_ eq $s;
+        $gbox .= "<label><input type=hidden name=g value=\"$_\" checked></input></label>\n";
+      }
+      $gbox .= "<label><input name=\"g\" type=checkbox value=\"$s\"";
+      $gbox .= " checked" if params->{g};
+      $gbox .= "> $s </input></label><br>\n";
+      if (params->{g}) { # already clicked off
+        $gbox .= '<input type=submit value="On">';
+      } else {
+        $gbox .= '<input type=submit value="Off">';
+      }
+      $gbox .= "</form>\n";
+      $out .= $gbox;
+    }
+  }
   return $out;
 }
 
 sub _list {
   my $year = shift;
-  my $dir = dirname(__FILE__);
+  my $dir = File::Basename::dirname(__FILE__);
   my $dat = "$dir/../../public/$BASE$year.dat";
   if (-e $dat) {
-    do "$dat" or die "invalid ".basename($dat);
+    do "$dat" or die "invalid ".File::Basename::basename($dat);
   } else {
     eval "require $BASE\::rurban::$year;"
       or die "invalid year $year";
@@ -661,7 +692,7 @@ get '/SundanceAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
     no strict 'refs';
-    my $dir = dirname(__FILE__);
+    my $dir = File::Basename::dirname(__FILE__);
     my $dat = "$dir/../../public/$BASE$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
@@ -684,7 +715,7 @@ get '/SundanceAll' => sub {
   my $all = _dump( \%critic, \%title, \@t);
   $all->{year} = "2015-2021";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2019::critics_group"});
+                                       \@{"$BASE\::rurban::2021\::critics_group"});
   template lc($BASE), $all;
 };
 
