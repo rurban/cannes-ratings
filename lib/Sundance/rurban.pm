@@ -320,7 +320,7 @@ sub _dump {
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n <= 3 or $a < 7.5;
+    next if $n <= 3 or $a < 8;
     my $l = $title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
@@ -342,17 +342,17 @@ sub _dump {
     }
     $i++;
   }
-  my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
+  my $h = "<h1 title=\"(avg>8, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
   for (@t) { 
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num};
-    next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
+    next if $a < 7.0 or $a >= 8 or $n <= 3;
     my $l=$title{$t}->{line};
     next if $l =~ / 19\d\d\)$/;
-    next if $l =~ / 200\d\)$/;
+    next if $l =~ / 20[01]\d\)$/;
     next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
@@ -372,9 +372,9 @@ sub _dump {
     $i++;
   }
   if ($list) {
-    $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
+    $out .= "<h1 title=\"(avg>7, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
-	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
+	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 7 or is not new or has not enough votes.</i></small>\n";
   }
   $out .= "\n<h1>All official sections</h1>\n\n";
   my ($allreviews, $numratings) = (0,0);
