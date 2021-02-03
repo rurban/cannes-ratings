@@ -420,7 +420,7 @@ sub _dump {
 	my $l=$title{$_}->{line};
 	$l=$s>=2.0?"<i>$l</i>":$l;
         $l="<small>$l</small>" if $num and $title{$_}->{num} < 10;
-        if ($six and $sect_t->{$_}->[0] < 6) {
+        if ($six and $sect_t->{$_}->[0] < 7) {
           $six=0;
 	  $out .= "<tr><td colspan=3>";
 	  $out .= "-"x25;
@@ -471,7 +471,7 @@ sub _dump {
       $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
     } else { $l =~ s/ \[[\w. ]+?\]//;}
     $l="<small>$l</small>" if $title{$t}->{num}<10;
-    if ($six and $n and $a<6.0){
+    if ($six and $n and $a<7.0){
       $six=0;
       $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
     }
