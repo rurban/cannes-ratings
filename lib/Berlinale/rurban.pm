@@ -213,6 +213,11 @@ sub _dump {
                  "Perspektive Deutsches Kino", "Forum", "Forum Expanded",
                  "Special", "Retrospektive", "Forum 50", "Woche der Kritik" );
   }
+  if ($year >= 2021) { # no "Forum Expanded", "Forum 50"
+    @sections = ($comp_section, "Encounters", "Panorama", "Generation",
+                 "Perspektive Deutsches Kino", "Forum", "Special", "Retrospektive",
+                 "Woche der Kritik" );
+  }
   my %sections = map {$_=>1} @sections;
   my $section;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
@@ -702,7 +707,7 @@ get '/Berlinale2021' => sub {
   _list(2021);
 };
 get '/Berlinale' => sub {
-  _list(2020);
+  _list(2021);
 };
 
 get '/BerlinaleAll' => sub {
