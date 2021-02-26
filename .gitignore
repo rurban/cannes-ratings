@@ -17,6 +17,7 @@ insert-[bcs][12][0-9]
 ber[12][0-9]/
 sun[12][0-9]/
 c[12][0-9]/
+/b21-auto.sh
 /b20-auto.sh
 /s21-auto.sh
 /20*.pl
