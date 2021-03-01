@@ -69,6 +69,7 @@ imdb-ratings.csv
 public/*20*.dat.bak
 /up.sh
 /imdb-b20.lst
+/imdb-b21.lst
 /imdb.dat
 /imdb.dat.bak
 /imdb.db
