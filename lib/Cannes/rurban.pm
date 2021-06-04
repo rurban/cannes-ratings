@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2020);
+our @YEARS = (2010..2021);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other"); #, "Hopeful (temp.)"
@@ -680,7 +680,7 @@ sub _list {
 }
 
 get '/Cannes' => sub {
-  _list(2020);
+  _list(2021);
 };
 get '/Cannes2021' => sub {
   _list(2021);
@@ -788,6 +788,6 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Cannes2021'; };
+get '/' => sub { redirect '/Cannes2021'; };
 
 1;
