@@ -42,6 +42,153 @@ package Cannes::rurban::2021; # -*- perl -*-
  
 use utf8;
 our $DATA= <<'EOF';
+"ANNETTE" (Leos CARAX, France) [Competition]
+ Opening Film
+
+"A FELESÉGEM TÖRTÉNETE (THE STORY OF MY WIFE)" 	(Ildikó ENYEDI, Hungary)
+
+"BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
+
+"BERGMAN ISLAND" (Mia HANSEN-LOVE, France) [Competition]
+
+"DRIVE MY CAR" (Ryusuke HAMAGUCHI, Japan) [Competition]
+
+"FLAG DAY" (Sean PENN, USA) [Competition]
+
+"HA'BERECH (AHED’S KNEE)" (Nadav LAPID, Israel) [Competition]
+
+"CASABLANCA BEATS" (Nabil AYOUCH, Morocco) [Competition]
+
+"HYTTI NRO 6 (COMPARTMENT NO.6)" (Juho KUOSMANEN, Finland) [Competition]
+
+"THE WORST PERSON IN THE WORLD" (Joachim TRIER, Norway) [Competition]
+
+"LA FRACTURE" (Catherine CORSINI, France) [Competition]
+
+"THE RESTLESS" (Joachim LAFOSSE, Belgium) [Competition]
+
+"PARIS 13TH DISTRICT" (Jacques AUDIARD, France) [Competition]
+
+"LINGUI" (Mahamat-Saleh HAROUN, Chad) [Competition]
+
+"MEMORIA" (Apichatpong WEERASETHAKUL, Thaïland) [Competition]
+
+"NITRAM" (Justin KURZEL, Australia) [Competition]
+
+"FRANCE" (Bruno DUMONT, France) [Competition]
+
+"PETROV’S FLU" (Kirill SEREBRENNIKOV, Russia) [Competition]
+
+"RED ROCKET" (Sean BAKER, USA) [Competition]
+
+"THE FRENCH DISPATCH" (Wes ANDERSON, USA) [Competition]
+
+"TITANE" (Julia DUCOURNAU, France) [Competition]
+
+"TRE PIANI" (Nanni MORETTI, Italy) [Competition]
+
+"TOUT S’EST BIEN PASSÉ" (François OZON, France) [Competition]
+
+"A HEROS" (Asghar FARHADI, Iran) [Competition]
+
+Un Certain Regard
+
+"MONEYBOYS" (C.B Yi, Austria) [Un Certain Regard]
+ 1st film
+
+"BLUE BAYOU" (Justin CHON, USA) [Un Certain Regard]
+
+"FREDA" (Gessica GÉNÉUS, Haïti) [Un Certain Regard]
+ 1st film 
+
+"DELO (HOUSE ARREST)" (Alexey GERMAN JR., Russia) [Un Certain Regard]
+
+"BONNE MÈRE" (Hafsia HERZI, France) [Un Certain Regard]
+
+"NOCHE DE FUEGO" (Tatiana HUEZO, Mexico) [Un Certain Regard]
+	
+"LAMB" (Valdimar JÓHANSSON, Iceland) [Un Certain Regard]
+ 1st film
+
+"COMMITMENT HASAN" (Hasan Semih KAPLANOGLU, Turkey) [Un Certain Regard]
+
+"AFTER YANG" (Kogonada, USA) [Un Certain Regard]
+
+"LET THERE BE MORNING Eran KOLIRIN (Israel) [Un Certain Regard]
+
+"UNCLENCHING THE FISTS" (Kira KOVALENKO, Russia) [Un Certain Regard]
+
+"WOMEN DO CRY (Mina MILEVA/Vesela KAZAKOVA, Bulgaria) [Un Certain Regard]
+
+"REHANA MARYAM NOOR" (Abdullah Mohammad SAAD, Bangladesh) [Un Certain Regard]
+
+"GREAT FREEDOM" (Sebastian MEISE, Austria) [Un Certain Regard]
+
+"LA CIVIL" (Teodora Ana MIHAI, Romania/Belgium) [Un Certain Regard]
+ 1st film
+
+"GAEY WA'R" (NA Jiazuo, China) [Un Certain Regard]
+ 1st film
+
+"THE INNOCENTS" (Eskil VOGT, Norway) [Un Certain Regard]
+	
+"UN MONDE" (Laura WANDEL, Belgium) [Un Certain Regard]
+ 1st film
+
+Out of Competition
+
+"DE SON VIVANT" (Emmanuelle BERCOT (France) [Out Of Competition]
+ 
+"EMERGENCY DECLARATION" (HAN Jae-Rim, Korea) [Out Of Competition]
+ 
+"THE VELVET UNDERGROUND" (Todd HAYNES, USA) [Out Of Competition]
+ 
+"BAC NORD" (Cédric JIMENEZ, France) [Out Of Competition]
+ 
+"ALINE, THE VOICE OF LOVE" (Valérie LEMERCIER, France) [Out Of Competition]
+ 
+"STILLWATER" (Tom MCCARTHY, USA) [Out Of Competition]
+ 
+ 
+Midnight Screenings
+
+"BLOODY ORANGES" (Jean-Christophe MEURISSE, France) [Out Of Competition] Midnight
+	
+Cannes Premiere
+
+"HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
+
+"COW" (Andrea ARNOLD, UK) [Out Of Competition] Premiere
+
+"LOVE SONGS FOR TOUGH GUYS" (Samuel BENCHETRIT, France) [Out Of Competition] Premiere
+
+"DECEPTION" (Arnaud DESPLECHIN, France) [Out Of Competition] Premiere
+ 
+"JANE PAR CHARLOTTE" Charlotte GAINSBOURG (France) [Out Of Competition] Premiere
+  1st film
+
+"IN FRONT OF YOUR FACE" (HONG Sang-Soo, Korea) [Out Of Competition] Premiere
+ 
+"MOTHERING SUNDAY" (Eva HUSSON, France) [Out Of Competition] Premiere
+	
+"EVOLUTION" (Kornél MUNDRUCZO, Hungary) [Out Of Competition] Premiere
+
+"VAL" (Ting POO/Leo SCOTT, USA) [Out Of Competition] Premiere
+
+"JFK REVISITED: THROUGH THE LOOKING GLASS" (Oliver STONE, USA) [Out Of Competition] Premiere
+	
+Special Screenings
+
+"O MARINHEIRO DAS MONTANHAS (MARINER OF THE MOUNTAINS)" (Karim AÏNOUZ, Brazil) [Out Of Competition] Special Screening
+ 
+"BLACK NOTEBOOKS" (Shlomi ELKABETZ (Israel) [Out Of Competition] Special Screening
+	
+"BABI YAR. CONTEXT" (Sergei LOZNITSA, Ukraine) [Out Of Competition] Special Screening
+ 
+"H6" Yé Yé (France) [Out Of Competition] Special Screening
+ 1st film
+
+"THE YEAR OF THE EVERLASTING STORM" (Jafar PANAHI Iran, Anthony CHEN Singapor), Malik VITTHAL USA), Laura POITRAS USA), Dominga SOTOMAYOR Chile), David LOWERY USA), Apichatpong WEERASETHAKUL Thailand) [Out Of Competition] Special Screening
 
 EOF
 
