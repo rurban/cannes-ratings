@@ -45,17 +45,54 @@ our $DATA= <<'EOF';
 "ANNETTE" (Leos CARAX, France) [Competition]
  Opening Film
 
+#letterboxd
+kettreen            10   https://letterboxd.com/kettreen/film/annette/
+abigailmayo         10
+Patrick Devitt      8
+BojackManMan        8
+Patrick Danaher     4
+Celena              3
+
 "A FELESÉGEM TÖRTÉNETE (THE STORY OF MY WIFE)" 	(Ildikó ENYEDI, Hungary)
+
+#letterboxd
+deadlock            8
+Patrick Devitt      7
+Jennifer            2
 
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
+#letterboxd
+zohan25             10
+Patrick Devitt      9
+anh                 9
+Gilberto Assoy      6
+missMarian          1
+
 "BERGMAN ISLAND" (Mia HANSEN-LOVE, France) [Competition]
+
+#letterboxd
+no_alarms           10
+rodrigort           10
+Annabel             10   https://letterboxd.com/crimson_peak/film/film:408274/
+AtK47               8
+EricEason           6
 
 "DRIVE MY CAR" (Ryusuke HAMAGUCHI, Japan) [Competition]
 
+#letterboxd
+Bai Yutong          5
+
 "FLAG DAY" (Sean PENN, USA) [Competition]
 
+#letterboxd
+camile              4
+John                2
+
 "HA'BERECH (AHED’S KNEE)" (Nadav LAPID, Israel) [Competition]
+
+#letterboxd
+Patrick Devitt      3
 
 "CASABLANCA BEATS" (Nabil AYOUCH, Morocco) [Competition]
 
@@ -63,27 +100,63 @@ our $DATA= <<'EOF';
 
 "THE WORST PERSON IN THE WORLD" (Joachim TRIER, Norway) [Competition]
 
+#letterboxd
+fannyfiona          10   https://letterboxd.com/fannyfiona/film/the-worst-person-in-the-world/
+
 "LA FRACTURE" (Catherine CORSINI, France) [Competition]
+
+#letterboxd
+Patrick Devitt      4
 
 "THE RESTLESS" (Joachim LAFOSSE, Belgium) [Competition]
 
+#letterboxd
+lady bird           7
+
 "PARIS 13TH DISTRICT" (Jacques AUDIARD, France) [Competition]
+
+#letterboxd
 
 "LINGUI" (Mahamat-Saleh HAROUN, Chad) [Competition]
 
+#letterboxd
+
 "MEMORIA" (Apichatpong WEERASETHAKUL, Thaïland) [Competition]
 
+#letterboxd
+Patrick Devitt      9
+Bai Yutong          5
+Charlie Johansson   2
+
 "NITRAM" (Justin KURZEL, Australia) [Competition]
+
+#letterboxd
+2001emo             10   https://letterboxd.com/2001emo/film/nitram/
+Patrick Devitt      2
+Conchobarre         1
 
 "FRANCE" (Bruno DUMONT, France) [Competition]
 
 "PETROV’S FLU" (Kirill SEREBRENNIKOV, Russia) [Competition]
 
+#letterboxd
+jay                 10
+Aiaan Makarov       2   https://letterboxd.com/mrgltch/film/petrovs-flu/
+Patrick Devitt      1
+
 "RED ROCKET" (Sean BAKER, USA) [Competition]
+
+#letterboxd
+Carson Brown        10   https://letterboxd.com/carsonbrown4/film/red-rocket-1/
+Glenn Abegonia      6
 
 "THE FRENCH DISPATCH" (Wes ANDERSON, USA) [Competition]
 
+#letterboxd
+
 "TITANE" (Julia DUCOURNAU, France) [Competition]
+
+#letterboxd
 
 "TRE PIANI" (Nanni MORETTI, Italy) [Competition]
 
@@ -93,100 +166,199 @@ our $DATA= <<'EOF';
 
 Un Certain Regard
 
+#letterboxd
+Kavehpd             7
+Aman Shivhare       2
+
 "MONEYBOYS" (C.B Yi, Austria) [Un Certain Regard]
  1st film
 
+#letterboxd
+
 "BLUE BAYOU" (Justin CHON, USA) [Un Certain Regard]
+
+#letterboxd
+itssofluffy         10
+melmiko             10
+Jen                 7
+mamouyal            6
+Nikki               6
 
 "FREDA" (Gessica GÉNÉUS, Haïti) [Un Certain Regard]
  1st film 
 
+#letterboxd
+
 "DELO (HOUSE ARREST)" (Alexey GERMAN JR., Russia) [Un Certain Regard]
+
+#letterboxd
 
 "BONNE MÈRE" (Hafsia HERZI, France) [Un Certain Regard]
 
+#letterboxd
+
 "NOCHE DE FUEGO" (Tatiana HUEZO, Mexico) [Un Certain Regard]
 	
+#letterboxd
+mscherrw            10
+Renato Guido        7
+
 "LAMB" (Valdimar JÓHANSSON, Iceland) [Un Certain Regard]
  1st film
 
+#letterboxd
+JamesRisk           7
+Morris Yang         6   https://letterboxd.com/metamodernmarx/film/lamb-1/
+
 "COMMITMENT HASAN" (Hasan Semih KAPLANOGLU, Turkey) [Un Certain Regard]
+
+#letterboxd
 
 "AFTER YANG" (Kogonada, USA) [Un Certain Regard]
 
 "LET THERE BE MORNING (Eran KOLIRIN, Israel) [Un Certain Regard]
 
+#letterboxd
+rhan888             10
+kristoffersu99      10
+AZ123456            9
+Patrick Danaher     7
+Patrick Devitt      4
+
 "UNCLENCHING THE FISTS" (Kira KOVALENKO, Russia) [Un Certain Regard]
 
 "WOMEN DO CRY (Mina MILEVA/Vesela KAZAKOVA, Bulgaria) [Un Certain Regard]
 
+#letterboxd
+
 "REHANA MARYAM NOOR" (Abdullah Mohammad SAAD, Bangladesh) [Un Certain Regard]
 
+#letterboxd
+
 "GREAT FREEDOM" (Sebastian MEISE, Austria) [Un Certain Regard]
+
+#letterboxd
 
 "LA CIVIL" (Teodora Ana MIHAI, Romania/Belgium) [Un Certain Regard]
  1st film
 
+#letterboxd
+
 "GAEY WA'R" (NA Jiazuo, China) [Un Certain Regard]
  1st film
 
+#letterboxd
+
 "THE INNOCENTS" (Eskil VOGT, Norway) [Un Certain Regard]
 	
+#letterboxd
+
 "UN MONDE" (Laura WANDEL, Belgium) [Un Certain Regard]
  1st film
 
 Out of Competition
 
+#letterboxd
+Jeyfein             8
+seb719              8
+
 "DE SON VIVANT" (Emmanuelle BERCOT (France) [Out Of Competition]
  
 "EMERGENCY DECLARATION" (HAN Jae-Rim, Korea) [Out Of Competition]
  
+#letterboxd
+
 "THE VELVET UNDERGROUND" (Todd HAYNES, USA) [Out Of Competition]
  
+#letterboxd
+alln_sucks          10   https://letterboxd.com/alln_sucks/film/film:472797/
+M_S                 10
+Libby               8
+
 "BAC NORD" (Cédric JIMENEZ, France) [Out Of Competition]
  
+
 "ALINE, THE VOICE OF LOVE" (Valérie LEMERCIER, France) [Out Of Competition]
  
 "STILLWATER" (Tom MCCARTHY, USA) [Out Of Competition]
  
+#letterboxd
+jorge lopez         10
+SID SARKAR          10
+Matt_T              7
+prissan             6
+Natasha C.          3
  
 Midnight Screenings
 
 "BLOODY ORANGES" (Jean-Christophe MEURISSE, France) [Out Of Competition] Midnight
 	
+#letterboxd
+
 Cannes Premiere
 
 "HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
 
+#letterboxd
+
 "COW" (Andrea ARNOLD, UK) [Out Of Competition] Premiere
+
+#letterboxd
 
 "LOVE SONGS FOR TOUGH GUYS" (Samuel BENCHETRIT, France) [Out Of Competition] Premiere
 
+#letterboxd
+
 "DECEPTION" (Arnaud DESPLECHIN, France) [Out Of Competition] Premiere
  
+#letterboxd
+
 "JANE PAR CHARLOTTE" (Charlotte GAINSBOURG, France) [Out Of Competition] Premiere
   1st film
 
+#letterboxd
+
 "IN FRONT OF YOUR FACE" (HONG Sang-Soo, Korea) [Out Of Competition] Premiere
  
+#letterboxd
+Riccardo Turchi     10   https://letterboxd.com/richit/film/in-front-of-your-face/
+Morris Yang         8   https://letterboxd.com/metamodernmarx/film/in-front-of-your-face/
+
 "MOTHERING SUNDAY" (Eva HUSSON, France) [Out Of Competition] Premiere
 	
+#letterboxd
+Patrick Devitt      3
+
 "EVOLUTION" (Kornél MUNDRUCZO, Hungary) [Out Of Competition] Premiere
 
+#letterboxd
+
 "VAL" (Ting POO/Leo SCOTT, USA) [Out Of Competition] Premiere
+
+#letterboxd
 
 "JFK REVISITED: THROUGH THE LOOKING GLASS" (Oliver STONE, USA) [Out Of Competition] Premiere
 	
 Special Screenings
 
+#letterboxd
+
 "O MARINHEIRO DAS MONTANHAS (MARINER OF THE MOUNTAINS)" (Karim AÏNOUZ, Brazil) [Out Of Competition] Special Screening
  
+#letterboxd
+Luiz Gustavo Vilela 7
+Patrick Devitt      4
+
 "BLACK NOTEBOOKS" (Shlomi ELKABETZ, Israel) [Out Of Competition] Special Screening
 	
+#letterboxd
+
 "BABI YAR. CONTEXT" (Sergei LOZNITSA, Ukraine) [Out Of Competition] Special Screening
  
 "H6" (Yé Yé, France) [Out Of Competition] Special Screening
  1st film
+
+#letterboxd
 
 "THE YEAR OF THE EVERLASTING STORM" (Jafar PANAHI Iran, Anthony CHEN Singapor), Malik VITTHAL USA), Laura POITRAS USA), Dominga SOTOMAYOR Chile), David LOWERY USA), Apichatpong WEERASETHAKUL Thailand) [Out Of Competition] Special Screening
 
