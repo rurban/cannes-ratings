@@ -1,6 +1,6 @@
 package Cannes::rurban::2021; # -*- perl -*-
 # Cannes 2021 Critics Ratings, July 6-17
-# Published at http://cannes-ratings.herokuapp.com/Cannes2020
+# Published at http://cannes-ratings.herokuapp.com/Cannes2021
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
 # US ratings:
@@ -63,9 +63,11 @@ Jennifer            2
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
 #letterboxd
+samy1985            10
 zohan25             10
 Patrick Devitt      9
 anh                 9
+Mumoo               8
 Gilberto Assoy      6
 missMarian          1
 
@@ -74,7 +76,6 @@ missMarian          1
 #letterboxd
 no_alarms           10
 rodrigort           10
-Annabel             10   https://letterboxd.com/crimson_peak/film/film:408274/
 AtK47               8
 EricEason           6
 
@@ -95,6 +96,8 @@ John                2
 Patrick Devitt      3
 
 "CASABLANCA BEATS" (Nabil AYOUCH, Morocco) [Competition]
+
+#letterboxd
 
 "HYTTI NRO 6 (COMPARTMENT NO.6)" (Juho KUOSMANEN, Finland) [Competition]
 
@@ -277,9 +280,12 @@ Libby               8
 
 "BAC NORD" (Cédric JIMENEZ, France) [Out Of Competition]
  
+Letterboxd 34_Ratings	7.4  https://letterboxd.com/film/bac-nord/
 
-"ALINE, THE VOICE OF LOVE" (Valérie LEMERCIER, France) [Out Of Competition]
+"ALINE, THE VOICE OF LOVE (The Power Of Love)" (Valérie LEMERCIER, France) [Out Of Competition]
  
+Letterboxd 40_Ratings	5.8  https://letterboxd.com/film/the-power-of-love-2020/
+
 "STILLWATER" (Tom MCCARTHY, USA) [Out Of Competition]
  
 #letterboxd
@@ -336,6 +342,7 @@ Patrick Devitt      3
 "VAL" (Ting POO/Leo SCOTT, USA) [Out Of Competition] Premiere
 
 #letterboxd
+Anthony L.          8
 
 "JFK REVISITED: THROUGH THE LOOKING GLASS" (Oliver STONE, USA) [Out Of Competition] Premiere
 	
@@ -355,6 +362,8 @@ Patrick Devitt      4
 
 "BABI YAR. CONTEXT" (Sergei LOZNITSA, Ukraine) [Out Of Competition] Special Screening
  
+#letterboxd
+
 "H6" (Yé Yé, France) [Out Of Competition] Special Screening
  1st film
 
