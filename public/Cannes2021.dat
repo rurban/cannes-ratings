@@ -48,8 +48,8 @@ our $DATA= <<'EOF';
 #letterboxd
 kettreen            10   https://letterboxd.com/kettreen/film/annette/
 abigailmayo         10
-Patrick Devitt      8
 BojackManMan        8
+Martin Scorsese     6   https://letterboxd.com/martenscorcese/film/annette/
 Patrick Danaher     4
 Celena              3
 
@@ -66,9 +66,10 @@ Jennifer            2
 Talz Lu Mango       10   https://letterboxd.com/akilahamat123/film/benedetta/
 samy1985            10
 zohan25             10
-Patrick Devitt      9
 anh                 9
+thierryjousse       8
 Mumoo               8
+Esafrez             7
 Gilberto Assoy      6
 missMarian          1
 
@@ -78,11 +79,15 @@ missMarian          1
 no_alarms           10
 rodrigort           10
 AtK47               8
+Catowitz            6
 EricEason           6
 
 "DRIVE MY CAR" (Ryusuke HAMAGUCHI, Japan) [Competition]
 
 #letterboxd
+thierryjousse       9
+táltos              9
+ludovicbeot         8
 Bai Yutong          5
 
 "FLAG DAY" (Sean PENN, USA) [Competition]
@@ -128,7 +133,7 @@ lady bird           7
 "MEMORIA" (Apichatpong WEERASETHAKUL, Thaïland) [Competition]
 
 #letterboxd
-Patrick Devitt      9
+EnergyJavelin       10
 Bai Yutong          5
 Charlie Johansson   2
 
@@ -136,7 +141,6 @@ Charlie Johansson   2
 
 #letterboxd
 2001emo             10   https://letterboxd.com/2001emo/film/nitram/
-Patrick Devitt      2
 Conchobarre         1
 
 "FRANCE" (Bruno DUMONT, France) [Competition]
@@ -154,7 +158,7 @@ Patrick Devitt      1
 "RED ROCKET" (Sean BAKER, USA) [Competition]
 
 #letterboxd
-Carson Brown        10   https://letterboxd.com/carsonbrown4/film/film:683620/
+Carson Brown        10   https://letterboxd.com/carsonbrown4/film/red-rocket-2021/
 Glenn Abegonia      6
 
 "THE FRENCH DISPATCH" (Wes ANDERSON, USA) [Competition]
@@ -174,6 +178,8 @@ Glenn Abegonia      6
 Un Certain Regard
 
 #letterboxd
+Alex Costin         10
+Esafrez             7
 Kavehpd             7
 Aman Shivhare       2
 
@@ -335,12 +341,13 @@ Clémence            7
  
 #letterboxd
 Riccardo Turchi     10   https://letterboxd.com/richit/film/in-front-of-your-face/
+Felipe Piacente     8
 Morris Yang         8   https://letterboxd.com/metamodernmarx/film/in-front-of-your-face/
 
 "MOTHERING SUNDAY" (Eva HUSSON, France) [Out Of Competition] Premiere
 	
 #letterboxd
-Patrick Devitt      3
+Rp12                6
 
 "EVOLUTION" (Kornél MUNDRUCZO, Hungary) [Out Of Competition] Premiere
 
@@ -412,6 +419,7 @@ Patrick Devitt      3
 "The Tsugua Diaries" (Miguel Gomes, Maureen Fazendeiro, Portugal) [Quinzaine]
 
 #letterboxd
+ludovicbeot         7
 
 "The Employer and the Employee" (Manuel Nieto Zas, Uruguay/Argentina/France) [Quinzaine]
 
@@ -424,6 +432,7 @@ Patrick Devitt      3
 "Europa" (Haider Rashid, Iraq/Italy) [Quinzaine]
 
 #letterboxd
+Arthur Cios         4
 
 "Futura" (Pietro Marcello, Alice Rohrwacher, Francesco Munzi, Italy) [Quinzaine]
 
@@ -527,6 +536,7 @@ adsfghj             4
 #letterboxd
 Shubhra             7
 valentinkoe         6
+ludovicbeot         5
 
 "Libertad" (Clara Roquet, Spain/Belgium) [Semaine]
 
