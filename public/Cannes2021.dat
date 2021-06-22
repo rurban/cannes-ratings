@@ -48,6 +48,7 @@ our $DATA= <<'EOF';
 #letterboxd
 kettreen            10   https://letterboxd.com/kettreen/film/annette/
 abigailmayo         10
+Kaysont             8
 BojackManMan        8
 Martin Scorsese     6   https://letterboxd.com/martenscorcese/film/annette/
 Patrick Danaher     4
@@ -67,6 +68,7 @@ Talz Lu Mango       10   https://letterboxd.com/akilahamat123/film/benedetta/
 samy1985            10
 zohan25             10
 anh                 9
+Kaysont             8
 thierryjousse       8
 Mumoo               8
 Esafrez             7
@@ -79,6 +81,7 @@ missMarian          1
 no_alarms           10
 rodrigort           10
 AtK47               8
+táltos              7
 Catowitz            6
 EricEason           6
 
@@ -93,6 +96,7 @@ Bai Yutong          5
 "FLAG DAY" (Sean PENN, USA) [Competition]
 
 #letterboxd
+Oriana Nudo         6
 camile              4
 John                2
 
@@ -133,7 +137,6 @@ lady bird           7
 "MEMORIA" (Apichatpong WEERASETHAKUL, Thaïland) [Competition]
 
 #letterboxd
-EnergyJavelin       10
 Bai Yutong          5
 Charlie Johansson   2
 
@@ -180,7 +183,7 @@ Un Certain Regard
 #letterboxd
 Alex Costin         10
 Esafrez             7
-Kavehpd             7
+Ali Shakoori        6
 Aman Shivhare       2
 
 "MONEYBOYS" (C.B Yi, Austria) [Un Certain Regard]
@@ -221,7 +224,7 @@ Renato Guido        7
 
 #letterboxd
 JamesRisk           7
-Morris Yang         6   https://letterboxd.com/metamodernmarx/film/lamb-1/
+Morris Yang         6   https://letterboxd.com/metamodernmarx/film/film:707114/
 
 "COMMITMENT HASAN" (Hasan Semih KAPLANOGLU, Turkey) [Un Certain Regard]
 
@@ -284,7 +287,7 @@ seb719              8
 "THE VELVET UNDERGROUND" (Todd HAYNES, USA) [Out Of Competition]
  
 #letterboxd
-alln_sucks          10   https://letterboxd.com/alln_sucks/film/film:472797/
+alln_sucks          10   https://letterboxd.com/alln_sucks/film/the-velvet-underground-2021/
 M_S                 10
 Libby               8
 
@@ -303,6 +306,8 @@ Letterboxd 40_Ratings	5.8  https://letterboxd.com/film/the-power-of-love-2020/
 #letterboxd
 jorge lopez         10
 SID SARKAR          10
+rebecca             8
+Arno Ekmekji        8
 Matt_T              7
 prissan             6
 Natasha C.          3
@@ -318,6 +323,7 @@ Cannes Premiere
 "HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
 
 #letterboxd
+John                8
 
 "COW" (Andrea ARNOLD, UK) [Out Of Competition] Premiere
 
@@ -340,7 +346,7 @@ Clémence            7
 "IN FRONT OF YOUR FACE" (HONG Sang-Soo, Korea) [Out Of Competition] Premiere
  
 #letterboxd
-Riccardo Turchi     10   https://letterboxd.com/richit/film/in-front-of-your-face/
+Nikander            9
 Felipe Piacente     8
 Morris Yang         8   https://letterboxd.com/metamodernmarx/film/in-front-of-your-face/
 
@@ -413,8 +419,9 @@ lady bird           7
 
 #letterboxd
 Georges Aintablian  6
+táltos              5
+ludovicbeot         4
 Andrea Campinoti    4
-Patrick Devitt      3
 
 "The Tsugua Diaries" (Miguel Gomes, Maureen Fazendeiro, Portugal) [Quinzaine]
 
@@ -561,6 +568,9 @@ Special Screenings – Feature Films
 "Bruno Reidal, Confessions of a Murderer" (Vincent Le Port, France) [Semaine] Special
 
 "Softie" (Samuel Theis, France) [Semaine] Special
+
+#letterboxd
+Florent Boutet      6
 
 "A Radiant Girl" (Sandrine Kiberlain, France) [Semaine] Special
 
