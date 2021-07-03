@@ -46,12 +46,18 @@ our $DATA= <<'EOF';
  Opening Film
 
 #letterboxd
+Is math Related to science? 10
+rachmcd             10
 kettreen            10   https://letterboxd.com/kettreen/film/annette/
 abigailmayo         10
+Arthur Cios         9
+louislepron         9
+thierryjousse       8
+Esafrez             8
 Kaysont             8
 BojackManMan        8
 Ben Delgado         7
-Mumoo               6
+WaltNP              5
 Patrick Danaher     4
 Celena              3
 
@@ -59,13 +65,12 @@ Celena              3
 
 #letterboxd
 deadlock            8
-Patrick Devitt      7
+Esafrez             7
 Jennifer            2
 
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
 #letterboxd
-samy1985            10
 zohan25             10
 anh                 9
 Kaysont             8
@@ -81,6 +86,7 @@ missMarian          1
 #letterboxd
 no_alarms           10
 rodrigort           10
+louislepron         8
 AtK47               8
 táltos              7
 Catowitz            6
@@ -98,6 +104,7 @@ Bai Yutong          5
 
 #letterboxd
 camile              4
+JamesRisk           3
 John                2
 
 "HA'BERECH (AHED’S KNEE)" (Nadav LAPID, Israel) [Competition]
@@ -108,8 +115,11 @@ Patrick Devitt      3
 "CASABLANCA BEATS" (Nabil AYOUCH, Morocco) [Competition]
 
 #letterboxd
+táltos              8
 
 "HYTTI NRO 6 (COMPARTMENT NO.6)" (Juho KUOSMANEN, Finland) [Competition]
+
+#letterboxd
 
 "THE WORST PERSON IN THE WORLD" (Joachim TRIER, Norway) [Competition]
 
@@ -144,6 +154,7 @@ Charlie Johansson   2
 
 #letterboxd
 2001emo             10   https://letterboxd.com/2001emo/film/nitram/
+Morris Yang         6   https://letterboxd.com/metamodernmarx/film/nitram/
 Conchobarre         1
 
 "FRANCE" (Bruno DUMONT, France) [Competition]
@@ -161,6 +172,7 @@ Patrick Devitt      1
 "RED ROCKET" (Sean BAKER, USA) [Competition]
 
 #letterboxd
+gay twentyfour      10   https://letterboxd.com/gaytwentyfour/film/red-rocket-2021/
 Carson Brown        10   https://letterboxd.com/carsonbrown4/film/red-rocket-2021/
 Glenn Abegonia      6
 
@@ -171,6 +183,9 @@ Glenn Abegonia      6
 "TITANE" (Julia DUCOURNAU, France) [Competition]
 
 #letterboxd
+Wyche               10
+Arthur Cios         9
+louislepron         9
 
 "TRE PIANI" (Nanni MORETTI, Italy) [Competition]
 
@@ -224,10 +239,12 @@ Renato Guido        7
 #letterboxd
 Ben Clay            9
 JamesRisk           7
+Luke Murray         6
 peachfuzz           6
 Morris Yang         6   https://letterboxd.com/metamodernmarx/film/film:707114/
+louislepron         5
 ludovicbeot         5
-Arthur Cios         5
+Arthur Cios         4
 
 "COMMITMENT HASAN" (Hasan Semih KAPLANOGLU, Turkey) [Un Certain Regard]
 
@@ -239,16 +256,16 @@ Arthur Cios         5
 
 #letterboxd
 rhan888             10
-kristoffersu99      10
 AZ123456            9
 Patrick Danaher     7
-Patrick Devitt      4
+jenni               3
 
 "UNCLENCHING THE FISTS" (Kira KOVALENKO, Russia) [Un Certain Regard]
 
 "WOMEN DO CRY (Mina MILEVA/Vesela KAZAKOVA, Bulgaria) [Un Certain Regard]
 
 #letterboxd
+Morris Yang         8   https://letterboxd.com/metamodernmarx/film/unclenching-the-fists/
 
 "REHANA MARYAM NOOR" (Abdullah Mohammad SAAD, Bangladesh) [Un Certain Regard]
 
@@ -292,6 +309,7 @@ seb719              8
 #letterboxd
 alln_sucks          10   https://letterboxd.com/alln_sucks/film/the-velvet-underground-2021/
 M_S                 10
+Conner Reed         8   https://letterboxd.com/cjreed/film/the-velvet-underground-2021/
 Libby               8
 
 "BAC NORD" (Cédric JIMENEZ, France) [Out Of Competition]
@@ -312,10 +330,11 @@ SID SARKAR          10
 rebecca             8
 Arno Ekmekji        8
 Matt_T              7
+Dryope              6
+mamouyal            6
 prissan             6
+ali                 4
 Natasha C.          3
- 
-Midnight Screenings
 
 "BLOODY ORANGES" (Jean-Christophe MEURISSE, France) [Out Of Competition] Midnight
 	
@@ -335,10 +354,12 @@ John                8
 "LOVE SONGS FOR TOUGH GUYS" (Samuel BENCHETRIT, France) [Out Of Competition] Premiere
 
 #letterboxd
+Arthur Cios         5
 
 "DECEPTION" (Arnaud DESPLECHIN, France) [Out Of Competition] Premiere
  
 #letterboxd
+ludovicbeot         6
 anyafilms           5
 
 "JANE PAR CHARLOTTE" (Charlotte GAINSBOURG, France) [Out Of Competition] Premiere
@@ -351,6 +372,7 @@ Clémence            7
 "IN FRONT OF YOUR FACE" (HONG Sang-Soo, Korea) [Out Of Competition] Premiere
  
 #letterboxd
+Peter Kelly         10
 Nikander            9
 Felipe Piacente     8
 Morris Yang         8   https://letterboxd.com/metamodernmarx/film/in-front-of-your-face/
@@ -442,11 +464,12 @@ jessimna            6
 "The Braves" (Anaïs Volpé, France) [Quinzaine]
 
 #letterboxd
+louislepron         7
 
 "Europa" (Haider Rashid, Iraq/Italy) [Quinzaine]
 
 #letterboxd
-Arthur Cios         4
+Arthur Cios         3
 
 "Futura" (Pietro Marcello, Alice Rohrwacher, Francesco Munzi, Italy) [Quinzaine]
 
@@ -470,11 +493,14 @@ Arthur Cios         4
 
 
 #letterboxd
+ludovicbeot         4
 
 "Medusa" (Anita Rocha da Silveira, Brazil) [Quinzaine]
 
 
 #letterboxd
+JamesRisk           6
+Luke Murray         4
 
 "Murina" (Antoneta Alamat Kusijanović, Croatia/Brasil/USA/Slovenia) [Quinzaine]
 
@@ -519,7 +545,6 @@ Clémence            8
 
 #letterboxd
 Leo Freezer         10
-kristoffersu99      10
 kunkadunk           10
 Cory_M              8
 Phoebe              7
@@ -550,6 +575,7 @@ adsfghj             4
 
 #letterboxd
 Shubhra             7
+JamesRisk           6
 valentinkoe         6
 ludovicbeot         5
 
@@ -574,6 +600,8 @@ Special Screenings – Feature Films
 "Anaïs in Love" (Charline Bourgeois-Tacquet, France) [Semaine] Special
 
 #letterboxd
+Simone              7
+John Tikis          6
 Marco Tulio Pires   6
 
 "Bruno Reidal, Confessions of a Murderer" (Vincent Le Port, France) [Semaine] Special
