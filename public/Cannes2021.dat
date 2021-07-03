@@ -46,7 +46,6 @@ our $DATA= <<'EOF';
  Opening Film
 
 #letterboxd
-Is math Related to science? 10
 rachmcd             10
 kettreen            10   https://letterboxd.com/kettreen/film/annette/
 abigailmayo         10
@@ -82,7 +81,6 @@ fannyfiona          10   https://letterboxd.com/fannyfiona/film/the-worst-person
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
 #letterboxd
-zohan25             10
 anh                 9
 Kaysont             8
 thierryjousse       8
@@ -225,6 +223,10 @@ seb719              8
 "AFTER YANG" (KOGONADA, USA) [Un Certain Regard]
 
 #letterboxd
+rhan888             10
+AZ123456            9
+Patrick Danaher     7
+jenni               3
 
 "DELO (HOUSE ARREST)" (Alexey GERMAN JR., Russia) [Un Certain Regard]
 
@@ -236,6 +238,9 @@ seb719              8
 #letterboxd
 
 "UNCLENCHING THE FISTS" (Kira KOVALENKO, Russia) [Un Certain Regard]
+
+#letterboxd
+Morris Yang         8   https://letterboxd.com/metamodernmarx/film/unclenching-the-fists/
 
 "BONNE MÈRE" (Hafsia HERZI, France) [Un Certain Regard]
 
@@ -366,6 +371,7 @@ Natasha C.          3
 "SUPRÊMES" (Audrey ESTROUGO, France) [Out Of Competition] Midnight
 	
 #letterboxd
+Arthur Cios         8
 
 "TRALALA" (Arnaud & Jean-Marie LARRIEU, France) [Out Of Competition] Midnight
 	
@@ -377,6 +383,9 @@ Natasha C.          3
 
 
 Cannes Premiere
+
+#letterboxd
+Arthur Cios         8
 
 "HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
 
@@ -429,6 +438,8 @@ Anthony L.          8
 
 "MARX PUÒ ASPETTARE" (Marco BELLOCCHIO, Italy)
 
+#letterboxd
+
 "JFK REVISITED: THROUGH THE LOOKING GLASS" (Oliver STONE, USA) [Out Of Competition] Premiere
 
 #letterboxd
@@ -467,6 +478,9 @@ QUINZAINE
 Patrick Devitt      6
 
 "Monrovia, Indiana" (Frederick Wiseman, USA) [Quinzaine]
+
+#letterboxd
+Letterboxd 500_Ratings	8.6  https://letterboxd.com/film/monrovia-indiana/
 
 "The Souvenir" (Joanna Hogg, UK/USA) [Quinzaine]
  Special Screening
