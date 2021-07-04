@@ -46,7 +46,6 @@ our $DATA= <<'EOF';
  Opening Film
 
 #letterboxd
-abigailmayo         10
 Arthur Cios         9
 louislepron         9
 thierryjousse       8
@@ -79,7 +78,6 @@ fannyfiona          10   https://letterboxd.com/fannyfiona/film/the-worst-person
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
 #letterboxd
-thierryjousse       8
 Mumoo               8
 Esafrez             7
 Gilberto Assoy      6
@@ -438,7 +436,7 @@ Moviebuffgrant Grant Atkins 10
 Nero Fantasy        10
 yuukihari           8   https://letterboxd.com/yuukihari/film/belle-2021/
 
-"MARX PUÒ ASPETTARE" (Marco BELLOCCHIO, Italy) [Out Of Competition] Premiere
+"MARX CAN WAIT (Marx può aspettare)" (Marco BELLOCCHIO, Italy) [Out Of Competition] Premiere
 
 #letterboxd
 
