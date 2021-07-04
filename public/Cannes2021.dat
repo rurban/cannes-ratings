@@ -46,6 +46,7 @@ our $DATA= <<'EOF';
  Opening Film
 
 #letterboxd
+Letterboxd 14_Ratings	7.8  https://letterboxd.com/film/annette/
 Arthur Cios         9
 louislepron         9
 thierryjousse       8
@@ -78,6 +79,7 @@ fannyfiona          10   https://letterboxd.com/fannyfiona/film/the-worst-person
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
 #letterboxd
+Letterboxd 14_Ratings	7.7  https://letterboxd.com/film/benedetta/
 Mumoo               8
 Esafrez             7
 Gilberto Assoy      6
@@ -133,6 +135,7 @@ Patrick Devitt      1
 "THE FRENCH DISPATCH" (Wes ANDERSON, USA) [Competition]
 
 #letterboxd
+Letterboxd 199_Ratings	8.1  https://letterboxd.com/film/the-french-dispatch/
 
 "A HEROS" (Asghar FARHADI, Iran) [Competition]
 
@@ -308,7 +311,7 @@ Renato Guido        7
 
 OUT OF COMPETITION
 
-"DE SON VIVANT" (Emmanuelle BERCOT, France) [Out Of Competition]
+"PEACEFUL (De son vivant)" (Emmanuelle BERCOT, France) [Out Of Competition]
 
 #letterboxd
 
@@ -329,7 +332,7 @@ Letterboxd 34_Ratings	7.4  https://letterboxd.com/film/bac-nord/
 "ALINE, THE VOICE OF LOVE (The Power Of Love)" (Valérie LEMERCIER, France) [Out Of Competition]
  
 #letterboxd
-Letterboxd 40_Ratings	5.8  https://letterboxd.com/film/the-power-of-love-2020/
+Letterboxd 43_Ratings	5.9  https://letterboxd.com/film/aline-2020-1/
 
 "STILLWATER" (Tom MCCARTHY, USA) [Out Of Competition]
  
@@ -348,11 +351,13 @@ Natasha C.          3
 "WHERE IS ANNE FRANK" (Ari FOLMAN, Israel)  [Out Of Competition]
 
 #letterboxd
+Letterboxd 13_Ratings	8.2  https://letterboxd.com/film/where-is-anne-frank/
 
-"FROM AFRICA WITH LOVE (OSS 117 – ALERTE ROUGE EN AFRIQUE NOIRE" (Nicolas BEDOS, France)  [Out Of Competition]
+"OSS 117: From Africa with Love" (Nicolas BEDOS, France)  [Out Of Competition]
  Closing film
 
 #letterboxd
+Letterboxd 15_Ratings	5.9  https://letterboxd.com/film/oss-117-from-africa-with-love/
 
 "BLOODY ORANGES" (Jean-Christophe MEURISSE, France) [Out Of Competition] Midnight
 	
@@ -432,7 +437,7 @@ Anthony L.          8
 "BELLE" (HOSODA Mamoru) [Out Of Competition] Premiere
 
 #letterboxd
-Moviebuffgrant Grant Atkins 10
+Grant Atkins        10
 Nero Fantasy        10
 yuukihari           8   https://letterboxd.com/yuukihari/film/belle-2021/
 
@@ -445,6 +450,10 @@ yuukihari           8   https://letterboxd.com/yuukihari/film/belle-2021/
 #letterboxd
 	
 SPECIAL SCREENINGS
+
+"ARE YOU LONESOME TONIGHT?" (WEN Shipei, China)  [Out Of Competition] Special Screening
+
+Letterboxd 58_Ratings	6.3  https://letterboxd.com/film/are-you-lonesome-tonight-2021/
 
 "O MARINHEIRO DAS MONTANHAS (MARINER OF THE MOUNTAINS)" (Karim AÏNOUZ, Brazil) [Out Of Competition] Special Screening
  
@@ -468,6 +477,38 @@ Patrick Devitt      4
 "THE YEAR OF THE EVERLASTING STORM" (Jafar PANAHI Iran, Anthony CHEN Singapor), Malik VITTHAL USA), Laura POITRAS USA), Dominga SOTOMAYOR Chile), David LOWERY USA), Apichatpong WEERASETHAKUL Thailand) [Out Of Competition] Special Screening
 
 #letterboxd
+
+"Mi iubita, mon amour" (Noémie Merlant)  [Out Of Competition] Special Screening
+
+"New Worlds, The Cradle of Civilization" (Andrew J. Muscato)  [Out Of Competition] Special Screening
+
+"The Heroics" (Maxime Roy, France) [Out Of Competition] Special Screening
+
+"The Crusade" (Louis Garrel, France) [Out Of Competition] Special Screening
+
+"Marcher sur l'eau" (Aïssa Maïga, France) [Out Of Competition] Special Screening
+ 1st film
+
+"Invisible Demons" (Rahul Jain, France) [Out Of Competition] Special Screening
+
+"Animal" (Cyril Dion, France) [Out Of Competition] Special Screening
+
+#letterboxd
+Bai Yutong          7
+
+"I Am So Sorry" (Zhao Liang, China) [Out Of Competition] Special Screening
+ Documentary
+
+#letterboxd
+Bai Yutong          6
+
+"Bigger Than Us" (Flore Vasseur, France) [Out Of Competition] Special Screening
+ Documentary
+
+
+"The Velvet Queen (La Panthère des neiges)" (Marie Amiguet, France) [Out Of Competition] Special Screening
+ Documentary
+
 
 QUINZAINE
 
