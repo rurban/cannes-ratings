@@ -46,7 +46,6 @@ our $DATA= <<'EOF';
  Opening Film
 
 #letterboxd
-rachmcd             10
 kettreen            10   https://letterboxd.com/kettreen/film/annette/
 abigailmayo         10
 Arthur Cios         9
@@ -81,7 +80,6 @@ fannyfiona          10   https://letterboxd.com/fannyfiona/film/the-worst-person
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
 #letterboxd
-anh                 9
 Kaysont             8
 thierryjousse       8
 Mumoo               8
@@ -386,6 +384,7 @@ Cannes Premiere
 
 #letterboxd
 Arthur Cios         8
+JohnLoque           6
 
 "HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
 
