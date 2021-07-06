@@ -47,9 +47,9 @@ our $DATA= <<'EOF';
 
 #letterboxd
 Letterboxd 14_Ratings	7.8  https://letterboxd.com/film/annette/
-Arthur Cios         9
-louislepron         9
-thierryjousse       8
+lucia               10   https://letterboxd.com/lucynema/film/annette/
+grouchoromano       8
+PascalW             2
 Esafrez             8
 Kaysont             8
 BojackManMan        8
@@ -119,6 +119,7 @@ Bai Yutong          5
 #letterboxd
 no_alarms           10
 rodrigort           10
+Morris Yang         8   https://letterboxd.com/metamodernmarx/film/film:408274/
 louislepron         8
 AtK47               8
 táltos              7
@@ -136,6 +137,8 @@ Patrick Devitt      1
 
 #letterboxd
 Letterboxd 199_Ratings	8.1  https://letterboxd.com/film/the-french-dispatch/
+dowin dowin         10   https://letterboxd.com/dowin04/film/the-french-dispatch/
+adam_b70            8
 
 "A HEROS" (Asghar FARHADI, Iran) [Competition]
 
@@ -263,6 +266,7 @@ jenni               3
  1st film
 
 #letterboxd
+Noah Heinrich       6
 
 "MY BROTHERS AND I" (Yohan MANCA, France) [Un Certain Regard]
 
@@ -271,13 +275,17 @@ jenni               3
 
 #letterboxd
 Ben Clay            9
+Antoine Waked       7
 JamesRisk           7
+Pincent             6
 Luke Murray         6
 peachfuzz           6
 Morris Yang         6   https://letterboxd.com/metamodernmarx/film/film:707114/
 louislepron         5
 ludovicbeot         5
 Arthur Cios         4
+reedie              3
+Simone              2
 
 "STREETWISE (GAEY WA'R)" (NA Jiazuo, China) [Un Certain Regard]
  1st film
@@ -375,6 +383,7 @@ Arthur Cios         8
 "EMERGENCY DECLARATION (BI-SANG-SEON-EON)" (HAN Jae-Rim, Korea) [Out Of Competition] Midnight
 
 #letterboxd
+Adrián Peña         8
 
 "VORTEX" (Gaspar NOÉ, France) [Out Of Competition] Midnight
 
@@ -388,15 +397,19 @@ JohnLoque           6
 "HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
 
 #letterboxd
+louislepron         8
 John                8
 
 "COW" (Andrea ARNOLD, UK) [Out Of Competition] Premiere
 
 #letterboxd
+Morris Yang         6   https://letterboxd.com/metamodernmarx/film/film:586741/
+kerem_akca          5
 
 "LOVE SONGS FOR TOUGH GUYS" (Samuel BENCHETRIT, France) [Out Of Competition] Premiere
 
 #letterboxd
+Luke Murray         8
 Arthur Cios         5
 
 "DECEPTION" (Arnaud DESPLECHIN, France) [Out Of Competition] Premiere
@@ -448,13 +461,15 @@ yuukihari           8   https://letterboxd.com/yuukihari/film/belle-2021/
 "JFK REVISITED: THROUGH THE LOOKING GLASS" (Oliver STONE, USA) [Out Of Competition] Premiere
 
 #letterboxd
-	
+JamesRisk           6
 SPECIAL SCREENINGS
 
 "ARE YOU LONESOME TONIGHT?" (WEN Shipei, China)  [Out Of Competition] Special Screening
   China Release
 
+#letterboxd
 Letterboxd 58_Ratings	6.3  https://letterboxd.com/film/are-you-lonesome-tonight-2021/
+BrandoHu            6
 
 "O MARINHEIRO DAS MONTANHAS (MARINER OF THE MOUNTAINS)" (Karim AÏNOUZ, Brazil) [Out Of Competition] Special Screening
  
@@ -481,21 +496,35 @@ Patrick Devitt      4
 
 "Mi iubita, mon amour" (Noémie Merlant)  [Out Of Competition] Special Screening
 
+#letterboxd
+
 "New Worlds, The Cradle of Civilization" (Andrew J. Muscato)  [Out Of Competition] Special Screening
+
+#letterboxd
 
 "The Heroics" (Maxime Roy, France) [Out Of Competition] Special Screening
 
+#letterboxd
+
 "The Crusade" (Louis Garrel, France) [Out Of Competition] Special Screening
+
+#letterboxd
 
 "Marcher sur l'eau" (Aïssa Maïga, France) [Out Of Competition] Special Screening
  1st film
 
+#letterboxd
+Luke Murray         6
+
 "Invisible Demons" (Rahul Jain, France) [Out Of Competition] Special Screening
+
+#letterboxd
 
 "Animal" (Cyril Dion, France) [Out Of Competition] Special Screening
 
 #letterboxd
 Bai Yutong          7
+Luke Murray         5
 
 "I Am So Sorry" (Zhao Liang, China) [Out Of Competition] Special Screening
  Documentary
@@ -507,9 +536,13 @@ Bai Yutong          6
  Documentary
 
 
+#letterboxd
+
 "The Velvet Queen (La Panthère des neiges)" (Marie Amiguet, France) [Out Of Competition] Special Screening
  Documentary
 
+
+#letterboxd
 
 QUINZAINE
 
@@ -517,7 +550,8 @@ QUINZAINE
  Opening film
 
 #letterboxd
-Patrick Devitt      6
+JamesRisk           8
+Luke Murray         6
 
 "Monrovia, Indiana" (Frederick Wiseman, USA 2018) [Quinzaine] <i>>Philadelphia</i>
 
@@ -529,6 +563,10 @@ Letterboxd 500_Ratings	8.6  https://letterboxd.com/film/monrovia-indiana/
 
 #letterboxd
 Letterboxd 100_Ratings	7.4  https://letterboxd.com/film/the-souvenir/
+BrianSexton21       10
+Kipaya              10
+Amy                 10   https://letterboxd.com/elementress7713/film/the-souvenir/
+Lucius Bennison     10
 
 "The Souvenir Part II" (Joanna Hogg, UK/USA) [Quinzaine]
 
@@ -541,11 +579,15 @@ Phoebe              7
 "Clara Sola" (Nathalie Álvarez Mesen, Sweden/France/Germany/Belgium/Costa Rica/USA) [Quinzaine]
 
 #letterboxd
+VeRo__              8
 lady bird           7
 
 "The Hill Where Lionesses Roar" (Luàna Bajrami, Kosovo/France) [Quinzaine]
 
 #letterboxd
+Luke Murray         6
+kerem_akca          5
+JamesRisk           5
 
 "A Chiara" (Jonas Carpignano, Italy/France/USA) [Quinzaine]
 
@@ -572,6 +614,7 @@ jessimna            6
 "Murina" (Antoneta Alamat Kusijanović, Croatia/Brasil/USA/Slovenia) [Quinzaine]
 
 #letterboxd
+kerem_akca          4
 
 "Întregalde" (Radu Muntean, Romania) [Quinzaine]
 
@@ -581,6 +624,8 @@ jessimna            6
 
 #letterboxd
 JamesRisk           6
+𝔓𝔞𝔱𝔱𝔶 🎃             4
+Josh @ The Movies   4
 Luke Murray         4
 
 "Futura" (Pietro Marcello/Alice Rohrwacher/Francesco Munzi, Italy) [Quinzaine]
@@ -595,6 +640,7 @@ Maya                6
 "The Tsugua Diaries" (Miguel Gomes/Maureen Fazendeiro, Portugal) [Quinzaine]
 
 #letterboxd
+Morris Yang         7   https://letterboxd.com/metamodernmarx/film/the-tsugua-diaries/
 ludovicbeot         7
 
 "The Sea Ahead" (Ely Dagher, Lebanon/Belgium/France) [Quinzaine]
@@ -609,6 +655,7 @@ Clémence            8
 "The Braves" (Anaïs Volpé, France) [Quinzaine]
 
 #letterboxd
+Dianareveuse        8
 louislepron         7
 
 "Europa" (Haider Rashid, Iraq/Italy) [Quinzaine]
@@ -655,6 +702,7 @@ SEMAINE
 
 #letterboxd
 Shubhra             7
+Luke Murray         6
 JamesRisk           6
 valentinkoe         6
 ludovicbeot         5
@@ -666,6 +714,7 @@ ludovicbeot         5
 "A Radiant Girl" (Sandrine Kiberlain, France) [Semaine] Special
 
 #letterboxd
+Benji Tamir         8
 
 "Olga" (Elie Grappe, Switzerland/Ukraine/France) [Semaine]
 
@@ -686,6 +735,8 @@ John Tikis          6
 Marco Tulio Pires   6
 
 "Zero Fucks Given (Rien à foutre)" (Julie Lecoustre/Emmanuel Marre, Belgium/France) [Semaine]
+
+#letterboxd
 
 "Amparo" (Simón Mesa Soto, Colombia/Sweden/Germany/Qatar) [Semaine]
 
