@@ -47,7 +47,9 @@ our $DATA= <<'EOF';
 
 #letterboxd
 Letterboxd 14_Ratings	7.8  https://letterboxd.com/film/annette/
+aiden               10
 lucia               10   https://letterboxd.com/lucynema/film/annette/
+Sarachi _she/her_   9   https://letterboxd.com/achiii/film/annette/
 grouchoromano       8
 PascalW             2
 Esafrez             8
@@ -78,6 +80,7 @@ fannyfiona          10   https://letterboxd.com/fannyfiona/film/the-worst-person
 
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
+Zack Sharf             https://www.indiewire.com/2021/05/benedetta-trailer-paul-verhoeven-erotic-lesbian-nun-1234635209/
 #letterboxd
 Letterboxd 14_Ratings	7.7  https://letterboxd.com/film/benedetta/
 Mumoo               8
@@ -149,6 +152,7 @@ Aman Shivhare       2
 
 "TITANE" (Julia DUCOURNAU, France) [Competition]
 
+Zack Sharf             https://www.indiewire.com/2021/06/titane-trailer-julia-ducournau-1234645715/
 #letterboxd
 Wyche               10
 Arthur Cios         9
@@ -175,6 +179,7 @@ Jennifer            2
 "MEMORIA" (Apichatpong WEERASETHAKUL, Thaïland) [Competition]
 
 #letterboxd
+Markowsky           8
 Bai Yutong          5
 Charlie Johansson   2
 
@@ -389,6 +394,7 @@ Adrián Peña         8
 
 
 Cannes Premiere
+Zack Sharf             https://www.indiewire.com/2021/06/vortex-first-look-gaspar-noe-1234643859/
 
 #letterboxd
 Arthur Cios         8
@@ -492,6 +498,7 @@ Patrick Devitt      4
 
 "THE YEAR OF THE EVERLASTING STORM" (Jafar PANAHI Iran, Anthony CHEN Singapor), Malik VITTHAL USA), Laura POITRAS USA), Dominga SOTOMAYOR Chile), David LOWERY USA), Apichatpong WEERASETHAKUL Thailand) [Out Of Competition] Special Screening
 
+Ryan Lattanzio         https://www.indiewire.com/2021/06/year-of-the-everlasting-storm-trailer-neon-secret-omnibus-film-1234642133/
 #letterboxd
 
 "Mi iubita, mon amour" (Noémie Merlant)  [Out Of Competition] Special Screening
@@ -631,6 +638,7 @@ Luke Murray         4
 "Futura" (Pietro Marcello/Alice Rohrwacher/Francesco Munzi, Italy) [Quinzaine]
 
 #letterboxd
+Markowsky           7
 
 "Neptune Frost" (Saul Williams/Anisia Uzeyman, Rwanda/USA) [Quinzaine]
 
