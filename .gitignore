@@ -9,6 +9,7 @@ todas20[0-9][0-9].dat
 todas20[0-9][0-9].html
 /Critic.de.pl
 /Critic.de.berlin.pl
+Critic.de.old.dat
 Critic.de.dat.old
 Critic.de.html
 Critic.de.dat
@@ -17,9 +18,7 @@ insert-[bcs][12][0-9]
 ber[12][0-9]/
 sun[12][0-9]/
 c[12][0-9]/
-/b21-auto.sh
-/b20-auto.sh
-/s21-auto.sh
+/[sbc]2*-auto.sh
 /20*.pl
 *.dat.bak
 /dkstjernebarometer.pl
