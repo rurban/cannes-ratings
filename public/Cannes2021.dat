@@ -4147,9 +4147,6 @@ Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
-";
-$critics_group[$i] = "Letterboxd";
-$critics[$i++] = "
 Aaron Salazar (Filmmaker, USA)
 Alexis Chrys (Filmbuff, Greece)
 Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
