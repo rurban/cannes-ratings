@@ -580,20 +580,20 @@ Stéphanie Belpèche       1
 Charlotte Lipinska       2.5
 Yves Jaeglé              5
 # ioncinema
-Marta Balaga              
-Nicholas Bell             
+Marta Balaga              2
+Nicholas Bell             7
 Julia Blaga               6 
 John Bleasadale           7
 Nat Chifflet              8
 Jason Gorber              
-Jean-Philippe Guerand     
+Jean-Philippe Guerand     5
 Carlos F. Heredero        2
 Dubravka Lakic            7
 Eric Lavallée             6
 Fabien Lemercier          4
 Liu Min                   4
 Marc-André Lussier        6
-Elli Mastorou             
+Elli Mastorou             7
 Jordan Ruimy              4
 Kuriko Sato               
 Cédric Succivalli         
@@ -742,9 +742,9 @@ Stéphanie Belpèche       5
 Charlotte Lipinska       7.5
 Yves Jaeglé              9
 # ioncinema
-Marta Balaga              
-Nicholas Bell             
-Julia Blaga               
+Marta Balaga              6
+Nicholas Bell             4
+Julia Blaga               4
 John Bleasadale           7
 Nat Chifflet              6
 Jason Gorber              7
@@ -758,7 +758,7 @@ Marc-André Lussier        7
 Elli Mastorou             7
 Jordan Ruimy              
 Kuriko Sato               6
-Cédric Succivalli         
+Cédric Succivalli         6
 Anna Tatarska             7
 Meredith Taylor           8
 Maria Ulfsak-Sheripova    7
@@ -822,25 +822,25 @@ Charlotte Lipinska       2.5
 Yves Jaeglé              7.5
 # ioncinema
 Marta Balaga              
-Nicholas Bell             
+Nicholas Bell             6
 Julia Blaga               
-John Bleasadale           
+John Bleasadale           5
 Nat Chifflet              
 Jason Gorber              
-Jean-Philippe Guerand     
+Jean-Philippe Guerand     7
 Carlos F. Heredero        
-Dubravka Lakic            
+Dubravka Lakic            6
 Eric Lavallée             
-Fabien Lemercier          
-Liu Min                   
-Marc-André Lussier        
-Elli Mastorou             
-Jordan Ruimy              
+Fabien Lemercier          6
+Liu Min                   5
+Marc-André Lussier        5
+Elli Mastorou             7
+Jordan Ruimy              5
 Kuriko Sato               
-Cédric Succivalli         
+Cédric Succivalli         4
 Anna Tatarska             
-Meredith Taylor           
-Maria Ulfsak-Sheripova    
+Meredith Taylor           8
+Maria Ulfsak-Sheripova    4
 # ics
 # Chinese @CriticsGrid
 # Les Inrockuptibles
@@ -963,26 +963,26 @@ Stéphanie Belpèche
 Charlotte Lipinska       
 Yves Jaeglé              
 # ioncinema
-Marta Balaga              
-Nicholas Bell             
+Marta Balaga              7
+Nicholas Bell             8
 Julia Blaga               
 John Bleasadale           
-Nat Chifflet              
+Nat Chifflet              7
 Jason Gorber              
-Jean-Philippe Guerand     
+Jean-Philippe Guerand     4
 Carlos F. Heredero        
-Dubravka Lakic            
-Eric Lavallée             
-Fabien Lemercier          
-Liu Min                   
-Marc-André Lussier        
-Elli Mastorou             
-Jordan Ruimy              
+Dubravka Lakic            6
+Eric Lavallée             6
+Fabien Lemercier          4
+Liu Min                   8
+Marc-André Lussier        5
+Elli Mastorou             8
+Jordan Ruimy              6
 Kuriko Sato               
-Cédric Succivalli         
-Anna Tatarska             
+Cédric Succivalli         7
+Anna Tatarska             10
 Meredith Taylor           
-Maria Ulfsak-Sheripova    
+Maria Ulfsak-Sheripova    9
 # ics
 # Chinese @CriticsGrid
 # Les Inrockuptibles
@@ -4604,7 +4604,7 @@ Jordan Ruimy (World of Reel/The Playlist, USA)
 Kuriko Sato (Eiga.com, Japan)
 Cédric Succivalli (International Cinephil Society, France)
 Anna Tatarska (Onet / Vogue, Poland)
-Meredith Taylor (Filmuforia.com, UK))
+Meredith Taylor (Filmuforia.com, UK)
 Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 ";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
