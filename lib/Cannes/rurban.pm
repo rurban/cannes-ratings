@@ -779,11 +779,11 @@ get '/all' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2020";
+  $all->{year} = "2010-2021";
   {
     no strict 'refs';
     $all->{side_details} = _side_details(\%critic, \%title, 
-                             \@{"$BASE\::rurban::2019::critics_group"});
+                             \@{"$BASE\::rurban::2021::critics_group"});
   }
   template lc($BASE), $all;
 };
