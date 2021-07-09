@@ -19,7 +19,7 @@ package Cannes::rurban::2021; # -*- perl -*-
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2021
 #   http://jury.critic.de/cannes/
-#   https://www.screendaily.com/cannes-2020-screens-dailies/5139341.article
+#   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
 #   https://icsfilm.org/features/cannes-2021-ics-critics-industry-panel/
 #   https://twitter.com/CriticsGrid
 #   http://cannes.lesinrocks.com/cannes2021/
@@ -59,6 +59,16 @@ Till Kadritzke        7.5
 Giovanni Marchini Camina 7.5
 Hannah Pilarczyk      7.5
 # screen daily
+Tim Robey/Robbie Collin     9
+Peter Bradshaw              7.5
+Anton Dolin                 9
+Julien Gester/Didier Peron  7.5
+Michel Ciment               5 
+Mathieu Macheret            7.5
+Katja Nicodemus             7.5
+Ben Kentsberg               7.5
+Wang Muyan                  7.5
+Screen International        5
 # Le film français
 # ioncinema
 Marta Balaga             7
@@ -633,6 +643,16 @@ Till Kadritzke        5
 Giovanni Marchini Camina 7.5
 Hannah Pilarczyk      5
 # screen daily
+Tim Robey/Robbie Collin     5
+Peter Bradshaw              5
+Anton Dolin                 5
+Julien Gester/Didier Peron  7.5
+Michel Ciment               2.5
+Mathieu Macheret            5
+Katja Nicodemus             5
+Ben Kentsberg               2.5
+Wang Muyan                  7.5
+Screen International        7.5
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -765,6 +785,16 @@ Till Kadritzke        7.5
 Giovanni Marchini Camina 4
 Hannah Pilarczyk      6
 # screen daily
+Tim Robey/Robbie Collin     5
+Peter Bradshaw              7.5
+Anton Dolin                 7.5
+Julien Gester/Didier Peron  2.5
+Michel Ciment               5
+Mathieu Macheret            2.5
+Katja Nicodemus             5
+Ben Kentsberg               5
+Wang Muyan                  5
+Screen International        7.5
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -810,6 +840,16 @@ Till Kadritzke        4
 Giovanni Marchini Camina 4
 Hannah Pilarczyk      4
 # screen daily
+Tim Robey/Robbie Collin     7.5
+Peter Bradshaw              7.5
+Anton Dolin                 2.5
+Julien Gester/Didier Peron  2.5
+Michel Ciment               5
+Mathieu Macheret            2.5
+Katja Nicodemus             5
+Ben Kentsberg               5
+Wang Muyan                  5
+Screen International        2.5
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -897,6 +937,16 @@ Peter Bradshaw    10    https://www.theguardian.com/film/2021/jul/08/the-worst-p
 Till Kadritzke        2.5
 Hannah Pilarczyk      2.5
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1003,6 +1053,16 @@ snarkjazzo          3   https://letterboxd.com/snarkjazzo/film/the-worst-person-
 Zack Sharf             https://www.indiewire.com/2021/05/benedetta-trailer-paul-verhoeven-erotic-lesbian-nun-1234635209/
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1042,6 +1102,16 @@ missMarian          1
 #critic.de
 Giovanni Marchini Camina 5
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1076,6 +1146,16 @@ Patrick Devitt      4
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1111,6 +1191,16 @@ Luke Murray         5
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1148,6 +1238,16 @@ John                2
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1187,6 +1287,16 @@ Bai Yutong          5
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1220,6 +1330,16 @@ Maria Ulfsak-Sheripova
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 Marta Balaga              
@@ -1263,6 +1383,16 @@ EricEason           6
 #critic.de
 Giovanni Marchini Camina 6
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1279,6 +1409,16 @@ Patrick Devitt      1
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1298,6 +1438,16 @@ adam_b70            8
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1314,6 +1464,16 @@ Aman Shivhare       2
 Zack Sharf             https://www.indiewire.com/2021/06/titane-trailer-julia-ducournau-1234645715/
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1330,6 +1490,16 @@ louislepron         9
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1341,10 +1511,20 @@ gay twentyfour      10   https://letterboxd.com/gaytwentyfour/film/red-rocket-20
 Carson Brown        10   https://letterboxd.com/carsonbrown4/film/red-rocket-2021/
 Glenn Abegonia      6
 
-"A FELESÉGEM TÖRTÉNETE (THE STORY OF MY WIFE)" 	(Ildikó ENYEDI, Hungary)
+"A FELESÉGEM TÖRTÉNETE (THE STORY OF MY WIFE)" 	(Ildikó ENYEDI, Hungary) [Competition]
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1360,6 +1540,16 @@ Jennifer            2
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1372,6 +1562,16 @@ Jennifer            2
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1389,6 +1589,16 @@ Charlie Johansson   2
 #critic.de
 Giovanni Marchini Camina 7.5
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1405,6 +1615,16 @@ dittedc             4
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1418,6 +1638,16 @@ táltos              8
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
@@ -1433,6 +1663,16 @@ Conchobarre         1
 
 #critic.de
 # screen daily
+Tim Robey/Robbie Collin     
+Peter Bradshaw              
+Anton Dolin                 
+Julien Gester/Didier Peron  
+Michel Ciment                
+Mathieu Macheret            
+Katja Nicodemus             
+Ben Kentsberg               
+Wang Muyan                  
+Screen International        
 # Le film français
 # ioncinema
 # ics
