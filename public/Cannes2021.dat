@@ -70,21 +70,21 @@ Ben Kentsberg               7.5
 Wang Muyan                  7.5
 Screen International        5
 # Le film français
-Gaël Golhen              .
-Julien Rousset           
-Marcus Uzal               
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Guillemette Odicino      
-Celine Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Stéphanie Belpèche              
-Charlotte Lipinska       
-Yves Jaeglé              
+Gaël Golhen              
+Julien Rousset           2.5
+Marcus Uzal              9
+Eric Neuhoff             1
+Philippe Rouyer          5
+Thomas Sotinel           2.5
+Guillemette Odicino      9
+Celine Rouden            5
+Jean-Marc Lalanne        7.5
+Michaël Mélinard         2.5
+Nicolas Schaller         7.5
+Gilles Kerdreux          7.5
+Stéphanie Belpèche       5    
+Charlotte Lipinska       9
+Yves Jaeglé              7.5
 # ioncinema
 Marta Balaga             7
 Nicholas Bell            6
@@ -669,21 +669,21 @@ Ben Kentsberg               2.5
 Wang Muyan                  7.5
 Screen International        7.5
 # Le film français
-Gaël Golhen              
-Julien Rousset           
-Marcus Uzal               
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Guillemette Odicino      
+Gaël Golhen              5
+Julien Rousset           7.5
+Marcus Uzal              7.5
+Eric Neuhoff             1
+Philippe Rouyer          2.5
+Thomas Sotinel           7.5
+Guillemette Odicino      2.5
 Celine Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Stéphanie Belpèche              
-Charlotte Lipinska       
-Yves Jaeglé              
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         2.5
+Nicolas Schaller         5
+Gilles Kerdreux          2.5
+Stéphanie Belpèche       1    
+Charlotte Lipinska       2.5
+Yves Jaeglé              5
 # ioncinema
 Marta Balaga              
 Nicholas Bell             
@@ -827,21 +827,21 @@ Ben Kentsberg               5
 Wang Muyan                  5
 Screen International        7.5
 # Le film français
-Gaël Golhen              
-Julien Rousset           
-Marcus Uzal               
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Guillemette Odicino      
-Celine Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Stéphanie Belpèche              
-Charlotte Lipinska       
-Yves Jaeglé              
+Gaël Golhen              2.5
+Julien Rousset           7.5
+Marcus Uzal              2.5
+Eric Neuhoff             7.5
+Philippe Rouyer          7.5
+Thomas Sotinel           2.5
+Guillemette Odicino      7.5
+Celine Rouden            2.5
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         2.5
+Nicolas Schaller         7.5
+Gilles Kerdreux          2.5
+Stéphanie Belpèche       5    
+Charlotte Lipinska       7.5
+Yves Jaeglé              9
 # ioncinema
 Marta Balaga              
 Nicholas Bell             
@@ -898,20 +898,20 @@ Wang Muyan                  5
 Screen International        2.5
 # Le film français
 Gaël Golhen              
-Julien Rousset           
-Marcus Uzal               
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Guillemette Odicino      
-Celine Rouden            
+Julien Rousset           5
+Marcus Uzal               2.5
+Eric Neuhoff             2.5
+Philippe Rouyer          5
+Thomas Sotinel           5
+Guillemette Odicino      7.5
+Celine Rouden            5
 Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Stéphanie Belpèche              
-Charlotte Lipinska       
-Yves Jaeglé              
+Michaël Mélinard         1
+Nicolas Schaller         2.5
+Gilles Kerdreux          5
+Stéphanie Belpèche       5
+Charlotte Lipinska       2.5
+Yves Jaeglé              7.5
 # ioncinema
 Marta Balaga              
 Nicholas Bell             
@@ -1012,16 +1012,16 @@ Screen International
 Gaël Golhen              
 Julien Rousset           
 Marcus Uzal               
-Eric Neuhoff             
+Eric Neuhoff             5
 Philippe Rouyer          
-Thomas Sotinel           
+Thomas Sotinel           2.5
 Guillemette Odicino      
-Celine Rouden            
+Celine Rouden            5
 Jean-Marc Lalanne        
 Michaël Mélinard         
 Nicolas Schaller         
 Gilles Kerdreux          
-Stéphanie Belpèche              
+Stéphanie Belpèche       
 Charlotte Lipinska       
 Yves Jaeglé              
 # ioncinema
@@ -1844,9 +1844,47 @@ UN CERTAIN REGARD
 "ONODA" (Arthur HARARI)   [Un Certain Regard]
  Opening Film
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
+#letterboxd
+
 "REHANA MARYAM NOOR" (Abdullah Mohammad SAAD, Bangladesh) [Un Certain Regard]
 
 Deborah Young           https://www.hollywoodreporter.com/movies/movie-reviews/rehana-maryam-noor-review-cannes-2021-1234978094/
+#critic.de
+Frédéric Jaeger     6
+Hannah Pilarczyk      6
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 Ted Dokov           9   https://letterboxd.com/jazzme/film/rehana-maryam-noor/
 Alex_Rabouin        8
@@ -1873,12 +1911,25 @@ FoggyNotion         4
 Mike_G              4
 Shecanbeanyone      1
 
-#critic.de
-Frédéric Jaeger     6
-Hannah Pilarczyk      6
-
 "GREAT FREEDOM" (Sebastian MEISE, Austria) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 Jack Morningstar    10   https://letterboxd.com/jackmstar/film/great-freedom/
 Shubhra             9   https://letterboxd.com/shubhra/film/great-freedom/
@@ -1909,6 +1960,24 @@ Pau Canivell        4
 "UN MONDE" (Laura WANDEL, Belgium) [Un Certain Regard]
  1st film
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
+#letterboxd
 #letterboxd
 Jeyfein             8
 seb719              8
@@ -1919,6 +1988,23 @@ Jonathan Romney         https://www.screendaily.com/reviews/after-yang-cannes-re
 David Ehrlich       A-   https://www.indiewire.com/2021/07/after-yang-review-kogonada-1234648922/
 Peter Debruge           https://variety.com/2021/film/reviews/after-yang-review-colin-farrell-1235011615/
 David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/after-yang-cannes-2021-1234977459/
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/after-yang/
 Ted Dokov           10
@@ -1991,6 +2077,23 @@ Giovanni Marchini Camina 2.5
 
 "DELO (HOUSE ARREST)" (Alexey GERMAN JR., Russia) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 JamesRisk           6
 
@@ -2000,6 +2103,23 @@ Giovanni Marchini Camina 5
 "LA CIVIL" (Teodora Ana MIHAI, Romania/Belgium) [Un Certain Regard]
  1st film
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 Johann Rucker       5
 
@@ -2012,10 +2132,44 @@ Morris Yang         8   https://letterboxd.com/metamodernmarx/film/unclenching-t
 
 "BONNE MÈRE" (Hafsia HERZI, France) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 
 "LET THERE BE MORNING (Eran KOLIRIN, Israel) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 rhan888             10
 AZ123456            9
@@ -2024,15 +2178,67 @@ jenni               3
 
 "THE INNOCENTS" (Eskil VOGT, Norway) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 
 "COMMITMENT HASAN" (Hasan Semih KAPLANOGLU, Turkey) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 
 "MONEYBOYS" (C.B Yi, Austria) [Un Certain Regard]
  1st film
 
+#critic.de
+Philipp Schwarz       4
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 Paula Bērziņa       7
 Frank Yan           6
@@ -2040,14 +2246,48 @@ Noah Heinrich       6
 kerem_akca          5
 pica at 25          4
 
-#critic.de
-Philipp Schwarz       4
-
 "MY BROTHERS AND I" (Yohan MANCA, France) [Un Certain Regard]
+
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
+#letterboxd
 
 "LAMB" (Valdimar JÓHANSSON, Iceland) [Un Certain Regard]
  1st film
 
+#critic.de
+Giovanni Marchini Camina 6
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 Ben Clay            9
 Lauren Murphy       7
@@ -2064,16 +2304,47 @@ MadWillou           3
 reedie              3
 Simone              2
 
-#critic.de
-Giovanni Marchini Camina 6
-
 "STREETWISE (GAEY WA'R)" (NA Jiazuo, China) [Un Certain Regard]
  1st film
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 
 "BLUE BAYOU" (Justin CHON, USA) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 itssofluffy         10
 melmiko             10
@@ -2085,16 +2356,67 @@ Nikki               6
 "FREDA" (Gessica GÉNÉUS, Haïti) [Un Certain Regard]
  1st film 
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 MadWillou           6
 
 "WOMEN DO CRY (Mina MILEVA/Vesela KAZAKOVA, Bulgaria) [Un Certain Regard]
 
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 Morris Yang         8   https://letterboxd.com/metamodernmarx/film/unclenching-the-fists/
 
 "NOCHE DE FUEGO" (Tatiana HUEZO, Mexico) [Un Certain Regard]
 	
+#critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Stéphanie Belpèche       
+Charlotte Lipinska       
+Yves Jaeglé              
 #letterboxd
 mscherrw            10
 Renato Guido        7
@@ -2103,6 +2425,7 @@ OUT OF COMPETITION
 
 "PEACEFUL (De son vivant)" (Emmanuelle BERCOT, France) [Out Of Competition]
 
+#critic.de
 #letterboxd
 
  
@@ -2173,12 +2496,14 @@ Hugo                4   https://letterboxd.com/delkey/film/the-velvet-undergroun
 
 "BAC NORD" (Cédric JIMENEZ, France) [Out Of Competition]
  
+#critic.de
 #letterboxd
 Letterboxd 34_Ratings	7.4  https://letterboxd.com/film/bac-nord/
 ghost946            7   https://letterboxd.com/ghost946/film/bac-nord/
 
 "ALINE, THE VOICE OF LOVE (The Power Of Love)" (Valérie LEMERCIER, France) [Out Of Competition]
  
+#critic.de
 #letterboxd
 Letterboxd 43_Ratings	5.9  https://letterboxd.com/film/aline-2020-1/
 
@@ -2187,6 +2512,7 @@ Letterboxd 43_Ratings	5.9  https://letterboxd.com/film/aline-2020-1/
 Peter Debruge           https://variety.com/2021/film/reviews/stillwater-review-matt-damon-1235014926/
 Tim Grierson            https://www.screendaily.com/reviews/stillwater-cannes-review/5161408.article
 David Ehrlich       B-   https://www.indiewire.com/2021/07/stillwater-review-matt-damon-1234649672/
+#critic.de
 #letterboxd
 sofiajimnz          10
 jorge lopez         10
@@ -2230,31 +2556,36 @@ Natasha C.          3
 
 "WHERE IS ANNE FRANK" (Ari FOLMAN, Israel)  [Out Of Competition]
 
+#critic.de
 #letterboxd
 Letterboxd 13_Ratings	8.2  https://letterboxd.com/film/where-is-anne-frank/
 
 "OSS 117: From Africa with Love" (Nicolas BEDOS, France)  [Out Of Competition]
  Closing film
 
+#critic.de
 #letterboxd
 Letterboxd 15_Ratings	5.9  https://letterboxd.com/film/oss-117-from-africa-with-love/
 
 "BLOODY ORANGES" (Jean-Christophe MEURISSE, France) [Out Of Competition] Midnight
 	
+#critic.de
 #letterboxd
 
 "SUPRÊMES" (Audrey ESTROUGO, France) [Out Of Competition] Midnight
-	
+
+#critic.de
 #letterboxd
 Arthur Cios         8
 
 "TRALALA" (Arnaud & Jean-Marie LARRIEU, France) [Out Of Competition] Midnight
-	
+
 #letterboxd
 Lauren Murphy       5
 
 "EMERGENCY DECLARATION (BI-SANG-SEON-EON)" (HAN Jae-Rim, Korea) [Out Of Competition] Midnight
 
+#critic.de
 #letterboxd
 Adrián Peña         8
 Lucas Bühring       7
@@ -2266,6 +2597,7 @@ Maria Isabel Montá  7
 Cannes Premiere
 Zack Sharf             https://www.indiewire.com/2021/06/vortex-first-look-gaspar-noe-1234643859/
 
+#critic.de
 #letterboxd
 Arthur Cios         8
 Salvador KS 🎬       6
@@ -2274,6 +2606,7 @@ akortsuz            4
 
 "HOLD ME TIGHT" (Mathieu AMALRIC, France) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 MadWillou           8
 Luke Murray         8
@@ -2329,6 +2662,7 @@ feridemercury       2   https://letterboxd.com/feridemercury/film/film:586741/
 
 "LOVE SONGS FOR TOUGH GUYS" (Samuel BENCHETRIT, France) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 Luke Murray         8
 Arthur Cios         5
@@ -2411,6 +2745,7 @@ Rp12                6
 
 "EVOLUTION" (Kornél MUNDRUCZO, Hungary) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 
 "VAL" (Ting POO/Leo SCOTT, USA) [Out Of Competition] Premiere
@@ -2468,6 +2803,7 @@ William_White       5
 
 "BELLE" (HOSODA Mamoru) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 Grant Atkins        10
 Nero Fantasy        10
@@ -2475,11 +2811,13 @@ yuukihari           8   https://letterboxd.com/yuukihari/film/belle-2021/
 
 "MARX CAN WAIT (Marx può aspettare)" (Marco BELLOCCHIO, Italy) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 Pincent             6
 
 "JFK REVISITED: THROUGH THE LOOKING GLASS" (Oliver STONE, USA) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 JamesRisk           6
 SPECIAL SCREENINGS
@@ -2487,6 +2825,7 @@ SPECIAL SCREENINGS
 "ARE YOU LONESOME TONIGHT?" (WEN Shipei, China)  [Out Of Competition] Special Screening
   China Release
 
+#critic.de
 #letterboxd
 Letterboxd 58_Ratings	6.3  https://letterboxd.com/film/are-you-lonesome-tonight-2021/
 DesertsYu           7
@@ -2534,14 +2873,17 @@ Luke Murray         5
 
 "Mi iubita, mon amour" (Noémie Merlant)  [Out Of Competition] Special Screening
 
+#critic.de
 #letterboxd
 
 "New Worlds, The Cradle of Civilization" (Andrew J. Muscato)  [Out Of Competition] Special Screening
 
+#critic.de
 #letterboxd
 
 "The Heroics" (Maxime Roy, France) [Out Of Competition] Special Screening
 
+#critic.de
 #letterboxd
 MadWillou           6
 
@@ -2550,22 +2892,26 @@ Giovanni Marchini Camina 5
 
 "The Crusade" (Louis Garrel, France) [Out Of Competition] Special Screening
 
+#critic.de
 #letterboxd
 
 "Marcher sur l'eau" (Aïssa Maïga, France) [Out Of Competition] Special Screening
  1st film
 
+#critic.de
 #letterboxd
 Luke Murray         6
 
 "Invisible Demons" (Rahul Jain, France) [Out Of Competition] Special Screening
 
+#critic.de
 #letterboxd
 Bai Yutong          6
 ¡Maria!             6   https://letterboxd.com/movie_mpp/film/invisible-demons/
 
 "Animal" (Cyril Dion, France) [Out Of Competition] Special Screening
 
+#critic.de
 #letterboxd
 Bai Yutong          7
 Luke Murray         5
@@ -2573,6 +2919,7 @@ Luke Murray         5
 "I Am So Sorry" (Zhao Liang, China) [Out Of Competition] Special Screening
  Documentary
 
+#critic.de
 #letterboxd
 Bai Yutong          6
 
@@ -2580,12 +2927,14 @@ Bai Yutong          6
  Documentary
 
 
+#critic.de
 #letterboxd
 
 "The Velvet Queen (La Panthère des neiges)" (Marie Amiguet, France) [Out Of Competition] Special Screening
  Documentary
 
 
+#critic.de
 #letterboxd
 Screen-Space        9
 
@@ -2642,6 +2991,7 @@ Frédéric Jaeger     5
 
 "Monrovia, Indiana" (Frederick Wiseman, USA 2018) [Quinzaine] <i>>Philadelphia</i>
 
+#critic.de
 #letterboxd
 Letterboxd 500_Ratings	8.6  https://letterboxd.com/film/monrovia-indiana/
 victorabouaf        8
@@ -2650,6 +3000,7 @@ Avirup              8   https://letterboxd.com/helosoccerfan/film/monrovia-india
 "The Souvenir" (Joanna Hogg, UK/USA 2019) [Quinzaine] <i>Berlinale</i>
  Special Screening
 
+#critic.de
 #letterboxd
 Letterboxd 100_Ratings	7.4  https://letterboxd.com/film/the-souvenir/
 GabeRut             10
@@ -2763,10 +3114,12 @@ Tara                2   https://letterboxd.com/metroveineuse/film/the-hill-where
 
 "A Chiara" (Jonas Carpignano, Italy/France/USA) [Quinzaine]
 
+#critic.de
 #letterboxd
 
 "Magnetic Beats" (Vincent Maël Cardona, France) [Quinzaine]
 
+#critic.de
 #letterboxd
 Paula Bērziņa       8
 Frank Yan           7
@@ -2779,16 +3132,19 @@ ludovicbeot         4
 
 "The Employer and the Employee" (Manuel Nieto Zas, Uruguay/Argentina/France) [Quinzaine]
 
+#critic.de
 #letterboxd
 jessimna            6
 Trey Wootton        5
 
 "Hit the Road" (Panah Panahi, Iran) [Quinzaine]
 
+#critic.de
 #letterboxd
 
 "The Tale of King Crab (Re Granchio)" (Alessio Rigo de Righi/Matteo Zoppis, Italy/Argentina/France) [Quinzaine]
 
+#critic.de
 #letterboxd
 
 #critic.de
@@ -2796,15 +3152,18 @@ Giovanni Marchini Camina 6
 
 "Murina" (Antoneta Alamat Kusijanović, Croatia/Brasil/USA/Slovenia) [Quinzaine]
 
+#critic.de
 #letterboxd
 kerem_akca          4
 
 "Întregalde" (Radu Muntean, Romania) [Quinzaine]
 
+#critic.de
 #letterboxd
 
 "Medusa" (Anita Rocha da Silveira, Brazil) [Quinzaine]
 
+#critic.de
 #letterboxd
 marion heinrich     7
 JamesRisk           6
@@ -2817,6 +3176,7 @@ Luke Murray         4
 
 "Futura" (Pietro Marcello/Alice Rohrwacher/Francesco Munzi, Italy) [Quinzaine]
 
+#critic.de
 #letterboxd
 Markowsky           7
 Bai Yutong          6
@@ -2825,11 +3185,13 @@ William_White       5
 
 "Neptune Frost" (Saul Williams/Anisia Uzeyman, Rwanda/USA) [Quinzaine]
 
+#critic.de
 #letterboxd
 Maya                6
 
 "The Tsugua Diaries" (Miguel Gomes/Maureen Fazendeiro, Portugal) [Quinzaine]
 
+#critic.de
 #letterboxd
 Morris Yang         7   https://letterboxd.com/metamodernmarx/film/the-tsugua-diaries/
 ludovicbeot         7
@@ -2839,26 +3201,31 @@ Giovanni Marchini Camina 7.5
 
 "The Sea Ahead" (Ely Dagher, Lebanon/Belgium/France) [Quinzaine]
 
+#critic.de
 #letterboxd
 Clémence            8
 
 "Ripples of Life" (Wei Shujun, China) [Quinzaine]
 
+#critic.de
 #letterboxd
 
 "The Braves" (Anaïs Volpé, France) [Quinzaine]
 
+#critic.de
 #letterboxd
 Dianareveuse        8
 louislepron         7
 
 "Europa" (Haider Rashid, Iraq/Italy) [Quinzaine]
 
+#critic.de
 #letterboxd
 Arthur Cios         3
 
 "Ali & Ava" (Clio Barnard, UK) [Quinzaine]
 
+#critic.de
 #letterboxd
 sukaradinc          10
 Julia               6
@@ -2866,6 +3233,7 @@ amesbakes           4
 
 "A Brighter Tomorrow" (Yassine Qnia, France) [Quinzaine]
 
+#critic.de
 #letterboxd
 Georges Aintablian  6
 Sdiary              5   https://letterboxd.com/sdiary/film/a-brighter-tomorrow/
@@ -2875,10 +3243,12 @@ Andrea Campinoti    4
 
 "A Night of Knowing Nothing" (Payal Kapadia, India/France) [Quinzaine]
 
+#critic.de
 #letterboxd
 
 "Returning to Reims (Fragments)" (Jean-Gabriel Périot, France) [Quinzaine]
 
+#critic.de
 #letterboxd
 Nikander            10
 Clémence            7
@@ -2886,6 +3256,7 @@ Clémence            7
 "Our Men" (Rachel Lang, France/Belgium) [Quinzaine]
  Closing film
 
+#critic.de
 #letterboxd
 
 SEMAINE
@@ -2934,6 +3305,7 @@ Giovanni Marchini Camina 4
 
 "The Gravedigger’s Wife" (Khadar Ayderus Ahmed, Finland/Germany/France) [Semaine]
 
+#critic.de
 #letterboxd
 sofiajimnz          10
 Max Borg            8
@@ -2980,6 +3352,7 @@ Miguel Muñoz Garnica 5
 
 "A Radiant Girl" (Sandrine Kiberlain, France) [Semaine] Special
 
+#critic.de
 #letterboxd
 Benny Kohzer        10
 Alessandra_K        9   https://letterboxd.com/alessandra_kr/film/a-radiant-girl/
@@ -2991,11 +3364,13 @@ Mauricio Ribeiro    6   https://letterboxd.com/marfil/film/a-radiant-girl/
 
 "Olga" (Elie Grappe, Switzerland/Ukraine/France) [Semaine]
 
+#critic.de
 #letterboxd
 Karan               7
 
 "Softie (Petite Nature)" (Samuel Theis, France) [Semaine] Special
 
+#critic.de
 #letterboxd
 honeylogan          10   https://letterboxd.com/honeylogan/film/softie-2021/
 pica at 25          9
@@ -3009,6 +3384,7 @@ Giovanni Marchini Camina 4
 
 "Anaïs in Love" (Charline Bourgeois-Tacquet, France) [Semaine] Special
 
+#critic.de
 #letterboxd
 MadWillou           7
 Simone              7
@@ -3020,10 +3396,12 @@ Giovanni Marchini Camina 4
 
 "Zero Fucks Given (Rien à foutre)" (Julie Lecoustre/Emmanuel Marre, Belgium/France) [Semaine]
 
+#critic.de
 #letterboxd
 
 "Amparo" (Simón Mesa Soto, Colombia/Sweden/Germany/Qatar) [Semaine]
 
+#critic.de
 #letterboxd
 Chris Cassingham    8
 Ben Delgado         7
@@ -3032,15 +3410,18 @@ adsfghj             4
 
 "Bruno Reidal, Confessions of a Murderer" (Vincent Le Port, France) [Semaine] Special
 
+#critic.de
 #letterboxd
 
 "Feathers" (Omar El Zohairy, Egypt/France/The Netherlands/Greece) [Semaine]
 
+#critic.de
 #letterboxd
 
 "A Tale of Love and Desire (Une histoire d'amour et de désir)" (Leyla Bouzid, France) [Semaine] Special
  closing film
 
+#critic.de
 #letterboxd
 Élodie David-Martin 8
 táltos              7
@@ -3049,41 +3430,98 @@ ACID
 
 "La Ultima Primavera (Last Days of Spring)" (Isabel Lamberti, Italy) [ACID]
 
+#critic.de
+#letterboxd
+
 "I Comete (A Corsican Summer)" (Pascal Tagnati, France) [ACID]
+
+#critic.de
+#letterboxd
 
 "Ghost Song" (Nicolas Peduzzi, France) [ACID]
 
+#critic.de
+#letterboxd
+
 "Les Affluents" (Jesse Miceli) [ACID]
+
+#critic.de
+#letterboxd
 
 "I Comete (A Corsican Summer)" (Pascal Tagnati) [ACID]
 
+#critic.de
+#letterboxd
+
 "Soy libre" (Laure Portier, France) [ACID]
+
+#critic.de
+#letterboxd
 
 "Tightrope Walkers" (Ilan Klipper) [ACID]
 
+#critic.de
+#letterboxd
+
 "Down with the King" (Diego Ongaro, USA/France) [ACID]
+
+#critic.de
+#letterboxd
 
 "Little Palestine (Diary of a Siege)" (Abdallah Al-Khatib, Lebanon/France/Qatar) [ACID]
 
+#critic.de
+#letterboxd
+
 "Venus by Water" (Lin Wang, China) [ACID]
+
+#critic.de
+#letterboxd
 
 "Municipale (The Candidate)" (Thomas Paulot, France) [ACID]
 
+#critic.de
+#letterboxd
+
 "The Last Hillbilly" (Diane Sara Bouzgarrou/Thomas Jenkoe) [ACID]
+
+#critic.de
+#letterboxd
 
 "Vedette" (Claudine Bories, Patrice Chagnard, France) [ACID]
 
+#critic.de
+#letterboxd
+
 "The Seeds We Sow" (Nathan Nicholovitch) [ACID]
+
+#critic.de
+#letterboxd
 
 "Aya" (Simon Coulibaly Gillard, Belgium/France) [ACID]
 
+#critic.de
+#letterboxd
+
 "Far From You I Grew" (Marie Dumora) [ACID]
+
+#critic.de
+#letterboxd
 
 "Walden" (Bojena Horackova) [ACID]
 
+#critic.de
+#letterboxd
+
 "Il Mio Corpo" (Michele Penneta) [ACID]
 
+#critic.de
+#letterboxd
+
 "Should The Wind Drop" (Nora Martirosvan) [ACID]
+
+#critic.de
+#letterboxd
 
 
 EOF
