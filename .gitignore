@@ -24,6 +24,8 @@ c[12][0-9]/
 *.dat.bak
 /dkstjernebarometer.pl
 /kinoart.ru.pl
+/kinoart.ru.dat
+/kinoart.ru.html
 /lesinrocks.pl
 /indiewire.dat
 /indiewire.pl
