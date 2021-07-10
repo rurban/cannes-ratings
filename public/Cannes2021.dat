@@ -38,31 +38,25 @@ our $DATA= <<'EOF';
 "ANNETTE" (Leos CARAX, France) [Competition]
  Opening Film
 
-Jonathan Romney         https://www.screendaily.com/reviews/annette-cannes-review/5161172.article
-Eric Kohn           B+   https://www.indiewire.com/2021/07/annette-review-adam-driver-leos-carax-1234648765/
-Peter Debruge           https://variety.com/2021/film/reviews/annette-review-leos-carax-1235011443/
-Steve Pond              https://www.thewrap.com/annette-film-review-cannes-adam-driver-marion-cotillard-leos-carax/
-Rory O'Connor         B+  https://thefilmstage.com/cannes-review-annette-is-a-gnarled-musical-that-marks-a-bracing-return-for-leos-carax/
-Peter Bradshaw    8    https://www.theguardian.com/film/2021/jul/06/annette-review-cannes-leos-carax-sparks-musical
-Jon Negroni           https://awardswatch.com/annette-review-leos-caraxs-occasionally-unwieldy-rock-opera-gleefully-leans-into-camp-cannes-review/
-John Bleasdale     10  https://cine-vue.com/2021/07/cannes-2021-annette-review.html
 Bilge Ebiri        10  https://www.vulture.com/article/cannes-review-annette-with-adam-driver-and-marion-cotillard.html?utm_source=flipboard.com&utm_medium=social_acct&utm_campaign=feed-part
-Robbie Collin      10  https://www.telegraph.co.uk/films/0/annette-cannes-review-magnificent-lunatic-rock-opera-real-did/
-Leah Greenblatt    8.3 https://ew.com/movies/movie-reviews/annette-review/
-Rory O'Connor      8.3 https://thefilmstage.com/cannes-review-annette-is-a-gnarled-musical-that-marks-a-bracing-return-for-leos-carax/
-Eric Kohn          8.3 https://www.indiewire.com/2021/07/annette-review-adam-driver-leos-carax-1234648765/
-Steve Pond         8   https://www.thewrap.com/annette-film-review-cannes-adam-driver-marion-cotillard-leos-carax/
-Justin Chang       8   https://www.latimes.com/entertainment-arts/movies/story/2021-07-06/annette-review-cannes-amazon-adam-driver-marion-cotillard
-Peter Bradshaw     8   https://www.theguardian.com/film/2021/jul/06/annette-review-cannes-leos-carax-sparks-musical
-Pat Brown          7.5 https://www.slantmagazine.com/film/review-leos-caraxs-annette-is-a-gonzo-pop-opera-about-the-pull-of-illusion/
-Rafael Motamayor   7.5 https://observer.com/2021/07/annette-film-review-cannes-2021/
-Rodrigo Perez      7.5 https://theplaylist.net/annette-leos-carax-sparks-adam-driver-marion-cotillard-cannes-review-20210706/
 Dave Calhoun       6   https://www.timeout.com/movies/annette-2021
-Nicholas Barber    6   https://www.bbc.com/culture/article/20210706-annette-review-adam-driver-shines-in-a-bizarre-rock-opera
-Jason Gorber       5   https://www.slashfilm.com/annette-review/
 David Rooney       5   https://www.hollywoodreporter.com/movies/movie-reviews/annette-cannes-2021-1234977442/
-Peter Debruge      4   https://variety.com/2021/film/reviews/annette-review-leos-carax-1235011443/
+Eric Kohn          8.3 https://www.indiewire.com/2021/07/annette-review-adam-driver-leos-carax-1234648765/
+Jason Gorber       5   https://www.slashfilm.com/annette-review/
+John Bleasdale     10  https://cine-vue.com/2021/07/cannes-2021-annette-review.html
+Jon Negroni           https://awardswatch.com/annette-review-leos-caraxs-occasionally-unwieldy-rock-opera-gleefully-leans-into-camp-cannes-review/
 Jonathan Romney    4   https://www.screendaily.com/reviews/annette-cannes-review/5161172.article
+Justin Chang       8   https://www.latimes.com/entertainment-arts/movies/story/2021-07-06/annette-review-cannes-amazon-adam-driver-marion-cotillard
+Leah Greenblatt    8.3 https://ew.com/movies/movie-reviews/annette-review/
+Nicholas Barber    6   https://www.bbc.com/culture/article/20210706-annette-review-adam-driver-shines-in-a-bizarre-rock-opera
+Pat Brown          7.5 https://www.slantmagazine.com/film/review-leos-caraxs-annette-is-a-gonzo-pop-opera-about-the-pull-of-illusion/
+Peter Bradshaw    8    https://www.theguardian.com/film/2021/jul/06/annette-review-cannes-leos-carax-sparks-musical
+Peter Debruge      4   https://variety.com/2021/film/reviews/annette-review-leos-carax-1235011443/
+Rafael Motamayor   7.5 https://observer.com/2021/07/annette-film-review-cannes-2021/
+Robbie Collin      10  https://www.telegraph.co.uk/films/0/annette-cannes-review-magnificent-lunatic-rock-opera-real-did/
+Rodrigo Perez      7.5 https://theplaylist.net/annette-leos-carax-sparks-adam-driver-marion-cotillard-cannes-review-20210706/
+Rory O'Connor      8.3 https://thefilmstage.com/cannes-review-annette-is-a-gnarled-musical-that-marks-a-bracing-return-for-leos-carax/
+Steve Pond         8   https://www.thewrap.com/annette-film-review-cannes-adam-driver-marion-cotillard-leos-carax/
 #critic.de
 Andrey Arnold         7.5
 Frédéric Jaeger     9       https://www.critic.de/film/annette-15233/
@@ -1205,26 +1199,16 @@ snarkjazzo          3   https://letterboxd.com/snarkjazzo/film/the-worst-person-
 
 "BENEDETTA" (Paul VERHOEVEN, Netherlands) [Competition]
 
-Zack Sharf             https://www.indiewire.com/2021/05/benedetta-trailer-paul-verhoeven-erotic-lesbian-nun-1234635209/
-David Ehrlich       C+   https://www.indiewire.com/2021/07/benedetta-review-1234649960/
-Lee Marshall            https://www.screendaily.com/reviews/benedetta-cannes-review/5161436.article
-Peter Bradshaw    4    https://www.theguardian.com/film/2021/jul/09/benedetta-review-paul-verhoeven-charlotte-rampling
-Peter Debruge           https://variety.com/2021/film/reviews/benedetta-review-paul-verhoeven-1235015529/
-David Ehrlich      5.8 https://www.indiewire.com/2021/07/benedetta-review-1234649960/
-Tim Robey          8   https://www.telegraph.co.uk/films/2021/07/09/benedetta-cannes-review-paul-verhoevens-story-lesbian-nun-every/
-Jordan Mintzer     8   https://www.hollywoodreporter.com/movies/movie-reviews/benedetta-review-cannes-2021-1234979867/
-David Ehrlich      5.8 https://www.indiewire.com/2021/07/benedetta-review-1234649960/
-Peter Debruge      5   https://variety.com/2021/film/reviews/benedetta-review-paul-verhoeven-1235015529/
-Peter Bradshaw     4   https://www.theguardian.com/film/2021/jul/09/benedetta-review-paul-verhoeven-charlotte-rampling
 Ben Croll          8.9 https://www.thewrap.com/benedetta-film-review-paul-verhoeven-nun-lesbian/
-Jessica Kiang      8.3 https://theplaylist.net/bless-us-benedetta-for-paul-verhoeven-has-sinned-cannes-review-20210709/
-Tim Robey          8   https://www.telegraph.co.uk/films/2021/07/09/benedetta-cannes-review-paul-verhoevens-story-lesbian-nun-every/
-Jordan Mintzer     8   https://www.hollywoodreporter.com/movies/movie-reviews/benedetta-review-cannes-2021-1234979867/
-Pat Brown          7.5 https://www.slantmagazine.com/film/review-benedetta-is-a-deliriously-fun-if-uneven-nunsploitation-extravaganza/
 David Ehrlich      5.8 https://www.indiewire.com/2021/07/benedetta-review-1234649960/
+Jessica Kiang      8.3 https://theplaylist.net/bless-us-benedetta-for-paul-verhoeven-has-sinned-cannes-review-20210709/
+Jordan Mintzer     8   https://www.hollywoodreporter.com/movies/movie-reviews/benedetta-review-cannes-2021-1234979867/
 Lee Marshall       5   https://www.screendaily.com/reviews/benedetta-cannes-review/5161436.article
+Pat Brown          7.5 https://www.slantmagazine.com/film/review-benedetta-is-a-deliriously-fun-if-uneven-nunsploitation-extravaganza/
+Peter Bradshaw    4    https://www.theguardian.com/film/2021/jul/09/benedetta-review-paul-verhoeven-charlotte-rampling
 Peter Debruge      5   https://variety.com/2021/film/reviews/benedetta-review-paul-verhoeven-1235015529/
-Peter Bradshaw     4   https://www.theguardian.com/film/2021/jul/09/benedetta-review-paul-verhoeven-charlotte-rampling
+Tim Robey          8   https://www.telegraph.co.uk/films/2021/07/09/benedetta-cannes-review-paul-verhoevens-story-lesbian-nun-every/
+Zack Sharf             https://www.indiewire.com/2021/05/benedetta-trailer-paul-verhoeven-erotic-lesbian-nun-1234635209/
 #critic.de
 Andrey Arnold         9
 Till Kadritzke        6
@@ -3737,37 +3721,18 @@ Lucius Bennison     10
 
 "The Souvenir Part II" (Joanna Hogg, UK/USA) [Quinzaine]
 
-Fionnuala Halligan      https://www.screendaily.com/reviews/the-souvenir-part-ii-cannes-review/5161284.article
-David Ehrlich       A   https://www.indiewire.com/2021/07/the-souvenir-part-2-review-1234649271/
-Guy Lodge               https://variety.com/2021/film/reviews/the-souvenir-part-ii-review-1235011303/
-David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/the-souvenir-part-ii-cannes-2021-1234978352/
-Peter Bradshaw    10    https://www.theguardian.com/film/2021/jul/08/the-souvenir-part-ii-review-once-more-with-even-more-feeling
-Jon Negroni           https://awardswatch.com/the-souvenir-part-ii-review-joanna-hoggs-masterful-b-side-is-both-a-compassionate-exercise-on-grief-and-a-celebration-of-feminine-rebirth-cannes-review/
 Carlos Aguilar     10  https://theplaylist.net/the-souvenir-part-ii-joanna-hogg-cannes-review-20210708/
-Tim Robey          10  https://www.telegraph.co.uk/films/0/souvenir-part-ii-review-playful-cinematic-memoir-entertains/
-John Bleasdale     10  https://cine-vue.com/2021/07/cannes-2021-the-souvenir-part-ii-review.html
-Peter Bradshaw     10  https://www.theguardian.com/film/2021/jul/08/the-souvenir-part-ii-review-once-more-with-even-more-feeling
-David Ehrlich      10  https://www.indiewire.com/2021/07/the-souvenir-part-2-review-1234649271/
-Guy Lodge          10  https://variety.com/2021/film/reviews/the-souvenir-part-ii-review-1235011303/
-David Rooney       10  https://www.hollywoodreporter.com/movies/movie-reviews/the-souvenir-part-ii-cannes-2021-1234978352/
-Fionnuala Halligan 10  https://www.screendaily.com/reviews/the-souvenir-part-ii-cannes-review/5161284.article
-Carlos Aguilar     10  https://theplaylist.net/the-souvenir-part-ii-joanna-hogg-cannes-review-20210708/
-Tim Robey          10  https://www.telegraph.co.uk/films/0/souvenir-part-ii-review-playful-cinematic-memoir-entertains/
-John Bleasdale     10  https://cine-vue.com/2021/07/cannes-2021-the-souvenir-part-ii-review.html
-Peter Bradshaw     10  https://www.theguardian.com/film/2021/jul/08/the-souvenir-part-ii-review-once-more-with-even-more-feeling
-David Ehrlich      10  https://www.indiewire.com/2021/07/the-souvenir-part-2-review-1234649271/
-Jason Solomons     9.2 https://www.thewrap.com/the-souvenir-part-ii-film-review-gentle-british-drama-is-haunted-by-the-past/
 Dave Calhoun       10  https://www.timeout.com/movies/the-souvenir-part-ii-2021
-Guy Lodge          10  https://variety.com/2021/film/reviews/the-souvenir-part-ii-review-1235011303/
+David Ehrlich      10  https://www.indiewire.com/2021/07/the-souvenir-part-2-review-1234649271/
 David Rooney       10  https://www.hollywoodreporter.com/movies/movie-reviews/the-souvenir-part-ii-cannes-2021-1234978352/
 Fionnuala Halligan 10  https://www.screendaily.com/reviews/the-souvenir-part-ii-cannes-review/5161284.article
-Carlos Aguilar     10  https://theplaylist.net/the-souvenir-part-ii-joanna-hogg-cannes-review-20210708/
-Tim Robey          10  https://www.telegraph.co.uk/films/0/souvenir-part-ii-review-playful-cinematic-memoir-entertains/
-John Bleasdale     10  https://cine-vue.com/2021/07/cannes-2021-the-souvenir-part-ii-review.html
-Peter Bradshaw     10  https://www.theguardian.com/film/2021/jul/08/the-souvenir-part-ii-review-once-more-with-even-more-feeling
-David Ehrlich      10  https://www.indiewire.com/2021/07/the-souvenir-part-2-review-1234649271/
+Guy Lodge          10  https://variety.com/2021/film/reviews/the-souvenir-part-ii-review-1235011303/
 Jason Solomons     9.2 https://www.thewrap.com/the-souvenir-part-ii-film-review-gentle-british-drama-is-haunted-by-the-past/
+John Bleasdale     10  https://cine-vue.com/2021/07/cannes-2021-the-souvenir-part-ii-review.html
+Jon Negroni           https://awardswatch.com/the-souvenir-part-ii-review-joanna-hoggs-masterful-b-side-is-both-a-compassionate-exercise-on-grief-and-a-celebration-of-feminine-rebirth-cannes-review/
+Peter Bradshaw    10    https://www.theguardian.com/film/2021/jul/08/the-souvenir-part-ii-review-once-more-with-even-more-feeling
 Rory O'Connor         B  https://thefilmstage.com/cannes-review-the-souvenir-part-ii-is-a-daring-confounding-meta-experiment-from-joanna-hogg/
+Tim Robey          10  https://www.telegraph.co.uk/films/0/souvenir-part-ii-review-playful-cinematic-memoir-entertains/
 #critic.de
 Frédéric Jaeger     7.5
 Till Kadritzke        9
