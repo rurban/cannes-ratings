@@ -19,6 +19,7 @@ package Cannes::rurban::2021; # -*- perl -*-
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2021
 #   http://jury.critic.de/cannes/
+#   https://twitter.com/screendaily
 #   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
 #   https://icsfilm.org/category/cannes-ics-grid/
 #   https://kinoart.ru/cannes2021/
@@ -972,16 +973,16 @@ Frédéric Jaeger     5
 Till Kadritzke        2.5
 Hannah Pilarczyk      2.5
 # screen daily
-Tim Robey/Robbie Collin     
-Peter Bradshaw              
-Anton Dolin                 
-Julien Gester/Didier Peron  
-Michel Ciment                
-Mathieu Macheret            
-Katja Nicodemus             
-Ben Kentsberg               
-Wang Muyan                  
-Screen International        
+Tim Robey/Robbie Collin     9
+Peter Bradshaw              9
+Anton Dolin                 5
+Julien Gester/Didier Peron  2.5
+Michel Ciment               7.5
+Mathieu Macheret            2.5
+Katja Nicodemus             2.5
+Ben Kentsberg               7.5
+Wang Muyan                  5
+Screen International        7.5
 # Le film français
 Gaël Golhen              
 Julien Rousset           
