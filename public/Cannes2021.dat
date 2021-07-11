@@ -21,7 +21,6 @@ package Cannes::rurban::2021; # -*- perl -*-
 #   http://jury.critic.de/cannes/
 #   https://twitter.com/screendaily
 #   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
-#   https://icsfilm.org/category/cannes-ics-grid/
 #   https://kinoart.ru/cannes2021/
 # Reviews:
 #   http://variety.com/c/reviews/
@@ -1497,7 +1496,7 @@ Tim Robey/Robbie Collin     7.5
 Peter Bradshaw              2.5
 Anton Dolin                 7.5
 Julien Gester/Didier Peron  9
-Michel Ciment                5
+Michel Ciment               5
 Mathieu Macheret            7.5
 Katja Nicodemus             7.5
 Ben Kentsberg               7.5
@@ -5529,6 +5528,7 @@ Fernando Vasquez    1
 Demetrios Matheou       https://www.screendaily.com/reviews/the-employer-and-the-employee-cannes-review/5161066.article
 Jared Mobarak         B  https://thefilmstage.com/cannes-review-the-employer-and-the-employee/
 Nicholas Bell       5   https://www.ioncinema.com/reviews/manuel-nieto-zas-the-employer-and-the-employee-review
+Matthew Joseph Jenner   https://icsfilm.org/reviews/cannes-2021-review-the-employer-and-the-employee-manuel-nieto-zas/
 #critic.de
 #letterboxd
 DIEGO BATLLE        8   https://letterboxd.com/diegobatlle/film/the-employer-and-the-employee/
@@ -5921,6 +5921,7 @@ Patrick Devitt      4
 "Small Body" (Laura Samani, Italy/France/Slovenia) [Semaine]
 
 Wendy Ide               https://www.screendaily.com/reviews/small-body-cannes-review/5160951.article
+Erwan Desbois           https://icsfilm.org/reviews/cannes-2021-review-piccolo-corpo-laura-samani/
 #critic.de
 Frédéric Jaeger     5
 Giovanni Marchini Camina 4
@@ -5928,6 +5929,7 @@ Giovanni Marchini Camina 4
 "Anaïs in Love" (Charline Bourgeois-Tacquet, France) [Semaine] Special
 
 Allan Hunter            https://www.screendaily.com/reviews/anais-in-love-cannes-review/5160805.article
+Nicol Latayan           https://icsfilm.org/reviews/cannes-2021-review-anais-in-love-charline-bourgeois-tacquet/
 #critic.de
 Giovanni Marchini Camina 4
 #letterboxd
@@ -6525,6 +6527,7 @@ mselcukbilge        2
 
 "Aya" (Simon Coulibaly Gillard, Belgium/France) [ACID]
 
+Matthew Joseph Jenner   https://icsfilm.org/reviews/cannes-2021-review-aya-simon-coulibaly-gillard/
 #critic.de
 #letterboxd
 
