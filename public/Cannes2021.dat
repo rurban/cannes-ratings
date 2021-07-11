@@ -21,6 +21,7 @@ package Cannes::rurban::2021; # -*- perl -*-
 #   http://jury.critic.de/cannes/
 #   https://twitter.com/screendaily
 #   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
+#   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://kinoart.ru/cannes2021/
 #   http://www.chaosreign.fr/
 #   https://www.cahiersducinema.com/wp-content/uploads/2021/07/Etoiles_Cannes_1107-1-1492x1536.png
@@ -119,6 +120,16 @@ Cédric Succivalli        9
 Anna Tatarska            6
 Meredith Taylor          
 Maria Ulfsak-Sheripova   6
+# Chinese @CriticsGrid
+Liu Min                7.5
+Jenny                  7.5
+Xavier                 5
+Hang                   9
+Lily Gu                9
+Liu Ying               7.5
+Luk                    7.5
+Xiaoyi                 5
+Estelle                7.5
 # chaosreign.fr
 Thomas Aïdan           10
 Philippe Azoury        6
@@ -726,6 +737,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    3
+# Chinese @CriticsGrid
+Liu Min                5
+Jenny                  1
+Xavier                 7.5
+Hang                   7.5
+Lily Gu                1
+Liu Ying               2.5
+Luk                    5
+Xiaoyi                 5
+Estelle                5
 # chaosreign.fr
 Thomas Aïdan           4
 Philippe Azoury        6
@@ -919,6 +940,16 @@ Cédric Succivalli         6
 Anna Tatarska             7
 Meredith Taylor           8
 Maria Ulfsak-Sheripova    7
+# Chinese @CriticsGrid
+Liu Min                7.5
+Jenny                  7.5
+Xavier                 9
+Hang                   5
+Lily Gu                5
+Liu Ying               7.5
+Luk                    7.5
+Xiaoyi                 7.5
+Estelle                7.5
 # chaosreign.fr
 Thomas Aïdan            4
 Philippe Azoury         
@@ -1147,6 +1178,16 @@ Cédric Succivalli         4
 Anna Tatarska             
 Meredith Taylor           8
 Maria Ulfsak-Sheripova    4
+# Chinese @CriticsGrid
+Liu Min                5
+Jenny                  5
+Xavier                 5
+Hang                   2.5
+Lily Gu                2.5
+Liu Ying               2.5
+Luk                    5
+Xiaoyi                 2.5
+Estelle                5
 # chaosreign.fr
 Thomas Aïdan            4
 Philippe Azoury         
@@ -1337,6 +1378,16 @@ Cédric Succivalli         7
 Anna Tatarska             10
 Meredith Taylor           
 Maria Ulfsak-Sheripova    9
+# Chinese @CriticsGrid
+Liu Min                9
+Jenny                  7.5
+Xavier                 7.5
+Hang                   5
+Lily Gu                7.5
+Liu Ying               5
+Luk                    9
+Xiaoyi                 7.5
+Estelle                7.5
 # chaosreign.fr
 Thomas Aïdan            6
 Philippe Azoury         
@@ -1638,6 +1689,16 @@ Cédric Succivalli         9
 Anna Tatarska             3
 Meredith Taylor           
 Maria Ulfsak-Sheripova    5
+# Chinese @CriticsGrid
+Liu Min                7.5
+Jenny                  5
+Xavier                 7.5
+Hang                   9
+Lily Gu                9
+Liu Ying               7.5
+Luk                    2.5
+Xiaoyi                 9
+Estelle                7.5
 # chaosreign.fr
 Thomas Aïdan            10
 Philippe Azoury         8
@@ -2144,6 +2205,16 @@ Cédric Succivalli         6
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                7.5
+Jenny                  5
+Xavier                 9
+Hang                   2.5
+Lily Gu                7.5
+Liu Ying               5
+Luk                    5
+Xiaoyi                 7.5
+Estelle                7.5
 # chaosreign.fr
 Thomas Aïdan            1
 Philippe Azoury         4
@@ -2340,6 +2411,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                9
+Jenny                  5
+Xavier                 9
+Hang                   7.5
+Lily Gu                5
+Liu Ying               
+Luk                    5
+Xiaoyi                 7.5
+Estelle                7.5
 # chaosreign.fr
 Thomas Aïdan            4
 Philippe Azoury         
@@ -2492,6 +2573,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                5
+Jenny                  1
+Xavier                 1
+Hang                   1
+Lily Gu                2.5
+Liu Ying               1
+Luk                    1
+Xiaoyi                 1
+Estelle                2.5
 # chaosreign.fr
 Thomas Aïdan            
 Philippe Azoury         
@@ -2639,6 +2730,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                
+Jenny                  
+Xavier                 
+Hang                   
+Lily Gu                
+Liu Ying               
+Luk                    
+Xiaoyi                 
+Estelle                
 # chaosreign.fr
 Thomas Aïdan            
 Philippe Azoury         
@@ -2727,6 +2828,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                
+Jenny                  
+Xavier                 
+Hang                   
+Lily Gu                
+Liu Ying               
+Luk                    
+Xiaoyi                 
+Estelle                
 # chaosreign.fr
 Thomas Aïdan            
 Philippe Azoury         
@@ -2813,6 +2924,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                
+Jenny                  
+Xavier                 
+Hang                   
+Lily Gu                
+Liu Ying               
+Luk                    
+Xiaoyi                 
+Estelle                
 # chaosreign.fr
 Thomas Aïdan            
 Philippe Azoury         
@@ -2910,6 +3031,16 @@ Cédric Succivalli
 Anna Tatarska             
 Meredith Taylor           
 Maria Ulfsak-Sheripova    
+# Chinese @CriticsGrid
+Liu Min                
+Jenny                  
+Xavier                 
+Hang                   
+Lily Gu                
+Liu Ying               
+Luk                    
+Xiaoyi                 
+Estelle                
 # chaosreign.fr
 Thomas Aïdan            
 Philippe Azoury         
@@ -8339,21 +8470,19 @@ Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 #Nicholas Bell (ioncinema, USA)
 #Dennis Lim (Film Society Lincoln Center, USA)
 #";
-#$critics_group[$i] = "Chinese Grid";
-## https://twitter.com/CriticsGrid
-#$critics[$i++] = "
-#Li Xun (CTP Cinema, China)
-#Liu Min (Sina Movie, China)
-#Muyan (Ellemen, France)
-#Yin Xiang (Cinematik, China)
-#Luo Jin (Iris, China)
-#Xie Meng (Producer+Southern Weekly, China)
-#PeterCat (DeepFocus, China)
-#Taotao (TaoMovie, China)
-#Qin Wan (Phoenix, China)
-#Emily Liang (EmilyFilms, USA)
-#Zeyuan (Worldscreen, China)
-#";
+$critics_group[$i] = "Chinese Grid";
+# https://twitter.com/hanglutvd
+$critics[$i++] = "
+Liu Min (Sina Movie, China)
+Jenny (Movie Forever, China)
+Xavier (NaiguanFilm, China)
+Hang (ToroScope, China)
+Lily Gu (Phoenix, China) 
+Liu Ying (DeepFocus, China)   
+Luk (FengMovie, China)
+Xiaoyi (Aside from Books, China)
+Estelle (Initium Media)
+";
 #$critics_group[$i] = "Les Inrockuptibles";
 #$critics[$i++] = "
 #Emily Barnett (Les Inrockuptibles, France)
