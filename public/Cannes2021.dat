@@ -25,6 +25,7 @@ package Cannes::rurban::2021; # -*- perl -*-
 #   https://kinoart.ru/cannes2021/
 #   http://www.chaosreign.fr/
 #   https://www.cahiersducinema.com/wp-content/uploads/2021/07/Etoiles_Cannes_1107-1-1492x1536.png
+#   http://www.filmneweurope.com/news/region/item/121970-fne-at-cannes-2021-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
 # Reviews:
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -66,6 +67,7 @@ Rory O'Connor         B+  https://thefilmstage.com/cannes-review-annette-is-a-gn
 Jon Negroni           https://awardswatch.com/annette-review-leos-caraxs-occasionally-unwieldy-rock-opera-gleefully-leans-into-camp-cannes-review/
 #critic.de
 Andrey Arnold         7.5
+Pamela Biénzobas     7.5
 Frédéric Jaeger     9       https://www.critic.de/film/annette-15233/
 Till Kadritzke        7.5
 Giovanni Marchini Camina 7.5
@@ -159,6 +161,18 @@ Egor Moskvitin       8
 Zinaida Pronchenko   9
 Andrey Plakhov       9
 Anna Strelchuk       8
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 Letterboxd 14_Ratings	7.8  https://letterboxd.com/film/annette/
 adrien              10
@@ -469,6 +483,7 @@ Maxime1             9
 Lisa_Kaminska       9
 Orlan Harris        9
 Sarachi _she/her_   9   https://letterboxd.com/achiii/film/annette/
+Akuuretari          8
 lise2403            8
 aminerbhh           8
 BlueC               8
@@ -546,7 +561,6 @@ romainjoseph        8
 Gaetan74500         8
 Célia Audebeau      8
 Antonin Gérolt      8
-Akuuretari          8
 clarinette          8   https://letterboxd.com/clarinette/film/annette/
 Jamjamroms          8
 ClarityTheOne       8
@@ -684,6 +698,7 @@ Rory O'Connor         B+  https://thefilmstage.com/cannes-review-aheds-knee-is-a
 Peter Bradshaw    6    https://www.theguardian.com/film/2021/jul/07/aheds-knee-review-patchily-brilliant-account-of-israeli-trauma
 #critic.de
 Andrey Arnold         7.5
+Pamela Biénzobas     9
 Frédéric Jaeger     7.5
 Till Kadritzke        6
 Giovanni Marchini Camina 7.5
@@ -776,10 +791,23 @@ Egor Moskvitin       8
 Zinaida Pronchenko   4
 Andrey Plakhov       6
 Anna Strelchuk       9
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 Alonso Díaz de la Vega 9   https://letterboxd.com/alonsodvt/film/aheds-knee/
 Luke Hicks          9   https://letterboxd.com/lou_kicks/film/aheds-knee/
 micangker           9
+Pincent             8
 Orr Sigoli          8   https://letterboxd.com/orrsigoli/film/aheds-knee/
 MohamadMahmoud      8
 MadWillou           8
@@ -979,6 +1007,18 @@ Egor Moskvitin       8
 Zinaida Pronchenko   9
 Andrey Plakhov       8
 Anna Strelchuk       6
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 antondolin          10
 FilmLandEmpire      10
@@ -1082,6 +1122,7 @@ Enzo Croisier       6
 Ethan Guglielmo     6
 Sofia Vavassori     6
 snarkjazzo          6
+iana                5
 Christian           5
 lncjoa17            5
 Alexandre_dgr       5
@@ -1095,7 +1136,6 @@ MathildeNarros      5
 Pau Canivell        5
 Arthur              5
 peachfuzz           5
-iana                5
 Max Borg            5
 feridemercury       5
 Brimmer-Beller      5
@@ -1108,6 +1148,7 @@ rose                4
 benjos              4
 Matteo Milanino     4
 Louka               4
+DeoFavente          3
 blompot             3
 Katalin             3
 waterwouter         3
@@ -1217,6 +1258,18 @@ Egor Moskvitin       8
 Zinaida Pronchenko   2
 Andrey Plakhov       4
 Anna Strelchuk       8
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 luizaferrero        10   https://letterboxd.com/luizaferrero/film/lingui/
 BoredThatswhy       10
@@ -1325,6 +1378,7 @@ Ed Frankl             A-  https://thefilmstage.com/cannes-review-the-worst-perso
 Jon Negroni           https://awardswatch.com/the-worst-person-in-the-world-review-joachim-triers-flirtatious-love-story-might-be-the-best-film-at-cannes-cannes-review/
 #critic.de
 Andrey Arnold         7.5
+Pamela Biénzobas     9
 Frédéric Jaeger     5
 Till Kadritzke        2.5
 Giovanni Marchini Camina 4
@@ -1417,6 +1471,18 @@ Egor Moskvitin       9
 Zinaida Pronchenko   6
 Andrey Plakhov       8
 Anna Strelchuk       9
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 nicopbllr           10
 Ignace Maekelbergh  10   https://letterboxd.com/ignacemaek/film/the-worst-person-in-the-world/
@@ -1474,6 +1540,7 @@ PA27                9
 liyamfolman         9
 Grimault            9
 Mikko Pihkoluoma    9
+sergemateso         8
 Ma20                8
 Bananas             8
 Chris Swan          8
@@ -1728,6 +1795,18 @@ Egor Moskvitin       6
 Zinaida Pronchenko   9
 Andrey Plakhov       9
 Anna Strelchuk       9
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 Letterboxd 14_Ratings	7.7  https://letterboxd.com/film/benedetta/
 2Pack               10
@@ -1794,6 +1873,7 @@ Victor              9
 sonia 🦎             9
 rodrick567          9
 Adam Solomons       9   https://letterboxd.com/adamsolomons5/film/benedetta/
+fauxissime          8
 Pauline ✨           8   https://letterboxd.com/paulinectar/film/benedetta/
 Diogo Serafim       8   https://letterboxd.com/diogoserafim/film/benedetta/
 Quentin             8
@@ -2044,6 +2124,7 @@ Filmfadern          6
 MelvinUdall         6   https://letterboxd.com/melvinudall/film/benedetta/
 Ethan Guglielmo     6
 nininha             6
+Abdou               5   https://letterboxd.com/abdouksb/film/benedetta/
 Guillaume           5
 maria               5   https://letterboxd.com/girleye/film/benedetta/
 VellutoGrigio       5
@@ -2244,6 +2325,18 @@ Egor Moskvitin       9
 Zinaida Pronchenko   4
 Andrey Plakhov       6
 Anna Strelchuk       4
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 nicopbllr           10
 clementc87          10
@@ -2263,10 +2356,13 @@ axelle 🌾            9
 The Oscar Expert    9
 blakeclipse         9
 Marshall Benjamin   9
+Margot Moret        8
+sergemateso         8
+Eulalie BONNET      8
+Abdou               8
 Orlan Harris        8
 rosa174             8
 Nenette             8
-Brygmi              8
 Erica               8   https://letterboxd.com/debellalosai/film/the-divide-2021-1/
 leandre_bruno       8
 Ulysse22            8
@@ -2297,6 +2393,7 @@ Jack Salvadori      8   https://letterboxd.com/jacksalvadori/film/the-divide-202
 Adam Solomons       8
 lady bird           8
 Matchuko            8
+Brygmi              7
 Simon               7
 RentonDuc           7   https://letterboxd.com/rentonduc/film/the-divide-2021-1/
 MelvinUdall         7   https://letterboxd.com/melvinudall/film/the-divide-2021-1/
@@ -2450,16 +2547,32 @@ Egor Moskvitin       9
 Zinaida Pronchenko   9
 Andrey Plakhov       8
 Anna Strelchuk       4
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 Orlan Harris        10
 BoredThatswhy       10   https://letterboxd.com/boredthatswhy/film/compartment-no-6/
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/compartment-no-6/
+Abdou               9
+mat_mat             9   https://letterboxd.com/mat_mat/film/compartment-no-6/
 onozorobi           9
 Margot Moret        9
 nininha             9
 Ferenc Varga        9
 Gabriele Niola      9   https://letterboxd.com/gniola/film/compartment-no-6/
 Mikko Pihkoluoma    9   https://letterboxd.com/mikkopihkoluoma/film/compartment-no-6/
+iamwalrus           8
+Brygmi              8
 liloubatt           8
 hugo                8
 Mike_G              8
@@ -2473,6 +2586,7 @@ Christer Emanuelsson 8
 rosa174             8
 FoggyNotion         8
 Max Borg            8
+Nenette             7
 victorabouaf        7
 Michael Mahoney     7
 Adam Solomons       7   https://letterboxd.com/adamsolomons5/film/compartment-no-6/
@@ -2489,6 +2603,8 @@ Roberto Gonzalez    7
 Thibaut Buccellato  7
 yerecho             7
 JamesRisk           7
+Michał Wasilewski   6   https://letterboxd.com/wasileke/film/compartment-no-6/
+Louka               6   https://letterboxd.com/louka974/film/compartment-no-6/
 waterwouter         6
 Hugo                6   https://letterboxd.com/delkey/film/compartment-no-6/
 Melyssa             6
@@ -2503,6 +2619,7 @@ John Bleasdale      6   https://letterboxd.com/drjonty/film/compartment-no-6/
 feridemercury       6
 Shubhra             6
 Pau Canivell        6
+Matteo Milanino     5
 MohamadMahmoud      5
 Blake Williams      5
 Anurag Kashyap      5
@@ -2612,10 +2729,23 @@ Egor Moskvitin
 Zinaida Pronchenko   2
 Andrey Plakhov        
 Anna Strelchuk        
+# FNE Critics
+Andrea Martini          
+Eva Peydro              
+Evgenia Tirdatova       
+Isabelle Danel          
+Kirill Razlogov         
+Marie-Pauline Mollaret  
+Mariona Borruli                    
+Miguel Munoz            
+Ninos Mikelides         
+Paulo Portugal          
+Raul Reis               
 #letterboxd
 gubarenko           10   https://letterboxd.com/gubarenko/film/flag-day/
 axelle 🌾            8   https://letterboxd.com/valsedamelie/film/flag-day/
 Adam Hakimi         8
+Margot Moret        7
 amber34             7   https://letterboxd.com/amber34/film/flag-day/
 rosa174             7
 victoire            7   https://letterboxd.com/vic_starkwalker/film/flag-day/
@@ -2639,6 +2769,9 @@ simo_rede           5
 Shecanbeanyone      5
 Zahra_B             5
 Matchuko            5
+wolfie25            4   https://letterboxd.com/wolfie25/film/flag-day/
+Francescatraini     4
+giacsec             4
 Jordan Ruimy        4   https://letterboxd.com/jordan_ruimy/film/flag-day/
 Jakob Jakob         4   https://letterboxd.com/jakobjakob/film/flag-day/
 Bananas             4
@@ -2656,6 +2789,7 @@ Max Borg            4
 peachfuzz           4   https://letterboxd.com/peachfuzzuru/film/flag-day/
 Tara                4
 camile              4
+LiorKa              3
 Carlos Elorza       3
 Liz 🌿               3   https://letterboxd.com/_cellardoor_/film/flag-day/
 Jelle Schot         3
@@ -4117,6 +4251,7 @@ Matteo Milanino     3
 
 Deborah Young           https://www.hollywoodreporter.com/movies/movie-reviews/rehana-maryam-noor-review-cannes-2021-1234978094/
 #critic.de
+Pamela Biénzobas     6
 Frédéric Jaeger     6
 Hannah Pilarczyk      6
 # Le film français
@@ -4480,6 +4615,7 @@ Shecanbeanyone      3
 Wendy Ide               https://www.screendaily.com/reviews/house-arrest-cannes-review/5161445.article
 #critic.de
 Andrey Arnold         9
+Pamela Biénzobas     7.5
 Giovanni Marchini Camina 5
 Daniela Persico       4
 Hannah Pilarczyk      4
@@ -4628,6 +4764,7 @@ Diego Lerer         4
 
 Nicholas Bell         7   https://www.ioncinema.com/reviews/kira-kovalenko-unclenching-the-fists-review
 #critic.de
+Pamela Biénzobas     6
 Daniela Persico       5
 # Le film français
 Gaël Golhen              
@@ -4660,7 +4797,9 @@ Bénédicte           8
 gubarenko           8
 Sarah W             8   https://letterboxd.com/dselwyns/film/unclenching-the-fists/
 Morris Yang         8   https://letterboxd.com/metamodernmarx/film/unclenching-the-fists/
+Orlan Harris        7
 arthurco            7
+Vito                6   https://letterboxd.com/vto/film/unclenching-the-fists/
 Pavao Vlajcic       6   https://letterboxd.com/powwow/film/unclenching-the-fists/
 Carlos Elorza       6
 Roberto Gonzalez    6
@@ -4797,6 +4936,9 @@ Ariel Schweitzer
 Louis Séguin           
 Marcus Uzal            
 #letterboxd
+Louka               10   https://letterboxd.com/louka974/film/the-innocents-2021/
+Michelle            9
+Margoh626           8
 Tsappos             8
 Melyssa             7   https://letterboxd.com/quarksing/film/the-innocents-2021/
 Thibaut Buccellato  7
@@ -4809,12 +4951,17 @@ Alexandre_dgr       7
 leandre_bruno       7
 AngeloGiordano      7
 grouchoromano       7
+AntoineBooyo        6   https://letterboxd.com/antoinebooyo/film/the-innocents-2021/
+Cedric Muyres       6
 Fanden              6
 Oscar de la Torre Suárez 6
-iana                6
 Arthur Cios         6
 EmanueleTresca      6   https://letterboxd.com/emanueletresca/film/the-innocents-2021/
 Roberto Gonzalez    6
+iana                5
+Brygmi              5
+mat_mat             5   https://letterboxd.com/mat_mat/film/the-innocents-2021/
+Gabriele Niola      5   https://letterboxd.com/gniola/film/the-innocents-2021/
 JamesRisk           5
 Domenico Gallo      4
 Marloes den Hoed    4
@@ -4926,6 +5073,7 @@ MadWillou           8
  1st film
 
 #critic.de
+Pamela Biénzobas     6
 Giovanni Marchini Camina 6
 Daniela Persico       2.5
 # Le film français
@@ -5172,6 +5320,8 @@ Louis Séguin
 Marcus Uzal            
 #letterboxd
 Tdrk                8
+LiorKa              7
+Matteo Milanino     7
 rosa174             7
 Philippe            7
 Matchuko            7
@@ -5183,10 +5333,12 @@ Orlan Harris        6
 celiecelie          6
 micangker           6
 Icthus_Film         6   https://letterboxd.com/icthus_film/film/peaceful/
+sergemateso         5
 lena                5
 benjos              5
 Domenico Gallo      5
 Solenn              4
+Abdou               3   https://letterboxd.com/abdouksb/film/peaceful/
 
  
 "THE VELVET UNDERGROUND" (Todd HAYNES, USA) [Out Of Competition]
@@ -5325,7 +5477,6 @@ Quentin_prz         9
 leapaw              8
 nicopbllr           8
 Lucie               8   https://letterboxd.com/llv23/film/stillwater-2021/
-mat_mat             8   https://letterboxd.com/mat_mat/film/stillwater-2021/
 Egor Belikov        8
 Christoph Schelb    8
 justnatj            8   https://letterboxd.com/justnatj/film/stillwater-2021/
@@ -5335,6 +5486,7 @@ Jean-Francois Breton 8
 hugo                8
 rebecca             8
 Arno Ekmekji        8
+mat_mat             7   https://letterboxd.com/mat_mat/film/stillwater-2021/
 Elsa                7
 onozorobi           7
 Jakob Jakob         7
@@ -5538,6 +5690,7 @@ Thibaultvdw         6
 Max Borg            6
 Ulysse22            6
 PA27                6   https://letterboxd.com/pa27/film/bloody-oranges/
+zineb               5
 Patrick Devitt      5
 Sergey Nekrasov     5   https://letterboxd.com/batesmote1/film/bloody-oranges/
 Antoine Waked       5
@@ -5575,6 +5728,7 @@ Arthur Cios         8
 Max Borg            7
 Quentin Le Gohic    7
 Philippe            6
+LiorKa              5
 solaldunckel        5
 theodorux           5
 
@@ -5903,7 +6057,7 @@ peachfuzz           3
 Patrick Devitt      3
 arxsol              3   https://letterboxd.com/arxsol/film/mothering-sunday/
 Brimmer-Beller      3   https://letterboxd.com/brimmerbeller/film/mothering-sunday/
-mat_mat             2
+mat_mat             2   https://letterboxd.com/mat_mat/film/mothering-sunday/
 Philou              2
 Eva                 2
 zineb               2
@@ -6321,6 +6475,7 @@ Jason Solomons     9.2 https://www.thewrap.com/the-souvenir-part-ii-film-review-
 Pat Brown          8.8 https://www.slantmagazine.com/film/review-the-souvenir-part-ii-is-a-tribute-to-art-as-a-necessary-component-of-life/
 Rory O'Connor      7.5 https://thefilmstage.com/cannes-review-the-souvenir-part-ii-is-a-daring-confounding-meta-experiment-from-joanna-hogg/
 #critic.de
+Pamela Biénzobas     9
 Frédéric Jaeger     7.5
 Till Kadritzke        9
 Giovanni Marchini Camina 6
@@ -6443,6 +6598,7 @@ Kate Erbland        B-   https://www.indiewire.com/2021/07/the-hill-where-liones
 Tran Ngo                 https://icsfilm.org/reviews/cannes-2021-review-the-hill-where-lionesses-roar-luana-bajrami/
 Nicholas Bell       6   https://www.ioncinema.com/reviews/luana-bajrami-the-hill-where-the-lionesses-roar-review
 #critic.de
+Pamela Biénzobas     7.5
 Giovanni Marchini Camina 7.5
 Daniela Persico       6
 Philipp Schwarz       5
@@ -6584,6 +6740,7 @@ Jared Mobarak         B  https://thefilmstage.com/cannes-review-the-employer-and
 Nicholas Bell       5   https://www.ioncinema.com/reviews/manuel-nieto-zas-the-employer-and-the-employee-review
 Matthew Joseph Jenner   https://icsfilm.org/reviews/cannes-2021-review-the-employer-and-the-employee-manuel-nieto-zas/
 #critic.de
+Pamela Biénzobas     5
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  
 Fernando Ganzo         
@@ -6630,6 +6787,7 @@ Blake Williams      7
 iana                7   https://letterboxd.com/ianamurray/film/hit-the-road-2021/
 AntoineBooyo        7   https://letterboxd.com/antoinebooyo/film/hit-the-road-2021/
 David Ehrlich       7   https://letterboxd.com/davidehrlich/film/hit-the-road-2021/
+iamwalrus           6
 Maya                6   https://letterboxd.com/barenstein/film/hit-the-road-2021/
 Cedric Muyres       6   https://letterboxd.com/chasingreels/film/hit-the-road-2021/
 Florent Boutet      6
@@ -6729,6 +6887,7 @@ Louis Séguin
 Marcus Uzal            
 #letterboxd
 marion heinrich     7
+kerem_akca          6
 JamesRisk           6
 Antoine Waked       4
 Lily Gu             4
@@ -6921,6 +7080,7 @@ Marcus Uzal
 "Returning to Reims (Fragments)" (Jean-Gabriel Périot, France) [Quinzaine]
 
 #critic.de
+Till Kadritzke        7.5
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  
 Fernando Ganzo         
@@ -6938,6 +7098,7 @@ monab               7
 axelle 🌾            7   https://letterboxd.com/valsedamelie/film/returning-to-reims-fragments/
 Clémence            7
 ilacoclea           6
+Miguel Muñoz Garnica 5
 Blake Williams      5
 
 "Our Men" (Rachel Lang, France/Belgium) [Quinzaine]
@@ -7181,6 +7342,7 @@ zineb               4
 Nikki Baughan           https://www.screendaily.com/reviews/softie-cannes-review/5160956.article
 Nicholas Bell       6   https://www.ioncinema.com/reviews/samuel-theis-softie-petite-nature-review
 #critic.de
+Pamela Biénzobas     5
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  
 Fernando Ganzo         
@@ -7277,6 +7439,7 @@ RentonDuc           9   https://letterboxd.com/rentonduc/film/anais-in-love/
 Shubhra             8
 alellow             8
 PA27                8   https://letterboxd.com/pa27/film/anais-in-love/
+ludovicbeot         7
 Margoh626           7
 iamwalrus           7
 MadWillou           7
@@ -7588,6 +7751,7 @@ Ariel Schweitzer
 Louis Séguin           
 Marcus Uzal            
 #letterboxd
+JonOsmond           10
 iRATE films         10
 Devang Pathak       10
 Jeyfein             9
@@ -7612,7 +7776,6 @@ Pincent             8
 Björn Bolderdijk    8
 Max                 8
 Paula Bērziņa       8
-JonOsmond           7
 NanSLi              7   https://letterboxd.com/nansli/film/a-corsican-summer/
 Arda Günaydın       7
 CarmeloLeonardi     7
@@ -8525,29 +8688,21 @@ Anna Strelchuk (Intermedia, Ru)
 #Lucile Bellan (Artistik Rezo, France)
 #Thomas Gastaldi (Wask / FilmDeCulte, France)
 #";
-#$critics_group[$i] = "FNE Critics";
-#$critics[$i++] = "
-#Alberto Ramos (Havana International Festival, Cuba)
-#Andrea Martini (La Nazione/Il Giorno, Italy)
-#Anna Serdiukow (Kultura Liberalna/Cinergia European Cinema Forum, Poland)
-#Barbara Lorey (Freelance, France)
-#Bojidar Manov (Critic/Journalist, Bulgaria)
-#Eva Peydro (El Hype, España)
-#Gautaman Bhaskaran (Seoul Times/Hindustan Times, India)
-#Gyenge Zsolt (Film critic/Academic, Hungary)
-#Isabelle Danel (Freelance, France)
-#Janusz Wróblewski (Polityka, Poland)
-#Joao Antunes (Jornal de Notícias, Portugal)
-#Jorge Gutman (El Popular, Canada)
-#Jose Luis Losa (Cineuropa Film Festival, España)
-#Kerem Akca (Film critic, Turkey)
-#Kirill Razlogov (Culture and Art, Russia)
-#Marco Zucchi (Semaine/Locarno, Suisse)
-#Ninos Mikelides (ELEFTHEROTYPIA, Greece)
-#Pamela Jahn (Electric Sheep, UK)
-#Rita Di Santo (Freelance, UK)
-#Vecdi Sayar (Hurriyet, Turkey)
-#";
+$critics_group[$i] = "FNE Critics";
+$critics[$i++] = "
+# FNE Critics
+Andrea Martini (La Nazione/Il Giorno, Italy)
+Eva Peydro (El Hype, España)
+Evgenia Tirdatova 
+Isabelle Danel (Freelance, France)
+Kirill Razlogov (Culture and Art, Russia)
+Marie-Pauline Mollaret 
+Mariona Borruli 
+Miguel Munoz 
+Ninos Mikelides (ELEFTHEROTYPIA, Greece)
+Paulo Portugal (Correio da Manhã, Portugal)
+Raúl Reis (Fipresci, Lux)               
+";
 $critics_group[$i] = "chaosreign.fr";
 $critics[$i++] = "
 Thomas Aïdan (La 7e Obsession, France)
