@@ -168,7 +168,7 @@ Evgenia Tirdatova       10
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  6
-Mariona Borruli         8          
+Mariona Borrull         8          
 Miguel Munoz            10
 Ninos Mikelides         
 Paulo Portugal          
@@ -798,7 +798,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -1014,7 +1014,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  4
-Mariona Borruli         4          
+Mariona Borrull         4          
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -1265,7 +1265,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -1478,7 +1478,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -1802,7 +1802,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -2332,7 +2332,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -2554,7 +2554,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -2736,7 +2736,7 @@ Evgenia Tirdatova
 Isabelle Danel          
 Kirill Razlogov         
 Marie-Pauline Mollaret  
-Mariona Borruli                    
+Mariona Borrull                    
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
@@ -8692,12 +8692,12 @@ $critics_group[$i] = "FNE Critics";
 $critics[$i++] = "
 Andrea Martini (La Nazione/Il Giorno, Italy)
 Eva Peydro (El Hype, España)
-Evgenia Tirdatova ()
+Evgenia Tirdatova (Mosco Film Festival, Russia)
 Isabelle Danel (Freelance, France)
 Kirill Razlogov (Culture and Art, Russia)
-Marie-Pauline Mollaret ()
-Mariona Borruli ()
-Miguel Munoz ()
+Marie-Pauline Mollaret (Ecran Noir,Fipresci, France)
+Mariona Borrull (Freelance, España)
+Miguel Munoz (Actor, España)
 Ninos Mikelides (ELEFTHEROTYPIA, Greece)
 Paulo Portugal (Correio da Manhã, Portugal)
 Raúl Reis (Fipresci, Lux)               
