@@ -22,6 +22,7 @@ package Cannes::rurban::2021; # -*- perl -*-
 #   https://twitter.com/screendaily
 #   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
 #   https://kinoart.ru/cannes2021/
+#   http://www.chaosreign.fr/
 # Reviews:
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -128,6 +129,13 @@ Egor Moskvitin       8
 Zinaida Pronchenko   9
 Andrey Plakhov       9
 Anna Strelchuk       8
+# chaosreign.fr
+Thomas Aïdan           9
+Philippe Azoury        6
+Karelle Fitoussi       
+Julien Gester          
+Jean-Jacky Goldberg    
+Philippe Rouyer        
 #letterboxd
 Letterboxd 14_Ratings	7.8  https://letterboxd.com/film/annette/
 adrien              10
@@ -257,6 +265,7 @@ saarfranke          10
 habemuspapaye       10
 rodrick567          10
 lucia               10   https://letterboxd.com/lucynema/film/annette/
+Squid Ward          9
 Noé Blanc           9
 Adrien              9
 - ̗̀em ̖́-          9
@@ -439,6 +448,9 @@ Maxime1             9
 Lisa_Kaminska       9
 Orlan Harris        9
 Sarachi _she/her_   9   https://letterboxd.com/achiii/film/annette/
+BlueC               8
+Nicolas             8
+helesbienne         8
 Djain FLALLO        8
 LePanpan            8
 solaldunckel        8
@@ -1326,6 +1338,7 @@ PA27                9
 liyamfolman         9
 Grimault            9
 Mikko Pihkoluoma    9
+Ma20                8
 Bananas             8
 Chris Swan          8
 rosa174             8
@@ -1552,6 +1565,7 @@ Andrey Plakhov       9
 Anna Strelchuk       9
 #letterboxd
 Letterboxd 14_Ratings	7.7  https://letterboxd.com/film/benedetta/
+victoire            10
 gamelan             10
 bribri63            10
 homergriffin95      10
@@ -1585,7 +1599,7 @@ wolfie25            9   https://letterboxd.com/wolfie25/film/benedetta/
 Ema Blin            9   https://letterboxd.com/emaa75/film/benedetta/
 Clem_Kloum          9   https://letterboxd.com/clem_kloum/film/benedetta/
 Louka               9   https://letterboxd.com/louka974/film/benedetta/
-wesley              9
+wesley              9   https://letterboxd.com/junkawang/film/benedetta/
 Davide Rapp         9
 Usernametoolong     9
 Chichil             9
@@ -1722,6 +1736,7 @@ Orlan Harris        8
 The Oscar Expert    8   https://letterboxd.com/theoscarexpert/film/benedetta/
 iana                8   https://letterboxd.com/ianamurray/film/benedetta/
 Antoine Waked       8
+Joaquim Pedro Pinheiro 7
 arman_fatic         7
 tamaranakib         7
 Carlos Elorza       7
@@ -1885,6 +1900,7 @@ gabin               5
 Sacha L.            5
 Raphaël Eyssautier  5
 Miguel Muñoz Garnica 5
+velf                4
 Leorigins           4
 Demetrio45          4
 JulieMC             4
@@ -1935,6 +1951,7 @@ Matteo Milanino     2
 Mike Le Watt        2
 Thibaultvdw         2
 Grimault            2
+badé                1
 hxhgiz              1
 BenJ                1   https://letterboxd.com/benjamindpl/film/benedetta/
 oceanelpltr         1   https://letterboxd.com/oceanelpltr/film/benedetta/
@@ -2127,6 +2144,7 @@ Jonathan Romney         https://www.screendaily.com/reviews/compartment-no-6-can
 #critic.de
 Andrey Arnold         9
 Giovanni Marchini Camina 9
+Philipp Schwarz       7.5
 # screen daily
 Tim Robey/Robbie Collin     
 Peter Bradshaw              
@@ -2196,6 +2214,7 @@ nininha             9
 Ferenc Varga        9
 Gabriele Niola      9   https://letterboxd.com/gniola/film/compartment-no-6/
 Mikko Pihkoluoma    9   https://letterboxd.com/mikkopihkoluoma/film/compartment-no-6/
+Ma20                8
 Marloes den Hoed    8
 Eulalie BONNET      8
 Simon               8   https://letterboxd.com/mangemanche/film/compartment-no-6/
@@ -2247,6 +2266,8 @@ David Rooney       5   https://www.hollywoodreporter.com/movies/movie-reviews/fl
 Robbie Collin      4   https://www.telegraph.co.uk/films/0/flag-day-cannes-review-father-daughter-project-wont-revive-sean/
 Tim Grierson       3   https://www.screendaily.com/reviews/flag-day-cannes-review/5161472.article
 Peter Bradshaw    8    https://www.theguardian.com/film/2021/jul/10/flag-day-review-sean-penn-shows-hes-still-got-it-in-tale-of-unrepentant-swindler
+Owen Gleiberman         https://variety.com/2021/film/reviews/flag-day-review-sean-penn-dylan-penn-1235016702/
+Tim Grierson            https://www.screendaily.com/reviews/flag-day-cannes-review/5161472.article
 #critic.de
 # screen daily
 Tim Robey/Robbie Collin     
@@ -2311,6 +2332,7 @@ Anna Strelchuk
 gubarenko           10   https://letterboxd.com/gubarenko/film/flag-day/
 axelle 🌾            8   https://letterboxd.com/valsedamelie/film/flag-day/
 Adam Hakimi         8
+amber34             7
 rosa174             7
 victoire            7   https://letterboxd.com/vic_starkwalker/film/flag-day/
 MathildeNarros      7
@@ -2333,12 +2355,13 @@ Shecanbeanyone      5
 Zahra_B             5
 Matchuko            5
 Jakob Jakob         5   https://letterboxd.com/jakobjakob/film/flag-day/
+Ma20                4
+Nenette             4
 MelvinUdall         4   https://letterboxd.com/melvinudall/film/flag-day/
 Finnvor1            4
 Domenico Gallo      4
 Simon               4
 FionaCae            4   https://letterboxd.com/fionacae/film/flag-day/
-Orlan Harris        4
 Alex Billington     4   https://letterboxd.com/firstshowing/film/flag-day/
 Christoph Schelb    4
 feridemercury       4
@@ -2350,11 +2373,12 @@ Liz 🌿               3   https://letterboxd.com/_cellardoor_/film/flag-day/
 Jelle Schot         3
 lena                3
 ikkenneth           3
-Jack Salvadori      3
+Jack Salvadori      3   https://letterboxd.com/jacksalvadori/film/flag-day/
 waterwouter         3
 Philippe            3   https://letterboxd.com/phillovesmovies/film/flag-day/
 Brimmer-Beller      3   https://letterboxd.com/brimmerbeller/film/flag-day/
 JamesRisk           3
+Orlan Harris        2
 PA27                2   https://letterboxd.com/pa27/film/flag-day/
 Luke Hicks          2   https://letterboxd.com/lou_kicks/film/flag-day/
 FilmLandEmpire      2   https://letterboxd.com/filmlandempire/film/flag-day/
@@ -4400,6 +4424,7 @@ Gabriele Niola      6   https://letterboxd.com/gniola/film/the-velvet-undergroun
 hugo                6
 Ryan Jones          6   https://letterboxd.com/ryanscjones/film/the-velvet-underground-2021/
 Léon                6   https://letterboxd.com/leleon/film/the-velvet-underground-2021/
+Ma20                5
 Nasogrigio          5
 Brian Formo         5   https://letterboxd.com/brianformo/film/the-velvet-underground-2021/
 mariarigualn        5
@@ -4577,7 +4602,7 @@ mattbanni           6
 Anurag Kashyap      6
 Zahra_B             6
 grouchoromano       6
-Douglas Greenwood   5
+Douglas Greenwood   5   https://letterboxd.com/douglasgrnwd/film/where-is-anne-frank/
 Carlos Elorza       5
 ilyassm             5
 Siward              5
@@ -4656,6 +4681,7 @@ Carson Timar        3   https://letterboxd.com/carson_timar/film/bloody-oranges/
 Carlo Neviani       3
 Eulalie BONNET      3
 Margot Moret        3
+Ma20                2
 ludovicbeot         2
 mattbrnd            2   https://letterboxd.com/mattbrnd/film/bloody-oranges/
 Diego Lerer         2
@@ -4771,6 +4797,7 @@ Quentin Le Gohic    6
 Arthur Cios         6
 Maelancholia        6   https://letterboxd.com/maelancholia/film/film:586741/
 Morris Yang         6   https://letterboxd.com/metamodernmarx/film/film:586741/
+Ma20                5
 arman_fatic         5
 yerecho             5
 Gabriele Niola      5   https://letterboxd.com/gniola/film/film:586741/
@@ -4793,6 +4820,7 @@ feridemercury       2   https://letterboxd.com/feridemercury/film/film:586741/
 #critic.de
 #letterboxd
 ethanfresh1206      9
+Iza Strehar         8
 Simon               8
 Cha                 8   https://letterboxd.com/charliseb/film/love-song-for-tough-guys/
 Quentin Le Gohic    8
@@ -4802,6 +4830,7 @@ theodorux           7
 victorabouaf        7
 Max Borg            7
 Arthur              7
+Ma20                6
 Orlan Harris        6
 Thibaut Buccellato  6
 solaldunckel        5
@@ -4831,6 +4860,7 @@ riverkun            10
 VeRo__              9
 Augustine Caille    9
 lena                9
+Ma20                8
 nicopbllr           8
 Kim                 8
 rosa174             8
@@ -4975,6 +5005,7 @@ Screendaily             https://www.screendaily.com/reviews/val-cannes-review/51
 Owen Gleiberman         https://variety.com/2021/film/reviews/val-review-val-kilmer-1235013154/
 #critic.de
 #letterboxd
+nerzama             10   https://letterboxd.com/nerzama/film/val/
 viola               10
 Ishir               10   https://letterboxd.com/cooldood13/film/val/
 janka pozsonyi      9
@@ -5403,6 +5434,7 @@ Diego Lerer         7
 Sarah W             7   https://letterboxd.com/dselwyns/film/clara-sola/
 ragua               7
 lady bird           7
+Ma20                6
 Roberto Gonzalez    6
 Cha                 6
 Alessandra_K        6   https://letterboxd.com/alessandra_kr/film/clara-sola/
@@ -5423,6 +5455,7 @@ Nicholas Bell       6   https://www.ioncinema.com/reviews/luana-bajrami-the-hill
 #critic.de
 Giovanni Marchini Camina 7.5
 Daniela Persico       6
+Philipp Schwarz       5
 #letterboxd
 doddy_              8
 monab               8
@@ -5683,10 +5716,13 @@ Arthur Cios         3
 
 Peter Bradshaw    8    https://www.theguardian.com/film/2021/jul/11/ali-ava-review-clio-barnard
 Fionnuala Halligan     https://www.screendaily.com/reviews/ali-and-ava-cannes-review/5161480.article
+Fionnuala Halligan      https://www.screendaily.com/reviews/ali-and-ava-cannes-review/5161480.article
 #critic.de
 #letterboxd
 sukaradinc          10
+Orlan Harris        7
 ilacoclea           7
+David Ehrlich       6
 Mikko Pihkoluoma    6
 Luke Murray         6
 JamesRisk           6
@@ -5932,6 +5968,7 @@ Allan Hunter            https://www.screendaily.com/reviews/anais-in-love-cannes
 Nicol Latayan           https://icsfilm.org/reviews/cannes-2021-review-anais-in-love-charline-bourgeois-tacquet/
 #critic.de
 Giovanni Marchini Camina 4
+Philipp Schwarz       5
 #letterboxd
 RentonDuc           9   https://letterboxd.com/rentonduc/film/anais-in-love/
 Shubhra             8
