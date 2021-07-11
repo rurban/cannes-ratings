@@ -163,16 +163,16 @@ Andrey Plakhov       9
 Anna Strelchuk       8
 # FNE Critics
 Andrea Martini          
-Eva Peydro              
-Evgenia Tirdatova       
+Eva Peydro              8
+Evgenia Tirdatova       10
 Isabelle Danel          
 Kirill Razlogov         
-Marie-Pauline Mollaret  
-Mariona Borruli                    
-Miguel Munoz            
+Marie-Pauline Mollaret  6
+Mariona Borruli         8          
+Miguel Munoz            10
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 Letterboxd 14_Ratings	7.8  https://letterboxd.com/film/annette/
 adrien              10
@@ -802,7 +802,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 Alonso Díaz de la Vega 9   https://letterboxd.com/alonsodvt/film/aheds-knee/
 Luke Hicks          9   https://letterboxd.com/lou_kicks/film/aheds-knee/
@@ -1009,16 +1009,16 @@ Andrey Plakhov       8
 Anna Strelchuk       6
 # FNE Critics
 Andrea Martini          
-Eva Peydro              
+Eva Peydro              6
 Evgenia Tirdatova       
 Isabelle Danel          
 Kirill Razlogov         
-Marie-Pauline Mollaret  
-Mariona Borruli                    
+Marie-Pauline Mollaret  4
+Mariona Borruli         4          
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 antondolin          10
 FilmLandEmpire      10
@@ -1269,7 +1269,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 luizaferrero        10   https://letterboxd.com/luizaferrero/film/lingui/
 BoredThatswhy       10
@@ -1482,7 +1482,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 nicopbllr           10
 Ignace Maekelbergh  10   https://letterboxd.com/ignacemaek/film/the-worst-person-in-the-world/
@@ -1806,7 +1806,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 Letterboxd 14_Ratings	7.7  https://letterboxd.com/film/benedetta/
 2Pack               10
@@ -2336,7 +2336,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 nicopbllr           10
 clementc87          10
@@ -2558,7 +2558,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 Orlan Harris        10
 BoredThatswhy       10   https://letterboxd.com/boredthatswhy/film/compartment-no-6/
@@ -2740,7 +2740,7 @@ Mariona Borruli
 Miguel Munoz            
 Ninos Mikelides         
 Paulo Portugal          
-Raul Reis               
+Raúl Reis               
 #letterboxd
 gubarenko           10   https://letterboxd.com/gubarenko/film/flag-day/
 axelle 🌾            8   https://letterboxd.com/valsedamelie/film/flag-day/
@@ -8690,15 +8690,14 @@ Anna Strelchuk (Intermedia, Ru)
 #";
 $critics_group[$i] = "FNE Critics";
 $critics[$i++] = "
-# FNE Critics
 Andrea Martini (La Nazione/Il Giorno, Italy)
 Eva Peydro (El Hype, España)
-Evgenia Tirdatova 
+Evgenia Tirdatova ()
 Isabelle Danel (Freelance, France)
 Kirill Razlogov (Culture and Art, Russia)
-Marie-Pauline Mollaret 
-Mariona Borruli 
-Miguel Munoz 
+Marie-Pauline Mollaret ()
+Mariona Borruli ()
+Miguel Munoz ()
 Ninos Mikelides (ELEFTHEROTYPIA, Greece)
 Paulo Portugal (Correio da Manhã, Portugal)
 Raúl Reis (Fipresci, Lux)               
