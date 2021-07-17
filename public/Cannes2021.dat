@@ -136,7 +136,7 @@ Estelle                7.5
 Thomas Aïdan           10
 Philippe Azoury        6
 Stéphanie Belpêche     4
-Victor Bonnetoy        10
+Victor Bonnefoy        10
 Olivie Cooper-Hadjian  8
 Marilou Duponchel      4 
 Karelle Fitoussi       10
@@ -1083,7 +1083,7 @@ Estelle                5
 Thomas Aïdan           4
 Philippe Azoury        6
 Stéphanie Belpêche     1
-Victor Bonnetoy        4
+Victor Bonnefoy        4
 Olivie Cooper-Hadjian  6
 Marilou Duponchel       
 Karelle Fitoussi       4
@@ -1334,7 +1334,7 @@ Estelle                7.5
 Thomas Aïdan            4
 Philippe Azoury         
 Stéphanie Belpêche      4
-Victor Bonnetoy         1
+Victor Bonnefoy         1
 Olivie Cooper-Hadjian   2
 Marilou Duponchel       4
 Karelle Fitoussi        6
@@ -1614,7 +1614,7 @@ Estelle                5
 Thomas Aïdan            4
 Philippe Azoury         
 Stéphanie Belpêche      6
-Victor Bonnetoy         4
+Victor Bonnefoy         4
 Olivie Cooper-Hadjian   2
 Marilou Duponchel       
 Karelle Fitoussi        6
@@ -1836,7 +1836,7 @@ Estelle                7.5
 Thomas Aïdan            6
 Philippe Azoury         
 Stéphanie Belpêche      8
-Victor Bonnetoy         8
+Victor Bonnefoy         8
 Olivie Cooper-Hadjian   4
 Marilou Duponchel       8
 Karelle Fitoussi        6
@@ -2241,7 +2241,7 @@ Estelle                7.5
 Thomas Aïdan            10
 Philippe Azoury         8
 Stéphanie Belpêche      6
-Victor Bonnetoy         6
+Victor Bonnefoy         6
 Olivie Cooper-Hadjian   8
 Marilou Duponchel       6
 Karelle Fitoussi        4
@@ -3154,7 +3154,7 @@ Estelle                7.5
 Thomas Aïdan            1
 Philippe Azoury         4
 Stéphanie Belpêche      4
-Victor Bonnetoy         2
+Victor Bonnefoy         2
 Olivie Cooper-Hadjian   4
 Marilou Duponchel       4
 Karelle Fitoussi        6
@@ -3410,7 +3410,7 @@ Estelle                7.5
 Thomas Aïdan            4
 Philippe Azoury         
 Stéphanie Belpêche      
-Victor Bonnetoy         2
+Victor Bonnefoy         2
 Olivie Cooper-Hadjian   6
 Marilou Duponchel       
 Karelle Fitoussi        4
@@ -3657,7 +3657,7 @@ Estelle                2.5
 Thomas Aïdan            
 Philippe Azoury         
 Stéphanie Belpêche      6
-Victor Bonnetoy         1
+Victor Bonnefoy         1
 Olivie Cooper-Hadjian   1
 Marilou Duponchel       
 Karelle Fitoussi        
@@ -3908,15 +3908,15 @@ Xiaoyi                 7.5
 Estelle                9
 # chaosreign.fr
 Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
+Philippe Azoury         6
+Stéphanie Belpêche      6
+Victor Bonnefoy         
+Olivie Cooper-Hadjian   6
+Marilou Duponchel       10
 Karelle Fitoussi        
 Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Jean-Jacky Goldberg     4
+Philippe Rouyer         8
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  7.5
 Fernando Ganzo         9
@@ -4167,16 +4167,16 @@ Luk                    2.5
 Xiaoyi                 5
 Estelle                2.5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Thomas Aïdan            6
+Philippe Azoury         0.5
+Stéphanie Belpêche      4
+Victor Bonnefoy         4
+Olivie Cooper-Hadjian   0.5
+Marilou Duponchel       4
+Karelle Fitoussi        2
+Julien Gester           4
+Jean-Jacky Goldberg     0.5
+Philippe Rouyer         8
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  0.5
 Fernando Ganzo         5
@@ -4406,16 +4406,16 @@ Luk                    9
 Xiaoyi                 5
 Estelle                7.5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
+Thomas Aïdan            6
+Philippe Azoury         2
+Stéphanie Belpêche      8
+Victor Bonnefoy         
 Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
-Julien Gester           
+Marilou Duponchel       8
+Karelle Fitoussi        4
+Julien Gester           8
 Jean-Jacky Goldberg    
-Philippe Rouyer        
+Philippe Rouyer         6
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  
 Fernando Ganzo         2.5
@@ -4654,16 +4654,16 @@ Luk                    7.5
 Xiaoyi                 7.5
 Estelle                7.5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
+Thomas Aïdan            2
+Philippe Azoury         8
 Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Victor Bonnefoy         10
+Olivie Cooper-Hadjian   6
+Marilou Duponchel       2
+Karelle Fitoussi        2
+Julien Gester           2
+Jean-Jacky Goldberg     2
+Philippe Rouyer         8
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  7.5
 Fernando Ganzo         5
@@ -4929,16 +4929,16 @@ Luk
 Xiaoyi                 5
 Estelle                
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
+Thomas Aïdan            8
+Philippe Azoury         6
+Stéphanie Belpêche      4
+Victor Bonnefoy         6
+Olivie Cooper-Hadjian   4
 Marilou Duponchel       
-Karelle Fitoussi        
-Julien Gester           
+Karelle Fitoussi        6
+Julien Gester           4
 Jean-Jacky Goldberg    
-Philippe Rouyer        
+Philippe Rouyer         6
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  5
 Fernando Ganzo         7.5
@@ -5240,16 +5240,16 @@ Luk
 Xiaoyi                 5
 Estelle                7.5
 # chaosreign.fr
-Thomas Aïdan            
+Thomas Aïdan            2
 Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
+Stéphanie Belpêche      8
+Victor Bonnefoy         6
+Olivie Cooper-Hadjian   2
 Marilou Duponchel       
-Karelle Fitoussi        
+Karelle Fitoussi        6
 Julien Gester           
 Jean-Jacky Goldberg    
-Philippe Rouyer        
+Philippe Rouyer        10
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  2.5
 Fernando Ganzo         2.5
@@ -5549,16 +5549,16 @@ Luk                    9
 Xiaoyi                 5
 Estelle                2.5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Thomas Aïdan            4
+Philippe Azoury         8
+Stéphanie Belpêche      6
+Victor Bonnefoy         8
+Olivie Cooper-Hadjian   4
+Marilou Duponchel       8
+Karelle Fitoussi        8
+Julien Gester           0.5
+Jean-Jacky Goldberg     6
+Philippe Rouyer         8
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  5
 Fernando Ganzo         7.5
@@ -6276,16 +6276,16 @@ Luk
 Xiaoyi                 
 Estelle                
 # chaosreign.fr
-Thomas Aïdan            
+Thomas Aïdan            4
 Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
+Stéphanie Belpêche      6
+Victor Bonnefoy         6
+Olivie Cooper-Hadjian   6
 Marilou Duponchel       
 Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Julien Gester           4
+Jean-Jacky Goldberg     8
+Philippe Rouyer         2
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  7.5
 Fernando Ganzo         2.5
@@ -6632,16 +6632,16 @@ Luk                    2.5
 Xiaoyi                 5
 Estelle                5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
+Thomas Aïdan            2
+Philippe Azoury         2
 Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
+Victor Bonnefoy         
+Olivie Cooper-Hadjian   2
 Marilou Duponchel       
 Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Julien Gester           0.5
+Jean-Jacky Goldberg     2
+Philippe Rouyer         6
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  2.5
 Fernando Ganzo         2.5
@@ -6881,15 +6881,15 @@ Xiaoyi                 5
 Estelle                9
 # chaosreign.fr
 Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
+Philippe Azoury         4
+Stéphanie Belpêche      6
+Victor Bonnefoy         8
+Olivie Cooper-Hadjian   4
+Marilou Duponchel       2
+Karelle Fitoussi        6
 Julien Gester           
 Jean-Jacky Goldberg    
-Philippe Rouyer        
+Philippe Rouyer         8
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  5
 Fernando Ganzo         
@@ -7198,16 +7198,16 @@ Luk
 Xiaoyi                 9
 Estelle                2.5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
+Thomas Aïdan            10
+Philippe Azoury         10
 Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
-Philippe Rouyer        
+Victor Bonnefoy         
+Olivie Cooper-Hadjian   8
+Marilou Duponchel       6
+Karelle Fitoussi        4
+Julien Gester           10
+Jean-Jacky Goldberg     10
+Philippe Rouyer         4
 #kinoart.ru
 Egor Belikov          9
 Inna Denisova         9
@@ -7438,16 +7438,16 @@ Luk                    7.5
 Xiaoyi                 2.5
 Estelle                7.5
 # chaosreign.fr
-Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
+Thomas Aïdan            4
+Philippe Azoury         8
+Stéphanie Belpêche      4
+Victor Bonnefoy         2
+Olivie Cooper-Hadjian   8
+Marilou Duponchel       10
+Karelle Fitoussi        8
 Julien Gester           
 Jean-Jacky Goldberg    
-Philippe Rouyer        
+Philippe Rouyer         8
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  9
 Fernando Ganzo         9
@@ -7669,12 +7669,12 @@ Estelle
 Thomas Aïdan            
 Philippe Azoury         
 Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
-Karelle Fitoussi        
+Victor Bonnefoy         8
+Olivie Cooper-Hadjian   2
+Marilou Duponchel       0.5
+Karelle Fitoussi        4
 Julien Gester           
-Jean-Jacky Goldberg    
+Jean-Jacky Goldberg     2
 Philippe Rouyer        
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  2.5
@@ -7877,14 +7877,14 @@ Xiaoyi
 Estelle                
 # chaosreign.fr
 Thomas Aïdan            
-Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
-Olivie Cooper-Hadjian   
-Marilou Duponchel       
+Philippe Azoury         6
+Stéphanie Belpêche      6
+Victor Bonnefoy         4
+Olivie Cooper-Hadjian   0.5
+Marilou Duponchel       2
 Karelle Fitoussi        
-Julien Gester           
-Jean-Jacky Goldberg    
+Julien Gester           4
+Jean-Jacky Goldberg     6
 Philippe Rouyer        
 # Le conseil des cahiers
 Olivie Cooper-Hadjian  
@@ -8063,8 +8063,8 @@ Estelle
 # chaosreign.fr
 Thomas Aïdan            
 Philippe Azoury         
-Stéphanie Belpêche      
-Victor Bonnetoy         
+Stéphanie Belpêche      4
+Victor Bonnefoy         6
 Olivie Cooper-Hadjian   
 Marilou Duponchel       
 Karelle Fitoussi        
@@ -15269,7 +15269,7 @@ $critics[$i++] = "
 Thomas Aïdan (La 7e Obsession, France)
 Philippe Azoury (Vanity Fair, France)
 Stéphanie Belpêche (JDD, France)
-Victor Bonnetoy (PLC, France)
+Victor Bonnefoy (PLC, France)
 Olivie Cooper-Hadjian (Cahiers, France)
 Marilou Duponchel (ln, France)
 Karelle Fitoussi (Paris Match, France)
