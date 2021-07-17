@@ -7747,18 +7747,18 @@ Wang Muyan                  9
 Screen International        5
 # Le film français
 Gaël Golhen              7.5
-Julien Rousset           
+Julien Rousset           1
 Marcus Uzal              5
 Eric Neuhoff             1
 Philippe Rouyer          
 Thomas Sotinel           1
-Guillemette Odicino      
+Guillemette Odicino      2.5
 Celine Rouden            7.5
 Jean-Marc Lalanne        5
-Michaël Mélinard         
+Michaël Mélinard         5
 Nicolas Schaller         1
-Gilles Kerdreux          
-Stéphanie Belpèche              
+Gilles Kerdreux          1
+Stéphanie Belpèche       5
 Charlotte Lipinska       1
 Yves Jaeglé              5
 # ioncinema
@@ -7985,17 +7985,17 @@ Wang Muyan                  5
 Screen International        5
 # Le film français
 Gaël Golhen              
-Julien Rousset           
+Julien Rousset           2.5
 Marcus Uzal               
 Eric Neuhoff             2.5
-Philippe Rouyer          
+Philippe Rouyer          2.5
 Thomas Sotinel           2.5
 Guillemette Odicino      2.5
 Celine Rouden            
 Jean-Marc Lalanne        
 Michaël Mélinard         5
-Nicolas Schaller         
-Gilles Kerdreux          
+Nicolas Schaller         2.5
+Gilles Kerdreux          7.5
 Stéphanie Belpèche              
 Charlotte Lipinska       5
 Yves Jaeglé              5
@@ -8206,20 +8206,20 @@ Wang Muyan
 Screen International        
 # Le film français
 Gaël Golhen              
-Julien Rousset           
-Marcus Uzal               
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
-Guillemette Odicino      
-Celine Rouden            
+Julien Rousset           7.5
+Marcus Uzal              2.5
+Eric Neuhoff             5
+Philippe Rouyer          5
+Thomas Sotinel           5
+Guillemette Odicino      7.5
+Celine Rouden            1
 Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
+Michaël Mélinard         2.5
+Nicolas Schaller         5
 Gilles Kerdreux          
-Stéphanie Belpèche              
-Charlotte Lipinska       
-Yves Jaeglé              
+Stéphanie Belpèche       7.5      
+Charlotte Lipinska       2.5
+Yves Jaeglé              9
 # ioncinema
 Marta Balaga              
 Nicholas Bell             6
@@ -8413,18 +8413,18 @@ Screen International
 Gaël Golhen              
 Julien Rousset           
 Marcus Uzal               
-Eric Neuhoff             
-Philippe Rouyer          
-Thomas Sotinel           
+Eric Neuhoff             2.5
+Philippe Rouyer          7.5
+Thomas Sotinel           5
 Guillemette Odicino      
-Celine Rouden            
+Celine Rouden            5
 Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
+Michaël Mélinard         7.5
+Nicolas Schaller         2.5
+Gilles Kerdreux          9
 Stéphanie Belpèche              
-Charlotte Lipinska       
-Yves Jaeglé              
+Charlotte Lipinska       5
+Yves Jaeglé              7.5
 # ioncinema
 Marta Balaga              
 Nicholas Bell             
@@ -9568,7 +9568,7 @@ Marcus Uzal
 Eric Neuhoff             
 Philippe Rouyer          7.5
 Thomas Sotinel           
-Guillemette Odicino      
+Guillemette Odicino      7.5
 Celine Rouden            
 Jean-Marc Lalanne        
 Michaël Mélinard         
@@ -10093,7 +10093,7 @@ Marcus Uzal              2.5
 Eric Neuhoff             
 Philippe Rouyer          
 Thomas Sotinel           
-Guillemette Odicino      
+Guillemette Odicino      7.5
 Celine Rouden            
 Jean-Marc Lalanne        
 Michaël Mélinard         
@@ -10181,7 +10181,7 @@ Thomas Sotinel
 Guillemette Odicino      
 Celine Rouden            2.5
 Jean-Marc Lalanne        
-Michaël Mélinard         2.5
+Michaël Mélinard        
 Nicolas Schaller         
 Gilles Kerdreux          
 Stéphanie Belpèche       
@@ -10301,7 +10301,7 @@ Marcus Uzal
 Eric Neuhoff             
 Philippe Rouyer          
 Thomas Sotinel           
-Guillemette Odicino      
+Guillemette Odicino      5
 Celine Rouden            7.5
 Jean-Marc Lalanne        
 Michaël Mélinard         
@@ -11028,6 +11028,22 @@ Basule              1
  Closing film
 
 #critic.de
+# Le film français
+Gaël Golhen              
+Julien Rousset           5
+Marcus Uzal              2.5
+Eric Neuhoff             5
+Philippe Rouyer          
+Thomas Sotinel           
+Guillemette Odicino      
+Celine Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         2.5
+Gilles Kerdreux          7.5
+Stéphanie Belpèche       
+Charlotte Lipinska       5
+Yves Jaeglé              5
 #letterboxd
 Letterboxd 15_Ratings	5.9  https://letterboxd.com/film/oss-117-from-africa-with-love/
 Thibaultvdw         7
@@ -15947,7 +15963,7 @@ Marcus Uzal (Cahiers du cinema, France)
 #Aurelien Allin (Cinemateaser, France)
 #Evangeline Barbaroux (LCI, France)
 #Thomas Baurez (Studio CineLive, France)
-#Stephanie Belpeche (JDD, France)
+#Stephanie Belpêche (JDD, France)
 #Stéphanie Lamome (First, France)
 #Romaine Le Vern (TF1 News, France)
 #Mehdi Omaïs (Metro, France)
