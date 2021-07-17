@@ -38,7 +38,7 @@ package Cannes::rurban::2021; # -*- perl -*-
  
 use utf8;
 our $DATA= <<'EOF';
-"ANNETTE" (Leos CARAX, France) [Competition]
+"ANNETTE" (Leos CARAX, France) [Competition] Best Director
  Opening Film
 
 Bilge Ebiri        10  https://www.vulture.com/article/cannes-review-annette-with-adam-driver-and-marion-cotillard.html?utm_source=flipboard.com&utm_medium=social_acct&utm_campaign=feed-part
