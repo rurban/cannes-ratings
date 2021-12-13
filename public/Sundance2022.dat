@@ -1,0 +1,393 @@
+package Sundance::rurban::2022; # -*- perl -*-
+#!/usr/bin/perl
+# Sundance 2022 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+# SLCWeekly: 0-4stars:
+# 0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
+
+use utf8;
+our $DATA= <<'EOF';
+
+U.S. DRAMATIC COMPETITION
+
+"892" () [U.S. Dramatic]
+"Alice" () [U.S. Dramatic]
+"Blood" () [U.S. Dramatic]
+"Cha Cha Real Smooth" () [U.S. Dramatic]
+"Dual" () [U.S. Dramatic]
+"Emergency" () [U.S. Dramatic]
+"Master" () [U.S. Dramatic]
+"Nanny" () [U.S. Dramatic]
+"Palm Trees and Power Lines" () [U.S. Dramatic]
+"Watcher" () [U.S. Dramatic]
+
+WORLD CINEMA DRAMATIC COMPETITION
+
+"Brian and Charles" (Jim Archer, UK 2021) [World Dramatic]
+"Dos estaciones" (Juan Pablo González, Mex) [World Dramatic]
+"Gentle" () [World Dramatic]
+"Girl Picture" (Alli Haapasalo, Fin) [World Dramatic]
+"Klondike" () [World Dramatic]
+"Leonor Will Never Die" () [World Dramatic]
+"Mars One" () [World Dramatic]
+"Utama" () [World Dramatic]
+
+WORLD CINEMA DOCUMENTARY COMPETITION
+
+"You Won't Be Alone" () [World Documentaries]
+"All That Breathes" () [World Documentaries]
+"Calendar Girls" () [World Documentaries]
+"A House Made of Splinters" () [World Documentaries]
+"Midwives" () [World Documentaries]
+"The Mission" () [World Documentaries]
+"Nothing Compares" () [World Documentaries]
+"Sirens" () [World Documentaries]
+"Tantura" () [World Documentaries]
+"The Territory" () [World Documentaries]
+"We Met in Virtual Reality" () [World Documentaries]
+
+U.S. DOCUMENTARY COMPETITION
+
+"Aftershock" () [U.S. Documentaries]
+"Descendant" () [U.S. Documentaries]
+"The Exiles" () [U.S. Documentaries]
+"Fire of Love" () [U.S. Documentaries]
+"Free Chol Soo Lee" () [U.S. Documentaries]
+"I Didn't See You There" () [U.S. Documentaries]
+"The Janes" () [U.S. Documentaries]
+"Jihad Rehab" () [U.S. Documentaries]
+"TikTok, Boom." () [U.S. Documentaries]
+
+NEXT
+
+"The Cathedral" (2021) [NEXT]
+"Every Day in Kaimuki" () [NEXT]
+"Framing Agnes" () [NEXT]
+"A Love Song" () [NEXT]
+"Mija" () [NEXT]
+"Riotsville, USA" () [NEXT]
+"Something in the Dirt" () [NEXT]
+
+PREMIERES
+
+"2nd Chance" () [Premieres]
+"Am I Ok?" () [Premieres]
+"Brainwashed: Sex-Camera-Power" (2021) [Premieres]
+"Call Jane" () [Premieres]
+"DOWNFALL: The Case Against Boeing" () [Premieres]
+"Emily the Criminal" () [Premieres]
+"Final Cut" () [Premieres]
+"God's Country" () [Premieres]
+"Good Luck to You, Leo Grande" () [Premieres]
+"Honk For Jesus. Save Your Soul" () [Premieres]
+"jeen-yuhs: A Kanye Trilogy" () [Premieres]
+"La Guerra Civil" (Eva Longoria Bastón, UK 2021) [Premieres]
+"Living" () [Premieres]
+"Lucy and Desi" () [Premieres]
+"My Old School" () [Premieres]
+"The Princess" () [Premieres]
+"Resurrection" () [Premieres]
+"Sharp Stick" () [Premieres]
+"To the End" () [Premieres]
+"We Need To Talk About Cosby" () [Premieres]
+"When You Finish Saving the World" () [Premieres]
+
+MIDNIGHT
+
+"Babysitter" () [Midnight]
+"Fresh" () [Midnight]
+"Hatching" () [Midnight]
+"Meet Me In The Bathroom" () [Midnight]
+"Speak No Evil" (2021) [Midnight]
+
+SPOTLIGHT
+
+"After Yang" () [Spotlight]
+"Happening" (2021) [Spotlight]
+"Neptune Frost" (2021) [Spotlight]
+"Three Minutes - A Lengthening" (2021) [Spotlight]
+"The Worst Person in the World" (2021) [Spotlight]
+
+KID
+
+"Maika" () [Kids]
+"Summering" () [Kids]
+
+SPECIAL SCREENINGS
+
+"Last Flight Home" () [Special Events]
+
+SLAMDANCE NARRATIVE FEATURES
+ https://letterboxd.com/ckristen19/list/slamdance/
+
+
+
+EOF
+
+our (@critics, @critics_group);
+$critics_group[0] = "Critics";
+$critics[0] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alex Heeney (Seventh Row, Canada)
+Alexander Miller (Filmenquiry.com, Battleshippretension.com, US)
+Allan Hunter (Screen International, US)
+Ali Shimkus (Slug Magazine, US)
+Alison Willmore (Vulture, US)
+Alissa Wilkinson (Christianity Today, US)
+Alonso Durade (The Wrap, US)
+Amy Nicholson (Variety, US)
+Amy Kaufman (LA Times, US)
+Andrew Barker (Variety, US)
+Andrew Bundy (The Playlist, US)
+Andrew Crump (The Playlist, US)
+Angie Han (Slashfilm, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+April Wolfe (The Wrap, US)
+Beandrea July (The Hollywood Reporter, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Croll (The Wrap, US)
+Ben Smith (UK)
+Benjamin Lee (The Guardian, US)
+Bilge Ebiri (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Brian Tallerico (RogerEbert.com, US)
+Bryan Bishop (The Verge, US)
+Candice Frederick (The Wrap, US)
+Carlos Aguilar (The Wrap, US)
+Chris Evangelista (Slashfilm, US)
+Chris Lindahl (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Clint Worthington (Consequence of Sound, US)
+Connor Lockie (Slug Magazine, US)
+Damon Wise  (The Guardian, UK)
+Dan Mecca (The Film Stage, US)
+Dan Callahan (The Wrap, US)
+Daniel Fienberg (The Hollywood Reporter, US)
+David Canfield (EW, US)
+David D'Arcy (Screen International, US)
+David Edelstein (New York Magazine Vulture, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Dilarah Elbir (The Playlist, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eli Fine (The Playlist, US)
+Elizabeth Weitzman (The Wrap, US)
+Emily Yoshida (New York Magazine Vulture, US)
+Erik Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Erik Luers (No Film School, IFP, US)
+Evan Saathoff (birthmoviesdeath.com, US)
+Jeremy Smith (birthmoviesdeath.com, US)
+Jean-Christophe Simon (Films Boutique, Germany)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (The Playlist, HitFix, US)
+Guy Lodge (Variety, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jake Howell (The Film Stage, US)
+Jared Mobarak (The Film Stage, US)
+Jason Bailey (The Playlist, Flavorwire, US)
+Jenni Miller (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+John DeFore (The Hollywood Reporter, US)
+John Fink (The Film Stage, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan Ruimy (The Playlist, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Indiewire, US)
+Kathy Rong Zhou (Slug Magazine, US)
+Katie Walsh (The Playlist, US)
+Kees Wamelink (Filmhuis Lisse, NL)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kevin Wozniak (kevflix.com, US)
+Kimber Myers (The Playlist, US)
+Kyle Kohner (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leah Greenblatt (EW, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Lois Brady (Slug Magazine, US)
+Lorry Kikta (filmthreat.com, US)
+Marco Cerritos (The Movielens, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Matt Hoffman (We Got This Covered, Scene Creek, Canada)
+Matt Neglia (NextBestPicture.com, US)
+Mauricio Costa (Razão de Aspecto, Brazil)
+Mel Valentin (Next Projection, US)
+Michael Rechtshaffen  (The Hollywood Reporter, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Molly Laich (doghatesfilm.com, US)
+Monica Castillo (The Wrap, US)
+Neil Miller (Film School Rejects, US)
+Nick Allen (RogerEbert.com, US)
+Nick Schager (Variety, US)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Norman Gidney (filmthreat.com, US)
+Oktay Ege Kozak (The Playlist, US)
+Owen Gleiberman (Variety, US)
+Paige Zuckerman  (Slug Magazine, US)
+Parker Scott Mortensen (Slug Magazine, US)
+Peter Debruge (Variety, US)
+Peter Sciretta (Slashfilm, US)
+Rebecca Martin (Cinema Femme, US)
+Reena Chohan (TIFF, Canada)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Robert Daniels (The Playlist, US)
+Robert Abele (The Wrap, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slashfilm, US)
+Ryan Lattanzio (TOH!, US)
+Sam Adams (Slate, US)
+Sam Fragoso (The Wrap, Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Scott Renshaw (Salt Lake City Weekly, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Farber (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Stephen Whitty (Screen International, US)
+Steve Pond (The Wrap, US)
+Susannah Gruder (Reverse Shot, US)
+Tasha Robinson (The Verge, Dissolve, A.V. Club, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Tomris Laffly (The Wrap, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Victor Morton (Salt Lake City Weekly, US)
+Wendy Ide (Screen International, US)
+Wesley Morris (Grantland, US)
+Dan Callahan (The Wrap, US)
+William Bibbiani (The Wrap, US)
+Zaina Abujebarah (Slug Magazine, US)
+";
+$critics_group[1] = "Other";
+$critics[1] = "
+Aaron Salazar (Filmmaker, US)
+Abbie Porter (Movie Nerd, US)
+Allison Boyer (Writer, Filmmaker, US)
+Allison Stone (Filmmaker, US)
+Amber (Film Student, US)
+Amir Moverman (Producer, US)
+Bare Bard (Film festival worker, US)
+Bill Skaleski (Artist, US)
+Blake Schwarz (Film Student+Blogger, US)
+Brandon Hart (Film Fan, US)
+Daniel Arthur (Public House Cinema, US)
+Danny Hensel (NPR Stateside, Student Editor, US)
+Drew Duncan (Industry, US)
+Eddie White (Filmmaker, Aus)
+Emily Guinto (Local film buff, US)
+flowertwithat (Film Buff, US)
+Jordan Foxworthy (Sundance Circle member, US)
+Gregory S Gardner (Double Exposure Distribution, US)
+Hannah Hembree (Industry, US)
+# Theatre Miami
+Javier (Industry, US)
+Jason Myers (Twitter+Local, US)
+Jason Osia (Film Buff, US)
+Jeremiah Holt (Youtube+Local, US)
+Jon Madsen (Local reviewer, US)
+Kevin Bolger (Local Filmmaker, US)
+Kevin Conner (Industry, US)
+Kevin Dando (Ex-PBS, US)
+Lee Stobby (Producer, US)
+Martin Jacob (Film Student+Blogger, US)
+Matt Cipolla (Freelance, US)
+Matt Wigham (bigcartel.com+Local, US)
+Matthew Reddick (Actor, US)
+Mei Chen (Student, US)
+Nick Kush (moviebabblereviews.com, US)
+Nik Velimirovic (Filmmaker, US)
+Pontus Ridderstedt (Librarian, Sweden)
+p. m. orr (Filmmaker, Volunteer, US)
+Robert Saucedo (Houston Alamo, US)
+Rosalie Kicks (moviejawn.com, US)
+Sachin Dharwadker (Filmmaker, US)
+shane (Actor, US)
+Shelby Slade (Local reporter Daily Herald, US)
+Skye McLennan (Industry, US)
+Stephen (Local film buff, US)
+Stephen Jones (Musician, Lawyer, US)
+Wiktor Krampikowski (Industry, PL)
+Thomas Callahan (Filmstudent, US)
+Tony Donisch (Discover, US)
+";
+$critics_group[2] = "Letterboxd";
+$critics[2] = ""; # dynamically added
+#Jacob (Local, US)
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out.
+<i>(Filtered to help with statistical inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2022.dat
+
+</pre>";
+
+# links:
+# https://letterboxd.com/rurban/list/sundance-slamdance-2021/
+# https://twitter.com/search?q=%23sundance%20review
+# http://www.theguardian.com/film/sundance-2021
+# http://www.indiewire.com/critic/
+# https://www.latimes.com/topic/sundance-film-festival
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
