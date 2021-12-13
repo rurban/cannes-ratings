@@ -15,34 +15,33 @@ our $DATA= <<'EOF';
 
 U.S. DRAMATIC COMPETITION
 
-"892" () [U.S. Dramatic]
+"892" (Abi Damaris Corbin) [U.S. Dramatic]
 #letterboxd
 
-"Alice" () [U.S. Dramatic]
-Peter Debruge           https://variety.com/2021/film/reviews/aline-review-celine-dion-1235019144/
+"Alice" (Krystin Ver Linden) [U.S. Dramatic]
 #letterboxd
 joyboy09            10
 ajstellaa           7
 filmvixen           6
 
-"Blood" () [U.S. Dramatic]
+"Blood" (Bradley Rust Gray) [U.S. Dramatic]
 #letterboxd
 
-"Cha Cha Real Smooth" () [U.S. Dramatic]
+"Cha Cha Real Smooth" (Cooper Raiff) [U.S. Dramatic]
 #letterboxd
-izabelpakzad        10
-gregarch            10
-filmspace           10   https://letterboxd.com/filmspace/film/cha-cha-real-smooth/
+#izabelpakzad        10
+#gregarch            10
+#filmspace           10   https://letterboxd.com/filmspace/film/cha-cha-real-smooth/
 map9189             8
 
-"Dual" () [U.S. Dramatic]
+"Dual" (Riley Stearns) [U.S. Dramatic]
 #letterboxd
-R8MOVIES            10   https://letterboxd.com/r8movies/film/dual-2022/
+#R8MOVIES            10   https://letterboxd.com/r8movies/film/dual-2022/
 
-"Emergency" () [U.S. Dramatic]
+"Emergency" (Carey Williams) [U.S. Dramatic]
 #letterboxd
-𝓑𝓮𝓬ʕ￫ᴥ￩ʔ            10
-zandria             10
+#𝓑𝓮𝓬ʕ￫ᴥ￩ʔ            10
+#zandria             10
 
 "Master" () [U.S. Dramatic]
 #letterboxd
@@ -151,7 +150,7 @@ U.S. DOCUMENTARY COMPETITION
 #letterboxd
 teatalks            1   https://letterboxd.com/teatalks/film/jihad-rehab/
 
-"TikTok, Boom." () [U.S. Documentaries]
+"TikTok, Boom." (Shalini Kantayya) [U.S. Documentaries]
 
 #letterboxd
 Marj000             8   https://letterboxd.com/marj000/film/tiktok-boom/
@@ -222,7 +221,7 @@ JKeeley             2
 
 "A Love Song" () [NEXT]
 #letterboxd
-Petro_Davalos       10
+#Petro_Davalos       10
 
 "Mija" () [NEXT]
 #letterboxd
@@ -231,9 +230,8 @@ Petro_Davalos       10
 #letterboxd
 
 "Something in the Dirt" () [NEXT]
-
 #letterboxd
-Christopher Larsen  10
+#Christopher Larsen  10
 
 PREMIERES
 
@@ -242,11 +240,11 @@ PREMIERES
 
 "Am I Ok?" () [Premieres]
 #letterboxd
-sparklybunny        10
+#sparklybunny        10
 
 "Brainwashed: Sex-Camera-Power" (2021) [Premieres]
 #letterboxd
-Boyoon Choi         10
+#Boyoon Choi         10
 jleongholston       7   https://letterboxd.com/jleongholston/film/brainwashed-sex-camera-power/
 
 "Call Jane" () [Premieres]
@@ -297,7 +295,7 @@ EverShrek           4
 
 "Resurrection" () [Premieres]
 #letterboxd
-mhy36               10
+#mhy36               10
 
 "Sharp Stick" () [Premieres]
 #letterboxd

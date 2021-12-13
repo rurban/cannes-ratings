@@ -716,7 +716,7 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2021";
+  $all->{year} = "2015-2022";
   $all->{side_details} = _side_details(\%critic, \%title,
                                        \@{"$BASE\::rurban::2021\::critics_group"});
   template lc($BASE), $all;
