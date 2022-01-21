@@ -9,123 +9,189 @@ our $DATA= <<'EOF';
 WETTBEWERB
 
 "Peter von Kant" (François Ozon, F) [Wettbewerb]
- mit Denis Ménochet, Isabelle Adjani, Hanna Schygulla. Weltpremiere / Eröffnungsfilm
+ mit Denis Ménochet, Isabelle Adjani, Hanna Schygulla. WP, opener
 
 "The Novelist's Film (So-seol-ga-ui Yeong-hwa)" (Hong Sangsoo, Südkorea) [Wettbewerb]
- mit Lee Hyeyoung, Kim Minhee, Seo Younghwa. Weltpremiere
+ mit Lee Hyeyoung, Kim Minhee, Seo Younghwa. WP
 
 "Both Sides of the Blade (Avec amour et acharnement)" (Claire Denis, F) [Wettbewerb]
- mit Juliette Binoche, Vincent Lindon, Grégoire Colin, Bulle Ogier. Weltpremiere
+ mit Juliette Binoche, Vincent Lindon, Grégoire Colin, Bulle Ogier. WP
 
 "A E I O U - A Quick Alphabet of Love)" (Nicolette Krebitz, D/F) [Wettbewerb]
- mit Sophie Rois, Udo Kier, Milan Herms, Nicolas Bridet. Weltpremiere
+ mit Sophie Rois, Udo Kier, Milan Herms, Nicolas Bridet. WP
 
 "Alcarràs" (Carla Simón, Spain/I) [Wettbewerb]
- mit Jordi Pujol Dolcet, Anna Otin, Xènia Roset, Albert Bosch, Ainet Jounou, Josep Abad. Weltpremiere
+ mit Jordi Pujol Dolcet, Anna Otin, Xènia Roset, Albert Bosch, Ainet Jounou, Josep Abad. WP
 
 "Call Jane" (Phyllis Nagy, USA) [Wettbewerb]
- mit Elizabeth Banks, Sigourney Weaver, Kate Mara. Internationale Premiere
+ mit Elizabeth Banks, Sigourney Weaver, Kate Mara. IP
 
 "A Piece of Sky (Drii Winter)" (Michael Koch, SUI/D) [Wettbewerb]
- mit Michèle Brand, Simon Wisler. Weltpremiere
+ mit Michèle Brand, Simon Wisler. WP
 
 "Everything Will Be Ok" (Rithy Panh F/Kambodscha) [Wettbewerb]
- Weltpremiere / dokumentarische Form
+ WP, doc
 
 "The Line (La ligne)" (Ursula Meier, Sui/F/Bel) [Wettbewerb]
- mit Stéphanie Blanchoud, Valeria Bruni Tedeschi, Elli Spagnolo. Weltpremiere
+ mit Stéphanie Blanchoud, Valeria Bruni Tedeschi, Elli Spagnolo. WP
 
 "Leonora addio" (Paolo Taviani, I) [Wettbewerb]
- mit Fabrizio Ferracane, Matteo Pittiruti, Dania Marino, Dora Becker. Weltpremiere
+ mit Fabrizio Ferracane, Matteo Pittiruti, Dania Marino, Dora Becker. WP
 
 "The Passengers of the Night (Les passagers de la nuit)" (Mikhaël Hers, F) [Wettbewerb]
- mit Charlotte Gainsbourg, Quito Rayon-Richter, Noée Abita, Megan Northam, Thibault Vinçon, Emmanuelle Béart. Weltpremiere
+ mit Charlotte Gainsbourg, Quito Rayon-Richter, Noée Abita, Megan Northam, Thibault Vinçon, Emmanuelle Béart. WP
 
 "Before, Now & Then (Nana)" (Kamila Andini, Indonesien) [Wettbewerb]
- mit Happy Salma, Laura Basuki, Arswendy Bening Swara, Ibnu Jamil. Weltpremiere
+ mit Happy Salma, Laura Basuki, Arswendy Bening Swara, Ibnu Jamil. WP
 
 "Rabiye Kurnaz vs. George W. Bush" (Andreas Dresen, D/F) [Wettbewerb]
- mit Meltem Kaptan, Alexander Scheer. Weltpremiere
+ mit Meltem Kaptan, Alexander Scheer. WP
 
 "Rimini" (Ulrich Seidl, Ö/F/D) [Wettbewerb]
- mit Michael Thomas, Hans-Michael Rehberg, Tessa Göttlicher, Inge Maux, Claudia Martini, Georg Friedrich. Weltpremiere
+ mit Michael Thomas, Hans-Michael Rehberg, Tessa Göttlicher, Inge Maux, Claudia Martini, Georg Friedrich. WP
 
 "Robe of Gems" (Natalia López Gallardo, Mex/Arg/USA) [Wettbewerb]
- mit Nailea Norvind, Antonia Olivares, Aida Roa. Weltpremiere / Debütfilm
+ mit Nailea Norvind, Antonia Olivares, Aida Roa. WP, first
 
 "One Year, One Night (Un año, una noche)" (Isaki Lacuesta, Esp/F) [Wettbewerb]
- mit Nahuel Pérez Biscayart, Noémie Merlant, Quim Gutiérrez. Weltpremiere
+ mit Nahuel Pérez Biscayart, Noémie Merlant, Quim Gutiérrez. WP
 
 "That Kind of Summer (Un été comme ça)" (Denis Côté, Kanada) [Wettbewerb]
- mit Larissa Corriveau, Aude Mathieu, Laure Giappiconi, Anne Ratte Polle, Samir Guesmi. Weltpremiere
+ mit Larissa Corriveau, Aude Mathieu, Laure Giappiconi, Anne Ratte Polle, Samir Guesmi. WP
 
 "Return to Dust (Yin Ru Chen Yan) (Li Ruijun, VR China) [Wettbewerb]
- mit Wu Renlin, Hai Qing. Weltpremiere
+ mit Wu Renlin, Hai Qing. WP
 
 ENCOUNTERS
 
 "A Little Love Package" (Gastón Solnicki, Ö/Arg) [Encounters]
- mit Angeliki Papoulia, Carmen Chaplin, Mario Bellatin. Weltpremiere
+ mit Angeliki Papoulia, Carmen Chaplin, Mario Bellatin. WP
 
 "See You Friday, Robinson (À vendredi, Robinson)" (Mitra Farahani, F/Sui/Iran/Lib) [Encounters]
- mit Jean-Luc Godard, Ebrahim Golestan. Weltpremiere / dokumentarische Form
+ mit Jean-Luc Godard, Ebrahim Golestan. WP, doc
 
 "Axiom" (Jöns Jönsson, D) [Encounters]
- mit Moritz von Treuenfels, Ricarda Seifried, Thomas Schubert. Weltpremiere
+ mit Moritz von Treuenfels, Ricarda Seifried, Thomas Schubert. WP
 
 "Brother in Every Inch (Brat vo vsyom)" (Alexander Zolotukhin, RU) [Encounters]
- mit Sergey Zhuravlev, Nikolay Zhuravlev. Weltpremiere
+ mit Sergey Zhuravlev, Nikolay Zhuravlev. WP
 
 "Coma" (Bertrand Bonello, F) [Encounters]
- mit Julia Faure, Louise Labeque. Weltpremiere
+ mit Julia Faure, Louise Labeque. WP
 
 "Father's Day" (Kivu Ruhorahoza, Ruanda) [Encounters]
- mit Mediatrice Kayitesi, Aline Amike, Yves Kijyana. Weltpremiere
+ mit Mediatrice Kayitesi, Aline Amike, Yves Kijyana. WP
 
 "Flux Gourmet" (Peter Strickland, UK/USA/Ungarn) [Encounters]
- mit Asa Butterfield, Gwendoline Christie, Ariane Labed, Fatma Mohamed, Makis Papadimitriou, Richard Bremmer. Weltpremiere
+ mit Asa Butterfield, Gwendoline Christie, Ariane Labed, Fatma Mohamed, Makis Papadimitriou, Richard Bremmer. WP
 
 "The City and the City (I Poli ke i Poli)" (Christos Passalis/Syllas Tzoumerkas, GR) [Encounters]
- mit Vassilis Kanakis, Alexandros Vardaxoglou, Angeliki Papoulia. Weltpremiere
+ mit Vassilis Kanakis, Alexandros Vardaxoglou, Angeliki Papoulia. WP
 
 "American Journal (Journal d'Amérique)" (Arnaud des Pallières, F) [Encounters]
- Weltpremiere / dokumentarische Form
+ WP, doc
 
 "Small, Slow but Steady (Keiko, me wo sumasete)" (Shô Miyake, J/F) [Encounters]
  mit Yukino Kishii, Tomokazu Miura, Masaki Miura
 
 "MUTZENBACHER" (Ruth Beckermann, Ö) [Encounters]
- Weltpremiere / dokumentarische Form
+ WP, doc
 
 "Queens of the Qing Dynasty" (Ashley McKenzie, Kanada) [Encounters]
- mit Sarah Walker, Ziyin Zheng. Weltpremiere
+ mit Sarah Walker, Ziyin Zheng. WP
 
 "Sonne" (Kurdwin Ayub, Ö) [Encounters]
- mit Melina Benli, Law Wallner, Maya Wopienka. Weltpremiere / Debütfilm
+ mit Melina Benli, Law Wallner, Maya Wopienka. WP, first
 
 "Unrest (Unrueh)" (Cyril Schäublin, Schweiz) [Encounters]
- Clara Gostynski, Alexei Evstratov. Weltpremiere
+ Clara Gostynski, Alexei Evstratov. WP
 
 "The Death of my Mother (Zum Tod meiner Mutter)" (Jessica Krummacher, D) [Encounters]
- mit Birte Schnöink, Elsie de Brauw, Johanna Orsini, Susanne Bredehöft, Gina Haller, Christian Löber. Weltpremiere
+ mit Birte Schnöink, Elsie de Brauw, Johanna Orsini, Susanne Bredehöft, Gina Haller, Christian Löber. WP
+
+BERLINALE SERIES
+
+"Iosi, el espía arrepentido (Yosi, the Regretful Spy) TV" (Daniel Burman, Arg) [Special]
+ with Natalia Oreiro, Gustavo Bassani, Mercedes Morán, Alejandro Awada, Carla Quevedo, Minerva
+ Casero, Amazon Prime Video, 3/8 episodes, WP
+
+"Lust (TV)" (Ella Lemhagen, SWE) [Special]
+ with Sofia Helin, Anja Lundqvist, Julia Dufvenius, Elin Klinga. HBO Max. 4/8 episodes, WP
+
+"Podezření (Suspicion) TV" (Michal Blaško, CZ/F) [Special]
+ with Klára Melíšková, Denisa Barešová, Miroslav Hanuš, Ivan Trojan, Milena Steinmasslová
+ Czech Television, ARTE, 2/4 episodes, IP
+
+"The Rising TV" (Pete McTighe, Charlotte Wolf, UK) [Special]
+ Sky, 2/8 episodes, WP
+
+"The Shift TV" (Lone Scherfig, Denmark) [Special]
+ TV2, 2/8 episodes, WP
+
+"Svörtu sandar (Black Sands) TV" (Aldís Amah Hamilton, Ragnar Jónsson, Baldvin Z, Andri Óttarsson, Iceland) [Special]
+ Channel 2 Iceland, 2/8 episodes, IP
+
+"Le temps des framboises (Last Summers of the Raspberries) TV" (Philippe Falardeau, Canada) [Special]
+ Club illico, 2/10 episodes, WP
 
 PANAROMA
 
 "Talking About the Weather (Alle reden übers Wetter)" (Annika Pinske, D) [Panorama]
+ WP, first
 
 "The Apartment with Two Women (같은 속옷을 입는 두 여자)" (Kim Se-in, Kor 2021) <i>BIFF</> [Panorama]
+ IP, first
+
+"Happiness (Baqyt)" (Askar Uzabayev, Kaz) [Panorama]
+  WP
+
+"Berdreymi (Beautiful Beings)" (Guðmundur Arnar Guðmundsson, Ice/Den/Swe/NL/Cz) [Panorama]
+ WP
 
 "Brainwashed: Sex-Camera-Power" (Nina Menkes, US) [Panorama]
  doc
 
-"Swing Ride (Calcinculo)" (Chiara Bellosi, I) [Panorama]
+"Swing Ride (Calcinculo)" (Chiara Bellosi, I/Sui) [Panorama]
+ WP
+
+"Cinco Lobitos (Lullaby)" ( Alauda Ruiz de Azúa, Spain) [Panorama]
+ WP, first
+
+"Concerned Citizen" (Idan Haguel, Israel)
+ with Ariel Wolf, Shlomi Bertonov. WP
+
+"Una femmina (Una Femmina - The Code of Silence)" (Francesco Costabile, I)
+ with Lina Siciliano, Fabrizio Ferracane, Anna Maria De Luca, Simona Malato, Luca Massaro. WP
+
+"Fogaréu" (Flávia Neves, Bra/F)
+ with Bárbara Colen, Eucir de Souza, Nena Inoue, Fernanda Vianna, Vilminha Chaves, Timothy Wilson, Typyire Ãwa. WP, first
+
+"Grand Jeté" (Isabelle Stever, D)
+ with Sarah Nevada Grether, Emil von Schönfels, Susanne Bredehöft. WP
+
+"Heroji radničke klase (Working Class Heroes)" (Miloš Pušić, Serbia)
+ with Jasna Djuričić, Boris Isaković, Predrag Momčilović, Stefan Beronja, Aleksandar Djurica, Bojana Milanović. WP
+
+"Kdyby radši hořelo (Somewhere Over the Chemtrails)" (Adam Koloman Rybanský, Cz)
+ with Miroslav Krobot, Michal Isteník, Anna Polívková. WP, first
+
+"El norte sobre el vacío (Northern Skies Over Empty Space)" (Alejandra Márquez Abella, Mex) [Panorama]
+ with Gerardo Trejoluna, Paloma Petra, Dolores Heredia, Juan Daniel García Treviño, Mayra Hermosillo. WP
+
+"Produkty 24 (Convenience Store)" (Michael Borodin, RU/Slo/TR) [Panorama]
+ with Zukhara Sanzysbay, Lyudmila Vasilyeva, Tolibzhon Suleimanov, Nargiz Abdullaeva
+ WP, first
+
+"Viens je t'emmène (Nobody's Hero)" (Alain Guiraudie, F) [Panorama]
+ with Jean-Charles Clichet, Noémie Lvovsky, Iliès Kadri, Renaud Rutten, Doria Tillier. WP
 
 "Dreaming Walls" (Amélie van Elmbt/Maya Duverdier, B) [Panorama]
  doc
 
-"Klondike (Клондайк)" (Maryna Er Gorbach) <i>Sundance</i> [Panorama]
+"Klondike (Клондайк)" (Maryna Er Gorbach, Ukr/Tur) <i>Sundance</i> [Panorama]
 
 "A Love Song" (Max Walker-Silverman) <i>Sundance</i> [Panorama]
+ IP, first
 
 "Myanmar Diaries" (The Myanmar Film Collective) [Panorama]
 
@@ -136,20 +202,40 @@ PANAROMA
 "We, Students! (Nous, étudiants!)" (Rafiki Fariala, Central African Rep.) [Panorama]
 
 "Until Tomorrow (Ta farda) (Ali Asgari, Iran) [Panorama]
+ with Sadaf Asgari, Ghazal Shojaei, Babak Karimi, Amirreza Ranjbaran, Nahal Dashti, Mohammad
+Heidari, WP
 
 "Taurus" (Tim Sutton, USA) [Panorama]
- Machine Gun Kelly doc
+ Machine Gun Kelly doc. WP
+
+Aşk, Mark ve Ölüm (Love, Deutschmarks and Death)
+Germany
+by Cem Kaya
+World premiere / Panorama Dokumente
+
+"Bettina" (Lutz Pehnert, D)
+ WP, doc
 
 GENERATION
 
-"Rookies" () [Generation]
-"Beba" () [Generation]
-"The Quiet Girl" () [Generation]
-"Comedy Queen" () [Generation]
-"Kind Hearts" () [Generation]
-"Oink" () [Generation]
-"Millie Lies Low" () [Generation]
-"My Father’s Truck" () [Generation]
+"Rookies (Allons enfants)" (Thierry Demaizière/Alban Teurlai, F) [Generation]
+  French HipHop
+
+"Beba" (Rebeca Huntt, USA 2021) <i>TIFF 2021</i> [Generation]
+ self-portrait
+
+"The Quiet Girl (An Cailín Ciúin)" (Colm Bairead, IRL) [Generation]
+
+"Comedy Queen" (Sanna Lenken, Swe) [Generation]
+
+"Kind Hearts" (Gerard-Jan Claes/Olivia Rochette) [Generation]
+
+"Oink (Knor)" (Mascha Halberstad) [Generation]
+ anim
+
+"Millie Lies Low" (Michelle Savill, NZ 2021) <i>NZIFF 2021</i>[Generation]
+
+"My Father’s Truck" (Mauricio Osaki, Vietnam) [Generation]
 
 Generation Kplus
 
@@ -191,25 +277,7 @@ Memoir of a Veering Storm
 Meneath: The Hidden Island of Ethics 2021
 Tinashé 2021
 West by God
-It’s Raining Frogs Outside 2021
-Bird in the Peninsula
-By Flávio
-Further and Further Away
-Dirndlschuld (2021)
-Four Nights (2021)
-Haulout
-Heroines
-A Story for 2 Trumpets
-House of Existence
-Kicking the Clouds
-Manhã de Domingo
-Exalted Mars
-Retreat
-The Sower of Stars
-Soum
-Starfuckers
-Trap
-Will My Parents Come to See Me
+
 77sqm_9:26min (2017)
 Dilim dönmüyor – My Tongue Does Not Turn 2013
 Dirt for Dinner (2000)
@@ -229,117 +297,196 @@ FORUM
 
 "Afterwater" (Dane Komljen) [Forum]
 
-"Poet (Darezhan Omirbayev, Kaz 2021) [Forum]
+"Poet" (Darezhan Omirbayev, Kaz 2021) [Forum]
  released in Japan
 
-"Shall I Compare You to a Summer’s Day () [Forum]
-"Camouflage () [Forum]
-"This House () [Forum]
-"The Middle Ages () [Forum]
-"L’état et moi" () [Forum]
-"Europe" (2016) [Forum]
-"A Flower in the Mouth" () [Forum]
-"For the Many – The Vienna Chamber of Labour" () [Forum]
-"Geographies of Solitude" () [Forum]
-"Happer's Comet" () [Forum]
-"Jet Lag" () [Forum]
-"Dry Ground Burning" () [Forum]
-"Memoryland" (2021) [Forum]
-"My Two Voices" () [Forum]
-"Hot in Day, Cold at Night" (2021) [Forum]
-"We Haven’t Lost Our Way" () [Forum]
-"Nuclear Family" (2021) [Forum]
-"Rewind and Play" () [Forum]
-"Scala" () [Forum]
-"Super Natural" () [Forum]
-"Striking Land" () [Forum]
-"Three Tidy Tigers Tied a Tie Tighter" () [Forum]
-"The Kegelstatt Trio" () [Forum]
-"The United States of America" () [Forum]
-"The Veteran" () [Forum]
+"Shall I Compare You to a Summer’s Day" (Mohammad Shawky Hassan) [Forum]
 
-"Dragon Tooth" () [Forum Expanded]
-"Home When You Return (2021) [Forum Expanded]
-"Jail Bird in a Peacock Chair" () [Forum Expanded]
-"Sol in the Dark" () [Forum Expanded]
-"vs" () [Forum Expanded]
+"Camouflage" (Jonathan Perel) [Forum]
+
+"This House (Cette maison)" (Miryam Charles) [Forum]
+
+"The Middle Ages (La Edad Media)" (Alejo Moguillansky/Luciana Acuña, ARG) [Forum]
+
+"L’état et moi" (Max Linz) [Forum]
+
+"Europe" (István Kálmán, Hun 2016) [Forum]
+ Europe in 4K
+
+"A Flower in the Mouth" (Eric Baudelaire) [Forum]
+
+"For the Many – The Vienna Chamber of Labour" (Constantin Wulff) [Forum]
+
+"Geographies of Solitude" (Jacquelyn Mills) [Forum]
+
+"Happer's Comet" (Tyler Taormina) [Forum]
+ Covid Essay
+
+"Jet Lag" (Zheng Lu Xinyuan) [Forum]
+ Covid Essay
+
+"Dry Ground Burning (Mato seco em chamas)" (Adirley Queirós/Joana Pimenta) [Forum]
+
+"Memoryland" (Kim Quy Bui, 2021) [Forum]
+
+"My Two Voices (Mis dos voces") (Lina Rodriguez) [Forum]
+
+"Hot in Day, Cold at Night" (Park Song-yeol, Kor 2021) <i>BIFF 2021</i> [Forum]
+
+"We Haven’t Lost Our Way (Nie zgubiliśmy drogi)" (Anka Sasnal/Wilhelm Sasnal) [Forum]
+
+"Nuclear Family" (Travis Wilkerson, Erin Wilkerson, US 2021) <i>Mar del Plata 2021</i> [Forum]
+ A nuclear roadtrip comedy
+
+"Rewind and Play" (Alain Gomis) [Forum]
+
+"Scala" (Ananta Thitanat) [Forum]
+
+"Super Natural" (Jorge Jácome) [Forum]
+
+"Striking Land (Terra que marca)" (Raul Domingues) [Forum]
+
+"Three Tidy Tigers Tied a Tie Tighter (Três tigres tristes)" (Gustavo Vinagre) [Forum]
+
+"The Kegelstatt Trio (O trio em mi bemol)" (Rita Azevedo Gomes) [Forum]
+
+"The United States of America" (James Benning) [Forum]
+
+"The Veteran (El veterano)" (Jerónimo Rodríguez) [Forum]
+
+"Dragon Tooth (O Dente do Dragão)" (Rafael C. Parrode) [Forum Expanded]
+ 27min
+
+"Home When You Return" (Carl Elsaesser, 2021) [Forum Expanded]
+ 31min
+
+"Jail Bird in a Peacock Chair" (James Gregory Atkinson) [Forum Expanded]
+
+"Sol in the Dark" (Mawena Yehouessi) [Forum Expanded]
+
+"vs" (Lydia Nsiah) [Forum Expanded]
 
 BERLINALE SPECIAL
 
 "Against the Ice" (Peter Flinth, Island / Dänmark) [Special]
- mit Nikolaj Coster-Waldau, Joe Cole, Heida Reed, Charles Dance. Weltpremiere
+ mit Nikolaj Coster-Waldau, Joe Cole, Heida Reed, Charles Dance. WP
 
 "About Joan (À propos de Joan)" (Laurent Larivière, F/D/Irland) [Special]
- mit Isabelle Huppert, Lars Eidinger, Swann Arlaud. Weltpremiere
+ mit Isabelle Huppert, Lars Eidinger, Swann Arlaud. WP
 
 "Gangubai Kathiawadi" (Sanjay Leela Bhansali, Indien) [Special]
- mit Alia Bhatt, Ajay Devgn. Weltpremiere
+ mit Alia Bhatt, Ajay Devgn. WP
 
 "Good Luck to You, Leo Grande" (Sophie Hyde, UK) [Special]
- mit Daryl McCormack, Emma Thompson. Europäische Premiere
+ mit Daryl McCormack, Emma Thompson. EP
 
 "Incredible But True (Incroyable mais vrai)" (Quentin Dupieux, F/B) [Special]
- mit Alain Chabat, Léa Drucker, Benoît Magimel, Anaïs Demoustier. Weltpremiere
+ mit Alain Chabat, Léa Drucker, Benoît Magimel, Anaïs Demoustier. WP
 
 "The Forger (Der Passfälscher)" (Maggie Peren, D/Lux) [Special]
- mit Louis Hofmann, Jonathan Berlin, Luna Wedler. Weltpremiere
+ mit Louis Hofmann, Jonathan Berlin, Luna Wedler. WP
 
 "Dark Glasses (Occhiali neri)" (Dario Argento, I/F) [Special]
- mit Ilenia Pastorelli, Asia Argento, Andrea Zhang. Weltpremiere
+ mit Ilenia Pastorelli, Asia Argento, Andrea Zhang. WP
 
 "The Outfit" (Graham Moore, USA) [Special]
- mit Mark Rylance, Zoey Deutch, Dylan O'Brien. Weltpremiere / Debütfilm. 
+ mit Mark Rylance, Zoey Deutch, Dylan O'Brien. WP, first
 
 "1341 Frames of Love and War" (Ran Tal, Isr/UK/USA) [Special]
- Weltpremiere / dokumentarische Form
+ WP, doc
 
 "A German Party (Eine deutsche Partei)" (Simon Brückner, D) [Special]
- Weltpremiere / dokumentarische Form
+ WP, doc
 
 "Die Eiche - Mein Zuhause (Le chêne)" (Laurent Charbonnier/Michel Seydoux, F) [Special]
- Internationale Premiere / dokumentarische Form
+ IP, doc
 
 "Nest" (Hlynur Pálmason, Dän/Island) [Special]
- mit Ída Mekkín Hlynsdóttir, Grímur Hlynsson, Þorgils Hlynsson. Weltpremiere / Kurzfilm
+ mit Ída Mekkín Hlynsdóttir, Grímur Hlynsson, Þorgils Hlynsson. WP, short
 
 "Nothing Lasts Forever" (Jason Kohn, USA) [Special]
- Weltpremiere / dokumentarische Form
+ WP, doc
 
 "North Terminal (Terminal norte)" (Lucrecia Martel, ARG) [Special]
- International Premiere / dokumentarische Form / Kurzfilm
+ IP, doc, short
 
 "This Much I Know To Be True" (Andrew Dominik, UK) [Special]
- mit Nick Cave, Warren Ellis. Weltpremiere / dokumentarische Form
+ mit Nick Cave, Warren Ellis. WP, doc
 
 PERSPEKTIVE DEUTSCHES KINO
 
-#"Instructions for Survival" (Yana Ugrekhelidze, D) [Perspektive Deutsches Kino]
+"We Might As Well Be Dead (Wir könnten genauso gut tot sein)" (Natalia Sinelnikova, D/Rom) [Perspektive Deutsches Kino]
+
+"Echo" (Mareike Wegener, D) [Perspektive Deutsches Kino]
+ WP
+
+"Gewalten" (Constantin Hatz, D) [Perspektive Deutsches Kino]
+ WP
+
+"Ladies Only" (Rebana Liz John, D/Ind) [Perspektive Deutsches Kino]
+ doc, EP
+
+"Rondo" (Katharina Rivilis) [Perspektive Deutsches Kino]
+ 29min, WP
+
+"The Silent Forest (Schweigend steht der Wald)" (Saralisa Volm, D) [Perspektive Deutsches Kino]
+ mit Henriette Confurius, WP
+
+"Sorry Comrade" (Vera Brückner, D 2021) [Perspektive Deutsches Kino]
+ WP
+
+"Fallada - letztes Kapitel" (Roland Gräf, DDR 1988) [Perspektive Deutsches Kino]
+
+# ??
+
+"Devil’s Peak" (2021)
+"Diva" ()
+"Fire Emergencies" ()
+"Gazing... Unseeing" ()
+"If From Every Tongue it Drips" (2021)
+"Instant Life" ()
+"Kumbuka" ()
+"Subtotals" ()
+"Moune Ô" (2021)
+"My Home
+"MU/T/T/ER
+"One Big Bag
+"Parasite Family
+"All Was Good
+"Sun Under Ground
+"Surface Rites
+"Yarokamena
+"White Sands Crystal Foxes
+"All of your Stars are but Dust on My Shoes
+"Black Beauty: For a Shamanic Cinema (2021)
+"Those Who Do Not Drown 2021
+"Das Kino Projekt
+"The Lighting (2021)
+"Medicine and Magic
+"Under The White Mask: The Film That Haesaerts Could Have Made
+"The Path is Made by Walking 2021
+"Shadowboxing (2021)
+"Voices and Shells (2021)
+"The Wake
+"The Zama Zama Project
+"VCR’s Choice (2021)
+"The Wind in Your Body Is Only Visiting, Your Breath Will Soon Be Thunder
 
 BERLINALE CLASSICS
 
-"Sublime" [Retrospektive]
- World premiere of the digitally restored version (DCP 2K)
+"Sublime" (Mariano Biasin) [Special]
 
-Girl Picture
- World premiere of the digitally restored version (DCP 2K)
+"Girl Picture" (Alli Haapasalo) <i>Sundance</i> [Special]
 
-An Invisible Apprentice
- World premiere of the digitally restored version (DCP 2K)
+"An Invisible Apprentice (Una aprendiz invisible)" (Emilia Herbst) [Special]
 
-Blue Noise
-  World premiere of the digitally restored version (DCP 2K)
+"Blue Noise (Blaues Rauschen)" (Simon Maria Kubiena) [Special]
 
-Deer
- World premiere of the digitally restored version (DCP 2K)
+"Deer (Gavazn)" (Hadi Babaeifar) [Special]
 
-Goodbye Jerome!
-  World premiere of the digitally restored version (DCP 2K)
+"I’m Not Afraid! (Ich habe keine Angst!)" (Marita Mayer) [Special]
 
-I’m Not Afraid!
- World premiere of the digitally restored version (DCP 2K)
-
-Nothing to See Here
- World premiere of the digitally restored version (DCP 2K)
+"Nothing to See Here (Nada para ver aqui)" (Nicolas Bouchez, Por)
 
 Spotless 2021
  World premiere of the digitally restored version (DCP 2K)
@@ -415,51 +562,6 @@ Twentieth Century 1934
 What a Woman 1943
 
 CRITICS WEEK
-
-Echo
-Gewalten
-Ladies Only 2013
-Rondo
-The Silent Forest
-Sorry Comrade (2021)
-We Might As Well Be Dead
-Fallada - letztes Kapitel 1988
-Devil’s Peak 2021
-Diva
-Fire Emergencies
-Gazing... Unseeing
-If From Every Tongue it Drips 2021
-Instant Life
-Kumbuka
-Subtotals
-Moune Ô 2021
-My Home
-MU/T/T/ER
-One Big Bag
-Parasite Family
-All Was Good
-Sun Under Ground
-Surface Rites
-Yarokamena
-White Sands Crystal Foxes
-All of your Stars are but Dust on My Shoes
-Black Beauty: For a Shamanic Cinema (2021)
-Those Who Do Not Drown 2021
-Das Kino Projekt
-The Lighting (2021)
-Medicine and Magic
-Under The White Mask: The Film That Haesaerts Could Have Made
-The Path is Made by Walking 2021
-Shadowboxing (2021)
-Voices and Shells (2021)
-The Wake
-The Zama Zama Project
-VCR’s Choice (2021)
-The Wind in Your Body Is Only Visiting, Your Breath Will Soon Be Thunder
-Agrilogistics
-Memories from the Eastern Front
-
-Berlin Critics’ Week 2022
 
 "Capitu and the Chapter" (Júlio Bressane, Br 2021)  [Woche der Kritik]
  75min
