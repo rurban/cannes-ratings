@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = (2016..2021);
+our @YEARS = (2016..2022);
 our $comp_section = 'Wettbewerb';
 # "Encounters" 2020+
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
@@ -706,8 +706,11 @@ get '/Berlinale2020' => sub {
 get '/Berlinale2021' => sub {
   _list(2021);
 };
+get '/Berlinale2022' => sub {
+  _list(2022);
+};
 get '/Berlinale' => sub {
-  _list(2021);
+  _list(2022);
 };
 
 get '/BerlinaleAll' => sub {
@@ -735,9 +738,9 @@ get '/BerlinaleAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2016-2021";
+  $all->{year} = "2016-2022";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2020::critics_group"});
+                                       \@{"$BASE\::rurban::2022::critics_group"});
   template lc($BASE), $all;
 };
 
