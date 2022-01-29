@@ -15,7 +15,7 @@ our $DATA= <<'EOF';
 
 U.S. DRAMATIC COMPETITION
 
-"892" (Abi Damaris Corbin) [U.S. Dramatic]
+"892" (Abi Damaris Corbin) [U.S. Dramatic] Special Jury Award: Ensemble Cast
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/jan/21/892-review-john-boyega-holds-together-by-the-book-hostage-drama
 Tim Grierson            https://www.screendaily.com/reviews/892-sundance-review/5166766.article
 Siddhant Adlakha    C-   https://www.indiewire.com/2022/01/892-review-john-boyega-1234693064/
@@ -1704,7 +1704,7 @@ Gaslen              1
 Chloe               1
 teamgal             1
 
-"Blood" (Bradley Rust Gray) [U.S. Dramatic]
+"Blood" (Bradley Rust Gray) [U.S. Dramatic] Special Jury Award: Uncompromising Artistic Vision
 Ryan Lattanzio      C+   https://www.indiewire.com/2022/01/blood-review-bradley-gray-rust-1234693756/
 #letterboxd
 Pramit              10   https://letterboxd.com/pramitheus/film/blood-2022/
@@ -1917,7 +1917,7 @@ amoebababe          1   https://letterboxd.com/amoebababe/film/blood-2022/
 FoxyRussian         1
 Rebelrunner         1
 
-"Cha Cha Real Smooth" (Cooper Raiff) [U.S. Dramatic]
+"Cha Cha Real Smooth" (Cooper Raiff) [U.S. Dramatic] Audience Award
 Carlos Aguilar     9   https://www.thewrap.com/cha-cha-real-smooth-film-review-dakota-johnson-cooper-raiff/
 David Ehrlich      8.3 https://www.indiewire.com/2022/01/cha-cha-real-smooth-review-1234693112/
 Rodrigo Perez      8.3 https://theplaylist.net/cha-cha-real-smooth-review-sundance-20220123/
@@ -3491,7 +3491,7 @@ Orlando_Fl          7
 JaredSummers        7
 Anna Young          7
 
-"Emergency" (Carey Williams) [U.S. Dramatic]
+"Emergency" (Carey Williams) [U.S. Dramatic] Screenwriting Award
 Tim Grierson            https://www.screendaily.com/reviews/emergency-sundance-review/5166702.article
 Siddhant Adlakha    B+   https://www.indiewire.com/2022/01/emergency-review-carey-williams-1234692180/
 Adrian Horton     8    https://www.theguardian.com/film/2022/jan/20/emergency-review-endearing-yet-stressful-contemporary-campus-caper
@@ -5327,7 +5327,7 @@ Will Roose          2
 ilovehearses        2
 thesilvercrown      1
 
-"Nanny" (Nikyatu Jusu) [U.S. Dramatic]
+"Nanny" (Nikyatu Jusu) [U.S. Dramatic] Grand Jury Prize
 Allan Hunter            https://www.screendaily.com/reviews/nanny-sundance-review/5166630.article
 Kate Erbland        B-   https://www.indiewire.com/2022/01/nanny-review-nikyatu-jusu-1234692656/
 Lisa Wong Macabasco4    https://www.theguardian.com/film/2022/jan/22/nanny-review-nikyatu-jusu-anna-diop-sundance
@@ -6066,7 +6066,7 @@ ashavit23           1
 thesilvercrown      1
 Robyn Robyn Kramer  1
 
-"Palm Trees and Power Lines" (Jamie Dack) [U.S. Dramatic]
+"Palm Trees and Power Lines" (Jamie Dack) [U.S. Dramatic] Directing Award
 Kate Erbland        B   https://www.indiewire.com/2022/01/palm-trees-and-power-lines-review-jamie-dack-lily-mcinerny-1234691211/
 Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/palm-trees-and-power-lines-sundance-2022-1235082692/
 #letterboxd
@@ -8082,7 +8082,8 @@ Patrick Devitt      4
 tishzka             3
 S_N                 3
 
-"Girl Picture (Tytöt tytöt tytöt)" (Alli Haapasalo, Fin) [World Dramatic]
+"Girl Picture (Tytöt tytöt tytöt)" (Alli Haapasalo, Fin) [World Dramatic] Audience Award
+
 Ryan Lattanzio         https://www.indiewire.com/2022/01/girl-picture-trailer-sundance-1234688967/
 Amber Wilkinson         https://www.screendaily.com/reviews/girl-picture-sundance-review/5166662.article
 Brianna Zigler        B-  https://thefilmstage.com/sundance-review-girl-picture-is-a-joyful-if-predictable-coming-of-age-collage/
@@ -8452,7 +8453,8 @@ Daniela             4
 Maria Antônia Silveira Gonçalves 3
 clarissaaubin       1   https://letterboxd.com/clarissaaubin/film/girl-picture/
 
-"Klondike (Клондайк)" (Maryna Er Gorbach, Ukr) [World Dramatic]
+"Klondike (Клондайк)" (Maryna Er Gorbach, Ukr) [World Dramatic] Directing Award
+
 David Katz            B  https://thefilmstage.com/sundance-review-klondike-is-a-white-knuckle-look-at-life-during-wartime/
 #letterboxd
 kateryna_           10
@@ -8644,7 +8646,8 @@ Patrick Wellinski   3
 oldfashioned        3
 h.p. çılgın         2
 
-"Leonor Will Never Die" (Martika Ramirez Escobar, Phil) [World Dramatic]
+"Leonor Will Never Die" (Martika Ramirez Escobar, Phil) [World Dramatic] Special Jury Award: Innovative Spirit
+
 #letterboxd
 Ivan                10   https://letterboxd.com/sprvn/film/leonor-will-never-die/
 Aaron Washing       10
@@ -9198,7 +9201,7 @@ Trunnie 🔜 Sundance  4
 Juan Esteban Céspedes 3
 moyalo              2
 
-"Utama" (Alejandro Loayza Grisi, Bolivia) [World Dramatic]
+"Utama" (Alejandro Loayza Grisi, Bolivia) [World Dramatic] Grand Jury Prize
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/utama-review-sundance-2022-1235076472/
 Carlos Aguilar      B   https://www.indiewire.com/2022/01/utama-review-sundance-bolivian-film-1234692912/
 David Katz              https://thefilmstage.com/sundance-review-utama-asks-for-death-with-dignity-in-the-bolivian-highlands/
@@ -10096,7 +10099,8 @@ bryanrusso          1
 
 WORLD CINEMA DOCUMENTARY COMPETITION
 
-"All That Breathes" (Shaunak Sen) [World Documentaries]
+"All That Breathes" (Shaunak Sen) [World Documentaries] Grand Jury Prize
+
 Alistair Ryder        B+  https://thefilmstage.com/sundance-review-all-that-breathes-takes-a-powerful-cinematic-approach-to-capture-climate-change/
 Allan Hunter            https://www.screendaily.com/reviews/all-that-breathes-sundance-review/5167042.article
 David Ehrlich       B+   https://www.indiewire.com/2022/01/all-that-breathes-documentary-review-1234694866/
@@ -10277,7 +10281,8 @@ robbiez666          5   https://letterboxd.com/robbiez666/film/calendar-girls-20
 Chase Burns         4
 hpmerten            4
 
-"A House Made of Splinters" (Simon Lereng Wilmont) [World Documentaries]
+"A House Made of Splinters" (Simon Lereng Wilmont) [World Documentaries] Directing Award
+
 Daniel Fienberg         https://www.hollywoodreporter.com/movies/movie-reviews/a-house-made-of-splinters-review-1235079350/
 Brianna Zigler        C+  https://thefilmstage.com/sundance-review-a-house-made-of-splinters-is-a-fraught-portrait-of-war-torn-children/
 #letterboxd
@@ -10380,7 +10385,8 @@ Artem Makarskiy     4
 Palmer Aali         3
 I_ona               3
 
-"Midwives" (Hnin Ei Hlaing) [World Documentaries]
+"Midwives" (Hnin Ei Hlaing) [World Documentaries] Special Jury Award: Excellence In Verité Filmmaking
+
 #letterboxd
 Damon _叶大文）         10
 Harris              10
@@ -11081,7 +11087,8 @@ Arda Günaydın       5
 Matt Oakes          4
 ashavit23           4
 
-"The Territory" (Alex Pritz) [World Documentaries]
+"The Territory" (Alex Pritz) [World Documentaries] Audience Award + Special Jury Award: Documentary Craft
+
 Siddhant Adlakha    B+   https://www.indiewire.com/2022/01/the-territory-review-documentary-1234691913/
 Michael Frank         B+  https://thefilmstage.com/sundance-review-the-territory-is-a-collaborative-work-of-preservation/
 Tara Judah              https://www.screendaily.com/reviews/the-territory-sundance-review/5166883.article
@@ -11420,7 +11427,8 @@ dubsmovies          1
 
 U.S. DOCUMENTARY COMPETITION
 
-"Aftershock" (Tonya Lewis Lee, Paula Eiselt) [U.S. Documentaries]
+"Aftershock" (Tonya Lewis Lee, Paula Eiselt) [U.S. Documentaries] Special Jury Award: Impact for Change
+
 Susannah Gruder     A-   https://www.indiewire.com/2022/01/aftershock-review-1234693197/
 #letterboxd
 Aaron Washing       10
@@ -11490,7 +11498,8 @@ xavierfilms         6
 nelsond             6
 John Guerin         6
 
-"Descendant" (Margaret Brown) [U.S. Documentaries]
+"Descendant" (Margaret Brown) [U.S. Documentaries] Special Jury Award: Creative Vision
+
 Robert Daniels      B+   https://www.indiewire.com/2022/01/descendant-review-africatown-documentary-1234692929/
 Jordan Raup           B+  https://thefilmstage.com/sundance-review-descendant-follows-a-communitys-search-for-truth-and-reconciliation/
 #letterboxd
@@ -11686,7 +11695,7 @@ Héctor Gaona        4
 Pearce, Rodrigues   3
 Jeremy S. Levine    3
 
-"The Exiles" (Violet Columbus, Ben Klein) [U.S. Documentaries]
+"The Exiles" (Violet Columbus, Ben Klein) [U.S. Documentaries] Grand Jury Prize
 John DeFore             https://www.hollywoodreporter.com/movies/movie-reviews/the-exiles-film-sundance-2022-1235079164/
 David Ehrlich       B-   https://www.indiewire.com/2022/01/the-exiles-review-christine-choy-1234691410/
 Wendy Ide               https://www.screendaily.com/reviews/the-exiles-sundance-review/5166830.article
@@ -11839,7 +11848,7 @@ chris_zjx           5   https://letterboxd.com/chris_zjx/film/the-exiles-2022/
 keyboardonfire      4   https://letterboxd.com/keyboardonfire/film/the-exiles-2022/
 Madison Harris-Weiner 3   https://letterboxd.com/madisonhw/film/the-exiles-2022/
 
-"Fire of Love" (Sara Dosa) [U.S. Documentaries]
+"Fire of Love" (Sara Dosa) [U.S. Documentaries] Editing Award
 Daniel Fienberg         https://www.hollywoodreporter.com/movies/movie-reviews/fire-of-love-review-1235078227/
 Ryan Lattanzio      A-   https://www.indiewire.com/2022/01/fire-of-love-review-katia-maurice-krafft-1234691994/
 Jordan Raup           B  https://thefilmstage.com/sundance-review-fire-of-love-gracefully-captures-a-deathly-bond-with-volcanic-wonders/
@@ -12537,7 +12546,8 @@ CriticswoCred       4
 Skooby              4
 Maya & Sam          2
 
-"Free Chol Soo Lee" (Eugene Yi, Julie Ha) [U.S. Documentaries]
+"Free Chol Soo Lee" (Eugene Yi, Julie Ha) [U.S. Documentaries] Producers Award for Nonfiction
+
 John Fink             B  https://thefilmstage.com/sundance-review-free-chol-soo-lee-is-a-gripping-doc-on-systemic-injustice/
 #letterboxd
 Aaron Washing       10
@@ -12711,7 +12721,7 @@ freedm59            5
 Hefixesthecable     5
 Jeremy Heilman      4   https://letterboxd.com/jeremyheilman/film/free-chol-soo-lee/
 
-"I Didn't See You There" (Reid Davenport) [U.S. Documentaries]
+"I Didn't See You There" (Reid Davenport) [U.S. Documentaries] Directing Award
 John DeFore             https://www.hollywoodreporter.com/movies/movie-reviews/i-didnt-see-you-there-sundance-2022-1235079968/
 #letterboxd
 Aaron Washing       10
@@ -13398,31 +13408,8 @@ Joshua Minsoo Kim   2   https://letterboxd.com/misterminsoo/film/tiktok-boom/
 tobyirikura         1   https://letterboxd.com/tobyirikura/film/tiktok-boom/
 Gia Farruggia       1
 Tania               1
-Kirsten             8
-Paul Plank          8
-facundo0            8
-Marj000             8   https://letterboxd.com/marj000/film/tiktok-boom/
-carterkrist         8
-Alejandra           8
-doggy1688           8
-Mahsa               7
-elenaaltmanstan     7
-daghot3ahulos       7
-Fernando29          7
-zackkadir           7
-Ethan Hunt          7
-Sam🐛                7
-raine               7
-belenignjatovic     6
-lizzymumford        6
-NeonDiamondxx       6
-Mohammad Eman       5
-Nickboy23           5
-Kiahna Campbell     5
-vinitashanker       5
-Phát Priam          4
-eden312             4
-miafisher           2   https://letterboxd.com/miafisher/film/tiktok-boom/
+
+"Navalny" (Daniel Rohrer)  [U.S. Documentaries] Audience Award
 
 NEXT
 
@@ -13791,7 +13778,8 @@ a24wannabe          2
 CAROL穗雅             2
 Patrick Devitt      2
 
-"Framing Agnes" (Chase Joynt) [NEXT]
+"Framing Agnes" (Chase Joynt) [NEXT] Audience Award
+
 Jude Dry               https://www.indiewire.com/2022/01/framing-agnes-review-trans-documentary-1234694724/
 #letterboxd
 River               10   https://letterboxd.com/rbutcher/film/framing-agnes-2022/
@@ -18774,7 +18762,8 @@ emmachoco           8
 𝙊𝙨𝙨𝙚𝙨𝙨𝙞𝙤𝙣𝙚          4
 truekino69420_chrimbus_ 1
 
-"God's Country" (Julian Higgins) [Premieres]
+"God's Country" (Julian Higgins) [Premieres] Producers Award for Fiction
+
 Fionnuala Halligan      https://www.screendaily.com/reviews/gods-country-sundance-review/5166758.article
 Jake Kring-Schreifels B  https://thefilmstage.com/sundance-review-thandiwe-newton-brings-a-fire-to-the-slow-burn-neo-western-gods-country/
 #letterboxd
@@ -29040,7 +29029,7 @@ Josh                1
 
 SPOTLIGHT
 
-"After Yang" (Kogonada) [Spotlight] <i>Cannes</i>
+"After Yang" (Kogonada) [Spotlight] <i>Cannes</i> Alfred P. Sloan Feature Film Prize
 
 #Rodrigo Perez      10  https://theplaylist.net/after-yang-kogonada-reflects-bittersweetly-on-the-melancholy-nature-of-death-existence-through-tender-sci-fi-technosapiens-cannes-review-20210708/
 #David Ehrlich      9.1 https://www.indiewire.com/2021/07/after-yang-review-kogonada-1234648922/
