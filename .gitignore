@@ -71,8 +71,7 @@ imdb-ratings.csv
 *-recovery-codes.txt
 public/*20*.dat.bak
 /up.sh
-/imdb-b20.lst
-/imdb-b21.lst
+/imdb-b2*.lst
 /imdb.dat
 /imdb.dat.bak
 /imdb.db
