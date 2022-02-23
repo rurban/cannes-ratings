@@ -1,5 +1,5 @@
-package Cannes::rurban::2021; # -*- perl -*-
-# Cannes 2021 Critics Ratings, May 17-28
+package Cannes::rurban::2022; # -*- perl -*-
+# Cannes 2022 Critics Ratings, May 17-28
 # Published at http://cannes-ratings.herokuapp.com/Cannes2022
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
@@ -38,11 +38,25 @@ package Cannes::rurban::2021; # -*- perl -*-
  
 use utf8;
 our $DATA= <<'EOF';
+COMPETITION
+
+UN CERTAIN REGARD
+
+OUT OF COMPETITION
+
+QUINZAINE
+
+SEMAINE
+
+ACID
+
+OTHER
 
 EOF
 
 # but not selected
 my $PREDICTIONS = <<'EOF';
+
 
 EOF
 
