@@ -200,8 +200,12 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
-  my %sections = map {$_=>1} @sections;
   my $section;
+  if ($year eq '2022') {
+    @sections = qw[Predictions];
+  }
+  my %sections = map {$_=>1} @sections;
+
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
     my ($l,$a,$n,$t) = @{$_};
@@ -326,6 +330,7 @@ sub _dump {
     $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
   }
   my $list = '';
+  # Very Good New Films
   for (@t) { 
     my $t = $_->[3];
     my $n = $title{$t}->{num};
@@ -355,6 +360,9 @@ sub _dump {
   }
   my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
+  if (@sections == 1) {
+    $out = '';
+  }
   $list = '';
   for (@t) {
     my $t = $_->[3];
@@ -383,12 +391,14 @@ sub _dump {
     }
     $i++;
   }
-  if ($list) {
+  if ($list and @sections != 1) {
     $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
   }
-  $out .= "\n<h1>All official sections</h1>\n\n";
+  if (@sections != 1) {
+    $out .= "\n<h1>All official sections</h1>\n\n";
+  }
   my ($allreviews, $numratings) = (0,0);
   my %section;
   for my $section (@sections) {
@@ -469,35 +479,36 @@ sub _dump {
       $out .= "</table>\n\n";
     }
   }
-
-  $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n"; 
-  my $j=1; my $six=1;
-  for (sort 
-       {
-	 $a->[1] <=> $b->[1] ? $b->[1] <=> $a->[1]
-                             : $a->[0] cmp $b->[0]
-       } @t)
-  {
-    my ($l,$a,$n,$t) = @{$_};
-    $numratings += $n;
-    next unless $t;
-    my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
-    $l="<i>$l</i>" if $s>=2.0;
-    if ($l =~ / \[\Q$comp_section\E\]/) { 
-      $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
-    } else { $l =~ s/ \[[\w ]+?\]//;}
-    $l="<small>$l</small>" if $title{$t}->{num}<10;
-    if ($six and $n and $a<6.0){
-      $six=0;
-      $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
+  if (@sections != 1) {
+    $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n";
+    my $j=1; my $six=1;
+    for (sort 
+         {
+           $a->[1] <=> $b->[1] ? $b->[1] <=> $a->[1]
+             : $a->[0] cmp $b->[0]
+         } @t)
+    {
+      my ($l,$a,$n,$t) = @{$_};
+      $numratings += $n;
+      next unless $t;
+      my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
+      $l="<i>$l</i>" if $s>=2.0;
+      if ($l =~ / \[\Q$comp_section\E\]/) { 
+        $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
+      } else { $l =~ s/ \[[\w ]+?\]//;}
+      $l="<small>$l</small>" if $title{$t}->{num}<10;
+      if ($six and $n and $a<6.0){
+        $six=0;
+        $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
+      }
+      $out .= $n 
+        ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
+        :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
+      if (_show_detail($i)) {
+        $out .= _detail($t,$title{$t},\%critic,1);
+      }
+      $i++;
     }
-    $out .= $n 
-      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
-      :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
-    if (_show_detail($i)) {
-      $out .= _detail($t,$title{$t},\%critic,1);
-    }
-    $i++;
   }
 
   my $numc = scalar(keys(%critic));
@@ -663,6 +674,7 @@ sub _list {
   }
   no strict 'refs';
   my $DATA = ${"$BASE\::rurban::$year\::DATA"};
+  #my $PREDICTIONS = ${"$BASE\::rurban::$year\::PREDICTIONS"};
   my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
