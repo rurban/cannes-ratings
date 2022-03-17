@@ -201,9 +201,6 @@ sub _dump {
   my $year = $_[3];
   my @all = @t;
   my $section;
-  if ($year eq '2022') {
-    @sections = qw[Predictions];
-  }
   my %sections = map {$_=>1} @sections;
 
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
@@ -679,6 +676,9 @@ sub _list {
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
+  if ($year eq '2022') {
+    @sections = qw[Predictions];
+  }
   my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group), $year );
   $vars->{year} = $year;
   $vars->{HEADER} = $HEADER;
