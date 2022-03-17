@@ -678,6 +678,9 @@ sub _list {
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
   if ($year eq '2022') {
     @sections = qw[Predictions];
+  } elsif (@sections == 1) {
+    @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
+                 "Semaine", "ACID", "Other");
   }
   my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group), $year );
   $vars->{year} = $year;
