@@ -40,14 +40,6 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-QUINZAINE
-
-SEMAINE
-
-ACID
-
-OTHER
-
 "Decision to Leave" (Park Chan-wook, Korea 2022) [Predictions]
 
 #letterboxd
@@ -242,13 +234,6 @@ miguel              6   https://letterboxd.com/iohaness/film/showing-up-1/
 "Passages" (Ira Sachs) [Predictions]
  Franz Rogowski, Ben Whishaw, Adèle Exarchopoulos
 
-
-"Bora Bora" (Albert Serra) [Predictions]
-
-
-"Holy Spider" (Ali Abbasi) [Predictions]
-
-
 "To the Edge of Sorrow" (Cristian Mungiu) [Predictions]
 
 
@@ -273,7 +258,7 @@ Lee Marshall       7   https://www.screendaily.com/reviews/incredible-but-true-b
 Mark Hanson        5   https://www.slantmagazine.com/film/incredible-but-true-review-quentin-dupieux/
 #letterboxd
 
-"The Beast" (Bertrand Bonello) [Predictions]
+"The Beast (Le Beate)" (Bertrand Bonello) [Predictions]
  Gaspard Ulliel, Léa Seydoux
 
 
@@ -296,7 +281,7 @@ UN CERTAIN REGARD
 "La Goutte d’Or" (Clément Cogitore) [Predictions]
  UCR
 
-"Glupcy" (Tomasz Wasilewski) [Predictions]
+"Fools (Glupcy)" (Tomasz Wasilewski) [Predictions]
  UCR
 
 "Heroico" (David Zonana) [Predictions]
@@ -369,6 +354,139 @@ OUT OF COMPETITION
 
 "Final Cut (Z comme Z)" (Michel Hazanavicius) [Predictions]
  Midnight
+
+QUINZAINE
+
+"The Almond and the Seahorse"(Celyn Jones & Tom Stern, UK) [Predictions]
+ Quinzaine, first
+
+"Balkaya" (Emin Alper 🇹🇷) [Predictions]
+ Quinzaine
+
+"Bora Bora" (Albert Serra) [Predictions]
+ Quinzaine
+
+"Bowling Saturne" (Patricia Mazuy) [Predictions]
+ Quinzaine
+
+"Enys Men" (Mark Jenkin) [Predictions]
+ Quinzaine
+
+"La Grande Magie" (Noémie Lvovsky, 🇫🇷) [Predictions]
+ Quinzaine
+
+"Les Harkis" (Philippe Faucon, 🇫🇷) [Predictions]
+ Quinzaine
+
+"The Happiest Man in the World" (Teona Strugar Mitevska 🇲🇰) [Predictions]
+ Quinzaine
+
+"The Integrity of Joseph Chambers" (Robert Machoian 🇺🇸) [Predictions]
+ Quinzaine
+
+"Kung Fury II: The Movie" (David Sandberg 🇸🇪) [Predictions]
+ Quinzaine
+
+"Men" (Alex Garland 🇬🇧) [Predictions]
+ Quinzaine
+
+"La Maternal" (Pilar Palomero 🇪🇸) [Predictions]
+ Quinzaine
+
+"Nocebo" (Lorcan Finnegan 🇮🇪) [Predictions]
+ Quinzaine
+
+"Petite Fleur" (Santiago Mitre, 🇦🇷)) [Predictions]
+ Quinzaine. Written by Santiago Mitre and Mariano Llinas.
+
+"More Than Ever (Plus que jamais)" (Emily Atef 🇫🇷) [Predictions]
+ Quinzaine
+
+"Beautiful Forgiveness (Sans retour)" (Davy Chou) [Predictions]
+ Quinzaine
+
+"School Town" (Liu Jian) [Predictions]
+ Quinzaine
+
+"The Store" (Hanna Sköld) [Predictions]
+ Quinzaine
+
+"When the Waves are Gone" (Lav Diaz) [Predictions]
+ Quinzaine
+
+SEMAINE
+
+"Amore Mio" (Guillaume Gouix 🇫🇷) [Predictions]
+ Semaine
+
+"Avant l’effondrement" (Alice Zeniter & Benoit Zeniter 🇫🇷) [Predictions]
+ Semaine
+
+"Blaze" (Del Kathryn Barton 🇦🇺) [Predictions]
+ Semaine
+
+"Bruxa" (Cristèle Alves Meira 🇵🇹) [Predictions]
+ Semaine
+
+
+"Daughter of Rage" (Laura Baumeister 🇳🇮) [Predictions]
+ Semaine
+
+
+"Disco Boy" (Giacomo Abbruzzese 🇮🇹) [Predictions]
+ Semaine
+
+
+"Falcon Lake" (Charlotte Le Bon 🇨🇦) [Predictions]
+ Semaine
+
+
+"Le Grand Marin" (Dinara Drukarova 🇫🇷) [Predictions]
+ Semaine
+
+
+"Inside" (Vasilis Katsoupis 🇬🇷) [Predictions]
+ Semaine
+
+"Lucky Girl" (Marysia Nikitiuk 🇺🇦) [Predictions]
+ Semaine
+
+
+"Marcel!" (Jasmine Trinca 🇮🇹) [Predictions]
+ Semaine
+
+"La Passagère" (Héloïse Pelloquet 🇫🇷) [Predictions]
+ Semaine
+
+"Rodéo" (Lola Quivoron 🇫🇷) [Predictions]
+ Semaine
+
+"Sanctuary" (Zachary Wigon 🇺🇸) [Predictions]
+ Semaine
+
+"Saint Omer" (Alice Diop 🇫🇷) [Predictions]
+ Semaine
+
+"Summer to Come" (György Mór Kárpáti 🇭🇺) [Predictions]
+ Semaine
+
+"Superposition" (Karoline Lyngbye 🇩🇰) [Predictions]
+ Semaine
+
+"Tout le monde m’appelle Mike" (Guillaume Bonnier 🇫🇷) [Predictions]
+ Semaine
+
+"Un cœur en abîme" (Guillaume Bureau 🇫🇷) [Predictions]
+ Semaine
+
+"Un monstre, moi aussi" (Edouard Salier 🇫🇷) [Predictions]
+ Semaine
+
+ACID
+
+OTHER
+
+
 
 EOF
 
