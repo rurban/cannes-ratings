@@ -40,10 +40,6 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-UN CERTAIN REGARD
-
-OUT OF COMPETITION
-
 QUINZAINE
 
 SEMAINE
@@ -226,7 +222,7 @@ ambar               4
 math                2
 
 "Close" (Lukas Dhont) [Predictions]
- Émilie Dequenne, Léa Drucker
+ UCR Émilie Dequenne, Léa Drucker
 
 
 "Showing Up" (Kelly Reichardt) [Predictions]
@@ -283,6 +279,96 @@ Mark Hanson        5   https://www.slantmagazine.com/film/incredible-but-true-re
 
 "Music" (Angela Schanelec) [Predictions]
 
+UN CERTAIN REGARD
+
+"Black Box" (Asli Özge) [Predictions]
+ UCR
+
+"La Dernière reine" (Damien Ounouri) [Predictions]
+ UCR
+
+"Divertimento" (Marie-Castille Mention-Schaar) [Predictions]
+ UCR
+
+"Dodo" (Panos H. Koutras) [Predictions]
+ UCR
+
+"La Goutte d’Or" (Clément Cogitore) [Predictions]
+ UCR
+
+"Glupcy" (Tomasz Wasilewski) [Predictions]
+ UCR
+
+"Heroico" (David Zonana) [Predictions]
+ UCR
+
+"Holy Spider" (Ali Abbasi) [Predictions]
+ UCR
+
+"Houria" (Mounia Meddour) [Predictions]
+ UCR
+
+"Human Flowers of Flesh" (Helena Wittmann) [Predictions]
+ UCR
+
+"Infinity Pool" (Brandon Cronenberg) [Predictions]
+ UCR
+
+"L’origine du mal" (Sébastien Marnier) [Predictions]
+ UCR
+
+"Los Reyes del Mundo" (Laura Mora) [Predictions]
+ UCR
+
+"Nezouh" (Soudade Kaadan) [Predictions]
+ UCR
+
+"Oum" (Sofia Alaoui) [Predictions]
+ UCR
+
+"Totem" (Lila Avilés) [Predictions]
+ UCR
+
+"Un petit frère" (Léonor Serraille) [Predictions]
+ UCR
+
+"White Road!" (Ella Manzheeva) [Predictions]
+ UCR
+
+"The Woodcutter Story" (Mikko Myllylahti) [Predictions]
+ UCR
+
+OUT OF COMPETITION
+
+"Forever Young (Les Amandiers)" (Valeria Bruni-Tedeschi) [Predictions]
+  Out of Comp
+
+"L’année du requin" (Ludovic Boukherma & Zoran Boukherma)  [Predictions]
+ Mignight
+
+"Les Cyclades" (Marc Fitoussi)  [Predictions]
+  Special
+
+"Elvis" (Baz Luhrmann) [Predictions]
+  Out of Comp
+
+"Mascerade" (Nicolas Bedos) [Predictions]
+  Out of Comp
+
+"The Vanished President (Le Tigre et le Président)" (Jean-Marc Peyrefitte) [Predictions]
+  Special
+
+"Top Gun: Maverick" (Joseph Kosinski) [Predictions]
+  Out of Comp
+
+"Lockdown Tower (La Tour d’Assitan)" (Guillaume Nicloux) [Predictions]
+ Midnight
+
+"Vengeance" (B.J. Novak) [Predictions]
+ Midnight
+
+"Final Cut (Z comme Z)" (Michel Hazanavicius) [Predictions]
+ Midnight
 
 EOF
 
