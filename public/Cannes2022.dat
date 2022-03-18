@@ -1437,7 +1437,7 @@ our $FOOTER = "
 <pre>
 --
 Lists:
-https://letterboxd.com/vermelholimao/list/cannes-2022-official-selection-la-quinzaine/
+https://letterboxd.com/rurban/list/cannes-2022-predictions/
 Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2022.dat 
 </pre>";
