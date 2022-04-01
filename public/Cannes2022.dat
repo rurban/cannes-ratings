@@ -40,12 +40,12 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-"Decision to Leave" (Park Chan-wook, Korea 2022) [Predictions]
+"Decision to Leave" (Park Chan-wook 🇰🇷) [Predictions]
 
 #letterboxd
 alexsommer0609      10   https://letterboxd.com/alexsommer0609/film/decision-to-leave/
 
-"Broker (브로커’)" (Kore-eda Hirokazu, J 2022) [Predictions]
+"Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Predictions]
 
 #letterboxd
 JamesKim            10
@@ -55,7 +55,7 @@ AliDexx1            6
 Sara                5
 tanu                1   https://letterboxd.com/tanishee/film/broker-1/
 
-"On Barren Weeds" (Nuri Bilge Ceylan) [Predictions]
+"On Barren Weeds" (Nuri Bilge Ceylan 🇹🇷) [Predictions]
 
 #letterboxd
 asimetrik           8
@@ -63,10 +63,10 @@ mhacr               8
 Güneş               6
 Sajjad Aslani       4
 
-"The Eternal Daughter" (Joanna Hogg) [Predictions]
+"The Eternal Daughter" (Joanna Hogg 🇬🇧) [Predictions]
 
 
-"Crimes of the Future" (David Cronenberg) [Predictions]
+"Crimes of the Future" (David Cronenberg 🇨🇦) [Predictions]
 
 #letterboxd
 Ernesto Rubin       5
@@ -76,7 +76,7 @@ Cadesteele          5
 Babylon Tom         4
 Tanguy Renault      3
 
-"Triangle of Sadness" (Ruben Östlund) [Predictions]
+"Triangle of Sadness" (Ruben Östlund 🇸🇪) [Predictions]
 
 #letterboxd
 sanna.              9   https://letterboxd.com/s__karinsdotter/film/triangle-of-sadness/
@@ -88,7 +88,7 @@ rashusmus           8   https://letterboxd.com/rashusmus/film/triangle-of-sadnes
 Patrick Devitt      5
 UnclePrune          4
 
-"Asteroid City" (Wes Anderson) [Predictions]
+"Asteroid City" (Wes Anderson 🇺🇸) [Predictions]
 
 #letterboxd
 #Sonny MacDonald     10
@@ -126,20 +126,20 @@ barbaraazevedo      5
 #Christian           1
 #Oliver              1
 
-"The Zone of Interest" (Jonathan Glazer) [Predictions]
+"The Zone of Interest" (Jonathan Glazer 🇺🇸) [Predictions]
 
 #letterboxd
 Randy               10
 Niki                6
 MrQassem            1
 
-"The Way of the Wind" (Terrence Malick) [Predictions]
+"The Way of the Wind" (Terrence Malick 🇺🇸) [Predictions]
   His Jesus Film
 
 #letterboxd
 Letterboxd 10_Ratings	6.6  https://letterboxd.com/film/the-way-of-the-wind/
 
-"Three Thousand Years of Longing" (George Miller) [Predictions]
+"Three Thousand Years of Longing" (George Miller 🇦🇺) [Predictions]
 
 #letterboxd
 Blade Runner 2022   10
@@ -147,13 +147,13 @@ Elizabeth Kasumi    10
 rekrap13            6
 Kavehpd             3
 
-"La Chimera" (Alice Rohrwacher) [Predictions]
+"La Chimera" (Alice Rohrwacher 🇮🇹) [Predictions]
  Isabella Rossellini, Alba Rohrwacher
 
 #letterboxd
 tomaebasta          7
 
-"Bardo or (False Chronicle of a Handful of Truths)" (Alejandro González Iñárritu) [Predictions]
+"Bardo or (False Chronicle of a Handful of Truths)" (Alejandro González Iñárritu 🇲🇽) [Predictions]
 
 #letterboxd
 Tenoch SP           10
@@ -165,7 +165,7 @@ golqmpaqk           1
 "Brother and Sister (Frère et sœur)" (Arnaud Desplechin 🇫🇷) [Predictions]
  Marion Cotillard, Golshifteh Farahani
 
-"Eureka" (Lisandro Alonso) [Predictions]
+"Eureka" (Lisandro Alonso 🇦🇷) [Predictions]
 
 
 "The Stars at Noon" (Claire Denis 🇫🇷) [Predictions]
@@ -182,13 +182,13 @@ ambar               4
 math                2
 lois                1
 
-"Close" (Lukas Dhont) [Predictions]
+"Close" (Lukas Dhont 🇧🇪) [Predictions]
  UCR Émilie Dequenne, Léa Drucker
 
-"Women Talking" (Sarah Polley) [Predictions]
+"Women Talking" (Sarah Polley 🇨🇦) [Predictions]
  Frances McDormand, Ben Whishaw, Rooney Mara, Claire Foy. Plan B (ready?)
 
-"Showing Up" (Kelly Reichardt) [Predictions]
+"Showing Up" (Kelly Reichardt 🇺🇸) [Predictions]
  Michelle Williams
 
 #letterboxd
@@ -199,15 +199,15 @@ Teresa              1
 
 "White People (École de l'air)" (Robin Campillo 🇫🇷) [Predictions]
 
-"Passages" (Ira Sachs) [Predictions]
+"Passages" (Ira Sachs 🇺🇸) [Predictions]
  Franz Rogowski, Ben Whishaw, Adèle Exarchopoulos
 
-"Monica" (Kantemir Balagov) [Predictions]
+"Monica" (Kantemir Balagov 🇷🇺) [Predictions]
 
-"To the Edge of Sorrow (RMN)" (Cristian Mungiu) [Predictions]
+"To the Edge of Sorrow" (Cristian Mungiu 🇷🇴) [Predictions]
 
 
-"Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne) [Predictions]
+"Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Predictions]
 
 
 "Shining Sex" (Lucile Hadžihalilović, Sion Sono …) [Predictions]
@@ -218,7 +218,7 @@ Cruikshank          4
 Codfish             1
 John Roth           1
 
-"Incredible But True" (Quentin Dupieux) [Predictions] <i>Berlinale Special</i>
+"Incredible But True" (Quentin Dupieux 🇫🇷) [Predictions] <i>Berlinale Special</i>
 
 Elena Lazic        10  https://theplaylist.net/incredible-but-true-review-quentin-dupieux-delivers-a-more-grounded-post-comedy-comedy-berlin-film-festival-20220213/
 Peter Bradshaw     8   https://www.theguardian.com/film/2022/feb/11/incredible-but-true-review-quentin-dupieux-berlin-film-festival-2022
@@ -228,35 +228,35 @@ Lee Marshall       7   https://www.screendaily.com/reviews/incredible-but-true-b
 Mark Hanson        5   https://www.slantmagazine.com/film/incredible-but-true-review-quentin-dupieux/
 #letterboxd
 
-"The Beast (Le Beate)" (Bertrand Bonello) [Predictions]
+"The Beast (Le Beate)" (Bertrand Bonello 🇫🇷) [Predictions]
  Gaspard Ulliel, Léa Seydoux
 
-"Armageddon Time" (James Gray) [Predictions]
+"Armageddon Time" (James Gray 🇺🇸) [Predictions]
 
 #letterboxd
 BonsCons            8
 
-"Chronicle of a Temporary Affair (Chronique d’une liaison passagère)" (Emmanuel Mouret) [Predictions]
+"Chronicle of a Temporary Affair (Chronique d’une liaison passagère)" (Emmanuel Mouret 🇫🇷) [Predictions]
 
-"Club Zero" (Jessica Hausner)  [Predictions]
+"Club Zero" (Jessica Hausner 🇦🇹)  [Predictions]
 
-"Music" (Angela Schanelec) [Predictions]
+"Music" (Angela Schanelec 🇩🇪) [Predictions]
 
 #letterboxd
 michelpoulet        8
 
-"Sparta" (Ulrich Seidl) [Predictions]
+"Sparta" (Ulrich Seidl 🇦🇹) [Predictions]
 
-"Tchaikovsky’s Wife" (Kirill Serebrennikov) [Predictions]
+"Tchaikovsky’s Wife" (Kirill Serebrennikov 🇷🇺) [Predictions]
 
-"One Fine Morning (Un beau matin)" (Mia Hansen-Løve) [Predictions]
+"One Fine Morning (Un beau matin)" (Mia Hansen-Løve 🇫🇷) [Predictions]
 
 #letterboxd
 MuhdHaikal          10
 
 UN CERTAIN REGARD
 
-"Black Box" (Aslı Özge) [Predictions]
+"Black Box" (Aslı Özge 🇹🇷) [Predictions]
  UCR
 
 "La Dernière reine" (Damien Ounouri) [Predictions]
@@ -265,28 +265,28 @@ UN CERTAIN REGARD
 "Divertimento" (Marie-Castille Mention-Schaar) [Predictions]
  UCR
 
-"Dodo" (Panos H. Koutras) [Predictions]
+"Dodo" (Panos H. Koutras 🇬🇷) [Predictions]
  UCR
 
-"La Goutte d’Or" (Clément Cogitore) [Predictions]
+"La Goutte d’Or" (Clément Cogitore 🇫🇷) [Predictions]
  UCR
 
-"Fools (Glupcy)" (Tomasz Wasilewski) [Predictions]
+"Fools (Glupcy)" (Tomasz Wasilewski 🇵🇱) [Predictions]
  UCR
 
 "Heroico" (David Zonana) [Predictions]
  UCR
 
-"Holy Spider" (Ali Abbasi) [Predictions]
+"Holy Spider" (Ali Abbasi 🇮🇷) [Predictions]
  UCR
 
-"Houria" (Mounia Meddour) [Predictions]
+"Houria" (Mounia Meddour 🇩🇿) [Predictions]
  UCR
 
 "Human Flowers of Flesh" (Helena Wittmann) [Predictions]
  UCR
 
-"Infinity Pool" (Brandon Cronenberg) [Predictions]
+"Infinity Pool" (Brandon Cronenberg 🇨🇦) [Predictions]
  UCR
 
 "L’origine du mal" (Sébastien Marnier) [Predictions]
@@ -304,7 +304,7 @@ UN CERTAIN REGARD
 "Totem" (Lila Avilés) [Predictions]
  UCR
 
-"Un petit frère" (Léonor Serraille) [Predictions]
+"Un petit frère" (Léonor Serraille 🇫🇷) [Predictions]
  UCR
 
 "White Road!" (Ella Manzheeva) [Predictions]
@@ -315,13 +315,13 @@ UN CERTAIN REGARD
 
 OUT OF COMPETITION
 
-"Forever Young (Les Amandiers)" (Valeria Bruni-Tedeschi) [Predictions]
+"Forever Young (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Predictions]
   Out of Comp
 
 "L’année du requin" (Ludovic Boukherma & Zoran Boukherma)  [Predictions]
  Mignight
 
-"Les Cyclades" (Marc Fitoussi)  [Predictions]
+"Les Cyclades" (Marc Fitoussi 🇫🇷) [Predictions]
   Special
 
 "Elvis" (Baz Luhrmann) [Predictions]
@@ -330,7 +330,7 @@ OUT OF COMPETITION
 #letterboxd
 Letterboxd 47_Ratings	6.9  https://letterboxd.com/film/elvis-2022/
 
-"Mascerade" (Nicolas Bedos) [Predictions]
+"Mascerade" (Nicolas Bedos 🇫🇷) [Predictions]
   Out of Comp
 
 "The Vanished President (Le Tigre et le Président)" (Jean-Marc Peyrefitte) [Predictions]
@@ -357,7 +357,7 @@ Letterboxd 206_Ratings	5.2  https://letterboxd.com/film/the-contractor-2022/
 "Untitled Sidney Poitier Documentary" (Reginald Hudlin) [Predictions]
  Out of Comp
 
-"Lockdown Tower (La Tour d’Assitan)" (Guillaume Nicloux) [Predictions]
+"Lockdown Tower (La Tour d’Assitan)" (Guillaume Nicloux 🇫🇷) [Predictions]
  Midnight
 
 "Vengeance" (B.J. Novak) [Predictions]
@@ -367,7 +367,7 @@ Letterboxd 206_Ratings	5.2  https://letterboxd.com/film/the-contractor-2022/
 amber               10
 Jean Car            4
 
-"Final Cut (Z comme Z)" (Michel Hazanavicius) [Predictions]
+"Final Cut (Z comme Z)" (Michel Hazanavicius 🇫🇷) [Predictions]
  Midnight
 
 #letterboxd
@@ -433,7 +433,7 @@ Letterboxd 34_Ratings	7.4  https://letterboxd.com/film/men-2022/
 "Nocebo" (Lorcan Finnegan 🇮🇪) [Predictions]
  Quinzaine
 
-"15 Ways to Kill Your Neighbor (Petite Fleur)" (Santiago Mitre, 🇦🇷)) [Predictions]
+"15 Ways to Kill Your Neighbor (Petite Fleur)" (Santiago Mitre, 🇦🇷) [Predictions]
  Quinzaine. Written by Santiago Mitre and Mariano Llinas.
 
 #letterboxd
@@ -457,7 +457,7 @@ maxloa              5
 "When the Waves are Gone" (Lav Diaz) [Predictions]
  Quinzaine
 
-"Bones & All" (Luca Guadagnino) [Predictions]
+"Bones & All" (Luca Guadagnino 🇮🇹) [Predictions]
  Quinzaine
 
 "Don Juan" (Serge Bozon 🇫🇷) [Predictions]
@@ -466,7 +466,7 @@ maxloa              5
 "Wild Sunflowers (Girasoles silvestres)" (Jaime Rosales) [Predictions]
  Quinzaine
 
-"Other People’s Children (Les enfants des autres)" (Rebecca Zlotowski [Predictions]
+"Other People’s Children (Les enfants des autres)" (Rebecca Zlotowski 🇫🇷) [Predictions]
  Quinzaine
 
 "All That Breathes" (Shaunak Sen) [Predictions] <i>Sundance</i>
@@ -480,10 +480,10 @@ Allan Hunter       8   https://www.screendaily.com/reviews/all-that-breathes-sun
 #letterboxd
 Letterboxd 213_Ratings	7.6  https://letterboxd.com/film/all-that-breathes/
 
-"Iao Capitano" (Matteo Garrone) [Predictions]
+"Iao Capitano" (Matteo Garrone 🇮🇹) [Predictions]
  Quinzaine
 
-"The Natural History of Destruction" (Sergei Loznitsa) [Predictions]
+"The Natural History of Destruction" (Sergei Loznitsa 🇺🇦) [Predictions]
  Quinzaine
 
 "The Perfumed Hill" (Abderrahmane Sissako) [Predictions]
@@ -578,19 +578,19 @@ KinoKlub            3
 "Klarsfeld" (Mike Lerner) [Predictions]
  Semaine
 
-"Revoir Paris" (Alice Winocour) [Predictions]
+"Revoir Paris" (Alice Winocour 🇫🇷) [Predictions]
  Semaine
 
-"Rheingold" (Fatih Akin) [Predictions]
+"Rheingold" (Fatih Akin 🇩🇪) [Predictions]
  Semaine
 
-"She Said" (Maria Schrader) [Predictions]
+"She Said" (Maria Schrader 🇩🇪) [Predictions]
  Semaine
 
 #letterboxd
 Kayla               10
 
-"The Son" (Florian Zeller) [Predictions]
+"The Son" (Florian Zeller 🇫🇷🇬🇧) [Predictions]
  Semaine
 
 
