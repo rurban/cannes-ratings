@@ -676,7 +676,7 @@ sub _list {
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
-  if ($year eq '2022') {
+  if ($year eq '2023') {
     @sections = qw[Predictions];
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",

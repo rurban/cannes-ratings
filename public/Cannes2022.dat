@@ -40,12 +40,48 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-"Decision to Leave" (Park Chan-wook 🇰🇷) [Predictions]
+"Holy Spider" (Ali Abbasi 🇮🇷) [Competition]
+
+"Forever Young (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
+
+"Crimes of the Future" (David Cronenberg 🇨🇦) [Competition]
 
 #letterboxd
-alexsommer0609      10   https://letterboxd.com/alexsommer0609/film/decision-to-leave/
+Ernesto Rubin       5
+hazza               5
+macedolenop         5
+Cadesteele          5
+Babylon Tom         4
+Tanguy Renault      3
 
-"Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Predictions]
+"Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Competition]
+
+"The Stars at Noon" (Claire Denis 🇫🇷) [Competition]
+ Margeret Qualley
+
+#letterboxd
+ritikaaa926         10
+jonytoy             8
+Baggoman            8
+JimiAntiloop        6
+ramoutily           6
+Patrick Danaher     5
+ambar               4
+math                2
+lois                1
+
+"Brother and Sister (Frère et sœur)" (Arnaud Desplechin 🇫🇷) [Competition]
+ Marion Cotillard, Golshifteh Farahani
+
+"Close" (Lukas Dhont 🇧🇪) [Competition]
+ Émilie Dequenne, Léa Drucker
+
+"Armageddon Time" (James Gray 🇺🇸) [Competition]
+
+#letterboxd
+BonsCons            8
+
+"Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Competition]
 
 #letterboxd
 JamesKim            10
@@ -54,6 +90,166 @@ AliDexx1            6
 はると                 6
 Sara                5
 tanu                1   https://letterboxd.com/tanishee/film/broker-1/
+
+"Nostalgia" (Mario Martone, 🇮🇹) [Competition]
+
+
+"RMN (To the Edge of Sorrow)" (Cristian Mungiu 🇷🇴) [Competition]
+
+"Triangle of Sadness" (Ruben Östlund 🇸🇪) [Competition]
+
+#letterboxd
+sanna.              9   https://letterboxd.com/s__karinsdotter/film/triangle-of-sadness/
+saga333             9
+Frans Wiklund       8   https://letterboxd.com/franswiklund/film/triangle-of-sadness/
+Dylan Murray        8   https://letterboxd.com/dylantits/film/triangle-of-sadness/
+elliot127           8
+rashusmus           8   https://letterboxd.com/rashusmus/film/triangle-of-sadness/
+Patrick Devitt      5
+UnclePrune          4
+
+"Decision to Leave" (Park Chan-wook 🇰🇷) [Competition]
+
+#letterboxd
+alexsommer0609      10   https://letterboxd.com/alexsommer0609/film/decision-to-leave/
+
+"Showing Up" (Kelly Reichardt 🇺🇸) [Competition]
+ Michelle Williams
+
+#letterboxd
+not izzy            10   https://letterboxd.com/izzyetc/film/showing-up-1/
+PendUlum            8
+miguel              6   https://letterboxd.com/iohaness/film/showing-up-1/
+Teresa              1
+
+"Leila's Brothers" (Saeed Roustaee) [Competition]
+
+"Boy From Heaven" (Tarik Saleh, SWE) [Competition]
+
+"Tchaikovsky’s Wife" (Kirill Serebrennikov 🇷🇺) [Competition]
+
+"Eo" (Jerzy Skolimowski) [Competition]
+
+UN CERTAIN REGARD
+
+"Les Pires" (Lise Akoka/Romane Gueret 🇫🇷) [Un Certain Regard]
+ 1st
+
+"Burning Days" (Emin Alper 🇹🇷) [Un Certain Regard]
+
+"Metronom" (Alexandru Belc) [Un Certain Regard]
+ 1st
+
+"Sick Of Myself" (Kristoffer Borgli) [Un Certain Regard]
+
+"All The People I'll Never Be (Sans retour)" (Davy Chou) [Un Certain Regard]
+ 
+"Dominga And The Mist" (Ariel Escalante Meza) [Un Certain Regard]
+
+"Plan 75" (Hayakawa Chie) [Un Certain Regard]
+ 1st
+
+"Unitled Pine Ridge Project" (Riley Keough/Gina Gamell 🇺🇸) [Un Certain Regard]
+ 1st
+
+"Corsage" (Marie Kreutzer 🇦🇹) [Un Certain Regard]
+
+"Bachennya Metelyka (Butterfly Vision)" (Maksim Nakonechnyi) [Un Certain Regard]
+ 1st film
+
+"Vanskabte Land / Volaða Land (Godland)" (Hlynur Pálmason) [Un Certain Regard]
+
+"Rodeo" (Lola Quivoron) [Un Certain Regard]
+ 1st film
+
+"Joyland) (Saim Sadiq) [Un Certain Regard]
+ 1st film
+
+"The Silent Twins" (Agnieszka Smocynska) [Un Certain Regard]
+
+"The Stranger" (Thomas M Wright) [Un Certain Regard]
+
+OUT OF COMPETITION
+
+"Final Cut (Z comme Z)" (Michel Hazanavicius 🇫🇷) [Out Of Competition]
+ Opening Film
+
+#letterboxd
+Clarobetchoin       10
+emmachoco           8
+morgane_rlt         7
+GrosLapin           7
+TheNotorius         4
+Keith Watson        4
+coming              2
+StoneSullivan       1   https://letterboxd.com/stonesullivan/film/final-cut-1/
+James Cameron       1
+
+"Top Gun: Maverick" (Joseph Kosinski) [Out Of Competition]
+
+#letterboxd
+Letterboxd 192_Ratings	7.3  https://letterboxd.com/film/top-gun-maverick/
+
+"Elvis" (Baz Luhrmann) [Out Of Competition]
+  Out of Comp
+
+#letterboxd
+Letterboxd 47_Ratings	6.9  https://letterboxd.com/film/elvis-2022/
+
+"Mascerade" (Nicolas Bedos 🇫🇷) [Out Of Competition]
+
+"Three Thousand Years of Longing" (George Miller 🇦🇺) [Out Of Competition]
+
+#letterboxd
+Blade Runner 2022   10
+Elizabeth Kasumi    10
+rekrap13            6
+Kavehpd             3
+
+"Hunt" (Lee Jung-Jae 🇰🇷) [Out Of Competition] Midnight
+
+"Incredible But True (Fumer Fait Tousser)" (Quentin Dupieux 🇫🇷) [Out Of Competition] <i>Berlinale Special</i> Midnight
+
+Elena Lazic        10  https://theplaylist.net/incredible-but-true-review-quentin-dupieux-delivers-a-more-grounded-post-comedy-comedy-berlin-film-festival-20220213/
+Peter Bradshaw     8   https://www.theguardian.com/film/2022/feb/11/incredible-but-true-review-quentin-dupieux-berlin-film-festival-2022
+Jordan Mintzer     8   https://www.hollywoodreporter.com/movies/movie-reviews/incredible-but-true-incroyable-mais-vrai-review-1235086481/
+Ben Croll          7.5 https://www.indiewire.com/2022/02/incredible-but-true-review-quentin-dupieux-1234698708/
+Lee Marshall       7   https://www.screendaily.com/reviews/incredible-but-true-berlin-review/5167135.article
+Mark Hanson        5   https://www.slantmagazine.com/film/incredible-but-true-review-quentin-dupieux/
+#letterboxd
+
+"Moonage Daydream" (Brett Morgen) [Out Of Competition] Midnight
+
+"Dodo" (Panos H. Koutras 🇬🇷) [Out Of Competition] Premiere
+
+"Nightfall (Esterno Notte)" (Marco Bellochio) [Out Of Competition] Premiere
+
+"Irma Vep" (Olivier Assayas) [Out Of Competition] Premiere
+
+"Nos Frangins" (Rachid Bouchareb) [Out Of Competition] Premiere
+
+"Jerry Lee Lewis: Trouble In Mind" (Ethan Coen) [Out Of Competition] Special Screening
+
+"The Natural History of Destruction" (Sergei Loznitsa 🇺🇦) [Out Of Competition] Special Screening
+
+"All That Breathes" (Shaunak Sen) [Out Of Competition] <i>Sundance</i> Special Screening
+ Doc
+
+Sundance 192_Ratings    7.7  https://cannes-ratings.herokuapp.com//Sundance?t=16#16
+Dan Fienberg       10  https://www.hollywoodreporter.com/movies/movie-reviews/all-that-breathes-review-1235083507/
+Alistair Ryder     8.3 https://thefilmstage.com/sundance-review-all-that-breathes-takes-a-powerful-cinematic-approach-to-capture-climate-change/
+David Ehrlich      8.3 https://www.indiewire.com/2022/01/all-that-breathes-documentary-review-1234694866/
+Allan Hunter       8   https://www.screendaily.com/reviews/all-that-breathes-sundance-review/5167042.article
+#letterboxd
+Letterboxd 213_Ratings	7.6  https://letterboxd.com/film/all-that-breathes/
+
+
+
+
+EOF
+
+# but not selected
+my $PREDICTIONS = <<'EOF';
 
 "On Barren Weeds" (Nuri Bilge Ceylan 🇹🇷) [Predictions]
 
@@ -65,28 +261,6 @@ Sajjad Aslani       4
 
 "The Eternal Daughter" (Joanna Hogg 🇬🇧) [Predictions]
 
-
-"Crimes of the Future" (David Cronenberg 🇨🇦) [Predictions]
-
-#letterboxd
-Ernesto Rubin       5
-hazza               5
-macedolenop         5
-Cadesteele          5
-Babylon Tom         4
-Tanguy Renault      3
-
-"Triangle of Sadness" (Ruben Östlund 🇸🇪) [Predictions]
-
-#letterboxd
-sanna.              9   https://letterboxd.com/s__karinsdotter/film/triangle-of-sadness/
-saga333             9
-Frans Wiklund       8   https://letterboxd.com/franswiklund/film/triangle-of-sadness/
-Dylan Murray        8   https://letterboxd.com/dylantits/film/triangle-of-sadness/
-elliot127           8
-rashusmus           8   https://letterboxd.com/rashusmus/film/triangle-of-sadness/
-Patrick Devitt      5
-UnclePrune          4
 
 "Asteroid City" (Wes Anderson 🇺🇸) [Predictions]
 
@@ -139,14 +313,6 @@ MrQassem            1
 #letterboxd
 Letterboxd 10_Ratings	6.6  https://letterboxd.com/film/the-way-of-the-wind/
 
-"Three Thousand Years of Longing" (George Miller 🇦🇺) [Predictions]
-
-#letterboxd
-Blade Runner 2022   10
-Elizabeth Kasumi    10
-rekrap13            6
-Kavehpd             3
-
 "La Chimera" (Alice Rohrwacher 🇮🇹) [Predictions]
  Isabella Rossellini, Alba Rohrwacher
 
@@ -162,40 +328,11 @@ Barış Orhan         10
 Ryan Town           9   https://letterboxd.com/ryantown/film/bardo-or-false-chronicle-of-a-handful-of-truths/
 golqmpaqk           1
 
-"Brother and Sister (Frère et sœur)" (Arnaud Desplechin 🇫🇷) [Predictions]
- Marion Cotillard, Golshifteh Farahani
-
 "Eureka" (Lisandro Alonso 🇦🇷) [Predictions]
 
 
-"The Stars at Noon" (Claire Denis 🇫🇷) [Predictions]
- Margeret Qualley
-
-#letterboxd
-ritikaaa926         10
-jonytoy             8
-Baggoman            8
-JimiAntiloop        6
-ramoutily           6
-Patrick Danaher     5
-ambar               4
-math                2
-lois                1
-
-"Close" (Lukas Dhont 🇧🇪) [Predictions]
- UCR Émilie Dequenne, Léa Drucker
-
 "Women Talking" (Sarah Polley 🇨🇦) [Predictions]
  Frances McDormand, Ben Whishaw, Rooney Mara, Claire Foy. Plan B (ready?)
-
-"Showing Up" (Kelly Reichardt 🇺🇸) [Predictions]
- Michelle Williams
-
-#letterboxd
-not izzy            10   https://letterboxd.com/izzyetc/film/showing-up-1/
-PendUlum            8
-miguel              6   https://letterboxd.com/iohaness/film/showing-up-1/
-Teresa              1
 
 "White People (École de l'air)" (Robin Campillo 🇫🇷) [Predictions]
 
@@ -203,11 +340,6 @@ Teresa              1
  Franz Rogowski, Ben Whishaw, Adèle Exarchopoulos
 
 "Monica" (Kantemir Balagov 🇷🇺) [Predictions]
-
-"To the Edge of Sorrow" (Cristian Mungiu 🇷🇴) [Predictions]
-
-
-"Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Predictions]
 
 
 "Shining Sex" (Lucile Hadžihalilović, Sion Sono …) [Predictions]
@@ -218,23 +350,8 @@ Cruikshank          4
 Codfish             1
 John Roth           1
 
-"Incredible But True" (Quentin Dupieux 🇫🇷) [Predictions] <i>Berlinale Special</i>
-
-Elena Lazic        10  https://theplaylist.net/incredible-but-true-review-quentin-dupieux-delivers-a-more-grounded-post-comedy-comedy-berlin-film-festival-20220213/
-Peter Bradshaw     8   https://www.theguardian.com/film/2022/feb/11/incredible-but-true-review-quentin-dupieux-berlin-film-festival-2022
-Jordan Mintzer     8   https://www.hollywoodreporter.com/movies/movie-reviews/incredible-but-true-incroyable-mais-vrai-review-1235086481/
-Ben Croll          7.5 https://www.indiewire.com/2022/02/incredible-but-true-review-quentin-dupieux-1234698708/
-Lee Marshall       7   https://www.screendaily.com/reviews/incredible-but-true-berlin-review/5167135.article
-Mark Hanson        5   https://www.slantmagazine.com/film/incredible-but-true-review-quentin-dupieux/
-#letterboxd
-
 "The Beast (Le Beate)" (Bertrand Bonello 🇫🇷) [Predictions]
  Gaspard Ulliel, Léa Seydoux
-
-"Armageddon Time" (James Gray 🇺🇸) [Predictions]
-
-#letterboxd
-BonsCons            8
 
 "Chronicle of a Temporary Affair (Chronique d’une liaison passagère)" (Emmanuel Mouret 🇫🇷) [Predictions]
 
@@ -246,8 +363,6 @@ BonsCons            8
 michelpoulet        8
 
 "Sparta" (Ulrich Seidl 🇦🇹) [Predictions]
-
-"Tchaikovsky’s Wife" (Kirill Serebrennikov 🇷🇺) [Predictions]
 
 "One Fine Morning (Un beau matin)" (Mia Hansen-Løve 🇫🇷) [Predictions]
 
@@ -265,9 +380,6 @@ UN CERTAIN REGARD
 "Divertimento" (Marie-Castille Mention-Schaar) [Predictions]
  UCR
 
-"Dodo" (Panos H. Koutras 🇬🇷) [Predictions]
- UCR
-
 "La Goutte d’Or" (Clément Cogitore 🇫🇷) [Predictions]
  UCR
 
@@ -275,9 +387,6 @@ UN CERTAIN REGARD
  UCR
 
 "Heroico" (David Zonana) [Predictions]
- UCR
-
-"Holy Spider" (Ali Abbasi 🇮🇷) [Predictions]
  UCR
 
 "Houria" (Mounia Meddour 🇩🇿) [Predictions]
@@ -313,25 +422,11 @@ UN CERTAIN REGARD
 "The Woodcutter Story" (Mikko Myllylahti) [Predictions]
  UCR
 
-OUT OF COMPETITION
-
-"Forever Young (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Predictions]
-  Out of Comp
-
 "L’année du requin" (Ludovic Boukherma & Zoran Boukherma)  [Predictions]
  Mignight
 
 "Les Cyclades" (Marc Fitoussi 🇫🇷) [Predictions]
   Special
-
-"Elvis" (Baz Luhrmann) [Predictions]
-  Out of Comp
-
-#letterboxd
-Letterboxd 47_Ratings	6.9  https://letterboxd.com/film/elvis-2022/
-
-"Mascerade" (Nicolas Bedos 🇫🇷) [Predictions]
-  Out of Comp
 
 "The Vanished President (Le Tigre et le Président)" (Jean-Marc Peyrefitte) [Predictions]
   Special
@@ -341,18 +436,6 @@ Letterboxd 47_Ratings	6.9  https://letterboxd.com/film/elvis-2022/
 
 #letterboxd
 Letterboxd 15_Ratings	5.1  https://letterboxd.com/film/the-whale-1/
-
-"Top Gun: Maverick" (Joseph Kosinski) [Predictions]
-  Out of Comp
-
-#letterboxd
-Letterboxd 192_Ratings	7.3  https://letterboxd.com/film/top-gun-maverick/
-
-"The Contractor" (Tarik Saleh) [Predictions]
- Out of Comp, Paramount
-
-#letterboxd
-Letterboxd 206_Ratings	5.2  https://letterboxd.com/film/the-contractor-2022/
 
 "Untitled Sidney Poitier Documentary" (Reginald Hudlin) [Predictions]
  Out of Comp
@@ -367,20 +450,6 @@ Letterboxd 206_Ratings	5.2  https://letterboxd.com/film/the-contractor-2022/
 amber               10
 Jean Car            4
 
-"Final Cut (Z comme Z)" (Michel Hazanavicius 🇫🇷) [Predictions]
- Midnight
-
-#letterboxd
-Clarobetchoin       10
-emmachoco           8
-morgane_rlt         7
-GrosLapin           7
-TheNotorius         4
-Keith Watson        4
-coming              2
-StoneSullivan       1   https://letterboxd.com/stonesullivan/film/final-cut-1/
-James Cameron       1
-
 QUINZAINE
 
 "Scarlet (L'envol)" (Pietro Marcello) [Predictions]
@@ -388,9 +457,6 @@ QUINZAINE
 
 "The Almond and the Seahorse"(Celyn Jones & Tom Stern, UK) [Predictions]
  Quinzaine, first
-
-"Balkaya" (Emin Alper 🇹🇷) [Predictions]
- Quinzaine
 
 "Bora Bora" (Albert Serra) [Predictions]
  Quinzaine
@@ -445,9 +511,6 @@ maxloa              5
 "More Than Ever (Plus que jamais)" (Emily Atef 🇫🇷) [Predictions]
  Quinzaine
 
-"Beautiful Forgiveness (Sans retour)" (Davy Chou) [Predictions]
- Quinzaine
-
 "School Town" (Liu Jian) [Predictions]
  Quinzaine
 
@@ -469,21 +532,7 @@ maxloa              5
 "Other People’s Children (Les enfants des autres)" (Rebecca Zlotowski 🇫🇷) [Predictions]
  Quinzaine
 
-"All That Breathes" (Shaunak Sen) [Predictions] <i>Sundance</i>
- Doc, Quinzaine
-
-Sundance 192_Ratings    7.7  https://cannes-ratings.herokuapp.com//Sundance?t=16#16
-Dan Fienberg       10  https://www.hollywoodreporter.com/movies/movie-reviews/all-that-breathes-review-1235083507/
-Alistair Ryder     8.3 https://thefilmstage.com/sundance-review-all-that-breathes-takes-a-powerful-cinematic-approach-to-capture-climate-change/
-David Ehrlich      8.3 https://www.indiewire.com/2022/01/all-that-breathes-documentary-review-1234694866/
-Allan Hunter       8   https://www.screendaily.com/reviews/all-that-breathes-sundance-review/5167042.article
-#letterboxd
-Letterboxd 213_Ratings	7.6  https://letterboxd.com/film/all-that-breathes/
-
 "Iao Capitano" (Matteo Garrone 🇮🇹) [Predictions]
- Quinzaine
-
-"The Natural History of Destruction" (Sergei Loznitsa 🇺🇦) [Predictions]
  Quinzaine
 
 "The Perfumed Hill" (Abderrahmane Sissako) [Predictions]
@@ -564,9 +613,6 @@ KinoKlub            3
  Semaine
 
 "The Owner" (Yury Bykov) [Predictions]
- Semaine
-
-"Bowie" (Brett Morgen) [Predictions]
  Semaine
 
 "L’immensità" (Emanuele Crialese) [Predictions]
@@ -1256,7 +1302,7 @@ our $FOOTER = "
 <pre>
 --
 Lists:
-https://letterboxd.com/rurban/list/cannes-2022-predictions/
+https://letterboxd.com/rurban/list/cannes-2022/
 Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2022.dat 
 </pre>";
