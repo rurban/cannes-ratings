@@ -208,6 +208,8 @@ Letterboxd 207_Ratings	7.3  https://letterboxd.com/film/top-gun-maverick/
 #letterboxd
 Letterboxd 55_Ratings	6.8  https://letterboxd.com/film/elvis-2022/
 
+"November" (Cédric Jimenez 🇫🇷) [Out Of Competition]
+
 "Mascerade" (Nicolas Bedos 🇫🇷) [Out Of Competition]
 
 "Three Thousand Years of Longing" (George Miller 🇦🇺) [Out Of Competition]
@@ -1319,7 +1321,7 @@ our $FOOTER = "
 <pre>
 --
 Lists:
-https://letterboxd.com/rurban/list/cannes-2022/
+https://letterboxd.com/seanliu/list/cannes-2022/
 Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2022.dat 
 </pre>";
