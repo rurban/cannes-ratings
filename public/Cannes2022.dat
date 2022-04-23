@@ -174,8 +174,8 @@ TerryMalick69       10   https://letterboxd.com/terrymalick69/film/sick-of-mysel
 "Plan 75" (Hayakawa Chie 🇯🇵) [Un Certain Regard]
  1st
 
-"Untitled Pine Ridge Project" (Riley Keough/Gina Gamell 🇺🇸) [Un Certain Regard]
- 1st
+"Beast" (Riley Keough/Gina Gamell 🇺🇸) [Un Certain Regard]
+ 1st (was "Untitled Pine Ridge Project")
 
 "Corsage" (Marie Kreutzer 🇦🇹) [Un Certain Regard]
 
@@ -421,7 +421,7 @@ David Katz  https://www.cineuropa.org/en/newsdetail/421293/
 "La colline" (Denis Gheerbrant/Lina Tsrimova 🇫🇷) [ACID]
  doc
 
-"How to Save a Dead Friend" (Marusya Syroechkovskaya, EU) [ACID] <i>Visions du Réel</i>
+"How to Save a Dead Friend" (Marusya Syroechkovskaya, EU) [ACID] <i>Visions du Réel, Baltic Sea Docs</i>
  doc
 
 Vladan Petkovic  https://www.cineuropa.org/en/newsdetail/424416/
@@ -806,70 +806,70 @@ EOF
 
 our (@critics, @critics_group);
 my $i=0;
-#$critics_group[$i] = "Todas";
-#$critics[$i++] = "
-#Alejandro G. Calvo (Sensacine, España)
-#Alejandra Trelles (International Film Festival Uruguay, Uruguay)
-#Alex Vicente (Público, España) 
-#Alexandra Zawia (ray, Austria)
-#Ángel Quintana (Cahiers du cinema Espana, España)
-#Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
-#Boris Nelepo (Seance.ru, Russia)
-#Carlo Chatrian (Festival de Locarno, Italy) 
-#Carlos F. Heredero (Caimán CDC, España) 
-#Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
-#Cristina Nord (Die Tageszeitung, Deutschland) 
-#Dana Linssen (De Filmkrant, Netherlands) 
-#Diego Batlle (La Nación, OtrosCines, Argentina) 
-#Diego Lerer (Clarín, Micropsia, Argentina) 
-#Eugenio Renzi (Independencia, France) 
-#Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
-#Fernando Ganzo (Lumiere, España) 
-#Fernando Juan Lima (El Amante, Argentina) 
-#Francisco Ferreira (Expresso, Portugal) 
-#Jaime Pena (El Amante, España, Argentina) 
-#José Luis Losa (Cineuropa, España)
-#Kieron Corless (Time Out London, UK)
-#Luciano Barisone (Duellanti/Panoramiche, Italy) 
-#Giona Nazzaro (Gender DocuFilm Festival, Italy)
-#Luciano Monteagudo (Página/12, Argentina) 
-#Marcelo Alderete (Festival de Mar del Plata, Argentina) 
-#Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
-#Nando Salva (El Periódico, España) 
-#Neil Young (Hollywood Reporter, Tribune, UK) 
-#Pablo Scholz (Clarín, Argentina)
-#Paolo Bertolin (Venice International Film Festival, Italy) 
-#Paolo Moretti (Italy) 
-#Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
-#Philip Engel (Go Mag, España) 
-## wrong spelling, needs upstream fix
-#Philipp Engel (Go Mag, España)
-#Robert Koehler (Variety, USA) 
-#Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-#Rüdiger Suchsland (arteschock, Deutschland) 
-#Sergi Sanchez (La Razón, España)
-#Jan Pieter Ekker (Cinema.nl, Netherlands)
-#Emiliano Fernández (A Sala Llena, Argentina)
-#Scott Foundas (Film Comment, USA)
-#Gustavo Beck (Curitiba International Film Festival, Brazil)
-#Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
-#Javier H. Estrada (Caimán CDC, España)
-#Pamela Bienzobas (Revista Cosas, Chile) 
-#Xavi Serra (Ara, España) 
-#Dominik Kamalzadeh (Der Standard, Austria)
-#Alvaro Arroba (Cinema Scope, España)
-#Imma Merino (Periodista i crítica, España)
-#Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
-#Andrea Picard (TIFF, Cinema Scope, Canada)
-#Kong Rithdee (The Bangkok Post, Thailand) 
-#Guillaume Muyan Wang (‎Cinemaround, China)
-#Juanma Ruíz (Screenwriter, España)
-#Damián Hoffman (Arriba Argentinos, Argentina)
-#Pedro Segura
-#Nicolás Kusmin (OtrosCines, Argentina)
-#Carlota Moseguí (El Septimo Arte, España)
-#Agustín Mango (The Hollywood Reporter, Argentina)
-#";
+$critics_group[$i] = "Todas";
+$critics[$i++] = "
+Alejandro G. Calvo (Sensacine, España)
+Alejandra Trelles (International Film Festival Uruguay, Uruguay)
+Alex Vicente (Público, España) 
+Alexandra Zawia (ray, Austria)
+Ángel Quintana (Cahiers du cinema Espana, España)
+Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
+Boris Nelepo (Seance.ru, Russia)
+Carlo Chatrian (Festival de Locarno, Italy) 
+Carlos F. Heredero (Caimán CDC, España) 
+Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
+Cristina Nord (Die Tageszeitung, Deutschland) 
+Dana Linssen (De Filmkrant, Netherlands) 
+Diego Batlle (La Nación, OtrosCines, Argentina) 
+Diego Lerer (Clarín, Micropsia, Argentina) 
+Eugenio Renzi (Independencia, France) 
+Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
+Fernando Ganzo (Lumiere, España) 
+Fernando Juan Lima (El Amante, Argentina) 
+Francisco Ferreira (Expresso, Portugal) 
+Jaime Pena (El Amante, España, Argentina) 
+José Luis Losa (Cineuropa, España)
+Kieron Corless (Time Out London, UK)
+Luciano Barisone (Duellanti/Panoramiche, Italy) 
+Giona Nazzaro (Gender DocuFilm Festival, Italy)
+Luciano Monteagudo (Página/12, Argentina) 
+Marcelo Alderete (Festival de Mar del Plata, Argentina) 
+Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
+Nando Salva (El Periódico, España) 
+Neil Young (Hollywood Reporter, Tribune, UK) 
+Pablo Scholz (Clarín, Argentina)
+Paolo Bertolin (Venice International Film Festival, Italy) 
+Paolo Moretti (Italy) 
+Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
+Philip Engel (Go Mag, España) 
+# wrong spelling, needs upstream fix
+Philipp Engel (Go Mag, España)
+Robert Koehler (Variety, USA) 
+Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
+Rüdiger Suchsland (arteschock, Deutschland) 
+Sergi Sanchez (La Razón, España)
+Jan Pieter Ekker (Cinema.nl, Netherlands)
+Emiliano Fernández (A Sala Llena, Argentina)
+Scott Foundas (Film Comment, USA)
+Gustavo Beck (Curitiba International Film Festival, Brazil)
+Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
+Javier H. Estrada (Caimán CDC, España)
+Pamela Bienzobas (Revista Cosas, Chile) 
+Xavi Serra (Ara, España) 
+Dominik Kamalzadeh (Der Standard, Austria)
+Alvaro Arroba (Cinema Scope, España)
+Imma Merino (Periodista i crítica, España)
+Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
+Andrea Picard (TIFF, Cinema Scope, Canada)
+Kong Rithdee (The Bangkok Post, Thailand) 
+Guillaume Muyan Wang (‎Cinemaround, China)
+Juanma Ruíz (Screenwriter, España)
+Damián Hoffman (Arriba Argentinos, Argentina)
+Pedro Segura
+Nicolás Kusmin (OtrosCines, Argentina)
+Carlota Moseguí (El Septimo Arte, España)
+Agustín Mango (The Hollywood Reporter, Argentina)
+";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics_group[$i] = "critic.de";
 $critics[$i++] = "
@@ -941,31 +941,31 @@ Meredith Taylor (Filmuforia.com, UK)
 Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
 ";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
-#$critics_group[$i] = "ICSfilm panel";
-#$critics[$i++] = "
-#Cédric Succivalli (International Cinephil Society, France)
-#Emily Barnett (Les Inrockuptibles, France)
-#Elisabeth Franck-Dumas (Libération, France)
-#Tommaso Tocci (International Cinephile Society, Italy)
-#Carlota Moseguí (Cineurope, España)
-#Gaia Furrer (Giornati Autori, Italy)
-#Marc van de Klashorst (International Cinephil Society, Netherlands)
-#Guy Lodge (Variety, USA)
-#Diego Batlle (Otros Cines, La Nation, Argentina)
-#Meredith Taylor (Filmuforia.co.uk, UK)
-#Stephanie Zacharek (TIME, USA)
-#Dana Keith (Miami Beach Cinematheque, USA)
-#Justin Chang (LA Times, USA)
-#David Acacia (International Cinephil Society, Canada)
-#Valerie Complex (AwardsWatch.com, USA)
-#Lorna Tee (International Film Festival & Awards Macao, Netherlands)
-#Daniela Michel (Morelia International Film Festival/Cine Premier México, Mexico)
-#Ela Bittencourt (Lyssaria.com / The Hollywood Reporter, Brazil)
-#Blake Williams (Filmmaker Magazine, Canada)
-#Jon Frosch (The Hollywood Reporter, USA)
-#Nicholas Bell (ioncinema, USA)
-#Dennis Lim (Film Society Lincoln Center, USA)
-#";
+$critics_group[$i] = "ICSfilm panel";
+$critics[$i++] = "
+Cédric Succivalli (International Cinephil Society, France)
+Emily Barnett (Les Inrockuptibles, France)
+Elisabeth Franck-Dumas (Libération, France)
+Tommaso Tocci (International Cinephile Society, Italy)
+Carlota Moseguí (Cineurope, España)
+Gaia Furrer (Giornati Autori, Italy)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+Guy Lodge (Variety, USA)
+Diego Batlle (Otros Cines, La Nation, Argentina)
+Meredith Taylor (Filmuforia.co.uk, UK)
+Stephanie Zacharek (TIME, USA)
+Dana Keith (Miami Beach Cinematheque, USA)
+Justin Chang (LA Times, USA)
+David Acacia (International Cinephil Society, Canada)
+Valerie Complex (AwardsWatch.com, USA)
+Lorna Tee (International Film Festival & Awards Macao, Netherlands)
+Daniela Michel (Morelia International Film Festival/Cine Premier México, Mexico)
+Ela Bittencourt (Lyssaria.com / The Hollywood Reporter, Brazil)
+Blake Williams (Filmmaker Magazine, Canada)
+Jon Frosch (The Hollywood Reporter, USA)
+Nicholas Bell (ioncinema, USA)
+Dennis Lim (Film Society Lincoln Center, USA)
+";
 $critics_group[$i] = "Chinese Grid";
 # https://twitter.com/hanglutvd
 $critics[$i++] = "
@@ -1428,7 +1428,7 @@ Screen Daily (US/UK mainstream),
 http://twitter.com/CriticsGrid (chinese),
 ICS Critics & Industry Panel (mixed),
 Les Inrockuptibles, Danish, Russian and a few more new french polls, 
-https://letterboxd.com/vermelholimao/list/cannes-2022-official-selection-la-quinzaine/ (the industry),
+https://letterboxd.com/seanliu/list/cannes-2022/ (the industry),
 plus the usual press and individual critics on site.<br>
 
 <br>
