@@ -40,7 +40,7 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-"Holy Spider" (Ali Abbasi 🇮🇷) [Competition]
+"Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
 
 "The Almond Tree (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
 
@@ -136,7 +136,7 @@ miguel              6   https://letterboxd.com/iohaness/film/showing-up-1/
 Bai Yutong          4
 Teresa              1
 
-"Leila's Brothers" (Saeed Roustaee 🇮🇷) [Competition]
+"Leila's Brothers" (Saeed Roustaee Iran 🇮🇷) [Competition]
 
 "Boy From Heaven" (Tarik Saleh 🇸🇪) [Competition]
 
@@ -220,8 +220,8 @@ truekino69420       1
 #letterboxd
 Letterboxd 217_Ratings	7.3  https://letterboxd.com/film/top-gun-maverick/
 
-"Elvis" (Baz Luhrmann 🇺🇸🇦🇺) [Out Of Competition]
-  Out of Comp
+"Elvis" (Baz Luhrmann 🇺🇸/🇦🇺) [Out Of Competition]
+ Out of Comp
 
 #letterboxd
 Letterboxd 56_Ratings	6.7  https://letterboxd.com/film/elvis-2022/
@@ -361,6 +361,32 @@ MuhdHaikal          10
 "The Green Perfume (Le Parfum vert)" (Nicolas Pariser 🇫🇷) [Quinzaine]
  Closing film. Sandrine Kiberlain, Vincent Lacoste.
 
+SEMAINE
+
+"Aftersun" (Charlotte Wells 🇬🇧/🇺🇸) [Semaine]
+
+"Alma Viva" (Cristèle Alves Meira 🇵🇹) [Semaine]
+
+"Love according to Dalva" (Emmanuelle Nicot 🇧🇪/🇫🇷) [Semaine]
+
+"La Jauría" (Andrés Ramírez Pulido 🇨🇴/🇫🇷) [Semaine]
+
+"The Woodcutter Story" (Mikko Myllylahti 🇫🇮) [Semaine]
+
+"Summer Scars (Nos Cérémonies)" (Simon Rieth 🇫🇷) [Semaine]
+
+"Imagine | Imagine (Tasavor)" (Ali Behrad, Iran 🇮🇷) [Semaine]
+
+"When You Finish Saving The World" (Jesse Eisenberg 🇺🇸) [Semaine] Special Screening
+ Opening film
+
+"Sons Of Ramses (Goutte d’Or)" (Clément Cogitore 🇫🇷) [Semaine] Special Screening
+
+"Everybody loves Jeanne" (Céline Devaux 🇫🇷/🇵🇹) [Semaine] Special Screening
+
+"Next Sohee" (Jung July 🇰🇷) [Semaine] Special Screening
+ Closing film
+
 ACID
 
 OTHER
@@ -486,7 +512,7 @@ UN CERTAIN REGARD
 "Black Box" (Aslı Özge 🇹🇷) [Predictions]
  UCR
 
-"La Dernière reine" (Damien Ounouri) [Predictions]
+"La Dernière reine" (Damien Ounouri 🇫🇷) [Predictions]
  UCR
 
 "Divertimento" (Marie-Castille Mention-Schaar) [Predictions]
@@ -510,7 +536,7 @@ UN CERTAIN REGARD
 "Infinity Pool" (Brandon Cronenberg 🇨🇦) [Predictions]
  UCR
 
-"L’origine du mal" (Sébastien Marnier) [Predictions]
+"L’origine du mal" (Sébastien Marnier 🇫🇷) [Predictions]
  UCR
 
 "Los Reyes del Mundo" (Laura Mora) [Predictions]
@@ -543,7 +569,7 @@ UN CERTAIN REGARD
 "The Vanished President (Le Tigre et le Président)" (Jean-Marc Peyrefitte) [Predictions]
   Special
 
-"The Whale" (Darren Aronofsky) [Predictions]
+"The Whale" (Darren Aronofsky 🇺🇸) [Predictions]
   Out of Comp 
 
 #letterboxd
@@ -555,7 +581,7 @@ Letterboxd 15_Ratings	5.1  https://letterboxd.com/film/the-whale-1/
 "Lockdown Tower (La Tour d’Assitan)" (Guillaume Nicloux 🇫🇷) [Predictions]
  Midnight
 
-"Vengeance" (B.J. Novak) [Predictions]
+"Vengeance" (B.J. Novak 🇺🇸) [Predictions]
  Midnight
 
 #letterboxd
@@ -649,9 +675,6 @@ SEMAINE
 "Blaze" (Del Kathryn Barton 🇦🇺) [Predictions]
  Semaine
 
-"Bruxa" (Cristèle Alves Meira 🇵🇹) [Predictions]
- Semaine
-
 "Daughter of Rage" (Laura Baumeister 🇳🇮) [Predictions]
  Semaine
 
@@ -727,7 +750,7 @@ KinoKlub            3
 #letterboxd
 Kayla               10
 
-"The Son" (Florian Zeller 🇫🇷🇬🇧) [Predictions]
+"The Son" (Florian Zeller 🇫🇷/🇬🇧) [Predictions]
  Semaine
 
 #letterboxd
