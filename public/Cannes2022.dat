@@ -384,12 +384,6 @@ StanleyLane         10
 
 "Harkis (Les Harkis)" (Philippe Faucon 🇫🇷) [Quinzaine]
 
-"Men" (Alex Garland 🇬🇧) [Quinzaine] Special screening
- release May 20, US
-
-#letterboxd
-Letterboxd 50_Ratings	7.2  https://letterboxd.com/film/men-2022/
-
 "The Mountain (La Montagne)" (Thomas Salvador 🇫🇷) [Quinzaine]
 
 "Pamfir" (Dmytro Sukholytkyy-Sobchuk, Ukr 🇺🇦) [Quinzaine]
@@ -412,6 +406,12 @@ MuhdHaikal          10
 
 "The Green Perfume (Le Parfum vert)" (Nicolas Pariser 🇫🇷) [Quinzaine]
  Closing film. Sandrine Kiberlain, Vincent Lacoste.
+
+"Men" (Alex Garland 🇬🇧) [Quinzaine] Special screening
+ release May 20, US
+
+#letterboxd
+Letterboxd 50_Ratings	7.2  https://letterboxd.com/film/men-2022/
 
 SEMAINE
 
@@ -499,6 +499,9 @@ EOF
 
 # but not selected
 my $PREDICTIONS = <<'EOF';
+
+"Artist 1994" (Liu Jian) [Predictions] Special Screening
+ Quinzaine
 
 "On Barren Weeds" (Nuri Bilge Ceylan 🇹🇷) [Predictions]
 
