@@ -386,10 +386,10 @@ Henry_Jean          8
 "For the Sake of Peace" (Christophe Castagne/Thomas Sametin 🇺🇸/🇫🇷) [Out Of Competition] Special Screening
  1st
 
-#"Artist 1994" (Liu Jian)
-#Anim, Unconfirmed Special Screening
+#"Artist 1994" (Liu Jian 🇨🇳) [Out Of Competition] Special Screening
+#Anim, Unconfirmed
 
-#"The Year of the Shark" (Ludovic & Zoran Boukherma 🇫🇷)
+#"The Year of the Shark" (Ludovic & Zoran Boukherma 🇫🇷) [Out Of Competition] Special Screening
 #Unconfirmed closing film
 
 QUINZAINE
@@ -689,7 +689,7 @@ EOF
 # but not selected
 my $PREDICTIONS = <<'EOF';
 
-"Artist 1994" (Liu Jian) [Predictions] Special Screening
+"Artist 1994" (Liu Jian 🇨🇳) [Predictions] Special Screening
  Quinzaine
 
 "On Barren Weeds" (Nuri Bilge Ceylan 🇹🇷) [Predictions]
