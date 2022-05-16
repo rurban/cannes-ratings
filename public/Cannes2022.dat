@@ -42,6 +42,15 @@ COMPETITION
 
 "Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
 
+# dk stjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
+Gennemsnit           
+
 "The Almond Tree (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
 
 #letterboxd
@@ -164,17 +173,37 @@ Teresa              1
 
 #letterboxd
 Maja4               8   https://letterboxd.com/maja4/film/tchaikovskys-wife/
+# dk stjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
+Gennemsnit           
 
 "EO" (Jerzy Skolimowski 🇵🇱) [Competition]
  interpretation of Bresson's Baltazar
 
 "The Eight Mountains (Le otto montagne)" (Felix van Groeningen,Charlotte Vandermeersch 🇮🇹/🇷🇴/🇫🇷) [Competition]
 
+#letterboxd
+# dk stjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
+Gennemsnit           
+
 "Un petit frère" (Léonor Serraille 🇫🇷) [Competition]
 
 "Tourment sur les îles" (Albert Serra 🇪🇸) [Competition]
 
 UN CERTAIN REGARD
+
+"Father & Soldier" (Mathieu Vadepied)  [Un Certain Regard] Opener
 
 "The Worst (Les Pires)" (Lise Akoka/Romane Gueret 🇫🇷) [Un Certain Regard]
  1st
@@ -346,6 +375,8 @@ Mark Hanson        5   https://www.slantmagazine.com/film/incredible-but-true-re
 
 #letterboxd
 #juan                10   https://letterboxd.com/unevenphace/film/moonage-daydream/
+
+"Rebel" (Adil El Arbi/Bilall Fallah, Bel) [Out Of Competition] Midnight
 
 "Dodo" (Panos H. Koutras 🇬🇷) [Out Of Competition] Premiere
 
@@ -1369,18 +1400,16 @@ Estelle (Initium Media)
 #JB Morain (Les Inrockuptibles, France)
 #Théo Ribeton (Les Inrockuptibles, France)
 #";
-#$critics_group[$i] = "dk stjernebarometer";
-#$critics[$i++] = "
-#Ariane Allard (Positif, France)
-#Justin Chang (LA Times, USA)	
-#Claus Christensen (Ekko, Denmark)
-#Nanna  Frank Rasmussen (Jyllands-Posten, Denmark)	
-#Kjetil Lismoen (Aftenposten, Norge)	
-#Lee Marshall (Screen, UK)	
-#Pragya Mishra (Dainik Prabhat Kiran, India)	
-#Damon Wise (Uncut, UK)
-#Stephanie Zacharek (Time, USA)
-#";
+$critics_group[$i] = "dk stjernebarometer";
+$critics[$i++] = "
+Ariane Allard (Positif, France)
+Claus Christensen (Ekko, Denmark)
+Kjetil Lismoen (Aftenposten, Norge)
+Lee Marshall (Screen, UK)
+Pragya Mishra (Dainik Prabhat Kiran, India)
+Stephanie Zacharek (Time, USA)
+Gennemsnit (Ekkofilm, DN)
+";
 $critics_group[$i] = "kinoart.ru";
 $critics[$i++] = "
 Egor Belikov (KinoTV,Forbes, Ru)
