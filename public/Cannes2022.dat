@@ -887,9 +887,6 @@ nagypeter           4   https://letterboxd.com/nagypeter/film/for-the-sake-of-pe
 Imma Pilar          4
 Carlos Elorza       4
 
-"Artist 1994" (Liu Jian 🇨🇳) [Out Of Competition] Special Screening
- Anim, Unconfirmed
-
 "The Year of the Shark" (Ludovic & Zoran Boukherma 🇫🇷) [Out Of Competition] Special Screening
  Unconfirmed closing film
 
@@ -1467,7 +1464,7 @@ EOF
 my $PREDICTIONS = <<'EOF';
 
 "Artist 1994" (Liu Jian 🇨🇳) [Predictions] Special Screening
- Quinzaine
+ Quinzaine, Anim
 
 "On Barren Weeds" (Nuri Bilge Ceylan 🇹🇷) [Predictions]
 
