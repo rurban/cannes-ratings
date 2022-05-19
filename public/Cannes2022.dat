@@ -47,16 +47,17 @@ Jonathan Romney         https://www.screendaily.com/reviews/tchaikovskys-wife-ca
 Steve Pond              https://www.thewrap.com/tchaikovskys-wife-film-review-cannes-kirill-serebrennikov/
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/18/tchaikovskys-wife-review-kirill-sebrennikov-cannes-film-festival
 # Screen Daily
-Justin Chang             
-Peter Bradshaw           
-Anton Dolin
-Tim Robey/Robbie Collin  
-Katja Nikodemus
-Michel Cement
-Mathieu Macharet
-Stephanie Zacharek
-Nataliia Serebriakova
-Screen International     
+Justin Chang             5
+Peter Bradshaw           5
+Anton Dolin              7.5
+Tim Robey/Robbie Collin  2.5
+Wang Muyan               7.5
+Katja Nikodemus          5
+Michel Cement            9
+Mathieu Macharet         5
+Stephanie Zacharek       
+Nataliia Serebriakova    
+Screen International     5
 # Le film français
 Gaël Golhen              
 Julien Rousset           
@@ -3744,15 +3745,16 @@ Yves Jaeglé (La Parisien)
 # https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
 $critics_group[$i] = "Screen Daily";
 $critics[$i++] = "
-Tim Robey/Robbie Collin (The Telegraph, UK)
-Peter Bradshaw (Guardian, UK) 
+Justin Chang ((LA Times, USA))
+Peter Bradshaw (Guardian, UK)
 Anton Dolin (Meduza, Russia)
-Julien Gester/Didier Peron (Liberation, France) 
-Michel Ciment (Positif, France)
-Mathieu Macheret (Le Monde, France)
-Katja Nicodemus (Die Zeit, Deutschland)
-Ben Kentsberg (RogerEbert.com, USA)
+Tim Robey/Robbie Collin (The Telegraph, UK)
 Wang Muyan (The Paper, China)
+Katja Nicodemus (Die Zeit, Deutschland)
+Michel Cement (Positif, France)
+Mathieu Macheret (Le Monde, France)
+Stephanie Zacharek (TIME, USA)
+Nataliia Serebriakova (Korydor, Ukraine)
 Screen International (Screen International, USA) 
 ";
 $critics_group[$i] = "ioncinema";
