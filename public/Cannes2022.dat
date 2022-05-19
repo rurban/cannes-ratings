@@ -23,7 +23,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://kinoart.ru/cannes2021/
-#   http://www.chaosreign.fr/
+#   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
 #   https://www.cahiersducinema.com/wp-content/uploads/2021/07/Etoiles_Cannes_1107-1-1492x1536.png
 #   http://www.filmneweurope.com/news/region/item/121970-fne-at-cannes-2021-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
 # Reviews:
@@ -74,6 +74,35 @@ Gilles Kerdreux
 Barbara Théate           
 Stéphane Boudsocq        5
 Yves Jaeglé              7.5
+# ics
+Cédric Succivalli        4
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              4
+Jessica Kiang            3
+Marc van de Klashorst    3
+Guy Lodge                
+Meredith Taylor          8
+Federica Polidoro        10
+Blake Williams           5
+Nanako Tsukidate         5
+Anais Bordages           8
+Nicholas Bell           
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
+# chaosreign.fr
+Laurent De Alberti       9
+Stéphanie Belpêche       
+Caroline Besse           
+Olivia Cooper-Hadjian    5
+Marilou Duponchel        1
+Matteu Maestracci        9
+Sandra Onana             7.5
+Norine Raja              
+Amandine Rebourg         9
+Phillipe Rouyer          9
 # dkstjernebarometer
 Ariane Allard          
 Claus Christensen      
@@ -84,7 +113,6 @@ Stephanie Zacharek
 Gennemsnit           
 #critic.de
 Giovanni Marchini Camina 4
-
 #letterboxd
 hugo _@Cannes75th_  10
 Captain Walker      9
@@ -271,13 +299,14 @@ Peter Bradshaw    10    https://www.theguardian.com/film/2022/may/19/le-otto-mon
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
-Anton Dolin
+Anton Dolin              
 Tim Robey/Robbie Collin  
-Katja Nikodemus
-Michel Cement
-Mathieu Macharet
-Stephanie Zacharek
-Nataliia Serebriakova
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
 Screen International     
 # Le film français
 Gaël Golhen               
@@ -295,8 +324,36 @@ Gilles Kerdreux
 Barbara Théate           
 Stéphane Boudsocq        7.5
 Yves Jaeglé              5
+# chaosreign.fr
+Laurent De Alberti       7.5
+Stéphanie Belpêche       
+Caroline Besse           
+Olivia Cooper-Hadjian     
+Marilou Duponchel        
+Matteu Maestracci        5
+Sandra Onana             1
+Norine Raja              
+Amandine Rebourg         7.5
+Phillipe Rouyer          5
 # ioncinema
 # ics
+Cédric Succivalli        8
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            9
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        5
+Blake Williams           5
+Nanako Tsukidate         
+Anais Bordages           9
+Nicholas Bell           
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 # Chinese @CriticsGrid
 # Les Inrockuptibles
 # dkstjernebarometer
@@ -307,7 +364,6 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
-# chaosreign.fr
 # calmos-emoji
 # FNE Critics
 # Club Média Ciné
@@ -452,13 +508,14 @@ ashavit23           1
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
-Anton Dolin
+Anton Dolin              
 Tim Robey/Robbie Collin  
-Katja Nikodemus
-Michel Cement
-Mathieu Macharet
-Stephanie Zacharek
-Nataliia Serebriakova
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
 Screen International     
 # Le film français
 Gaël Golhen               
@@ -476,11 +533,38 @@ Gilles Kerdreux
 Barbara Théate           
 Stéphane Boudsocq        
 Yves Jaeglé              
+# chaosreign.fr
+Laurent De Alberti       
+Stéphanie Belpêche       
+Caroline Besse           
+Olivia Cooper-Hadjian     
+Marilou Duponchel        
+Matteu Maestracci        
+Sandra Onana             
+Norine Raja              
+Amandine Rebourg          
+Phillipe Rouyer          
 # ioncinema
 # ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell           
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 # Chinese @CriticsGrid
 # Les Inrockuptibles
-# chaosreign.fr
 # calmos-emoji
 # FNE Critics
 # Club Média Ciné
@@ -504,13 +588,14 @@ Esafrez             7
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
-Anton Dolin
+Anton Dolin              
 Tim Robey/Robbie Collin  
-Katja Nikodemus
-Michel Cement
-Mathieu Macharet
-Stephanie Zacharek
-Nataliia Serebriakova
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
 Screen International     
 # Le film français
 Gaël Golhen               
@@ -530,6 +615,23 @@ Stéphane Boudsocq
 Yves Jaeglé              
 # ioncinema
 # ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell           
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 # Chinese @CriticsGrid
 # Les Inrockuptibles
 # chaosreign.fr
@@ -578,13 +680,14 @@ Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
-Anton Dolin
+Anton Dolin              
 Tim Robey/Robbie Collin  
-Katja Nikodemus
-Michel Cement
-Mathieu Macharet
-Stephanie Zacharek
-Nataliia Serebriakova
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
 Screen International     
 # Le film français
 Gaël Golhen               
@@ -627,13 +730,14 @@ Tsappos             7
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
-Anton Dolin
+Anton Dolin              
 Tim Robey/Robbie Collin  
-Katja Nikodemus
-Michel Cement
-Mathieu Macharet
-Stephanie Zacharek
-Nataliia Serebriakova
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
 Screen International     
 # Le film français
 Gaël Golhen               
@@ -727,6 +831,24 @@ UN CERTAIN REGARD
 
 "Father & Soldier" (Mathieu Vadepied)  [Un Certain Regard] Opener
 
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           6
+Nicholas Bell           
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 sofiajimnz          9   https://letterboxd.com/sofiajimnz/film/father-soldier/
 lydia_self          9   https://letterboxd.com/lydia_self/film/father-soldier/
@@ -790,6 +912,24 @@ Jenny S. Li         4   https://letterboxd.com/jennyofmine/film/father-soldier/
  1st film
 
 Damon Wise       https://deadline.com/2022/05/cannes-review-rodeo-lola-quivoron-un-certain-regard-1235027948/
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell           
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 CalciferFR          10
 sofiajimnz          10
@@ -1019,7 +1159,24 @@ Yves Jaeglé              7.5
 #critic.de
 Jenny Jecke           2.5
 Giovanni Marchini Camina 6
-
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            7
+Marcus Uzal              3
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        2
+Blake Williams           4
+Nanako Tsukidate         2
+Anais Bordages           8
+Nicholas Bell            5
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 Letterboxd 0_Ratings	     https://letterboxd.com/film/final-cut-2022/
 sanh                10
@@ -1518,6 +1675,24 @@ Eoh_                6
 "Top Gun: Maverick" (Joseph Kosinski 🇺🇸) [Out Of Competition]
 
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/12/top-gun-maverick-review-tom-cruise-is-still-needy-less-speedy-in-a-rocknroll-sequel
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            7
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            6
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 Letterboxd 344_Ratings	7.6  https://letterboxd.com/film/top-gun-maverick/
 Klára Šimonová      10   https://letterboxd.com/klarasimonova/film/top-gun-maverick/
@@ -1799,7 +1974,24 @@ Anais Bordages      4
 Luke Hicks            B+  https://thefilmstage.com/cannes-review-marco-bellocchios-nightfall-is-a-riveting-historical-thriller/
 #critic.de
 Giovanni Marchini Camina 6
-
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              9 
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          8
+Federica Polidoro        
+Blake Williams           5
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            7
+Dubravka Lakic           
+Lorna Tee                              
+Diego Batlle             8
 #letterboxd
 alexqu4lity         10
 matthewhardy        10
@@ -1985,6 +2177,24 @@ Henry_Jean          8
 "For the Sake of Peace" (Christophe Castagne/Thomas Sametin 🇺🇸/🇫🇷) [Out Of Competition] Special Screening
  1st
 
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 Dewboy Reviews      7   https://letterboxd.com/dewboyreviews/film/for-the-sake-of-peace/
 idalottaemilia      7
@@ -2022,6 +2232,28 @@ QUINZAINE
 
 Lisa Nesselson          https://www.screendaily.com/reviews/scarlet-cannes-review/5170575.article
 David Katz            B+  https://thefilmstage.com/cannes-review-pietro-marcellos-scarlet-is-a-tender-tribute-to-the-imagination/
+#critic.de
+Jenny Jecke           7.5
+Giovanni Marchini Camina 6
+Philipp Schwarz       7.5
+# ics
+Cédric Succivalli        5
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              5
+Jessica Kiang            
+Marc van de Klashorst    6
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        7
+Blake Williams           6
+Nanako Tsukidate         5
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 Dawood Ali          10   https://letterboxd.com/dman890/film/scarlet/
 Dave Jenkins        9
@@ -2143,10 +2375,91 @@ ashavit23           2
 Alexis Braun        1   https://letterboxd.com/blexis/film/scarlet/
 Luciaspiazzi        1   https://letterboxd.com/luciaspiazzi/film/scarlet/
 
+"God's Creatures" (Anna Rose Holmer/Saela Davis, Irl 🇮🇪) [Quinzaine]
+ Emily Watson
+
+Stephanie Bunbury       https://deadline.com/2022/05/cannes-review-gods-creatures-emily-watson-paul-mescal-fortnight-1235027854/
+Fionnuala Halligan      https://www.screendaily.com/reviews/gods-creatures-cannes-review/5170657.article
+Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/19/gods-creatures-review-emily-watson-and-paul-mescal-shine-in-doom-laden-drama
+
 #critic.de
-Jenny Jecke           7.5
 Giovanni Marchini Camina 6
-Philipp Schwarz       7.5
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
+#letterboxd
+Kyleen              8
+taylorthewriter     8   https://letterboxd.com/taylorthewriter/film/gods-creatures/
+Truffaut692         8
+Nate Meshau         8   https://letterboxd.com/nate_m/film/gods-creatures/
+ClarityTheOne       8
+maria ahumada       8
+Lili                8   https://letterboxd.com/neptunariium/film/gods-creatures/
+jihane              8   https://letterboxd.com/jihanebousfiha/film/gods-creatures/
+Jackson Stern       8   https://letterboxd.com/jacksonstern/film/gods-creatures/
+Mitchell Horwood    8
+marius gbr          8
+Abdimalik Ahmed     8
+Max Borg            8
+Matīss Kaža         8
+Shivam Ganesan      8
+s0nar               7
+Alex Billington     7
+alexkitbarn         7
+TerrC               7   https://letterboxd.com/terrc/film/gods-creatures/
+humzaakbar          7
+Lucas Bühring       7
+Luke Hicks          7   https://letterboxd.com/lou_kicks/film/gods-creatures/
+Sophie Grech        7
+Maxp26              7
+Matic Valentan      7
+Robert _he/him_     7
+FredInTheMovies     7
+ASJackson           7   https://letterboxd.com/asjackson/film/gods-creatures/
+kevinderidder       7
+Shivam              7
+Constant            7
+Savina Petkova      7
+Arthur Cios         7
+Shinji Manlangit    7
+Iorenzo             7
+Lawrence Garcia     6
+Dave Jenkins        6
+luizaferrero        6
+li_莉                6   https://letterboxd.com/ccinematically/film/gods-creatures/
+Tony_Wagner         6
+schwari             6
+Matt chan           6   https://letterboxd.com/centeredfutura/film/gods-creatures/
+Brygmi              6
+Lila :_             6
+phoebe18            6
+Cedric Muyres       6
+ilacoclea           5
+Dylan               5
+Rocknrollsucide     5
+001882              4
+DekA24              4   https://letterboxd.com/deka24/film/gods-creatures/
+mauvais sang        4
+Elie_Bartin         4
+MelvinUdall         3
+Laof                3
+Kelsang             2
+Logan               2
 
 "1976" (Manuela Martelli 🇨🇱) [Quinzaine]
  1st, Chile 1976
@@ -2226,75 +2539,6 @@ George              10   https://letterboxd.com/pumpytoddy/film/funny-pages-2022
 barnstone           10   https://letterboxd.com/barnstone/film/funny-pages-2022/
 StanleyLane         10
 LeslieGlass         8
-
-"God's Creatures" (Anna Rose Holmer/Saela Davis, Irl 🇮🇪) [Quinzaine]
- Emily Watson
-
-Stephanie Bunbury       https://deadline.com/2022/05/cannes-review-gods-creatures-emily-watson-paul-mescal-fortnight-1235027854/
-Fionnuala Halligan      https://www.screendaily.com/reviews/gods-creatures-cannes-review/5170657.article
-Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/19/gods-creatures-review-emily-watson-and-paul-mescal-shine-in-doom-laden-drama
-
-#critic.de
-Giovanni Marchini Camina 6
-
-#letterboxd
-Kyleen              8
-taylorthewriter     8   https://letterboxd.com/taylorthewriter/film/gods-creatures/
-Truffaut692         8
-Nate Meshau         8   https://letterboxd.com/nate_m/film/gods-creatures/
-ClarityTheOne       8
-maria ahumada       8
-Lili                8   https://letterboxd.com/neptunariium/film/gods-creatures/
-jihane              8   https://letterboxd.com/jihanebousfiha/film/gods-creatures/
-Jackson Stern       8   https://letterboxd.com/jacksonstern/film/gods-creatures/
-Mitchell Horwood    8
-marius gbr          8
-Abdimalik Ahmed     8
-Max Borg            8
-Matīss Kaža         8
-Shivam Ganesan      8
-s0nar               7
-Alex Billington     7
-alexkitbarn         7
-TerrC               7   https://letterboxd.com/terrc/film/gods-creatures/
-humzaakbar          7
-Lucas Bühring       7
-Luke Hicks          7   https://letterboxd.com/lou_kicks/film/gods-creatures/
-Sophie Grech        7
-Maxp26              7
-Matic Valentan      7
-Robert _he/him_     7
-FredInTheMovies     7
-ASJackson           7   https://letterboxd.com/asjackson/film/gods-creatures/
-kevinderidder       7
-Shivam              7
-Constant            7
-Savina Petkova      7
-Arthur Cios         7
-Shinji Manlangit    7
-Iorenzo             7
-Lawrence Garcia     6
-Dave Jenkins        6
-luizaferrero        6
-li_莉                6   https://letterboxd.com/ccinematically/film/gods-creatures/
-Tony_Wagner         6
-schwari             6
-Matt chan           6   https://letterboxd.com/centeredfutura/film/gods-creatures/
-Brygmi              6
-Lila :_             6
-phoebe18            6
-Cedric Muyres       6
-ilacoclea           5
-Dylan               5
-Rocknrollsucide     5
-001882              4
-DekA24              4   https://letterboxd.com/deka24/film/gods-creatures/
-mauvais sang        4
-Elie_Bartin         4
-MelvinUdall         3
-Laof                3
-Kelsang             2
-Logan               2
 
 "Harkis (Les Harkis)" (Philippe Faucon 🇫🇷) [Quinzaine]
 
@@ -2501,89 +2745,6 @@ SEMAINE
 #letterboxd
 LeslieGlass         8
 
-"Alma Viva" (Cristèle Alves Meira 🇵🇹) [Semaine]
-
-Lee Marshall            https://www.screendaily.com/reviews/alma-viva-cannes-review/5170774.article
-#letterboxd
-dunj                10
-fourmi_one          10
-livalilija          10   https://letterboxd.com/livalilija/film/alma-viva/
-Paula Bērziņa       9
-Lara                8
-lol18_              8
-diplodocus00        8   https://letterboxd.com/diplodocus00/film/alma-viva/
-KikeUnzu            8
-Léonie              8   https://letterboxd.com/leochs/film/alma-viva/
-kevinderidder       8
-LeslieGlass         8
-deepletres          8   https://letterboxd.com/emmarvlt/film/alma-viva/
-Christer Emanuelsson 8
-Brian Johnson       8   https://letterboxd.com/m3movies/film/alma-viva/
-Eli                 7   https://letterboxd.com/eli_canter/film/alma-viva/
-Charlie 🫖           7
-DekA24              7   https://letterboxd.com/deka24/film/alma-viva/
-limule365           7
-Harold Puche        7
-le_poseur           7
-maxmester           7
-Katia Hiver         7   https://letterboxd.com/katia20/film/alma-viva/
-maxou               7
-Sona Karapoghosyan  7
-Dominique Leger     7
-Matt Fennell        7
-niksis              7
-KathleenH           7
-Jack Salvadori      7
-Lauren Murphy       7
-Lili                7   https://letterboxd.com/neptunariium/film/alma-viva/
-Zouz                7
-Abdimalik Ahmed     7   https://letterboxd.com/abdimalik/film/alma-viva/
-AntoineBooyo        6   https://letterboxd.com/antoinebooyo/film/alma-viva/
-MichalisCh          6
-Mona                6
-miguel_mer          6
-Shivam Ganesan      6
-micangker           6
-luizaferrero        6
-Marcio Sallem       6
-Kyleen              6
-David Bakum         6
-cheztom             6
-lenadelavl          6
-Amber               6
-Gabralr             6
-Joao Scarpa         6
-sparamos            6
-yenb                6
-Katalin             6
-Kidd666             6
-🌈 Philou ✨          6   https://letterboxd.com/phileas_imt/film/alma-viva/
-Elie_Bartin         6
-akselksela          6
-Till Kretzschmar    6
-Matīss Kaža         6
-Lukasz Mankowski    6
-Margoh626           6
-Florent Boutet      6
-Bearthla            6   https://letterboxd.com/bearthla/film/alma-viva/
-sanh                5   https://letterboxd.com/sanh/film/alma-viva/
-Ákos Pauló-Varga    5   https://letterboxd.com/v_akos/film/alma-viva/
-Ulysse22            5
-monab               5
-Anais Bordages      5
-Ivan de Crecy       5
-Eoh_                5
-Domenico Gallo      5
-Mia                 4
-Vincent             4
-Simon               4
-MelvinUdall         4   https://letterboxd.com/melvinudall/film/alma-viva/
-timothé             2
-
-#critic.de
-Jenny Jecke           6
-Philipp Schwarz       4
-
 "Love according to Dalva" (Emmanuelle Nicot 🇧🇪/🇫🇷) [Semaine]
 
 "La Jauría" (Andrés Ramírez Pulido 🇨🇴/🇫🇷) [Semaine]
@@ -2680,7 +2841,7 @@ saltparadise        1
 "The Woodcutter Story" (Mikko Myllylahti 🇫🇮) [Semaine]
 
 Jonathan Romney         https://www.screendaily.com/reviews/the-woodcutter-story-cannes-review/5170572.article
-
+Marc van de Klashorst  6  https://icsfilm.org/festivals/cannes/cannes-2022-review-the-woodcutter-story-mikko-myllylahti/
 #letterboxd
 Mikko Pihkoluoma    9
 Max Borg            8
@@ -2717,25 +2878,27 @@ luanapees           5
 #Chris Evangelista  5   https://www.slashfilm.com/741651/when-you-finish-saving-the-world-review-jesse-eisenbergs-directorial-debut-is-an-intentional-cringefest-sundance-2022/
 #Jordan Raup        5   https://thefilmstage.com/sundance-review-jesse-eisenbergs-when-you-finish-saving-the-world-is-a-slight-directorial-debut/
 #Benjamin Lee       4   https://www.theguardian.com/film/2022/jan/21/when-you-finish-saving-the-world-review-jesse-eisenbergs-patchy-directorial-debut
-Ross Bonaime       8.3 https://collider.com/when-you-finish-saving-the-world-review-jesse-eisenberg/
-David Ehrlich      8.3 https://www.indiewire.com/2022/01/when-you-finish-saving-the-world-movie-review-jesse-eisenberg-1234692020/
-Siddhant Adlakha   8   https://www.ign.com/articles/when-you-finish-saving-the-world-review-jesse-eisenberg
-Sabina Dana Plasse 8   https://filmthreat.com/reviews/when-you-finish-saving-the-world/
-Wendy Ide          8   https://www.screendaily.com/reviews/when-you-finish-saving-the-world-sundance-review/5166759.article
-John DeFore        8   https://www.hollywoodreporter.com/movies/movie-reviews/julianne-moore-in-jesse-eisenbergs-when-you-finish-saving-the-world-sundance-1235078080/
-Steve Pond         7.8 https://www.thewrap.com/when-you-finish-saving-the-world-review-jesse-eisenberg/
-Marya E. Gates     7.5 https://theplaylist.net/when-you-finish-saving-the-world-review-jesse-eisenbergs-sundance-20220121/
-Leah Greenblatt    7.5 https://ew.com/movies/movie-reviews/when-you-finish-saving-the-world-movie-review/
-Martin Carr        7   https://wegotthiscovered.com/movies/sundance-review-when-you-finish-saving-the-world-reveals-jesse-eisenberg-to-be-a-writer-director-with-promise/
-Mary Siroky        6.7 https://consequence.net/2022/01/when-you-finish-saving-the-world-review/
-Chris Barsanti     6.3 https://www.slantmagazine.com/film/when-you-finish-saving-the-world-review-jesse-eisenberg/
-Jacob Oller        6.3 https://www.pastemagazine.com/movies/when-you-finish-saving-the-world-review/
-Amy Nicholson      6   https://variety.com/2022/film/reviews/when-you-finish-saving-the-world-review-jesse-eisenberg-1235157093/
-Vince Mancini      5   https://uproxx.com/movies/when-you-finish-saving-the-world-sundance-review/
-Chris Evangelista  5   https://www.slashfilm.com/741651/when-you-finish-saving-the-world-review-jesse-eisenbergs-directorial-debut-is-an-intentional-cringefest-sundance-2022/
-Jordan Raup        5   https://thefilmstage.com/sundance-review-jesse-eisenbergs-when-you-finish-saving-the-world-is-a-slight-directorial-debut/
-Benjamin Lee       4   https://www.theguardian.com/film/2022/jan/21/when-you-finish-saving-the-world-review-jesse-eisenbergs-patchy-directorial-debut
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/18/when-you-finish-saving-the-world-review-jesse-eisenbergs-sweet-coming-of-age-comedy-drama
+#critic.de
+Jenny Jecke           4
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           7
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 Letterboxd 493_Ratings	7.8  https://letterboxd.com/film/when-you-finish-saving-the-world/
 Flo                 9   https://letterboxd.com/floooost/film/when-you-finish-saving-the-world/
@@ -2812,8 +2975,105 @@ Ariel               7   https://letterboxd.com/arieltad/film/when-you-finish-sav
 Danni Roma          7   https://letterboxd.com/danni_roma/film/when-you-finish-saving-the-world/
 CallumGermany       7
 
+"Alma Viva" (Cristèle Alves Meira 🇵🇹) [Semaine]
+
+Lee Marshall            https://www.screendaily.com/reviews/alma-viva-cannes-review/5170774.article
 #critic.de
-Jenny Jecke           4
+Jenny Jecke           6
+Philipp Schwarz       4
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
+#letterboxd
+dunj                10
+fourmi_one          10
+livalilija          10   https://letterboxd.com/livalilija/film/alma-viva/
+Paula Bērziņa       9
+Lara                8
+lol18_              8
+diplodocus00        8   https://letterboxd.com/diplodocus00/film/alma-viva/
+KikeUnzu            8
+Léonie              8   https://letterboxd.com/leochs/film/alma-viva/
+kevinderidder       8
+LeslieGlass         8
+deepletres          8   https://letterboxd.com/emmarvlt/film/alma-viva/
+Christer Emanuelsson 8
+Brian Johnson       8   https://letterboxd.com/m3movies/film/alma-viva/
+Eli                 7   https://letterboxd.com/eli_canter/film/alma-viva/
+Charlie 🫖           7
+DekA24              7   https://letterboxd.com/deka24/film/alma-viva/
+limule365           7
+Harold Puche        7
+le_poseur           7
+maxmester           7
+Katia Hiver         7   https://letterboxd.com/katia20/film/alma-viva/
+maxou               7
+Sona Karapoghosyan  7
+Dominique Leger     7
+Matt Fennell        7
+niksis              7
+KathleenH           7
+Jack Salvadori      7
+Lauren Murphy       7
+Lili                7   https://letterboxd.com/neptunariium/film/alma-viva/
+Zouz                7
+Abdimalik Ahmed     7   https://letterboxd.com/abdimalik/film/alma-viva/
+AntoineBooyo        6   https://letterboxd.com/antoinebooyo/film/alma-viva/
+MichalisCh          6
+Mona                6
+miguel_mer          6
+Shivam Ganesan      6
+micangker           6
+luizaferrero        6
+Marcio Sallem       6
+Kyleen              6
+David Bakum         6
+cheztom             6
+lenadelavl          6
+Amber               6
+Gabralr             6
+Joao Scarpa         6
+sparamos            6
+yenb                6
+Katalin             6
+Kidd666             6
+🌈 Philou ✨          6   https://letterboxd.com/phileas_imt/film/alma-viva/
+Elie_Bartin         6
+akselksela          6
+Till Kretzschmar    6
+Matīss Kaža         6
+Lukasz Mankowski    6
+Margoh626           6
+Florent Boutet      6
+Bearthla            6   https://letterboxd.com/bearthla/film/alma-viva/
+sanh                5   https://letterboxd.com/sanh/film/alma-viva/
+Ákos Pauló-Varga    5   https://letterboxd.com/v_akos/film/alma-viva/
+Ulysse22            5
+monab               5
+Anais Bordages      5
+Ivan de Crecy       5
+Eoh_                5
+Domenico Gallo      5
+Mia                 4
+Vincent             4
+Simon               4
+MelvinUdall         4   https://letterboxd.com/melvinudall/film/alma-viva/
+timothé             2
 
 "Sons Of Ramses (Goutte d’Or)" (Clément Cogitore 🇫🇷) [Semaine] Special Screening
 
@@ -2852,6 +3112,24 @@ Yoyoleyoyoo         5
 "Jacky Caillou" (Luca Delangle 🇫🇷) [ACID]
  1st
 
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              4
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         4
+Anais Bordages           6
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 sarpanderus         8
 idalottaemilia      8
@@ -2878,6 +3156,24 @@ cam_fattal          4
 "Yamabuki" (Juichiro Yamasaki 🇯🇵) [ACID]
 
 David Katz  https://www.cineuropa.org/en/newsdetail/421293/
+# ics
+Cédric Succivalli        7
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    8
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         4
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 Letterboxd 48_Ratings	5.8  https://letterboxd.com/film/yamabuki/
 
@@ -3806,19 +4102,19 @@ Jon Frosch (The Hollywood Reporter, USA)
 Nicholas Bell (ioncinema, USA)
 Dennis Lim (Film Society Lincoln Center, USA)
 ";
-$critics_group[$i] = "Chinese Grid";
-# https://twitter.com/hanglutvd
-$critics[$i++] = "
-Liu Min (Sina Movie, China)
-Jenny (Movie Forever, China)
-Xavier (NaiguanFilm, China)
-Hang (ToroScope, China)
-Lily Gu (Phoenix, China) 
-Liu Ying (DeepFocus, China)   
-Luk (FengMovie, China)
-Xiaoyi (Aside from Books, China)
-Estelle (Initium Media)
-";
+#$critics_group[$i] = "Chinese Grid";
+## https://twitter.com/hanglutvd
+#$critics[$i++] = "
+#Liu Min (Sina Movie, China)
+#Jenny (Movie Forever, China)
+#Xavier (NaiguanFilm, China)
+#Hang (ToroScope, China)
+#Lily Gu (Phoenix, China) 
+#Liu Ying (DeepFocus, China)   
+#Luk (FengMovie, China)
+#Xiaoyi (Aside from Books, China)
+#Estelle (Initium Media)
+#";
 #$critics_group[$i] = "Les Inrockuptibles";
 #$critics[$i++] = "
 #Emily Barnett (Les Inrockuptibles, France)
@@ -3876,15 +4172,15 @@ Ignacio Navarro ()
 ";
 $critics_group[$i] = "chaosreign.fr";
 $critics[$i++] = "
-Thomas Aïdan (La 7e Obsession, France)
-Philippe Azoury (Vanity Fair, France)
+Laurent De Alberti (Filmland Empire)
 Stéphanie Belpêche (JDD, France)
-Victor Bonnefoy (PLC, France)
-Olivie Cooper-Hadjian (Cahiers, France)
-Marilou Duponchel (ln, France)
-Karelle Fitoussi (Paris Match, France)
-Julien Gester (Libération, France) 
-Jean-Jacky Goldberg (Les Inrocks, France) 
+Caroline Besse (Telerama, France)
+Olivia Cooper-Hadjian (Les Cahiers, France)
+Marilou Duponchel (Les Inrocks, France)
+Matteu Maestracci (France Info, France)
+Sandra Onana (Libération, France)
+Norine Raja (Libération, France)
+Amandine Rebourg (Nice Matin, France)
 Philippe Rouyer (Positif, France) 
 ";
 $critics_group[$i] = "cahiers";
