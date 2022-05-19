@@ -3941,70 +3941,70 @@ EOF
 
 our (@critics, @critics_group);
 my $i=0;
-$critics_group[$i] = "Todas";
-$critics[$i++] = "
-Alejandro G. Calvo (Sensacine, España)
-Alejandra Trelles (International Film Festival Uruguay, Uruguay)
-Alex Vicente (Público, España) 
-Alexandra Zawia (ray, Austria)
-Ángel Quintana (Cahiers du cinema Espana, España)
-Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
-Boris Nelepo (Seance.ru, Russia)
-Carlo Chatrian (Festival de Locarno, Italy) 
-Carlos F. Heredero (Caimán CDC, España) 
-Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
-Cristina Nord (Die Tageszeitung, Deutschland) 
-Dana Linssen (De Filmkrant, Netherlands) 
-Diego Batlle (La Nación, OtrosCines, Argentina) 
-Diego Lerer (Clarín, Micropsia, Argentina) 
-Eugenio Renzi (Independencia, France) 
-Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
-Fernando Ganzo (Lumiere, España) 
-Fernando Juan Lima (El Amante, Argentina) 
-Francisco Ferreira (Expresso, Portugal) 
-Jaime Pena (El Amante, España, Argentina) 
-José Luis Losa (Cineuropa, España)
-Kieron Corless (Time Out London, UK)
-Luciano Barisone (Duellanti/Panoramiche, Italy) 
-Giona Nazzaro (Gender DocuFilm Festival, Italy)
-Luciano Monteagudo (Página/12, Argentina) 
-Marcelo Alderete (Festival de Mar del Plata, Argentina) 
-Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
-Nando Salva (El Periódico, España) 
-Neil Young (Hollywood Reporter, Tribune, UK) 
-Pablo Scholz (Clarín, Argentina)
-Paolo Bertolin (Venice International Film Festival, Italy) 
-Paolo Moretti (Italy) 
-Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
-Philip Engel (Go Mag, España) 
-# wrong spelling, needs upstream fix
-Philipp Engel (Go Mag, España)
-Robert Koehler (Variety, USA) 
-Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-Rüdiger Suchsland (arteschock, Deutschland) 
-Sergi Sanchez (La Razón, España)
-Jan Pieter Ekker (Cinema.nl, Netherlands)
-Emiliano Fernández (A Sala Llena, Argentina)
-Scott Foundas (Film Comment, USA)
-Gustavo Beck (Curitiba International Film Festival, Brazil)
-Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
-Javier H. Estrada (Caimán CDC, España)
-Pamela Bienzobas (Revista Cosas, Chile) 
-Xavi Serra (Ara, España) 
-Dominik Kamalzadeh (Der Standard, Austria)
-Alvaro Arroba (Cinema Scope, España)
-Imma Merino (Periodista i crítica, España)
-Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
-Andrea Picard (TIFF, Cinema Scope, Canada)
-Kong Rithdee (The Bangkok Post, Thailand) 
-Guillaume Muyan Wang (‎Cinemaround, China)
-Juanma Ruíz (Screenwriter, España)
-Damián Hoffman (Arriba Argentinos, Argentina)
-Pedro Segura
-Nicolás Kusmin (OtrosCines, Argentina)
-Carlota Moseguí (El Septimo Arte, España)
-Agustín Mango (The Hollywood Reporter, Argentina)
-";
+#$critics_group[$i] = "Todas";
+#$critics[$i++] = "
+#Alejandro G. Calvo (Sensacine, España)
+#Alejandra Trelles (International Film Festival Uruguay, Uruguay)
+#Alex Vicente (Público, España) 
+#Alexandra Zawia (ray, Austria)
+#Ángel Quintana (Cahiers du cinema Espana, España)
+#Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
+#Boris Nelepo (Seance.ru, Russia)
+#Carlo Chatrian (Festival de Locarno, Italy) 
+#Carlos F. Heredero (Caimán CDC, España) 
+#Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
+#Cristina Nord (Die Tageszeitung, Deutschland) 
+#Dana Linssen (De Filmkrant, Netherlands) 
+#Diego Batlle (La Nación, OtrosCines, Argentina) 
+#Diego Lerer (Clarín, Micropsia, Argentina) 
+#Eugenio Renzi (Independencia, France) 
+#Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
+#Fernando Ganzo (Lumiere, España) 
+#Fernando Juan Lima (El Amante, Argentina) 
+#Francisco Ferreira (Expresso, Portugal) 
+#Jaime Pena (El Amante, España, Argentina) 
+#José Luis Losa (Cineuropa, España)
+#Kieron Corless (Time Out London, UK)
+#Luciano Barisone (Duellanti/Panoramiche, Italy) 
+#Giona Nazzaro (Gender DocuFilm Festival, Italy)
+#Luciano Monteagudo (Página/12, Argentina) 
+#Marcelo Alderete (Festival de Mar del Plata, Argentina) 
+#Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
+#Nando Salva (El Periódico, España) 
+#Neil Young (Hollywood Reporter, Tribune, UK) 
+#Pablo Scholz (Clarín, Argentina)
+#Paolo Bertolin (Venice International Film Festival, Italy) 
+#Paolo Moretti (Italy) 
+#Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
+#Philip Engel (Go Mag, España) 
+## wrong spelling, needs upstream fix
+#Philipp Engel (Go Mag, España)
+#Robert Koehler (Variety, USA) 
+#Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
+#Rüdiger Suchsland (arteschock, Deutschland) 
+#Sergi Sanchez (La Razón, España)
+#Jan Pieter Ekker (Cinema.nl, Netherlands)
+#Emiliano Fernández (A Sala Llena, Argentina)
+#Scott Foundas (Film Comment, USA)
+#Gustavo Beck (Curitiba International Film Festival, Brazil)
+#Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
+#Javier H. Estrada (Caimán CDC, España)
+#Pamela Bienzobas (Revista Cosas, Chile) 
+#Xavi Serra (Ara, España) 
+#Dominik Kamalzadeh (Der Standard, Austria)
+#Alvaro Arroba (Cinema Scope, España)
+#Imma Merino (Periodista i crítica, España)
+#Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
+#Andrea Picard (TIFF, Cinema Scope, Canada)
+#Kong Rithdee (The Bangkok Post, Thailand) 
+#Guillaume Muyan Wang (‎Cinemaround, China)
+#Juanma Ruíz (Screenwriter, España)
+#Damián Hoffman (Arriba Argentinos, Argentina)
+#Pedro Segura
+#Nicolás Kusmin (OtrosCines, Argentina)
+#Carlota Moseguí (El Septimo Arte, España)
+#Agustín Mango (The Hollywood Reporter, Argentina)
+#";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics_group[$i] = "critic.de";
 $critics[$i++] = "
@@ -4053,29 +4053,29 @@ Stephanie Zacharek (TIME, USA)
 Nataliia Serebriakova (Korydor, Ukraine)
 Screen International (Screen International, USA) 
 ";
-$critics_group[$i] = "ioncinema";
-$critics[$i++] = "
-Marta Balaga (Episodi / Cineuropa, Poland)
-Nicholas Bell (Ioncinema.com, USA)
-Julia Blaga (Libertatea, Rumania)
-John Bleasadale (CineVue/Sight and Sound, UK)
-Nat Chifflet (Le Progres de Lyon, France)
-Jason Gorber (ThatShelf.com / Slashfilm.com, Canada)
-Jean-Philippe Guerand (Le Film Francais, France)
-Carlos F. Heredero (Caimán Cuadernos de Cine, España)
-Dubravka Lakic (Politika Daily, Croatia)
-Eric Lavallée (ioncinema, Canada)
-Fabien Lemercier (Cineuropa.org, Belgium)
-Liu Min (Sina.com, China)
-Marc-André Lussier (La Presse, Canada)
-Elli Mastorou (Metro/L'Avenir, Belgium)
-Jordan Ruimy (World of Reel/The Playlist, USA) 
-Kuriko Sato (Eiga.com, Japan)
-Cédric Succivalli (International Cinephil Society, France)
-Anna Tatarska (Onet / Vogue, Poland)
-Meredith Taylor (Filmuforia.com, UK)
-Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
-";
+#$critics_group[$i] = "ioncinema";
+#$critics[$i++] = "
+#Marta Balaga (Episodi / Cineuropa, Poland)
+#Nicholas Bell (Ioncinema.com, USA)
+#Julia Blaga (Libertatea, Rumania)
+#John Bleasadale (CineVue/Sight and Sound, UK)
+#Nat Chifflet (Le Progres de Lyon, France)
+#Jason Gorber (ThatShelf.com / Slashfilm.com, Canada)
+#Jean-Philippe Guerand (Le Film Francais, France)
+#Carlos F. Heredero (Caimán Cuadernos de Cine, España)
+#Dubravka Lakic (Politika Daily, Croatia)
+#Eric Lavallée (ioncinema, Canada)
+#Fabien Lemercier (Cineuropa.org, Belgium)
+#Liu Min (Sina.com, China)
+#Marc-André Lussier (La Presse, Canada)
+#Elli Mastorou (Metro/L'Avenir, Belgium)
+#Jordan Ruimy (World of Reel/The Playlist, USA) 
+#Kuriko Sato (Eiga.com, Japan)
+#Cédric Succivalli (International Cinephil Society, France)
+#Anna Tatarska (Onet / Vogue, Poland)
+#Meredith Taylor (Filmuforia.com, UK)
+#Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
+#";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
 $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
@@ -4135,16 +4135,16 @@ Pragya Mishra (Dainik Prabhat Kiran, India)
 Stephanie Zacharek (Time, USA)
 Gennemsnit (Ekkofilm, DN)
 ";
-$critics_group[$i] = "kinoart.ru";
-$critics[$i++] = "
-Egor Belikov (KinoTV,Forbes, Ru)
-Inna Denisova (KinoPoisk, Ru)
-Anton Dolin  (Meduza, Ru)
-Egor Moskvitin (KinoTV, Ru)
-Zinaida Pronchenko (The art of cinema, Ru)
-Andrey Plakhov (Kommersant, Ru)
-Anna Strelchuk (Intermedia, Ru)
-";
+#$critics_group[$i] = "kinoart.ru";
+#$critics[$i++] = "
+#Egor Belikov (KinoTV,Forbes, Ru)
+#Inna Denisova (KinoPoisk, Ru)
+#Anton Dolin  (Meduza, Ru)
+#Egor Moskvitin (KinoTV, Ru)
+#Zinaida Pronchenko (The art of cinema, Ru)
+#Andrey Plakhov (Kommersant, Ru)
+#Anna Strelchuk (Intermedia, Ru)
+#";
 #$critics_group[$i] = "calmos emoji";
 #$critics[$i++] = "
 #Hugo Alexandre (calmos.net, France)
@@ -4155,21 +4155,21 @@ Anna Strelchuk (Intermedia, Ru)
 #Lucile Bellan (Artistik Rezo, France)
 #Thomas Gastaldi (Wask / FilmDeCulte, France)
 #";
-$critics_group[$i] = "FNE Critics";
-$critics[$i++] = "
-Andrea Martini (La Nazione/Il Giorno, Italy)
-Eva Peydro (El Hype, España)
-Evgenia Tirdatova (Mosco Film Festival, Russia)
-Isabelle Danel (Freelance, France)
-Kirill Razlogov (Culture and Art, Russia)
-Marie-Pauline Mollaret (Ecran Noir,Fipresci, France)
-Mariona Borrull (Freelance, España)
-Miguel Munoz (Actor, España)
-Ninos Mikelides (ELEFTHEROTYPIA, Greece)
-Paulo Portugal (Correio da Manhã, Portugal)
-Raúl Reis (Fipresci, Lux)               
-Ignacio Navarro ()
-";
+#$critics_group[$i] = "FNE Critics";
+#$critics[$i++] = "
+#Andrea Martini (La Nazione/Il Giorno, Italy)
+#Eva Peydro (El Hype, España)
+#Evgenia Tirdatova (Mosco Film Festival, Russia)
+#Isabelle Danel (Freelance, France)
+#Kirill Razlogov (Culture and Art, Russia)
+#Marie-Pauline Mollaret (Ecran Noir,Fipresci, France)
+#Mariona Borrull (Freelance, España)
+#Miguel Munoz (Actor, España)
+#Ninos Mikelides (ELEFTHEROTYPIA, Greece)
+#Paulo Portugal (Correio da Manhã, Portugal)
+#Raúl Reis (Fipresci, Lux)               
+#Ignacio Navarro ()
+#";
 $critics_group[$i] = "chaosreign.fr";
 $critics[$i++] = "
 Laurent De Alberti (Filmland Empire)
@@ -4183,19 +4183,19 @@ Norine Raja (Libération, France)
 Amandine Rebourg (Nice Matin, France)
 Philippe Rouyer (Positif, France) 
 ";
-$critics_group[$i] = "cahiers";
-$critics[$i++] = "
-Olivie Cooper-Hadjian (Cahiers du cinema, France)
-Fernando Ganzo (Lumiere, España)
-Charlotte Garson (, France)
-Elisabeth Lequeret (, France)
-Mathieu Macheret (Le Monde, France)
-Thierry Méranger (, France)
-Yal Sadat (, France)
-Ariel Schweitzer (, France)
-Louis Séguin (, France)
-Marcus Uzal (Cahiers du cinema, France)
-";
+#$critics_group[$i] = "cahiers";
+#$critics[$i++] = "
+#Olivie Cooper-Hadjian (Cahiers du cinema, France)
+#Fernando Ganzo (Lumiere, España)
+#Charlotte Garson (, France)
+#Elisabeth Lequeret (, France)
+#Mathieu Macheret (Le Monde, France)
+#Thierry Méranger (, France)
+#Yal Sadat (, France)
+#Ariel Schweitzer (, France)
+#Louis Séguin (, France)
+#Marcus Uzal (Cahiers du cinema, France)
+#";
 # https://mediacine.club/?p=1175
 #$critics_group[$i] = "Club Média Ciné";
 #$critics[$i++] = "
