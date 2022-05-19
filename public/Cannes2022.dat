@@ -42,7 +42,8 @@ COMPETITION
 
 "Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
 
-# dk stjernebarometer
+Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-interview-1234725870/
+# dkstjernebarometer
 Ariane Allard          
 Claus Christensen      
 Kjetil Lismoen         
@@ -50,7 +51,7 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
-Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-interview-1234725870/
+#letterboxd
 
 "The Almond Tree (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
 
@@ -167,6 +168,16 @@ Todd McCarthy           https://deadline.com/2022/05/tchaikovskys-wife-review-ca
 Jonathan Romney         https://www.screendaily.com/reviews/tchaikovskys-wife-cannes-review/5170766.article
 Steve Pond              https://www.thewrap.com/tchaikovskys-wife-film-review-cannes-kirill-serebrennikov/
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/18/tchaikovskys-wife-review-kirill-sebrennikov-cannes-film-festival
+# dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
+Gennemsnit           
+#critic.de
+Giovanni Marchini Camina 4
 #letterboxd
 hugo _@Cannes75th_  10
 Florent Boutet      9
@@ -259,24 +270,6 @@ amirrezamotlagh     2
 Patrick Wellinski   2
 Yali Reichman       2
 001882              1
-# dk stjernebarometer
-# dk stjernebarometer
-# dk stjernebarometer
-# dk stjernebarometer
-# dk stjernebarometer
-# dk stjernebarometer
-# dk stjernebarometer
-# dk stjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
-Gennemsnit           
-
-#critic.de
-Giovanni Marchini Camina 4
 
 "EO" (Jerzy Skolimowski 🇵🇱) [Competition]
  interpretation of Bresson's Baltazar
@@ -290,7 +283,7 @@ Damon Wise              https://deadline.com/2022/05/cannes-review-the-eight-mou
 Wendy Ide               https://www.screendaily.com/reviews/the-eight-mountains-cannes-review/5170750.article
 Peter Bradshaw    10    https://www.theguardian.com/film/2022/may/19/le-otto-montagne-the-eight-mountains-review-cannes-film-festival
 #letterboxd
-# dk stjernebarometer
+# dkstjernebarometer
 Ariane Allard          
 Claus Christensen      
 Kjetil Lismoen         
@@ -298,6 +291,7 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
+#letterboxd
 
 "Un petit frère" (Léonor Serraille 🇫🇷) [Competition]
 
@@ -2674,7 +2668,7 @@ Estelle (Initium Media)
 #JB Morain (Les Inrockuptibles, France)
 #Théo Ribeton (Les Inrockuptibles, France)
 #";
-$critics_group[$i] = "dk stjernebarometer";
+$critics_group[$i] = "dkstjernebarometer";
 $critics[$i++] = "
 Ariane Allard (Positif, France)
 Claus Christensen (Ekko, Denmark)
