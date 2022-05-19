@@ -24,7 +24,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://kinoart.ru/cannes2021/
 #   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
-#   https://www.cahiersducinema.com/wp-content/uploads/2021/07/Etoiles_Cannes_1107-1-1492x1536.png
+#   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
 #   http://www.filmneweurope.com/news/region/item/121970-fne-at-cannes-2021-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
 # Reviews:
 #   http://variety.com/c/reviews/
@@ -111,6 +111,14 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
+# cahier
+Fernando Ganzo           1
+Marcus Uzal              2.5
+Charlotte Garson         1
+Olivia Cooper-Hadjian    5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 #critic.de
 Giovanni Marchini Camina 4
 #letterboxd
@@ -354,6 +362,14 @@ Nicholas Bell
 Dubravka Lakic           
 Lorna Tee                               
 Diego Batlle             
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # Les Inrockuptibles
 # dkstjernebarometer
@@ -368,6 +384,7 @@ Gennemsnit
 # FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
+#critic.de
 #letterboxd
 Till Kretzschmar    10
 ClarityTheOne       10
@@ -577,6 +594,7 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
+#critic.de
 #letterboxd
 Thierry Durand      10
 BonsCons            8
@@ -647,6 +665,7 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
+#critic.de
 #letterboxd
 Acog Shadow         10   https://letterboxd.com/acogalex69/film/eo/
 
@@ -656,6 +675,7 @@ Acog Shadow         10   https://letterboxd.com/acogalex69/film/eo/
  Marion Cotillard, Golshifteh Farahani
 
 Ryan Lattanzio         https://www.indiewire.com/2022/05/brother-and-sister-trailer-marion-cotillard-desplechin-1234723246/
+#critic.de
 #letterboxd
 thierryjousse       8
 Cinecrologie        7
@@ -664,6 +684,7 @@ sameideal           7   https://letterboxd.com/sameideal/film/brother-and-sister
 
 "Triangle of Sadness" (Ruben Östlund 🇸🇪) [Competition]
 
+#critic.de
 #letterboxd
 Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
 LeslieGlass         9
@@ -671,6 +692,7 @@ LeslieGlass         9
 "RMN (To the Edge of Sorrow)" (Cristian Mungiu 🇷🇴) [Competition]
  possible name "To the Edge of Sorrow"
 
+#critic.de
 #letterboxd
 SamQL               8
 
@@ -722,6 +744,7 @@ Lee Marshall
 Pragya Mishra          
 Stephanie Zacharek   
 Gennemsnit           
+#critic.de
 #letterboxd
 Tsappos             7
 
@@ -755,12 +778,14 @@ Gilles Kerdreux
 Barbara Théate           
 Stéphane Boudsocq        
 Yves Jaeglé              
+#critic.de
 #letterboxd
 Rahat Ahmed         9
 
 "Decision to Leave" (Park Chan-wook 🇰🇷) [Competition]
  Park Hae-il!
 
+#critic.de
 #letterboxd
 hipsad              8
 Bai Yutong          6
@@ -768,6 +793,7 @@ Bai Yutong          6
 "Crimes of the Future" (David Cronenberg 🇨🇦) [Competition]
 
 Christian Blauvelt     https://www.indiewire.com/2022/05/crimes-of-the-future-trailer-kristen-stewart-gory-david-cronenberg-1234722698/
+#critic.de
 #letterboxd
 Letterboxd 17_Ratings	6.2  https://letterboxd.com/film/crimes-of-the-future-2022/
 Ryan Coleman        8   https://letterboxd.com/anythingfordern/film/crimes-of-the-future-2022/
@@ -777,17 +803,25 @@ Desmond Thorne      6
 
 "Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Competition]
 
+#critic.de
+#letterboxd
+
 "Nostalgia" (Mario Martone 🇮🇹) [Competition]
 
+#critic.de
 #letterboxd
 zeiinabmousavii     8
 melidna             4
 
 "Leila's Brothers" (Saeed Roustaee Iran 🇮🇷) [Competition]
 
+#critic.de
+#letterboxd
+
 "Stars at Noon" (Claire Denis 🇫🇷) [Competition]
  Margaret Qualley in Nicaragua 1984
 
+#critic.de
 #letterboxd
 Patrick Danaher     5
 ambar               4
@@ -796,6 +830,7 @@ ambar               4
 
 "Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Competition]
 
+#critic.de
 #letterboxd
 Letterboxd 6_Ratings	5.5  https://letterboxd.com/film/broker-2022/
 belén 🍜             2
@@ -806,6 +841,7 @@ Sara                5
 "Close" (Lukas Dhont 🇧🇪) [Competition]
  Émilie Dequenne, Léa Drucker
 
+#critic.de
 #letterboxd
 sinkintotheater     9
 dgo                 8
@@ -814,6 +850,7 @@ Manu Roma           7
 "Showing Up" (Kelly Reichardt 🇺🇸) [Competition]
  Michelle Williams
 
+#critic.de
 #letterboxd
 The_Heischi         10
 NellyBPage          10
@@ -849,6 +886,7 @@ Nicholas Bell
 Dubravka Lakic           
 Lorna Tee                               
 Diego Batlle             
+#critic.de
 #letterboxd
 sofiajimnz          9   https://letterboxd.com/sofiajimnz/film/father-soldier/
 lydia_self          9   https://letterboxd.com/lydia_self/film/father-soldier/
@@ -930,6 +968,7 @@ Nicholas Bell
 Dubravka Lakic           
 Lorna Tee                               
 Diego Batlle             
+#critic.de
 #letterboxd
 CalciferFR          10
 sofiajimnz          10
@@ -999,16 +1038,16 @@ sinkintotheater     7
 "Metronom" (Alexandru Belc 🇷🇴) [Un Certain Regard]
  1st
 
+#critic.de
+Philipp Schwarz       5
 #letterboxd
 Damian Ouatu        7
 NumaiVlad           7
 maria               7   https://letterboxd.com/irezistibila/film/metronom/
 
-#critic.de
-Philipp Schwarz       5
-
 "Sick Of Myself (Syk Pike)" (Kristoffer Borgli 🇳🇴) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 Charcot             10
 TerryMalick         10   https://letterboxd.com/terrymalick/film/sick-of-myself/
@@ -1016,6 +1055,7 @@ Trey Wootton        8
 
 "All The People I'll Never Be (Retour à Séoul)" (Davy Chou, Cambodia 🇰🇭) [Un Certain Regard]
  
+#critic.de
 #letterboxd
 michelpoulet        7
 julesloez           7
@@ -1026,6 +1066,7 @@ Elisa GT            4
 
 "Dominga And The Mist" (Ariel Escalante Meza, Costa Rica 🇨🇷) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 Eleni               8
 Florent Boutet      6
@@ -1045,6 +1086,8 @@ Arnotte             4
 "Butterfly Vision (Bachennya Metelyka)" (Maksim Nakonechnyi 🇺🇦) [Un Certain Regard]
  1st film
 
+#critic.de
+Giovanni Marchini Camina 6
 #letterboxd
 Elisa GT            8
 MadWillou           7
@@ -1052,17 +1095,15 @@ Raspou              7
 julesloez           6
 michelpoulet        5
 
-#critic.de
-Giovanni Marchini Camina 6
 
 "Godland (Vanskabte Land / Volaða Land)" (Hlynur Pálmason 🇮🇸) [Un Certain Regard]
 
+#critic.de
+Giovanni Marchini Camina 7.5
 #letterboxd
 Anais Bordages      9
 ludovicbeot         7
 
-#critic.de
-Giovanni Marchini Camina 7.5
 
 "Joyland" (Saim Sadiq, Pakistan 🇵🇰) [Un Certain Regard]
  1st film
@@ -1927,7 +1968,6 @@ Kavehpd             3
 #critic.de
 Giovanni Marchini Camina 6
 Nanako Tsukidate      2.5
-
 #letterboxd
 MadWillou           8
 michelpoulet        8
@@ -2381,7 +2421,6 @@ Luciaspiazzi        1   https://letterboxd.com/luciaspiazzi/film/scarlet/
 Stephanie Bunbury       https://deadline.com/2022/05/cannes-review-gods-creatures-emily-watson-paul-mescal-fortnight-1235027854/
 Fionnuala Halligan      https://www.screendaily.com/reviews/gods-creatures-cannes-review/5170657.article
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/19/gods-creatures-review-emily-watson-and-paul-mescal-shine-in-doom-laden-drama
-
 #critic.de
 Giovanni Marchini Camina 6
 # ics
@@ -3534,6 +3573,7 @@ Letterboxd 20_Ratings	7.8  https://letterboxd.com/film/the-last-movie-stars/
 "Romy, A Free Woman" [Other]
 
 
+#critic.de
 #letterboxd
 LeslieGlass         8
 Tokamisaki          8
@@ -3563,6 +3603,7 @@ KarimDebbiche       4
 
 "Three in the Drift of the Creative Act" (Fernando Solanas) [Other]
 
+#critic.de
 #letterboxd
 Letterboxd 67_Ratings	7.6  https://letterboxd.com/film/three-in-the-drift-of-the-creative-act/
 
@@ -3571,6 +3612,7 @@ Letterboxd 67_Ratings	7.6  https://letterboxd.com/film/three-in-the-drift-of-the
 
 "Visions of Eight" (Milos Forman, 1973) [Other]
 
+#critic.de
 #letterboxd
 Letterboxd 500_Ratings	7.6  https://letterboxd.com/film/visions-of-eight/
 Bear Chicka Wow-Wow 8
@@ -3585,6 +3627,7 @@ my $PREDICTIONS = <<'EOF';
 
 "On Barren Weeds" (Nuri Bilge Ceylan 🇹🇷) [Predictions]
 
+#critic.de
 #letterboxd
 asimetrik           8
 mhacr               8
@@ -3595,6 +3638,7 @@ Sajjad Aslani       4
 
 "Asteroid City" (Wes Anderson 🇺🇸) [Predictions]
 
+#critic.de
 #letterboxd
 #Sonny MacDonald     10
 #Máximo Ledesma      10
@@ -3633,6 +3677,7 @@ barbaraazevedo      5
 
 "The Zone of Interest" (Jonathan Glazer 🇺🇸) [Predictions]
 
+#critic.de
 #letterboxd
 Randy               10
 Niki                6
@@ -3641,17 +3686,20 @@ MrQassem            1
 "The Way of the Wind" (Terrence Malick 🇺🇸) [Predictions]
   His Jesus Film
 
+#critic.de
 #letterboxd
 Letterboxd 10_Ratings	6.6  https://letterboxd.com/film/the-way-of-the-wind/
 
 "La Chimera" (Alice Rohrwacher 🇮🇹) [Predictions]
  Isabella Rossellini, Alba Rohrwacher
 
+#critic.de
 #letterboxd
 tomaebasta          7
 
 "Bardo or (False Chronicle of a Handful of Truths)" (Alejandro González Iñárritu 🇲🇽) [Predictions]
 
+#critic.de
 #letterboxd
 Tenoch SP           10
 SamuelNaval         10
@@ -3674,6 +3722,7 @@ golqmpaqk           1
 "Shining Sex" (Lucile Hadžihalilović, Sion Sono …) [Predictions]
   Omnibus: + Hélène Cattet&Bruno Forzani, Kleber Mendonça Filho, Bertrand Mandico
 
+#critic.de
 #letterboxd
 Cruikshank          4
 Codfish             1
@@ -3688,6 +3737,7 @@ John Roth           1
 
 "Music" (Angela Schanelec 🇩🇪) [Predictions]
 
+#critic.de
 #letterboxd
 michelpoulet        8
 
@@ -3759,6 +3809,7 @@ UN CERTAIN REGARD
 "The Whale" (Darren Aronofsky 🇺🇸) [Predictions]
   Out of Comp 
 
+#critic.de
 #letterboxd
 Letterboxd 15_Ratings	5.1  https://letterboxd.com/film/the-whale-1/
 
@@ -3771,6 +3822,7 @@ Letterboxd 15_Ratings	5.1  https://letterboxd.com/film/the-whale-1/
 "Vengeance" (B.J. Novak 🇺🇸) [Predictions]
  Midnight
 
+#critic.de
 #letterboxd
 amber               10
 Jean Car            4
@@ -3783,6 +3835,7 @@ QUINZAINE
 "Bowling Saturne" (Patricia Mazuy) [Predictions]
  Quinzaine
 
+#critic.de
 #letterboxd
 maxloa              2
 
@@ -3809,6 +3862,7 @@ Letterboxd 143_Ratings	6.9  https://letterboxd.com/film/kung-fury-2/
 "15 Ways to Kill Your Neighbor (Petite Fleur)" (Santiago Mitre, 🇦🇷) [Predictions]
  Quinzaine. Written by Santiago Mitre and Mariano Llinas.
 
+#critic.de
 #letterboxd
 SanMitre            10
 PierreNcls          7
@@ -4023,7 +4077,7 @@ $critics_group[$i] = "Le film français";
 $critics[$i++] = "
 Gaël Golhen (Premiere, France)
 Julien Rousset (Sud ouest, France)
-Marcus Uzal  (Cahiers du cinema, France)
+Marcus Uzal (Cahiers du cinema, France)
 Eric Neuhoff (Le Figaro, France)
 Philippe Rouyer (Positif, France)
 Jaques Mandelbaum (Le Monde, France)
@@ -4183,19 +4237,16 @@ Norine Raja (Libération, France)
 Amandine Rebourg (Nice Matin, France)
 Philippe Rouyer (Positif, France) 
 ";
-#$critics_group[$i] = "cahiers";
-#$critics[$i++] = "
-#Olivie Cooper-Hadjian (Cahiers du cinema, France)
-#Fernando Ganzo (Lumiere, España)
-#Charlotte Garson (, France)
-#Elisabeth Lequeret (, France)
-#Mathieu Macheret (Le Monde, France)
-#Thierry Méranger (, France)
-#Yal Sadat (, France)
-#Ariel Schweitzer (, France)
-#Louis Séguin (, France)
-#Marcus Uzal (Cahiers du cinema, France)
-#";
+$critics_group[$i] = "cahiers";
+$critics[$i++] = "
+Fernando Ganzo (Lumiere, España)
+Marcus Uzal (Cahiers du cinema, France)
+Charlotte Garson (, France)
+Olivie Cooper-Hadjian (Cahiers du cinema, France)
+Yal Sadat (, France)
+Thierry Méranger (, France)
+Louis Séguin (, France)
+";
 # https://mediacine.club/?p=1175
 #$critics_group[$i] = "Club Média Ciné";
 #$critics[$i++] = "
