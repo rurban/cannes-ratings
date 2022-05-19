@@ -20,7 +20,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   http://www.lefilmfrancais.com/cannes2022
 #   http://jury.critic.de/cannes/
 #   https://twitter.com/screendaily
-#   https://www.screendaily.com/digital-editions/cannes-2021-screens-dailies/5161226.article
+#   https://www.screendaily.com/news/tchaikovskys-wife-launches-screens-2022-cannes-jury-grid/5170791.article
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://kinoart.ru/cannes2021/
 #   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
@@ -119,6 +119,18 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# Chinese @CriticsGrid
+Liu Min                   5
+Jenny S.Li               7.5
+Xavier                   5
+Zijiao Zhu               2.5
+Lily Gu                  2.5
+Liuying                  7.5
+Elise                    7.5
+Xiaoyi                   7.5
+Meng                     7.5
+Froufrou                 7.5
+Guojie                   
 #critic.de
 Giovanni Marchini Camina 4
 #letterboxd
@@ -371,6 +383,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
+Liu Min                  9
+Jenny S.Li               7.5
+Xavier                   2.5
+Zijiao Zhu               1
+Lily Gu                  5
+Liuying                  5
+Elise                    5
+Xiaoyi                   
+Meng                     5
+Froufrou                 2.5
+Guojie                   7.5
 # Les Inrockuptibles
 # dkstjernebarometer
 Ariane Allard          
@@ -581,6 +604,17 @@ Dubravka Lakic
 Lorna Tee                               
 Diego Batlle             
 # Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
 # Les Inrockuptibles
 # calmos-emoji
 # FNE Critics
@@ -651,6 +685,17 @@ Dubravka Lakic
 Lorna Tee                               
 Diego Batlle             
 # Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
 # Les Inrockuptibles
 # chaosreign.fr
 # calmos-emoji
@@ -730,6 +775,17 @@ Yves Jaeglé
 # ioncinema
 # ics
 # Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
 # Les Inrockuptibles
 # chaosreign.fr
 # calmos-emoji
@@ -779,12 +835,36 @@ Barbara Théate
 Stéphane Boudsocq        
 Yves Jaeglé              
 #critic.de
+# Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
 #letterboxd
 Rahat Ahmed         9
 
 "Decision to Leave" (Park Chan-wook 🇰🇷) [Competition]
  Park Hae-il!
 
+# Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
 #critic.de
 #letterboxd
 hipsad              8
@@ -4156,19 +4236,21 @@ Jon Frosch (The Hollywood Reporter, USA)
 Nicholas Bell (ioncinema, USA)
 Dennis Lim (Film Society Lincoln Center, USA)
 ";
-#$critics_group[$i] = "Chinese Grid";
-## https://twitter.com/hanglutvd
-#$critics[$i++] = "
-#Liu Min (Sina Movie, China)
-#Jenny (Movie Forever, China)
-#Xavier (NaiguanFilm, China)
-#Hang (ToroScope, China)
-#Lily Gu (Phoenix, China) 
-#Liu Ying (DeepFocus, China)   
-#Luk (FengMovie, China)
-#Xiaoyi (Aside from Books, China)
-#Estelle (Initium Media)
-#";
+$critics_group[$i] = "Chinese Grid";
+# https://twitter.com/hanglutvd
+$critics[$i++] = "
+Liu Min (Sina Movie, China)
+Jenny S.Li (Movie Forever, China)
+Xavier (NaiguanFilm, China)
+Zijiao Zhu (ToroScope, China)
+Lily Gu (ifeng.com, China) 
+Liuying (DeepFocus, China)   
+Elise (initium media, China)
+Xiaoyi (Aside from Books, China)
+Meng (Rediance, China)
+Froufrou (Directube.com, China)
+Guojie (sohu.com, China)
+";
 #$critics_group[$i] = "Les Inrockuptibles";
 #$critics[$i++] = "
 #Emily Barnett (Les Inrockuptibles, France)
