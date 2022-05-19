@@ -40,134 +40,28 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-"Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
-
-Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-interview-1234725870/
-# dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
-Gennemsnit           
-#letterboxd
-
-"The Almond Tree (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
-
-#letterboxd
-Rahat Ahmed         9
-
-"Crimes of the Future" (David Cronenberg 🇨🇦) [Competition]
-
-Christian Blauvelt     https://www.indiewire.com/2022/05/crimes-of-the-future-trailer-kristen-stewart-gory-david-cronenberg-1234722698/
-#letterboxd
-Letterboxd 17_Ratings	6.2  https://letterboxd.com/film/crimes-of-the-future-2022/
-Ryan Coleman        8   https://letterboxd.com/anythingfordern/film/crimes-of-the-future-2022/
-Rodriguez           6
-Desmond Thorne      6
-
-"Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Competition]
-
-"Stars at Noon" (Claire Denis 🇫🇷) [Competition]
- Margaret Qualley in Nicaragua 1984
-
-#letterboxd
-ramcartney          5   https://letterboxd.com/ramcartney/film/stars-at-noon/
-Patrick Danaher     5
-ambar               4
-
-"Brother and Sister (Frère et sœur)" (Arnaud Desplechin 🇫🇷) [Competition]
- Marion Cotillard, Golshifteh Farahani
-
-Ryan Lattanzio         https://www.indiewire.com/2022/05/brother-and-sister-trailer-marion-cotillard-desplechin-1234723246/
-#letterboxd
-thierryjousse       8
-Cinecrologie        7
-SamQL               7
-sameideal           7   https://letterboxd.com/sameideal/film/brother-and-sister-2022/
-
-"Close" (Lukas Dhont 🇧🇪) [Competition]
- Émilie Dequenne, Léa Drucker
-
-#letterboxd
-sinkintotheater     9
-Manu Roma           7
-
-"Armageddon Time" (James Gray 🇺🇸) [Competition]
-
-#letterboxd
-Thierry Durand      10
-BonsCons            8
-Esafrez             7
-
-"Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Competition]
-
-#letterboxd
-Letterboxd 6_Ratings	5.5  https://letterboxd.com/film/broker-2022/
-belén 🍜             2
-#blumarinelily       10
-#Galih Abimanyu      10
-#elina               10
-#lingsilva           10
-#neonlightssign      10
-#JamesKim            10
-#missnazyalensky     10
-AliDexx1            6
-はると                 6
-Sara                5
-#tanu                1
-
-"Nostalgia" (Mario Martone 🇮🇹) [Competition]
-
-
-#letterboxd
-zeiinabmousavii     8
-melidna             4
-
-"RMN (To the Edge of Sorrow)" (Cristian Mungiu 🇷🇴) [Competition]
- possible name "To the Edge of Sorrow"
-
-#letterboxd
-SamQL               8
-
-"Triangle of Sadness" (Ruben Östlund 🇸🇪) [Competition]
-
-#letterboxd
-Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
-
-"Decision to Leave" (Park Chan-wook 🇰🇷) [Competition]
- Park Hae-il!
-
-#letterboxd
-Mgabmurray          8
-hipsad              8
-Bai Yutong          6
-
-"Showing Up" (Kelly Reichardt 🇺🇸) [Competition]
- Michelle Williams
-
-#letterboxd
-The_Heischi         10
-NellyBPage          10
-izabel mar          10   https://letterboxd.com/izzyetc/film/showing-up-2022/
-PendUlum            8
-Kilgore Trout       7
-cam_fattal          7
-miguel              6   https://letterboxd.com/iohaness/film/showing-up-2022/
-Bai Yutong          4
-Teresa              1
-
-"Leila's Brothers" (Saeed Roustaee Iran 🇮🇷) [Competition]
-
-"Boy From Heaven" (Tarik Saleh 🇸🇪) [Competition]
-
 "Tchaikovsky’s Wife" (Kirill Serebrennikov 🇷🇺) [Competition]
 
 Todd McCarthy           https://deadline.com/2022/05/tchaikovskys-wife-review-cannes-kirill-serebrennikov-1235027062/
 Jonathan Romney         https://www.screendaily.com/reviews/tchaikovskys-wife-cannes-review/5170766.article
 Steve Pond              https://www.thewrap.com/tchaikovskys-wife-film-review-cannes-kirill-serebrennikov/
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/18/tchaikovskys-wife-review-kirill-sebrennikov-cannes-film-festival
+# Le film français
+Gaël Golhen              
+Julien Rousset           
+Marcus Uzal              5
+Eric Neuhoff             9
+Philippe Rouyer          7.5
+Jaques Mandelbaum        7.5
+Guillemette Odicino      7.5
+jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        5
+Michaël Mélinard         2.5
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        5
+Yves Jaeglé              7.5
 # dkstjernebarometer
 Ariane Allard          
 Claus Christensen      
@@ -271,18 +165,27 @@ Patrick Wellinski   2
 Yali Reichman       2
 001882              1
 
-"EO" (Jerzy Skolimowski 🇵🇱) [Competition]
- interpretation of Bresson's Baltazar
-
-#letterboxd
-Acog Shadow         10   https://letterboxd.com/acogalex69/film/eo/
-
 "The Eight Mountains (Le otto montagne)" (Felix van Groeningen,Charlotte Vandermeersch 🇮🇹/🇷🇴/🇫🇷) [Competition]
 
 Damon Wise              https://deadline.com/2022/05/cannes-review-the-eight-mountains-felix-van-groeningen-1235027001/
 Wendy Ide               https://www.screendaily.com/reviews/the-eight-mountains-cannes-review/5170750.article
 Peter Bradshaw    10    https://www.theguardian.com/film/2022/may/19/le-otto-montagne-the-eight-mountains-review-cannes-film-festival
-#letterboxd
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             5
+Philippe Rouyer          
+Jaques Mandelbaum        2.5
+Guillemette Odicino      5
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        
+Michaël Mélinard         5
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        7.5
+Yves Jaeglé              5
 # dkstjernebarometer
 Ariane Allard          
 Claus Christensen      
@@ -292,6 +195,168 @@ Pragya Mishra
 Stephanie Zacharek   
 Gennemsnit           
 #letterboxd
+
+"Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
+
+Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-interview-1234725870/
+# screen daily
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
+# ioncinema
+# ics
+# Chinese @CriticsGrid
+# Les Inrockuptibles
+# chaosreign.fr
+# calmos-emoji
+# FNE Critics
+# Club Média Ciné
+# Mehdi Omais poll
+# dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
+Gennemsnit           
+#letterboxd
+
+"The Almond Tree (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
+
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
+#letterboxd
+Rahat Ahmed         9
+
+"Crimes of the Future" (David Cronenberg 🇨🇦) [Competition]
+
+Christian Blauvelt     https://www.indiewire.com/2022/05/crimes-of-the-future-trailer-kristen-stewart-gory-david-cronenberg-1234722698/
+#letterboxd
+Letterboxd 17_Ratings	6.2  https://letterboxd.com/film/crimes-of-the-future-2022/
+Ryan Coleman        8   https://letterboxd.com/anythingfordern/film/crimes-of-the-future-2022/
+Rodriguez           6
+Desmond Thorne      6
+
+"Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Competition]
+
+"Stars at Noon" (Claire Denis 🇫🇷) [Competition]
+ Margaret Qualley in Nicaragua 1984
+
+#letterboxd
+ramcartney          5   https://letterboxd.com/ramcartney/film/stars-at-noon/
+Patrick Danaher     5
+ambar               4
+
+"Brother and Sister (Frère et sœur)" (Arnaud Desplechin 🇫🇷) [Competition]
+ Marion Cotillard, Golshifteh Farahani
+
+Ryan Lattanzio         https://www.indiewire.com/2022/05/brother-and-sister-trailer-marion-cotillard-desplechin-1234723246/
+#letterboxd
+thierryjousse       8
+Cinecrologie        7
+SamQL               7
+sameideal           7   https://letterboxd.com/sameideal/film/brother-and-sister-2022/
+
+"Close" (Lukas Dhont 🇧🇪) [Competition]
+ Émilie Dequenne, Léa Drucker
+
+#letterboxd
+sinkintotheater     9
+Manu Roma           7
+
+"Armageddon Time" (James Gray 🇺🇸) [Competition]
+
+#letterboxd
+Thierry Durand      10
+BonsCons            8
+Esafrez             7
+
+"Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Competition]
+
+#letterboxd
+Letterboxd 6_Ratings	5.5  https://letterboxd.com/film/broker-2022/
+belén 🍜             2
+AliDexx1            6
+はると                 6
+Sara                5
+
+"Nostalgia" (Mario Martone 🇮🇹) [Competition]
+
+
+#letterboxd
+zeiinabmousavii     8
+melidna             4
+
+"RMN (To the Edge of Sorrow)" (Cristian Mungiu 🇷🇴) [Competition]
+ possible name "To the Edge of Sorrow"
+
+#letterboxd
+SamQL               8
+
+"Triangle of Sadness" (Ruben Östlund 🇸🇪) [Competition]
+
+#letterboxd
+Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
+
+"Decision to Leave" (Park Chan-wook 🇰🇷) [Competition]
+ Park Hae-il!
+
+#letterboxd
+Mgabmurray          8
+hipsad              8
+Bai Yutong          6
+
+"Showing Up" (Kelly Reichardt 🇺🇸) [Competition]
+ Michelle Williams
+
+#letterboxd
+The_Heischi         10
+NellyBPage          10
+izabel mar          10   https://letterboxd.com/izzyetc/film/showing-up-2022/
+PendUlum            8
+Kilgore Trout       7
+cam_fattal          7
+miguel              6   https://letterboxd.com/iohaness/film/showing-up-2022/
+Bai Yutong          4
+Teresa              1
+
+"Leila's Brothers" (Saeed Roustaee Iran 🇮🇷) [Competition]
+
+"Boy From Heaven" (Tarik Saleh 🇸🇪) [Competition]
+
+"EO" (Jerzy Skolimowski 🇵🇱) [Competition]
+ interpretation of Bresson's Baltazar
+
+#letterboxd
+Acog Shadow         10   https://letterboxd.com/acogalex69/film/eo/
 
 "Un petit frère" (Léonor Serraille 🇫🇷) [Competition]
 
@@ -448,12 +513,11 @@ sinkintotheater     7
 
 "Harka" (Lotfy Nathan, Tun 🇹🇳) [Un Certain Regard]
 
-
-OUT OF COMPETITION
 Wendy Ide               https://www.screendaily.com/reviews/harka-cannes-review/5170571.article
-
 #letterboxd
 RoofCoogar          6
+
+OUT OF COMPETITION
 
 "Final Cut (Z comme Z)" (Michel Hazanavicius 🇫🇷) [Out Of Competition]
  Opening Film
@@ -461,6 +525,25 @@ RoofCoogar          6
 Tim Grierson            https://www.screendaily.com/reviews/final-cut-cannes-review/5170568.article
 David Ehrlich       C-   https://www.indiewire.com/2022/05/final-cut-review-michael-hazanavicius-1234725213/
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/17/coupez-review-michel-hazanaviciuss-silly-splattery-zombie-horror-meta-farce
+# Le film français
+Gaël Golhen              7.5
+Julien Rousset           7.5
+Marcus Uzal              2.5
+Eric Neuhoff             7.5
+Philippe Rouyer          5
+Jaques Mandelbaum        2.5
+Guillemette Odicino      7.5
+jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        1
+Michaël Mélinard         7.5
+Nicolas Schaller         7.5
+Gilles Kerdreux          7.5
+Barbara Théate           7.5
+Stéphane Boudsocq        5
+Yves Jaeglé              7.5
+#critic.de
+Jenny Jecke           2.5
+Giovanni Marchini Camina 6
 #letterboxd
 Émilien Brunelière  10
 Maxime              10   https://letterboxd.com/max53/film/final-cut-2022/
@@ -983,10 +1066,6 @@ artaudbarovitch     1
 papaoommowmow       1
 truekino69420       1
 
-#critic.de
-Jenny Jecke           2.5
-Giovanni Marchini Camina 6
-
 "Top Gun: Maverick" (Joseph Kosinski 🇺🇸) [Out Of Competition]
 
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/12/top-gun-maverick-review-tom-cruise-is-still-needy-less-speedy-in-a-rocknroll-sequel
@@ -1172,6 +1251,8 @@ Anais Bordages      4
 "Nightfall (Esterno Notte)" (Marco Bellochio 🇮🇹) [Out Of Competition] Premiere
 
 Luke Hicks            B+  https://thefilmstage.com/cannes-review-marco-bellocchios-nightfall-is-a-riveting-historical-thriller/
+#critic.de
+Giovanni Marchini Camina 6
 #letterboxd
 Sambella94          10
 giuse_luz           9
@@ -1199,9 +1280,6 @@ Drew Gebhardt       8
 BorisYiellnikof     7
 Victor              7
 Michael Granados    7
-#critic.de
-Giovanni Marchini Camina 6
-
 NICCOLO ' ZIZZARI   7   https://letterboxd.com/larsvontrier07/film/nightfall-2022/
 Imma Pilar          7
 Carlos Elorza       7
@@ -2570,16 +2648,16 @@ Julien Rousset (Sud ouest, France)
 Marcus Uzal  (Cahiers du cinema, France)
 Eric Neuhoff (Le Figaro, France)
 Philippe Rouyer (Positif, France)
-Thomas Sotinel (Le Monde, France)
+Jaques Mandelbaum (Le Monde, France)
 Guillemette Odicino (Telerama, France)
-Celine Rouden (la Croix, France)
+jean-Claude Raspiengeas (la Croix, France)
 Jean-Marc Lalanne (Les Inrockuptibles, France)
 Michaël Mélinard (L'Humanite, France)
 Nicolas Schaller (Observateur, France)
 Gilles Kerdreux (oeust france, France)
-Stéphanie Belpèche (Le Journal du Dimanche, France)
-Charlotte Lipinska (Telematin, France)
-Yves Jaeglé (La Parisien, France)
+Barbara Théate (Le Journal du Dimanche, France)
+Stéphane Boudsocq (RTL, France)
+Yves Jaeglé (La Parisien)
 ";
 # screen daily 0-4
 # https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
