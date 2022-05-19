@@ -20067,26 +20067,21 @@ $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
 Cédric Succivalli (International Cinephil Society, France)
 Emily Barnett (Les Inrockuptibles, France)
-Elisabeth Franck-Dumas (Libération, France)
+Justin Chang (LA Times, USA)
 Tommaso Tocci (International Cinephile Society, Italy)
-Carlota Moseguí (Cineurope, España)
-Gaia Furrer (Giornati Autori, Italy)
+Marcus Uzal
+Jessica Kiang (The Playlist, USA)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
 Guy Lodge (Variety, USA)
-Diego Batlle (Otros Cines, La Nation, Argentina)
 Meredith Taylor (Filmuforia.co.uk, UK)
-Stephanie Zacharek (TIME, USA)
-Dana Keith (Miami Beach Cinematheque, USA)
-Justin Chang (LA Times, USA)
-David Acacia (International Cinephil Society, Canada)
-Valerie Complex (AwardsWatch.com, USA)
-Lorna Tee (International Film Festival & Awards Macao, Netherlands)
-Daniela Michel (Morelia International Film Festival/Cine Premier México, Mexico)
-Ela Bittencourt (Lyssaria.com / The Hollywood Reporter, Brazil)
+Federica Polidoro
 Blake Williams (Filmmaker Magazine, Canada)
-Jon Frosch (The Hollywood Reporter, USA)
+Nanako Tsukidate
+Anais Bordages
 Nicholas Bell (ioncinema, USA)
-Dennis Lim (Film Society Lincoln Center, USA)
+Dubravka Lakic
+Lorna Tee (International Film Festival & Awards Macao, Netherlands)
+Diego Batlle (Otros Cines, La Nation, Argentina)
 ";
 $critics_group[$i] = "Chinese Grid";
 # https://twitter.com/CriticsGrid
