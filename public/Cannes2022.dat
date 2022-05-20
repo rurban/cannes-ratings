@@ -22,7 +22,6 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   https://twitter.com/screendaily
 #   https://www.screendaily.com/news/tchaikovskys-wife-launches-screens-2022-cannes-jury-grid/5170791.article
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://kinoart.ru/cannes2021/
 #   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
 #   http://www.filmneweurope.com/news/region/item/121970-fne-at-cannes-2021-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
@@ -1415,6 +1414,14 @@ Gilles Kerdreux          5
 Barbara Théate           2.5
 Stéphane Boudsocq        
 Yves Jaeglé              
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    2.5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1566,6 +1573,14 @@ Gilles Kerdreux
 Barbara Théate           
 Stéphane Boudsocq        
 Yves Jaeglé              
+# cahier
+Fernando Ganzo           5
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1858,6 +1873,14 @@ Yves Jaeglé              7.5
 #critic.de
 Andrey Arnold         4
 Jenny Jecke           2.5
+# cahier
+Fernando Ganzo           2.5
+Marcus Uzal              2.5
+Charlotte Garson         
+Olivia Cooper-Hadjian    1
+Yal Sadat                2.5
+Thierry Méranger         2.5
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2466,6 +2489,14 @@ Eoh_                6
 "Top Gun: Maverick" (Joseph Kosinski 🇺🇸) [Out Of Competition]
 
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/12/top-gun-maverick-review-tom-cruise-is-still-needy-less-speedy-in-a-rocknroll-sequel
+# cahier
+Fernando Ganzo           5
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                7.5
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2663,6 +2694,14 @@ Anais Bordages      4
 Luke Hicks            B+  https://thefilmstage.com/cannes-review-marco-bellocchios-nightfall-is-a-riveting-historical-thriller/
 #critic.de
 Giovanni Marchini Camina 6
+# cahier
+Fernando Ganzo           
+Marcus Uzal              9
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2871,7 +2910,16 @@ venusianstone       7
 michelpoulet        6
 Elisa GT            4
 
-"Remains of the Wind" (Tiago Guedes 🇵🇹) [Out Of Competition] Special Screening
+"Remains of the Wind (Traces)" (Tiago Guedes 🇵🇹) [Out Of Competition] Special Screening
+
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 
 "Little Nicholas - Happy as Can Be" (Benjamin Massoubre  🇫🇷) [Out Of Competition] Special Screening
  Anim
@@ -2954,6 +3002,14 @@ David Katz            B+  https://thefilmstage.com/cannes-review-pietro-marcello
 Jenny Jecke           7.5
 Giovanni Marchini Camina 6
 Philipp Schwarz       7.5
+# cahier
+Fernando Ganzo           5
+Marcus Uzal              5
+Charlotte Garson         2.5
+Olivia Cooper-Hadjian    7.5
+Yal Sadat                2.5
+Thierry Méranger         5
+Louis Séguin             
 # ics
 Cédric Succivalli        5
 Emily Barnett            
@@ -3117,6 +3173,14 @@ Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/19/gods-creatur
 Neil Smith         8   https://www.gamesradar.com/gods-creatures-review-cannes-2022/
 #critic.de
 Giovanni Marchini Camina 6
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         1
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3233,24 +3297,50 @@ Logan               2
 "1976" (Manuela Martelli 🇨🇱) [Quinzaine]
  1st, Chile 1976
 
+#critic.de
+Giovanni Marchini Camina 6
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 #letterboxd
 Lee Stobby          6   https://letterboxd.com/leestobby/film/1976/
 Arnotte             6
 Anais Bordages      6
 JoMichael           5
 
-#critic.de
-Giovanni Marchini Camina 6
 
 "The Dam" (Ali Cherrim, Sudan 🇸🇩) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Florent Boutet      7
 
 "The Super 8 Years (Les Années Super 8)" (Annie Ernaux/David Ernaux-Briot 🇫🇷) [Quinzaine]
  1st, doc
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Arthur Cios         7
 alice 🐏             7
@@ -3259,11 +3349,29 @@ Anais Bordages      2
 "Ashkal" (Youssef Chebbi, Tun 🇹🇳) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Anais Bordages      4
 
 "The Five Devils (Les cinq diables)" (Léa Mysius 🇫🇷) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Clarobetchoin       9
 Arthur Cios         7
@@ -3273,23 +3381,59 @@ ImaneL              7   https://letterboxd.com/imanel/film/the-five-devils/
 "The Fabric of the Human Body" (Véréna Paravel/Lucien Castaing-Taylor 🇫🇷) [Quinzaine]
  doc
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 lorenplaquette      8
 
 "Continental Drift (South)" (Lionel Baier 🇫🇷) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 lorenplaquette      7
 
 "The Water (El agua)" (Elena López Riera 🇪🇸) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 ludovicbeot         6
 
 "Enys Men" (Mark Jenkin 🇬🇧) [Quinzaine]
  Ecosophical horror
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Kingsley Marshall   9
 oregionsi           8
@@ -3297,17 +3441,44 @@ oregionsi           8
 "Falcon Lake" (Charlotte Le Bon 🇨🇦) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 elioooo             7
 
 "Will-o’-the-Wisp (Fogo-Fátuo)" (João Pedro Rodrigues 🇵🇹) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 PierreNcls          4
 
 "Funny Pages (Two Against Nature)" (Owen Kline 🇺🇸) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 George              10   https://letterboxd.com/pumpytoddy/film/funny-pages-2022/
 barnstone           10   https://letterboxd.com/barnstone/film/funny-pages-2022/
@@ -3316,6 +3487,15 @@ LeslieGlass         8
 
 "Harkis (Les Harkis)" (Philippe Faucon 🇫🇷) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              5
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Duquapier           9
 Royarsa123          7
@@ -3350,18 +3530,45 @@ Grog13              2
 
 "The Mountain (La Montagne)" (Thomas Salvador 🇫🇷) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Anais Bordages      3
 
 "Pamfir" (Dmytro Sukholytkyy-Sobchuk, Ukr 🇺🇦) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 michelpoulet        8
 s0nar               7
 
 "Paris Memories (Revoir Paris)" (Alice Winocour 🇫🇷) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 MadWillou           9
 michelpoulet        6
@@ -3370,6 +3577,15 @@ PierreNcls          6
 
 "Under the Fig Trees" (Erige Sehiri, Tun 🇹🇳) [Quinzaine] <i>Venice</i>
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Kilgore Trout       6
 sinkintotheater     6
@@ -3377,6 +3593,15 @@ MichalisCh          2   https://letterboxd.com/michalisch/film/under-the-fig-tre
 
 "One Fine Morning (Un beau matin)" (Mia Hansen-Løve 🇫🇷) [Quinzaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 MuhdHaikal          10
 Dan_Talbot          7
@@ -3386,6 +3611,15 @@ lorenplaquette      7
 "A Male (Un varón)" (Fabian Hernández 🇨🇴) [Quinzaine]
  1st
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 LeslieGlass         8
 cam_fattal          5
@@ -3394,6 +3628,15 @@ kerem_akca          3
 "The Green Perfume (Le Parfum vert)" (Nicolas Pariser 🇫🇷) [Quinzaine]
  Closing film. Sandrine Kiberlain, Vincent Lacoste.
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 thierryjousse       7
 
@@ -3410,13 +3653,42 @@ SEMAINE
 
 "Aftersun" (Charlotte Wells 🇬🇧/🇺🇸) [Semaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 LeslieGlass         8
 
 "Love according to Dalva" (Emmanuelle Nicot 🇧🇪/🇫🇷) [Semaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
+#letterboxd
+
 "La Jauría" (Andrés Ramírez Pulido 🇨🇴/🇫🇷) [Semaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Anais Bordages      8
 Dianareveuse        8
@@ -3425,6 +3697,15 @@ Dianareveuse        8
 
 Jonathan Romney         https://www.screendaily.com/reviews/the-woodcutter-story-cannes-review/5170572.article
 Marc van de Klashorst  6  https://icsfilm.org/festivals/cannes/cannes-2022-review-the-woodcutter-story-mikko-myllylahti/
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Christer Emanuelsson 10
 monkeybox83         10
@@ -3466,7 +3747,27 @@ Crayfish            1
 
 "Summer Scars (Nos Cérémonies)" (Simon Rieth 🇫🇷) [Semaine]
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
+
 "Imagine | Imagine (Tasavor)" (Ali Behrad, Iran 🇮🇷) [Semaine]
+
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 
 "When You Finish Saving The World" (Jesse Eisenberg 🇺🇸) [Semaine] Special Screening. <i>Sundance</i>
  Opening film
@@ -3490,27 +3791,16 @@ Crayfish            1
 #Jordan Raup        5   https://thefilmstage.com/sundance-review-jesse-eisenbergs-when-you-finish-saving-the-world-is-a-slight-directorial-debut/
 #Benjamin Lee       4   https://www.theguardian.com/film/2022/jan/21/when-you-finish-saving-the-world-review-jesse-eisenbergs-patchy-directorial-debut
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/18/when-you-finish-saving-the-world-review-jesse-eisenbergs-sweet-coming-of-age-comedy-drama
-Ross Bonaime       8.3 https://collider.com/when-you-finish-saving-the-world-review-jesse-eisenberg/
-David Ehrlich      8.3 https://www.indiewire.com/2022/01/when-you-finish-saving-the-world-movie-review-jesse-eisenberg-1234692020/
-Siddhant Adlakha   8   https://www.ign.com/articles/when-you-finish-saving-the-world-review-jesse-eisenberg
-Sabina Dana Plasse 8   https://filmthreat.com/reviews/when-you-finish-saving-the-world/
-Wendy Ide          8   https://www.screendaily.com/reviews/when-you-finish-saving-the-world-sundance-review/5166759.article
-John DeFore        8   https://www.hollywoodreporter.com/movies/movie-reviews/julianne-moore-in-jesse-eisenbergs-when-you-finish-saving-the-world-sundance-1235078080/
-Steve Pond         7.8 https://www.thewrap.com/when-you-finish-saving-the-world-review-jesse-eisenberg/
-Marya E. Gates     7.5 https://theplaylist.net/when-you-finish-saving-the-world-review-jesse-eisenbergs-sundance-20220121/
-Leah Greenblatt    7.5 https://ew.com/movies/movie-reviews/when-you-finish-saving-the-world-movie-review/
-Martin Carr        7   https://wegotthiscovered.com/movies/sundance-review-when-you-finish-saving-the-world-reveals-jesse-eisenberg-to-be-a-writer-director-with-promise/
-Mary Siroky        6.7 https://consequence.net/2022/01/when-you-finish-saving-the-world-review/
-Chris Barsanti     6.3 https://www.slantmagazine.com/film/when-you-finish-saving-the-world-review-jesse-eisenberg/
-Jacob Oller        6.3 https://www.pastemagazine.com/movies/when-you-finish-saving-the-world-review/
-Peter Bradshaw     6   https://www.theguardian.com/film/2022/may/18/when-you-finish-saving-the-world-review-jesse-eisenbergs-sweet-coming-of-age-comedy-drama
-Amy Nicholson      6   https://variety.com/2022/film/reviews/when-you-finish-saving-the-world-review-jesse-eisenberg-1235157093/
-Vince Mancini      5   https://uproxx.com/movies/when-you-finish-saving-the-world-sundance-review/
-Chris Evangelista  5   https://www.slashfilm.com/741651/when-you-finish-saving-the-world-review-jesse-eisenbergs-directorial-debut-is-an-intentional-cringefest-sundance-2022/
-Jordan Raup        5   https://thefilmstage.com/sundance-review-jesse-eisenbergs-when-you-finish-saving-the-world-is-a-slight-directorial-debut/
-Benjamin Lee       4   https://www.theguardian.com/film/2022/jan/21/when-you-finish-saving-the-world-review-jesse-eisenbergs-patchy-directorial-debut
 #critic.de
 Jenny Jecke           4
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                5
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3616,6 +3906,14 @@ Lee Marshall            https://www.screendaily.com/reviews/alma-viva-cannes-rev
 #critic.de
 Jenny Jecke           6
 Philipp Schwarz       4
+# cahier
+Fernando Ganzo           2.5
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3717,11 +4015,29 @@ timothé             2
 
 "Sons Of Ramses (Goutte d’Or)" (Clément Cogitore 🇫🇷) [Semaine] Special Screening
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 sameideal           6
 
 "Everybody loves Jeanne" (Céline Devaux 🇫🇷/🇵🇹) [Semaine] Special Screening
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
 #letterboxd
 Elisa GT            8
 michelpoulet        8
@@ -3732,7 +4048,52 @@ julesloez           4
 "Next Sohee" (Jung July 🇰🇷) [Semaine] Special Screening
  Closing film
 
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#critic.de
+
 ACID
+
+"How to Save a Dead Friend" (Marusya Syroechkovskaya, EU) [ACID] <i>Visions du Réel, Baltic Sea Docs</i>
+ doc
+
+Vladan Petkovic  https://www.cineuropa.org/en/newsdetail/424416/
+# cahier
+Fernando Ganzo           5
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#letterboxd
+Letterboxd 51_Ratings	7.7  https://letterboxd.com/film/how-to-save-a-dead-friend/
+schwari             10
+hannahcluv1         9
+Léonie              9
+Pauapola            9
+julesloez           8
+diplodocus00        8   https://letterboxd.com/diplodocus00/film/how-to-save-a-dead-friend/
+Kyleen              8
+akselksela          8
+leila keita         8   https://letterboxd.com/ichleila/film/how-to-save-a-dead-friend/
+nava                7
+Grand_Papi_         7
+Will Jones          7
+Charlie 🫖           7
+lenadelavl          7
+Roberto Gonzalez    6
+grouchoromano       6
+ilacoclea           6
+yuguan              6
+kellyhooy           5
+jmandel4            2   https://letterboxd.com/jmandel4/film/how-to-save-a-dead-friend/
 
 "99 Moons" (Jan Gassmann, Sui 🇨🇭) [ACID]
 
@@ -3834,33 +4195,6 @@ Yoyoleyoyoo         6
 
 #letterboxd
 cam_fattal          5
-
-"How to Save a Dead Friend" (Marusya Syroechkovskaya, EU) [ACID] <i>Visions du Réel, Baltic Sea Docs</i>
- doc
-
-Vladan Petkovic  https://www.cineuropa.org/en/newsdetail/424416/
-#letterboxd
-Letterboxd 51_Ratings	7.7  https://letterboxd.com/film/how-to-save-a-dead-friend/
-schwari             10
-hannahcluv1         9
-Léonie              9
-Pauapola            9
-julesloez           8
-diplodocus00        8   https://letterboxd.com/diplodocus00/film/how-to-save-a-dead-friend/
-Kyleen              8
-akselksela          8
-leila keita         8   https://letterboxd.com/ichleila/film/how-to-save-a-dead-friend/
-nava                7
-Grand_Papi_         7
-Will Jones          7
-Charlie 🫖           7
-lenadelavl          7
-Roberto Gonzalez    6
-grouchoromano       6
-ilacoclea           6
-yuguan              6
-kellyhooy           5
-jmandel4            2   https://letterboxd.com/jmandel4/film/how-to-save-a-dead-friend/
 
 "Polaris" (Ainara Vera 🇫🇷/Greenland) [ACID]
  doc, editor of Gunda and Aquarela.
