@@ -15,7 +15,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # Polls:
-#   http://www.todaslascriticas.com.ar/cannes
+#   http://www.todaslascriticas.com.ar/cannes (not yet)
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2022
 #   http://jury.critic.de/cannes/
@@ -123,13 +123,12 @@ Norine Raja
 Amandine Rebourg         9
 Phillipe Rouyer          9
 # dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
-Gennemsnit           
+Ariane Allard            7.5
+Claus Christensen        2.5
+Kjetil Lismoen           5
+Lee Marshall             
+Pragya Mishra            5
+Stephanie Zacharek       5
 # cahier
 Fernando Ganzo           1
 Marcus Uzal              2.5
@@ -511,13 +510,12 @@ Froufrou                 2.5
 Guojie                   7.5
 # Les Inrockuptibles
 # dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
-Gennemsnit           
+Ariane Allard            5
+Claus Christensen        7.5
+Kjetil Lismoen           5
+Lee Marshall             
+Pragya Mishra            7.5
+Stephanie Zacharek       5
 # calmos-emoji
 # FNE Critics
 # Club Média Ciné
@@ -702,6 +700,27 @@ ashavit23           1
 
 "Armageddon Time" (James Gray 🇺🇸) [Competition]
 
+Tim Grierson            https://www.screendaily.com/reviews/armageddon-time-cannes-review/5170722.article
+David Ehrlich       A-   https://www.indiewire.com/2022/05/armageddon-time-review-1234725386/
+Steve Pond              https://www.thewrap.com/armageddon-time-review-cannes/
+Peter Bradshaw    4    https://www.theguardian.com/film/2022/may/19/armageddon-time-review-anthony-hopkins-anne-hathaway-trump-reagan-james-gray
+David Ehrlich      9.1 https://www.indiewire.com/2022/05/armageddon-time-review-1234725386/
+Rodrigo Perez      8.3 https://theplaylist.net/armageddon-time-review-james-gray-reflects-on-privilege-says-goodbye-to-the-past-with-great-empathy-cannes-20220519/
+David Rooney       8   https://www.hollywoodreporter.com/movies/movie-reviews/armageddon-time-james-gray-cannes-2022-1235148764/
+Justin Chang       7   https://www.latimes.com/entertainment-arts/movies/story/2022-05-19/armageddon-time-james-gray-cannes-film-festival
+Jordan Farley      6   https://www.gamesradar.com/armageddon-time-review-cannes-2022/
+Peter Bradshaw     4   https://www.theguardian.com/film/2022/may/19/armageddon-time-review-anthony-hopkins-anne-hathaway-trump-reagan-james-gray
+Joshua Rothkopf    9.1 https://ew.com/movies/movie-reviews/cannes-review-armageddon-time-anthony-hopkins/
+David Ehrlich      9.1 https://www.indiewire.com/2022/05/armageddon-time-review-1234725386/
+Rodrigo Perez      8.3 https://theplaylist.net/armageddon-time-review-james-gray-reflects-on-privilege-says-goodbye-to-the-past-with-great-empathy-cannes-20220519/
+Richard Brody      8   https://www.newyorker.com/culture/the-front-row/armageddon-time-reviewed-a-new-york-childhood-in-the-crucible-of-american-history
+David Rooney       8   https://www.hollywoodreporter.com/movies/movie-reviews/armageddon-time-james-gray-cannes-2022-1235148764/
+Richard Lawson     7.8 https://www.vanityfair.com/hollywood/2022/05/armageddon-time-james-gray-cannes-review
+Tim Grierson       7   https://www.screendaily.com/reviews/armageddon-time-cannes-review/5170722.article
+Justin Chang       7   https://www.latimes.com/entertainment-arts/movies/story/2022-05-19/armageddon-time-james-gray-cannes-film-festival
+Owen Gleiberman    6   https://variety.com/2022/film/reviews/armageddon-time-review-anne-hathaway-jeremy-strong-james-gray-1235271449/
+Jordan Farley      6   https://www.gamesradar.com/armageddon-time-review-cannes-2022/
+Peter Bradshaw     4   https://www.theguardian.com/film/2022/may/19/armageddon-time-review-anthony-hopkins-anne-hathaway-trump-reagan-james-gray
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
@@ -798,38 +817,15 @@ Guojie                   2.5
 # Club Média Ciné
 # Mehdi Omais poll
 # dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
-Gennemsnit           
-Tim Grierson            https://www.screendaily.com/reviews/armageddon-time-cannes-review/5170722.article
-David Ehrlich       A-   https://www.indiewire.com/2022/05/armageddon-time-review-1234725386/
-Steve Pond              https://www.thewrap.com/armageddon-time-review-cannes/
-Peter Bradshaw    4    https://www.theguardian.com/film/2022/may/19/armageddon-time-review-anthony-hopkins-anne-hathaway-trump-reagan-james-gray
-David Ehrlich      9.1 https://www.indiewire.com/2022/05/armageddon-time-review-1234725386/
-Rodrigo Perez      8.3 https://theplaylist.net/armageddon-time-review-james-gray-reflects-on-privilege-says-goodbye-to-the-past-with-great-empathy-cannes-20220519/
-David Rooney       8   https://www.hollywoodreporter.com/movies/movie-reviews/armageddon-time-james-gray-cannes-2022-1235148764/
-Justin Chang       7   https://www.latimes.com/entertainment-arts/movies/story/2022-05-19/armageddon-time-james-gray-cannes-film-festival
-Jordan Farley      6   https://www.gamesradar.com/armageddon-time-review-cannes-2022/
-Peter Bradshaw     4   https://www.theguardian.com/film/2022/may/19/armageddon-time-review-anthony-hopkins-anne-hathaway-trump-reagan-james-gray
-Joshua Rothkopf    9.1 https://ew.com/movies/movie-reviews/cannes-review-armageddon-time-anthony-hopkins/
-David Ehrlich      9.1 https://www.indiewire.com/2022/05/armageddon-time-review-1234725386/
-Rodrigo Perez      8.3 https://theplaylist.net/armageddon-time-review-james-gray-reflects-on-privilege-says-goodbye-to-the-past-with-great-empathy-cannes-20220519/
-Richard Brody      8   https://www.newyorker.com/culture/the-front-row/armageddon-time-reviewed-a-new-york-childhood-in-the-crucible-of-american-history
-David Rooney       8   https://www.hollywoodreporter.com/movies/movie-reviews/armageddon-time-james-gray-cannes-2022-1235148764/
-Richard Lawson     7.8 https://www.vanityfair.com/hollywood/2022/05/armageddon-time-james-gray-cannes-review
-Tim Grierson       7   https://www.screendaily.com/reviews/armageddon-time-cannes-review/5170722.article
-Justin Chang       7   https://www.latimes.com/entertainment-arts/movies/story/2022-05-19/armageddon-time-james-gray-cannes-film-festival
-Owen Gleiberman    6   https://variety.com/2022/film/reviews/armageddon-time-review-anne-hathaway-jeremy-strong-james-gray-1235271449/
-Jordan Farley      6   https://www.gamesradar.com/armageddon-time-review-cannes-2022/
-Peter Bradshaw     4   https://www.theguardian.com/film/2022/may/19/armageddon-time-review-anthony-hopkins-anne-hathaway-trump-reagan-james-gray
+Ariane Allard            5
+Claus Christensen        5
+Kjetil Lismoen           5
+Lee Marshall             7.5
+Pragya Mishra            7.5
+Stephanie Zacharek       9
 #critic.de
 Andrey Arnold         9
 Giovanni Marchini Camina 7.5
-
 #letterboxd
 Marcio Sallem       10   https://letterboxd.com/marciosallem/film/armageddon-time/
 Raúl Arévalo        10
@@ -952,6 +948,7 @@ Aaron Salazar       2
 "EO (Hi-Han)" (Jerzy Skolimowski 🇵🇱) [Competition]
  interpretation of Bresson's Baltazar
 
+Jonathan Romney         https://www.screendaily.com/reviews/eo-cannes-review/5170832.article
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
@@ -1048,17 +1045,14 @@ Phillipe Rouyer          8
 # Club Média Ciné
 # Mehdi Omais poll
 # dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
+Ariane Allard          5
+Claus Christensen      5
 Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
-Gennemsnit           
-Jonathan Romney         https://www.screendaily.com/reviews/eo-cannes-review/5170832.article
+Lee Marshall           7.5
+Pragya Mishra          5
+Stephanie Zacharek       
 #critic.de
 Giovanni Marchini Camina 7.5
-
 #letterboxd
 Martyn Conterio     10
 Max Borg            10
@@ -1284,7 +1278,6 @@ Kjetil Lismoen
 Lee Marshall           
 Pragya Mishra          
 Stephanie Zacharek   
-Gennemsnit           
 #critic.de
 #letterboxd
 Tsappos             7
@@ -5680,7 +5673,6 @@ Kjetil Lismoen (Aftenposten, Norge)
 Lee Marshall (Screen, UK)
 Pragya Mishra (Dainik Prabhat Kiran, India)
 Stephanie Zacharek (Time, USA)
-Gennemsnit (Ekkofilm, DN)
 ";
 #$critics_group[$i] = "kinoart.ru";
 #$critics[$i++] = "
