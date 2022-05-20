@@ -96,23 +96,22 @@ Rui Tendinha             2
 Tommaso Tocci            6
 Maria Ulfsak-Sheripova   4
 # ics
-Cédric Succivalli        4
+Cédric Succivalli        3
 Emily Barnett            
 Justin Chang             
-Tommaso Tocci            
+Tommaso Tocci            6
 Marcus Uzal              4
 Jessica Kiang            3
 Marc van de Klashorst    3
-Guy Lodge                
+Guy Lodge                4
 Meredith Taylor          8
 Federica Polidoro        10
 Blake Williams           5
 Nanako Tsukidate         5
 Anais Bordages           8
-Nicholas Bell           
+Nicholas Bell            7
 Dubravka Lakic           
 Lorna Tee                               
-Diego Batlle             
 # chaosreign.fr
 Laurent De Alberti       9
 Stéphanie Belpêche       
@@ -499,20 +498,19 @@ Maria Ulfsak-Sheripova
 Cédric Succivalli        8
 Emily Barnett            
 Justin Chang             
-Tommaso Tocci            
+Tommaso Tocci            8
 Marcus Uzal              
 Jessica Kiang            9
-Marc van de Klashorst    
-Guy Lodge                
+Marc van de Klashorst    9
+Guy Lodge                8
 Meredith Taylor          
 Federica Polidoro        5
 Blake Williams           5
-Nanako Tsukidate         
+Nanako Tsukidate         3
 Anais Bordages           9
-Nicholas Bell           
+Nicholas Bell            4
 Dubravka Lakic           
 Lorna Tee                               
-Diego Batlle             
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -813,23 +811,22 @@ Rui Tendinha
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        4
 Emily Barnett            
 Justin Chang             
-Tommaso Tocci            
-Marcus Uzal              
-Jessica Kiang            
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell           
-Dubravka Lakic           
+Tommaso Tocci            8
+Marcus Uzal              8
+Jessica Kiang            5
+Marc van de Klashorst    4
+Guy Lodge                8
+Meredith Taylor          4
+Federica Polidoro        4
+Blake Williams           6
+Nanako Tsukidate         8
+Anais Bordages           5
+Nicholas Bell            7
+Dubravka Lakic           6
 Lorna Tee                               
-Diego Batlle             
 # Chinese @CriticsGrid
 Liu Min                  7.5
 Jenny S.Li               9
@@ -1116,23 +1113,22 @@ Rui Tendinha
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        10
 Emily Barnett            
 Justin Chang             
 Tommaso Tocci            
-Marcus Uzal              
-Jessica Kiang            
-Marc van de Klashorst    
+Marcus Uzal              8
+Jessica Kiang            8
+Marc van de Klashorst    7
 Guy Lodge                
 Meredith Taylor          
-Federica Polidoro        
-Blake Williams           
-Nanako Tsukidate         
+Federica Polidoro        10
+Blake Williams           9
+Nanako Tsukidate         7
 Anais Bordages           
-Nicholas Bell           
-Dubravka Lakic           
+Nicholas Bell            7
+Dubravka Lakic           6
 Lorna Tee                               
-Diego Batlle             
 # Chinese @CriticsGrid
 Liu Min                  5
 Jenny S.Li               2.5
@@ -5148,7 +5144,6 @@ Anais Bordages
 Nicholas Bell            
 Dubravka Lakic           
 Lorna Tee                               
-Diego Batlle             
 #letterboxd
 Letterboxd 48_Ratings	5.8  https://letterboxd.com/film/yamabuki/
 maxou               7   https://letterboxd.com/maxcension/film/yamabuki/
@@ -6144,27 +6139,22 @@ $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
 Cédric Succivalli (International Cinephil Society, France)
 Emily Barnett (Les Inrockuptibles, France)
-Elisabeth Franck-Dumas (Libération, France)
+Justin Chang (LA Times, USA)
 Tommaso Tocci (ICS/MyMovies.it, Italy)
-Carlota Moseguí (Cineurope, España)
-Gaia Furrer (Giornati Autori, Italy)
+Marcus Uzal (Cahiers du cinema, France)
+Jessica Kiang (Variety, USA)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
 Guy Lodge (Variety, USA)
-Diego Batlle (Otros Cines, La Nation, Argentina)
 Meredith Taylor (Filmuforia.co.uk, UK)
-Stephanie Zacharek (TIME, USA)
-Dana Keith (Miami Beach Cinematheque, USA)
-Justin Chang (LA Times, USA)
-David Acacia (International Cinephil Society, Canada)
-Valerie Complex (AwardsWatch.com, USA)
-Dubravka Lakic (Politika Daily, Croatia)
-Lorna Tee (International Film Festival & Awards Macao, Netherlands)
-Daniela Michel (Morelia International Film Festival/Cine Premier México, Mexico)
-Ela Bittencourt (Lyssaria.com / The Hollywood Reporter, Brazil)
+Federica Polidoro (Cineurope/ArtsLife/Il Foglio, Italy)
 Blake Williams (Filmmaker Magazine, Canada)
-Jon Frosch (The Hollywood Reporter, USA)
+Nanako Tsukidate (Nobody Magazine, Japan)
+Anais Bordages (Slate, France)
 Nicholas Bell (ioncinema, USA)
-Dennis Lim (Film Society Lincoln Center, USA)
+Dubravka Lakic (Politika Daily, Croatia)
+Lorna Tee (Cinemateque Passion Macao, Netherlands)
+Daniela Michel (Morelia International Film Festival, Mexico)
+Diego Batlle (Otros Cines, Argentina)
 ";
 $critics_group[$i] = "Chinese Grid";
 # https://twitter.com/hanglutvd
@@ -6240,7 +6230,7 @@ $critics[$i++] = "
 Laurent De Alberti (Filmland Empire)
 Stéphanie Belpêche (JDD, France)
 Caroline Besse (Telerama, France)
-Olivia Cooper-Hadjian (Les Cahiers, France)
+Olivia Cooper-Hadjian (Cahiers du cinema, France)
 Marilou Duponchel (Les Inrocks, France)
 Matteu Maestracci (France Info, France)
 Sandra Onana (Libération, France)
@@ -6400,6 +6390,7 @@ Dennis Harvey (Variety, USA)
 Dennis Lim (Film Society Lincoln Center, USA)
 Derek Malcolm (London Evening, UK) 
 Diana Drumm (The Black Maria, The Film Experience, Sound on Sight, USA)
+Diego Batlle (Otros Cines, La Nation, Argentina)
 Dion Wyn (www.thatmovieguy.co.uk, UK)
 Don Simpson (Smells Like Screen Spirit, USA)
 Donald Clarke (Irish Times, Ireland)
