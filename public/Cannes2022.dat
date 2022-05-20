@@ -60,7 +60,7 @@ Nataliia Serebriakova
 Screen International     5
 # Le film français
 Gaël Golhen              
-Julien Rousset           
+Julien Rousset           7.5
 Marcus Uzal              5
 Eric Neuhoff             9
 Philippe Rouyer          7.5
@@ -69,9 +69,9 @@ Guillemette Odicino      7.5
 jean-Claude Raspiengeas  7.5
 Jean-Marc Lalanne        5
 Michaël Mélinard         2.5
-Nicolas Schaller         
-Gilles Kerdreux          
-Barbara Théate           
+Nicolas Schaller         5
+Gilles Kerdreux          5
+Barbara Théate           7.5
 Stéphane Boudsocq        5
 Yves Jaeglé              7.5
 # ics
@@ -405,19 +405,19 @@ Stephanie Zacharek
 Nataliia Serebriakova    
 Screen International     
 # Le film français
-Gaël Golhen               
-Julien Rousset           
+Gaël Golhen              7.5
+Julien Rousset           1
 Marcus Uzal              
 Eric Neuhoff             5
-Philippe Rouyer          
+Philippe Rouyer          2.5
 Jaques Mandelbaum        2.5
 Guillemette Odicino      5
-jean-Claude Raspiengeas   
-Jean-Marc Lalanne        
+jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        2.5
 Michaël Mélinard         5
-Nicolas Schaller         
-Gilles Kerdreux          
-Barbara Théate           
+Nicolas Schaller         2.5
+Gilles Kerdreux          5
+Barbara Théate           5
 Stéphane Boudsocq        7.5
 Yves Jaeglé              5
 # chaosreign.fr
@@ -676,21 +676,21 @@ Stephanie Zacharek
 Nataliia Serebriakova    
 Screen International     
 # Le film français
-Gaël Golhen               
+Gaël Golhen              5
 Julien Rousset           
-Marcus Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum        
+Marcus Uzal              7.5
+Eric Neuhoff             9
+Philippe Rouyer          9
+Jaques Mandelbaum        5
 Guillemette Odicino      
-jean-Claude Raspiengeas   
+jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        
 Michaël Mélinard         
-Nicolas Schaller         
+Nicolas Schaller         7.5
 Gilles Kerdreux          
-Barbara Théate           
-Stéphane Boudsocq        
-Yves Jaeglé              
+Barbara Théate           5
+Stéphane Boudsocq        9
+Yves Jaeglé              9
 # chaosreign.fr
 Laurent De Alberti       10
 Stéphanie Belpêche       
@@ -909,17 +909,17 @@ Screen International
 Gaël Golhen               
 Julien Rousset           
 Marcus Uzal              
-Eric Neuhoff             
+Eric Neuhoff             7.5
 Philippe Rouyer          
-Jaques Mandelbaum        
-Guillemette Odicino      
+Jaques Mandelbaum        2.5
+Guillemette Odicino      7.5
 jean-Claude Raspiengeas   
 Jean-Marc Lalanne        
-Michaël Mélinard         
+Michaël Mélinard         1
 Nicolas Schaller         
 Gilles Kerdreux          
 Barbara Théate           
-Stéphane Boudsocq        
+Stéphane Boudsocq        9
 Yves Jaeglé              
 # ioncinema
 # ics
@@ -1391,14 +1391,30 @@ Teresa              1
 
 "Mother And Son (Un petit frère)" (Léonor Serraille 🇫🇷) [Competition]
 
-UN CERTAIN REGARD
-
 #letterboxd
 hochen              7   https://letterboxd.com/hochen/film/mother-and-son-2022/
 Kilgore Trout       6
 
-"Father & Soldier" (Mathieu Vadepied)  [Un Certain Regard] Opener
+UN CERTAIN REGARD
 
+"Father & Soldier (Tirailleurs)" (Mathieu Vadepied)  [Un Certain Regard] Opener
+
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             1
+Philippe Rouyer          2.5
+Jaques Mandelbaum        
+Guillemette Odicino      2.5
+jean-Claude Raspiengeas  2.5
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          5
+Barbara Théate           2.5
+Stéphane Boudsocq        
+Yves Jaeglé              
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1534,6 +1550,22 @@ Jenny S. Li         4   https://letterboxd.com/jennyofmine/film/father-soldier/
  1st film
 
 Damon Wise       https://deadline.com/2022/05/cannes-review-rodeo-lola-quivoron-un-certain-regard-1235027948/
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      7.5
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        5
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1618,6 +1650,75 @@ Dave Jenkins        3
 RentonDuc           3
 monkeybox83         2
 
+"Harka" (Lotfy Nathan, Tun 🇹🇳) [Un Certain Regard]
+
+Wendy Ide               https://www.screendaily.com/reviews/harka-cannes-review/5170571.article
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              1
+Eric Neuhoff             
+Philippe Rouyer          5
+Jaques Mandelbaum        
+Guillemette Odicino      5
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
+#letterboxd
+Maude Bélanger      10   https://letterboxd.com/maudite1312/film/harka-2022/
+leno                8   https://letterboxd.com/lenaigg/film/harka-2022/
+eparodi             8
+karapauley          8
+Iorenzo             8
+Amber               8   https://letterboxd.com/amber34/film/harka-2022/
+kellyhooy           8
+Fiontix             7
+Arvena              7   https://letterboxd.com/arvena/film/harka-2022/
+Meliksah Altuntas   7
+MadWillou           7
+Mona                7
+Eoh_                7
+Nejc Feguš          7
+Tokamisaki          7
+Sona Karapoghosyan  7
+Quang Ngo           7
+Marcio Sallem       6   https://letterboxd.com/marciosallem/film/harka-2022/
+nininha             6
+Mia                 6
+Jack Salvadori      6   https://letterboxd.com/jacksalvadori/film/harka-2022/
+Augustine Caille    6
+RoofCoogar          6
+D.K.                5
+Pin-Wei             5
+Truffaut692         5
+Paul Hanna          4   https://letterboxd.com/paulhanna/film/harka-2022/
+Robin Doux          4
+lucy amelia         4
+s0nar               4
+arashazizi          4
+Bearthla            4   https://letterboxd.com/bearthla/film/harka-2022/
+Lawrence Garcia     4
+luanapees           4
+Finn                4   https://letterboxd.com/finnvor1/film/harka-2022/
+Elie_Bartin         3
+Margoh626           3
+
+"All The People I'll Never Be (Retour à Séoul)" (Davy Chou, Cambodia 🇰🇭) [Un Certain Regard]
+ 
+#critic.de
+#letterboxd
+michelpoulet        7
+julesloez           7
+PierreNcls          6
+Kilgore Trout       6
+MadWillou           5
+Elisa GT            4
+
 "The Worst (Les Pires)" (Lise Akoka/Romane Gueret 🇫🇷) [Un Certain Regard]
  1st
 
@@ -1646,17 +1747,6 @@ kerem_akca          5
 Charcot             10
 TerryMalick         10   https://letterboxd.com/terrymalick/film/sick-of-myself/
 Trey Wootton        8
-
-"All The People I'll Never Be (Retour à Séoul)" (Davy Chou, Cambodia 🇰🇭) [Un Certain Regard]
- 
-#critic.de
-#letterboxd
-michelpoulet        7
-julesloez           7
-PierreNcls          6
-Kilgore Trout       6
-MadWillou           5
-Elisa GT            4
 
 "Dominga And The Mist" (Ariel Escalante Meza, Costa Rica 🇨🇷) [Un Certain Regard]
 
@@ -1740,48 +1830,6 @@ Kilgore Trout       7
 sinkintotheater     7
 
 "The Blue Caftan" (Maryam Touzani, Mor 🇹🇳) [Un Certain Regard]
-
-"Harka" (Lotfy Nathan, Tun 🇹🇳) [Un Certain Regard]
-
-Wendy Ide               https://www.screendaily.com/reviews/harka-cannes-review/5170571.article
-#letterboxd
-Maude Bélanger      10   https://letterboxd.com/maudite1312/film/harka-2022/
-leno                8   https://letterboxd.com/lenaigg/film/harka-2022/
-eparodi             8
-karapauley          8
-Iorenzo             8
-Amber               8   https://letterboxd.com/amber34/film/harka-2022/
-kellyhooy           8
-Fiontix             7
-Arvena              7   https://letterboxd.com/arvena/film/harka-2022/
-Meliksah Altuntas   7
-MadWillou           7
-Mona                7
-Eoh_                7
-Nejc Feguš          7
-Tokamisaki          7
-Sona Karapoghosyan  7
-Quang Ngo           7
-Marcio Sallem       6   https://letterboxd.com/marciosallem/film/harka-2022/
-nininha             6
-Mia                 6
-Jack Salvadori      6   https://letterboxd.com/jacksalvadori/film/harka-2022/
-Augustine Caille    6
-RoofCoogar          6
-D.K.                5
-Pin-Wei             5
-Truffaut692         5
-Paul Hanna          4   https://letterboxd.com/paulhanna/film/harka-2022/
-Robin Doux          4
-lucy amelia         4
-s0nar               4
-arashazizi          4
-Bearthla            4   https://letterboxd.com/bearthla/film/harka-2022/
-Lawrence Garcia     4
-luanapees           4
-Finn                4   https://letterboxd.com/finnvor1/film/harka-2022/
-Elie_Bartin         3
-Margoh626           3
 
 OUT OF COMPETITION
 
