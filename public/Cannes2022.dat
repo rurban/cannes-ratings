@@ -19,19 +19,18 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2022
 #   http://jury.critic.de/cannes/
-#   https://twitter.com/screendaily
-#   https://www.screendaily.com/news/tchaikovskys-wife-launches-screens-2022-cannes-jury-grid/5170791.article
+#   https://www.screendaily.com/news/cannes-2022-screens-dailies/5170637.article
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
-#   http://www.filmneweurope.com/news/region/item/121970-fne-at-cannes-2021-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
+#   http://www.filmneweurope.com/search?q=FIPRESCI+Cannes+2022&Search=
 # Reviews:
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
 #   https://www.indiewire.com/t/cannes
-#   https://thefilmstage.com/?tags=cannes-2021
-#   https://www.theguardian.com/film/cannes-2021
+#   https://thefilmstage.com/?tags=cannes-2022
+#   https://www.theguardian.com/film/cannes-2022
 #   https://www.thewrap.com/
 #   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
  
@@ -73,6 +72,27 @@ Gilles Kerdreux          5
 Barbara Théate           7.5
 Stéphane Boudsocq        5
 Yves Jaeglé              7.5
+# ioncinema
+Marta Balaga             5
+Nicholas Bell            7
+Julia Blaga              
+Marc Cassavi             5
+Nat Chifflet             10
+Monica Delgado           4
+Rodrigo Fonseca          
+Jean-Philippe Guerand    8
+Carlos F. Heredero       6
+Dubravka Lakic           6
+Eric Lavallée            7
+Fabien Lemercier         8
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            7
+Jordan Ruimy             6
+Kuriko Sato              4
+Rui Tendinha             2
+Tommaso Tocci            6
+Maria Ulfsak-Sheripova   4
 # ics
 Cédric Succivalli        4
 Emily Barnett            
@@ -431,6 +451,26 @@ Norine Raja
 Amandine Rebourg         7.5
 Phillipe Rouyer          5
 # ioncinema
+Marta Balaga             4
+Nicholas Bell            5
+Julia Blaga              
+Marc Cassavi             6
+Nat Chifflet             2
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    5
+Carlos F. Heredero       2
+Dubravka Lakic           6
+Eric Lavallée            6
+Fabien Lemercier         6
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            6
+Jordan Ruimy             4
+Kuriko Sato              8
+Rui Tendinha             6
+Tommaso Tocci            8
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        8
 Emily Barnett            
@@ -702,6 +742,26 @@ Norine Raja
 Amandine Rebourg          
 Phillipe Rouyer          10
 # ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -921,6 +981,26 @@ Barbara Théate
 Stéphane Boudsocq        9
 Yves Jaeglé              
 # ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1148,6 +1228,26 @@ Barbara Théate
 Stéphane Boudsocq        
 Yves Jaeglé              
 # ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 # Chinese @CriticsGrid
 Liu Min                   
@@ -1219,6 +1319,28 @@ Gilles Kerdreux
 Barbara Théate           
 Stéphane Boudsocq        
 Yves Jaeglé              
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 #critic.de
 # Chinese @CriticsGrid
 Liu Min                   
@@ -1250,6 +1372,28 @@ Dan_Talbot          4
 "Decision to Leave" (Park Chan-wook 🇰🇷) [Competition]
  Park Hae-il!
 
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 # chaosreign.fr
 Laurent De Alberti       
 Stéphanie Belpêche       
@@ -1279,6 +1423,28 @@ Guojie
 "Crimes of the Future" (David Cronenberg 🇨🇦) [Competition]
 
 Christian Blauvelt     https://www.indiewire.com/2022/05/crimes-of-the-future-trailer-kristen-stewart-gory-david-cronenberg-1234722698/
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 # chaosreign.fr
 Laurent De Alberti       
 Stéphanie Belpêche       
@@ -1301,6 +1467,28 @@ Desmond Thorne      6
 
 "Tori and Lokita" (Luc Dardenne, Jean-Pierre Dardenne 🇧🇪) [Competition]
 
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 # chaosreign.fr
 Laurent De Alberti       
 Stéphanie Belpêche       
@@ -1317,6 +1505,28 @@ Phillipe Rouyer
 
 "Nostalgia" (Mario Martone 🇮🇹) [Competition]
 
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 # chaosreign.fr
 Laurent De Alberti       
 Stéphanie Belpêche       
@@ -1336,18 +1546,107 @@ melidna             4
 "Leila's Brothers" (Saeed Roustaee Iran 🇮🇷) [Competition]
 
 #critic.de
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 #letterboxd
 
 "Stars at Noon" (Claire Denis 🇫🇷) [Competition]
  Margaret Qualley in Nicaragua 1984
 
 #critic.de
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 #letterboxd
 
 "Pacifiction (Tourment sur les îles)" (Albert Serra 🇪🇸) [Competition]
 
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+
 "Broker (브로커’)" (Kore-eda Hirokazu 🇯🇵) [Competition]
 
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 # chaosreign.fr
 Laurent De Alberti       
 Stéphanie Belpêche       
@@ -1368,6 +1667,28 @@ belén 🍜             2
  Émilie Dequenne, Léa Drucker
 
 #critic.de
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 #letterboxd
 sinkintotheater     9
 Manu Roma           7
@@ -1376,6 +1697,28 @@ Manu Roma           7
  Michelle Williams
 
 #critic.de
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 #letterboxd
 The_Heischi         10
 NellyBPage          10
@@ -1390,6 +1733,29 @@ Teresa              1
 
 "Mother And Son (Un petit frère)" (Léonor Serraille 🇫🇷) [Competition]
 
+#critic.de
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
 #letterboxd
 hochen              7   https://letterboxd.com/hochen/film/mother-and-son-2022/
 Kilgore Trout       6
@@ -1422,6 +1788,27 @@ Olivia Cooper-Hadjian    2.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1581,6 +1968,27 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -1881,6 +2289,27 @@ Olivia Cooper-Hadjian    1
 Yal Sadat                2.5
 Thierry Méranger         2.5
 Louis Séguin             
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2497,6 +2926,27 @@ Olivia Cooper-Hadjian
 Yal Sadat                7.5
 Thierry Méranger         
 Louis Séguin             
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -2702,6 +3152,27 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -3593,6 +4064,7 @@ MichalisCh          2   https://letterboxd.com/michalisch/film/under-the-fig-tre
 
 "One Fine Morning (Un beau matin)" (Mia Hansen-Løve 🇫🇷) [Quinzaine]
 
+Fionnuala Halligan      https://www.screendaily.com/reviews/one-fine-morning-cannes-review/5170688.article
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -5125,36 +5597,36 @@ Stephanie Zacharek (TIME, USA)
 Nataliia Serebriakova (Korydor, Ukraine)
 Screen International (Screen International, USA) 
 ";
-#$critics_group[$i] = "ioncinema";
-#$critics[$i++] = "
-#Marta Balaga (Episodi / Cineuropa, Poland)
-#Nicholas Bell (Ioncinema.com, USA)
-#Julia Blaga (Libertatea, Rumania)
-#John Bleasadale (CineVue/Sight and Sound, UK)
-#Nat Chifflet (Le Progres de Lyon, France)
-#Jason Gorber (ThatShelf.com / Slashfilm.com, Canada)
-#Jean-Philippe Guerand (Le Film Francais, France)
-#Carlos F. Heredero (Caimán Cuadernos de Cine, España)
-#Dubravka Lakic (Politika Daily, Croatia)
-#Eric Lavallée (ioncinema, Canada)
-#Fabien Lemercier (Cineuropa.org, Belgium)
-#Liu Min (Sina.com, China)
-#Marc-André Lussier (La Presse, Canada)
-#Elli Mastorou (Metro/L'Avenir, Belgium)
-#Jordan Ruimy (World of Reel/The Playlist, USA) 
-#Kuriko Sato (Eiga.com, Japan)
-#Cédric Succivalli (International Cinephil Society, France)
-#Anna Tatarska (Onet / Vogue, Poland)
-#Meredith Taylor (Filmuforia.com, UK)
-#Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
-#";
+$critics_group[$i] = "ioncinema";
+$critics[$i++] = "
+Marta Balaga (Episodi/Cineuropa, Poland)
+Nicholas Bell (Ioncinema.com, USA)
+Julia Blaga (Libertatea, Rumania)
+Marc Cassavi (La Presse, Canada)
+Nat Chifflet (Le Progres de Lyon, France)
+Monica Delgado (Desistfilm.com)
+Rodrigo Fonseca (TV Globol/GShow, Brasil)
+Jean-Philippe Guerand (Le Film Francais, France)
+Carlos F. Heredero (Caimán Cuadernos de Cine, España)
+Dubravka Lakic (Politika Daily, Croatia)
+Eric Lavallée (ioncinema, Canada)
+Fabien Lemercier (Cineuropa.org, Belgium)
+Liu Min (Sina.com, China)
+Poly Lykourgou (Flix.gr, Greece)
+Elli Mastorou (Metro/L'Avenir, Belgium)
+Jordan Ruimy (World of Reel/The Playlist, USA) 
+Kuriko Sato (Eiga.com, Japan)
+Rui Tendinha (Diario de Noticias, Portugal)
+Tommaso Tocci (ICS/MyMovies.it, Italy)
+Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
+";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
 $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
 Cédric Succivalli (International Cinephil Society, France)
 Emily Barnett (Les Inrockuptibles, France)
 Elisabeth Franck-Dumas (Libération, France)
-Tommaso Tocci (International Cinephile Society, Italy)
+Tommaso Tocci (ICS/MyMovies.it, Italy)
 Carlota Moseguí (Cineurope, España)
 Gaia Furrer (Giornati Autori, Italy)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
@@ -5166,6 +5638,7 @@ Dana Keith (Miami Beach Cinematheque, USA)
 Justin Chang (LA Times, USA)
 David Acacia (International Cinephil Society, Canada)
 Valerie Complex (AwardsWatch.com, USA)
+Dubravka Lakic (Politika Daily, Croatia)
 Lorna Tee (International Film Festival & Awards Macao, Netherlands)
 Daniela Michel (Morelia International Film Festival/Cine Premier México, Mexico)
 Ela Bittencourt (Lyssaria.com / The Hollywood Reporter, Brazil)
