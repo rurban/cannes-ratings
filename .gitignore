@@ -24,6 +24,7 @@ c[12][0-9]/
 /20*.pl
 *.dat.bak
 /dkstjernebarometer.pl
+/dkstjernebarometer.dat
 /kinoart.ru.pl
 /kinoart.ru.dat
 /kinoart.ru.html
