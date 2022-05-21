@@ -916,17 +916,17 @@ Nataliia Serebriakova
 Screen International     
 # Le film français
 Gaël Golhen              5
-Julien Rousset           
+Julien Rousset           7.5
 Marcus Uzal              7.5
 Eric Neuhoff             9
 Philippe Rouyer          9
 Jaques Mandelbaum        5
-Guillemette Odicino      
+Guillemette Odicino      5
 jean-Claude Raspiengeas  5
-Jean-Marc Lalanne        
-Michaël Mélinard         
+Jean-Marc Lalanne        5
+Michaël Mélinard         9
 Nicolas Schaller         7.5
-Gilles Kerdreux          
+Gilles Kerdreux          5
 Barbara Théate           5
 Stéphane Boudsocq        9
 Yves Jaeglé              9
@@ -1329,6 +1329,13 @@ Marta Bałaga            https://www.cineuropa.org/en/newsdetail/425637/
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/20/eo-review-an-innocent-donkey-leads-the-way-in-surreal-bresson-inspired-ride
 Adam Solomons       B+   https://www.indiewire.com/2022/05/eo-review-jerzy-skolimowski-1234726707/
 David Katz            B+  https://thefilmstage.com/cannes-review-eo-is-a-bressonian-joy-from-jerzy-skolimowski/
+#critic.de
+Andrey Arnold         7.5
+Frédéric Jaeger     9
+Jenny Jecke           5
+Till Kadritzke        9
+Giovanni Marchini Camina 7.5
+Daniela Persico       9
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
@@ -1342,21 +1349,21 @@ Stephanie Zacharek
 Nataliia Serebriakova    
 Screen International     
 # Le film français
-Gaël Golhen               
-Julien Rousset           
-Marcus Uzal              
+Gaël Golhen              7.5
+Julien Rousset           9
+Marcus Uzal              7.5
 Eric Neuhoff             7.5
-Philippe Rouyer          
+Philippe Rouyer          7.5
 Jaques Mandelbaum        2.5
 Guillemette Odicino      7.5
-jean-Claude Raspiengeas   
-Jean-Marc Lalanne        
+jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        7.5
 Michaël Mélinard         1
-Nicolas Schaller         
-Gilles Kerdreux          
-Barbara Théate           
+Nicolas Schaller         5
+Gilles Kerdreux          9
+Barbara Théate           7.5
 Stéphane Boudsocq        9
-Yves Jaeglé              
+Yves Jaeglé              7.5
 # ioncinema
 Marta Balaga             
 Nicholas Bell            
@@ -1436,13 +1443,6 @@ Ariane Allard         4
 Claus Christensen     4
 Lee Marshall          6
 Pragya Mishra         4
-#critic.de
-Andrey Arnold         7.5
-Frédéric Jaeger     9
-Jenny Jecke           5
-Till Kadritzke        9
-Giovanni Marchini Camina 7.5
-Daniela Persico       9
 #letterboxd
 Reynaldo Mora Canon 10
 chillybuster        10
@@ -1715,7 +1715,93 @@ fede                1
 Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/20/boy-from-heaven-review-cannes-2022
 Wendy Ide               https://www.screendaily.com/reviews/boy-from-heaven-cannes-review/5170901.article
 Sophie Monks Kaufman B   https://www.indiewire.com/2022/05/boy-from-heaven-review-1234727136/
-
+#critic.de
+Jenny Jecke           4
+# Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
+Screen International     
+# Le film français
+Gaël Golhen               
+Julien Rousset           2.5
+Marcus Uzal              5
+Eric Neuhoff             7.5
+Philippe Rouyer          5
+Jaques Mandelbaum        7.5
+Guillemette Odicino      7.5
+jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         7.5
+Nicolas Schaller         
+Gilles Kerdreux          7.5
+Barbara Théate           5
+Stéphane Boudsocq        7.5
+Yves Jaeglé              7.5
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+# Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
+# Les Inrockuptibles
+# chaosreign.fr
+Laurent De Alberti       
+Stéphanie Belpêche       
+Caroline Besse           
+Olivia Cooper-Hadjian    
+Marilou Duponchel        
+Matteu Maestracci        
+Sandra Onana             
+Norine Raja              
+Amandine Rebourg         
+Phillipe Rouyer          
+# calmos-emoji
+# FNE Critics
+# Club Média Ciné
+# Mehdi Omais poll
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
 #letterboxd
 Valentin            10
 jannate             10
@@ -1843,9 +1929,6 @@ Sophie Grech        4
 Ar Nam Ho           4   https://letterboxd.com/philiphoarnam/film/boy-from-heaven/
 Kokopommo           3
 
-#critic.de
-Jenny Jecke           4
-
 "Brother and Sister (Frère et sœur)" (Arnaud Desplechin 🇫🇷) [Competition]
  Marion Cotillard, Golshifteh Farahani
 
@@ -1859,7 +1942,91 @@ Frédéric Jaeger     2.5
 Jenny Jecke           2.5
 Giovanni Marchini Camina 4
 Daniela Persico       6
-
+# Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
+Screen International     
+# Le film français
+Gaël Golhen              7.5
+Julien Rousset           7.5
+Marcus Uzal              7.5
+Eric Neuhoff             7.5
+Philippe Rouyer          7.5
+Jaques Mandelbaum        7.5
+Guillemette Odicino      2.5
+jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        7.5
+Michaël Mélinard         1
+Nicolas Schaller         5
+Gilles Kerdreux          9
+Barbara Théate           5
+Stéphane Boudsocq        7.5
+Yves Jaeglé              7.5
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+# Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
+# Les Inrockuptibles
+# chaosreign.fr
+Laurent De Alberti       
+Stéphanie Belpêche       
+Caroline Besse           
+Olivia Cooper-Hadjian    
+Marilou Duponchel        
+Matteu Maestracci        
+Sandra Onana             
+Norine Raja              
+Amandine Rebourg         
+Phillipe Rouyer          
+# calmos-emoji
+# FNE Critics
+# Club Média Ciné
+# Mehdi Omais poll
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
 #letterboxd
 Babycat335          10
 rozak               10
@@ -2067,37 +2234,9 @@ Dan_Talbot          1
 
 "Triangle of Sadness" (Ruben Östlund 🇸🇪) [Competition]
 
-#critic.de
 Jonathan Romney         https://www.screendaily.com/reviews/triangle-of-sadness-cannes-review/5170949.article
 David Ehrlich       C+   https://www.indiewire.com/2022/05/triangle-of-sadness-review-1234726322/
-#letterboxd
-Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
-humzaakbar          9   https://letterboxd.com/humzaakbar/film/triangle-of-sadness/
-LeslieGlass         9
-Margoh626           8
-ashavit23           8
-Andy Hazel          8   https://letterboxd.com/andyhazel/film/triangle-of-sadness/
-Sona Karapoghosyan  8
-Thibault            8
-louislepron         8
-Dan_Talbot          8
-Omar Franini        6
-D.K.                6
-ArnauMartin00       4
-Crayfish            3
-FilmLandEmpire      2   https://letterboxd.com/filmlandempire/film/triangle-of-sadness/
-Sophie Grech        1
-
-"RMN (To the Edge of Sorrow)" (Cristian Mungiu 🇷🇴) [Competition]
- possible name "To the Edge of Sorrow"
-
 #critic.de
-#letterboxd
-SamQL               8
-
-"Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
-
-Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-interview-1234725870/
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
@@ -2183,7 +2322,120 @@ Kjetil Lismoen
 Lee Marshall           
 Pragya Mishra          
 Stephanie Zacharek   
+#letterboxd
+Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
+humzaakbar          9   https://letterboxd.com/humzaakbar/film/triangle-of-sadness/
+LeslieGlass         9
+Margoh626           8
+ashavit23           8
+Andy Hazel          8   https://letterboxd.com/andyhazel/film/triangle-of-sadness/
+Sona Karapoghosyan  8
+Thibault            8
+louislepron         8
+Dan_Talbot          8
+Omar Franini        6
+D.K.                6
+ArnauMartin00       4
+Crayfish            3
+FilmLandEmpire      2   https://letterboxd.com/filmlandempire/film/triangle-of-sadness/
+Sophie Grech        1
+
+"RMN (To the Edge of Sorrow)" (Cristian Mungiu 🇷🇴) [Competition]
+ possible name "To the Edge of Sorrow"
+
 #critic.de
+#letterboxd
+SamQL               8
+
+"Holy Spider" (Ali Abbasi Iran 🇮🇷) [Competition]
+
+Eric Kohn              https://www.indiewire.com/2022/05/holy-spider-ali-abbasi-interview-1234725870/
+#critic.de
+# Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Wang Muyan               
+Katja Nikodemus          
+Michel Cement            
+Mathieu Macharet         
+Stephanie Zacharek       
+Nataliia Serebriakova    
+Screen International     
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
+# ioncinema
+Marta Balaga             
+Nicholas Bell            
+Julia Blaga              
+Marc Cassavi             
+Nat Chifflet             
+Monica Delgado           
+Rodrigo Fonseca          
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Poly Lykourgou           
+Elli Mastorou            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Tommaso Tocci            
+Maria Ulfsak-Sheripova   
+# ics
+# Chinese @CriticsGrid
+Liu Min                   
+Jenny S.Li               
+Xavier                   
+Zijiao Zhu               
+Lily Gu                  
+Liuying                  
+Elise                    
+Xiaoyi                   
+Meng                     
+Froufrou                 
+Guojie                   
+# Les Inrockuptibles
+# chaosreign.fr
+Laurent De Alberti       
+Stéphanie Belpêche       
+Caroline Besse           
+Olivia Cooper-Hadjian    
+Marilou Duponchel        
+Matteu Maestracci        
+Sandra Onana             
+Norine Raja              
+Amandine Rebourg         
+Phillipe Rouyer          
+# calmos-emoji
+# FNE Critics
+# Club Média Ciné
+# Mehdi Omais poll
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+Stephanie Zacharek   
 #letterboxd
 Diwanha             10   https://letterboxd.com/jerryfaaris/film/holy-spider/
 sinkintotheater     8
