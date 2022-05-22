@@ -1798,7 +1798,7 @@ Guillemette Odicino      7.5
 jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        2.5
 Michaël Mélinard         7.5
-Nicolas Schaller         
+Nicolas Schaller         5
 Gilles Kerdreux          7.5
 Barbara Théate           5
 Stéphane Boudsocq        7.5
@@ -2417,21 +2417,21 @@ Stephanie Zacharek       5
 Nataliia Serebriakova    7.5
 Screen International     5
 # Le film français
-Gaël Golhen               
-Julien Rousset           
-Marcus Uzal              
-Eric Neuhoff             
+Gaël Golhen              5
+Julien Rousset           1
+Marcus Uzal              1
+Eric Neuhoff             7.5
 Philippe Rouyer          
-Jaques Mandelbaum        
-Guillemette Odicino      
-jean-Claude Raspiengeas   
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Barbara Théate           
-Stéphane Boudsocq        
-Yves Jaeglé              
+Jaques Mandelbaum        1
+Guillemette Odicino      2.5
+jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        1
+Michaël Mélinard         7.5
+Nicolas Schaller         2.5
+Gilles Kerdreux          9
+Barbara Théate           7.5
+Stéphane Boudsocq        2.5
+Yves Jaeglé              7.5
 # ioncinema
 Marta Balaga             
 Nicholas Bell            
@@ -2635,18 +2635,18 @@ Screen International
 Gaël Golhen               
 Julien Rousset           
 Marcus Uzal              
-Eric Neuhoff             
+Eric Neuhoff             7.5
 Philippe Rouyer          
-Jaques Mandelbaum        
+Jaques Mandelbaum        5
 Guillemette Odicino      
-jean-Claude Raspiengeas   
+jean-Claude Raspiengeas  9
 Jean-Marc Lalanne        
-Michaël Mélinard         
+Michaël Mélinard         7.5
 Nicolas Schaller         
 Gilles Kerdreux          
 Barbara Théate           
-Stéphane Boudsocq        
-Yves Jaeglé              
+Stéphane Boudsocq        5
+Yves Jaeglé              2.5
 # ioncinema
 Marta Balaga             
 Nicholas Bell            
@@ -3766,15 +3766,15 @@ Fabien Lemercier https://www.cineuropa.org/en/newsdetail/425448/
 # Le film français
 Gaël Golhen               
 Julien Rousset           
-Marcus Uzal              
+Marcus Uzal              2.5
 Eric Neuhoff             
 Philippe Rouyer          
 Jaques Mandelbaum        
 Guillemette Odicino      7.5
 jean-Claude Raspiengeas   
 Jean-Marc Lalanne        5
-Michaël Mélinard         
-Nicolas Schaller         
+Michaël Mélinard         5
+Nicolas Schaller         5
 Gilles Kerdreux          
 Barbara Théate           
 Stéphane Boudsocq        
@@ -3959,7 +3959,7 @@ Wendy Ide               https://www.screendaily.com/reviews/harka-cannes-review/
 David Katz              https://www.cineuropa.org/en/newsdetail/425531/
 #critic.de
 # Le film français
-Gaël Golhen               
+Gaël Golhen              
 Julien Rousset           
 Marcus Uzal              1
 Eric Neuhoff             
@@ -4090,6 +4090,22 @@ Adam Solomons       B   https://www.indiewire.com/2022/05/corsage-review-vicky-k
 Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/20/corsage-review-a-cry-of-anger-from-the-pedestal-prison-of-an-empress
 #critic.de
 Andrey Arnold         7.5
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          5
+Jaques Mandelbaum        
+Guillemette Odicino      2.5
+jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           5
+Stéphane Boudsocq        
+Yves Jaeglé              
 # ics
 Cédric Succivalli        6
 Emily Barnett            8
@@ -4232,6 +4248,22 @@ Sophie              3
 
 Tim Grierson            https://www.screendaily.com/reviews/plan-75-cannes-review/5170919.article
 #critic.de
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             5
+Philippe Rouyer          2.5
+Jaques Mandelbaum        
+Guillemette Odicino      7.5
+jean-Claude Raspiengeas   5
+Jean-Marc Lalanne        
+Michaël Mélinard         7.5
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
 # ics
 Cédric Succivalli        6
 Emily Barnett            
@@ -4335,6 +4367,22 @@ Touss_1             2
 Fionnuala Halligan      https://www.screendaily.com/reviews/the-stranger-cannes-review/5170215.article
 Sophie Monks Kaufman B-   https://www.indiewire.com/2022/05/the-stranger-review-joel-edgerton-1234725522/
 
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             2.5
+Philippe Rouyer          5
+Jaques Mandelbaum        
+Guillemette Odicino      2.5
+jean-Claude Raspiengeas  2.5
+Jean-Marc Lalanne        
+Michaël Mélinard         5
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -4429,6 +4477,22 @@ SydRob1998          4   https://letterboxd.com/sydrob1998/film/the-stranger-2022
 
 Nikki Baughan           https://www.screendaily.com/reviews/more-than-ever-cannes-review/5170655.article
 Steph Green         B+   https://www.indiewire.com/2022/05/more-than-ever-review-gaspard-ulliel-vicky-krieps-1234727154/
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      
+jean-Claude Raspiengeas  7.5
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           5
+Stéphane Boudsocq        
+Yves Jaeglé              
 #letterboxd
 Bénédicte           10   https://letterboxd.com/hibigoudi/film/more-than-ever/
 Luc Freijer         8
@@ -4470,6 +4534,22 @@ sinkintotheater     3
 Kate Erbland        C+   https://www.indiewire.com/2022/05/war-pony-review-riley-keough-gina-gammell-1234723577/
 Steve Pond              https://www.thewrap.com/war-pony-review-riley-keough-cannes/
 Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/21/war-pony-review-rousing-tale-of-love-and-money-on-a-native-american-reservation
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      
+jean-Claude Raspiengeas   
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Yves Jaeglé              
 #letterboxd
 emilyzoeynyc        10   https://letterboxd.com/emilyzoeynyc/film/war-pony/
 Marco Dutra         10
