@@ -636,8 +636,9 @@ Guojie                   7.5
 Ariane Allard         4
 Claus Christensen     6
 Kjetil Lismoen        4
+Lee Marshall          
 Pragya Mishra         6
-Stephanie  Zacharek   4
+#Stephanie Zacharek    4
 # calmos-emoji
 # FNE Critics
 # Club Média Ciné
@@ -1070,7 +1071,7 @@ Claus Christensen     4
 Kjetil Lismoen        4
 Lee Marshall          6
 Pragya Mishra         6
-Stephanie  Zacharek   8
+#Stephanie Zacharek   8
 #critic.de
 Andrey Arnold         9
 Frédéric Jaeger     7.5
@@ -1567,8 +1568,10 @@ Phillipe Rouyer          8
 #dkstjernebarometer
 Ariane Allard         4
 Claus Christensen     4
+Kjetil Lismoen        6
 Lee Marshall          6
 Pragya Mishra         4
+#Stephanie Zacharek   6
 #letterboxd
 yasmine_bndj        10
 helliedepellie      10   https://letterboxd.com/helliedepellie/film/eo/
@@ -2003,12 +2006,12 @@ Phillipe Rouyer          6
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
+Ariane Allard          4
+Claus Christensen      4
+Kjetil Lismoen         4
+Lee Marshall           4
+Pragya Mishra          8
+#Stephanie Zacharek    4
 #letterboxd
 Valentin            10
 jannate             10
@@ -2305,12 +2308,12 @@ Phillipe Rouyer          8
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
+Ariane Allard          2
+Claus Christensen      2
+Kjetil Lismoen         2
 Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
+Pragya Mishra          2
+#Stephanie Zacharek    2
 #letterboxd
 lilypetiot          10
 michifuz            10
@@ -2768,12 +2771,12 @@ Phillipe Rouyer          6
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
+Ariane Allard          2
+Claus Christensen      6
+Kjetil Lismoen         6
+Lee Marshall           6
+Pragya Mishra          8
+#Stephanie Zacharek    4
 #letterboxd
 Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
 camille_dtl         10
@@ -3154,12 +3157,12 @@ Phillipe Rouyer          8
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
-Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
+Ariane Allard          4
+Claus Christensen      6
+Kjetil Lismoen         6
+Lee Marshall           6
+Pragya Mishra          6
+#Stephanie Zacharek    4
 #letterboxd
 SamQL               8
 
@@ -3278,11 +3281,11 @@ Phillipe Rouyer          8
 # Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard          
-Claus Christensen      
-Kjetil Lismoen         
-Lee Marshall           
-Pragya Mishra          
-Stephanie Zacharek   
+Claus Christensen      10
+Kjetil Lismoen         6
+Lee Marshall           6
+Pragya Mishra          6
+Stephanie Zacharek    4
 #letterboxd
 emmajaubert         10
 Truffaut692         10
@@ -3399,6 +3402,11 @@ Anais Bordages      2
 
 "Forever Young (Les Amandiers)" (Valeria Bruni-Tedeschi 🇫🇷) [Competition]
 
+Christian Zilko        https://www.indiewire.com/2022/05/forever-young-first-look-cannes-1234726958/
+Wendy Ide               https://www.screendaily.com/reviews/forever-young-cannes-review/5171007.article
+#critic.de
+Andrey Arnold         7.5
+Frédéric Jaeger     7.5
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
@@ -3467,11 +3475,6 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                               
 Diego Batlle             
-Christian Zilko        https://www.indiewire.com/2022/05/forever-young-first-look-cannes-1234726958/
-Wendy Ide               https://www.screendaily.com/reviews/forever-young-cannes-review/5171007.article
-#critic.de
-Andrey Arnold         7.5
-Frédéric Jaeger     7.5
 # Chinese @CriticsGrid
 Liu Min                  7.5
 Jenny S.Li               2.5
@@ -3503,6 +3506,13 @@ Sandra Onana             8
 Norine Raja              
 Amandine Rebourg         8
 Phillipe Rouyer          4
+#dkstjernebarometer
+Ariane Allard          8
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           2
+Pragya Mishra          6
+Stephanie Zacharek    6
 #letterboxd
 CalciferFR          10
 izabel mar          10   https://letterboxd.com/izzyetc/film/forever-young-2022/
@@ -3620,6 +3630,13 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 narada              10
 Mohamed El Amin Chemouri 10
@@ -3697,6 +3714,13 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 Letterboxd 17_Ratings	6.2  https://letterboxd.com/film/crimes-of-the-future-2022/
 chillybuster        8
@@ -3768,6 +3792,13 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 chillybuster        10
 hochen              7   https://letterboxd.com/hochen/film/tori-and-lokita/
@@ -3834,6 +3865,13 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 zeiinabmousavii     8
 melidna             4
@@ -3900,6 +3938,13 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 Kilgore Trout       6
 
@@ -3966,6 +4011,13 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 YomiLala            10
 Shriya Pandey       10
@@ -4043,6 +4095,13 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          
+#dkstjernebarometer
+Ariane Allard          
+Claus Christensen      
+Kjetil Lismoen         
+Lee Marshall           
+Pragya Mishra          
+#Stephanie Zacharek    
 #letterboxd
 Jean des Forets     9
 samcmac             8
