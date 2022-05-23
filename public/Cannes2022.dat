@@ -20,6 +20,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   http://www.lefilmfrancais.com/cannes2022
 #   http://jury.critic.de/cannes/
 #   https://www.screendaily.com/news/cannes-2022-screens-dailies/5170637.article
+#   https://icsfilm.org/news/the-cannes-2022-critics-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
@@ -110,10 +111,10 @@ Blake Williams           5
 Nanako Tsukidate         5
 Anais Bordages           8
 Nicholas Bell            7
-Dubravka Lakic           
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Dubravka Lakic           8
+Daniela Michel           5
+Lorna Tee                              
+Diego Batlle             5
 # chaosreign.fr
 Laurent De Alberti       8
 Stéphanie Belpêche       
@@ -595,22 +596,22 @@ Maria Ulfsak-Sheripova
 # ics
 Cédric Succivalli        8
 Emily Barnett            
-Justin Chang             
+Justin Chang             8
 Tommaso Tocci            8
 Marcus Uzal              
 Jessica Kiang            9
 Marc van de Klashorst    9
 Guy Lodge                8
-Meredith Taylor          
+Meredith Taylor          6
 Federica Polidoro        5
 Blake Williams           5
 Nanako Tsukidate         3
 Anais Bordages           9
 Nicholas Bell            4
-Dubravka Lakic           
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Dubravka Lakic           6
+Daniela Michel           5
+Lorna Tee                              
+Diego Batlle             6
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1039,9 +1040,9 @@ Nanako Tsukidate         8
 Anais Bordages           5
 Nicholas Bell            7
 Dubravka Lakic           6
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Daniela Michel           8
+Lorna Tee                              
+Diego Batlle             7
 # Chinese @CriticsGrid
 Liu Min                  7.5
 Jenny S.Li               9
@@ -1523,16 +1524,16 @@ Marcus Uzal              8
 Jessica Kiang            8
 Marc van de Klashorst    8
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        10
 Blake Williams           9
 Nanako Tsukidate         7
 Anais Bordages           
 Nicholas Bell            7
 Dubravka Lakic           6
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Daniela Michel           10
+Lorna Tee                8
+Diego Batlle             7
 # Chinese @CriticsGrid
 Liu Min                  5
 Jenny S.Li               2.5
@@ -1961,22 +1962,22 @@ Maria Ulfsak-Sheripova   7
 # ics
 Cédric Succivalli        3
 Emily Barnett            2
-Justin Chang             
-Tommaso Tocci            
+Justin Chang             5
+Tommaso Tocci            8
 Marcus Uzal              5
 Jessica Kiang            
 Marc van de Klashorst    6
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        
 Blake Williams           
 Nanako Tsukidate         3
 Anais Bordages           7
 Nicholas Bell            5
 Dubravka Lakic           9
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Daniela Michel           4
+Lorna Tee                6
+Diego Batlle             5
 # Chinese @CriticsGrid
 Liu Min                  7.5
 Jenny S.Li               7.5
@@ -2265,22 +2266,22 @@ Maria Ulfsak-Sheripova   2
 # ics
 Cédric Succivalli        
 Emily Barnett            
-Justin Chang             
+Justin Chang             7
 Tommaso Tocci            
 Marcus Uzal              8
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          6
 Federica Polidoro        
 Blake Williams           6
 Nanako Tsukidate         3
-Anais Bordages           
+Anais Bordages           2
 Nicholas Bell            1
 Dubravka Lakic           6
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Daniela Michel           2
+Lorna Tee                
+Diego Batlle             4
 # Chinese @CriticsGrid
 Liu Min                   5
 Jenny S.Li               1
@@ -2728,24 +2729,24 @@ Rui Tendinha
 Tommaso Tocci            2
 Maria Ulfsak-Sheripova   8
 # ics
-Cédric Succivalli        
+Cédric Succivalli        3
 Emily Barnett            
 Justin Chang             
-Tommaso Tocci            
-Marcus Uzal              
+Tommaso Tocci            2
+Marcus Uzal              1
 Jessica Kiang            
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell           
-Dubravka Lakic           
+Marc van de Klashorst    8
+Guy Lodge                9
+Meredith Taylor          8
+Federica Polidoro        5
+Blake Williams           6
+Nanako Tsukidate         5
+Anais Bordages           7
+Nicholas Bell            7
+Dubravka Lakic           6
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                5
+Diego Batlle             4
 # Chinese @CriticsGrid
 Liu Min                  7.5
 Jenny S.Li               5
@@ -3122,22 +3123,22 @@ Maria Ulfsak-Sheripova   5
 # ics
 Cédric Succivalli        
 Emily Barnett            
-Justin Chang             
-Tommaso Tocci            
+Justin Chang             9
+Tommaso Tocci            7
 Marcus Uzal              
-Jessica Kiang            
+Jessica Kiang            8
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        
-Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell           
-Dubravka Lakic           
+Blake Williams           6
+Nanako Tsukidate         6
+Anais Bordages           6
+Nicholas Bell            8
+Dubravka Lakic           6
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                7
+Diego Batlle             8
 # Chinese @CriticsGrid
 Liu Min                  5
 Jenny S.Li               5
@@ -3417,20 +3418,20 @@ Rui Tendinha
 Tommaso Tocci            
 Maria Ulfsak-Sheripova   
 # ics
-Cédric Succivalli        
+Cédric Succivalli        4
 Emily Barnett            
 Justin Chang             
 Tommaso Tocci            
 Marcus Uzal              
 Jessica Kiang            
-Marc van de Klashorst    
+Marc van de Klashorst    7    https://icsfilm.org/festivals/cannes/cannes-2022-review-holy-spider-ali-abbasi/
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        
 Blake Williams           
 Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell           
+Anais Bordages           2
+Nicholas Bell            6
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
@@ -3656,10 +3657,10 @@ Tommaso Tocci
 Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
-Emily Barnett            
+Emily Barnett            10
 Justin Chang             
 Tommaso Tocci            
-Marcus Uzal              
+Marcus Uzal              7
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
@@ -3668,7 +3669,7 @@ Federica Polidoro
 Blake Williams           
 Nanako Tsukidate         
 Anais Bordages           
-Nicholas Bell           
+Nicholas Bell            6
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
@@ -4646,17 +4647,17 @@ Tommaso Tocci
 Marcus Uzal              
 Jessica Kiang            
 Marc van de Klashorst    
-Guy Lodge                
+Guy Lodge                6
 Meredith Taylor          
 Federica Polidoro        
 Blake Williams           
-Nanako Tsukidate         
+Nanako Tsukidate         2
 Anais Bordages           6
-Nicholas Bell           
+Nicholas Bell            6
 Dubravka Lakic           
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                
+Diego Batlle             5
 #letterboxd
 jaspergraeve        9
 jaddhrn             9
@@ -4865,7 +4866,7 @@ Maria Ulfsak-Sheripova
 Cédric Succivalli        4
 Emily Barnett            
 Justin Chang             
-Tommaso Tocci            
+Tommaso Tocci            4
 Marcus Uzal              3
 Jessica Kiang            
 Marc van de Klashorst    
@@ -4877,9 +4878,9 @@ Nanako Tsukidate         4
 Anais Bordages           8
 Nicholas Bell            5
 Dubravka Lakic           
-Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Daniela Michel           5
+Lorna Tee                7
+Diego Batlle             5
 #letterboxd
 lorenplaquette      10
 laetitialacr        10
@@ -5206,7 +5207,7 @@ Anais Bordages
 Nicholas Bell            7
 Dubravka Lakic           
 Daniela Michel           7
-Lorna Tee                               
+Lorna Tee                9
 Diego Batlle             
 # cahier
 Fernando Ganzo           1
@@ -5400,7 +5401,7 @@ Anais Bordages
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
-Lorna Tee                               
+Lorna Tee                6
 Diego Batlle             
 # cahier
 Fernando Ganzo           5
@@ -5551,7 +5552,7 @@ Tommaso Tocci
 Marcus Uzal              
 Jessica Kiang            
 Marc van de Klashorst    
-Guy Lodge                
+Guy Lodge                7
 Meredith Taylor          8
 Federica Polidoro        
 Blake Williams           
@@ -5680,7 +5681,7 @@ Barbara Théate           5
 Stéphane Boudsocq        
 Yves Jaeglé              
 # ics
-Cédric Succivalli        9
+Cédric Succivalli        8
 Emily Barnett            8
 Justin Chang             
 Tommaso Tocci            
@@ -5693,11 +5694,11 @@ Federica Polidoro
 Blake Williams           
 Nanako Tsukidate         3
 Anais Bordages           
-Nicholas Bell            
+Nicholas Bell            4
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
-Diego Batlle             
+Diego Batlle             6
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -5802,11 +5803,11 @@ Federica Polidoro
 Blake Williams           
 Nanako Tsukidate         3
 Anais Bordages           8
-Nicholas Bell            
+Nicholas Bell            5
 Dubravka Lakic           
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                
+Diego Batlle             5
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -5916,8 +5917,8 @@ Cédric Succivalli
 Emily Barnett            
 Justin Chang             
 Tommaso Tocci            
-Marcus Uzal              
-Jessica Kiang            
+Marcus Uzal              3
+Jessica Kiang            8
 Marc van de Klashorst    
 Guy Lodge                
 Meredith Taylor          
@@ -5925,11 +5926,11 @@ Federica Polidoro
 Blake Williams           
 Nanako Tsukidate         
 Anais Bordages           
-Nicholas Bell            
+Nicholas Bell            7
 Dubravka Lakic           
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                8              
+Diego Batlle             6
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -6000,7 +6001,7 @@ Barbara Théate
 Stéphane Boudsocq        
 Yves Jaeglé              
 # ics
-Cédric Succivalli        
+Cédric Succivalli        6
 Emily Barnett            
 Justin Chang             
 Tommaso Tocci            
@@ -6011,13 +6012,13 @@ Guy Lodge
 Meredith Taylor          
 Federica Polidoro        
 Blake Williams           
-Nanako Tsukidate         
+Nanako Tsukidate         6
 Anais Bordages           
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                
+Diego Batlle             6
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -6159,7 +6160,7 @@ Barbara Théate
 Stéphane Boudsocq        
 Yves Jaeglé              
 # ics
-Cédric Succivalli        
+Cédric Succivalli        8    https://icsfilm.org/festivals/cannes/cannes-2022-review-sick-of-myself-kristoffer-borgli/
 Emily Barnett            
 Justin Chang             
 Tommaso Tocci            
@@ -6168,7 +6169,7 @@ Jessica Kiang
 Marc van de Klashorst    
 Guy Lodge                
 Meredith Taylor          
-Federica Polidoro        
+Federica Polidoro        7
 Blake Williams           
 Nanako Tsukidate         
 Anais Bordages           
@@ -6176,7 +6177,7 @@ Nicholas Bell
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
-Diego Batlle             
+Diego Batlle             4
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -6659,9 +6660,9 @@ Nanako Tsukidate         2
 Anais Bordages           8
 Nicholas Bell            5
 Dubravka Lakic           
-Daniela Michel           
+Daniela Michel           5
 Lorna Tee                               
-Diego Batlle             
+Diego Batlle             6
 # cahier
 Fernando Ganzo           2.5
 Marcus Uzal              2.5
@@ -7544,7 +7545,7 @@ Nicholas Bell            6    https://www.ioncinema.com/reviews/joseph-kosinski-
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
-Diego Batlle             
+Diego Batlle             8
 # cahier
 Fernando Ganzo           5
 Marcus Uzal              
@@ -7713,7 +7714,7 @@ Federica Polidoro        4
 Blake Williams           5
 Nanako Tsukidate         
 Anais Bordages           
-Nicholas Bell            
+Nicholas Bell            4
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
@@ -8299,7 +8300,7 @@ Cédric Succivalli
 Emily Barnett            
 Justin Chang             
 Tommaso Tocci            
-Marcus Uzal              
+Marcus Uzal              6
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
@@ -8308,7 +8309,7 @@ Federica Polidoro
 Blake Williams           
 Nanako Tsukidate         
 Anais Bordages           
-Nicholas Bell            
+Nicholas Bell            6
 Dubravka Lakic           
 Daniela Michel           
 Lorna Tee                               
@@ -8326,6 +8327,25 @@ Louis Séguin
 "Moonage Daydream" (Brett Morgen 🇺🇸) [Out Of Competition] Midnight
 
 #critic.de
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Daniela Michel           
+Lorna Tee                               
+Diego Batlle             
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -8382,6 +8402,25 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Daniela Michel           
+Lorna Tee                               
+Diego Batlle             
 #letterboxd
 MichalisCh          7
 Cedric Muyres       6
@@ -8567,6 +8606,34 @@ Jack Salvadori      2   https://letterboxd.com/jacksalvadori/film/nightfall-2022
 "Irma Vep (TV/Series)" (Olivier Assayas 🇫🇷) [Out Of Competition] Premiere
 
 Samantha Bergeson      https://www.indiewire.com/2022/04/irma-vep-alicia-vikander-olivier-assays-hbo-1234719433/
+#critic.de
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           8
+Nicholas Bell            
+Dubravka Lakic           
+Daniela Michel           
+Lorna Tee                               
+Diego Batlle             
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 
 "Nos Frangins" (Rachid Bouchareb 🇫🇷) [Out Of Competition] Premiere
 
@@ -8609,6 +8676,25 @@ Allan Hunter            https://www.screendaily.com/reviews/don-juan-cannes-revi
 #critic.de
 Dunja Bialas          4
 Till Kadritzke        6
+# ics
+Cédric Succivalli        8
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              8
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           2
+Nicholas Bell            4
+Dubravka Lakic           
+Daniela Michel           
+Lorna Tee                               
+Diego Batlle             
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -8718,6 +8804,7 @@ CalciferFR          10
 Tim Grierson            https://www.screendaily.com/reviews/jerry-lee-lewis-trouble-in-mind-cannes-review/5170365.article
 Steve Pond              https://www.thewrap.com/jerry-lee-lewis-trouble-in-mind-review-ethan-coen-cannes/
 Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/22/jerry-lee-lewis-trouble-in-mind-review-ethan-coens-amazing-tribute-to-the-killer
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -8762,6 +8849,7 @@ Ivs                 5
 
 "The Vagabonds" (Doroteya Droumeva 🇩🇪) [Out Of Competition] Special Screening
 
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -8828,10 +8916,7 @@ Sundance 192_Ratings    7.7  https://cannes-ratings.herokuapp.com/Sundance?t=16#
 #Alistair Ryder     8.3 https://thefilmstage.com/sundance-review-all-that-breathes-takes-a-powerful-cinematic-approach-to-capture-climate-change/
 #David Ehrlich      8.3 https://www.indiewire.com/2022/01/all-that-breathes-documentary-review-1234694866/
 #Allan Hunter       8   https://www.screendaily.com/reviews/all-that-breathes-sundance-review/5167042.article
-Dan Fienberg       10  https://www.hollywoodreporter.com/movies/movie-reviews/all-that-breathes-review-1235083507/
-Alistair Ryder     8.3 https://thefilmstage.com/sundance-review-all-that-breathes-takes-a-powerful-cinematic-approach-to-capture-climate-change/
-David Ehrlich      8.3 https://www.indiewire.com/2022/01/all-that-breathes-documentary-review-1234694866/
-Allan Hunter       8   https://www.screendaily.com/reviews/all-that-breathes-sundance-review/5167042.article
+#critic.de
 #letterboxd
 Letterboxd 220_Ratings	7.6  https://letterboxd.com/film/all-that-breathes/
 chelscolli          9
@@ -8841,13 +8926,14 @@ Ex_Machina          5
 "My Imaginary Country" (Patricio Guzmán 🇨🇱) [Out Of Competition] Special Screening
  Doc
 
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
 Justin Chang             
-Tommaso Tocci            
+Tommaso Tocci            6
 Marcus Uzal              
-Jessica Kiang            
+Jessica Kiang            7
 Marc van de Klashorst    
 Guy Lodge                
 Meredith Taylor          
@@ -8858,8 +8944,8 @@ Anais Bordages
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
-Lorna Tee                               
-Diego Batlle             
+Lorna Tee                
+Diego Batlle             7
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -8901,6 +8987,7 @@ Iván Simonovis -Pertiñez 2   https://letterboxd.com/animaldelmonte/film/my-ima
 "Riposte Féministe" (Simon Depardon/Marie Perennès 🇫🇷) [Out Of Competition] Special Screening
  Doc
 
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -8945,6 +9032,7 @@ Elisa GT            4
 "Remains of the Wind (Traces)" (Tiago Guedes 🇵🇹) [Out Of Competition] Special Screening
 
 Tim Grierson            https://www.screendaily.com/reviews/remains-of-the-wind-cannes-review/5170982.article
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -8954,7 +9042,7 @@ Marcus Uzal              3
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          6
 Federica Polidoro        
 Blake Williams           
 Nanako Tsukidate         
@@ -8985,6 +9073,7 @@ Cleblond            6   https://letterboxd.com/cleblond/film/remains-of-the-wind
 "Little Nicholas - Happy as Can Be" (Benjamin Massoubre  🇫🇷) [Out Of Competition] Special Screening
  Anim
 
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -9001,8 +9090,8 @@ Nanako Tsukidate
 Anais Bordages           
 Nicholas Bell            
 Dubravka Lakic           
-Daniela Michel           
-Lorna Tee                               
+Daniela Michel           5
+Lorna Tee                
 Diego Batlle             
 # cahier
 Fernando Ganzo           
@@ -9021,6 +9110,26 @@ Raspou              8
  1st
 
 Jonathan Holland        https://www.screendaily.com/reviews/marcel-cannes-review/5170656.article
+#critic.de
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        5
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Daniela Michel           
+Lorna Tee                               
+Diego Batlle             
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -9052,9 +9161,39 @@ Gabriele Niola      2   https://letterboxd.com/gniola/film/marcel-2022/
 "Salam" (Diam’s/Houda Benyamina/Anne Cissé) [Out Of Competition] Special Screening
  Doc
 
+#critic.de
+# ics
+Cédric Succivalli        
+Emily Barnett            
+Justin Chang             
+Tommaso Tocci            
+Marcus Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Daniela Michel           
+Lorna Tee                               
+Diego Batlle             
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+
 "For the Sake of Peace" (Christophe Castagne/Thomas Sametin 🇺🇸/🇫🇷) [Out Of Competition] Special Screening
  1st
 
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
