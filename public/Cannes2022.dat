@@ -5404,9 +5404,9 @@ Daniela Michel           10
 Lorna Tee                
 Diego Batlle             
 # cahier
-Fernando Ganzo           
-Marcus Uzal              
-Charlotte Garson         
+Fernando Ganzo           1
+Marcus Uzal              1
+Charlotte Garson         2.5
 Olivia Cooper-Hadjian    
 Yal Sadat                
 Thierry Méranger         
@@ -5644,9 +5644,9 @@ Lorna Tee
 Diego Batlle             
 # cahier
 Fernando Ganzo           
-Marcus Uzal              
+Marcus Uzal              2.5
 Charlotte Garson         
-Olivia Cooper-Hadjian    
+Olivia Cooper-Hadjian    7.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
@@ -13589,6 +13589,7 @@ MichalisCh          2   https://letterboxd.com/michalisch/film/under-the-fig-tre
 
 "Continental Drift (South)" (Lionel Baier 🇫🇷) [Quinzaine]
 
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -13616,7 +13617,6 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-#critic.de
 #letterboxd
 WombatTarantino     9
 Chris D.            7   https://letterboxd.com/valuska_lvt/film/continental-drift-south/
@@ -13648,6 +13648,7 @@ Dave Jenkins        4
  1st
 
 Allan Hunter            https://www.screendaily.com/reviews/falcon-lake-cannes-review/5170175.article
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -13675,7 +13676,14 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-#critic.de
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivia Cooper-Hadjian    5
+Yal Sadat                7.5
+Thierry Méranger         
+Louis Séguin             
 #letterboxd
 hugojxl             10
 maxou               10
@@ -14113,8 +14121,8 @@ Philipp Schwarz       4
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
-Charlotte Garson         
-Olivia Cooper-Hadjian    
+Charlotte Garson         1
+Olivia Cooper-Hadjian    7.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
