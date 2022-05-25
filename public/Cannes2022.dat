@@ -25,7 +25,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2022/
-#   http://www.filmneweurope.com/search?q=FIPRESCI+Cannes+2022&Search=
+#   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2022.pdf
 # Reviews:
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -166,6 +166,21 @@ Xiaoyi                   7.5
 Meng                     7.5
 Froufrou                 7.5
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        6
+Barbara Lorey         6
+Chih-Yuan Liang       8
+David Sanchez         6
+Eva Peydro            6
+Kerem Akca            6
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   6
+Ugo Brusaporco        8
+Zsolt Gyenge          8
 #letterboxd
 Female version of Henry Chinaski 10
 betija              10
@@ -665,8 +680,22 @@ Lee Marshall
 Pragya Mishra         6
 J. Sperling Reich     6
 #Stephanie Zacharek   4
-# calmos-emoji
 # FNE Critics
+Alberto Ramos         
+Aleksander Huser      10
+Andrea Martini        4
+Barbara Lorey         
+Chih-Yuan Liang       4
+David Sanchez         4
+Eva Peydro            6
+Kerem Akca            4
+Mariona Borrull       4
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   8
+Ugo Brusaporco        6
+Zsolt Gyenge          8
+# calmos-emoji
 # Club Média Ciné
 # Mehdi Omais poll
 #letterboxd
@@ -1102,7 +1131,6 @@ Thierry Méranger
 Louis Séguin             7.5
 # Les Inrockuptibles
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -1113,6 +1141,21 @@ Lee Marshall          6
 Pragya Mishra         6
 J. Sperling Reich     6
 #Stephanie Zacharek   8
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      6
+Andrea Martini        8
+Barbara Lorey         
+Chih-Yuan Liang       6
+David Sanchez         6
+Eva Peydro            8
+Kerem Akca            
+Mariona Borrull       10
+Ninos Mikelides       8
+Raúl Reis             10
+Thomas Abeltshauser   6
+Ugo Brusaporco        10
+Zsolt Gyenge          6
 #critic.de
 Andrey Arnold         9
 Frédéric Jaeger     7.5
@@ -1628,7 +1671,6 @@ Norine Raja              8
 Amandine Rebourg         
 Phillipe Rouyer          8
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -1639,6 +1681,21 @@ Lee Marshall          6
 Pragya Mishra         4
 J. Sperling Reich     8
 #Stephanie Zacharek   6
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      10
+Andrea Martini        4
+Barbara Lorey         6
+Chih-Yuan Liang       8
+David Sanchez         10
+Eva Peydro            8
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       8
+Raúl Reis             8
+Thomas Abeltshauser   8
+Ugo Brusaporco        8
+Zsolt Gyenge          10
 #letterboxd
 ladoublevie         10
 elegia_34           10
@@ -2105,7 +2162,6 @@ Norine Raja
 Amandine Rebourg         
 Phillipe Rouyer          6
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -2116,6 +2172,21 @@ Lee Marshall           4
 Pragya Mishra          8
 J. Sperling Reich      4
 #Stephanie Zacharek    4
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        6
+Barbara Lorey         
+Chih-Yuan Liang       6
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          8
 #letterboxd
 zoeibrahimovic      10
 elegia_34           10
@@ -2442,7 +2513,6 @@ Norine Raja              6
 Amandine Rebourg         1
 Phillipe Rouyer          8
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -2453,6 +2523,21 @@ Lee Marshall
 Pragya Mishra          2
 J. Sperling Reich      2
 #Stephanie Zacharek    2
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      4
+Andrea Martini        8
+Barbara Lorey         
+Chih-Yuan Liang       4
+David Sanchez         
+Eva Peydro            4
+Kerem Akca            4
+Mariona Borrull       6
+Ninos Mikelides       6
+Raúl Reis             4
+Thomas Abeltshauser   2
+Ugo Brusaporco        6
+Zsolt Gyenge          
 #letterboxd
 sorrimreal          10
 Noam92              10
@@ -3031,7 +3116,6 @@ Norine Raja              4
 Amandine Rebourg         
 Phillipe Rouyer          6
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -3042,6 +3126,21 @@ Lee Marshall           6
 Pragya Mishra          8
 J. Sperling Reich      8
 #Stephanie Zacharek    4
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      10
+Andrea Martini        4
+Barbara Lorey         4
+Chih-Yuan Liang       6
+David Sanchez         10
+Eva Peydro            6
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       10
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        6
+Zsolt Gyenge          
 #letterboxd
 Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
 Héctor Cárdenas     10   https://letterboxd.com/mclovin42/film/triangle-of-sadness/
@@ -3574,7 +3673,6 @@ Norine Raja
 Amandine Rebourg         
 Phillipe Rouyer          8
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -3585,6 +3683,21 @@ Lee Marshall           6
 Pragya Mishra          6
 J. Sperling Reich      6
 #Stephanie Zacharek    4
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        6
+Barbara Lorey         8
+Chih-Yuan Liang       6
+David Sanchez         
+Eva Peydro            8
+Kerem Akca            6
+Mariona Borrull       
+Ninos Mikelides       10
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        8
+Zsolt Gyenge          
 #letterboxd
 Sezer AKIN          10
 _Colin              10
@@ -3878,7 +3991,6 @@ Norine Raja
 Amandine Rebourg         
 Phillipe Rouyer          8
 # calmos-emoji
-# FNE Critics
 # Club Média Ciné
 # Mehdi Omais poll
 #dkstjernebarometer
@@ -3889,6 +4001,21 @@ Lee Marshall           6
 Pragya Mishra          6
 J. Sperling Reich      4
 Stephanie Zacharek     2
+# FNE Critics
+Alberto Ramos         8
+Aleksander Huser      4
+Andrea Martini        4
+Barbara Lorey         4
+Chih-Yuan Liang       
+David Sanchez         4
+Eva Peydro            4
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Zoé Peyrieux        10
 zoeibrahimovic      10
@@ -4282,6 +4409,21 @@ Lee Marshall           2
 Pragya Mishra          6
 J. Sperling Reich      2
 Stephanie Zacharek     6
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        8
+Barbara Lorey         
+Chih-Yuan Liang       2
+David Sanchez         6
+Eva Peydro            6
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       4
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 michifuz            10
 ryanwerner          10
@@ -4606,6 +4748,21 @@ Lee Marshall           6
 Pragya Mishra          8
 J. Sperling Reich      4
 Stephanie Zacharek     6
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      6
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       6
+David Sanchez         6
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 michifuz            10
 lilyana             10
@@ -5054,6 +5211,21 @@ Xiaoyi                   5
 Meng                     5
 Froufrou                 2.5
 Guojie                   2.5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       6
+David Sanchez         2
+Eva Peydro            4
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Letterboxd 17_Ratings	6.2  https://letterboxd.com/film/crimes-of-the-future-2022/
 Glenn Kenny         10
@@ -5443,6 +5615,21 @@ Xiaoyi                   5
 Meng                     7.5
 Froufrou                 7.5
 Guojie                   5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 JonStarg            10   https://letterboxd.com/jonstarg/film/tori-and-lokita/
 Chris Swney         10
@@ -5682,6 +5869,21 @@ Xiaoyi                   5
 Meng                     2.5
 Froufrou                 1
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         4
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Davide Abbatescianni 10
 Ryan Coleman        10   https://letterboxd.com/anythingfordern/film/nostalgia-2022-1/
@@ -5870,6 +6072,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Kilgore Trout       6
 
@@ -5984,6 +6201,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 ebedolis            8
 thieryphlips        8
@@ -6103,6 +6335,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             8
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Jean des Forets     9
 samcmac             8
@@ -6217,6 +6464,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Letterboxd 6_Ratings	5.5  https://letterboxd.com/film/broker-2022/
 film_chat           10
@@ -6333,6 +6595,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Jason Osia          10
 northtucheng        9
@@ -6453,6 +6730,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 The_Heischi         10
 NellyBPage          10
@@ -6580,6 +6872,21 @@ Xiaoyi
 Meng                     
 Froufrou                 
 Guojie                   
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 sinkintotheater     7
 Luke Murray         7
@@ -6660,6 +6967,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            4
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 jaspergraeve        9
 jaddhrn             9
@@ -6891,6 +7213,21 @@ Dubravka Lakic
 Daniela Michel           5
 Lorna Tee                7
 Diego Batlle             5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       2
+David Sanchez         
+Eva Peydro            
+Kerem Akca            6
+Mariona Borrull       4
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   8
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 lorenplaquette      10
 laetitialacr        10
@@ -7099,6 +7436,21 @@ Olivia Cooper-Hadjian    2.5
 Yal Sadat                
 Thierry Méranger         2.5
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      6
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            6
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        6
+Zsolt Gyenge          
 #letterboxd
 sophiekobra         10
 Drew Gebhardt       10   https://letterboxd.com/drew3401/film/harka-2022/
@@ -7260,6 +7612,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         8
+Chih-Yuan Liang       6
+David Sanchez         
+Eva Peydro            
+Kerem Akca            6
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   10
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 AIanScott           10   https://letterboxd.com/aianscott/film/corsage/
 Christian           10
@@ -7472,6 +7839,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Sayanora            10
 Blanchettee         10
@@ -7644,6 +8026,21 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                7.5
 Thierry Méranger         5
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   6
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 jmslowery           10
 yendyss             10
@@ -7793,6 +8190,21 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       6
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   6
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Dianareveuse        10
 Bénédicte           10   https://letterboxd.com/hibigoudi/film/more-than-ever/
@@ -7914,6 +8326,21 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         6
+Eva Peydro            6
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Jessica Jackson     10   https://letterboxd.com/jessicagjack/film/war-pony/
 tbeldi              10
@@ -8060,6 +8487,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 SofiSoto            10   https://letterboxd.com/sofisoto/film/all-the-people-ill-never-be/
 adrianaratniece     10
@@ -8197,6 +8639,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Valentin            10
 itserin             10   https://letterboxd.com/itserin/film/sick-of-myself/
@@ -8348,6 +8805,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       8
+David Sanchez         8
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Melisa Eryuksel     10   https://letterboxd.com/melisaery/film/burning-days/
 bengezer            10
@@ -8391,6 +8863,7 @@ Mia                 4
 "Joyland" (Saim Sadiq, Pakistan 🇵🇰) [Un Certain Regard]
  1st film
 
+Allan Hunter            https://www.screendaily.com/reviews/joyland-cannes-review/5170239.article
 #critic.de
 # Le film français
 Gaël Golhen               
@@ -8435,7 +8908,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-Allan Hunter            https://www.screendaily.com/reviews/joyland-cannes-review/5170239.article
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      6
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Zoé Peyrieux        10
 Devraj Singhania    10
@@ -8505,6 +8992,7 @@ Alexander Kardelo   3
 "Metronom" (Alexandru Belc 🇷🇴) [Un Certain Regard]
  1st
 
+Nikki Baughan           https://www.screendaily.com/reviews/metronom-cannes-review/5170753.article
 #critic.de
 Philipp Schwarz       5
 # Le film français
@@ -8550,7 +9038,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-Nikki Baughan           https://www.screendaily.com/reviews/metronom-cannes-review/5170753.article
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            6
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Alin Ciuchi RSC     9
 Sean Boelman        9
@@ -8657,6 +9159,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/godland/
 t_viktor212         10
@@ -8710,6 +9227,7 @@ saz1                4
 
 "The Silent Twins" (Agnieszka Smocynska 🇵🇱) [Un Certain Regard]
 
+Tim Grierson            https://www.screendaily.com/reviews/the-silent-twins-cannes-review/5171136.article
 #critic.de
 Jenny Jecke           5
 Till Kadritzke        6
@@ -8756,7 +9274,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-Tim Grierson            https://www.screendaily.com/reviews/the-silent-twins-cannes-review/5171136.article
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         6
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Fabrício            10
 Savina Petkova      10   https://letterboxd.com/savixpotter/film/the-silent-twins-2022/
@@ -8853,6 +9385,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            6
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Aaron Sanchez       10
 igviejo             8
@@ -8909,6 +9456,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 kitbb               8
 Kilgore Trout       7
@@ -8962,6 +9524,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 t_viktor212         8
 Elisa GT            8
@@ -9017,6 +9594,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Mattias             8   https://letterboxd.com/mattiasf/film/the-blue-caftan/
 Arnotte             6
@@ -12366,6 +12958,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      4
+Andrea Martini        4
+Barbara Lorey         
+Chih-Yuan Liang       4
+David Sanchez         10
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       10
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   8
+Ugo Brusaporco        
+Zsolt Gyenge          2
 #letterboxd
 julssee             10
 Dawood Ali          10   https://letterboxd.com/dman890/film/scarlet/
@@ -12570,6 +13177,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       4
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          6
 #letterboxd
 janiee              9
 harperray           9   https://letterboxd.com/harperray/film/gods-creatures/
@@ -12797,7 +13419,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                5
 Thierry Méranger         
 Louis Séguin             
-Jonathan Romney         https://www.screendaily.com/reviews/harkis-cannes-review/5170904.article
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Duquapier           9
 Nassenei            8
@@ -12890,6 +13526,21 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                2.5
 Thierry Méranger         2.5
 Louis Séguin             7.5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   6
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 kata___kovacs       10
 Neil Fox            10
@@ -13104,6 +13755,21 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         2.5
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         4
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          8
 #letterboxd
 Blanchettee         10
 jannate             10
@@ -13225,6 +13891,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   8
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Christer Emanuelsson 10
 Neil Fox            10
@@ -13358,6 +14039,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   8
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Valentin            10
 solal_alnd          9
@@ -13429,6 +14125,7 @@ Dominique Leger     4
  1st
 
 Fionnuala Halligan      https://www.screendaily.com/reviews/pamfir-cannes-review/5170967.article
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -13456,7 +14153,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-#critic.de
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         4
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Adolf El Assal      10
 poppyaoh            9   https://letterboxd.com/poppyaoh/film/pamfir/
@@ -13541,7 +14252,21 @@ Thierry Méranger
 Louis Séguin             
 #critic.de
 Philipp Schwarz       6
-
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 karen               9
 leno                9
@@ -13618,6 +14343,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       4
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 WombatTarantino     9
 Chris D.            7   https://letterboxd.com/valuska_lvt/film/continental-drift-south/
@@ -13685,6 +14425,21 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                7.5
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 hugojxl             10
 maxou               10
@@ -13835,6 +14590,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       8
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Henrique            10
 Lilamourrr          10
@@ -13997,6 +14767,21 @@ Olivia Cooper-Hadjian    9
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       10
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Douglas Greenwood   10   https://letterboxd.com/douglasgrnwd/film/the-fabric-of-the-human-body/
 Dave Jenkins        10
@@ -14065,6 +14850,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 mariecmtt           10   https://letterboxd.com/mariecmtt/film/the-super-8-years/
 Neil Fox            10
@@ -14129,6 +14929,21 @@ Thierry Méranger
 Louis Séguin             
 Peter Bradshaw    10    https://www.theguardian.com/film/2022/may/24/funny-pages-review-cannes-2022
 Tim Grierson            https://www.screendaily.com/reviews/funny-pages-cannes-review/5170390.article
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 George              10   https://letterboxd.com/pumpytoddy/film/funny-pages-2022/
 barnstone           10   https://letterboxd.com/barnstone/film/funny-pages-2022/
@@ -14167,6 +14982,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Crapal              8
 Jolan               7
@@ -14239,6 +15069,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             8
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 LeslieGlass         8
 Crapal              7
@@ -14266,6 +15111,7 @@ kerem_akca          3
 
 "Will-o’-the-Wisp (Fogo-Fátuo)" (João Pedro Rodrigues 🇵🇹) [Quinzaine]
 
+Allan Hunter            https://www.screendaily.com/reviews/will-o-the-wisp-cannes-review/5171009.article
 #critic.de
 Frédéric Jaeger     5
 Daniela Persico       6
@@ -14296,7 +15142,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-Allan Hunter            https://www.screendaily.com/reviews/will-o-the-wisp-cannes-review/5171009.article
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Pate Duncan         10   https://letterboxd.com/pateduncan/film/will-o-the-wisp-2022/
 Nico                10
@@ -14373,6 +15233,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Giuseppe            8
 Simon Foster        8
@@ -14421,6 +15296,21 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 #critic.de
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 thieryphlips        8
 Clémence            7
@@ -14459,6 +15349,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Dan_Talbot          8
 Lou Thomas          6
@@ -14480,6 +15385,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 thierryjousse       7
 
@@ -14535,6 +15455,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        6
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            6
+Mariona Borrull       10
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Sayanora            10
 spagatli            10
@@ -14757,6 +15692,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 maxmester           10
 alexandriasl8r      10
@@ -14850,6 +15800,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         10
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 perry               9   https://letterboxd.com/perrytos/film/la-jauria-2022/
 Eli                 9   https://letterboxd.com/eli_canter/film/la-jauria-2022/
@@ -14914,6 +15879,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             2.5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          4
 #letterboxd
 Christer Emanuelsson 10
 monkeybox83         10
@@ -15019,6 +15999,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 monkeybox83         10
 Léa                 9
@@ -15084,6 +16079,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 
 "When You Finish Saving The World" (Jesse Eisenberg 🇺🇸) [Semaine] Special Screening. <i>Sundance</i>
@@ -15109,26 +16119,9 @@ Louis Séguin
 #Benjamin Lee       4   https://www.theguardian.com/film/2022/jan/21/when-you-finish-saving-the-world-review-jesse-eisenbergs-patchy-directorial-debut
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/18/when-you-finish-saving-the-world-review-jesse-eisenbergs-sweet-coming-of-age-comedy-drama
 John Bleasdale     6   https://cine-vue.com/2022/05/cannes-2022-when-you-finish-saving-the-world-review.html
-Ross Bonaime       8.3 https://collider.com/when-you-finish-saving-the-world-review-jesse-eisenberg/
-David Ehrlich      8.3 https://www.indiewire.com/2022/01/when-you-finish-saving-the-world-movie-review-jesse-eisenberg-1234692020/
-Siddhant Adlakha   8   https://www.ign.com/articles/when-you-finish-saving-the-world-review-jesse-eisenberg
-Sabina Dana Plasse 8   https://filmthreat.com/reviews/when-you-finish-saving-the-world/
-Wendy Ide          8   https://www.screendaily.com/reviews/when-you-finish-saving-the-world-sundance-review/5166759.article
-John DeFore        8   https://www.hollywoodreporter.com/movies/movie-reviews/julianne-moore-in-jesse-eisenbergs-when-you-finish-saving-the-world-sundance-1235078080/
-Steve Pond         7.8 https://www.thewrap.com/when-you-finish-saving-the-world-review-jesse-eisenberg/
-Marya E. Gates     7.5 https://theplaylist.net/when-you-finish-saving-the-world-review-jesse-eisenbergs-sundance-20220121/
 Leah Greenblatt    7.5 https://ew.com/movies/movie-reviews/when-you-finish-saving-the-world-movie-review/
-Martin Carr        7   https://wegotthiscovered.com/movies/sundance-review-when-you-finish-saving-the-world-reveals-jesse-eisenberg-to-be-a-writer-director-with-promise/
 Mary Siroky        6.7 https://consequence.net/2022/01/when-you-finish-saving-the-world-review/
-Chris Barsanti     6.3 https://www.slantmagazine.com/film/when-you-finish-saving-the-world-review-jesse-eisenberg/
-Jacob Oller        6.3 https://www.pastemagazine.com/movies/when-you-finish-saving-the-world-review/
-John Bleasdale     6   https://cine-vue.com/2022/05/cannes-2022-when-you-finish-saving-the-world-review.html
 Peter Bradshaw     6   https://www.theguardian.com/film/2022/may/18/when-you-finish-saving-the-world-review-jesse-eisenbergs-sweet-coming-of-age-comedy-drama
-Amy Nicholson      6   https://variety.com/2022/film/reviews/when-you-finish-saving-the-world-review-jesse-eisenberg-1235157093/
-Vince Mancini      5   https://uproxx.com/movies/when-you-finish-saving-the-world-sundance-review/
-Chris Evangelista  5   https://www.slashfilm.com/741651/when-you-finish-saving-the-world-review-jesse-eisenbergs-directorial-debut-is-an-intentional-cringefest-sundance-2022/
-Jordan Raup        5   https://thefilmstage.com/sundance-review-jesse-eisenbergs-when-you-finish-saving-the-world-is-a-slight-directorial-debut/
-Benjamin Lee       4   https://www.theguardian.com/film/2022/jan/21/when-you-finish-saving-the-world-review-jesse-eisenbergs-patchy-directorial-debut
 #critic.de
 Frédéric Jaeger     6
 Jenny Jecke           4
@@ -15159,6 +16152,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      8
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         4
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   6
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Letterboxd 493_Ratings	7.8  https://letterboxd.com/film/when-you-finish-saving-the-world/
 PoloMarco           10   https://letterboxd.com/polomarco/film/when-you-finish-saving-the-world/
@@ -15285,6 +16293,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         4
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          4
 #letterboxd
 michifuz            10
 dunj                10
@@ -15416,6 +16439,21 @@ Dubravka Lakic
 Daniela Michel           
 Lorna Tee                
 Diego Batlle             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            4
+Mariona Borrull       6
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 Prasagrume          9
 Elisa GT            8
@@ -15478,6 +16516,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         7.5
 Louis Séguin             7.5
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       2
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 hugojxl             10
 yasmine_bndj        10
@@ -15551,6 +16604,21 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# FNE Critics
+Alberto Ramos         
+Aleksander Huser      
+Andrea Martini        
+Barbara Lorey         
+Chih-Yuan Liang       
+David Sanchez         
+Eva Peydro            
+Kerem Akca            
+Mariona Borrull       
+Ninos Mikelides       
+Raúl Reis             
+Thomas Abeltshauser   
+Ugo Brusaporco        
+Zsolt Gyenge          
 #letterboxd
 northtucheng        7
 
@@ -17457,21 +18525,23 @@ Stephanie Zacharek (Time, USA)
 #Lucile Bellan (Artistik Rezo, France)
 #Thomas Gastaldi (Wask / FilmDeCulte, France)
 #";
-#$critics_group[$i] = "FNE Critics";
-#$critics[$i++] = "
-#Andrea Martini (La Nazione/Il Giorno, Italy)
-#Eva Peydro (El Hype, España)
-#Evgenia Tirdatova (Mosco Film Festival, Russia)
-#Isabelle Danel (Freelance, France)
-#Kirill Razlogov (Culture and Art, Russia)
-#Marie-Pauline Mollaret (Ecran Noir,Fipresci, France)
-#Mariona Borrull (Freelance, España)
-#Miguel Munoz (Actor, España)
-#Ninos Mikelides (ELEFTHEROTYPIA, Greece)
-#Paulo Portugal (Correio da Manhã, Portugal)
-#Raúl Reis (Fipresci, Lux)               
-#Ignacio Navarro ()
-#";
+$critics_group[$i] = "FNE Critics";
+$critics[$i++] = "
+Alberto Ramos (Fipresci)
+Aleksander Huser (Fipresci)
+Andrea Martini (La Nazione/Il Giorno, Italy)
+Barbara Lorey (Fipresci)
+Chih-Yuan Liang (Fipresci)
+David Sanchez (Fipresci)
+Eva Peydro (El Hype, España)
+Kerem Akca (Fipresci)
+Mariona Borrull (Freelance, España)
+Ninos Mikelides (ELEFTHEROTYPIA, Greece)
+Raúl Reis (Fipresci, Lux)
+Thomas Abeltshauser (Fipresci)
+Ugo Brusaporco (Fipresci)
+Zsolt Gyenge (Fipresci)
+";
 $critics_group[$i] = "chaosreign.fr";
 $critics[$i++] = "
 Laurent De Alberti (Filmland Empire)
