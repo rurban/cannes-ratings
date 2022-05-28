@@ -99,17 +99,17 @@ Marta Balaga             5
 Nicholas Bell            7    https://www.ioncinema.com/reviews/kirill-serebrennikov-tchaikovskys-wife-review
 Julia Blaga              
 Marc Cassavi             5
-Nat Chifflet             10
+Nat Chifflet             1
 Monica Delgado           4
-Rodrigo Fonseca          
+Rodrigo Fonseca          5
 Jean-Philippe Guerand    8
 Carlos F. Heredero       6
-Dubravka Lakic           6
+Dubravka Lakic           8
 Eric Lavallée            7
 Fabien Lemercier         8
-Liu Min                  
+Liu Min                  5
 Poly Lykourgou           
-Elli Mastorou            7
+Elli Mastorou            6
 Jordan Ruimy             6
 Kuriko Sato              4
 Rui Tendinha             2
@@ -2384,14 +2384,14 @@ Barbara Théate           5
 Stéphane Boudsocq        7.5
 Catherine Balle          7.5
 # ioncinema
-Marta Balaga             
+Marta Balaga             7
 Nicholas Bell            5    https://www.ioncinema.com/reviews/tarik-saleh-boy-from-heaven-review
 Julia Blaga              
 Marc Cassavi             6
 Nat Chifflet             4
 Monica Delgado           4
 Rodrigo Fonseca          5
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    6
 Carlos F. Heredero       4
 Dubravka Lakic           10
 Eric Lavallée            6
@@ -3491,17 +3491,17 @@ Marc Cassavi             7
 Nat Chifflet             10
 Monica Delgado           8
 Rodrigo Fonseca          6
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    8
 Carlos F. Heredero       0.5
 Dubravka Lakic           6
 Eric Lavallée            7
 Fabien Lemercier         7
-Liu Min                  
+Liu Min                  6
 Poly Lykourgou           5
 Elli Mastorou            8
-Jordan Ruimy             
+Jordan Ruimy             7
 Kuriko Sato              8
-Rui Tendinha             
+Rui Tendinha             6
 Tommaso Tocci            2
 Maria Ulfsak-Sheripova   8
 # ics
@@ -4569,19 +4569,19 @@ Marta Balaga             9
 Nicholas Bell            6
 Julia Blaga              4
 Marc Cassavi             6
-Nat Chifflet             
+Nat Chifflet             6
 Monica Delgado           4
-Rodrigo Fonseca          8
+Rodrigo Fonseca          
 Jean-Philippe Guerand    
 Carlos F. Heredero       5
 Dubravka Lakic           6
 Eric Lavallée            6
 Fabien Lemercier         5
 Liu Min                  5
-Poly Lykourgou           
+Poly Lykourgou           6
 Elli Mastorou            7
-Jordan Ruimy             
-Kuriko Sato              
+Jordan Ruimy             6
+Kuriko Sato              6
 Rui Tendinha             8
 Tommaso Tocci            7
 Maria Ulfsak-Sheripova   6
@@ -5537,14 +5537,14 @@ Carlos F. Heredero       6
 Dubravka Lakic           6
 Eric Lavallée            5
 Fabien Lemercier         6
-Liu Min                  
-Poly Lykourgou           
+Liu Min                  5
+Poly Lykourgou           8
 Elli Mastorou            7
-Jordan Ruimy             
+Jordan Ruimy             4
 Kuriko Sato              4
-Rui Tendinha             
+Rui Tendinha             4
 Tommaso Tocci            5
-Maria Ulfsak-Sheripova   6
+Maria Ulfsak-Sheripova   5
 # ics
 Cédric Succivalli        2
 Emily Barnett            4
@@ -6126,12 +6126,12 @@ Nat Chifflet             10
 Monica Delgado           10
 Rodrigo Fonseca          10
 Jean-Philippe Guerand    8
-Carlos F. Heredero       
+Carlos F. Heredero       4
 Dubravka Lakic           6
-Eric Lavallée            
+Eric Lavallée            5
 Fabien Lemercier         6
-Liu Min                  
-Poly Lykourgou           
+Liu Min                  7
+Poly Lykourgou           4
 Elli Mastorou            8
 Jordan Ruimy             8
 Kuriko Sato              8
@@ -6848,10 +6848,10 @@ Liu Min                  5
 Poly Lykourgou           5
 Elli Mastorou            7
 Jordan Ruimy             6
-Kuriko Sato              
-Rui Tendinha             
+Kuriko Sato              6
+Rui Tendinha             6
 Tommaso Tocci            
-Maria Ulfsak-Sheripova   
+Maria Ulfsak-Sheripova   5
 # ics
 Cédric Succivalli        4
 Emily Barnett            8
@@ -7263,11 +7263,11 @@ Dubravka Lakic           8
 Eric Lavallée            
 Fabien Lemercier         4
 Liu Min                  7
-Poly Lykourgou           
+Poly Lykourgou           5
 Elli Mastorou            6
 Jordan Ruimy             2
 Kuriko Sato              3
-Rui Tendinha             
+Rui Tendinha             6
 Tommaso Tocci            8
 Maria Ulfsak-Sheripova   5
 # ics
@@ -7729,15 +7729,15 @@ Marta Balaga             7
 Nicholas Bell            4
 Julia Blaga              6
 Marc Cassavi             5
-Nat Chifflet             2
+Nat Chifflet             10
 Monica Delgado           
 Rodrigo Fonseca          5
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    6
 Carlos F. Heredero       7
 Dubravka Lakic           7
 Eric Lavallée            4
 Fabien Lemercier         9
-Liu Min                  
+Liu Min                  4
 Poly Lykourgou           
 Elli Mastorou            
 Jordan Ruimy             2
@@ -9774,6 +9774,7 @@ UN CERTAIN REGARD
 
 "Father & Soldier (Tirailleurs)" (Mathieu Vadepied)  [Un Certain Regard] Opener
 
+Fabien Lemercier              https://www.cineuropa.org/en/newsdetail/425636/
 #critic.de
 # Le film français
 Gaël Golhen               
@@ -9799,27 +9800,6 @@ Olivia Cooper-Hadjian    2.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-# ioncinema
-Marta Balaga             
-Nicholas Bell            
-Julia Blaga              
-Marc Cassavi             
-Nat Chifflet             
-Monica Delgado           
-Rodrigo Fonseca          
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
-Fabien Lemercier              https://www.cineuropa.org/en/newsdetail/425636/
-Liu Min                  
-Poly Lykourgou           
-Elli Mastorou            
-Jordan Ruimy             
-Kuriko Sato              
-Rui Tendinha             
-Tommaso Tocci            
-Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -10031,6 +10011,7 @@ Oli Gould           3   https://letterboxd.com/olig99/film/father-soldier/
 
 Damon Wise       https://deadline.com/2022/05/cannes-review-rodeo-lola-quivoron-un-certain-regard-1235027948/
 Fabien Lemercier https://www.cineuropa.org/en/newsdetail/425448/
+Eric Lavallée    https://www.ioncinema.com/reviews/lola-quivoron-rodeo-review
 #critic.de
 Dunja Bialas          9
 Frédéric Jaeger     9
@@ -10060,27 +10041,6 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-# ioncinema
-Marta Balaga             
-Nicholas Bell            
-Julia Blaga              
-Marc Cassavi             
-Nat Chifflet             
-Monica Delgado           
-Rodrigo Fonseca          
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée                 https://www.ioncinema.com/reviews/lola-quivoron-rodeo-review
-Fabien Lemercier         
-Liu Min                  
-Poly Lykourgou           
-Elli Mastorou            
-Jordan Ruimy             
-Kuriko Sato              
-Rui Tendinha             
-Tommaso Tocci            
-Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        4
 Emily Barnett            
@@ -13162,6 +13122,8 @@ OUT OF COMPETITION
 Tim Grierson            https://www.screendaily.com/reviews/final-cut-cannes-review/5170568.article
 David Ehrlich       C-   https://www.indiewire.com/2022/05/final-cut-review-michael-hazanavicius-1234725213/
 Peter Bradshaw    6    https://www.theguardian.com/film/2022/may/17/coupez-review-michel-hazanaviciuss-silly-splattery-zombie-horror-meta-farce
+Nicholas Bell                 https://www.ioncinema.com/reviews/michael-hazanavicius-final-cut-coupez-review
+Fabien Lemercier              https://www.cineuropa.org/en/newsdetail/425282/
 # Le film français
 Gaël Golhen              7.5
 Julien Rousset           7.5
@@ -13182,27 +13144,6 @@ Catherine Balle          7.5
 Andrey Arnold         4
 Jenny Jecke           2.5
 Rüdiger Suchsland    4
-# ioncinema
-Marta Balaga             
-Nicholas Bell                 https://www.ioncinema.com/reviews/michael-hazanavicius-final-cut-coupez-review
-Julia Blaga              
-Marc Cassavi             
-Nat Chifflet             
-Monica Delgado           
-Rodrigo Fonseca          
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
-Fabien Lemercier              https://www.cineuropa.org/en/newsdetail/425282/
-Liu Min                  
-Poly Lykourgou           
-Elli Mastorou            
-Jordan Ruimy             
-Kuriko Sato              
-Rui Tendinha             
-Tommaso Tocci            
-Maria Ulfsak-Sheripova   
 # ics
 Cédric Succivalli        
 Emily Barnett            
