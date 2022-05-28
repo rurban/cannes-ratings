@@ -14,6 +14,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 # dk,ru,FNE 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
 #   http://www.todaslascriticas.com.ar/cannes (not yet)
 #   http://www.ioncinema.com/ (scaled to 0-10)
@@ -26,6 +27,7 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2022/
 #   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2022.pdf
+#   https://outnow.ch/News/2022/05/27/OutNow-Jury-Grid-at-Cannes-2022-Tag-4
 # Reviews: 
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -181,6 +183,19 @@ Raúl Reis             8
 Thomas Abeltshauser   6
 Ugo Brusaporco        8
 Zsolt Gyenge          8
+# OutNow (1 3 5 7 8 10)
+Alex Billington       5
+Max Borg              5
+Denise Bucher         8
+Stéphane Gobba        7
+Jenny Jecke           
+Cole Jaeger           7
+Matthias Lerf         5
+Magdalena Miedl       
+Michael Sennhauser    7
+Zhou-Ning Su          7
+Teresa Vena           5
+Chris Schelb          5
 #letterboxd
 joujoue             10
 Female version of Henry Chinaski 10
@@ -727,6 +742,19 @@ Zsolt Gyenge          8
 # calmos-emoji
 # Club Média Ciné
 # Mehdi Omais poll
+# OutNow (1 3 5 7 8 10)
+Alex Billington       8
+Max Borg              8
+Denise Bucher         
+Stéphane Gobba        8
+Jenny Jecke           
+Cole Jaeger           7
+Matthias Lerf         8
+Magdalena Miedl       7
+Michael Sennhauser    8
+Zhou-Ning Su          3
+Teresa Vena           3
+Chris Schelb          8
 #letterboxd
 Adrien              10
 Giulia Tersigni     10   https://letterboxd.com/giuliatersigni/film/the-eight-mountains/
@@ -1210,7 +1238,19 @@ Jenny Jecke           6
 Giovanni Marchini Camina 7.5
 Daniela Persico       6
 Rüdiger Suchsland    9
-
+# OutNow
+Alex Billington       7
+Max Borg              7
+Denise Bucher         5
+Stéphane Gobba        7
+Jenny Jecke           8
+Cole Jaeger           7
+Matthias Lerf         7
+Magdalena Miedl       7
+Michael Sennhauser    8
+Zhou-Ning Su          5
+Teresa Vena           5
+Chris Schelb          7
 #letterboxd
 jesseroy            10
 Elizaveta           10
@@ -1809,6 +1849,19 @@ Raúl Reis             8
 Thomas Abeltshauser   8
 Ugo Brusaporco        8
 Zsolt Gyenge          10
+# OutNow (1 3 5 7 8 10)
+Alex Billington       7
+Max Borg              10
+Denise Bucher         
+Stéphane Gobba        8
+Jenny Jecke           5
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    5
+Zhou-Ning Su          1
+Teresa Vena           
+Chris Schelb          3
 #letterboxd
 Elizaveta           10
 Antoine Massip      10   https://letterboxd.com/amassip/film/eo/
@@ -2342,6 +2395,19 @@ Raúl Reis
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          8
+# OutNow (1 3 5 7 8 10)
+Alex Billington       8
+Max Borg              7
+Denise Bucher         5
+Stéphane Gobba        7
+Jenny Jecke           3
+Cole Jaeger           
+Matthias Lerf         5
+Magdalena Miedl       7
+Michael Sennhauser    7
+Zhou-Ning Su          3
+Teresa Vena           
+Chris Schelb          7
 #letterboxd
 zoeibrahimovic      10
 elegia_34           10
@@ -2711,6 +2777,19 @@ Raúl Reis             4
 Thomas Abeltshauser   2
 Ugo Brusaporco        6
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              1
+Denise Bucher         3
+Stéphane Gobba        7
+Jenny Jecke           1
+Cole Jaeger           3
+Matthias Lerf         7
+Magdalena Miedl       
+Michael Sennhauser    7
+Zhou-Ning Su          1
+Teresa Vena           
+Chris Schelb          3
 #letterboxd
 marie_ange          10
 Kalakala            10
@@ -3396,6 +3475,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        6
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       8
+Max Borg              10
+Denise Bucher         10
+Stéphane Gobba        3
+Jenny Jecke           7
+Cole Jaeger           
+Matthias Lerf         7
+Magdalena Miedl       5
+Michael Sennhauser    7
+Zhou-Ning Su          8
+Teresa Vena           10
+Chris Schelb          10
 #letterboxd
 Letterboxd 12_Ratings	7.4  https://letterboxd.com/film/triangle-of-sadness/
 Alex_Edwards        10
@@ -4038,6 +4130,19 @@ Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        8
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       1
+Max Borg              8
+Denise Bucher         
+Stéphane Gobba        10
+Jenny Jecke           7
+Cole Jaeger           
+Matthias Lerf         8
+Magdalena Miedl       
+Michael Sennhauser    8
+Zhou-Ning Su          7
+Teresa Vena           
+Chris Schelb          7
 #letterboxd
 Sezer AKIN          10
 _Colin              10
@@ -4366,6 +4471,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       8
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        7
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         7
+Magdalena Miedl       8
+Michael Sennhauser    8
+Zhou-Ning Su          8
+Teresa Vena           5
+Chris Schelb          8
 #letterboxd
 Sonya Vseluybskaya  10   https://letterboxd.com/vseluybets/film/holy-spider/
 Raphaël Nicolau     10
@@ -4843,6 +4961,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        5
+Jenny Jecke           5
+Cole Jaeger           
+Matthias Lerf         7
+Magdalena Miedl       8
+Michael Sennhauser    7
+Zhou-Ning Su          3
+Teresa Vena           3
+Chris Schelb          5
 #letterboxd
 MGiardelli          10
 ck7o                10
@@ -5222,6 +5353,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       10
+Max Borg              8
+Denise Bucher         7
+Stéphane Gobba        8
+Jenny Jecke           5
+Cole Jaeger           
+Matthias Lerf         8
+Magdalena Miedl       
+Michael Sennhauser    10
+Zhou-Ning Su          7
+Teresa Vena           7
+Chris Schelb          8
 #letterboxd
 Ennio23             10   https://letterboxd.com/ennio23/film/decision-to-leave/
 Hunrry              10
@@ -5797,6 +5941,19 @@ Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       7
+Max Borg              7
+Denise Bucher         3
+Stéphane Gobba        8
+Jenny Jecke           8
+Cole Jaeger           
+Matthias Lerf         7
+Magdalena Miedl       
+Michael Sennhauser    8
+Zhou-Ning Su          3
+Teresa Vena           1
+Chris Schelb          5
 #letterboxd
 Letterboxd 17_Ratings	6.2  https://letterboxd.com/film/crimes-of-the-future-2022/
 Spaghetti167        10
@@ -6471,6 +6628,19 @@ Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       5
+Max Borg              
+Denise Bucher         7
+Stéphane Gobba        5
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         7
+Magdalena Miedl       
+Michael Sennhauser    8
+Zhou-Ning Su          7
+Teresa Vena           
+Chris Schelb          7
 #letterboxd
 rozak               10
 Martyn Conterio     10
@@ -6858,6 +7028,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        8
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    5
+Zhou-Ning Su          1
+Teresa Vena           3
+Chris Schelb          5
 #letterboxd
 Davsa13             10
 newme616            10
@@ -7310,6 +7493,19 @@ Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        8
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         7
+Magdalena Miedl       
+Michael Sennhauser    8
+Zhou-Ning Su          1
+Teresa Vena           
+Chris Schelb          8
 #letterboxd
 andreaj94           10
 ashavit23           10
@@ -7627,6 +7823,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       3
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        5
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    7
+Zhou-Ning Su          1
+Teresa Vena           
+Chris Schelb          7
 #letterboxd
 jmslowery           10
 alessariva          10
@@ -7793,6 +8002,19 @@ Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           
+Chris Schelb          
 #letterboxd
 Luki                10
 teo                 10   https://letterboxd.com/teeman/film/pacifiction/
@@ -8031,6 +8253,19 @@ Raúl Reis
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           
+Chris Schelb          8   https://outnow.ch/Movies/2022/Broker/Review/
 #letterboxd
 Letterboxd 6_Ratings	5.5  https://letterboxd.com/film/broker-2022/
 FinnL               10
@@ -8494,6 +8729,19 @@ Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           
+Chris Schelb          
 #letterboxd
 Aida Carrasco       10
 angel               10
@@ -8818,6 +9066,19 @@ Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           
+Chris Schelb          
 #letterboxd
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/showing-up-2022/
 Dave Jenkins        10
@@ -8979,6 +9240,19 @@ Raúl Reis
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              
+Denise Bucher         
+Stéphane Gobba        
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           
+Chris Schelb          
 #letterboxd
 Shivam Ganesan      10
 starofcandies       8
@@ -12433,6 +12707,19 @@ Olivia Cooper-Hadjian    1
 Yal Sadat                2.5
 Thierry Méranger         2.5
 Louis Séguin             
+# OutNow (1 3 5 7 8 10)
+Alex Billington       8
+Max Borg              7
+Denise Bucher         3
+Stéphane Gobba        5
+Jenny Jecke           3
+Cole Jaeger           7
+Matthias Lerf         8
+Magdalena Miedl       
+Michael Sennhauser    8
+Zhou-Ning Su          7
+Teresa Vena           3
+Chris Schelb          8
 #letterboxd
 Letterboxd 0_Ratings	     https://letterboxd.com/film/final-cut-2022/
 éliott              10
@@ -13553,6 +13840,19 @@ Olivia Cooper-Hadjian
 Yal Sadat                7.5
 Thierry Méranger         
 Louis Séguin             
+# OutNow (1 3 5 7 8 10)
+Alex Billington       
+Max Borg              10
+Denise Bucher         7
+Stéphane Gobba        7
+Jenny Jecke           10
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       7
+Michael Sennhauser    7
+Zhou-Ning Su          
+Teresa Vena           7
+Chris Schelb          8
 #letterboxd
 Letterboxd 344_Ratings	7.6  https://letterboxd.com/film/top-gun-maverick/
 
@@ -13974,6 +14274,19 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# OutNow (1 3 5 7 8 10)
+Alex Billington       10
+Max Borg              
+Denise Bucher         5
+Stéphane Gobba        
+Jenny Jecke           5
+Cole Jaeger           5
+Matthias Lerf         7
+Magdalena Miedl       5
+Michael Sennhauser    
+Zhou-Ning Su          5
+Teresa Vena           
+Chris Schelb          7
 #letterboxd
 AltamiranoLua       10
 EdwardSwitzerland   10
@@ -14834,6 +15147,19 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# OutNow (1 3 5 7 8 10)
+Alex Billington       10
+Max Borg              
+Denise Bucher         8
+Stéphane Gobba        10
+Jenny Jecke           
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           
+Chris Schelb          
 #letterboxd
 Luke Hicks          10   https://letterboxd.com/lou_kicks/film/moonage-daydream/
 Tiger Lily🐯🌸        10   https://letterboxd.com/tiger_lily/film/moonage-daydream/
@@ -18453,6 +18779,19 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# OutNow (1 3 5 7 8 10)
+Alex Billington       5
+Max Borg              8
+Denise Bucher         5
+Stéphane Gobba        
+Jenny Jecke           8
+Cole Jaeger           
+Matthias Lerf         
+Magdalena Miedl       
+Michael Sennhauser    
+Zhou-Ning Su          
+Teresa Vena           5
+Chris Schelb          5
 
 "The Five Devils (Les cinq diables)" (Léa Mysius 🇫🇷) [Quinzaine]
 
@@ -23150,6 +23489,21 @@ Yal Sadat (, France)
 Thierry Méranger (, France)
 Louis Séguin (, France)
 ";
+$critics_group[$i] = "OutNow";
+$critics[$i++] = "
+Alex Billington (FirstShowing.net, USA)
+Max Borg (Corriere del Ticina, Suisse)
+Denise Bucher (NZZ am Sonntag, Suisse)
+Stéphane Gobba (Le Temps, Suisse)
+Jenny Jecke (Moviepilot, D)
+Cole Jaeger (The Oscar Expert, USA)
+Matthias Lerf (Sonntags Zeitung, Suisse)
+Magdalena Miedl (Salzburger Nachrichten, Oe)
+Michael Sennhauser (SRF, Suisse)
+Zhou-Ning Su (AwardsDaily, D)
+Teresa Vena (Cineurope, D)
+Chris Schelb (OutNow, Suisse)
+";
 # https://mediacine.club/?p=1175
 #$critics_group[$i] = "Club Média Ciné";
 #$critics[$i++] = "
@@ -23222,7 +23576,6 @@ Aaron Salazar (Filmmaker, USA)
 Adam Batty (Hope Lies at 24 Frames Per Second, UK)
 Adam Cook (MUBI, USA)
 Adam Woodward (Little White Lies blog, UK)
-Alex Billington (FirstShowing.net, USA)
 Alexis Chrys (Filmbuff, Greece)
 Alison Wilmore (Buzzfeed, USA)
 Allan Hunter (Screen Daily, USA)
@@ -23265,6 +23618,7 @@ Charles Bramesco (Guardian, UK)
 Charlie Schmidlin (The Playlist, USA)
 Chris Barsanti (The Playlist, USA)
 Chris Knipp (Filmleaf, USA)
+Chris Schelb (OutNow, Suisse)
 Christoph Huber (Die Presse, Austria)
 Christophe Beney (Accreds, France)
 Clarence Tsui (South China Morning Post, Hong Kong)
@@ -23320,6 +23674,7 @@ Frédéric Strauss (Telerama, France)
 Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
 Geoffrey MacNab (The Independent, UK)
 Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
+Gianluca Izzo (OutNow, Suisse)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
 Gonzalo de Pedro (Caimán, CDC, España) 
 Gregory Ellwood (HitFix, USA)
@@ -23448,6 +23803,7 @@ Serena Catalano (Movieplayer.it, France)
 Sergio Wolf (BAFICI, Argentina) 
 Shaun Munro (filmschoolrejects.com, USA)
 Simon Abrams (The Playlist, USA)
+Simon Eberhard (OutNow, Suisse)
 Simon Gallagher (filmschoolrejects.com, UK) 
 Simon Reynolds (Digital Spy, UK) 
 Sophie Monks Kaufman (Little White Lies blog, UK)
@@ -23470,6 +23826,7 @@ Wenke Husmann (Die Zeit, Deutschland)
 Wesley Morris (Grantland, USA)
 Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
+Yannick Brahcer (OutNow, Suisse)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
 Zack Sharf (Indiewire, USA)
