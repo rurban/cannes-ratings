@@ -28,6 +28,10 @@ package Cannes::rurban::2022; # -*- perl -*-
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2022/
 #   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2022.pdf
 #   https://outnow.ch/News/2022/05/27/OutNow-Jury-Grid-at-Cannes-2022-Tag-4
+# Les Inrockuptibles
+# calmos-emoji
+# Club Média Ciné
+# Mehdi Omais poll
 # Reviews: 
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -715,7 +719,6 @@ Xiaoyi
 Meng                     5
 Froufrou                 2.5
 Guojie                   7.5
-# Les Inrockuptibles
 #dkstjernebarometer
 Ariane Allard         4
 Claus Christensen     6
@@ -739,9 +742,6 @@ Raúl Reis             4
 Thomas Abeltshauser   8
 Ugo Brusaporco        6
 Zsolt Gyenge          8
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 # OutNow (1 3 5 7 8 10)
 Alex Billington       8
 Max Borg              8
@@ -1206,10 +1206,6 @@ Olivia Cooper-Hadjian    7.5
 Yal Sadat                9
 Thierry Méranger         
 Louis Séguin             7.5
-# Les Inrockuptibles
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard         4
 Claus Christensen     4
@@ -1815,7 +1811,6 @@ Olivia Cooper-Hadjian    7.5
 Yal Sadat                7.5
 Thierry Méranger         9
 Louis Séguin             5
-# Les Inrockuptibles
 # chaosreign.fr
 Laurent De Alberti       8
 Stéphanie Belpêche       
@@ -1827,9 +1822,6 @@ Sandra Onana             8
 Norine Raja              8
 Amandine Rebourg         
 Phillipe Rouyer          8
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard         4
 Claus Christensen     4
@@ -2353,7 +2345,6 @@ Xiaoyi                   5
 Meng                     2.5
 Froufrou                 2.5
 Guojie                   7.5
-# Les Inrockuptibles
 # cahier
 Fernando Ganzo           2.5
 Marcus Uzal              5
@@ -2373,9 +2364,6 @@ Sandra Onana
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          6
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard          4
 Claus Christensen      4
@@ -2743,7 +2731,6 @@ Olivia Cooper-Hadjian    7.5
 Yal Sadat                2.5
 Thierry Méranger         9
 Louis Séguin             
-# Les Inrockuptibles
 # chaosreign.fr
 Laurent De Alberti       
 Stéphanie Belpêche       
@@ -2755,9 +2742,6 @@ Sandra Onana
 Norine Raja              6
 Amandine Rebourg         1
 Phillipe Rouyer          8
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard          2
 Claus Christensen      2
@@ -3443,7 +3427,6 @@ Olivia Cooper-Hadjian    5
 Yal Sadat                2.5
 Thierry Méranger         1
 Louis Séguin             
-# Les Inrockuptibles
 # chaosreign.fr
 Laurent De Alberti       2
 Stéphanie Belpêche       6
@@ -3455,9 +3438,6 @@ Sandra Onana
 Norine Raja              4
 Amandine Rebourg         
 Phillipe Rouyer          6
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard          2
 Claus Christensen      6
@@ -4112,7 +4092,6 @@ Olivia Cooper-Hadjian    2.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-# Les Inrockuptibles
 # chaosreign.fr
 Laurent De Alberti       8
 Stéphanie Belpêche       
@@ -4124,9 +4103,6 @@ Sandra Onana             4
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          8
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard          4
 Claus Christensen      6
@@ -4453,7 +4429,6 @@ Olivia Cooper-Hadjian    1
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-# Les Inrockuptibles
 # chaosreign.fr
 Laurent De Alberti       8
 Stéphanie Belpêche       8
@@ -4465,9 +4440,6 @@ Sandra Onana             2
 Norine Raja              
 Amandine Rebourg         
 Phillipe Rouyer          8
-# calmos-emoji
-# Club Média Ciné
-# Mehdi Omais poll
 #dkstjernebarometer
 Ariane Allard          
 Claus Christensen      10
@@ -7924,6 +7896,7 @@ Andy Hazel          8   https://letterboxd.com/andyhazel/film/stars-at-noon/
 Lee Marshall            https://www.screendaily.com/reviews/pacifiction-cannes-review/5171237.article
 Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/26/pacifiction-review-trouble-in-paradise-in-apocalyptic-tahitian-mystery
 Rory O'Connor         A  https://thefilmstage.com/cannes-review-albert-serra-hits-career-high-with-boundless-brilliant-pacifiction/
+Bruno Deruisseau         https://www.lesinrocks.com/cinema/cannes-2022-pacifiction-dalbert-serra-le-75eme-festival-de-cannes-tient-son-chef-doeuvre-472551-26-05-2022/
 #critic.de
 Andrey Arnold         9
 Frédéric Jaeger     9
@@ -8179,6 +8152,7 @@ angel               1   https://letterboxd.com/angelsuniverse/film/pacifiction/
 Peter Bradshaw    4    https://www.theguardian.com/film/2022/may/26/broker-review-kore-eda-gets-the-tone-all-wrong-in-sudsy-korean-baby-adoption-tale
 Tim Grierson            https://www.screendaily.com/reviews/broker-cannes-review/5171214.article
 Ella Kemp           A-   https://www.indiewire.com/2022/05/broker-review-hirokazu-kore-eda-1234728917/
+Jean-Baptiste Morain     https://www.lesinrocks.com/cinema/cannes-broker-un-kore-eda-melo-mais-efficace-472961-27-05-2022/
 #critic.de
 Andrey Arnold         7.5
 Frédéric Jaeger     7.5
@@ -8657,6 +8631,7 @@ valerie             1
 David Ehrlich       B-   https://www.indiewire.com/2022/05/close-review-lukas-dhont-1234728513/
 Wendy Ide               https://www.screendaily.com/reviews/close-cannes-review/5171228.article
 Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/27/close-review-a-heartbreaking-tale-of-boyhood-friendship-turned-sour
+Yannick Bracher   8    https://outnow.ch/Movies/2022/Close/Review/
 #critic.de
 Frédéric Jaeger     5
 Till Kadritzke        6
@@ -19898,8 +19873,9 @@ zineb               2
 "The Green Perfume (Le Parfum vert)" (Nicolas Pariser 🇫🇷) [Quinzaine]
  Closing film. Sandrine Kiberlain, Vincent Lacoste.
 
-#critic.de
 Jonathan Romney         https://www.screendaily.com/reviews/the-green-perfume-cannes-review/5171222.article
+Théo Ribeton            https://www.lesinrocks.com/cinema/cannes-2022-le-parfum-vert-de-nicolas-pariser-un-drole-de-film-daventure-472954-27-05-2022/
+#critic.de
 # ics
 Cédric Succivalli        
 Emily Barnett            
@@ -23659,6 +23635,7 @@ Chris Schelb (OutNow, Suisse)
 # indiewire + various other press reviewers
 $critics_group[$i] = "Other";
 $critics[$i++] = "
+Bruno Deruisseau (Les Inrockuptibles, France)
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
 Aaron Hillis (GreenCine Daily, USA)
@@ -23916,7 +23893,7 @@ Wenke Husmann (Die Zeit, Deutschland)
 Wesley Morris (Grantland, USA)
 Xan Brooks (Guardian, UK)
 Yair Raveh (Cinema Scope, Israel)
-Yannick Brahcer (OutNow, Suisse)
+Yannick Bracher (OutNow, Suisse)
 Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
 Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
 Zack Sharf (Indiewire, USA)
