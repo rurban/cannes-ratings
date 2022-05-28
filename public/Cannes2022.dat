@@ -167,7 +167,7 @@ Meng                     7.5
 Froufrou                 7.5
 Guojie                   
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         4
 Aleksander Huser      8
 Andrea Martini        6
 Barbara Lorey         6
@@ -177,7 +177,7 @@ Eva Peydro            6
 Kerem Akca            6
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   6
 Ugo Brusaporco        8
 Zsolt Gyenge          8
@@ -708,7 +708,7 @@ Pragya Mishra         6
 J. Sperling Reich     6
 #Stephanie Zacharek   4
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         4
 Aleksander Huser      10
 Andrea Martini        4
 Barbara Lorey         
@@ -718,7 +718,7 @@ Eva Peydro            6
 Kerem Akca            4
 Mariona Borrull       4
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   8
 Ugo Brusaporco        6
 Zsolt Gyenge          8
@@ -1185,7 +1185,7 @@ Pragya Mishra         6
 J. Sperling Reich     6
 #Stephanie Zacharek   8
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      6
 Andrea Martini        8
 Barbara Lorey         
@@ -1792,7 +1792,7 @@ Pragya Mishra         4
 J. Sperling Reich     8
 #Stephanie Zacharek   6
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      10
 Andrea Martini        4
 Barbara Lorey         6
@@ -2323,7 +2323,7 @@ Pragya Mishra          8
 J. Sperling Reich      4
 #Stephanie Zacharek    4
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         4
 Aleksander Huser      
 Andrea Martini        6
 Barbara Lorey         
@@ -2692,7 +2692,7 @@ Pragya Mishra          2
 J. Sperling Reich      2
 #Stephanie Zacharek    2
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         2
 Aleksander Huser      4
 Andrea Martini        8
 Barbara Lorey         
@@ -3387,7 +3387,7 @@ Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       10
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        6
 Zsolt Gyenge          
@@ -4018,7 +4018,7 @@ Pragya Mishra          6
 J. Sperling Reich      6
 #Stephanie Zacharek    4
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      
 Andrea Martini        6
 Barbara Lorey         8
@@ -4028,7 +4028,7 @@ Eva Peydro            8
 Kerem Akca            6
 Mariona Borrull       
 Ninos Mikelides       10
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        8
 Zsolt Gyenge          
@@ -4346,17 +4346,17 @@ Pragya Mishra          6
 J. Sperling Reich      4
 Stephanie Zacharek     2
 # FIPRESCI
-Alberto Ramos         8
-Aleksander Huser      4
+Alberto Ramos         2
+Aleksander Huser      8
 Andrea Martini        4
 Barbara Lorey         4
-Chih-Yuan Liang       
-David Sanchez         4
+Chih-Yuan Liang       4
+David Sanchez         
 Eva Peydro            4
-Kerem Akca            
-Mariona Borrull       6
-Ninos Mikelides       
-Raúl Reis             
+Kerem Akca            4
+Mariona Borrull       
+Ninos Mikelides       6
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -4833,7 +4833,7 @@ Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       4
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -5204,14 +5204,14 @@ Stephanie Zacharek     6
 Alberto Ramos         10
 Aleksander Huser      6
 Andrea Martini        8
-Barbara Lorey         
+Barbara Lorey         8
 Chih-Yuan Liang       6
 David Sanchez         6
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -5783,7 +5783,7 @@ Eva Peydro            4
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -6448,14 +6448,14 @@ Guojie                   5
 Alberto Ramos         8
 Aleksander Huser      
 Andrea Martini        8
-Barbara Lorey         
-Chih-Yuan Liang       
+Barbara Lorey         6
+Chih-Yuan Liang       4
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -6834,14 +6834,14 @@ Guojie                   5
 Alberto Ramos         4
 Aleksander Huser      
 Andrea Martini        8
-Barbara Lorey         
-Chih-Yuan Liang       4
+Barbara Lorey         8
+Chih-Yuan Liang       6
 David Sanchez         4
-Eva Peydro            
+Eva Peydro            4
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -7282,17 +7282,17 @@ Meng                     2.5
 Froufrou                 5
 Guojie                   5
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         4
 Aleksander Huser      
 Andrea Martini        4
-Barbara Lorey         
-Chih-Yuan Liang       
+Barbara Lorey         8
+Chih-Yuan Liang       4
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -7599,17 +7599,17 @@ Meng                     5
 Froufrou                 
 Guojie                   
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         2
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
-Chih-Yuan Liang       
+Chih-Yuan Liang       2
 David Sanchez         
-Eva Peydro            
+Eva Peydro            2
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -7765,17 +7765,17 @@ Meng                     7.5
 Froufrou                 
 Guojie                   
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         10
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
-Chih-Yuan Liang       
+Chih-Yuan Liang       4
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             8
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -8465,13 +8465,13 @@ Alberto Ramos
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
-Chih-Yuan Liang       
+Chih-Yuan Liang       8
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -8788,7 +8788,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -8831,6 +8831,8 @@ Teresa              1
 
 "Mother And Son (Un petit frère)" (Léonor Serraille 🇫🇷) [Competition]
 
+Wendy Ide               https://www.screendaily.com/reviews/mother-and-son-cannes-review/5170311.article
+Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/27/mother-and-son-review-cannes-film-festival
 #critic.de
 Frédéric Jaeger     9
 # Screen Daily
@@ -8954,8 +8956,6 @@ Raúl Reis
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
-Wendy Ide               https://www.screendaily.com/reviews/mother-and-son-cannes-review/5170311.article
-Peter Bradshaw    8    https://www.theguardian.com/film/2022/may/27/mother-and-son-review-cannes-film-festival
 #letterboxd
 Shivam Ganesan      10
 starofcandies       8
@@ -9094,7 +9094,7 @@ Daniela Michel
 Lorna Tee                
 Diego Batlle             5
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         4
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
@@ -9104,7 +9104,7 @@ Eva Peydro            4
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -9359,7 +9359,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       4
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   8
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -9592,7 +9592,7 @@ Yal Sadat
 Thierry Méranger         2.5
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      6
 Andrea Martini        
 Barbara Lorey         
@@ -9602,7 +9602,7 @@ Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        6
 Zsolt Gyenge          
@@ -9788,7 +9788,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   10
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -10054,9 +10054,9 @@ Chih-Yuan Liang
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
-Mariona Borrull       8
+Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -10258,7 +10258,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   6
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -10430,7 +10430,7 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         6
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
@@ -10440,7 +10440,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   6
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -10597,7 +10597,7 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      8
 Andrea Martini        
 Barbara Lorey         
@@ -10607,7 +10607,7 @@ Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -10769,7 +10769,7 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         4
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
@@ -10779,7 +10779,7 @@ Eva Peydro
 Kerem Akca            4
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -10931,7 +10931,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -11106,7 +11106,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -11223,7 +11223,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -11375,7 +11375,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -11523,14 +11523,14 @@ Louis Séguin
 Alberto Ramos         
 Aleksander Huser      8
 Andrea Martini        
-Barbara Lorey         
+Barbara Lorey         8
 Chih-Yuan Liang       
 David Sanchez         
 Eva Peydro            8
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -11705,7 +11705,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -11870,17 +11870,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
 Chih-Yuan Liang       
 David Sanchez         
-Eva Peydro            
+Eva Peydro            6
 Kerem Akca            6
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -12024,7 +12024,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             2
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -16550,7 +16550,7 @@ Daniela Michel
 Lorna Tee                
 Diego Batlle             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         6
 Aleksander Huser      4
 Andrea Martini        4
 Barbara Lorey         
@@ -16560,7 +16560,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       10
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   8
 Ugo Brusaporco        
 Zsolt Gyenge          2
@@ -16809,7 +16809,7 @@ Daniela Michel
 Lorna Tee                
 Diego Batlle             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         
@@ -16819,7 +16819,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       4
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          6
@@ -17104,21 +17104,6 @@ Olivia Cooper-Hadjian
 Yal Sadat                5
 Thierry Méranger         
 Louis Séguin             
-# FIPRESCI
-Alberto Ramos         
-Aleksander Huser      
-Andrea Martini        
-Barbara Lorey         
-Chih-Yuan Liang       
-David Sanchez         
-Eva Peydro            
-Kerem Akca            
-Mariona Borrull       
-Ninos Mikelides       
-Raúl Reis             
-Thomas Abeltshauser   
-Ugo Brusaporco        
-Zsolt Gyenge          
 #letterboxd
 Duquapier           9
 Nassenei            8
@@ -17229,7 +17214,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   6
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -17529,7 +17514,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          8
@@ -17679,7 +17664,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   8
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -17858,7 +17843,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   8
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -17995,7 +17980,7 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         6
 Aleksander Huser      
 Andrea Martini        
 Barbara Lorey         4
@@ -18005,7 +17990,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18112,7 +18097,7 @@ Eva Peydro
 Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18209,7 +18194,7 @@ Eva Peydro
 Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18295,7 +18280,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             2
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18473,7 +18458,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       8
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18682,7 +18667,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       10
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18755,21 +18740,6 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-# FIPRESCI
-Alberto Ramos         
-Aleksander Huser      
-Andrea Martini        
-Barbara Lorey         
-Chih-Yuan Liang       
-David Sanchez         
-Eva Peydro            
-Kerem Akca            
-Mariona Borrull       
-Ninos Mikelides       
-Raúl Reis             
-Thomas Abeltshauser   
-Ugo Brusaporco        
-Zsolt Gyenge          
 #letterboxd
 Neil Fox            10
 marie_bonsoir       10
@@ -18846,14 +18816,14 @@ Louis Séguin
 Alberto Ramos         
 Aleksander Huser      
 Andrea Martini        
-Barbara Lorey         
+Barbara Lorey         6
 Chih-Yuan Liang       
 David Sanchez         
 Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -18991,7 +18961,7 @@ Eva Peydro
 Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19067,21 +19037,6 @@ Olivia Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
-# FIPRESCI
-Alberto Ramos         
-Aleksander Huser      
-Andrea Martini        
-Barbara Lorey         
-Chih-Yuan Liang       
-David Sanchez         
-Eva Peydro            
-Kerem Akca            
-Mariona Borrull       
-Ninos Mikelides       
-Raúl Reis             
-Thomas Abeltshauser   
-Ugo Brusaporco        
-Zsolt Gyenge          
 #letterboxd
 yandecop            10
 maxmester           10
@@ -19239,7 +19194,7 @@ Eva Peydro
 Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19332,7 +19287,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19405,14 +19360,14 @@ Louis Séguin
 Alberto Ramos         6
 Aleksander Huser      
 Andrea Martini        
-Barbara Lorey         
+Barbara Lorey         8
 Chih-Yuan Liang       
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19487,7 +19442,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19596,7 +19551,7 @@ Eva Peydro
 Kerem Akca            6
 Mariona Borrull       10
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19851,7 +19806,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -19967,14 +19922,14 @@ Louis Séguin
 Alberto Ramos         8
 Aleksander Huser      
 Andrea Martini        
-Barbara Lorey         
+Barbara Lorey         8
 Chih-Yuan Liang       
 David Sanchez         10
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -20074,7 +20029,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          4
@@ -20196,7 +20151,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -20283,17 +20238,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      
 Andrea Martini        
-Barbara Lorey         
+Barbara Lorey         1
 Chih-Yuan Liang       
 David Sanchez         
 Eva Peydro            
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -20386,7 +20341,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             6
 Thomas Abeltshauser   6
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -20530,7 +20485,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          4
@@ -20680,7 +20635,7 @@ Eva Peydro
 Kerem Akca            4
 Mariona Borrull       6
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             4
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -20761,7 +20716,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             10
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
@@ -20856,7 +20811,7 @@ Eva Peydro
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
-Raúl Reis             
+Raúl Reis             8
 Thomas Abeltshauser   
 Ugo Brusaporco        
 Zsolt Gyenge          
