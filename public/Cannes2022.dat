@@ -16,7 +16,6 @@ package Cannes::rurban::2022; # -*- perl -*-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
-#   http://www.todaslascriticas.com.ar/cannes (not yet)
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2022
 #   http://jury.critic.de/cannes/ 
@@ -25395,16 +25394,18 @@ the_gaffer (Berlin, Deutschland)
 
 our $HEADER = <<"EOF";
 
-<small>Collected and updated daily during the festival by Reini Urban from now 14 critic polls.
-The ApichatPoll http://www.todaslascriticas.com.ar/cannes (Diego Lerer+Javier Fish) (la crema),
-http://www.ioncinema.com/ (okay),
-Le film français (eclectic),
-http://jury.critic.de/cannes/ (german),
+<small>Collected and updated daily during the festival by Reini Urban from 11 critic polls.
 Screen Daily (US/UK mainstream),
-http://twitter.com/CriticsGrid (chinese),
+Le film français and Cahier (eclectic),
+http://www.ioncinema.com/ (US/CAN okay),
+http://jury.critic.de/cannes/ (german),
+http://twitter.com/hanglutvd (chinese),
 ICS Critics & Industry Panel (mixed),
-Les Inrockuptibles, Danish, Russian and a few more new french polls, 
-https://letterboxd.com/seanliu/list/cannes-2022/ (the industry),
+the FIPRESCI poll,
+chaosreign.fr (okay),
+the danish dtjernebarometer,
+a swiss OutNow poll,
+https://letterboxd.com/vermelholimao/list/cannes-2022-official-selection-la-quinzaine/ (the industry),
 plus the usual press and individual critics on site.<br>
 
 <br>
