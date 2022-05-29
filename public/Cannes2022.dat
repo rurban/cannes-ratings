@@ -5715,7 +5715,7 @@ Andrea Martini        8
 Barbara Lorey         8
 Chih-Yuan Liang       6
 David Sanchez         6
-Eva Peydro            
+Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       8
 Ninos Mikelides       
@@ -7085,7 +7085,7 @@ Barbara Lorey         6
 Chih-Yuan Liang       4
 David Sanchez         
 Eva Peydro            
-Kerem Akca            
+Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
 Raúl Reis             4
@@ -8423,8 +8423,8 @@ Froufrou
 Guojie                   
 # FIPRESCI
 Alberto Ramos         2
-Aleksander Huser      
-Andrea Martini        
+Aleksander Huser      4
+Andrea Martini        6
 Barbara Lorey         
 Chih-Yuan Liang       2
 David Sanchez         
@@ -8606,13 +8606,13 @@ Froufrou
 Guojie                   
 # FIPRESCI
 Alberto Ramos         10
-Aleksander Huser      
-Andrea Martini        
+Aleksander Huser      10
+Andrea Martini        8
 Barbara Lorey         
 Chih-Yuan Liang       4
-David Sanchez         
+David Sanchez         2
 Eva Peydro            
-Kerem Akca            
+Kerem Akca            8
 Mariona Borrull       
 Ninos Mikelides       
 Raúl Reis             10
@@ -8898,13 +8898,13 @@ Meng                     7.5
 Froufrou                 5
 Guojie                   1
 # FIPRESCI
-Alberto Ramos         
+Alberto Ramos         8
 Aleksander Huser      
-Andrea Martini        
+Andrea Martini        6
 Barbara Lorey         
 Chih-Yuan Liang       
 David Sanchez         
-Eva Peydro            
+Eva Peydro            4
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
@@ -9447,14 +9447,14 @@ Meng                     7.5
 Froufrou                 7.5
 Guojie                   9
 # FIPRESCI
-Alberto Ramos         
-Aleksander Huser      
+Alberto Ramos         8
+Aleksander Huser      8
 Andrea Martini        
-Barbara Lorey         
+Barbara Lorey         8
 Chih-Yuan Liang       8
 David Sanchez         
-Eva Peydro            
-Kerem Akca            
+Eva Peydro            6
+Kerem Akca            6
 Mariona Borrull       
 Ninos Mikelides       
 Raúl Reis             6
@@ -9853,13 +9853,13 @@ Meng                     7.5
 Froufrou                 
 Guojie                   
 # FIPRESCI
-Alberto Ramos         
-Aleksander Huser      
-Andrea Martini        
+Alberto Ramos         8
+Aleksander Huser      8
+Andrea Martini        6
 Barbara Lorey         
-Chih-Yuan Liang       
+Chih-Yuan Liang       6
 David Sanchez         
-Eva Peydro            
+Eva Peydro            6
 Kerem Akca            
 Mariona Borrull       
 Ninos Mikelides       
@@ -10037,13 +10037,13 @@ Meng
 Froufrou                 5
 Guojie                   
 # FIPRESCI
-Alberto Ramos         
-Aleksander Huser      
-Andrea Martini        
-Barbara Lorey         
-Chih-Yuan Liang       
-David Sanchez         
-Eva Peydro            
+Alberto Ramos         6
+Aleksander Huser      6
+Andrea Martini        6
+Barbara Lorey         6
+Chih-Yuan Liang       4
+David Sanchez         4
+Eva Peydro            4
 Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
@@ -10720,7 +10720,7 @@ Barbara Lorey
 Chih-Yuan Liang       
 David Sanchez         
 Eva Peydro            6
-Kerem Akca            
+Kerem Akca            8
 Mariona Borrull       
 Ninos Mikelides       
 Raúl Reis             10
@@ -11767,7 +11767,7 @@ Barbara Lorey
 Chih-Yuan Liang       
 David Sanchez         6
 Eva Peydro            6
-Kerem Akca            
+Kerem Akca            8
 Mariona Borrull       6
 Ninos Mikelides       
 Raúl Reis             8
@@ -12277,7 +12277,7 @@ Barbara Lorey
 Chih-Yuan Liang       8
 David Sanchez         8
 Eva Peydro            
-Kerem Akca            
+Kerem Akca            4
 Mariona Borrull       
 Ninos Mikelides       
 Raúl Reis             4
