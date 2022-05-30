@@ -68,7 +68,8 @@ sub _read {
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
       $x =~ s/,/./g;
       if ($x =~ /^[0-9.]*$/) {
-        $x = 10 if $x > 10; $x = 0 if $x < 0;
+        $x = 10 if $x > 10;
+        $x = 0 if $x < 0;
       } else {
         $x = 0;
       }
