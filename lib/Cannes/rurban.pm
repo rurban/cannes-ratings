@@ -66,7 +66,12 @@ sub _read {
     } elsif ($title and /\w[\w\)\.]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
       my $x = $1;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
-      $x =~ s/,/./g; $x = 10 if $x > 10; $x = 0 if $x < 0;
+      $x =~ s/,/./g;
+      if ($x =~ /^[0-9.]*$/) {
+        $x = 10 if $x > 10; $x = 0 if $x < 0;
+      } else {
+        $x = 0;
+      }
       undef $critic;
       $url = $2;
       $url =~ s/^\s+// if $url;
