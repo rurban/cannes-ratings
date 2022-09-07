@@ -10,7 +10,7 @@ RUN set -ex; \
 #    rm -rf /var/lib/apt/lists/* ; \
 #    rm -rf /tmp/*
 
-WORKDIR /app/public
-COPY . /app/
+WORKDIR /workspace/public
+COPY . /workspace/
 EXPOSE 5000/tcp
 ENTRYPOINT ["perl", "index.pl"]
