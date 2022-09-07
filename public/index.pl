@@ -7,14 +7,13 @@ use Plack::Runner;
 # is safer.
 set apphandler => 'PSGI';
 my $root = $ENV{'DOCUMENT_ROOT'} || '';
-if ($ENV{'REMOTE_ADDR'} eq '127.0.0.1') {
-  set environment => 'development';
-  #set environment => 'production';
+if (-d '/app') {
+  set environment => 'production';
   #set auto_reload => 1;
 } elsif ($ENV{'REMOTE_ADDR'} eq '188.108.36.74') {
-  set environment => 'development';
-} else {
   set environment => 'production';
+} else {
+  set environment => 'development';
 }
 
 my @path = ('..', 'bin', 'app.pl');
