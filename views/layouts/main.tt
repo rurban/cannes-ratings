@@ -41,11 +41,23 @@ function flipAll(name) {
   gtag('js', new Date());
   gtag('config', 'UA-156907122-1');
 </script>
+
+<% if request.host == 'cannes-ratings.herokuapp.com' %>
+<meta http-equiv="refresh" content="5; url=https://cannes-ratings.tk/" />
+<!--
+  <script type="text/javascript">
+  window.location.href = "https://cannes-ratings.tk/"
+  </script>
+-->
+<% end %>
 </head>
 <body>
+<% if request.host == 'cannes-ratings.herokuapp.com' or request.host == 'localhost:5000' %>
+    <h3>We moved to <a href="https://cannes-ratings.tk/">cannes-ratings.tk</a>, because our free provider Heroku closed all free cloud services. Redhat did that previously. Update your bookmarks please.</h3>
+<% end %>
 <% content %>
 <div id="footer">
-Powered by <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>, Heroku's free <a href="http://www.heroku.com/">cloud service</a>, a little <a href="http://perl.org/">perl</a> logic and readable <a href="https://github.com/rurban/cannes-rurban.rhcloud.com/">text files</a>.
+Powered by <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>, railway.app's free <a href="http://railway.app/">cloud services</a>, a little <a href="http://perl.org/">perl</a> logic and readable <a href="https://github.com/rurban/cannes-rurban.rhcloud.com/">text files</a>.
 </div>
 </body>
 </html>
