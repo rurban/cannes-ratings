@@ -43,7 +43,7 @@ function flipAll(name) {
 </script>
 
 <% if request.host eq 'cannes-ratings.herokuapp.com' %>
-<meta http-equiv="refresh" content="5; url=https://cannes-ratings.tk/" />
+<!-- meta http-equiv="refresh" content="5; url=https://cannes-ratings.tk/" /-->
 <!--
   <script type="text/javascript">
   window.location.href = "https://cannes-ratings.tk/"
