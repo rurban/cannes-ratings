@@ -42,7 +42,7 @@ function flipAll(name) {
   gtag('config', 'UA-156907122-1');
 </script>
 
-<% if request.host == 'cannes-ratings.herokuapp.com' %>
+<% if request.host eq 'cannes-ratings.herokuapp.com' %>
 <meta http-equiv="refresh" content="5; url=https://cannes-ratings.tk/" />
 <!--
   <script type="text/javascript">
@@ -52,7 +52,7 @@ function flipAll(name) {
 <% end %>
 </head>
 <body>
-<% if request.host == 'cannes-ratings.herokuapp.com' or request.host == 'localhost:5000' %>
+<% if request.host eq 'cannes-ratings.herokuapp.com' %>
     <h3>We moved to <a href="https://cannes-ratings.tk/">cannes-ratings.tk</a>, because our free provider Heroku closed all free cloud services. Redhat did that previously. Update your bookmarks please.</h3>
 <% end %>
 <% content %>
