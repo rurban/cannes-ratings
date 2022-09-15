@@ -20,4 +20,6 @@ my @path = ('..', 'bin', 'app.pl');
 my $psgi = path($root ? ($root, @path) : @path);
 die "Unable to read startup script: $psgi" unless -r $psgi;
 
-Plack::Runner->run($psgi);
+my $runner = Plack::Runner->new;
+$runner->parse_options(@ARGV);
+$runner->run($psgi);

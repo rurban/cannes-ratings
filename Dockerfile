@@ -12,5 +12,5 @@ RUN set -ex; \
 
 WORKDIR /workspace/public
 COPY . /workspace/
-EXPOSE 5000/tcp
-ENTRYPOINT ["perl", "index.pl"]
+EXPOSE 8080/tcp
+ENTRYPOINT ["perl", "index.pl", "--port=8080"]
