@@ -10,6 +10,12 @@ Allow: /Sundance
 Allow: /Berlinale
 Disallow: /
 
+User-agent: MJ12Bot
+Allow: /Cannes
+Allow: /Sundance
+Allow: /Berlinale
+Disallow: /
+
 User-agent: *
 Disallow: /*?*
 
