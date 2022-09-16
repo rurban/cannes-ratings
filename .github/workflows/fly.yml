@@ -10,6 +10,7 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
+        - run: apt-get -qq -y --no-install-recommends install libdancer-perl
         - uses: superfly/flyctl-actions/setup-flyctl@master
         - run: perl -cw bin/app.pl
         - run: flyctl deploy --remote-only
