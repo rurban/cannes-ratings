@@ -13,4 +13,5 @@ jobs:
         - uses: superfly/flyctl-actions/setup-flyctl@master
         - run: sudo apt-get -y --no-install-recommends install libdancer-perl
         - run: perl -cw bin/app.pl
+        - run: for f in public/*.dat; do perl -cw $f; done
         - run: flyctl deploy --remote-only
