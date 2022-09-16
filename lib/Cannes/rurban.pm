@@ -716,7 +716,7 @@ sub _list {
 }
 
 get '/Cannes' => sub {
-  _list(2021);
+  _list(2022);
 };
 get '/Cannes2022' => sub {
   _list(2022);
