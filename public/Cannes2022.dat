@@ -28453,10 +28453,6 @@ Andy                8
 
 EOF
 
-# but not selected
-my $PREDICTIONS = <<'EOF';
-EOF
-
 our (@critics, @critics_group);
 my $i=0;
 #$critics_group[$i] = "Todas";
