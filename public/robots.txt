@@ -1,8 +1,9 @@
-User-agent: dotbot
+User-agent: DotBot
 Allow: /Cannes
 Allow: /Sundance
 Allow: /Berlinale
 Disallow: /
+Disallow: /*?*
 
 User-agent: SemrushBot
 Allow: /Cannes
