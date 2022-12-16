@@ -1,0 +1,673 @@
+package Berlinale::rurban::2023; # -*- perl -*-
+# Berlinale 2023 Critics Ratings
+# 10.2. - 20.2.
+# complete lineup: 7.2.23
+
+use utf8;
+our $DATA= <<'EOF';
+
+WETTBEWERB
+
+ENCOUNTERS
+
+PANORAMA
+
+"The Burdened" [Panorama]
+
+"The Cemetery of Cinema" [Panorama]
+
+
+"The Castle" [Panorama]
+
+
+"Hello Dankness" [Panorama]
+
+#letterboxd
+Sam Smith           10
+Simon Foster        10
+Otto                10
+fatiekitz           8
+LeslieGlass         8
+Aimee Knight        7
+AJSoprano           5   https://letterboxd.com/ajsoprano/film/hello-dankness/
+counterboi          4
+
+"Inside" [Panorama]
+
+
+"Iron Butterflies" [Panorama]
+
+
+"Passages" [Panorama]
+
+
+"Perpetrator" [Panorama]
+
+
+"Reality" [Panorama]
+
+
+"Silver Haze" [Panorama]
+
+
+"The Siren" [Panorama]
+
+
+"Stams" [Panorama]
+
+
+"Transfariana" [Panorama]
+
+GENERATION
+
+"Aaaah !" [Generation]
+
+
+"Adolfo" [Generation]
+
+
+"Longing for the World" [Generation]
+
+
+"Dream's Gate" [Generation]
+
+
+"Just Super" [Generation]
+
+#letterboxd
+skittenmaake        7
+LarsMartin          6   https://letterboxd.com/larsmartin/film/just-super/
+Stig Strøm          6
+Hege                6   https://letterboxd.com/peppa/film/just-super/
+mjohnsrud           6
+Tale                6
+Markus Melby        5
+emberfoxxx          5
+blekkfisk           5
+Kruh                5
+JumpCut Filmmagasinet 5   https://letterboxd.com/jumpcut_ntnu/film/just-super/
+Maria TinyTragedyDies 4
+DonTaco             4   https://letterboxd.com/dontaco/film/just-super/
+
+"Infantry" [Generation]
+
+#letterboxd
+Stefano Lopes       10
+Letícia Amorim      10
+Aristeu Araújo      10
+cr1stianemaria      10
+Letícia Batista     10
+KrullPedro          10
+erly vieira jr      9
+bru_honorio         9
+Daniel Araújo       9   https://letterboxd.com/daniel_araujo88/film/infantry/
+Lucas Litrento      8
+Bruno Carmelo       8
+lorennarocha        8
+raianec             8   https://letterboxd.com/raianec/film/infantry/
+Arthur              8
+Arthur Gadelha      8
+maria               8
+Oliver Mikael Moraes 8   https://letterboxd.com/mikaollie/film/infantry/
+muitoquebem         8
+wibs                8   https://letterboxd.com/wibs/film/infantry/
+Renan Santos        8
+Pachekovisk         8
+Isabelle Cabral     8   https://letterboxd.com/bellocs_/film/infantry/
+Leonardo Amorim     8
+Kelvin              7   https://letterboxd.com/kelvinlso/film/infantry/
+yancavalcanti       7
+Sérgio Alpendre     7   https://letterboxd.com/sergioalpendre/film/infantry/
+mawra               7
+AntonLimaJr         7
+guilhermedro        7
+Marcus Barreto      7
+Anderson Bardot     7
+Flávio Augusto Mezadri Pizzol 7   https://letterboxd.com/gutopizzol/film/infantry/
+Davi                7
+Yana Chang          7
+Ciro Araujo         7
+Vinícius Brandão    6
+Carla Oliveira      6
+coutinho            6
+Michel Gutwilen     6   https://letterboxd.com/michelcvg/film/infantry/
+Natan Novelli Tu    6   https://letterboxd.com/natunovelli/film/infantry/
+Andy Malafaia       5
+Almeida Ricardo     5
+Marcos Paulo        4
+reinchenbach        3
+Daniel Victor       2
+Leonardo Otto       1
+
+"Tomorrow is a Long Time" [Generation]
+
+
+"Nanitic" [Generation]
+
+#letterboxd
+gioriii             10
+skumburger          10   https://letterboxd.com/skum41/film/nanitic/
+Ryan O'Marra        10   https://letterboxd.com/dirt_smoothie/film/nanitic/
+Marina Quarantino   10
+neonyellowgreen     10   https://letterboxd.com/neonyellowgreen/film/nanitic/
+richmond            10
+flora               10
+James Perry         10
+Brit Fryer          10
+Kaia Singh          9
+marskid             9
+emgibs              9
+Fraser Hannay       9
+splouff             8
+rbasmayor           8   https://letterboxd.com/rbasmayor/film/nanitic/
+John                8
+hannah              8   https://letterboxd.com/metafrick/film/nanitic/
+liv                 8   https://letterboxd.com/olivialwiley/film/nanitic/
+Maxime Duquette     8
+hazelmaeveee        8
+EM_ILY_             8
+Trevor_M            8
+Eric Bizzarri       8
+amilliahh           8
+Soph                8
+Commodorekeelan     7
+ginohino            7   https://letterboxd.com/ginohino/film/nanitic/
+colin cameron       7
+Arnaud              7   https://letterboxd.com/weissaudserious/film/nanitic/
+elefce              7
+reyon               7
+Zachary_W           7
+charles             7
+Dylan               7
+Mariana Pereira     7
+Oliver Smiff        7
+bglevine            7
+enfeubird           6   https://letterboxd.com/enfeubird/film/nanitic/
+Eddie Murphy        6
+Adam Cook           6
+Lori                6
+Thom Clément        6
+Luv                 6
+A.F. Bratyszewski   6
+zachary             6
+Zamomin             5
+Jamie Nicholson     3
+
+"The Lost Boys" [Generation]
+
+
+"Sica" [Generation]
+
+
+"Sea Sparkle" [Generation]
+
+
+"The Crime Is Mine" [Predictions]
+
+
+"Le Grand chariot" [Predictions]
+
+
+"Soul Mates" [Predictions]
+
+
+"The Red Sky" [Predictions]
+
+
+"Music" [Predictions]
+
+
+"Wann wird es endlich wieder so, wie es nie war" [Predictions]
+
+#letterboxd
+miriam              6
+Christopher Bausch  5
+Jan                 4   https://letterboxd.com/jan97/film/wann-wird-es-endlich-wieder-so-wie-es-nie-war/
+
+"Black Box" [Predictions]
+
+
+"Sisi & I" [Predictions]
+
+
+"Andrea lässt sich scheiden" [Predictions]
+
+
+"Are You There God? It's Me, Margaret" [Predictions]
+
+
+"La Cocina" [Predictions]
+
+
+"Chocobar" [Predictions]
+
+
+"Poor Things" [Predictions]
+
+
+"Above the Dust" [Predictions]
+
+
+"Last Summer" [Predictions]
+
+
+"MMXX" [Predictions]
+
+
+"The Palace" [Predictions]
+
+#letterboxd
+steve_bennett       10
+Hamidreza Mozhdehi  10
+The Completionist   2
+juniperks           1   https://letterboxd.com/juniperks/film/the-palace-2023/
+Lozzydud            1
+COWlikesmovies      1
+spacecr4p           1
+Corey_P             1
+
+"Walking to Paris" [Predictions]
+
+
+"Party of Fools" [Predictions]
+
+
+"She Came to Me" [Predictions]
+
+
+"The Movie Teller" [Predictions]
+
+
+"Je suis innocent parce que je suis innocent" [Predictions]
+
+
+"The Flood" [Predictions]
+
+#letterboxd
+DenisVilenkin       6
+Атавизм Гласности   5   https://letterboxd.com/shipr/film/the-flood-2022/
+Sergey Nekrasov     5   https://letterboxd.com/batesmote1/film/the-flood-2022/
+VadimBogdanov       3   https://letterboxd.com/vadimbogdanov/film/the-flood-2022/
+Julian              2
+
+"Temps mort" [Predictions]
+
+
+"Morrison" [Predictions]
+
+
+"Loveboat, Taipei" [Predictions]
+
+
+"Artist 1994" [Predictions]
+
+
+"Carnation" [Predictions]
+
+
+"The Owner" [Predictions]
+
+
+"Summer Frost" [Predictions]
+
+
+"Quand tu seras grand" [Predictions]
+
+
+"Cuckoo" [Predictions]
+
+
+"L'établi" [Predictions]
+
+
+"Milk Teeth" [Predictions]
+
+
+"Krzyk – Losing Control" [Predictions]
+
+
+"Dead Leaves" [Predictions]
+
+
+"The Beast in the Jungle" [Predictions]
+
+
+"On the Creation of Earthquakes" [Predictions]
+
+
+"My Sole Desire" [Predictions]
+
+
+"My Young Prince" [Predictions]
+
+
+"Eat the Night" [Predictions]
+
+
+"Planètes" [Predictions]
+
+
+"Enterre Seus Mortos" [Predictions]
+
+
+"La Vénus d'argent" [Predictions]
+
+
+"The Perfect Boyfriend" [Predictions]
+
+
+"The Book of Solutions" [Predictions]
+
+
+"Et la fête continue" [Predictions]
+
+
+"Viet and Nam" [Predictions]
+
+
+"Firebrand" [Predictions]
+
+
+"Strangers" [Predictions]
+
+
+"Darling" [Predictions]
+
+
+"La Barbare" [Predictions]
+
+
+"Sidonie au Japon" [Predictions]
+
+
+"Il pleut dans la maison" [Predictions]
+
+
+"Wonderland" [Predictions]
+
+
+"The wall" [Predictions]
+
+
+"Opponent" [Predictions]
+
+
+"The Outrun" [Predictions]
+
+
+"Savagery" [Predictions]
+
+
+"Golda" [Predictions]
+
+
+"Next Goal Wins" [Predictions]
+
+
+"Disco Boy" [Predictions]
+
+
+"Love Lies Bleeding" [Predictions]
+
+
+"Solitude" [Predictions]
+
+
+"Sonne und Beton" [Predictions]
+
+#letterboxd
+Konturprojekt       9
+Sylva Häutle        8
+
+"The Invisible Fight" [Predictions]
+
+
+"Das Lehrerzimmer" [Predictions]
+
+
+"REVOLUTION+1" [Predictions]
+
+
+"Familiar" [Predictions]
+
+
+"Fantastic Machine" [Predictions]
+
+
+BERLINALE SERIES
+
+# "Iosi, el espía arrepentido (Yosi, the Regretful Spy) TV" (Daniel Burman, Arg) [Special]
+
+PERSPEKTIVE DEUTSCHES KINO
+
+# "We Might As Well Be Dead (Wir könnten genauso gut tot sein)" (Natalia Sinelnikova, D/Rom) [Perspektive Deutsches Kino]
+# WP, opener
+
+RETROSPECTIVE
+
+#"Belle of the Nineties" (Leo McCarey, USA 1934) [Retrospektive]
+# with Mae West, Roger Pryor, Johnny Mack Brown, John Miljan.
+# World premiere of the digital restored version (4K DCP)
+
+---------------------------------------
+
+CRITICS WEEK
+
+#"Capitu and the Chapter" (Júlio Bressane, Br 2021)  [Woche der Kritik]
+# 75min
+
+EOF
+
+our (@critics, @critics_group);
+my $i=0;
+$critics_group[$i] = "screendaily";
+$critics[$i++] = "
+Rita Di Santo (The Morning Star, UK)
+Paolo Bertolin (Rivista del Cinematografo, Italy)
+Katja Nicodemus (Die Zeit, Germany)
+Anton Dolin (Meduza/Film Art, Russia)
+Stephen Schaefer (The Boston Herald, US)
+Nick James (Sight & Sound, UK)
+Mathieu Macheret (Le Monde/Cahiers Du Cinéma, France)
+Screen International (Screen International, UK)
+";
+$critics_group[$i] = "critic.de";
+$critics[$i++] = "
+Adina Lauenburger (critic.de, Deutschland)
+Alexandra Zawia (Ray, Austria)
+Andrey Arnold (Die Presse, Austria)
+Arnaud Hée (Critikat.com, France)
+Boris Nelepo (Sceance.ru, Russia)
+Christoph Huber (Die Presse, Austria)
+Claudia Reinhard (critic.de, Deutschland)
+Dana Linssen (Filmkrant, Holland)
+Daniel Kasman (MUBI, USA)
+David Hudson (Fandor, USA)
+Dunja Bialas (artechock, Deutschland)
+Ekkehard Knörer (Cargo, Deutschland)
+Frédéric Jaeger (critic.de, Deutschland)
+G.Marchini Camia (Sight & Sound)
+Hannes Brühwiler (critic.de, Deutschland)
+Jenny Jecke (Moviepilot, Deutschland)
+Johannes Bluth (critic.de, Deutschland)
+Jonas Nestroy (critic.de, Deutschland)
+Karsten Munt (Berliner Zeitung, Deutschland)
+Kevin B. Lee (alsolikelife, USA)
+Martin Gobbin (Negativ, Deutschland)
+Maurice Lahde (critic.de)
+Michael Kienzl (critic.de, Deutschland)
+Nikolaus Perneczky (Perlentaucher, Deutschland)
+Nino Klingler (critic.de, Deutschland)
+Olga Baruk (critic.de, Deutschland)
+Pamela Biénzobas (Mabuse, Chile)
+Philipp Schwarz (critic.de, Deutschland)
+Rüdiger Suchsland (arteschock, Deutschland)
+Sonja M. Schultz (critic.de, Deutschland)
+Thomas Groh (Perlentaucher, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+";
+$critics_group[$i] = "fipresci";
+$critics[$i++] = "
+Alberto Ramos (FIPRESCI, Havana Int. Festival, Cuba)
+Andrea Martini (FIPRESCI, Italy)
+Barbara Lorey (FIPRESCI, France)
+Esin Kucuktepepinar (FIPRESCI, Turkey)
+Kerem Akca (FIPRESCI, Turkey)
+Kirsten Liese (FIPRESCI, Deutschland)
+Leo Bankersen (FIPRESCI, Holland)
+Lulia Blaga (FIPRESCI, Romania)
+Pamela Jahn (FIPRESCI, Deutschland)
+Paolo Portugal (FIPRESCI, Portugal)
+Philip Bergson (FIPRESCI, UK)
+Jana Podskalska (FIPRESCI, Czech)
+Steven Yates (FIPRESCI, UK)
+Thomas Abeltshauser (FIPRESCI, Deutschland)
+Ugo Brusaporco (FIPRESCI, Italy)
+Verena Schmöller (FIPRESCI, Deutschland)
+";
+$critics_group[$i] = "letterboxd";
+$critics[$i++] = "
+Alex Hodge (Film student, Australia)
+Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
+Antonio Dakeyras (Deutschland)
+Aristea Tomopoulou (Filmmaker, Greece)
+Aurel Graf (Maximum Cinema, Schweiz)
+Bradley Porter (Filmmaker, GB)
+Bumstead (Deutschland)
+D W Mault (Filmmaker, UK)
+Eddie Falvey (One Room With A View, GB)
+Felix H. (Dis+Positiv, Deutschland)
+Hannah Woodhead (Little White Lies, UK)
+Hoss Ghonouie (Everyman Cinemas, GB)
+Jasper Behrensdorf (Leibniz Universität Hannover, Deutschland)
+John Tikis (Musician, Greece)
+Konrad Kögler (Das Kulturblog, Deutschland)
+Marvin Meiendresch (Filmmaker, Deutschland)
+Matthias Hopf (dasfilmfeuilleton.de blog, Deutschland)
+Ole Johnny Fossås (Jump Cut, Norway)
+Pablo Villaça (Cinema em Cena, Brasil)
+Ron Junghans (jay-carpet.com, Deutschland)
+Serena Scateni (cinematographe.it, Scotland)
+Stavros Tagres (GB)
+Vytenis Galvėnas (Vilnius University, Lithuania)
+Werner Hochbaum-Schrein (negativespace.blogger.de, Deutschland)
+";
+$critics_group[$i] = "None";
+$critics[$i++] = "
+A.A. Dowd (The A.V. Club, USA)
+Adam Chitwood (Collider, USA)
+Alex Billington (FirstShowing.net)
+Alex Ritman (The Hollywood Reporter, UK)
+Alison Willmore (BuzzFeed, USA)
+Alissa Wilkinson (Christianity Today, USA)
+Allan Hunter (Screen International, UK)
+Andre Simonoveisz	(Filmuforia)
+Angie Han (Slash, USA)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Anne Thompson (Indiewire, USA)
+Anthony Kaufman (Screen International, USA)
+Arman Fatic (Duart.hr, Croatia)
+Barbara Demerov (Adoro cinema, Argentina)
+Beatrice Behn (Kino-Zeit, Deutschland)
+Ben Delgado (Coral Gables Art Cinema, USA)
+Ben Flanagan	(Slant Magazine)
+Ben Kenigsberg (Variety, USA)
+Ben Smith (UK)
+Ben Travers (Indiewire, USA)
+Bilge Ebiri  (Vulture, USA)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, USA)
+Brian Moylan  (The Guardian, UK)
+Bruno Carmelo (Papo De Cinema, Brasil)
+Bryan Bishop (The Verge, USA)
+Carlos Aguilar (Indiewire, USA)
+Carmen Paddock	(One Room With A View, UK)
+Carolin Weidner (Tip, Deutschland)
+Chris Knipp	(Writing: Movies)
+Christian Ihle (TAZ Popblog, Deutschland)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, USA)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, USA)
+Daniel Mecca (The Film Stage, USA)
+Darren Hughes (The Public Cinema, Big Ears Festival, USA)
+David D'Arcy (Screen International, USA)
+David Ehrlich (Indiewire, USA)
+David Rooney  (The Hollywood Reporter, USA)
+Deborah Young (The Hollywood Reporter, UK)
+Diego Semerene	(Slant Magazine)
+Ed Gibbs (The Guardian, UK)
+Egor Belikov (kinoart.ru, Russia)
+Fabian Wallmeier (rbb24, Deutschland)
+Fabricio Duque (Vertentes Do Cinema, Brasil)
+Guy Lodge (Variety, USA)
+Harald Mühlbeyer (Kino-Zeit, Deutschland)
+Helena Lindblad (Dagens Nyherer, Schweden)
+James McAllister (Culture Fly, GB)
+Jan Küveler (Welt, Deutschland)
+Jay Weissberg (Variety, Italy)
+Jean-Christophe Simon (Films Boutique, Deutschland)
+Jessica Kiang (The Playlist, USA)
+Joachim Kurz (Kino-Zeit, Deutschland)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
+Joseph Owen	(The Upcoming)
+Keith Uhlich	(Slant Magazine)
+Laura Clifford	(Reeling Reviews)
+Lee Marshall (Screen International, UK)
+Lilla Gyöngyösi (Ex-Journalist, Hungary)
+Lukas Foerster (Perlentaucher, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+Mauricio Ribeiro (Spoilermovies, Brasil)
+Miriam Bale (MUBI, USA)
+Nandor Toth (Filmtekercs.hu, Hungary)
+Neil Young (RogerEbert.com, GB)
+Nick James	(Sight & Sound)
+Noel Murray (The Playlist, USA)
+Oliver Johnston (The Upcoming, UK)
+Otto Kylmälä (Loud Silents Festival, Lithuania)
+Peter Bradshaw (The Guardian, UK)
+Peter Debruge (Variety, USA)
+Redmond Bacon (Cultured Vultures, UK)
+Rendy Jones	(Rendy Reviews)
+Robert Daniels	(812 Film Reviews)
+Rory O’Connor (Film Stage, UK)
+Sarah Ward (Screen International, UK)
+Scout Tafoya	(Roger Ebert)
+Stephen Dalton (The Hollywood Reporter, UK)
+Stephen Farber (The Hollywood Reporter, UK)
+Stephen Whitty	(Screen Daily, UK)
+Thekla Dannenberg (Perlentaucher, Deutschland)
+Theo MacDonald (Scenes Journal, UK)
+Thierry Chervel (Perlentaucher, Deutschland)
+Wang Muyan (The Paper, China)
+Wellington Almeida (Huffpost Brazil, Deutschland)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Wettbewerb: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Berlinale2023.dat
+
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
