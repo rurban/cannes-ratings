@@ -6,7 +6,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Sundance';
-our @YEARS = qw(2015 2016 2017 2018 2019 2020 2021 2022);
+our @YEARS = qw(2015 2016 2017 2018 2019 2020 2021 2022 2023);
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
                  "NEXT", "Midnight", "Spotlight", "Kids", "Premieres",
@@ -679,7 +679,7 @@ sub _list {
 }
 
 get '/Sundance' => sub {
-  _list(2022);
+  _list(2023);
 };
 get '/Sundance2015' => sub {
   _list(2015);
@@ -704,6 +704,9 @@ get '/Sundance2021' => sub {
 };
 get '/Sundance2022' => sub {
   _list(2022);
+};
+get '/Sundance2023' => sub {
+  _list(2023);
 };
 
 get '/SundanceAll' => sub {
@@ -731,12 +734,12 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2022";
+  $all->{year} = "2015-2023";
   $all->{side_details} = _side_details(\%critic, \%title,
                                        \@{"$BASE\::rurban::2022\::critics_group"});
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Sundance2022'; };
+get '/' => sub { redirect '/Sundance2023'; };
 
 1;

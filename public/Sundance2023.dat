@@ -1,0 +1,833 @@
+package Sundance::rurban::2023; # -*- perl -*-
+#!/usr/bin/perl
+# Sundance 2023 Critics Ratings
+# {'A+' => 10,  'A' => 9,   'A-' => 8,
+#  'B+' => 7,   'B' => 6,   'B-' => 5,
+#  'C+' => 4,   'C' => 3,   'C-' => 2,
+#  'D+' => 1.5, 'D' => 1,   'D-' => 1,
+#  'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
+#  'F+' => 0,   'F' => 0,   'F-' => 0};
+# SLCWeekly: 0-4stars:
+# 0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
+
+use utf8;
+our $DATA= <<'EOF';
+
+U.S. DRAMATIC COMPETITION
+
+# "892" (Abi Damaris Corbin) [U.S. Dramatic] Special Jury Award: Ensemble Cast
+"The Accidental Getaway Driver"
+
+
+"All Dirt Roads Taste of Salt" [U.S. Dramatic]
+
+
+"Fair Play" [U.S. Dramatic]
+
+
+"Fancy Dance" [U.S. Dramatic]
+
+
+"Magazine Dreams" [U.S. Dramatic]
+
+
+"Mutt" [U.S. Dramatic]
+
+
+"The Persian Version" [U.S. Dramatic]
+
+
+"Shortcomings" [U.S. Dramatic]
+
+
+"Sometimes I Think About Dying" [U.S. Dramatic]
+
+
+"The Starling Girl" [U.S. Dramatic]
+
+
+"Theater Camp" [U.S. Dramatic]
+
+
+"A Thousand and One" [U.S. Dramatic]
+
+
+WORLD CINEMA DRAMATIC COMPETITION
+
+# "Brian and Charles" (Jim Archer, UK 2021) [World Dramatic]
+
+"Animalia" [World Dramatic]
+
+
+"Bad Behaviour" [World Dramatic]
+
+
+"Girl" [World Dramatic]
+
+
+"Heroic" [World Dramatic]
+
+
+"MAMACRUZ" [World Dramatic]
+
+
+"Mami Wata" [World Dramatic]
+
+
+"La Pecera" [World Dramatic]
+
+
+"Scrapper" [World Dramatic]
+
+
+"Shayda" [World Dramatic]
+
+
+"Slow" [World Dramatic]
+
+
+"Sorcery" [World Dramatic]
+
+
+"When It Melts" [World Dramatic]
+
+
+WORLD CINEMA DOCUMENTARY COMPETITION
+
+# "All That Breathes" (Shaunak Sen) [World Documentaries] Grand Jury Prize
+
+"5 Seasons of Revolution" [World Documentaries]
+
+
+"20 Days In Mariupol" [World Documentaries]
+
+
+"Against The Tide" [World Documentaries]
+
+
+"The Eternal Memory" [World Documentaries]
+
+
+"Fantastic Machine" [World Documentaries]
+
+
+"Iron Butterflies" [World Documentaries]
+
+
+"Is There Anybody Out There?" [World Documentaries]
+
+
+"The Longest Goodbye" [World Documentaries]
+
+
+"Milisuthando" [World Documentaries]
+
+
+"Pianoforte" [World Documentaries]
+
+
+"Smoke Sauna Sisterhood" [World Documentaries]
+
+
+"Twice Colonized" [World Documentaries]
+
+
+U.S. DOCUMENTARY COMPETITION
+
+# "Aftershock" (Tonya Lewis Lee, Paula Eiselt) [U.S. Documentaries] Special Jury Award: Impact for Change
+
+"AUM: The Cult At The End Of The World" [U.S. Documentaries]
+
+
+"Bad Press" [U.S. Documentaries]
+
+
+"The Disappearance of Shere Hite" [U.S. Documentaries]
+
+
+"Going To Mars: The Nikki Giovanni Project" [U.S. Documentaries]
+
+
+"Going Varsity In Mariachi" [U.S. Documentaries]
+
+
+"Joonam" [U.S. Documentaries]
+
+
+"Little Richard: I Am Everything" [U.S. Documentaries]
+
+
+"Nam June Paik: Moon Is The Oldest TV" [U.S. Documentaries]
+
+
+"A Still Small Voice" [U.S. Documentaries]
+
+
+"The Stroll" [U.S. Documentaries]
+
+
+"Victim/Suspect" [U.S. Documentaries]
+
+
+NEXT
+
+# "The Cathedral" (Ricky D’Ambrose, 2021) [NEXT] <i>Venice</i>
+
+"Bravo, Burkina!" [NEXT]
+
+
+"Divinity" [NEXT]
+
+
+"Fremont" [NEXT]
+
+
+"Kim's Video" [NEXT]
+
+
+"King Coal" [NEXT]
+
+
+"Kokomo City" [NEXT]
+
+
+"To Live And Die And Live" [NEXT]
+
+
+"The Tuba Thieves" [NEXT]
+
+#letterboxd
+PacoTUUT            6   https://letterboxd.com/pacotuut/film/the-tuba-thieves/
+
+"Young. Wild. Free." [NEXT]
+
+
+PREMIERES
+
+# "2nd Chance" (Ramin Bahrani) [Premieres]
+
+"Cassandro" [Premieres]
+
+
+"Cat Person" [Premieres]
+
+
+"Deep Rising" [Premieres]
+
+
+"The Deepest Breath" [Premieres]
+
+
+"Drift" [Premieres]
+
+
+"Eileen" [Premieres]
+
+
+"Fairyland" [Premieres]
+
+
+"Food and Country" [Premieres]
+
+
+"Invisible Beauty" [Premieres]
+
+
+"It's Only Life After All" [Premieres]
+
+
+"Jamojaya" [Premieres]
+
+
+"Judy Blume Forever" [Premieres]
+
+
+"Landscape with Invisible Hand" [Premieres]
+
+
+"A Little Prayer" [Premieres]
+
+
+"Passages" [Premieres]
+
+
+"PLAN C" [Premieres]
+
+
+"The Pod Generation" [Premieres]
+
+
+"Pretty Baby: Brooke Shields" [Premieres]
+
+
+"Radical" [Premieres]
+
+
+"Rotting in the Sun" [Premieres]
+
+
+"Rye Lane" [Premieres]
+
+
+"Still: A Michael J. Fox Movie" [Premieres]
+
+
+"You Hurt My Feelings" [Premieres]
+
+
+MIDNIGHT
+
+# "Babysitter" (Monia Chokri, Can) [Midnight]
+
+"Birth/Rebirth" [Midnight]
+
+
+"In My Mother’s Skin" [Midnight]
+
+
+"Infinity Pool" [Midnight]
+
+
+"My Animal" [Midnight]
+
+
+"Onyx the Fortuitous and the Talisman of Souls" [Midnight]
+
+#letterboxd
+Ben                 10
+
+"Polite Society" [Midnight]
+
+
+"Run Rabbit Run" [Midnight]
+
+
+"Talk to Me" (Michael+Danny Philippou) [Midnight] <i>Adelaide</i>
+
+#letterboxd
+DolanDark           10
+Dexter10b           10   https://letterboxd.com/dexter10b/film/talk-to-me-2022/
+BubblesBaker        10
+KingFisho           10
+happy_drip          10
+Racka               10
+Shakering           10
+ebani               10
+LMs_Movie_Show      10
+sienna              10
+katelarmer          10
+Eddie Houlihan      9   https://letterboxd.com/eddiehoulihan/film/talk-to-me-2022/
+HarryBradshaw       9
+Bazalaylee          9   https://letterboxd.com/bazalaylee/film/talk-to-me-2022/
+BigMikemovieman     9
+Dylan Browne        9
+Jaydeannev          9
+isaacdegregorio     9
+Kade Austin         8
+Robbie Greenwell    8   https://letterboxd.com/rtgreenwell/film/talk-to-me-2022/
+Bree                8   https://letterboxd.com/breeee/film/talk-to-me-2022/
+Joseph Blackwell    8
+RwAoNrDdOsM         8
+Katie               8
+AmitP               8   https://letterboxd.com/amitp/film/talk-to-me-2022/
+Sparrow86           8
+Leah                8
+stella              8
+Jon_S               8   https://letterboxd.com/shamrepro/film/talk-to-me-2022/
+Nicole Schoen       8
+Caitlin E Moore     8   https://letterboxd.com/caelmo/film/talk-to-me-2022/
+ducksouppe          8
+Cameron Hildebrandt-Brooks 8
+mellen_21           8
+Nicholas Colla      8
+Aden Beaver         8
+Emma                8
+Lucas_Manadez       8
+Jackaboi_           8
+david               8
+officialtravis      8
+WillJack            8
+Jack                8
+Zac _Me_            8
+Austin_F            7
+Daniel Tune         7   https://letterboxd.com/itstune/film/talk-to-me-2022/
+Shea                7   https://letterboxd.com/sheagallagher/film/talk-to-me-2022/
+chrismovies1        7   https://letterboxd.com/chrismovies1/film/talk-to-me-2022/
+Philippos           7
+Louis Campbell      6
+Mel_Little          6
+digimonbath         5
+gremlit             4   https://letterboxd.com/gremlit/film/talk-to-me-2022/
+
+SPOTLIGHT
+
+# "After Yang" (Kogonada) [Spotlight] <i>Cannes</i> Alfred P. Sloan Feature Film Prize
+
+"The Eight Mountains" [Spotlight] <i>Cannes</i>
+
+"L'immensità" (Emanuele Crialese) [Spotlight] <i>Venice</i>
+
+"Joyland" (Saim Sadiq) [Spotlight] <i>Cannes</i>
+
+"Other People's Children" [Spotlight] <i>TIFF</i>
+
+"Squaring the Circle (The Story of Hipgnosis)" (Anton Corbijn) [Spotlight] <i>Telluride</i>
+ Doc
+
+KIDS
+
+# "Maika" (Ham Tran, Vie) [Kids]
+
+"Aliens Abducted My Parents and Now I Feel Kinda Left Out" [Kids]
+
+
+"The Amazing Maurice" [Kids]
+
+#letterboxd
+DonSoniec           10
+redartifice         8   https://letterboxd.com/redartifice/film/the-amazing-maurice/
+Ciara               8
+hughmoc             7   https://letterboxd.com/hughmoc/film/the-amazing-maurice/
+Fateme Ahmadi       7
+ReverendQ           7
+Kit                 7
+Kat Hughes          6
+Jan-Barra Hentschel 6
+athena 🪐            6   https://letterboxd.com/athlien/film/the-amazing-maurice/
+Sapphirehb          6
+Eduardo Tosta       6
+whatupman           5
+MaryAnn Johanson    5
+meerkatz 🎄 🎅 ☃️     4
+Jene                4
+conbar              4
+lucaanna            4
+farm                4
+JonasBu             3
+Chris Bean Bell     2
+hiffo               2   https://letterboxd.com/hiffo/film/the-amazing-maurice/
+Bafta               2
+Michael Prescott    1   https://letterboxd.com/msprescott/film/the-amazing-maurice/
+
+"Blueback" [Kids]
+
+#letterboxd
+tfogg               10
+tittyjuggler        10
+Sophia Armstrong    10
+malakbakir          10
+jennahendry         10
+chelsea_solomon     9
+mapleleaf           9
+Freewheelin1965     9
+flyegge             8
+Jens                8
+PeteRoss            8
+9lize               8
+redzhizhi           8
+tutuJulio           8
+zac_cochrane        8
+Travis Johnson      8
+movieswithabe       8
+Bloodclot69         8
+Michelle Edgar      8
+Abby                8
+gen💫                8
+Giovana Ramos       8
+cruZak              7
+FamilyGhost         7
+Beatrice Behn       7   https://letterboxd.com/kinozeit/film/blueback/
+byan69              7
+Patrick Torma       7
+BurtDN              7
+Alaisdair Leith     7
+Rex                 7
+Justin              7
+james_astor         7
+Mathis              7
+cleap               7
+pinkmudskipper      7
+Fraser Duffy        7
+Christopher Bausch  7
+Sinead Taranto      7
+jas_poy             7
+Anah Khan           7
+Darren Movie Reviews 7
+Logan Taylor        7
+NisceD              6   https://letterboxd.com/nisced/film/blueback/
+Juju_Tubuti         6
+Luke Writer         6
+Sternburg           6
+Schokokeksbaum      6
+Terje Weichert      6
+noahziller          6   https://letterboxd.com/noahziller/film/blueback/
+Emil                6
+mrbleistift         6
+John Seberg         6
+nicole              6
+maketheswitchAU     6   https://letterboxd.com/maketheswitchau/film/blueback/
+DMBJourno           6
+nicksflicksfix      6
+Nadine Whitney      6
+Val_astor           6
+Andrew The Curb     6
+kmtgodie            6
+muninxxx            6
+maycheng            6
+chiachilx           6
+bitesizenvd         6
+lucyrutherford      6
+Jen_Lin             6
+FilmFuchs           6
+Manda Flett         6
+Helena1             6
+maddyfartek         6
+Chris dos Santos    6
+farm                6
+MovieAngel60        6
+MFTails             6
+Katalin             6
+Gayle Robin         6
+rkucheck            6
+Vonne Patiag        6
+Kevin L. Lee        6
+Thomas Lakeberg     5
+filmkritiktv        5
+pummeluff           5
+verena              5   https://letterboxd.com/no1angel/film/blueback/
+HeiligeMeier        5   https://letterboxd.com/heiligemeier/film/blueback/
+ja01ja              5
+CptQuack            5
+Scarlett            5
+Gaggy               5   https://letterboxd.com/gaggy/film/blueback/
+Rob Povey           5   https://letterboxd.com/robpovey/film/blueback/
+Simon Foster        5
+Levi                5
+aidanwbmc           5
+Kim                 5
+DonkThreiner        5
+Darren Wong         5
+marisatab           5
+Tsai_Hsiao_Sung     5
+paperpilot          5
+Andy Crump          5
+Allison M. 🌱        5
+Vedant Khandeparkar 5
+Nadia               5
+Dave Baldwin        5
+ajstellaa           5
+Ivs                 5
+Nick_Teh            4
+MarSco              4   https://letterboxd.com/marsco/film/blueback/
+MovieManiac74       4   https://letterboxd.com/moviemaniac74/film/blueback/
+AntonFelix          4
+Lobitomuc           4
+FilmeFlo            4
+MarcelK             4
+SomeMoritz          4
+Sophie Bentley      4
+Callum              4
+Jacob_B             4
+kevinm              4
+Jason Carlos        4
+Christoph Schelb    4
+Cliff               4
+Soham Gadre         4
+dgo                 4
+jobrfr              3
+amylaw              3
+Nooso               2   https://letterboxd.com/nooso/film/blueback/
+Jan-Barra Hentschel 2
+Brian Tallerico     2
+
+
+NEW FRONTIERS
+
+"A Common Sequence" [Special Events]
+
+
+"Gush" [Special Events]
+
+
+"Last Things" [Special Events]
+
+
+FROM THE COLLECTION
+
+
+"Slam" [Special Events] <i>...</i>
+
+
+"The Doom Generation" [Special Events] <i>...</i>
+
+
+SLAMDANCE NARRATIVE FEATURES
+
+# "Ultrainnocence (Ultrainocencia)" (Manuel Arija de la Cuerda, Spa 2020) [Slamdance] <i>Tallin, Cluj</i>
+
+SLAMDANCE DOCUMENTARY FEATURES
+
+EOF
+
+our (@critics, @critics_group);
+$critics_group[0] = "Critics";
+$critics[0] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Alex Billington (FirstShowing.net)
+Alex Heeney (Seventh Row, Canada)
+Alexander Miller (Filmenquiry.com, Battleshippretension.com, US)
+Allan Hunter (Screen International, US)
+Ali Shimkus (Slug Magazine, US)
+Alison Willmore (Vulture, US)
+Alissa Wilkinson (Christianity Today, US)
+Alonso Durade (The Wrap, US)
+Amy Nicholson (Variety, US)
+Amy Kaufman (LA Times, US)
+Andrew Barker (Variety, US)
+Andrew Bundy (The Playlist, US)
+Andrew Crump (The Playlist, US)
+Angie Han (Slashfilm, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+April Wolfe (The Wrap, US)
+Beandrea July (The Hollywood Reporter, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Croll (The Wrap, US)
+Ben Smith (UK)
+Benjamin Lee (The Guardian, US)
+Bilge Ebiri (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Brian Tallerico (RogerEbert.com, US)
+Bryan Bishop (The Verge, US)
+Candice Frederick (The Wrap, US)
+Carlos Aguilar (The Wrap, US)
+Chris Evangelista (Slashfilm, US)
+Chris Lindahl (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Clint Worthington (Consequence of Sound, US)
+Connor Lockie (Slug Magazine, US)
+Damon Wise  (The Guardian, UK)
+Dan Mecca (The Film Stage, US)
+Dan Callahan (The Wrap, US)
+Daniel Fienberg (The Hollywood Reporter, US)
+David Canfield (EW, US)
+David D'Arcy (Screen International, US)
+David Edelstein (New York Magazine Vulture, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Dilarah Elbir (The Playlist, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eli Fine (The Playlist, US)
+Elizabeth Weitzman (The Wrap, US)
+Emily Yoshida (New York Magazine Vulture, US)
+Erik Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Erik Luers (No Film School, IFP, US)
+Evan Saathoff (birthmoviesdeath.com, US)
+Jeremy Smith (birthmoviesdeath.com, US)
+Jean-Christophe Simon (Films Boutique, Germany)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (The Playlist, HitFix, US)
+Guy Lodge (Variety, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jake Howell (The Film Stage, US)
+Jared Mobarak (The Film Stage, US)
+Jason Bailey (The Playlist, Flavorwire, US)
+Jenni Miller (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+John DeFore (The Hollywood Reporter, US)
+John Fink (The Film Stage, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan Ruimy (The Playlist, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Indiewire, US)
+Kathy Rong Zhou (Slug Magazine, US)
+Katie Walsh (The Playlist, US)
+Kees Wamelink (Filmhuis Lisse, NL)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kevin Wozniak (kevflix.com, US)
+Kimber Myers (The Playlist, US)
+Kyle Kohner (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leah Greenblatt (EW, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Lois Brady (Slug Magazine, US)
+Lorry Kikta (filmthreat.com, US)
+Marco Cerritos (The Movielens, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Matt Hoffman (We Got This Covered, Scene Creek, Canada)
+Matt Neglia (NextBestPicture.com, US)
+Mauricio Costa (Razão de Aspecto, Brazil)
+Mel Valentin (Next Projection, US)
+Michael Rechtshaffen  (The Hollywood Reporter, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Molly Laich (doghatesfilm.com, US)
+Monica Castillo (The Wrap, US)
+Neil Miller (Film School Rejects, US)
+Nick Allen (RogerEbert.com, US)
+Nick Schager (Variety, US)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Norman Gidney (filmthreat.com, US)
+Oktay Ege Kozak (The Playlist, US)
+Owen Gleiberman (Variety, US)
+Paige Zuckerman  (Slug Magazine, US)
+Parker Scott Mortensen (Slug Magazine, US)
+Peter Debruge (Variety, US)
+Peter Sciretta (Slashfilm, US)
+Rebecca Martin (Cinema Femme, US)
+Reena Chohan (TIFF, Canada)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Robert Daniels (The Playlist, US)
+Robert Abele (The Wrap, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slashfilm, US)
+Ryan Lattanzio (TOH!, US)
+Sam Adams (Slate, US)
+Sam Fragoso (The Wrap, Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Scott Renshaw (Salt Lake City Weekly, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Farber (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Stephen Whitty (Screen International, US)
+Steve Pond (The Wrap, US)
+Susannah Gruder (Reverse Shot, US)
+Tasha Robinson (The Verge, Dissolve, A.V. Club, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Tomris Laffly (The Wrap, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Victor Morton (Salt Lake City Weekly, US)
+Wendy Ide (Screen International, US)
+Wesley Morris (Grantland, US)
+Dan Callahan (The Wrap, US)
+William Bibbiani (The Wrap, US)
+Zaina Abujebarah (Slug Magazine, US)
+";
+$critics_group[1] = "Other";
+$critics[1] = "
+Aaron Salazar (Filmmaker, US)
+Abbie Porter (Movie Nerd, US)
+Allison Boyer (Writer, Filmmaker, US)
+Allison Stone (Filmmaker, US)
+Amber (Film Student, US)
+Amir Moverman (Producer, US)
+Bare Bard (Film festival worker, US)
+Bill Skaleski (Artist, US)
+Blake Schwarz (Film Student+Blogger, US)
+Brandon Hart (Film Fan, US)
+Daniel Arthur (Public House Cinema, US)
+Danny Hensel (NPR Stateside, Student Editor, US)
+Drew Duncan (Industry, US)
+Eddie White (Filmmaker, Aus)
+Emily Guinto (Local film buff, US)
+flowertwithat (Film Buff, US)
+Jordan Foxworthy (Sundance Circle member, US)
+Gregory S Gardner (Double Exposure Distribution, US)
+Hannah Hembree (Industry, US)
+# Theatre Miami
+Javier (Industry, US)
+Jason Myers (Twitter+Local, US)
+Jason Osia (Film Buff, US)
+Jeremiah Holt (Youtube+Local, US)
+Jon Madsen (Local reviewer, US)
+Kevin Bolger (Local Filmmaker, US)
+Kevin Conner (Industry, US)
+Kevin Dando (Ex-PBS, US)
+Lee Stobby (Producer, US)
+Martin Jacob (Film Student+Blogger, US)
+Matt Cipolla (Freelance, US)
+Matt Wigham (bigcartel.com+Local, US)
+Matthew Reddick (Actor, US)
+Mei Chen (Student, US)
+Nick Kush (moviebabblereviews.com, US)
+Nik Velimirovic (Filmmaker, US)
+Pontus Ridderstedt (Librarian, Sweden)
+p. m. orr (Filmmaker, Volunteer, US)
+Robert Saucedo (Houston Alamo, US)
+Rosalie Kicks (moviejawn.com, US)
+Sachin Dharwadker (Filmmaker, US)
+shane (Actor, US)
+Shelby Slade (Local reporter Daily Herald, US)
+Skye McLennan (Industry, US)
+Stephen (Local film buff, US)
+Stephen Jones (Musician, Lawyer, US)
+Wiktor Krampikowski (Industry, PL)
+Thomas Callahan (Filmstudent, US)
+Tony Donisch (Discover, US)
+";
+$critics_group[2] = "Letterboxd";
+$critics[2] = ""; # dynamically added
+#Jacob (Local, US)
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out.
+<i>(Filtered to help with statistical inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2022.dat
+
+</pre>";
+
+# links:
+# https://letterboxd.com/rurban/list/sundance-slamdance-2021/
+# https://twitter.com/search?q=%23sundance%20review
+# http://www.theguardian.com/film/sundance-2021
+# http://www.indiewire.com/critic/
+# https://www.latimes.com/topic/sundance-film-festival
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
