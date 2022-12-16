@@ -1,6 +1,6 @@
 package Sundance::rurban::2023; # -*- perl -*-
 #!/usr/bin/perl
-# Sundance 2023 Critics Ratings
+# Sundance 2023 Critics Ratings, 19.1.2023 - 29.1.
 # {'A+' => 10,  'A' => 9,   'A-' => 8,
 #  'B+' => 7,   'B' => 6,   'B-' => 5,
 #  'C+' => 4,   'C' => 3,   'C-' => 2,
@@ -15,264 +15,182 @@ our $DATA= <<'EOF';
 
 U.S. DRAMATIC COMPETITION
 
-# "892" (Abi Damaris Corbin) [U.S. Dramatic] Special Jury Award: Ensemble Cast
-"The Accidental Getaway Driver"
+"The Accidental Getaway Driver" (Sing J. Lee) [U.S. Dramatic]
 
 
-"All Dirt Roads Taste of Salt" [U.S. Dramatic]
+"All Dirt Roads Taste of Salt" (Raven Jackson) [U.S. Dramatic]
 
 
-"Fair Play" [U.S. Dramatic]
+"Fair Play" (Chloe Domont) [U.S. Dramatic]
 
 
-"Fancy Dance" [U.S. Dramatic]
+"Fancy Dance" (Erica Tremblay) [U.S. Dramatic]
 
 
-"Magazine Dreams" [U.S. Dramatic]
+"Magazine Dreams" (Elijah Bynum) [U.S. Dramatic]
 
 
-"Mutt" [U.S. Dramatic]
+"Mutt" (Vuk Lungulov-Klotz) [U.S. Dramatic]
 
 
-"The Persian Version" [U.S. Dramatic]
+"The Persian Version" (Maryam Keshavarz) [U.S. Dramatic]
 
 
-"Shortcomings" [U.S. Dramatic]
+"Shortcomings" (Randall Park) [U.S. Dramatic]
 
 
-"Sometimes I Think About Dying" [U.S. Dramatic]
+"Sometimes I Think About Dying" (Rachel Lambert)  [U.S. Dramatic]
 
 
-"The Starling Girl" [U.S. Dramatic]
+"The Starling Girl" (Laurel Parmet) [U.S. Dramatic]
 
 
-"Theater Camp" [U.S. Dramatic]
+"Theater Camp" (Molly Gordon, Nick Lieberman) [U.S. Dramatic]
 
 
-"A Thousand and One" [U.S. Dramatic]
+"A Thousand and One" (A.V. Rockwell) [U.S. Dramatic]
+
+U.S. DOCUMENTARY COMPETITION
+
+"AUM: The Cult At The End Of The World" (Chiaki Yanagimoto, Ben Braun) [U.S. Documentaries]
+
+
+"Bad Press" (Joe Peeler, Rebecca Landsberry-Baker) [U.S. Documentaries]
+
+
+"The Disappearance of Shere Hite" (Nicole Newnham) [U.S. Documentaries]
+
+
+"Going To Mars: The Nikki Giovanni Project" (Joe Brewster, Michèle Stephenson) [U.S. Documentaries]
+
+
+"Going Varsity In Mariachi" (Alejandra Vasquez, Sam Osborn) [U.S. Documentaries]
+
+
+"Joonam" (Sierra Urich) [U.S. Documentaries]
+
+
+"Little Richard: I Am Everything" (Lisa Cortés) [U.S. Documentaries]
+
+
+"Nam June Paik: Moon Is The Oldest TV" (Amanda Kim) [U.S. Documentaries]
+
+
+"A Still Small Voice" (Luke Lorentzen) [U.S. Documentaries]
+
+
+"The Stroll" (Zackary Drucker, Kristen Parker Lovell) [U.S. Documentaries]
+
+
+"Victim/Suspect" (Nancy Schwartzman) [U.S. Documentaries]
 
 
 WORLD CINEMA DRAMATIC COMPETITION
 
-# "Brian and Charles" (Jim Archer, UK 2021) [World Dramatic]
-
-"Animalia" [World Dramatic]
+"Animalia" (Sofia Alaoui, Morocco) [World Dramatic]
 
 
-"Bad Behaviour" [World Dramatic]
+"Bad Behaviour" (Alice Englert, NZ) [World Dramatic]
 
 
-"Girl" [World Dramatic]
+"Girl" (Adura Onashile, UK) [World Dramatic]
 
 
-"Heroic" [World Dramatic]
+"Heroic (Heroico)" (David Zonana, Mex) [World Dramatic]
 
 
-"MAMACRUZ" [World Dramatic]
+"Mamacruz" (Patricia Ortega, Spain/Venezuela) [World Dramatic]
 
 
-"Mami Wata" [World Dramatic]
+"Mami Wata" (C.J. ‘Fiery’ Obasi, Nigeria) [World Dramatic]
 
 
-"La Pecera" [World Dramatic]
+"La Pecera" (Glorimar Marrero Sánchez, Puerto Rico) [World Dramatic]
 
 
-"Scrapper" [World Dramatic]
+"Scrapper" (Charlotte Regan, UK) [World Dramatic]
 
 
-"Shayda" [World Dramatic]
+"Shayda" (Noora Niasari, Aus/Iran) [World Dramatic]
 
 
-"Slow" [World Dramatic]
+"Slow" (Marija Kavtaradzė, Lithuania) [World Dramatic]
 
 
-"Sorcery" [World Dramatic]
+"Sorcery (Brujería)" (Christopher Murray, Chile) [World Dramatic]
 
 
-"When It Melts" [World Dramatic]
+"When It Melts (Het smelt)" (Veerle Baetens, Belgium) [World Dramatic]
 
 
 WORLD CINEMA DOCUMENTARY COMPETITION
 
-# "All That Breathes" (Shaunak Sen) [World Documentaries] Grand Jury Prize
-
-"5 Seasons of Revolution" [World Documentaries]
+"5 Seasons of Revolution" (Lina, Syria) [World Documentaries]
 
 
-"20 Days In Mariupol" [World Documentaries]
+"20 Days In Mariupol" (Mstyslav Chernov, Ukraine) [World Documentaries]
 
 
-"Against The Tide" [World Documentaries]
+"Against The Tide" (Sarvnik Kaur, India) [World Documentaries]
 
 
-"The Eternal Memory" [World Documentaries]
+"The Eternal Memory" (Maite Alberdi, Chile) [World Documentaries]
 
 
-"Fantastic Machine" [World Documentaries]
+"Fantastic Machine" (Axel Danielson, Maximilien Van Aertryck, Den/Swe) [World Documentaries]
 
 
-"Iron Butterflies" [World Documentaries]
+"Iron Butterflies" (Roman Lyubiy, Ukraine) [World Documentaries]
 
 
-"Is There Anybody Out There?" [World Documentaries]
+"Is There Anybody Out There?" (Ella Glendining, UK) [World Documentaries]
 
 
-"The Longest Goodbye" [World Documentaries]
+"The Longest Goodbye" (Ido Mizrahy, Israel/Canada) [World Documentaries]
 
 
-"Milisuthando" [World Documentaries]
+"Milisuthando" (Milisuthando Bongela, South Africa) [World Documentaries]
 
 
-"Pianoforte" [World Documentaries]
+"Pianoforte" (Jakub Piątek, Pol) [World Documentaries]
 
 
-"Smoke Sauna Sisterhood" [World Documentaries]
+"Smoke Sauna Sisterhood" (Anna Hints, Estonia) [World Documentaries]
 
 
-"Twice Colonized" [World Documentaries]
-
-
-U.S. DOCUMENTARY COMPETITION
-
-# "Aftershock" (Tonya Lewis Lee, Paula Eiselt) [U.S. Documentaries] Special Jury Award: Impact for Change
-
-"AUM: The Cult At The End Of The World" [U.S. Documentaries]
-
-
-"Bad Press" [U.S. Documentaries]
-
-
-"The Disappearance of Shere Hite" [U.S. Documentaries]
-
-
-"Going To Mars: The Nikki Giovanni Project" [U.S. Documentaries]
-
-
-"Going Varsity In Mariachi" [U.S. Documentaries]
-
-
-"Joonam" [U.S. Documentaries]
-
-
-"Little Richard: I Am Everything" [U.S. Documentaries]
-
-
-"Nam June Paik: Moon Is The Oldest TV" [U.S. Documentaries]
-
-
-"A Still Small Voice" [U.S. Documentaries]
-
-
-"The Stroll" [U.S. Documentaries]
-
-
-"Victim/Suspect" [U.S. Documentaries]
+"Twice Colonized" (Lin Alluna, Greenland/Den) [World Documentaries]
 
 
 NEXT
 
-# "The Cathedral" (Ricky D’Ambrose, 2021) [NEXT] <i>Venice</i>
-
-"Bravo, Burkina!" [NEXT]
+"Bravo, Burkina!" (Walé Oyéjidé, US) [NEXT]
 
 
-"Divinity" [NEXT]
+"Divinity" (Eddie Alcazar, US) [NEXT]
+ Prod: S.Soderberg
+
+"Fremont" (Babak Jalali, US) [NEXT]
 
 
-"Fremont" [NEXT]
+"Kim's Video" (David Redmon, Ashley Sabin, US) [NEXT]
 
 
-"Kim's Video" [NEXT]
+"King Coal" (Elaine McMillion Sheldon, US) [NEXT]
 
 
-"King Coal" [NEXT]
+"Kokomo City" (D. Smith, US) [NEXT]
 
 
-"Kokomo City" [NEXT]
+"To Live And Die And Live" (Qasim Basir, US) [NEXT]
 
 
-"To Live And Die And Live" [NEXT]
-
-
-"The Tuba Thieves" [NEXT]
+"The Tuba Thieves" (Alison O’Daniel, US) [NEXT]
+ Doc
 
 #letterboxd
 PacoTUUT            6   https://letterboxd.com/pacotuut/film/the-tuba-thieves/
 
-"Young. Wild. Free." [NEXT]
-
-
-PREMIERES
-
-# "2nd Chance" (Ramin Bahrani) [Premieres]
-
-"Cassandro" [Premieres]
-
-
-"Cat Person" [Premieres]
-
-
-"Deep Rising" [Premieres]
-
-
-"The Deepest Breath" [Premieres]
-
-
-"Drift" [Premieres]
-
-
-"Eileen" [Premieres]
-
-
-"Fairyland" [Premieres]
-
-
-"Food and Country" [Premieres]
-
-
-"Invisible Beauty" [Premieres]
-
-
-"It's Only Life After All" [Premieres]
-
-
-"Jamojaya" [Premieres]
-
-
-"Judy Blume Forever" [Premieres]
-
-
-"Landscape with Invisible Hand" [Premieres]
-
-
-"A Little Prayer" [Premieres]
-
-
-"Passages" [Premieres]
-
-
-"PLAN C" [Premieres]
-
-
-"The Pod Generation" [Premieres]
-
-
-"Pretty Baby: Brooke Shields" [Premieres]
-
-
-"Radical" [Premieres]
-
-
-"Rotting in the Sun" [Premieres]
-
-
-"Rye Lane" [Premieres]
-
-
-"Still: A Michael J. Fox Movie" [Premieres]
-
-
-"You Hurt My Feelings" [Premieres]
+"Young. Wild. Free." (Thembi L. Banks, US) [NEXT]
 
 
 MIDNIGHT
@@ -359,29 +277,109 @@ Mel_Little          6
 digimonbath         5
 gremlit             4   https://letterboxd.com/gremlit/film/talk-to-me-2022/
 
+PREMIERES
+
+"Cassandro" (Roger Ross Williams) [Premieres]
+
+
+"Cat Person" (Susanna Fogel, F/US) [Premieres]
+
+
+"Deep Rising" (Matthieu Rytz) [Premieres]
+ Doc
+
+"The Deepest Breath" (Laura McGann, UK/Ire) [Premieres]
+ Doc
+
+"Drift" (Anthony Chen, F/UK/Greece) [Premieres]
+
+
+"Eileen" (William Oldroyd) [Premieres]
+
+
+"Fairyland" (Andrew Durham) [Premieres]
+
+
+"Food and Country" (Laura Gabbert) [Premieres]
+
+
+"Invisible Beauty" (Bethann Hardison, Frédéric Tcheng) [Premieres]
+
+
+"It's Only Life After All" (Alexandria Bombach) [Premieres]
+
+
+"Jamojaya" (Justin Chon) [Premieres]
+
+
+"Judy Blume Forever" (Davina Pardo, Leah Wolchok) [Premieres]
+
+
+"Landscape with Invisible Hand" (Cory Finley) [Premieres]
+
+
+"A Little Prayer" (Angus MacLachlan) [Premieres]
+
+
+"Murder in Big Horn" (Razelle Benally, Matthew Galkin) [Premieres]
+ Doc
+
+"Passages" (Ira Sachs, F) [Premieres]
+
+
+"PLAN C" (Tracy Droz Tragos) [Premieres]
+ Doc
+
+"The Pod Generation" (Sophie Barthes, B/F/UK) [Premieres]
+
+
+"Pretty Baby: Brooke Shields" (Lana Wilson) [Premieres]
+ Doc
+
+"Radical" (Christopher Zalla) [Premieres]
+
+
+"Rotting in the Sun" (Sebastian Silva) [Premieres]
+
+
+"Rye Lane" (Raine Allen-Miller, UK) [Premieres]
+
+
+"Still: A Michael J. Fox Movie" (Davis Guggenheim) [Premieres]
+ Doc
+
+"You Hurt My Feelings" (Nicole Holofcener) [Premieres]
+
+NEW FRONTIERS
+
+"A Common Sequence" (Mary Helena Clark, Mike Gibisser) [Special Events]
+ Doc
+
+"Gush" (Fox Maxy) [Special Events]
+
+
+"Last Things" (Deborah Stratman) [Special Events]
+ Doc
+
 SPOTLIGHT
 
-# "After Yang" (Kogonada) [Spotlight] <i>Cannes</i> Alfred P. Sloan Feature Film Prize
+"The Eight Mountains" (Felix van Groeningen, Charlotte Vandermeersch) [Spotlight] <i>Cannes</i>
 
-"The Eight Mountains" [Spotlight] <i>Cannes</i>
+"L'immensità" (Emanuele Crialese, I) [Spotlight] <i>Venice</i>
 
-"L'immensità" (Emanuele Crialese) [Spotlight] <i>Venice</i>
+"Joyland" (Saim Sadiq, Pakistan/US) [Spotlight] <i>Cannes</i>
 
-"Joyland" (Saim Sadiq) [Spotlight] <i>Cannes</i>
+"Other People's Children" (Rebecca Zlotowski, F) [Spotlight] <i>TIFF</i>
 
-"Other People's Children" [Spotlight] <i>TIFF</i>
-
-"Squaring the Circle (The Story of Hipgnosis)" (Anton Corbijn) [Spotlight] <i>Telluride</i>
+"Squaring the Circle (The Story of Hipgnosis)" (Anton Corbijn, UK) [Spotlight] <i>Telluride</i>
  Doc
 
 KIDS
 
-# "Maika" (Ham Tran, Vie) [Kids]
-
-"Aliens Abducted My Parents and Now I Feel Kinda Left Out" [Kids]
+"Aliens Abducted My Parents and Now I Feel Kinda Left Out" (Jake Van Wagoner) [Kids]
 
 
-"The Amazing Maurice" [Kids]
+"The Amazing Maurice" (Toby Genkel, D/UK) [Kids]
 
 #letterboxd
 DonSoniec           10
@@ -409,7 +407,7 @@ hiffo               2   https://letterboxd.com/hiffo/film/the-amazing-maurice/
 Bafta               2
 Michael Prescott    1   https://letterboxd.com/msprescott/film/the-amazing-maurice/
 
-"Blueback" [Kids]
+"Blueback" (Robert Connolly, Aus) [Kids]
 
 #letterboxd
 tfogg               10
@@ -540,32 +538,95 @@ Nooso               2   https://letterboxd.com/nooso/film/blueback/
 Jan-Barra Hentschel 2
 Brian Tallerico     2
 
+INDIE EPISODIC PROGRAM
 
-NEW FRONTIERS
+"Chanshi (TV)" (Aleeza Chanowitz, Mickey Triest, Aaron Geva, Israel) [Special Events]
 
-"A Common Sequence" [Special Events]
+"The Night Logan Woke Up (TV)" (Xavier Dolan, Canada/France) [Special Events]
 
+"Poacher (TV)" (Richie Mehta) [Special Events]
 
-"Gush" [Special Events]
+"Willie Nelson And Family (TV)" (Thom Zimny, Oren Moverman) [Special Events] 
 
+FROM THE COLLECTION
 
-"Last Things" [Special Events]
+"The Doom Generation" (Gregg Araki, US 1995) [Special Events]
 
-
-FROM THE COLLECTION
-
-
-"Slam" [Special Events] <i>...</i>
-
-
-"The Doom Generation" [Special Events] <i>...</i>
-
+"Slam" (Marc Levin, US 1998) [Special Events]
 
 SLAMDANCE NARRATIVE FEATURES
 
 # "Ultrainnocence (Ultrainocencia)" (Manuel Arija de la Cuerda, Spa 2020) [Slamdance] <i>Tallin, Cluj</i>
 
+"A Perfect Day for Caribou" (Jeff Rutherford) [Slamdance]
+
+"Love Dump" (Jason Avezzano) [Slamdance] 
+
+"Mad Cats" (Reiki Tsuno) [Slamdance]
+
+"MiND MY GOOFiNESS: The Self Portrait" (Alex Michel) [Slamdance]
+
+"New Religion" (Keishi Kondo) [Slamdance]
+
+"Nut Jobs" (Alexandre Leblanc) [Slamdance]
+
+"Stars in the Ordinary Universe" (Bowon Kim) [Slamdance]
+
+"The Girl Who Was Cursed" (Zara Dwinger) [Slamdance]
+
+"Unicorn Boy" (Matt Kiel) [Slamdance]
+
+"Waiting for the Light to Change" (Linh Tran) [Slamdance]
+
+"Where the Road Leads" (Nina Ognjanović) [Slamdance]
+
+
+SLAMDANCE Breakouts
+
+"Fuzzy Head" (Wendy McColm) [Slamdance] 
+
+"Mascot Remy" (van Heugten) [Slamdance] 
+
+"Onlookers" (Kimi Takesue) [Slamdance] 
+
+"The Art of Silence" (Maurizius Staerkle Drux) [Slamdance] 
+ Doc
+
+"The Underbug" (Shujaat Saudagar) [Slamdance] 
+
+"Where Is the Lie?" (Quark Henares) [Slamdance] 
+
+SLAMDANCE Unstoppable Features
+
+"American Pot Story: Oaksterdam" (Dan Katzir & Ravit Markus) [Slamdance] 
+
+"OKAY! (The ASD Band Film)" (Mark Bone) [Slamdance] 
+
+"Sexual Healing" (Elsbeth Fraanje) [Slamdance] 
+
+"Sign the Show" (Cat Brewer) [Slamdance] 
+
+"Wisdom Gone Wild" (Rea Tajiri) [Slamdance] 
+
 SLAMDANCE DOCUMENTARY FEATURES
+
+"Cash Cow" (Matt Barats) [Slamdance] 
+
+"Cisco Kid" (Emily Kaye Allen) [Slamdance] 
+
+"Motel Drive" (Brendan Geraghty) [Slamdance] 
+
+"Silent Love" (Marek Kozakievicz) [Slamdance] 
+
+"Space Happy: Phil Thomas Katt and The Uncharted Zone" (Louis Crisitello) [Slamdance] 
+
+"Starring Jerry as Himself" (Law Chen) [Slamdance] 
+
+"Sweetheart Deal" (Elisa Levine & Gabriel Miller) [Slamdance] 
+
+"The Mad Writer" (Zach Kashkett) [Slamdance] 
+
+"With Peter Bradley" (Alex Rappoport) [Slamdance] 
 
 EOF
 
