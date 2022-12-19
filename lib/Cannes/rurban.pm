@@ -5,7 +5,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2022);
+our @YEARS = (2010..2023);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other"); #, "Hopeful (temp.)"
@@ -683,7 +683,7 @@ sub _list {
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
   if ($year eq '2023') {
-    @sections = qw[Predictions];
+    @sections = ($comp_section, "Predictions");
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
                  "Semaine", "ACID", "Other");
@@ -716,7 +716,10 @@ sub _list {
 }
 
 get '/Cannes' => sub {
-  _list(2022);
+  _list(2023);
+};
+get '/Cannes2023' => sub {
+  _list(2023);
 };
 get '/Cannes2022' => sub {
   _list(2022);
@@ -795,6 +798,9 @@ get '/2021' => sub {
 };
 get '/2022' => sub {
   _list(2022);
+};
+get '/2023' => sub {
+  _list(2023);
 };
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
