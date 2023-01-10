@@ -217,8 +217,12 @@ sub _dump {
     @sections = ($comp_section, "Encounters", "Panorama", "Generation",
                  "Perspektive Deutsches Kino", "Forum", "Special", "Retrospektive",
                  "Woche der Kritik" );
-    if ($year eq '2023') {
-        push @sections, qw[Predictions];
+    if ($year == 2023) {
+       @sections = ($comp_section, "Encounters", "Panorama", "Generation",
+                    "Perspektive Deutsches Kino", "Perspektive Gast",
+                    "Perspektive Match", "Forum",
+                    "Special", "Retrospektive", "Woche der Kritik" );
+       push @sections, qw[Predictions];
     }
   }
   my %sections = map {$_=>1} @sections;
