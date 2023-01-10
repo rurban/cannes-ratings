@@ -220,7 +220,7 @@ sub _dump {
     if ($year == 2023) {
        @sections = ($comp_section, "Encounters", "Panorama", "Generation",
                     "Perspektive Deutsches Kino", "Perspektive Gast",
-                    "Perspektive Match", "Forum",
+                    "Perspektive Match", "Forum", "Forum Expanded",
                     "Special", "Retrospektive", "Woche der Kritik" );
        push @sections, qw[Predictions];
     }
@@ -426,7 +426,7 @@ sub _dump {
       }
     }
     if ($year >= 2020 or $num) {
-      next if $year >= 2020 and $section =~ /^(Native|Panorama 40|Forum Expanded)$/;
+      next if $year >= 2020 and $section =~ /^(Native|Panorama 40)$/;
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
