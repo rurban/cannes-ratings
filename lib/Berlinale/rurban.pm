@@ -2,6 +2,7 @@ package Berlinale::rurban;
 our @ISA = ('Cannes::rurban');
 use Dancer ':syntax';
 use File::Basename ();
+use Time::Piece;
 use utf8;
 
 our $VERSION = '0.2';
@@ -222,7 +223,11 @@ sub _dump {
                     "Perspektive Deutsches Kino", "Perspektive Gast",
                     "Perspektive Match", "Forum", "Forum Expanded",
                     "Special", "Retrospektive", "Woche der Kritik" );
-       push @sections, qw[Predictions];
+       # show predictions until this date
+       my $finaldate = Time::Piece->strptime('1 February 2023', '%d %B %Y')->epoch;
+       if (CORE::time() < $finaldate) {
+           push @sections, qw[Predictions];
+       }
     }
   }
   my %sections = map {$_=>1} @sections;
