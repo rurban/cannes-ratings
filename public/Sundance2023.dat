@@ -303,12 +303,10 @@ arbolea             7
 
 MIDNIGHT
 
-# "Babysitter" (Monia Chokri, Can) [Midnight]
-
-"Birth/Rebirth" [Midnight]
+"Birth/Rebirth" (Laura Moss) [Midnight]
 
 
-"In My Mother’s Skin" [Midnight]
+"In My Mother’s Skin" (Kenneth Dagatan, Phi 2022) [Midnight]
 
 #letterboxd
 Irene Soriano       10
@@ -318,13 +316,12 @@ Irene Soriano       10
 #letterboxd
 Letterboxd 25_Ratings	8.4  https://letterboxd.com/film/infinity-pool/
 
-"My Animal" [Midnight]
-
+"My Animal" (Jacqueline Castel, Can) [Midnight]
 
 #letterboxd
 Josh @ The Movies   7
 
-"Onyx the Fortuitous and the Talisman of Souls" [Midnight]
+"Onyx the Fortuitous and the Talisman of Souls" (Andrew Bowser) [Midnight]
 
 #letterboxd
 Clark Baker         10
@@ -333,7 +330,7 @@ Ben                 10
 Mary Alice Reisse   7
 FilmVoyeur          6
 
-"Polite Society" [Midnight]
+"Polite Society" (Nida Manzoor, UK) [Midnight]
 
 #letterboxd
 alvarobernal        10
@@ -352,12 +349,12 @@ tsubofilm           2
 Tomie De Filippo    2
 sumeya              2
 
-"Run Rabbit Run" [Midnight]
+"Run Rabbit Run" (Daina Reid, Aus) [Midnight]
 
 #letterboxd
 mishari20           8
 
-"Talk to Me" (Michael+Danny Philippou) [Midnight] <i>Adelaide</i>
+"Talk to Me" (Michael+Danny Philippou, Aus) [Midnight] <i>Adelaide</i>
 
 #letterboxd
 Letterboxd 25_Ratings	9.4  https://letterboxd.com/film/talk-to-me-2022/
@@ -409,7 +406,7 @@ Letterboxd 11_Ratings	9.73  https://letterboxd.com/film/eileen-2023/
 #letterboxd
 Wigga007            2
 
-"Flora and Son" (John Carney) [Premieres]
+"Flora and Son" (John Carney, US/Ire) [Premieres]
 
 
 "Food and Country" (Laura Gabbert) [Premieres]
@@ -500,7 +497,7 @@ NEW FRONTIERS
 "Gush" (Fox Maxy) [Special Events]
 
 
-"Last Things" (Deborah Stratman) [Special Events]
+"Last Things" (Deborah Stratman, US/Por/F) [Special Events]
  Doc
 
 SPOTLIGHT
@@ -510,31 +507,6 @@ SPOTLIGHT
 Cannes _481_Ratings   6.70   https://cannes-ratings.tk/Cannes2022?t=173#173
 #letterboxd
 Letterboxd 6027_Ratings	7.96  https://letterboxd.com/film/the-eight-mountains/
-Ellis               10
-m1r1                10
-angelateot          10   https://letterboxd.com/angelateot/film/the-eight-mountains/
-MarcusTommen        10
-Adma98              10
-tomroton            10
-TheReaLudoz         10   https://letterboxd.com/therealudoz/film/the-eight-mountains/
-liesdel             10
-aannatheaa          10
-Xaturnia            10
-sciarpasporca       10
-AnouchaH            10
-aldobonfa           10
-Noemi Sala          10
-serenatzz           10
-jippiejajeemay      10
-furlaaa             10
-SerProp             10
-mariasolegnagno     10
-Zarzamora           10
-Irene Galletti      10
-Simon               10
-norwegianforest     10
-ddania              10
-sqrtStefano         10
 
 "L'immensità" (Emanuele Crialese, I) [Spotlight] <i>Venice</i>
 
@@ -607,7 +579,6 @@ Letterboxd 19656_Ratings	7.28  https://letterboxd.com/film/the-doom-generation/
 Letterboxd 1732_Ratings	7.02  https://letterboxd.com/film/klondike-2022/
 
 "Navalny" (Daniel Rohrer, US 2022) [Special Events] <i>Sundance 2022</i>
-
 
 #letterboxd
 Letterboxd 7891_Ratings	7.72  https://letterboxd.com/film/navalny/
@@ -1035,14 +1006,14 @@ our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2022.dat
+https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2023.dat
 
 </pre>";
 
 # links:
-# https://letterboxd.com/rurban/list/sundance-slamdance-2021/
+# https://letterboxd.com/seanliu/list/sundance-2023/
 # https://twitter.com/search?q=%23sundance%20review
-# http://www.theguardian.com/film/sundance-2021
+# http://www.theguardian.com/film/sundance-2023
 # http://www.indiewire.com/critic/
 # https://www.latimes.com/topic/sundance-film-festival
 
