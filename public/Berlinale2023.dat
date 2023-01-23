@@ -8,37 +8,66 @@ our $DATA= <<'EOF';
 
 WETTBEWERB
 
-"20,000 Species of Bees" (Estibaliz Urresola Solaguren) [Wettbewerb]
+"20,000 Species of Bees (20.000 especies de abejas)" (Estibaliz Urresola Solaguren) [Wettbewerb]
 
-"The Shadowless Tower" (Zhang Lu) [Wettbewerb]
+"The Shadowless Tower (白塔之光)" (Zhang Lu) [Wettbewerb]
 
-"Bis ans Ende der Nacht" (Christoph Hochhäusler) [Wettbewerb]
+"Bis ans Ende der Nacht (Learning to Die)" (Christoph Hochhäusler) [Wettbewerb]
 
 "BlackBerry" (Matt Johnson) [Wettbewerb]
 
+#letterboxd
+ethanfzz            8
+duncanfroomer       7
+
 "Disco Boy" (Giacomo Abbruzzese) [Wettbewerb]
 
-"The Plough" (Philippe Garrel) [Wettbewerb]
+"The Plough (La lune crevée)" (Philippe Garrel) [Wettbewerb]
 
-"Ingeborg Bachmann - Reise in die Wüste" (Margarethe von Trotta) [Wettbewerb]
+"Ingeborg Bachmann - Reise in die Wüste (Bachmann & Frisch)" (Margarethe von Trotta) [Wettbewerb]
 
 "Irgendwann werden wir uns alles erzählen" (Emily Atef) [Wettbewerb]
 
 "Limbo" (Ivan Sen) [Wettbewerb]
 
-"Bad Living" (João Canijo) [Wettbewerb]
+"Bad Living (Mal Viver)" (João Canijo) [Wettbewerb]
 
 "Manodrome" (John Trengove) [Wettbewerb]
 
+#letterboxd
+Marco Dutra         10
+namirian            9
+
 "Music" (Angela Schanelec) [Wettbewerb]
+
+#letterboxd
+michelpoulet        8
 
 "Past Lives" (Celine Song) [Wettbewerb] <i>Sundance</i>
 
-"Roter Himmel" (Christian Petzold) [Wettbewerb]
+#Peter Debruge           https://variety.com/2023/film/reviews/past-lives-review-celine-song-1235498019/
+#Tim Grierson            https://www.screendaily.com/reviews/past-lives-sundance-review/5178363.article
+#Benjamin Lee      8    https://www.theguardian.com/film/2023/jan/22/past-lives-review-delicately-sad-romantic-drama-is-a-real-achievement
+#David Ehrlich       A-   https://www.indiewire.com/2023/01/past-lives-movie-review-1234802344/
+#letterboxd
+Letterboxd 25_Ratings	10.0  https://letterboxd.com/film/past-lives/
+
+"Roter Himmel (The Red Sky)" (Christian Petzold) [Wettbewerb]
 
 "On the Adamant" (Nicolas Philibert) [Wettbewerb]
 
 "The Survival of Kindness" (Rolf de Heer) [Wettbewerb]
+
+#letterboxd
+mewujz              9
+Dylan Browne        9
+Blake Battersby     8
+SimonHK             8
+Marcus              7
+Shea                7
+Aden Beaver         6
+Raquel Trejo        6
+Buddy_O             5
 
 "Suzume" (Makoto Shinkai, J 2022) [Wettbewerb] <i>Jap. Release</i>
  IP, Anim
@@ -46,9 +75,59 @@ WETTBEWERB
 #letterboxd
 Letterboxd 302_Ratings	7.6  https://letterboxd.com/film/suzume/
 
-"Tótem" (Lila Avilés) [Wettbewerb]
+"TÓTEM" (Lila Avilés) [Wettbewerb]
 
 ENCOUNTERS
+
+"Adentro mío estoy bailando" [Encounters]
+
+
+"The Adults" [Encounters]
+
+
+"The Echo" [Encounters]
+
+
+"Untitled Bas Devos Project" [Encounters]
+
+
+"Im toten Winkel" [Encounters]
+
+
+"Kletka ishet ptitsu" [Encounters]
+
+
+"Where God Is Not" [Encounters]
+
+
+"White Plastic Sky" [Encounters]
+
+#letterboxd
+BotondTobai         10
+
+"in water" [Encounters]
+
+
+"Family Time" [Encounters]
+
+
+"Le mura di Bergamo" [Encounters]
+
+
+"Orlando, My Political Biography" [Encounters]
+
+
+"Samsara" [Encounters]
+
+
+"Shidniy front" [Encounters]
+
+
+"Living Bad" [Encounters]
+
+
+"The Soul of Goldfish" [Encounters]
+
 
 PANORAMA
 
@@ -80,27 +159,46 @@ Letterboxd 12_Ratings	7.2  https://letterboxd.com/film/hello-dankness/
 
 #letterboxd
 Letterboxd 10_Ratings	8.2  https://letterboxd.com/film/inside-2023-1/
+oNOX                10
+Neto                10
+Jean Car            9
+ink                 8
+Lubynstein          8
+Ahmet Arif Alkan    8
+Fifth Synth         8
+Matt_T              7
+AJmoviereviewz      7
+hatmands            7
 
 "Iron Butterflies" (Roman Lyubiy, Ukraine) [Panorama] <i>Sundance</i>
  EP, Doc
 
 Screendaily             https://www.screendaily.com/reviews/iron-butterflies-sundance-review/5178253.article
 #letterboxd
+Jorge Gutierrez     10
 pablopulp           10
 Austin Smith        8
+chuckokellogg       7
 Alan French         7
+Hossein Eidizadeh   6
 Carson Timar        6
 sgtpeppah           6
+Eren Odabasi        5
 Rosa Parra          5
 moremsgplease       5
+Amy                 4
 kerem_akca          4
 Marco Cerritos      4
+Seth                3
 
 "Passages" (Ira Sachs, F) [Panorama] <i>Sundance</i>
  EP
 
 #letterboxd
 Letterboxd 3_Ratings	6.3  https://letterboxd.com/film/passages-2023/
+maddieneil          9
+ternesusa           6
+hyperscary          4
 
 "Perpetrator" (Jennifer Reeder, USA) [Panorama]
  WP
@@ -112,12 +210,14 @@ Letterboxd 3_Ratings	6.3  https://letterboxd.com/film/passages-2023/
 
 #letterboxd
 Letterboxd 1_Ratings	8.0  https://letterboxd.com/film/reality-2023/
+FabianHaupt         8
 
 "Silver Haze" (Sacha Polak, NL/UK) [Panorama]
  WP, release 2.3. NL
 
 #letterboxd
 Letterboxd 1_Ratings	6.0  https://letterboxd.com/film/silver-haze/
+Katalin             6
 
 "The Siren" (Sepideh Farsi, Iran) [Panorama]
  WP, Anim
@@ -129,6 +229,9 @@ Letterboxd 1_Ratings	6.0  https://letterboxd.com/film/silver-haze/
 
 #letterboxd
 Letterboxd 3_Ratings	7.3  https://letterboxd.com/film/stams/
+consdanse           10
+BananaSam           8
+DonkThreiner        4
 
 "The Quiet Migration (Stille Liv)" (Malene Choi Jensen, Den) [Panorama]
  WP
@@ -283,6 +386,11 @@ eiennotoso          1   https://letterboxd.com/eiennotoso/film/no-stranger-at-al
 
 #letterboxd
 Letterboxd 5_Ratings	8.2  https://letterboxd.com/film/a-very-long-gif/
+Inés                10
+JoanPamiesLl        10
+catalyna            9
+Giancarlo M. Sandoval 6   https://letterboxd.com/inconstantloop/film/a-very-long-gif/
+Roberto Gonzalez    6
 
 BERLINALE SPECIAL
 
@@ -297,6 +405,8 @@ nicksmithkjr        8
  EP
 
 Ryan Lattanzio      C   https://www.indiewire.com/2023/01/infinity-pool-review-mia-goth-alexander-skarsgard-brandon-cronenberg-1234802492/
+Peter Debruge           https://variety.com/2023/film/reviews/infinity-pool-review-alexander-skarsgard-mia-goth-brandon-cronenberg-1235498197/
+Tim Grierson            https://www.screendaily.com/reviews/infinity-pool-sundance-review/5178377.article
 #letterboxd
 Letterboxd 25_Ratings	9.7  https://letterboxd.com/film/infinity-pool/
 
@@ -304,6 +414,7 @@ Letterboxd 25_Ratings	9.7  https://letterboxd.com/film/infinity-pool/
  Anim
 
 #letterboxd
+Konstantin Hirschmann 9
 
 "Kiss the Future" (Nenad Cicin-Sain, US/Irl) [Special]
  WP, Doc
@@ -319,6 +430,7 @@ Letterboxd 25_Ratings	9.7  https://letterboxd.com/film/infinity-pool/
  WP
 
 #letterboxd
+lotz98              9
 
 "TÁR" (Todd Field, US 2022) [Special] <i>Venice</i>
  German Premiere
@@ -651,10 +763,16 @@ Jan                 4   https://letterboxd.com/jan97/film/wann-wird-es-endlich-w
 
 #letterboxd
 Letterboxd 5_Ratings	6.8  https://letterboxd.com/film/sisi-i/
+LordMontgomery      8
+Abel                8
+Phil                7
+saskiad             6
+sophiemargot        5
 
 "Andrea lässt sich scheiden" [Predictions]
 
 #letterboxd
+ichibata            6
 
 "Beau Is Afraid" (Ari Aster) [Predictions]
 
@@ -787,6 +905,7 @@ uncle_funk          3
 
 
 #letterboxd
+AfsinAkin           8
 CriticasDeAPie      6
 aligpls             4
 
@@ -836,6 +955,7 @@ nicksmithkjr        6
 
 
 #letterboxd
+manchee             8
 tokpoetry           6
 
 "Summer Frost" [Predictions]
@@ -857,7 +977,6 @@ Arnotte             5
 
 
 #letterboxd
-zaijhan97           10
 Ivoryf              10
 juniper             10
 matthewcutchen      10
@@ -885,6 +1004,7 @@ Adam Graham         7
 
 
 #letterboxd
+Jean-François lamarche 7
 alexbuteyko         7
 sameideal           6
 LucileLu            5
@@ -910,6 +1030,9 @@ LucileLu            5
 
 
 #letterboxd
+tototoomuch         10
+romono              10
+Iorenzo             7
 Charlie             6
 Lazarenko           5
 
@@ -926,12 +1049,14 @@ Lazarenko           5
 
 
 #letterboxd
+rodrigort           8
 nilasds             4
 
 "La Vénus d'argent" [Predictions]
 
 
 #letterboxd
+eudevaneio          10
 
 "The Perfect Boyfriend" [Predictions]
 
@@ -943,6 +1068,7 @@ nilasds             4
 
 
 #letterboxd
+LeelouH             2
 
 "Viet and Nam" [Predictions]
 
@@ -961,7 +1087,6 @@ Jack Sheehy         5
 "Strangers" [Predictions]
 
 #letterboxd
-rumsi               8
 Nbalififij          8
 chengzhi            8
 Egehan_akan         8
@@ -1052,6 +1177,7 @@ Sylva Häutle        8
 
 
 #letterboxd
+Michael M.          9   https://letterboxd.com/morgh/film/revolution1/
 matteoB             8   https://letterboxd.com/matteob/film/revolution1/
 Filipe Furtado      8   https://letterboxd.com/filipe_furtado/film/revolution1/
 
@@ -1059,6 +1185,7 @@ Filipe Furtado      8   https://letterboxd.com/filipe_furtado/film/revolution1/
 
 
 #letterboxd
+Julian              7
 
 "Fantastic Machine" [Predictions]
 
@@ -1091,6 +1218,16 @@ LouanN              4
 
 #letterboxd
 Letterboxd 10_Ratings	6.5  https://letterboxd.com/film/the-temple-woods-gang/
+LC387               9
+paullhiabastres     9
+Teragneau           8
+Max_dg              8
+thoshelb            8   https://letterboxd.com/thoshelb/film/the-temple-woods-gang/
+cumpana             6
+Jules Conchy        6
+Hemming             6
+Ali Ercivan         3
+NicolasBardot       2
 
 "Je verrai toujours vos visages" [Predictions]
 
