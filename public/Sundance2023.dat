@@ -15,7 +15,7 @@ our $DATA= <<'EOF';
 
 U.S. DRAMATIC COMPETITION
 
-"The Accidental Getaway Driver" (Sing J. Lee) [U.S. Dramatic]
+"The Accidental Getaway Driver" (Sing J. Lee) [U.S. Dramatic] Directing Award
 
 Christian Blauvelt  B-   https://www.indiewire.com/2023/01/the-accidental-getaway-driver-review-1234802837/
 Tomris Laffly           https://variety.com/2023/film/reviews/the-accidental-getaway-driver-review-1235502836/
@@ -566,7 +566,7 @@ smalinow97          5
 Philip Utley        4
 Wesley              4
 
-"Magazine Dreams" (Elijah Bynum) [U.S. Dramatic]
+"Magazine Dreams" (Elijah Bynum) [U.S. Dramatic] Special Jury Award: Creative Vision
 
 Kate Erbland        B   https://www.indiewire.com/2023/01/magazine-dreams-review-jonathan-majors-1234798022/
 Jordan Raup           C+  https://thefilmstage.com/sundance-review-magazine-dreams-gives-jonathan-majors-a-powerhouse-showcase-in-repetitively-nihilistic-drama/
@@ -697,7 +697,7 @@ Kyle                7   https://letterboxd.com/kwooldridge/film/magazine-dreams/
 Matthew Hoeck       7
 Annie Mae           7
 
-"Mutt" (Vuk Lungulov-Klotz) [U.S. Dramatic]
+"Mutt" (Vuk Lungulov-Klotz) [U.S. Dramatic] Special Jury Award: Acting
 
 Brian Welk             https://www.indiewire.com/2023/01/mutt-a-thousand-and-one-open-captions-sundance-1234802441/
 Jude Dry            B   https://www.indiewire.com/2023/01/mutt-review-trans-man-1234802961/
@@ -802,7 +802,7 @@ Garret Dunn         5
 Sam Rosenberg       4   https://letterboxd.com/samjrose/film/mutt-2023/
 malxonmalx          3   https://letterboxd.com/malxonmalx/film/mutt-2023/
 
-"The Persian Version" (Maryam Keshavarz) [U.S. Dramatic]
+"The Persian Version" (Maryam Keshavarz) [U.S. Dramatic] Audience Award, Screenwriting Award
 
 Lisa Kennedy            https://variety.com/2023/film/reviews/the-persian-version-review-1235498076/
 Leslie Felperin    7   https://www.hollywoodreporter.com/movies/movie-reviews/the-persian-version-review-1235306486/
@@ -1285,7 +1285,7 @@ Alexandria Caruso   7
 Trey Wootton        7
 jordan              7
 
-"Theater Camp" (Molly Gordon, Nick Lieberman) [U.S. Dramatic]
+"Theater Camp" (Molly Gordon, Nick Lieberman) [U.S. Dramatic] Special Jury Award: Ensemble
 
 Tim Grierson            https://www.screendaily.com/reviews/theater-camp-sundance-review/5178366.article
 Kate Erbland        A-   https://www.indiewire.com/2023/01/theater-camp-review-1234798024/
@@ -1545,7 +1545,7 @@ Devin Tusa          8
 TristinBrown        8
 AmandaTheJedi       8
 
-"A Thousand and One" (A.V. Rockwell) [U.S. Dramatic]
+"A Thousand and One" (A.V. Rockwell) [U.S. Dramatic] Grand Jury Prize
 
 Tim Grierson            https://www.screendaily.com/reviews/a-thousand-and-one-sundance-review/5178376.article
 Jessica Kiang           https://variety.com/2023/film/reviews/a-thousand-and-one-review-1235498551/
@@ -1819,7 +1819,7 @@ Yortj               6   https://letterboxd.com/yortj/film/aum-the-cult-at-the-en
 J0shw               6
 seabaer             6   https://letterboxd.com/seabaer/film/aum-the-cult-at-the-end-of-the-world/
 
-"Bad Press" (Joe Peeler, Rebecca Landsberry-Baker) [U.S. Documentaries]
+"Bad Press" (Joe Peeler, Rebecca Landsberry-Baker) [U.S. Documentaries] Special Jury Award: Freedom of Expression
 
 Dennis Harvey           https://variety.com/2023/film/reviews/bad-press-review-1235497263/
 #letterboxd
@@ -1923,7 +1923,7 @@ Nick                6   https://letterboxd.com/nickmcelroy/film/bad-press/
 Jordan Raup         6
 jackcomstock        5   https://letterboxd.com/jackcomstock/film/bad-press/
 
-"Beyond Utopia" (Madeleine Gavin) [U.S. Documentaries]
+"Beyond Utopia" (Madeleine Gavin) [U.S. Documentaries] Audience Award
 
 Fionnuala Halligan      https://www.screendaily.com/reviews/beyond-utopia-sundance-review/5178359.article
 Owen Gleiberman         https://variety.com/2023/film/reviews/beyond-utopia-review-1235499970/
@@ -2179,8 +2179,7 @@ Kenny Montano       5   https://letterboxd.com/reformedkenny/film/the-disappeara
 Shelli              5
 Nautical_Puns       4   https://letterboxd.com/nautical_puns/film/the-disappearance-of-shere-hite/
 
-"Going To Mars: The Nikki Giovanni Project" (Joe Brewster, Michèle Stephenson) [U.S. Documentaries]
-
+"Going To Mars: The Nikki Giovanni Project" (Joe Brewster, Michèle Stephenson) [U.S. Documentaries] Grand Jury Prize
 
 Robert Daniels      B-   https://www.indiewire.com/2023/01/going-to-mars-the-nikki-giovanni-project-review-1234802008/
 Lisa Kennedy            https://variety.com/2023/film/reviews/going-to-mars-the-nikki-giovanni-project-review-1235496743/
@@ -2278,7 +2277,7 @@ ericcook            7   https://letterboxd.com/ericcook/film/going-to-mars-the-n
 Bob Davidson        7
 kerem_akca          6
 
-"Going Varsity In Mariachi" (Alejandra Vasquez, Sam Osborn) [U.S. Documentaries]
+"Going Varsity In Mariachi" (Alejandra Vasquez, Sam Osborn) [U.S. Documentaries] Editing Award
 
 Fionnuala Halligan      https://www.screendaily.com/reviews/going-varsity-in-mariachi-sundance-review/5178367.article
 Esther Zuckerman    B-   https://www.indiewire.com/2023/01/going-varsity-in-mariachi-review-documentary-1234801628/
@@ -2581,7 +2580,7 @@ Alex Greenberger    7   https://letterboxd.com/agreenberger/film/nam-june-paik-m
 Cody Dericks        6   https://letterboxd.com/codymonster91/film/nam-june-paik-moon-is-the-oldest-tv/
 Julia Merolle       6
 
-"A Still Small Voice" (Luke Lorentzen) [U.S. Documentaries]
+"A Still Small Voice" (Luke Lorentzen) [U.S. Documentaries] Directing Award
 
 Dan Mecca             A-  https://thefilmstage.com/sundance-review-a-still-small-voice-captures-good-people-navigating-constant-crisis/
 #letterboxd
@@ -2663,7 +2662,7 @@ nik guiney          6   https://letterboxd.com/nikguiney/film/a-still-small-voic
 MovieGrant          6   https://letterboxd.com/moviegrant/film/a-still-small-voice/
 Jesse Nesser        5
 
-"The Stroll" (Zackary Drucker, Kristen Parker Lovell) [U.S. Documentaries]
+"The Stroll" (Zackary Drucker, Kristen Parker Lovell) [U.S. Documentaries] Special Jury Award: Clarity of Vision
 
 Jude Dry            B+   https://www.indiewire.com/2023/01/the-stroll-review-documentary-trans-sex-workers-1234803078/
 John Fink             B  https://thefilmstage.com/sundance-review-the-stroll-is-a-lively-look-at-the-nyc-history-of-trans-sex-workers/
@@ -2841,7 +2840,7 @@ fran hoepfner       3   https://letterboxd.com/franhoepfner/film/victim-suspect/
 
 WORLD CINEMA DRAMATIC COMPETITION
 
-"Animalia" (Sofia Alaoui, Morocco) [World Dramatic]
+"Animalia" (Sofia Alaoui, Morocco) [World Dramatic] Special Jury Award: Creative Vision
 
 Wendy Ide               https://www.screendaily.com/reviews/animalia-sundance-review/5177889.article
 Jessica Kiang           https://variety.com/2023/film/reviews/animalia-review-parmi-nous-1235491276/
@@ -3343,7 +3342,7 @@ peytondani          6   https://letterboxd.com/peytondani/film/mamacruz/
 Tyler Walczak       6
 laslo rojas         6
 
-"Mami Wata" (C.J. ‘Fiery’ Obasi, Nigeria) [World Dramatic]
+"Mami Wata" (C.J. ‘Fiery’ Obasi, Nigeria) [World Dramatic] Special Jury Award: Cinematography
 
 Katie Rife          B   https://www.indiewire.com/2023/01/mami-wata-review-1234803636/
 #letterboxd
@@ -3455,7 +3454,7 @@ mango mango         10
 Alejandro Riera     8
 Lipi                7
 
-"Scrapper" (Charlotte Regan, UK) [World Dramatic]
+"Scrapper" (Charlotte Regan, UK) [World Dramatic] Grand Jury Prize
 
 Wendy Ide               https://www.screendaily.com/reviews/scrapper-sundance-review/5178070.article
 Adam Solomons       B+   https://www.indiewire.com/2023/01/scrapper-review-harris-dickinson-1234802580/
@@ -3631,7 +3630,7 @@ Orla Smith          5
 gschueler           5
 eal                 5
 
-"Shayda" (Noora Niasari, Aus/Iran) [World Dramatic]
+"Shayda" (Noora Niasari, Aus/Iran) [World Dramatic] Audience Award
 
 Tim Grierson            https://www.screendaily.com/reviews/shayda-sundance-review/5178127.article
 Susannah Gruder     B+   https://www.indiewire.com/2023/01/shayda-review-sundance-1234803176/
@@ -3752,7 +3751,7 @@ Trunnie             7
 jkatwatson          6   https://letterboxd.com/jkatwatson/film/shayda/
 TristinBrown        6
 
-"Slow" (Marija Kavtaradzė, Lithuania) [World Dramatic]
+"Slow" (Marija Kavtaradzė, Lithuania) [World Dramatic] Directing Award
 
 #letterboxd
 Elisha Gustafson    10
@@ -3985,7 +3984,7 @@ Marya E. Gates      4   https://letterboxd.com/oldfilmsflicker/film/sorcery-2023
 ivy 🌚               4   https://letterboxd.com/eyeveeeee/film/sorcery-2023/
 Vadim Rizov         4
 
-"When It Melts (Het smelt)" (Veerle Baetens, Belgium) [World Dramatic]
+"When It Melts (Het smelt)" (Veerle Baetens, Belgium) [World Dramatic] Special Jury Award: Best Performanc
 
 Allan Hunter            https://www.screendaily.com/reviews/when-it-melts-sundance-review/5177944.article
 #letterboxd
@@ -4151,7 +4150,7 @@ j_sal               6
 Vadim Rizov         5
 eparodi             5
 
-"20 Days In Mariupol" (Mstyslav Chernov, Ukraine) [World Documentaries]
+"20 Days In Mariupol" (Mstyslav Chernov, Ukraine) [World Documentaries] Audience Award
 
 Steve Pond         8.2 https://www.thewrap.com/20-days-in-mariupol-review-ukraine-war-documentary/
 Allan Hunter       8   https://www.screendaily.com/reviews/20-days-in-mariupol-review/5178069.article
@@ -4290,7 +4289,7 @@ Ed Gonzalez         7
 Adam Solomons       7
 igor_s__            6
 
-"Against The Tide" (Sarvnik Kaur, India) [World Documentaries]
+"Against The Tide" (Sarvnik Kaur, India) [World Documentaries] Special Jury Award: Verite Filmmaking 
 
 Siddhant Adlakha    B+   https://www.indiewire.com/2023/01/against-the-tide-documentary-review-1234802103/
 Michael Frank         B  https://thefilmstage.com/sundance-review-against-the-tide-examines-shifting-ideals-in-a-bombay-fishing-community/
@@ -4359,7 +4358,7 @@ filmvixen           4
 kerem_akca          4
 Coryyyy             4
 
-"The Eternal Memory" (Maite Alberdi, Chile) [World Documentaries]
+"The Eternal Memory" (Maite Alberdi, Chile) [World Documentaries] Grand Jury Prize
 
 Jonathan Holland        https://www.screendaily.com/reviews/the-eternal-memory-sundance-review/5178177.article
 #letterboxd
@@ -4467,7 +4466,7 @@ Ed Gonzalez         6
 Marya E. Gates      6   https://letterboxd.com/oldfilmsflicker/film/the-eternal-memory/
 Vadim Rizov         5
 
-"Fantastic Machine" (Axel Danielson, Maximilien Van Aertryck, Den/Swe) [World Documentaries]
+"Fantastic Machine" (Axel Danielson, Maximilien Van Aertryck, Den/Swe) [World Documentaries] Special Jury Award: Creative Vision
 
 Allan Hunter            https://www.screendaily.com/reviews/fantastic-machine-sundance-review/5177763.article
 #letterboxd
@@ -4949,7 +4948,7 @@ Akram Herrak        6
 Russell             5   https://letterboxd.com/russbuss1/film/pianoforte-2023/
 Li Lai              5
 
-"Smoke Sauna Sisterhood" (Anna Hints, Estonia) [World Documentaries]
+"Smoke Sauna Sisterhood" (Anna Hints, Estonia) [World Documentaries] Directing Award
 
 Allan Hunter            https://www.screendaily.com/reviews/smoke-sauna-sisterhood-sundance-review/5177764.article
 #letterboxd
@@ -5623,7 +5622,7 @@ ElleDubbs           6   https://letterboxd.com/elledubbs/film/king-coal-2023/
 Orla Smith          6
 Emma Pillsbury      5
 
-"Kokomo City" (D. Smith, US) [NEXT]
+"Kokomo City" (D. Smith, US) [NEXT] NEXT Innovator Award, Audience Award
 
 Amber Wilkinson         https://www.screendaily.com/reviews/kokomo-city-sundance-review/5178104.article
 Jude Dry            A-   https://www.indiewire.com/2023/01/kokomo-city-review-d-smith-trans-film-1234804094/
@@ -8998,7 +8997,7 @@ Kristen             6
 Chase Hutchinson    5   https://letterboxd.com/hutchthegreat/film/pretty-baby-brooke-shields/
 Laurawiththecurlyhair 4
 
-"Radical" (Christopher Zalla) [Premieres]
+"Radical" (Christopher Zalla) [Premieres] Festival Favorite Award
 
 Carlos Aguilar      B-   https://www.indiewire.com/2023/01/radical-review-eugenio-derbez-1234801998/
 Tim Grierson            https://www.screendaily.com/reviews/radical-sundance-review/5178314.article
