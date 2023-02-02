@@ -787,6 +787,10 @@ CRITICS WEEK
 #"Capitu and the Chapter" (Júlio Bressane, Br 2021)  [Woche der Kritik]
 # 75min
 
+EOF
+
+our $PREDICTIONS= <<'EOF';
+
 PREDICTIONS
 
 "The Crime Is Mine" [Predictions]
@@ -1329,7 +1333,6 @@ Sebastian Hafner    4
 
 
 "Ten Little Mistresses" [Predictions]
-
 
 EOF
 

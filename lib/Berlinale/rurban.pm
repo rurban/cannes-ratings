@@ -350,7 +350,7 @@ sub _dump {
     $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
   }
   my $list = '';
-  for (@t) { 
+  for (@t) { # Very Good New Films
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
@@ -380,7 +380,7 @@ sub _dump {
   my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
-  for (@t) { 
+  for (@t) { # Good New Films
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num}; 
