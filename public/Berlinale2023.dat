@@ -8,7 +8,7 @@ our $DATA= <<'EOF';
 
 WETTBEWERB
 
-"20,000 Species of Bees (20.000 especies de abejas)" (Estibaliz Urresola Solaguren) [Wettbewerb]
+"20,000 Species of Bees (20.000 especies de abejas)" (Estibaliz Urresola Solaguren) [Wettbewerb] Best Leading Performance
 
 Guy Lodge               https://variety.com/2023/film/reviews/20000-species-of-bees-review-1235531254/
 Lee Marshall            https://www.screendaily.com/reviews/20000-species-of-bees-berlin-review/5179537.article
@@ -218,7 +218,7 @@ Karsten Munt          6
 Jonas Nestroy         6
 Tilman Schumacher     6
 
-"Bis ans Ende der Nacht (Learning to Die)" (Christoph Hochhäusler) [Wettbewerb]
+"Bis ans Ende der Nacht (Till the End of the Night)" (Christoph Hochhäusler) [Wettbewerb] Best Supporting Performance for Thea Ehrle
 
 #critic.de
 Andrey Arnold         7.5
@@ -229,6 +229,32 @@ Michael Kienzl        5
 G.Marchini Camia      7.5
 Jonas Nestroy         5
 Philipp Schwarz       5
+#letterboxd
+Pablo Villaça       8
+Mariana             8
+Salatkruemel        8
+Dominic Schmid      8
+diedaderda          7
+SlimSchmiddy        7
+Clemens             7
+D.K.                7
+Crayfish            7
+Moritz_St           7
+Niels_D             7
+Cedric Muyres       7
+Michael Granados    6
+Chhabs              6
+OskarStolo          6
+Bruno Carmelo       6   https://letterboxd.com/brunocarmelo/film/till-the-end-of-the-night-2023/
+annifrieda          6
+hannahkoe           6
+Mart Noorkõiv       6   https://letterboxd.com/kinemart/film/till-the-end-of-the-night-2023/
+Christian Ihle      6
+Matthias Damm       6
+Carsten Baumgardt   6
+Pavao Vlajcic       6   https://letterboxd.com/powwow/film/till-the-end-of-the-night-2023/
+Fabian Wallmeier    6   https://letterboxd.com/declanmacmanus/film/till-the-end-of-the-night-2023/
+emadinicola         6
 
 "BlackBerry" (Matt Johnson) [Wettbewerb]
 
@@ -344,7 +370,7 @@ Karsten Munt          5
 Jonas Nestroy         5
 Philipp Schwarz       4
 
-"Disco Boy" (Giacomo Abbruzzese) [Wettbewerb]
+"Disco Boy" (Giacomo Abbruzzese) [Wettbewerb] Best Camera
 
 Guy Lodge               https://variety.com/2023/film/reviews/disco-boy-review-1235528396/
 Jonathan Romney         https://www.screendaily.com/reviews/disco-boy-berlin-review/5179052.article
@@ -871,7 +897,7 @@ Michael Kienzl        2.5
 G.Marchini Camia      1
 Jonas Nestroy         2.5
 
-"Music" (Angela Schanelec) [Wettbewerb]
+"Music" (Angela Schanelec) [Wettbewerb] Best Screenplay
 
 Jessica Kiang           https://variety.com/2023/film/reviews/music-review-angela-schanelec-1235520635/
 Wendy Ide               https://www.screendaily.com/reviews/music-berlin-review/5179502.article
