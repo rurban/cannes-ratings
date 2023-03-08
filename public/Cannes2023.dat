@@ -45,56 +45,18 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-"On Barren Weeds (Kuru Otlar Üstüne)" (Nuri Bilge Ceylan, Tur) [Competition]
+"About Dry Grasses (Kuru Otlar Üstüne)" (Nuri Bilge Ceylan, Tur) [Competition]
 
 #letterboxd
-peeell              10
-farawayy            10
-erenerken           10
-shakif              10
-omrksr              10
-halit               10
-Ozymelie            10
-ihsan               10
-Emirhan Kılınç      10
-yanlisyaptim        10
-azadintajjiou       10
-Devdeep Ganguly     9
-Mehdi Sohrabi       8
-ksjwkwi2827w        8
-asimetrik           8
-mhacr               8
-Güneş               6
-Sajjad Aslani       4
+Letterboxd 19_Ratings	9.42  https://letterboxd.com/film/about-dry-grasses/
 
 "Strange Way of Life (Extraña forma de vida)" (Pedro Almodóvar, Spa) [Competition]
+
+Letterboxd 25_Ratings	10.0  https://letterboxd.com/film/strange-way-of-life/
 
 UN CERTAIN REGARD
 
 OUT OF COMPETITION
-
-#letterboxd
-luu                 10
-jawn                10
-serving künt        10
-nola                10
-tomieumama          10
-cara                10
-Victoria            10
-V 📽✨                10
-abssys              10
-Camila              10
-nikki               10
-funkymonkss         10
-Vic                 10
-rory                10
-jasmijn             10
-liloa               10
-holland🌙            10
-alex🐰               10
-kefircan            10
-nicksmithkjr        8
-༘ ade ༘             8
 
 QUINZAINE
 
@@ -110,7 +72,6 @@ PREDICTIONS
 
 "Scenario" (Jean-Luc Godard) [Predictions]
 
-
 #letterboxd
 Ilija Pavlov        10
 Andrew Jarrett      6
@@ -119,78 +80,17 @@ nbats               4
 
 "Beau Is Afraid" (Ari Aster) [Predictions]
 
-
 #letterboxd
-godspeed            10
-AymanMirzaa         10
-randomRomeo         10
-max                 10
-Victor              10
-suzanne             10
-Oatoss              10
-Mr. Camisawa        10
-JungleMovies        10
-cristobaldev        10
-kadyalexis          10
-ThatMoonKnightGuy   10
-chromstir           10
-Ezra26              10
-DanzelAngelo        10
-__madelinne__       10
-LaurenHolm118       10
-River Stadt         10
-ryrythefilmguy      10
-sage                10
-Valentin Sarlengo   10
-River Stadt         10
-Axel                10
-LeoMcKenna          10
-hec_trev22          10
 
 "Killers of the Flower Moon" (Martin Scorsese) [Predictions]
 
-
 #letterboxd
-nytoxlol            10
-MacacoInfinito0     10
-YS0205              10
-wankaplous          10
-Richie_isme         10
-dhanushKD           10
-Florence Butcher    10
-V_villa14           10
-chesiereyes         10
-Marci               10
-‮الحنكة اليوم لفل مليون‬ 10
-CineBr - Marcelo    10
-thehardfilms        10
-mrfitzs             10
-‮إيمب‬              10
-Nathan Victor       10
-Akash Krishna       10
-cajustamond         10
-soyvvh              10
-Roman Shipley       10
-bpranay             10
-MsHrb               10
-sofi                10
-yorkieknight        10
-Enes Alcan          10
+Letterboxd 25_Ratings	10.0  https://letterboxd.com/film/killers-of-the-flower-moon/
 
 "Poor Things" (Yorgos Lanthimos) [Predictions]
 
-
 #letterboxd
-nicksmithkjr        10
-Priyanshu Jalwal    10
-Coolerer            10
-Ezra26              10
-Veronica Gilligan   10
-filmaching          10
-Jae                 10
-Lucia Solis         10
-Yorgos Stergiou     10
-SwiftAnhi           10
+Letterboxd 20_Ratings	8.2  https://letterboxd.com/film/poor-things-1/
 Esafrez             9
 egehangunduz        8
 Debarsh             8
@@ -202,19 +102,8 @@ traininvain1990     4
 
 "The Way of the Wind" (Terrence Malick) [Predictions]
 
-
 #letterboxd
-fiendtown           10
-nietzsche_314       10
-Jonathan Kim        10
-KnightOfMugs        10
-SonofMalick         10
-U2q1                10
-Keith Brinkmann     10
-Yorgos Stergiou     10
-m3gsl14             10
-Bonseung Ku         10
-Esafrez             9
+4Esafrez             9
 jood adel           9
 Alex Krajci         8
 yusuf               8
@@ -228,6 +117,7 @@ benluz              1
 
 #letterboxd
 FilmEnthusiast0     10
+Lorenzo_Scanni      8
 tomaebasta          7
 
 "The Holdovers" (Alexander Payne) [Predictions]
@@ -251,14 +141,6 @@ andyk               10
 
 
 #letterboxd
-PollyCorleone ౨ৎ˚   10
-eva j fox           10
-copycatkillerr      10
-michelle            10
-xfilmnoir           10
-blakesylvie         10
-kimlahel            10
-lina                10
 lust4alex           9
 bengi-sue           7
 matthew             2
@@ -287,6 +169,8 @@ spacecr4p           1
 
 "White People (Les Blancs)" (Robin Campillo) [Predictions]
 
+#letterboxd
+tsizzle007          1
 
 "Limonov: The Ballad of Eddie" (Kirill Serebrennikov) [Predictions]
 
@@ -309,33 +193,8 @@ fanaticghost        1
 
 "Asteroid City" (Wes Anderson) [Predictions]
 
-
 #letterboxd
-Takeshi Bennett     10
-ella                10
-autistbateman       10
-m7md555             10
-louis wan           10
-silly :3            10
-Nicho               10
-Chase               10
-notesofhistory      10
-ThePepticFrog45     10
-Eve101              10
-clostarr            10
-⭑tamsin⭑            10
-srondisantos        10
-fight_clublover     10
-simonocando         10
-noyanaveh           10
-anna                10
-swagman2            10
-nicoleeddd          10
-lolasblackbass :]   10
-Joey Norton         10
-swirly_d            10
-Lucas Ribeiro       10
-Lou                 10
+Letterboxd 25_Ratings	10.0  https://letterboxd.com/film/asteroid-city/
 
 "The Zone of Interest" (Jonathan Glazer) [Predictions]
 
@@ -358,7 +217,6 @@ nicksmithkjr        7
 
 "May December" (Todd Haynes) [Predictions]
 
-
 #letterboxd
 gabrielpchung       10
 Kardelen Mercan     10
@@ -367,25 +225,10 @@ perro Yoshida's watchlist rated 7
 
 "The Bikeriders" (Jeff Nichols) [Predictions]
 
-
 #letterboxd
-ameliagbx           10
-ravnalce            10
-whtvr               10
-Phoebe              10
-Jacob Sweat         10
-herbeloveve         10
-scarlett13__        10
-RAY!                10
-donnie              10
-Amy 🎬               10
-milflocofan         10
-เควิน               10
-stvrmshine          10
-nicksmithkjr        8
+Letterboxd 15_Ratings	9.8  https://letterboxd.com/film/the-bikeriders/
 
 "Stone Mattress" (Lynne Ramsay) [Predictions]
-
 
 #letterboxd
 ely                 10
@@ -399,6 +242,8 @@ nicksmithkjr        7
 
 "Monster" (Hirokazu Kore-eda) [Predictions]
 
+#letterboxd
+BuffRiku            9
 
 "Strangers" (Andrew Haigh) [Predictions]
 
@@ -439,6 +284,8 @@ St. Sebastian       6
 
 "The Old Oak" (Ken Loach) [Predictions]
 
+#letterboxd
+pomis               6
 
 "Memory" (Michel Franco) [Predictions]
 
@@ -447,6 +294,544 @@ St. Sebastian       6
 
 
 "I, Captain (Io Capitano)" (Matteo Garrone) [Predictions]
+
+
+"Indiana Jones and the Dial of Destiny" (James Mangold, US) [Predictions]
+
+#letterboxd
+
+"Firebrand" [Predictions]
+
+#letterboxd
+Georgia             10
+Pasho__             10
+Spring BT           8
+Jack Sheehy         5
+
+
+"Close Your Eyes" [Predictions]
+
+
+"Housekeeping for Beginners" [Predictions]
+
+
+"Rachel" [Predictions]
+
+
+"The Beast" [Predictions]
+
+#letterboxd
+anna bonello        10
+
+"Olfa’s Daughters" [Predictions]
+
+
+"The State of the Empire" [Predictions]
+
+#letterboxd
+Vincent             6
+
+"Toutes pour une" [Predictions]
+
+
+"L'amour et les forêts" [Predictions]
+
+
+"Blossoms Shanghai" (Wong Kar-wai, Yan Shen) [Predictions]
+
+#letterboxd
+Letterboxd 23_Ratings	7.78  https://letterboxd.com/film/blossoms-shanghai/
+
+"Charlie Chaplin, A Man of the World" [Predictions]
+
+
+"The Occupied City" [Predictions]
+
+#letterboxd
+pomis               4
+
+"Swimming Home" [Predictions]
+
+
+"Some Rain Must Fall" [Predictions]
+
+
+"Kalak" [Predictions]
+
+
+"How to Have Sex" [Predictions]
+
+
+"La grande odalisque" [Predictions]
+
+
+"Sidonie In Japan" [Predictions]
+
+
+"The Mysterious Gaze of the Flamingo" [Predictions]
+
+
+"All We Imagine As Light" [Predictions]
+
+
+"Enterre Seus Mortos" [Predictions]
+
+#letterboxd
+rodrigort           10
+nilasds             4
+
+"Vincent Must Die" [Predictions]
+
+
+"Dwelling by the West Lake" [Predictions]
+
+
+"Snow in Midsummer" [Predictions]
+
+
+"Be With Me" [Predictions]
+
+
+"Foe" [Predictions]
+
+#letterboxd
+tmchlfilm           10
+Greenaway           10
+dominique           8
+Erkan Boğan         6
+cam                 6
+xgrzi               6
+pomis               5
+meowdeer            5
+Daniel Rucker       4
+Matí                2
+
+"Smugglers" [Predictions]
+
+
+"Wizards!" [Predictions]
+
+#letterboxd
+BrookSavage         8
+pomis               4
+
+"Black Flies" [Predictions]
+
+#letterboxd
+Chris Connors       7
+Kmrpr               5
+
+"Le temps d'aimer" [Predictions]
+
+
+"La Rosalie" [Predictions]
+
+
+"Banel & Adama" [Predictions]
+
+
+"Coup de Chance" [Predictions]
+
+#letterboxd
+ArthurC92           10
+FlikeTheDog         10
+Filmholic24         10
+SergeGainsbourg     10
+Henry Krinkle       6
+jhnhug82            4
+spacecr4p           1
+
+"Le retour" [Predictions]
+
+
+"Ama Gloria" [Predictions]
+
+#letterboxd
+lise2403            10
+
+"Love Lies Bleeding" (Rose Glass, US) [Predictions]
+
+#letterboxd
+Jacqui Klymus       10
+megancchen          10
+BrookSavage         8
+pomis               5
+
+"The Royal Hotel" [Predictions]
+
+#letterboxd
+leonardog           10
+pomis               7
+
+"Left-Handed Girl" [Predictions]
+
+
+"Madame Luna" [Predictions]
+
+
+"Passage" [Predictions]
+
+
+"Andrea lässt sich scheiden" [Predictions]
+
+#letterboxd
+ichibata            6
+
+"Untitled Ethan Coen Comedy" [Predictions]
+
+#letterboxd
+abbyehilden         10
+tchapiwky           8
+Bridgette Cooke     2
+
+"Civil War" (Alex Garland) [Predictions]
+
+#letterboxd
+Letterboxd 23_Ratings	6.91  https://letterboxd.com/film/civil-war-1/
+
+"Borgo" [Predictions]
+
+
+"Elemental" (Peter Sohn, US) [Predictions]
+ Anim
+
+#letterboxd
+MuzzaOverates       10
+cerebrum_liam       10
+bigdadyboy          10
+Tom Carlson Martens 10
+Zara                10
+koala34             10
+spoopysteph         10
+Freesmart           10
+Rob Derycke         10
+dotzy2022           10
+lia                 10
+Tonnny              9
+chilldilly          9
+linlin__            9
+Mingo195            9
+Esafrez             9
+BrookSavage         9
+mikekaramour        8
+gfyvjbi             8
+Joshuah _J-2-Da-Man_ 8
+MPReviews           8
+peters1997          8
+psycheduck          8
+Ari                 7
+k_schneider         7
+
+"Les Pistolets en plastique" [Predictions]
+
+
+"Memory" [Predictions]
+
+
+"Consent" [Predictions]
+
+
+"Handling the Undead" [Predictions]
+
+#letterboxd
+pomis               4
+
+"Eau-forte" [Predictions]
+
+
+"HLM Pussy" [Predictions]
+
+
+"Most Alive" [Predictions]
+
+
+"The Mink" [Predictions]
+
+
+"Un silence" [Predictions]
+
+#letterboxd
+odrik               7
+
+"Cobweb" [Predictions]
+
+#letterboxd
+Cadence             7
+pomis               6
+
+"Boss" [Predictions]
+
+#letterboxd
+Francesco Cremonese 7
+
+"Connemara" [Predictions]
+
+#letterboxd
+alexandrenahon      8
+
+"Testament" [Predictions]
+
+
+"Holly" [Predictions]
+
+
+"Même au milieu des ruines" [Predictions]
+
+
+"Tuesday" [Predictions]
+
+#letterboxd
+BrookSavage         7
+pomis               4
+clav _hiatus_       2
+
+"Explosions in the Heart" [Predictions]
+
+
+"Gonzo Girl" [Predictions]
+
+#letterboxd
+Louie Tartt         9
+jadiaz73            6
+
+"Salem" [Predictions]
+
+
+"Puan" [Predictions]
+
+
+"Rossosperanza" [Predictions]
+
+
+"Luz" [Predictions]
+
+#letterboxd
+Thelma_R            6
+
+"Wil" [Predictions]
+
+
+"Dogs" [Predictions]
+
+
+"Morsure" [Predictions]
+
+
+"Sisters" [Predictions]
+
+
+"Simple comme Sylvain" [Predictions]
+
+
+"Shame" [Predictions]
+
+
+"Le Vampire du soleil levant" [Predictions]
+
+
+"They Shot the Piano Player" [Predictions]
+
+#letterboxd
+etsimons            7
+Maria Burgués       6
+Mastro              6
+PetterIvanWinbo     6
+
+"No Love Lost" [Predictions]
+
+
+"Pendant ce temps sur Terre" [Predictions]
+
+
+"Flo" [Predictions]
+
+
+"The End We Start From" (Mahalia Belo) [Predictions]
+
+#letterboxd
+denizbeydg          8
+Dsmithdog           7
+giona_fr            7
+
+"The Seasons" [Predictions]
+
+
+"Ebba" [Predictions]
+
+
+"Une nuit" [Predictions]
+
+
+"La fille qu'on appelle" [Predictions]
+
+#letterboxd
+Alicegrn            6
+
+"Savagery" [Predictions]
+
+
+"The Book of Solutions" [Predictions]
+
+#letterboxd
+LeelouH             7
+
+"Eat the Night" [Predictions]
+
+
+"MMXX" [Predictions]
+
+
+"Morrison" [Predictions]
+
+
+"Conann La Barbare" [Predictions]
+
+
+"Darling" [Predictions]
+
+
+"Rodéo" [Predictions]
+
+
+"A Difficult Year" [Predictions]
+
+#letterboxd
+Azerrr              8
+AnthonyJzql         7
+
+"Visions" [Predictions]
+
+
+"Testa o croce?" [Predictions]
+
+
+"Mehtap" [Predictions]
+
+
+"Stepne" [Predictions]
+
+
+"The Legend of Zeineb and Noah" [Predictions]
+
+
+"Beyond the Fog" [Predictions]
+
+
+"Veni Vidi Vici" [Predictions]
+
+
+"2073" [Predictions]
+
+
+"Eric LaRue" [Predictions]
+
+
+"My Mother's Wedding" [Predictions]
+
+#letterboxd
+Rio Red             6
+
+"Marinette" [Predictions]
+
+#letterboxd
+imcalledthelma      8
+Ralph van Zuuren    6
+Ernst               6
+
+"The Teacher" [Predictions]
+
+
+"Amelia’s Children" [Predictions]
+
+
+"Les chambres rouges" [Predictions]
+
+
+"Et la fête continue" [Predictions]
+
+#letterboxd
+vasco_vv            9
+AnneLaureB          4
+LeelouH             2
+
+"Bernadette" [Predictions]
+
+#letterboxd
+alexbuteyko         7
+
+"On Becoming a Guinea Fowl" [Predictions]
+
+
+"L'Empire" [Predictions]
+
+
+"Daaaaaali !" [Predictions]
+
+#letterboxd
+deveeeeeeen         10
+
+"Le Théorème de Marguerite" [Predictions]
+
+
+"Wahou !" [Predictions]
+
+
+"Sweet Dreams" [Predictions]
+
+
+"Marianne" [Predictions]
+
+
+"After the Fire" [Predictions]
+
+#letterboxd
+Lucile              6
+
+"The Wall" [Predictions]
+
+
+"Concrete Utopia" [Predictions]
+
+#letterboxd
+labanjr             4
+
+"Floating In The Vacuum" [Predictions]
+
+
+"Untitled Tokyo Public Toilet Project" [Predictions]
+
+
+"Hitman" [Predictions]
+
+#letterboxd
+zafc                8
+
+"Los colonos" [Predictions]
+
+#letterboxd
+maxloa              8
+
+"Robot Dreams" [Predictions]
+
+
+"Je'vida" [Predictions]
+
+
+"Death Is a Problem for the Living" [Predictions]
+
+
+"Above the Dust" [Predictions]
+
+
+"The New Boy" [Predictions]
+
+
+"Eternal" [Predictions]
+
+#letterboxd
+Jacob Møller        10
+
+"Daniel Auerbach" [Predictions]
 
 EOF
 
