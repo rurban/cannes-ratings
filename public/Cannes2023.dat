@@ -45,6 +45,11 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
+"Jeanne du Barry" (Maïwenn, F) [Competition]
+ Opening Film
+
+#letterboxd
+
 "About Dry Grasses (Kuru Otlar Üstüne)" (Nuri Bilge Ceylan, Tur) [Competition]
 
 #letterboxd
@@ -58,6 +63,10 @@ Letterboxd 25_Ratings	10.0  https://letterboxd.com/film/strange-way-of-life/
 UN CERTAIN REGARD
 
 OUT OF COMPETITION
+
+"Indiana Jones and the Dial of Destiny" (James Mangold, US) [Out Of Competition]
+
+"Killers of the Flower Moon" (Martin Scorsese, US) [Out Of Competition]
 
 QUINZAINE
 
