@@ -683,7 +683,7 @@ sub _list {
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
   if ($year eq '2023') {
-    @sections = ($comp_section, "Predictions");
+    @sections = ($comp_section, "Out Of Competition", "Predictions");
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
                  "Semaine", "ACID", "Other");
