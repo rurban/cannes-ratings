@@ -215,7 +215,7 @@ sub _dump {
     $section = '';
     if ($l =~ m/ \[(.+?)\]/) {
       $section = $1;
-      if (!$section or !$sections{$section}) {
+      if ((!$section or !$sections{$section}) and $section ne 'Predictions') {
         $section='Other'; # or Predicted?
       }
     }
