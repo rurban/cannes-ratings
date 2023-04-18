@@ -240,28 +240,7 @@ pomis               6
 "Indiana Jones and the Dial of Destiny" (James Mangold, US) [Out Of Competition]
 
 #letterboxd
-MauricioAR          10
-atakan_0            10
-BasedIndy           10
-Aapo Mustonen       10
-Umityavuz           10
-avafries            10
-Reuben Warring      10
-Jxsh34              10
-Rikuuuuuuuuuu       10
-Smugmug             10
-Wakawaka12          10
-Jeremie Arrobas     10
-Noahlee2023         10
-marisfalsin         10
-Esteban Quiroga     10
-toothless light fury 10
-carinanovak         10
-Génesis             10
-kristen             10
-MatteoJMF           10
-jahzeelm            10
-Pascal              10
+Letterboxd 25_Ratings	10.0  https://letterboxd.com/film/indiana-jones-and-the-dial-of-destiny/
 
 CANNES PREMIÈRE
 
@@ -312,7 +291,61 @@ Paupau72            7
 Ulysse22            6
 
 QUINZAINE
-# https://www.quinzaine-cineastes.fr/en
+# https://www.quinzaine-cineastes.fr/en/news/selection-2023
+
+"The Goldman Case (Je suis innocent parce que je suis innocent)" (Cédric Kahn) [Quinzaine]
+ Opening film
+
+"Abraham’s Valley (Val abraão)" (Manoel de Oliveira) Special [Quinzaine]
+
+"Agra" (Kanu Behl) [Quinzaine]
+
+"The Other Laurens (L’autre Laurens)" (Claude Schmitz) [Quinzaine]
+
+"Inside the Yellow Cocoon Shell" (Thien An Pham) [Quinzaine]
+ 1st
+
+"Blackbird Blackbird Blackberry (Merle merle mûre)" (Elene Naveriani) [Quinzaine]
+
+"Grace (Blazh)" (Ilya Povolotsky) [Quinzaine]
+ 1st
+
+"She Is Conann (Conann La Barbare)" (Bertrand Mandico) [Quinzaine]
+
+"Creatura" (Elena Martín Gimeno) [Quinzaine]
+
+"Déserts" (Faouzi Bensaïdi) [Quinzaine]
+
+"In Flames" (Zarrar Kahn) [Quinzaine]
+ 1st
+
+"Légua" (Filipa Reis & João Miller Guerra) [Quinzaine]
+
+"The Book of Solutions" (Michel Gondry) [Quinzaine]
+
+#letterboxd
+ecmov               10
+evan                8
+Ivan de Crecy       7
+LeelouH             7
+
+"Mambar Pierrette" (Rosine Mbakam, B) [Quinzaine]
+
+"Riddle Of Fire" (Weston Razooli, US) [Quinzaine]
+ 1st
+
+"The Feeling That the Time for Doing Something has Passed" (Joanna Arnow, US 2021) [Quinzaine] <i>Gotham</i>
+ 1st
+
+"The Sweet East" (Sean Price Williams) [Quinzaine]
+
+"A Prince (Un prince)" (Pierre Creton) [Quinzaine]
+
+"A Song Sung Blue" (Zihan Geng) [Quinzaine]
+ 1st
+
+"In Our Day" (Hong Sang-soo) [Quinzaine]
+ Closing film
 
 SEMAINE
 # https://www.semainedelacritique.com/en/film-selection
@@ -362,7 +395,9 @@ OTHER
 
 CANNES CLASSICS
 
-PREDICTIONS
+EOF
+
+our $PREDICTIONS= <<'EOF';
 
 "Scenario" (Jean-Luc Godard) [Predictions]
 
@@ -901,14 +936,6 @@ Alicegrn            6
 "Savagery" (Miguel Gomes) [Predictions]
 
 
-"The Book of Solutions" (Michel Gondry) [Predictions]
-
-#letterboxd
-ecmov               10
-evan                8
-Ivan de Crecy       7
-LeelouH             7
-
 "Eat the Night" (Caroline Poggi, Jonathan Vinel) [Predictions]
 
 
@@ -920,9 +947,6 @@ LeelouH             7
 
 #letterboxd
 boogieman63         3
-
-"Conan la barbare" (Bertrand Mandico) [Predictions]
-
 
 "Darling" (Hélène Cattet, Bruno Forzani) [Predictions]
  Anim
@@ -1078,8 +1102,6 @@ pomis               5
 
 "The Sparrow in the Chimne" [Predictions]
 
-"Motherhood" [Predictions]
-
 "Europa" [Predictions]
 
 "The Bitter Tears of Zahra Zand" [Predictions]
@@ -1179,6 +1201,9 @@ bipeter             6
 
 "Le retour" (Mati Diop, Fr/Sen) [Predictions]
 
+"Caiti Blues" (Justine Harbonnier) [Predictions]
+
+"On The Edge (État limite)" (Nicolas Peduzzi) [Predictions]
 EOF
 
 our (@critics, @critics_group);
