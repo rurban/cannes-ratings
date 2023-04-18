@@ -70,7 +70,6 @@ antonin             3
 "The Zone of Interest" (Jonathan Glazer) [Competition]
 
 #letterboxd
-Randy               10
 Kayla               9
 BrookSavage         7
 Alexander Ejevski   6
@@ -134,6 +133,7 @@ toothless light fury 10
 Zachary Branch      10
 gabrielpchung       10
 Kardelen Mercan     10
+Sam Ritz            9
 perro Yoshida's watchlist rated 7
 
 "Firebrand" (Karim Aïnouz) [Competition]
@@ -240,7 +240,6 @@ pomis               6
 "Indiana Jones and the Dial of Destiny" (James Mangold, US) [Out Of Competition]
 
 #letterboxd
-asha lyall          10
 MauricioAR          10
 atakan_0            10
 BasedIndy           10
@@ -289,12 +288,15 @@ Lilith Fury         1
 
 "Man in Black" (Wang Bing, Ch) [Out Of Competition] Special Screening
 
+#letterboxd
+manoni              9
+
 MIDNIGHT SCREENINGS
 
 "Omar La Fraise" (Elias Belkeddar) [Out Of Competition] Midnight
 
 #letterboxd
-michelpoulet        7
+michelpoulet        9
 _guena              5
 
 "Kennedy" (Anurag Kashyap) [Out Of Competition] Midnight
@@ -306,6 +308,7 @@ lucie_cherry        9
 Madelebre           8
 Camille Sayah       8
 - ̗̀em ̖́-          8
+Paupau72            7
 Ulysse22            6
 
 QUINZAINE
@@ -858,7 +861,6 @@ Arvigier            7
 "The End We Start From" (Mahalia Belo) [Predictions]
 
 #letterboxd
-ana_n               10
 Caitlinnnn          10
 cupid.              10
 kiara77             10
@@ -964,7 +966,6 @@ davebow             5
 "Marinette" (Virginie Verrière) [Predictions]
 
 #letterboxd
-mercilaudace        10
 Nathan Ferrandez    8
 imcalledthelma      8
 Pravine             7
@@ -1086,7 +1087,6 @@ pomis               5
 "A Different Man" (Aaron Schimberg, US) [Predictions]
 
 #letterboxd
-Dez                 10
 levylogic           10
 Pablonm17           10
 madisynsyzdek       10
@@ -1104,7 +1104,6 @@ Lilith Fury         1
 "I Saw the TV Glow" (Jane Schoenbrun, US) [Predictions]
 
 #letterboxd
-Mia_P               10
 Jezuz Chrust        10
 Groke Toffle        10
 numberonevirgin     10
@@ -1881,7 +1880,7 @@ our $FOOTER = "
 <pre>
 --
 Lists:
-https://letterboxd.com/seanliu/list/what-we-can-expect-from-cannes-2023s-slate/
+https://letterboxd.com/seanliu/list/cannes-2023/
 Source & History:
 https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2023.dat 
 </pre>";
