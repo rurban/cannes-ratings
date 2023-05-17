@@ -1090,13 +1090,6 @@ ludovicbeot         5
 
 OTHER
 
-"Godard by Godard" (Florence Platarets) [Other] Cinéma de la plage
- 1h
-
-"The Family (La Saga Rassam-Berri)" (Michel Denisot/Florent Maillet) [Other] Cinéma de la plage
-
-"Liv Ullmann - A Road Less Travelled" (Dheeraj Akolkar) [Other] Cinéma de la plage
-
 CANNES CLASSICS
 
 "Viva Varda!" (Pierre-Henri Gibert) [Other] Cannes Classics
@@ -1108,6 +1101,12 @@ Pok Manero          6
 "Anita" (Alexis Bloom, Svetlana Zill) [Other] Cannes Classics
  Doc, Pallenberg
 
+"Godard by Godard" (Florence Platarets) [Other] Cannes Classics
+ 1h
+
+"The Family (La Saga Rassam-Berri)" (Michel Denisot/Florent Maillet) [Other] Cannes Classics
+
+"Liv Ullmann - A Road Less Travelled" (Dheeraj Akolkar) [Other] Cannes Classics
 EOF
 
 our $PREDICTIONS= <<'EOF';
