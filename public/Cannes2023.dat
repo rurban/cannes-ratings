@@ -17,15 +17,15 @@ package Cannes::rurban::2023; # -*- perl -*-
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
 #   http://www.ioncinema.com/ (scaled to 0-10)
-#   http://www.lefilmfrancais.com/cannes2022
+#   http://www.lefilmfrancais.com/cannes2023
 #   http://jury.critic.de/cannes/ 
-#   https://www.screendaily.com/news/cannes-2022-screens-dailies/5170637.article
-#   https://icsfilm.org/news/the-cannes-2022-critics-industry-panel/
+#   https://www.screendaily.com/news/cannes-2023-screens-dailies/5170637.article
+#   https://icsfilm.org/news/the-cannes-2023-critics-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/cannes2022-etoiles-critique-palmometre-competition/
-#   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2022-films-en-competition/
-#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2022/
-#   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2022.pdf
+#   https://www.chaosreign.fr/cannes2023-etoiles-critique-palmometre-competition/
+#   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2023-films-en-competition/
+#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2023/
+#   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2023.pdf
 #   https://outnow.ch/News/2022/05/27/OutNow-Jury-Grid-at-Cannes-2022-Tag-4
 # Les Inrockuptibles
 # calmos-emoji
@@ -82,6 +82,23 @@ Kuriko Sato
 Rui Tendinha             
 Artur Zaborski           
 # ics
+Cédric Succivalli        
+Diego Batlle             
+Nicholas Bell            
+Anais Bordages           
+Ela Bittencourt          
+Gregory Coutaut          
+Ankit Jhunjhunwala       
+Jessica Kiang            
+Marc van de Klashorst    
+Dubravka Lakic           
+Guy Lodge                
+Daniela Michel           
+Isabel Sandoval          
+Meredith Taylor          
+Nanako Tsukidate         
+Marcos Uzal              
+Blake Williams           
 # chaosreign.fr
 # cahier
 # Chinese @CriticsGrid
@@ -208,6 +225,23 @@ Kuriko Sato
 Rui Tendinha             
 Artur Zaborski           
 # ics
+Cédric Succivalli        
+Diego Batlle             
+Nicholas Bell            
+Anais Bordages           
+Ela Bittencourt          
+Gregory Coutaut          
+Ankit Jhunjhunwala       
+Jessica Kiang            
+Marc van de Klashorst    
+Dubravka Lakic           
+Guy Lodge                
+Daniela Michel           
+Isabel Sandoval          
+Meredith Taylor          
+Nanako Tsukidate         
+Marcos Uzal              
+Blake Williams           
 # chaosreign.fr
 # cahier
 # Chinese @CriticsGrid
@@ -337,6 +371,23 @@ Kuriko Sato
 Rui Tendinha             
 Artur Zaborski           
 # ics
+Cédric Succivalli        
+Diego Batlle             
+Nicholas Bell            
+Anais Bordages           
+Ela Bittencourt          
+Gregory Coutaut          
+Ankit Jhunjhunwala       
+Jessica Kiang            
+Marc van de Klashorst    
+Dubravka Lakic           
+Guy Lodge                
+Daniela Michel           
+Isabel Sandoval          
+Meredith Taylor          
+Nanako Tsukidate         
+Marcos Uzal              
+Blake Williams           
 # chaosreign.fr
 # cahier
 # Chinese @CriticsGrid
@@ -1937,23 +1988,22 @@ Artur Zaborski (Newsweek, Poland)
 $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
 Cédric Succivalli (International Cinephil Society, France)
-Emily Barnett (Les Inrockuptibles, France)
-Justin Chang (LA Times, USA)
-Tommaso Tocci (ICS/MyMovies.it, Italy)
-Marcus Uzal (Cahiers du cinema, France)
+Diego Batlle (Otros Cines, Argentina)
+Nicholas Bell (ioncinema, USA)
+Anais Bordages (Slate, France)
+Ela Bittencourt (Sight&Sound/Hyperallergic/Frieze Magazine, Brasil)
+Gregory Coutaut (Le Polyester, France)
+Ankit Jhunjhunwala (Screen Anarchy, India)
 Jessica Kiang (Variety, USA)
 Marc van de Klashorst (International Cinephil Society, Netherlands)
-Guy Lodge (Variety, USA)
-Meredith Taylor (Filmuforia.co.uk, UK)
-Federica Polidoro (Cineurope/ArtsLife/Il Foglio, Italy)
-Blake Williams (Filmmaker Magazine, Canada)
-Nanako Tsukidate (Nobody Magazine, Japan)
-Anais Bordages (Slate, France)
-Nicholas Bell (ioncinema, USA)
 Dubravka Lakic (Politika Daily, Croatia)
+Guy Lodge (Variety, USA)
 Daniela Michel (Morelia International Film Festival, Mexico)
-Lorna Tee (Cinemateque Passion Macao, Netherlands)
-Diego Batlle (Otros Cines, Argentina)
+Isabel Sandoval (Film director/actress, Philippines)
+Meredith Taylor (Filmuforia.co.uk, UK)
+Nanako Tsukidate (Nobody Magazine, Japan)
+Marcos Uzal (Cahiers du cinéma, France)
+Blake Williams (Filmmaker Magazine, Canada)
 ";
 $critics_group[$i] = "Chinese Grid";
 # https://twitter.com/hanglutvd
