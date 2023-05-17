@@ -55,6 +55,38 @@ Peter Debruge      6   https://variety.com/2023/film/reviews/jeanne-du-barry-rev
 Lisa Nesselson     6   https://www.screendaily.com/reviews/jeanne-du-barry-cannes-review-opening-film/5181954.article
 Jordan Mintzer     5   https://www.hollywoodreporter.com/movies/movie-reviews/jeanne-du-barry-review-johnny-depp-maiwenn-1235486226/
 Robbie Collin      4   https://www.telegraph.co.uk/films/0/cannes-2023-jeanne-du-barry-review-johnny-depp/
+#critic.de
+Andrey Arnold         2.5
+Frédéric Jaeger     4
+# Screen Daily
+# Le film français
+# ioncinema
+Nicholas Bell            
+Julia Blaga              
+Paola Casela             
+Nat Chifflet             
+Marilou Duponchel        
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Elli Mastorou            
+Savina Petkov            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Artur Zaborski           
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# FIPRESCI
+# OutNow (1 3 5 7 8 10)
 #letterboxd
 Okeno               10
 aurore              10
@@ -96,10 +128,6 @@ russell             1
 seanyyxy            1
 Nathalie            1
 fanaticghost        1
-
-#critic.de
-Andrey Arnold         2.5
-Frédéric Jaeger     4
 
 "Club Zero" (Jessica Hausner) [Competition]
 
@@ -155,9 +183,30 @@ Sian Watson         6
 "A Brighter Tomorrow (Il sol dell’avvenire)" (Nanni Moretti) [Competition]
 
 Lee Marshall            https://www.screendaily.com/reviews/a-brighter-tomorrow-cannes-review/5181302.article
+#critic.de
 # Screen Daily
 # Le film français
 # ioncinema
+Nicholas Bell            
+Julia Blaga              
+Paola Casela             
+Nat Chifflet             
+Marilou Duponchel        
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Elli Mastorou            
+Savina Petkov            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Artur Zaborski           
 # ics
 # chaosreign.fr
 # cahier
@@ -263,6 +312,36 @@ pcdevitt            5
 "Le règne animal" (Thomas Cailley) [Un Certain Regard]
   opening film
 
+#critic.de
+# Screen Daily
+# Le film français
+# ioncinema
+Nicholas Bell            
+Julia Blaga              
+Paola Casela             
+Nat Chifflet             
+Marilou Duponchel        
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Elli Mastorou            
+Savina Petkov            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Artur Zaborski           
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# FIPRESCI
+# OutNow (1 3 5 7 8 10)
 #letterboxd
 michelpoulet        10
 _guena              8
@@ -1833,26 +1912,26 @@ Screen International (Screen International, USA)
 ";
 $critics_group[$i] = "ioncinema";
 $critics[$i++] = "
-Marta Balaga (Episodi/Cineuropa, Poland)
 Nicholas Bell (Ioncinema.com, USA)
 Julia Blaga (Libertatea, Rumania)
-Marc Cassavi (La Presse, Canada)
+Paola Casela (Mymovies.it/La Lettura, Italy)
 Nat Chifflet (Le Progres de Lyon, France)
-Monica Delgado (Desistfilm.com)
+Marilou Duponchel (Les Inrockuptibles, France)
 Rodrigo Fonseca (TV Globol/GShow, Brasil)
+Leda Galanou (Flix, Greece)
 Jean-Philippe Guerand (Le Film Francais, France)
 Carlos F. Heredero (Caimán Cuadernos de Cine, España)
 Dubravka Lakic (Politika Daily, Croatia)
 Eric Lavallée (ioncinema, Canada)
 Fabien Lemercier (Cineuropa.org, Belgium)
 Liu Min (Sina.com, China)
-Poly Lykourgou (Flix.gr, Greece)
+Marc-André Lussier (La Presse, Canada)
 Elli Mastorou (Metro/L'Avenir, Belgium)
+Savina Petkov (Awardswatch / Little White Lies)
 Jordan Ruimy (World of Reel/The Playlist, USA) 
 Kuriko Sato (Eiga.com, Japan)
 Rui Tendinha (Diario de Noticias, Portugal)
-Tommaso Tocci (ICS/MyMovies.it, Italy)
-Maria Ulfsak-Sheripova (Eesti Ekspress, Estonia)
+Artur Zaborski (Newsweek, Poland)
 ";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
 $critics_group[$i] = "ICSfilm panel";
