@@ -189,12 +189,6 @@ Raif alyosofi       3
 "Asteroid City" (Wes Anderson) [Competition]
 
 #letterboxd
-janwijn             10
-Dylan Rockman       10
-vik                 10
-cannesvirgin        10
-Priyanshu Jalwal    10
-Nan                 10
 
 "Anatomy of a Fall (Anatomie d'une chute)" (Justine Triet) [Competition]
 
@@ -2158,11 +2152,11 @@ $critics_group[$i] = "cahiers";
 $critics[$i++] = "
 Fernando Ganzo (Lumiere, España)
 Marcus Uzal (Cahiers du cinema, France)
-Charlotte Garson (, France)
+Charlotte Garson (Cahiers du cinema, France)
 Olivie Cooper-Hadjian (Cahiers du cinema, France)
-Yal Sadat (, France)
-Thierry Méranger (, France)
-Louis Séguin (, France)
+Yal Sadat (Cahiers du cinema, France)
+Thierry Méranger (Cahiers du cinema, France)
+Louis Séguin (Cahiers du cinema, France)
 ";
 $critics_group[$i] = "OutNow";
 $critics[$i++] = "
