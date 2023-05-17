@@ -20,9 +20,9 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   http://www.lefilmfrancais.com/cannes2023
 #   http://jury.critic.de/cannes/ 
 #   https://www.screendaily.com/news/cannes-2023-screens-dailies/5170637.article
-#   https://icsfilm.org/news/the-cannes-2023-critics-industry-panel/
+#   https://icsfilm.org/cannes-ics-grid/its-in-the-cannes-the-ics-panelists-for-the-76th-festival-de-cannes/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/cannes2023-etoiles-critique-palmometre-competition/
+#   https://www.chaosreign.fr/cannes-2023-gazette-chaos-du-festival-jour-0/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2023-films-en-competition/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2023/
 #   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2023.pdf
@@ -1933,7 +1933,7 @@ Gaël Golhen (Premiere, France)
 Julien Rousset (Sud ouest, France)
 Marcus Uzal (Cahiers du cinema, France)
 Eric Neuhoff (Le Figaro, France)
-Philippe Rouyer (Positif, France)
+Philippe Rouyer (Cercle, France)
 Jaques Mandelbaum (Le Monde, France)
 Guillemette Odicino (Telerama, France)
 jean-Claude Raspiengeas (la Croix, France)
@@ -2080,16 +2080,17 @@ Zsolt Gyenge (Fipresci)
 ";
 $critics_group[$i] = "chaosreign.fr";
 $critics[$i++] = "
-Laurent De Alberti (Filmland Empire)
+Ariane Allard (Positif, France)
 Stéphanie Belpêche (JDD, France)
-Caroline Besse (Telerama, France)
+Olivier De Bruyn (Les Echos, France)
 Olivia Cooper-Hadjian (Cahiers du cinema, France)
+Alexis Demeyer (France Inter, France)
 Marilou Duponchel (Les Inrocks, France)
+Jean-Michel Froudon (Slate, France)
+Marin Gerard (Critikat, France)
+Jacky Goldberg (Vanity Fair, France)
 Matteu Maestracci (France Info, France)
-Sandra Onana (Libération, France)
-Norine Raja (Libération, France)
-Amandine Rebourg (Nice Matin, France)
-Philippe Rouyer (Positif, France) 
+Philippe Rouyer (Cercle, France) 
 ";
 $critics_group[$i] = "cahiers";
 $critics[$i++] = "
@@ -2162,7 +2163,7 @@ Chris Schelb (OutNow, Suisse)
 #Stéphanie Lamome (First, France)
 #Romaine Le Vern (TF1 News, France)
 #Mehdi Omaïs (Metro, France)
-#Philippe Rouyer (Positif, France)
+#Philippe Rouyer (Cercle, France)
 #Caroline Vie (20 minutes, Suisse)
 #";
 #$critics_group[$i] = "Mehdi Omais";
