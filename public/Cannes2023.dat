@@ -45,154 +45,6 @@ use utf8;
 our $DATA= <<'EOF';
 COMPETITION
 
-"Jeanne du Barry" (Maïwenn, F) [Competition]
- Opening Film
-
-Ben Croll          6.7 https://www.indiewire.com/criticism/movies/jeanne-du-barry-review-johnny-depp-maiwenn-1234863523/
-Peter Bradshaw     6   https://www.theguardian.com/film/2023/may/16/jeanne-du-barry-review-johnny-depp-louis-xv
-Peter Debruge      6   https://variety.com/2023/film/reviews/jeanne-du-barry-review-johnny-depp-maiwenn-1235613773/
-Lisa Nesselson     6   https://www.screendaily.com/reviews/jeanne-du-barry-cannes-review-opening-film/5181954.article
-Jordan Mintzer     5   https://www.hollywoodreporter.com/movies/movie-reviews/jeanne-du-barry-review-johnny-depp-maiwenn-1235486226/
-Robbie Collin      4   https://www.telegraph.co.uk/films/0/cannes-2023-jeanne-du-barry-review-johnny-depp/
-Geoffrey Macnab    8   https://www.independent.co.uk/arts-entertainment/films/reviews/jeanne-du-barry-review-johnny-depp-cannes-b2340406.html
-Robbie Collin      4   https://www.telegraph.co.uk/films/0/cannes-2023-jeanne-du-barry-review-johnny-depp/
-#critic.de
-Andrey Arnold         2.5
-Frédéric Jaeger     4
-Rüdiger Suchsland    5
-Nanako Tsukidate      2.5
-# Screen Daily
-Justin Chang             
-Peter Bradshaw           
-Anton Dolin              
-Tim Robey/Robbie Collin  
-Kong Ritchie             
-Katja Nikodemus                    
-Michel Cement            
-Carisse Fabre            
-Stephanie Zacharek       
-Ben Kenigsberg           
-Ahmed Shawky             
-Screen International     
-# Le film français
-Gaël Golhen              5 
-Julien Rousset           5
-Marcus Uzal              1
-Eric Neuhoff             5
-Philippe Rouyer          7.5
-Jaques Mandelbaum        2.5
-Guillemette Odicino      5
-jean-Claude Raspiengeas  5
-Jean-Marc Lalanne        2.5
-Michaël Mélinard         2.5
-Nicolas Schaller         2.5
-Gilles Kerdreux          5
-Barbara Théate           5
-Stéphane Boudsocq        1
-Catherine Balle          7.5
-# ioncinema
-Nicholas Bell            
-Julia Blaga              
-Paola Casela             
-Nat Chifflet             
-Marilou Duponchel        
-Rodrigo Fonseca          
-Leda Galanou             
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
-Fabien Lemercier         
-Liu Min                  
-Marc-André Lussier       
-Elli Mastorou            
-Savina Petkov            
-Jordan Ruimy             
-Kuriko Sato              
-Rui Tendinha             
-Artur Zaborski           
-# ics
-Cédric Succivalli        
-Diego Batlle             
-Nicholas Bell            
-Anais Bordages           
-Ela Bittencourt          
-Gregory Coutaut          
-Ankit Jhunjhunwala       
-Jessica Kiang            
-Marc van de Klashorst    
-Dubravka Lakic           
-Guy Lodge                
-Daniela Michel           
-Isabel Sandoval          
-Meredith Taylor          
-Nanako Tsukidate         
-Marcos Uzal              
-Blake Williams           
-# chaosreign.fr
-Ariane Allard            
-Stéphanie Belpêche       
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Jean-Michel Froudon      
-Marin Gerard             
-Jacky Goldberg           
-Matteu Maestracci        
-Philippe Rouyer          
-# cahier
-Fernando Ganzo           
-Marcus Uzal              
-Charlotte Garson             https://www.cahiersducinema.com/actualites/jeanne-du-barry-de-maiwenn-son-roi/
-Olivie Cooper-Hadjian    
-Yal Sadat                
-Thierry Méranger         
-Louis Séguin             
-#letterboxd
-DonJuliox           10
-Fffdg1998           10
-Okeno               10
-aurore              10
-Egothlast           10
-lenijg              10
-Aldo Nadal          10
-Captain Walker      10
-Camille.            10
-myrtille !!         10
-Louisa              10
-Archuf              10
-Rani                10
-Thomas Besengez     10
-vickiiu             10
-celineewim          10
-Lucile              10
-Louis               10
-Aïna ☕              10
-Yordi               9   https://letterboxd.com/yordiv/film/jeanne-du-barry/
-Juno Rose           9
-kaylyndbrown        9
-CarineRose          9
-Baptiste 🦖🏀         9
-ALch1m1ste          9
-lbbbt               9
-Jokoro              9
-Mestan              9
-thib67              9
-lololabbe           8
-PaulMartou          8
-Estebandcrvl        8
-Victor              8
-clarissecq          8
-hakimradn           8
-Claire              8
-feyza               1
-BÁLIN               1
-russell             1
-seanyyxy            1
-Nathalie            1
-fanaticghost        1
-
 "Monster" (Hirokazu Kore-eda) [Competition]
  Ando Sakura
 
@@ -4632,6 +4484,154 @@ Irène               5
 michelpoulet        5
 
 OUT OF COMPETITION
+
+"Jeanne du Barry" (Maïwenn, F) [Out Of Competition]
+ Opening Film
+
+Ben Croll          6.7 https://www.indiewire.com/criticism/movies/jeanne-du-barry-review-johnny-depp-maiwenn-1234863523/
+Peter Bradshaw     6   https://www.theguardian.com/film/2023/may/16/jeanne-du-barry-review-johnny-depp-louis-xv
+Peter Debruge      6   https://variety.com/2023/film/reviews/jeanne-du-barry-review-johnny-depp-maiwenn-1235613773/
+Lisa Nesselson     6   https://www.screendaily.com/reviews/jeanne-du-barry-cannes-review-opening-film/5181954.article
+Jordan Mintzer     5   https://www.hollywoodreporter.com/movies/movie-reviews/jeanne-du-barry-review-johnny-depp-maiwenn-1235486226/
+Robbie Collin      4   https://www.telegraph.co.uk/films/0/cannes-2023-jeanne-du-barry-review-johnny-depp/
+Geoffrey Macnab    8   https://www.independent.co.uk/arts-entertainment/films/reviews/jeanne-du-barry-review-johnny-depp-cannes-b2340406.html
+Robbie Collin      4   https://www.telegraph.co.uk/films/0/cannes-2023-jeanne-du-barry-review-johnny-depp/
+#critic.de
+Andrey Arnold         2.5
+Frédéric Jaeger     4
+Rüdiger Suchsland    5
+Nanako Tsukidate      2.5
+# Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
+# Le film français
+Gaël Golhen              5 
+Julien Rousset           5
+Marcus Uzal              1
+Eric Neuhoff             5
+Philippe Rouyer          7.5
+Jaques Mandelbaum        2.5
+Guillemette Odicino      5
+jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         2.5
+Nicolas Schaller         2.5
+Gilles Kerdreux          5
+Barbara Théate           5
+Stéphane Boudsocq        1
+Catherine Balle          7.5
+# ioncinema
+Nicholas Bell            
+Julia Blaga              
+Paola Casela             
+Nat Chifflet             
+Marilou Duponchel        
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Elli Mastorou            
+Savina Petkov            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Artur Zaborski           
+# ics
+Cédric Succivalli        
+Diego Batlle             
+Nicholas Bell            
+Anais Bordages           
+Ela Bittencourt          
+Gregory Coutaut          
+Ankit Jhunjhunwala       
+Jessica Kiang            
+Marc van de Klashorst    
+Dubravka Lakic           
+Guy Lodge                
+Daniela Michel           
+Isabel Sandoval          
+Meredith Taylor          
+Nanako Tsukidate         
+Marcos Uzal              
+Blake Williams           
+# chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson             https://www.cahiersducinema.com/actualites/jeanne-du-barry-de-maiwenn-son-roi/
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+#letterboxd
+DonJuliox           10
+Fffdg1998           10
+Okeno               10
+aurore              10
+Egothlast           10
+lenijg              10
+Aldo Nadal          10
+Captain Walker      10
+Camille.            10
+myrtille !!         10
+Louisa              10
+Archuf              10
+Rani                10
+Thomas Besengez     10
+vickiiu             10
+celineewim          10
+Lucile              10
+Louis               10
+Aïna ☕              10
+Yordi               9   https://letterboxd.com/yordiv/film/jeanne-du-barry/
+Juno Rose           9
+kaylyndbrown        9
+CarineRose          9
+Baptiste 🦖🏀         9
+ALch1m1ste          9
+lbbbt               9
+Jokoro              9
+Mestan              9
+thib67              9
+lololabbe           8
+PaulMartou          8
+Estebandcrvl        8
+Victor              8
+clarissecq          8
+hakimradn           8
+Claire              8
+feyza               1
+BÁLIN               1
+russell             1
+seanyyxy            1
+Nathalie            1
+fanaticghost        1
 
 "Killers of the Flower Moon" (Martin Scorsese, US) [Out Of Competition]
 
