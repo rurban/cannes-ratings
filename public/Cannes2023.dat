@@ -22,7 +22,7 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   https://www.screendaily.com/news/cannes-2023-screens-dailies/5170637.article
 #   https://icsfilm.org/cannes-ics-grid/its-in-the-cannes-the-ics-panelists-for-the-76th-festival-de-cannes/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/cannes-2023-gazette-chaos-du-festival-jour-0/
+#   https://www.chaosreign.fr/festival-cannes-2023-tableau-etoiles-critique-competition-film/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2023-films-en-competition/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2023/
 #   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2023.pdf
@@ -118,6 +118,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -242,6 +253,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       6
+Olivier De Bruyn         6
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           8
+Marilou Duponchel        
+Jean-Michel Froudon      4
+Marin Gerard             2
+Jacky Goldberg           
+Matteu Maestracci        4
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -329,6 +351,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         2
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           
+Marilou Duponchel        6
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        8
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -412,6 +445,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -497,6 +541,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -582,6 +637,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -661,6 +727,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -739,6 +816,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -814,6 +902,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -890,6 +989,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -964,6 +1074,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1041,6 +1162,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1124,6 +1256,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1210,6 +1353,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1295,6 +1449,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1376,6 +1541,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1458,6 +1634,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1541,6 +1728,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1626,6 +1824,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1711,6 +1920,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1796,6 +2016,17 @@ Nanako Tsukidate
 Marcos Uzal              
 Blake Williams           
 # chaosreign.fr
+Ariane Allard            
+Stéphanie Belpêche       
+Olivier De Bruyn         
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Froudon      
+Marin Gerard             
+Jacky Goldberg           
+Matteu Maestracci        
+Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1881,7 +2112,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -1966,7 +2196,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2046,7 +2275,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2128,7 +2356,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2218,7 +2445,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2309,7 +2535,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2390,7 +2615,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2472,7 +2696,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2554,7 +2777,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2642,7 +2864,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2726,7 +2947,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2808,7 +3028,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2893,7 +3112,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -2977,7 +3195,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3059,7 +3276,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3142,7 +3358,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3226,7 +3441,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3306,7 +3520,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3386,7 +3599,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3468,7 +3680,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -3553,7 +3764,6 @@ Meredith Taylor
 Nanako Tsukidate         
 Marcos Uzal              
 Blake Williams           
-# chaosreign.fr
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
