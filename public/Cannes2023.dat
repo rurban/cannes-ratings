@@ -6641,12 +6641,12 @@ my $i=0;
 $critics_group[$i] = "critic.de";
 $critics[$i++] = "
 Andrey Arnold (Die Presse, Austria)
-Pamela Bienzobas (Cinema23, Chile) 
+Dunja Bialas (artechock, Deutschland)
+Devika Girish (Film Comment, USA)
 Frédéric Jaeger (critic.de, Deutschland)
+Jenny Jecke (Moviepilot, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
 Giovanni Marchini Camina (Sight & Sound, USA)
-Hannah Pilarczyk (Der Spiegel, Deutschland)
-Philipp Schwarz (critic.de, Deutschland)
 Rüdiger Suchsland (arteschock, Deutschland) 
 ";
 # Le film français 0-4
