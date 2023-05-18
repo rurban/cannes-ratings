@@ -19,7 +19,7 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   http://www.ioncinema.com/ (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2023
 #   http://jury.critic.de/cannes/ 
-#   https://www.screendaily.com/news/cannes-2023-screens-dailies/5170637.article
+#   https://www.screendaily.com/news/cannes-2023-screen-dailies/5182049.article
 #   https://icsfilm.org/cannes-ics-grid/its-in-the-cannes-the-ics-panelists-for-the-76th-festival-de-cannes/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/festival-cannes-2023-tableau-etoiles-critique-competition-film/
@@ -62,6 +62,18 @@ Frédéric Jaeger     4
 Rüdiger Suchsland    5
 Nanako Tsukidate      2.5
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen              5 
 Julien Rousset           5
@@ -197,6 +209,18 @@ Devika Girish         6
 Frédéric Jaeger     6
 Nanako Tsukidate      1
 # Screen Daily
+Justin Chang             5
+Peter Bradshaw           7.5
+Anton Dolin              7.5
+Tim Robey/Robbie Collin  5
+Kong Ritchie             5
+Katja Nikodemus          7.5         
+Michel Cement            7.5
+Carisse Fabre            5
+Stephanie Zacharek       5
+Ben Kenigsberg           5
+Ahmed Shawky             5
+Screen International     5
 # Le film français
 Gaël Golhen               
 Julien Rousset           7.5
@@ -295,6 +319,18 @@ Andrey Arnold         6
 Frédéric Jaeger     7.5
 Nanako Tsukidate      2.5
 # Screen Daily
+Justin Chang             5
+Peter Bradshaw           2.5
+Anton Dolin              
+Tim Robey/Robbie Collin  7.5
+Kong Ritchie             
+Katja Nikodemus                 
+Michel Cement            5
+Carisse Fabre            5
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     5
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -389,6 +425,18 @@ pcdevitt            5
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -485,6 +533,18 @@ Markowsky           7
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -581,6 +641,18 @@ Fernando Ganzo      3
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -671,6 +743,18 @@ antonin             3
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -760,6 +844,18 @@ Lilith Fury         1
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -846,6 +942,18 @@ St. Sebastian       6
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -933,6 +1041,18 @@ Raif alyosofi       3
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1018,6 +1138,18 @@ Louis Séguin
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1106,6 +1238,18 @@ ludovicbeot         9
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1200,6 +1344,18 @@ Sian Watson         6
 Lee Marshall            https://www.screendaily.com/reviews/a-brighter-tomorrow-cannes-review/5181302.article
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1297,6 +1453,18 @@ scuramachiara       10   https://letterboxd.com/scuramachiara/film/a-brighter-to
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1393,6 +1561,18 @@ tomaebasta          7
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1485,6 +1665,18 @@ Letterboxd 23_Ratings	9.0  https://letterboxd.com/film/about-dry-grasses/
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1578,6 +1770,18 @@ Alikss              1
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1672,6 +1876,18 @@ Simon               8
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1768,6 +1984,18 @@ Semih Soydaş        4
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1864,6 +2092,18 @@ Jack Sheehy         5
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -1960,6 +2200,18 @@ pomis               6
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2057,6 +2309,18 @@ UN CERTAIN REGARD
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2141,6 +2405,18 @@ Kit                 5
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2220,6 +2496,18 @@ Stephanie Zacharek
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2301,6 +2589,18 @@ matoulpb            6
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2390,6 +2690,18 @@ julesloez           2
 #critic.de
 Devika Girish         5
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2480,6 +2792,18 @@ matoulpb            5
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2560,6 +2884,18 @@ Kikuchiyosan        4
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2641,6 +2977,18 @@ pablomaille         7
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2722,6 +3070,18 @@ Jack Trainer        7
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2809,6 +3169,18 @@ Usul2301            5
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2892,6 +3264,18 @@ clem                6
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -2973,6 +3357,18 @@ venusianstone       7
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3057,6 +3453,18 @@ Kikuchiyosan        2
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3140,6 +3548,18 @@ mercilaudace        6
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3221,6 +3641,18 @@ Lord And Savior Obi Wan 4
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3303,6 +3735,18 @@ Kikuchiyosan        4
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3386,6 +3830,18 @@ Dale_1              6
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3465,6 +3921,18 @@ Stephanie Zacharek
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3544,6 +4012,18 @@ Stephanie Zacharek
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3625,6 +4105,18 @@ thoshelb            10
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -3709,6 +4201,18 @@ OUT OF COMPETITION
 
 #critic.de
 # Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -6670,19 +7174,20 @@ Stéphane Boudsocq (RTL, France)
 Catherine Balle (La Parisien)
 ";
 # screen daily 0-4
-# https://issuu.com/mb-insight/docs/screeninternational_cannes_2018_day_ecca3180f7c83f
+# https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=4d9383c0-371b-45b9-a84c-741f08269742
 $critics_group[$i] = "Screen Daily";
 $critics[$i++] = "
 Justin Chang ((LA Times, USA))
 Peter Bradshaw (Guardian, UK)
 Anton Dolin (Meduza, Latvia)
 Tim Robey/Robbie Collin (The Telegraph, UK)
-Wang Muyan (The Paper, China)
+Kong Ritchie (Bankkong Post, Thailand)
 Katja Nicodemus (Die Zeit, Deutschland)
 Michel Cement (Positif, France)
-Mathieu Macheret (Le Monde, France)
+Carisse Fabre (Le Monde, France)
 Stephanie Zacharek (TIME, USA)
-Nataliia Serebriakova (Korydor, Ukraine)
+Ben Kenigsberg (RogerEbert.com, USA)
+Ahmed Shawky (fifan.com, Egypt)
 Screen International (Screen International, USA) 
 ";
 $critics_group[$i] = "ioncinema";
