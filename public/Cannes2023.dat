@@ -26,9 +26,9 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2023-films-en-competition/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2023/
 #   https://wask.fr/les-etoiles-wask-de-la-quinzaine-2023-jour-par-jour/
+#   https://outnow.ch/News/2023/05/19/OutNow-Jury-Grid-at-Cannes-2023-So-ist-Indiana-Jones-5-angekommen
 # not yet:
 #   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2023.pdf
-#   https://outnow.ch/Thema/Cannes-2023/
 # Les Inrockuptibles
 # calmos-emoji
 # Club Média Ciné
@@ -164,6 +164,15 @@ Li Xun                   7.5
 Nanyouki                 5
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          8
+Amanda the Jedi          8
+Julia Baschiera          7
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        6
 Olivia Cooper-Hadjian    4
@@ -807,6 +816,15 @@ Li Xun                   5
 Nanyouki                 5
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          5
+Julia Baschiera          7
+Max Borg                 3
+Michael Sennhauser       7
+Patrick Wellinski        7
+Quiet on Set Podcast     3
+Zhou-Ning Su             3
+OutNow                   3
 # dkstjernebarometer
 Claus Christensen        4
 Olivia Cooper-Hadjian    6
@@ -1235,6 +1253,15 @@ Li Xun
 Nanyouki                 7.5
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          8
+Max Borg                 
+Michael Sennhauser       7
+Patrick Wellinski        8
+Quiet on Set Podcast     1
+Zhou-Ning Su             8
+OutNow                   3
 # dkstjernebarometer
 Claus Christensen        4
 Olivia Cooper-Hadjian    4
@@ -1474,6 +1501,15 @@ Li Xun                   5
 Nanyouki                 2.5
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          5
+Amanda the Jedi          
+Julia Baschiera          1
+Max Borg                 5
+Michael Sennhauser       3
+Patrick Wellinski        1
+Quiet on Set Podcast     3
+Zhou-Ning Su             1
+OutNow                   7
 # dkstjernebarometer
 Claus Christensen        4
 Olivia Cooper-Hadjian    
@@ -1812,6 +1848,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -1929,6 +1974,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 #letterboxd
 toothless light fury 10
@@ -2044,6 +2098,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 #letterboxd
 Zahra_B             8
@@ -2155,6 +2218,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -2273,6 +2345,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -2394,6 +2475,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 #letterboxd
 ludovicbeot         9
@@ -2506,6 +2596,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -2626,6 +2725,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 #letterboxd
 St. Sebastian       6
@@ -2736,6 +2844,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 #letterboxd
 Enrique Ramírez     8
@@ -2854,6 +2971,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 #letterboxd
 # disabled due to spam
@@ -2964,6 +3090,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3081,6 +3216,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3199,6 +3343,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3317,6 +3470,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3436,6 +3598,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3556,6 +3727,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3676,6 +3856,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -3792,6 +3981,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -4136,6 +4334,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -4385,6 +4592,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -4562,6 +4778,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -4778,6 +5003,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -4946,6 +5180,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5050,6 +5293,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5154,6 +5406,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5259,6 +5520,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5370,6 +5640,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5477,6 +5756,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5582,6 +5870,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5690,6 +5987,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5797,6 +6103,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -5902,6 +6217,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -6008,6 +6332,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -6115,6 +6448,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -6247,6 +6589,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -6351,6 +6702,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -6456,6 +6816,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -8448,6 +8817,15 @@ Li Xun
 Nanyouki                 
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
 # dkstjernebarometer
 Claus Christensen        
 Olivia Cooper-Hadjian    
@@ -12576,21 +12954,18 @@ Gautier Roos (Chaos Reign, France)
 Cédric Succivalli (International Cinephile Society, France)
 Marie Boudon/Victor Courgeon (Cinéma Le Méliès Montreuil, France)
 ";
-#$critics_group[$i] = "OutNow";
-#$critics[$i++] = "
-#Alex Billington (FirstShowing.net, USA)
-#Max Borg (Corriere del Ticina, Suisse)
-#Denise Bucher (NZZ am Sonntag, Suisse)
-#Stéphane Gobba (Le Temps, Suisse)
-#Jenny Jecke (Moviepilot, D)
-#Cole Jaeger (The Oscar Expert, USA)
-#Matthias Lerf (Sonntags Zeitung, Suisse)
-#Magdalena Miedl (Salzburger Nachrichten, Oe)
-#Michael Sennhauser (SRF, Suisse)
-#Zhou-Ning Su (AwardsDaily, D)
-#Teresa Vena (Cineurope, D)
-#Chris Schelb (OutNow, Suisse)
-#";
+$critics_group[$i] = "OutNow";
+$critics[$i++] = "
+Alex Billington (FirstShowing.net, USA)
+Amanda the Jedi
+Julia Baschiera (Oe1, Oe)
+Max Borg (Corriere del Ticina, Suisse)
+Michael Sennhauser (SRF, Suisse)
+Patrick Wellinski (DLF, Deutschland)
+Quiet on Set Podcast
+Zhou-Ning Su (AwardsDaily, D)
+OutNow
+";
 # https://mediacine.club/?p=1175
 #$critics_group[$i] = "Club Média Ciné";
 #$critics[$i++] = "
