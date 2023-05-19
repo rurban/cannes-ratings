@@ -20,11 +20,13 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   http://www.lefilmfrancais.com/cannes2023
 #   http://jury.critic.de/cannes/ 
 #   https://www.screendaily.com/news/cannes-2023-screen-dailies/5182049.article
-#   https://icsfilm.org/cannes-ics-grid/its-in-the-cannes-the-ics-panelists-for-the-76th-festival-de-cannes/
+#   https://icsfilm.org/festivals/cannes/cannes-2023-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/festival-cannes-2023-tableau-etoiles-critique-competition-film/
 #   https://www.cahiersducinema.com/festivals/le-conseil-de-cannes-2023-films-en-competition/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2023/
+#   https://wask.fr/les-etoiles-wask-de-la-quinzaine-2023-jour-par-jour/
+# not yet:
 #   http://www.filmneweurope.com/images/FNE%20Critics/CannesCritics2023.pdf
 #   https://outnow.ch/Thema/Cannes-2023/
 # Les Inrockuptibles
@@ -110,24 +112,24 @@ Kuriko Sato
 Rui Tendinha             
 Artur Zaborski           
 # ics
-Cédric Succivalli        
+Cédric Succivalli        8
 Isabel Sandoval          
 Ankit Jhunjhunwala       7
 Gregory Coutaut          7
-Marcos Uzal              
+Marcos Uzal              5
 Jessica Kiang            
 Marc van de Klashorst    9
 Guy Lodge                
-Meredith Taylor          
-Ela Bittencourt          
-Blake Williams           
-Nanako Tsukidate         1
-Anais Bordages           
-Nicholas Bell            
+Meredith Taylor          6
+Ela Bittencourt          6
+Blake Williams           4
+Nanako Tsukidate         0.5
+Anais Bordages           7
+Nicholas Bell            7
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
-Diego Batlle             
+Diego Batlle             7
 # chaosreign.fr
 Ariane Allard            
 Stéphanie Belpêche       6
@@ -712,20 +714,20 @@ Cédric Succivalli        8
 Isabel Sandoval          
 Ankit Jhunjhunwala       
 Gregory Coutaut          6
-Marcos Uzal              
+Marcos Uzal              2
 Jessica Kiang            
 Marc van de Klashorst    7
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          7
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           5
 Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell            
+Anais Bordages           5
+Nicholas Bell            7
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
-Diego Batlle             
+Diego Batlle             8
 # chaosreign.fr
 Ariane Allard            
 Stéphanie Belpêche       
@@ -1108,17 +1110,17 @@ Artur Zaborski
 Cédric Succivalli        
 Isabel Sandoval          
 Ankit Jhunjhunwala       
-Gregory Coutaut          
+Gregory Coutaut          6
 Marcos Uzal              
 Jessica Kiang            
-Marc van de Klashorst    
+Marc van de Klashorst    8
 Guy Lodge                
 Meredith Taylor          
 Ela Bittencourt          
 Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell            
+Nanako Tsukidate         8
+Anais Bordages           6
+Nicholas Bell            7
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
@@ -1328,9 +1330,9 @@ Marc van de Klashorst
 Guy Lodge                
 Meredith Taylor          
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           2
 Nanako Tsukidate         
-Anais Bordages           
+Anais Bordages           0.5
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
@@ -3872,11 +3874,11 @@ Cédric Succivalli
 Isabel Sandoval          
 Ankit Jhunjhunwala       
 Gregory Coutaut          
-Marcos Uzal              
+Marcos Uzal              2
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          6
 Ela Bittencourt          
 Blake Williams           
 Nanako Tsukidate         
@@ -4056,7 +4058,7 @@ Cédric Succivalli
 Isabel Sandoval          
 Ankit Jhunjhunwala       
 Gregory Coutaut          
-Marcos Uzal              
+Marcos Uzal              8
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
@@ -4069,7 +4071,7 @@ Nicholas Bell
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
-Diego Batlle             
+Diego Batlle             9
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -6106,8 +6108,8 @@ Artur Zaborski
 Cédric Succivalli        
 Isabel Sandoval          
 Ankit Jhunjhunwala       5
-Gregory Coutaut          
-Marcos Uzal              
+Gregory Coutaut          3
+Marcos Uzal              1
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
@@ -6115,7 +6117,7 @@ Meredith Taylor          2
 Ela Bittencourt          2
 Blake Williams           4
 Nanako Tsukidate         2
-Anais Bordages           1
+Anais Bordages           0.5
 Nicholas Bell            3
 Dubravka Lakic           
 Daniela Michel           
@@ -7532,22 +7534,22 @@ Till Kadritzke        7.5
 # ics
 Cédric Succivalli        
 Isabel Sandoval          
-Ankit Jhunjhunwala       
-Gregory Coutaut          
+Ankit Jhunjhunwala       5
+Gregory Coutaut          6
 Marcos Uzal              
 Jessica Kiang            
 Marc van de Klashorst    9  https://icsfilm.org/festivals/cannes/cannes-2023-review-occupied-city-steve-mcqueen/
 Guy Lodge                
 Meredith Taylor          
-Ela Bittencourt          
-Blake Williams           
+Ela Bittencourt          9
+Blake Williams           6
 Nanako Tsukidate         
 Anais Bordages           
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
-Diego Batlle             
+Diego Batlle             6
 #letterboxd
 BrookSavage         6
 pomis               4
@@ -7558,11 +7560,11 @@ Peter Bradshaw    8    https://www.theguardian.com/film/2023/may/17/strange-way-
 Peter Debruge           https://variety.com/2023/film/reviews/strange-way-of-life-review-pedro-almodovar-ethan-hawke-pedro-pascal-1235616069/
 #critic.de
 # ics
-Cédric Succivalli        
+Cédric Succivalli        6
 Isabel Sandoval          
 Ankit Jhunjhunwala       
 Gregory Coutaut          
-Marcos Uzal              
+Marcos Uzal              5
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
@@ -7575,7 +7577,7 @@ Nicholas Bell
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
-Diego Batlle             
+Diego Batlle             5
 #letterboxd
 Letterboxd 210_Ratings	7.92  https://letterboxd.com/film/killers-of-the-flower-moon/
 # rest disabled due to spam
@@ -7598,7 +7600,7 @@ Marc van de Klashorst
 Guy Lodge                
 Meredith Taylor          8
 Ela Bittencourt          4
-Blake Williams           
+Blake Williams           7
 Nanako Tsukidate         
 Anais Bordages           
 Nicholas Bell            
@@ -7746,7 +7748,7 @@ Marcos Uzal
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          6
 Ela Bittencourt          
 Blake Williams           
 Nanako Tsukidate         
@@ -8547,7 +8549,7 @@ Cédric Succivalli        8
 Isabel Sandoval          
 Ankit Jhunjhunwala       
 Gregory Coutaut          
-Marcos Uzal              
+Marcos Uzal              7
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
@@ -8702,33 +8704,6 @@ Travis_Garcia       2   https://letterboxd.com/travis_garcia/film/the-goldman-ca
 "Abraham’s Valley (Vale Abraão)" (Manoel de Oliveira, Por 1993) Special [Quinzaine]
 
 #critic.de
-# cahier
-Fernando Ganzo           
-Marcus Uzal              
-Charlotte Garson         
-Olivie Cooper-Hadjian    
-Yal Sadat                
-Thierry Méranger         
-Louis Séguin             
-# ics
-Cédric Succivalli        
-Isabel Sandoval          
-Ankit Jhunjhunwala       
-Gregory Coutaut          
-Marcos Uzal              
-Jessica Kiang            
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Ela Bittencourt          
-Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell            
-Dubravka Lakic           
-Daniela Michel           
-Isabel Sandoval          
-Diego Batlle             
 #letterboxd
 Letterboxd 1542_Ratings	8.02  https://letterboxd.com/film/abrahams-valley/
 
@@ -8751,13 +8726,13 @@ Ankit Jhunjhunwala
 Gregory Coutaut          
 Marcos Uzal              
 Jessica Kiang            
-Marc van de Klashorst    
+Marc van de Klashorst    6
 Guy Lodge                
 Meredith Taylor          
 Ela Bittencourt          
-Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
+Blake Williams           4
+Nanako Tsukidate         4
+Anais Bordages           7
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
@@ -8838,16 +8813,16 @@ Louis Séguin
 Cédric Succivalli        
 Isabel Sandoval          
 Ankit Jhunjhunwala       
-Gregory Coutaut          
-Marcos Uzal              
+Gregory Coutaut          5
+Marcos Uzal              9
 Jessica Kiang            
-Marc van de Klashorst    
+Marc van de Klashorst    2
 Guy Lodge                
 Meredith Taylor          
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           7
 Nanako Tsukidate         
-Anais Bordages           
+Anais Bordages           7
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
@@ -9025,14 +9000,14 @@ Louis Séguin
 Cédric Succivalli        
 Isabel Sandoval          
 Ankit Jhunjhunwala       
-Gregory Coutaut          
-Marcos Uzal              
+Gregory Coutaut          5
+Marcos Uzal              8
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          4
 Ela Bittencourt          
-Blake Williams           
+Blake Williams           8
 Nanako Tsukidate         
 Anais Bordages           
 Nicholas Bell            
@@ -9819,7 +9794,7 @@ Louis Séguin
 Cédric Succivalli        
 Isabel Sandoval          
 Ankit Jhunjhunwala       
-Gregory Coutaut          
+Gregory Coutaut          6
 Marcos Uzal              
 Jessica Kiang            
 Marc van de Klashorst    
@@ -9959,10 +9934,10 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # ics
-Cédric Succivalli        
+Cédric Succivalli        6
 Isabel Sandoval          
 Ankit Jhunjhunwala       
-Gregory Coutaut          
+Gregory Coutaut          7
 Marcos Uzal              
 Jessica Kiang            
 Marc van de Klashorst    7  https://icsfilm.org/reviews/cannes-2023-review-tiger-stripes-amanda-nell-eu/
@@ -9971,7 +9946,7 @@ Meredith Taylor          8
 Ela Bittencourt          
 Blake Williams           
 Nanako Tsukidate         2
-Anais Bordages           
+Anais Bordages           4
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
@@ -10127,18 +10102,18 @@ Louis Séguin
 # ics
 Cédric Succivalli        
 Isabel Sandoval          
-Ankit Jhunjhunwala       
-Gregory Coutaut          
+Ankit Jhunjhunwala       6
+Gregory Coutaut          7
 Marcos Uzal              
 Jessica Kiang            
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
-Ela Bittencourt          
+Meredith Taylor          8
+Ela Bittencourt          6
 Blake Williams           
 Nanako Tsukidate         
 Anais Bordages           
-Nicholas Bell            
+Nicholas Bell            6
 Dubravka Lakic           
 Daniela Michel           
 Isabel Sandoval          
@@ -10516,8 +10491,8 @@ Guy Lodge
 Meredith Taylor          
 Ela Bittencourt          
 Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
+Nanako Tsukidate         5
+Anais Bordages           8
 Nicholas Bell            
 Dubravka Lakic           
 Daniela Michel           
@@ -10554,7 +10529,7 @@ Louis Séguin
 Cédric Succivalli        
 Isabel Sandoval          
 Ankit Jhunjhunwala       
-Gregory Coutaut          
+Gregory Coutaut          4
 Marcos Uzal              
 Jessica Kiang            
 Marc van de Klashorst    
@@ -10562,7 +10537,7 @@ Guy Lodge
 Meredith Taylor          
 Ela Bittencourt          
 Blake Williams           
-Nanako Tsukidate         
+Nanako Tsukidate         3
 Anais Bordages           
 Nicholas Bell            
 Dubravka Lakic           
@@ -10695,7 +10670,7 @@ Guy Lodge
 Meredith Taylor          
 Ela Bittencourt          
 Blake Williams           
-Nanako Tsukidate         
+Nanako Tsukidate         4
 Anais Bordages           
 Nicholas Bell            
 Dubravka Lakic           
