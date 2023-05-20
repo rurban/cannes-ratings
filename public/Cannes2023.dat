@@ -1560,19 +1560,19 @@ Ahmed Shawky
 Screen International     5
 # Le film français
 Gaël Golhen              
-Julien Rousset           
+Julien Rousset           2.5
 Marcus Uzal              
 Eric Neuhoff             2.5
-Philippe Rouyer          
+Philippe Rouyer          2.5
 Jaques Mandelbaum        1
-Guillemette Odicino      
+Guillemette Odicino      2.5
 jean-Claude Raspiengeas  1
 Jean-Marc Lalanne        1
 Michaël Mélinard         2.5
-Nicolas Schaller         7.5
-Gilles Kerdreux          
+Nicolas Schaller         5
+Gilles Kerdreux          7.5
 Barbara Théate           7.5
-Stéphane Boudsocq        
+Stéphane Boudsocq        1
 Catherine Balle          7.5
 # ioncinema
 Nicholas Bell            5
@@ -1995,19 +1995,19 @@ Ben Kenigsberg
 Ahmed Shawky             
 Screen International     
 # Le film français
-Gaël Golhen               
-Julien Rousset           
+Gaël Golhen              9
+Julien Rousset           7.5
 Marcus Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum        
-Guillemette Odicino      
+Eric Neuhoff             1
+Philippe Rouyer          7.5
+Jaques Mandelbaum        2.5
+Guillemette Odicino      5
 jean-Claude Raspiengeas  
 Jean-Marc Lalanne        
 Michaël Mélinard         
 Nicolas Schaller         
 Gilles Kerdreux          
-Barbara Théate           
+Barbara Théate           5
 Stéphane Boudsocq        
 Catherine Balle          
 # ioncinema
@@ -2241,15 +2241,15 @@ Screen International
 Gaël Golhen               
 Julien Rousset           
 Marcus Uzal              
-Eric Neuhoff             
+Eric Neuhoff             9
 Philippe Rouyer          
-Jaques Mandelbaum        
+Jaques Mandelbaum        9
 Guillemette Odicino      
 jean-Claude Raspiengeas  
 Jean-Marc Lalanne        
 Michaël Mélinard         
 Nicolas Schaller         
-Gilles Kerdreux          
+Gilles Kerdreux          2.5
 Barbara Théate           
 Stéphane Boudsocq        
 Catherine Balle          
@@ -2510,9 +2510,9 @@ Julien Rousset
 Marcus Uzal              
 Eric Neuhoff             
 Philippe Rouyer          
-Jaques Mandelbaum        
-Guillemette Odicino      
-jean-Claude Raspiengeas  
+Jaques Mandelbaum        7.5
+Guillemette Odicino      9
+jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        
 Michaël Mélinard         
 Nicolas Schaller         
@@ -5419,17 +5419,17 @@ Screen International
 Gaël Golhen               
 Julien Rousset           
 Marcus Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
+Eric Neuhoff             1
+Philippe Rouyer          5
 Jaques Mandelbaum        
 Guillemette Odicino      
-jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
+jean-Claude Raspiengeas  5
+Jean-Marc Lalanne        2.5
 Michaël Mélinard         
 Nicolas Schaller         2.5
 Gilles Kerdreux          
 Barbara Théate           5
-Stéphane Boudsocq        
+Stéphane Boudsocq        5
 Catherine Balle          5
 # ioncinema
 Nicholas Bell            
@@ -5674,8 +5674,8 @@ Julien Rousset
 Marcus Uzal              
 Eric Neuhoff             
 Philippe Rouyer          
-Jaques Mandelbaum        
-Guillemette Odicino      
+Jaques Mandelbaum        7.5
+Guillemette Odicino      5
 jean-Claude Raspiengeas  
 Jean-Marc Lalanne        
 Michaël Mélinard         
@@ -5866,6 +5866,207 @@ Bridgette Cooke     2
 Gainsbarough        2
 Étienne             2
 GastonFe            1   https://letterboxd.com/gastonfe/film/how-to-have-sex/
+
+"The New Boy" (Warwick Thornton, Aus) [Un Certain Regard]
+
+Guy Lodge               https://variety.com/2023/film/reviews/the-new-boy-review-cate-blanchett-1235617751/
+Fionnuala Halligan      https://www.screendaily.com/reviews/the-new-boy-cannes-review/5182297.article
+Leonardo Goi          C+  https://thefilmstage.com/cannes-review-the-new-boy-forsakes-mysticism-to-chart-an-overwrought-spiritual-crisis/
+Steve Pond              https://www.thewrap.com/the-new-boy-review-cate-blanchett-drama-cannes-2023/
+#critic.de
+# Screen Daily
+Justin Chang             
+Peter Bradshaw           
+Anton Dolin              
+Tim Robey/Robbie Collin  
+Kong Ritchie             
+Katja Nikodemus                    
+Michel Cement            
+Carisse Fabre            
+Stephanie Zacharek       
+Ben Kenigsberg           
+Ahmed Shawky             
+Screen International     
+# Le film français
+Gaël Golhen               
+Julien Rousset           
+Marcus Uzal              1
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      
+jean-Claude Raspiengeas  
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Gilles Kerdreux          
+Barbara Théate           
+Stéphane Boudsocq        
+Catherine Balle          
+# ioncinema
+Nicholas Bell            
+Julia Blaga              
+Paola Casela             
+Nat Chifflet             
+Marilou Duponchel        
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Liu Min                  
+Marc-André Lussier       
+Elli Mastorou            
+Savina Petkov            
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Artur Zaborski           
+# ics
+Cédric Succivalli        
+Isabel Sandoval          
+Ankit Jhunjhunwala       
+Gregory Coutaut          
+Marcos Uzal              
+Jessica Kiang            
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Ela Bittencourt          
+Blake Williams           
+Nanako Tsukidate         
+Anais Bordages           
+Nicholas Bell            
+Dubravka Lakic           
+Daniela Michel           
+Isabel Sandoval          
+Diego Batlle             
+# cahier
+Fernando Ganzo           
+Marcus Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
+# Chinese @CriticsGrid
+Liu Min                  
+Jenny S.Li               
+Xavier                   
+Bear W                   
+Qin Wan                  
+PeterCat                 
+Elise                    
+Woodhead                 
+HarperDre                
+Li Xun                   
+Nanyouki                 
+# FIPRESCI
+# OutNow (1 3 5 7 8 10)
+Alex Billington          
+Amanda the Jedi          
+Julia Baschiera          
+Max Borg                 
+Michael Sennhauser       
+Patrick Wellinski        
+Quiet on Set Podcast     
+Zhou-Ning Su             
+OutNow                   
+#letterboxd
+Betelnut_           10
+paigebullman        10   https://letterboxd.com/paigebullman/film/the-new-boy/
+Maxime Parier       10
+Emma Chehab         10
+Kremy               10
+Laeticia Wojtzik    10
+Atsnayy             10
+Clémentine Guy      8   https://letterboxd.com/guyclem/film/the-new-boy/
+victor              8   https://letterboxd.com/vitindlg/film/the-new-boy/
+ikbenLo             8   https://letterboxd.com/ikbenlo/film/the-new-boy/
+George Fenwick      8   https://letterboxd.com/georgefenwick/film/the-new-boy/
+georgia             8   https://letterboxd.com/superscope/film/the-new-boy/
+Tasha Jagger        8   https://letterboxd.com/_tashajagger/film/the-new-boy/
+Jack?               8   https://letterboxd.com/jackdignan/film/the-new-boy/
+Matthew             8   https://letterboxd.com/mdlapaglia/film/the-new-boy/
+Lou Thomas          8
+louisehusson        8
+zouzou666           8
+gemma!              7   https://letterboxd.com/gcecca/film/the-new-boy/
+mathildepchd        7   https://letterboxd.com/mathildepchd/film/the-new-boy/
+brookeburns         7   https://letterboxd.com/brookeburns/film/the-new-boy/
+Andy Hazel          7
+ainekirs            7
+aetherym            7
+mattbrnd            7
+mattbrnd            7
+Squid Ward          7
+TheFiLo             7
+attazmn             7
+pcdevitt            7
+Calamity_Billy      6
+GastonFe            6
+Ricaa               6
+madocosy            6
+elegia_34           6
+ldger               6   https://letterboxd.com/ldger/film/the-new-boy/
+Fabrizio Carelle    6
+Phil                6
+pentaxx             6
+Benoit_de_Cajou     6
+Flavien_LAPEYRE     6
+Enzo Croisier       6
+Tony_Wagner         6
+film445             6
+Onat Çakır          6
+Nicolas Pinon       6
+Ben                 6
+Arthur Cios         6
+Jay Ron Junghans    6
+Benji Tamir         6
+marius gbr          6
+Ajespe              6   https://letterboxd.com/ajespe/film/the-new-boy/
+Stephen Hunsaker    6   https://letterboxd.com/stephenhunsaker/film/the-new-boy/
+Sanji2606           5
+Charlie 🫖           5   https://letterboxd.com/charlottesire/film/the-new-boy/
+Cosdomasa           5
+Philip Bagnall      5   https://letterboxd.com/cynicalfilm/film/the-new-boy/
+iana                5
+Aifanny             5   https://letterboxd.com/aifanny/film/the-new-boy/
+I_am_no_robot       5
+Julia🍿              5
+liloudelaville      5
+Solyste             5
+zo19                5
+Ambre🌻              5   https://letterboxd.com/ambrearaud/film/the-new-boy/
+Ema Sasic           5   https://letterboxd.com/emasasic/film/the-new-boy/
+PA27                5   https://letterboxd.com/pa27/film/the-new-boy/
+Jerm833             5
+MovieAndLove        5
+polarvaes           5
+Augustine Caille ⚢  5   https://letterboxd.com/illiska/film/the-new-boy/
+niouaucarre         4
+Anaëlle             4
+etiennefs1          4   https://letterboxd.com/etiennefs1/film/the-new-boy/
+dakocookie          4
+guilleanguita       4   https://letterboxd.com/guilleanguita/film/the-new-boy/
+mini13              4
+MadWillou           4
+nikolarukavina      4   https://letterboxd.com/nikolarukavina/film/the-new-boy/
+Stephen Miller      4   https://letterboxd.com/sdavidmiller/film/the-new-boy/
+Constant            4
+Guilherme Genestreti 4   https://letterboxd.com/guigenestreti/film/the-new-boy/
+infinityjo          4
+Thibault            4
+Mr. M               4
+MonteCristo__       3
+Gabralr             3
+Usul2301            3
+Obmishra            3
+Laurine             2
+RentonDuc           2
+Kikuchiyosan        2
 
 "Goodbye Julia" (Mohamed Kordofani) [Un Certain Regard]
  1st film
@@ -6516,207 +6717,6 @@ OutNow
 #letterboxd
 matoulpb            7
 venusianstone       7
-
-"The New Boy" (Warwick Thornton, Aus) [Un Certain Regard]
-
-Guy Lodge               https://variety.com/2023/film/reviews/the-new-boy-review-cate-blanchett-1235617751/
-Fionnuala Halligan      https://www.screendaily.com/reviews/the-new-boy-cannes-review/5182297.article
-Leonardo Goi          C+  https://thefilmstage.com/cannes-review-the-new-boy-forsakes-mysticism-to-chart-an-overwrought-spiritual-crisis/
-Steve Pond              https://www.thewrap.com/the-new-boy-review-cate-blanchett-drama-cannes-2023/
-#critic.de
-# Screen Daily
-Justin Chang             
-Peter Bradshaw           
-Anton Dolin              
-Tim Robey/Robbie Collin  
-Kong Ritchie             
-Katja Nikodemus                    
-Michel Cement            
-Carisse Fabre            
-Stephanie Zacharek       
-Ben Kenigsberg           
-Ahmed Shawky             
-Screen International     
-# Le film français
-Gaël Golhen               
-Julien Rousset           
-Marcus Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum        
-Guillemette Odicino      
-jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Barbara Théate           
-Stéphane Boudsocq        
-Catherine Balle          
-# ioncinema
-Nicholas Bell            
-Julia Blaga              
-Paola Casela             
-Nat Chifflet             
-Marilou Duponchel        
-Rodrigo Fonseca          
-Leda Galanou             
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
-Fabien Lemercier         
-Liu Min                  
-Marc-André Lussier       
-Elli Mastorou            
-Savina Petkov            
-Jordan Ruimy             
-Kuriko Sato              
-Rui Tendinha             
-Artur Zaborski           
-# ics
-Cédric Succivalli        
-Isabel Sandoval          
-Ankit Jhunjhunwala       
-Gregory Coutaut          
-Marcos Uzal              
-Jessica Kiang            
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Ela Bittencourt          
-Blake Williams           
-Nanako Tsukidate         
-Anais Bordages           
-Nicholas Bell            
-Dubravka Lakic           
-Daniela Michel           
-Isabel Sandoval          
-Diego Batlle             
-# cahier
-Fernando Ganzo           
-Marcus Uzal              
-Charlotte Garson         
-Olivie Cooper-Hadjian    
-Yal Sadat                
-Thierry Méranger         
-Louis Séguin             
-# Chinese @CriticsGrid
-Liu Min                  
-Jenny S.Li               
-Xavier                   
-Bear W                   
-Qin Wan                  
-PeterCat                 
-Elise                    
-Woodhead                 
-HarperDre                
-Li Xun                   
-Nanyouki                 
-# FIPRESCI
-# OutNow (1 3 5 7 8 10)
-Alex Billington          
-Amanda the Jedi          
-Julia Baschiera          
-Max Borg                 
-Michael Sennhauser       
-Patrick Wellinski        
-Quiet on Set Podcast     
-Zhou-Ning Su             
-OutNow                   
-#letterboxd
-Betelnut_           10
-paigebullman        10   https://letterboxd.com/paigebullman/film/the-new-boy/
-Maxime Parier       10
-Emma Chehab         10
-Kremy               10
-Laeticia Wojtzik    10
-Atsnayy             10
-Clémentine Guy      8   https://letterboxd.com/guyclem/film/the-new-boy/
-victor              8   https://letterboxd.com/vitindlg/film/the-new-boy/
-ikbenLo             8   https://letterboxd.com/ikbenlo/film/the-new-boy/
-George Fenwick      8   https://letterboxd.com/georgefenwick/film/the-new-boy/
-georgia             8   https://letterboxd.com/superscope/film/the-new-boy/
-Tasha Jagger        8   https://letterboxd.com/_tashajagger/film/the-new-boy/
-Jack?               8   https://letterboxd.com/jackdignan/film/the-new-boy/
-Matthew             8   https://letterboxd.com/mdlapaglia/film/the-new-boy/
-Lou Thomas          8
-louisehusson        8
-zouzou666           8
-gemma!              7   https://letterboxd.com/gcecca/film/the-new-boy/
-mathildepchd        7   https://letterboxd.com/mathildepchd/film/the-new-boy/
-brookeburns         7   https://letterboxd.com/brookeburns/film/the-new-boy/
-Andy Hazel          7
-ainekirs            7
-aetherym            7
-mattbrnd            7
-mattbrnd            7
-Squid Ward          7
-TheFiLo             7
-attazmn             7
-pcdevitt            7
-Calamity_Billy      6
-GastonFe            6
-Ricaa               6
-madocosy            6
-elegia_34           6
-ldger               6   https://letterboxd.com/ldger/film/the-new-boy/
-Fabrizio Carelle    6
-Phil                6
-pentaxx             6
-Benoit_de_Cajou     6
-Flavien_LAPEYRE     6
-Enzo Croisier       6
-Tony_Wagner         6
-film445             6
-Onat Çakır          6
-Nicolas Pinon       6
-Ben                 6
-Arthur Cios         6
-Jay Ron Junghans    6
-Benji Tamir         6
-marius gbr          6
-Ajespe              6   https://letterboxd.com/ajespe/film/the-new-boy/
-Stephen Hunsaker    6   https://letterboxd.com/stephenhunsaker/film/the-new-boy/
-Sanji2606           5
-Charlie 🫖           5   https://letterboxd.com/charlottesire/film/the-new-boy/
-Cosdomasa           5
-Philip Bagnall      5   https://letterboxd.com/cynicalfilm/film/the-new-boy/
-iana                5
-Aifanny             5   https://letterboxd.com/aifanny/film/the-new-boy/
-I_am_no_robot       5
-Julia🍿              5
-liloudelaville      5
-Solyste             5
-zo19                5
-Ambre🌻              5   https://letterboxd.com/ambrearaud/film/the-new-boy/
-Ema Sasic           5   https://letterboxd.com/emasasic/film/the-new-boy/
-PA27                5   https://letterboxd.com/pa27/film/the-new-boy/
-Jerm833             5
-MovieAndLove        5
-polarvaes           5
-Augustine Caille ⚢  5   https://letterboxd.com/illiska/film/the-new-boy/
-niouaucarre         4
-Anaëlle             4
-etiennefs1          4   https://letterboxd.com/etiennefs1/film/the-new-boy/
-dakocookie          4
-guilleanguita       4   https://letterboxd.com/guilleanguita/film/the-new-boy/
-mini13              4
-MadWillou           4
-nikolarukavina      4   https://letterboxd.com/nikolarukavina/film/the-new-boy/
-Stephen Miller      4   https://letterboxd.com/sdavidmiller/film/the-new-boy/
-Constant            4
-Guilherme Genestreti 4   https://letterboxd.com/guigenestreti/film/the-new-boy/
-infinityjo          4
-Thibault            4
-Mr. M               4
-MonteCristo__       3
-Gabralr             3
-Usul2301            3
-Obmishra            3
-Laurine             2
-RentonDuc           2
-Kikuchiyosan        2
 
 "If Only I Could Hibernate" (Zoljargal Purevdash) [Un Certain Regard]
 
