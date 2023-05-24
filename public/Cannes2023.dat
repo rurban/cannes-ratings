@@ -20328,8 +20328,8 @@ Reini Urban         2   https://letterboxd.com/rurban/film/legua/
 "A Song Sung Blue" (Zihan Geng) [Quinzaine]
  1st
 
-#critic.de
 John Berra              https://www.screendaily.com/reviews/a-song-sung-blue-cannes-review/5182130.article
+#critic.de
 # cahier
 Fernando Ganzo           
 Marcus Uzal              
@@ -20383,6 +20383,7 @@ Daniele Minucci     7
 Lorenzo Borghini    7
 Alphonicne          7
 Rémi Hay--Rimbault  7
+Reini Urban         6   https://letterboxd.com/rurban/film/a-song-sung-blue/
 Alyssia D. N.       6
 racheldare          6
 Hector Ha 🇵🇷        6
@@ -23710,26 +23711,6 @@ Pragya Mishra (Dainik Prabhat Kiran, India)
 J. Sperling Reich (Celloloid Junkie, USA)
 Stephanie Zacharek (Time, USA)
 ";
-#$critics_group[$i] = "kinoart.ru";
-#$critics[$i++] = "
-#Egor Belikov (KinoTV,Forbes, Ru)
-#Inna Denisova (KinoPoisk, Ru)
-#Anton Dolin  (Meduza, Ru)
-#Egor Moskvitin (KinoTV, Ru)
-#Zinaida Pronchenko (The art of cinema, Ru)
-#Andrey Plakhov (Kommersant, Ru)
-#Anna Strelchuk (Intermedia, Ru)
-#";
-#$critics_group[$i] = "calmos emoji";
-#$critics[$i++] = "
-#Hugo Alexandre (calmos.net, France)
-#David Honnorat (calmos.net, France)
-#Anaïs Bordages (Slate.fr, France)
-#Théo Ribeton (Les Inrockuptibles, France)
-#Perrine Quennesson (French Film, France)
-#Lucile Bellan (Artistik Rezo, France)
-#Thomas Gastaldi (Wask / FilmDeCulte, France)
-#";
 $critics_group[$i] = "FIPRESCI";
 $critics[$i++] = "
 Ahmed Shawky (Fipresci)
@@ -23797,55 +23778,6 @@ Quiet on Set Podcast
 Zhou-Ning Su (AwardsDaily, D)
 OutNow
 ";
-# https://mediacine.club/?p=1175
-#$critics_group[$i] = "Club Média Ciné";
-#$critics[$i++] = "
-#Sophie Avon (Sud Ouest, France)
-#Renaud Baronian (Le Parisien, France)
-#Stéphanie Belpêche (JDD, France)
-#Olivier Benkemoun (C News, France)
-#Samuel Blumenfeld (Le Monde, France)
-#Olivier Bousquet (CSD, France)
-#Charlotte Bouteloup (France 2, France)
-#Camille Choteau (Gala, France)
-#Bruno Cras (Radio Classique, France)
-#Francoise Delbeque (Elle, France)
-#Laurent Delmas (France Inter, France)
-#Sarah Drouhaud (Le Film Francais, France)
-#Thierry Gandillot (Les Echos, France)
-#Sabine Gorny (France 3, France)
-#Marie-Jo Jouan (Membre Fondateur, France)
-#Sophie Laubie (AFP, France)
-#Fabrice Leclerc (Paris Match, France)
-#Florence Leroy (Sud Radio, France)
-#Bertrand Lesguillons (NRJ, France)
-#Maryline Letertre (Madame Figaro, France)
-#Candice Mahout (BFM TV, France)
-#Lisa Nesselson (France 24, France)
-#Maximilien Pierrette (Allo Cine, France)
-#Bertrand Neau (M6, France)
-#Eric Neuhoff (Le Figaro, France)
-#Mehdi Omais (Le Journal des Femmes, France)
-#Perrine Quennesson (Nociné, France)
-#Philipe Royer (Positif, France)
-#Marie Sauvion (Le cercle, France)
-#Nicolas Schaller (L'obs, France)
-#Emmanuelle Spadacenta (Cinema Teaser, France)
-#Caroline Vié (20 minutes, Suisse)
-#Pierre Zéni (Canal+, France)
-#";
-#$critics_group[$i] = "TF1.fr";
-#$critics[$i++] = "
-#Aurelien Allin (Cinemateaser, France)
-#Evangeline Barbaroux (LCI, France)
-#Thomas Baurez (Studio CineLive, France)
-#Stephanie Belpêche (JDD, France)
-#Stéphanie Lamome (First, France)
-#Romaine Le Vern (TF1 News, France)
-#Mehdi Omaïs (Metro, France)
-#Philippe Rouyer (Cercle, France)
-#Caroline Vie (20 minutes, Suisse)
-#";
 #$critics_group[$i] = "Mehdi Omais";
 #$critics[$i++] = "
 #Stéphanie Belpêche (JDD, France)
