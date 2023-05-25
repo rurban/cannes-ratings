@@ -7997,12 +7997,12 @@ Gaël Golhen              5
 Julien Rousset           2.5
 Marcus Uzal              7.5
 Eric Neuhoff             2.5
-Philippe Rouyer          
+Philippe Rouyer          7.5
 Jaques Mandelbaum        2.5
 Guillemette Odicino      5
 jean-Claude Raspiengeas  5
 Jean-Marc Lalanne        2.5
-Michaël Mélinard         
+Michaël Mélinard         2.5
 Nicolas Schaller         7.5
 Gilles Kerdreux          5
 Barbara Théate           2.5
@@ -8144,21 +8144,21 @@ Ben Kenigsberg           5
 Ahmed Shawky             5
 Screen International     7.5
 # Le film français
-Gaël Golhen               
-Julien Rousset           
-Marcus Uzal              
+Gaël Golhen              7.5
+Julien Rousset           5
+Marcus Uzal              7.5
 Eric Neuhoff             5
-Philippe Rouyer          
+Philippe Rouyer          9
 Jaques Mandelbaum        7.5
-Guillemette Odicino      
+Guillemette Odicino      2.5
 jean-Claude Raspiengeas  7.5
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         5
+Nicolas Schaller         5
 Gilles Kerdreux          5
-Barbara Théate           
-Stéphane Boudsocq        
-Catherine Balle          
+Barbara Théate           5
+Stéphane Boudsocq        5
+Catherine Balle          7.5
 # ioncinema
 Nicholas Bell            6
 Julia Blaga              4
@@ -8641,20 +8641,20 @@ Ahmed Shawky
 Screen International     
 # Le film français
 Gaël Golhen               
-Julien Rousset           
+Julien Rousset           2.5
 Marcus Uzal              
-Eric Neuhoff             
+Eric Neuhoff             1
 Philippe Rouyer          
-Jaques Mandelbaum        
+Jaques Mandelbaum        2.5
 Guillemette Odicino      
-jean-Claude Raspiengeas  
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Gilles Kerdreux          
-Barbara Théate           
+jean-Claude Raspiengeas  2.5
+Jean-Marc Lalanne        1
+Michaël Mélinard         2.5
+Nicolas Schaller         1
+Gilles Kerdreux          7.5
+Barbara Théate           5
 Stéphane Boudsocq        
-Catherine Balle          
+Catherine Balle          2.5
 # ioncinema
 Nicholas Bell            
 Julia Blaga              
@@ -8892,20 +8892,20 @@ Ben Kenigsberg
 Ahmed Shawky             
 Screen International     
 # Le film français
-Gaël Golhen               
+Gaël Golhen              
 Julien Rousset           
 Marcus Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum        
+Eric Neuhoff             7.5
+Philippe Rouyer          7.5
+Jaques Mandelbaum        5
 Guillemette Odicino      
-jean-Claude Raspiengeas  
+jean-Claude Raspiengeas  7.5
 Jean-Marc Lalanne        
-Michaël Mélinard         
+Michaël Mélinard         2.5
 Nicolas Schaller         
 Gilles Kerdreux          
-Barbara Théate           
-Stéphane Boudsocq        
+Barbara Théate           5
+Stéphane Boudsocq        5
 Catherine Balle          
 # ioncinema
 Nicholas Bell            
@@ -13204,10 +13204,10 @@ Gaël Golhen
 Julien Rousset           
 Marcus Uzal              
 Eric Neuhoff             
-Philippe Rouyer          
+Philippe Rouyer          5
 Jaques Mandelbaum        
 Guillemette Odicino      
-jean-Claude Raspiengeas  
+jean-Claude Raspiengeas  9
 Jean-Marc Lalanne        
 Michaël Mélinard         
 Nicolas Schaller         
@@ -13364,13 +13364,13 @@ Lee Marshall            https://www.screendaily.com/reviews/hopeless-cannes-revi
 #critic.de
 Rüdiger Suchsland    6
 # Le film français
-Gaël Golhen               
+Gaël Golhen              
 Julien Rousset           
 Marcus Uzal              
 Eric Neuhoff             
 Philippe Rouyer          
 Jaques Mandelbaum        
-Guillemette Odicino      
+Guillemette Odicino      5
 jean-Claude Raspiengeas  
 Jean-Marc Lalanne        
 Michaël Mélinard         
