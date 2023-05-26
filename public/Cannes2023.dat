@@ -27,12 +27,11 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   https://wask.fr/les-etoiles-wask-de-la-quinzaine-2023-jour-par-jour/
 #   https://outnow.ch/News/2023/05/19/OutNow-Jury-Grid-at-Cannes-2023-So-ist-Indiana-Jones-5-angekommen
 #   https://www.filmneweurope.com/news/region/item/124784-fne-at-cannes-2023-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
-# not yet:
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   Polish poll: https://twitter.com/tomasz_poborca
-#   Caiman poll: https://www.caimanediciones.es/wp-content/uploads/2023/05/critics_panel_CANNES-2023.pdf
+#   https://pelnasala.pl/cannes-2023-grid/  https://twitter.com/tomasz_poborca 
+#   https://www.caimanediciones.es/wp-content/uploads/2023/05/critics_panel_CANNES-2023.pdf
 #   Académie des Lumières: https://twitter.com/prixlumieres
-#   Russian poll: https://daily.afisha.ru/stories/25573-filmy-kannskogo-kinofestivalya-2023-ocenki-rossiyskih-kinokritikov/
+#   https://daily.afisha.ru/stories/25573-filmy-kannskogo-kinofestivalya-2023-ocenki-rossiyskih-kinokritikov/
 # Reviews: 
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -1014,6 +1013,7 @@ le_gus              6
 Meliksah Altuntas   6   https://letterboxd.com/meliksahtas/film/monster-2023/
 Rafa Sales Ross     6
 axelopac            6
+Edoardo Nerboni     5
 Nathan Engelking    5   https://letterboxd.com/nathanengelking/film/monster-2023/
 Eloi Bigas          5
 david               5
@@ -1271,7 +1271,7 @@ Christian           10
 carriemiller_       10
 marastar101         10
 Eva Boncour         10
-J.D. Morales        9
+J.D. Morales        9   https://letterboxd.com/jkm798/film/homecoming-2023/
 Ursu Casanova       9
 gregor0210          9
 ssaaiiss            9
@@ -1947,6 +1947,7 @@ HBarthe             9   https://letterboxd.com/hbarthe/film/youth-spring/
 Gaetan              9
 Patrick Wellinski   9
 Markowsky           9
+BrandoHu            8
 LatinaL             8   https://letterboxd.com/latinal/film/youth-spring/
 Andrew              8   https://letterboxd.com/andr913/film/youth-spring/
 Maiqi Zhong         8
@@ -3018,7 +3019,7 @@ Anton Dolin                       7
 Anna Strelchuk                    2
 #letterboxd
 Letterboxd 23_Ratings	9.0  https://letterboxd.com/film/about-dry-grasses/
-Thomas              10
+Thomas              10   https://letterboxd.com/thomaseremia/film/about-dry-grasses/
 cmorari             10
 notoriouswolf       10
 guyshi              10
@@ -3639,6 +3640,7 @@ Mauricio Ribeiro    10
 FilmLandEmpire      10
 Ella Kemp           10
 humzaakbar          10
+__j0nny_R_          9
 Luca Ottocento      9
 scabb23             9
 luciaoa             9
@@ -3817,6 +3819,7 @@ attazmn             9
 Omar Franini        9
 Jons                9   https://letterboxd.com/jons_klaessens/film/the-zone-of-interest/
 David Ehrlich       9   https://letterboxd.com/davidehrlich/film/the-zone-of-interest/
+ArnauMartin00       8
 Nathan Engelking    8   https://letterboxd.com/nathanengelking/film/the-zone-of-interest/
 Katie Baskin        8   https://letterboxd.com/katiebaskin/film/the-zone-of-interest/
 Antonio Cuomo       8
@@ -4032,7 +4035,6 @@ estebanjojo         7
 Clara Thym          7
 Adrián Peña         7
 José Paiva          7
-ArnauMartin00       7
 chrispii69          7
 Willhg486           7
 Dariusch            7
@@ -4048,6 +4050,7 @@ gerardy             7
 Simón               7   https://letterboxd.com/simonsds/film/the-zone-of-interest/
 Damien Choppin      7
 FabianJestin        7
+infinitej3st        6
 eparodi             6
 julsrlln            6
 Mark Rae            6
@@ -4412,6 +4415,8 @@ madocosy            9
 camille_dtl         9
 rasheed             9
 AlexandraLukey      9
+lorenplaquette      8
+Carolina            8
 Nathan Engelking    8   https://letterboxd.com/nathanengelking/film/four-daughters-2023/
 astrachaos          8
 ErikaSciamanna      8
@@ -4972,8 +4977,8 @@ Rom1                8
 HBarthe             8
 Jack Trainer        8
 cendrinesss         8
+Emerick le Goff     7
 Jordan ilan         7
-Eloi Bigas          7
 Robert Daniels      7   https://letterboxd.com/812filmreviews/film/banel-adama/
 axelopac            7
 heidiatlas          7
@@ -5013,6 +5018,7 @@ Ben Delgado         7   https://letterboxd.com/bendelgado/film/banel-adama/
 Lloris_r            7
 WoodyZales          7
 Sherlockrelien      7
+Eloi Bigas          6
 FatRenton           6   https://letterboxd.com/hrdyydrh/film/banel-adama/
 onebluegoose        6   https://letterboxd.com/onebluegoose/film/banel-adama/
 nicholas            6
@@ -5054,7 +5060,6 @@ RPersonne           6
 PierreNcls          6
 Nathanael Bentura   6
 ndly                6
-lucillegmt          6
 detectivezinc       6   https://letterboxd.com/detectivezinc/film/banel-adama/
 carrington          6   https://letterboxd.com/carrington/film/banel-adama/
 edina               6
@@ -5093,6 +5098,7 @@ Jente               6   https://letterboxd.com/jentehj/film/banel-adama/
 Marcus Quinn        6   https://letterboxd.com/marcus__quinn/film/banel-adama/
 Alara               6
 Roberto Gonzalez    6
+lucillegmt          5
 Nathan Engelking    5   https://letterboxd.com/nathanengelking/film/banel-adama/
 Marcio Sallem       5   https://letterboxd.com/marciosallem/film/banel-adama/
 hermannij           5
@@ -5416,6 +5422,7 @@ Denis Vilenkin                    8
 Anton Dolin                       6
 Anna Strelchuk                    8
 #letterboxd
+whoalejandro        10
 duolayy             10   https://letterboxd.com/duolayy/film/may-december/
 KisteOhneInhalt     10
 Melissa             10   https://letterboxd.com/mcflyd1049/film/may-december/
@@ -5609,6 +5616,12 @@ afilmcionado        9
 Crayfish            9
 Molly Young         9
 Sam Ritz            9
+__j0nny_R_          8
+fvicente            8
+AndrianiJoann       8
+Cristian Ionuț      8
+euegnia             8   https://letterboxd.com/euqumeurehg/film/may-december/
+Manon Chamoulaud    8   https://letterboxd.com/manoncml/film/may-december/
 yanyin              8
 Eloïse Monmirel     8
 Tommy               8
@@ -5885,6 +5898,15 @@ film445             8
 Patrick Wellinski   8
 peachfuzz           8
 Sian Watson         8
+arsole41            7
+annagoin            7
+Max Copeman         7
+Seergicamargo       7
+Chico Fireman       7
+Ernst               7
+marionapagesd       7
+JustBadu            7
+Samuele Ceccarelli  7   https://letterboxd.com/samu421/film/may-december/
 leonmartinezz       7
 nildepaz            7
 Maria Teresa        7
@@ -5901,7 +5923,6 @@ Jaime               7
 pstrnk              7
 herlicopter310      7
 Paul                7   https://letterboxd.com/paul_movies/film/may-december/
-Thomas              7
 ChaosKaboom         7
 Tinkara             7
 Pluie               7
@@ -6061,6 +6082,9 @@ Giles Edwards       7
 Blake Williams      7
 lafilm              7
 perro Yoshida's watchlist rated 7
+clauusant_          6
+bielcastro          6
+Thomas              6
 jing                6
 Female version of Henry Chinaski 6
 gatsby1995          6
@@ -6163,6 +6187,7 @@ Alara               6
 Giancarlo M. Sandoval 6
 elwafflo            6
 ashavit23           6
+Edoardo Nerboni     5
 Luca Ottocento      5
 Antonio Cuomo       5
 n4nocturnal         5
@@ -6482,6 +6507,7 @@ Paz Carreira        10
 zo!                 10   https://letterboxd.com/corneliastreett/film/anatomy-of-a-fall/
 eli_thlt            10
 Jerm833             10
+Filmtekercs         9
 Marcio Sallem       9   https://letterboxd.com/marciosallem/film/anatomy-of-a-fall/
 Tricia Tuttle       9
 Paul                9   https://letterboxd.com/paul_movies/film/anatomy-of-a-fall/
@@ -6570,6 +6596,8 @@ Irene Cruz          9
 Pablo Villaça       9
 chalamax            9
 ludovicbeot         9
+Ernst               8
+Joe                 8
 Laura               8   https://letterboxd.com/swinglifeawayy/film/anatomy-of-a-fall/
 OrpheusPLUS         8   https://letterboxd.com/orpheusplus/film/anatomy-of-a-fall/
 Tara                8
@@ -6764,7 +6792,6 @@ EvaEsseen           8
 Sawlaine            7
 Furzorg             7
 the.aesthetic.movie 7
-Joe                 7
 Mark Cira           7
 sebrabas            7
 afalamp7            7
@@ -6876,10 +6903,10 @@ jack andrew         7   https://letterboxd.com/progreston/film/anatomy-of-a-fall
 Ewan Graf           7
 shaman22            7
 Jack Salvadori      7
+infinitej3st        6
 Antonio La Camera   6
 shirelm             6   https://letterboxd.com/shirelm/film/anatomy-of-a-fall/
 Yortj               6   https://letterboxd.com/yortj/film/anatomy-of-a-fall/
-Feras               6
 glorygzz95          6
 Pollack             6   https://letterboxd.com/jacobpollack/film/anatomy-of-a-fall/
 butacaancha         6   https://letterboxd.com/butacaancha/film/anatomy-of-a-fall/
@@ -6922,6 +6949,7 @@ Ricaa               6
 PA27                6
 saz1                6   https://letterboxd.com/thaddaeus/film/anatomy-of-a-fall/
 chacacha            6
+Feras               5
 Ettore Dalla Zanna  5
 grouchoromano       5
 Moritz_K            5
@@ -7164,6 +7192,7 @@ Eoh_                9   https://letterboxd.com/eoh_/film/firebrand-2023/
 Mysterio2000        9
 MartinCrgn          9
 attazmn             9
+herlicopter310      8   https://letterboxd.com/herlicopter310/film/firebrand-2023/
 herlicopter310      8   https://letterboxd.com/herlicopter310/film/firebrand-2023/
 vertsssss           8
 MargauxChassery     8
@@ -7936,6 +7965,9 @@ Gabriele Niola      9   https://letterboxd.com/gniola/film/fallen-leaves-2023/
 Max Borg            9
 Sonya Vselyubskaya  9
 Simón               9   https://letterboxd.com/simonsds/film/fallen-leaves-2023/
+Emerick le Goff     8
+StanRodan           8
+Ernst               8
 Female version of Henry Chinaski 8
 gatsby1995          8
 herlicopter310      8   https://letterboxd.com/herlicopter310/film/fallen-leaves-2023/
@@ -8131,6 +8163,7 @@ Moritz              8
 Leo2301             8
 Jack Salvadori      8
 JackKras            8
+CChris_             7   https://letterboxd.com/cchris_/film/fallen-leaves-2023/
 jing                7   https://letterboxd.com/12angryevelyns/film/fallen-leaves-2023/
 Luca Ottocento      7
 kerem_akca          7
@@ -8251,6 +8284,7 @@ hugorth             7   https://letterboxd.com/hugorth/film/fallen-leaves-2023/
 Dialektik           7
 elif308             7
 LeslieGlass         7
+Nicolas             6   https://letterboxd.com/fougi/film/fallen-leaves-2023/
 Kasia               6
 bienneasr           6
 coyness12           6
@@ -8615,6 +8649,9 @@ lolamss             9
 BabsMac             9   https://letterboxd.com/babsmac/film/club-zero/
 Lloris_r            9
 Imaginelune         9
+BabsMac             9   https://letterboxd.com/babsmac/film/club-zero/
+Lloris_r            9
+Imaginelune         9
 Marc                9
 zo19                9
 NikitaE             9
@@ -8623,6 +8660,9 @@ FFlores90           9
 cam                 9
 chacacha            9
 Nastasya            9
+Andrew              8
+Jordan ilan         8
+Emmy                8
 pstrnk              8
 Davidji25           8
 lara                8
@@ -8705,6 +8745,12 @@ Enrique Ramírez     8
 hulyahumus          8
 Leyla               8
 1998Edith           8
+Luke                7
+notSuperMario       7
+Nick Tyczkowski     7
+Pluie               7
+Josh                7
+onozorobi           7
 Eloïse Monmirel     7
 Haery KIM           7
 Mina 🦎              7
@@ -8817,6 +8863,13 @@ attazmn             7
 Paweł Szruba        7
 peachfuzz           7
 Lucile              7
+helenaturner        6
+Matic Valentan      6
+David P. Mingo      6
+Robert Harold       6
+hélios              6
+Ali Benzekri        6
+Ernst               6
 Antonio Cuomo       6
 tamv                6
 Thomas              6
@@ -8926,6 +8979,8 @@ Lorenzo Luzi        6
 axelopac            6
 Jack Trainer        6
 agnetita            6
+Khrystyna           5
+Nathan              5
 astrachaos          5
 Luca Ottocento      5
 ErikaSciamanna      5
@@ -9015,6 +9070,7 @@ Trase Henricks      5
 Meliksah Altuntas   5   https://letterboxd.com/meliksahtas/film/club-zero/
 Matt Neglia         5   https://letterboxd.com/nextbestpicture/film/club-zero/
 chrispii69          5
+letiziagrassi       4
 Kasia               4
 Alessandra_chv      4
 Helen Murphy        4
@@ -9093,6 +9149,8 @@ Jay is              4
 Klára Šimonová      4
 Jons                4
 saraheros           4
+Dietz               3
+esos                3
 herlicopter310      3   https://letterboxd.com/herlicopter310/film/club-zero/
 rsimp               3
 coyness12           3
@@ -9139,6 +9197,7 @@ Joseph              3   https://letterboxd.com/citizenlime/film/club-zero/
 timothé             3
 Jack Salvadori      3   https://letterboxd.com/jacksalvadori/film/club-zero/
 Mauricio Ribeiro    3
+maria ahumada       3
 maria ahumada       3
 zoe_glt             3
 Paul Ha             3
@@ -9656,7 +9715,12 @@ emmajaubert         10
 Slapstickopal       10
 Quentin Perez       10
 Nascimento          10
+MaVfi               9
 DekA24              9   https://letterboxd.com/deka24/film/kidnapped-2023/
+Cecilia             9
+GiorboDaMilano      9
+Laura               9   https://letterboxd.com/swinglifeawayy/film/kidnapped-2023/
+alessandradv        9
 Cecilia             9
 GiorboDaMilano      9
 Laura               9   https://letterboxd.com/swinglifeawayy/film/kidnapped-2023/
@@ -9689,6 +9753,10 @@ v_ic                9   https://letterboxd.com/v_ic/film/kidnapped-2023/
 s0nar               9
 eli_thlt            9
 marius gbr          9
+Faq96               8
+GabrieleD           8
+Riccardo Riccardo   8   https://letterboxd.com/teaspoon404/film/kidnapped-2023/
+antom31             8
 frazans             8
 Alessandro          8   https://letterboxd.com/aleplta/film/kidnapped-2023/
 Eloïse Monmirel     8
@@ -9700,7 +9768,6 @@ Thefatherthing      8
 CineMario4          8   https://letterboxd.com/cinemario4/film/kidnapped-2023/
 Jacopo Fioretti     8
 Nicolò Spallucci    8
-Tommaso13           8
 valentinaariete     8
 Pollack             8   https://letterboxd.com/jacobpollack/film/kidnapped-2023/
 marti🌼              8   https://letterboxd.com/smartiuss/film/kidnapped-2023/
@@ -9827,9 +9894,16 @@ Louis Milon         8   https://letterboxd.com/__mylon__/film/kidnapped-2023/
 emadinicola         8   https://letterboxd.com/emadinicola/film/kidnapped-2023/
 Patrick Wellinski   8
 annieLK             8
+arianna             7
+Lena3010            7
+Christosalas        7
+iagoarneodo         7
+Ale Bernini         7
+Cesare Rossi        7
+CMarco23            7
+rens97              7
 mestonazemle        7
 alessandro666       7
-Riccardo Riccardo   7   https://letterboxd.com/teaspoon404/film/kidnapped-2023/
 Diego De Giorgi     7
 ferkazan            7
 MorfeoPondering     7   https://letterboxd.com/morfeopondering/film/kidnapped-2023/
@@ -9952,6 +10026,10 @@ Alessandro          7   https://letterboxd.com/aleplta/film/kidnapped-2023/
 DiavoloRosso        7
 Riccardo Cozzari    7
 grouchoromano       7
+Ali Benzekri        6
+Arianna Alfano      6
+drclgr              6
+JuanGL001           6
 Alan Smithee        6
 Vito Damiani        6
 Mikiopo             6
@@ -10061,6 +10139,11 @@ Thibault            6
 zoé                 6
 culwell             6
 Iresci              6
+miannoiavo          5
+Dimitri Corradini   5
+Dandi_44            5
+jojneo              5
+smimmo13            5   https://letterboxd.com/smimmo13/film/kidnapped-2023/
 Salvatore Andrea Sciuto 5
 RickValley          5
 notonlymatt         5
@@ -10177,7 +10260,7 @@ Guy Lodge               https://variety.com/2023/film/reviews/the-pot-au-feu-rev
 Tim Grierson            https://www.screendaily.com/reviews/the-pot-au-feu-cannes-review/5182562.article
 #critic.de
 Dunja Bialas          9
-Frédéric Jaeger     9
+Frédéric Jaeger     9       https://www.critic.de/film/the-pot-au-feu-17477/
 Till Kadritzke        7.5
 Giovanni Marchini Camina 6
 Rüdiger Suchsland    9
@@ -10365,6 +10448,7 @@ Denis Vilenkin                    5
 Anton Dolin                       10
 Anna Strelchuk                    
 #letterboxd
+Zoé Peyrieux        10
 Ternigoum           10
 JonasPey            10   https://letterboxd.com/jonaspey/film/the-pot-au-feu/
 boratsci            10
@@ -10384,8 +10468,11 @@ Mysterio2000        10
 kwk                 10
 Eva Boncour         10
 Alex Billington     10
+Nauval              9   https://letterboxd.com/nauval/film/the-pot-au-feu/
 youngchen           9
 Emily Desjardins    9
+Bethsabée Poirier   9
+benkei💜             9
 Bethsabée Poirier   9
 benkei💜             9
 Charlie             9   https://letterboxd.com/ateandahalf/film/the-pot-au-feu/
@@ -10418,6 +10505,8 @@ Louis Milon         9   https://letterboxd.com/__mylon__/film/the-pot-au-feu/
 Mauricio Ribeiro    9
 CharleyJames        9
 Teo                 9
+arsole41            8
+Nenette             8
 Deniz Celiloğlu     8
 jun_h               8
 SuperMario          8
@@ -10490,6 +10579,9 @@ Bianca Ferrari      8
 Sophie Grech        8
 elioooo             8
 Simon               8
+lcb233              7
+Ernst               7
+Jean-Baptiste Roux  7
 Trase Henricks      7
 Antonio Cuomo       7
 AcraziCorleone      7
@@ -10557,6 +10649,7 @@ Ewan Graf           7   https://letterboxd.com/ewangraf/film/the-pot-au-feu/
 ilacoclea           7
 The Oscar Expert    7
 Jons                7   https://letterboxd.com/jons_klaessens/film/the-pot-au-feu/
+JuanGL001           6
 Thomas              6
 MichalisCh          6   https://letterboxd.com/michalisch/film/the-pot-au-feu/
 Eliott_Hb           6
@@ -10632,6 +10725,7 @@ Max Borg            5
 gerardy             5
 ArnauMartin00       5   https://letterboxd.com/arnaumartin00/film/the-pot-au-feu/
 FabianJestin        5
+marionapagesd       4
 BrighterDays        4
 masha_was_here      4
 jeanne_atr          4
@@ -10668,6 +10762,7 @@ Andrey Arnold         6
 Dunja Bialas          6
 Daniela Persico       6
 Rüdiger Suchsland    1
+Nanako Tsukidate      4
 # Screen Daily
 Justin Chang             2.5
 Peter Bradshaw           1
@@ -10861,6 +10956,7 @@ Letterboxd 3067_Ratings	7.54  https://letterboxd.com/film/a-brighter-tomorrow-20
 Guy Lodge               https://variety.com/2023/film/reviews/perfect-days-review-1235625063/
 Jonathan Romney         https://www.screendaily.com/reviews/perfect-days-cannes-review/5182617.article
 Peter Bradshaw    6    https://www.theguardian.com/film/2023/may/25/perfect-days-review-wim-wenders-tokyo-toilet-cleaner
+Peter Bradshaw    8    https://www.theguardian.com/film/2023/may/25/perfect-days-review-wim-wenders-tokyo-toilet-cleaner
 #critic.de
 # Screen Daily
 Justin Chang             
@@ -11066,6 +11162,9 @@ Nina Fragale        9
 Martin              9
 Jons                9
 morgane_rlt         9
+Martin              9
+Jons                9
+morgane_rlt         9
 adam_gau            9   https://letterboxd.com/adam_gau/film/perfect-days-2023/
 currylover300       9
 film445             9
@@ -11078,13 +11177,16 @@ tirza               9
 humzaakbar          9
 oliveblair          9
 JackKras            9
+Ernst               8
+j0shgreene          8
+Nenette             8
+William_White       8
 Nathan Engelking    8   https://letterboxd.com/nathanengelking/film/perfect-days-2023/
 Enea Colombi        8   https://letterboxd.com/eneacolo/film/perfect-days-2023/
 DekA24              8   https://letterboxd.com/deka24/film/perfect-days-2023/
 Meira               8
 Diego Batlle        8   https://letterboxd.com/diegobatlle/film/perfect-days-2023/
 Francisco Jose Lopez Velez 8
-Sonya Vselyubskaya  8   https://letterboxd.com/vseluybets/film/perfect-days-2023/
 Carlos Elorza       8
 FabCass             8
 Ilana Oliveira      8
@@ -11128,6 +11230,9 @@ northtucheng        8
 Bai Yutong          8
 lottesejersted      8
 lingsilva           8
+Sonya Vselyubskaya  7   https://letterboxd.com/vseluybets/film/perfect-days-2023/
+AndrianiJoann       7
+Iñaki Navarro       7
 ekotami             7
 Öykü Sofuoğlu       7
 Penelope            7   https://letterboxd.com/penelopelec/film/perfect-days-2023/
@@ -11150,6 +11255,7 @@ MartinCrgn          7
 ArnauMartin00       7
 Felix Tsang         7
 Jack Trainer        7
+Clairethby          6
 Trase Henricks      6
 Arvena              6   https://letterboxd.com/arvena/film/perfect-days-2023/
 Eliott_Hb           6
@@ -11185,6 +11291,7 @@ Peter Bradshaw    6    https://www.theguardian.com/film/2023/may/25/last-summer-
 #critic.de
 Frédéric Jaeger     6
 Till Kadritzke        4
+Nanako Tsukidate      9
 # Screen Daily
 Justin Chang             
 Peter Bradshaw           
@@ -11367,6 +11474,7 @@ Anton Dolin                       6
 Anna Strelchuk                    
 #letterboxd
 cristina            10   https://letterboxd.com/cristinamula/film/last-summer-2023/
+Ettore Dalla Zanna  8
 Luciaspiazzi        8   https://letterboxd.com/luciaspiazzi/film/last-summer-2023/
 helenaturner        8
 Adam Sanchez        8
@@ -11388,12 +11496,46 @@ Ewan Graf           8   https://letterboxd.com/ewangraf/film/last-summer-2023/
 Trase Henricks      7
 Nathan Engelking    7   https://letterboxd.com/nathanengelking/film/last-summer-2023/
 Clé                 7   https://letterboxd.com/cleacervellera/film/last-summer-2023/
+Jeanne              8   https://letterboxd.com/jeannelelouette/film/last-summer-2023/
+shaman22            8
+afilmcionado        8
+Jack McDermott      8   https://letterboxd.com/jack2019/film/last-summer-2023/
+Emilio Diaz         8
+ragingbells         8   https://letterboxd.com/ragingbells/film/last-summer-2023/
+Patrick Wellinski   8   https://letterboxd.com/pwellinski/film/last-summer-2023/
+ryan                8   https://letterboxd.com/ingmar/film/last-summer-2023/
+Ewan Graf           8   https://letterboxd.com/ewangraf/film/last-summer-2023/
+AgenceTouriste      7
+WoodyZales          7
+Nick                7
+Emerick le Goff     7
+Isabella            7
+MovieAndLove        7
+JoffreyLGR          7
+Arabella McClure    7
+Trase Henricks      7
+Nathan Engelking    7   https://letterboxd.com/nathanengelking/film/last-summer-2023/
+Clé                 7   https://letterboxd.com/cleacervellera/film/last-summer-2023/
 Chhabs              7
 The Oscar Expert    7
 Michael Granados    7
 Augustine Caille ⚢  7   https://letterboxd.com/illiska/film/last-summer-2023/
 Arthur              7
 Thomas              7   https://letterboxd.com/thomaslembcke/film/last-summer-2023/
+Vince2402p          6
+lafilm              6
+chloekelly          6
+stellarodrigues     6
+Nico                6
+abreede03           6
+Hunter Friesen      6
+Stanislav           6
+lcb233              6
+Jons                6
+Jack Salvadori      6
+Sam                 6
+Daniel Ohlander     6
+Roberto Gonzalez    6
 AdamoRealisator     6   https://letterboxd.com/adamorealisator/film/last-summer-2023/
 cleM ha             6
 PA27                6
@@ -11412,6 +11554,11 @@ pcdevitt            6
 Simone              6
 Harris Sourapas     6
 Hakan Kerim Pakça   6
+gatsby1995          5
+gingar🦊             5
+Thibaut Buccellato  5
+pierrebarth         5
+Shinji Manlangit    5
 coco0306            5   https://letterboxd.com/coco0306/film/last-summer-2023/
 aetherym            5
 mrpatz1995          5
@@ -11428,6 +11575,11 @@ José Paiva          5   https://letterboxd.com/zortox123/film/last-summer-2023/
 Max Borg            5
 prisca at 27        5
 Chico Fireman       5
+gerardy             4
+Penelope            4
+Rocho               4
+Aaron Salazar       4
+Paz Carreira        4
 Meliksah Altuntas   4   https://letterboxd.com/meliksahtas/film/last-summer-2023/
 MadamePrincesse     4
 Ilana Oliveira      4
@@ -11437,6 +11589,11 @@ Constant            4
 Giancarlo M. Sandoval 4
 chrispii69          4
 kerem_akca          4   https://letterboxd.com/kerem_akca/film/last-summer-2023/
+JustBadu            3
+Samuele Ceccarelli  3
+garbaggio           3
+culwell             3
+anonimato           3
 Arvena              3   https://letterboxd.com/arvena/film/last-summer-2023/
 DenisVilenkin       3
 ErikaSciamanna      3
@@ -11445,6 +11602,9 @@ Phil                3
 Marie               3
 MartinCrgn          3
 Paula C Ferraz      3
+JackKras            2
+v_ic                2
+Carla Marsol        2
 DekA24              2   https://letterboxd.com/deka24/film/last-summer-2023/
 charlotte           2   https://letterboxd.com/charlhot/film/last-summer-2023/
 LeeLeJ              2
@@ -11455,6 +11615,8 @@ oliveblair          2   https://letterboxd.com/oliveblair/film/last-summer-2023/
 le_gus              2   https://letterboxd.com/le_gus/film/last-summer-2023/
 Margoh626           2
 Teo                 2
+Mikkel Arndt        1
+Dialektik           1
 zesants             1   https://letterboxd.com/zesants/film/last-summer-2023/
 001882              1
 Sawlaine            1   https://letterboxd.com/sawlaine/film/last-summer-2023/
@@ -11966,6 +12128,9 @@ dewolf_celine       9
 Solyste             9
 Alex Billington     9
 Maya Gotschall      9
+Rafdbst             8
+mariusgsc           8
+StanRodan           8
 claraide            8
 Tristan             8   https://letterboxd.com/filmkos/film/the-animal-kingdom-2023/
 Julocomotive        8   https://letterboxd.com/julocomotive/film/the-animal-kingdom-2023/
@@ -12382,6 +12547,7 @@ RentonDuc           9   https://letterboxd.com/rentonduc/film/the-nature-of-love
 dewolf_celine       9
 Hugo Kehl           9
 Tiphaine            9
+hélios              8
 jvvck               8   https://letterboxd.com/jvvck/film/the-nature-of-love/
 Lucaquid            8
 Rocho               8   https://letterboxd.com/rsberrocal/film/the-nature-of-love/
@@ -13165,6 +13331,7 @@ Yankee TFR          7
 cortinhas           7   https://letterboxd.com/cortinhas/film/hounds-2023/
 Robin Doux          7
 Nat007              7
+Nat007              7
 Ben Delgado         7
 TufnelsSustain      7
 cardigans           6
@@ -13476,6 +13643,7 @@ Ema Sasic           8
 shitfilmsritman     8
 PierreNcls          8
 AmbhurMGB           8
+Popcorn Papi        7
 racheldare          7
 Antonio Cuomo       7
 YinuoM              7   https://letterboxd.com/yinuom/film/how-to-have-sex/
@@ -13572,6 +13740,7 @@ FilmeFilipp         7
 ludovicbeot         7
 MadWillou           7
 Nathanael Bentura   7
+savvasale           6
 ilacoclea           6
 Chiara              6   https://letterboxd.com/chiaramg/film/how-to-have-sex/
 Kaan Çözgener       6
@@ -13634,6 +13803,7 @@ Usul2301            6
 Domenico            6
 D.K.                6
 chacacha            6
+el_souckova         5
 Feras               5
 Quentin Bruere      5
 Mark Rae            5
@@ -13658,7 +13828,6 @@ Jon Dieringer       5
 Bai Yutong          5
 matoulpb            5
 001882              4
-Vural Can           4
 pwt                 4
 rimabadu            4
 romono              4
@@ -13673,6 +13842,7 @@ Clara Thym          4
 kino; the nonbinary james gunn 4
 Alex Billington     4   https://letterboxd.com/firstshowing/film/how-to-have-sex/
 Reality Loser       4   https://letterboxd.com/merchmellow/film/how-to-have-sex/
+Vural Can           3
 JakobCJ             3
 arxsol              3   https://letterboxd.com/arxsol/film/how-to-have-sex/
 SteveZissou96       3
@@ -14068,6 +14238,7 @@ Christer Emanuelsson 9
 julia_traw          9
 Hakan Kerim Pakça   9
 elegia_34           9
+Pavao Vlajcic       8   https://letterboxd.com/powwow/film/only-the-river-flows/
 shuuka              8   https://letterboxd.com/shuuka/film/only-the-river-flows/
 Jose Ospina         8
 Nora Zine           8
@@ -14110,7 +14281,6 @@ lil_t0fu            7
 MNik                7
 Dan Py              7   https://letterboxd.com/danpy/film/only-the-river-flows/
 Arthur Cios         7
-Pavao Vlajcic       7   https://letterboxd.com/powwow/film/only-the-river-flows/
 Matt3114            7
 detectivezinc       7   https://letterboxd.com/detectivezinc/film/only-the-river-flows/
 boratsci            7
@@ -14301,6 +14471,7 @@ Adolf El Assal      8
 Lily Price          8   https://letterboxd.com/lilyprice4777/film/goodbye-julia/
 Anete               8
 marion              8
+marion              8
 viviandarkbl00m     8
 soisouX             8
 Jesse               8
@@ -14484,6 +14655,7 @@ Matheus Farias      8
 maree               8   https://letterboxd.com/fontaine/film/the-breaking-ice/
 jacobswift84        8   https://letterboxd.com/jacobswift84/film/the-breaking-ice/
 hidden_dragon       8   https://letterboxd.com/hidden_dragon/film/the-breaking-ice/
+hidden_dragon       8   https://letterboxd.com/hidden_dragon/film/the-breaking-ice/
 stevesandwich       8   https://letterboxd.com/stevesandwich/film/the-breaking-ice/
 stripednoises       8   https://letterboxd.com/stripednoises/film/the-breaking-ice/
 jltams              8
@@ -14566,6 +14738,7 @@ David Ehrlich       7   https://letterboxd.com/davidehrlich/film/the-breaking-ic
 Mateowww            7
 matoulpb            7
 venusianstone       7
+Ernst               6
 Marcio Sallem       6   https://letterboxd.com/marciosallem/film/the-breaking-ice/
 Damian_Hau          6
 Daniel Ohlander     6
@@ -14597,6 +14770,7 @@ Aloysia             6   https://letterboxd.com/aloysia/film/the-breaking-ice/
 Pun_kaj             6
 cam                 6   https://letterboxd.com/camilledard/film/the-breaking-ice/
 FaiChing BlowFilms  6   https://letterboxd.com/faichingchuihei/film/the-breaking-ice/
+深山大導                5   https://letterboxd.com/daidodirector/film/the-breaking-ice/
 nicopbllr           5
 Luki                5
 Lucie Chamoux       5
@@ -14734,6 +14908,8 @@ Sophie78            8
 luisastricker       8
 Aaron Salazar       8   https://letterboxd.com/grandmahoney/film/if-only-i-could-hibernate/
 Omar                8
+Ernst               7
+zo19                7
 nicopbllr           7
 Alexandre_James     7
 Joel                7   https://letterboxd.com/jdwek/film/if-only-i-could-hibernate/
@@ -14766,6 +14942,7 @@ louisehusson        7
 Erika Ponti         7
 Rory                7
 Cyprien_Caddeo      7
+__j0nny_R_          6
 Hairying            6
 cardigans           6
 etiennefs1          6   https://letterboxd.com/etiennefs1/film/if-only-i-could-hibernate/
@@ -14925,6 +15102,9 @@ Lia                 8   https://letterboxd.com/ldellaporta/film/omen-2023/
 Paweł Szruba        8   https://letterboxd.com/szrubamove/film/omen-2023/
 Ricardo Mercader    8
 Cptn.burger         8
+Paweł Szruba        8   https://letterboxd.com/szrubamove/film/omen-2023/
+Ricardo Mercader    8
+Cptn.burger         8
 dylanstarr1         8   https://letterboxd.com/dylanstarr1/film/omen-2023/
 Joel                8
 golan               8   https://letterboxd.com/golan/film/omen-2023/
@@ -15007,6 +15187,7 @@ Alberto Vandenbroucke Priego 6
 Omar Franini        6
 Florent Boutet      6
 clem                6
+Àlex Serra          5
 Gerard Simó         5   https://letterboxd.com/gerardsigi/film/omen-2023/
 Pau Vall            5   https://letterboxd.com/pauxxvall/film/omen-2023/
 PaoloHenri98        5
@@ -15132,12 +15313,13 @@ jun_h               9
 detectivezinc       9
 Cliff               9
 poppyaoh            9   https://letterboxd.com/poppyaoh/film/the-settlers-2023/
+poppyaoh            9   https://letterboxd.com/poppyaoh/film/the-settlers-2023/
 t_viktor212         9
 Hakan Kerim Pakça   9
 ANDREG6             9
 María Carolina      9
+Manon Chamoulaud    8   https://letterboxd.com/manoncml/film/the-settlers-2023/
 Lucie Chamoux       8
-Eloi Bigas          8   https://letterboxd.com/eloibigas/film/the-settlers-2023/
 humzaakbar          8
 Imma Pilar          8
 Adolfo Alix Jr.     8
@@ -15172,6 +15354,7 @@ Victor Russo        8   https://letterboxd.com/victorhcrusso/film/the-settlers-2
 Ben Delgado         8
 julesloez           8
 maxloa              8
+Eloi Bigas          7   https://letterboxd.com/eloibigas/film/the-settlers-2023/
 entouan             7   https://letterboxd.com/entouan/film/the-settlers-2023/
 Thomas              7
 xaviiier333         7
@@ -15220,6 +15403,7 @@ kerem_akca          7
 romono              7
 PierreNcls          7
 Florent Boutet      7
+emma                6
 Niko                6
 William_White       6
 mateo merenyi       6
@@ -15230,7 +15414,6 @@ Quentin Bruere      6
 tschlompf           6   https://letterboxd.com/tschlompf/film/the-settlers-2023/
 Vural Can           6
 JulesM              6
-emma                6
 lionelleg           6
 Fabiana             6
 Laura               6   https://letterboxd.com/swinglifeawayy/film/the-settlers-2023/
@@ -15390,6 +15573,7 @@ Matthew Dodd        7   https://letterboxd.com/mdiddle/film/the-buriti-flower/
 oliveblair          7   https://letterboxd.com/oliveblair/film/the-buriti-flower/
 Étienne             7
 pablomaille         7
+Emerick le Goff     6
 oyau                6
 Nunarmando          6
 Dave Jenkins        6
@@ -15419,6 +15603,7 @@ Clémence            6
 MadWillou           6
 Mauricio Ribeiro    6   https://letterboxd.com/marfil/film/the-buriti-flower/
 Ernst               6
+ventilateur         5
 Dino_Zoff           5
 michaela flaherty   5
 Ilana Oliveira      5
@@ -15578,6 +15763,7 @@ Matt Neglia         8   https://letterboxd.com/nextbestpicture/film/terrestrial-
 Margoh626           8
 Mauricio Ribeiro    8   https://letterboxd.com/marfil/film/terrestrial-verses/
 Lila :_             8
+Ernst               7
 Clzmence            7
 shirelm             7   https://letterboxd.com/shirelm/film/terrestrial-verses/
 Bethsabée Poirier   7
@@ -15613,6 +15799,7 @@ Jake Gill           7
 Victor Russo        7   https://letterboxd.com/victorhcrusso/film/terrestrial-verses/
 GautierBartoli      7
 matoulpb            7
+Harry Grimmer       6
 Cristian Pastora Ruiz 6
 sophie_cstz         6
 Malena _L           6
@@ -15745,6 +15932,9 @@ Chhabs              8
 Kesh                8   https://letterboxd.com/keshpat28/film/hopeless-2023/
 Jerm833             8
 hugorth             8
+Clément Frings      7
+Nino Rigotti        7
+zo19                7
 meimounael          7   https://letterboxd.com/meimounael/film/hopeless-2023/
 clement             7
 Aline Xia           7   https://letterboxd.com/aliienne/film/hopeless-2023/
@@ -15809,6 +15999,7 @@ Crayfish            6   https://letterboxd.com/crayfish/film/hopeless-2023/
 CharleyJames        6
 MartinCrgn          6
 Victor Russo        6   https://letterboxd.com/victorhcrusso/film/hopeless-2023/
+Ernst               5
 Trase Henricks      5
 Arvena              5   https://letterboxd.com/arvena/film/hopeless-2023/
 romanoodle          5
@@ -15936,11 +16127,15 @@ arianekhay          7
 Arvena              7
 film445             7
 Matt Neglia         7   https://letterboxd.com/nextbestpicture/film/the-mother-of-all-lies/
+film445             7
+Matt Neglia         7   https://letterboxd.com/nextbestpicture/film/the-mother-of-all-lies/
 zatiko              7
 Omar Franini        7
 Ilana Oliveira      7
 Augustine Caille ⚢  7
 Jack Trainer        7
+Joe                 6
+_laszewicz          6
 clement             6
 nicolasnomas        6   https://letterboxd.com/nicolasnomas/film/the-mother-of-all-lies/
 Gabriela Portillo   6
@@ -16012,6 +16207,7 @@ Annie Westside      1
 
 #critic.de
 Rüdiger Suchsland    4
+Nanako Tsukidate      2.5
 # Le film français
 Gaël Golhen               
 Julien Rousset           
@@ -16132,6 +16328,7 @@ Mariona Borrull
 Ninos Mikelides          
 Pamela Jahn              
 Shahia Nahid             
+Jonathan Romney         https://www.screendaily.com/reviews/salem-cannes-review/5182638.article
 #letterboxd
 Macha               10
 thoshelb            10
@@ -16141,6 +16338,7 @@ eli_thlt            9
 MadWillou           8
 Olly                8   https://letterboxd.com/realowenwilson/film/salem-2023/
 Ursu Casanova       8
+Nina Fragale        7
 zatiko              7
 quinoasmh           7
 MovieAndLove        7
@@ -16156,6 +16354,9 @@ matthieugnr         5   https://letterboxd.com/matthieugnr/film/salem-2023/
 lizzielose          5   https://letterboxd.com/lizzielose/film/salem-2023/
 eparodi             5
 kerem_akca          5
+letiziagrassi       4
+kerem_akca          5
+letiziagrassi       4
 Rory                4
 bienneasr           4
 Mathieu Janssen     4
@@ -16428,6 +16629,7 @@ thib67              9
 Sami Coton          9
 chloe :_            9
 ludovica48          9
+maeva_33            8
 Tetram              8
 pstrnk              8
 lorette_lnr         8
@@ -17087,6 +17289,7 @@ yas                 7
 Clarouuu            7
 dorianjames         7
 Sarah Pirenne       7
+Camiberni           6
 Dominique           6
 ilacoclea           6
 Christopher         6
@@ -17973,10 +18176,10 @@ lejuicebobo         5
 DukeofMars          5
 Pierre Dodin        5
 jeancine            5
+Esther Ulysse       4   https://letterboxd.com/estheeryse/film/jeanne-du-barry/
 KerArno             4   https://letterboxd.com/kerarno/film/jeanne-du-barry/
 jentlefairy         4
 Gabriela Borges     4
-Pauline Pauwels     4   https://letterboxd.com/paulinep/film/jeanne-du-barry/
 jeannegrnz          4   https://letterboxd.com/jeannegrnz/film/jeanne-du-barry/
 Pyairault           4   https://letterboxd.com/pyairault/film/jeanne-du-barry/
 Nicky Cage          4   https://letterboxd.com/kyu_/film/jeanne-du-barry/
@@ -18316,6 +18519,7 @@ Charles Garnon      4
 LouanN              4
 Adam Sanchez        4
 jeromelachasse      4
+Pauline Pauwels     3   https://letterboxd.com/paulinep/film/jeanne-du-barry/
 Enzobiwan           3   https://letterboxd.com/enzobiwan/film/jeanne-du-barry/
 Younescooby         3   https://letterboxd.com/younescooby/film/jeanne-du-barry/
 lilinakokili        3   https://letterboxd.com/lilinakokili/film/jeanne-du-barry/
@@ -18592,7 +18796,6 @@ ypo                 2
 Antoine Rousseau    2
 DenisVilenkin       2
 grltk               2
-van                 1
 Nathan Engelking    1   https://letterboxd.com/nathanengelking/film/jeanne-du-barry/
 diigitalgiirl       1
 Julien_32           1   https://letterboxd.com/julien_32/film/jeanne-du-barry/
@@ -19055,6 +19258,7 @@ Dubravka Lakic
 Daniela Michel           
 Diego Batlle             
 #letterboxd
+Amat Escalante      10
 r_macin             10
 KatrinPors          10
 iheartyadad         10   https://letterboxd.com/iheartyadad/film/lost-in-the-night-2023/
@@ -19087,6 +19291,7 @@ JackKras            8
 FilmLandEmpire      8   https://letterboxd.com/filmlandempire/film/lost-in-the-night-2023/
 goblin_de_luz       8   https://letterboxd.com/goblin_de_luz/film/lost-in-the-night-2023/
 Hal Kitchen         8   https://letterboxd.com/hk258/film/lost-in-the-night-2023/
+__j0nny_R_          7
 Jack Trainer        7
 Erwann              7
 Rom1                7
@@ -19418,6 +19623,7 @@ AgenceTouriste      10
 Paweł Szruba        10
 Ezra                10
 salomé              10
+alice_ldc           9
 Katie Baskin        9
 stevesandwich       9   https://letterboxd.com/stevesandwich/film/cobweb-2023-1/
 [leo]               9
@@ -19426,6 +19632,12 @@ Matt                9
 Vaughn              9
 Ricardo Mercader    9
 Harrison Byerley    9
+Nathan Engelking    8   https://letterboxd.com/nathanengelking/film/cobweb-2023-1/
+Loris               8
+Luigi Dalena        8
+lcb233              8
+Lucile              8
+Narolo              8
 Nathan Engelking    8   https://letterboxd.com/nathanengelking/film/cobweb-2023-1/
 Loris               8
 Luigi Dalena        8
@@ -19464,6 +19676,17 @@ edina               8
 Leankon             8
 Abbie               8
 julia               8
+le_gus              7
+Phil                7
+afalamp7            7
+Lorenzo Luzi        7
+Arthur Cios         7
+Alex Billington     7
+louane              7
+AndrianiJoann       7
+alexmargu           7
+JustBadu            7
+Joe Biddle          7
 peachfuzz           7
 Trase Henricks      7
 jing                7
@@ -19485,6 +19708,13 @@ Maxime              7
 John Cremins        7
 Lloris_r            7
 Cadence             7
+Bianca Ferrari      6
+elms                6
+Konstancja          6
+Juta Jākobsone      6
+ChaosKaboom         6
+Samuele Ceccarelli  6
+Ettore Dalla Zanna  6
 DekA24              6   https://letterboxd.com/deka24/film/cobweb-2023-1/
 benkei💜             6   https://letterboxd.com/benkeigolden/film/cobweb-2023-1/
 Arvena              6
@@ -19506,6 +19736,8 @@ Sam                 6
 Pavao Vlajcic       6
 nicholas            6
 Matthew Klapmeyer   6
+Victor Russo        5
+fedrikaff           5
 JuliBustelo         5
 Iness               5   https://letterboxd.com/lecode/film/cobweb-2023-1/
 Elisabeth           5
@@ -19518,6 +19750,8 @@ AdenBerger          5
 Nick Jansen         5
 kailee              5
 Bai Yutong          5
+Giancarlo M. Sandoval 4
+garbaggio           4
 FilmtasticPanda     4   https://letterboxd.com/andreswilly/film/cobweb-2023-1/
 Toni                4   https://letterboxd.com/tonizawa/film/cobweb-2023-1/
 Maria Teresa        4   https://letterboxd.com/oscarisaacs/film/cobweb-2023-1/
@@ -19546,6 +19780,8 @@ Alissa Wilkinson   6   https://www.vox.com/culture/2023/5/25/23732860/indiana-jo
 Dave Calhoun       6   https://www.timeout.com/movies/indiana-jones-and-the-dial-of-destiny-2023
 Owen Gleiberman    5   https://variety.com/2023/film/reviews/indiana-jones-and-the-dial-of-destiny-review-harrison-ford-1235617471/
 Peter Bradshaw     6   https://www.theguardian.com/film/2023/may/18/indiana-jones-and-the-dial-of-destiny-review-harrison-ford-cracks-the-whip-in-taut-sequel
+Steve Pond              https://www.thewrap.com/indiana-jones-5-review-harrison-ford-cannes/
+Rory O'Connor         B-  https://thefilmstage.com/cannes-review-indiana-jones-and-the-dial-of-destiny-marks-a-decent-send-off-for-harrison-ford/
 
 Richard Lawson     5   https://www.vanityfair.com/hollywood/2023/05/hunting-treasures-punching-nazis-indiana-jones-is-back-in-the-dial-of-destiny
 Robbie Collin      4   https://www.telegraph.co.uk/films/0/indiana-jones-dial-of-destiny-review-harrison-ford-cannes/
@@ -19792,6 +20028,7 @@ Nicholas Bell
 Dubravka Lakic           
 Daniela Michel           
 Diego Batlle             
+Screendaily             https://www.screendaily.com/reviews/close-your-eyes-cannes-review/5182524.article
 #letterboxd
 Dave Jenkins        10
 vivre_sa_farofa     10
@@ -19822,6 +20059,8 @@ Beni_G              9
 Miquel Felipe       9
 film445             9
 Patrick Wellinski   9   https://letterboxd.com/pwellinski/film/close-your-eyes-2023/
+Ali Benzekri        8
+JuanGL001           8
 butacaancha         8   https://letterboxd.com/butacaancha/film/close-your-eyes-2023/
 Antonio La Camera   8
 Truffaut692         8
@@ -19909,12 +20148,13 @@ Blake Williams      6
 Jack Trainer        6
 María Carolina      6
 Chico Fireman       6
+Manon Chamoulaud    5   https://letterboxd.com/manoncml/film/close-your-eyes-2023/
 fredtsui            5   https://letterboxd.com/fredtsui/film/close-your-eyes-2023/
 cookienut           5
-moranp              5
 Öykü Sofuoğlu       5
 the.aesthetic.movie 5
 monkeybox83         5
+infinitej3st        4
 Bai Yutong          4
 Damian_Hau          4
 Tidiane             4
@@ -20062,6 +20302,7 @@ Dubravka Lakic
 Daniela Michel           
 Diego Batlle             7
 #letterboxd
+深山大導                10   https://letterboxd.com/daidodirector/film/kubi/
 Carlo Giuliano      10   https://letterboxd.com/carlogiuliano/film/kubi/
 e ryan 🤠            10   https://letterboxd.com/icrieverytim/film/kubi/
 Paweł Szruba        10   https://letterboxd.com/szrubamove/film/kubi/
@@ -20219,6 +20460,7 @@ Jack Salvadori      6
 Jay is              6
 Chico Fireman       6
 Fancomic05          6
+Daniel Oliva        5
 Noah Heinrich       5
 ofm_12              5
 louane              5   https://letterboxd.com/louanehrs/film/kubi/
@@ -20365,6 +20607,7 @@ Julie 🤍             10
 julieleleu          10
 Justine Larrieu     10
 deboraehr           10
+alexa_bgrd          9
 lady bird           9
 Penelope            9
 LordBlanchon        9
@@ -20450,6 +20693,13 @@ manon :_            9   https://letterboxd.com/manon1206/film/just-the-two-of-us
 églantine           9   https://letterboxd.com/summerandnights/film/just-the-two-of-us-2023-1/
 Clémentine Guy      9   https://letterboxd.com/guyclem/film/just-the-two-of-us-2023-1/
 jeromelachasse      9
+Bapt40              8
+Ali Benzekri        8
+Gaetan              8
+lnprn               8
+winsol              8
+ChildOfMen          8
+Lorenzo Innocenti   8
 peachfuzz           8
 teratani            8   https://letterboxd.com/teratani/film/just-the-two-of-us-2023-1/
 Fucking Cinephiles  8   https://letterboxd.com/fcteam/film/just-the-two-of-us-2023-1/
@@ -20616,13 +20866,18 @@ NoctisFromLucis     8
 Anephti             8
 Juliette 🦋          8
 mathieuhoarau       8
-minhdc7             8
 ninacarla           8
 Arthur Cios         8
 hulyahumus          8
 leila__lrn          8
 Corentin GHIBAUDO   8
 mfallard            8
+gmx                 7
+lounap              7
+Romiiiingo          7
+almaschmtt          7
+minhdc7             7
+Emma                7
 clara               7
 BilalBH             7
 missallsunday01     7   https://letterboxd.com/missallsunday01/film/just-the-two-of-us-2023-1/
@@ -20752,6 +21007,7 @@ mister_t_sam        6
 Constant            6
 hugotravers         6
 Éric Van Cutsem     6
+TonyoCine           5
 Trase Henricks      5
 clement             5
 Nejc Feguš          5
@@ -20765,6 +21021,7 @@ Kaveh Jalinous      5
 josephinegrm        5
 Justthecinema       5
 gab lastar          5
+Lezeldah            4
 parigi72            4
 Lily                4
 Ioulou              4
@@ -20819,6 +21076,7 @@ Dubravka Lakic
 Daniela Michel           8
 Diego Batlle             5
 #letterboxd
+Amat Escalante      10
 egle                10
 Damian_Hau          10
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/eureka-2023/
@@ -21225,6 +21483,7 @@ Lorenzo Luzi        4   https://letterboxd.com/lorexio16/film/little-girl-blue-2
 Giancarlo M. Sandoval 4   https://letterboxd.com/inconstantloop/film/little-girl-blue-2023/
 Christian           4
 blnmicha            4
+Ali Benzekri        3
 etiennefs1          2   https://letterboxd.com/etiennefs1/film/little-girl-blue-2023/
 eliogb              2
 _jeanne_lpz         2
@@ -21636,6 +21895,7 @@ Pierre              5
 JuPlatz             5
 Cyprien_Caddeo      5
 bdicristo           5
+_laszewicz          4
 franciscabouco      4   https://letterboxd.com/franciscabouco/film/kennedy-2023/
 Gustavo Silva       4
 kerem_akca          4
@@ -21903,6 +22163,7 @@ flavnz              4
 pierrre988          4
 bilalsoulchild      4
 jeremco             4
+Maja4               3
 Mathi2              3
 Nathan Engelking    3   https://letterboxd.com/nathanengelking/film/acide/
 Bernhard Strobel    3
@@ -22005,6 +22266,7 @@ Remi Frechette      7
 LolaBesancon        7
 raph_c              7
 Nazila Afra Yana    7
+onozorobi           6
 Jenny Jecke         6
 Daniella            6   https://letterboxd.com/babyjovanovic/film/project-silence/
 nicolasnomas        6   https://letterboxd.com/nicolasnomas/film/project-silence/
@@ -22043,6 +22305,7 @@ Tiphaine            6
 lealacaze           6
 MovieAndLove        6
 louisgn             6
+Maja4               5
 ErikaSciamanna      5
 noavos123           5
 the.aesthetic.movie 5
@@ -22134,6 +22397,7 @@ eli_thlt            4
 LushiCat            4
 sameideal           4
 Thirukochicinema    4
+le_gus              3
 isaaccrown          3   https://letterboxd.com/isaaccrown/film/project-silence/
 nicopbllr           3
 shirelm             3   https://letterboxd.com/shirelm/film/project-silence/
@@ -22173,6 +22437,7 @@ Ivan de Crecy       3
 zatiko              3
 Sacha Maunoury      3
 sierracscott        3
+Manon Chamoulaud    2   https://letterboxd.com/manoncml/film/project-silence/
 franciscabouco      2
 Ana_V               2   https://letterboxd.com/anapau_villa/film/project-silence/
 liadherman          2
@@ -22193,7 +22458,6 @@ AlexCasa            2
 Áron Czapek         2   https://letterboxd.com/czaron/film/project-silence/
 Matt Neglia         2   https://letterboxd.com/nextbestpicture/film/project-silence/
 annbnny             2   https://letterboxd.com/annbnny/film/project-silence/
-le_gus              2
 chrispii69          2
 Phil                2
 attazmn             2
@@ -22292,6 +22556,7 @@ barbiecasella       6
 renzooo_ooo         6
 lnqpitrlpomfgnu     6
 Umi                 6
+Sam                 5
 Hannah Miller       5
 collpaz             5
 okayash             5
@@ -22411,6 +22676,15 @@ Harris Sourapas     8
 Natalia             8   https://letterboxd.com/nandriew/film/the-goldman-case/
 Scottyyyy           8
 Constance           8
+Dave Jenkins        8
+Hairying            8
+Paul                8   https://letterboxd.com/paul_movies/film/the-goldman-case/
+Maubeau             8
+megshook            8
+Harris Sourapas     8
+Natalia             8   https://letterboxd.com/nandriew/film/the-goldman-case/
+Scottyyyy           8
+Constance           8
 Julien Lada         8
 Usul2301            8
 Mathis Sananes      8
@@ -22456,6 +22730,12 @@ Matthew Schwartz    8
 Aaron Salazar       8
 PierreNcls          8
 elioooo             8
+FabCass             7
+Carlos Elorza       7
+capu 🧚🏼‍♀️          7
+Alex Gabel          7
+agnes_fada          7
+ashavit23           7
 Quentin Bruere      7
 Athina Vgagke       7
 Elisa G.            7   https://letterboxd.com/gardy/film/the-goldman-case/
@@ -22495,6 +22775,8 @@ Thibault            7
 Andy Hazel          7
 Simon               7
 Gainsbarough        7
+Jacob Thomas        6
+marius gbr          6
 Feras               6
 lindytamir          6
 fredtsui            6
@@ -22659,6 +22941,7 @@ Roland Meier        7
 vivianaraker        7   https://letterboxd.com/vivianaraker/film/deserts-2023/
 Siveran             7   https://letterboxd.com/siveran/film/deserts-2023/
 Tandonnet           7
+rachtsuna           6
 nicopbllr           6
 cardigans           6
 Samuel Gagnon       6
@@ -23181,6 +23464,7 @@ cindykrm            7
 s0nar               7
 julesloez           7
 andrea beni         7
+andrea beni         7
 Luca Sottimano      7
 FaiChing BlowFilms  6
 Till                6
@@ -23198,6 +23482,7 @@ saiyan2spider       5
 Luca Perschul       5
 flauner_ell         5
 Robert _he/him_     5   https://letterboxd.com/2991samoht/film/a-prince/
+hélios              4   https://letterboxd.com/heliooos/film/a-prince/
 Nicolas Lucente     4
 Leandro             4
 Antoine             4   https://letterboxd.com/toiu224/film/a-prince/
@@ -23449,6 +23734,8 @@ Catherine Bray     9   https://variety.com/2023/film/reviews/the-feeling-that-th
 Rory O'Connor      8.3 https://thefilmstage.com/cannes-review-joanna-arnows-the-feeling-that-the-time-for-doing-something-has-passed-marks-a-singular-debut/
 Jonathan Romney    8   https://www.screendaily.com/reviews/the-feeling-that-the-time-for-doing-something-has-passed-cannes-review/5182333.article
 Lovia Gyarkye      7   https://www.hollywoodreporter.com/movies/movie-reviews/the-feeling-that-the-time-for-doing-something-has-passed-review-1235496938/
+Catherine Bray          https://variety.com/2023/film/reviews/the-feeling-that-the-time-for-doing-something-has-passed-review-joanna-arnow-1235619764/
+Rory O'Connor         B+  https://thefilmstage.com/cannes-review-joanna-arnows-the-feeling-that-the-time-for-doing-something-has-passed-marks-a-singular-debut/
 #critic.de
 Devika Girish         7.5
 Till Kadritzke        6
@@ -24217,7 +24504,6 @@ Dugghi              8
 Rom1                8
 _laszewicz          8
 pdbnenes            8   https://letterboxd.com/pdbnenes/film/creatura-2023/
-Anna Bogutskaya     8
 Nicolas Mouren      8   https://letterboxd.com/nicotineunicorn/film/creatura-2023/
 urv                 8
 Julian              8
@@ -24228,6 +24514,7 @@ Diego Batlle        8   https://letterboxd.com/diegobatlle/film/creatura-2023/
 Redmond Bacon       8   https://letterboxd.com/redbacon/film/creatura-2023/
 Joana Gonzalez      8
 Jack McDermott      8
+Ezra Peace          7   https://letterboxd.com/epeace/film/creatura-2023/
 Alex Billington     7   https://letterboxd.com/firstshowing/film/creatura-2023/
 osvaldo             7
 nicopbllr           7
@@ -24300,6 +24587,7 @@ andrea_vspn         5
 Jules               5
 Roberto Gonzalez    5
 Seth                5
+Carlos Esquives     4   https://letterboxd.com/carlosesquives/film/creatura-2023/
 pstrnk              4
 Dave Jenkins        4
 butacaancha         4   https://letterboxd.com/butacaancha/film/creatura-2023/
@@ -24645,6 +24933,8 @@ bereczmarc          8
 marius gbr          8
 Alice               8
 evan                8
+onozorobi           7
+pink_flamingo       7
 Dave Jenkins        7
 DenisVilenkin       7
 Hairying            7
@@ -24818,8 +25108,10 @@ Cédric Succivalli
 Marie Boudon/Victor Courgeon        6
 #letterboxd
 Lucie Chamoux       9
+miguelareina        8   https://letterboxd.com/miguelareina/film/the-other-laurens/
 Cptn.burger         8
 Overly Honest Movie Reviews 8   https://letterboxd.com/overlyhonestmr/film/the-other-laurens/
+Kaduv               7
 isaaccrown          7   https://letterboxd.com/isaaccrown/film/the-other-laurens/
 MadWillou           7
 lilyana             7
@@ -24862,6 +25154,7 @@ Celia               5
 charlotteMo         5
 Constant            5
 ludovicbeot         5
+Carlos Esquives     4   https://letterboxd.com/carlosesquives/film/the-other-laurens/
 janetiko            4
 Trase Henricks      4
 Annanasfrais        4
@@ -25041,6 +25334,7 @@ Jon Dieringer       8
 cocorectionnel      8   https://letterboxd.com/cocorectionnel/film/grace-2023/
 JackKras            8
 Julian              8
+Kikuchiyosan        7
 Ephraim_Winslow     7
 DomPillai           7
 Dalma Kiss          7   https://letterboxd.com/dalmesz91/film/grace-2023/
@@ -25052,6 +25346,7 @@ Nina Fragale        7
 Popcorn Papi        7
 AnikaNelbulle       7
 matoulpb            7
+Ernst               6
 William_White       6
 michaela flaherty   6
 claradeze           6   https://letterboxd.com/claradeze/film/grace-2023/
@@ -25074,6 +25369,7 @@ camilla toschi      6
 Raspou              6
 poppyaoh            6   https://letterboxd.com/poppyaoh/film/grace-2023/
 Robert _he/him_     6   https://letterboxd.com/2991samoht/film/grace-2023/
+Maja4               5
 Trase Henricks      5
 001882              5
 Scottyyyy           5
@@ -25174,6 +25470,7 @@ Otto Suuronen       6
 Douglas Johnson     6
 Amartya Acharya     6   https://letterboxd.com/amartya/film/legua/
 matoulpb            6
+Christer Emanuelsson 5
 Trase Henricks      5
 Carolina            5   https://letterboxd.com/cmiguel/film/legua/
 fav2margot          5   https://letterboxd.com/fav2margot/film/legua/
@@ -25278,6 +25575,7 @@ Montyyy             7
 Tibor Nagy          7
 Martin              7
 Teragneau           7
+Teragneau           7
 adam_gau            7   https://letterboxd.com/adam_gau/film/a-song-sung-blue/
 shaman22            7
 Remi Frechette      7
@@ -25374,6 +25672,7 @@ Guy Lodge               https://variety.com/2023/film/reviews/inside-the-yellow-
 #critic.de
 Frédéric Jaeger     7.5
 Till Kadritzke        7.5
+Nanako Tsukidate      5
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
@@ -25437,6 +25736,7 @@ Arthur              8
 LeliaS              8
 julia_traw          8
 TufnelsSustain      8
+TufnelsSustain      8
 LeslieGlass         8
 mini13              7
 SuperMario          7
@@ -25478,11 +25778,13 @@ YinuoM              6   https://letterboxd.com/yinuom/film/inside-the-yellow-coc
 Margoh626           6
 chrispii69          6
 fv4z4t              6
+Feras               5
 Rosa Durán          5
 Can                 5
 Jon Dieringer       5   https://letterboxd.com/jondotd/film/inside-the-yellow-cocoon-shell/
 Ettore Dalla Zanna  5
 Cliff               5
+Lia                 4
 Carolina            4
 Carlito             4
 Mauricio Ribeiro    4
@@ -25562,6 +25864,9 @@ quietgavin          5
 GautierBartoli      5
 Pavao Vlajcic       5   https://letterboxd.com/powwow/film/agra/
 Crayfish            5
+ragingbells         4
+AcraziCorleone      4
+ragingbells         4
 AcraziCorleone      4
 Kantrivedi          4
 detectivezinc       4   https://letterboxd.com/detectivezinc/film/agra/
@@ -25584,6 +25889,7 @@ beyza               1   https://letterboxd.com/idahosangel/film/agra/
 #critic.de
 Devika Girish         7.5
 Till Kadritzke        7.5
+Nanako Tsukidate      4
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
@@ -25628,6 +25934,8 @@ xela1               10   https://letterboxd.com/xela1/film/in-our-day/
 Crayfish            9
 Alan Gómez          9   https://letterboxd.com/pksimba/film/in-our-day/
 Mikko Pihkoluoma    9   https://letterboxd.com/mikkopihkoluoma/film/in-our-day/
+Justine             8
+BrandoHu            8
 Kasia               8
 Robin               8   https://letterboxd.com/filmdust/film/in-our-day/
 xungo_unchained     8
@@ -25637,17 +25945,19 @@ cinestesia          8
 andrea beni         8
 infinityjo          8
 Reini Urban         8
-ana                 8   https://letterboxd.com/nohvarrsexc/film/in-our-day/
 elif308             8   https://letterboxd.com/elif308/film/in-our-day/
 t_viktor212         8   https://letterboxd.com/t_viktor212/film/in-our-day/
 Maxime              8   https://letterboxd.com/maxroedel/film/in-our-day/
 thanaputt2001       8
+ana                 7   https://letterboxd.com/nohvarrsexc/film/in-our-day/
+Ettore Dalla Zanna  7
 BrighterDays        7
 zinedine zadine     7
 Matt Haller         7   https://letterboxd.com/thematthaller/film/in-our-day/
+BrighterDays        7
+Matt Haller         7   https://letterboxd.com/thematthaller/film/in-our-day/
 Ricardo Mercader    7
 charlotrives        7
-JakobCJ             7
 JakobCJ             7
 luciaoa             7
 Ephraim_Winslow     7
@@ -25657,6 +25967,10 @@ Emilia Mazik        7
 polarvaes           7
 Florian Lidin       7
 D.K.                7
+Kaduv               6
+Chico Fireman       6
+filmisnothing       6
+Matthew             6
 Trase Henricks      6
 the.aesthetic.movie 6
 DenisVilenkin       6
@@ -25664,6 +25978,7 @@ grm12345            6   https://letterboxd.com/grm12345/film/in-our-day/
 arianekhay          6
 Blake Williams      6
 Thibaut Buccellato  6
+Ernst               5
 001882              5
 Vadim Rizov         5
 JustinThe405        5   https://letterboxd.com/justinthe405/film/in-our-day/
@@ -25674,6 +25989,7 @@ Giancarlo M. Sandoval 4
 Constant            4
 Thibault            4
 Bai Yutong          4
+Dialektik           3
 Jack Salvadori      3
 Deyboow             1
 ZboubDePaname       1
@@ -25744,6 +26060,7 @@ tartinedebeurre     9
 Clément Blandin     9
 issy 👑              9   https://letterboxd.com/robotissy/film/ama-gloria/
 Ricaa               9
+Nauval              8   https://letterboxd.com/nauval/film/ama-gloria/
 lionelleg           8
 Luc Freijer         8
 LeslieGlass         8
@@ -25932,6 +26249,7 @@ Antonin Dutoit      10
 shashay             10
 capu 🧚🏼‍♀️          9   https://letterboxd.com/capucinelancien/film/tiger-stripes/
 Lily                9
+Nauval              8   https://letterboxd.com/nauval/film/tiger-stripes/
 Dim87               8   https://letterboxd.com/dim87/film/tiger-stripes/
 alex200022          8
 Sarah               8
@@ -26186,6 +26504,7 @@ Truffaut692         9
 Joshua Carlon       9   https://letterboxd.com/jcarlon/film/inshallah-a-boy/
 JorgeEspinoza       9
 Maya Gotschall      9   https://letterboxd.com/mayangotschall/film/inshallah-a-boy/
+Nauval              8   https://letterboxd.com/nauval/film/inshallah-a-boy/
 miguelareina        8   https://letterboxd.com/miguelareina/film/inshallah-a-boy/
 Serena              8
 LushiCat            8
@@ -26212,6 +26531,7 @@ ronan               8   https://letterboxd.com/cokewhoregreg/film/inshallah-a-bo
 Vanessa             8
 quietgavin          8
 Horror_Stan         8
+Carlos Esquives     7   https://letterboxd.com/carlosesquives/film/inshallah-a-boy/
 Quentin Bruere      7
 danielastephan      7
 Sara Clements       7   https://letterboxd.com/mildredsfierce/film/inshallah-a-boy/
@@ -26550,7 +26870,6 @@ darius              9   https://letterboxd.com/dariusnwadike/film/vincent-must-d
 Ternigoum           8
 Warwo 🤙🏻            8   https://letterboxd.com/margbdn/film/vincent-must-die/
 lilionmercury       8   https://letterboxd.com/lilionmercury/film/vincent-must-die/
-Imaginelune         8
 Florianeee          8   https://letterboxd.com/florianeee/film/vincent-must-die/
 Antoine Lipps       8
 rayhann             8   https://letterboxd.com/rayhann/film/vincent-must-die/
@@ -26576,7 +26895,6 @@ Dan Py              8   https://letterboxd.com/danpy/film/vincent-must-die/
 Solyste             8
 12321               8
 Nick                8   https://letterboxd.com/ruhrkraut1/film/vincent-must-die/
-Ettore Dalla Zanna  8   https://letterboxd.com/ettoredzz/film/vincent-must-die/
 cami                8
 elegia_34           8
 MovieAndLove        8
@@ -26592,6 +26910,8 @@ Robert Daniels      8   https://letterboxd.com/812filmreviews/film/vincent-must-
 alexandraflea       8   https://letterboxd.com/alexandraflea/film/vincent-must-die/
 ☘︎ bebe ☘︎          8
 Alice               8   https://letterboxd.com/soliaris/film/vincent-must-die/
+Cyril Féraud _sur les lights de Cannes __ 7   https://letterboxd.com/cyrilferaud/film/vincent-must-die/
+Ettore Dalla Zanna  7   https://letterboxd.com/ettoredzz/film/vincent-must-die/
 Teragneau           7
 arianekhay          7
 tamv                7
@@ -27016,6 +27336,7 @@ Alexcam228          8
 Alyssia D. N.       8
 Remi Frechette      8
 Le_Petit_Rigolo     8
+Le_Petit_Rigolo     8
 Aurelie_F           8
 Émile Brochu        8
 bereczmarc          8   https://letterboxd.com/bereczmarc/film/sleep-2023/
@@ -27245,6 +27566,7 @@ Clara Thym          7
 antoine1807         7
 saiyan2spider       7
 ludovicbeot         7
+Ernst               6
 Nico                6
 kerem_akca          6
 William_White       6
@@ -27370,6 +27692,7 @@ Kasia               7
 Nathan Engelking    7   https://letterboxd.com/nathanengelking/film/power-alley/
 arianekhay          7
 Jblanch             7
+Spiii               7
 Spiii               7
 Mauricio Ribeiro    7
 pipes :_            7   https://letterboxd.com/itspiperyay/film/power-alley/
@@ -27502,6 +27825,12 @@ Antoine             8   https://letterboxd.com/toiu224/film/no-love-lost-2023/
 _jeanne_lpz         8
 electra             8
 Jordan ilan         8
+Andrea Campinoti    7
+_jeanne_lpz         8
+electra             8
+Jordan ilan         8
+rosa174             7
+Andrea Campinoti    7
 Trase Henricks      7
 Kasia               7
 diplodocus00        7
@@ -27519,6 +27848,7 @@ Dominique Leger     7
 le7cinema           7
 zoé                 7
 Thibault            7
+Amber               6
 WoodyZales          6
 LeslieGlass         6
 Mathis Sananes      6
@@ -27531,6 +27861,7 @@ Lu Zeng             5   https://letterboxd.com/zenglusz/film/no-love-lost-2023/
 NicolasBardot       5
 LeeLeJ              4
 BrandoHu            4
+ragingbells         2
 
 ACID
 # https://www.lacid.org/fr/cannes/
@@ -27600,6 +27931,7 @@ dewolf_celine       6
 bokchoy0208         6
 Tandonnet           6
 astrachaos          5
+boratsci            5
 boratsci            5
 NikitaE             5
 cole                5   https://letterboxd.com/colezz/film/dreaming-in-between/
@@ -27773,6 +28105,7 @@ Melissa             8
 Elisa GT            8
 Jean des Forets     8
 LeliaS              8
+Samuel2342          8   https://letterboxd.com/samuel2342/film/chicken-for-linda/
 Samuel2342          8   https://letterboxd.com/samuel2342/film/chicken-for-linda/
 laurajarka          8
 cole                8
@@ -28017,10 +28350,12 @@ Lucie Chamoux       9
 AcraziCorleone      8
 JimSmoke            8
 Nunarmando          8
+Clairethby          7
 Holyun              7
 Gainsbarough        7
 Dominique Leger     7
 LoganJohnson        7
+emma                6
 Squid Ward          6
 Redmond Bacon       6   https://letterboxd.com/redbacon/film/nome/
 Joe                 6
@@ -28096,6 +28431,7 @@ Jeannette Gabrielle 7
 Chhabs              7
 edina               7
 Maxime Parier       7
+Trase Henricks      6
 Eric Diedrichs      6
 kodakslave          6
 BillyMacBob         6
@@ -28108,7 +28444,6 @@ benkei💜             5
 goodyy              5   https://letterboxd.com/goodyy/film/liv-ullmann-a-road-less-travelled/
 Laura Bilíková      5
 Isdal               4
-Scottyyyy           4
 Scottyyyy           4
 maaattt             4
 Mateowww            4
