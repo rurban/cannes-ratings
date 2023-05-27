@@ -1172,9 +1172,9 @@ Ariane Allard
 Stéphanie Belpêche       
 Olivier De Bruyn         2
 Olivia Cooper-Hadjian    6
-Alexis Demeyer           1
+Alexis Demeyer           0.5
 Marilou Duponchel        6
-Jean-Michel Froudon      1
+Jean-Michel Froudon      0.5
 Marin Gerard             4
 Jacky Goldberg           
 Matteu Maestracci        8
@@ -2306,14 +2306,14 @@ Diego Batlle
 # chaosreign.fr
 Ariane Allard            2
 Stéphanie Belpêche       8
-Olivier De Bruyn         1
+Olivier De Bruyn         0.5
 Olivia Cooper-Hadjian    
-Alexis Demeyer           1
+Alexis Demeyer           0.5
 Marilou Duponchel        
 Jean-Michel Froudon      2
 Marin Gerard             
-Jacky Goldberg           1
-Matteu Maestracci        1
+Jacky Goldberg           0.5
+Matteu Maestracci        0.5
 Amandine Rebourg         
 Philippe Rouyer          4
 # cahier
@@ -2999,7 +2999,7 @@ Stéphanie Belpêche
 Olivier De Bruyn         4
 Olivia Cooper-Hadjian    
 Alexis Demeyer           8
-Marilou Duponchel        1
+Marilou Duponchel        2
 Jean-Michel Froudon      10
 Marin Gerard             6
 Jacky Goldberg           
@@ -3520,7 +3520,7 @@ Diego Batlle             8
 # chaosreign.fr
 Ariane Allard            
 Stéphanie Belpêche       10
-Olivier De Bruyn         1
+Olivier De Bruyn         0.5
 Olivia Cooper-Hadjian    2
 Alexis Demeyer           2
 Marilou Duponchel        6
@@ -7404,14 +7404,14 @@ Dubravka Lakic           6
 Daniela Michel           
 Diego Batlle             6
 # chaosreign.fr
-Ariane Allard            1
+Ariane Allard            0.5
 Stéphanie Belpêche       
 Olivier De Bruyn         2
 Olivia Cooper-Hadjian    2
 Alexis Demeyer           6
 Marilou Duponchel        2
 Jean-Michel Froudon      4
-Marin Gerard             1
+Marin Gerard             0.5
 Jacky Goldberg           
 Matteu Maestracci        
 Amandine Rebourg         
@@ -8947,18 +8947,18 @@ Dubravka Lakic           8
 Daniela Michel           
 Diego Batlle             5
 # chaosreign.fr
-Ariane Allard            1
+Ariane Allard            0.5
 Stéphanie Belpêche       8
 Olivier De Bruyn         4
 Olivia Cooper-Hadjian    2
 Alexis Demeyer           8
-Marilou Duponchel        1
+Marilou Duponchel        0.5
 Jean-Michel Froudon      2
-Marin Gerard             
+Marin Gerard             0.5
 Jacky Goldberg           
-Matteu Maestracci        6
+Matteu Maestracci        4
 Amandine Rebourg         
-Philippe Rouyer          
+Philippe Rouyer          0.5
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
@@ -9921,7 +9921,7 @@ Olivier De Bruyn         2
 Olivia Cooper-Hadjian    
 Alexis Demeyer           6
 Marilou Duponchel        4
-Jean-Michel Froudon      1
+Jean-Michel Froudon      0.5
 Marin Gerard             8
 Jacky Goldberg           2
 Matteu Maestracci        6
@@ -11066,9 +11066,9 @@ Marilou Duponchel
 Jean-Michel Froudon      6
 Marin Gerard             
 Jacky Goldberg           
-Matteu Maestracci        6
+Matteu Maestracci        4
 Amandine Rebourg         
-Philippe Rouyer          
+Philippe Rouyer          4
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
@@ -11810,9 +11810,9 @@ Diego Batlle             8
 Ariane Allard            6
 Stéphanie Belpêche       10
 Olivier De Bruyn         
-Olivia Cooper-Hadjian    
+Olivia Cooper-Hadjian    2
 Alexis Demeyer           2
-Marilou Duponchel        
+Marilou Duponchel        4
 Jean-Michel Froudon      8
 Marin Gerard             
 Jacky Goldberg           
@@ -12429,15 +12429,15 @@ Dubravka Lakic           6
 Daniela Michel           9
 Diego Batlle             6
 # chaosreign.fr
-Ariane Allard            
+Ariane Allard            2
 Stéphanie Belpêche       
 Olivier De Bruyn         2
 Olivia Cooper-Hadjian    8
 Alexis Demeyer           4
 Marilou Duponchel        8
 Jean-Michel Froudon      2
-Marin Gerard             
-Jacky Goldberg           
+Marin Gerard             8
+Jacky Goldberg           10
 Matteu Maestracci        6
 Amandine Rebourg         
 Philippe Rouyer          8
@@ -12927,18 +12927,18 @@ Dubravka Lakic           7
 Daniela Michel           
 Diego Batlle             
 # chaosreign.fr
-Ariane Allard            
+Ariane Allard            6
 Stéphanie Belpêche       
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Jean-Michel Froudon      
-Marin Gerard             
+Olivier De Bruyn         2
+Olivia Cooper-Hadjian    10
+Alexis Demeyer           6
+Marilou Duponchel        4
+Jean-Michel Froudon      8
+Marin Gerard             6
 Jacky Goldberg           
-Matteu Maestracci        
-Amandine Rebourg         
-Philippe Rouyer          
+Matteu Maestracci        8
+Amandine Rebourg         0.5
+Philippe Rouyer          4
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
@@ -13312,18 +13312,18 @@ Dubravka Lakic           8
 Daniela Michel           
 Diego Batlle             
 # chaosreign.fr
-Ariane Allard            
+Ariane Allard            6
 Stéphanie Belpêche       
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Jean-Michel Froudon      
+Olivier De Bruyn         6
+Olivia Cooper-Hadjian    0.5
+Alexis Demeyer           8
+Marilou Duponchel        2
+Jean-Michel Froudon      8
 Marin Gerard             
 Jacky Goldberg           
-Matteu Maestracci        
-Amandine Rebourg         
-Philippe Rouyer          
+Matteu Maestracci        6
+Amandine Rebourg         8
+Philippe Rouyer          6
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
@@ -18440,19 +18440,6 @@ Dubravka Lakic
 Daniela Michel           
 Isabel Sandoval          
 Diego Batlle             5
-# chaosreign.fr
-Ariane Allard            
-Stéphanie Belpêche       
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Jean-Michel Froudon      
-Marin Gerard             
-Jacky Goldberg           
-Matteu Maestracci        
-Amandine Rebourg         
-Philippe Rouyer          
 # cahier
 Fernando Ganzo           
 Marcos Uzal              
