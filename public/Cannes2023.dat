@@ -34516,18 +34516,20 @@ the_gaffer (Berlin, Deutschland)
 
 our $HEADER = <<"EOF";
 
-<small>Collected and updated daily during the festival by Reini Urban from 11 critic polls.
+<small>Collected and updated daily during the festival by Reini Urban from 15 critic polls:
 Screen Daily (US/UK mainstream),
-Le film français and Cahier (eclectic),
+Le film français and Académie des Lumières (eclectic),
+caiman (the spanish Todas followup, the best),
 http://www.ioncinema.com/ (US/CAN okay),
 http://jury.critic.de/cannes/ (german),
 http://twitter.com/hanglutvd (chinese),
 ICS Critics & Industry Panel (mixed),
-the FIPRESCI poll (not yet),
+the FIPRESCI poll,
 chaosreign.fr (okay),
-warp.fr (Quinzaine),
-the danish dtjernebarometer,
-OutNow.ch,
+wask.fr (Quinzaine only),
+the danish dtsjernebarometer,
+good new polish and russian polls,
+OutNow.ch (mainstream),
 https://letterboxd.com/seanliu/list/cannes-2023/ (the industry),
 plus the usual press and individual critics on site.<br>
 
