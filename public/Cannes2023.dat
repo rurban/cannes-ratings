@@ -11,7 +11,7 @@ package Cannes::rurban::2023; # -*- perl -*-
 #   E 0.5   F 0
 # indiewire does C => 4
 # Le film français+Screen Daily+Media Cine 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
-# dk,ru,FNE 1-5: x2
+# ch,dk,ru,FNE 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
@@ -153,17 +153,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               5
-Xavier                   9
-Bear W                   2.5
-Qin Wan                  7.5
-PeterCat                 5
-Elise                    7.5
-Woodhead                 5
-HarperDre                9
-Li Xun                   7.5
-Nanyouki                 5
+Liu Min                  6
+Jenny S.Li               4
+Xavier                   8
+Bear W                   2
+Qin Wan                  6
+PeterCat                 4
+Elise                    6
+Woodhead                 4
+HarperDre                8
+Li Xun                   6
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             6
 Aleksander Huser         6
@@ -1247,17 +1247,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               2.5
-Xavier                   5
-Bear W                   1
-Qin Wan                  2.5
-PeterCat                 5
+Liu Min                  4
+Jenny S.Li               2
+Xavier                   4
+Bear W                   0.5
+Qin Wan                  2
+PeterCat                 2
 Elise                    
-Woodhead                 5
-HarperDre                5
-Li Xun                   5
-Nanyouki                 5
+Woodhead                 4
+HarperDre                4
+Li Xun                   4
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             6
 Aleksander Huser         8
@@ -1919,17 +1919,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               5
-Xavier                   5
-Bear W                   9
-Qin Wan                  9
+Liu Min                  6
+Jenny S.Li               4
+Xavier                   4
+Bear W                   8
+Qin Wan                  10
 PeterCat                 
-Elise                    7.5
+Elise                    6
 Woodhead                 
-HarperDre                
-Li Xun                   
-Nanyouki                 7.5
+HarperDre                6
+Li Xun                   6
+Nanyouki                 6
 # FIPRESCI
 Ahmed Shawky             4
 Aleksander Huser         8
@@ -2397,17 +2397,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  5
-Jenny S.Li               5
-Xavier                   5
-Bear W                   2.5
-Qin Wan                  5
-PeterCat                 5
-Elise                    2.5
-Woodhead                 5
-HarperDre                5
-Li Xun                   5
-Nanyouki                 2.5
+Liu Min                  4
+Jenny S.Li               4
+Xavier                   4
+Bear W                   2
+Qin Wan                  4
+PeterCat                 4
+Elise                    2
+Woodhead                 4
+HarperDre                4
+Li Xun                   4
+Nanyouki                 2
 # FIPRESCI
 Ahmed Shawky             2
 Aleksander Huser         
@@ -3090,17 +3090,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               9
-Xavier                   7.5
-Bear W                   5
-Qin Wan                  
-PeterCat                 9
-Elise                    5
-Woodhead                 7.5
-HarperDre                9
-Li Xun                   
-Nanyouki                 7.5
+Liu Min                  6
+Jenny S.Li               10
+Xavier                   6
+Bear W                   4
+Qin Wan                  8
+PeterCat                 8
+Elise                    4
+Woodhead                 6
+HarperDre                10
+Li Xun                   8
+Nanyouki                 6
 # FIPRESCI
 Ahmed Shawky             10
 Aleksander Huser         8
@@ -3663,17 +3663,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  9
-Jenny S.Li               7.5
-Xavier                   7.5
-Bear W                   9
-Qin Wan                  9
-PeterCat                 7.5
-Elise                    9
-Woodhead                 9
-HarperDre                7.5
-Li Xun                   7.5
-Nanyouki                 5
+Liu Min                  10
+Jenny S.Li               6
+Xavier                   6
+Bear W                   8
+Qin Wan                  8
+PeterCat                 6
+Elise                    10
+Woodhead                 10
+HarperDre                6
+Li Xun                   6
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             8
 Aleksander Huser         10
@@ -4652,17 +4652,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  5
-Jenny S.Li               2.5
-Xavier                   1
-Bear W                   1
-Qin Wan                  
-PeterCat                 2.5
+Liu Min                  4
+Jenny S.Li               2
+Xavier                   0.5
+Bear W                   0.5
+Qin Wan                  2
+PeterCat                 2
 Elise                    
-Woodhead                 1
-HarperDre                7.5
-Li Xun                   5
-Nanyouki                 5
+Woodhead                 0.5
+HarperDre                6
+Li Xun                   4
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             8
 Aleksander Huser         8
@@ -5329,17 +5329,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               2.5
-Xavier                   5
-Bear W                   2.5
-Qin Wan                  5
+Liu Min                  6
+Jenny S.Li               2
+Xavier                   4
+Bear W                   2
+Qin Wan                  4
 PeterCat                 
 Elise                    
-Woodhead                 2.5
-HarperDre                7.5
-Li Xun                   5
-Nanyouki                 5
+Woodhead                 2
+HarperDre                6
+Li Xun                   4
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             4
 Aleksander Huser         
@@ -5905,16 +5905,16 @@ Thierry Méranger
 Louis Séguin             
 # Chinese @CriticsGrid
 Liu Min                  
-Jenny S.Li               7.5
-Xavier                   5
-Bear W                   7.5
-Qin Wan                  7.5
-PeterCat                 7.5
-Elise                    5
-Woodhead                 5
-HarperDre                7.5
-Li Xun                   7.5
-Nanyouki                 5
+Jenny S.Li               6
+Xavier                   4
+Bear W                   6
+Qin Wan                  6
+PeterCat                 6
+Elise                    4
+Woodhead                 4
+HarperDre                6
+Li Xun                   6
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             10
 Aleksander Huser         10
@@ -7047,17 +7047,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  9
-Jenny S.Li               7.5
-Xavier                   5
-Bear W                   9
-Qin Wan                  
-PeterCat                 5
-Elise                    9
-Woodhead                 
-HarperDre                7.5
-Li Xun                   
-Nanyouki                 7.5
+Liu Min                  8
+Jenny S.Li               6
+Xavier                   4
+Bear W                   10
+Qin Wan                  6
+PeterCat                 4
+Elise                    8
+Woodhead                 8
+HarperDre                6
+Li Xun                   6
+Nanyouki                 6
 # FIPRESCI
 Ahmed Shawky             8
 Aleksander Huser         10
@@ -7928,17 +7928,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               2.5
-Xavier                   2.5
-Bear W                   
-Qin Wan                  7.5
-PeterCat                 
+Liu Min                  6
+Jenny S.Li               2
+Xavier                   2
+Bear W                   0.5
+Qin Wan                  6
+PeterCat                 4
 Elise                    
-Woodhead                 2.5
-HarperDre                1
-Li Xun                   
-Nanyouki                 2.5
+Woodhead                 2
+HarperDre                0.5
+Li Xun                   6
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             4
 Aleksander Huser         8
@@ -8700,17 +8700,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  9
-Jenny S.Li               9
-Xavier                   9
-Bear W                   5
-Qin Wan                  7.5
-PeterCat                 5
-Elise                    
-Woodhead                 
-HarperDre                9
-Li Xun                   7.5
-Nanyouki                 9
+Liu Min                  8
+Jenny S.Li               8
+Xavier                   10
+Bear W                   4
+Qin Wan                  6
+PeterCat                 4
+Elise                    4
+Woodhead                 4
+HarperDre                8
+Li Xun                   6
+Nanyouki                 8
 # FIPRESCI
 Ahmed Shawky             6
 Aleksander Huser         
@@ -9540,17 +9540,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               
-Xavier                   9
-Bear W                   1
-Qin Wan                  7.5
+Liu Min                  6
+Jenny S.Li               2
+Xavier                   8
+Bear W                   0.5
+Qin Wan                  6
 PeterCat                 
-Elise                    
-Woodhead                 5
-HarperDre                
-Li Xun                   
-Nanyouki                 9
+Elise                    4
+Woodhead                 4
+HarperDre                6
+Li Xun                   4
+Nanyouki                 10
 # FIPRESCI
 Ahmed Shawky             6
 Aleksander Huser         6
@@ -10571,17 +10571,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  5
-Jenny S.Li               5
-Xavier                   2.5
-Bear W                   7.5
-Qin Wan                  7.5
-PeterCat                 1
-Elise                    5
-Woodhead                 2.5
-HarperDre                9
-Li Xun                   9
-Nanyouki                 5
+Liu Min                  4
+Jenny S.Li               4
+Xavier                   2
+Bear W                   6
+Qin Wan                  6
+PeterCat                 0.5
+Elise                    4
+Woodhead                 2
+HarperDre                8
+Li Xun                   8
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             6
 Aleksander Huser         
@@ -10774,17 +10774,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               5
-Xavier                   5
-Bear W                   2.5
-Qin Wan                  5
-PeterCat                 7.5
+Liu Min                  6
+Jenny S.Li               4
+Xavier                   4
+Bear W                   2
+Qin Wan                  4
+PeterCat                 6
 Elise                    
-Woodhead                 1
-HarperDre                7.5
+Woodhead                 0.5
+HarperDre                6
 Li Xun                   
-Nanyouki                 5
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             6
 Aleksander Huser         
@@ -11805,17 +11805,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  5
-Jenny S.Li               5
-Xavier                   2.5
-Bear W                   5
-Qin Wan                  2.5
-PeterCat                 1
-Elise                    5
-Woodhead                 5
-HarperDre                1
-Li Xun                   5
-Nanyouki                 2.5
+Liu Min                  4
+Jenny S.Li               4
+Xavier                   2
+Bear W                   6
+Qin Wan                  2
+PeterCat                 0.5
+Elise                    4
+Woodhead                 6
+HarperDre                0.5
+Li Xun                   4
+Nanyouki                 2
 # FIPRESCI
 Ahmed Shawky             8
 Aleksander Huser         
@@ -12421,17 +12421,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  7.5
-Jenny S.Li               1
-Xavier                   9
-Bear W                   9
-Qin Wan                  5
-PeterCat                 7.5
-Elise                    7.5
-Woodhead                 7.5
-HarperDre                9
-Li Xun                   7.5
-Nanyouki                 5
+Liu Min                  6
+Jenny S.Li               0.5
+Xavier                   8
+Bear W                   8
+Qin Wan                  4
+PeterCat                 6
+Elise                    6
+Woodhead                 6
+HarperDre                8
+Li Xun                   6
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             4
 Aleksander Huser         
@@ -12620,17 +12620,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  
-Jenny S.Li               
-Xavier                   
-Bear W                   
-Qin Wan                  
-PeterCat                 
+Liu Min                  4
+Jenny S.Li               4
+Xavier                   4
+Bear W                   0.5
+Qin Wan                  4
+PeterCat                 0.5
 Elise                    
-Woodhead                 
-HarperDre                
+Woodhead                 2
+HarperDre                6
 Li Xun                   
-Nanyouki                 
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             10
 Aleksander Huser         
@@ -13399,17 +13399,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  
-Jenny S.Li               
-Xavier                   
-Bear W                   
-Qin Wan                  
-PeterCat                 
-Elise                    
-Woodhead                 
-HarperDre                
-Li Xun                   
-Nanyouki                 
+Liu Min                  4
+Jenny S.Li               0.5
+Xavier                   4
+Bear W                   6
+Qin Wan                  2
+PeterCat                 2
+Elise                    2
+Woodhead                 0.5
+HarperDre                0.5
+Li Xun                   4
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             
 Aleksander Huser         
@@ -13948,17 +13948,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  
-Jenny S.Li               
-Xavier                   
-Bear W                   
-Qin Wan                  
-PeterCat                 
-Elise                    
-Woodhead                 
-HarperDre                
+Liu Min                  4
+Jenny S.Li               6
+Xavier                   6
+Bear W                   4
+Qin Wan                  6
+PeterCat                 10
+Elise                    6
+Woodhead                 8
+HarperDre                8
 Li Xun                   
-Nanyouki                 
+Nanyouki                 6
 # FIPRESCI
 Ahmed Shawky             
 Aleksander Huser         
@@ -14459,17 +14459,17 @@ Yal Sadat
 Thierry Méranger         
 Louis Séguin             
 # Chinese @CriticsGrid
-Liu Min                  
+Liu Min                  4
 Jenny S.Li               
-Xavier                   
-Bear W                   
-Qin Wan                  
-PeterCat                 
-Elise                    
-Woodhead                 
-HarperDre                
+Xavier                   4
+Bear W                   3
+Qin Wan                  6
+PeterCat                 2
+Elise                    4
+Woodhead                 4
+HarperDre                6
 Li Xun                   
-Nanyouki                 
+Nanyouki                 4
 # FIPRESCI
 Ahmed Shawky             
 Aleksander Huser         
