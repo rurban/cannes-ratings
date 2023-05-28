@@ -65,6 +65,7 @@ sub _read {
       $title_dir = $_; $n = $s = 0; 
     } elsif ($title and /\w[\w\)\.]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
       my $x = $1;
+      $url = $2;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
       $x =~ s/,/./g;
       if ($x =~ /^[0-9.]*$/) {
@@ -74,7 +75,6 @@ sub _read {
         $x = 0;
       }
       undef $critic;
-      $url = $2;
       $url =~ s/^\s+// if $url;
       undef $url if $url and $url !~ /^http/;
       if (/^(\S.+) \((.+), (.+?)\)/) {
