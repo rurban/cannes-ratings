@@ -651,7 +651,7 @@ sub _side_details {
   # turn off lb
   else {
     my $s = $critics_group[$#critics_group];
-    if ($s eq 'Letterboxd') {
+    if ($s and $s eq 'Letterboxd') {
       my $gbox = "<form><input type=hidden name=t value=\"\">\n";
       for (@critics_group) {
         next if $_ eq $s;
