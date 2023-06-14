@@ -37,7 +37,7 @@
               <li><a href="http://www.screendaily.com/">www.screendaily.com</a></li>
               <li><a href="http://www.indiewire.com/">www.indiewire.com</a></li>
               <li><a href="http://www.jigsawlounge.co.uk/film/reviews/cannes<% year %>/">Neil Young Odds</a>
-              <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/public">Ratings history on github</a></li>
+              <li><a href="https://github.com/rurban/cannes-ratings/commits/master/public">Ratings history on github</a></li>
               <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
             </ul>
           </li>

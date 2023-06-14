@@ -41,7 +41,7 @@ function flipAll(name) {
 <% REDIRECT_BODY %>
 <% content %>
 <div id="footer">
-Powered by <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>, fly.io free <a href="http://fly.io/">cloud services</a>, a little <a href="http://perl.org/">perl</a> logic and readable <a href="https://github.com/rurban/cannes-rurban.rhcloud.com/">text files</a>.
+Powered by <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>, fly.io free <a href="http://fly.io/">cloud services</a>, a little <a href="http://perl.org/">perl</a> logic and readable <a href="https://github.com/rurban/cannes-ratings/">text files</a>.
 </div>
 </body>
 </html>

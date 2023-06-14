@@ -10,12 +10,14 @@ Allow: /Cannes
 Allow: /Sundance
 Allow: /Berlinale
 Disallow: /
+Disallow: /*?*
 
 User-agent: MJ12Bot
 Allow: /Cannes
 Allow: /Sundance
 Allow: /Berlinale
 Disallow: /
+Disallow: /*?*
 
 User-agent: archive.org_bot
 Allow: /Cannes
@@ -26,5 +28,3 @@ Disallow: /*?*
 
 User-agent: *
 Disallow: /*?*
-
-Host: cannes-ratings.tk

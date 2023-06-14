@@ -8589,7 +8589,7 @@ our $FOOTER = "
 <pre>
 --
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Sundance2019.dat
+https://github.com/rurban/cannes-ratings/blob/master/public/Sundance2019.dat
 
 </pre>";
 

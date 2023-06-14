@@ -1455,7 +1455,7 @@ List:
 http://letterboxd.com/rurban/list/cannes-2020/
 and http://letterboxd.com/rurban/list/cannes-2020-predictions/
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2020.dat 
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2020.dat 
 </pre>";
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;

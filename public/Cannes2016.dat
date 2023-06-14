@@ -6481,7 +6481,7 @@ our $FOOTER = "
 List:
 http://letterboxd.com/rurban/list/cannes2016/
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2016.dat
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2016.dat
 
 </pre>";
 

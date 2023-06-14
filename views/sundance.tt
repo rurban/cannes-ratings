@@ -31,7 +31,7 @@
               <li><a href="https://variety.com/c/reviews/">variety</a></li>
               <li><a href="http://www.theguardian.com/film/series/first-look-review">guardian</a></li>
               <li><a href="https://letterboxd.com/search/lists/sundance/">letterboxd</a></li>
-              <li><a href="https://github.com/rurban/cannes-rurban.rhcloud.com/commits/master/public">Ratings history on github</a></li>
+              <li><a href="https://github.com/rurban/cannes-ratings/commits/master/public">Ratings history on github</a></li>
 
               <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
             </ul>

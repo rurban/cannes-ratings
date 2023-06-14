@@ -10384,7 +10384,7 @@ our $FOOTER = "
 List:
 http://letterboxd.com/rurban/list/cannes-2018/
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2018.dat 
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2018.dat 
 </pre>";
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;

@@ -38671,7 +38671,7 @@ our $FOOTER = "
 Lists:
 https://letterboxd.com/seanliu/list/cannes-2023/
 Source & History:
-https://github.com/rurban/cannes-rurban.rhcloud.com/blob/master/public/Cannes2023.dat 
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2023.dat 
 </pre>";
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
