@@ -676,6 +676,12 @@ sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
   my $dat = "$dir/../../public/$BASE$year.dat";
+  if (request->user_agent =~ m{SemrushBot/}) {
+      if (Dancer::SharedData->request and (params->{t} or params->{g})) {
+          status 503;
+          return 'misbehaving robot';
+      }
+  }
   if (-e $dat) {
     do "$dat" or die "invalid ".File::Basename::basename($dat);
   } else {

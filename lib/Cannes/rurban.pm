@@ -670,7 +670,8 @@ sub _list {
   my $dat = "$dir/../../public/$BASE$year.dat";
   if (request->user_agent =~ m{SemrushBot/}) {
       if (Dancer::SharedData->request and (params->{t} or params->{g})) {
-          die 'misbehaving robot';
+          status 503;
+          return 'misbehaving robot';
       }
   }
   if (-e $dat) {
