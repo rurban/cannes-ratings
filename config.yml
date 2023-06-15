@@ -27,3 +27,10 @@ template: "simple"
 #    start_tag: '[%'
 #    end_tag:   '%]'
 
+plack_middlewares:
+  -
+    - ConditionalGET
+  -
+    - ETag
+  -
+    - Deflater

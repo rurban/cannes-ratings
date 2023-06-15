@@ -1,10 +1,11 @@
 FROM debian:latest
 ARG DEBIAN_FRONTEND=noninteractive
 RUN set -ex; \
-       apt-get update && \
-       apt-get dist-upgrade -y && \
-       apt-get -qq -y --no-install-recommends install \
-       libdancer-perl libplack-perl
+    apt-get update && \
+    apt-get dist-upgrade -y && \
+    apt-get -qq -y --no-install-recommends install \
+      cpanminus libdancer-perl libplack-perl libplack-middleware-deflater-perl \
+    cpanm Plack::Middleware::ETag
 #       & apt-get -y autoremove & apt-get clean \
 #       ; \
 #    rm -rf /var/lib/apt/lists/* ; \
