@@ -62,7 +62,8 @@ c[12][0-9]/
 /letterbox.diff
 /lettr-*-list.html
 /lettr-*-list-2.html
-lib/*.pm
+lib/Insert.pm
+lib/Letterboxd.pm
 git_push.sh
 hot_deploy-bump.sh
 logs/

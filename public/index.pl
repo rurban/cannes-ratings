@@ -10,7 +10,7 @@ my $root = $ENV{'DOCUMENT_ROOT'} || '';
 if (-d '/app') {
   set environment => 'production';
   #set auto_reload => 1;
-} elsif ($ENV{'REMOTE_ADDR'} eq '188.108.36.74') {
+} elsif (exists $ENV{'REMOTE_ADDR'} and $ENV{'REMOTE_ADDR'} eq '188.108.36.74') {
   set environment => 'production';
 } else {
   set environment => 'development';

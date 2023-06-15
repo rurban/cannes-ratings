@@ -1,24 +1,31 @@
-package Cannes::rurban;
+package Ratings;
 use Dancer ':syntax';
 use File::Basename ();
 use HTTP::Date ();
 use utf8;
 
 our $VERSION = '0.2';
-our $BASE = 'Cannes';
-our @YEARS = (2010..2023);
-our $comp_section = 'Competition';
-our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
-                 "Semaine", "ACID", "Other"); #, "Predictions"
+# the fields:
+our $BASE;
+our @YEARS;
+our $allyears;
+our $comp_section;
+our @sections;
+our $verygood;
+our $good;
 
 sub us_rating {
-  my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
+  my $r = {'A+' => 10,  'A' => 9,   'A-' => 8,
            'B+' => 7,   'B' => 6,   'B-' => 5,
-           'C+' => 4,   'C' => 3,   'C-' => 2, 
-           'D+' => 1.5, 'D' => 1,   'D-' => 1, 
-           'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5, 
+           'C+' => 4,   'C' => 3,   'C-' => 2,
+           'D+' => 1.5, 'D' => 1,   'D-' => 1,
+           'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
            'F+' => 0,   'F' => 0,   'F-' => 0};
   return $r->{$_[0]};
+}
+
+sub new {
+    # TODO
 }
 
 sub _read {
@@ -63,7 +70,7 @@ sub _read {
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
-      $title_dir = $_; $n = $s = 0; 
+      $title_dir = $_; $n = $s = 0;
     } elsif ($title and /\w[\w\)\.]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
       my $x = $1; $url = $2;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
@@ -147,13 +154,13 @@ sub _detail {
     #delete $x->{review};
     $out .= "<tr><td colspan=3><code>".Data::Dumper::Dumper($x);
     for (keys %{$x->{critic}}) {
-      $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
+      $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n")
 	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
     }
     $out .= "</code></tr>\n";
   }
   # sort reviews first, then ratings, then name
-  for (sort {(!defined $h->{critic}->{$a}->[0] ? 
+  for (sort {(!defined $h->{critic}->{$a}->[0] ?
                ( !defined $h->{critic}->{$b}->[0] ? $a cmp $b : -1)
               : !defined $h->{critic}->{$b}->[0] ? 1
               : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0])
@@ -192,7 +199,7 @@ sub _critic_detail {
     my $f = $h->{title}->{$t};
     my $c = @$f == 3 ? sprintf("[&nbsp;%s&nbsp;-&nbsp;%0.2f&nbsp;=&nbsp;%0.2f&nbsp;]", @$f)
       : defined($f->[0])
-        ? "[&nbsp;".$f->[0]."&nbsp;]" 
+        ? "[&nbsp;".$f->[0]."&nbsp;]"
         : "[-]";
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$t</td>"
       ."<td class=detail>$c</td></tr>\n";
@@ -208,6 +215,9 @@ sub _dump {
   my @all = @t;
   my $section;
   my %sections = map {$_=>1} @sections;
+
+  # specialize some sections on $BASE, eg Berlinale
+  _set_sections ($year, \@sections);
 
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
@@ -321,8 +331,8 @@ sub _dump {
     || $a->[3] cmp $b->[3]
   } @t;
   my $i=1;
-  for (@t) { 
-    my $t = $_->[3]; 
+  for (@t) {
+    my $t = $_->[3];
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
       my $v = $title{$t}->{critic}->{$_}->[0];
@@ -334,11 +344,11 @@ sub _dump {
   }
   my $list = '';
   # Very Good New Films
-  for (@t) { 
+  for (@t) {
     my $t = $_->[3];
     my $n = $title{$t}->{num};
-    my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n<=3 or $a < 7.5; 
+    my $a = sprintf("%0.2f",$title{$t}->{avg});
+    next if $n<=3 or $a < $verygood;
     my $l = $title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive)$/;
     next if $l =~ / 19\d\d\)/;
@@ -361,7 +371,7 @@ sub _dump {
     }
     $i++;
   }
-  my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
+  my $h = "<h1 title=\"(avg>$verygood, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   if (@sections == 1) {
     $out = '';
@@ -370,8 +380,8 @@ sub _dump {
   for (@t) {
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
-    my $n=$title{$t}->{num}; 
-    next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
+    my $n=$title{$t}->{num};
+    next if $a < $good or $a >= $verygood or $n <= 3;
     my $l=$title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive)$/;
     next if $l =~ / 19\d\d\)/;
@@ -395,7 +405,7 @@ sub _dump {
     $i++;
   }
   if ($list and @sections != 1) {
-    $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
+    $out .= "<h1 title=\"(avg>$good, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
   }
@@ -405,7 +415,7 @@ sub _dump {
   my ($allreviews, $numratings) = (0,0);
   my %section;
   for my $section (@sections) {
-    my ($sum,$num) = (0,0); 
+    my ($sum,$num) = (0,0);
     my @titles = keys %title;
     for (@titles) {
       if ($title{$_}->{section} and $title{$_}->{section} eq $section) {
@@ -414,7 +424,7 @@ sub _dump {
         $section{$section}->{$_} = [ $title{$_}->{avg}, $title{$_}->{num},
                                      $title{$_}->{stddev}, $numreviews ];
         if ($title{$_}->{num}) {
-	  $sum += $title{$_}->{avg}; 
+	  $sum += $title{$_}->{avg};
 	  $num++;
 	}
       }
@@ -424,8 +434,8 @@ sub _dump {
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
       $out .= $num
-      	? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
-      	: sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
+        ? sprintf("<h2><a name=\"$qsection\"></a><b>$section [%0.2f/%d]</b></h2>\n<table>\n", $sum/$num, $num)
+        : sprintf("<h2><a name=\"$qsection\"></a><b>$section</b></h2>\n<table>\n");
       my $sect_t = $section{$section};
       my @titles = sort keys %$sect_t;
       my @rated_titles = grep {$sect_t->{$_}->[0] ? $_ : undef} @titles;
@@ -485,7 +495,7 @@ sub _dump {
   if (@sections != 1) {
     $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n";
     my $j=1; my $six=1;
-    for (sort 
+    for (sort
          {
            $a->[1] <=> $b->[1] ? $b->[1] <=> $a->[1]
              : $a->[0] cmp $b->[0]
@@ -494,9 +504,9 @@ sub _dump {
       my ($l,$a,$n,$t) = @{$_};
       $numratings += $n;
       next unless $t;
-      my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
+      my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0);
       $l="<i>$l</i>" if $s>=2.0;
-      if ($l =~ / \[\Q$comp_section\E\]/) { 
+      if ($l =~ / \[\Q$comp_section\E\]/) {
         $l =~ s/ \[\Q$comp_section\E\]//; $l="<b>$l</b>";
       } else { $l =~ s/ \[[\w ]+?\]//;}
       $l="<small>$l</small>" if $title{$t}->{num}<10;
@@ -504,7 +514,7 @@ sub _dump {
         $six=0;
         $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
       }
-      $out .= $n 
+      $out .= $n
         ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
         :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
       if (_show_detail($i)) {
@@ -523,11 +533,11 @@ sub _dump {
 * &gt:1.5 over-rater,
 * &lt;-1.5 under-rater,
 * -1.5 - 1.5 deviant ratings in boths directions. e.g. ceiling effect\">±diff</i>\n<table>\n";
-  
-    for (sort 
+
+    for (sort
 	 {
 	   !exists $critic{$a}->{stddev} ? 1
-	     : !exists $critic{$b}->{stddev} ? -1 
+	     : !exists $critic{$b}->{stddev} ? -1
 	     : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
 	 } keys %critic)
     {
@@ -548,7 +558,7 @@ sub _dump {
       }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
       $c = "<small>$c</small>" if $n < 10;
-      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td class=r>[<a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a>]</td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
+      $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td class=r>[<a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a>]</td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff};
       if (_show_detail($i)) {
 	$out .= _critic_detail($_,$critic{$_});
       }
@@ -557,18 +567,18 @@ sub _dump {
     }
   }
   $out .= "</table>";
-  return {out => $out, 
-	  good   => \@good, 
-	  sections => \%sections, 
-	  sectlist => \@sections, 
+  return {out => $out,
+	  good   => \@good,
+	  sections => \%sections,
+	  sectlist => \@sections,
 	  allfilms => \@allfilms,
 	  t => \@t,
 	  title   => \%title,
 	  critic  => \%critic,
           which => $BASE,
-	  numratings => $numratings, 
-	  numreviews => $allreviews, 
-	  numc => $numc, 
+	  numratings => $numratings,
+	  numreviews => $allreviews,
+	  numc => $numc,
 	  numb => scalar(keys(%badcritic))
   };
 }
@@ -626,14 +636,14 @@ sub _side_details {
     $out .= '
             <h4 onclick="flipAll(\'g\')"><b title="Filter ratings (click to flip all)">Poll</b></h4>
 	    '
-	    . $gbox . 
+	    . $gbox .
 	    '<input type=submit value="Filter">
 	     <span class=hover onclick="selectAll(\'g\')" title="Click here to select all">[all]</span>
 	     <span class=hover onclick="flipAll(\'g\')"  title="Click here to invert the selection">[flip]</span><br />' if @critics_group;
     $out .= '
             <h4 onclick="flipAll(\'cn\')"><b title="Filter ratings (click to flip all)">Critics countries</b></h4>
 	    '
-	    . $cnbox . 
+	    . $cnbox .
 	    '<input type=submit value="Filter">
 	     <span class=hover onclick="selectAll(\'cn\')" title="Click here to select all">[all]</span>
 	     <span class=hover onclick="flipAll(\'cn\')"  title="Click here to invert the selection">[flip]</span>
@@ -695,7 +705,6 @@ sub _list {
     eval "require $BASE\::rurban::$year;"
       or die "invalid year $year";
   }
-
   no strict 'refs';
   my $DATA = ${"$BASE\::rurban::$year\::DATA"};
   #my $PREDICTIONS = ${"$BASE\::rurban::$year\::PREDICTIONS"};
@@ -736,127 +745,26 @@ sub _list {
   }
 }
 
-get '/Cannes' => sub {
-  _list(2023);
-};
-get '/Cannes2023' => sub {
-  _list(2023);
-};
-get '/Cannes2022' => sub {
-  _list(2022);
-};
-get '/Cannes2021' => sub {
-  _list(2021);
-};
-get '/Cannes2020' => sub {
-  _list(2020);
-};
-get '/Cannes2019' => sub {
-  _list(2019);
-};
-get '/Cannes2018' => sub {
-  _list(2018);
-};
-get '/Cannes2017' => sub {
-  _list(2017);
-};
-get '/Cannes2016' => sub {
-  _list(2016);
-};
-get '/Cannes2015' => sub {
-  _list(2015);
-};
-get '/Cannes2014' => sub {
-  _list(2014);
-};
-get '/Cannes2013' => sub {
-  _list(2013);
-};
-get '/Cannes2012' => sub {
-  _list(2012);
-};
-get '/Cannes2011' => sub {
-  _list(2011);
-};
-get '/Cannes2010' => sub {
-  _list(2010);
-};
-get '/2010' => sub {
-  _list(2010);
-};
-get '/2011' => sub {
-  _list(2011);
-};
-get '/2012' => sub {
-  _list(2012);
-};
-get '/2013' => sub {
-  _list(2013);
-};
-get '/2014' => sub {
-  _list(2014);
-};
-get '/2015' => sub {
-  _list(2015);
-};
-get '/2016' => sub {
-  _list(2016);
-};
-get '/2017' => sub {
-  _list(2017);
-};
-get '/2018' => sub {
-  _list(2018);
-};
-get '/2019' => sub {
-  _list(2019);
-};
-get '/2020' => sub {
-  _list(2020);
-};
-get '/2021' => sub {
-  _list(2021);
-};
-get '/2022' => sub {
-  _list(2022);
-};
-get '/2023' => sub {
-  _list(2023);
-};
-get '/all' => sub {
-  my $vars = {}; my (@t, %critic, %title);
-  for my $year (@YEARS) {
-    no strict 'refs';
-    my $dir = File::Basename::dirname(__FILE__);
-    my $dat = "$dir/../../public/$BASE$year.dat";
-    if (-e $dat) {
-      do "$dat" or die "invalid $dat";
-    } else {
-      eval "require $BASE\::rurban::$year;"
-        or die "invalid year $year";
-    }
-    my $DATA = ${"$BASE\::rurban::$year\::DATA"};
-    my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
-    my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
-    my @critics = @{"$BASE\::rurban::$year\::critics"};
-    my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
-    my @new = _read($DATA, \@critics, \%critic, \%title, \@critics_group);
-    %critic = %{$new[0]}; %title = %{$new[1]};
-    push @t, @{$new[2]};
-    $vars->{year} = $year;
-    $vars->{HEADER} = $HEADER;
-    $vars->{FOOTER} = $FOOTER;
+hook before => sub {
+  my $route_handler = shift;
+  my $path   = Dancer::request->path_info;
+  if ($path =~ /Berlinale/) {
+      require Ratings::Berlinale;
   }
-  my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2010-2022";
-  {
-    no strict 'refs';
-    $all->{side_details} = _side_details(\%critic, \%title, 
-                             \@{"$BASE\::rurban::2022::critics_group"});
+  elsif ($path =~ /Sundance/) {
+     require Ratings::Sundance;
   }
-  template lc($BASE), $all;
+  else {
+      require Ratings::Cannes;
+  }
 };
-
 get '/' => sub { redirect '/Cannes2023'; };
 
-1;
+sub _debug {
+  use DB; $DB::single = 1;
+  my $r = new Ratings 'Cannes';
+  # $r->_list(2023);
+}
+get '/debug' => _debug;
+
+#1;
