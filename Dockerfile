@@ -4,8 +4,7 @@ RUN set -ex; \
     apt-get update && \
     apt-get dist-upgrade -y && \
     apt-get -qq -y --no-install-recommends install \
-      make libdancer-perl libplack-perl libplack-middleware-deflater-perl && \
-    cpan Plack::Middleware::ETag
+      libdancer-perl libplack-perl libplack-middleware-deflater-perl
 #       & apt-get -y autoremove & apt-get clean \
 #       ; \
 #    rm -rf /var/lib/apt/lists/* ; \
