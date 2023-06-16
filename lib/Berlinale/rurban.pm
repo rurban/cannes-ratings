@@ -672,17 +672,31 @@ sub _side_details {
   return $out;
 }
 
+sub last_modified {
+  my $max = 0;
+  for (@_) {
+    my $time = (stat($_))[9];
+    $max = $time if $time > $max;
+  }
+  return $max;
+}
+
 sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
   my $dat = "$dir/../../public/$BASE$year.dat";
-  if (request->user_agent =~ m{SemrushBot/}) {
+  if (Dancer::SharedData->request and request->user_agent =~ m{SemrushBot/}) {
       if (Dancer::SharedData->request and (params->{t} or params->{g})) {
           status 503;
           return 'misbehaving robot';
       }
   }
+  my @files = (__FILE__, "$dir/../../views/berlinale.tt",
+               "$dir/../../views/layouts/main.tt");
   if (-e $dat) {
+    my $last_modified = last_modified (@files, $dat);
+    header 'Last-Modified' => HTTP::Date::time2str($last_modified);
+
     do "$dat" or die "invalid ".File::Basename::basename($dat);
   } else {
     eval "require $BASE\::rurban::$year;"
