@@ -1,0 +1,3 @@
+Contact: reini.urban@gmail.com
+Preferred-Languages: en, de
+Canonical: https://cannes-ratings.org/.well-known/security.txt
