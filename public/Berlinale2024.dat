@@ -1,7 +1,7 @@
 package Berlinale::rurban::2024; # -*- perl -*-
 # Berlinale 2024 Critics Ratings
-#
-# complete lineup: ??
+# 15.2. - 25.2.
+# complete lineup: 22.1.
 
 use utf8;
 our $DATA= <<'EOF';
@@ -10,6 +10,129 @@ WETTBEWERB
 
 ENCOUNTERS
 
+PANORAMA
+
+"All Shall Be Well" (Ray Yeung, HK/China) [Panorama]
+ WP
+
+"Andrea lässt sich scheiden (Andrea Gets a Divorce)" (Josef Hader, Austria) [Panorama]
+ WP
+
+"Betânia" (Marcelo Botta, Brazil) [Panorama]
+ WP
+
+"Faruk" (Aslı Özge, D/Turkey/France) [Panorama]
+ WP
+
+"I Saw the TV Glow" (Jane Schoenbrun, USA) [Panorama]
+ IP
+
+"Ještě nejsem, kým chci být (I’m not Everything I Want to Be)" (Klára Tasovská, CZ/SLOV/AUT) [Panorama]
+ WP. Doc
+
+"Jia ting jian shi (Brief History of a Family)" (Lin Jianjie, China/Denmark) [Panorama] <i>Sundance</i>
+ European premiere | Debut film
+
+"The Outrun" (Nora Fingscheidt, UK/D) [Panorama] <i>Sundance</i>
+ European premiere
+
+"Les Paradis de Diane (Paradises of Diane)" (Carmen Jaquier, Jan Gassmann, Sui) [Panorama]
+ IP
+
+"Pendant ce temps sur Terre (Meanwhile on Earth)" (Jérémy Clapin, France) [Panorama]
+
+"Yo vi tres luces negras (I Saw Three Black Lights)" (Santiago Lozano Álvarez, Colombia/Mexico/France/D) [Panorama]
+ WP.
+
+
+GENERATION
+
+FORUM
+
+"Chroniques fidèles survenues au siècle dernier à l’hôpital psychiatrique Blida-Joinville, au temps où le Docteur Frantz Fanon était chef de la cinquième division entre 1953 et 1956" (True Chronicles of the Blida Joinville Psychiatric Hospital in the Last Century, when Dr Frantz Fanon Was Head of the Fifth Ward between 1953 and 1956)"(Abdenour Zahzah, Algeria/France) [Forum]
+ WP
+
+"Deda-Shvili (Mother and Daughter)" (Lana Gogoberidze, Georgia/France 2023) [Forum Special]
+ IP. Doc
+
+"La hojarasca (The Undergrowth)" (Macu Machín, Spain) [Forum]
+ WP. Doc. Debut film
+
+"Kottukkaali (The Adamant Girl)" (Vinothraj PS, India) [Forum]
+ WP
+
+"Marijas klusums (Maria's Silence)" (Dāvis Sīmanis, Latvia/Lithuania) [Forum]
+ WP
+
+"Mit einem Tiger schlafen (Sleeping with a Tiger)" (Anja Salomonowitz, Austria) [Forum]
+ WP
+
+"Reas" (Lola Arias, Argentina/D/Switzerland) [Forum)]
+ WP. Doc
+
+"Republic" (Jin Jiang, Singapore/China 2023) [Forum]
+ European premiere. Doc
+
+FORUM EXPANDED
+
+SPECIAL
+
+RETROSPEKTIVE
+
+"Banale Tage" (Peter Welz, D 1991) [Retrospektive]
+
+"Chapeau Claque" (Ulrich Schamoni, BRD 1974) [Retrospektive]
+
+"Dark Spring" (Ingemo Engström, BRD 1970) [Retrospektive]
+
+"Denk bloß nicht, ich heule (Just Don't Think I'll Cry)" (Frank Vogel, DDR 1990) [Retrospektive]
+
+"Das deutsche Kettensägenmassaker (The German Chainsaw Massacre)" (Christoph Schlingensief, D 1990) [Retrospektive]
+
+"Die Deutschen und ihre Männer – Bericht aus Bonn" (Helke Sander, BRD 1989) [Retrospektive]
+ Doc
+
+"Die endlose Nacht" (Will Tremper, BRD 1963) [Retrospektive]
+
+"Engel aus Eisen" (Thomas Brasch, BRD 1980) [Retrospektive]
+
+"Fegefeuer (Purgatory)" (Haro Senft, BRD 1971) [Retrospektive]
+
+"Herzsprung" (Helke Misselwitz, D 1992) [Retrospektive]
+
+"Ich" (Bettina Flitner, BRD 1988) [Retrospektive]
+ WP
+
+"Im Land meiner Eltern (In the Country of My Parents)" (Jeanine Meerapfel, BRD 1981) [Retrospektive]
+ Doc
+
+"Jesus – Der Film" (Michael Brynntrup, BRD 1986) [Retrospektive]
+ Episodes from: Anarchistische GummiZelle, Jörg Buttgereit, Die Tödliche Doris / Chris Dreier, Birgit und Wilhelm Hein, Frontkino / Konrad Kaufmann, Intershop Gemeinschaft Wiggert, Dietrich Kuhlbrodt, Georg Ladanyi, Merve-Verlag, Giovanni Mimmo, Padeluun, Robert Paris und Andreas Hentschel, Schmelzdahin, Sputnik-Kino / Michael Wehmeyer, Stiletto, Teufelsberg Produktion / Die 2., Lisan Tibodo, VEB Brigade Zeitgewinn, Werkstattkino München / Doris Kuhn, Andreas Wildfang, Michael Brynntrup
+
+"Kismet, Kismet" (Ismet Elçi, BRD 1987) [Retrospektive]
+
+"Der kleine Godard. An das Kuratorium Junger Deutscher Film" (Hellmuth Costard, NRD 1978) [Retrospektive]
+ Doc
+
+"Leuchtkraft der Ziege – Eine Naturerscheinung (The Goat's Intensity)" (Jochen Kraußer, DDR 1988) [Retrospektive]
+ Doc
+
+"Macumba" (Elfi Mikesch, BRD 1982) [Retrospektive]
+
+"Nicht nichts ohne Dich" (Pia Frankenberg, BRD 1985) [Retrospektive]
+
+"Shirins Hochzeit (Shirin's Wedding)" (Helma Sanders-Brahms, BRD 1975) [Retrospektive]
+
+"Supermarkt (Supermarket)" (Roland Klick, BRD 1974) [Retrospektive]
+
+"Tobby" (Hansjürgen Pohland, BRD 1961) [Retrospektive]
+
+"Unsichtbare Tage oder Die Legende von den weißen Krokodilen" (Eva Hiller, D 1991) [Retrospektive]
+ WP. Doc
+
+"Zwei unter Millionen (Two Among Millions)" (Victor Vicas, Wieland Liebske, BRD 1961)
+
+WOCHE DER KRITIK
 
 EOF
 

@@ -229,6 +229,11 @@ sub _dump {
            push @sections, qw[Predictions];
        }
     }
+    if ($year == 2024) {
+       @sections = ($comp_section, "Encounters", "Panorama", "Generation",
+                    "Forum", "Forum Expanded",
+                    "Special", "Retrospektive", "Woche der Kritik" );
+    }
   }
   my %sections = map {$_=>1} @sections;
   my $section;
@@ -771,7 +776,7 @@ get '/BerlinaleAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2016-2022";
+  $all->{year} = "2016-2024";
   $all->{side_details} = _side_details(\%critic, \%title,
                                        \@{"$BASE\::rurban::2022::critics_group"});
   template lc($BASE), $all;
