@@ -857,6 +857,6 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-get '/' => sub { redirect '/Cannes2023'; };
+get '/' => sub { redirect '/Sundance2024'; };
 
 1;

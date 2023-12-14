@@ -7,7 +7,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = (2016..2023);
+our @YEARS = (2016..2024);
 our $comp_section = 'Wettbewerb';
 # "Encounters" 2020+
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
@@ -743,7 +743,8 @@ get '/Berlinale2020' => sub { _list(2020) };
 get '/Berlinale2021' => sub { _list(2021) };
 get '/Berlinale2022' => sub { _list(2022) };
 get '/Berlinale2023' => sub { _list(2023) };
-get '/Berlinale'     => sub { _list(2023) };
+get '/Berlinale2024' => sub { _list(2024) };
+get '/Berlinale'     => sub { _list(2024) };
 
 get '/BerlinaleAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
@@ -776,6 +777,6 @@ get '/BerlinaleAll' => sub {
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Berlinale2023'; };
+#get '/' => sub { redirect '/Berlinale2024'; };
 
 1;

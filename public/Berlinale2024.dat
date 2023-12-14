@@ -1,0 +1,228 @@
+package Berlinale::rurban::2024; # -*- perl -*-
+# Berlinale 2024 Critics Ratings
+#
+# complete lineup: ??
+
+use utf8;
+our $DATA= <<'EOF';
+
+WETTBEWERB
+
+ENCOUNTERS
+
+
+EOF
+
+our (@critics, @critics_group);
+my $i=0;
+$critics_group[$i] = "screendaily";
+$critics[$i++] = "
+Rita Di Santo (The Morning Star, UK)
+Paolo Bertolin (Rivista del Cinematografo, Italy)
+Katja Nicodemus (Die Zeit, Germany)
+Anton Dolin (Meduza/Film Art, Russia)
+Stephen Schaefer (The Boston Herald, US)
+Nick James (Sight & Sound, UK)
+Mathieu Macheret (Le Monde/Cahiers Du Cinéma, France)
+Screen International (Screen International, UK)
+";
+$critics_group[$i] = "critic.de";
+$critics[$i++] = "
+Adina Lauenburger (critic.de, Deutschland)
+Alexandra Zawia (Ray, Austria)
+Andrey Arnold (Die Presse, Austria)
+Arnaud Hée (Critikat.com, France)
+Boris Nelepo (Sceance.ru, Russia)
+Christoph Huber (Die Presse, Austria)
+Claudia Reinhard (critic.de, Deutschland)
+Dana Linssen (Filmkrant, Holland)
+Daniel Kasman (MUBI, USA)
+David Hudson (Fandor, USA)
+Dunja Bialas (artechock, Deutschland)
+Ekkehard Knörer (Cargo, Deutschland)
+Frédéric Jaeger (critic.de, Deutschland)
+G.Marchini Camia (Sight & Sound)
+Hannes Brühwiler (critic.de, Deutschland)
+Jenny Jecke (Moviepilot, Deutschland)
+Johannes Bluth (critic.de, Deutschland)
+Jonas Nestroy (critic.de, Deutschland)
+Karsten Munt (Berliner Zeitung, Deutschland)
+Kevin B. Lee (alsolikelife, USA)
+Martin Gobbin (Negativ, Deutschland)
+Maurice Lahde (critic.de)
+Michael Kienzl (critic.de, Deutschland)
+Nikolaus Perneczky (Perlentaucher, Deutschland)
+Nino Klingler (critic.de, Deutschland)
+Olga Baruk (critic.de, Deutschland)
+Pamela Biénzobas (Mabuse, Chile)
+Philipp Schwarz (critic.de, Deutschland)
+Rüdiger Suchsland (arteschock, Deutschland)
+Sonja M. Schultz (critic.de, Deutschland)
+Thomas Groh (Perlentaucher, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+";
+$critics_group[$i] = "fipresci";
+$critics[$i++] = "
+Alberto Ramos (FIPRESCI, Havana Int. Festival, Cuba)
+Andrea Martini (FIPRESCI, Italy)
+Barbara Lorey (FIPRESCI, France)
+Esin Kucuktepepinar (FIPRESCI, Turkey)
+Kerem Akca (FIPRESCI, Turkey)
+Kirsten Liese (FIPRESCI, Deutschland)
+Leo Bankersen (FIPRESCI, Holland)
+Lulia Blaga (FIPRESCI, Romania)
+Pamela Jahn (FIPRESCI, Deutschland)
+Paolo Portugal (FIPRESCI, Portugal)
+Philip Bergson (FIPRESCI, UK)
+Jana Podskalska (FIPRESCI, Czech)
+Steven Yates (FIPRESCI, UK)
+Thomas Abeltshauser (FIPRESCI, Deutschland)
+Ugo Brusaporco (FIPRESCI, Italy)
+Verena Schmöller (FIPRESCI, Deutschland)
+";
+$critics_group[$i] = "letterboxd";
+$critics[$i++] = "
+Alex Hodge (Film student, Australia)
+Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
+Antonio Dakeyras (Deutschland)
+Aristea Tomopoulou (Filmmaker, Greece)
+Aurel Graf (Maximum Cinema, Schweiz)
+Bradley Porter (Filmmaker, GB)
+Bumstead (Deutschland)
+D W Mault (Filmmaker, UK)
+Eddie Falvey (One Room With A View, GB)
+Felix H. (Dis+Positiv, Deutschland)
+Hannah Woodhead (Little White Lies, UK)
+Hoss Ghonouie (Everyman Cinemas, GB)
+Jasper Behrensdorf (Leibniz Universität Hannover, Deutschland)
+John Tikis (Musician, Greece)
+Konrad Kögler (Das Kulturblog, Deutschland)
+Marvin Meiendresch (Filmmaker, Deutschland)
+Matthias Hopf (dasfilmfeuilleton.de blog, Deutschland)
+Ole Johnny Fossås (Jump Cut, Norway)
+Pablo Villaça (Cinema em Cena, Brasil)
+Ron Junghans (jay-carpet.com, Deutschland)
+Serena Scateni (cinematographe.it, Scotland)
+Stavros Tagres (GB)
+Vytenis Galvėnas (Vilnius University, Lithuania)
+Werner Hochbaum-Schrein (negativespace.blogger.de, Deutschland)
+";
+$critics_group[$i] = "None";
+$critics[$i++] = "
+A.A. Dowd (The A.V. Club, USA)
+Adam Chitwood (Collider, USA)
+Alex Billington (FirstShowing.net)
+Alex Ritman (The Hollywood Reporter, UK)
+Alison Willmore (BuzzFeed, USA)
+Alissa Wilkinson (Christianity Today, USA)
+Allan Hunter (Screen International, UK)
+Andre Simonoveisz	(Filmuforia)
+Angie Han (Slash, USA)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Anne Thompson (Indiewire, USA)
+Anthony Kaufman (Screen International, USA)
+Arman Fatic (Duart.hr, Croatia)
+Barbara Demerov (Adoro cinema, Argentina)
+Beatrice Behn (Kino-Zeit, Deutschland)
+Ben Delgado (Coral Gables Art Cinema, USA)
+Ben Flanagan	(Slant Magazine)
+Ben Kenigsberg (Variety, USA)
+Ben Smith (UK)
+Ben Travers (Indiewire, USA)
+Bilge Ebiri  (Vulture, USA)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, USA)
+Brian Moylan  (The Guardian, UK)
+Bruno Carmelo (Papo De Cinema, Brasil)
+Bryan Bishop (The Verge, USA)
+Carlos Aguilar (Indiewire, USA)
+Carmen Paddock	(One Room With A View, UK)
+Carolin Weidner (Tip, Deutschland)
+Chris Knipp	(Writing: Movies)
+Christian Ihle (TAZ Popblog, Deutschland)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, USA)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, USA)
+Daniel Mecca (The Film Stage, USA)
+Darren Hughes (The Public Cinema, Big Ears Festival, USA)
+David D'Arcy (Screen International, USA)
+David Ehrlich (Indiewire, USA)
+David Rooney  (The Hollywood Reporter, USA)
+Deborah Young (The Hollywood Reporter, UK)
+Diego Semerene	(Slant Magazine)
+Ed Gibbs (The Guardian, UK)
+Egor Belikov (kinoart.ru, Russia)
+Fabian Wallmeier (rbb24, Deutschland)
+Fabricio Duque (Vertentes Do Cinema, Brasil)
+Guy Lodge (Variety, USA)
+Harald Mühlbeyer (Kino-Zeit, Deutschland)
+Helena Lindblad (Dagens Nyherer, Schweden)
+James McAllister (Culture Fly, GB)
+Jan Küveler (Welt, Deutschland)
+Jay Weissberg (Variety, Italy)
+Jean-Christophe Simon (Films Boutique, Deutschland)
+Jessica Kiang (The Playlist, USA)
+Joachim Kurz (Kino-Zeit, Deutschland)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
+Joseph Owen	(The Upcoming)
+Keith Uhlich	(Slant Magazine)
+Laura Clifford	(Reeling Reviews)
+Lee Marshall (Screen International, UK)
+Lilla Gyöngyösi (Ex-Journalist, Hungary)
+Lukas Foerster (Perlentaucher, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+Mauricio Ribeiro (Spoilermovies, Brasil)
+Miriam Bale (MUBI, USA)
+Nandor Toth (Filmtekercs.hu, Hungary)
+Neil Young (RogerEbert.com, GB)
+Nick James	(Sight & Sound)
+Noel Murray (The Playlist, USA)
+Oliver Johnston (The Upcoming, UK)
+Otto Kylmälä (Loud Silents Festival, Lithuania)
+Peter Bradshaw (The Guardian, UK)
+Peter Debruge (Variety, USA)
+Redmond Bacon (Cultured Vultures, UK)
+Rendy Jones	(Rendy Reviews)
+Robert Daniels	(812 Film Reviews)
+Rory O’Connor (Film Stage, UK)
+Sarah Ward (Screen International, UK)
+Scout Tafoya	(Roger Ebert)
+Stephen Dalton (The Hollywood Reporter, UK)
+Stephen Farber (The Hollywood Reporter, UK)
+Stephen Whitty	(Screen Daily, UK)
+Thekla Dannenberg (Perlentaucher, Deutschland)
+Theo MacDonald (Scenes Journal, UK)
+Thierry Chervel (Perlentaucher, Deutschland)
+Wang Muyan (The Paper, China)
+Wellington Almeida (Huffpost Brazil, Deutschland)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Wettbewerb: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-ratings/blob/master/public/Berlinale2023.dat
+
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
