@@ -223,16 +223,16 @@ sub _dump {
                     "Perspektive Deutsches Kino", "Perspektive Gast",
                     "Perspektive Match", "Forum", "Forum Expanded",
                     "Special", "Retrospektive", "Woche der Kritik" );
-       # show predictions until this date
-       my $finaldate = Time::Piece->strptime('1 February 2023', '%d %B %Y')->epoch;
-       if (CORE::time() < $finaldate) {
-           push @sections, qw[Predictions];
-       }
     }
-    if ($year == 2024) {
+    if ($year == 2024) { # no Perspektive
        @sections = ($comp_section, "Encounters", "Panorama", "Generation",
                     "Forum", "Forum Expanded",
                     "Special", "Retrospektive", "Woche der Kritik" );
+       # show predictions until this date
+       my $finaldate = Time::Piece->strptime('1 February 2024', '%d %B %Y')->epoch;
+       if (CORE::time() < $finaldate) {
+           push @sections, qw[Predictions];
+       }
     }
   }
   my %sections = map {$_=>1} @sections;
