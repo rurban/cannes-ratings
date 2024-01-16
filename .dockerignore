@@ -1,0 +1,13 @@
+build
+test
+*.dat
+sun*
+ber*
+c2*
+*.lst
+tmp
+*.bzip
+*.html
+*.test
+*.csv
+TAGS
