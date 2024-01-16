@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM docker.io/debian
 ARG DEBIAN_FRONTEND=noninteractive
 RUN set -ex; \
     apt-get update && \
