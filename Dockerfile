@@ -1,12 +1,10 @@
-FROM docker.io/sherwind/dancer
-#FROM debian
+FROM debian:latest
 ARG DEBIAN_FRONTEND=noninteractive
-ENV DANCER_ENVIRONMENT production
-#RUN set -ex; \
-#    apt-get update && \
-#    apt-get dist-upgrade -y && \
-#    apt-get -qq -y --no-install-recommends install \
-#      libdancer-perl libplack-perl libplack-middleware-deflater-perl
+RUN set -ex; \
+    apt-get update && \
+    apt-get dist-upgrade -y && \
+    apt-get -qq -y --no-install-recommends install \
+      libdancer-perl libplack-perl libplack-middleware-deflater-perl
 #       & apt-get -y autoremove & apt-get clean \
 #       ; \
 #    rm -rf /var/lib/apt/lists/* ; \
