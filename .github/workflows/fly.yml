@@ -12,5 +12,5 @@ jobs:
         - uses: actions/checkout@v2
         - uses: superfly/flyctl-actions/setup-flyctl@master
         - run: sudo apt-get -y --no-install-recommends install libdancer-perl
-        - run: for f in app.psgi bin/app.pl lib/*.pm lib/**/*.pm public/*.dat; do perl -cw $f; done
+        - run: for f in app.psgi bin/app.pl lib/**/*.pm public/*.dat; do perl -cw $f; done
         - run: flyctl deploy --remote-only
