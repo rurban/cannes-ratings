@@ -19,6 +19,13 @@ Allow: /Berlinale
 Disallow: /
 Disallow: /*?*
 
+User-agent: PetalBot
+Allow: /Cannes
+Allow: /Sundance
+Allow: /Berlinale
+Disallow: /
+Disallow: /*?*
+
 User-agent: archive.org_bot
 Allow: /Cannes
 Allow: /Sundance
