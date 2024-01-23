@@ -6,6 +6,7 @@ plackup.sh
 /Cannes20*.html
 /Cannes20*.dat
 public/Berlinale202x.dat
+/current.pl
 /todas.pl
 todas20[0-9][0-9].dat
 todas20[0-9][0-9].html
@@ -73,7 +74,7 @@ imdb-ratings.csv
 *-recovery-codes.txt
 public/*20*.dat.bak
 /up.sh
-/imdb-b2*.lst
+/imdb-*.lst
 /imdb.dat
 /imdb.dat.bak
 /imdb.db

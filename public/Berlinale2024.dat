@@ -8,7 +8,128 @@ our $DATA= <<'EOF';
 
 WETTBEWERB
 
+"Another End" (Piero Messina, Italy) [Wettbewerb]
+ WP
+
+"Architecton" (Victor Kossakovsky, D/F) [Wettbewerb]
+ WP, Doc
+
+"Black Tea" (Abderrahmane Sissako, Maur) [Wettbewerb]
+ WP
+
+"La Cocina" (Alonso Ruizpalacios, Mex) [Wettbewerb]
+ WP
+
+#letterboxd
+jmiguelalvarez      10
+Edgar Méndez        9
+Juan_0              8
+anthony_18          8
+Candamil            7
+JuanVasallo         6
+
+"Dahomey" (Mati Diop, F/Senegal/Benin) [Wettbewerb]
+ WP, Doc
+
+"A Different Man" (Aaron Schimberg, USA 2023) [Wettbewerb]
+ IP
+
+"The Empire (L’ Empire)" (Bruno Dumont, F) [Wettbewerb]
+ WP
+
+#letterboxd
+cinephiliaverite    8
+Arnaud              6
+Raspou              3
+PierreNcls          2
+mister_t_sam        2
+
+"Gloria!" (Margherita Vicario, I/SUI) [Wettbewerb]
+ WP, 1st
+
+"Suspended Time (Hors du temps)" (Olivier Assayas, F)
+ WP
+
+"In Liebe, Eure Hilde (From Hilde, With Love)" (Andreas Dresen, D) [Wettbewerb]
+ WP
+
+"My Favourite Cake (Keyke mahboobe man)" (Maryam Moghaddam/Behtash Sanaeeha, Iran) [Wettbewerb]
+ WP
+
+"Langue Étrangère" (Claire Burger, France) [Wettbewerb]
+ WP
+
+"Who Do I Belong To (Mé el Aïn)" (Meryam Joobeur, Tunisia) [Wettbewerb]
+ WP, 1st
+
+"Pepe" (Nelson Carlos De Los Santos Arias, Dominican Republic) [Wettbewerb]
+WP
+
+"Shambhala" (Min Bahadur Bham, Nepal) [Wettbewerb]
+WP
+
+"Small Things Like These (Kleine Dinge wie diese)" (Tim Mielants, IR/B) [Wettbewerb]
+ WP, Opening film
+
+"Sterben (Dying)" (Matthias Glasner, D) [Wettbewerb]
+ WP, with Corinna Harfouch, Lars Eidinger, Lilith Stangenberg, Ronald Zehrfeld, Robert Gwisdek
+
+"Des Teufels Bad (The Devil’s Bath)" (Veronika Franz, Severin Fiala, Aus/D) [Wettbewerb]
+ WP, with Anja Plaschg, David Scheid, Maria Hofstätter
+
+"Sons (Vogter)" (Gustav Möller, Den/Sw) [Wettbewerb]
+ WP
+
+"A Traveler’s Needs (Yeohaengjaui pilyo)" (Hong Sangsoo, Kor) [Wettbewerb]
+ WP
+
 ENCOUNTERS
+
+"Arcadia" (Yorgos Zois, Greece / Bulgaria / USA) [Encounters]
+ WP
+
+"Cidade; Campo" (Juliana Rojas, Brazil) [Encounters]
+ WP
+
+"Demba" (Mamadou Dia, Senegal) [Encounters]
+ WP
+
+"Direct Action" (Guillaume Cailleau, Ben Russell, D/F) [Encounters]
+ WP, Doc
+
+"Sleep With Your Eyes Open (Dormir de olhos abertos)" (Nele Wohlatz, Brazil) [Encounters]
+ WP
+
+"The Fable" (Raam Reddy, India) [Encounters]
+ WP
+
+"A Family (Une famille)" (Christine Angot, France) [Encounters]
+ WP, Doc, 1st
+
+"Favoriten" (Ruth Beckermann, Austria) [Encounters]
+ WP, Doc
+
+"Ivo" (Eva Trobisch, Germany) [Encounters]
+ WP
+
+"The Great Yawn (Khamyazeye bozorg)" (Aliyar Rasti, Iran) [Encounters]
+ WP, 1st
+
+"Some Rain Must Fall (Kong fang jian li de nv ren)" (Qiu Yang, China) [Encounters]
+ WP, 1st
+
+"Hands in the Fire (Mãos no fogo)" (Margarida Gil, Por) [Encounters]
+ WP
+
+"Matt and Mara" (Kazik Radwanski, Can) [Encounters]
+ WP
+
+"Through the Graves the Wind is Blowing" (Travis Wilkerson, USA) [Encounters]
+ WP
+
+"Tú me abrasas (You Burn Me)" (Matías Piñeiro, Arg/Sp) [Encounters]
+ WP
+
 
 PANORAMA
 
@@ -76,7 +197,7 @@ cassinema           7
 
 GENERATION
 
-"Comme le feu (Who by Fire)" (Philippe Lesage, Canada/France 2024) [Generation]
+"Comme le feu (Who by Fire)" (Philippe Lesage, Can/F) [Generation]
  Generation 14plus | WP
 
 "Disco Afrika : une histoire malgache (Disco Afrika: A Malagasy Story)" (Luck Razanajaona, France/Madagascar/D/Mauritius/South Africa/Qatar 2023) [Generation]
@@ -85,22 +206,22 @@ GENERATION
 #letterboxd
 Letterboxd 7_Ratings	5.17  https://letterboxd.com/film/disco-afrika-a-malagasy-story/
 
-"Ellbogen (Elbow)" (Aslı Özarslan, D/Turkey/France 2024) [Generation]
+"Ellbogen (Elbow)" (Aslı Özarslan, Tur) [Generation]
  Generation 14plus | WP
 
 #letterboxd
 Justine             5
 
-"Fox and Hare Save the Forest" (Mascha Halberstad, NL/B/Luxembourg 2024) [Generation]
+"Fox and Hare Save the Forest" (Mascha Halberstad, NL/B/Lux) [Generation]
  Generation Kplus | WP | Animation
 
-"Los tonos mayores (The Major Tones)" (Ingrid Pokropek, Argentina/Spain 2023) [Generation] <i>Mar del Plata</i>
+"Los tonos mayores (The Major Tones)" (Ingrid Pokropek, Arg/Sp 2023) [Generation] <i>Mar del Plata</i>
  Generation Kplus | IP | 1st
 
 #letterboxd
 Letterboxd 209_Ratings	8.11  https://letterboxd.com/film/the-major-tones/
 
-"Sieger Sein (Winners)" (Soleen Yusef, D 2024) [Generation]
+"Sieger Sein (Winners)" (Soleen Yusef, D) [Generation]
  Generation Kplus | WP
 
 
@@ -144,7 +265,7 @@ FORUM EXPANDED
 "The Perfect Square" (Gernot Wieland, D/B 2023) [Forum Expanded]
  WP
 
-"Quebrante" (Janaina Wagner, Brazil 2024) [Forum Expanded]
+"Quebrante" (Janaina Wagner, Brazil) [Forum Expanded]
  IP
 
 "Sarcophagus of Drunken Loves" (Joana Hadjithomas & Khalil Joreige, France/Lebanon 2023) [Forum Expanded]
@@ -152,22 +273,52 @@ FORUM EXPANDED
 
 SPECIAL
 
-"Cuckoo" (Tilman Singer, D 2024) [Special]
+"At Averroes & Rosa Parks (Averroès & Rosa Parks)" (Nicolas Philibert, F) [Special]
+ WP, Doc
+
+"The Roundup: Punishment (Beom-Joe-do-si 4)" (Heo Myeong-haeng, Kor) [Special]
+ WP, Berlinale Special Gala
+
+"Cuckoo" (Tilman Singer, D) [Special]
  WP
 
 #letterboxd
 Letterboxd 52_Ratings	6.63  https://letterboxd.com/film/cuckoo-2024/
 
-"Dostoevskij (Dostoevsky)" (Damiano & Fabio D’Innocenzo, Italy 2024) [Special]
+"Dostoevskij (Dostoevsky)" (Damiano & Fabio D’Innocenzo, Italy) [Special]
  WP, TV Series
 
-"Sasquatch Sunset" (David & Nathan Zellner, USA 2024) [Special] <i>Sundance</i>
+"Elf Mal Morgen: Berlinale Meets Fußball" (Maximilian Bungarten,Anna-Maria Dutoit,... D) [Special]
+ WP, Doc
+
+"exergue – on documenta 14" (Dimitris Athiridis, Greece) [Special]
+World premiere | Documentary Form
+
+"Filmstunde_23 (Subject: Filmmaking)" (Jörg Adolph, Edgar Reitz, D) [Special]
+ World premiere | Documentary Form
+
+"The Box Man (Hako Otoko)" (Gakuryu Ishii, Japan) [Special]
+ WP
+
+"Das leere Grab (The Empty Grave)" (Agnes Lisa Wegner, Cece Mlay, D/Tanzania) [Special]
+ WP, Doc
+
+"Love Lies Bleeding" (Rose Glass, USA/UK 2023) [Special]
+ IP
+
+"Made in England: The Films of Powell and Pressburger" (David Hinton, UK) [Special]
+ WP, Doc
+
+"Shikun" (Amos Gitai, Israel) [Special]
+ WP
+
+"Sasquatch Sunset" (David & Nathan Zellner, USA) [Special] <i>Sundance</i>
  IP
 
 #letterboxd
 Letterboxd 4_Ratings	5.75  https://letterboxd.com/film/sasquatch-sunset/
 
-"Seven Veils" (Atom Egoyan, Canada 2023) [Special] <i>Toronto</i>
+"Seven Veils" (Atom Egoyan, Can 2023) [Special] <i>Toronto</i>
   IP
 
 #letterboxd
@@ -179,10 +330,16 @@ Letterboxd 434_Ratings	6.40  https://letterboxd.com/film/seven-veils/
 #letterboxd
 Letterboxd 23_Ratings	9.0  https://letterboxd.com/film/spaceman-2024/
 
-"Treasure" (Julia von Heinz, D/France 2024) [Special]
+"Supersex" (Francesca Manieri, Italy) [Special]
+ WP, TV Series
+
+"Treasure" (Julia von Heinz, D/F) [Special]
  WP
 
-"Wu Suo Zhu (Abiding Nowhere)" (Tsai Ming-liang, Taiwan/USA 2024) [Special]
+"Turn in the Wound" (Abel Ferrara (UK/D/I/USA) [Special]
+ WP, Doc
+
+"Abiding Nowhere (Wu Suo Zhu)" (Tsai Ming-liang, Taiwan/USA) [Special]
  WP. Doc
 
 RETROSPEKTIVE
@@ -310,19 +467,10 @@ Letterboxd 268_Ratings	6.40  https://letterboxd.com/film/kohlhiesels-daughters-1
 
 PREDICTIONS
 
-"The Empire"  [Predictions]
-
-#letterboxd
-cinephiliaverite    8
-Arnaud              6
-Raspou              3
-PierreNcls          2
-mister_t_sam        2
-
 "13 Sentimentos"  [Predictions]
 
 
-"All the Long Nights" (Sho Miyake, J 2024) [Predictions]
+"All the Long Nights" (Sho Miyake, J) [Predictions]
 
 #letterboxd
 𝐚𝐦𝐞𝐥𝐢𝐚              10
@@ -363,10 +511,7 @@ tompenny            6
 "Death and the Maiden"  [Predictions]
 
 
-"The Devil's Bath"  [Predictions]
-
-
-"Enterre Seus Mortos (Bury Your Dead)" (Marco Dutra, Brazil 2024) [Predictions]
+"Enterre Seus Mortos (Bury Your Dead)" (Marco Dutra, Brazil) [Predictions]
  Horror Sci-Fi
 
 #letterboxd
@@ -443,16 +588,6 @@ Letterboxd 33_Ratings	8.02  https://letterboxd.com/film/madame-hofmann/
 
 "The Sparrow in the Chimney"  [Predictions]
 
-
-"La Cocina"  [Predictions]
-
-#letterboxd
-jmiguelalvarez      10
-Edgar Méndez        9
-Juan_0              8
-anthony_18          8
-Candamil            7
-JuanVasallo         6
 
 "The Seasons"  [Predictions]
 
@@ -536,10 +671,6 @@ Letterboxd 11_Ratings	3.30  https://letterboxd.com/film/le-moliere-imaginaire/
 Letterboxd 12_Ratings	7.1  https://letterboxd.com/film/los-andes/
 
 "Power"  [Predictions]
-
-
-"Vogter"  [Predictions]
-
 
 "Twilight of the Warriors: Walled In"  [Predictions]
 
