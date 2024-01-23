@@ -226,7 +226,7 @@ sub _dump {
     }
     if ($year == 2024) { # no Perspektive
        @sections = ($comp_section, "Encounters", "Panorama", "Generation",
-                    "Forum", "Forum Expanded",
+                    "Forum", "Forum Expanded", "Forum Special",
                     "Special", "Retrospektive", "Woche der Kritik" );
        # show predictions until this date
        my $finaldate = Time::Piece->strptime('1 February 2024', '%d %B %Y')->epoch;
