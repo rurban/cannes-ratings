@@ -367,7 +367,7 @@ sub _dump {
     next if $l =~ m{</i>$}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
-      next if $year - $lyear > 1;
+      next if $year - $lyear >= 1;
       # in the 2 New sections skip old films with prev:
       next if grep /^(Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
