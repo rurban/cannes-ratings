@@ -80,6 +80,9 @@ public/*20*.dat.bak
 /imdb.db
 /imdb.pl
 /?2?-lb.sh
-ber*.tar.bzip
-c*.tar.bzip
-sun*.tar.bzip
+*dat.gz
+*dat.old.gz
+*html.gz
+ber*.tar.bz
+c*.tar.bz
+sun*.tar.bz
