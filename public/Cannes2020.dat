@@ -1,6 +1,6 @@
 package Cannes::rurban::2020; # -*- perl -*-
 # Cannes 2020 Critics Ratings, May 12-23??
-# Published at https://cannes-ratings.tk/Cannes2020
+# Published at https://cannes-ratings.org/Cannes2020
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
 # US ratings:

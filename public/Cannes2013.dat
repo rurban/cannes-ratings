@@ -10,7 +10,7 @@ package Cannes::rurban::2013; # -*- perl -*-
 # us: http://www.indiewire.com/article/cannes-2012-a-guide-to-all-the-films
 # http://www.indiewire.com/critic/
 # http://www.guardian.co.uk/film/series/first-look-review+cannes-2013
-# Published at https://cannes-ratings.tk/2013
+# Published at https://cannes-ratings.org/2013
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013
 # US ratings:

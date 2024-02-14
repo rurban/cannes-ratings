@@ -675,7 +675,7 @@ sub _list {
   $vars->{year} = $year;
   $vars->{REDIRECT_HEAD} = '';
   $vars->{REDIRECT_BODY} = '';
-#  my $redir = 'https://cannes-ratings.tk'.request->path;
+#  my $redir = 'https://cannes-ratings.org'.request->path;
 #  if (request->uri_base =~ /\Qcannes-ratings.herokuapp.com\E/) {
 #      $vars->{REDIRECT} = '<meta http-equiv="refresh" content="5; url='.$redir.'" />
 #<script type="text/javascript">
@@ -686,7 +686,7 @@ sub _list {
 #  if (request->uri_base =~ /\Qcannes-ratings.herokuapp.com\E/ ||
 #      request->uri_base =~ /\Qlocalhost\E/)
 #  {
-#      $vars->{REDIRECT_BODY} = '<h3>We moved to <a href="'.$redir.'">cannes-ratings.tk</a>, because our free provider Heroku closed all free cloud services. Redhat did that previously. Update your bookmarks please.</h3>';
+#      $vars->{REDIRECT_BODY} = '<h3>We moved to <a href="'.$redir.'">cannes-ratings.org</a>, because our free provider Heroku closed all free cloud services. Redhat did that previously. Update your bookmarks please.</h3>';
 #  }
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;

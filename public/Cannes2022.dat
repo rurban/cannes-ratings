@@ -1,6 +1,6 @@
 package Cannes::rurban::2022; # -*- perl -*-
 # Cannes 2022 Critics Ratings, May 17-28
-# Published at https://cannes-ratings.tk/Cannes2022
+# Published at https://cannes-ratings.org/Cannes2022
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
 # US ratings:

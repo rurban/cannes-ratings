@@ -1,6 +1,6 @@
 package Cannes::rurban::2023; # -*- perl -*-
 # Cannes 2023 Critics Ratings, May 16-27
-# Published at http://cannes-ratings.tk/Cannes2023
+# Published at http://cannes-ratings.org/Cannes2023
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
 # US ratings:

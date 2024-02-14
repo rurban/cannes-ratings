@@ -13,7 +13,7 @@ package Cannes::rurban::2015; # -*- perl -*-
 # http://www.indiewire.com/critic/
 # http://www.theguardian.com/film/cannes-2015
 #
-# Published at https://cannes-ratings.tk/2015
+# Published at https://cannes-ratings.org/2015
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010, 2011, 2012, 2013, 2014, 2015
 # US ratings:

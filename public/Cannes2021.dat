@@ -1,6 +1,6 @@
 package Cannes::rurban::2021; # -*- perl -*-
 # Cannes 2021 Critics Ratings, July 6-17
-# Published at https://cannes-ratings.tk/Cannes2021
+# Published at https://cannes-ratings.org/Cannes2021
 # History at https://github.com/rurban/cannes-critics-ratings
 # Perl script by Reini Urban (c) 2010-2020
 # US ratings:
