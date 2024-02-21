@@ -467,6 +467,7 @@ sub _dump {
     my ($l,$a,$n,$t) = @{$_};
     $numratings += $n;
     next unless $t;
+    next if $title{$t}->{section} =~ /^(Predictions|Other)$/;
     my $s = sprintf("%0.1f",$title{$t}->{stddev}?$title{$t}->{stddev}:0); 
     $l="<i>$l</i>" if $s>=2.0;
     if ($l =~ / \[\Q$comp_section\E\]/) { 
