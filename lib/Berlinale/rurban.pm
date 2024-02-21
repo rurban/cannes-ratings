@@ -361,7 +361,7 @@ sub _dump {
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
     next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
-    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match)$/;
+    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match|Other)$/;
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
     next if $l =~ m{</i>$}; # other festivals
@@ -391,7 +391,7 @@ sub _dump {
     my $n=$title{$t}->{num}; 
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
-    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match)$/;
+    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match|Other)$/;
     next if $l =~ / 19\d\d\)$/;
     next if $l =~ / 200\d\)$/;
     next if $l =~ /<i>/; # other festivals
