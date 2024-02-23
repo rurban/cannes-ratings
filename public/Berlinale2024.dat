@@ -29812,7 +29812,6 @@ Martin Gobbin         4
  60 Min, WP
 
 EOF
-Till Kadritzke        6
 
 our (@critics, @critics_group);
 my $i=0;
