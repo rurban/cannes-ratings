@@ -31830,7 +31830,6 @@ Wyatt Exists        1
 
 "BAD DIRECTOR" [Predictions]
 
-
 "2:1" [Predictions]
 
 "Comme un fils" [Predictions]
@@ -31843,11 +31842,13 @@ WOCHE DER KRITIK
 "Dicks: The Musical" (Larry Charles, USA 2023) [Woche der Kritik]
  DP
 
+#critic.de
 Frédéric Jaeger       5
 
 "Tedious Days and Nights" (Zhenming Guo, CN 2023) [Woche der Kritik]
  EP
 
+#critic.de
 Martin Gobbin         4
 
 "Abendland" (Omer Fast, D) [Woche der Kritik]
@@ -31859,8 +31860,10 @@ Martin Gobbin         4
 "Wikiriders" (Clara Winter, Miiel Ferráez, Megan Marsh, MX/D) [Woche der Kritik]
  60 Min, WP
 
-EOF
+#critic.de
 Till Kadritzke        6
+
+EOF
 
 our (@critics, @critics_group);
 my $i=0;
