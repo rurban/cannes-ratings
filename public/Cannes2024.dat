@@ -1567,7 +1567,7 @@ our $FOOTER = "
 <pre>
 --
 Lists:
-https://letterboxd.com/seanliu/list/cannes-2024/
+https://letterboxd.com/seanliu/list/what-we-can-expect-from-cannes-2024s-slate/
 Source & History:
 https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2024.dat 
 </pre>";
