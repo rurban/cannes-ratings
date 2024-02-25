@@ -783,6 +783,6 @@ get '/BerlinaleAll' => sub {
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Berlinale2024'; };
+get '/' => sub { redirect '/Berlinale2024'; };
 
 1;
