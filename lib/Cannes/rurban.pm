@@ -12,11 +12,11 @@ our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quin
                  "Semaine", "ACID", "Other"); #, "Predictions"
 
 sub us_rating {
-  my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
+  my $r = {'A+' => 10,  'A' => 9,   'A-' => 8,
            'B+' => 7,   'B' => 6,   'B-' => 5,
-           'C+' => 4,   'C' => 3,   'C-' => 2, 
-           'D+' => 1.5, 'D' => 1,   'D-' => 1, 
-           'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5, 
+           'C+' => 4,   'C' => 3,   'C-' => 2,
+           'D+' => 1.5, 'D' => 1,   'D-' => 1,
+           'E+' => 0.5, 'E' => 0.5, 'E-' => 0.5,
            'F+' => 0,   'F' => 0,   'F-' => 0};
   return $r->{$_[0]};
 }
