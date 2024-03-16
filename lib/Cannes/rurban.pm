@@ -705,7 +705,7 @@ sub _list {
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
   if ($year eq '2024') {
-    my $pressdate = Time::Piece->strptime('14 March 2024', '%d %B %Y')->epoch;
+    my $pressdate = Time::Piece->strptime('11 April 2024', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
       @sections = qw[Predictions];
     }
@@ -868,6 +868,6 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Cannes2024'; };
+get '/' => sub { redirect '/Cannes2024'; };
 
 1;
