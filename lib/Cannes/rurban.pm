@@ -707,9 +707,9 @@ sub _list {
   if ($year eq '2024') {
     my $pressdate = Time::Piece->strptime('11 April 2024', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
-      @sections = qw[Predictions];
+      #@sections = qw[Predictions]; # $comp_section
+      @sections = ("Out Of Competition", "Predictions");
     }
-    # @sections = ($comp_section, "Out Of Competition", "Predictions");
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
                  "Semaine", "ACID", "Other");
