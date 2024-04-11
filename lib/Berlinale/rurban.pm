@@ -779,7 +779,7 @@ get '/BerlinaleAll' => sub {
   my $all = _dump( \%critic, \%title, \@t);
   $all->{year} = "2016-2024";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2022::critics_group"});
+                                       \@{"$BASE\::rurban::2024::critics_group"});
   template lc($BASE), $all;
 };
 

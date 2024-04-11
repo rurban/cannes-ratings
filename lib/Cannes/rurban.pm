@@ -863,7 +863,7 @@ get '/all' => sub {
   {
     no strict 'refs';
     $all->{side_details} = _side_details(\%critic, \%title, 
-                             \@{"$BASE\::rurban::2022::critics_group"});
+                             \@{"$BASE\::rurban::2024::critics_group"});
   }
   template lc($BASE), $all;
 };
