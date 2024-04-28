@@ -1487,9 +1487,138 @@ Jean-Philippe Guerand 4
 
 QUINZAINE
 
+#short films
+#"APRÈS LE SOLEIL (After the Sun)" (Rayane Mcirdi ) [Quinzaine]
+#"EXTREMELY SHORT (Totemo mijikai)"  (Kōji Yamamura) [Quinzaine]
+#"IMMACULATA (Kim Lêa Sakkal)" [Quinzaine]
+#"LES MÉTÉOS D’ANTOINE (Antoine, Élise and Léandre)"  (Jules Follet) [Quinzaine]
+#"MULBERRY FIELDS (Một lần dang dở)"  (Nguyễn Trung Nghĩa) [Quinzaine]
+#"OUR OWN SHADOW (Nuestra sombra)"  (Agustina Sánchez Gavier ) [Quinzaine]
+#"THE MOVING GARDEN (O jardim em movimento)"  (Inês Lima) [Quinzaine]
+#"VERY GENTLE WORK (Travail très soigné)"  (Nate Lavey) [Quinzaine]
+#"WHEN THE LAND RUNS AWAY (Quando a terra foge)"  (Frederico Lobo) [Quinzaine]
+
+"This Life of Mine (MA VIE MA GUEULE)" (Sophie Fillières) [Quinzaine] Opener
+
+
+"In His Own Image (À SON IMAGE)" (Thierry de Peretti) [Quinzaine]
+
+
+"CHRISTMAS EVE IN MILLER’S POINT"  (Tyler Taormina) [Quinzaine]
+
+
+"DESERT OF NAMIBIA (Namibia no sabaku)"  (Yôko ) [Quinzaine]
+
+
+
+"EAST OF NOON (Sharq 12)"  (Hala Elkoussy) [Quinzaine]
+
+
+"EAT THE NIGHT"  (Caroline Poggi & Jonathan ) [Quinzaine]
+
+
+"EEPHUS" (Carson Lund) [Quinzaine]
+ 1st
+
+"GAZER" (Ryan J. Sloan) [Quinzaine]
+ 1st
+
+
+"GHOST CAT ANZU (Bakeneko Anzu-chan / Anzu, chat-fantôme)"  (Yôko Kuno & Nobuhiro Yamashita ) [Quinzaine]
+
+
+"GOOD ONE (India Donaldson)" [Quinzaine]
+ 1st
+
+
+"MONGREL (白衣蒼狗)" (Chiang Wei Liang & You Qiao Yin) [Quinzaine]
+ 1st
+
+
+"Visiting Hours (LA PRISONNIÈRE DE BORDEAUX)"  (Patricia Mazuy ) [Quinzaine]
+
+
+
+"SAVANNA AND THE MOUNTAIN (A savana e a montanha)" (Paulo Carneiro ) [Quinzaine]
+
+
+
+"SISTER MIDNIGHT"  (Karan Kandhari) [Quinzaine]
+
+
+
+"SOMETHING OLD, SOMETHING NEW, SOMETHING BORROWED (Algo viejo, algo nuevo, algo prestado)" (Hernán Rosselli) [Quinzaine]
+
+
+
+"THE FALLING SKY (A queda do céu / La Chute du ciel)"  (Eryk Rocha & Gabriela Carneiro da Cunha) [Quinzaine]
+
+
+"THE HYPERBOREANS (Los hiperbóreos)" (Cristóbal León & Joaquín Cociña) [Quinzaine]
+
+
+"THE OTHER WAY AROUND (Volveréis / Septembre sans attendre)" (Jonás Trueba) [Quinzaine]
+
+
+"TO A LAND UNKNOWN" (Mahdi Fleifel) [Quinzaine]
+
+
+"Universal Language (UNE LANGUE UNIVERSELLE)"  (Matthew Rankin) [Quinzaine]
+
+
+"Plastic Guns (LES PISTOLETS EN PLASTIQUE)" (Jean-Christophe Meurisse) [Quinzaine] Closing film
+
+
+"American Stories: Food, Family and Philosophy" (Chantal Akerman) [Quinzaine]
+ Séance Spéciale
+
+
 SEMAINE
 
+"Ghost Trail (Les Fantômes)" (Jonathan Millet, F/D/B) [Semaine] Opener
+
+"Baby" (Marcelo Caetano, B/F/NL) [Semaine]
+
+"Blue Sun Palace" (Constance Tsang, US) [Semaine]
+
+"Julie Keeps Quiet (Julie zwijgt)" (Leonardo Van Dijl, B/S) [Semaine]
+
+"Locust" (KEFF, Tai/F/US) [Semaine]
+
+"Block Pass (La Pampa)" (Antoine Chevrollier, F) [Semaine]
+
+"The Brink of Dreams (Rafaat einy ll sama/Les Filles du Nil) (Nada Riyadh & Ayman El Amir, Egy/F/D/Q/SA) [Semaine]
+
+"Simon of the mountain (Simon de la montaña)" (Federico Luis,ARG/CH/URU) [Semaine]
+
+"Across the Sea (La mer au loin)" (Saïd Hamich Benlarbi, F/Mar/B/Q) [Semaine] Special
+
+"Queens of Drama (Les Reines du drame) (Alexis Langlois, F/B) [Semaine] Special
+
+"Animale" (Emma Benestan, F/B/SA) [Semaine] Closing
+
 ACID
+
+"Ce n'est qu'un au revoir" (Guillaume Brac) [ACID]
+  66m
+
+"Château Rouge" (Hélène Milano) [ACID]
+
+"Fotogenico" (Marcia Romano, Benoît Sabatier) [ACID]
+
+"In Retreat" (Maisam Ali) [ACID]
+
+"It Doesn't Matter" (Josh Mond) [ACID]
+
+"Kyuka - Before Summer’s End" (Kostis Charamountanis) [ACID]
+
+"Mi bestia" (Camila Beltrán) [ACID]
+
+"Most People Die on Sundays (Los domingos mueren más personas)" (Iair Said) [ACID]
+
+"Un Pays en flammes" (Mona Convert) [ACID]
+ 71m
+
 
 EOF
 
@@ -2153,58 +2282,58 @@ my $i=0;
 #$critics[$i++] = "
 #Alejandro G. Calvo (Sensacine, España)
 #Alejandra Trelles (International Film Festival Uruguay, Uruguay)
-#Alex Vicente (Público, España) 
+#Alex Vicente (Público, España)
 #Alexandra Zawia (ray, Austria)
 #Ángel Quintana (Cahiers du cinema Espana, España)
 #Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
 #Boris Nelepo (Seance.ru, Russia)
-#Carlo Chatrian (Festival de Locarno, Italy) 
-#Carlos F. Heredero (Caimán CDC, España) 
-#Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España) 
-#Cristina Nord (Die Tageszeitung, Deutschland) 
-#Dana Linssen (De Filmkrant, Netherlands) 
-#Diego Batlle (La Nación, OtrosCines, Argentina) 
-#Diego Lerer (Clarín, Micropsia, Argentina) 
-#Eugenio Renzi (Independencia, France) 
-#Eulalia Iglesias (RockDeLux y Caimán CDC, España) 
-#Fernando Ganzo (Lumiere, España) 
-#Fernando Juan Lima (El Amante, Argentina) 
-#Francisco Ferreira (Expresso, Portugal) 
-#Jaime Pena (El Amante, España, Argentina) 
+#Carlo Chatrian (Festival de Locarno, Italy)
+#Carlos F. Heredero (Caimán CDC, España)
+#Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España)
+#Cristina Nord (Die Tageszeitung, Deutschland)
+#Dana Linssen (De Filmkrant, Netherlands)
+#Diego Batlle (La Nación, OtrosCines, Argentina)
+#Diego Lerer (Clarín, Micropsia, Argentina)
+#Eugenio Renzi (Independencia, France)
+#Eulalia Iglesias (RockDeLux y Caimán CDC, España)
+#Fernando Ganzo (Lumiere, España)
+#Fernando Juan Lima (El Amante, Argentina)
+#Francisco Ferreira (Expresso, Portugal)
+#Jaime Pena (El Amante, España, Argentina)
 #José Luis Losa (Cineuropa, España)
 #Kieron Corless (Time Out London, UK)
-#Luciano Barisone (Duellanti/Panoramiche, Italy) 
+#Luciano Barisone (Duellanti/Panoramiche, Italy)
 #Giona Nazzaro (Gender DocuFilm Festival, Italy)
-#Luciano Monteagudo (Página/12, Argentina) 
-#Marcelo Alderete (Festival de Mar del Plata, Argentina) 
+#Luciano Monteagudo (Página/12, Argentina)
+#Marcelo Alderete (Festival de Mar del Plata, Argentina)
 #Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
-#Nando Salva (El Periódico, España) 
-#Neil Young (Hollywood Reporter, Tribune, UK) 
+#Nando Salva (El Periódico, España)
+#Neil Young (Hollywood Reporter, Tribune, UK)
 #Pablo Scholz (Clarín, Argentina)
-#Paolo Bertolin (Venice International Film Festival, Italy) 
-#Paolo Moretti (Italy) 
-#Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil) 
-#Philip Engel (Go Mag, España) 
+#Paolo Bertolin (Venice International Film Festival, Italy)
+#Paolo Moretti (Italy)
+#Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil)
+#Philip Engel (Go Mag, España)
 ## wrong spelling, needs upstream fix
 #Philipp Engel (Go Mag, España)
-#Robert Koehler (Variety, USA) 
-#Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina) 
-#Rüdiger Suchsland (arteschock, Deutschland) 
+#Robert Koehler (Variety, USA)
+#Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina)
+#Rüdiger Suchsland (arteschock, Deutschland)
 #Sergi Sanchez (La Razón, España)
 #Jan Pieter Ekker (Cinema.nl, Netherlands)
 #Emiliano Fernández (A Sala Llena, Argentina)
 #Scott Foundas (Film Comment, USA)
 #Gustavo Beck (Curitiba International Film Festival, Brazil)
-#Violeta Kovacsics (Caimán Cuadernos de Cine, España) 
+#Violeta Kovacsics (Caimán Cuadernos de Cine, España)
 #Javier H. Estrada (Caimán CDC, España)
-#Pamela Bienzobas (Revista Cosas, Chile) 
-#Xavi Serra (Ara, España) 
+#Pamela Bienzobas (Revista Cosas, Chile)
+#Xavi Serra (Ara, España)
 #Dominik Kamalzadeh (Der Standard, Austria)
 #Alvaro Arroba (Cinema Scope, España)
 #Imma Merino (Periodista i crítica, España)
 #Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
 #Andrea Picard (TIFF, Cinema Scope, Canada)
-#Kong Rithdee (The Bangkok Post, Thailand) 
+#Kong Rithdee (The Bangkok Post, Thailand)
 #Guillaume Muyan Wang (‎Cinemaround, China)
 #Juanma Ruíz (Screenwriter, España)
 #Damián Hoffman (Arriba Argentinos, Argentina)
@@ -2223,7 +2352,7 @@ Frédéric Jaeger (critic.de, Deutschland)
 Jenny Jecke (Moviepilot, Deutschland)
 Till Kadritzke (critic.de, Deutschland)
 Giovanni Marchini Camina (Sight & Sound, USA)
-Rüdiger Suchsland (arteschock, Deutschland) 
+Rüdiger Suchsland (arteschock, Deutschland)
 ";
 # Le film français 0-4
 # http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
@@ -2260,7 +2389,7 @@ Carisse Fabre (Le Monde, France)
 Stephanie Zacharek (TIME, USA)
 Ben Kenigsberg (RogerEbert.com, USA)
 Ahmed Shawky (fifan.com, Egypt)
-Screen International (Screen International, USA) 
+Screen International (Screen International, USA)
 ";
 $critics_group[$i] = "ioncinema";
 $critics[$i++] = "
@@ -2280,7 +2409,7 @@ Liu Min (Sina.com, China)
 Marc-André Lussier (La Presse, Canada)
 Elli Mastorou (Metro/L'Avenir, Belgium)
 Savina Petkov (Awardswatch / Little White Lies)
-Jordan Ruimy (World of Reel/The Playlist, USA) 
+Jordan Ruimy (World of Reel/The Playlist, USA)
 Kuriko Sato (Eiga.com, Japan)
 Rui Tendinha (Diario de Noticias, Portugal)
 Artur Zaborski (Newsweek, Poland)
@@ -2313,8 +2442,8 @@ Liu Min (Sina Movie, China)
 Jenny S.Li (Directube.com, China)
 Xavier (NaiguanFilm, China)
 Bear W (ToroScope, China)
-Qin Wan (ifeng.com, China) 
-PeterCat (DeepFocus, China)   
+Qin Wan (ifeng.com, China)
+PeterCat (DeepFocus, China)
 Elise (initium media, China)
 Woodhead (, China)
 HarperDre (, China)
@@ -2370,7 +2499,7 @@ Marin Gerard (Critikat, France)
 Jacky Goldberg (Vanity Fair, France)
 Matteu Maestracci (France Info, France)
 Amandine Rebourg (Nice Matin, France)
-Philippe Rouyer (Cercle, France) 
+Philippe Rouyer (Cercle, France)
 ";
 $critics_group[$i] = "cahiers";
 $critics[$i++] = "
@@ -2438,7 +2567,7 @@ Devika Girish (Film Comment, USA)
 Roger Koza (Con los ojos abiertos, Argentina)
 Jean-Marc Lalanne (Les Inrockuptibles, France)
 Jonathan Romney (Screen International, UK)
-Yann Tobin (Positif, France)             
+Yann Tobin (Positif, France)
 Marcos Uzal (Cahiers du cinéma, France)
 Stephanie Zacharek (Time, USA)
 Carlos F. Heredero (Caimán Cuadernos de Cine, España)
@@ -2482,9 +2611,9 @@ Alison Wilmore (Buzzfeed, USA)
 Allan Hunter (Screen Daily, USA)
 Allison Loring (Film School Rejects, USA)
 Amber Wilkinson (The Telegraph, UK)
-Andrei Creţulescu (HBO, Romania) 
+Andrei Creţulescu (HBO, Romania)
 Andrew Barker (Variety, USA)
-Andrew O'Hehir (Salon.com, USA) 
+Andrew O'Hehir (Salon.com, USA)
 Andrew Pulver (Guardian, UK)
 Andrew Skalak (Filmmaker, USA)
 Anke Westphal (Berliner Zeitung, Deutschland)
@@ -2495,7 +2624,7 @@ Anne Thompson (Indiewire, USA)
 Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
 Ariel Esteban Cayer (Festival programmer, Canada)
 Arnaud Hée (Critikat.com, France)
-Arthur Mas (Independencia, France) 
+Arthur Mas (Independencia, France)
 Barbara Scharres (RogerEbert.com, USA)
 Beatrice Behn (Kino-Zeit, Deutschland)
 Ben Croll (The Wrap, USA)
@@ -2505,15 +2634,15 @@ Bilge Ebiri (vulture.com, USA)
 Blake Williams (Filmmaker Magazine, Canada)
 Bo Green Jensen (Weekandavisen Berlingske, Denmark)
 Boyd Van Hoeij (The Hollywood Reporter, France)
-Brian Brooks (indieWIRE, USA) 
-Camille Brunel (Independencia, France) 
+Brian Brooks (indieWIRE, USA)
+Camille Brunel (Independencia, France)
 Carlos Aguilar (Indiewire, USA)
 Carlos Elorza (www.lafinestradigital.com, elcontraplano.com, España)
 Caroline Tsai (AwardsWatch, The Playlist, USA)
 Caryn James (indieWIRE, ex-New York Times, USA)
 Catherine Bray (Film4 Online, UK)
 Catherine Shoard (Guardian, UK)
-Cecilia Martinez (A Sala Llena Online, Argentina) 
+Cecilia Martinez (A Sala Llena Online, Argentina)
 Chad Eberle (Blogger, USA)
 Charles Bramesco (Guardian, UK)
 Charlie Schmidlin (The Playlist, USA)
@@ -2536,17 +2665,17 @@ Danielle Attali (Le Journal du Dimanche, France)
 David Calhoun (Time Out London, UK)
 David Edelstein (New York Magazine-Vulture, USA)
 David Ehrlich (Indiewire, USA)
-David Fear (Time Out New York, USA) 
+David Fear (Time Out New York, USA)
 David Gritten (The Telegraph, UK)
 David Jenkins (Little White Lies blog, UK)
 David Katz (Cineurope/filmstage)
 David Rooney (The Hollywood Reporter, USA)
 David Sexton (Evening Standard, UK)
 David Sterrit (Tikkun Magazine, USA)
-David Stratton (The Australian, Australia) 
+David Stratton (The Australian, Australia)
 Dennis Harvey (Variety, USA)
 Dennis Lim (Film Society Lincoln Center, USA)
-Derek Malcolm (London Evening, UK) 
+Derek Malcolm (London Evening, UK)
 Diana Drumm (The Black Maria, The Film Experience, Sound on Sight, USA)
 Diego Batlle (Otros Cines, La Nation, Argentina)
 Dion Wyn (www.thatmovieguy.co.uk, UK)
@@ -2558,26 +2687,26 @@ Drew Taylor (The Playlist, USA)
 Eduardo Valente (Revista Cinema, Brazil)
 Elena Lazic (Playlist, UK)
 Eli Hayes (Filmmaker, USA)
-Elisabeth Quin (Paris Premiere, France) 
+Elisabeth Quin (Paris Premiere, France)
 Emanuel Levy (EmanuelLevy.com, USA)
 Eren Odabasi (International Cinephil Society, Turkey)
 Eric D. Snider (Film.com, USA)
 Eric Kohn (Indiewire, USA)
 Ethan Anderton (FirstShowing.net, USA)
-Eugene Hernandez (Film Society of Lincoln Center, USA) 
+Eugene Hernandez (Film Society of Lincoln Center, USA)
 Fabio Ferzetti (El Messagero, Italy)
 Fico Cangiano (CineXpress, Puerto Rico)
 Fionnuala Hannigan (Screen International, USA)
-Florence Ben Sadoun (Elle, France)     
+Florence Ben Sadoun (Elle, France)
 Fred Topel (CraveOnline, USA)
 Frédéric Foubert (Premiere, France)
 Frédéric Strauss (Telerama, France)
-Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy) 
+Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy)
 Geoffrey MacNab (The Independent, UK)
 Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
 Gianluca Izzo (OutNow, Suisse)
 Glenn Heath Jr (Slant Magazine, Press Play, USA)
-Gonzalo de Pedro (Caimán, CDC, España) 
+Gonzalo de Pedro (Caimán, CDC, España)
 Gregory Ellwood (HitFix, USA)
 Guido Castillo (Freelance, España)
 Gwilym Mumford (Guardian, UK)
@@ -2606,14 +2735,14 @@ Jordan Hoffman (Guardian, USA)
 Jordan Raup (The Film Stage, USA)
 Jordan Ruimy (The Playlist, USA)
 Jose Carlos Avellar (Escrevercinema.com, Brazil)
-Jose Luis De Lorenzo (A Sala Llena, Argentina) 
+Jose Luis De Lorenzo (A Sala Llena, Argentina)
 Josef Lederle (Filmdienst, Deutschland)
 Josh Cabrita (MUBI, Cinema Scope, Canada)
 Joshua Rothkopf (Time Out New York, Penthouse, USA)
 Juan Soto (Filmmaker+Editor, Colombia)
 Jérémie Couston (Telerama, France)
 Kaleem Aftab (The Independent, The National, Sydney Morning Herald, Australia)
-Kate Muir (The Times, UK) 
+Kate Muir (The Times, UK)
 Kees Driessen (De Filmkrant, Netherlands)
 Keith Uhlich (Time Out New York, USA)
 Kenneth Turan (Los Angeles Times, USA)
@@ -2622,7 +2751,7 @@ Kong Rithdee (Bangkok Post, Thailand)
 Kristy Puchko (Freelance, USA)
 Kurt Brokaw (Independent Magazine)
 Kyle Smith (NY Post, USA)
-Laremy Legel (Film.com, USA) 
+Laremy Legel (Film.com, USA)
 Laurent de Alberti (filmlandempire.com, UK)
 Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
 Leda Galanou (Flix, France)
@@ -2636,16 +2765,16 @@ Lydia Milano (Rap videos, USA)
 Maggie Lee (Variety, USA)
 Manohla Dargis (New York Times, USA)
 Manon Dumais (Voir, Canada)
-Manu Yañez (Fotogramas, OtrosCines, España) 
+Manu Yañez (Fotogramas, OtrosCines, España)
 Marc Cassivi (La Presse, France)
 Marc-André Lussier (La Presse, Canada)
 Marie-Laure Tittley (Festival project manager, Canada)
 Mark Adams (Screen International, USA)
-Martial Pisani (Independencia, France) 
+Martial Pisani (Independencia, France)
 Mathilde Blottière (Telerama, France)
 Mathilde Cesbron (Le Figaro, France)
 Matt Hoffman (Scene Creek, Canada)
-Matt Holmes (Obsessedwithfilm.com, USA) 
+Matt Holmes (Obsessedwithfilm.com, USA)
 Maxime Pargaud (Le Figaro, France)
 Maëva Saint-Albin (Blogger, France)
 Michael Bo (politiken.dk, Denmark)
@@ -2664,20 +2793,20 @@ Nigel M Smith (Indiewire, USA)
 Nikola Grozdanović (Way Too Indie, Canada)
 Nino Klingler (critic.de, Deutschland)
 Noel Murray (The Dissolve, USA)
-Noémie Luciani (Independencia, France) 
+Noémie Luciani (Independencia, France)
 Oliver Lyttelton (The Playlist, USA)
-Olivier Père (Les Inrockuptibles, France) 
+Olivier Père (Les Inrockuptibles, France)
 Pablo Villaça (Cinema em Cena, Brazil)
 Pascal Mérigeau (Observateur, France)
 Patrick Heidmann (Cineman, Berliner Zeitung, Deutschland)
 Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
-Paul Martin (Indies Movies Online, USA) 
-Pete Hammond (Boxoffice Magazine, USA) 
-Peter Bradshaw (Guardian, UK) 
-Peter Debruge (Variety, USA) 
-Peter Howell (The Toronto Star, USA) 
+Paul Martin (Indies Movies Online, USA)
+Pete Hammond (Boxoffice Magazine, USA)
+Peter Bradshaw (Guardian, UK)
+Peter Debruge (Variety, USA)
+Peter Howell (The Toronto Star, USA)
 Peter Keogh (Boston Phoenix, USA)
-Peter Knegt (indieWIRE, USA) 
+Peter Knegt (indieWIRE, USA)
 Peter Labuza (The Film Stage, USA)
 Philippe Paturel (www.cinemaforever.net, Deutschland)
 Pierre Murat (Telerama, France)
@@ -2701,28 +2830,28 @@ Sam C. Mac (Slant Magazine, USA)
 Sam Gray (Film maker, UK)
 Sebastian Doggart (Guardian, UK)
 Serena Catalano (Movieplayer.it, France)
-Sergio Wolf (BAFICI, Argentina) 
+Sergio Wolf (BAFICI, Argentina)
 Shaun Munro (filmschoolrejects.com, USA)
 Simon Abrams (The Playlist, USA)
 Simon Eberhard (OutNow, Suisse)
-Simon Gallagher (filmschoolrejects.com, UK) 
-Simon Reynolds (Digital Spy, UK) 
+Simon Gallagher (filmschoolrejects.com, UK)
+Simon Reynolds (Digital Spy, UK)
 Sophie Monks Kaufman (Little White Lies blog, UK)
 Stephanie Bunbury (deadline, USA)
 Stephen Dalton (The Hollywood Reporter, USA)
 Stephen Garrett (Time Out New York, USA)
 Stephen Holden (New York Times, USA)
 Steve Pond (The Wrap, USA)
-Sukhdev Sandhu (The Telegraph, UK) 
+Sukhdev Sandhu (The Telegraph, UK)
 Tanner Stechnij (Stage Press, USA)
-Thomas Fioretti (Independencia, France) 
+Thomas Fioretti (Independencia, France)
 Thomas Schultze (Blickpunkt Film, Deutschland)
-Tim Grierson (Screen International, L.A. Weekly, USA) 
+Tim Grierson (Screen International, L.A. Weekly, USA)
 Tim Robey (The Telegraph, UK)
 Todd McCarthy (deadline, USA)
 Truman2712  (filmstarts.de, Deutschland)
 Victor Fraga (Dirty Movies, UK)
-Wendy Ide (The Guardian, Screen International, UK) 
+Wendy Ide (The Guardian, Screen International, UK)
 Wenke Husmann (Die Zeit, Deutschland)
 Wesley Morris (Grantland, USA)
 Xan Brooks (Guardian, UK)
@@ -2809,7 +2938,7 @@ our $FOOTER = "
 Lists:
 https://letterboxd.com/seanliu/list/what-we-can-expect-from-cannes-2024s-slate/
 Source & History:
-https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2024.dat 
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2024.dat
 </pre>";
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
