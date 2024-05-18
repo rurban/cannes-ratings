@@ -1,6 +1,8 @@
 build
 test
 *.dat
+*.bak
+*.old
 sun*
 ber*
 c2*
@@ -14,3 +16,4 @@ tmp
 *.csv
 TAGS
 scrape
+.git
