@@ -27983,22 +27983,23 @@ Rüdiger Suchsland (arteschock, Deutschland)
 # http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
 $critics_group[$i] = "Le film français";
 $critics[$i++] = "
-Gaël Golhen (Premiere, France)
+Thierry Chèze (Premiere, France)
 Julien Rousset (Sud ouest, France)
 Marcos Uzal (Cahiers du cinema, France)
 Eric Neuhoff (Le Figaro, France)
 Philippe Rouyer (Cercle, France)
-Jaques Mandelbaum (Le Monde, France)
+Mathieu Macheret (Le Monde, France)
 Guillemette Odicino (Telerama, France)
-jean-Claude Raspiengeas (la Croix, France)
+Cèline Rouden (La Croix, France)
 Jean-Marc Lalanne (Les Inrockuptibles, France)
 Michaël Mélinard (L'Humanite, France)
 Nicolas Schaller (Observateur, France)
-Gilles Kerdreux (oeust france, France)
+Philippe Lemoine (oeust france, France)
 Barbara Théate (Le Journal du Dimanche, France)
-Stéphane Boudsocq (RTL, France)
-Catherine Balle (La Parisien)
+Sandra Onana (Liberration, France)
+Catherine Balle (La Parisien, France)
 ";
+#not anymore:
 # screen daily 0-4
 # https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=4d9383c0-371b-45b9-a84c-741f08269742
 $critics_group[$i] = "Screen Daily";
@@ -28223,6 +28224,11 @@ Anna Strelchuk (Dosha, Russia)
 # indiewire + various other press reviewers
 $critics_group[$i] = "Other";
 $critics[$i++] = "
+Gilles Kerdreux (oeust france, France)
+jean-Claude Raspiengeas (la Croix, France)
+Jaques Mandelbaum (Le Monde, France)
+Stéphane Boudsocq (RTL, France)
+Gaël Golhen (Premiere, France)
 Bruno Deruisseau (Les Inrockuptibles, France)
 A.A. Dowd (AV Club, Time Out Chicago, USA)
 A.O. Scott (NY Times, USA)
