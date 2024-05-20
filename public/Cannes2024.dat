@@ -18,6 +18,7 @@ package Cannes::rurban::2024; # -*- perl -*-
 # Polls:
 #   https://www.ioncinema.com/tag/2024-cannes-critic-panel (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2024
+#     https://www.lefilmfrancais.com/images/FF5_web.pdf
 #   http://jury.critic.de/cannes/ 
 #   https://www.screendaily.com/news/cannes-2024-screens-dailies/5193367.article
 #   https://icsfilm.org/festivals/cannes/cannes-2024-ics-press-industry-panel/
@@ -74,6 +75,21 @@ Mathieu Macheret         5
 Kong Ritchie             2.5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -678,6 +694,21 @@ Mathieu Macheret         1
 Kong Ritchie             2.5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -1429,6 +1460,21 @@ Mathieu Macheret         5
 Kong Ritchie             7.5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -2236,6 +2282,21 @@ Mathieu Macheret         7.5
 Kong Ritchie             5
 Screen International     2.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -3295,6 +3356,21 @@ Mathieu Macheret         5
 Kong Ritchie             5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -3614,6 +3690,21 @@ Mathieu Macheret         2.5
 Kong Ritchie             5
 Screen International     9
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -4694,6 +4785,21 @@ Mathieu Macheret         7.5
 Kong Ritchie             2.5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -5545,6 +5651,21 @@ Mathieu Macheret         5
 Kong Ritchie             7.5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -5937,6 +6058,21 @@ Mathieu Macheret         5
 Kong Ritchie             2.5
 Screen International     7.5
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -6577,6 +6713,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -6815,6 +6966,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7097,6 +7263,21 @@ Christine Yan       1
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7142,6 +7323,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7192,6 +7388,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7235,6 +7446,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7272,6 +7498,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7328,6 +7569,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7356,6 +7612,21 @@ peenth              4
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7398,6 +7669,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7443,6 +7729,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7487,6 +7788,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7522,6 +7838,21 @@ Mathieu Macheret
 Kong Ritchie             
 Screen International     
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7552,6 +7883,21 @@ UN CERTAIN REGARD
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7777,6 +8123,21 @@ buttercupb          1
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -8375,6 +8736,21 @@ ludovicbeot         4
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -8401,6 +8777,21 @@ denisrault          4
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -8431,6 +8822,21 @@ Rubayed             2
 #critic.de
 # Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
@@ -9220,23 +9626,15 @@ Camillecolombet     1
 
 "MY SUNSHINE (BOKU NO OHISAMA)" (Hiroshi OKUYAMA) [Un Certain Regard]
 
-#critic.de
-# Screen Daily
-# Le film français
+Catherine Bray          https://variety.com/2024/film/reviews/my-sunshine-review-1236009588/
 Allan Hunter            https://www.screendaily.com/reviews/my-sunshine-cannes-review/5193017.article
+#critic.de
+# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
-# OutNow (1 3 5 7 8 10)
-#dkstjernebarometer
-# Pelna Sala
-# caiman
-# Académie des Lumières
-# Russian film critics
-Catherine Bray          https://variety.com/2024/film/reviews/my-sunshine-review-1236009588/
 #letterboxd
 Caterine Dube       10
 Val_gry             9
@@ -9314,20 +9712,27 @@ Michael Granados    3
 "SANTOSH" (Sandhya SURI) [Un Certain Regard]
 
 #critic.de
-# Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
-# OutNow (1 3 5 7 8 10)
-#dkstjernebarometer
-# Pelna Sala
-# caiman
-# Académie des Lumières
-# Russian film critics
 #letterboxd
 rejmuy              8
 TufnelsSustain      8
@@ -9352,20 +9757,27 @@ peenth              4
 "VIET AND NAM" (TRUONG Minh Quý) [Un Certain Regard]
 
 #critic.de
-# Screen Daily
 # Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ioncinema
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
-# OutNow (1 3 5 7 8 10)
-#dkstjernebarometer
-# Pelna Sala
-# caiman
-# Académie des Lumières
-# Russian film critics
 #letterboxd
 Bourdieu            8
 TufnelsSustain      8
@@ -9378,22 +9790,13 @@ peenth              4
 "ARMAND" (Halfdan ULLMANN TØNDEL) [Un Certain Regard]
  1st film
 
-#critic.de
-# Screen Daily
-# Le film français
 Jonathan Romney         https://www.screendaily.com/reviews/armand-cannes-review/5193713.article
-# ioncinema
+#critic.de
+# Le film français
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
-# OutNow (1 3 5 7 8 10)
-#dkstjernebarometer
-# Pelna Sala
-# caiman
-# Académie des Lumières
-# Russian film critics
 Iana Murray       6    https://awardswatch.com/armand-review-renate-reinsve-is-electric-as-a-woman-on-the-verge-in-halfdan-ullman-tondels-enigmatic-debut-cannes/
 #letterboxd
 svajotojai          10
@@ -9592,7 +9995,12 @@ Jules_Perret        1   https://letterboxd.com/jules_perret/film/armand/
 
 
 Manuel Betancourt       https://variety.com/2024/film/reviews/slow-review-1235985600/
-
+#critic.de
+# Le film français
+# ics
+# chaosreign.fr
+# cahier
+# FIPRESCI
 #letterboxd
 sbra                10
 hshania             10
@@ -9612,9 +10020,18 @@ peenth              4
 
 "WHEN THE LIGHT BREAKS (Ljósbrot)" (Rúnar RÚNARSSON) [Un Certain Regard]
 
-
 Guy Lodge               https://variety.com/2024/film/reviews/when-the-light-breaks-review-1236000079/
 Fionnuala Halligan      https://www.screendaily.com/reviews/when-the-light-breaks-cannes-review/5193329.article
+#critic.de
+Valerie Dirk          7.5
+Michael Meyns         6
+Pavao Vlajcic         4       https://letterboxd.com/powwow/film/when-the-light-breaks/
+Rüdiger Suchsland    5
+# Le film français
+# ics
+# chaosreign.fr
+# cahier
+# FIPRESCI
 #letterboxd
 audrey              10
 Josh                10
@@ -9967,12 +10384,6 @@ tigglywinkler       6
 Constant            6
 Kimberly Girkin     5   https://letterboxd.com/kimberlygirkin/film/when-the-light-breaks/
 atedemovie          5
-#critic.de
-Valerie Dirk          7.5
-Michael Meyns         6
-Pavao Vlajcic         4       https://letterboxd.com/powwow/film/when-the-light-breaks/
-Rüdiger Suchsland    5
-
 ANDREG6             5   https://letterboxd.com/andreg6/film/when-the-light-breaks/
 infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
 ItWasBetween        5
@@ -10032,656 +10443,16 @@ robc3366            2
 RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
 SpinozaBurger       1
 
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-rejmuy              3
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-rejmuy              3
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-rejmuy              3
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-rejmuy              3
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-rejmuy              3
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-rejmuy              3
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-robc3366            2
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-ANDREG6             5
-infinico            5   https://letterboxd.com/infinico/film/when-the-light-breaks/
-ItWasBetween        5
-Maja                5
-Zachary Culleton    5
-kenzamk             5   https://letterboxd.com/kenzamk/film/when-the-light-breaks/
-Carlo Capalbo       5
-susuthemoviestar    5
-Péter Nagy          5
-SophieDecaest       5
-mathvuillerme       5
-Matt                5   https://letterboxd.com/msmith9873/film/when-the-light-breaks/
-hanna wyszo         5
-soph                5
-Vtrbll              5
-La_Pruv             5
-Pavao Vlajcic       5   https://letterboxd.com/powwow/film/when-the-light-breaks/
-Joseph              5
-Agathe Jacob        5
-Quinnifer           5
-Nick Davis          5
-Shubhra             5
-Ahmad Nadalizadeh   5
-Carlos Esquives     5
-bartchuck           5
-chrispii69          5
-Carlos Grau         5
-Jakob Freudendal    5
-Mauricio Ribeiro    5
-Trunnie             5
-Truffaut692         4
-misha               4   https://letterboxd.com/nerdception/film/when-the-light-breaks/
-Michael Granados    4
-abreeze             4
-declara_tion        4
-Luca Sottimano      4   https://letterboxd.com/lucasotti/film/when-the-light-breaks/
-sarahmartres        4
-janabanasova        4
-tschlompf           4   https://letterboxd.com/tschlompf/film/when-the-light-breaks/
-Jonas3324           4
-Fabiana             4   https://letterboxd.com/fabianalr/film/when-the-light-breaks/
-aelete              4
-Francesco Ruzzier   4
-Ben_Yoon_08         4
-Tonin               4
-Val_gry             4
-Adam Sanchez        4
-Keith               4
-kerem_akca          4
-A_nos_amours        3
-valentine           3
-Christine Yan       3
-Liam Delahunt       3
-Ciro De Luca        3
-RobTerlee           1   https://letterboxd.com/robterlee/film/when-the-light-breaks/
-SpinozaBurger       1
-
-#critic.de
-Valerie Dirk          7.5
-Michael Meyns         6
-Pavao Vlajcic         4       https://letterboxd.com/powwow/film/when-the-light-breaks/
-Rüdiger Suchsland    5
 
 "NIKI" (Céline SALLETTE) [Un Certain Regard]
 
 
+#critic.de
+# Le film français
+# ics
+# chaosreign.fr
+# cahier
+# FIPRESCI
 #letterboxd
 LeliaS              8
 lilacarmen          8
@@ -10720,20 +10491,10 @@ Jenny Jecke           5
 Michael Meyns         5
 Pavao Vlajcic         7.5     https://letterboxd.com/powwow/film/the-second-act/
 Rüdiger Suchsland    6
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
-# OutNow (1 3 5 7 8 10)
-#dkstjernebarometer
-# Pelna Sala
-# caiman
-# Académie des Lumières
-# Russian film critics
 #letterboxd
 lucile27            10
 Anablee             10
@@ -18718,30 +18479,19 @@ Iorenzo             1
 "SHE’S GOT NO NAME" (CHAN Peter Ho-Sun) [Out Of Competition]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
-# OutNow (1 3 5 7 8 10)
-#dkstjernebarometer
-# Pelna Sala
-# caiman
-# Académie des Lumières
-# Russian film critics
 #letterboxd
 ka71e               6
 peenth              4
 
 "HORIZON, AN AMERICAN SAGA" (Kevin COSTNER) [Out Of Competition]
 
-#critic.de
-# Screen Daily
-# Le film français
 Lee Marshall            https://www.screendaily.com/reviews/horizon-an-american-saga-cannes-review/5193643.article
+Steve Pond              https://www.thewrap.com/horizon-an-american-saga-review-kevin-costner/
+#critic.de
 # ioncinema
 # ics
 # chaosreign.fr
@@ -18754,7 +18504,6 @@ Lee Marshall            https://www.screendaily.com/reviews/horizon-an-american-
 # caiman
 # Académie des Lumières
 # Russian film critics
-Steve Pond              https://www.thewrap.com/horizon-an-american-saga-review-kevin-costner/
 #letterboxd
 #dunnesvendetta      10
 #tamaramuro          10
@@ -18770,16 +18519,14 @@ jschwa14            4
 
 "RUMOURS" (Evan JOHNSON, Galen JOHNSON, Guy MADDIN) [Out Of Competition]
 
+Jonathan Romney         https://www.screendaily.com/reviews/rumours-cannes-review/5193745.article
+Guy Lodge               https://variety.com/2024/film/reviews/rumours-review-cate-blanchett-1236009377/
 #critic.de
 Dunja Bialas          9
 Valerie Dirk          6
 Till Kadritzke        7.5
 Pavao Vlajcic         2.5     https://letterboxd.com/powwow/film/rumours-2024/
 Rüdiger Suchsland    4
-# Screen Daily
-# Le film français
-Jonathan Romney         https://www.screendaily.com/reviews/rumours-cannes-review/5193745.article
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -18791,7 +18538,6 @@ Jonathan Romney         https://www.screendaily.com/reviews/rumours-cannes-revie
 # caiman
 # Académie des Lumières
 # Russian film critics
-Guy Lodge               https://variety.com/2024/film/reviews/rumours-review-cate-blanchett-1236009377/
 #letterboxd
 cloporte20          10
 Sgcj26              10
@@ -19224,16 +18970,16 @@ jessiedhaliwall     1   https://letterboxd.com/jessiedhaliwall/film/rumours-2024
 
 "Furiosa: A Mad Max Saga" (George Miller) [Out Of Competition]
 
+Owen Gleiberman         https://variety.com/2024/film/reviews/furiosa-a-mad-max-saga-review-anya-taylor-joy-chris-hemsworth-george-miller-1236000189/
+Nikki Baughan           https://www.screendaily.com/reviews/furiosa-a-mad-max-saga-cannes-review/5193379.article
+Ryan McQuade      9    https://awardswatch.com/furiosa-a-mad-max-saga-review-george-millers-action-packed-revenge-tale-is-a-bad-to-the-bone-masterpiece/
+Steve Pond              https://www.thewrap.com/furiosa-a-mad-max-saga-review-anya-taylor-joy/
 #critic.de
 Valerie Dirk          6
 Jenny Jecke           6
 Till Kadritzke        7.5
 Michael Meyns         6
 Rüdiger Suchsland    9       https://open.spotify.com/episode/57s4b7V2BagpO83N33zGby
-# Screen Daily
-# Le film français
-Owen Gleiberman         https://variety.com/2024/film/reviews/furiosa-a-mad-max-saga-review-anya-taylor-joy-chris-hemsworth-george-miller-1236000189/
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -19245,9 +18991,6 @@ Owen Gleiberman         https://variety.com/2024/film/reviews/furiosa-a-mad-max-
 # caiman
 # Académie des Lumières
 # Russian film critics
-Nikki Baughan           https://www.screendaily.com/reviews/furiosa-a-mad-max-saga-cannes-review/5193379.article
-Ryan McQuade      9    https://awardswatch.com/furiosa-a-mad-max-saga-review-george-millers-action-packed-revenge-tale-is-a-bad-to-the-bone-masterpiece/
-Steve Pond              https://www.thewrap.com/furiosa-a-mad-max-saga-review-anya-taylor-joy/
 #letterboxd
 Letterboxd 50_Ratings	7.26  https://letterboxd.com/film/furiosa-a-mad-max-saga/
 adthed              10
@@ -20732,14 +20475,12 @@ Pedro Henrique      1
 
 "TWILIGHT OF THE WARRIOR WALLED IN" (Soi CHEANG) [Out Of Competition]
 
+Lee Marshall            https://www.screendaily.com/reviews/twilight-of-the-warriors-walled-in-cannes-review/5193655.article
 #critic.de
 Jenny Jecke           9       https://www.moviepilot.de/news/dieser-action-kracher-ist-ein-muss-fuer-fans-von-the-raid-grandioses-gekloppe-bis-die-zaehne-klappern-1147320
 Michael Meyns         7.5
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/twilight-of-the-warriors-walled-in/
 Rüdiger Suchsland    6
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -20751,7 +20492,6 @@ Rüdiger Suchsland    6
 # caiman
 # Académie des Lumières
 # Russian film critics
-Lee Marshall            https://www.screendaily.com/reviews/twilight-of-the-warriors-walled-in-cannes-review/5193655.article
 #letterboxd
 Letterboxd 663_Ratings	7.2  https://letterboxd.com/film/twilight-of-the-warriors-walled-in/
 Ah Long             10   https://letterboxd.com/rock1124/film/twilight-of-the-warriors-walled-in/
@@ -22031,14 +21771,13 @@ qkkj                1
 
 "THE SURFER" (Lorcan FINNEGAN) [Out Of Competition]
 
+Tim Grierson            https://www.screendaily.com/reviews/the-surfer-cannes-review/5193428.article
+Owen Gleiberman         https://variety.com/2024/film/reviews/the-surfer-review-nicolas-cage-1236008782/
+Xan Brooks        4    https://www.theguardian.com/film/article/2024/may/18/the-surfer-review-nic-cage-beach-surfs-masculinity-thriller
 #critic.de
 Jenny Jecke           5       https://www.moviepilot.de/news/iss-die-ratte-neuer-nicolas-cage-thriller-stuerzt-geradewegs-in-wahnsinn-aus-durst-und-demuetigungen-1147341
 Michael Meyns         6
 Pavao Vlajcic         4       https://letterboxd.com/powwow/film/the-surfer-2024/
-# Screen Daily
-# Le film français
-Tim Grierson            https://www.screendaily.com/reviews/the-surfer-cannes-review/5193428.article
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -22050,8 +21789,6 @@ Tim Grierson            https://www.screendaily.com/reviews/the-surfer-cannes-re
 # caiman
 # Académie des Lumières
 # Russian film critics
-Owen Gleiberman         https://variety.com/2024/film/reviews/the-surfer-review-nicolas-cage-1236008782/
-Xan Brooks        4    https://www.theguardian.com/film/article/2024/may/18/the-surfer-review-nic-cage-beach-surfs-masculinity-thriller
 #letterboxd
 Ethan Knock         10
 Stifmeister66       10
@@ -22546,12 +22283,11 @@ fgs                 1
 
 "THE BALCONETTES (Les femmes au balcon)" (Noémie MERLANT) [Out Of Competition]
 
+Peter Bradshaw    6    https://www.theguardian.com/film/article/2024/may/19/the-balconettes-review-neighbours-finding-trouble-in-invitation-to-hot-guys-flat
+Ben Rolph         7    https://awardswatch.com/the-balconettes-review-noemie-merlant-lets-loose-in-topical-genre-bending-romp-cannes/
+Nikki Baughan           https://www.screendaily.com/reviews/the-balconettes-cannes-review/5193581.article
 #critic.de
 Pavao Vlajcic         1       https://letterboxd.com/powwow/film/the-balconettes/
-# Screen Daily
-# Le film français
-Nikki Baughan           https://www.screendaily.com/reviews/the-balconettes-cannes-review/5193581.article
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -22563,8 +22299,6 @@ Nikki Baughan           https://www.screendaily.com/reviews/the-balconettes-cann
 # caiman
 # Académie des Lumières
 # Russian film critics
-Peter Bradshaw    6    https://www.theguardian.com/film/article/2024/may/19/the-balconettes-review-neighbours-finding-trouble-in-invitation-to-hot-guys-flat
-Ben Rolph         7    https://awardswatch.com/the-balconettes-review-noemie-merlant-lets-loose-in-topical-genre-bending-romp-cannes/
 #letterboxd
 Sarahsarai          10
 India               10   https://letterboxd.com/ignia/film/the-balconettes/
@@ -22891,9 +22625,6 @@ Paweł Szruba        1   https://letterboxd.com/szrubamove/film/the-balconettes/
 "VETERAN 2 (I, THE EXECUTIONER)" (RYOO Seung Wan) [Out Of Competition]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -22910,11 +22641,9 @@ Paweł Szruba        1   https://letterboxd.com/szrubamove/film/the-balconettes/
 
 "EVERYBODY LOVES TOUDA" (Nabil AYOUCH) [Out Of Competition] Premiere
 
-#critic.de
-# Screen Daily
-# Le film français
 Wendy Ide               https://www.screendaily.com/reviews/everybody-loves-touda-cannes-review/5193071.article
-# ioncinema
+Guy Lodge               https://variety.com/2024/film/reviews/everybody-loves-touda-review-1236008150/
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -22926,7 +22655,6 @@ Wendy Ide               https://www.screendaily.com/reviews/everybody-loves-toud
 # caiman
 # Académie des Lumières
 # Russian film critics
-Guy Lodge               https://variety.com/2024/film/reviews/everybody-loves-touda-review-1236008150/
 #letterboxd
 eli_thlt            10
 Debzzzz             10
@@ -23031,12 +22759,10 @@ mathvuillerme       4
 
 "IT'S NOT ME (C’est pas moi)" (Leos CARAX) [Out Of Competition] Premiere
 
+Siddhant Adlakha        https://variety.com/2024/film/reviews/its-not-me-review-leos-carax-cest-pas-moi-1236004382/
 #critic.de
 Michael Meyns         9
 Rüdiger Suchsland    9
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23048,7 +22774,6 @@ Rüdiger Suchsland    9
 # caiman
 # Académie des Lumières
 # Russian film critics
-Siddhant Adlakha        https://variety.com/2024/film/reviews/its-not-me-review-leos-carax-cest-pas-moi-1236004382/
 #letterboxd
 femmedelombre       10
 Christer Emanuelsson 10   https://letterboxd.com/tiere/film/its-not-me-2024/
@@ -23224,9 +22949,6 @@ Jack Salvadori      1   https://letterboxd.com/jacksalvadori/film/its-not-me-202
 "THE MARCHING BAND (En fanfare)" (Emmanuel COURCOL) [Out Of Competition] Premiere
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23315,9 +23037,6 @@ Hossein Eidizadeh   2
 
 #critic.de
 Michael Meyns         7.5
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23337,9 +23056,6 @@ Pierre Charpilloz   5
 "LE ROMAN DE JIM (Le Roman de Jim)" (Arnaud & Jean-Marie LARRIEU) [Out Of Competition] Premiere
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23358,11 +23074,10 @@ Jean-Philippe Guerand 6
 
 "MEETING WITH POL POT (Rendez-vous avec Pol Pot)" (Rithy PANH) [Out Of Competition] Premiere
 
+Allan Hunter            https://www.screendaily.com/reviews/meeting-with-pol-pot-cannes-review/5193363.article
+Siddhant Adlakha        https://variety.com/2024/film/reviews/meeting-with-pol-pot-review-rithy-panh-1236005033/
 #critic.de
 Rüdiger Suchsland    9       https://open.spotify.com/episode/57s4b7V2BagpO83N33zGby
-# Screen Daily
-# Le film français
-Siddhant Adlakha        https://variety.com/2024/film/reviews/meeting-with-pol-pot-review-rithy-panh-1236005033/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -23375,7 +23090,6 @@ Siddhant Adlakha        https://variety.com/2024/film/reviews/meeting-with-pol-p
 # caiman
 # Académie des Lumières
 # Russian film critics
-Allan Hunter            https://www.screendaily.com/reviews/meeting-with-pol-pot-cannes-review/5193363.article
 #letterboxd
 arthurlemouton      10
 MlleKiri            9
@@ -23551,9 +23265,6 @@ François Truffade   2
 "MARIA (Being Maria)" (Jessica PALUD) [Out Of Competition] Premiere
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23579,9 +23290,6 @@ mjoudet             2
 "TO LIVE, TO DIE,TO LIVE AGAIN" (Gaël MOREL) [Out Of Competition] Premiere
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23599,9 +23307,6 @@ mjoudet             2
 "LE FIL" (Daniel AUTEUIL) [Out Of Competition] Special Screening
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23619,9 +23324,6 @@ mjoudet             2
 "ERNEST COLE, LOST AND FOUND" (Raoul PECK) [Out Of Competition] Special Screening
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23641,11 +23343,9 @@ AnneLaureB          6
 
 "THE INVASION" (Sergei LOZNITSA) [Out Of Competition] Special Screening
 
+Jonathan Romney         https://www.screendaily.com/reviews/the-invasion-cannes-review/5193651.article
 #critic.de
 Michael Meyns         6
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23657,7 +23357,6 @@ Michael Meyns         6
 # caiman
 # Académie des Lumières
 # Russian film critics
-Jonathan Romney         https://www.screendaily.com/reviews/the-invasion-cannes-review/5193651.article
 #letterboxd
 johannkreisler      10
 gazettely           9   https://letterboxd.com/gazettely/film/the-invasion-2024/
@@ -23716,9 +23415,6 @@ FilmDrIsIn          2
 "APPRENDRE" (Claire SIMON) [Out Of Competition] Special Screening
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23739,9 +23435,6 @@ ohsassou            7
 #critic.de
 Valerie Dirk          7.5
 Rüdiger Suchsland    7.5
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -23766,6 +23459,9 @@ Jean-Philippe Guerand 4
 "AN UNFINISHED FILM" (LOU Ye) [Out Of Competition] Special Screening
 
 Lee Marshall            https://www.screendaily.com/reviews/an-unfinished-film-cannes-review/5193540.article
+#critic.de
+Michael Meyns         7.5
+Rüdiger Suchsland    9       https://open.spotify.com/episode/6ARyaoLxasQya602aqGHDD
 #letterboxd
 Epiphany215         10
 demoye              10   https://letterboxd.com/demoye/film/an-unfinished-film-2024/
@@ -23881,10 +23577,6 @@ lili_hallo_         2   https://letterboxd.com/lili_hallo_/film/an-unfinished-fi
 yousan              1   https://letterboxd.com/yousan/film/an-unfinished-film-2024/
 zvl5316             1
 Imaginelune         1
-
-#critic.de
-Michael Meyns         7.5
-Rüdiger Suchsland    9       https://open.spotify.com/episode/6ARyaoLxasQya602aqGHDD
 
 "IN THE WONDERWOODS (ANGELO DANS LA FORÊT MYSTÉRIEUSE)" (Vincent PARONNAUD/Alexis DUCORD) [Out Of Competition] Special Screening
  Anim
@@ -24013,12 +23705,10 @@ QUINZAINE
 
 "This Life of Mine (MA VIE MA GUEULE)" (Sophie Fillières) [Quinzaine] Opener
 
+Guy Lodge               https://variety.com/2024/film/reviews/this-life-of-mine-review-1236004467/
+Lisa Nesselson          https://www.screendaily.com/reviews/this-life-of-mine-cannes-review/5193003.article
 #critic.de
 Dunja Bialas          5
-# Screen Daily
-# Le film français
-Lisa Nesselson          https://www.screendaily.com/reviews/this-life-of-mine-cannes-review/5193003.article
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -24030,7 +23720,6 @@ Lisa Nesselson          https://www.screendaily.com/reviews/this-life-of-mine-ca
 # caiman
 # Académie des Lumières
 # Russian film critics
-Guy Lodge               https://variety.com/2024/film/reviews/this-life-of-mine-review-1236004467/
 #letterboxd
 RebeccaMarkgraf     10
 rcfaustine          9   https://letterboxd.com/rcfaustine/film/this-life-of-mine/
@@ -24311,11 +24000,8 @@ Joan                1
 
 "In His Own Image (À SON IMAGE)" (Thierry de Peretti) [Quinzaine]
 
-#critic.de
-# Screen Daily
-# Le film français
 Allan Hunter            https://www.screendaily.com/reviews/in-his-own-image-cannes-review/5193516.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -24444,13 +24130,12 @@ CalciferFR          1
 
 "CHRISTMAS EVE IN MILLER’S POINT"  (Tyler Taormina) [Quinzaine]
 
+Jessica Kiang           https://variety.com/2024/film/reviews/christmas-eve-in-millers-point-review-1236005447/
+Tim Grierson            https://www.screendaily.com/reviews/christmas-eve-in-millers-point-cannes-review/5193208.article
+Rory O'Connor           https://thefilmstage.com/cannes-review-in-christmas-eve-at-millers-point-cinema-and-family-beautifully-come-together/
 #critic.de
 Till Kadritzke        7.5
 Pavao Vlajcic         7.5     https://letterboxd.com/powwow/film/christmas-eve-in-millers-point/
-# Screen Daily
-# Le film français
-Jessica Kiang           https://variety.com/2024/film/reviews/christmas-eve-in-millers-point-review-1236005447/
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -24462,8 +24147,6 @@ Jessica Kiang           https://variety.com/2024/film/reviews/christmas-eve-in-m
 # caiman
 # Académie des Lumières
 # Russian film critics
-Tim Grierson            https://www.screendaily.com/reviews/christmas-eve-in-millers-point-cannes-review/5193208.article
-Rory O'Connor           https://thefilmstage.com/cannes-review-in-christmas-eve-at-millers-point-cinema-and-family-beautifully-come-together/
 #letterboxd
 mearmsmearms        10
 AlexSimpson75       10
@@ -24702,11 +24385,8 @@ Théo Mahy           1
 "DESERT OF NAMIBIA (Namibia no sabaku)"  (Yôko ) [Quinzaine]
 
 
-#critic.de
-# Screen Daily
-# Le film français
 Fionnuala Halligan      https://www.screendaily.com/reviews/desert-of-namibia-cannes-review/5193708.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -24824,9 +24504,6 @@ François Truffade   1
 "EAST OF NOON (Sharq 12)"  (Hala Elkoussy) [Quinzaine]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -24843,9 +24520,6 @@ François Truffade   1
 "EAT THE NIGHT"  (Caroline Poggi & Jonathan ) [Quinzaine]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -24866,11 +24540,9 @@ Clément Deleschaud  5
 "EEPHUS" (Carson Lund) [Quinzaine]
  1st
 
-#critic.de
-# Screen Daily
-# Le film français
+Jordan Raup             https://thefilmstage.com/cannes-review-carson-lunds-eephus-is-the-definitive-baseball-hangout-movie/
 Tim Grierson            https://www.screendaily.com/reviews/eephus-cannes-review/5193391.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -24882,7 +24554,6 @@ Tim Grierson            https://www.screendaily.com/reviews/eephus-cannes-review
 # caiman
 # Académie des Lumières
 # Russian film critics
-Jordan Raup             https://thefilmstage.com/cannes-review-carson-lunds-eephus-is-the-definitive-baseball-hangout-movie/
 #letterboxd
 yowiescope          10   https://letterboxd.com/yowiescope/film/eephus/
 boobmcnutt          10   https://letterboxd.com/boobmcnutt/film/eephus/
@@ -24979,9 +24650,6 @@ Ahmad Nadalizadeh   1   https://letterboxd.com/ahmadnadali/film/eephus/
  1st
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25006,9 +24674,6 @@ gaspichou           6
 "GHOST CAT ANZU (Bakeneko Anzu-chan / Anzu, chat-fantôme)"  (Yôko Kuno & Nobuhiro Yamashita ) [Quinzaine]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25030,11 +24695,9 @@ Ella Kemp           4
 
 "GOOD ONE (India Donaldson)" [Quinzaine]
  1st
-#critic.de
-# Screen Daily
-# Le film français
+
 Cody Dericks      8    https://awardswatch.com/good-one-review-india-donaldsons-feature-debut-is-a-profound-and-big-hearted-triumph-chicago-critics-film-festival/
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -25054,9 +24717,6 @@ Letterboxd 1136_Ratings	7.2  https://letterboxd.com/film/good-one/
  1st
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25074,12 +24734,9 @@ Bourdieu            6
 "Visiting Hours (LA PRISONNIÈRE DE BORDEAUX)"  (Patricia Mazuy ) [Quinzaine]
 
 
+Tim Grierson            https://www.screendaily.com/reviews/visiting-hours-cannes-review/5193494.article
 #critic.de
 Dunja Bialas          7.5
-# Screen Daily
-# Le film français
-Tim Grierson            https://www.screendaily.com/reviews/visiting-hours-cannes-review/5193494.article
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25218,11 +24875,8 @@ Nunarmando          2
 "SAVANNA AND THE MOUNTAIN (A savana e a montanha)" (Paulo Carneiro ) [Quinzaine]
 
 
-#critic.de
-# Screen Daily
-# Le film français
 Jonathan Holland        https://www.screendaily.com/reviews/savanna-and-the-mountain-cannes-review/5193171.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -25293,11 +24947,8 @@ Baban               1
 
 "SISTER MIDNIGHT"  (Karan Kandhari) [Quinzaine]
 
-#critic.de
-# Screen Daily
-# Le film français
 Wendy Ide               https://www.screendaily.com/reviews/sister-midnight-cannes-review/5193434.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -25380,11 +25031,8 @@ hhut03              2   https://letterboxd.com/hhut03/film/sister-midnight/
 "SOMETHING OLD, SOMETHING NEW, SOMETHING BORROWED (Algo viejo, algo nuevo, algo prestado)" (Hernán Rosselli) [Quinzaine]
 
 
-#critic.de
-# Screen Daily
-# Le film français
 Jonathan Holland        https://www.screendaily.com/reviews/something-old-something-new-something-borrowed-cannes-review/5193096.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -25510,11 +25158,8 @@ schartnerbomb       1
 
 "THE FALLING SKY (A queda do céu / La Chute du ciel)"  (Eryk Rocha & Gabriela Carneiro da Cunha) [Quinzaine]
 
-#critic.de
-# Screen Daily
-# Le film français
 Carlos Aguilar          https://variety.com/2024/film/reviews/the-falling-sky-review-a-queda-do-ceu-1236009301/
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -25564,11 +25209,8 @@ Giuseppe Bargagnati 2   https://letterboxd.com/turista19/film/the-falling-sky-20
 
 "THE HYPERBOREANS (Los hiperbóreos)" (Cristóbal León & Joaquín Cociña) [Quinzaine]
 
-#critic.de
-# Screen Daily
-# Le film français
 Jonathan Holland        https://www.screendaily.com/reviews/the-hyperboreans-cannes-review/5193077.article
-# ioncinema
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -25748,9 +25390,6 @@ Zoé Peyrieux        1
 "THE OTHER WAY AROUND (Volveréis / Septembre sans attendre)" (Jonás Trueba) [Quinzaine]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25818,9 +25457,6 @@ Jean-François Ier   5
 "TO A LAND UNKNOWN" (Mahdi Fleifel) [Quinzaine]
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25842,13 +25478,11 @@ reallygoodplums     4
 
 "Universal Language (UNE LANGUE UNIVERSELLE)"  (Matthew Rankin) [Quinzaine]
 
+Peter Debruge           https://variety.com/2024/film/reviews/universal-language-review-1236008442/
+Fionnuala Halligan      https://www.screendaily.com/reviews/universal-language-cannes-review/5192932.article
 #critic.de
 Jenny Jecke           6
 Pavao Vlajcic         9       https://letterboxd.com/powwow/film/universal-language/
-# Screen Daily
-# Le film français
-Peter Debruge           https://variety.com/2024/film/reviews/universal-language-review-1236008442/
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -25860,7 +25494,6 @@ Peter Debruge           https://variety.com/2024/film/reviews/universal-language
 # caiman
 # Académie des Lumières
 # Russian film critics
-Fionnuala Halligan      https://www.screendaily.com/reviews/universal-language-cannes-review/5192932.article
 #letterboxd
 CarlosBinos         10
 sophiackr           10
@@ -26011,9 +25644,6 @@ Victor Baton        2   https://letterboxd.com/victorbaton/film/universal-langua
 "Plastic Guns (LES PISTOLETS EN PLASTIQUE)" (Jean-Christophe Meurisse) [Quinzaine] Closing film
 
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
 # ics
 # chaosreign.fr
 # cahier
@@ -26040,11 +25670,10 @@ Marianne            4
 SEMAINE
 
 "Ghost Trail (Les Fantômes)" (Jonathan Millet, F/D/B) [Semaine] Opener
+
+Allan Hunter            https://www.screendaily.com/reviews/ghost-trail-cannes-review/5192939.article
 #critic.de
 Jenny Jecke           6
-# Screen Daily
-# Le film français
-Allan Hunter            https://www.screendaily.com/reviews/ghost-trail-cannes-review/5192939.article
 # ioncinema
 # ics
 # chaosreign.fr
@@ -26297,9 +25926,8 @@ Taís Dias           2
 ItWasBetween        2   https://letterboxd.com/itwasbetween/film/ghost-trail/
 
 "Baby" (Marcelo Caetano, B/F/NL) [Semaine]
+
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -26321,9 +25949,8 @@ dittedc             5
 Natalia             4
 
 "Blue Sun Palace" (Constance Tsang, US) [Semaine]
+
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -26401,11 +26028,10 @@ Ahmad Nadalizadeh   3
 Hossein Eidizadeh   2
 
 "Julie Keeps Quiet (Julie zwijgt)" (Leonardo Van Dijl, B/S) [Semaine]
+
+Jonathan Romney         https://www.screendaily.com/reviews/julie-keeps-quiet-cannes-review/5193381.article
 #critic.de
 Pavao Vlajcic         2.5     https://letterboxd.com/powwow/film/julie-keeps-quiet/
-# Screen Daily
-# Le film français
-Jonathan Romney         https://www.screendaily.com/reviews/julie-keeps-quiet-cannes-review/5193381.article
 # ioncinema
 # ics
 # chaosreign.fr
@@ -26533,11 +26159,10 @@ dakocookie          2
 Ahmad Nadalizadeh   2
 
 "Locust" (KEFF, Tai/F/US) [Semaine]
+
+John Berra              https://www.screendaily.com/reviews/locust-cannes-review/5193341.article
 #critic.de
 Pavao Vlajcic         2.5     https://letterboxd.com/powwow/film/locust-2024/
-# Screen Daily
-# Le film français
-John Berra              https://www.screendaily.com/reviews/locust-cannes-review/5193341.article
 # ioncinema
 # ics
 # chaosreign.fr
@@ -26719,10 +26344,24 @@ choux_kk            1
 
 "Block Pass (La Pampa)" (Antoine Chevrollier, F) [Semaine]
 
-"The Brink of Dreams (Rafaat einy ll sama/Les Filles du Nil) (Nada Riyadh & Ayman El Amir, Egy/F/D/Q/SA) [Semaine]
 #critic.de
-# Screen Daily
-# Le film français
+# ioncinema
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# FIPRESCI
+# OutNow (1 3 5 7 8 10)
+#dkstjernebarometer
+# Pelna Sala
+# caiman
+# Académie des Lumières
+# Russian film critics
+#letterboxd
+
+"The Brink of Dreams (Rafaat einy ll sama/Les Filles du Nil) (Nada Riyadh & Ayman El Amir, Egy/F/D/Q/SA) [Semaine]
+
+#critic.de
 # ioncinema
 # ics
 # chaosreign.fr
@@ -26751,15 +26390,13 @@ ludovicbeot         5
 Crayfish            3
 
 "Simon of the mountain (Simon de la montaña)" (Federico Luis,ARG/CH/URU) [Semaine]
-#critic.de
-# Screen Daily
-# Le film français
+
 Allan Hunter            https://www.screendaily.com/reviews/simon-of-the-mountain-cannes-review/5193120.article
+#critic.de
 # ioncinema
 # ics
 # chaosreign.fr
 # cahier
-# Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -27005,11 +26642,23 @@ Ben_Yoon_08         2
 
 "Across the Sea (La mer au loin)" (Saïd Hamich Benlarbi, F/Mar/B/Q) [Semaine] Special
 
-"Queens of Drama (Les Reines du drame) (Alexis Langlois, F/B) [Semaine] Special
 #critic.de
-# Screen Daily
-# Le film français
-# ioncinema
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# FIPRESCI
+# OutNow (1 3 5 7 8 10)
+#dkstjernebarometer
+# Pelna Sala
+# caiman
+# Académie des Lumières
+# Russian film critics
+#letterboxd
+
+"Queens of Drama (Les Reines du drame) (Alexis Langlois, F/B) [Semaine] Special
+
+#critic.de
 # ics
 # chaosreign.fr
 # cahier
@@ -27083,8 +26732,6 @@ AmineTorgeman       1
 "Animale" (Emma Benestan, F/B/SA) [Semaine] Closing
 
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -27110,8 +26757,6 @@ ACID
 "Ce n'est qu'un au revoir" (Guillaume Brac) [ACID]
   66m
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -27176,9 +26821,8 @@ Sarah Cerange       5
 Jean-Philippe Guerand 4
 
 "Château Rouge" (Hélène Milano) [ACID]
+
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -27210,9 +26854,8 @@ ludovicbeot         5
 iwishisane          3
 
 "Fotogenico" (Marcia Romano, Benoît Sabatier) [ACID]
+
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -27245,10 +26888,9 @@ F€¥¥€               4   https://letterboxd.com/feyye/film/in-retreat/
 jo 🎐                3   https://letterboxd.com/joannasc/film/in-retreat/
 
 "It Doesn't Matter" (Josh Mond) [ACID]
+
 #critic.de
 Till Kadritzke        6
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
@@ -27463,8 +27105,6 @@ Dunja Bialas          7.5
 
 "Most People Die on Sundays (Los domingos mueren más personas)" (Iair Said) [ACID]
 #critic.de
-# Screen Daily
-# Le film français
 # ioncinema
 # ics
 # chaosreign.fr
