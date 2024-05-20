@@ -19,7 +19,7 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://www.ioncinema.com/tag/2024-cannes-critic-panel (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2024
 #   http://jury.critic.de/cannes/ 
-#   https://www.screendaily.com/news/cannes-2024-screen-dailies/5182049.article
+#   https://www.screendaily.com/news/cannes-2024-screens-dailies/5193367.article
 #   https://icsfilm.org/festivals/cannes/cannes-2024-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/festival-cannes-2024-tableau-etoiles-critique-competition-film/
@@ -113,6 +113,9 @@ dittedc             4
 
 "BIRD" (Andrea ARNOLD) [Competition]
 
+Owen Gleiberman         https://variety.com/2024/film/reviews/bird-review-barry-koeghan-franz-rokowski-andrea-arnold-cannes-1236006031/
+Lee Marshall            https://www.screendaily.com/reviews/bird-cannes-review/5193593.article
+Rory O'Connor           https://thefilmstage.com/cannes-review-in-bird-andrea-arnolds-experiment-in-magical-realism-rarely-takes-off/
 #critic.de
 Dunja Bialas          9
 Valerie Dirk          7.5     https://www.derstandard.at/story/3000000220538/ausgebuhtes-genie-und-eine-nahbare-filmarbeiterin-zum-festivalstart-in-cannes
@@ -121,8 +124,19 @@ Till Kadritzke        5
 Michael Meyns         6
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/bird-2024/
 # Screen Daily
+Nt Binh                  7.5
+Tim Robey/Robbie Collin  5
+Katja Nikodemus          5
+Ben Kenigsberg           5
+Anton Dolin              5
+Peter Bradshaw           5
+Justin Chang             5
+Stephanie Zacharek       7.5
+Ahmed Shawky             5
+Mathieu Macheret         5
+Kong Ritchie             7.5
+Screen International     7.5
 # Le film français
-Owen Gleiberman         https://variety.com/2024/film/reviews/bird-review-barry-koeghan-franz-rokowski-andrea-arnold-cannes-1236006031/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -142,8 +156,6 @@ Stephanie Zacharek       6
 # caiman
 # Académie des Lumières
 # Russian film critics
-Lee Marshall            https://www.screendaily.com/reviews/bird-cannes-review/5193593.article
-Rory O'Connor           https://thefilmstage.com/cannes-review-in-bird-andrea-arnolds-experiment-in-magical-realism-rarely-takes-off/
 #letterboxd
 haddockt            10
 Ciaran Douglas      10
@@ -906,6 +918,10 @@ emdl                1
 
 "EMILIA PEREZ" (Jacques AUDIARD, F) [Competition]
 
+Peter Debruge           https://variety.com/2024/film/reviews/emilia-perez-review-selena-gomez-zoe-saldana-1236008567/
+Lee Marshall            https://www.screendaily.com/reviews/emilia-perez-cannes-review/5193701.article
+Peter Bradshaw    8    https://www.theguardian.com/film/article/2024/may/18/emilia-perez-review-jacques-audiards-gangster-trans-musical-barrels-along-in-style
+Ryan McQuade          https://awardswatch.com/emilia-perez-review-zoe-saldana-selena-gomez-and-karla-sofia-gascon-are-sensational-in-delightfully-unhinged-jacques-audiard-musical-cannes/
 #critic.de
 Valerie Dirk          9
 Till Kadritzke        6
@@ -913,8 +929,19 @@ Michael Meyns         5
 Pavao Vlajcic         7.5     https://letterboxd.com/powwow/film/emilia-perez/
 Rüdiger Suchsland    6
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Peter Debruge           https://variety.com/2024/film/reviews/emilia-perez-review-selena-gomez-zoe-saldana-1236008567/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -933,9 +960,6 @@ J. Sperling Reich        8
 # caiman
 # Académie des Lumières
 # Russian film critics
-Lee Marshall            https://www.screendaily.com/reviews/emilia-perez-cannes-review/5193701.article
-Peter Bradshaw    8    https://www.theguardian.com/film/article/2024/may/18/emilia-perez-review-jacques-audiards-gangster-trans-musical-barrels-along-in-style
-Ryan McQuade          https://awardswatch.com/emilia-perez-review-zoe-saldana-selena-gomez-and-karla-sofia-gascon-are-sensational-in-delightfully-unhinged-jacques-audiard-musical-cannes/
 #letterboxd
 tschlompf           10   https://letterboxd.com/tschlompf/film/emilia-perez/
 Christopher Redmond 10   https://letterboxd.com/c_redmond/film/emilia-perez/
@@ -1542,6 +1566,18 @@ Cyprien_Caddeo      1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -1572,6 +1608,12 @@ livia               1
 
 "MEGALOPOLIS" (Francis Ford COPPOLA) [Competition]
 
+Peter Debruge           https://variety.com/2024/film/reviews/megalopolis-review-francis-ford-coppola-1236005482/
+Tim Grierson            https://www.screendaily.com/reviews/megalopolis-cannes-review/5193570.article
+Savina Petkova    8    https://awardswatch.com/megalopolis-review-coppolas-roman-empire-hits-audacious-heights-of-brilliance-and-excess-cannes/
+Luke Hicks              https://thefilmstage.com/cannes-review-francis-ford-coppolas-megalopolis-is-a-garish-wonder-to-behold/
+Peter Bradshaw    6    https://www.theguardian.com/film/article/2024/may/16/megalopolis-review-coppola-sci-fi-adam-driver
+Steve Pond              https://www.thewrap.com/francis-ford-coppola-megalopolis-reviews-cannes/
 #critic.de
 Valerie Dirk          5       https://www.derstandard.at/story/3000000220538/ausgebuhtes-genie-und-eine-nahbare-filmarbeiterin-zum-festivalstart-in-cannes
 Jenny Jecke           7.5     https://www.moviepilot.de/news/fast-so-alt-wie-star-wars-der-aufregendste-sci-fi-film-2024-ist-nach-47-jahren-planung-endlich-da-1147319
@@ -1580,8 +1622,19 @@ Michael Meyns         5
 Pavao Vlajcic         5       https://letterboxd.com/powwow/film/megalopolis-2024/
 Rüdiger Suchsland    7.5     https://open.spotify.com/episode/57s4b7V2BagpO83N33zGby
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Peter Debruge           https://variety.com/2024/film/reviews/megalopolis-review-francis-ford-coppola-1236005482/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -1600,11 +1653,6 @@ Stephanie Zacharek       6
 # caiman
 # Académie des Lumières
 # Russian film critics
-Tim Grierson            https://www.screendaily.com/reviews/megalopolis-cannes-review/5193570.article
-Savina Petkova    8    https://awardswatch.com/megalopolis-review-coppolas-roman-empire-hits-audacious-heights-of-brilliance-and-excess-cannes/
-Luke Hicks              https://thefilmstage.com/cannes-review-francis-ford-coppolas-megalopolis-is-a-garish-wonder-to-behold/
-Peter Bradshaw    6    https://www.theguardian.com/film/article/2024/may/16/megalopolis-review-coppola-sci-fi-adam-driver
-Steve Pond              https://www.thewrap.com/francis-ford-coppola-megalopolis-reviews-cannes/
 #letterboxd
 Letterboxd 36_Ratings	6.81  https://letterboxd.com/film/megalopolis-2024/
 beanieseegs24       10
@@ -2626,6 +2674,18 @@ kie                 1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -2663,11 +2723,25 @@ Arnotte             1
 
 "THE SUBSTANCE" (Coralie FARGEAT) [Competition]
 
+Owen Gleiberman         https://variety.com/2024/film/reviews/the-substance-review-margaret-qualley-demi-moore-dennis-quaid-1236009235/
+Tim Grierson            https://www.screendaily.com/reviews/the-substance-cannes-review/5193756.article
+Peter Bradshaw    4    https://www.theguardian.com/film/article/2024/may/19/the-substance-review-demi-moore-coralie-fargeat
 #critic.de
 Rüdiger Suchsland    1
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Owen Gleiberman         https://variety.com/2024/film/reviews/the-substance-review-margaret-qualley-demi-moore-dennis-quaid-1236009235/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -2680,8 +2754,6 @@ Owen Gleiberman         https://variety.com/2024/film/reviews/the-substance-revi
 # caiman
 # Académie des Lumières
 # Russian film critics
-Tim Grierson            https://www.screendaily.com/reviews/the-substance-cannes-review/5193756.article
-Peter Bradshaw    4    https://www.theguardian.com/film/article/2024/may/19/the-substance-review-demi-moore-coralie-fargeat
 #letterboxd
 Robin Doux          10   https://letterboxd.com/kritik_de_robin/film/the-substance/
 Sofyguetap          10   https://letterboxd.com/sofyguetap/film/the-substance/
@@ -2951,6 +3023,18 @@ Christine Yan       1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -2979,6 +3063,18 @@ peenth              4
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -3003,6 +3099,9 @@ golan               4
 
 "CAUGHT THE TIDES (FENG LIU YI DAI)" (JIA Zhang-Ke) [Competition]
 
+Jessica Kiang           https://variety.com/2024/film/reviews/caught-by-the-tides-review-jia-zhangke-1236005134/
+Fionnuala Halligan      https://www.screendaily.com/reviews/caught-by-the-tides-cannes-review/5193523.article
+Steve Pond              https://www.thewrap.com/caught-by-the-tides-review-jia-zhangke-cannes/
 #critic.de
 Dunja Bialas          7.5
 Valerie Dirk          7.5
@@ -3012,8 +3111,19 @@ Michael Meyns         7.5
 Pavao Vlajcic         5       https://letterboxd.com/powwow/film/caught-by-the-tides/
 Rüdiger Suchsland    7.5
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Jessica Kiang           https://variety.com/2024/film/reviews/caught-by-the-tides-review-jia-zhangke-1236005134/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -3032,8 +3142,6 @@ Stephanie Zacharek       6
 # caiman
 # Académie des Lumières
 # Russian film critics
-Fionnuala Halligan      https://www.screendaily.com/reviews/caught-by-the-tides-cannes-review/5193523.article
-Steve Pond              https://www.thewrap.com/caught-by-the-tides-review-jia-zhangke-cannes/
 #letterboxd
 starboy             10
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/caught-by-the-tides/
@@ -3386,6 +3494,18 @@ Ahmad Nadalizadeh   1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -3417,6 +3537,12 @@ Raspou              4
 
 "KINDS OF KINDNESS" (Yórgos LÁNTHIMOS, Gr) [Competition]
 
+Peter Debruge           https://variety.com/2024/film/reviews/kinds-of-kindness-review-emma-stone-yorgos-lanthimos-1236006458/
+Fionnuala Halligan      https://www.screendaily.com/reviews/kinds-of-kindness-cannes-review/5193502.article
+Savina Petkova    8    https://awardswatch.com/kinds-of-kindness-review-domination-and-submission-grab-hold-in-fresh-triptych-for-the-lanthimos-pilled-cannes/
+Peter Bradshaw    8    https://www.theguardian.com/film/article/2024/may/17/kinds-of-kindness-review-yorgos-lanthimos-stone-dafoe-plemons
+Luke Hicks              https://thefilmstage.com/cannes-review-yorgos-lanthimos-kinds-of-kindness-is-an-anthology-film-of-dark-if-slight-delights/
+Steve Pond              https://www.thewrap.com/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-willem-dafoe-cannes/
 #critic.de
 Dunja Bialas          4       https://www.artechock.de/film/text/artikel/2024/05_19_cannes_extraktivist.html
 Valerie Dirk          2.5
@@ -3425,8 +3551,19 @@ Michael Meyns         7.5
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/kinds-of-kindness/
 Rüdiger Suchsland    2.5
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Peter Debruge           https://variety.com/2024/film/reviews/kinds-of-kindness-review-emma-stone-yorgos-lanthimos-1236006458/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -3447,11 +3584,6 @@ Stephanie Zacharek       2
 # caiman
 # Académie des Lumières
 # Russian film critics
-Fionnuala Halligan      https://www.screendaily.com/reviews/kinds-of-kindness-cannes-review/5193502.article
-Savina Petkova    8    https://awardswatch.com/kinds-of-kindness-review-domination-and-submission-grab-hold-in-fresh-triptych-for-the-lanthimos-pilled-cannes/
-Peter Bradshaw    8    https://www.theguardian.com/film/article/2024/may/17/kinds-of-kindness-review-yorgos-lanthimos-stone-dafoe-plemons
-Luke Hicks              https://thefilmstage.com/cannes-review-yorgos-lanthimos-kinds-of-kindness-is-an-anthology-film-of-dark-if-slight-delights/
-Steve Pond              https://www.thewrap.com/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-willem-dafoe-cannes/
 #letterboxd
 Letterboxd 9_Ratings	5.44  https://letterboxd.com/film/kinds-of-kindness/
 Cris Raiol          10
@@ -4489,6 +4621,18 @@ tay                 1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -4521,6 +4665,10 @@ anais_mal_          1
 "WILD DIAMOND (DIAMANT BRUT)" (Agathe RIEDINGER) [Competition]
  1er film
 
+Wendy Ide               https://www.screendaily.com/reviews/wild-diamond-cannes-review/5193482.article
+Owen Gleiberman         https://variety.com/2024/film/reviews/wild-diamond-review-cannes-1236003568/
+Savina Petkova          https://thefilmstage.com/cannes-review-wild-diamond-shines-bright-but-deprives-hyper-femininity-from-sensual-core/
+Steve Pond              https://www.thewrap.com/wild-diamond-movie-review/
 #critic.de
 Valerie Dirk          6
 Jenny Jecke           5
@@ -4528,8 +4676,19 @@ Michael Meyns         4
 Pavao Vlajcic         5       https://letterboxd.com/powwow/film/wild-diamond/
 Rüdiger Suchsland    6
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Wendy Ide               https://www.screendaily.com/reviews/wild-diamond-cannes-review/5193482.article
 # ioncinema
 # ics
 # chaosreign.fr
@@ -4550,9 +4709,6 @@ Stephanie Zacharek       4
 # caiman
 # Académie des Lumières
 # Russian film critics
-Owen Gleiberman         https://variety.com/2024/film/reviews/wild-diamond-review-cannes-1236003568/
-Savina Petkova          https://thefilmstage.com/cannes-review-wild-diamond-shines-bright-but-deprives-hyper-femininity-from-sensual-core/
-Steve Pond              https://www.thewrap.com/wild-diamond-movie-review/
 #letterboxd
 Debzzzz             10
 Roy_Kent            10
@@ -5114,6 +5270,10 @@ BrandoHu            1
 
 "OH, CANADA" (Paul SCHRADER) [Competition]
 
+Peter Debruge           https://variety.com/2024/film/reviews/oh-canada-review-paul-schrader-1236007691/
+Jonathan Romney         https://www.screendaily.com/reviews/oh-canada-cannes-review/5193323.article
+Rory O'Connor           https://thefilmstage.com/cannes-review-oh-canada-finds-paul-schrader-meditating-on-the-indignities-of-dying/
+Savina Petkova    6    https://awardswatch.com/oh-canada-review-proxy-richard-gere-is-superb-as-paul-schrader-points-the-camera-at-himself-cannes/
 #critic.de
 Dunja Bialas          5
 Valerie Dirk          2.5
@@ -5122,8 +5282,19 @@ Michael Meyns         5
 Pavao Vlajcic         4       https://letterboxd.com/powwow/film/oh-canada/
 Rüdiger Suchsland    7.5
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Peter Debruge           https://variety.com/2024/film/reviews/oh-canada-review-paul-schrader-1236007691/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -5143,9 +5314,6 @@ Stephanie Zacharek       4
 # caiman
 # Académie des Lumières
 # Russian film critics
-Jonathan Romney         https://www.screendaily.com/reviews/oh-canada-cannes-review/5193323.article
-Rory O'Connor           https://thefilmstage.com/cannes-review-oh-canada-finds-paul-schrader-meditating-on-the-indignities-of-dying/
-Savina Petkova    6    https://awardswatch.com/oh-canada-review-proxy-richard-gere-is-superb-as-paul-schrader-points-the-camera-at-himself-cannes/
 #letterboxd
 Brian Brennan       10
 misterchrisaris     10
@@ -5954,11 +6122,24 @@ Galactic2024        1
 
 "LIMONOV – THE BALLAD" (Kirill SEREBRENNIKOV) [Competition]
 
+Jessica Kiang           https://variety.com/2024/film/reviews/limonov-the-ballad-review-ben-whishaw-1236009366/
+Jonathan Romney         https://www.screendaily.com/reviews/limonov-the-ballad-cannes-review/5193539.article
 #critic.de
 Rüdiger Suchsland    9
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Jessica Kiang           https://variety.com/2024/film/reviews/limonov-the-ballad-review-ben-whishaw-1236009366/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -5973,7 +6154,6 @@ J. Sperling Reich        4
 # caiman
 # Académie des Lumières
 # Russian film critics
-Jonathan Romney         https://www.screendaily.com/reviews/limonov-the-ballad-cannes-review/5193539.article
 #letterboxd
 aurawr              10
 ArmerdeAvt          10
@@ -6182,6 +6362,18 @@ talkinglexa         1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -6224,6 +6416,9 @@ balencianxiety      1
 
 "THE GIRL WITH THE NEEDLE (Pigen med Nålen)" (Magnus VON HORN, Den) [Competition]
 
+Guy Lodge               https://variety.com/2024/film/reviews/the-girl-with-the-needle-review-1236002246/
+Fionnuala Halligan      https://www.screendaily.com/reviews/the-girl-with-the-needle-cannes-review/5193333.article
+Savina Petkova          https://thefilmstage.com/cannes-review-the-girl-with-the-needle-finds-magnus-von-horn-reinventing-himself-as-a-chronicler-of-the-macabre/
 #critic.de
 Valerie Dirk          5
 Jenny Jecke           4
@@ -6231,8 +6426,19 @@ Michael Meyns         6
 Pavao Vlajcic         2.5     https://letterboxd.com/powwow/film/the-girl-with-the-needle/
 Rüdiger Suchsland    5
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Guy Lodge               https://variety.com/2024/film/reviews/the-girl-with-the-needle-review-1236002246/
 # ioncinema
 # ics
 # chaosreign.fr
@@ -6252,8 +6458,6 @@ Stephanie Zacharek       4
 # caiman
 # Académie des Lumières
 # Russian film critics
-Fionnuala Halligan      https://www.screendaily.com/reviews/the-girl-with-the-needle-cannes-review/5193333.article
-Savina Petkova          https://thefilmstage.com/cannes-review-the-girl-with-the-needle-finds-magnus-von-horn-reinventing-himself-as-a-chronicler-of-the-macabre/
 #letterboxd
 bntn                10
 Jennifer // Blu     10
@@ -6966,6 +7170,18 @@ DannaMontanna       1
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -6995,6 +7211,18 @@ sbra                5
 
 #critic.de
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
 # ioncinema
 # ics
@@ -7015,14 +7243,28 @@ Frances James       7
 
 "THREE KILOMETRES TO THE END OF THE WORLD" (Emanuel PARVU) [Competition]
 
+Wendy Ide               https://www.screendaily.com/reviews/three-kilometers-to-the-end-of-the-world-cannes-review/5193664.article
+Guy Lodge               https://variety.com/2024/film/reviews/three-kilometers-to-the-end-of-the-world-review-1236007778/
+Ali Benzekri      7    https://awardswatch.com/three-kilometers-to-the-end-of-the-world-review-emanuel-parvu-examines-homophobia-in-a-small-romanian-town-cannes/
 #critic.de
 Dunja Bialas          7.5
 Till Kadritzke        6
 Michael Meyns         6
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/three-kilometres-to-the-end-of-the-world/
 # Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
 # Le film français
-Wendy Ide               https://www.screendaily.com/reviews/three-kilometers-to-the-end-of-the-world-cannes-review/5193664.article
 # ioncinema
 # ics
 # chaosreign.fr
@@ -7041,8 +7283,6 @@ Stephanie Zacharek       6
 # caiman
 # Académie des Lumières
 # Russian film critics
-Guy Lodge               https://variety.com/2024/film/reviews/three-kilometers-to-the-end-of-the-world-review-1236007778/
-Ali Benzekri      7    https://awardswatch.com/three-kilometers-to-the-end-of-the-world-review-emanuel-parvu-examines-homophobia-in-a-small-romanian-town-cannes/
 #letterboxd
 alexpopescu218      10
 Mathieu Donner      10
@@ -28134,17 +28374,17 @@ Catherine Balle (La Parisien)
 # https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=4d9383c0-371b-45b9-a84c-741f08269742
 $critics_group[$i] = "Screen Daily";
 $critics[$i++] = "
-Justin Chang ((LA Times, USA))
-Peter Bradshaw (Guardian, UK)
-Anton Dolin (Meduza, Latvia)
+Nt Binh (Positif, France)
 Tim Robey/Robbie Collin (The Telegraph, UK)
-Kong Ritchie (Bankkong Post, Thailand)
 Katja Nicodemus (Die Zeit, Deutschland)
-Michel Cement (Positif, France)
-Carisse Fabre (Le Monde, France)
-Stephanie Zacharek (TIME, USA)
 Ben Kenigsberg (RogerEbert.com, USA)
+Anton Dolin (Meduza, Latvia)
+Peter Bradshaw (Guardian, UK)
+Justin Chang ((LA Times, USA))
+Stephanie Zacharek (TIME, USA)
 Ahmed Shawky (fifan.com, Egypt)
+Mathieu Macheret (Le Monde, France)
+Kong Ritchie (Bankkong Post, Thailand)
 Screen International (Screen International, USA)
 ";
 $critics_group[$i] = "ioncinema";
