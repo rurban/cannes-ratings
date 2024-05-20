@@ -27,10 +27,11 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2024/
 #   https://wask.fr/les-etoiles-wask-2024-jour-par-jour/
 #   https://outnow.ch/News/2024/05/19/OutNow-Jury-Grid-at-Cannes-2024-So-ist-Indiana-Jones-5-angekommen
-#   https://www.filmneweurope.com/news/region/item/124784-fne-at-cannes-2024-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
+#   https://www.filmneweurope.com/fipresci-warsaw-critics-project-2018
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   https://pelnasala.pl/cannes-2024-grid/  https://twitter.com/tomasz_poborca 
-#   https://www.caimanediciones.es/wp-content/uploads/2024/05/critics_panel_CANNES-2024.pdf
+#   https://pelnasala.pl/cannes-2024-grid/  https://twitter.com/tomasz_poborca
+#     https://pelnasala.pl/category/festiwale/cannes/
+#   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
 #   Académie des Lumières: https://twitter.com/prixlumieres
 #   https://daily.afisha.ru/stories/25573-filmy-kannskogo-kinofestivalya-2024-ocenki-rossiyskih-kinokritikov/
 # Reviews: 
@@ -169,6 +170,19 @@ J. Sperling Reich        2
 Stephanie Zacharek       4
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -861,6 +875,19 @@ J. Sperling Reich        4
 Stephanie Zacharek       4
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -1701,6 +1728,19 @@ J. Sperling Reich        6
 Stephanie Zacharek       6
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -2603,6 +2643,19 @@ J. Sperling Reich        4
 Stephanie Zacharek       6
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -3764,6 +3817,19 @@ J. Sperling Reich        6
 Stephanie Zacharek       6
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -4180,6 +4246,19 @@ J. Sperling Reich        6
 Stephanie Zacharek       2
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -5440,6 +5519,19 @@ J. Sperling Reich        4
 Stephanie Zacharek       4
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -6460,6 +6552,19 @@ J. Sperling Reich        4
 Stephanie Zacharek       6
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -6992,6 +7097,19 @@ Nicolás Medina          8
 Pragya Mishra            8
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -7802,6 +7920,19 @@ Pragya Mishra            6
 J. Sperling Reich        4
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -8374,6 +8505,19 @@ Pragya Mishra            8
 J. Sperling Reich        6
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9047,6 +9191,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9173,6 +9330,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9303,6 +9473,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9424,6 +9607,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9537,6 +9733,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9669,6 +9878,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9773,6 +9995,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -9894,6 +10129,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -10016,6 +10264,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -10136,6 +10397,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -10249,6 +10523,19 @@ OutNow
 #dkstjernebarometer
 # Pelna Sala
 # caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # Académie des Lumières
 # Russian film critics
 #letterboxd
@@ -10324,6 +10611,20 @@ Olivie Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 audrey              10
@@ -10788,6 +11089,20 @@ Olivie Cooper-Hadjian    2.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Mathieu Donner      10
@@ -11260,6 +11575,20 @@ Olivie Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Kimyan              10
@@ -11646,6 +11975,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 adelesher           10
@@ -11884,6 +12227,20 @@ Olivie Cooper-Hadjian    5
 Yal Sadat                
 Thierry Méranger         5
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 jeannelarrera       10   https://letterboxd.com/jeannelarrera/film/holy-cow-2024/
@@ -12173,6 +12530,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                7.5
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Debzzzz             10
@@ -12397,6 +12768,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Ahmad Nadalizadeh   10   https://letterboxd.com/ahmadnadali/film/black-dog-2024/
@@ -12623,6 +13008,20 @@ Olivie Cooper-Hadjian    2.5
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Sarahsarai          10
@@ -12798,6 +13197,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 jzman               10
@@ -12989,6 +13402,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 anaicine            10
@@ -13084,6 +13511,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 annasorc            8
@@ -13167,6 +13608,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 ktoendel            10   https://letterboxd.com/ktoendel/film/armand/
@@ -13422,6 +13877,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 SaraC31             10
@@ -13473,6 +13942,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 AdriennevdBerg      8
@@ -13526,6 +14009,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Bourdieu            8
@@ -13566,6 +14063,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 sbra                10
@@ -13625,6 +14136,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Harish Mallya       6
@@ -13671,6 +14196,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 LeliaS              8
@@ -13743,6 +14282,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 The cinema adoré    10
@@ -22041,6 +22594,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 lovewins            10
@@ -22076,6 +22643,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 #dunnesvendetta      10
@@ -22123,6 +22704,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 cloporte20          10
@@ -22648,6 +23243,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Letterboxd 50_Ratings	7.26  https://letterboxd.com/film/furiosa-a-mad-max-saga/
@@ -24252,6 +24861,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Letterboxd 663_Ratings	7.2  https://letterboxd.com/film/twilight-of-the-warriors-walled-in/
@@ -25614,6 +26237,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 fulhamfc33          10
@@ -26161,6 +26798,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 lazouz              10
@@ -26534,6 +27185,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Ben                 2
@@ -26565,6 +27230,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 eli_thlt            10
@@ -26698,6 +27377,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 femmedelombre       10
@@ -26908,6 +27601,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 nat                 10
@@ -27034,6 +27741,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Frédéric Vidal      9
@@ -27064,6 +27785,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 A_nos_amours        7
@@ -27097,6 +27832,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 arthurlemouton      10
@@ -27300,6 +28049,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 juliette 🍿          6
@@ -27336,6 +28099,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 
@@ -27364,6 +28141,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 
@@ -27392,6 +28183,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 VComplex            7
@@ -27425,6 +28230,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 johannkreisler      10
@@ -27506,6 +28325,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 ohsassou            7
@@ -27537,6 +28370,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 acabesitos          7
@@ -27579,6 +28426,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Epiphany215         10
@@ -27867,6 +28728,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Polly               10
@@ -28187,6 +29062,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Paulcrlt            10
@@ -28346,6 +29235,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 mearmsmearms        10
@@ -28626,6 +29529,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Eliana Henrich      10   https://letterboxd.com/fatass_mozza/film/desert-of-namibia/
@@ -28767,6 +29684,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 
@@ -28806,6 +29737,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 ludovicbeot         8
@@ -28853,6 +29798,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Eric Bolton         10   https://letterboxd.com/ericgbolton/film/eephus/
@@ -29005,6 +29964,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Jordan Toussaint    10
@@ -29053,6 +30026,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Nero Fantasy        10
@@ -29101,6 +30088,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Letterboxd 1136_Ratings	7.2  https://letterboxd.com/film/good-one/
@@ -29143,6 +30144,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 alientree           10
@@ -29215,6 +30230,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 F€¥¥€               9   https://letterboxd.com/feyye/film/visiting-hours-2024/
@@ -29384,6 +30413,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Simon_Reshevsky     8
@@ -29483,6 +30526,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 CocoBahabuli        10
@@ -29615,6 +30672,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 mmmlauro            10
@@ -29770,6 +30841,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 gazettely           9   https://letterboxd.com/gazettely/film/the-falling-sky-2024/
@@ -29855,6 +30940,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Narce Ruiz          10   https://letterboxd.com/narceruiz/film/the-hyperboreans/
@@ -30063,6 +31162,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Chareleau           10
@@ -30197,6 +31310,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Paul_jll            10
@@ -30246,6 +31373,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Daniel Allen        10
@@ -30443,6 +31584,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Raphaël Hausséguy   10
@@ -30745,6 +31900,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Julian              10
@@ -31013,6 +32182,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 PresleySchmitt      10   https://letterboxd.com/presleyschmitt/film/locust-2024/
@@ -31210,6 +32393,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 
@@ -31237,6 +32434,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Clara_mp4           10
@@ -31326,6 +32537,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 bertmo              10
@@ -31471,6 +32696,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 
@@ -31498,6 +32737,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Jonah               10
@@ -31631,6 +32884,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 michael_vetra21     10
@@ -31699,6 +32966,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 raphaelhduarte      10
@@ -31732,6 +33013,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Théo Jacquart       8
@@ -31768,6 +33063,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Nina Fragale        10
@@ -31871,6 +33180,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 charlynegenoud      10
@@ -31970,6 +33293,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 David_Cox           10   https://letterboxd.com/david_cox/film/ce-nest-quun-au-revoir/
@@ -32053,6 +33390,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 lookat29            8
@@ -32160,6 +33511,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 iairsaid            10
@@ -32234,6 +33599,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Wellington Almeida  7
@@ -32277,6 +33656,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 ruthra_13           10
@@ -32325,6 +33718,20 @@ Olivie Cooper-Hadjian
 Yal Sadat                
 Thierry Méranger         
 Louis Séguin             
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 #letterboxd
 Jean-François Ier   6
@@ -33325,12 +34732,12 @@ Michal Walkiewicz (Filmweb, Poland)
 ";
 $critics_group[$i] = "caiman";
 $critics[$i++] = "
+Nt Binh (Positif, France)
 Jean-Michel Frodon (Slate, France)
 Devika Girish (Film Comment, USA)
 Roger Koza (Con los ojos abiertos, Argentina)
 Jean-Marc Lalanne (Les Inrockuptibles, France)
 Jonathan Romney (Screen International, UK)
-Yann Tobin (Positif, France)
 Marcos Uzal (Cahiers du cinéma, France)
 Stephanie Zacharek (Time, USA)
 Carlos F. Heredero (Caimán Cuadernos de Cine, España)
