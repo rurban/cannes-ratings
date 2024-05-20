@@ -10,7 +10,7 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   D+ 1.5  D 1   D- 1
 #   E 0.5   F 0
 # indiewire does C => 4
-# Le film français+Screen Daily+Media Cine 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# Le film français+Screen Daily+Media Cine+cahier 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
 # ch,dk,ru,FNE 1-5: x2
 # British 0-5: x2
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
@@ -119,6 +119,13 @@ Jordan Mintzer           6
 Amandine Rebourg         8
 Philippe Rouyer          4
 # cahier
+Fernando Ganzo           
+Marcos Uzal              5
+Charlotte Garson         5
+Olivie Cooper-Hadjian    2.5
+Yal Sadat                
+Thierry Méranger         5
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -782,6 +789,13 @@ Jordan Mintzer           8
 Amandine Rebourg         
 Philippe Rouyer          6
 # cahier
+Fernando Ganzo           
+Marcos Uzal              2.5
+Charlotte Garson         2.5
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -1592,6 +1606,13 @@ Jordan Mintzer           8
 Amandine Rebourg         
 Philippe Rouyer          6
 # cahier
+Fernando Ganzo           
+Marcos Uzal              2.5
+Charlotte Garson         1
+Olivie Cooper-Hadjian    7.5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -2464,6 +2485,13 @@ Jordan Mintzer           6
 Amandine Rebourg         10
 Philippe Rouyer          2
 # cahier
+Fernando Ganzo           5
+Marcos Uzal              9
+Charlotte Garson         2.5
+Olivie Cooper-Hadjian    1
+Yal Sadat                2.5
+Thierry Méranger         7.5
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -3593,6 +3621,13 @@ Jordan Mintzer           6
 Amandine Rebourg         
 Philippe Rouyer          6
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                5
+Thierry Méranger         5
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -3975,6 +4010,13 @@ Jordan Mintzer           8
 Amandine Rebourg         
 Philippe Rouyer          2
 # cahier
+Fernando Ganzo           1
+Marcos Uzal              1
+Charlotte Garson         1
+Olivie Cooper-Hadjian    5
+Yal Sadat                2.5
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -5197,6 +5239,13 @@ Jordan Mintzer           4
 Amandine Rebourg         6
 Philippe Rouyer          4
 # cahier
+Fernando Ganzo           
+Marcos Uzal              5
+Charlotte Garson         5
+Olivie Cooper-Hadjian    5
+Yal Sadat                7.5
+Thierry Méranger         7.5
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -6175,6 +6224,13 @@ Jordan Mintzer           8
 Amandine Rebourg         
 Philippe Rouyer          8
 # cahier
+Fernando Ganzo           5
+Marcos Uzal              2.5
+Charlotte Garson         
+Olivie Cooper-Hadjian    1
+Yal Sadat                5
+Thierry Méranger         7.5
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -6670,6 +6726,13 @@ Jordan Mintzer           8
 Amandine Rebourg         10
 Philippe Rouyer          10
 # cahier
+Fernando Ganzo           2.5
+Marcos Uzal              1
+Charlotte Garson         2.5
+Olivie Cooper-Hadjian    
+Yal Sadat                2.5
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -7403,6 +7466,13 @@ Jordan Mintzer           6
 Amandine Rebourg         6
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              2.5
+Charlotte Garson         2.5
+Olivie Cooper-Hadjian    2.5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -7888,6 +7958,13 @@ Jordan Mintzer           4
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              1
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -8443,6 +8520,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -8541,6 +8625,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -8642,6 +8733,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -8735,6 +8833,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -8821,6 +8926,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -8926,6 +9038,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -9003,6 +9122,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -9097,6 +9223,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -9191,6 +9324,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -9284,6 +9424,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -9369,6 +9516,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # Chinese @CriticsGrid
 # FIPRESCI
 # OutNow (1 3 5 7 8 10)
@@ -9452,6 +9606,13 @@ Jordan Mintzer
 Amandine Rebourg         
 Philippe Rouyer          
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 audrey              10
@@ -9910,6 +10071,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             8
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    2.5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Mathieu Donner      10
@@ -10368,6 +10536,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           5
+Marcos Uzal              
+Charlotte Garson         5
+Olivie Cooper-Hadjian    5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Kimyan              10
@@ -10747,6 +10922,13 @@ Nanako Tsukidate         2
 Anais Bordages           
 Diego Batlle             5
 # cahier
+Fernando Ganzo           1
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 eidikyte            10
@@ -10960,6 +11142,13 @@ Nanako Tsukidate         3
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         5
+Olivie Cooper-Hadjian    5
+Yal Sadat                
+Thierry Méranger         5
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 jeannelarrera       10   https://letterboxd.com/jeannelarrera/film/holy-cow-2024/
@@ -11241,6 +11430,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             6
 # cahier
+Fernando Ganzo           
+Marcos Uzal              2.5
+Charlotte Garson         2.5
+Olivie Cooper-Hadjian    
+Yal Sadat                7.5
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Debzzzz             10
@@ -11453,6 +11649,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              5
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Ahmad Nadalizadeh   10   https://letterboxd.com/ahmadnadali/film/black-dog-2024/
@@ -11634,7 +11837,7 @@ ludovicbeot         4
 robc3366            2
 
 
-"L’HISTOIRE DE SOULEYMANE" (Boris LOJKINE) [Un Certain Regard]
+"The Story of Souleymane (L’HISTOIRE DE SOULEYMANE)" (Boris LOJKINE) [Un Certain Regard]
 
 #critic.de
 # Screen Daily
@@ -11669,6 +11872,13 @@ Nanako Tsukidate         3
 Anais Bordages           8
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    2.5
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -11709,6 +11919,13 @@ Nanako Tsukidate         3
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 jzman               10
@@ -11889,6 +12106,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         1
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 Peter Debruge           https://variety.com/2024/film/reviews/the-kingdom-review-le-royaume-1236001520/
 Wendy Ide               https://www.screendaily.com/reviews/the-kingdom-cannes-review/5193169.article
@@ -11970,6 +12194,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 rejmuy              8
@@ -12030,6 +12261,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 Iana Murray       6    https://awardswatch.com/armand-review-renate-reinsve-is-electric-as-a-woman-on-the-verge-in-halfdan-ullman-tondels-enigmatic-debut-cannes/
 #letterboxd
@@ -12276,6 +12514,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 
 "THE VILLAGE NEXT TO PARADISE" (Mo HARAWE) [Un Certain Regard]
@@ -12314,6 +12559,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 SaraC31             10
@@ -12359,6 +12611,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 AdriennevdBerg      8
@@ -12405,6 +12664,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Bourdieu            8
@@ -12437,6 +12703,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 sbra                10
@@ -12489,6 +12762,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Harish Mallya       6
@@ -12528,6 +12808,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 LeliaS              8
@@ -12593,6 +12880,13 @@ Nanako Tsukidate         4
 Anais Bordages           6
 Diego Batlle             7
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 fruitduverger       10
@@ -20759,6 +21053,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 ka71e               6
@@ -20787,6 +21088,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 #dunnesvendetta      10
@@ -20827,6 +21135,13 @@ Nanako Tsukidate
 Anais Bordages           6
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 cloporte20          10
@@ -21320,6 +21635,13 @@ Nanako Tsukidate
 Anais Bordages           7
 Diego Batlle             8
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Letterboxd 50_Ratings	7.26  https://letterboxd.com/film/furiosa-a-mad-max-saga/
@@ -22904,6 +23226,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Letterboxd 663_Ratings	7.2  https://letterboxd.com/film/twilight-of-the-warriors-walled-in/
@@ -24243,6 +24572,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 fulhamfc33          10
@@ -24778,6 +25114,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Sarahsarai          10
@@ -25138,6 +25481,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -25161,6 +25511,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 eli_thlt            10
@@ -25287,6 +25644,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             7
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 femmedelombre       10
@@ -25488,6 +25852,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 nat                 10
@@ -25604,6 +25975,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Frédéric Vidal      9
@@ -25627,6 +26005,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 A_nos_amours        7
@@ -25654,6 +26039,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 arthurlemouton      10
@@ -25849,6 +26241,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 juliette 🍿          6
@@ -25878,6 +26277,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -25899,6 +26305,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -25920,6 +26333,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 VComplex            7
@@ -25946,6 +26366,13 @@ Nanako Tsukidate         4
 Anais Bordages           
 Diego Batlle             7
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 johannkreisler      10
@@ -26019,6 +26446,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 ohsassou            7
@@ -26043,6 +26477,13 @@ Nanako Tsukidate         4
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 acabesitos          7
@@ -26078,6 +26519,13 @@ Nanako Tsukidate         5
 Anais Bordages           
 Diego Batlle             7
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Epiphany215         10
@@ -26358,6 +26806,13 @@ Gautier Roos             6
 Thomas Gastaldi          6
 Fabien David             4
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Polly               10
@@ -26671,6 +27126,13 @@ Gautier Roos             8
 Thomas Gastaldi          8
 Fabien David             10
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 aurawr              10   https://letterboxd.com/aurawr/film/in-his-own-image/
@@ -26822,6 +27284,13 @@ Gautier Roos             4
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 mearmsmearms        10
@@ -27094,6 +27563,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             0.5
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Eliana Henrich      10   https://letterboxd.com/fatass_mozza/film/desert-of-namibia/
@@ -27228,6 +27704,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -27260,6 +27743,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 ludovicbeot         8
@@ -27300,6 +27790,13 @@ Gautier Roos
 Thomas Gastaldi          2
 Fabien David             8
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Eric Bolton         10   https://letterboxd.com/ericgbolton/film/eephus/
@@ -27437,6 +27934,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Jordan Toussaint    10
@@ -27478,6 +27982,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Nero Fantasy        10
@@ -27518,6 +28029,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 Allan Hunter            https://www.screendaily.com/reviews/good-one-cannes-review/5193060.article
 #letterboxd
@@ -27554,6 +28072,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 johannkreisler      10   https://letterboxd.com/johannkreisler/film/mongrel-2024/
@@ -27614,6 +28139,13 @@ Gautier Roos             8
 Thomas Gastaldi          6
 Fabien David             2
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 F€¥¥€               9   https://letterboxd.com/feyye/film/visiting-hours-2024/
@@ -27776,6 +28308,13 @@ Gautier Roos
 Thomas Gastaldi          6
 Fabien David             2
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 lookat29            8
@@ -27868,6 +28407,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             2
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 CocoBahabuli        10
@@ -27987,6 +28533,13 @@ Gautier Roos
 Thomas Gastaldi          8
 Fabien David             6
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 mmmlauro            10
@@ -28135,6 +28688,13 @@ Gautier Roos
 Thomas Gastaldi          8
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 Robert Daniels          https://www.screendaily.com/reviews/the-falling-sky-cannes-review/5193501.article
 #letterboxd
@@ -28213,6 +28773,13 @@ Gautier Roos             6
 Thomas Gastaldi          4
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Narce Ruiz          10   https://letterboxd.com/narceruiz/film/the-hyperboreans/
@@ -28411,6 +28978,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Nagu                10   https://letterboxd.com/nagu/film/the-other-way-around/
@@ -28530,6 +29104,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Paul_jll            10
@@ -28572,6 +29153,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Daniel Allen        10
@@ -28761,6 +29349,13 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Raphaël Hausséguy   10
@@ -29058,6 +29653,13 @@ Nanako Tsukidate         3
 Anais Bordages           3
 Diego Batlle             8
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Julian              10
@@ -29318,6 +29920,13 @@ Nanako Tsukidate         3
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 PresleySchmitt      10   https://letterboxd.com/presleyschmitt/film/locust-2024/
@@ -29507,6 +30116,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -29527,6 +30143,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Clara_mp4           10
@@ -29609,6 +30232,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Eltorero            10
@@ -29745,6 +30375,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 
@@ -29766,6 +30403,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Caitlin             10
@@ -29887,6 +30531,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 michael_vetra21     10
@@ -29939,6 +30590,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 raphaelhduarte      10
@@ -29966,6 +30624,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Théo Jacquart       8
@@ -29995,6 +30660,13 @@ Nanako Tsukidate         3
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Nina Fragale        10
@@ -30089,6 +30761,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 charlynegenoud      10
@@ -30182,6 +30861,13 @@ Nanako Tsukidate         4
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 David_Cox           10   https://letterboxd.com/david_cox/film/ce-nest-quun-au-revoir/
@@ -30259,6 +30945,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 lookat29            8
@@ -30360,6 +31053,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             7
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 iairsaid            10
@@ -30426,6 +31126,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Wellington Almeida  7
@@ -30463,6 +31170,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 saracf              10   https://letterboxd.com/saracf/film/chateau-rouge/
@@ -30501,6 +31215,13 @@ Nanako Tsukidate
 Anais Bordages           
 Diego Batlle             
 # cahier
+Fernando Ganzo           
+Marcos Uzal              
+Charlotte Garson         
+Olivie Cooper-Hadjian    
+Yal Sadat                
+Thierry Méranger         
+Louis Séguin             
 # FIPRESCI
 #letterboxd
 Jean-François Ier   6
