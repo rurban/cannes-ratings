@@ -25,7 +25,7 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/festival-cannes-2024-tableau-etoiles-critique-competition-film/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2024/
-#   https://wask.fr/les-etoiles-wask-de-la-quinzaine-2024-jour-par-jour/
+#   https://wask.fr/les-etoiles-wask-2024-jour-par-jour/
 #   https://outnow.ch/News/2024/05/19/OutNow-Jury-Grid-at-Cannes-2024-So-ist-Indiana-Jones-5-angekommen
 #   https://www.filmneweurope.com/news/region/item/124784-fne-at-cannes-2024-see-how-the-fipresci-critics-rate-the-programme FIPRESCI
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
@@ -26147,6 +26147,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             6
+# wask
+The Hollywood Reporter   6
+Le Monde                 8
+Cristina Piccino         6
+Ioncinema                4
+Joséphine Leroy          
+Les Inrockuptibles       10
+Olivia Cooper-Hadjian    8
+Leonardo Goi             6
+Gautier Roos             6
+Thomas Gastaldi          6
+Fabien David             4
 # cahier
 # FIPRESCI
 #letterboxd
@@ -26448,6 +26460,18 @@ Dubravka Lakic
 Nanako Tsukidate         4
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   6
+Le Monde                 6
+Cristina Piccino         8
+Ioncinema                
+Joséphine Leroy          8
+Les Inrockuptibles       8
+Olivia Cooper-Hadjian    6
+Leonardo Goi             8
+Gautier Roos             8
+Thomas Gastaldi          8
+Fabien David             10
 # cahier
 # FIPRESCI
 #letterboxd
@@ -26587,6 +26611,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             6
+# wask
+The Hollywood Reporter   8
+Le Monde                 6
+Cristina Piccino         6
+Ioncinema                4
+Joséphine Leroy          8
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    8
+Leonardo Goi             10
+Gautier Roos             4
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -26832,7 +26868,6 @@ Théo Mahy           1
 
 "DESERT OF NAMIBIA (Namibia no sabaku)"  (Yôko ) [Quinzaine]
 
-
 Fionnuala Halligan      https://www.screendaily.com/reviews/desert-of-namibia-cannes-review/5193708.article
 #critic.de
 # ics
@@ -26848,6 +26883,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 4
+Cristina Piccino         6
+Ioncinema                
+Joséphine Leroy          4
+Les Inrockuptibles       4
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             0.5
 # cahier
 # FIPRESCI
 #letterboxd
@@ -26970,6 +27017,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -26990,6 +27049,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27018,6 +27089,18 @@ Dubravka Lakic
 Nanako Tsukidate         3
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                4
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    8
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          2
+Fabien David             8
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27143,6 +27226,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27172,6 +27267,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27200,6 +27307,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 Allan Hunter            https://www.screendaily.com/reviews/good-one-cannes-review/5193060.article
@@ -27224,6 +27343,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27272,6 +27403,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             8
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         8
+Ioncinema                6
+Joséphine Leroy          6
+Les Inrockuptibles       8
+Olivia Cooper-Hadjian    10
+Leonardo Goi             
+Gautier Roos             8
+Thomas Gastaldi          6
+Fabien David             2
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27407,7 +27550,6 @@ Nunarmando          2
 
 "SAVANNA AND THE MOUNTAIN (A savana e a montanha)" (Paulo Carneiro ) [Quinzaine]
 
-
 Jonathan Holland        https://www.screendaily.com/reviews/savanna-and-the-mountain-cannes-review/5193171.article
 #critic.de
 # ics
@@ -27423,6 +27565,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             8
+# wask
+The Hollywood Reporter   
+Le Monde                 2
+Cristina Piccino         8
+Ioncinema                4
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             6
+Gautier Roos             
+Thomas Gastaldi          6
+Fabien David             2
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27503,6 +27657,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                4
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             2
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27595,7 +27761,6 @@ hhut03              2   https://letterboxd.com/hhut03/film/sister-midnight/
 
 "SOMETHING OLD, SOMETHING NEW, SOMETHING BORROWED (Algo viejo, algo nuevo, algo prestado)" (Hernán Rosselli) [Quinzaine]
 
-
 Jonathan Holland        https://www.screendaily.com/reviews/something-old-something-new-something-borrowed-cannes-review/5193096.article
 #critic.de
 # ics
@@ -27611,6 +27776,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             9
+# wask
+The Hollywood Reporter   
+Le Monde                 2
+Cristina Piccino         
+Ioncinema                6
+Joséphine Leroy          6
+Les Inrockuptibles       6
+Olivia Cooper-Hadjian    4
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          8
+Fabien David             6
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27747,6 +27924,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       4
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          8
+Fabien David             
 # cahier
 # FIPRESCI
 Robert Daniels          https://www.screendaily.com/reviews/the-falling-sky-cannes-review/5193501.article
@@ -27813,6 +28002,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             7
+# wask
+The Hollywood Reporter   
+Le Monde                 4
+Cristina Piccino         
+Ioncinema                8
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    6
+Leonardo Goi             6
+Gautier Roos             6
+Thomas Gastaldi          4
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -27999,6 +28200,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -28106,6 +28319,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -28136,6 +28361,18 @@ Dubravka Lakic
 Nanako Tsukidate         3
 Anais Bordages           
 Diego Batlle             6
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -28313,6 +28550,18 @@ Dubravka Lakic
 Nanako Tsukidate         
 Anais Bordages           
 Diego Batlle             
+# wask
+The Hollywood Reporter   
+Le Monde                 
+Cristina Piccino         
+Ioncinema                
+Joséphine Leroy          
+Les Inrockuptibles       
+Olivia Cooper-Hadjian    
+Leonardo Goi             
+Gautier Roos             
+Thomas Gastaldi          
+Fabien David             
 # cahier
 # FIPRESCI
 #letterboxd
@@ -31005,17 +31254,17 @@ Louis Séguin (Cahiers du cinema, France)
 ";
 $critics_group[$i] = "wask.fr";
 $critics[$i++] = "
-Jordan Mintzer (The Hollywood Reporter, USA)
-Mathieu Macheret (Le Monde, France)
+Jordan Mintzer/David Rooney/Leslie Felperin/Lovia Gyarke (The Hollywood Reporter, USA)
+Jacques Mandelbaum/Clarisse Fabre (Le Monde, France)
 Cristina Piccino (Il Manifesto, Italy)
-Eric Lavallée (Ioncinema, Canada)
+Eric Lavallée/Nicholas Bell (Ioncinema, Canada)
 Joséphine Leroy (Trois Couleurs, France)
-Marilou Duponchel/Bruno Deruisseau (Les Inrockuptibles, France)
+Marilou Duponchel/Maud Tenda/Ludovic Béot (Les Inrockuptibles, France)
 Olivia Cooper-Hadjian (Cahiers du Cinéma, France)
 Leonardo Goi (Notebook Mubi, UK)
 Gautier Roos (Chaos Reign, France)
-Cédric Succivalli (International Cinephile Society, France)
-Marie Boudon/Victor Courgeon (Cinéma Le Méliès Montreuil, France)
+Thomas Gastaldi (Wask, France)
+Fabien David (Cinéma Le Bourguet Forcalquier, France)
 ";
 $critics_group[$i] = "OutNow";
 $critics[$i++] = "
