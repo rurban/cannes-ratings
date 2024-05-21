@@ -32,7 +32,7 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://pelnasala.pl/cannes-2024-grid/  https://twitter.com/tomasz_poborca
 #     https://pelnasala.pl/category/festiwale/cannes/
 #   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
-#   Académie des Lumières: https://twitter.com/prixlumieres
+#   Académie des Lumières: https://x.com/prixlumieres
 # Reviews: 
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -9027,9 +9027,9 @@ Philippe Rouyer
 Fernando Ganzo           
 Marcos Uzal              1
 Charlotte Garson         
-Olivie Cooper-Hadjian    
-Yal Sadat                
-Thierry Méranger         
+Olivie Cooper-Hadjian    5
+Yal Sadat                1
+Thierry Méranger         2.5
 Louis Séguin             
 # Chinese @CriticsGrid
 Min Liu                  7.5
@@ -10041,12 +10041,13 @@ Amandine Rebourg         8
 Philippe Rouyer          
 # cahier
 Fernando Ganzo           
-Marcos Uzal              
-Charlotte Garson         
+Marcos Uzal              5
+Charlotte Garson         5
 Olivie Cooper-Hadjian    
 Yal Sadat                
 Thierry Méranger         
-Louis Séguin             
+Louis Séguin
+Elodie Tamayo            2.5
 # Chinese @CriticsGrid
 Min Liu                  5
 Jenny S.Li               2.5
@@ -10464,11 +10465,11 @@ Amandine Rebourg
 Philippe Rouyer          
 # cahier
 Fernando Ganzo           
-Marcos Uzal              
+Marcos Uzal              5
 Charlotte Garson         
-Olivie Cooper-Hadjian    
-Yal Sadat                
-Thierry Méranger         
+Olivie Cooper-Hadjian    7.5
+Yal Sadat                5
+Thierry Méranger         7.5
 Louis Séguin             
 # Chinese @CriticsGrid
 Min Liu                  2.5
