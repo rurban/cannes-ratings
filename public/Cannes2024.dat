@@ -104,7 +104,7 @@ Eric Lavallée            6
 Fabien Lemercier         5
 Min Liu                  6
 Elli Mastorou            6
-Savina Petkov            4
+Savina Petkova           4
 Rafa Sales Ross          7
 Jordan Ruimy             6
 Kuriko Sato              4
@@ -883,7 +883,7 @@ Eric Lavallée            6
 Fabien Lemercier         7
 Min Liu                  5
 Elli Mastorou            5
-Savina Petkov            8
+Savina Petkova           8
 Rafa Sales Ross          
 Jordan Ruimy             6
 Kuriko Sato              5
@@ -1824,7 +1824,7 @@ Eric Lavallée            4
 Fabien Lemercier         3
 Min Liu                  5
 Elli Mastorou            7
-Savina Petkov            10
+Savina Petkova           10
 Rafa Sales Ross          8
 Jordan Ruimy             
 Kuriko Sato              5
@@ -2873,7 +2873,7 @@ Eric Lavallée            7
 Fabien Lemercier         3
 Min Liu                  6
 Elli Mastorou            4
-Savina Petkov            10
+Savina Petkova           10
 Rafa Sales Ross          6
 Jordan Ruimy             6
 Kuriko Sato              
@@ -4173,7 +4173,7 @@ Eric Lavallée            7
 Fabien Lemercier         3
 Min Liu                  4
 Elli Mastorou            
-Savina Petkov            4
+Savina Petkova           4
 Rafa Sales Ross          3
 Jordan Ruimy             4
 Kuriko Sato              6
@@ -4717,7 +4717,7 @@ Eric Lavallée            6
 Fabien Lemercier         4
 Min Liu                  7
 Elli Mastorou            4
-Savina Petkov            10
+Savina Petkova           10
 Rafa Sales Ross          4
 Jordan Ruimy             4
 Kuriko Sato              8
@@ -6131,7 +6131,7 @@ Eric Lavallée            5
 Fabien Lemercier         7
 Min Liu                  4
 Elli Mastorou            
-Savina Petkov            8
+Savina Petkova           8
 Rafa Sales Ross          9
 Jordan Ruimy             7
 Kuriko Sato              5
@@ -7311,7 +7311,7 @@ Eric Lavallée
 Fabien Lemercier         4
 Min Liu                  6
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          4
 Jordan Ruimy             4
 Kuriko Sato              8
@@ -8021,7 +8021,7 @@ Eric Lavallée            8
 Fabien Lemercier         8
 Min Liu                  20
 Elli Mastorou            9
-Savina Petkov            7
+Savina Petkova           7
 Rafa Sales Ross          5
 Jordan Ruimy             7
 Kuriko Sato              10
@@ -9076,7 +9076,7 @@ Eric Lavallée
 Fabien Lemercier         6
 Min Liu                  7
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             2
 Kuriko Sato              4
@@ -9901,7 +9901,7 @@ Eric Lavallée            3
 Fabien Lemercier         2
 Min Liu                  6
 Elli Mastorou            5
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          1
 Jordan Ruimy             8
 Kuriko Sato              4
@@ -11191,7 +11191,7 @@ Eric Lavallée            7
 Fabien Lemercier         4
 Min Liu                  5
 Elli Mastorou            6
-Savina Petkov            6
+Savina Petkova           6
 Rafa Sales Ross          8
 Jordan Ruimy             7
 Kuriko Sato              9
@@ -12118,7 +12118,7 @@ Eric Lavallée            4
 Fabien Lemercier         6
 Min Liu                  2
 Elli Mastorou            4
-Savina Petkov            4
+Savina Petkova           4
 Rafa Sales Ross          6
 Jordan Ruimy             5
 Kuriko Sato              4
@@ -13024,7 +13024,7 @@ Eric Lavallée            7
 Fabien Lemercier         8
 Min Liu                  6
 Elli Mastorou            7
-Savina Petkov            7
+Savina Petkova           7
 Rafa Sales Ross          7
 Jordan Ruimy             8
 Kuriko Sato              
@@ -13742,7 +13742,7 @@ Eric Lavallée            5
 Fabien Lemercier         5
 Min Liu                  4
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             2
 Kuriko Sato              5
@@ -14421,18 +14421,18 @@ Hugo Emmerzael
 Rodrigo Fonseca          6
 Leda Galanou             5
 Jean-Philippe Guerand    8
-Carlos F. Heredero       
+Carlos F. Heredero       1
 Dubravka Lakic           9
 Eric Lavallée            6
 Fabien Lemercier         7
 Min Liu                  5
 Elli Mastorou            6
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          7
 Jordan Ruimy             4
 Kuriko Sato              4
-Öykü Sofuoğlu            
-Rui Tendinha             
+Öykü Sofuoğlu            0.1
+Rui Tendinha             2
 Artur Zaborski           5
 # ics
 Federica Polidoro        4
@@ -14933,26 +14933,26 @@ Barbara Théate           5
 Sandra Onana             
 Catherine Balle          1
 # ioncinema
-Nicholas Bell            
+Nicholas Bell            5
 Paola Casela             7
 Marc Cassavi             
 Hugo Emmerzael           9
-Rodrigo Fonseca          
-Leda Galanou             
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
-Fabien Lemercier         
-Min Liu                  
-Elli Mastorou            
-Savina Petkov            
+Rodrigo Fonseca          6
+Leda Galanou             5
+Jean-Philippe Guerand    2
+Carlos F. Heredero       9
+Dubravka Lakic           6
+Eric Lavallée            6
+Fabien Lemercier         7
+Min Liu                  7
+Elli Mastorou            5
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             
-Kuriko Sato              
-Öykü Sofuoğlu            
-Rui Tendinha             
-Artur Zaborski           
+Kuriko Sato              6
+Öykü Sofuoğlu            8
+Rui Tendinha             6
+Artur Zaborski           5
 # ics
 Federica Polidoro        2
 Nicholas Bell            5
@@ -15095,26 +15095,26 @@ Barbara Théate
 Sandra Onana             
 Catherine Balle          2.5
 # ioncinema
-Nicholas Bell            
+Nicholas Bell            6
 Paola Casela             
 Marc Cassavi             
 Hugo Emmerzael           
-Rodrigo Fonseca          
-Leda Galanou             
-Jean-Philippe Guerand    
+Rodrigo Fonseca          8
+Leda Galanou             2
+Jean-Philippe Guerand    2
 Carlos F. Heredero       
-Dubravka Lakic           
+Dubravka Lakic           5
 Eric Lavallée            
 Fabien Lemercier         
 Min Liu                  
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           6
 Rafa Sales Ross          
 Jordan Ruimy             
 Kuriko Sato              
 Öykü Sofuoğlu            
-Rui Tendinha             
-Artur Zaborski           
+Rui Tendinha             8
+Artur Zaborski           6
 # ics
 Federica Polidoro        6
 Nicholas Bell            6
@@ -15271,7 +15271,7 @@ Eric Lavallée
 Fabien Lemercier         
 Min Liu                  
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             
 Kuriko Sato              
@@ -15430,7 +15430,7 @@ Eric Lavallée
 Fabien Lemercier         
 Min Liu                  
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             
 Kuriko Sato              
@@ -15588,7 +15588,7 @@ Eric Lavallée
 Fabien Lemercier         
 Min Liu                  
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             
 Kuriko Sato              
@@ -15736,7 +15736,7 @@ Eric Lavallée
 Fabien Lemercier         
 Min Liu                  
 Elli Mastorou            
-Savina Petkov            
+Savina Petkova           
 Rafa Sales Ross          
 Jordan Ruimy             
 Kuriko Sato              
@@ -45467,7 +45467,7 @@ Eric Lavallée (ioncinema, Canada)
 Fabien Lemercier (Cineuropa.org, Belgium)
 Min Liu (Sina.com, China)
 Elli Mastorou (Metro/L'Avenir, Belgium)
-Savina Petkov (Awardswatch / Little White Lies)
+Savina Petkova (Awardswatch / Little White Lies)
 Rafa Sales Ross (The Playlist, Brazil
 Jordan Ruimy (World of Reel/The Playlist, USA)
 Kuriko Sato (Eiga.com, Japan)
