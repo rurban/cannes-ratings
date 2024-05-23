@@ -33,7 +33,7 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/1
-#   Cineforum (Italy): https://www.cineforum.it/focus/Canne...oogle_vignette
+#   https://www.cineforum.it/focus/Cannes-77/I-voti-di-Cannes-77
 #   Sentieri Selvaggi (Italy) https://www.sentieriselvaggi.it/cann...ieri-selvaggi/
 # Reviews: 
 #   http://variety.com/c/reviews/
@@ -215,6 +215,19 @@ Eulalia Iglesias         6
 Jaime Pena               5
 Angel Quintana           5
 Jara Yanez               5
+# cineforum.it
+Bellavita                4
+Bianchi                  4
+Chimento                 4
+Fornara                  4
+Gandini                  7
+Gironi                   4
+Manassero                4
+Martini                  4
+Pedroni                  4
+Rossi                    
+Ruzzier                  6
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        4
@@ -1044,6 +1057,19 @@ Eulalia Iglesias         8
 Jaime Pena               4
 Angel Quintana           8
 Jara Yanez               2
+# cineforum.it
+Bellavita                2
+Bianchi                  4
+Chimento                 4
+Fornara                  6
+Gandini                  4
+Gironi                   4
+Manassero                4
+Martini                  2
+Pedroni                  4
+Rossi                    2
+Ruzzier                  2
+Ucceli                   2
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        8
@@ -2014,6 +2040,19 @@ Eulalia Iglesias
 Jaime Pena               4
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                7
+Bianchi                  6
+Chimento                 7
+Fornara                  
+Gandini                  4
+Gironi                   6
+Manassero                7
+Martini                  
+Pedroni                  6
+Rossi                    3
+Ruzzier                  7
+Ucceli                   2
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        6
@@ -3113,6 +3152,19 @@ Eulalia Iglesias         4
 Jaime Pena               6
 Angel Quintana           7
 Jara Yanez               3
+# cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 7
+Fornara                  4
+Gandini                  8
+Gironi                   4
+Manassero                7
+Martini                  8
+Pedroni                  7
+Rossi                    10
+Ruzzier                  7
+Ucceli                   8
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        8
@@ -4444,6 +4496,19 @@ Eulalia Iglesias         4
 Jaime Pena               4
 Angel Quintana           5
 Jara Yanez               
+# cineforum.it
+Bellavita                6
+Bianchi                  6
+Chimento                 6
+Fornara                  
+Gandini                  7
+Gironi                   6
+Manassero                4
+Martini                  
+Pedroni                  6
+Rossi                    6
+Ruzzier                  6
+Ucceli                   6
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        4
@@ -5017,6 +5082,19 @@ Eulalia Iglesias         4
 Jaime Pena               3
 Angel Quintana           3
 Jara Yanez               3
+# cineforum.it
+Bellavita                2
+Bianchi                  4
+Chimento                 2
+Fornara                  
+Gandini                  6
+Gironi                   4
+Manassero                4
+Martini                  4
+Pedroni                  2
+Rossi                    4
+Ruzzier                  6
+Ucceli                   6
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        2
@@ -6461,6 +6539,19 @@ Eulalia Iglesias         6
 Jaime Pena               6
 Angel Quintana           6
 Jara Yanez               6
+# cineforum.it
+Bellavita                7
+Bianchi                  8
+Chimento                 7
+Fornara                  
+Gandini                  7
+Gironi                   6
+Manassero                7
+Martini                  
+Pedroni                  6
+Rossi                    6
+Ruzzier                  7
+Ucceli                   4
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        6
@@ -7672,6 +7763,19 @@ Eulalia Iglesias         7
 Jaime Pena               8
 Angel Quintana           9
 Jara Yanez               
+# cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 7
+Fornara                  
+Gandini                  6
+Gironi                   7
+Manassero                8
+Martini                  8
+Pedroni                  7
+Rossi                    8
+Ruzzier                  8
+Ucceli                   7
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        2
@@ -8417,6 +8521,19 @@ Eulalia Iglesias         8
 Jaime Pena               6
 Angel Quintana           9
 Jara Yanez               8
+# cineforum.it
+Bellavita                10
+Bianchi                  6
+Chimento                 6
+Fornara                  
+Gandini                  8
+Gironi                   4
+Manassero                7
+Martini                  8
+Pedroni                  7
+Rossi                    10
+Ruzzier                  7
+Ucceli                   8
 # Académie des Lumières
 Vicenç Batalla           10
 Falila Gbadamassi        8
@@ -9510,6 +9627,19 @@ Eulalia Iglesias         6
 Jaime Pena               4
 Angel Quintana           7
 Jara Yanez               5
+# cineforum.it
+Bellavita                2
+Bianchi                  2
+Chimento                 7
+Fornara                  4
+Gandini                  6
+Gironi                   6
+Manassero                4
+Martini                  4
+Pedroni                  4
+Rossi                    2
+Ruzzier                  6
+Ucceli                   4
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        
@@ -10363,6 +10493,19 @@ Eulalia Iglesias         8
 Jaime Pena               6
 Angel Quintana           8
 Jara Yanez               6
+# cineforum.it
+Bellavita                2
+Bianchi                  2
+Chimento                 4
+Fornara                  4
+Gandini                  7
+Gironi                   4
+Manassero                4
+Martini                  4
+Pedroni                  4
+Rossi                    
+Ruzzier                  6
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        
@@ -11692,6 +11835,19 @@ Eulalia Iglesias         6
 Jaime Pena               5
 Angel Quintana           6
 Jara Yanez               6
+# cineforum.it
+Bellavita                6
+Bianchi                  6
+Chimento                 6
+Fornara                  
+Gandini                  8
+Gironi                   
+Manassero                6
+Martini                  4
+Pedroni                  6
+Rossi                    4
+Ruzzier                  6
+Ucceli                   4
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        4
@@ -12760,6 +12916,19 @@ Eulalia Iglesias         6
 Jaime Pena               6
 Angel Quintana           6
 Jara Yanez               5
+# cineforum.it
+Bellavita                4
+Bianchi                  4
+Chimento                 7
+Fornara                  
+Gandini                  2
+Gironi                   4
+Manassero                4
+Martini                  6
+Pedroni                  4
+Rossi                    4
+Ruzzier                  8
+Ucceli                   4
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        4
@@ -13862,6 +14031,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           3
 Jara Yanez               
+# cineforum.it
+Bellavita                10
+Bianchi                  7
+Chimento                 
+Fornara                  
+Gandini                  8
+Gironi                   7
+Manassero                10
+Martini                  8
+Pedroni                  8
+Rossi                    10
+Ruzzier                  10
+Ucceli                   10
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        
@@ -14882,6 +15064,19 @@ Eulalia Iglesias         6
 Jaime Pena               4
 Angel Quintana           6
 Jara Yanez               7
+# cineforum.it
+Bellavita                7
+Bianchi                  8
+Chimento                 4
+Fornara                  
+Gandini                  6
+Gironi                   
+Manassero                7
+Martini                  6
+Pedroni                  4
+Rossi                    7
+Ruzzier                  6
+Ucceli                   8
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        
@@ -15984,6 +16179,19 @@ Eulalia Iglesias         3
 Jaime Pena               
 Angel Quintana           4
 Jara Yanez               
+# cineforum.it
+Bellavita                6
+Bianchi                  8
+Chimento                 8
+Fornara                  
+Gandini                  8
+Gironi                   10
+Manassero                4
+Martini                  8
+Pedroni                  10
+Rossi                    4
+Ruzzier                  10
+Ucceli                   4
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        6
@@ -16629,6 +16837,19 @@ Eulalia Iglesias
 Jaime Pena               10
 Angel Quintana           10
 Jara Yanez               
+# cineforum.it
+Bellavita                6
+Bianchi                  8
+Chimento                 8
+Fornara                  
+Gandini                  4
+Gironi                   7
+Manassero                8
+Martini                  7
+Pedroni                  7
+Rossi                    7
+Ruzzier                  8
+Ucceli                   7
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        
@@ -16818,6 +17039,19 @@ Eulalia Iglesias
 Jaime Pena               2
 Angel Quintana           4
 Jara Yanez               3
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        4
@@ -17003,6 +17237,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17189,6 +17436,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17374,6 +17634,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17549,6 +17822,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -22553,6 +22839,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                4
+Bianchi                  6
+Chimento                 6
+Fornara                  
+Gandini                  6
+Gironi                   7
+Manassero                4
+Martini                  7
+Pedroni                  6
+Rossi                    6
+Ruzzier                  6
+Ucceli                   6
 # FIPRESCI
 #letterboxd
 Yanis Prone         10
@@ -32291,6 +32590,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                8
+Bianchi                  
+Chimento                 
+Fornara                  8
+Gandini                  
+Gironi                   8
+Manassero                8
+Martini                  
+Pedroni                  
+Rossi                    8
+Ruzzier                  6
+Ucceli                   
 # FIPRESCI
 #letterboxd
 #dunnesvendetta      10
@@ -32990,6 +33302,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           5
 Jara Yanez               
+# cineforum.it
+Bellavita                4
+Bianchi                  4
+Chimento                 7
+Fornara                  8
+Gandini                  10
+Gironi                   8
+Manassero                
+Martini                  8
+Pedroni                  
+Rossi                    4
+Ruzzier                  8
+Ucceli                   7
 # FIPRESCI
 #letterboxd
 Letterboxd 50_Ratings	7.26  https://letterboxd.com/film/furiosa-a-mad-max-saga/
@@ -38212,6 +38537,19 @@ Eulalia Iglesias         8
 Jaime Pena               9
 Angel Quintana           8
 Jara Yanez               9
+# cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 8
+Fornara                  
+Gandini                  
+Gironi                   10
+Manassero                10
+Martini                  8
+Pedroni                  
+Rossi                    8
+Ruzzier                  10
+Ucceli                   
 # FIPRESCI
 #letterboxd
 Nurevşan Kırçiçek   10
@@ -38755,6 +39093,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  8
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                8
+Martini                  7
+Pedroni                  
+Rossi                    7
+Ruzzier                  7
+Ucceli                   10
 # FIPRESCI
 #letterboxd
 Frédéric Vidal      9
@@ -39988,6 +40339,19 @@ Eulalia Iglesias         7
 Jaime Pena               6
 Angel Quintana           6
 Jara Yanez               7
+# cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 
+Fornara                  6
+Gandini                  
+Gironi                   
+Manassero                8
+Martini                  
+Pedroni                  7
+Rossi                    7
+Ruzzier                  7
+Ucceli                   
 # FIPRESCI
 #letterboxd
 Polly               10
@@ -41979,6 +42343,19 @@ Eulalia Iglesias         7
 Jaime Pena               10
 Angel Quintana           8
 Jara Yanez               9
+# cineforum.it
+Bellavita                
+Bianchi                  7
+Chimento                 
+Fornara                  7
+Gandini                  7
+Gironi                   
+Manassero                7
+Martini                  
+Pedroni                  7
+Rossi                    7
+Ruzzier                  7
+Ucceli                   
 # FIPRESCI
 #letterboxd
 Carson Lund         10
@@ -44036,6 +44413,19 @@ Leonardo Goi             4
 Gautier Roos             
 Thomas Gastaldi          6
 Fabien David             2
+# cineforum.it
+Bellavita                6
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  4
+Gironi                   
+Manassero                7
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  6
+Ucceli                   7
 # FIPRESCI
 #letterboxd
 tomas murphy        10
@@ -47412,6 +47802,21 @@ Eulalia Iglesias (Caimán Cuadernos de Cine, España)
 Jaime Pena (Caimán Cuadernos de Cine, España)
 Angel Quintana (Caimán Cuadernos de Cine, España)
 Jara Yanez (Caimán Cuadernos de Cine, España)
+";
+$critics_group[$i] = "cineforum.it";
+$critics[$i++] = "
+Bellavita (, Italy)
+Bianchi  (, Italy)
+Chimento (, Italy)
+Fornara (, Italy)
+Gandini (, Italy)
+Gironi  (, Italy)
+Manassero (, Italy)
+Martini (, Italy)
+Pedroni (, Italy)
+Rossi (, Italy)
+Ruzzier (, Italy)
+Ucceli (, Italy)
 ";
 $critics_group[$i] = "Académie des Lumières";
 $critics[$i++] = "
