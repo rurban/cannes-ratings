@@ -29,10 +29,12 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://outnow.ch/News/2024/05/19/OutNow-Jury-Grid-at-Cannes-2024-So-ist-Indiana-Jones-5-angekommen
 #   https://www.filmneweurope.com/fipresci-warsaw-critics-project-2018
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   https://pelnasala.pl/cannes-2024-grid/  https://twitter.com/tomasz_poborca
-#     https://pelnasala.pl/category/festiwale/cannes/
+#   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2024-ocenki-rossiyskih-kinokritikov/
 #   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
 #   Académie des Lumières: https://x.com/prixlumieres
+#   Moiree poll: https://moir.ee/editions/1
+#   Cineforum (Italy): https://www.cineforum.it/focus/Canne...oogle_vignette
+#   Sentieri Selvaggi (Italy) https://www.sentieriselvaggi.it/cann...ieri-selvaggi/
 # Reviews: 
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -204,6 +206,14 @@ Kuriko Sato              4
 Öykü Sofuoğlu            2
 Chloe Sullivan           6
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              5
+Anna Strelchuk           
+Andrey Plakhov           8
+Tamara Hodova            5
+Nastasya Gorbachsevskaya 6
+Daria Tarasova           4
+Egor Moskvitin           6
 #letterboxd
 Denisdolores108     10
 Obi1ke              10
@@ -1006,6 +1016,14 @@ Kuriko Sato              6
 Öykü Sofuoğlu            4
 Chloe Sullivan           8
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              3
+Anna Strelchuk           8
+Andrey Plakhov           5
+Tamara Hodova            8
+Nastasya Gorbachsevskaya 9
+Daria Tarasova           8
+Egor Moskvitin           8
 #letterboxd
 Hania Bakhashwain   10
 holihopper          10
@@ -1949,6 +1967,14 @@ Kuriko Sato              6
 Öykü Sofuoğlu            6
 Chloe Sullivan           10
 Nanako Tsukidate         4
+# Russian film critics
+Anton Dolin              6
+Anna Strelchuk           9
+Andrey Plakhov           7
+Tamara Hodova            6
+Nastasya Gorbachsevskaya 8
+Daria Tarasova           8
+Egor Moskvitin           8
 #letterboxd
 Abethwaite1215      10
 EnoraAbry           10
@@ -3021,6 +3047,14 @@ Kuriko Sato              6
 Öykü Sofuoğlu            4
 Chloe Sullivan           8
 Nanako Tsukidate         6
+# Russian film critics
+Anton Dolin              7
+Anna Strelchuk           1
+Andrey Plakhov           10
+Tamara Hodova            3
+Nastasya Gorbachsevskaya 1
+Daria Tarasova           5
+Egor Moskvitin           10
 #letterboxd
 Letterboxd 36_Ratings	6.81  https://letterboxd.com/film/megalopolis-2024/
 NEmmanuel           10
@@ -4325,6 +4359,14 @@ Kuriko Sato              6
 Öykü Sofuoğlu            0.5
 Chloe Sullivan           6
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              5
+Anna Strelchuk           5
+Andrey Plakhov           10
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           6
+Egor Moskvitin           8
 #letterboxd
 mollyyygreeen       10   https://letterboxd.com/mollyyygreeen/film/three-kilometres-to-the-end-of-the-world/
 emamekkartny        10   https://letterboxd.com/emamekkartny/film/three-kilometres-to-the-end-of-the-world/
@@ -4871,6 +4913,14 @@ Kuriko Sato              8
 Öykü Sofuoğlu            4
 Chloe Sullivan           2
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              9
+Anna Strelchuk           8
+Andrey Plakhov           9
+Tamara Hodova            7
+Nastasya Gorbachsevskaya 7
+Daria Tarasova           6
+Egor Moskvitin           6
 #letterboxd
 Letterboxd 9_Ratings	5.44  https://letterboxd.com/film/kinds-of-kindness/
 cramqps             10
@@ -6288,6 +6338,14 @@ Kuriko Sato              0.5
 Öykü Sofuoğlu            6
 Chloe Sullivan           4
 Nanako Tsukidate         4
+# Russian film critics
+Anton Dolin              5
+Anna Strelchuk           2
+Andrey Plakhov           6
+Tamara Hodova            
+Nastasya Gorbachsevskaya 4
+Daria Tarasova           3
+Egor Moskvitin           8
 #letterboxd
 NEmmanuel           10
 Ray Wheeler         10   https://letterboxd.com/mfkane/film/oh-canada/
@@ -7472,6 +7530,14 @@ Kuriko Sato              8
 Öykü Sofuoğlu            6
 Chloe Sullivan           4
 Nanako Tsukidate         4
+# Russian film critics
+Anton Dolin              5
+Anna Strelchuk           4
+Andrey Plakhov           7
+Tamara Hodova            5
+Nastasya Gorbachsevskaya 
+Daria Tarasova           6
+Egor Moskvitin           
 #letterboxd
 Francisco Zambrano  10   https://letterboxd.com/franzisco/film/caught-by-the-tides/
 Debzzzz             10
@@ -8190,6 +8256,14 @@ Kuriko Sato              10
 Öykü Sofuoğlu            2
 Chloe Sullivan           10
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              6
+Anna Strelchuk           7
+Andrey Plakhov           10
+Tamara Hodova            6
+Nastasya Gorbachsevskaya 6
+Daria Tarasova           6
+Egor Moskvitin           6
 #letterboxd
 lavínia poletti     10   https://letterboxd.com/lavinia_poletti/film/emilia-perez/
 arnoe               10
@@ -9256,6 +9330,14 @@ Kuriko Sato              4
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              8
+Anna Strelchuk           5
+Andrey Plakhov           8
+Tamara Hodova            6
+Nastasya Gorbachsevskaya 7
+Daria Tarasova           4
+Egor Moskvitin           6
 #letterboxd
 Cine_BTS            10
 Axel Philippon      10
@@ -10082,6 +10164,14 @@ Kuriko Sato              4
 Öykü Sofuoğlu            4
 Chloe Sullivan           4
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              8
+Anna Strelchuk           8
+Andrey Plakhov           8
+Tamara Hodova            8
+Nastasya Gorbachsevskaya 10
+Daria Tarasova           9
+Egor Moskvitin           8
 #letterboxd
 Oliver              10
 Nick                10
@@ -11384,6 +11474,14 @@ Kuriko Sato              8
 Öykü Sofuoğlu            2
 Chloe Sullivan           6
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              6
+Anna Strelchuk           7
+Andrey Plakhov           6
+Tamara Hodova            7
+Nastasya Gorbachsevskaya 7
+Daria Tarasova           6
+Egor Moskvitin           8
 #letterboxd
 A.A. Dowd           10
 Marina              10
@@ -12425,6 +12523,14 @@ Kuriko Sato              4
 Öykü Sofuoğlu            6
 Chloe Sullivan           2
 Nanako Tsukidate         4
+# Russian film critics
+Anton Dolin              8
+Anna Strelchuk           6
+Andrey Plakhov           1
+Tamara Hodova            5
+Nastasya Gorbachsevskaya 5
+Daria Tarasova           6
+Egor Moskvitin           5
 #letterboxd
 Luke                10
 Dave Jenkins        10
@@ -13500,6 +13606,14 @@ Kuriko Sato
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         
+# Russian film critics
+Anton Dolin              5
+Anna Strelchuk           
+Andrey Plakhov           6
+Tamara Hodova            8
+Nastasya Gorbachsevskaya 10
+Daria Tarasova           6
+Egor Moskvitin           10
 #letterboxd
 livap               10
 SofiSoto            10   https://letterboxd.com/sofisoto/film/anora/
@@ -14493,6 +14607,14 @@ Kuriko Sato              6
 Öykü Sofuoğlu            
 Chloe Sullivan           6
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              1
+Anna Strelchuk           
+Andrey Plakhov           8
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           4
+Egor Moskvitin           
 #letterboxd
 Airidas             10
 Merlock_Holmes      10
@@ -15568,6 +15690,14 @@ Kuriko Sato              4
 Öykü Sofuoğlu            
 Chloe Sullivan           8
 Nanako Tsukidate         2
+# Russian film critics
+Anton Dolin              7
+Anna Strelchuk           6
+Andrey Plakhov           8
+Tamara Hodova            4
+Nastasya Gorbachsevskaya 5
+Daria Tarasova           9
+Egor Moskvitin           10
 #letterboxd
 mollyyygreeen       10   https://letterboxd.com/mollyyygreeen/film/parthenope/
 Michelle            10
@@ -16186,6 +16316,14 @@ Kuriko Sato              6
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         10
+# Russian film critics
+Anton Dolin              7
+Anna Strelchuk           8
+Andrey Plakhov           
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 Valentina Eid       9
 carlip              8
@@ -16348,6 +16486,14 @@ Kuriko Sato
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         4
+# Russian film critics
+Anton Dolin              2
+Anna Strelchuk           4
+Andrey Plakhov           
+Tamara Hodova            3
+Nastasya Gorbachsevskaya 3
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 Deco2024            10
 overthe2005         10
@@ -16506,6 +16652,14 @@ Kuriko Sato
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         
+# Russian film critics
+Anton Dolin              
+Anna Strelchuk           
+Andrey Plakhov           
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 Ava Lellouche       10
 Daniel              9
@@ -16665,6 +16819,14 @@ Kuriko Sato
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         
+# Russian film critics
+Anton Dolin              
+Anna Strelchuk           
+Andrey Plakhov           
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 jsh710              10
 abbylira            9
@@ -16823,6 +16985,14 @@ Kuriko Sato
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         
+# Russian film critics
+Anton Dolin              
+Anna Strelchuk           
+Andrey Plakhov           
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 Ugne                10
 lottesejersted      8
@@ -16971,6 +17141,14 @@ Kuriko Sato
 Öykü Sofuoğlu            
 Chloe Sullivan           
 Nanako Tsukidate         
+# Russian film critics
+Anton Dolin              
+Anna Strelchuk           
+Andrey Plakhov           
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 Nurevşan Kırçiçek   10
 Alice_le_sang       10
@@ -17062,6 +17240,14 @@ Jaime Pena               6
 Angel Quintana           4
 Jara Yanez               7
 # FIPRESCI
+# Russian film critics
+Anton Dolin              
+Anna Strelchuk           
+Andrey Plakhov           
+Tamara Hodova            
+Nastasya Gorbachsevskaya 
+Daria Tarasova           
+Egor Moskvitin           
 #letterboxd
 audrey              10
 Josh                10
@@ -46821,14 +47007,16 @@ Kuriko Sato (Eiga.com, Japan)
 Chloe Sullivan (TV8, Suisse)
 Nanako Tsukidate (Nobody Magazine, Japan)
 ";
-#$critics_group[$i] = "Russian film critics";
-#$critics[$i++] = "
-#Stanislav Zelvensky (Kinopoisk, Russia)
-#Zinaida Pronchenko (, Russia)
-#Denis Vilenkin (Poster Daily/Srsly, Russia)
-#Anton Dolin (Medusa, Latvia)
-#Anna Strelchuk (Dosha, Russia)
-#";
+$critics_group[$i] = "Russian film critics";
+$critics[$i++] = "
+Anton Dolin (Medusa, Latvia)
+Anna Strelchuk (Afisha Daily, Russia)
+Andrey Plakhov (Kommersant, Russia)
+Tamara Hodova (Forbes, Russia)
+Nastasya Gorbachsevskaya (The Film.ru, Russia)
+Daria Tarasova (Kino-Theatre, Russia)
+Egor Moskvitin (The rules of life, Russia)
+";
 # indiewire + various other press reviewers
 $critics_group[$i] = "Other";
 $critics[$i++] = "
@@ -47152,9 +47340,10 @@ http://twitter.com/hanglutvd (chinese),
 ICS Critics & Industry Panel (mixed),
 the FIPRESCI poll,
 chaosreign.fr (okay),
-wask.fr (Quinzaine only),
+wask.fr (Quinzaine/Semaine only),
 the danish dtsjernebarometer,
-good new polish and russian polls,
+Moiree,
+good new russian and italian polls,
 OutNow.ch (mainstream),
 https://letterboxd.com/seanliu/list/cannes-2024/ (the industry),
 plus the usual press and individual critics on site.<br>
