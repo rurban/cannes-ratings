@@ -27,14 +27,14 @@ package Cannes::rurban::2024; # -*- perl -*-
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2024/
 #   https://wask.fr/les-etoiles-wask-2024-jour-par-jour/
 #   https://outnow.ch/News/2024/05/19/OutNow-Jury-Grid-at-Cannes-2024-So-ist-Indiana-Jones-5-angekommen
-#   https://www.filmneweurope.com/fipresci-warsaw-critics-project-2018
+#   http://www.filmneweurope.com/images/FNE%20Critics/cannes2024critics.pdf
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
 #   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2024-ocenki-rossiyskih-kinokritikov/
 #   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/1
 #   https://www.cineforum.it/focus/Cannes-77/I-voti-di-Cannes-77
-#   Sentieri Selvaggi (Italy) https://www.sentieriselvaggi.it/cann...ieri-selvaggi/
+#   https://www.sentieriselvaggi.it/cannes-77-le-pagelle-di-sentieri-selvaggi/
 # Reviews: 
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -181,7 +181,6 @@ Kid Y                    1
 Nanyouki                 5
 Lu Hang                  5
 Sean Y                   7.5
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          5
 Max Borg                 
@@ -228,6 +227,17 @@ Pedroni                  4
 Rossi                    
 Ruzzier                  6
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            5
+Antonio d'Onofri         
+Simone Emiliani          5
+Lucrezia Ercolani        
+Ilaria Feole             6
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            5
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        4
@@ -246,6 +256,27 @@ Tamara Hodova            5
 Nastasya Gorbachsevskaya 6
 Daria Tarasova           4
 Egor Moskvitin           6
+# FIPRESCI
+Ahmed Shawky             6
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           4
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             2
+Mariona Borrull          4
+Min Liu                  6
+Natalia Serebriakova     
+Ninos Mikelides          4
+Pamela Jahn              6
+Raul Reis                6
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 Denisdolores108     10
 Obi1ke              10
@@ -1024,7 +1055,6 @@ Kid Y                    2.5
 Nanyouki                 2.5
 Lu Hang                  2.5
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          8
 Max Borg                 8
@@ -1070,6 +1100,17 @@ Pedroni                  4
 Rossi                    2
 Ruzzier                  2
 Ucceli                   2
+# sentieriselvaggi.it
+Massimo Causo            6
+Antonio d'Onofri         
+Simone Emiliani          6
+Lucrezia Ercolani        
+Ilaria Feole             4
+Simone Soranna           5
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        8
@@ -1088,6 +1129,27 @@ Tamara Hodova            8
 Nastasya Gorbachsevskaya 9
 Daria Tarasova           8
 Egor Moskvitin           8
+# FIPRESCI
+Ahmed Shawky             8
+Kerem Akca               8
+Alberto Ramos            4
+Andrea Martini           4
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               4
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis    
+João Antunes             8
+Mariona Borrull          4
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          4
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 Hania Bakhashwain   10
 holihopper          10
@@ -2007,7 +2069,6 @@ Kid Y
 Nanyouki                 7.5
 Lu Hang                  2.5
 Sean Y                   7.5
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          7
 Max Borg                 
@@ -2053,6 +2114,17 @@ Pedroni                  6
 Rossi                    3
 Ruzzier                  7
 Ucceli                   2
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         9
+Simone Emiliani          10
+Lucrezia Ercolani        
+Ilaria Feole             8
+Simone Soranna           7
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             9
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        6
@@ -2071,6 +2143,27 @@ Tamara Hodova            6
 Nastasya Gorbachsevskaya 8
 Daria Tarasova           8
 Egor Moskvitin           8
+# FIPRESCI
+Ahmed Shawky             6
+Kerem Akca               8
+Alberto Ramos            8
+Andrea Martini           6
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               8
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  4
+Natalia Serebriakova     4
+Ninos Mikelides          6
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 Abethwaite1215      10
 EnoraAbry           10
@@ -3118,7 +3211,6 @@ Kid Y                    9
 Nanyouki                 7.5
 Lu Hang                  7.5
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          5
 Max Borg                 3
@@ -3165,6 +3257,17 @@ Pedroni                  7
 Rossi                    10
 Ruzzier                  7
 Ucceli                   8
+# sentieriselvaggi.it
+Massimo Causo            10
+Antonio d'Onofri         10
+Simone Emiliani          
+Lucrezia Ercolani        9
+Ilaria Feole             8
+Simone Soranna           8
+Sergio Sozzo             10
+Aldo Spinello            10
+Carlo Valeri             
+Chiara Zuccari           10
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        8
@@ -3183,6 +3286,27 @@ Tamara Hodova            3
 Nastasya Gorbachsevskaya 1
 Daria Tarasova           5
 Egor Moskvitin           10
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               8
+Alberto Ramos            2
+Andrea Martini           6
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               4
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          8
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          8
+Pamela Jahn              6
+Raul Reis                6
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           4
 #letterboxd
 Letterboxd 36_Ratings	6.81  https://letterboxd.com/film/megalopolis-2024/
 NEmmanuel           10
@@ -4463,7 +4587,6 @@ Kid Y
 Nanyouki                 2.5
 Lu Hang                  1
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -4509,6 +4632,17 @@ Pedroni                  6
 Rossi                    6
 Ruzzier                  6
 Ucceli                   6
+# sentieriselvaggi.it
+Massimo Causo            3
+Antonio d'Onofri         6
+Simone Emiliani          6
+Lucrezia Ercolani        
+Ilaria Feole             6
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            6
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        4
@@ -4527,6 +4661,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           6
 Egor Moskvitin           8
+# FIPRESCI
+Ahmed Shawky             6
+Kerem Akca               
+Alberto Ramos            6
+Andrea Martini           4
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          8
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           10
 #letterboxd
 mollyyygreeen       10   https://letterboxd.com/mollyyygreeen/film/three-kilometres-to-the-end-of-the-world/
 emamekkartny        10   https://letterboxd.com/emamekkartny/film/three-kilometres-to-the-end-of-the-world/
@@ -5048,7 +5203,6 @@ Kid Y                    1
 Nanyouki                 7.5
 Lu Hang                  2.5
 Sean Y                   9
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          7
 Max Borg                 
@@ -5095,6 +5249,17 @@ Pedroni                  2
 Rossi                    4
 Ruzzier                  6
 Ucceli                   6
+# sentieriselvaggi.it
+Massimo Causo            7
+Antonio d'Onofri         5
+Simone Emiliani          3
+Lucrezia Ercolani        
+Ilaria Feole             4
+Simone Soranna           
+Sergio Sozzo             3
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           3
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        2
@@ -5113,6 +5278,27 @@ Tamara Hodova            7
 Nastasya Gorbachsevskaya 7
 Daria Tarasova           6
 Egor Moskvitin           6
+# FIPRESCI
+Ahmed Shawky             8
+Kerem Akca               4
+Alberto Ramos            2
+Andrea Martini           6
+Barbara Lorey            
+David Sanchez            8
+Eva Peydro               10
+Firouz Pillet            
+Joannis Raouzaios        4
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          4
+Min Liu                  6
+Natalia Serebriakova     
+Ninos Mikelides          2
+Pamela Jahn              6
+Raul Reis                8
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           6
 #letterboxd
 Letterboxd 9_Ratings	5.44  https://letterboxd.com/film/kinds-of-kindness/
 cramqps             10
@@ -6506,7 +6692,6 @@ Kid Y                    7.5
 Nanyouki                 5
 Lu Hang                  5
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          3
 Max Borg                 
@@ -6552,6 +6737,17 @@ Pedroni                  6
 Rossi                    6
 Ruzzier                  7
 Ucceli                   4
+# sentieriselvaggi.it
+Massimo Causo            6
+Antonio d'Onofri         7
+Simone Emiliani          8
+Lucrezia Ercolani        8
+Ilaria Feole             5
+Simone Soranna           
+Sergio Sozzo             8
+Aldo Spinello            9
+Carlo Valeri             
+Chiara Zuccari           9
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        6
@@ -6570,6 +6766,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 4
 Daria Tarasova           3
 Egor Moskvitin           8
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            2
+Andrea Martini           4
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               4
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             8
+Mariona Borrull          8
+Min Liu                  4
+Natalia Serebriakova     4
+Ninos Mikelides          6
+Pamela Jahn              4
+Raul Reis                6
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           4
 #letterboxd
 NEmmanuel           10
 Ray Wheeler         10   https://letterboxd.com/mfkane/film/oh-canada/
@@ -7729,7 +7946,6 @@ Kid Y                    2.5
 Nanyouki                 5
 Lu Hang                  7.5
 Sean Y                   5
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          3
 Max Borg                 
@@ -7776,6 +7992,17 @@ Pedroni                  7
 Rossi                    8
 Ruzzier                  8
 Ucceli                   7
+# sentieriselvaggi.it
+Massimo Causo            8
+Antonio d'Onofri         9
+Simone Emiliani          8
+Lucrezia Ercolani        7
+Ilaria Feole             8
+Simone Soranna           
+Sergio Sozzo             9
+Aldo Spinello            9
+Carlo Valeri             9
+Chiara Zuccari           8
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        2
@@ -7794,6 +8021,27 @@ Tamara Hodova            5
 Nastasya Gorbachsevskaya 
 Daria Tarasova           6
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               8
+Alberto Ramos            
+Andrea Martini           10
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          8
+Min Liu                  6
+Natalia Serebriakova     6
+Ninos Mikelides          10
+Pamela Jahn              
+Raul Reis                8
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           10
 #letterboxd
 Francisco Zambrano  10   https://letterboxd.com/franzisco/film/caught-by-the-tides/
 Debzzzz             10
@@ -8492,7 +8740,6 @@ Kid Y                    2.5
 Nanyouki                 5
 Lu Hang                  2.5
 Sean Y                   9
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          10
 Max Borg                 
@@ -8534,6 +8781,17 @@ Pedroni                  7
 Rossi                    10
 Ruzzier                  7
 Ucceli                   8
+# sentieriselvaggi.it
+Massimo Causo            7
+Antonio d'Onofri         8
+Simone Emiliani          8
+Lucrezia Ercolani        
+Ilaria Feole             8
+Simone Soranna           
+Sergio Sozzo             7
+Aldo Spinello            8
+Carlo Valeri             7
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           10
 Falila Gbadamassi        8
@@ -8552,6 +8810,27 @@ Tamara Hodova            6
 Nastasya Gorbachsevskaya 6
 Daria Tarasova           6
 Egor Moskvitin           6
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               6
+Alberto Ramos            8
+Andrea Martini           8
+Barbara Lorey            
+David Sanchez            8
+Eva Peydro               6
+Firouz Pillet            
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          4
+Min Liu                  10
+Natalia Serebriakova     8
+Ninos Mikelides          6
+Pamela Jahn              8
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           10
 #letterboxd
 lavínia poletti     10   https://letterboxd.com/lavinia_poletti/film/emilia-perez/
 arnoe               10
@@ -9593,7 +9872,6 @@ Kid Y
 Nanyouki                 5
 Lu Hang                  2.5
 Sean Y                   7.5
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -9640,6 +9918,17 @@ Pedroni                  4
 Rossi                    2
 Ruzzier                  6
 Ucceli                   4
+# sentieriselvaggi.it
+Massimo Causo            7
+Antonio d'Onofri         5
+Simone Emiliani          4
+Lucrezia Ercolani        5
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             6
+Aldo Spinello            6
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        
@@ -9658,6 +9947,27 @@ Tamara Hodova            6
 Nastasya Gorbachsevskaya 7
 Daria Tarasova           4
 Egor Moskvitin           6
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               8
+Alberto Ramos            
+Andrea Martini           8
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          6
+Min Liu                  
+Natalia Serebriakova     6
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 Cine_BTS            10
 Axel Philippon      10
@@ -10460,7 +10770,6 @@ Kid Y                    1
 Nanyouki                 5
 Lu Hang                  7.5
 Sean Y                   9
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          10
 Max Borg                 10
@@ -10506,6 +10815,17 @@ Pedroni                  4
 Rossi                    
 Ruzzier                  6
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            8
+Antonio d'Onofri         6
+Simone Emiliani          8
+Lucrezia Ercolani        
+Ilaria Feole             8
+Simone Soranna           4
+Sergio Sozzo             6
+Aldo Spinello            
+Carlo Valeri             8
+Chiara Zuccari           7
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        
@@ -10524,6 +10844,27 @@ Tamara Hodova            8
 Nastasya Gorbachsevskaya 10
 Daria Tarasova           9
 Egor Moskvitin           8
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               8
+Alberto Ramos            4
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             8
+Mariona Borrull          8
+Min Liu                  6
+Natalia Serebriakova     2
+Ninos Mikelides          6
+Pamela Jahn              4
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           2
 #letterboxd
 Oliver              10
 Nick                10
@@ -11802,7 +12143,6 @@ Kid Y                    1
 Nanyouki                 2.5
 Lu Hang                  5
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -11848,6 +12188,17 @@ Pedroni                  6
 Rossi                    4
 Ruzzier                  6
 Ucceli                   4
+# sentieriselvaggi.it
+Massimo Causo            6
+Antonio d'Onofri         7
+Simone Emiliani          7
+Lucrezia Ercolani        7
+Ilaria Feole             7
+Simone Soranna           7
+Sergio Sozzo             5
+Aldo Spinello            
+Carlo Valeri             6
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        4
@@ -11866,6 +12217,27 @@ Tamara Hodova            7
 Nastasya Gorbachsevskaya 7
 Daria Tarasova           6
 Egor Moskvitin           8
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           4
+Barbara Lorey            
+David Sanchez            6
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          4
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          6
+Pamela Jahn              4
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           6
 #letterboxd
 A.A. Dowd           10
 Marina              10
@@ -12883,7 +13255,6 @@ Kid Y                    9
 Nanyouki                 5
 Lu Hang                  7.5
 Sean Y                   1
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -12929,6 +13300,17 @@ Pedroni                  4
 Rossi                    4
 Ruzzier                  8
 Ucceli                   4
+# sentieriselvaggi.it
+Massimo Causo            8
+Antonio d'Onofri         9
+Simone Emiliani          9
+Lucrezia Ercolani        6
+Ilaria Feole             7
+Simone Soranna           
+Sergio Sozzo             8
+Aldo Spinello            6
+Carlo Valeri             9
+Chiara Zuccari           5
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        4
@@ -12947,6 +13329,27 @@ Tamara Hodova            5
 Nastasya Gorbachsevskaya 5
 Daria Tarasova           6
 Egor Moskvitin           5
+# FIPRESCI
+Ahmed Shawky             4
+Kerem Akca               10
+Alberto Ramos            4
+Andrea Martini           
+Barbara Lorey            4
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            4
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     10
+João Antunes             
+Mariona Borrull          2
+Min Liu                  
+Natalia Serebriakova     6
+Ninos Mikelides          4
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           2
 #letterboxd
 Luke                10
 Dave Jenkins        10
@@ -13998,7 +14401,6 @@ Kid Y
 Nanyouki                 5
 Lu Hang                  7.5
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -14044,6 +14446,17 @@ Pedroni                  8
 Rossi                    10
 Ruzzier                  10
 Ucceli                   10
+# sentieriselvaggi.it
+Massimo Causo            7
+Antonio d'Onofri         9
+Simone Emiliani          9
+Lucrezia Ercolani        7
+Ilaria Feole             8
+Simone Soranna           5
+Sergio Sozzo             
+Aldo Spinello            8
+Carlo Valeri             10
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        
@@ -14062,6 +14475,27 @@ Tamara Hodova            8
 Nastasya Gorbachsevskaya 10
 Daria Tarasova           6
 Egor Moskvitin           10
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            8
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          
+Min Liu                  6
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              4
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 livap               10
 SofiSoto            10   https://letterboxd.com/sofisoto/film/anora/
@@ -15033,7 +15467,6 @@ Kid Y                    2.5
 Nanyouki                 2.5
 Lu Hang                  1
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -15077,6 +15510,17 @@ Pedroni                  4
 Rossi                    7
 Ruzzier                  6
 Ucceli                   8
+# sentieriselvaggi.it
+Massimo Causo            7
+Antonio d'Onofri         4
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            6
+Carlo Valeri             6
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        
@@ -15095,6 +15539,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           4
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            2
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            6
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          4
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           4
 #letterboxd
 Airidas             10
 Merlock_Holmes      10
@@ -16146,7 +16611,6 @@ Kid Y
 Nanyouki                 7.5
 Lu Hang                  1
 Sean Y                   7.5
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -16192,6 +16656,17 @@ Pedroni                  10
 Rossi                    4
 Ruzzier                  10
 Ucceli                   4
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         6
+Simone Emiliani          8
+Lucrezia Ercolani        4
+Ilaria Feole             4
+Simone Soranna           8
+Sergio Sozzo             
+Aldo Spinello            4
+Carlo Valeri             4
+Chiara Zuccari           6
 # Académie des Lumières
 Vicenç Batalla           6
 Falila Gbadamassi        6
@@ -16210,6 +16685,27 @@ Tamara Hodova            4
 Nastasya Gorbachsevskaya 5
 Daria Tarasova           9
 Egor Moskvitin           10
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            2
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              4
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 mollyyygreeen       10   https://letterboxd.com/mollyyygreeen/film/parthenope/
 Michelle            10
@@ -16805,7 +17301,6 @@ Kid Y                    7.5
 Nanyouki                 5
 Lu Hang                  9
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -16850,6 +17345,17 @@ Pedroni                  7
 Rossi                    7
 Ruzzier                  8
 Ucceli                   7
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           8
 Falila Gbadamassi        
@@ -16868,6 +17374,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               10
+Alberto Ramos            10
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  8
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Valentina Eid       9
 carlip              8
@@ -17006,7 +17533,6 @@ Kid Y
 Nanyouki                 2.5
 Lu Hang                  2.5
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -17052,6 +17578,17 @@ Pedroni
 Rossi                    
 Ruzzier                  
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         5
+Simone Emiliani          7
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             8
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla           4
 Falila Gbadamassi        4
@@ -17070,6 +17607,27 @@ Tamara Hodova            3
 Nastasya Gorbachsevskaya 3
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            8
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          4
+Pamela Jahn              4
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Deco2024            10
 overthe2005         10
@@ -17210,7 +17768,6 @@ Kid Y
 Nanyouki                 
 Lu Hang                  
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -17250,6 +17807,17 @@ Pedroni
 Rossi                    
 Ruzzier                  
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17268,6 +17836,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Ava Lellouche       10
 Daniel              9
@@ -17409,7 +17998,6 @@ Kid Y
 Nanyouki                 
 Lu Hang                  
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -17449,6 +18037,17 @@ Pedroni
 Rossi                    
 Ruzzier                  
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17467,6 +18066,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 jsh710              10
 abbylira            9
@@ -17607,7 +18227,6 @@ Kid Y
 Nanyouki                 
 Lu Hang                  
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -17647,6 +18266,17 @@ Pedroni
 Rossi                    
 Ruzzier                  
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17665,6 +18295,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Ugne                10
 lottesejersted      8
@@ -17795,7 +18446,6 @@ Kid Y
 Nanyouki                 
 Lu Hang                  
 Sean Y                   
-# FIPRESCI
 # OutNow (1 3 5 7 8 10)
 Alex Billington          
 Max Borg                 
@@ -17835,6 +18485,17 @@ Pedroni
 Rossi                    
 Ruzzier                  
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # Académie des Lumières
 Vicenç Batalla
 Falila Gbadamassi        
@@ -17853,6 +18514,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Nurevşan Kırçiçek   10
 Alice_le_sang       10
@@ -17943,7 +18625,19 @@ Eulalia Iglesias         7
 Jaime Pena               6
 Angel Quintana           4
 Jara Yanez               7
-# FIPRESCI
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  2
+Gironi                   
+Manassero                6
+Martini                  
+Pedroni                  6
+Rossi                    
+Ruzzier                  4
+Ucceli                   6
 # Russian film critics
 Anton Dolin              
 Anna Strelchuk           
@@ -17952,6 +18646,27 @@ Tamara Hodova
 Nastasya Gorbachsevskaya 
 Daria Tarasova           
 Egor Moskvitin           
+# FIPRESCI
+Ahmed Shawky             8
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            10
+Eva Peydro               
+Firouz Pillet            4
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          4
+Min Liu                  6
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 audrey              10
 Josh                10
@@ -18471,7 +19186,51 @@ Eulalia Iglesias         7
 Jaime Pena               6
 Angel Quintana           6
 Jara Yanez               
+# cineforum.it
+Bellavita                4
+Bianchi                  
+Chimento                 6
+Fornara                  
+Gandini                  
+Gironi                   4
+Manassero                4
+Martini                  6
+Pedroni                  6
+Rossi                    4
+Ruzzier                  6
+Ucceli                   4
+# sentieriselvaggi.it
+Massimo Causo            7
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             5
+Simone Soranna           7
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             7
+Chiara Zuccari           
 # FIPRESCI
+Ahmed Shawky             4
+Kerem Akca               
+Alberto Ramos            4
+Andrea Martini           8
+Barbara Lorey            
+David Sanchez            2
+Eva Peydro               8
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          8
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Saracoccia3         10   https://letterboxd.com/saracoccia3/film/the-damned-2024-2/
 Mathieu Donner      10
@@ -19027,6 +19786,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               2
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            2
+Eva Peydro               6
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Kimyan              10
 Jack Birrell        10   https://letterboxd.com/plumhead/film/on-becoming-a-guinea-fowl/
@@ -19456,6 +20235,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               6
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             8
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 inesachr            10   https://letterboxd.com/inesachr/film/the-shameless-2024/
 adelesher           10
@@ -19734,6 +20533,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               4
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          6
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 ilana23             10
 Ghostfaceisglam     10
@@ -20108,6 +20927,26 @@ Jaime Pena
 Angel Quintana           6
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            10
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Debzzzz             10
 mouns               10
@@ -20410,6 +21249,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            10
+Eva Peydro               6
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          6
+Min Liu                  6
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              8
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Nurevşan Kırçiçek   10
 Ephraim_Winslow     10
@@ -20714,6 +21573,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               
+Firouz Pillet            10
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          8
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Oceeans11           10   https://letterboxd.com/oceeans11/film/the-story-of-souleymane/
 danya               10
@@ -20995,6 +21874,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          6
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 Sahar Loubna Maurer 10   https://letterboxd.com/alveion/film/my-sunshine-2024/
 nat                 10
@@ -21364,6 +22263,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              8
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 jzman               10
 Alex54              10
@@ -21587,6 +22506,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        4
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 davenm              9   https://letterboxd.com/davenm/film/santosh-2024/
 chiarab436          8
@@ -21801,6 +22740,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            10
+Eva Peydro               6
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 emmaduv             10
 Franklin Lam        10
@@ -22178,6 +23137,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            6
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           8
 #letterboxd
 SaraC31             10
 Noellegires         8
@@ -22235,6 +23214,7 @@ emilstauch          2
 "SEPTEMBER SAYS" (Ariane LABED) [Un Certain Regard]
  1st film
 
+Tim Grierson            https://www.screendaily.com/reviews/september-says-cannes-review/5193883.article
 #critic.de
 # Le film français
 Thierry Chèze            7.5
@@ -22288,7 +23268,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
-Tim Grierson            https://www.screendaily.com/reviews/september-says-cannes-review/5193883.article
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 jamboolive          10
 emmaduv             10
@@ -22441,6 +23440,7 @@ flklre              1   https://letterboxd.com/flklre/film/september-says/
 
 "VIET AND NAM" (TRUONG Minh Quý) [Un Certain Regard]
 
+John Berra              https://www.screendaily.com/reviews/viet-and-nam-cannes-review/5193650.article
 #critic.de
 # Le film français
 Thierry Chèze            
@@ -22494,7 +23494,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
-John Berra              https://www.screendaily.com/reviews/viet-and-nam-cannes-review/5193650.article
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            8
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 felixkalmenson      10
 delfinlev           10
@@ -22613,6 +23632,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Nicoletta0712       10   https://letterboxd.com/nicoletta0712/film/flow-2024/
 Nurevşan Kırçiçek   10
@@ -22690,6 +23729,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 mariakou            7   https://letterboxd.com/mariakou/film/norah/
 Harish Mallya       6
@@ -22752,6 +23811,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 LeliaS              8
 lilacarmen          8
@@ -22852,7 +23931,17 @@ Pedroni                  6
 Rossi                    6
 Ruzzier                  6
 Ucceli                   6
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            8
+Antonio d'Onofri         
+Simone Emiliani          8
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           7
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 #letterboxd
 Yanis Prone         10
 zoejle_             10
@@ -32539,7 +33628,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 lovewins            10
 ka71e               6
@@ -32603,7 +33691,17 @@ Pedroni
 Rossi                    8
 Ruzzier                  6
 Ucceli                   
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            8
+Antonio d'Onofri         8
+Simone Emiliani          9
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             8
+Aldo Spinello            10
+Carlo Valeri             8
+Chiara Zuccari           
 #letterboxd
 #dunnesvendetta      10
 #tamaramuro          10
@@ -32673,7 +33771,17 @@ Eulalia Iglesias         5
 Jaime Pena               4
 Angel Quintana           2
 Jara Yanez               3
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         6
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            6
+Carlo Valeri             5
+Chiara Zuccari           
 #letterboxd
 joseph_archer       10   https://letterboxd.com/joseph_archer/film/rumours-2024/
 cloporte20          10
@@ -33315,7 +34423,17 @@ Pedroni
 Rossi                    4
 Ruzzier                  8
 Ucceli                   7
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            5
+Antonio d'Onofri         
+Simone Emiliani          8
+Lucrezia Ercolani        
+Ilaria Feole             7
+Simone Soranna           6
+Sergio Sozzo             8
+Aldo Spinello            9
+Carlo Valeri             
+Chiara Zuccari           
 #letterboxd
 Letterboxd 50_Ratings	7.26  https://letterboxd.com/film/furiosa-a-mad-max-saga/
 Pau Olmos           10
@@ -35517,7 +36635,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 Letterboxd 663_Ratings	7.2  https://letterboxd.com/film/twilight-of-the-warriors-walled-in/
 Afik Joshua Ng      10   https://letterboxd.com/nnajiko/film/twilight-of-the-warriors-walled-in/
@@ -36989,7 +38106,17 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         7
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             6
+Simone Soranna           
+Sergio Sozzo             7
+Aldo Spinello            7
+Carlo Valeri             
+Chiara Zuccari           7
 #letterboxd
 samuuel             10   https://letterboxd.com/samuuel/film/the-surfer-2024/
 fulhamfc33          10
@@ -37588,7 +38715,6 @@ Eulalia Iglesias         4
 Jaime Pena               
 Angel Quintana           4
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 Lucie               10   https://letterboxd.com/lu_24/film/the-balconettes/
 Samsam              10
@@ -38374,7 +39500,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 eli_thlt            10
 Debzzzz             10
@@ -38550,7 +39675,17 @@ Pedroni
 Rossi                    8
 Ruzzier                  10
 Ucceli                   
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            9
+Antonio d'Onofri         
+Simone Emiliani          9
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 #letterboxd
 Nurevşan Kırçiçek   10
 Mohsen Ahmed        10   https://letterboxd.com/maz2050/film/its-not-me-2024/
@@ -38865,7 +40000,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 cocolay             10
 e.e. e.             10
@@ -39106,7 +40240,6 @@ Pedroni
 Rossi                    7
 Ruzzier                  7
 Ucceli                   10
-# FIPRESCI
 #letterboxd
 Frédéric Vidal      9
 Pierre Charpilloz   5
@@ -39150,7 +40283,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 A_nos_amours        7
 Jean-Philippe Guerand 6
@@ -39197,7 +40329,6 @@ Eulalia Iglesias
 Jaime Pena               4
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 arthurlemouton      10
 Staalixia           9
@@ -39427,7 +40558,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 Lousiana            10   https://letterboxd.com/lousiana/film/being-maria/
 whosdelphine        10
@@ -39538,7 +40668,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 
 
@@ -39580,7 +40709,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 
 
@@ -39625,7 +40753,17 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            8
+Carlo Valeri             8
+Chiara Zuccari           
 #letterboxd
 golan               10
 F€¥¥€               10   https://letterboxd.com/feyye/film/ernest-cole-lost-and-found/
@@ -39705,7 +40843,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           7
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 johannkreisler      10
 gazettely           9   https://letterboxd.com/gazettely/film/the-invasion-2024/
@@ -39802,13 +40939,13 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 ohsassou            7
 
 
 "LA BELLE DE GAZA (The Belle from Gaza)" (Yolande ZAUBERMAN) [Out Of Competition] Special Screening
 
+Siddhant Adlakha        https://variety.com/2024/film/reviews/the-belle-from-gaza-review-la-belle-de-gaza-1236005391/
 #critic.de
 Valerie Dirk          7.5
 Rüdiger Suchsland    7.5     https://open.spotify.com/episode/2cvtez1Im6OuVbVrbIgWhk?fbclid=IwZXh0bgNhZW0CMTEAAR3j0pfJfqBqEeVn_2BedFxeMPd-MTGyTR9CuElQQPOHzAwIoNvzfzZ77Gs_aem_AXXUj2TKKyEis5K6f8nbzVs9NuSFhpgSoQPSo7oNtad4GFciTNjquTbYTkv_A1fdLGF0JBxw-0D4HFNTdDHDoDJj
@@ -39847,8 +40984,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
-Siddhant Adlakha        https://variety.com/2024/film/reviews/the-belle-from-gaza-review-la-belle-de-gaza-1236005391/
 #letterboxd
 Afurianegra         10
 LouanN              10
@@ -39961,7 +41096,17 @@ tanize84            2
  TV-Series
 
 #critic.de
-# FIPRESCI
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          8
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             8
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 #letterboxd
 
 "AN UNFINISHED FILM" (LOU Ye) [Out Of Competition] Special Screening
@@ -40005,7 +41150,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 Junko Hirai         10
 Epiphany215         10
@@ -40143,7 +41287,6 @@ Imaginelune         1
 
 "IN THE WONDERWOODS (ANGELO DANS LA FORÊT MYSTÉRIEUSE)" (Vincent PARONNAUD/Alexis DUCORD) [Out Of Competition] Special Screening
  Anim
-
 #letterboxd
 Nurevşan Kırçiçek   10
 whosdelphine        7
@@ -40352,7 +41495,38 @@ Pedroni                  7
 Rossi                    7
 Ruzzier                  7
 Ucceli                   
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          7
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          8
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          4
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Polly               10
 RebeccaMarkgraf     10
@@ -40705,6 +41879,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            6
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          8
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 mmmlauro            10
 Axel Cheb           10   https://letterboxd.com/axelcheb/film/something-new-something-old-something-borrowed/
@@ -40880,6 +42074,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               6
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Paulcrlt            10
 aurawr              10   https://letterboxd.com/aurawr/film/in-his-own-image/
@@ -41070,6 +42284,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            4
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        4
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          8
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Narce Ruiz          10   https://letterboxd.com/narceruiz/film/the-hyperboreans/
 Kim Elmoumen        10
@@ -41302,6 +42536,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          8
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Eliana Henrich      10   https://letterboxd.com/fatass_mozza/film/desert-of-namibia/
 sakutoco            10
@@ -41469,6 +42723,26 @@ Jaime Pena               8
 Angel Quintana           5
 Jara Yanez               7
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          8
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Jsnyc               10
 mearmsmearms        10
@@ -41786,6 +43060,26 @@ Jaime Pena               8
 Angel Quintana           
 Jara Yanez               7
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               8
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          6
+Min Liu                  
+Natalia Serebriakova     6
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Daniel Allen        10
 CarlosBinos         10
@@ -42015,7 +43309,38 @@ Eulalia Iglesias         8
 Jaime Pena               7
 Angel Quintana           8
 Jara Yanez               7
+# sentieriselvaggi.it
+Massimo Causo            
+Antonio d'Onofri         
+Simone Emiliani          7
+Lucrezia Ercolani        
+Ilaria Feole             
+Simone Soranna           
+Sergio Sozzo             
+Aldo Spinello            
+Carlo Valeri             
+Chiara Zuccari           
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           6
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 F€¥¥€               9   https://letterboxd.com/feyye/film/visiting-hours-2024/
 Mathilde Lacombe    9
@@ -42219,6 +43544,26 @@ Jaime Pena               6
 Angel Quintana           
 Jara Yanez               7
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Simon_Reshevsky     8
 lookat29            8
@@ -42357,6 +43702,26 @@ Rossi                    7
 Ruzzier                  7
 Ucceli                   
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          10
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Carson Lund         10
 Nurevşan Kırçiçek   10
@@ -42560,6 +43925,26 @@ Jaime Pena               5
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Coco Martian        10
 ludivine29          10   https://letterboxd.com/ludivine29/film/sister-midnight/
@@ -42754,6 +44139,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            8
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Camila Henriques    9
 gazettely           9   https://letterboxd.com/gazettely/film/the-falling-sky-2024/
@@ -42870,6 +44275,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 alientree           10
 johannkreisler      10   https://letterboxd.com/johannkreisler/film/mongrel-2024/
@@ -43015,6 +44440,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               8
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis    
+João Antunes             
+Mariona Borrull          10
+Min Liu                  
+Natalia Serebriakova     4
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 acrosscinema        10   https://letterboxd.com/acrosscinema/film/the-other-way-around/
 Quentin23           10
@@ -43291,6 +44736,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Letterboxd 1136_Ratings	7.2  https://letterboxd.com/film/good-one/
 
@@ -43345,6 +44810,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           6
 #letterboxd
 steinherz           10
 LydiaB              10
@@ -43491,6 +44976,7 @@ Elīna               2   https://letterboxd.com/eln_/film/ghost-cat-anzu/
 
 "EAT THE NIGHT" (Caroline Poggi & Jonathan Vinel) [Quinzaine]
 
+Robert Daniels          https://www.screendaily.com/reviews/eat-the-night-cannes-review/5193635.article
 #critic.de
 Jenny Jecke           7.5
 Pavao Vlajcic         9       https://letterboxd.com/powwow/film/eat-the-night/
@@ -43542,7 +45028,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
-Robert Daniels          https://www.screendaily.com/reviews/eat-the-night-cannes-review/5193635.article
+Ahmed Shawky             
+Kerem Akca               4
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Francisco Zambrano  10   https://letterboxd.com/franzisco/film/eat-the-night/
 Elīna               10   https://letterboxd.com/eln_/film/eat-the-night/
@@ -43739,6 +45244,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             2
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Nurevşan Kırçiçek   10
 Mathieu Donner      10
@@ -43791,6 +45316,8 @@ mabisuu             1   https://letterboxd.com/maviussz/film/east-of-noon/
 
 "TO A LAND UNKNOWN" (Mahdi Fleifel) [Quinzaine]
 
+David Katz              https://thefilmstage.com/cannes-review-to-a-land-unknown-tells-a-bitter-poem-of-palestinian-exile/
+Catherine Bray          https://variety.com/2024/film/reviews/to-a-land-unknown-review-1236012820/
 #critic.de
 Robert Daniels          https://www.screendaily.com/reviews/to-a-land-unknown-cannes-review/5193874.article
 # ics
@@ -43841,8 +45368,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
-David Katz              https://thefilmstage.com/cannes-review-to-a-land-unknown-tells-a-bitter-poem-of-palestinian-exile/
-Catherine Bray          https://variety.com/2024/film/reviews/to-a-land-unknown-review-1236012820/
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          6
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Paul_jll            10
 melisa              10
@@ -43935,6 +45480,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        8
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              6
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 onlyjeremy          10
 Matheus Bastos      10   https://letterboxd.com/mattbastos/film/gazer/
@@ -44047,6 +45612,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  4
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Raphaël Hausséguy   10
 hectorap99          8
@@ -44109,6 +45694,27 @@ Leonardo Goi
 Gautier Roos             8
 Thomas Gastaldi          4
 Fabien David             6
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               6
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             4
+Mariona Borrull          6
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              8
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 solo_mon            10
 guckuk              10
@@ -44427,6 +46033,26 @@ Rossi
 Ruzzier                  6
 Ucceli                   7
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               6
+Alberto Ramos            6
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            4
+Joannis Raouzaios        4
+J. Orcheskowska-Bonis    
+João Antunes             
+Mariona Borrull          6
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 tomas murphy        10
 Julian              10
@@ -44742,6 +46368,26 @@ Gautier Roos
 Thomas Gastaldi          6
 Fabien David             6
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 growen              10
 PresleySchmitt      10   https://letterboxd.com/presleyschmitt/film/locust-2024/
@@ -44979,6 +46625,26 @@ Gautier Roos
 Thomas Gastaldi          2
 Fabien David             4
 # FIPRESCI
+Ahmed Shawky             8
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          4
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 
 "Across the Sea (La mer au loin)" (Saïd Hamich Benlarbi, F/Mar/B/Q) [Semaine] Special
@@ -45032,6 +46698,26 @@ Gautier Roos             8
 Thomas Gastaldi          
 Fabien David             8
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Clara_mp4           10
 charlynegenoud      10
@@ -45151,6 +46837,26 @@ Gautier Roos
 Thomas Gastaldi          6
 Fabien David             10
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              8
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 bertmo              10
 svajotojai          10
@@ -45342,6 +47048,26 @@ Gautier Roos             6
 Thomas Gastaldi          
 Fabien David             6
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 
 "Blue Sun Palace" (Constance Tsang, US) [Semaine] Semaine Jury Prize
@@ -45382,7 +47108,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 # wask
 The Hollywood Reporter   8
 Le Monde                 8
@@ -45395,6 +47120,27 @@ Leonardo Goi             6
 Gautier Roos             
 Thomas Gastaldi          4
 Fabien David             
+# FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        6
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 bunush              10   https://letterboxd.com/bunush/film/blue-sun-palace/
 lz111               10
@@ -45582,6 +47328,26 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             6
+Mariona Borrull          4
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 faustinekidd826     10
 margzouaoui         10   https://letterboxd.com/margzouaoui/film/block-pass/
@@ -45828,6 +47594,26 @@ Gautier Roos
 Thomas Gastaldi          6
 Fabien David             
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            8
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               6
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Ana Gabriel         10
 Kofilm              10
@@ -45992,6 +47778,26 @@ Gautier Roos
 Thomas Gastaldi          
 Fabien David             
 # FIPRESCI
+Ahmed Shawky             
+Kerem Akca               
+Alberto Ramos            
+Andrea Martini           
+Barbara Lorey            
+David Sanchez            
+Eva Peydro               
+Firouz Pillet            
+Joannis Raouzaios        
+J. Orcheskowska-Bonis     
+João Antunes             
+Mariona Borrull          
+Min Liu                  
+Natalia Serebriakova     
+Ninos Mikelides          
+Pamela Jahn              
+Raul Reis                
+Shahia Nahid             
+Thomas Abeltshauser      
+Ugo Brusaporco           
 #letterboxd
 Liam Debruel        10   https://letterboxd.com/monsieurpopcorn/film/animale/
 blakeclipse         9   https://letterboxd.com/blakeclipse/film/animale/
@@ -46067,7 +47873,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 Nina Fragale        10
 42tata              10
@@ -46191,7 +47996,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 charlynegenoud      10
 Klast               10   https://letterboxd.com/klast/film/it-doesnt-matter-2024/
@@ -46309,7 +48113,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 David_Cox           10   https://letterboxd.com/david_cox/film/ce-nest-quun-au-revoir/
 all_liel            10
@@ -46410,7 +48213,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 lookat29            8
 Mayeul              8
@@ -46543,7 +48345,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 iairsaid            10
 Flor Efron          10
@@ -46641,7 +48442,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 antoine bert        7
 Wellington Almeida  7
@@ -46712,7 +48512,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 ruthra_13           10
 saracf              10   https://letterboxd.com/saracf/film/chateau-rouge/
@@ -46780,7 +48579,6 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
-# FIPRESCI
 #letterboxd
 Jean-François Ier   6
 tgckrbck            6
@@ -46938,7 +48736,6 @@ Bridgette Cooke     2
 
 "Maria" (Pablo Larraín) [Predictions]
  Callas
-
 #letterboxd
 #mari                10
 #nana✮               10
@@ -46972,7 +48769,6 @@ Emre_Tezcan         1
 
 "Serpent's Path" (Kiyoshi Kurosawa, F/J) [Predictions]
  French remake
-
 #letterboxd
 zitan               8
 tompenny            6
@@ -47047,14 +48843,12 @@ Alex Fournaise      6
 
 "Bury Your Dead (Enterre Seus Mortos)" (Marco Dutra, Brazil) [Predictions]
  Sci-Fi
-
 #letterboxd
 Deborah Viegas      10
 rodrigort           10
 nilasds             4
 
 "Toutes pour une" (Houda Benyamina) [Predictions]
-
 
 #letterboxd
 laballerz625        3
@@ -47696,22 +49490,29 @@ Pragya Mishra (Dainik Prabhat Kiran, India)
 J. Sperling Reich (Celloloid Junkie, USA)
 Stephanie Zacharek (Time, USA)
 ";
-#$critics_group[$i] = "FIPRESCI";
-#$critics[$i++] = "
-#Ahmed Shawky (Fipresci)
-#Aleksander Huser (Fipresci)
-#Andrea Martini (La Nazione/Il Giorno, Italy)
-#Barbara Lorey (Fipresci)
-#Liang Chih-Yuan (Wow! Screen, Taiwan)
-#David Sanchez (Fipresci)
-#Eva Peydro (El Hype, España)
-#Ignacio Navarro (Fipresci)
-#Kerem Akca (Fipresci)
-#Mariona Borrull (Freelance, España)
-#Ninos Mikelides (ELEFTHEROTYPIA, Greece)
-#Pamela Jahn  (Fipresci)
-#Shahia Nahid (Fipresci)
-#";
+$critics_group[$i] = "FIPRESCI";
+$critics[$i++] = "
+Ahmed Shawky (Fipresci)
+Kerem Akca (Fipresci)
+Alberto Ramos (Fipresci)
+Andrea Martini (La Nazione/Il Giorno, Italy)
+Barbara Lorey (Fipresci)
+David Sanchez (Fipresci)
+Eva Peydro (El Hype, España)
+Firouz Pillet (Fipresci, France)
+Joannis Raouzaios (Fipresci)
+J. Orcheskowska-Bonis (Fipresci)
+João Antunes (Fipresci)
+Mariona Borrull (Freelance, España)
+Min Liu (Sina Movie, China)
+Natalia Serebriakova (Fipresci)
+Ninos Mikelides (ELEFTHEROTYPIA, Greece)
+Pamela Jahn (Fipresci)
+Raul Reis (Fipresci)
+Shahia Nahid (Fipresci)
+Thomas Abeltshauser (Fipresci)
+Ugo Brusaporco (Fipresci)
+";
 $critics_group[$i] = "chaosreign.fr";
 $critics[$i++] = "
 Mariana Agier (Sorociné, France)
@@ -47817,6 +49618,19 @@ Pedroni (, Italy)
 Rossi (, Italy)
 Ruzzier (, Italy)
 Ucceli (, Italy)
+";
+$critics_group[$i] = "sentieriselvaggi.it";
+$critics[$i++] = "
+Massimo Causo (, Italy)
+Antonio d'Onofrio (, Italy)
+Simone Emiliani (, Italy)
+Lucrezia Ercolani (, Italy)
+Ilaria Feole (, Italy)
+Simone Soranna (, Italy)
+Sergio Sozzo (, Italy)
+Aldo Spinello (, Italy)
+Carlo Valeri (, Italy)
+Chiara Zuccari (, Italy)
 ";
 $critics_group[$i] = "Académie des Lumières";
 $critics[$i++] = "
