@@ -20719,19 +20719,19 @@ Mathieu Macheret         5
 Kong Ritchie             9
 Screen International     9
 # Le film français
-Thierry Chèze            7.5
-Julien Rousset           
+Thierry Chèze            5
+Julien Rousset           7.5
 Marcos Uzal              7.5
 Eric Neuhoff             2.5
 Philippe Rouyer          7.5
 Mathieu Macheret         5
 Guillemette Odicino      5
-Cèline Rouden            
+Cèline Rouden            7.5
 Jean-Marc Lalanne        7.5
 Michaël Mélinard         2.5
 Nicolas Schaller         
 Philippe Lemoine         2.5
-Barbara Théate           
+Barbara Théate           5
 Sandra Onana             9
 Catherine Balle          2.5
 # ioncinema
@@ -20960,21 +20960,21 @@ Mathieu Macheret         7.5
 Kong Ritchie             7.5
 Screen International     7.5
 # Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Mathieu Macheret         
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
+Thierry Chèze            9
+Julien Rousset           9
+Marcos Uzal              5
+Eric Neuhoff             2.5
+Philippe Rouyer          9
+Mathieu Macheret         7.5
+Guillemette Odicino      9
+Cèline Rouden            9
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         9
+Nicolas Schaller         9
+Philippe Lemoine         9
+Barbara Théate           9
+Sandra Onana             7.5
+Catherine Balle          7.5
 # ioncinema
 Nicholas Bell            8
 Paola Casela             
@@ -21184,21 +21184,21 @@ Mathieu Macheret         2.5
 Kong Ritchie             2.5
 Screen International     2.5
 # Le film français
-Thierry Chèze            
-Julien Rousset           
+Thierry Chèze            7.5
+Julien Rousset           5
 Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Mathieu Macheret         
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
+Eric Neuhoff             2.5
+Philippe Rouyer          9
+Mathieu Macheret         2.5
+Guillemette Odicino      9
+Cèline Rouden            7.5
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         2.5
+Nicolas Schaller         7.5
+Philippe Lemoine         7.5
+Barbara Théate           7.5
 Sandra Onana             
-Catherine Balle          
+Catherine Balle          7.5
 # ioncinema
 Nicholas Bell            4
 Paola Casela             6
@@ -24047,7 +24047,7 @@ Thierry Chèze            2.5
 Julien Rousset           
 Marcos Uzal              5
 Eric Neuhoff             
-Philippe Rouyer          
+Philippe Rouyer          7.5
 Mathieu Macheret         
 Guillemette Odicino      5
 Cèline Rouden            
@@ -25535,11 +25535,11 @@ Leslie Felperin         https://www.hollywoodreporter.com/movies/movie-reviews/a
 #critic.de
 Dunja Bialas          6
 # Le film français
-Thierry Chèze            
+Thierry Chèze            7.5
 Julien Rousset           
 Marcos Uzal              
 Eric Neuhoff             
-Philippe Rouyer          
+Philippe Rouyer          7.5
 Mathieu Macheret         
 Guillemette Odicino      5
 Cèline Rouden            
@@ -26529,7 +26529,7 @@ peenth              4
 # Le film français
 Thierry Chèze            
 Julien Rousset           
-Marcos Uzal              
+Marcos Uzal              7.5
 Eric Neuhoff             
 Philippe Rouyer          
 Mathieu Macheret         
@@ -26621,10 +26621,25 @@ RanaMatar           3
 
 "NIKI" (Céline SALLETTE) [Un Certain Regard]
 
+Allan Hunter            https://www.screendaily.com/reviews/niki-cannes-review/5193700.article
 #critic.de
 Michael Meyns         6
 # Le film français
-Allan Hunter            https://www.screendaily.com/reviews/niki-cannes-review/5193700.article
+Thierry Chèze            7.5
+Julien Rousset           
+Marcos Uzal              1
+Eric Neuhoff             5
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      5
+Cèline Rouden            
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
 # ics
 Federica Polidoro        
 Nicholas Bell            
