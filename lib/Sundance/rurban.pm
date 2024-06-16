@@ -652,7 +652,7 @@ sub last_modified {
 sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
-  my $dat = "./public/$BASE$year.dat";
+  my $dat = "public/$BASE$year.dat";
   if (Dancer::SharedData->request && request->user_agent =~ m{SemrushBot/}) {
       if (Dancer::SharedData->request and (params->{t} or params->{g})) {
           status 503;
@@ -664,7 +664,7 @@ sub _list {
   if (-e $dat) {
     my $last_modified = last_modified (@files, $dat);
     header 'Last-Modified' => HTTP::Date::time2str($last_modified);
-    do "$dat" or die "invalid ".File::Basename::basename($dat);
+    do "./$dat" or die "invalid ".File::Basename::basename($dat);
   } elsif (-e "../$dat") {
     my $last_modified = last_modified (@files, $dat);
     header 'Last-Modified' => HTTP::Date::time2str($last_modified);
@@ -745,9 +745,9 @@ get '/SundanceAll' => sub {
   for my $year (@YEARS) {
     no strict 'refs';
     my $dir = File::Basename::dirname(__FILE__);
-    my $dat = "./public/$BASE$year.dat";
+    my $dat = "public/$BASE$year.dat";
     if (-e $dat) {
-      do "$dat" or die "invalid $dat";
+      do "./$dat" or die "invalid $dat";
     } elsif (-e "../$dat") {
       do "../$dat" or die "invalid ../$dat";
     } else {
