@@ -7,10 +7,10 @@ use Plack::Runner;
 # is safer.
 set apphandler => 'PSGI';
 my $root = $ENV{'DOCUMENT_ROOT'} || '';
-if (-d '/app') {
+if (-d '/workspace') {
   set environment => 'production';
   #set auto_reload => 1;
-} elsif ($ENV{'REMOTE_ADDR'} eq '188.108.36.74') {
+} elsif ($ENV{'REMOTE_ADDR'} eq '172.16.135.74') {
   set environment => 'production';
 } else {
   set environment => 'development';
