@@ -679,23 +679,23 @@ sub last_modified {
 sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
-  my $dat = "./$dir/../../public/$BASE$year.dat";
+  my $dat = "./public/$BASE$year.dat";
   if (Dancer::SharedData->request and request->user_agent =~ m{SemrushBot/}) {
     if (Dancer::SharedData->request and (params->{t} or params->{g})) {
       status 503;
       return 'misbehaving robot';
     }
   }
-  my @files = (__FILE__, "$dir/../../views/cannes.tt",
-               "$dir/../../views/layouts/main.tt");
+  my @files = (__FILE__, "views/".lc($BASE).".tt",
+               "views/layouts/main.tt");
   if (-e $dat) {
     my $last_modified = last_modified (@files, $dat);
     header 'Last-Modified' => HTTP::Date::time2str($last_modified);
 
     do "$dat" or die "invalid ".File::Basename::basename($dat);
   } else {
-    eval "require $BASE\::rurban::$year;"
-      or die "invalid year $year";
+    eval "require $BASE\::rurban\::$year;"
+      or die "invalid year $year, $dat";
   }
 
   no strict 'refs';
@@ -736,9 +736,9 @@ sub _list {
   $vars->{FOOTER} = $FOOTER;
   $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
   if ($DATA) {
-    template lc($BASE), $vars;
+    template lc($BASE).".tt", $vars;
   } else {
-    template 'notyet', $vars;
+    template 'notyet.tt', $vars;
   }
 }
 
@@ -840,7 +840,7 @@ get '/all' => sub {
   for my $year (@YEARS) {
     no strict 'refs';
     my $dir = File::Basename::dirname(__FILE__);
-    my $dat = "./$dir/../../public/$BASE$year.dat";
+    my $dat = "./public/$BASE$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
     } else {
