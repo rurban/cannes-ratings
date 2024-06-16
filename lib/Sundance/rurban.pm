@@ -664,8 +664,11 @@ sub _list {
   if (-e $dat) {
     my $last_modified = last_modified (@files, $dat);
     header 'Last-Modified' => HTTP::Date::time2str($last_modified);
-
     do "$dat" or die "invalid ".File::Basename::basename($dat);
+  } elsif (-e "../$dat") {
+    my $last_modified = last_modified (@files, $dat);
+    header 'Last-Modified' => HTTP::Date::time2str($last_modified);
+    do "../$dat" or die "invalid ".File::Basename::basename($dat);
   } else {
     eval "require $BASE\::rurban::$year;"
       or die "invalid year $year";
@@ -745,6 +748,8 @@ get '/SundanceAll' => sub {
     my $dat = "./public/$BASE$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
+    } elsif (-e "../$dat") {
+      do "../$dat" or die "invalid ../$dat";
     } else {
       eval "require $BASE\::rurban\::$year;"
         or die "invalid year $year";
