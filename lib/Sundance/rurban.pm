@@ -626,9 +626,9 @@ sub _side_details {
         $gbox .= "<label><input type=hidden name=g value=\"$_\" checked></input></label>\n";
       }
       $gbox .= "<label><input name=\"g\" type=checkbox value=\"$s\"";
-      $gbox .= " checked" if params->{g};
+      $gbox .= " checked" if Dancer::SharedData->request and params->{g};
       $gbox .= "> $s </input></label><br>\n";
-      if (params->{g}) { # already clicked off
+      if (Dancer::SharedData->request and params->{g}) { # already clicked off
         $gbox .= '<input type=submit value="On">';
       } else {
         $gbox .= '<input type=submit value="Off">';
@@ -653,7 +653,7 @@ sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
   my $dat = "./$dir/../../public/$BASE$year.dat";
-  if (Dancer::SharedData->request and request->user_agent =~ m{SemrushBot/}) {
+  if (Dancer::SharedData->request && request->user_agent =~ m{SemrushBot/}) {
       if (Dancer::SharedData->request and (params->{t} or params->{g})) {
           status 503;
           return 'misbehaving robot';

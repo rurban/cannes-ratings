@@ -665,9 +665,9 @@ sub _side_details {
         $gbox .= "<label><input type=hidden name=g value=\"$_\" checked></input></label>\n";
       }
       $gbox .= "<label><input name=\"g\" type=checkbox value=\"$s\"";
-      $gbox .= " checked" if params->{g};
+      $gbox .= " checked" if Dancer::SharedData->request and params->{g};
       $gbox .= "> $s </input></label><br>\n";
-      if (params->{g}) { # already clicked off
+      if (Dancer::SharedData->request and params->{g}) { # already clicked off
         $gbox .= '<input type=submit value="On">';
       } else {
         $gbox .= '<input type=submit value="Off">';
