@@ -2,7 +2,8 @@ package Berlinale::rurban;
 our @ISA = ('Cannes::rurban');
 use Dancer ':syntax';
 use File::Basename ();
-use Time::Piece;
+use HTTP::Date ();
+use Time::Piece ();
 use utf8;
 
 our $VERSION = '0.2';
@@ -690,7 +691,7 @@ sub last_modified {
 sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
-  my $dat = "$dir/../../public/$BASE$year.dat";
+  my $dat = "./$dir/../../public/$BASE$year.dat";
   if (Dancer::SharedData->request and request->user_agent =~ m{SemrushBot/}) {
       if (Dancer::SharedData->request and (params->{t} or params->{g})) {
           status 503;
@@ -757,7 +758,7 @@ get '/BerlinaleAll' => sub {
   for my $year (@YEARS) {
     no strict 'refs';
     my $dir = File::Basename::dirname(__FILE__);
-    my $dat = "$dir/../../public/$BASE$year.dat";
+    my $dat = "./$dir/../../public/$BASE$year.dat";
     if (-e $dat) {
       do "$dat" or die "invalid $dat";
     } else {
