@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Runtime Error</title>
+<link rel="stylesheet" href="/css/error.css" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<h1>Runtime Error</h1>
+<div id="content">
+<h2>runtime error</h2><pre class="error">Warning caught during route execution: Use of uninitialized value $s in string eq at /home/rurban/Documents/cannes-ratings/lib/Sundance/rurban.pm line 622.
+</pre><div class="title">/home/rurban/Documents/cannes-ratings/lib/Sundance/rurban.pm around line 622</div><pre class="content"><span class="nu">619</span>   # turn off lb
+<span class="nu">620</span>   else {
+<span class="nu">621</span>     my $s = $critics_group[$#critics_group];
+<span class="nu">622</span> <span style="color: red;">    if ($s eq &#39;Letterboxd&#39;) {</span>
+<span class="nu">623</span>       my $gbox = &quot;&lt;form&gt;&lt;input type=hidden name=t value=\&quot;\&quot;&gt;\n&quot;;
+<span class="nu">624</span>       for (@critics_group) {
+<span class="nu">625</span>         next if $_ eq $s;
+</pre><div class="title">Stack</div><pre class="content">main in /usr/bin/plackup l. 7
+Plack::Runner in /usr/share/perl5/Plack/Runner.pm l. 279
+Plack::Loader in /usr/share/perl5/Plack/Loader.pm l. 84
+Plack::Handler::HTTP::Server::PSGI in /usr/share/perl5/Plack/Handler/HTTP/Server/PSGI.pm l. 14
+HTTP::Server::PSGI in /usr/share/perl5/HTTP/Server/PSGI.pm l. 63
+HTTP::Server::PSGI in /usr/share/perl5/HTTP/Server/PSGI.pm l. 141
+HTTP::Server::PSGI in /usr/share/perl5/HTTP/Server/PSGI.pm l. 182
+Plack::Util in /usr/share/perl5/Plack/Util.pm l. 145
+Plack::Util in /usr/share/perl5/Plack/Util.pm l. 145
+Plack::Component in /usr/share/perl5/Plack/Component.pm l. 50
+Plack::Middleware::ContentLength in /usr/share/perl5/Plack/Middleware/ContentLength.pm l. 10
+Plack::Component in /usr/share/perl5/Plack/Component.pm l. 50
+Plack::Middleware::AccessLog in /usr/share/perl5/Plack/Middleware/AccessLog.pm l. 27
+Plack::Component in /usr/share/perl5/Plack/Component.pm l. 50
+Plack::Middleware::StackTrace in /usr/share/perl5/Plack/Middleware/StackTrace.pm l. 42
+Try::Tiny in /usr/share/perl5/Try/Tiny.pm l. 93
+Try::Tiny in /usr/share/perl5/Try/Tiny.pm l. 100
+Plack::Middleware::StackTrace in /usr/share/perl5/Plack/Middleware/StackTrace.pm l. 38
+Plack::Component in /usr/share/perl5/Plack/Component.pm l. 50
+Plack::Middleware::Lint in /usr/share/perl5/Plack/Middleware/Lint.pm l. 24
+Plack::Component in /usr/share/perl5/Plack/Component.pm l. 50
+Plack::Middleware::ConditionalGET in /usr/share/perl5/Plack/Middleware/ConditionalGET.pm l. 10
+Plack::Component in /usr/share/perl5/Plack/Component.pm l. 50
+Plack::Middleware::Deflater in /usr/local/share/perl/5.38.2/Plack/Middleware/Deflater.pm l. 20
+Dancer::Handler in /usr/share/perl5/Dancer/Handler.pm l. 124
+Dancer::Handler in /usr/share/perl5/Dancer/Handler.pm l. 76
+Dancer::Handler in /usr/share/perl5/Dancer/Handler.pm l. 114
+Try::Tiny in /usr/share/perl5/Try/Tiny.pm l. 123
+Dancer::Exception in /usr/share/perl5/Dancer/Exception.pm l. 49
+Dancer::Exception in /usr/share/perl5/Dancer/Exception.pm l. 37
+Dancer::Handler in /usr/share/perl5/Dancer/Handler.pm l. 108
+Dancer::Object in /usr/share/perl5/Dancer/Object.pm l. 18
+Dancer::Error in /usr/share/perl5/Dancer/Error.pm l. 40
+Dancer::Error in /usr/share/perl5/Dancer/Error.pm l. 289</pre> <div class="title">Settings</div><pre class="content">{
+  <span class="key">appdir</span>  =&gt; '/home/rurban/Documents/cannes-ratings',
+  <span class="key">apphandler</span>  =&gt; 'PSGI',
+  <span class="key">appname</span>  =&gt; 'openshift',
+  <span class="key">auto_reload</span>  =&gt; 0,
+  <span class="key">charset</span>  =&gt; 'utf-8',
+  <span class="key">confdir</span>  =&gt; '/home/rurban/Documents/cannes-ratings',
+  <span class="key">content_type</span>  =&gt; 'text/html',
+  <span class="key">daemon</span>  =&gt; 0,
+  <span class="key">engines</span>  =&gt; {
+    <span class="key">YAML</span>  =&gt; {}
+  },
+  <span class="key">envdir</span>  =&gt; '/home/rurban/Documents/cannes-ratings/environments',
+  <span class="key">environment</span>  =&gt; 'development',
+  <span class="key">handlers</span>  =&gt; {},
+  <span class="key">layout</span>  =&gt; 'main',
+  <span class="key">log</span>  =&gt; 'warning',
+  <span class="key">logger</span>  =&gt; 'console',
+  <span class="key">plack_middlewares</span>  =&gt; [
+    [
+      'ConditionalGET'
+    ],
+    [
+      'Deflater'
+    ]
+  ],
+  <span class="key">plugins</span>  =&gt; {},
+  <span class="key">port</span>  =&gt; '3000',
+  <span class="key">public</span>  =&gt; '/home/rurban/Documents/cannes-ratings/public',
+  <span class="key">server</span>  =&gt; '0.0.0.0',
+  <span class="key">server_tokens</span>  =&gt; !!1,
+  <span class="key">show_errors</span>  =&gt; '1',
+  <span class="key">startup_info</span>  =&gt; !!1,
+  <span class="key">template</span>  =&gt; 'simple',
+  <span class="key">traces</span>  =&gt; 0,
+  <span class="key">views</span>  =&gt; '/home/rurban/Documents/cannes-ratings/views',
+  <span class="key">warnings</span>  =&gt; '1'
+}
+</pre>  <div class="title">Environment</div><pre class="content">{
+  <span class="key">HTTP_ACCEPT</span>  =&gt; '*/*',
+  <span class="key">HTTP_HOST</span>  =&gt; '127.0.0.1:5000',
+  <span class="key">HTTP_USER_AGENT</span>  =&gt; 'curl/8.5.0',
+  <span class="key">PATH_INFO</span>  =&gt; '/Sundance2016',
+  <span class="key">QUERY_STRING</span>  =&gt; '',
+  <span class="key">REMOTE_ADDR</span>  =&gt; '127.0.0.1',
+  <span class="key">REMOTE_PORT</span>  =&gt; 41110,
+  <span class="key">REQUEST_METHOD</span>  =&gt; 'GET',
+  <span class="key">REQUEST_URI</span>  =&gt; '/Sundance2016',
+  <span class="key">SCRIPT_NAME</span>  =&gt; '',
+  <span class="key">SERVER_NAME</span>  =&gt; 0,
+  <span class="key">SERVER_PORT</span>  =&gt; 5000,
+  <span class="key">SERVER_PROTOCOL</span>  =&gt; 'HTTP/1.1',
+  <span class="key">'psgi.errors'</span>  =&gt; *::STDERR,
+  <span class="key">'psgi.input'</span>  =&gt; \*{'HTTP::Server::PSGI::$input'},
+  <span class="key">'psgi.multiprocess'</span>  =&gt; !!0,
+  <span class="key">'psgi.multithread'</span>  =&gt; !!0,
+  <span class="key">'psgi.nonblocking'</span>  =&gt; !!0,
+  <span class="key">'psgi.run_once'</span>  =&gt; !!0,
+  <span class="key">'psgi.streaming'</span>  =&gt; !!1,
+  <span class="key">'psgi.url_scheme'</span>  =&gt; 'http',
+  <span class="key">'psgi.version'</span>  =&gt; [
+    1,
+    1
+  ],
+  <span class="key">'psgix.harakiri'</span>  =&gt; !!1,
+  <span class="key">'psgix.input.buffered'</span>  =&gt; !!1,
+  <span class="key">'psgix.io'</span>  =&gt; bless( \*Symbol::GEN42, 'IO::Socket::INET' )
+}
+</pre>
+</div>
+<div id="footer">
+Powered by <a href="http://perldancer.org/">Dancer</a> 1.3521
+</div>
+</body>
+</html>
