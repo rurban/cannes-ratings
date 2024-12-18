@@ -24,21 +24,24 @@ for x in Cannes Sundance Berlinale; do
 done
 # check age
 f=public/$d/index.html
-if [ ! -f $f ] || [ public/$d.dat -nt $f ]; then
+if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ]; then
+    echo $d
     curl -o $f http://127.0.0.1:5000/$d
-    perl -pi -e's/href="\?t=(\d+)#\d+"/href="\/$1.html"/;' $f
+    perl -pi -e's/href="\?t=(\d+)#\d+"/href="$1.html"/;' $f
     perl -pi -e's{href="/css/style.css"}{href="../css/style.css"};' $f
 fi
-t=$(perl -ne'if (/href="\/(\d+).html"/){$t=$1}; END{print $t}' $f)
-if [ -z $t ]; then
+t=$(perl -ne'if (/href="\/?(\d+).html"/){$t=$1}; END{print $t}' $f)
+if [ -z "$t" ]; then
     t=$(perl -ne'if (/href="\?t=(\d+)#\d+"/){$t=$1}; END{print $t}' $f)
 fi
-if [ -n $t ]; then
+if [ -n "$t" ]; then
+    echo $t titles for $d
     for i in $(seq $t); do
         f="public/$d/$i.html"
-        if [ ! -f $f ] || [ public/$d.dat -nt $f ] || [ $(stat --format=%s "$f") -lt 1000 ]; then
+        if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 1000 ]; then
+            echo $f
             curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
-            perl -pi -e's/href="\?t=(\d+)#\d+"/href="\/$1.html"/' $f
+            perl -pi -e's/href="\?t=(\d+)#\d+"/href="$1.html"/' $f
             perl -pi -e's{href="/css/style.css"}{href="../css/style.css"};' $f
         fi
     done
