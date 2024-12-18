@@ -33,11 +33,13 @@ t=$(perl -ne'if (/href="\/(\d+).html"/){$t=$1}; END{print $t}' $f)
 if [ -z $t ]; then
     t=$(perl -ne'if (/href="\?t=(\d+)#\d+"/){$t=$1}; END{print $t}' $f)
 fi
-for i in $(seq $t); do
-    f="public/$d/$i.html"
-    if [ ! -f $f ] || [ public/$d.dat -nt $f ] || [ $(stat --format=%s "$f") -lt 1000 ]; then
-        curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
-        perl -pi -e's/href="\?t=(\d+)#\d+"/href="\/$1.html"/' $f
-        perl -pi -e's{href="/css/style.css"}{href="../css/style.css"};' $f
-    fi
-done
+if [ -n $t ]; then
+    for i in $(seq $t); do
+        f="public/$d/$i.html"
+        if [ ! -f $f ] || [ public/$d.dat -nt $f ] || [ $(stat --format=%s "$f") -lt 1000 ]; then
+            curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
+            perl -pi -e's/href="\?t=(\d+)#\d+"/href="\/$1.html"/' $f
+            perl -pi -e's{href="/css/style.css"}{href="../css/style.css"};' $f
+        fi
+    done
+fi

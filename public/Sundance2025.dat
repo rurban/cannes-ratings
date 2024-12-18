@@ -1,0 +1,586 @@
+package Sundance::rurban::2025; # -*- perl -*-
+# Sundance 2025 Critics Ratings, 18.1.2024 - 28.1.
+# SLCWeekly: 0-4stars
+#            0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
+
+use utf8;
+our $DATA= <<'EOF';
+
+U.S. DRAMATIC COMPETITION
+
+"Atropia" (Hailey Gates) [U.S. Dramatic]
+ - When an aspiring actress in a military role-playing facility falls in love with a soldier cast as an insurgent, their unsimulated emotions threaten to derail the performance. Cast: Alia Shawkat, Callum Turner, Chloë Sevigny, Tim Heidecker, Jane Levy
+
+"Bubble & Squeak" (Evan Twohy) [U.S. Dramatic]
+ - Accused of smuggling cabbages into a nation where cabbages are banned, Declan and Delores must confront the fragility of their new marriage while on the run for their lives. Cast: Himesh Patel, Sarah Goldberg, Steven Yeun, Dave Franco, Matt Berry
+
+"Bunnylovr" (Katarina Zhu) [U.S. Dramatic]
+ - A drifting Chinese American cam girl struggles to navigate an increasingly toxic relationship with one of her clients while rekindling her relationship with her dying estranged father. Cast: Katarina Zhu, Rachel Sennott, Austin Amelio, Perry Yung, Jack Kilmer
+
+"Love, Brooklyn" (Rachael Abigail Holder) [U.S. Dramatic]
+ - Three longtime Brooklynites navigate careers, love, loss, and friendship against the rapidly
+changing landscape of their beloved city. Cast: André Holland, Nicole Beharie, DeWanda Wise, Roy Wood Jr., Cassandra Freeman, Cadence Reese
+
+"Omaha" (Cole Webley) [U.S. Dramatic]
+ - After a family tragedy, siblings Ella and Charlie are unexpectedly woken up by their dad and taken on a journey across the country, experiencing a world they’ve never seen before. As their adventure unfolds, Ella begins
+to understand that things might not be what they seem. Cast: John Magaro, Molly Belle Wright, Wyatt Solis, Talia Balsam
+
+"Plainclothes" (Carmen Emmi) [U.S. Dramatic]
+ - A promising undercover officer assigned to lure and arrest gay men defies orders when he falls in love with a target. Cast: Tom Blyth, Russell Tovey, Maria Dizzia, Christian Cooke, Gabe Fazio, Amy Forsyth
+
+"Ricky" (Rashad Frett) [U.S. Dramatic]
+ - Newly released after being locked up in his teens, 30-year-old Ricky navigates the challenging realities of life post-incarceration, and the complexity of gaining independence for the first time as an adult. Cast: Stephan James, Sheryl Lee Ralph, Titus Welliver, Maliq Johnson, Imani Lewis, Andrene Ward-Hammond
+
+"Sorry, Baby" (Eva Victor) [U.S. Dramatic]
+ - Something bad happened to Agnes. But life goes on … for everyone around her, at least. Cast: Eva Victor, Naomi Ackie, Lucas Hedges, John Carroll Lynch, Louis Cancelmi, Kelly McCormack
+
+"Sunfish (& Other Stories on Green Lake)" (Sierra Falconer) [U.S. Dramatic]
+ - Lives intertwine around Green Lake as a girl learns to sail, a boy fights for first chair, two sisters operate a bed-and-breakfast, and a fisherman is after the catch of his life. Cast: Maren Heary, Jim Kaplan, Karsen Liotta, Dominic Bogart, Tenley Kellogg, Emily Hall
+
+"Twinless" (James Sweeney) [U.S. Dramatic]
+ - Two young men meet in a twin bereavement support group and form an unlikely bromance. Cast: Dylan O’Brien, James Sweeney, Lauren Graham, Aisling Franciosi, Tasha Smith, Chris Perfetti
+
+U.S. DOCUMENTARY COMPETITION
+
+"Andre is an Idiot" (Tony Benna) [U.S. Documentaries]
+ - Andre, a brilliant idiot, is dying because he didn’t get a colonoscopy. His sobering diagnosis, complete irreverence, and insatiable curiosity, send him on an unexpected journey learning how to die happily and ridiculously without losing his sense of humor.
+
+"Life After" (Reid Davenport) [U.S. Documentaries]
+ - In 1983, a disabled Californian woman named Elizabeth Bouvia sought the “right to die,” igniting a national debate about autonomy, dignity, and the value of disabled lives. After years of courtroom trials, Bouvia disappeared from public view. Disabled director Reid Davenport narrates this investigation of what happened to Bouvia.
+
+"Marlee Matlin: Not Alone Anymore" (Shoshannah Stern) [U.S. Documentaries]
+ - In 1987, Marlee Matlin became the first Deaf actor to win an Academy Award and was thrust into the spotlight at 21 years old. Reflecting on her life in her primary language of American Sign Language, Marlee explores the complexities of what it means to be a trailblazer.
+
+"The Perfect Neighbor" (Geeta Gandbhir) [U.S. Documentaries]
+ - A seemingly minor neighborhood dispute in Florida escalates into deadly violence. Police bodycam footage and investigative interviews expose the consequences of Florida’s “stand your ground” laws.
+
+"Predators" (David Osit) [U.S. Documentaries]
+ - To Catch a Predator was a popular television show designed to hunt down child predators and lure them to a film set, where they would be interviewed and eventually arrested. An exploration of the scintillating rise and staggering fall of the show and the world it helped create.
+
+"Seeds" (Brittany Shyne) [U.S. Documentaries]
+ - An exploration of Black generational farmers in the American South reveals the fragility of legacy and the significance of owning land.
+
+"Third Act" (Tadashi Nakamura) [U.S. Documentaries]
+ - Generations of artists call Robert A. Nakamura “the godfather of Asian American media,” but filmmaker Tadashi Nakamura calls him Dad. Robert’s diagnosis of Parkinson’s disease leads to an exploration of art, activism, grief, and fatherhood.
+
+"Selena y Los Dinos" (Isabel Castro) [U.S. Documentaries]
+ - Selena Quintanilla — the “Queen of Tejano Music” — and her family band, Selena y Los Dinos, rose from performing at quinceañeras to selling out stadium tours. The celebration of her life and legacy is chronicled through never-before-seen footage from the family’s personal archive.
+
+"Speak." (Jennifer Tiexiera, Guy Mossman) [U.S. Documentaries]
+ - Five top-ranked high school oratory students spend a year crafting spellbinding spoken word performances with the dream of winning one of the world’s largest and most intense public speaking competitions.
+
+"Sugar Babies" (Rachel Fleit) [U.S. Documentaries]
+ - Autumn is an enterprising college scholarship recipient and burgeoning TikTok influencer. Part of a close circle of friends growing up poor in rural Louisiana, she is determined to overcome the struggles and barriers defining them. Faced with limited minimum wage job options, Autumn devises an online sugar baby operation.
+
+WORLD CINEMA DRAMATIC COMPETITION
+
+"Brides" (Nadia Fall, UK) [World Dramatic]
+ - Two teenage girls in search of freedom, friendship, and belonging run away from their troubled lives with a misguided plan of traveling to Syria. Cast: Ebada Hassan, Safiyya Ingar, Yusra Warsama, Cemre Ebuzziya, Aziz Capkurt
+
+"DJ Ahmet" (Georgi M. Unkovski, North Macedonia/Czech Republic/Serbia/Croatia) [World Dramatic]
+ - Ahmet, a 15-year-old boy from a remote Yuruk village in North Macedonia, finds refuge in music while navigating his father’s expectations, a conservative community, and his first experience with love — a girl already promised to someone else. Cast: Arif Jakup, Agush Agushev, Dora Akan Zlatanova, Aksel Mehmet, Selpin Kerim, Atila Klince
+
+"LUZ" (Flora Lau, Hong Kong/China) [World Dramatic]
+ - In the neon-lit streets of Chongqing, Wei desperately searches for his estranged daughter Fa, while Hong Kong gallerist Ren grapples with her ailing stepmother Sabine in Paris. Their lives collide in a virtual reality world, where a mystical deer reveals hidden truths, sparking a journey of discovery and connection. Cast: Isabelle Huppert, Sandrine Pinna, Xiao Dong Guo, Lu Huang, David Chiang, En Xi Deng
+
+"Sabar Bonda (Cactus Pears)" (Rohan Parashuram Kanawade, India/United Kingdom/Canada) [World Dramatic]
+ - Anand, a 30-something city dweller compelled to spend the 10-day mourning period for his father in the rugged countryside of western India, tenderly bonds with a local farmer struggling to stay unmarried. As the mourning ends, forcing his return, Anand must decide the fate of his relationship born under duress. Cast: Bhushaan Manoj, Suraaj Suman, Jayshri Jagtap
+
+"Sauna" (Mathias Broe, Denmark) [World Dramatic]
+ - Johan thrives as a gay man in Copenhagen, enjoying endless bars, parties, and casual flings. Everything changes when he meets William, a transgender man, and falls into a deep love that defies societal norms around gender, identity, and relationships. Cast: Magnus Juhl Andersen, Nina Rask, Dilan Amin, Klaus Tange
+
+"Sukkwan Island" (Vladimir de Fontenay, France) [World Dramatic]
+ - On the remote Sukkwan Island, 13-year-old Roy agrees to spend a formative year of adventure with his father deep in the Norwegian fjords. What starts as a chance to reconnect descends into a test of survival as they face the harsh realities of their environment and confront their unresolved turmoil. Cast: Swann Arlaud, Woody Norman, Alma Pöysti, Ruaridh Mollica, Tuppence Middleton
+
+"The Things You Kill" (Alireza Khatami, Turkey/France/Poland/Canada) [World Dramatic]
+ - Haunted by the suspicious death of his ailing mother, a university professor coerces his enigmatic gardener to execute a cold-blooded act of vengeance. Cast: Ekin Koç, Erkan Kolçak Köstendil, Hazar Ergüçlü, Ercan Kesal
+
+"Two Women" (Chloé Robichaud, Canada) [World Dramatic]
+ - Violette is having a difficult maternity leave. Florence is dealing with depression. Despite their careers and families, they feel like failures. Florence’s first infidelity is a revelation. When having fun is far down the list of priorities, sleeping with a delivery guy could be revolutionary. Cast: Karine Gonthier-Hyndman, Laurence Leboeuf, Félix Moati, Mani Soleymanlou, Sophie Nelisse, Juliette Gariépy
+
+"The Virgin of Quarry Lake" (Laura Casabé, Argentina/Spain/Mexico) [World Dramatic]
+ - In 2001, three teenagers from the outskirts of Buenos Aires all fall in love with Diego. Natalia has always had the most chemistry with him, but when it seems inevitable that their friendship will turn into something more, the older and more experienced Silvia appears and soon captures Diego’s attention. Cast: Dolores Oliverio, Luisa Merelas, Fernanda Echevarría, Dady Brieva, Agustín Sosa
+
+"Where the Wind Comes From" (Amel Guellaty, Tunisia/France/Qatar) [World Dramatic]
+ - Alyssa, a rebellious 19-year-old girl, and her friend Mehdi, an introverted 23-year-old man, use their imagination to escape their unpromising reality. When they discover a contest in the south of Tunisia that may allow them to flee, they undertake a road trip regardless of the obstacles in their way. Cast: Eya Bellagha, Slim Baccar
+
+WORLD CINEMA DOCUMENTARY COMPETITION
+
+"2000 Meters to Andriivka" (Mstyslav Chernov, Ukraine) [World Documentaries]
+ - Amid the failing counteroffensive, a journalist follows a Ukrainian platoon on their mission to traverse one mile of heavily fortified forest and liberate a strategic village from Russian occupation. But the farther they advance through their destroyed homeland, the more they realize that this war may never end.
+
+"Coexistence, My Ass!" (Amber Fares, US/France) [World Documentaries]
+ - Comedian Noam Shuster Eliassi creates a personal and political one-woman show about the struggle for equality in Israel/Palestine. When the elusive coexistence she’s spent her life working toward starts sounding like a bad joke, she challenges her audiences with hard truths that are no laughing matter.
+
+"Cutting Through Rocks" (Sara Khaki/Mohammadreza Eyni, Iran)  [World Documentaries]
+ - As the first elected councilwoman of her Iranian village, Sara Shahverdi aims to break long-held patriarchal traditions by training teenage girls to ride motorcycles and stopping child marriages. When accusations arise questioning Sara’s intentions to empower the girls, her identity is put in turmoil.
+
+"The Dating Game" (Violet Du Feng, US/UK/Norway) [World Documentaries]
+ - In a country where eligible men greatly outnumber women, three perpetual bachelors join an intensive seven-day dating camp led by one of China’s most sought-after dating coaches in what may be their last-ditch effort to find love.
+
+"Endless Cookie" (Seth+Peter Scriver, Canada) [World Documentaries]
+ - Exploring the complex bond between two half brothers — one Indigenous, one white — traveling from the present in isolated Shamattawa to bustling 1980s Toronto.
+
+"GEN_" (Gianluca Matarrese, France/Italy/Switzerland) [World Documentaries]
+ - At Milan’s Niguarda public hospital, the unconventional Dr. Bini leads a bold mission overseeing aspiring parents undergoing in vitro fertilization and the journeys of individuals reconciling their bodies with their gender identities. He navigates the constraints set by a conservative government and an aggressive market eager to commodify bodies.
+
+"How to Build a Library" (Maia Lekow, Christopher King, Kenya) [World Documentaries]
+ - Two intrepid Nairobi women decide to transform what used to be a whites-only library until 1958 into a vibrant cultural hub. Along the way, they must navigate local politics, raise millions for the rebuild, and confront the lingering ghosts of Kenya’s colonial past.
+
+"Khartoum" (Anas Saeed/Rawia Alhag..., Sudan/United Kingdom/Germany/Qatar) [World Documentaries]
+ - Forced to flee Sudan for East Africa following the outbreak of war, five citizens of Khartoum — a civil servant, a tea lady, a resistance committee volunteer, and two young bottle collectors — reenact their stories of survival and freedom through dreams, revolution, and civil war.
+
+"Mr. Nobody Against Putin" (David Borenstein, Denmark/Czech Republic) [World Documentaries]
+ - As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.
+
+"Prime Minister" (Michelle Walshe, Lindsay Utz, US) [World Documentaries]
+ - A view inside the life of former New Zealand Prime Minister Jacinda Ardern, capturing her through five tumultuous years in power and beyond as she redefined leadership on the world stage.
+
+NEXT
+
+"BLKNWS: Terms & Conditions" (Kahlil Joseph) [NEXT]
+ - Preeminent West African curator and scholar Funmilayo Akechukwu’s magnum opus, The Resonance Field, leads her to the heart of the Atlantic Ocean, drawing a journalist into a journey that shatters her understanding of consciousness and time. Cast: Shaunette Renée Wilson, Kaneza Schaal, Hope Giselle, Peter Jay Fernandez, Penny Johnson Jerald, Zora Casebere
+
+"By Design" (Amanda Kramer) [NEXT]
+ - A woman swaps bodies with a chair, and everyone likes her better as a chair. Cast: Juliette Lewis, Mamoudou Athie, Melanie Griffith, Samantha Mathis, Robin Tunney, Udo Kier
+
+"East of Wall" (Kate Beecroft) [NEXT]
+ - After the death of her husband, Tabatha — a young, tattooed, rebellious horse trainer — wrestles with financial insecurity and unresolved grief while providing refuge for a group of wayward teenagers on her broken- down ranch in the Badlands. Cast: Tabatha Zimiga, Porshia Zimiga, Scoot McNairy, Jennifer Ehle
+
+"Mad Bills to Pay (Destiny, dile que no soy malo)" (Joel Alfonso Vargas) [NEXT]
+ - Rico’s summer is a mix of chasing girls and hustling homemade cocktails out of a cooler on Orchard Beach, the Bronx. But when Destiny, his teenage girlfriend, crashes at his place with his family, it’s only a matter of time before his carefree days come spiraling down. Cast: Juan Collado, Destiny Checo, Yohanna Florentino, Nathaly Navarro
+
+"OBEX" (Albert Birney) [NEXT]
+ - Conor Marsh lives a secluded life with his dog, Sandy, until one day he begins playing OBEX, a new, state-of-the-art computer game. When Sandy goes missing, the line between reality and game blurs and Conor must venture into the strange world of OBEX to bring her home. Cast: Albert Birney, Callie Hernandez, Frank Mosley
+
+"Rains Over Babel" (Gala del Sol, Colombia/United States/Spain) [NEXT]
+ - A group of misfits converges at Babel, a legendary dive bar that doubles as purgatory, where La Flaca — the city’s Grim Reaper — presides. Here, souls gamble years of their lives with her, daring to outwit Death herself. Cast: Saray Rebolledo, Felipe Aguilar Rodríguez, John Alex Castillo, William Hurtado, Santiago Pineda, Celina Biurrun
+
+"Serious People" (Pasqual Gutierrez/Ben Mullinkosson) [NEXT]
+ - A successful music video director and expectant father pushes his work-life balance to the extreme as he hires a doppelgänger to work in his stead. Cast: Pasqual Gutierrez, Christine Yuan, Miguel Huerta, Raul Sanchez
+
+"Zodiac Killer Project" (Charlie Shackleton) (US/UK) [NEXT]
+ - Against the backdrop of sunbaked parking lots, deserted courthouses, and empty suburban homes — the familiar spaces of true crime, stripped of all action and spectacle — a filmmaker describes his abandoned Zodiac Killer documentary and probes the inner workings of a genre at saturation point.
+
+PREMIERES
+
+"All That’s Left of You" (Cherien Dabis, Germany/Cyprus) [Premieres]
+ - After a Palestinian teen confronts Israeli soldiers at a West Bank protest, his mother recounts the series of events that led him to that fateful moment, starting with his grandfather’s forced displacement. Cast: Cherien Dabis, Saleh Bakri, Adam Bakri, Mohammad Bakri, Maria Zreik, Muhammad Abed Elrahman
+
+"April & Amanda (Zackary Drucker) [Documentary Premieres]
+ - Two legends contested their identities as women in the court of public opinion: April Ashley, who was immortalized as a trailblazer by embracing her transgender history; and Amanda Lear, who has consciously denied and obfuscated her history for decades. Their divergent paths reveal disparate but intertwined legacies.
+
+"The Ballad of Wallis Island" (James Griffiths, UK) [Premieres]
+ - Eccentric lottery winner, Charles, dreams of getting his favorite musicians, Mortimer-McGwyer, back together. His fantasy turns into reality when the bandmates and former lovers accept his invitation to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig. Cast: Tom Basden, Tim Key, Sian Clifford, Akemnji Ndifornyen, Carey Mulligan
+
+"Come See Me in the Good Light" (Ryan White) [Documentary Premieres]
+ - Two poets, one incurable cancer diagnosis. Andrea Gibson and Megan Falley go on an unexpectedly funny and poignant journey through love, life, and mortality.
+
+
+"Deaf President Now!" (Nyle DiMarco, Davis Guggenheim) [Documentary Premieres]
+ - During eight tumultuous days in 1988 at the world’s only Deaf university, four students must find a way to lead an angry mob — and change the course of history.
+
+
+"FOLKTALES" (Heidi Ewing/Rachel Grady, US/Norway) [Documentary Premieres]
+ - On the precipice of adulthood, teenagers converge at a traditional folk high school in Arctic Norway. Dropped at the edge of the world, they must rely on only themselves, one another, and a loyal pack of sled dogs as they all grow in unexpected directions.
+
+"Free Leonard Peltier" (Jesse Short Bull, David France) [Documentary Premieres]
+ - Leonard Peltier, one of the surviving leaders of the American Indian Movement, has been in prison for 50 years following a contentious conviction. A new generation of Native activists is committed to winning his freedom before he dies.
+
+Heightened Scrutiny (Sam Feder) [Documentary Premieres]
+ - Amid the surge in anti-trans legislation that Chase Strangio battles in the courtroom, he must also fight against media bias, exposing how the narratives in the press influence public perception and the fight for transgender rights.
+
+
+"If I Had Legs I’d Kick You" (Mary Bronstein) [Premieres]
+ - With her life crashing down around her, Linda attempts to navigate her child’s mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist. Cast: Rose Byrne, A$AP Rocky, Conan O’Brien, Danielle Macdonald, Ivy Wolk, Daniel Zolghadri
+
+"It’s Never Over, Jeff Buckley" (Amy Berg) [Documentary Premieres]
+ - Rising musician Jeff Buckley had only released one album when he died suddenly in 1997. Now, never-before-seen footage, exclusive voice messages, and accounts from those closest to him offer a portrait of the captivating singer.
+
+
+"Jimpa" (Sophie Hyde, Aus/Netherlands/Finland) [Premieres]
+ - Hannah takes her nonbinary teenager, Frances, to Amsterdam to visit their gay grandfather, Jim – lovingly known as Jimpa. But Frances’ desire to stay abroad with Jimpa for a year means Hannah is forced to reconsider her beliefs about parenting and finally confront old stories about the past. Cast: Olivia Colman, John Lithgow, Aud Mason-Hyde
+
+"Kiss of the Spider Woman" (Bill Condon) [Premieres]
+ - Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna. Cast: Diego Luna, Tonatiuh, Jennifer Lopez, Bruno Bichir, Josefina Scaglione, Aline Mayagoitia
+
+"Last Days" (Justin Lin) [Premieres]
+ - Determined to fulfill his life’s mission, 26-year-old John Allen Chau embarks on a dangerous adventure across the globe to convert the uncontacted tribe of North Sentinel Island to Christianity, while a detective from the Andaman Islands races to stop him before he does harm to himself or the tribe. Cast: Sky Yang, Radhika Apte, Naveen Andrews, Ken Leung, Toby Wallace, Ciara Bravo
+
+"The Librarians" (Kim A. Snyder) [Documentary Premieres]
+ - As an unprecedented wave of book banning is sparked in Texas, Florida, and beyond, librarians under siege join forces as unlikely defenders fighting for intellectual freedom on the front lines of democracy.
+
+"Lurker" (Alex Russell) [Premieres]
+ - A retail employee infiltrates the inner circle of an artist on the verge of stardom. As he gets closer to the budding music star, access and proximity become a matter of life and death. Cast: Théodore Pellerin, Archie Madekwe, Havana Rose Liu, Sunny Suljic, Zack Fox, Daniel Zolghadri
+
+"Magic Farm" (Amalia Ulman, Argentina/US) [Premieres]
+ - A film crew working for an edgy media company travels to Argentina to profile a local musician, but their ineptitude leads them into the wrong country. As the crew collaborates with locals to fabricate a trend, unexpected connections blossom while a pervasive health crisis looms unacknowledged in the background. Cast: Chloë Sevigny, Alex Wolff, Joe Apollonio, Camila del Campo, Simon Rex
+
+"Middletown" (Jesse Moss/Amanda McBaine) [Documentary Premieres]
+ - Inspired by an unconventional teacher, a group of teenagers in upstate New York in the early 1990s made a student film that uncovered a vast conspiracy involving toxic waste that was poisoning their community. Thirty years later, they revisit their film and confront the legacy of this transformative experience.
+
+"Move Ya Body: The Birth of House" (Elegance Bratton) [Documentary Premieres]
+ - Out of the underground dance clubs on the South Side of Chicago, a group of friends turn a new sound into a global movement.
+
+"Oh, Hi!" (Sophie Brooks) [Premieres]
+ - Iris and Isaac’s first romantic weekend getaway goes awry. Cast: Molly Gordon, Logan Lerman, Geraldine Viswanathan, John Reynolds
+
+"Peter Hujar’s Day" (Ira Sachs) [Documentary Premieres]
+ - A recently discovered conversation between photographer Peter Hujar and his friend Linda
+Rosenkrantz in 1974 reveals a glimpse into New York City’s downtown art scene and the personal struggles and epiphanies that define an artist’s life. Cast: Ben Whishaw, Rebecca Hall
+
+"Rebuilding" (Max Walker-Silverman) [Premieres]
+ - After a wildfire takes the family farm, a rancher seeks a way forward. Cast: Josh O’Connor, Lily LaTorre, Meghann Fahy, Kali Reis, Amy Madigan
+
+"SALLY" (Cristina Costantini) [Documentary Premieres]
+ - Sally Ride became the first American woman to blast off into space, but beneath her unflappable composure was a secret. Sally’s life partner, Tam O’Shaughnessy, reveals their hidden romance and the sacrifices that accompanied their 27 years together.
+
+"SLY LIVES! (aka The Burden of Black Genius)" (Ahmir “Questlove” Thompson) [Documentary Premieres]
+ - An examination of the life and legacy of Sly & The Family Stone — the groundbreaking band led by the charismatic and enigmatic Sly Stone — captures the band’s rise, reign, and subsequent fadeout while shedding light on the unseen burden that comes with success for Black artists in America.
+
+"The Thing with Feathers" (Dylan Southern, UK) [Premieres]
+ - Struggling to process the sudden and unexpected death of his wife, a young father loses his hold on reality as a seemingly malign presence begins to stalk him from the shadowy recesses of the apartment he shares with his two young sons. Cast: Benedict Cumberbatch, Richard Boxall, Henry Boxall, Eric Lampaert, Vinette Robinson, Sam Spruell
+
+"Train Dreams" (Clint Bentley) [Premieres]
+ - Robert Grainier is a day laborer building America’s railroads at the start of the 20th century as he experiences profound love, shocking defeat, and a world irrevocably transforming before his very eyes. Cast: Joel Edgerton, Felicity Jones, Kerry Condon, William H. Macy
+
+"The Wedding Banquet" (Andrew Ahn) [Premieres]
+ - Frustrated with his commitment-phobic boyfriend, Chris, and out of time, Min makes a proposal: a green card marriage with his friend Angela in exchange for expensive in vitro fertilization treatments for her partner, Lee. Plans change when Min’s grandmother surprises them with an elaborate Korean wedding banquet. Cast: Bowen Yang, Lily Gladstone, Kelly Marie Tran, Han Gi-chan, Joan Chen, Youn Yuh-jung
+
+MIDNIGHT
+
+"Dead Lover" (Grace Glowicki, Canada) [Midnight]
+ - A lonely gravedigger who stinks of corpses finally meets her dream man, but their whirlwind affair is cut short when he tragically drowns at sea. Grief-stricken, she goes to morbid lengths to resurrect him through madcap scientific experiments, resulting in grave consequences and unlikely love. Cast: Grace Glowicki, Ben Petrie, Leah Doz, Lowen Morrow
+
+"Didn’t Die" (Meera Menon)  [Midnight]
+ - A podcast host desperately clings to an ever-shrinking audience in the zombie apocalypse. Cast: Kiran Deol, George Basil, Samrat Chakrabarti, Katie McCuen, Vishal Vijayakumar
+
+"Opus" (Mark Anthony Green) [Midnight]
+ - A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared 30 years ago. Surrounded by the star’s cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan. Cast: Ayo Edebiri, John Malkovich, Juliette Lewis, Murray Bartlett, Amber Midthunder
+
+"Rabbit Trap" (Bryn Chainey, UK) [Midnight]
+ - When a musician and her husband move to a remote house in Wales, the music they make disturbs local ancient folk magic, bringing a nameless child to their door who is intent on infiltrating their lives. Cast: Dev Patel, Rosy McEwen, Jade Croot
+
+"Together" (Michael Shanks, Aus/US) [Midnight]
+ - With a move to the countryside already testing the limits of a couple’s relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh. Cast: Dave Franco, Alison Brie, Damon Herriman
+
+"Touch Me" (Addison Heimann) [Midnight]
+ - Two codependent best friends become addicted to the heroin-like touch of an alien narcissist who may or may not be trying to take over the world. Cast: Olivia Taylor Dudley, Lou Taylor Pucci, Jordan Gavaris, Marlene Forte, Paget Brewster
+
+"The Ugly Stepsister" (Emilie Blichfeldt, Norway) [Midnight]
+ - In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye. Cast: Lea Myren, Thea Sofie Loch Næss, Ane Dahl Torp, Flo Fagerli, Isac Calmroth, Malte Gårdinger
+
+EPISODIC
+
+"Bucks County, USA" (Robert May, Barry Levinson) [Special Events]
+ - Evi and Vanessa, two 14-year-olds living in Bucks County, Pennsylvania, are best friends despite their opposing political beliefs. As nationwide disputes over public education explode into vitriol and division in their hometown, the girls and others in the community fight to discover the humanity in “the other side.”
+
+"Hal & Harper" (Cooper Raiff) [Special Events]
+ - Hal and Harper and Dad chart the evolution of their family. Cast: Lili Reinhart, Mark Ruffalo, Betty Gilpin, Havana Rose Liu, Addison Timlin, Alyah Chanelle Scott
+
+"Pee-wee as Himself" (Matt Wolf) [Special Events]
+ - A chronicle of the life of artist and performer Paul Reubens and his alter ego Pee-wee Herman. Prior to his recent death, Reubens spoke in-depth about his creative influences, and the personal struggles he faced to persevere as an artist.
+
+"BULLDOZER" (Joanna Leeds) [Special Events]
+ - An undermedicated, chronically impassioned young woman lurches from crisis to crisis of her own making. Cast: Joanna Leeds, Mary Steenburgen, Nat Faxon, Harvey Guillen, Allen Leech, Kate Burton
+
+"Chasers" (Erin Brown Thomas) [Special Events]
+ - At a Los Angeles house party, an aspiring musician pursues her crush through a crowd of hopeful dreamers chasing empty promises. Cast: Ciarra Krohne, Louie Chapman, Keana Marie, Shannon Gisela, Brooke Maroon, Xan Churchwell
+
+"Never Get Busted!" (David Anthony Ngo, Erin Williams-Weir) (Australia) [Special Events]
+ - Barry Cooper was a highly decorated Texas narcotics officer — until he turned on the police force by busting crooked cops and teaching drug users how to hide their stash.
+
+SPOTLIGHT
+
+"April" (Dea Kulumbegashvili, Georgia 2024) [Spotlight] <i>TIFF</i>
+ - Nina is an obstetrician at a maternity hospital in Eastern Georgia. After a difficult delivery, an infant dies and the father demands an inquiry into her methods. The scrutiny threatens to expose Nina’s secret side job — visiting village homes of pregnant girls and women to provide unsanctioned abortions. Cast: Ia Sukhitashvili, Kakha Kintsurashvili
+
+"One to One: John & Yoko" (Kevin Macdonald, UK) [Spotlight] <i>BFI</i>
+ - An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.
+
+"The Legend of Ochi" (Isaiah Saxon) [Spotlight]
+ - In a remote village on the island of Carpathia, a farm girl named Yuri is raised to fear an animal
+species known as Ochi. But when Yuri discovers a wounded baby Ochi has been left behind, she escapes on an adventure to bring him home. Cast: Helena Zengel, Finn Wolfhard, Emily Watson, Willem Dafoe
+
+SPECIAL EVENTS
+
+"The Six Billion Dollar Man" (Eugene Jarecki) [Special Events]
+ - Julian Assange faced a possible 175 years in prison for exposing U.S. war crimes until events took a turn in this landmark case.
+
+"El Norte" (Gregory Nava, 1983) [Special Events]
+ - After their family is murdered by the government in a massacre during the Guatemalan Civil War, Indigenous siblings Rosa and Enrique flee up “Norte” to the United States for a chance at survival. When they arrive, they find life in the U.S. is not what they had hoped for. Cast: Zaide Silvia Gutiérrez, David Villalpando, Ernesto Gómez Cruz, Lupe Ontiveros, Trinidad Silva, Alicia del Lago
+
+"Unzipped" (Douglas Keeve, 1995) [Special Events]
+ - Director Douglas Keeve goes behind the scenes of designer Isaac Mizrahi’s relentless drive and
+bold vision to bring his 1994 collection to life. From sketches to runway, this insider’s journey
+is packed with backstage drama, creative triumphs, and iconic supermodels, including Cindy Crawford, Naomi Campbell, and Linda Evangelista.
+
+
+EOF
+
+our (@critics, @critics_group);
+$critics_group[0] = "Critics";
+$critics[0] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Adrian Horton (The Guardian, US)
+Alex Billington (FirstShowing.net)
+Alex Heeney (Seventh Row, Canada)
+Alexander Miller (Filmenquiry.com, Battleshippretension.com, US)
+Allan Hunter (Screen International, US)
+Ali Shimkus (Slug Magazine, US)
+Alison Willmore (Vulture, US)
+Alissa Wilkinson (Christianity Today, US)
+Alonso Durade (The Wrap, US)
+Amy Nicholson (Variety, US)
+Amy Kaufman (LA Times, US)
+Andrew Barker (Variety, US)
+Andrew Bundy (The Playlist, US)
+Andrew Crump (The Playlist, US)
+Angie Han (Slashfilm, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+Amber Wilkinson (Screen International, US)
+April Wolfe (The Wrap, US)
+Beandrea July (The Hollywood Reporter, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Croll (The Wrap, US)
+Ben Smith (UK)
+Benjamin Lee (The Guardian, US)
+Bilge Ebiri (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Brian Tallerico (RogerEbert.com, US)
+Bryan Bishop (The Verge, US)
+Candice Frederick (The Wrap, US)
+Carlos Aguilar (The Wrap, US)
+Chris Evangelista (Slashfilm, US)
+Chris Lindahl (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Clint Worthington (Consequence of Sound, US)
+Connor Lockie (Slug Magazine, US)
+Damon Wise  (The Guardian, UK)
+Dan Mecca (The Film Stage, US)
+Dan Callahan (The Wrap, US)
+Daniel Fienberg (The Hollywood Reporter, US)
+David Canfield (EW, US)
+David D'Arcy (Screen International, US)
+David Edelstein (New York Magazine Vulture, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Dilarah Elbir (The Playlist, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eli Fine (The Playlist, US)
+Elizabeth Weitzman (The Wrap, US)
+Emily Yoshida (New York Magazine Vulture, US)
+Erik Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Erik Luers (No Film School, IFP, US)
+Evan Saathoff (birthmoviesdeath.com, US)
+Jeremy Smith (birthmoviesdeath.com, US)
+Jean-Christophe Simon (Films Boutique, Germany)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (The Playlist, HitFix, US)
+Guy Lodge (Variety, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jake Howell (The Film Stage, US)
+Jared Mobarak (The Film Stage, US)
+Jason Bailey (The Playlist, Flavorwire, US)
+Jenni Miller (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+Jonathan Holland (Screen Daily, US)
+John DeFore (The Hollywood Reporter, US)
+John Fink (The Film Stage, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan Ruimy (The Playlist, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Indiewire, US)
+Kathy Rong Zhou (Slug Magazine, US)
+Katie Walsh (The Playlist, US)
+Kees Wamelink (Filmhuis Lisse, NL)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kevin Wozniak (kevflix.com, US)
+Kimber Myers (The Playlist, US)
+Kyle Kohner (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leah Greenblatt (EW, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Lois Brady (Slug Magazine, US)
+Lorry Kikta (filmthreat.com, US)
+Marco Cerritos (The Movielens, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Matt Hoffman (We Got This Covered, Scene Creek, Canada)
+Matt Neglia (NextBestPicture.com, US)
+Mauricio Costa (Razão de Aspecto, Brazil)
+Mel Valentin (Next Projection, US)
+Michael Rechtshaffen  (The Hollywood Reporter, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Molly Laich (doghatesfilm.com, US)
+Monica Castillo (The Wrap, US)
+Neil Miller (Film School Rejects, US)
+Nick Allen (RogerEbert.com, US)
+Nick Schager (Variety, US)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Norman Gidney (filmthreat.com, US)
+Oktay Ege Kozak (The Playlist, US)
+Owen Gleiberman (Variety, US)
+Paige Zuckerman  (Slug Magazine, US)
+Parker Scott Mortensen (Slug Magazine, US)
+Peter Debruge (Variety, US)
+Peter Sciretta (Slashfilm, US)
+Rebecca Martin (Cinema Femme, US)
+Reena Chohan (TIFF, Canada)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Robert Daniels (The Playlist, US)
+Robert Abele (The Wrap, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slashfilm, US)
+Ryan Lattanzio (TOH!, US)
+Sam Adams (Slate, US)
+Sam Fragoso (The Wrap, Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Scott Renshaw (Salt Lake City Weekly, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Farber (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Stephen Whitty (Screen International, US)
+Steve Pond (The Wrap, US)
+Susannah Gruder (Reverse Shot, US)
+Tasha Robinson (The Verge, Dissolve, A.V. Club, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Tomris Laffly (The Wrap, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Victor Morton (Salt Lake City Weekly, US)
+Wendy Ide (Screen International, US)
+Wesley Morris (Grantland, US)
+Dan Callahan (The Wrap, US)
+William Bibbiani (The Wrap, US)
+Zaina Abujebarah (Slug Magazine, US)
+";
+$critics_group[1] = "Other";
+$critics[1] = "
+Aaron Salazar (Filmmaker, US)
+Abbie Porter (Movie Nerd, US)
+Allison Boyer (Writer, Filmmaker, US)
+Allison Stone (Filmmaker, US)
+Amber (Film Student, US)
+Amir Moverman (Producer, US)
+Bare Bard (Film festival worker, US)
+Bill Skaleski (Artist, US)
+Blake Schwarz (Film Student+Blogger, US)
+Brandon Hart (Film Fan, US)
+Daniel Arthur (Public House Cinema, US)
+Danny Hensel (NPR Stateside, Student Editor, US)
+Drew Duncan (Industry, US)
+Eddie White (Filmmaker, Aus)
+Emily Guinto (Local film buff, US)
+flowertwithat (Film Buff, US)
+Jordan Foxworthy (Sundance Circle member, US)
+Gregory S Gardner (Double Exposure Distribution, US)
+Hannah Hembree (Industry, US)
+# Theatre Miami
+Javier (Industry, US)
+Jason Myers (Twitter+Local, US)
+Jason Osia (Film Buff, US)
+Jeremiah Holt (Youtube+Local, US)
+Jon Madsen (Local reviewer, US)
+Kevin Bolger (Local Filmmaker, US)
+Kevin Conner (Industry, US)
+Kevin Dando (Ex-PBS, US)
+Lee Stobby (Producer, US)
+Martin Jacob (Film Student+Blogger, US)
+Matt Cipolla (Freelance, US)
+Matt Wigham (bigcartel.com+Local, US)
+Matthew Reddick (Actor, US)
+Mei Chen (Student, US)
+Nick Kush (moviebabblereviews.com, US)
+Nik Velimirovic (Filmmaker, US)
+Pontus Ridderstedt (Librarian, Sweden)
+p. m. orr (Filmmaker, Volunteer, US)
+Robert Saucedo (Houston Alamo, US)
+Rosalie Kicks (moviejawn.com, US)
+Sachin Dharwadker (Filmmaker, US)
+shane (Actor, US)
+Shelby Slade (Local reporter Daily Herald, US)
+Skye McLennan (Industry, US)
+Stephen (Local film buff, US)
+Stephen Jones (Musician, Lawyer, US)
+Wiktor Krampikowski (Industry, PL)
+Thomas Callahan (Filmstudent, US)
+Tony Donisch (Discover, US)
+";
+$critics_group[2] = "Letterboxd";
+$critics[2] = ""; # dynamically added
+#Jacob (Local, US)
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out.
+<i>(Filtered to help with statistical inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-ratings/blob/master/public/Sundance2025.dat
+
+</pre>";
+
+# links:
+# https://letterboxd.com/seanliu/list/sundance-2024/
+# https://letterboxd.com/neperfectionist/list/30th-slamdance-film-festival-2024/
+# https://twitter.com/search?q=%23sundance%20review
+# http://www.theguardian.com/film/sundance-2024
+# http://www.indiewire.com/critic/
+# https://www.latimes.com/topic/sundance-film-festival
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;

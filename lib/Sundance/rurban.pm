@@ -8,7 +8,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Sundance';
-our @YEARS = qw(2015 2016 2017 2018 2019 2020 2021 2022 2023 2024);
+our @YEARS = qw(2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025);
 our $comp_section = 'U.S. Dramatic';
 our @sections = ($comp_section, "World Dramatic", "U.S. Documentaries", "World Documentaries",
                  "NEXT", "Midnight", "Spotlight", "Kids", "Premieres",
@@ -210,6 +210,12 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
+  if ($year >= 2024) {
+    @sections = grep {$_ ne 'Kids'} @sections;
+  }
+  if ($year >= 2025) {
+    @sections = grep {$_ ne 'Slamdance'} @sections;
+  }
   my %sections = map{$_=>1} @sections;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
@@ -707,7 +713,7 @@ sub _list {
 }
 
 get '/Sundance' => sub {
-  _list(2024);
+  _list(2025);
 };
 get '/Sundance2015' => sub {
   _list(2015);
@@ -738,6 +744,9 @@ get '/Sundance2023' => sub {
 };
 get '/Sundance2024' => sub {
   _list(2024);
+};
+get '/Sundance2025' => sub {
+  _list(2025);
 };
 
 get '/SundanceAll' => sub {
@@ -773,6 +782,6 @@ get '/SundanceAll' => sub {
   template lc($BASE).".tt", $all;
 };
 
-#get '/' => sub { redirect '/Sundance2024'; };
+get '/' => sub { redirect '/Sundance2025'; };
 
 1;
