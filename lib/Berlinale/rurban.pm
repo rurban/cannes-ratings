@@ -8,7 +8,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Berlinale';
-our @YEARS = (2016..2024);
+our @YEARS = (2016..2025);
 our $comp_section = 'Wettbewerb';
 # "Encounters" 2020+
 our @sections = ($comp_section, "Out of competition", "Panorama", "Generation", 
@@ -225,15 +225,23 @@ sub _dump {
                     "Perspektive Match", "Forum", "Forum Expanded",
                     "Special", "Retrospektive", "Woche der Kritik" );
     }
-    if ($year == 2024) { # no Perspektive
-       @sections = ($comp_section, "Encounters", "Panorama", "Generation",
-                    "Forum", "Forum Expanded", "Forum Special",
-                    "Special", "Retrospektive", "Woche der Kritik" );
-       # show predictions until this date
-       my $finaldate = Time::Piece->strptime('1 February 2024', '%d %B %Y')->epoch;
-       if (CORE::time() < $finaldate) {
-           push @sections, qw[Predictions];
-       }
+    if ($year >= 2024) { # no Perspektive
+      @sections = ($comp_section, "Encounters", "Panorama", "Generation",
+                   "Forum", "Forum Expanded", "Forum Special",
+                   "Special", "Retrospektive", "Woche der Kritik" );
+      my $finaldate;
+      if ($year == 2024) {
+        # show predictions until this date
+        $finaldate = Time::Piece->strptime('1 February 2024', '%d %B %Y')->epoch;
+      }
+      elsif ($year == 2025) { # no Forum anymore
+        @sections = ($comp_section, "Encounters", "Panorama", "Generation",
+                     "Special", "Retrospektive", "Woche der Kritik" );
+        $finaldate = Time::Piece->strptime('1 February 2025', '%d %B %Y')->epoch;
+      }
+      if (CORE::time() < $finaldate) {
+        push @sections, qw[Predictions];
+      }
     }
   }
   my %sections = map {$_=>1} @sections;
@@ -754,7 +762,8 @@ get '/Berlinale2021' => sub { _list(2021) };
 get '/Berlinale2022' => sub { _list(2022) };
 get '/Berlinale2023' => sub { _list(2023) };
 get '/Berlinale2024' => sub { _list(2024) };
-get '/Berlinale'     => sub { _list(2024) };
+get '/Berlinale2025' => sub { _list(2025) };
+get '/Berlinale'     => sub { _list(2025) };
 
 get '/BerlinaleAll' => sub {
   my $vars = {}; my (@t, %critic, %title);

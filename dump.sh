@@ -25,9 +25,9 @@ for x in Cannes Sundance Berlinale; do
 done
 # check age
 f=public/$d/index.html
-if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ]; then
+if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ lib/$d/rurban.pm -nt "$f" ]; then
     echo $d
-    curl -o $f http://127.0.0.1:5000/$d
+    curl -s -o $f http://127.0.0.1:5000/$d
     perl -pi fixuplinks.pl $f
 fi
 t=$(perl -ne'if (/href="\/?(\d+).html"/){$t=$1}; END{print $t}' $f)
