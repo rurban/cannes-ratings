@@ -1,5 +1,6 @@
 #!/bin/bash
 thisyear=2025
+cd $(dirname "$0")
 if [ -z "$1" ]; then
     echo Berlinale201{6,7,8,9} Berlinale202{0,1,2,3,4,5} \
          Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4,5} \
@@ -27,8 +28,7 @@ f=public/$d/index.html
 if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ]; then
     echo $d
     curl -o $f http://127.0.0.1:5000/$d
-    perl -pi -e's/href="\?t=(\d+)#\d+"/href="$1.html"/;' $f
-    perl -pi -e's{href="/css/style.css"}{href="../css/style.css"};' $f
+    perl -pi fixuplinks.pl $f
 fi
 t=$(perl -ne'if (/href="\/?(\d+).html"/){$t=$1}; END{print $t}' $f)
 if [ -z "$t" ]; then
@@ -41,8 +41,7 @@ if [ -n "$t" ]; then
         if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 1000 ]; then
             echo $f
             curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
-            perl -pi -e's/href="\?t=(\d+)#\d+"/href="$1.html"/' $f
-            perl -pi -e's{href="/css/style.css"}{href="../css/style.css"};' $f
+            perl -pi fixuplinks.pl $f
         fi
     done
 fi
