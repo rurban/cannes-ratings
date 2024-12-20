@@ -558,6 +558,9 @@ sub _side_details {
   my %title = %{$_[0]};
   my %critic  = %{$_[1]};
   my @critics_group  = @{$_[2]};
+  if (!@critics_group) {
+      @critics_group = ();
+  }
   my $out = '';
   if (Dancer::SharedData->request and params->{t}) {
     my $t = params->{t};
@@ -625,7 +628,7 @@ sub _side_details {
   # turn off lb
   else {
     my $s = $critics_group[$#critics_group];
-    if ($s eq 'Letterboxd') {
+    if (defined($s) and $s eq 'Letterboxd') {
       my $gbox = "<form><input type=hidden name=t value=\"\">\n";
       for (@critics_group) {
         next if $_ eq $s;
@@ -776,9 +779,9 @@ get '/SundanceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2015-2024";
+  $all->{year} = "2015-2025";
   $all->{side_details} = _side_details(\%critic, \%title,
-                                       \@{"$BASE\::rurban::2022\::critics_group"});
+                                       \@{"$BASE\::rurban::2025\::critics_group"});
   template lc($BASE).".tt", $all;
 };
 
