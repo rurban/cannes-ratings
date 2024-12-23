@@ -125,8 +125,13 @@ sub _read {
 # boolean: show details for indexed t? (movie or critic)
 sub _show_detail {
   my $i = shift;
-  Dancer::SharedData->request or return undef;
-  my $t = params->{t} or return undef;;
+  my $t;
+  if (!$main::{"Dancer::App"} && $ENV{t}) { # local cli-debugging only
+    $t = $ENV{t};
+  } else {
+    Dancer::SharedData->request or return undef;
+    $t = params->{t} or return undef;;
+  }
   if (($t eq $i) || ($t eq '*')) { return $t; }
   else { return undef; }
 }
@@ -686,6 +691,10 @@ sub _list {
       return 'misbehaving robot';
     }
   }
+  # if dump or debug via cmd-line
+  if (!$main::{"Dancer::App"} and @_) {
+      $ENV{t} = shift;
+  }
   my @files = (__FILE__, "views/".lc($BASE).".tt",
                "views/layouts/main.tt");
   if (-e $dat) {
@@ -738,10 +747,15 @@ sub _list {
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
   $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
-  if ($DATA) {
-    template lc($BASE).".tt", $vars;
+  if (!$main::{"Dancer::App"}) {
+    Dancer::Config::_set_setting("views", "views");
+    print template lc($BASE).".tt", $vars;
   } else {
-    template 'notyet.tt', $vars;
+    if ($DATA) {
+      template lc($BASE).".tt", $vars;
+    } else {
+      template 'notyet.tt', $vars;
+    }
   }
 }
 

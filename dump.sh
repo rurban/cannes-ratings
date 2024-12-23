@@ -11,12 +11,14 @@ if [ -z "$1" ]; then
     exit 0
 fi
 d="$1"
+fest=
 case $d in
-    Cannes20[0-9][0-9]) ;;
-    Berlinale20[0-9][0-9]) ;;
-    Sundance20[0-9][0-9]) ;;
+    Cannes20[0-9][0-9])    fest=Cannes    ;;
+    Berlinale20[0-9][0-9]) fest=Berlinale ;;
+    Sundance20[0-9][0-9])  fest=Sundance  ;;
     *) exit 1 ;;
 esac
+year=$(perl -le'shift =~ /(20\d\d)/ && print $1' $d)
 test -d public/$d || mkdir -p public/$d
 for x in Cannes Sundance Berlinale; do
     if [ ! -e public/$x ]; then
@@ -27,7 +29,8 @@ done
 f=public/$d/index.html
 if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ lib/$d/rurban.pm -nt "$f" ]; then
     echo $d
-    curl -s -o $f http://127.0.0.1:5000/$d
+    perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year)" >$f
+    #curl -s -o $f http://127.0.0.1:5000/$d
     perl -pi fixuplinks.pl $f
 fi
 t=$(perl -ne'if (/href="\/?(\d+).html"/){$t=$1}; END{print $t}' $f)
@@ -40,7 +43,8 @@ if [ -n "$t" ]; then
         f="public/$d/$i.html"
         if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 1000 ]; then
             echo $f
-            curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
+            perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >$f
+            #curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
             perl -pi fixuplinks.pl $f
         fi
     done
