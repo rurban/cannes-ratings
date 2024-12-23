@@ -715,7 +715,9 @@ sub _list {
   # if dump or debug via cmd-line
   if (!$main::{"Dancer::App"}) {
     Dancer::Config::_set_setting("views", "views");
-    print template lc($BASE).".tt", $vars;
+    Dancer::Config::_set_setting("charset", "utf-8");
+    $vars->{content} = template lc($BASE).".tt", $vars;
+    print template "layouts/main.tt", $vars;
   } else {
     if ($DATA) {
       template lc($BASE).".tt", $vars;
