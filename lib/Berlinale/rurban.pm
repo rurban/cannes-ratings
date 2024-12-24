@@ -145,7 +145,7 @@ sub _detail {
          ."</i></td></tr>\n"
     if exists $h->{comment};
 
-  if (params->{debug}) {
+  if (Dancer::SharedData->request and params->{debug}) {
     require Data::Dumper;
     my $x = $h;
     #delete $x->{comment};
@@ -392,7 +392,23 @@ sub _dump {
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
-      $list .= _detail($t,$title{$t},\%critic);
+      my $detail = _detail($t,$title{$t},\%critic);
+      if (!$main::{"Dancer::App"}) {
+        return {out => $detail,
+                good   => \@good, 
+                sections => \%sections, 
+                sectlist => \@sections, 
+                allfilms => \@allfilms,
+                t => \@t,
+                title   => \%title,
+                critic  => \%critic,
+                which => $BASE,
+                numratings => 0, 
+                numreviews => 0, 
+                numc => scalar(keys(%critic)),
+                numb => scalar(keys(%badcritic))
+        };
+      }
     }
     $i++;
   }
@@ -422,7 +438,23 @@ sub _dump {
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
     if (_show_detail($i)) {
-      $list .= _detail($t,$title{$t},\%critic);
+      my $detail = _detail($t,$title{$t},\%critic);
+      if (!$main::{"Dancer::App"}) {
+        return {out => $detail,
+                good   => \@good, 
+                sections => \%sections, 
+                sectlist => \@sections, 
+                allfilms => \@allfilms,
+                t => \@t,
+                title   => \%title,
+                critic  => \%critic,
+                which => $BASE,
+                numratings => 0, 
+                numreviews => 0,
+                numc => scalar(keys(%critic)), 
+                numb => scalar(keys(%badcritic))
+        };
+      }
     }
     $i++;
   }
@@ -502,7 +534,23 @@ sub _dump {
 	  $out .= "<tr><td> </td>    <td>$l</td> <td class=r>[-]</td></tr>\n";
         }
         if (_show_detail($i)) {
-          $out .= _detail($_,$title{$_},\%critic);
+          my $detail = _detail($_,$title{$_},\%critic);
+          if (!$main::{"Dancer::App"}) {
+            return {out => $detail,
+                  good   => \@good, 
+                  sections => \%sections, 
+                  sectlist => \@sections, 
+                  allfilms => \@allfilms,
+                  t => \@t,
+                  title   => \%title,
+                  critic  => \%critic,
+                  which => $BASE,
+                  numratings => $numratings,
+                  numreviews => $allreviews,
+                  numc => scalar(keys(%critic)),
+                  numb => scalar(keys(%badcritic))
+            };
+          }
         }
 	$i++;
       }
@@ -536,7 +584,24 @@ sub _dump {
       ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
       :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
     if (_show_detail($i)) {
-      $out .= _detail($t,$title{$t},\%critic,1);
+      my $detail = _detail($t,$title{$t},\%critic,1);
+      if (!$main::{"Dancer::App"}) {
+        return {out => $detail,
+                good   => \@good, 
+                sections => \%sections, 
+                sectlist => \@sections, 
+                allfilms => \@allfilms,
+                t => \@t,
+                title   => \%title,
+                critic  => \%critic,
+                which => $BASE,
+                numratings => $numratings, 
+                numreviews => $allreviews, 
+                numc => scalar(keys(%critic)), 
+                numb => scalar(keys(%badcritic))
+        };
+      }
+      $out .= $detail;
     }
     $i++;
   }
@@ -577,7 +642,24 @@ sub _dump {
       $c = "<small>$c</small>" if $n < 10;
       $out .= sprintf "<tr><td>%0.2f</td> <td>%s</td> <td class=r>[<a name=\"$i\" href=\"?t=$i#$i\">%d&nbsp;<i>%+0.1f</i></a>]</td></tr>\n", $critic{$_}->{stddev}, $c, $n, $critic{$_}->{diff}; 
       if (_show_detail($i)) {
-	$out .= _critic_detail($_,$critic{$_});
+        my $detail = _critic_detail($_,$critic{$_});
+        if (!$main::{"Dancer::App"}) {
+          return {out => $detail,
+                  good   => \@good, 
+                  sections => \%sections, 
+                  sectlist => \@sections, 
+                  allfilms => \@allfilms,
+                  t => \@t,
+                  title   => \%title,
+                  critic  => \%critic,
+                  which => $BASE,
+                  numratings => $numratings, 
+                  numreviews => $allreviews, 
+                  numc => $numc, 
+                  numb => scalar(keys(%badcritic))
+          };
+        }
+	$out .= $detail;
       }
       $i++;
       # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
@@ -758,8 +840,12 @@ sub _list {
   if (!$main::{"Dancer::App"}) {
     Dancer::Config::_set_setting("views", "views");
     Dancer::Config::_set_setting("charset", "utf-8");
-    $vars->{content} = template lc($BASE).".tt", $vars;
-    print template "layouts/main.tt", $vars;
+    if ($ENV{t}) {
+      print $vars->{out};
+    } else {
+      $vars->{content} = template lc($BASE).".tt", $vars;
+      print template "layouts/main.tt", $vars;
+    }
   } else {
     if ($DATA) {
       template lc($BASE).".tt", $vars;

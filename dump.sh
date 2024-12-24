@@ -48,13 +48,13 @@ if [ -z "$t" ]; then
 fi
 if [ -n "$t" ]; then
     echo "$t titles for $d"
-#    for i in $(seq $t); do
-#        f="public/$d/$i.html"
-#        if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 1000 ]; then
-#            echo "$f"
-#            perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >$f
-#            #curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
-#            perl -pi fixuplinks.pl "$f"
-#        fi
-#    done
+    for i in $(seq $t); do
+        f="public/$d/$i.html"
+        if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 1000 ]; then
+            echo "$f"
+            perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >$f
+            #curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
+            perl -pi fixuplinks.pl "$f"
+        fi
+    done
 fi
