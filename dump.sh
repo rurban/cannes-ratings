@@ -8,7 +8,7 @@ fi
 if [ -z "$1" ]; then
     echo Berlinale201{6,7,8,9} Berlinale202{0,1,2,3,4,5} \
          Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4} \
-         Sundance201{6,7,8,9} Sundance202{0,1,2,3,4,5} >dirs.txt
+         Sundance201{5,6,7,8,9} Sundance202{0,1,2,3,4,5} >dirs.txt
     for d in $(cat dirs.txt); do
         if [ -n "$force" ]; then
             ./dump.sh -f "$d"
