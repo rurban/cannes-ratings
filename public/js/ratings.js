@@ -7,6 +7,15 @@ async function l(b) {
     // where to insert it
     const tableLink = document.querySelector('tr td a[name="' + b + '"]');
     const tableRow = tableLink.parentElement.parentElement;
+    // check if already inserted. if next tr, 2nd td is class detail
+    const nextRow = tableRow.nextElementSibling;
+    if (nextRow) {
+      const secondTd = nextRow.querySelector('td:nth-child(2)');
+      if (secondTd && secondTd.classList.contains('detail')) {
+        console.log('Already detailed');
+        return;
+      }
+    }
     // Fetch the HTML content from the file num+'.html'
     const response = await fetch(filePath);
     if (!response.ok) {
@@ -19,10 +28,11 @@ async function l(b) {
     tempContainer.innerHTML = htmlContent;
     // Extract rows and append them to the table body
     const rows = tempContainer.querySelectorAll('tr');
-    rows.forEach(row => {
-        tableRow.appendChild(row);
+    const rrows = Array.from(rows).reverse();
+    rrows.forEach(row => {
+        tableRow.insertAdjacentElement('afterend', row);
     });
-    console.log('Rows loaded');
+    console.log('Details added');
   } catch (error) {
     console.error(error.message);
   }
