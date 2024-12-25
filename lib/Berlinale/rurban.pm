@@ -866,6 +866,7 @@ sub _list {
     if ($ENV{t}) {
       print $vars->{out};
     } else {
+      binmode(STDOUT, ":utf8");
       $vars->{content} = template lc($BASE).".tt", $vars;
       print template "layouts/main.tt", $vars;
     }

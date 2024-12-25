@@ -1,8 +1,9 @@
 #!/usr/bin/perl -pi
 
-s{href="\?t=(\d+)#\d+"}{href="$1.html"}g;
+s{href="\?t=(\d+)#\d+"}{onclick="l($1)"}g;
 s{href="/((?:Cannes|Sundance|Berlinale)\d*)"}{href="../$1/index.html"};
 s{href="/css/style.css"}{href="../css/style.css"};
+s{^<script src="/js/}{<script src="../js/};
 
 #wrong internal links:
 s{href="/(\d+).html"}{href="$1.html"}g;

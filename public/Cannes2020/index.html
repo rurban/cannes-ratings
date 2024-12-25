@@ -5,28 +5,7 @@
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <title>Cannes critics ratings</title>
 <link rel="stylesheet" href="../css/style.css" />
-
-<script type="text/javascript">/* <![CDATA[ */
-function selectAll(name) {
-  var isFirstSet = -1;
-  formObj = document.forms[0];
-  for (var i=0; i < formObj.length; i++) {
-      fldObj = formObj.elements[i];
-      if ((fldObj.type == 'checkbox') && (fldObj.name.substring(0,name.length) == name)) {
-         fldObj.checked = true;
-       }
-   }
-}
-function flipAll(name) {
-  formObj = document.forms[0];
-  for (var i=0; i < formObj.length; i++) {
-      fldObj = formObj.elements[i];
-      if ((fldObj.type == 'checkbox') && (fldObj.name.substring(0,name.length) == name)) {
-         fldObj.checked = (fldObj.checked) ? false : true;
-       }
-   }
-}
-/* ]]> */</script>
+<script src="../js/ratings.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156907122-1"></script>
 <script>
