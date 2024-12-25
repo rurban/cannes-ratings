@@ -42,10 +42,11 @@ if [ -n "$force" ] || [ ! -f "$f" ] || [ "public/$d.dat" -nt "$f" ] || [ "lib/$d
     #curl -s -o $f http://127.0.0.1:5000/$d
     perl -pi fixuplinks.pl "$f"
 fi
-t=$(perl -ne'if (/href="\/?(\d+).html"/){$t=$1}; END{print $t}' "$f")
+t=$(perl -ne'if (/onclick="l\((\d+)\)"/){$t=$1}; END{print $t}' "$f")
 if [ -z "$t" ]; then
     t=$(perl -ne'if (/href="\?t=(\d+)#\d+"/){$t=$1}; END{print $t}' "$f")
 fi
+# echo "$t titles for $d" >>titles.log
 if [ -n "$t" ]; then
     echo "$t titles for $d"
     for i in $(seq $t); do
