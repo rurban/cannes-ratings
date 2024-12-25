@@ -16,7 +16,7 @@ if [ -z "$1" ]; then
             ./dump.sh "$d"
         fi
     done
-    rm dirs.txt
+    #rm dirs.txt
     exit 0
 fi
 d="$1"
@@ -50,9 +50,9 @@ if [ -n "$t" ]; then
     echo "$t titles for $d"
     for i in $(seq $t); do
         f="public/$d/$i.html"
-        if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 1000 ]; then
+        if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 20 ]; then
             echo "$f"
-            perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >$f
+            perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >"$f"
             #curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
             perl -pi fixuplinks.pl "$f"
         fi

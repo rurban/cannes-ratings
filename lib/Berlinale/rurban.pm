@@ -607,21 +607,44 @@ sub _dump {
   }
 
   my $numc = scalar(keys(%critic));
+  my @sorted_critics;
   if ($numc) {
     $out .= sprintf "</table>\n\n<h1><a name=\"critics\"></a>%d/%d Critics</h1>\n\n",
             $numc - scalar(keys(%badcritic)),$numc;
-    $out .= "<i>filter stddev >2.5 from avg</i><br>\n";
+    $out .= "<i>filter stddev &gt;2.5 from avg, &lt;10 ratings or unknown</i><br>\n";
     $out .= "<b title=\"stdev over all differences from the film avg to the critics rating.\">stddev</b> name (magazine, cn) numratings <i title=\"avg of the diffs from film avg to rating over all rated films of this critic.
 * &gt:1.5 over-rater,
 * &lt;-1.5 under-rater,
 * -1.5 - 1.5 deviant ratings in boths directions. e.g. ceiling effect\">±diff</i>\n<table>\n";
-  
-    for (sort 
-	 {
-	   !exists $critic{$a}->{stddev} ? 1
-	     : !exists $critic{$b}->{stddev} ? -1 
-	     : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
-	 } keys %critic)
+
+    @sorted_critics = sort {
+        !exists $critic{$a}->{stddev} ? 1
+            : !exists $critic{$b}->{stddev} ? -1
+            : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
+      } keys %critic;
+    # performance enh
+    if (0 && !$main::{"Dancer::App"} && $ENV{t}) {
+      # which critic? $i is global, number of films plus the 2 good ones
+      # FIXME this misses the critics with no mag and cn and only one
+      # my $num = scalar @sorted_critics;
+      my $j = $ENV{t} - $i;
+      my $detail = _critic_detail($j,$critic{$j});
+      return {out => $detail,
+              good   => \@good,
+              sections => \%sections,
+              sectlist => \@sections,
+              allfilms => \@allfilms,
+              t => \@t,
+              title   => \%title,
+              critic  => \%critic,
+              which => $BASE,
+              numratings => $numratings, 
+              numreviews => $allreviews, 
+              numc => $numc,
+              numb => scalar(keys(%badcritic))
+          };
+    }
+    for (@sorted_critics)
     {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
@@ -635,7 +658,7 @@ sub _dump {
           $c = sprintf("%s (%s)", $_, $critic{$_}->{cn});
         } else {
           $c = $_;
-          next if $n == 1;
+          next if $n < 10;
         }
       }
       $c = "<strike>$c</strike>" if $critic{$_}->{stddev} > 2.5;
@@ -645,9 +668,9 @@ sub _dump {
         my $detail = _critic_detail($_,$critic{$_});
         if (!$main::{"Dancer::App"}) {
           return {out => $detail,
-                  good   => \@good, 
-                  sections => \%sections, 
-                  sectlist => \@sections, 
+                  good   => \@good,
+                  sections => \%sections,
+                  sectlist => \@sections,
                   allfilms => \@allfilms,
                   t => \@t,
                   title   => \%title,
