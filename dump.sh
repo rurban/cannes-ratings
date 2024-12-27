@@ -42,6 +42,12 @@ if [ -n "$force" ] || [ ! -f "$f" ] || [ "public/$d.dat" -nt "$f" ] || [ "lib/$d
     #curl -s -o $f http://127.0.0.1:5000/$d
     perl -pi fixuplinks.pl "$f"
 fi
+l=public/$d/no-lb.html
+if [ -n "$force" ] || [ ! -f "$l" ] || [ "public/$d.dat" -nt "$l" ] || [ "lib/$d/rurban.pm" -nt "$l" ]; then
+    echo "$l"
+    perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,'no-lb')" >"$l"
+    perl -pi fixuplinks.pl "$l"
+fi
 t=$(perl -ne'if (/onclick="l\((\d+)\)"/){$t=$1}; END{print $t}' "$f")
 if [ -z "$t" ]; then
     t=$(perl -ne'if (/href="\?t=(\d+)#\d+"/){$t=$1}; END{print $t}' "$f")

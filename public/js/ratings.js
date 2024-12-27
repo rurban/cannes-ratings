@@ -12,6 +12,7 @@ async function l(b) {
     if (nextRow) {
       const secondTd = nextRow.querySelector('td:nth-child(2)');
       if (secondTd && secondTd.classList.contains('detail')) {
+        // TODO turn it off again
         console.log('Already detailed');
         return;
       }

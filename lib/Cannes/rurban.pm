@@ -801,7 +801,12 @@ sub _list {
   }
   # if dump or debug via cmd-line
   if (!$main::{"Dancer::App"} and @_) {
-      $ENV{t} = shift;
+    my $arg = shift;
+    if ($arg eq 'no-lb') {
+      $ENV{'no-lb'} = 1;
+    } else {
+      $ENV{t} = $arg;
+    }
   }
   my @files = (__FILE__, "views/".lc($BASE).".tt",
                "views/layouts/main.tt");
