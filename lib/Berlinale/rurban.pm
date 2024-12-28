@@ -777,6 +777,14 @@ sub _side_details {
   else {
     my $s = $critics_group[$#critics_group];
     if ($s and $s eq 'Letterboxd') {
+      if (!$main::{"Dancer::App"}) {
+        if ($ENV{g} eq 'Letterboxd') {
+          $out .= '<a href="index.html">With Letterboxd</a>';
+        } else {
+          $out .= '<a href="no-lb.html">Without Letterboxd</a>';
+        }
+        return $out;
+      }
       my $gbox = "<form><input type=hidden name=t value=\"\">\n";
       for (@critics_group) {
         next if $_ eq $s;
