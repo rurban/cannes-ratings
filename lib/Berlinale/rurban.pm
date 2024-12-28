@@ -778,7 +778,7 @@ sub _side_details {
     my $s = $critics_group[$#critics_group];
     if ($s and $s eq 'Letterboxd') {
       if (!$main::{"Dancer::App"}) {
-        if ($ENV{g} eq 'Letterboxd') {
+        if (exists $ENV{g} and $ENV{g} eq 'Letterboxd') {
           $out .= '<a href="index.html">With Letterboxd</a>';
         } else {
           $out .= '<a href="no-lb.html">Without Letterboxd</a>';

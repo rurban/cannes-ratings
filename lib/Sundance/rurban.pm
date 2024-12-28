@@ -245,6 +245,11 @@ sub _dump {
     $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
     $params_g{$_}++ for (@$params_g);
   }
+  elsif (!$main::{"Dancer::App"} and $ENV{g}) {
+    # ARRAYREF of groups, split by ':'
+    $params_g = [ split ':', $ENV{g} ];
+    $params_g{$_}++ for (@$params_g);
+  }
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
@@ -738,7 +743,7 @@ sub _side_details {
     my $s = $critics_group[$#critics_group];
     if (defined($s) and $s eq 'Letterboxd') {
       if (!$main::{"Dancer::App"}) {
-        if ($ENV{g} eq 'Letterboxd') {
+        if (exists $ENV{g} and $ENV{g} eq 'Letterboxd') {
           $out .= '<a href="index.html">With Letterboxd</a>';
         } else {
           $out .= '<a href="no-lb.html">Without Letterboxd</a>';
@@ -786,7 +791,12 @@ sub _list {
   }
   # if dump or debug via cmd-line
   if (!$main::{"Dancer::App"} and @_) {
-      $ENV{t} = shift;
+    my $arg = shift;
+    if ($arg eq 'no-lb') {
+      $ENV{g} = 'Letterboxd';
+    } else {
+      $ENV{t} = $arg;
+    }
   }
   my @files = (__FILE__, "views/".lc($BASE).".tt",
                "views/layouts/main.tt");

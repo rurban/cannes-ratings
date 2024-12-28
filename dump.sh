@@ -3,6 +3,12 @@
 cd "$(dirname "$0")" || exit
 if [ "$1" = "-f" ]; then
     force=1
+    args="-f"
+    shift
+fi
+if [ "$1" = "-n" ]; then
+    nolinks=1
+    args="$args -n"
     shift
 fi
 if [ -z "$1" ]; then
@@ -10,11 +16,7 @@ if [ -z "$1" ]; then
          Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4} \
          Sundance201{5,6,7,8,9} Sundance202{0,1,2,3,4,5} >dirs.txt
     for d in $(cat dirs.txt); do
-        if [ -n "$force" ]; then
-            ./dump.sh -f "$d"
-        else
-            ./dump.sh "$d"
-        fi
+        ./dump.sh $args "$d"
     done
     #rm dirs.txt
     exit 0
@@ -39,7 +41,6 @@ f=public/$d/index.html
 if [ -n "$force" ] || [ ! -f "$f" ] || [ "public/$d.dat" -nt "$f" ] || [ "lib/$d/rurban.pm" -nt "$f" ]; then
     echo "$f"
     perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year)" >"$f"
-    #curl -s -o $f http://127.0.0.1:5000/$d
     perl -pi fixuplinks.pl "$f"
 fi
 l=public/$d/no-lb.html
@@ -53,14 +54,13 @@ if [ -z "$t" ]; then
     t=$(perl -ne'if (/href="\?t=(\d+)#\d+"/){$t=$1}; END{print $t}' "$f")
 fi
 # echo "$t titles for $d" >>titles.log
-if [ -n "$t" ]; then
+if [ -n "$t" ] && [ -z "$nolinks" ]; then
     echo "$t titles for $d"
     for i in $(seq $t); do
         f="public/$d/$i.html"
         if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 20 ]; then
             echo "$f"
             perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >"$f"
-            #curl -s -o $f "http://127.0.0.1:5000/$d?t=$i"
             perl -pi fixuplinks.pl "$f"
         fi
     done
