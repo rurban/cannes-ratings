@@ -863,10 +863,10 @@ sub _list {
   if (!$main::{"Dancer::App"}) {
     Dancer::Config::_set_setting("views", "views");
     Dancer::Config::_set_setting("charset", "utf-8");
+    binmode(STDOUT, ":utf8");
     if ($ENV{t}) {
       print $vars->{out};
     } else {
-      binmode(STDOUT, ":utf8");
       $vars->{content} = template lc($BASE).".tt", $vars;
       print template "layouts/main.tt", $vars;
     }
