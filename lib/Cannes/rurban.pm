@@ -7,7 +7,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2024);
+our @YEARS = (2010..2025);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
                  "Semaine", "ACID", "Other"); #, "Predictions"
@@ -221,9 +221,9 @@ sub _dump {
     $section = '';
     if ($l =~ m/ \[(.+?)\]/) {
       $section = $1;
-      if ((!$section or !$sections{$section}) and $section ne 'Predictions') {
-        $section='Other'; # or Predicted?
-      }
+    }
+    if (!$section or !$sections{$section}) {
+      $section = ($year == 2025) ? 'Predictions' : 'Other'; # or Predicted?
     }
     $title{$t}->{section} = $section;
     $title{$t}->{avg} = $a;
@@ -838,11 +838,11 @@ sub _list {
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
-  if ($year eq '2024') {
-    my $pressdate = Time::Piece->strptime('11 April 2024', '%d %B %Y')->epoch;
+  if ($year eq '2025') {
+    my $pressdate = Time::Piece->strptime('11 April 2025', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
-      #@sections = qw[Predictions]; # $comp_section
-      @sections = ("Out Of Competition", "Predictions");
+      @sections = qw[Predictions]; # $comp_section
+      #@sections = ("Out Of Competition", "Predictions");
     }
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
@@ -888,7 +888,10 @@ sub _list {
 }
 
 get '/Cannes' => sub {
-  _list(2024);
+  _list(2025);
+};
+get '/Cannes2025' => sub {
+  _list(2025);
 };
 get '/Cannes2024' => sub {
   _list(2024);
@@ -980,6 +983,9 @@ get '/2023' => sub {
 get '/2024' => sub {
   _list(2024);
 };
+get '/2025' => sub {
+  _list(2025);
+};
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
@@ -1016,6 +1022,6 @@ get '/all' => sub {
   template lc($BASE), $all;
 };
 
-#get '/' => sub { redirect '/Cannes2024'; };
+#get '/' => sub { redirect '/Cannes2025'; };
 
 1;

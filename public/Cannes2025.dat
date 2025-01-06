@@ -1,0 +1,1626 @@
+package Cannes::rurban::2025; # -*- perl -*-
+# Cannes 2025 Critics Ratings, May 13-24
+# Published at http://cannes-ratings.org/Cannes2025
+# History at https://github.com/rurban/cannes-critics-ratings
+# Perl script by Reini Urban (c) 2010-2025
+# US ratings:
+#   A+ 10   A 9   A- 8
+#   B+ 7    B 6   B- 5
+#   C+ 4    C 3   C- 2
+#   D+ 1.5  D 1   D- 1
+#   E 0.5   F 0
+# indiewire does C => 4
+# Le film français+Screen Daily+Media Cine+cahier 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# ch,dk,ru,FNE 1-5: x2
+# British 0-5: x2
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
+# Polls:
+#   https://www.ioncinema.com/tag/2024-cannes-critic-panel (scaled to 0-10)
+#   http://www.lefilmfrancais.com/cannes2024
+#     https://www.lefilmfrancais.com/images/FF5_web.pdf
+#   http://jury.critic.de/cannes/ 
+#   https://www.screendaily.com/news/cannes-2024-screens-dailies/5193367.article
+#   https://icsfilm.org/festivals/cannes/cannes-2024-ics-press-industry-panel/
+#   https://twitter.com/hanglutvd/ Chinese Critics Grid
+#   https://www.chaosreign.fr/festival-cannes-2024-tableau-etoiles-critique-competition-film/
+#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2024/
+#   https://wask.fr/les-etoiles-wask-2024-jour-par-jour/
+#   https://outnow.ch/News/2024/05/19/OutNow-Jury-Grid-at-Cannes-2024-So-ist-Indiana-Jones-5-angekommen
+#   http://www.filmneweurope.com/images/FNE%20Critics/cannes2024critics.pdf
+#   https://www.cahiersducinema.com/festivals/cannes-film-par-film
+#   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2024-ocenki-rossiyskih-kinokritikov/
+#   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
+#   Académie des Lumières: https://x.com/prixlumieres
+#   Moiree poll: https://moir.ee/editions/1
+#   https://www.cineforum.it/focus/Cannes-77/I-voti-di-Cannes-77
+#   https://www.sentieriselvaggi.it/cannes-77-le-pagelle-di-sentieri-selvaggi/
+# Reviews: 
+#   http://variety.com/c/reviews/
+#   http://www.hollywoodreporter.com/topic/movie-reviews
+#   https://www.screendaily.com/reviews/festivals/cannes
+#   https://www.indiewire.com/t/cannes
+#   https://thefilmstage.com/?tags=cannes-2024
+#   https://www.theguardian.com/film/cannes-2024
+#   https://www.thewrap.com/
+#   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
+ 
+use utf8;
+our $DATA = <<'EOF';
+
+PREDICTIONS
+
+"Materialists" (Celine Song) [Predictions]
+
+#letterboxd
+#Shark               10
+#jack!!              10
+#Mad_Murdock         10
+#hector              10
+#beerkosa            10
+#Amy Keller          10
+#dmetcalfe           10
+#sof_TV              10
+#sopie               10
+#0zayk               10
+#usama00             10
+bunsen_             8
+lils                8
+Arindam R Chatterjee 8
+FictionRedhead      8
+Random TVA Agent    8
+siliaa1             7
+Kyle Kyle           7
+Odettethrewup       6
+saracaioana         6
+angelachoksi        6
+ot7an               6
+krustin             4
+lia mon             4
+Ana                 4
+barryki             4
+connie              4
+OKmatteo            3
+
+"Silent Friend" (Ildikó Enyedi) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+
+"Alpha" (Julia Ducournau) [Predictions]
+
+#letterboxd
+spacecr4p           10
+Arindam R Chatterjee 8
+
+"Resurrection" (Bi Gan) [Predictions]
+
+#letterboxd
+Kodi Franzese       10
+yyyyxxxx            10
+siyue               10
+XXXXzh              10
+Luan Ramos          10
+Yandinsky           10
+Arindam R Chatterjee 8
+tomie               6
+
+"The Way of the Wind" (Terrence Malick) [Predictions]
+
+#letterboxd
+#5angel              10
+#Jordan H.           10
+#Jorshbadorsh        10
+#Gustavo Dias        10
+#‮داحم‬              10
+#Spence _Spencer_ Movies 10
+#kokice              10
+bunsen_             9
+Arindam R Chatterjee 9
+Mr. Lately          8
+jonesville          8
+Alex Krajci         8
+Alex Krajci         8
+Alex Krajci         8
+Denis Emílio        8
+pmntlandy           8
+Badr.               8
+chloe__             7
+‮عَ‬                6
+fallvollx           6
+Nicolas121AH        2
+Cody Simpson        1
+
+"Hope" (Na Hong-jin, Kor) [Predictions]
+
+#letterboxd
+Maktarik            10
+Ale_ve              9
+Dead                8
+Arindam R Chatterjee 8
+AbhiOP              8
+Alejandro Higuera   8
+Kodi Franzese       7
+jshillz             7
+NOONCHIGAME1        7
+Yoshiiming          6
+
+"The Phoenician Scheme" (Wes Anderson) [Predictions]
+
+#letterboxd
+#Coconutchickin      10
+#youkkin             10
+#Loretta             10
+#Aaron               10
+#Random TVA Agent    10
+#Wesandersenyay      10
+#Reza Saint          10
+#Rayne               10
+#Felicity_E          10
+#Daniel              10
+#daaa1108            10
+#tamanna ghai        10
+#Anton Hellsten      10
+#karl marx           10
+#Tianna 🐞            10
+#Liri 🫧              10
+#Keb                 10
+#Josh                10
+#melvin doo          10
+#ramuniee            10
+#nick                10
+#Daniel Magnan       10
+#Jukeboxking         10
+#ryland              10
+#joey                10
+#Nana                10
+#Juan Romero         10
+#mnemosine_          10
+#slac                10
+#Erin St John        10
+#Trase Henricks      10
+#Ham_ish             10
+#vrncvc              10
+#decembarch          10
+Arindam R Chatterjee 9
+bunsen_             8
+maryyyy             8
+swagatron420        8
+Manuel501           8
+˗ˏˋ ★ ˎˊ˗           8
+cumi                8
+Sumana              8
+gissa2025rating     7
+WillemDaRat         7
+Joekac              7
+SilviaRodalo        7
+kmrn777             6
+margot              6
+Daniel Sol          6
+Leon                6
+Deku_Bebop          6
+isabelle<3          6
+Félicité Bucchianeri 6
+doeptee             6
+andoniran           5
+lilghosty           5
+barbaraazevedo      5
+_Aranea_            4
+urmomclara          4
+CataWho             4
+renankwalk          3
+Karol ★             2
+Diro                2
+PineappleBean       2
+baptouuuu           2
+Ian                 2
+lesyeuxdepaula      2
+Filmenz             2
+gumoo               2
+zane55              1
+FilmguyShin         1
+mattydubs96         1
+Zen                 1
+
+"Rosebush Pruning" (Karim Aïnouz) [Predictions]
+
+#letterboxd
+Zomartina           10
+jzraps13            10
+bunsen_             8
+Arindam R Chatterjee 7
+
+"The Smashing Machine" (Bennie Safdie) [Predictions]
+
+#letterboxd
+#VVSFilms            10
+#emilyxsnowflake     10
+#workintherain       10
+#Pennington Jones    10
+p. h.               9
+bunsen_             8
+Arindam R Chatterjee 8
+gissa2025rating     7
+lb_ag               7
+Adsey               7
+jaythestingray      6
+Messineo            6
+Nosfera2u           6
+0x000S1M0N          6
+
+"After" (Oliver Laxe) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+MacarioH            4
+
+"Yes!" (Nadav Lapid) [Predictions]
+
+#letterboxd
+Kodi Franzese       8
+Arindam R Chatterjee 7
+
+"The Birthday Party (Histoires De La Nuit)" (Léa Mysius) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+Kodi Franzese       6
+
+"Sentimental Value" (Joachim Trier) [Predictions]
+
+#letterboxd
+Kodi Franzese       10
+Arindam R Chatterjee 9
+
+"Jupiter" (Andrey Zvyagintsev) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 9
+
+"The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+
+"The Secret Agent (O Agente Secreto)" (Kleber Mendonça Filho, Bra) [Predictions]
+
+#letterboxd
+#Maran-irũ           10
+#otaviojao           10
+#RobsonAndrade04     10
+#isaruppert          10
+#carolina            10
+#João Miguel Freitas 10
+loresant            9
+Arindam R Chatterjee 8
+analuga             8
+
+"Eagles of the Republic (Les Aigles de la République)" (Tarik Saleh) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"Orphan" (László Nemes) [Predictions]
+
+#letterboxd
+_Aranea_            10
+Arindam R Chatterjee 8
+
+"The Battle of Baktan Cross" (Paul Thomas Anderson) [Predictions]
+
+#letterboxd
+#fruitypebbs         10
+#Astrashomon         10
+#Coconutchickin      10
+#weedarinoo          10
+#dancosta40          10
+#Alaa                10
+#jared little        10
+#R. Stadt.           10
+#ℐ𝓈𝒶🤍                10
+#TrapGameKubrick     10
+#Angelo Saxon        10
+#Daniel_Kovacks      10
+#Ichigor             10
+#Films1011101010     10
+#olympiamiccio       10
+#jumbo_sausage62     10
+#Edgar1318           10
+#Gabriel Rodrigues de Lima 10
+#Manuelll            10
+#LouisHegLov         10
+#Hussieny            10
+#David_Lynchian      10
+#Michel Joia         10
+#Sethinun Jariyavilaskul 10
+#philhoffman         10
+#bunsen_             9
+#Arindam R Chatterjee 9
+#Random TVA Agent    9
+#Umbe79              9
+#Kodi Franzese       8
+#gissa2025rating     8
+#genleather7         7
+#McFlyzz             6
+#Damex234            2
+
+"Die, My Love" (Lynne Ramsay) [Predictions]
+
+#letterboxd
+Martin Morale       10
+Carmen❄️            10
+julieta🔮            10
+gracceann           10
+fruitypebbs         9
+bunsen_             9
+Arindam R Chatterjee 8
+Ariana              8
+Abhishek Bhandari   7
+shadencollin        6
+ana                 6
+Mightylogan         6
+Mightylogangames    6
+ot7an               6
+Rhianna Assis       6
+Mary Hrytsenko      6
+999_MJ              4
+Grace               1
+
+"Nouvelle Vague" (Richard Linklater) [Predictions]
+
+#letterboxd
+JodieRuthForest     10
+bunsen_             9
+Arindam R Chatterjee 8
+
+"The Magnificent Life of Marcel Pagnol" (Sylvain Chomet) [Predictions]
+
+#letterboxd
+bunsen_             8
+Arindam R Chatterjee 8
+Artxalara_movies    8
+TrailerReviews      7
+
+"Wake of Umbra (Estela de sombra)" (Carlos Reygadas, Mex) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+Juan Ortiz          8
+
+"No Other Choice" (Park Chan-wook, Kor) [Predictions]
+
+#letterboxd
+joe                 10
+Veslin Stiles       10
+Arindam R Chatterjee 9
+Caramplay           9
+bunsen_             8
+JorelApelao         7
+Chanmi Eun          4
+Nvrjan              2
+
+"At the Sea" (Kornél Mundruczó) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+M Ⓜ️                2
+
+"The History of Sound" (Oliver Hermanus) [Predictions]
+
+#letterboxd
+Chiara Mazzanti     10
+Agustina            10
+Sally               10
+Mohammed Gul        10
+Caracoquesos        10
+meglouj             10
+majitoenjoys        10
+Abril S. Bril       10
+alessandrataul      9
+bunsen_             9
+coppolabeers        8
+Arindam R Chatterjee 8
+Mistikoo            8
+Marcela Veroneze    8
+RodBrum             8
+Jacqueline Thomson  8
+gerekuervo          7
+jade                7
+Dobby               7
+Em ☆•° . *          6
+Sara22              6
+Mustafa Muti        6
+Liv                 6
+
+"Young Mothers (La maison maternelle)" (Luc+Jean-Pierre Dardenne) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+
+"Father Mother Sister Brother" (Jim Jarmusch) [Predictions]
+
+#letterboxd
+frdcmbn             10
+muffinsinthefreeezerr 10
+Arindam R Chatterjee 7
+humanseraphim       6
+Robyn               6
+joaohumbertom       4
+
+"Duse" (Pietro Marcello) [Predictions]
+
+#letterboxd
+Stefano Mutolo      10
+Arindam R Chatterjee 7
+
+"Butterfly Jam" (Kantemir Balagov, Rus) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+
+"Ma frère" (Lise Akoka/Romane Gueret) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+
+"L’Aventura" (Sophie Letourneur) [Predictions]
+
+#letterboxd
+greg138             8
+Arindam R Chatterjee 6
+
+"The Ice Tower (La tour de glace)" (Lucile Hadžihalilović) [Predictions]
+
+#letterboxd
+Kodi Franzese       8
+Arindam R Chatterjee 7
+
+"A Pale View of Hills" (Kei Ishikawa, Jap) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+
+"The Mastermind" (Kelly Reichardt, USA) [Predictions]
+
+#letterboxd
+Danny               10
+bunsen_             8
+Arindam R Chatterjee 8
+
+"Marty Supreme" (Josh Safdie, USA) [Predictions]
+
+#letterboxd
+#fruitypebbs         10
+#barbequedonions     10
+#Katefrants          10
+#vera                10
+#GoodboyDior         10
+#iluvstarss          10
+#Emiliofofais        10
+#seriousblwck        10
+#TaraGA              10
+#ThePyro             10
+#Martin Morale       10
+#eswanur_clk         10
+#elias               10
+#lavinia neal        10
+#Connor              10
+#tfilmschi           10
+#kelly               10
+#LeahEttinger        10
+#millie 🎥            10
+bunsen_             8
+Arindam R Chatterjee 8
+gissa2025rating     7
+Luna Hiertzeler     6
+atyoukha            2
+Lambros             1
+Alec Lane           1
+Boolius             1
+
+"Connemara" (Alex Lutz) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"Love Me Tender" (Anna Cazenave Cambet) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"Splitsville" (Michael Angelo Covino) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+
+"Behind the Palm Trees" (Meryem Benm’Barek-Aloïsi) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"L'Âge mûr" (Jean-Benoît Ugeux) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"A. Rimbaud" (Patrick Wang) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"Reflection in a Dead Diamond" (Hélène Cattet/Bruno Forzani) [Predictions]
+
+#letterboxd
+Sahlo_Foline        9
+hakheyan_           8
+blclava             8
+mariegillet         6
+Arindam R Chatterjee 6
+
+"Disappearance (La Disparition)" (Kirill Serebrennikov) [Predictions]
+
+#letterboxd
+Annaroselux         10
+elLasso             7
+Arindam R Chatterjee 7
+
+"The Chronology of Water" (Kristen Stewart, USA) [Predictions]
+
+#letterboxd
+#herewearegain       10
+#njstudios           10
+#Luferoza            10
+#leonardog           10
+#avery               10
+#Rina                10
+#henri               10
+#seydaa              10
+#evapakpahan         10
+#juliet🍭             10
+lalalauchi          8
+Arindam R Chatterjee 7
+olgasar             7
+Isabel              7
+Diwan               3
+#Mikael Izkovellarosy 1
+#Xander™             1
+
+"On Land and Sea" (Hlynur Pálmason) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+
+"In Adam’s Interest" (Laura Wandel) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+
+"Chien 51" (Cédric Jimenez) [Predictions]
+
+#letterboxd
+arphangh            10
+Arindam R Chatterjee 7
+
+"Une affaire" (Arnaud Desplechin) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+
+"Chocobar" [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+Leonardo Lima       3
+
+"Dossier 137" [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 7
+Hannah              6
+
+"Rose" [Predictions]
+
+
+"Aisha Can't Fly Away Anymore" [Predictions]
+
+#letterboxd
+maxarabtaa          1
+
+"A Girl Unknown" [Predictions]
+
+
+"Titanic Ocean" [Predictions]
+
+#letterboxd
+Stefan Ionescu      6
+
+"A Winter's Journey" [Predictions]
+
+#letterboxd
+iheartcineworld     6
+
+"Heads or Tails?" [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 6
+
+"Morte Cucina" [Predictions]
+
+#letterboxd
+aspopcorngoesby     10
+Pingkrp             7
+Arindam R Chatterjee 7
+
+"Fuori" [Predictions]
+
+
+"Dry Leaf" [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+
+"I Want Your Sex" (Gregg Araki) [Predictions]
+
+#letterboxd
+#Otarilaz            10
+#diary37282          10
+#Rosc 🍎🐛             10
+#cosmere             10
+#clovah              10
+bunsen_             9
+Arindam R Chatterjee 8
+ritchie             7
+seymourseemore      7
+Kodi Franzese       6
+cash_addict         6
+jada                6
+Sike                1
+
+"The Actor" (Duke Johnson) [Predictions]
+
+#letterboxd
+michaelbauer        10
+ssunduri            10
+Stuffy_64           10
+Enzo Morchione      10
+GalBerko            9
+kzng1_              9
+Arindam R Chatterjee 8
+timurart            8
+bunsen_             8
+Claire              8
+jack2k              8
+Petis27             8
+ìkram               8
+eviirst             7
+Jack Adams          6
+ryan gosling        6
+Harry STAFFORD      6
+baceunderscore      6
+zach                6
+Casey Scott         4
+urumi_kanzaki       4
+Steve Collins       4
+irmakd4             4
+ava rhea            4
+eddy12              2
+Uñises 🦭            2
+zgaloaoaz           2
+Richard Jiang       1
+Finn                1
+
+"Blue Moon" (Richard Linklater) [Predictions]
+
+#letterboxd
+Arindam R Chatterjee 8
+Momobonobo          6
+Rachel              3
+
+"F1" (Joseph Kosinski) [Predictions]
+
+#letterboxd
+#Grxceeeee           10
+#Dreamydrift         10
+#eugaabsss           10
+#Doni                10
+#tildaappleseed      10
+#ka_linaaaaaa        10
+#ana                 10
+#abby!               10
+#chrrybutera         10
+#Ulaş Yeniay         10
+#CaptainCarr Trailers 10
+#sabinakmy           10
+#P1etr00             10
+#nihalczar           10
+#Turbjorm            10
+#liuska 𐙚˙⋆.˚        10
+#LIMIITbreach        10
+#OSCGJoseph          10
+#daglarc             10
+#akisaquilayan       10
+#Yakko2004           10
+#donpapi21           10
+#Matt_amafilm        10
+#eli_frz             10
+#Pietro              10
+#mariameuuh          10
+#Poyraz27            10
+#duckyful            10
+#Juliano_KP          10
+#catlovesmax         10
+#Bawi_               10
+#orlndofvs           10
+#cailane             10
+#rayla               10
+#AidynD              10
+#Smoods              10
+#ahmetaran_          10
+#sailormoon_vid      10
+#The_Wizard_2        10
+#Raul Menendez Gabriel Pasternak 10
+#jc62453             10
+#RotkFan2013         10
+#Pau🪩                10
+#LordYorch           10
+#mel                 10
+#therahandd          10
+#five OUTTA          10
+#alterego123         10
+#Tadzie              10
+#ꪻ 𝒶𝓎 ‘.ᐟ            10
+#BenzBunnies01       10
+#Pardhu Chowdary D   10
+#moskimibb           10
+#xiws                10
+#mw1lle              10
+#leraaayez           10
+#˗ˏˋ𝓵𝓪𝓾 ୨ৎ๋࣭ ⭑       10
+#andthen36           10
+#lully               10
+#Williamlb04         10
+#sasa                10
+#Lana Karinne        10
+#ashshshsh           10
+#Guru Nadhan         10
+#thocerwan           10
+#kyla ✿              10
+#am3leah             10
+#Faheem              10
+#🗡️᛭                 10
+#Lucho Snyder        10
+#tonyeskere99        10
+#Alpha_tsuki         10
+#JoeColon            10
+#janib_              10
+#Nizar92             10
+#adrielle            10
+Kevin               9
+regina              9
+Krozzix             9
+BeamNg              9
+Aslam7              9
+bunsen_             8
+Moy                 8
+lonelyassmf         8
+arnuate             8
+sadradear           8
+Arindam R Chatterjee 8
+jacouillet          8
+Alessandro Calise   8
+Andre :_            8
+gissa2025rating     8
+ila                 8
+davrl               8
+akkrxm              7
+martin_nik3         7
+sid🪩                7
+ste_dillon          7
+USER273647          7
+𝚊 𝚗 𝚍 𝚛 𝚎 𝚊 🪩⭐      7
+lleannee            7
+vanya               7
+Random TVA Agent    7
+sebiizzzda          6
+Mahautdrouin        6
+bateelo             6
+AVRGboy             6
+TheCinemaTree       6
+sophie              6
+The Trailer Man     6
+mazexan             6
+filiper27           6
+abir                6
+RichardAyoade75     5
+Ola                 5
+Cooperjahnke        5
+Felipe Rabello      5
+David CV            4
+nics22              4
+Nikosmvrs           2
+joe                 2
+sumaiyahh           2
+Cale                2
+strawberryiced      2
+tippexdrinker       2
+Hotchickenwing      2
+6jokers             2
+Harrison Croad      2
+The_Pagan           2
+sean2908            2
+MichiPoulet         1
+Avery Selivan       1
+b00balooby          1
+benmeister13        1
+cailin              1
+Felipe_Queiroz      1
+audreyrllys         1
+‮عبدالرحمن‬         1
+stghost             1
+Kobol               1
+
+"Highest 2 Lowest" (Spike Lee) [Predictions]
+
+#letterboxd
+R_K007              10
+victorlofer         9
+bunsen_             8
+RFVisions           8
+ssantiiaoo          8
+sir_anandhu         8
+Arindam R Chatterjee 7
+gissa2025rating     7
+badpanda420         6
+Jaseface0714        4
+lb_ag               4
+savagedeluxe79      4
+Joyfizzy            2
+Sei_Guen            2
+golqmpaqk           1
+joe                 1
+Cooper Mitton       1
+Daagoon Reviews     1
+Eslime24            1
+sev                 1
+bigjmoneygaming     1
+Jey                 1
+junkermickey        1
+Jimmy’s Private Flight Log 1
+
+EOF
+
+our (@critics, @critics_group);
+my $i=0;
+#$critics_group[$i] = "Todas";
+#$critics[$i++] = "
+#Alejandro G. Calvo (Sensacine, España)
+#Alejandra Trelles (International Film Festival Uruguay, Uruguay)
+#Alex Vicente (Público, España)
+#Alexandra Zawia (ray, Austria)
+#Ángel Quintana (Cahiers du cinema Espana, España)
+#Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
+#Boris Nelepo (Seance.ru, Russia)
+#Carlo Chatrian (Festival de Locarno, Italy)
+#Carlos F. Heredero (Caimán CDC, España)
+#Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España)
+#Cristina Nord (Die Tageszeitung, Deutschland)
+#Dana Linssen (De Filmkrant, Netherlands)
+#Diego Batlle (La Nación, OtrosCines, Argentina)
+#Diego Lerer (Clarín, Micropsia, Argentina)
+#Eugenio Renzi (Independencia, France)
+#Eulalia Iglesias (RockDeLux y Caimán CDC, España)
+#Fernando Ganzo (Lumiere, España)
+#Fernando Juan Lima (El Amante, Argentina)
+#Francisco Ferreira (Expresso, Portugal)
+#Jaime Pena (El Amante, España, Argentina)
+#José Luis Losa (Cineuropa, España)
+#Kieron Corless (Time Out London, UK)
+#Luciano Barisone (Duellanti/Panoramiche, Italy)
+#Giona Nazzaro (Gender DocuFilm Festival, Italy)
+#Luciano Monteagudo (Página/12, Argentina)
+#Marcelo Alderete (Festival de Mar del Plata, Argentina)
+#Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
+#Nando Salva (El Periódico, España)
+#Neil Young (Hollywood Reporter, Tribune, UK)
+#Pablo Scholz (Clarín, Argentina)
+#Paolo Bertolin (Venice International Film Festival, Italy)
+#Paolo Moretti (Italy)
+#Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil)
+#Philip Engel (Go Mag, España)
+## wrong spelling, needs upstream fix
+#Philipp Engel (Go Mag, España)
+#Robert Koehler (Variety, USA)
+#Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina)
+#Rüdiger Suchsland (arteschock, Deutschland)
+#Sergi Sanchez (La Razón, España)
+#Jan Pieter Ekker (Cinema.nl, Netherlands)
+#Emiliano Fernández (A Sala Llena, Argentina)
+#Scott Foundas (Film Comment, USA)
+#Gustavo Beck (Curitiba International Film Festival, Brazil)
+#Violeta Kovacsics (Caimán Cuadernos de Cine, España)
+#Javier H. Estrada (Caimán CDC, España)
+#Pamela Bienzobas (Revista Cosas, Chile)
+#Xavi Serra (Ara, España)
+#Dominik Kamalzadeh (Der Standard, Austria)
+#Alvaro Arroba (Cinema Scope, España)
+#Imma Merino (Periodista i crítica, España)
+#Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
+#Andrea Picard (TIFF, Cinema Scope, Canada)
+#Kong Rithdee (The Bangkok Post, Thailand)
+#Guillaume Muyan Wang (‎Cinemaround, China)
+#Juanma Ruíz (Screenwriter, España)
+#Damián Hoffman (Arriba Argentinos, Argentina)
+#Pedro Segura
+#Nicolás Kusmin (OtrosCines, Argentina)
+#Carlota Moseguí (El Septimo Arte, España)
+#Agustín Mango (The Hollywood Reporter, Argentina)
+#";
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+$critics_group[$i] = "critic.de";
+$critics[$i++] = "
+Andrey Arnold (Die Presse, Austria)
+Dunja Bialas (artechock, Deutschland)
+Devika Girish (Film Comment, USA)
+Frédéric Jaeger (critic.de, Deutschland)
+Jenny Jecke (Moviepilot, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+Giovanni Marchini Camina (Sight & Sound, USA)
+Rüdiger Suchsland (arteschock, Deutschland)
+";
+# Le film français 0-4
+# http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
+$critics_group[$i] = "Le film français";
+$critics[$i++] = "
+Thierry Chèze (Premiere, France)
+Julien Rousset (Sud ouest, France)
+Marcos Uzal (Cahiers du cinema, France)
+Eric Neuhoff (Le Figaro, France)
+Philippe Rouyer (Positif, France)
+Mathieu Macheret (Le Monde, France)
+Guillemette Odicino (Telerama, France)
+Cèline Rouden (La Croix, France)
+Jean-Marc Lalanne (Les Inrockuptibles, France)
+Michaël Mélinard (L'Humanite, France)
+Nicolas Schaller (Observateur, France)
+Philippe Lemoine (oeust france, France)
+Barbara Théate (Le Journal du Dimanche, France)
+Sandra Onana (Liberration, France)
+Catherine Balle (La Parisien, France)
+";
+#not anymore:
+# screen daily 0-4
+# https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=4d9383c0-371b-45b9-a84c-741f08269742
+$critics_group[$i] = "Screen Daily";
+$critics[$i++] = "
+Nt Binh (Positif, France)
+Tim Robey/Robbie Collin (The Telegraph, UK)
+Katja Nicodemus (Die Zeit, Deutschland)
+Ben Kenigsberg (RogerEbert.com, USA)
+Anton Dolin (Meduza, Latvia)
+Peter Bradshaw (Guardian, UK)
+Justin Chang ((LA Times, USA))
+Stephanie Zacharek (TIME, USA)
+Ahmed Shawky (fifan.com, Egypt)
+Mathieu Macheret (Le Monde, France)
+Kong Ritchie (Bankkong Post, Thailand)
+Screen International (Screen International, USA)
+";
+$critics_group[$i] = "ioncinema";
+$critics[$i++] = "
+Nicholas Bell (Ioncinema.com, USA)
+Paola Casela (Mymovies.it/La Lettura, Italy)
+Marc Cassavi (La Presse, Canada)
+Hugo Emmerzael (De Filmkrant, Netherlands)
+Rodrigo Fonseca (TV Globol/GShow, Brazil)
+Leda Galanou (Flix, Greece)
+Jean-Philippe Guerand (Le Film Francais, France)
+Carlos F. Heredero (Caimán Cuadernos de Cine, España)
+Dubravka Lakic (Politika Daily, Croatia)
+Eric Lavallée (ioncinema, Canada)
+Fabien Lemercier (Cineuropa.org, Belgium)
+Min Liu (Sina.com, China)
+Elli Mastorou (Metro/L'Avenir, Belgium)
+Savina Petkova (Awardswatch / Little White Lies)
+Rafa Sales Ross (The Playlist, Brazil
+Jordan Ruimy (World of Reel/The Playlist, USA)
+Kuriko Sato (Eiga.com, Japan)
+Öykü Sofuoğlu (Altyazi/Sorociné, France)
+Rui Tendinha (Diario de Noticias, Portugal)
+Artur Zaborski (Newsweek, Poland)
+";
+# ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
+$critics_group[$i] = "ICSfilm panel";
+$critics[$i++] = "
+Federica Polidoro        
+Nicholas Bell (ioncinema, USA)
+Anais Bordages (Slate, France)
+Ela Bittencourt (Sight&Sound/Hyperallergic/Frieze Magazine, Brazil)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+Dubravka Lakic (Politika Daily, Croatia)
+Guy Lodge (Variety, USA)
+Daniela Michel (Morelia International Film Festival, Mexico)
+Meredith Taylor (Filmuforia.co.uk, UK)
+Nanako Tsukidate (Nobody Magazine, Japan)
+Marcos Uzal (Cahiers du cinéma, France)
+Diego Batlle (Otros Cines, Argentina)
+";
+$critics_group[$i] = "Chinese Grid";
+# https://twitter.com/hanglutvd
+$critics[$i++] = "
+Min Liu (Sina Movie, China)
+Jenny S.Li (Directube.com, China)
+Xavier (NaiguanFilm, China)
+Bear W (ToroScope, China)
+Qin Wan (ifeng.com, China)
+Peter Cat (DeepFocus, China)
+Lily Gu (Feng Movie, China)
+G. Liankai (Filmlast, China)
+Harper Die (, China)
+Kid Y (Tide, China)
+Nanyouki (Sina Movie, China)
+Lu Hang (Toroscope, China)
+Sean Y (Programmer, China)
+";
+#$critics_group[$i] = "Les Inrockuptibles";
+#$critics[$i++] = "
+#Emily Barnett (Les Inrockuptibles, France)
+#Bruno Deruisseau (Les Inrockuptibles, France)
+#Marilou Duponchel (Les Inrockuptibles, France)
+#Jacky Goldberg (Les Inrockuptibles, France)
+#JM Lalanne (Les Inrockuptibles, France)
+#JB Morain (Les Inrockuptibles, France)
+#Théo Ribeton (Les Inrockuptibles, France)
+#";
+$critics_group[$i] = "dkstjernebarometer";
+$critics[$i++] = "
+Claus Christensen (Ekko, Denmark)
+Olivia Cooper-Hadjian (Cahiers du cinema, France)
+Kjetil Lismoen (Aftenposten, Norge)
+Lee Marshall (Screen, UK)
+Pragya Mishra (Dainik Prabhat Kiran, India)
+J. Sperling Reich (Celloloid Junkie, USA)
+Stephanie Zacharek (Time, USA)
+";
+$critics_group[$i] = "FIPRESCI";
+$critics[$i++] = "
+Ahmed Shawky (Fipresci)
+Kerem Akca (Fipresci)
+Alberto Ramos (Fipresci)
+Andrea Martini (La Nazione/Il Giorno, Italy)
+Barbara Lorey (Fipresci)
+David Sanchez (Fipresci)
+Eva Peydro (El Hype, España)
+Firouz Pillet (Fipresci, France)
+Joannis Raouzaios (Fipresci)
+J. Orcheskowska-Bonis (Fipresci)
+João Antunes (Fipresci)
+Mariona Borrull (Freelance, España)
+Min Liu (Sina Movie, China)
+Natalia Serebriakova (Fipresci)
+Ninos Mikelides (ELEFTHEROTYPIA, Greece)
+Pamela Jahn (Fipresci)
+Raul Reis (Fipresci)
+Shahia Nahid (Fipresci)
+Thomas Abeltshauser (Fipresci)
+Ugo Brusaporco (Fipresci)
+";
+$critics_group[$i] = "chaosreign.fr";
+$critics[$i++] = "
+Mariana Agier (Sorociné, France)
+Ariane Allard (Positif, France)
+Caroline Besse (Telerama, France)
+Olivier De Bruyn (Les Echos/Marianne, France)
+Olivia Cooper-Hadjian (Cahiers du cinema, France)
+Alexis Demeyer (France Inter, France)
+Marilou Duponchel (Les Inrocks, France)
+Jean-Michel Froudon (Slate, France)
+Marin Gerard (Critikat, France)
+Matteu Maestracci (France Info, France)
+Jordan Mintzer (The Hollywood Reporter, USA)
+Amandine Rebourg (Nice Matin, France)
+Philippe Rouyer (Positif, France)
+";
+$critics_group[$i] = "cahiers";
+$critics[$i++] = "
+Fernando Ganzo (Lumiere, España)
+Marcos Uzal (Cahiers du cinéma, France)
+Charlotte Garson (Cahiers du cinema, France)
+Olivie Cooper-Hadjian (Cahiers du cinema, France)
+Yal Sadat (Cahiers du cinema, France)
+Thierry Méranger (Cahiers du cinema, France)
+Louis Séguin (Cahiers du cinema, France)
+";
+$critics_group[$i] = "wask.fr";
+$critics[$i++] = "
+Jordan Mintzer/David Rooney/Leslie Felperin/Lovia Gyarke (The Hollywood Reporter, USA)
+Jacques Mandelbaum/Clarisse Fabre (Le Monde, France)
+Cristina Piccino (Il Manifesto, Italy)
+Eric Lavallée/Nicholas Bell (Ioncinema, Canada)
+Joséphine Leroy (Trois Couleurs, France)
+Marilou Duponchel/Maud Tenda/Ludovic Béot (Les Inrockuptibles, France)
+Olivia Cooper-Hadjian (Cahiers du Cinéma, France)
+Leonardo Goi (Notebook Mubi, UK)
+Gautier Roos (Chaos Reign, France)
+Thomas Gastaldi (Wask, France)
+Fabien David (Cinéma Le Bourguet Forcalquier, France)
+";
+$critics_group[$i] = "OutNow";
+$critics[$i++] = "
+Alex Billington (FirstShowing.net, USA)
+Max Borg (Corriere del Ticina, Suisse)
+Hoai-Tran Bui (Inverse)
+Ewan Graf (Quiet On Set Podcast)
+David Mourinquand (Euronews)
+Serena Seghedoni (Loud And Clear Reviews)
+Patrick Wellinski (DLF, Deutschland)
+Su Zhou-Ning  (AwardsDaily, Deutschland)
+OutNow                   
+";
+#$critics_group[$i] = "Pelna Sala";
+#$critics[$i++] = "
+#Wellington Almeida (Cinema7/Arte, France)
+#Jakub Armata (Miesięcznik KINO, Poland)
+#John Bleasdale (Writers on Film Podcast)
+#Max Borg (CinemaSerieTV.it, Italy)
+#Mateusz Demski (, Poland)
+#Christer Emanuelsson (, Sweden)
+#Omar Franini (ODGmagazine, Italy)
+#Marcin Grudziąż (Pelna Sala, Poland)
+#Martyna Harland (Filmoterapia, Poland)
+#Maja Korbecka (easternKicks, Poland)
+#Łukasz Mańkowski (Kinema Chromatica, Poland)
+#Maciej Niedźwiedzki (film.org.pl, Poland)
+#Mateusz Rot (Watching Closely, Poland)
+#Maciej Roch Satora (, Poland)
+#Daria Sinkiewicz (Filmweb, Poland)
+#Karolina Sienkiewicz (, Poland)
+#Öykü Sofuoğlu (Altyazi/Sorociné, France)
+#Milos Stelmach (Czasopismo Ekrany, Poland)
+#Anna Tatarska (Vogue, Poland)
+#Michal Walkiewicz (Filmweb, Poland)
+#";
+$critics_group[$i] = "caiman";
+$critics[$i++] = "
+Nt Binh (Positif, France)
+Jean-Michel Frodon (Slate, France)
+Devika Girish (Film Comment, USA)
+Roger Koza (Con los ojos abiertos, Argentina)
+Jean-Marc Lalanne (Les Inrockuptibles, France)
+Jonathan Romney (Screen International, UK)
+Marcos Uzal (Cahiers du cinéma, France)
+Stephanie Zacharek (Time, USA)
+Carlos F. Heredero (Caimán Cuadernos de Cine, España)
+Eulalia Iglesias (Caimán Cuadernos de Cine, España)
+Jaime Pena (Caimán Cuadernos de Cine, España)
+Angel Quintana (Caimán Cuadernos de Cine, España)
+Jara Yanez (Caimán Cuadernos de Cine, España)
+";
+$critics_group[$i] = "cineforum.it";
+$critics[$i++] = "
+Bellavita (, Italy)
+Bianchi  (, Italy)
+Chimento (, Italy)
+Fornara (, Italy)
+Gandini (, Italy)
+Gironi  (, Italy)
+Manassero (, Italy)
+Martini (, Italy)
+Pedroni (, Italy)
+Rossi (, Italy)
+Ruzzier (, Italy)
+Ucceli (, Italy)
+";
+$critics_group[$i] = "sentieriselvaggi.it";
+$critics[$i++] = "
+Massimo Causo (, Italy)
+Antonio d'Onofrio (, Italy)
+Simone Emiliani (, Italy)
+Lucrezia Ercolani (, Italy)
+Ilaria Feole (, Italy)
+Simone Soranna (, Italy)
+Sergio Sozzo (, Italy)
+Aldo Spinello (, Italy)
+Carlo Valeri (, Italy)
+Chiara Zuccari (, Italy)
+";
+$critics_group[$i] = "Académie des Lumières";
+$critics[$i++] = "
+Vicenç Batalla (Rockdelux, España)
+Falila Gbadamassi (Africine, Senegal)
+Mizue Hazashi (Journal Hokkaido, Japan)
+Fabien Lemercier (Cineuropa.org, Belgium)
+Liu Min (Sina Movie, China)
+Kuriko Sato (Eiga.com, Japan)
+Öykü Sofuoğlu (Altyazi/Sorociné, France)
+Chloe Sullivan (TV8, Suisse)
+Nanako Tsukidate (Nobody Magazine, Japan)
+";
+$critics_group[$i] = "Russian film critics";
+$critics[$i++] = "
+Anton Dolin (Medusa, Latvia)
+Anna Strelchuk (Afisha Daily, Russia)
+Andrey Plakhov (Kommersant, Russia)
+Tamara Hodova (Forbes, Russia)
+Nastasya Gorbachsevskaya (The Film.ru, Russia)
+Daria Tarasova (Kino-Theatre, Russia)
+Egor Moskvitin (The rules of life, Russia)
+";
+$critics_group[$i] = "Moiree";
+$critics[$i++] = "
+Mark Asch (InsideHook, USA)
+Miriam Bale (W Magazine, USA)
+Jordan Cronk (Artforum, USA)
+Jesse Cumming (Open City Documentary Festival, Canada)
+Flavia Dima (Films in France, Romania)
+Pedro Bernal (La Ola Cine, Mexico)
+Devika Girish (Film Comment, USA)
+Leonardi Goi (MUBI, UK)
+Daniel Kasman (MUBI, USA)
+Roger Koza (Con los ojos abiertos, Argentina)
+Manuela Lazic (The Ringer, UK)
+Beatrice Loayza (Film Comment, USA)
+Giovanni Marchini Camina (Sight & Sound, Germany)
+Caitlin Quinlan (ArtReview, UK)
+Nicolas Rapold (The Last Thing I Saw, USA)
+Vadim Rizov (Filmmaker Magazine, USA)
+Öykü Sofuoğlu (Altyazi/Sorociné, France)
+Blake Williams (Filmmaker Magazine, USA)
+";
+# indiewire + various other press reviewers
+$critics_group[$i] = "Other";
+$critics[$i++] = "
+Jacky Goldberg (Vanity Fair, France)
+Stéphanie Belpêche (JDD, France)
+Gilles Kerdreux (oeust france, France)
+jean-Claude Raspiengeas (la Croix, France)
+Jaques Mandelbaum (Le Monde, France)
+Stéphane Boudsocq (RTL, France)
+Gaël Golhen (Premiere, France)
+Bruno Deruisseau (Les Inrockuptibles, France)
+A.A. Dowd (AV Club, Time Out Chicago, USA)
+A.O. Scott (NY Times, USA)
+Aaron Hillis (GreenCine Daily, USA)
+Aaron Salazar (Filmmaker, USA)
+Adam Batty (Hope Lies at 24 Frames Per Second, UK)
+Adam Cook (MUBI, USA)
+Adam Woodward (Little White Lies blog, UK)
+Alexis Chrys (Filmbuff, Greece)
+Alison Wilmore (Buzzfeed, USA)
+Allan Hunter (Screen Daily, USA)
+Allison Loring (Film School Rejects, USA)
+Amber Wilkinson (The Telegraph, UK)
+Andrei Creţulescu (HBO, Romania)
+Andrew Barker (Variety, USA)
+Andrew O'Hehir (Salon.com, USA)
+Andrew Pulver (Guardian, UK)
+Andrew Skalak (Filmmaker, USA)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Anna Bielak (Smells Like Screen Spirit, USA)
+Anna Bogutskaya (Timeout, UK)
+Anna Tatarska (Movie Mezzanine, Freelance, USA)
+Anne Thompson (Indiewire, USA)
+Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
+Ariel Esteban Cayer (Festival programmer, Canada)
+Arnaud Hée (Critikat.com, France)
+Arthur Mas (Independencia, France)
+Barbara Scharres (RogerEbert.com, USA)
+Beatrice Behn (Kino-Zeit, Deutschland)
+Ben Croll (The Wrap, USA)
+Benjamin Lee (Guardian, UK)
+Bernardo Pajares (losextras.es, España)
+Bilge Ebiri (vulture.com, USA)
+Blake Williams (Filmmaker Magazine, Canada)
+Bo Green Jensen (Weekandavisen Berlingske, Denmark)
+Boyd Van Hoeij (The Hollywood Reporter, France)
+Brian Brooks (indieWIRE, USA)
+Camille Brunel (Independencia, France)
+Carlos Aguilar (Indiewire, USA)
+Carlos Elorza (www.lafinestradigital.com, elcontraplano.com, España)
+Caroline Tsai (AwardsWatch, The Playlist, USA)
+Caryn James (indieWIRE, ex-New York Times, USA)
+Catherine Bray (Film4 Online, UK)
+Catherine Shoard (Guardian, UK)
+Cecilia Martinez (A Sala Llena Online, Argentina)
+Chad Eberle (Blogger, USA)
+Charles Bramesco (Guardian, UK)
+Charlie Schmidlin (The Playlist, USA)
+Chris Barsanti (The Playlist, USA)
+Chris Knipp (Filmleaf, USA)
+Chris Schelb (OutNow, Suisse)
+Christoph Huber (Die Presse, Austria)
+Christophe Beney (Accreds, France)
+Clarence Tsui (South China Morning Post, Hong Kong)
+Claudia Puig (USA Today, USA)
+Claudia Reinhard (critic.de, Deutschland)
+Clementine Gallot (Cahiers du cinema, France)
+Corina Roettger (Next Projection, Deutschland)
+Craig Skinner (Film Divider, UK)
+Craig Williams (Cine Vue, UK)
+D W Mault (International Cinephil Society, UK)
+Damon Wise (deadline, USA)
+Dan Fainaru (Screen International, Israel)
+Danielle Attali (Le Journal du Dimanche, France)
+David Calhoun (Time Out London, UK)
+David Edelstein (New York Magazine-Vulture, USA)
+David Ehrlich (Indiewire, USA)
+David Fear (Time Out New York, USA)
+David Gritten (The Telegraph, UK)
+David Jenkins (Little White Lies blog, UK)
+David Katz (Cineurope/filmstage)
+David Rooney (The Hollywood Reporter, USA)
+David Sexton (Evening Standard, UK)
+David Sterrit (Tikkun Magazine, USA)
+David Stratton (The Australian, Australia)
+Dennis Harvey (Variety, USA)
+Dennis Lim (Film Society Lincoln Center, USA)
+Derek Malcolm (London Evening, UK)
+Diana Drumm (The Black Maria, The Film Experience, Sound on Sight, USA)
+Diego Batlle (Otros Cines, La Nation, Argentina)
+Dion Wyn (www.thatmovieguy.co.uk, UK)
+Don Simpson (Smells Like Screen Spirit, USA)
+Donald Clarke (Irish Times, Ireland)
+Douglas Greenwood (The Edinburgh Reporter, UK)
+Drew McWeeny (HitFix, InContention, USA)
+Drew Taylor (The Playlist, USA)
+Eduardo Valente (Revista Cinema, Brazil)
+Elena Lazic (Playlist, UK)
+Eli Hayes (Filmmaker, USA)
+Elisabeth Quin (Paris Premiere, France)
+Emanuel Levy (EmanuelLevy.com, USA)
+Eren Odabasi (International Cinephil Society, Turkey)
+Eric D. Snider (Film.com, USA)
+Eric Kohn (Indiewire, USA)
+Ethan Anderton (FirstShowing.net, USA)
+Eugene Hernandez (Film Society of Lincoln Center, USA)
+Fabio Ferzetti (El Messagero, Italy)
+Fico Cangiano (CineXpress, Puerto Rico)
+Fionnuala Hannigan (Screen International, USA)
+Florence Ben Sadoun (Elle, France)
+Fred Topel (CraveOnline, USA)
+Frédéric Foubert (Premiere, France)
+Frédéric Strauss (Telerama, France)
+Gabriele Barrera (Segnocinema, Duellanti, Blow Up, Best Movie, Italy)
+Geoffrey MacNab (The Independent, UK)
+Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
+Gianluca Izzo (OutNow, Suisse)
+Glenn Heath Jr (Slant Magazine, Press Play, USA)
+Gonzalo de Pedro (Caimán, CDC, España)
+Gregory Ellwood (HitFix, USA)
+Guido Castillo (Freelance, España)
+Gwilym Mumford (Guardian, UK)
+Harry Windsor (The Hollywood Reporter, USA)
+Hemanth Kissoon (Filmaluation, UK)
+Henry Barnes (Guardian, UK)
+Hugo Emmerzael (De Filmkrant, Netherlands)
+Iana Murray (AwardsWatch, UK)
+Ignatiy Vishnevetsky (A.V. Club, USA)
+Isabelle Regnier (Le Monde, France)
+Jacques Morice (Telerama, France)
+Jaime Esteve Bengoechea	(International Cinephil Society, España)
+Jamie Graham (Total Film, UK)
+Jason Bailey (Flavorwire)
+Jay Weissberg (Variety, Italy)
+Jessica Ellicot (fourthreefilm.com, Australia)
+Jessica Kiang (Variety, USA)
+Jo Ann Titmarsh (FlickeringMyth.com, UK)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
+John Bleasdale (Cine Vue, UK)
+John Tikis (Musician, Greece)
+Jon Negroni (AwardsWatch, USA)
+Jonathan Romney (Screen International, UK)
+Jordan Cronk (Sight & Sound, Cinema Scope, Reverse Shot, UK)
+Jordan Hoffman (Guardian, USA)
+Jordan Raup (The Film Stage, USA)
+Jordan Ruimy (The Playlist, USA)
+Jose Carlos Avellar (Escrevercinema.com, Brazil)
+Jose Luis De Lorenzo (A Sala Llena, Argentina)
+Josef Lederle (Filmdienst, Deutschland)
+Josh Cabrita (MUBI, Cinema Scope, Canada)
+Joshua Rothkopf (Time Out New York, Penthouse, USA)
+Juan Soto (Filmmaker+Editor, Colombia)
+Jérémie Couston (Telerama, France)
+Kaleem Aftab (The Independent, The National, Sydney Morning Herald, Australia)
+Kate Muir (The Times, UK)
+Kees Driessen (De Filmkrant, Netherlands)
+Keith Uhlich (Time Out New York, USA)
+Kenneth Turan (Los Angeles Times, USA)
+Kirk Honeycott (The Hollywood Reporter, USA)
+Kong Rithdee (Bangkok Post, Thailand)
+Kristy Puchko (Freelance, USA)
+Kurt Brokaw (Independent Magazine)
+Kyle Smith (NY Post, USA)
+Laremy Legel (Film.com, USA)
+Laurent de Alberti (filmlandempire.com, UK)
+Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
+Leda Galanou (Flix, France)
+Lee Marshall (Screen International, USA)
+Leslie Felperin (The Hollywood Reporter, USA)
+Lilla Gyöngyösi (Filmtekercs, Hungary)
+Lisa Nesselson (Screen International, USA)
+Logan Hill (Vulture, New York Times, This American Life, WSJ, Rolling Stone, Wired, GQ, USA)
+Louis Guichard (Telerama, France)
+Lydia Milano (Rap videos, USA)
+Maggie Lee (Variety, USA)
+Manohla Dargis (New York Times, USA)
+Manon Dumais (Voir, Canada)
+Manu Yañez (Fotogramas, OtrosCines, España)
+Marc Cassivi (La Presse, France)
+Marc-André Lussier (La Presse, Canada)
+Marie-Laure Tittley (Festival project manager, Canada)
+Mark Adams (Screen International, USA)
+Martial Pisani (Independencia, France)
+Mathilde Blottière (Telerama, France)
+Mathilde Cesbron (Le Figaro, France)
+Matt Hoffman (Scene Creek, Canada)
+Matt Holmes (Obsessedwithfilm.com, USA)
+Maxime Pargaud (Le Figaro, France)
+Maëva Saint-Albin (Blogger, France)
+Michael Bo (politiken.dk, Denmark)
+Michael Ghennam (Les Fiches du Cinéma, Tess Magazine, France)
+Michael Giltz (The Huffington Post, USA)
+Michael Kienzl (critic.de, Deutschland)
+Michael Sennhauser (SRF, Suisse)
+Mike d'Angelo (AV Club, USA)
+Miriam Bale (MUBI, USA)
+Nathanael Buzelli (nathanaelcinema.blogspot.de, Brazil)
+Neil Bahadur (Director, Canada)
+Nev Pierce (Empire, USA)
+Nicholas Barber (BBC, UK)
+Nicolas Courdouan (Director+Writer, France)
+Nigel M Smith (Indiewire, USA)
+Nikola Grozdanović (Way Too Indie, Canada)
+Nino Klingler (critic.de, Deutschland)
+Noel Murray (The Dissolve, USA)
+Noémie Luciani (Independencia, France)
+Oliver Lyttelton (The Playlist, USA)
+Olivier Père (Les Inrockuptibles, France)
+Pablo Villaça (Cinema em Cena, Brazil)
+Pascal Mérigeau (Observateur, France)
+Patrick Heidmann (Cineman, Berliner Zeitung, Deutschland)
+Patrick McGavin (Light Sensitive, Stop Smiling, The Nation, USA)
+Paul Martin (Indies Movies Online, USA)
+Pete Hammond (Boxoffice Magazine, USA)
+Peter Bradshaw (Guardian, UK)
+Peter Debruge (Variety, USA)
+Peter Howell (The Toronto Star, USA)
+Peter Keogh (Boston Phoenix, USA)
+Peter Knegt (indieWIRE, USA)
+Peter Labuza (The Film Stage, USA)
+Philippe Paturel (www.cinemaforever.net, Deutschland)
+Pierre Murat (Telerama, France)
+Pieter Vermeersch (Freelance Director, Belgium)
+Raffi Asdourian (The Film Stage, USA)
+Raphael Abraham (Financial Times, USA)
+Rebecca Cope (Harper's Bazaar, USA)
+Richard Corliss (Time, USA)
+Richard Lawson (Vanity Fair, USA)
+Richard Mowe (Eye For Film, UK)
+Robbie Collin (The Telegraph, UK)
+Robert Gassaway (The Flicksation Podcast, USA)
+Rodrigo Perez (The Playlist, USA)
+Ronald Rovers (De Filmkrant, Netherlands)
+Rory O'Connor (Filmstage)
+Ruta Buciunaite (theupcoming.co.uk, UK)
+Ryan Lattanzio (Thompson on Hollywood!, USA)
+Ryland Aldrich (Twitch Film, USA)
+Sam Adams (Los Angeles Times, Philadelphia Inquirer, A.V. Club, USA)
+Sam C. Mac (Slant Magazine, USA)
+Sam Gray (Film maker, UK)
+Sebastian Doggart (Guardian, UK)
+Serena Catalano (Movieplayer.it, France)
+Sergio Wolf (BAFICI, Argentina)
+Shaun Munro (filmschoolrejects.com, USA)
+Simon Abrams (The Playlist, USA)
+Simon Eberhard (OutNow, Suisse)
+Simon Gallagher (filmschoolrejects.com, UK)
+Simon Reynolds (Digital Spy, UK)
+Sophie Monks Kaufman (Little White Lies blog, UK)
+Stephanie Bunbury (deadline, USA)
+Stephen Dalton (The Hollywood Reporter, USA)
+Stephen Garrett (Time Out New York, USA)
+Stephen Holden (New York Times, USA)
+Steve Pond (The Wrap, USA)
+Sukhdev Sandhu (The Telegraph, UK)
+Tanner Stechnij (Stage Press, USA)
+Thomas Fioretti (Independencia, France)
+Thomas Schultze (Blickpunkt Film, Deutschland)
+Tim Grierson (Screen International, L.A. Weekly, USA)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy (deadline, USA)
+Truman2712  (filmstarts.de, Deutschland)
+Victor Fraga (Dirty Movies, UK)
+Wendy Ide (The Guardian, Screen International, UK)
+Wenke Husmann (Die Zeit, Deutschland)
+Wesley Morris (Grantland, USA)
+Xan Brooks (Guardian, UK)
+Yair Raveh (Cinema Scope, Israel)
+Yannick Bracher (OutNow, Suisse)
+Yehudit Mam (I've Had It With Hollywood, Manero.com, Out.com, USA)
+Yorgos Krassakopoulos (flix.gr, Athens Voice, Thessaloniki Film Festival, Greece)
+Zack Sharf (Indiewire, USA)
+";
+$critics_group[$i] = "Letterboxd";
+$critics[$i++] = "
+Aaron Salazar (Filmmaker, USA)
+Alexis Chrys (Filmbuff, Greece)
+Andrew Skalak (Filmmaker, USA)
+Antoine Waked (Maskoon Fantastic Film Festival, Lebanon)
+Ariel Esteban Cayer (Festival programmer, Canada)
+Bernardo Pajares (losextras.es, España)
+Carlos Elorza (www.lafinestradigital.com, elcontraplano.com, España)
+Chad Eberle (Blogger, USA)
+Dion Wyn (www.thatmovieguy.co.uk, UK)
+Eli Hayes (Filmmaker, USA)
+Gerard Casau (SITGES Festival Cinema Fantàstic de Catalunya, España)
+Hugo Emmerzael (De Filmkrant, Netherlands)
+Jessica Ellicot (fourthreefilm.com, Australia)
+John Tikis (Musician, Greece)
+Juan Soto (Filmmaker+Editor, Colombia)
+Laurent de Alberti (filmlandempire.com, UK)
+Lawrence Garcia (FILM CATCH-UP BLOG, Canada)
+Lydia Milano (Rap videos, USA)
+Marie-Laure Tittley (Festival project manager, Canada)
+Maëva Saint-Albin (Blogger, France)
+Nathanael Buzelli (nathanaelcinema.blogspot.de, Brazil)
+Neil Bahadur (Director, Canada)
+Nicolas Courdouan (Director+Writer, France)
+Pablo Villaça (Cinema em Cena, Brazil)
+Philippe Paturel (www.cinemaforever.net, Deutschland)
+Pieter Vermeersch (Freelance Director, Belgium)
+Sam C. Mac (Slant Magazine, USA)
+Sam Gray (Film maker, UK)
+Serena Catalano (Movieplayer.it, France)
+Truman2712  (filmstarts.de, Deutschland)
+animalium (?, France)
+citizenlime (?, UK)
+monkeybox83 (Berlin, Deutschland)
+the_gaffer (Berlin, Deutschland)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival by Reini Urban from 15 critic polls:
+Screen Daily (US/UK mainstream),
+Le film français and Académie des Lumières (eclectic),
+caiman (the spanish Todas followup, the best),
+http://www.ioncinema.com/ (US/CAN okay),
+http://jury.critic.de/cannes/ (german),
+http://twitter.com/hanglutvd (chinese),
+ICS Critics & Industry Panel (mixed),
+the FIPRESCI poll,
+chaosreign.fr (okay),
+wask.fr (Quinzaine/Semaine only),
+the danish dtsjernebarometer,
+Moiree,
+good new russian and italian polls,
+OutNow.ch (mainstream),
+https://letterboxd.com/seanliu/list/cannes-2024/ (the industry),
+plus the usual press and individual critics on site.<br>
+
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Competition: <b>bold</b><br>
+ <br>
+All sections updated daily during the festival. </small><p>
+
+EOF
+
+our $FOOTER = "
+<pre>
+--
+Lists:
+https://letterboxd.com/seanliu/list/cannes-2025/
+https://letterboxd.com/seanliu/list/what-we-can-expect-from-cannes-2025s-slate/
+Source & History:
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2025.dat
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
