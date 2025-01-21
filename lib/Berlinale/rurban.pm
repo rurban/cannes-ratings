@@ -239,10 +239,10 @@ sub _dump {
         # show predictions until this date
         $finaldate = Time::Piece->strptime('1 February 2024', '%d %B %Y')->epoch;
       }
-      elsif ($year == 2025) { # no Forum anymore
-        @sections = ($comp_section, "Encounters", "Panorama", "Generation",
-                     "Special", "Retrospektive", "Woche der Kritik" );
-        $finaldate = Time::Piece->strptime('1 February 2025', '%d %B %Y')->epoch;
+      elsif ($year == 2025) { # Encounters => Perspectives
+        @sections = ($comp_section, "Perspectives", "Panorama", "Generation",
+                     "Forum", "Forum Expanded", "Special", "Retrospektive", "Woche der Kritik" );
+        $finaldate = Time::Piece->strptime('4 February 2025', '%d %B %Y')->epoch;
       }
       if (CORE::time() < $finaldate) {
         push @sections, qw[Predictions];
@@ -253,7 +253,7 @@ sub _dump {
   my $section;
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
   for (@t) {
-    my ($l,$a,$n,$t) = @{$_}; 
+    my ($l,$a,$n,$t) = @{$_};
     $l =~ s/ \[(.+?)\]//; my $section = $1;
     $section='Other' if !$section or !$sections{$section};
     $title{$t}->{section} = $section; 
