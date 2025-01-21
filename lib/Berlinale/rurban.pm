@@ -80,6 +80,7 @@ sub _read {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
+      next unless $title;
       next unless $critic;
       $critic =~ s/\s+$//;
       $critic{$critic}->{title}->{$title} = [$x];
