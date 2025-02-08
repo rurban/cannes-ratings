@@ -56,12 +56,6 @@ fi
 # echo "$t titles for $d" >>titles.log
 if [ -n "$t" ] && [ -z "$nolinks" ]; then
     echo "$t titles for $d"
-    for i in $(seq $t); do
-        f="public/$d/$i.html"
-        if [ ! -f "$f" ] || [ public/$d.dat -nt "$f" ] || [ "$(stat --format=%s "$f")" -lt 20 ]; then
-            echo "$f"
-            perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,$i)" >"$f"
-            perl -pi fixuplinks.pl "$f"
-        fi
-    done
+    perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all_details($year)"
+    perl -pi fixuplinks.pl "public/$d/[0-9]*.html"
 fi
