@@ -80,6 +80,7 @@ sub _read {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
+      next unless $title;
       next unless $critic;
       $critic =~ s/\s+$//;
       $critic{$critic}->{title}->{$title} = [$x];
@@ -105,7 +106,7 @@ sub _read {
       }
       next unless $critic;
       $critic =~ s/\s+$//;
-      $title{$title}->{critic}->{$critic} = [];
+      $title{$title}->{critic}->{$critic} = [] unless $title{$title}->{critic}->{$critic};
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
@@ -145,14 +146,19 @@ sub _detail {
          ."</i></td></tr>\n"
     if exists $h->{comment};
 
-  if (Dancer::SharedData->request && params->{debug}) {
+  if (Dancer::SharedData->request and params->{debug}) {
     require Data::Dumper;
     my $x = $h;
+    #delete $x->{comment};
     #delete $x->{review};
-    $out .= "<tr><td colspan=3><code>".Data::Dumper::Dumper($x);
-    for (keys %{$x->{critic}}) {
+    my $d = Data::Dumper->new($x)->Sortkeys;
+    $out .= "<tr><td colspan=3><code>".$d->Dump;
+    for (sort keys %{$x->{critic}}) {
       $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
 	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
+    }
+    for (sort keys %{$x->{review}}) {
+      $out .= ($_."=>".$critic->{$_}->{mag}."<br>\n");
     }
     $out .= "</code></tr>\n";
   }
@@ -170,12 +176,12 @@ sub _detail {
         $n = "<strike>$n</strike>" unless $nostrike;
         $c = abs($c);
       }
-      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
       if ($critic->{$_}->{mag}) {
         $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
       } elsif ($critic->{$_}->{cn}) {
         $n .= " ($critic->{$_}->{cn})";
       }
+      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
       if ($url) {
         $n = qq(<a href="$url">$n</a>);
         $c = qq(<a href="$url">$c</a>) if $c;
@@ -330,7 +336,7 @@ sub _dump {
   my $i = 1;
   my $numgood = 0;
   my $list = '';
-  for (@t) { 
+  for (@t) { # Very Good New Films
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg}); 
@@ -342,7 +348,7 @@ sub _dump {
     next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
-      next if $year - $lyear > 1;
+      next if $year - $lyear >= 1;
       # in the 2 New sections skip old films with prev:
       next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
@@ -371,7 +377,7 @@ sub _dump {
   my $h = "<h1 title=\"(avg>8, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
   $list = '';
-  for (@t) { 
+  for (@t) { # Good New Films
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
     my $n=$title{$t}->{num};
@@ -560,7 +566,7 @@ sub _dump {
             : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
       } keys %critic;
     # performance enh
-    if (0 and !$main::{"Dancer::App"} && $ENV{t}) {
+    if (0 && !$main::{"Dancer::App"} && $ENV{t}) {
       # which critic? $i is global, number of films plus the 2 good ones
       # FIXME this misses the critics with no mag and cn and only one
       # my $num = scalar @sorted_critics;
@@ -602,20 +608,6 @@ sub _dump {
           open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
           print $fh $detail;
           close $fh;
-          #return {out => $detail,
-          #        good => $numgood,
-          #        sections => \%sections, 
-          #        sectlist => \@sections, 
-          #        allfilms => \@allfilms,
-          #        t => \@t,
-          #        title   => \%title,
-          #        critic  => \%critic,
-          #        which => $BASE,
-          #        numratings => $numratings, 
-          #        numreviews => $allreviews, 
-          #        numc => $numc, 
-          #        numb => scalar(keys(%badcritic))
-          #};
         } else {
           $out .= $detail;
         }
