@@ -233,10 +233,17 @@ sub _dump {
     $title{$t}->{'num'} = $n;
     $title{$t}->{'line'} = $l;
     for my $c (sort keys %{$title{$t}->{critic}}) {
-      my $x = $title{$t}->{critic}->{$c}->[0];
-      if (defined $x && $x =~ /^[0-9]+/) {
-        push @{$title{$t}->{critic}->{$c}}, $x - $a;
-        push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
+      my $x = $title{$t}->{critic}->{$c}->[0]; # the rating, may <0 for badcritics
+      if (defined $x) {
+        # add the diff to the avg
+        if ($x < 0) {
+          my $ax = abs($x) - $a;
+          push @{$title{$t}->{critic}->{$c}}, -$ax;
+          push @{$critic{$c}->{title}->{$t}}, ($a, -$ax);
+        } else {
+          push @{$title{$t}->{critic}->{$c}}, $x - $a;
+          push @{$critic{$c}->{title}->{$t}}, ($a, abs($x) - $a);
+        }
       }
     }
   }

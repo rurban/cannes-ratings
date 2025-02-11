@@ -57,5 +57,5 @@ fi
 if [ -n "$t" ] && [ -z "$nolinks" ]; then
     echo "$t titles for $d"
     perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all_details($year)"
-    perl -pi fixuplinks.pl "public/$d/[0-9]*.html"
+    perl -pi fixuplinks.pl public/$d/[0-9]*.html
 fi

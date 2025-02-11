@@ -262,10 +262,17 @@ sub _dump {
     $title{$t}->{num} = $n;
     $title{$t}->{line} = $l;
     for my $c (sort keys %{$title{$t}->{critic}}) {
-      my $x = $title{$t}->{critic}->{$c}->[0];
-      if (defined $x && $x =~ /^[0-9]+/) {
-        push @{$title{$t}->{critic}->{$c}}, $x - $a;
-        push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
+      my $x = $title{$t}->{critic}->{$c}->[0]; # the rating, may <0 for badcritics
+      if (defined $x) {
+        # add the diff to the avg
+        if ($x < 0) {
+          my $ax = abs($x) - $a;
+          push @{$title{$t}->{critic}->{$c}}, -$ax;
+          push @{$critic{$c}->{title}->{$t}}, ($a, -$ax);
+        } else {
+          push @{$title{$t}->{critic}->{$c}}, $x - $a;
+          push @{$critic{$c}->{title}->{$t}}, ($a, abs($x) - $a);
+        }
       }
     }
   }
@@ -285,6 +292,7 @@ sub _dump {
     $params_g = [ split ':', $ENV{g} ];
     $params_g{$_}++ for (@$params_g);
   }
+  # find and mark badcritics
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
@@ -311,7 +319,8 @@ sub _dump {
       $critic{$c}->{stddev}  = sqrt($s / $num);
     }
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5
-      and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+        and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+    # if filtered by country or group
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
@@ -319,7 +328,7 @@ sub _dump {
       $badcritic{$c}++ unless exists($params_g{$critic{$c}->{group}});
     }
   }
-  # include the badcritic ratings for the title stddev
+  # include the badcritic ratings for the title stddev?
   for (@t) {
     my $t = $_->[3];
     my ($a,$s)=($title{$t}->{avg},0);
@@ -338,18 +347,16 @@ sub _dump {
     for my $t (keys %title) {
       if ($title{$t}->{critic}->{$c}) {
         #$title{$t}->{num}--;
-        my $bak = $title{$t}->{critic}->{$c}->[0];
-	delete $title{$t}->{critic}->{$c};
+        my $bak = $title{$t}->{critic}->{$c}->[0]; # may <0 already?
+	#delete $title{$t}->{critic}->{$c}; # no keep the strike in the details
 	$title{$t}->{numcritics} = scalar keys %{$title{$t}->{critic}};
 	$title{$t}->{numreviews} = scalar keys %{$title{$t}->{review}};
 	my ($n,$sum)=(0,0);
 	for (keys %{$title{$t}->{critic}}) {
-	  if (exists $title{$t}->{critic}->{$_}) {
-	    my $r = $title{$t}->{critic}->{$_}->[0];
-	    if ($r and $r =~ /^[0-9]+/ and $r >= 0) {
-	      $sum += $r;
-	      $n++;
-	    }
+          my $r = $title{$t}->{critic}->{$_}->[0];
+          if ($r and $r =~ /^[0-9]+/ and $r >= 0) {
+            $sum += $r;
+            $n++;
 	  }
 	}
 	$title{$t}->{num} = $n;
