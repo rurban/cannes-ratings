@@ -134,6 +134,7 @@ sub _show_detail {
   if (($t eq $i) || ($t eq '*')) { return $t; }
   else { return undef; }
 }
+
 # show detail for one movie (?t=)
 sub _detail {
   my $t = shift;
@@ -208,6 +209,18 @@ sub _critic_detail {
       ."<td class=detail>$c</td></tr>\n";
   }
   $out;
+}
+
+sub _html_dump {
+  my ($fn, $title, $html) = @_;
+  Dancer::Config::_set_setting("views", "views");
+  Dancer::Config::_set_setting("charset", "utf-8");
+  open my $fh, ">:utf8", $fn or die $!;
+  print $fh "<!-- $title -->\n";
+  print $fh '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">',"\n";
+  print $fh '<meta http-equiv="Cache-Control" content="max-age=3600, public">',"\n";
+  print $fh $html;
+  close $fh;
 }
 
 sub _dump {
@@ -399,11 +412,7 @@ sub _dump {
       my $detail = _detail($t,$title{$t},\%critic);
       if (!$main::{"Dancer::App"}) {
         # only if dump or debug via cmd-line
-        Dancer::Config::_set_setting("views", "views");
-        Dancer::Config::_set_setting("charset", "utf-8");
-        open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
-        print $fh $detail;
-        close $fh;
+        _html_dump("public/$BASE$year/$i.html", $t, $detail);
       } else {
         $list .= $detail;
       }
@@ -440,11 +449,7 @@ sub _dump {
       my $detail = _detail($t,$title{$t},\%critic);
       if (!$main::{"Dancer::App"}) {
         # only if dump or debug via cmd-line
-        Dancer::Config::_set_setting("views", "views");
-        Dancer::Config::_set_setting("charset", "utf-8");
-        open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
-        print $fh $detail;
-        close $fh;
+        _html_dump("public/$BASE$year/$i.html", $t, $detail);
       } else {
         $list .= $detail;
       }
@@ -530,11 +535,7 @@ sub _dump {
           my $detail = _detail($_,$title{$_},\%critic);
           if (!$main::{"Dancer::App"}) {
             # only if dump or debug via cmd-line
-            Dancer::Config::_set_setting("views", "views");
-            Dancer::Config::_set_setting("charset", "utf-8");
-            open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
-            print $fh $detail;
-            close $fh;
+            _html_dump("public/$BASE$year/$i.html", $_, $detail);
           } else {
             $out .= $detail;
           }
@@ -574,11 +575,7 @@ sub _dump {
       my $detail = _detail($t,$title{$t},\%critic,1);
       if (!$main::{"Dancer::App"}) {
         # only if dump or debug via cmd-line
-        Dancer::Config::_set_setting("views", "views");
-        Dancer::Config::_set_setting("charset", "utf-8");
-        open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
-        print $fh $detail;
-        close $fh;
+        _html_dump("public/$BASE$year/$i.html", $t, $detail);
       } else {
         $out .= $detail;
       }
@@ -602,20 +599,6 @@ sub _dump {
             : !exists $critic{$b}->{stddev} ? -1
             : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
       } keys %critic;
-    # performance enh
-    if (0 && !$main::{"Dancer::App"} && $ENV{t}) {
-      # which critic? $i is global, number of films plus the 2 good ones
-      # FIXME this misses the critics with no mag and cn and only one
-      # my $num = scalar @sorted_critics;
-      my $j = $ENV{t} - $i;
-      my $detail = _critic_detail($j,$critic{$j});
-      # only if dump or debug via cmd-line
-      Dancer::Config::_set_setting("views", "views");
-      Dancer::Config::_set_setting("charset", "utf-8");
-      open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
-      print $fh $detail;
-      close $fh;
-    }
     for (@sorted_critics)
     {
       no warnings;
@@ -640,11 +623,7 @@ sub _dump {
         my $detail = _critic_detail($_,$critic{$_});
         if (!$main::{"Dancer::App"}) {
           # only if dump or debug via cmd-line
-          Dancer::Config::_set_setting("views", "views");
-          Dancer::Config::_set_setting("charset", "utf-8");
-          open my $fh, ">:utf8", "public/$BASE$year/$i.html" or die $!;
-          print $fh $detail;
-          close $fh;
+          _html_dump("public/$BASE$year/$i.html", $_, $detail);
         } else {
           $out .= $detail;
         }
