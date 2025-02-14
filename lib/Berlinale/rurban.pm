@@ -218,7 +218,7 @@ sub _html_dump {
   open my $fh, ">:utf8", $fn or die $!;
   print $fh "<!-- $title -->\n";
   print $fh '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">',"\n";
-  print $fh '<meta http-equiv="Cache-Control" content="max-age=3600, public">',"\n";
+  print $fh '<meta http-equiv="Cache-Control" content="no-cache">',"\n";
   print $fh $html;
   close $fh;
 }
