@@ -762,7 +762,7 @@ sub last_modified {
 }
 
 # cmdline usage only
-sub _dump_all_details {
+sub _dump_all {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
   my $dat = "public/$BASE$year.dat";
@@ -789,11 +789,26 @@ sub _dump_all_details {
 
   # => ( \%critic, \%title, \@t )
   my @read = _read($DATA, \@critics, {}, {}, \@critics_group);
-  my $dump = _dump(@read, $year);
-  # and now dump all details as files
+
   $ENV{t} = '*';
-  _dump(@read, $year);
-  return $dump;
+  my $vars = _dump(@read, $year); # also creates all detail files
+  $vars->{year} = $year;
+  $vars->{HEADER} = $HEADER;
+  $vars->{FOOTER} = $FOOTER;
+  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
+  Dancer::Config::_set_setting("views", "views");
+  Dancer::Config::_set_setting("charset", "utf-8");
+
+  my $fn = "public/$BASE$year/index.html";
+  if (exists $ENV{g} && $ENV{g} eq 'Letterboxd') {
+    $fn = "public/$BASE$year/no-lb.html";
+  }
+  open my $fh, ">:utf8", $fn or die "$! writing $fn";
+  $vars->{content} = template lc($BASE).".tt", $vars;
+  print $fh template "layouts/main.tt", $vars;
+  close $fh;
+
+  return $vars;
 }
 
 sub _list {

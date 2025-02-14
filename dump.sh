@@ -36,18 +36,10 @@ test -d "public/$d" || mkdir -p "public/$d"
 #        cd public && ln -s $x$thisyear $x && cd -
 #    fi
 #done
-f=public/$d/index.html
-echo "$f"
-perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year)" >"$f"
-perl -pi fixuplinks.pl "$f"
-l=public/$d/no-lb.html
-echo "$l"
-perl -Ilib -M$fest::rurban -e"$fest::rurban::_list($year,'no-lb')" >"$l"
-perl -pi fixuplinks.pl "$l"
-t=$(perl -ne'if (/onclick="l\((\d+)\)"/){$t=$1}; END{print $t}' "$f")
-if [ -z "$t" ]; then
-    t=$(perl -ne'if (/href="\?t=(\d+)#\d+"/){$t=$1}; END{print $t}' "$f")
-fi
-echo "$t titles for $d"
-perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all_details($year)"
-perl -pi fixuplinks.pl public/$d/[0-9]*.html
+perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
+perl -pi fixuplinks.pl public/$d/*.html
+
+#l=public/$d/no-lb.html
+#echo "$l"
+#env g=Letterboxd perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
+#perl -pi fixuplinks.pl public/$d/*no-lb.html
