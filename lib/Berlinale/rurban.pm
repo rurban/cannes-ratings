@@ -429,10 +429,10 @@ sub _dump {
     next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
     my $l=$title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match|Other)$/;
-    next if $l =~ / 19\d\d\)$/;
-    next if $l =~ / 20[01]\d\)$/;
+    next if $l =~ / 19\d\d\)/;
+    next if $l =~ / 20[01]\d\)/;
     next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
-    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    my ($lyear) = $l =~ / (20\d\d)\)/;
     if ($lyear) {
       next if $year - $lyear > 1;
       # in the 2 New sections skip old films with prev:
