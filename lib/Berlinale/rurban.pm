@@ -392,8 +392,8 @@ sub _dump {
     next if $n<=3 or $a < 7.5; 
     my $l = $title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match|Other)$/;
-    next if $l =~ / 19\d\d\)$/;
-    next if $l =~ / 200\d\)$/;
+    next if $l =~ / 19\d\d\)/;
+    next if $l =~ / 200\d\)/;
     next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)$/;
     if ($lyear) {
