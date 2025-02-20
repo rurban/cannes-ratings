@@ -2,6 +2,8 @@ package Berlinale::rurban::2025; # -*- perl -*-
 # Berlinale 2025 Critics Ratings
 # 15.2. - 25.2.
 # complete lineup: 4.2.
+# Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# https://www.screendaily.com/berlin-jury-grid
 
 use utf8;
 our $DATA= <<'EOF';
@@ -13,6 +15,16 @@ WETTBEWERB
 
 Guy Lodge               https://variety.com/2025/film/reviews/ari-review-1236308990/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/ari-review-leonor-serraille-1236134397/
+#screendaily
+Anton Dolin            2.5
+Rita Di Santo          5
+Carlos Heli di Almeida 5
+Martin Horyna          5
+Paolo Bertolin         5
+Barbara Hollender      5
+Katja Nicodemus        5
+Kalapaparuek           5
+Screen International   7.5
 #critic.de
 Dunja Bialas          7.5
 Esther Buss           7.5
@@ -21,7 +33,6 @@ Jenny Jecke           6
 Michael Kienzl        6
 Kamil Moll            5
 Pavao Vlajcic         7.5     https://letterboxd.com/powwow/film/ari-2025/
-
 #letterboxd
 ainailonat          10
 stephnici           10
@@ -461,6 +472,27 @@ elmariachi82        2
  Am Abend des 31. März 1943 stürzt der berühmte Songtexter Lorenz Hart in eine tiefe Lebenskrise, als sein ehemaliger Partner, der Komponist Richard Rodgers, in der Bar Sardi’s mit der Uraufführung seines Musicals „Oklahoma!“ einen überwältigenden Erfolg feiert. Mit Ethan Hawke, Margaret Qualley, Bobby Cannavale, Andrew Scott. WP
 
 Peter Debruge           https://variety.com/2025/film/reviews/blue-moon-review-rodgers-and-hart-ethan-hawke-1236311303/
+#screendaily
+Anton Dolin            5
+Rita Di Santo          9
+Carlos Heli di Almeida 7.5
+Martin Horyna          2.5
+Paolo Bertolin         7.5
+Barbara Hollender      9
+Katja Nicodemus        7.5
+Kalapaparuek           7.5
+Screen International   9
+#critic.de
+Dunja Bialas          6
+Jérôme d'Estais       6
+Lukas Foerster        7.5
+Thomas Groh           9
+David Hudson          9
+Michael Kienzl        5
+Leonard Krähmer       6
+Kamil Moll            6
+Christopher Small     7.5
+Pavao Vlajcic         6       https://letterboxd.com/powwow/film/blue-moon-2025/
 #letterboxd
 clararoigg          10
 Pedro Miranda       10
@@ -1320,21 +1352,23 @@ hugo_yi             1
 theresaphiline      1
 kate shch           1
 
-#critic.de
-Dunja Bialas          6
-Jérôme d'Estais       6
-Lukas Foerster        7.5
-Thomas Groh           9
-David Hudson          9
-Michael Kienzl        5
-Leonard Krähmer       6
-Kamil Moll            6
-Christopher Small     7.5
-Pavao Vlajcic         6       https://letterboxd.com/powwow/film/blue-moon-2025/
-
 "The Safe House (La cache)" (Lionel Baier, Schweiz/Lux/F 2025) [Wettbewerb]
  Porträt einer exzentrischen Familie vor dem Hintergrund der 1968er-Proteste in Paris. Ein Neunjähriger bleibt bei seinen Großeltern und Onkeln, während die Eltern demonstrieren. Als ein illustrer Gast in der Wohnung auftaucht, ändert sich die Dynamik. Mit Dominique Reymond, Michel Blanc, William Lebghil, Aurélien Gabrielli, Liliane Rovère. WP
 
+#screendaily
+Anton Dolin            
+Rita Di Santo          
+Carlos Heli di Almeida 
+Martin Horyna          
+Paolo Bertolin         
+Barbara Hollender      
+Katja Nicodemus        
+Kalapaparuek           
+Screen International   
+#critic.de
+Lukas Foerster        7.5
+Thomas Groh           5
+Christopher Small     1
 #letterboxd
 andyg90             10
 lisarossi           10
@@ -1414,14 +1448,19 @@ Newland Archer      2
 Vojta Kočárník      1
 Dima Elagin         1   https://letterboxd.com/chacacha/film/the-safe-house-2025/
 
-#critic.de
-Lukas Foerster        7.5
-Thomas Groh           5
-Christopher Small     1
-
 "Dreams" (Michel Franco, MX 2025) [Wettbewerb]
  In der Hoffnung darauf, dass seine Geliebte ihn unterstützen wird, überquert ein junger mexikanischer Balletttänzer die Grenze, um in San Francisco seine Träume zu verwirklichen. Doch Ehrgeiz und Liebe kollidieren mit der harten Realität. Mit Jessica Chastain, Isaac Hernández, Rupert Friend, Marshall Bell. WP
 
+#screendaily
+Anton Dolin            9
+Rita Di Santo          5
+Carlos Heli di Almeida 5
+Martin Horyna          7.5
+Paolo Bertolin         1
+Barbara Hollender      9
+Katja Nicodemus        7.5
+Kalapaparuek           7.5
+Screen International   9
 #critic.de
 Dunja Bialas          9
 Esther Buss           2.5
@@ -1432,7 +1471,6 @@ Michael Kienzl        4
 Leonard Krähmer       4
 Kamil Moll            2.5
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/dreams-2025/
-
 #letterboxd
 Letterboxd 24_Ratings	6.6  https://letterboxd.com/film/dreams-2025/
 jackoneil           10
@@ -2193,6 +2231,16 @@ laura               1
 "Dreams - Sex Love (Drømmer)" (Dag Johan Haugerud, Nor 2024) [Wettbewerb]
  Johannes intime Aufzeichnungen über ihr Verliebtsein in ihre Lehrerin lösen in ihrer Familie Irritationen aus und konfrontieren Mutter und Großmutter mit den eigenen unerfüllten Träume und Sehnsüchten. Mit Ella Øverbye, Selome Emnetu, Ane Dahl Torp, Anne Marit Jacobsen. IP
 
+#screendaily
+Anton Dolin            5
+Rita Di Santo          7.5
+Carlos Heli di Almeida 5
+Martin Horyna          7.5
+Paolo Bertolin         9
+Barbara Hollender      
+Katja Nicodemus        5
+Kalapaparuek           2.5
+Screen International   7.5
 #critic.de
 Letterboxd 1004_Ratings	8.27  https://letterboxd.com/film/dreams-sex-love/
 Friederike Horstmann  7.5
@@ -2205,6 +2253,16 @@ Pavao Vlajcic         9       https://letterboxd.com/powwow/film/dreams-sex-love
  Ein junger Dichter bringt seine Freundin zum Haus ihrer Eltern und ist erstaunt über die Größe des Anwesens. Er trifft dort auf ihren Vater, ihre Mutter und ihre Schwester und sie verbringen einen langen Tag mit Gesprächen, Essen und Trinken. Mit Ha Seongguk, Kwon Haehyo, Cho Yunhee, Kang Soyi, Park Miso. WP
 
 Siddhant Adlakha        https://variety.com/2025/film/reviews/what-does-that-nature-say-to-you-review-hong-sangsoo-1236313977/
+#screendaily
+Anton Dolin            
+Rita Di Santo          
+Carlos Heli di Almeida 
+Martin Horyna          
+Paolo Bertolin         
+Barbara Hollender      
+Katja Nicodemus        
+Kalapaparuek           
+Screen International   
 #letterboxd
 Beni_G              10
 Achira_D            10
@@ -2285,6 +2343,16 @@ Potluck Pictures    4
   Rose und ihre Tochter Sofia reisen in eine spanische Küstenstadt, um einen rätselhaften Heiler zu treffen. Als Sofia sich auf eine Affäre mit einer verführerischen Fremden einlässt, beginnt es zwischen ihr und der überfürsorglichen Mutter zu kriseln. Mit Emma Mackey, Fiona Shaw, Vicky Krieps, Vincent Perez. WP | 1st
 
 Peter Debruge           https://variety.com/2025/film/reviews/hot-milk-review-1236307740/
+#screendaily
+Anton Dolin            5
+Rita Di Santo          5
+Carlos Heli di Almeida 2.5
+Martin Horyna          2.5
+Paolo Bertolin         2.5
+Barbara Hollender      5
+Katja Nicodemus        5
+Kalapaparuek           5
+Screen International   7.5
 #critic.de
 #letterboxd
 Letterboxd 25_Ratings	8.2  https://letterboxd.com/film/hot-milk-2025/
@@ -3308,6 +3376,16 @@ ikarpova            1   https://letterboxd.com/ikarpova/film/hot-milk-2025/
 "If I Had Legs I'd Kick You" (Mary Bronstein, USA 2024) [Wettbewerb] <i>Sundance</i>
  Lindas Leben läuft aus dem Ruder, überall muss sie Probleme lösen, dazu gehören eine unerklärliche Krankheit bei ihrem Kind, die Abwesenheit ihres Ehemanns, eine Person, die vermisst wird, und zunehmende Feindseligkeiten in der Beziehung zu ihrem Therapeuten. Mit Rose Byrne, A$AP Rocky, Conan O'Brien, Danielle Macdonald, Ivy Wolk. IP
 
+#screendaily
+Anton Dolin            9
+Rita Di Santo          5
+Carlos Heli di Almeida 2.5
+Martin Horyna          7.5
+Paolo Bertolin         5
+Barbara Hollender      9
+Katja Nicodemus        5
+Kalapaparuek           5
+Screen International   9
 #critic.de
 #letterboxd
 Letterboxd 470_Ratings	7.60  https://letterboxd.com/film/if-i-had-legs-id-kick-you/
@@ -4675,6 +4753,24 @@ Megan Mantia        1
 
 Guy Lodge               https://variety.com/2025/film/reviews/kontinental-25-review-1236311447/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/kontinental-25-review-radu-jude-1236140861/
+#screendaily
+Anton Dolin            
+Rita Di Santo          
+Carlos Heli di Almeida 
+Martin Horyna          
+Paolo Bertolin         
+Barbara Hollender      
+Katja Nicodemus        
+Kalapaparuek           
+Screen International   
+#critic.de
+Dunja Bialas          9
+Jérôme d'Estais       7.5
+David Hudson          6
+Leonard Krähmer       4
+Kamil Moll            4
+Christopher Small     6
+Pavao Vlajcic         6       https://letterboxd.com/powwow/film/kontinental-25/
 #letterboxd
 maggs_ty            10
 fvds1309            10
@@ -5052,24 +5148,24 @@ MichalisCh          2
 linhipuh            1
 reygadasfan         1
 
-#critic.de
-Dunja Bialas          9
-Jérôme d'Estais       7.5
-David Hudson          6
-Leonard Krähmer       4
-Kamil Moll            4
-Christopher Small     6
-Pavao Vlajcic         6       https://letterboxd.com/powwow/film/kontinental-25/
-
 "The Message (El mensaje)" (Iván Fund, Arg/Spa 2025) [Wettbewerb]
  In der argentinischen Provinz bringt die Gabe eines Kindes seine opportunistischen Pflegeeltern auf die Idee, Beratungen mit einem Tiermedium anzubieten und so ihren Lebensunterhalt zu verdienen. Mit Mara Bestelli, Marcelo Subiotto, Anika Bootz, Betania Cappato. WP
 
+#screendaily
+Anton Dolin            7.5
+Rita Di Santo          5
+Carlos Heli di Almeida 5
+Martin Horyna          5
+Paolo Bertolin         2.5
+Barbara Hollender      5
+Katja Nicodemus        7.5
+Kalapaparuek           5
+Screen International   7.5
 #critic.de
 Dunja Bialas          7.5
 Jérôme d'Estais       7.5
 Martin Gobbin         4
 Pavao Vlajcic         5       https://letterboxd.com/powwow/film/the-message-2025/
-
 #letterboxd
 caldefair           10
 Red Blue            10   https://letterboxd.com/redwhaleblue/film/the-message-2025/
@@ -5403,10 +5499,19 @@ Kelle58210          1
 "Mother's Baby" (Johanna Moder, Ö/Schweiz/D 2025) [Wettbewerb]
   Der Traum von der eigenen Familie wird zum Albtraum. Die 40-jährige Julia ringt darum, eine Bindung zu ihrem neugeborenen Kind aufzubauen. Mit Marie Leuenberger, Hans Löw, Claes Bang, Julia Franz Richter. WP
 
+#screendaily
+Anton Dolin            9
+Rita Di Santo          2.5
+Carlos Heli di Almeida 2.5
+Martin Horyna          7.5
+Paolo Bertolin         5
+Barbara Hollender      5
+Katja Nicodemus        7.5
+Kalapaparuek           7.5
+Screen International   9
 #critic.de
 Martin Gobbin         2.5
 Kamil Moll            6
-
 #letterboxd
 Trugod23            10
 OliFreibeuter       10
@@ -5675,6 +5780,16 @@ Elie_Bartin         1   https://letterboxd.com/elie_bartin/film/mothers-baby/
 "Reflection in a Dead Diamond (Reflet dans un diamant mort)" (Hélène Cattet/Bruno Forzani, B/Lux/I/F 2025) [Wettbewerb]
  Ein weltgewandter 70-jähriger Ex-Spion hat sich in einem Luxushotel an der Côte d’Azur zur Ruhe gesetzt. Als seine Zimmernachbarin verschwindet, fließen Erinnerungen an Bösewichte und Schönheiten aus seiner Glanzzeit, Wahnsinn und Kinoträume ineinander. Mit Fabio Testi, Yannick Renier, Koen De Bouw, Maria de Medeiros, Thi Mai Nguyen. WP
 
+#screendaily
+Anton Dolin            2.5
+Rita Di Santo          5
+Carlos Heli di Almeida 2.5
+Martin Horyna          2.5
+Paolo Bertolin         7.5
+Barbara Hollender      5
+Katja Nicodemus        2.5
+Kalapaparuek           7.5
+Screen International   2.5
 #critic.de
 Jérôme d'Estais       6
 Lukas Foerster        7.5     https://www.critic.de/film/reflection-in-a-dead-diamond-18948/
@@ -5687,7 +5802,6 @@ Kamil Moll            7.5     https://www.filmstarts.de/kritiken/1000008701/krit
 Tilman Schumacher     7.5
 Christopher Small     4
 Pavao Vlajcic         9       https://letterboxd.com/powwow/film/reflection-in-a-dead-diamond/
-
 #letterboxd
 Aditya Khanna       10   https://letterboxd.com/genghiskhanna/film/reflection-in-a-dead-diamond/
 Yanren              10
@@ -6253,6 +6367,16 @@ OliverKoch          1
 
 Guy Lodge               https://variety.com/2025/film/reviews/living-the-land-review-1236307707/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/living-the-land-review-1236136550/
+#screendaily
+Anton Dolin            5
+Rita Di Santo          5
+Carlos Heli di Almeida 7.5
+Martin Horyna          5
+Paolo Bertolin         7.5
+Barbara Hollender      7.5
+Katja Nicodemus        7.5
+Kalapaparuek           5
+Screen International   7.5
 #critic.de
 #letterboxd
 Letterboxd 25_Ratings	8.6  https://letterboxd.com/film/living-the-land/
@@ -6678,6 +6802,16 @@ tinosaurusrex       1   https://letterboxd.com/tinosaurusrex/film/living-the-lan
 "Timestamp (Strichka chasu)" (Kateryna Gornostai, Ukr/Lux/NL/F 2025) [Wettbewerb]
  Trotz des Krieges bleiben die Schulen in der Ukraine geöffnet. Im Angesicht stetiger Bedrohung bemühen sich Schüler*innen und Lehrkräfte, den Unterricht fortzusetzen. Der Mosaikfilm zeigt ihren Alltag in verschiedenen Teilen der Ukraine. Mit Olha Bryhynets, Borys Khovriak, Mykola Kolomiiets, Valeriia Hukova, Mykola Shpak. WP, Doc
 
+#screendaily
+Anton Dolin            
+Rita Di Santo          
+Carlos Heli di Almeida 
+Martin Horyna          
+Paolo Bertolin         
+Barbara Hollender      
+Katja Nicodemus        
+Kalapaparuek           
+Screen International   
 #critic.de
 Guy Lodge               https://variety.com/2025/film/reviews/timestamp-review-1236313815/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/timestamp-review-a-powerful-ukrainian-documentary-captures-life-during-wartime-with-both-pain-and-promise-1236141672/
@@ -6767,6 +6901,16 @@ Achira_D            2
 "The Ice Tower (La Tour de Glace)" (Lucile Hadžihalilović, F/D 2025) [Wettbewerb]
   1970er-Jahre. Die jugendliche Ausreißerin Jeanne verfällt dem Zauber von Cristina, dem geheimnisvollen Star des Films Die Schneekönigin, der in dem Studio gedreht wird, in dem Jeanne Unterschlupf gefunden hat. Mit Marion Cotillard, Clara Pacini, August Diehl, Gaspar Noé. WP
 
+#screendaily
+Anton Dolin            7.5
+Rita Di Santo          7.5
+Carlos Heli di Almeida 5
+Martin Horyna          5
+Paolo Bertolin         5
+Barbara Hollender      5
+Katja Nicodemus        7.5
+Kalapaparuek           7.5
+Screen International   7.5
 #critic.de
 Dunja Bialas          7.5
 Jérôme d'Estais       7.5
@@ -6780,7 +6924,6 @@ Leonard Krähmer       6
 Kamil Moll            7.5
 Christopher Small     7.5
 Pavao Vlajcic         7.5     https://letterboxd.com/powwow/film/the-ice-tower/
-
 #letterboxd
 beksykeks           10   https://letterboxd.com/beksykeks/film/the-ice-tower/
 Mark Adams          10
@@ -7510,13 +7653,22 @@ Noach_engel         1
 "The Blue Trail (O último azul)" (Gabriel Mascaro, Bra/MX/Chile/NL 2025) [Wettbewerb]
  In der nahen Zukunft werden alte Menschen in Seniorenkolonien untergebracht, damit die Jungen ungestört ihre Produktivität steigern können. Die 77-jährige Tereza weigert sich, das zu akzeptieren, und begibt sich auf eine schicksalhafte Reise durchs Amazonasgebiet. Mit Denise Weinberg, Rodrigo Santoro, Miriam Socorrás, Adanilo. WP
 
+#screendaily
+Anton Dolin            7.5
+Rita Di Santo          9
+Carlos Heli di Almeida 7.5
+Martin Horyna          7.5
+Paolo Bertolin         9
+Barbara Hollender      7.5
+Katja Nicodemus        9
+Kalapaparuek           7.5
+Screen International   9
 #critic.de
 Jérôme d'Estais       6
 Lukas Foerster        4
 Martin Gobbin         7.5
 Jenny Jecke           2.5
 Pavao Vlajcic         4       https://letterboxd.com/powwow/film/the-blue-trail/
-
 #letterboxd
 Eva                 10
 _anjou_             10
@@ -7933,6 +8085,16 @@ error_marc          1
 "What Marielle Knows (Was Marielle weiß)" (Frédéric Hambalek, D 2025) [Wettbewerb]
   Julia und Tobias entdecken, dass ihre Tochter Marielle plötzlich telepathische Fähigkeiten entwickelt hat und alles sehen und hören kann, was sie tun. Die Folge sind peinliche bis absurde Situationen, und unbequeme Wahrheiten kommen ans Licht. Mit Julia Jentsch, Felix Kramer, Laeni Geiseler, Mehmet Ateşçi, Moritz Treuenfels. WP
 
+#screendaily
+Anton Dolin            5
+Rita Di Santo          2.5
+Carlos Heli di Almeida 7.5
+Martin Horyna          7.5
+Paolo Bertolin         7.5
+Barbara Hollender      5
+Katja Nicodemus        5
+Kalapaparuek           9
+Screen International   7.5
 #critic.de
 Dunja Bialas          4
 Lukas Foerster        7.5
@@ -7941,7 +8103,6 @@ Thomas Groh           6
 Jenny Jecke           6
 Kamil Moll            7.5
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/what-marielle-knows/
-
 #letterboxd
 Mariana             10
 Aditya Khanna       10   https://letterboxd.com/genghiskhanna/film/what-marielle-knows/
@@ -8355,6 +8516,16 @@ Lizatcio            1
 "Girls on Wire (Xiang fei de nv hai)" (Vivian Qu, CHN 2025) [Wettbewerb]
  Tian Tian, alleinerziehende Mutter einer fünfjährigen Tochter, tötet einen Drogendealer, der sie gefangen hält, und wird danach verfolgt. Die einzige Person, an die sie sich in ihrer Not wenden kann, ist ihre Cousine Fang Di. Mit Liu Haocun, Wen Qi, Zhang Youhao, Zhou You, Peng Jing. WP
 
+#screendaily
+Anton Dolin            2.5
+Rita Di Santo          7.5
+Carlos Heli di Almeida 5
+Martin Horyna          5
+Paolo Bertolin         5
+Barbara Hollender      7.5
+Katja Nicodemus        7.5
+Kalapaparuek           1
+Screen International   5
 #critic.de
 Dunja Bialas          2.5
 Lukas Foerster        6
@@ -8363,7 +8534,6 @@ Jenny Jecke           1
 Kamil Moll            4
 Christopher Small     6
 Pavao Vlajcic         2.5     https://letterboxd.com/powwow/film/girls-on-wire/
-
 #letterboxd
 tee_der_aydee       10   https://letterboxd.com/tee_der_aydee/film/girls-on-wire/
 Em0ly               10
@@ -8759,13 +8929,22 @@ rondo               1
 "Yunan" (Ameer Fakher Eldin, D//Palästina/... 2025) [Wettbewerb]
   Auf einer abgelegenen Insel sucht Munir die Einsamkeit, um über den letzten Akt seines Lebens nachzudenken. Unerwarteten Trost findet er in der Gesellschaft von Valeska (Hanna Schygulla), deren Mitgefühl seinen schwindenden Lebensmut wieder aufleben lässt. Mit Georges Khabbaz, Hanna Schygulla, Ali Suliman, Sibel Kekilli, Tom Wlaschiha. WP
 
+#screendaily
+Anton Dolin            5
+Rita Di Santo          5
+Carlos Heli di Almeida 5
+Martin Horyna          5
+Paolo Bertolin         7.5
+Barbara Hollender      
+Katja Nicodemus        7.5
+Kalapaparuek           5
+Screen International   5
 #critic.de
 Jérôme d'Estais       6
 Thomas Groh           6
 Kamil Moll            6
 Christopher Small     5
 Pavao Vlajcic         6       https://letterboxd.com/powwow/film/yunan/
-
 #letterboxd
 Ragabo              10
 OliBelette          10
@@ -108260,13 +108439,14 @@ our (@critics, @critics_group);
 my $i=0;
 $critics_group[$i] = "screendaily";
 $critics[$i++] = "
+Anton Dolin (Meduza/International, Russia)
 Rita Di Santo (The Morning Star, UK)
+Carlos Heli di Almeida (O Globo, Brazil)
+Martin Horyna (Cinepur, Cz)
 Paolo Bertolin (Rivista del Cinematografo, Italy)
+Barbara Hollender (Rzeczpospolita, Poland)
 Katja Nicodemus (Die Zeit, Germany)
-Anton Dolin (Meduza/Film Art, Russia)
-Stephen Schaefer (The Boston Herald, US)
-Nick James (Sight & Sound, UK)
-Mathieu Macheret (Le Monde/Cahiers Du Cinéma, France)
+Kalapaparuek (Bangkok Biznews, Thailand)
 Screen International (Screen International, UK)
 ";
 $critics_group[$i] = "critic.de";
