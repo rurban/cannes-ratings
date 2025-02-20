@@ -9,7 +9,7 @@ our $VERSION = '0.2';
 our $BASE = 'Cannes';
 our @YEARS = (2010..2025);
 our $comp_section = 'Competition';
-our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine", 
+our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
                  "Semaine", "ACID", "Other"); #, "Predictions"
 
 sub us_rating {
@@ -55,8 +55,8 @@ sub _read {
   my ($title_dir,$a,$n,$title,$s,$url);
   for (split /\n/, $DATA) { #chomp;
     if (/^#/) { next; }     #skip
-    elsif (/^\s+(\S.*)/ and $title) { # film comments, links
-      my $cmt = $1;
+    elsif (/^(\(|http|\s+)(\S.*)/ and $title) { # film comments, links
+      my $cmt = $1.$2;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
       $title{$title}->{comment} = $cmt unless $title{$title}->{comment};
     } elsif (/^["“](.+)["”]/) {
@@ -64,7 +64,7 @@ sub _read {
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
-      $title_dir = $_; $n = $s = 0; 
+      $title_dir = $_; $n = $s = 0;
     } elsif ($title and /\w[\w\)\.]:?[\x{2013} \t]+(\d+?|\d\.\d+|[ABCDEF][\+\-]?)(\s+.*)?$/) {
       my $x = $1; $url = $2;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
@@ -86,6 +86,7 @@ sub _read {
 	($critic,$mag,$cn) = ($1,'','');
 	$critic =~ s/ +$//;
       }
+      next unless $title;
       next unless $critic;
       $s += $x; $n++;
       $critic =~ s/\s+$//;
@@ -116,6 +117,11 @@ sub _read {
       $title{$title}->{review}->{$critic} = $url;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
+      if (    !exists $critic{$critic}->{mag}
+          and !exists $critic{$critic}->{cn}
+          and !exists $critic{$critic}->{group}) {
+        $critic{$critic}->{group} = $critics_group[$#critics_group]; # letterboxd
+      }
     }
   }
   $a = $n ? sprintf("%.02f", $s/$n) : 0;
@@ -135,6 +141,7 @@ sub _show_detail {
   if (($t eq $i) || ($t eq '*')) { return $t; }
   else { return undef; }
 }
+
 # show detail for one movie (?t=)
 sub _detail {
   my $t = shift;
@@ -150,16 +157,21 @@ sub _detail {
   if (Dancer::SharedData->request && params->{debug}) {
     require Data::Dumper;
     my $x = $h;
+    #delete $x->{comment};
     #delete $x->{review};
-    $out .= "<tr><td colspan=3><code>".Data::Dumper::Dumper($x);
-    for (keys %{$x->{critic}}) {
-      $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n") 
+    my $d = Data::Dumper->new($x)->Sortkeys;
+    $out .= "<tr><td colspan=3><code>".$d->Dump;
+    for (sort keys %{$x->{critic}}) {
+      $out .= ($_."=>".$x->{critic}->{$_}->[0]."<br>\n")
 	if $x->{critic}->{$_}->[0] and $x->{critic}->{$_}->[0] > 0;
+    }
+    for (sort keys %{$x->{review}}) {
+      $out .= ($_."=>".$critic->{$_}->{mag}."<br>\n");
     }
     $out .= "</code></tr>\n";
   }
   # sort reviews first, then ratings, then name
-  for (sort {(!defined $h->{critic}->{$a}->[0] ? 
+  for (sort {(!defined $h->{critic}->{$a}->[0] ?
                ( !defined $h->{critic}->{$b}->[0] ? $a cmp $b : -1)
               : !defined $h->{critic}->{$b}->[0] ? 1
               : $h->{critic}->{$b}->[0] <=> $h->{critic}->{$a}->[0])
@@ -198,12 +210,24 @@ sub _critic_detail {
     my $f = $h->{title}->{$t};
     my $c = @$f == 3 ? sprintf("[&nbsp;%s&nbsp;-&nbsp;%0.2f&nbsp;=&nbsp;%0.2f&nbsp;]", @$f)
       : defined($f->[0])
-        ? "[&nbsp;".$f->[0]."&nbsp;]" 
+        ? "[&nbsp;".$f->[0]."&nbsp;]"
         : "[-]";
     $out .= "<tr><td></td><td class=detail>&nbsp;&nbsp;$t</td>"
       ."<td class=detail>$c</td></tr>\n";
   }
   $out;
+}
+
+sub _html_dump {
+  my ($fn, $title, $html) = @_;
+  Dancer::Config::_set_setting("views", "views");
+  Dancer::Config::_set_setting("charset", "utf-8");
+  open my $fh, ">:utf8", $fn or die $!;
+  print $fh "<!-- $title -->\n";
+  print $fh '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">',"\n";
+  print $fh '<meta http-equiv="Cache-Control" content="no-cache">',"\n";
+  print $fh $html;
+  close $fh;
 }
 
 sub _dump {
@@ -231,10 +255,17 @@ sub _dump {
     $l =~ s/ \[(.+?)\]//;
     $title{$t}->{line} = $l;
     for my $c (sort keys %{$title{$t}->{critic}}) {
-      my $x = $title{$t}->{critic}->{$c}->[0];
+      my $x = $title{$t}->{critic}->{$c}->[0]; # the rating, may <0 for badcritics
       if (defined $x) {
-        push @{$title{$t}->{critic}->{$c}}, $x - $a;
-        push @{$critic{$c}->{title}->{$t}}, ($a, $x - $a);
+        # add the diff to the avg
+        if ($x < 0) {
+          my $ax = abs($x) - $a;
+          push @{$title{$t}->{critic}->{$c}}, -$ax;
+          push @{$critic{$c}->{title}->{$t}}, ($a, -$ax);
+        } else {
+          push @{$title{$t}->{critic}->{$c}}, $x - $a;
+          push @{$critic{$c}->{title}->{$t}}, ($a, abs($x) - $a);
+        }
       }
     }
   }
@@ -249,6 +280,12 @@ sub _dump {
     $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
     $params_g{$_}++ for (@$params_g);
   }
+  elsif (!$main::{"Dancer::App"} and $ENV{g}) {
+    # ARRAYREF of groups, split by ':'
+    $params_g = [ split ':', $ENV{g} ];
+    $params_g{$_}++ for (@$params_g);
+  }
+  # find and mark badcritics
   for my $c (keys %critic) {
     my ($s,$sum,$asum)=(0,0,0);
     my @k = keys(%{$critic{$c}->{title}});
@@ -275,7 +312,8 @@ sub _dump {
       $critic{$c}->{stddev}  = sqrt($s / $num);
     }
     $badcritic{$c}++ if $critic{$c}->{stddev} >= 2.5
-      and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+        and $c !~ /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+    # if filtered by country or group
     if ( %params_cn and $critic{$c}->{cn} ) {
       $badcritic{$c}++ unless exists($params_cn{$critic{$c}->{cn}});
     }
@@ -283,13 +321,13 @@ sub _dump {
       $badcritic{$c}++ unless exists($params_g{$critic{$c}->{group}});
     }
   }
-  # include the badcritic ratings for the title stddev
+  # include the badcritic ratings for the title stddev?
   for (@t) {
     my $t = $_->[3];
     my ($a,$s)=($title{$t}->{avg},0);
     for (keys %{$title{$t}->{critic}}) {
       my $v = $title{$t}->{critic}->{$_}->[0];
-      if (defined($v) and $v > 0) {
+      if (defined($v) and $v =~ /^[0-9]+/ and $v > 0) {
         $s += ($v-$a)*($v-$a);
       }
     }
@@ -302,23 +340,21 @@ sub _dump {
     for my $t (keys %title) {
       if ($title{$t}->{critic}->{$c}) {
         #$title{$t}->{num}--;
-        my $bak = $title{$t}->{critic}->{$c}->[0];
-	delete $title{$t}->{critic}->{$c};
+        my $bak = $title{$t}->{critic}->{$c}->[0]; # may <0 already?
+	#delete $title{$t}->{critic}->{$c}; # no keep the strike in the details
 	$title{$t}->{numcritics} = scalar keys %{$title{$t}->{critic}};
 	$title{$t}->{numreviews} = scalar keys %{$title{$t}->{review}};
 	my ($n,$sum)=(0,0);
 	for (keys %{$title{$t}->{critic}}) {
-	  if (exists $title{$t}->{critic}->{$_}) {
-	    my $r = $title{$t}->{critic}->{$_}->[0];
-	    if ($r and $r >= 0) {
-	      $sum += $r;
-	      $n++;
-	    }
+          my $r = $title{$t}->{critic}->{$_}->[0];
+          if ($r and $r =~ /^[0-9]+/ and $r >= 0) {
+            $sum += $r;
+            $n++;
 	  }
 	}
 	$title{$t}->{num} = $n;
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
-        $title{$t}->{critic}->{$c}->[0] = "-$bak" if $bak;
+        $title{$t}->{critic}->{$c}->[0] = "-$bak" if $bak and $bak !~ /^-/;
       }
     }
   }
@@ -326,33 +362,22 @@ sub _dump {
     $title{$b->[3]}->{avg} <=> $title{$a->[3]}->{avg}
     || $a->[3] cmp $b->[3]
   } @t;
-  my $i=1;
-  for (@t) { 
-    my $t = $_->[3]; 
-    my ($a,$s)=($title{$t}->{avg},0);
-    for (keys %{$title{$t}->{critic}}) {
-      my $v = $title{$t}->{critic}->{$_}->[0];
-      if (defined($v) and $v > 0) {
-        $s += ($v-$a)*($v-$a);
-      }
-    }
-    $title{$t}->{stddev} = $title{$t}->{num} ? sqrt($s / $title{$t}->{num}) : 0;
-  }
+  my $i = 1;
+  my $numgood = 0;
   my $list = '';
-  # Very Good New Films
-  for (@t) { 
+  for (@t) { # Very Good New Films
     my $t = $_->[3];
     my $n = $title{$t}->{num};
-    my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n<=3 or $a < 7.5; 
+    my $a = sprintf("%0.2f",$title{$t}->{avg});
+    next if $n<=3 or $a < 7.5;
     my $l = $title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive|Other)$/;
     next if $l =~ / 19\d\d\)/;
     next if $l =~ / 200\d\)/;
-    next if $l =~ m{</i>$}; # other festivals
+    next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)/;
     if ($lyear) {
-      next if $year - $lyear > 1;
+      next if $year - $lyear >= 1;
       # in the 2 New sections skip old films with prev:
       next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
@@ -362,25 +387,15 @@ sub _dump {
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $numgood++;
     if (_show_detail($i)) {
       my $detail = _detail($t,$title{$t},\%critic);
       if (!$main::{"Dancer::App"}) {
-        return {out => $detail,
-                good   => \@good, 
-                sections => \%sections, 
-                sectlist => \@sections, 
-                allfilms => \@allfilms,
-                t => \@t,
-                title   => \%title,
-                critic  => \%critic,
-                which => $BASE,
-                numratings => 0, 
-                numreviews => 0, 
-                numc => scalar(keys(%critic)),
-                numb => scalar(keys(%badcritic))
-        };
+        # only if dump or debug via cmd-line
+        _html_dump("public/$BASE$year/$i.html", $t, $detail);
+      } else {
+        $list .= $detail;
       }
-      $list .= $detail;
     }
     $i++;
   }
@@ -390,47 +405,37 @@ sub _dump {
     $out = '';
   }
   $list = '';
-  for (@t) {
+  for (@t) { # Good New Films
     my $t = $_->[3];
     my $a=sprintf("%0.2f",$title{$t}->{avg});
-    my $n=$title{$t}->{num}; 
-    next if $a < 6.0 or $a >= 7.5 or $n <= 3; 
+    my $n=$title{$t}->{num};
+    next if $a < 6.0 or $a >= 7.5 or $n <= 3;
     my $l=$title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive|Other)$/;
     next if $l =~ / 19\d\d\)/;
-    next if $l =~ / 200\d\)/;
-    next if $l =~ m{</i>$}; # other festivals
+    next if $l =~ / 20[01]\d\)/;
+    next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
     my ($lyear) = $l =~ / (20\d\d)\)/;
-    if ($lyear and $year) {
+    if ($lyear) {
       next if $year - $lyear > 1;
       # in the 2 New sections skip old films with prev:
       next if grep /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/,
         keys %{$title{$t}->{critic}};
     }
-    my $s=sprintf("%0.1f",$title{$t}->{stddev});
+    my $s = sprintf("%0.1f",$title{$t}->{stddev});
     $l="<i>$l</i>" if $s>=2.0;
     $l="<b>$l</b>" if $title{$t}->{section} eq $comp_section;
     $l="<small>$l</small>" if $title{$t}->{num} < 10;
     $list .= sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n", $i);
+    $numgood++;
     if (_show_detail($i)) {
       my $detail = _detail($t,$title{$t},\%critic);
       if (!$main::{"Dancer::App"}) {
-        return {out => $detail,
-                good   => \@good, 
-                sections => \%sections, 
-                sectlist => \@sections, 
-                allfilms => \@allfilms,
-                t => \@t,
-                title   => \%title,
-                critic  => \%critic,
-                which => $BASE,
-                numratings => 0, 
-                numreviews => 0,
-                numc => scalar(keys(%critic)), 
-                numb => scalar(keys(%badcritic))
-        };
+        # only if dump or debug via cmd-line
+        _html_dump("public/$BASE$year/$i.html", $t, $detail);
+      } else {
+        $list .= $detail;
       }
-      $list .= $detail;
     }
     $i++;
   }
@@ -517,22 +522,11 @@ sub _dump {
         if (_show_detail($i)) {
           my $detail = _detail($_,$title{$_},\%critic);
           if (!$main::{"Dancer::App"}) {
-            return {out => $detail,
-                  good   => \@good, 
-                  sections => \%sections, 
-                  sectlist => \@sections, 
-                  allfilms => \@allfilms,
-                  t => \@t,
-                  title   => \%title,
-                  critic  => \%critic,
-                  which => $BASE,
-                  numratings => $numratings,
-                  numreviews => $allreviews,
-                  numc => scalar(keys(%critic)),
-                  numb => scalar(keys(%badcritic))
-            };
+            # only if dump or debug via cmd-line
+            _html_dump("public/$BASE$year/$i.html", $_, $detail);
+          } else {
+            $out .= $detail;
           }
-          $out .= $detail;
         }
 	$i++;
       }
@@ -562,30 +556,19 @@ sub _dump {
         $six=0;
         $out .= "<tr><td colspan=3>"; $out .= "-"x25; $out .= "</td></tr>\n";
       }
-      $out .= $n 
-        ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
-        :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
-      if (_show_detail($i)) {
-        my $detail = _detail($t,$title{$t},\%critic,1);
-        if (!$main::{"Dancer::App"}) {
-          return {out => $detail,
-                  good   => \@good, 
-                  sections => \%sections, 
-                  sectlist => \@sections, 
-                  allfilms => \@allfilms,
-                  t => \@t,
-                  title   => \%title,
-                  critic  => \%critic,
-                  which => $BASE,
-                  numratings => $numratings, 
-                  numreviews => $allreviews, 
-                  numc => scalar(keys(%critic)), 
-                  numb => scalar(keys(%badcritic))
-          };
-        }
+    $out .= $n 
+      ? sprintf("<tr><td>%2d.</td> <td>$l</td> <td class=r>\[<a name=\"$i\" href=\"?t=$i#$i\">$a/$n&nbsp;$s</a>\]</td></tr>\n",$j++)
+      :"<tr><td> </td> <td>$l</td> <td class=r>\[-\]</td></tr>\n";
+    if (_show_detail($i)) {
+      my $detail = _detail($t,$title{$t},\%critic,1);
+      if (!$main::{"Dancer::App"}) {
+        # only if dump or debug via cmd-line
+        _html_dump("public/$BASE$year/$i.html", $t, $detail);
+      } else {
         $out .= $detail;
       }
-      $i++;
+    }
+    $i++;
     }
   }
 
@@ -605,28 +588,6 @@ sub _dump {
             : !exists $critic{$b}->{stddev} ? -1
             : $critic{$a}->{stddev} <=> $critic{$b}->{stddev}
       } keys %critic;
-    # performance enh
-    if (0 && !$main::{"Dancer::App"} && $ENV{t}) {
-      # which critic? $i is global, number of films plus the 2 good ones
-      # FIXME this misses the critics with no mag and cn and only one
-      # my $num = scalar @sorted_critics;
-      my $j = $ENV{t} - $i;
-      my $detail = _critic_detail($j,$critic{$j});
-      return {out => $detail,
-              good   => \@good,
-              sections => \%sections,
-              sectlist => \@sections,
-              allfilms => \@allfilms,
-              t => \@t,
-              title   => \%title,
-              critic  => \%critic,
-              which => $BASE,
-              numratings => $numratings, 
-              numreviews => $allreviews, 
-              numc => $numc,
-              numb => scalar(keys(%badcritic))
-          };
-    }
     for (@sorted_critics)
     {
       no warnings;
@@ -650,22 +611,11 @@ sub _dump {
       if (_show_detail($i)) {
         my $detail = _critic_detail($_,$critic{$_});
         if (!$main::{"Dancer::App"}) {
-          return {out => $detail,
-                  good   => \@good, 
-                  sections => \%sections, 
-                  sectlist => \@sections, 
-                  allfilms => \@allfilms,
-                  t => \@t,
-                  title   => \%title,
-                  critic  => \%critic,
-                  which => $BASE,
-                  numratings => $numratings, 
-                  numreviews => $allreviews, 
-                  numc => $numc, 
-                  numb => scalar(keys(%badcritic))
-          };
+          # only if dump or debug via cmd-line
+          _html_dump("public/$BASE$year/$i.html", $_, $detail);
+        } else {
+          $out .= $detail;
         }
-	$out .= $detail;
       }
       $i++;
       # print Dumper $critic{$_} if $critic{$_}->{stddev} > 4;
@@ -673,7 +623,7 @@ sub _dump {
   }
   $out .= "</table>";
   return {out => $out, 
-	  good   => \@good, 
+          good => $numgood,
 	  sections => \%sections, 
 	  sectlist => \@sections, 
 	  allfilms => \@allfilms,
@@ -692,6 +642,9 @@ sub _side_details {
   my %title = %{$_[0]};
   my %critic  = %{$_[1]};
   my @critics_group  = @{$_[2]};
+  if (!@critics_group) {
+      @critics_group = ();
+  }
   my $out = '';
   if (Dancer::SharedData->request and params->{t}) {
     my $t = params->{t};
@@ -759,7 +712,7 @@ sub _side_details {
   # turn off lb
   else {
     my $s = $critics_group[$#critics_group];
-    if (defined $s and $s eq 'Letterboxd') {
+    if (defined($s) and $s eq 'Letterboxd') {
       if (!$main::{"Dancer::App"}) {
         if (exists $ENV{g} and $ENV{g} eq 'Letterboxd') {
           $out .= '<a href="index.html">With Letterboxd</a>';
@@ -797,21 +750,81 @@ sub last_modified {
   return $max;
 }
 
+# cmdline usage only
+sub _dump_all {
+  my $year = shift;
+  my $dir = File::Basename::dirname(__FILE__);
+  my $dat = "public/$BASE$year.dat";
+  if (Dancer::SharedData->request) {
+    status 503;
+    return 'internal usage only';
+  }
+  my @files = (__FILE__, "views/".lc($BASE).".tt",
+               "views/layouts/main.tt");
+  if (-e $dat) {
+    do "./$dat" or die "invalid ".File::Basename::basename($dat);
+  } elsif (-e "../$dat") {
+    do "../$dat" or die "invalid ".File::Basename::basename($dat);
+  } else {
+    eval "require $BASE\::rurban::$year;"
+      or die "invalid year $year";
+  }
+  no strict 'refs';
+  my $DATA = ${"$BASE\::rurban::$year\::DATA"};
+  my $HEADER = ${"$BASE\::rurban::$year\::HEADER"};
+  my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
+  my @critics = @{"$BASE\::rurban::$year\::critics"};
+  my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
+  if ($year eq '2025') {
+    my $pressdate = Time::Piece->strptime('11 April 2025', '%d %B %Y')->epoch;
+    if (CORE::time() < $pressdate) {
+      @sections = qw[Predictions]; # $comp_section
+      #@sections = ("Out Of Competition", "Predictions");
+    }
+  } elsif (@sections == 1) {
+    @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
+                 "Semaine", "ACID", "Other");
+  }
+
+  # => ( \%critic, \%title, \@t )
+  my @read = _read($DATA, \@critics, {}, {}, \@critics_group);
+
+  $ENV{t} = '*';
+  my $vars = _dump(@read, $year); # also creates all detail files
+  $vars->{year} = $year;
+  $vars->{HEADER} = $HEADER;
+  $vars->{FOOTER} = $FOOTER;
+  $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);
+  Dancer::Config::_set_setting("views", "views");
+  Dancer::Config::_set_setting("charset", "utf-8");
+
+  my $fn = "public/$BASE$year/index.html";
+  if (exists $ENV{g} && $ENV{g} eq 'Letterboxd') {
+    $fn = "public/$BASE$year/no-lb.html";
+  }
+  open my $fh, ">:utf8", $fn or die "$! writing $fn";
+  $vars->{content} = template lc($BASE).".tt", $vars;
+  print $fh template "layouts/main.tt", $vars;
+  close $fh;
+
+  return $vars;
+}
+
 sub _list {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
   my $dat = "public/$BASE$year.dat";
-  if (Dancer::SharedData->request and request->user_agent =~ m{SemrushBot/}) {
-    if (Dancer::SharedData->request and (params->{t} or params->{g})) {
-      status 503;
-      return 'misbehaving robot';
-    }
+  if (Dancer::SharedData->request && request->user_agent =~ m{SemrushBot/}) {
+      if (Dancer::SharedData->request and (params->{t} or params->{g})) {
+          status 503;
+          return 'misbehaving robot';
+      }
   }
   # if dump or debug via cmd-line
   if (!$main::{"Dancer::App"} and @_) {
     my $arg = shift;
     if ($arg eq 'no-lb') {
-      $ENV{'no-lb'} = 1;
+      $ENV{g} = 'Letterboxd';
     } else {
       $ENV{t} = $arg;
     }
@@ -827,10 +840,9 @@ sub _list {
     header 'Last-Modified' => HTTP::Date::time2str($last_modified);
     do "../$dat" or die "invalid ".File::Basename::basename($dat);
   } else {
-    eval "require $BASE\::rurban\::$year;"
+    eval "require $BASE\::rurban::$year;"
       or die "invalid year $year";
   }
-
   no strict 'refs';
   my $DATA = ${"$BASE\::rurban::$year\::DATA"};
   #my $PREDICTIONS = ${"$BASE\::rurban::$year\::PREDICTIONS"};
@@ -850,21 +862,6 @@ sub _list {
   }
   my $vars = _dump( _read($DATA, \@critics, {}, {}, \@critics_group), $year );
   $vars->{year} = $year;
-  #$vars->{REDIRECT_HEAD} = '';
-  #$vars->{REDIRECT_BODY} = '';
-  #my $redir = 'https://cannes-ratings.org'.request->path;
-  #if (request->uri_base =~ /\Qcannes-ratings.herokuapp.com\E/) {
-  #    $vars->{REDIRECT} = '<meta http-equiv="refresh" content="5; url='.$redir.'" />
-  #<script type="text/javascript">
-  #window.location.href = "'.$redir.'"
-  #</script>
-  #';
-  #}
-  #if (request->uri_base =~ /\Qcannes-ratings.herokuapp.com\E/ ||
-  #    request->uri_base =~ /\Qlocalhost\E/)
-  #{
-  #    $vars->{REDIRECT_BODY} = '<h3>We moved to <a href="'.$redir.'">cannes-ratings.org</a>, because our free provider Heroku closed all free cloud services. Redhat did that previously. Update your bookmarks please.</h3>';
-  #}
   $vars->{HEADER} = $HEADER;
   $vars->{FOOTER} = $FOOTER;
   $vars->{side_details} = _side_details($vars->{title}, $vars->{critic}, \@critics_group);

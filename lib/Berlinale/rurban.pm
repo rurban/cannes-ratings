@@ -44,6 +44,8 @@ sub _read {
         } else {
           ($critic,$mag,$cn) = ($1,'',$2);
         }
+      } else {
+        ($critic,$mag,$cn) = ($_,'','');
       }
       next unless $critic;
       $critic =~ s/\s+$//;
@@ -66,12 +68,19 @@ sub _read {
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
       $title_dir = $_; $n = $s = 0;
-    } elsif (/\w[\w\)]+ \s+ (\d[\d\.]* | [ABCDEF][\+\-]?) ((?:\s+http\S+)?)$/x) {
+    } elsif ($title and /\w[\w\)]+ \s+ (\d[\d\.]* | [ABCDEF][\+\-]?) ((?:\s+http\S+)?)$/x) {
       my $x = $1; $url = $2;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
-      $x = 10 if $x > 10; $x = 0 if $x < 0;
-      $s += $x; $n++; undef $critic;
+      $x =~ s/,/./g;
+      if ($x =~ /^[0-9.]*$/) {
+        $x = 10 if $x > 10;
+        $x = 0 if $x < 0;
+      } else {
+        $x = 0;
+      }
+      undef $critic;
       $url =~ s/^\s+// if $url;
+      undef $url if $url and $url !~ /^http/;
       if (/^(\S.+) \((.+), (.+?)\)/) {
 	($critic,$mag,$cn) = ($1, $2, $3);
       } elsif (/^(\S.+) \((.+)\)/) {
@@ -82,6 +91,7 @@ sub _read {
       }
       next unless $title;
       next unless $critic;
+      $s += $x; $n++;
       $critic =~ s/\s+$//;
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
@@ -93,7 +103,7 @@ sub _read {
           and !exists $critic{$critic}->{group}) {
         $critic{$critic}->{group} = $critics_group[$#critics_group]; # letterboxd
       }
-    } elsif (/[\w\)]\s+(http\S+)/) { # review link only
+    } elsif ($title and /\w[\w\)][-\x{2013}\s]+(http\S+)/) { # review link only
       undef $critic;
       $url = $1;
       if (/^(\S.+) \((.+), (\w+?)\)/) {
@@ -147,7 +157,7 @@ sub _detail {
          ."</i></td></tr>\n"
     if exists $h->{comment};
 
-  if (Dancer::SharedData->request and params->{debug}) {
+  if (Dancer::SharedData->request && params->{debug}) {
     require Data::Dumper;
     my $x = $h;
     #delete $x->{comment};
@@ -177,12 +187,12 @@ sub _detail {
         $n = "<strike>$n</strike>" unless $nostrike;
         $c = abs($c);
       }
+      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
       if ($critic->{$_}->{mag}) {
         $n .= " ($critic->{$_}->{mag}, $critic->{$_}->{cn})";
       } elsif ($critic->{$_}->{cn}) {
         $n .= " ($critic->{$_}->{cn})";
       }
-      my $url = $h->{review}->{$_} if $_ and exists $h->{review}->{$_};
       if ($url) {
         $n = qq(<a href="$url">$n</a>);
         $c = qq(<a href="$url">$c</a>) if $c;
@@ -388,14 +398,14 @@ sub _dump {
   for (@t) { # Very Good New Films
     my $t = $_->[3];
     my $n = $title{$t}->{num};
-    my $a = sprintf("%0.2f",$title{$t}->{avg}); 
-    next if $n<=3 or $a < 7.5; 
+    my $a = sprintf("%0.2f",$title{$t}->{avg});
+    next if $n<=3 or $a < 7.5;
     my $l = $title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match|Other)$/;
     next if $l =~ / 19\d\d\)/;
     next if $l =~ / 200\d\)/;
     next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
-    my ($lyear) = $l =~ / (20\d\d)\)$/;
+    my ($lyear) = $l =~ / (20\d\d)\)/;
     if ($lyear) {
       next if $year - $lyear >= 1;
       # in the 2 New sections skip old films with prev:
@@ -456,12 +466,14 @@ sub _dump {
     }
     $i++;
   }
-  if ($list) {
+  if ($list and @sections != 1) {
     $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
   }
-  $out .= "\n<h1>All official sections</h1>\n\n";
+  if (@sections != 1) {
+    $out .= "\n<h1>All official sections</h1>\n\n";
+  }
   my ($allreviews, $numratings) = (0,0);
   my %section;
   for my $section (@sections) {
@@ -604,7 +616,7 @@ sub _dump {
       no warnings;
       my $n = scalar keys( %{$critic{$_}->{title} });
       next if !($n and $_);
-      next if /^(IMDB|Letterbox|Letterboxd|Cannes|Sundance) \d/;
+      next if /^(IMDB|Letterboxd?|Sundance) _?\d+_Ratings/;
       my $c;
       if ($critic{$_}->{mag}) {
         $c = sprintf("%s (%s, %s)", $_, $critic{$_}->{mag}, $critic{$_}->{cn});

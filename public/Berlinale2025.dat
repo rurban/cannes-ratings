@@ -104200,6 +104200,9 @@ EOF
 our $FOOTER = "
 <pre>
 --
+Lists:
+https://letterboxd.com/seanliu/list/berlinale-2025/
+https://letterboxd.com/rurban/list/berlinale-woche-der-kritik-2025/
 Source & History:
 https://github.com/rurban/cannes-ratings/blob/master/public/Berlinale2025.dat
 
