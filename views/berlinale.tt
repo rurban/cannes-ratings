@@ -27,6 +27,7 @@
 
             <ul class="links">
               <li><a href="http://jury.critic.de/berlinale/">jury.critic.de</a></li>
+              <li><a href="https://www.screendaily.com/berlin-jury-grid">screendaily jury grid</a></li>
               <li><a href="http://letterboxd.com/">letterboxd.com</a></li>
               <li><a href="https://github.com/rurban/cannes-ratings/commits/master/public">Ratings history on github</a></li>
               <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
