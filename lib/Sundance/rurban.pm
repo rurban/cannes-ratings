@@ -753,7 +753,7 @@ sub last_modified {
 }
 
 # cmdline usage only
-sub _dump_all_details {
+sub _dump_all {
   my $year = shift;
   my $dir = File::Basename::dirname(__FILE__);
   my $dat = "public/$BASE$year.dat";
