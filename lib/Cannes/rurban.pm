@@ -759,8 +759,8 @@ sub _dump_all {
     status 503;
     return 'internal usage only';
   }
-  my @files = (__FILE__, "views/".lc($BASE).".tt",
-               "views/layouts/main.tt");
+  #my @files = (__FILE__, "views/".lc($BASE).".tt",
+  #             "views/layouts/main.tt");
   if (-e $dat) {
     do "./$dat" or die "invalid ".File::Basename::basename($dat);
   } elsif (-e "../$dat") {
