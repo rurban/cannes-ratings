@@ -369,7 +369,7 @@ sub _dump {
     my $t = $_->[3];
     my $n = $title{$t}->{num};
     my $a = sprintf("%0.2f",$title{$t}->{avg});
-    next if $n<=3 or $a < 7.5;
+    next if $n <= 3 or $a < 7.5;
     my $l = $title{$t}->{line};
     next if $title{$t}->{section} =~ /^(Retrospektive|Other)$/;
     next if $l =~ / 19\d\d\)/;
@@ -401,7 +401,7 @@ sub _dump {
   }
   my $h = "<h1 title=\"(avg>7.5, n>3)\"><a name=\"verygood\"></a> Very Good New Films</h1>\n<table>\n";
   my $out = $list ? $h . $list . "</table>\n\n" : '';
-  if (@sections == 1) {
+  if (@sections <= 2) {
     $out = '';
   }
   $list = '';
@@ -439,12 +439,12 @@ sub _dump {
     }
     $i++;
   }
-  if ($list and @sections != 1) {
+  if ($list and @sections > 2) {
     $out .= "<h1 title=\"(avg>6, n>3)\"><a name=\"good\"></a>Good New Films</h1>\n<table>\n"
 	   . $list
 	   . "</table><br />\n<small><i>&nbsp;&nbsp;&nbsp;The rest is below 6 or is not new or has not enough votes.</i></small>\n";
   }
-  if (@sections != 1) {
+  if (@sections > 2) {
     $out .= "\n<h1>All official sections</h1>\n\n";
   }
   my ($allreviews, $numratings) = (0,0);
@@ -533,7 +533,7 @@ sub _dump {
       $out .= "</table>\n\n";
     }
   }
-  if (@sections != 1) {
+  if (@sections <= 2) {
     $out .= "\n<h1><a name=\"all\"></a>All films</h1>\n\nSorted by avg vote, unfiltered:\n<table>\n";
     my $j=1; my $six=1;
     for (sort 
@@ -778,8 +778,8 @@ sub _dump_all {
   if ($year eq '2025') {
     my $pressdate = Time::Piece->strptime('11 April 2025', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
-      @sections = qw[Predictions]; # $comp_section
-      #@sections = ("Out Of Competition", "Predictions");
+      #@sections = qw[Predictions]; # $comp_section
+      @sections = ("Out Of Competition", "Predictions");
     }
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
@@ -856,7 +856,7 @@ sub _list {
       @sections = qw[Predictions]; # $comp_section
       #@sections = ("Out Of Competition", "Predictions");
     }
-  } elsif (@sections == 1) {
+  } elsif (@sections <= 2) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
                  "Semaine", "ACID", "Other");
   }
