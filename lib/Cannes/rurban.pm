@@ -776,7 +776,7 @@ sub _dump_all {
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
   if ($year eq '2025') {
-    my $pressdate = Time::Piece->strptime('11 April 2025', '%d %B %Y')->epoch;
+    my $pressdate = Time::Piece->strptime('10 April 2025', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
       #@sections = qw[Predictions]; # $comp_section
       @sections = ("Out Of Competition", "Predictions");
