@@ -48,11 +48,21 @@ package Cannes::rurban::2025; # -*- perl -*-
 use utf8;
 our $DATA = <<'EOF';
 
+COMPETITION
+
+UN CERTAIN REGARD
+
 OUT OF COMPETITION
 
 "Mission: Impossible – The Final Reckoning " (Christopher McQuarrie) [Out Of Competition]
 
 #letterboxd
+
+QUINZAINE
+
+SEMAINE
+
+ACID
 
 PREDICTIONS
 
