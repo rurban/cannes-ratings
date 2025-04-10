@@ -50,7 +50,7 @@ our $DATA = <<'EOF';
 
 COMPETITION
 
-(Jafar Panahi)
+"A Simple Accident" (Jafar Panahi) [Competition]
 
 "Partir un jour" (Amélie Bonnin, F) [Competition]
  Opener
@@ -68,7 +68,13 @@ cheche17            10
 Kodi Franzese       10
 AnneLaureB          8
 
-"The Doctor Says I'll Be Alright But I'm Feeling Blue" (Mascha Schilinski, D) [Competition]
+"Sound of Falling" (Mascha Schilinski, D) [Competition]
+ was: The Doctor Says I'll Be Alright But I'm Feeling Blue
+
+"Romería" (Carla Simón) [Competition]
+
+#letterboxd
+marina              10
 
 "Eagles of the Republic (Les Aigles de la République)" (Tarik Saleh) [Competition]
 
@@ -111,7 +117,7 @@ JodieRuthForest     10
 Sparknojoy          8
 #Arindam R Chatterjee 8
 
-"After" (Oliver Laxe) [Competition]
+"After (Sirat)" (Oliver Laxe) [Competition]
 
 #letterboxd
 MacarioH            4
@@ -300,7 +306,7 @@ Gagou               8
 #letterboxd
 Alice_le_sang       10
 
-"My Fathers Shadow" (, Nigeria) [Un Certain Regard]
+"My Fathers Shadow" (Akinola Davies Jr, Nigeria) [Un Certain Regard]
 
 "The Great Arch" (Stéphane Demoustier) [Un Certain Regard]
 
@@ -311,7 +317,7 @@ beatrix             10
 LCH1988             4
 Adam                2
 
-India
+"Homebound" (Neeraj Ghaywan, India) [Un Certain Regard]
 
 "A Pale View of Hills" (Kei Ishikawa, Jap) [Un Certain Regard]
 
@@ -347,7 +353,9 @@ Italian western
 
 OUT OF COMPETITION
 
-"Bono" [Out Of Competition]
+"Bono: Stories of Surrender" (Andrew Dominik) [Out Of Competition]
+
+"Tell Her That I Love Her" (Claude Miller) [Out Of Competition]
 
 # Roman Bourangiere
 
@@ -360,11 +368,15 @@ TrailerReviews      7
 glaglaglouglou      6
 Victor Terninck     6
 
+"Dolloway" (Yann Gozlan) [Out Of Competition]
+
 "Sons of the Neon Night" (Juno Mak) [Out Of Competition] Midnight
 
 #letterboxd
 ⋆ sam 🌿 !¡ 📽️       7
 Yuliia              4
+
+"Exit 8" (Genki Kawamura) [Out Of Competition] Midnight
 
 "Colours Of Time (La venue de l'Avenir)" (Cédric Klapisch, F) [Out Of Competition]
 
@@ -379,7 +391,7 @@ Robbie L. Lara      6
 
 #letterboxd
 
-"The richest woman in the world" [Out Of Competition]
+"The Richest Woman in the World" (Thierry Klifa) [Out Of Competition]
 
 "Vie privée" (Rebecca Zlotowski, F) [Out Of Competition]
 
@@ -926,11 +938,6 @@ ukazioa             6
 "El Sombreròn" (Jayro Bustamante) [Predictions]
 
 
-"Romería" (Carla Simón) [Predictions]
-
-
-#letterboxd
-marina              10
 
 "Franz" (Agnieszka Holland) [Predictions]
 
