@@ -50,7 +50,7 @@ our $DATA = <<'EOF';
 
 COMPETITION
 
-"A Simple Accident" (Jafar Panahi) [Competition]
+"A Simple Accident (Untitled Jafar Panahi Film)" (Jafar Panahi) [Competition]
 
 "Partir un jour" (Amélie Bonnin, F) [Competition]
  Opener
@@ -70,6 +70,9 @@ AnneLaureB          8
 
 "Sound of Falling" (Mascha Schilinski, D) [Competition]
  was: The Doctor Says I'll Be Alright But I'm Feeling Blue
+
+#letterboxd
+Sylva Häutle        8
 
 "Romería" (Carla Simón) [Competition]
 
@@ -120,6 +123,7 @@ Sparknojoy          8
 "After (Sirat)" (Oliver Laxe) [Competition]
 
 #letterboxd
+r1ta                4
 MacarioH            4
 
 "The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Competition]
@@ -370,6 +374,13 @@ Victor Terninck     6
 
 "Dolloway" (Yann Gozlan) [Out Of Competition]
 
+#letterboxd
+lisa_pstr           8
+avsilvert           8
+Mathislsl           6
+Clélia              5
+mathyssetrehe       4
+
 "Sons of the Neon Night" (Juno Mak) [Out Of Competition] Midnight
 
 #letterboxd
@@ -377,6 +388,9 @@ Victor Terninck     6
 Yuliia              4
 
 "Exit 8" (Genki Kawamura) [Out Of Competition] Midnight
+
+#letterboxd
+bluenwhite          10
 
 "Colours Of Time (La venue de l'Avenir)" (Cédric Klapisch, F) [Out Of Competition]
 
@@ -392,6 +406,9 @@ Robbie L. Lara      6
 #letterboxd
 
 "The Richest Woman in the World" (Thierry Klifa) [Out Of Competition]
+
+#letterboxd
+lazouz              6
 
 "Vie privée" (Rebecca Zlotowski, F) [Out Of Competition]
 
@@ -426,7 +443,16 @@ elLasso             7
 bauk                8
 vdkviv              7
 
-"Ola" (Sebastian Lelio) [Other]
+"The Wave" (Sebastián Lelio, Chi) [Other]
+
+#letterboxd
+galve__             8
+anafonsecaa         8
+ErickMalote         7
+nazamacc            6
+Gothmoth219         4
+GEscuti             3
+Daniela Urra        2
 
 QUINZAINE
 
