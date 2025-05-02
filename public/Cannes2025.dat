@@ -44,30 +44,22 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   https://www.theguardian.com/film/cannes-2024
 #   https://www.thewrap.com/
 #   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
- 
+# order:
+# Wednesday 14 May - Mascha Schilinski (Afternoon); Sergei Loznitsa (Evening)
+# Thursdat 15 May - Oliver Laxe (Evening)
+# Friday 16 May - Ari Aster (Evening)
+# Saturday 17 May - Chie Hayakawa (Afternoon); Richard Linklater (Evening); Lynne Ramsey (Late Evening)
+# Subday 18 May - Kleber Mendonça Filho (Afternoon); Wes Anderson (Evening)
+# Monday 19 May - Tarik Saleh (Afternoon); Julia Ducournau (Evening)
+# Tuesday 20 May - Jafar Panahi (Afternoon)
+# Wednesday 21 May - Carla Simón (Afternoon); Oliver Hermanus (Evening); Joachim Trier (Late Evening)
+# Thursday 22 May - Bi Gan (Evening)
+# Friday 23 May - The Dardennes (Afternoon)
+
 use utf8;
 our $DATA = <<'EOF';
 
 COMPETITION
-
-"A Simple Accident" (Jafar Panahi) [Competition]
-
-#letterboxd
-Babak Geranfar      10
-Potluck Pictures    7
-Patrick Devitt      4
-
-"Sentimental Value" (Joachim Trier) [Competition]
-
-#letterboxd
-Boryana Ilieva      10
-Panayot Savov       10
-cheche17            10
-2025pebbs           10
-Kodi Franzese       10
-AnneLaureB          8
-caioxbrabox         4
-Potluck Pictures    4
 
 "Sound of Falling (In die Sonne schauen)" (Mascha Schilinski, D) [Competition]
  was: The Doctor Says I'll Be Alright But I'm Feeling Blue
@@ -79,71 +71,11 @@ caioxbrabox         6
 Potluck Pictures    6
 targo94             3
 
-"Romería" (Carla Simón) [Competition]
-
-#letterboxd
-Victor_cm_24        10
-marina              10
-Patrick Devitt      6
-Potluck Pictures    3
-
-"Eagles of the Republic (Les Aigles de la République)" (Tarik Saleh) [Competition]
-
-#letterboxd
-Lara                6
-Potluck Pictures    4
-louric              2
-
-"The Mastermind" (Kelly Reichardt, USA) [Competition]
-
-#letterboxd
-hnnhlake            10
-Danny               10
-Potluck Pictures    7
-emtidvx             6
-Soplanit            5
-TheBitchisBack      3
-
-
-"Dossier 137" (Dominik Moll) [Competition]
-
-#letterboxd
-Kanis Fatema        8
-Hannah              6
-Patrick Devitt      5
-
-"The Secret Agent (O Agente Secreto)" (Kleber Mendonça Filho, Bra) [Competition]
-
-#letterboxd
-Larisse Severo      10
-Larisausage         10
-loenardo            10
-Aristófanes Rebouças 10
-EliseCochin         8
-Rafael Nagao        7
-AnneLaureB          6
-Patrick Devitt      6
-BiberPictures       3
-
-"Fuori" (Mario Martone) [Competition]
-
-#letterboxd
-Potluck Pictures    7
-Marius3004          7
-Patrick Devitt      5
-
 "Two Prosecutors" (Sergei Loznitsa) [Competition]
 
 #letterboxd
 lolecont            7
 Potluck Pictures    5
-
-"New Wave (Nouvelle Vague)" (Richard Linklater) [Competition]
-
-#letterboxd
-JodieRuthForest     10
-Sparknojoy          8
-
 
 "After (Sirat)" (Oliver Laxe) [Competition]
 
@@ -154,67 +86,6 @@ Ricardo Rosado      7
 Potluck Pictures    6
 r1ta                4
 MacarioH            4
-
-"The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Competition]
-
-#letterboxd
-Alice_le_sang       6
-
-"The History of Sound" (Oliver Hermanus, US/UK) [Competition]
-
-#letterboxd
-Chiara Mazzanti     10
-Sally               10
-alessandrataul      9
-#bunsen_             9
-coppolabeers        8
-Mistikoo            8
-Marcela Veroneze    8
-RodBrum             8
-Jacqueline Thomson  8
-gerekuervo          7
-jade                7
-Dobby               7
-Em ☆•° . *          6
-Sara22              6
-Mustafa Muti        6
-Liv                 6
-
-"Renoir" (Hayakawa Chie, J) [Competition]
-
-#letterboxd
-Marco Lorè          10
-Rozzell Medina      10
-marchaeoi           8
-Kanis Fatema        8
-Happiest Girl Alive 8
-adsfghj             7
-Potluck Pictures    5
-
-"Alpha" (Julia Ducournau) [Competition]
-
-#letterboxd
-DecafWizard         9
-Lucaswearsglass     7
-Potluck Pictures    6
-laurakdn            5
-Vivi                4
-Audacious__meows    2
-
-"Young Mothers (Jeunes mères)" (Luc+Jean-Pierre Dardenne) [Competition]
-
-#letterboxd
-onualkron           10
-Marius              8
-Hhhhhhhh 27         7
-Jean-Philippe Guerand 7
-Patrick Devitt      7
-enzzo92             6
-jeunedauphin        6
-Nina Salander       6
-AnneHuet            4
-ludovicbeot         4
-
 
 "Eddington" (Ari Aster) [Competition]
 
@@ -275,6 +146,57 @@ Samantha            2
 alex_ander_         1
 tatik               1
 Rodrigo Martinez    1
+
+"Renoir" (Hayakawa Chie, J) [Competition]
+
+#letterboxd
+Marco Lorè          10
+Rozzell Medina      10
+marchaeoi           8
+Kanis Fatema        8
+Happiest Girl Alive 8
+adsfghj             7
+Potluck Pictures    5
+
+"New Wave (Nouvelle Vague)" (Richard Linklater) [Competition]
+
+#letterboxd
+JodieRuthForest     10
+Sparknojoy          8
+
+"Die, My Love" (Lynne Ramsay) [Competition]
+
+Ryan McQuade          https://awardswatch.com/cannes-2025-lynne-ramsays-die-my-love-with-jennifer-lawrence-and-robert-pattinson-added-to-comp-kristen-stewarts-the-chronology-of-water-lands-sidebar-premiere/
+#letterboxd
+Martin Morale       10
+Carmen❄️            10
+julieta🔮            10
+gracceann           10
+fruitypebbs         9
+#bunsen_             9
+Ariana              8
+Abhishek Bhandari   7
+shadencollin        6
+ana                 6
+Mightylogangames    6
+ot7an               6
+Rhianna Assis       6
+Mary Hrytsenko      6
+999_MJ              4
+Grace               1
+
+"The Secret Agent (O Agente Secreto)" (Kleber Mendonça Filho, Bra) [Competition]
+
+#letterboxd
+Larisse Severo      10
+Larisausage         10
+loenardo            10
+Aristófanes Rebouças 10
+EliseCochin         8
+Rafael Nagao        7
+AnneLaureB          6
+Patrick Devitt      6
+BiberPictures       3
 
 "The Phoenician Scheme" (Wes Anderson) [Competition]
 
@@ -339,26 +261,129 @@ FilmguyShin         1
 mattydubs96         1
 Zen                 1
 
-"Die, My Love" (Lynne Ramsay) [Competition]
+"Eagles of the Republic (Les Aigles de la République)" (Tarik Saleh) [Competition]
 
-Ryan McQuade          https://awardswatch.com/cannes-2025-lynne-ramsays-die-my-love-with-jennifer-lawrence-and-robert-pattinson-added-to-comp-kristen-stewarts-the-chronology-of-water-lands-sidebar-premiere/
 #letterboxd
-Martin Morale       10
-Carmen❄️            10
-julieta🔮            10
-gracceann           10
-fruitypebbs         9
+Lara                6
+Potluck Pictures    4
+louric              2
+
+"Alpha" (Julia Ducournau) [Competition]
+
+#letterboxd
+DecafWizard         9
+Lucaswearsglass     7
+Potluck Pictures    6
+laurakdn            5
+Vivi                4
+Audacious__meows    2
+
+"A Simple Accident" (Jafar Panahi) [Competition]
+
+#letterboxd
+Babak Geranfar      10
+Potluck Pictures    7
+Patrick Devitt      4
+
+"Romería" (Carla Simón) [Competition]
+
+#letterboxd
+Victor_cm_24        10
+marina              10
+Patrick Devitt      6
+Potluck Pictures    3
+
+"The History of Sound" (Oliver Hermanus, US/UK) [Competition]
+
+#letterboxd
+Chiara Mazzanti     10
+Sally               10
+alessandrataul      9
 #bunsen_             9
-Ariana              8
-Abhishek Bhandari   7
-shadencollin        6
-ana                 6
-Mightylogangames    6
-ot7an               6
-Rhianna Assis       6
-Mary Hrytsenko      6
-999_MJ              4
-Grace               1
+coppolabeers        8
+Mistikoo            8
+Marcela Veroneze    8
+RodBrum             8
+Jacqueline Thomson  8
+gerekuervo          7
+jade                7
+Dobby               7
+Em ☆•° . *          6
+Sara22              6
+Mustafa Muti        6
+Liv                 6
+
+"Sentimental Value" (Joachim Trier) [Competition]
+
+#letterboxd
+Boryana Ilieva      10
+Panayot Savov       10
+cheche17            10
+2025pebbs           10
+Kodi Franzese       10
+AnneLaureB          8
+caioxbrabox         4
+Potluck Pictures    4
+
+"Resurrection" (Bi Gan) [Prediction]
+ ?
+
+#letterboxd
+Shelbon             10
+Momx                10
+Kodi Franzese       10
+yyyyxxxx            10
+siyue               10
+XXXXzh              10
+Luan Ramos          10
+Yandinsky           10
+hautegirlreads      6
+
+"The Mastermind" (Kelly Reichardt, USA) [Competition]
+
+#letterboxd
+hnnhlake            10
+Danny               10
+Potluck Pictures    7
+emtidvx             6
+Soplanit            5
+TheBitchisBack      3
+
+
+"Dossier 137" (Dominik Moll) [Competition]
+
+#letterboxd
+Kanis Fatema        8
+Hannah              6
+Patrick Devitt      5
+
+"Fuori" (Mario Martone) [Competition]
+
+#letterboxd
+Potluck Pictures    7
+Marius3004          7
+Patrick Devitt      5
+
+
+"The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Competition]
+
+#letterboxd
+Alice_le_sang       6
+
+"Young Mothers (Jeunes mères)" (Luc+Jean-Pierre Dardenne) [Competition]
+
+#letterboxd
+onualkron           10
+Marius              8
+Hhhhhhhh 27         7
+Jean-Philippe Guerand 7
+Patrick Devitt      7
+enzzo92             6
+jeunedauphin        6
+Nina Salander       6
+AnneHuet            4
+ludovicbeot         4
+
 
 "Woman and Child" (Saeed Roustaee) [Competition]
 
@@ -801,6 +826,7 @@ Dani                1
 "The Party’s Over! (Classe moyenne)" (Antony Cordier, F) [Quinzaine]
 
 "Mirrors No.3" (Christian Petzold, D) [Quinzaine]
+ <i>rejected by Cannes</i>
 
 #letterboxd
 Rodrigo Oliveira    10
@@ -851,6 +877,7 @@ NanSLi              6
 "Her Will Be Done (Que ma volonté soit faite)" (Julia Kowalski, F/Pol) [Quinzaine]
 
 "Yes!" (Nadav Lapid, Isr) [Quinzaine]
+ <i>rejected by Cannes</i>
 
 #letterboxd
 Kodi Franzese       8
@@ -864,39 +891,10 @@ Letterboxd 2289_Ratings	8.35  https://letterboxd.com/film/sorry-baby-2025/
 SEMAINE
 
 "Adam’s Sake (L'Intérêt d'Adam)" (Laura Wandel) [Semaine] Opener
+ <i>Only invited to UCR or Premiere</i>
 
 #letterboxd
 nmerchadier         7
-
-"Sleepless City (Ciudad Sin Sueño)" (Guillermo Galoe) [Semaine]
-
-"Imago" (Déni Oumar Pitsaev) [Semaine]
-
-#letterboxd
-ADR69               10
-
-"Kika" (Alexe Poukine) [Semaine]
-
-#letterboxd
-emtidvx             8
-Mathieu Volpe       8
-Alice Leparlier     7
-
-"Left-Handed Girl" (Shih-Ching Tsou) [Semaine]
-
-#letterboxd
-thoshelb            8
-
-"Nino" (Pauline Loquès, F) [Semaine]
-
-#letterboxd
-Mathilde            8
-
-"A Useful Ghost" (Ratchapoom Boonbunchachoke, Thailand) [Semaine]
-
-#letterboxd
-philemon967         10
-PierreNcls          8
 
 "Reedland (Rietland)" (Sven Bresser) [Semaine]
 
@@ -905,11 +903,29 @@ Jeroen Houben       9
 Titi26              8
 Mathilde            8
 
+"Left-Handed Girl" (Shih-Ching Tsou) [Semaine]
+
+#letterboxd
+thoshelb            8
+
+"Kika" (Alexe Poukine) [Semaine]
+
+#letterboxd
+emtidvx             8
+Mathieu Volpe       8
+Alice Leparlier     7
+
 "Baise en ville" (Martin Jauvat, F) [Semaine] Special
 
 #letterboxd
 hugoth              8
 Victor Terninck     1
+
+"A Useful Ghost" (Ratchapoom Boonbunchachoke, Thailand) [Semaine]
+
+#letterboxd
+philemon967         10
+PierreNcls          8
 
 "Love Letters (Des preuves d'amour)" (Alice Douard, F) [Semaine] Special
 
@@ -917,6 +933,20 @@ Victor Terninck     1
 LGlass              7
 kinograph1          6
 cinestesia          6
+
+"Nino" (Pauline Loquès, F) [Semaine]
+
+#letterboxd
+Mathilde            8
+
+"Sleepless City (Ciudad Sin Sueño)" (Guillermo Galoe) [Semaine]
+
+#letterboxd
+
+"Imago" (Déni Oumar Pitsaev) [Semaine]
+
+#letterboxd
+ADR69               10
 
 "Dandelion's Odyssey (Planètes)" (Momoko Seto, B/F) [Semaine]
  Closing film
@@ -1050,20 +1080,8 @@ maxloa              7
 Bauhaus_𓍼           7
 Alice_le_sang       6
 
-"Resurrection" (Bi Gan) [Predictions]
-
-#letterboxd
-Shelbon             10
-Momx                10
-Kodi Franzese       10
-yyyyxxxx            10
-siyue               10
-XXXXzh              10
-Luan Ramos          10
-Yandinsky           10
-hautegirlreads      6
-
 "The Way of the Wind" (Terrence Malick) [Predictions]
+ not submitted
 
 #letterboxd
 rk2026              10
@@ -1115,6 +1133,7 @@ sakanade            8
 Bennie              2
 
 "The Smashing Machine" (Bennie Safdie) [Predictions]
+ not submitted
 
 #letterboxd
 #VVSFilms            10
@@ -1142,6 +1161,7 @@ Kodi Franzese       6
 #letterboxd
 
 "Orphan" (László Nemes) [Predictions]
+ <i>rejected by Cannes</i>
 
 #letterboxd
 _Aranea_            10
@@ -1167,7 +1187,7 @@ Hugoth              8
 Juan Ortiz          8
 
 "No Other Choice" (Park Chan-wook, Kor) [Predictions]
- still in Post
+ still in Post, not submitted. Maybe late addition
 
 #letterboxd
 Eli                 10
@@ -1192,6 +1212,7 @@ GABe ROMERo         5
 M Ⓜ️                2
 
 "Father Mother Sister Brother" (Jim Jarmusch) [Predictions]
+ <i>rejected by Cannes</i>
 
 #letterboxd
 Ohmygoshmorgo       10
@@ -1312,6 +1333,7 @@ Pingkrp             7
 
 
 "F1" (Joseph Kosinski) [Predictions]
+ not submitted
 
 #letterboxd
 Kevin               9
@@ -1579,6 +1601,7 @@ VictorLeJamtel      6
 
 
 "After the Hunt" (Luca Guadagnino, I/USA) [Predictions]
+ not submitted
 
 #letterboxd
 Abraham2021         10
