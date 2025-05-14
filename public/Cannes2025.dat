@@ -29,6 +29,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   https://wask.fr/les-etoiles-wask-2025-jour-par-jour/
 #   https://outnow.ch/News/2025/05/19/OutNow-Jury-Grid-at-Cannes-2025-So-ist-Indiana-Jones-5-angekommen
 #   http://www.filmneweurope.com/images/FNE%20Critics/cannes2025critics.pdf
+#   https://www.cahiersducinema.com/fr-fr/festivals/festival-de-cannes-2025
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
 #   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2025-ocenki-rossiyskih-kinokritikov/
 #   https://www.caimanediciones.es/wp-content/uploads/2025/05/cuadro-critico_CANNES-2025.pdf
@@ -3782,6 +3783,9 @@ ACID
 
 #critic.de
 # ics
+# cahier
+Charlotte Garson    7.5
+Mathilde Grasset    9
 #letterboxd
 DavidAnshen1917     10
 ludovicbeot         8
@@ -4771,13 +4775,14 @@ Robin Vaz (Critikat)
 ";
 $critics_group[$i] = "cahiers";
 $critics[$i++] = "
-Fernando Ganzo (Lumiere, España)
-Marcos Uzal (Cahiers du cinéma, France)
-Charlotte Garson (Cahiers du cinema, France)
 Olivie Cooper-Hadjian (Cahiers du cinema, France)
-Yal Sadat (Cahiers du cinema, France)
+Fernando Ganzo (Lumiere, España)
+Charlotte Garson (Cahiers du cinema, France)
+Mathilde Grasset
+Élodie Tamayo (Cahiers du cinema, France)
 Thierry Méranger (Cahiers du cinema, France)
-Louis Séguin (Cahiers du cinema, France)
+Yal Sadat (Cahiers du cinema, France)
+Marcos Uzal (Cahiers du cinéma, France)
 ";
 $critics_group[$i] = "wask.fr";
 $critics[$i++] = "
