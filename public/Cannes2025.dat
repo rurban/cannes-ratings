@@ -5745,34 +5745,34 @@ Jaime Pena (Caimán Cuadernos de Cine, España)
 Angel Quintana (Caimán Cuadernos de Cine, España)
 Jara Yanez (Caimán Cuadernos de Cine, España)
 ";
-$critics_group[$i] = "cineforum.it";
-$critics[$i++] = "
-Bellavita (, Italy)
-Bianchi  (, Italy)
-Chimento (, Italy)
-Fornara (, Italy)
-Gandini (, Italy)
-Gironi  (, Italy)
-Manassero (, Italy)
-Martini (, Italy)
-Pedroni (, Italy)
-Rossi (, Italy)
-Ruzzier (, Italy)
-Ucceli (, Italy)
-";
-$critics_group[$i] = "sentieriselvaggi.it";
-$critics[$i++] = "
-Massimo Causo (, Italy)
-Antonio d'Onofrio (, Italy)
-Simone Emiliani (, Italy)
-Lucrezia Ercolani (, Italy)
-Ilaria Feole (, Italy)
-Simone Soranna (, Italy)
-Sergio Sozzo (, Italy)
-Aldo Spinello (, Italy)
-Carlo Valeri (, Italy)
-Chiara Zuccari (, Italy)
-";
+#$critics_group[$i] = "cineforum.it";
+#$critics[$i++] = "
+#Bellavita (, Italy)
+#Bianchi  (, Italy)
+#Chimento (, Italy)
+#Fornara (, Italy)
+#Gandini (, Italy)
+#Gironi  (, Italy)
+#Manassero (, Italy)
+#Martini (, Italy)
+#Pedroni (, Italy)
+#Rossi (, Italy)
+#Ruzzier (, Italy)
+#Ucceli (, Italy)
+#";
+#$critics_group[$i] = "sentieriselvaggi.it";
+#$critics[$i++] = "
+#Massimo Causo (, Italy)
+#Antonio d'Onofrio (, Italy)
+#Simone Emiliani (, Italy)
+#Lucrezia Ercolani (, Italy)
+#Ilaria Feole (, Italy)
+#Simone Soranna (, Italy)
+#Sergio Sozzo (, Italy)
+#Aldo Spinello (, Italy)
+#Carlo Valeri (, Italy)
+#Chiara Zuccari (, Italy)
+#";
 $critics_group[$i] = "Académie des Lumières";
 $critics[$i++] = "
 Vicenç Batalla (Rockdelux, España)
