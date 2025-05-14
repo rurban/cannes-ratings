@@ -16,21 +16,21 @@ package Cannes::rurban::2025; # -*- perl -*-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
-#   https://www.ioncinema.com/tag/2024-cannes-critic-panel (scaled to 0-10)
-#   http://www.lefilmfrancais.com/cannes2024
+#   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
+#   http://www.lefilmfrancais.com/cannes2025
 #     https://www.lefilmfrancais.com/images/FF5_web.pdf
 #   http://jury.critic.de/cannes/
-#   https://www.screendaily.com/news/cannes-2024-screens-dailies/5193367.article
-#   https://icsfilm.org/festivals/cannes/cannes-2024-ics-press-industry-panel/
+#   https://www.screendaily.com/news/cannes-2025-screens-dailies/5193367.article
+#   https://icsfilm.org/festivals/cannes/cannes-2025-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/festival-cannes-2024-tableau-etoiles-critique-competition-film/
-#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2024/
-#   https://wask.fr/les-etoiles-wask-2024-jour-par-jour/
-#   https://outnow.ch/News/2024/05/19/OutNow-Jury-Grid-at-Cannes-2024-So-ist-Indiana-Jones-5-angekommen
-#   http://www.filmneweurope.com/images/FNE%20Critics/cannes2024critics.pdf
+#   https://www.chaosreign.fr/festival-cannes-2025-tableau-etoiles-critique-competition-film/
+#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2025/
+#   https://wask.fr/les-etoiles-wask-2025-jour-par-jour/
+#   https://outnow.ch/News/2025/05/19/OutNow-Jury-Grid-at-Cannes-2025-So-ist-Indiana-Jones-5-angekommen
+#   http://www.filmneweurope.com/images/FNE%20Critics/cannes2025critics.pdf
 #   https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2024-ocenki-rossiyskih-kinokritikov/
-#   https://www.caimanediciones.es/wp-content/uploads/2024/05/cuadro-critico_CANNES-2024.pdf
+#   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2025-ocenki-rossiyskih-kinokritikov/
+#   https://www.caimanediciones.es/wp-content/uploads/2025/05/cuadro-critico_CANNES-2025.pdf
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/1
 #   https://www.cineforum.it/focus/Cannes-77/I-voti-di-Cannes-77
@@ -40,8 +40,8 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
 #   https://www.indiewire.com/t/cannes
-#   https://thefilmstage.com/?tags=cannes-2024
-#   https://www.theguardian.com/film/cannes-2024
+#   https://thefilmstage.com/?tags=cannes-2025
+#   https://www.theguardian.com/film/cannes-2025
 #   https://www.thewrap.com/
 #   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
 
@@ -3001,7 +3001,7 @@ the danish dtsjernebarometer,
 Moiree,
 good new russian and italian polls,
 OutNow.ch (mainstream),
-https://letterboxd.com/seanliu/list/cannes-2024/ (the industry),
+https://letterboxd.com/seanliu/list/cannes-2025/ (the industry),
 plus the usual press and individual critics on site.<br>
 
 <br>
