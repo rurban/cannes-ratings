@@ -44,17 +44,6 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   https://www.theguardian.com/film/cannes-2024
 #   https://www.thewrap.com/
 #   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
-# order:
-# Wednesday 14 May - Mascha Schilinski (Afternoon); Sergei Loznitsa (Evening)
-# Thursdat 15 May - Oliver Laxe (Evening)
-# Friday 16 May - Ari Aster (Evening)
-# Saturday 17 May - Chie Hayakawa (Afternoon); Richard Linklater (Evening); Lynne Ramsey (Late Evening)
-# Subday 18 May - Kleber Mendonça Filho (Afternoon); Wes Anderson (Evening)
-# Monday 19 May - Tarik Saleh (Afternoon); Julia Ducournau (Evening)
-# Tuesday 20 May - Jafar Panahi (Afternoon)
-# Wednesday 21 May - Carla Simón (Afternoon); Oliver Hermanus (Evening); Joachim Trier (Late Evening)
-# Thursday 22 May - Bi Gan (Evening)
-# Friday 23 May - The Dardennes (Afternoon)
 
 use utf8;
 our $DATA = <<'EOF';
@@ -144,6 +133,13 @@ lolecont            7
 Johnny Carr         6
 Potluck Pictures    5
 
+"Dossier 137" (Dominik Moll) [Competition]
+
+#letterboxd
+Kanis Fatema        8
+Hannah              6
+Patrick Devitt      5
+
 "After (Sirat)" (Oliver Laxe) [Competition]
 
 #letterboxd
@@ -155,6 +151,11 @@ Ricardo Rosado      7
 Potluck Pictures    6
 r1ta                4
 MacarioH            4
+
+"The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Competition]
+
+#letterboxd
+Alice_le_sang       6
 
 "Eddington" (Ari Aster) [Competition]
 
@@ -243,11 +244,19 @@ Vivi                4
 Audacious__meows    2
 
 "A Simple Accident" (Jafar Panahi) [Competition]
+ also: It was just an Accident
 
 #letterboxd
 Babak Geranfar      10
 Potluck Pictures    7
 Patrick Devitt      4
+
+"Fuori" (Mario Martone) [Competition]
+
+#letterboxd
+Potluck Pictures    7
+Marius3004          7
+Patrick Devitt      5
 
 "Romería" (Carla Simón) [Competition]
 
@@ -295,6 +304,11 @@ AnneLaureB          8
 caioxbrabox         4
 Potluck Pictures    4
 
+"Woman and Child" (Saeed Roustaee) [Competition]
+
+#letterboxd
+Nabonid             10
+
 "Resurrection" (Bi Gan) [Competition]
  Barely survived the Chinese censors
 
@@ -303,44 +317,6 @@ user1ra             10
 Matt Lingo          6
 418554              6
 hautegirlreads      6
-
-"Woman and Child" (Saeed Roustaee) [Competition]
-
-
-#letterboxd
-Nabonid             10
-
-"The Mastermind" (Kelly Reichardt, USA) [Competition]
-
-#letterboxd
-hnnhlake            10
-Danny               10
-Camilla Planchestainer 8
-emtidvx             8
-Potluck Pictures    7
-Soplanit            5
-TheBitchisBack      3
-
-
-"Dossier 137" (Dominik Moll) [Competition]
-
-#letterboxd
-Kanis Fatema        8
-Hannah              6
-Patrick Devitt      5
-
-"Fuori" (Mario Martone) [Competition]
-
-#letterboxd
-Potluck Pictures    7
-Marius3004          7
-Patrick Devitt      5
-
-
-"The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Competition]
-
-#letterboxd
-Alice_le_sang       6
 
 "Young Mothers (Jeunes mères)" (Luc+Jean-Pierre Dardenne) [Competition]
 
@@ -357,6 +333,16 @@ Nina Salander       6
 AnneHuet            4
 ludovicbeot         4
 
+"The Mastermind" (Kelly Reichardt, USA) [Competition]
+
+#letterboxd
+hnnhlake            10
+Danny               10
+Camilla Planchestainer 8
+emtidvx             8
+Potluck Pictures    7
+Soplanit            5
+TheBitchisBack      3
 
 UN CERTAIN REGARD
 
