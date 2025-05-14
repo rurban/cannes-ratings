@@ -19,7 +19,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   https://www.ioncinema.com/tag/2024-cannes-critic-panel (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2024
 #     https://www.lefilmfrancais.com/images/FF5_web.pdf
-#   http://jury.critic.de/cannes/ 
+#   http://jury.critic.de/cannes/
 #   https://www.screendaily.com/news/cannes-2024-screens-dailies/5193367.article
 #   https://icsfilm.org/festivals/cannes/cannes-2024-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
@@ -35,7 +35,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   Moiree poll: https://moir.ee/editions/1
 #   https://www.cineforum.it/focus/Cannes-77/I-voti-di-Cannes-77
 #   https://www.sentieriselvaggi.it/cannes-77-le-pagelle-di-sentieri-selvaggi/
-# Reviews: 
+# Reviews:
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
@@ -64,6 +64,69 @@ COMPETITION
 "Sound of Falling (In die Sonne schauen)" (Mascha Schilinski, D) [Competition]
  was: The Doctor Says I'll Be Alright But I'm Feeling Blue
 
+#critic.de
+# Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
+# Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Mathieu Macheret         
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
+# ioncinema
+Leila Amar               
+Nicholas Bell            
+Paola Casela             
+Manon Dumais             
+Hugo Emmerzael           
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Min Liu                  
+Elli Mastorou            
+Rafa Sales Ross          
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Sonya Vseliubska         
+# Moiree
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# OutNow (1 3 5 7 8 10)
+#dkstjernebarometer
+# caiman
+# cineforum.it
+# sentieriselvaggi.it
+# Académie des Lumières
+# Russian film critics
+# FIPRESCI
 #letterboxd
 Ann_Hoffman         10
 Sylva Häutle        8
@@ -97,69 +160,7 @@ MacarioH            4
 
 #Ryan McQuade          https://awardswatch.com/teaser-for-ari-asters-cannes-bound-covid-era-eddington-looks-at-the-crumbling-u-s-political-landscape-of-2020/
 #letterboxd
-Pam                 10
-cece ᯓ★             10
-Viri_               10
-noor28ntk           10
-millar              10
-Creatoroftime       10
-fe _hipe's version_ 10
-sl2t4r0ckstarz      10
-Samy                10
-ronconi             10
-sivi                10
-Patrick White       10
-Ziad Hassan         10
-Dane Alexander Peplinski 10
-socksocks           10
-Bumblebee2006       10
-PerfidySlime        10
-lettucious          10
-kevyn98             10
-Roni                10
-Cammy               9
-Mishatrailers       9
-Juanlu888           9
-EloRocca            8
-Mel Movies          8
-Anthony Kerzman     8
-heavyk0s            8
-hansenjp            8
-smoaktrees          8
-joshuaballard25     8
-VesperLDO           8
-AsmaRon25           8
-Zulé Pez-pez        8
-[polly]             8
-Jenni Pace          8
-Karol_Karol         7
-joyinscape          7
-WeatherChannel      7
-Robin Herman        7
-Kieran Hamilton     7
-zeviz               7
-JP Daudet           7
-ladybeth            6
-Potluck Pictures    6
-Lucaswearsglass     6
-lex0r               6
-Dukaran             6
-Greg Basterfield    6
-mio                 5
-Saifcowboy          4
-Vipashayana         4
-Mainland3r          3
-Shellby             2
-Leo                 2
-FarzadFarzaneh      2
-eiludmila_          2
-dickvisco           2
-Samantha            2
-emilyrugburn        1
-gm90                1
-alex_ander_         1
-tatik               1
-Rodrigo Martinez    1
+Letterboxd 29_Ratings	7.10  https://letterboxd.com/film/eddington/
 
 "Renoir" (Hayakawa Chie, J) [Competition]
 
@@ -184,7 +185,6 @@ Clanet              1
 "Die, My Love" (Lynne Ramsay) [Competition]
 
 #Ryan McQuade          https://awardswatch.com/cannes-2025-lynne-ramsays-die-my-love-with-jennifer-lawrence-and-robert-pattinson-added-to-comp-kristen-stewarts-the-chronology-of-water-lands-sidebar-premiere/
-Ryan McQuade          https://awardswatch.com/cannes-2025-lynne-ramsays-die-my-love-with-jennifer-lawrence-and-robert-pattinson-added-to-comp-kristen-stewarts-the-chronology-of-water-lands-sidebar-premiere/
 #letterboxd
 Potluck Pictures    5
 caioxbrabox         5
@@ -217,110 +217,7 @@ BiberPictures       3
 "The Phoenician Scheme" (Wes Anderson) [Competition]
 
 #letterboxd
-lena                10
-noimsirius          10
-BlazeAtreides       10
-Lachlan Heron       10
-Malik               10
-bypatroass          10
-Todd                10
-melvin doo          10
-joey                10
-Nana                10
-Juan Romero         10
-mnemosine_          10
-slac                10
-Erin St John        10
-Hamish              10
-vrncvc              10
-decembarch          10
-Paul McCain         9
-_imthegreatest_     9
-mrbruh9384          9
-Martin              9
-Valll Seviann       9
-ꜰʀᴀɴᴋɪᴇ             9
-fruitypebs          8
-typarsons           8
-Liam Gaughan        8
-T Swish             8
-emy                 8
-Summer1378          8
-theo_karbo          8
-graybear            8
-Noé                 8
-Auregane            8
-Shawn               8
-Govind_007          8
-🌞Ivy🌞               8
-FakeSkinnyBoi       8
-Bazingha            8
-maryyyy             8
-swagatron420        8
-Júlia               8
-cumi                8
-Sumana              8
-Nicky               7
-holly               7
-Mari                7
-Omni                7
-Lucaswearsglass     7
-Zoë                 7
-Mishatrailers       7
-Skender Celili      7
-fran                7
-WillemDaRat         7
-Joekac              7
-SilviaRodalo        7
-owenspanish         6
-bkos101             6
-Kimi Moocean        6
-Vincy Thomas        6
-KevinOg82           6
-LeVince_            6
-parnassuss          6
-Leon                6
-Deku_Bebop          6
-isabelle<3          6
-Félicité Bucchianeri 6
-doeptee             6
-Bleach96            5
-caioxbrabox         5
-andoniran           5
-barbaraazevedo      5
-Le Anne Lindsay     4
-whymattwhy          4
-stevocine           4
-jeanmarclalanne     4
-awyl                4
-Lilimuratore        4
-wouldn't you like to know 4
-Potluck Pictures    4
-dangerzone25        4
-_Aranea_            4
-CataWho             4
-Alexis              3
-renankwalk          3
-JohanMCR            2
-Jasmi               2
-𝒂𝒏𝒂𝒎𝒂𝒓𝒊𝒂 ⁠✧         2
-juannn__            2
-Cholo Cholito       2
-gipe                2
-Karol ★             2
-Diro                2
-Ian                 2
-lesyeuxdepaula      2
-gumoo               2
-golqmpaqk           1
-GuiMaia             1
-doudouo             1
-Alcremio            1
-kay edgar           1
-Dagim Fenta         1
-zane55              1
-FilmguyShin         1
-mattydubs96         1
+Letterboxd 60_Ratings	6.47  https://letterboxd.com/film/the-phoenician-scheme/
 
 "Eagles of the Republic (Les Aigles de la République)" (Tarik Saleh) [Competition]
 
@@ -405,11 +302,6 @@ Potluck Pictures    4
 user1ra             10
 Matt Lingo          6
 418554              6
-#yyyyxxxx            10
-#siyue               10
-#XXXXzh              10
-#Luan Ramos          10
-#Yandinsky           10
 hautegirlreads      6
 
 "Woman and Child" (Saeed Roustaee) [Competition]
@@ -715,7 +607,6 @@ Francesco Pozzo     8
 
 "Tell Her That I Love Her (Dites-lui que je l’aime)" (Romane Bohringer) [Out Of Competition]
 
-
 #letterboxd
 09051963            10
 chjara lemp         10
@@ -803,20 +694,7 @@ Mathi2              8
 "Honey Don't!" (Ethan Coen, UK) [Out Of Competition] Midnight
 
 #letterboxd
-Letterboxd 16_Ratings	6.5  https://letterboxd.com/film/honey-dont/
-Tulip               6
-ottos               5
-dari                5
-Ranendra            5
-Lucaswearsglass     5
-jlun                4
-Mishatrailers       4
-marina              4
-corey               4
-louispereiraaa      4
-jol2go              3
-bassline05          2
-Callipygian         1
+Letterboxd 30_Ratings	4.18  https://letterboxd.com/film/honey-dont/
 
 "13 Days, 13 Nights: In the Hell of Kabul (13 Jours, 13 Nuits)" (Martin Bourboulon) [Out Of Competition]
 
@@ -868,21 +746,6 @@ yasmine_bnmt        6
 "Highest 2 Lowest" (Spike Lee) [Out Of Competition]
 
 #letterboxd
-Sapecaio            1
-Cineception         1
-Oscar_C             1
-Maikol              1
-R_K007              1
-Adriano_F           1
-golqmpaqk           1
-joe                 1
-Cooper Mitton       1
-Eslime24            1
-sev                 1
-bigjmoneygaming     1
-Jey                 1
-junkermickey        1
-Andrew Berry Is My PlayThing 1
 
 OTHER
 
@@ -17503,70 +17366,6 @@ EOF
 
 our (@critics, @critics_group);
 my $i=0;
-#$critics_group[$i] = "Todas";
-#$critics[$i++] = "
-#Alejandro G. Calvo (Sensacine, España)
-#Alejandra Trelles (International Film Festival Uruguay, Uruguay)
-#Alex Vicente (Público, España)
-#Alexandra Zawia (ray, Austria)
-#Ángel Quintana (Cahiers du cinema Espana, España)
-#Antoine Thirion (Cinema Scope, ex-Cahiers du cinéma, France)
-#Boris Nelepo (Seance.ru, Russia)
-#Carlo Chatrian (Festival de Locarno, Italy)
-#Carlos F. Heredero (Caimán CDC, España)
-#Carlos Reviriego (elcultural.es y de Caiman. Cuadernos de cine, España)
-#Cristina Nord (Die Tageszeitung, Deutschland)
-#Dana Linssen (De Filmkrant, Netherlands)
-#Diego Batlle (La Nación, OtrosCines, Argentina)
-#Diego Lerer (Clarín, Micropsia, Argentina)
-#Eugenio Renzi (Independencia, France)
-#Eulalia Iglesias (RockDeLux y Caimán CDC, España)
-#Fernando Ganzo (Lumiere, España)
-#Fernando Juan Lima (El Amante, Argentina)
-#Francisco Ferreira (Expresso, Portugal)
-#Jaime Pena (El Amante, España, Argentina)
-#José Luis Losa (Cineuropa, España)
-#Kieron Corless (Time Out London, UK)
-#Luciano Barisone (Duellanti/Panoramiche, Italy)
-#Giona Nazzaro (Gender DocuFilm Festival, Italy)
-#Luciano Monteagudo (Página/12, Argentina)
-#Marcelo Alderete (Festival de Mar del Plata, Argentina)
-#Michal Oleszczyk (RogerEbert.com, Hammer to Nail, USA)
-#Nando Salva (El Periódico, España)
-#Neil Young (Hollywood Reporter, Tribune, UK)
-#Pablo Scholz (Clarín, Argentina)
-#Paolo Bertolin (Venice International Film Festival, Italy)
-#Paolo Moretti (Italy)
-#Pedro Butcher (Folha do Sao Paulo, Filme B, Brazil)
-#Philip Engel (Go Mag, España)
-## wrong spelling, needs upstream fix
-#Philipp Engel (Go Mag, España)
-#Robert Koehler (Variety, USA)
-#Roger Koza (La Voz del Interior, Con los ojos abiertos, Argentina)
-#Rüdiger Suchsland (arteschock, Deutschland)
-#Sergi Sanchez (La Razón, España)
-#Jan Pieter Ekker (Cinema.nl, Netherlands)
-#Emiliano Fernández (A Sala Llena, Argentina)
-#Scott Foundas (Film Comment, USA)
-#Gustavo Beck (Curitiba International Film Festival, Brazil)
-#Violeta Kovacsics (Caimán Cuadernos de Cine, España)
-#Javier H. Estrada (Caimán CDC, España)
-#Pamela Bienzobas (Revista Cosas, Chile)
-#Xavi Serra (Ara, España)
-#Dominik Kamalzadeh (Der Standard, Austria)
-#Alvaro Arroba (Cinema Scope, España)
-#Imma Merino (Periodista i crítica, España)
-#Fredy Friedlander (Leedor.com, Argentina) http://www.leedor.com/contenidos/cine/66o-festival-de-cannes
-#Andrea Picard (TIFF, Cinema Scope, Canada)
-#Kong Rithdee (The Bangkok Post, Thailand)
-#Guillaume Muyan Wang (‎Cinemaround, China)
-#Juanma Ruíz (Screenwriter, España)
-#Damián Hoffman (Arriba Argentinos, Argentina)
-#Pedro Segura
-#Nicolás Kusmin (OtrosCines, Argentina)
-#Carlota Moseguí (El Septimo Arte, España)
-#Agustín Mango (The Hollywood Reporter, Argentina)
-#";
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 $critics_group[$i] = "critic.de";
 $critics[$i++] = "
@@ -17619,9 +17418,10 @@ Screen International (Screen International, USA)
 ";
 $critics_group[$i] = "ioncinema";
 $critics[$i++] = "
+Leila Amar (Independent Arabia/Guiti News)
 Nicholas Bell (Ioncinema.com, USA)
 Paola Casela (Mymovies.it/La Lettura, Italy)
-Marc Cassavi (La Presse, Canada)
+Manon Dumais (La Presse, Canada)
 Hugo Emmerzael (De Filmkrant, Netherlands)
 Rodrigo Fonseca (TV Globol/GShow, Brazil)
 Leda Galanou (Flix, Greece)
@@ -17632,18 +17432,16 @@ Eric Lavallée (ioncinema, Canada)
 Fabien Lemercier (Cineuropa.org, Belgium)
 Min Liu (Sina.com, China)
 Elli Mastorou (Metro/L'Avenir, Belgium)
-Savina Petkova (Awardswatch / Little White Lies)
 Rafa Sales Ross (The Playlist, Brazil
 Jordan Ruimy (World of Reel/The Playlist, USA)
 Kuriko Sato (Eiga.com, Japan)
-Öykü Sofuoğlu (Altyazi/Sorociné, France)
 Rui Tendinha (Diario de Noticias, Portugal)
-Artur Zaborski (Newsweek, Poland)
+Sonya Vseliubska (Ukrainska Pravda, Ukraine)
 ";
 # ICSfilm panel (0-5) https://icsfilm.org/features/cannes-feel-ics-72nd-festival-de-cannes/
 $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
-Federica Polidoro        
+Federica Polidoro
 Nicholas Bell (ioncinema, USA)
 Anais Bordages (Slate, France)
 Ela Bittencourt (Sight&Sound/Hyperallergic/Frieze Magazine, Brazil)
@@ -17766,7 +17564,7 @@ David Mourinquand (Euronews)
 Serena Seghedoni (Loud And Clear Reviews)
 Patrick Wellinski (DLF, Deutschland)
 Su Zhou-Ning  (AwardsDaily, Deutschland)
-OutNow                   
+OutNow
 ";
 #$critics_group[$i] = "Pelna Sala";
 #$critics[$i++] = "
