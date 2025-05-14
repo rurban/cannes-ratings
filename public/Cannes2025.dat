@@ -18,6 +18,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 # Polls:
 #   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
 #   http://www.lefilmfrancais.com/cannes2025
+#     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-1
 #     https://www.lefilmfrancais.com/images/FF5_web.pdf
 #   http://jury.critic.de/cannes/
 #   https://www.screendaily.com/news/cannes-2025-screens-dailies/5193367.article
@@ -73,7 +74,7 @@ Julien Rousset
 Marcos Uzal              
 Eric Neuhoff             
 Philippe Rouyer          
-Mathieu Macheret         
+Jaques Mandelbaum       
 Guillemette Odicino      
 Cèline Rouden            
 Jean-Marc Lalanne        
@@ -128,6 +129,56 @@ targo94             3
 
 "Two Prosecutors" (Sergei Loznitsa) [Competition]
 
+#critic.de
+# Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum       
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
+# ioncinema
+Leila Amar               
+Nicholas Bell            
+Paola Casela             
+Manon Dumais             
+Hugo Emmerzael           
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Min Liu                  
+Elli Mastorou            
+Rafa Sales Ross          
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Sonya Vseliubska         
+# Moiree
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# OutNow (1 3 5 7 8 10)
+#dkstjernebarometer
+# caiman
+# cineforum.it
+# sentieriselvaggi.it
+# Académie des Lumières
+# Russian film critics
+# FIPRESCI
 #letterboxd
 Ford Shimura        7
 lolecont            7
@@ -136,6 +187,7 @@ Potluck Pictures    5
 
 "Dossier 137" (Dominik Moll) [Competition]
 
+#critic.de
 #letterboxd
 Kanis Fatema        8
 Hannah              6
@@ -143,6 +195,7 @@ Patrick Devitt      5
 
 "After (Sirat)" (Oliver Laxe) [Competition]
 
+#critic.de
 #letterboxd
 Peter_Dew           8
 TJ Tvedt            8
@@ -155,12 +208,14 @@ MacarioH            4
 
 "The Youngest Daughter (La Petite Dernière)" (Hafsia Herzi) [Competition]
 
+#critic.de
 #letterboxd
 Alice_le_sang       6
 
 "Eddington" (Ari Aster) [Competition]
 
 #Ryan McQuade          https://awardswatch.com/teaser-for-ari-asters-cannes-bound-covid-era-eddington-looks-at-the-crumbling-u-s-political-landscape-of-2020/
+#critic.de
 #letterboxd
 Letterboxd 29_Ratings	7.10  https://letterboxd.com/film/eddington/
 Pam                 10
@@ -229,6 +284,7 @@ Rodrigo Martinez    1
 
 "Renoir" (Hayakawa Chie, J) [Competition]
 
+#critic.de
 #letterboxd
 Marco Lorè          10
 Rozzell Medina      10
@@ -243,6 +299,7 @@ Paula C Ferraz      4
 
 "New Wave (Nouvelle Vague)" (Richard Linklater) [Competition]
 
+#critic.de
 #letterboxd
 JodieRuthForest     10
 Toni                8
@@ -253,6 +310,7 @@ Clanet              1
 
 #Ryan McQuade          https://awardswatch.com/cannes-2025-lynne-ramsays-die-my-love-with-jennifer-lawrence-and-robert-pattinson-added-to-comp-kristen-stewarts-the-chronology-of-water-lands-sidebar-premiere/
 Ryan McQuade          https://awardswatch.com/cannes-2025-lynne-ramsays-die-my-love-with-jennifer-lawrence-and-robert-pattinson-added-to-comp-kristen-stewarts-the-chronology-of-water-lands-sidebar-premiere/
+#critic.de
 #letterboxd
 Potluck Pictures    5
 caioxbrabox         5
@@ -269,6 +327,7 @@ Grace               1
 
 "The Secret Agent (O Agente Secreto)" (Kleber Mendonça Filho, Bra) [Competition]
 
+#critic.de
 #letterboxd
 Rodrigo Junqueira Perticarari 10
 manuaraquan         10
@@ -284,6 +343,7 @@ BiberPictures       3
 
 "The Phoenician Scheme" (Wes Anderson) [Competition]
 
+#critic.de
 #letterboxd
 Letterboxd 60_Ratings	6.47  https://letterboxd.com/film/the-phoenician-scheme/
 lena                10
@@ -395,6 +455,7 @@ mattydubs96         1
 
 "Eagles of the Republic (Les Aigles de la République)" (Tarik Saleh) [Competition]
 
+#critic.de
 #letterboxd
 Lara                6
 Potluck Pictures    4
@@ -402,6 +463,7 @@ louric              2
 
 "Alpha" (Julia Ducournau) [Competition]
 
+#critic.de
 #letterboxd
 GuiMaia             10
 Thomas Hauser       10
@@ -419,6 +481,7 @@ Audacious__meows    2
 "A Simple Accident" (Jafar Panahi) [Competition]
  also: It was just an Accident
 
+#critic.de
 #letterboxd
 Babak Geranfar      10
 Potluck Pictures    7
@@ -426,6 +489,7 @@ Patrick Devitt      4
 
 "Fuori" (Mario Martone) [Competition]
 
+#critic.de
 #letterboxd
 Potluck Pictures    7
 Marius3004          7
@@ -433,6 +497,7 @@ Patrick Devitt      5
 
 "Romería" (Carla Simón) [Competition]
 
+#critic.de
 #letterboxd
 Victor_cm_24        10
 marina              10
@@ -442,6 +507,7 @@ Potluck Pictures    3
 
 "The History of Sound" (Oliver Hermanus, US/UK) [Competition]
 
+#critic.de
 #letterboxd
 winchester          8
 bettedavisbtch      7
@@ -466,6 +532,7 @@ Patrick Devitt      2
 
 "Sentimental Value" (Joachim Trier) [Competition]
 
+#critic.de
 #letterboxd
 wdbtwo              10
 Boryana Ilieva      10
@@ -479,12 +546,14 @@ Potluck Pictures    4
 
 "Woman and Child" (Saeed Roustaee) [Competition]
 
+#critic.de
 #letterboxd
 Nabonid             10
 
 "Resurrection" (Bi Gan) [Competition]
  Barely survived the Chinese censors
 
+#critic.de
 #letterboxd
 user1ra             10
 Matt Lingo          6
@@ -493,6 +562,7 @@ hautegirlreads      6
 
 "Young Mothers (Jeunes mères)" (Luc+Jean-Pierre Dardenne) [Competition]
 
+#critic.de
 #letterboxd
 onualkron           10
 Jusfaitchier        8
@@ -508,6 +578,7 @@ ludovicbeot         4
 
 "The Mastermind" (Kelly Reichardt, USA) [Competition]
 
+#critic.de
 #letterboxd
 hnnhlake            10
 Danny               10
@@ -522,6 +593,7 @@ UN CERTAIN REGARD
 "The Mysterious Gaze of the Flamingo" (Diego Céspedes, Chile) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 paulinebou          10
 flaviolet           8
@@ -534,6 +606,7 @@ Potluck Pictures    5
 
 "Météors" (Hubert Charuel, F) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 Alice_le_sang       10
 
@@ -542,6 +615,7 @@ Alice_le_sang       10
 
 "The Great Arch" (Stéphane Demoustier) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 SachKrp             10
 jugql               10
@@ -572,6 +646,7 @@ Potluck Pictures    4
 "Urchin" (Harris Dickinson, UK) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 paulinebou          10
 Tristin Norwell     10
@@ -587,6 +662,7 @@ schlungus           2
 
 "Homebound" (Neeraj Ghaywan, India) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 LucileLu            7
 viv_ioo             7
@@ -597,6 +673,7 @@ AnneHuet            2
 
 "A Pale View of Hills" (Kei Ishikawa, Jap) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 EloRocca            7
 lisonl              7
@@ -605,6 +682,7 @@ Potluck Pictures    1
 "Eleanor the Great" (Scarlett Johansson, USA) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 armonmozaffari      10
 Yahouchast          10
@@ -614,6 +692,9 @@ mareeey             8
 "Caravan" (Zuzana Kirchnerová, Cz) [Un Certain Regard]
  1st
 
+#critic.de
+Michael Meyns         4
+#critic.de
 #letterboxd
 kerem_akca          6
 ayyakw              5
@@ -622,12 +703,11 @@ Vincy Thomas        4
 GavinLovesMovie     4
 himynamesmatt       2
 
-#critic.de
-Michael Meyns         4
 
 "Pillion" (Harry Lighton) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 Max                 10
 Tristin Norwell     10
@@ -640,6 +720,7 @@ Golden_Fang         6
 "Aisha Can't Fly Away Anymore" (Murad Mustafa) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 Yusef               8
 ElNabil             4
@@ -647,6 +728,9 @@ maxarabtaa          1
 
 "Once upon a time in Gaza" (Arab+Tarzan Nasser, F) [Un Certain Regard]
 
+#critic.de
+Michael Meyns         7.5
+#critic.de
 #letterboxd
 Kanis Fatema        10
 ElNabil             8
@@ -657,12 +741,10 @@ nadeenashraf        5
 himynamesmatt       4
 Joe                 1
 
-#critic.de
-Michael Meyns         7.5
-
 "Promised Sky (Promis le ciel)" (Erige Sehiri, Tun) [Un Certain Regard]
  was: Marie & Jolie
 
+#critic.de
 #letterboxd
 Paula C Ferraz      7   https://letterboxd.com/paulacferraz/film/promised-sky/
 Cristian Georgescu  6
@@ -670,6 +752,7 @@ Vincy Thomas        5
 
 "The Last One for the Road (Le città di pianura)" (Francesco Sossai, Ita) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 zatiko              8
 kiddoy              7
@@ -680,6 +763,7 @@ mariegillet         6
 
 "Heads or Tails? (Testa o croce?)" (Matteo Zoppis/Alessio Rigo de Righi, Ita) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 kiddoy              6
 Paula C Ferraz      5
@@ -688,6 +772,7 @@ LorisDL             5
 "The Plague" (Charlie Polinger, USA) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 James               10
 peopleschoice       10
@@ -698,16 +783,18 @@ Patxi Isasti        6
 
 "Love Me Tender" (Anna Cazenave Cambet) [Un Certain Regard]
 
+#critic.de
+Michael Meyns         7.5
+#critic.de
 #letterboxd
 niconovo            10
 celineanyways       10
 Beks                9
 
-#critic.de
-Michael Meyns         7.5
 
 "A Poet (Un Poeta)" (Simón Mesa Soto) [Un Certain Regard]
 
+#critic.de
 #letterboxd
 lise2403            8
 LorisDL             8
@@ -717,6 +804,7 @@ Golden_Fang         4
 "Tomorrow Will Be Another Day (O Riso e a Faca)" (Pedro Pinho) [Un Certain Regard]
  should be: I Only Rest In The Storm
 
+#critic.de
 #letterboxd
 Simon Reshevsky     9
 abel_th             9
@@ -728,6 +816,7 @@ livredimage         6
 "The Chronology of Water" (Kristen Stewart, USA) [Un Certain Regard]
  1st
 
+#critic.de
 #letterboxd
 DJLaw               8
 #njstudios           10
@@ -751,18 +840,81 @@ OUT OF COMPETITION
 "Bye Bye (Partir un jour)" (Amélie Bonnin, F) [Out of Competition] Opener
  1st. was: Leave One Day
 
-#letterboxd
-Letterboxd 20_Ratings	7.0  https://letterboxd.com/film/partir-un-jour/
-
 #critic.de
 Jenny Jecke           6
 Till Kadritzke        4
 Josef Lederle         6
 Michael Meyns         4
+# Screen Daily
+Nt Binh                  
+Tim Robey/Robbie Collin  
+Katja Nikodemus          
+Ben Kenigsberg           
+Anton Dolin              
+Peter Bradshaw           
+Justin Chang             
+Stephanie Zacharek       
+Ahmed Shawky             
+Mathieu Macheret         
+Kong Ritchie             
+Screen International     
+# Le film français
+Thierry Chèze            7.5
+Julien Rousset           5
+Marcos Uzal              
+Eric Neuhoff             1
+Philippe Rouyer          5
+Jaques Mandelbaum        2.5
+Guillemette Odicino      7.5
+Cèline Rouden            5
+Jean-Marc Lalanne        7.5
+Michaël Mélinard         5
+Nicolas Schaller         2.5
+Philippe Lemoine         
+Barbara Théate           5
+Sandra Onana             
+Catherine Balle          5
+# ioncinema
+Leila Amar               
+Nicholas Bell            
+Paola Casela             
+Manon Dumais             
+Hugo Emmerzael           
+Rodrigo Fonseca          
+Leda Galanou             
+Jean-Philippe Guerand    
+Carlos F. Heredero       
+Dubravka Lakic           
+Eric Lavallée            
+Fabien Lemercier         
+Min Liu                  
+Elli Mastorou            
+Rafa Sales Ross          
+Jordan Ruimy             
+Kuriko Sato              
+Rui Tendinha             
+Sonya Vseliubska         
+# Moiree
+# ics
+# chaosreign.fr
+# cahier
+# Chinese @CriticsGrid
+# OutNow (1 3 5 7 8 10)
+#dkstjernebarometer
+# caiman
+# cineforum.it
+# sentieriselvaggi.it
+# Académie des Lumières
+# Russian film critics
+# FIPRESCI
+#critic.de
+#letterboxd
+Letterboxd 20_Ratings	7.0  https://letterboxd.com/film/partir-un-jour/
 
 "Bono: Stories of Surrender" (Andrew Dominik) [Out Of Competition]
  Doc
 
+#critic.de
 #letterboxd
 oblov3              10
 Eberto              10
@@ -770,6 +922,9 @@ Francesco Pozzo     8
 
 "Tell Her That I Love Her (Dites-lui que je l’aime)" (Romane Bohringer) [Out Of Competition]
 
+#critic.de
+Michael Meyns         4
+#critic.de
 #letterboxd
 09051963            10
 chjara lemp         10
@@ -800,12 +955,11 @@ Titouvaaucine       3
 llisa               3
 Annanasfrais        3
 
-#critic.de
-Michael Meyns         4
 
 "The Magnificent Life of Marcel Pagnol" (Sylvain Chomet) [Out Of Competition]
  Anim
 
+#critic.de
 #letterboxd
 Titouvaaucine       7
 Mltsouw             6
@@ -828,6 +982,7 @@ jugql               4
 
 "Dalloway" (Yann Gozlan, B/F) [Out Of Competition]
 
+#critic.de
 #letterboxd
 lisa_pstr           8
 avsilvert           8
@@ -838,6 +993,7 @@ mathyssetrehe       4
 
 "Sons of the Neon Night" (Juno Mak) [Out Of Competition] Midnight
 
+#critic.de
 #letterboxd
 skylark218          10
 ⋆ sam 🌿 !¡ 📽️       7
@@ -847,17 +1003,20 @@ Yuliia              4
 
 "Exit 8" (Genki Kawamura) [Out Of Competition] Midnight
 
+#critic.de
 #letterboxd
 bluenwhite          10
 
 "No One Will Know (Le Roi Soleil)" (Vincent Maël Cardona, F) [Out Of Competition] Midnight
 
+#critic.de
 #letterboxd
 Martineaud          8
 Mathi2              8
 
 "Honey Don't!" (Ethan Coen, UK) [Out Of Competition] Midnight
 
+#critic.de
 #letterboxd
 Letterboxd 30_Ratings	4.18  https://letterboxd.com/film/honey-dont/
 Tulip               6
@@ -876,6 +1035,7 @@ Callipygian         1
 
 "13 Days, 13 Nights: In the Hell of Kabul (13 Jours, 13 Nuits)" (Martin Bourboulon) [Out Of Competition]
 
+#critic.de
 #letterboxd
 Clara               10
 ScarletCas          8
@@ -890,6 +1050,7 @@ Thom                4
 
 "Colours Of Time (La venue de l'Avenir)" (Cédric Klapisch, F) [Out Of Competition]
 
+#critic.de
 #letterboxd
 prunell             8
 louisedesbiens      8
@@ -907,22 +1068,26 @@ Hhhhhhhh 27         4
 "Mission: Impossible – The Final Reckoning" (Christopher McQuarrie) [Out Of Competition]
 
 Ryan McQuade          https://awardswatch.com/mission-impossible-the-final-reckoning-sets-world-premiere-at-2025-cannes-film-festival/
+#critic.de
 #letterboxd
 Letterboxd 1485_Ratings	8.09   https://letterboxd.com/rockshock157/film/mission-impossible-the-final-reckoning/
 
 "The Richest Woman in the World" (Thierry Klifa) [Out Of Competition]
 
+#critic.de
 #letterboxd
 lazouz              6
 iceicebabyyy        3
 
 "Vie privée" (Rebecca Zlotowski, F) [Out Of Competition]
 
+#critic.de
 #letterboxd
 yasmine_bnmt        6
 
 "Highest 2 Lowest" (Spike Lee) [Out Of Competition]
 
+#critic.de
 #letterboxd
 Sapecaio            1
 Cineception         1
@@ -946,6 +1111,7 @@ OTHER
 
 "Amrum" (Fatih Akin, D) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 _DrStrangelove      7
 Sylva Häutle        6
@@ -955,6 +1121,7 @@ TheBitchisBack      4
 
 "Splitsville" (Michael Angelo Covino, USA) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 Ann_Hoffman         10
 dannyrutledge       8
@@ -963,6 +1130,7 @@ dannyrutledge       8
 
 "The Disappearance of Josef Mengele (La Disparition)" (Kirill Serebrennikov) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 Annaroselux         10
 Golden_Fang         7
@@ -975,12 +1143,14 @@ Achira_D            2
 "Orwell: 2+2=5" (Raoul Peck) [Out Of Competition] Premiere
  Doc
 
+#critic.de
 #letterboxd
 bauk                8
 vdkviv              7
 
 "The Wave" (Sebastián Lelio, Chi) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 vinito con frutilla 8
 eleos_rm            8
@@ -998,6 +1168,7 @@ Daniela Urra        2
 
 "Love on Trial" (Koji Fukada) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 ludovicbeot         6
 AnneLaureB          5
@@ -1006,12 +1177,14 @@ AnneLaureB          5
 
 "Magellan" (Lav Diaz, Phi) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 thoshelb            8
 Cristian Georgescu  7
 
 "Ma frère" (Lise Akoka/Romane Gueret) [Out Of Competition] Premiere
 
+#critic.de
 #letterboxd
 
 SPECIAL SCREENINGS
@@ -1019,6 +1192,7 @@ SPECIAL SCREENINGS
 "Little Amélie or the Character of Rain (Amélie et la métaphysique des tubes)" (Maïlys Vallade/Liane-Cho Han Jin Kuang, F) [Out Of Competition] Special
  1st, Anim
 
+#critic.de
 #letterboxd
 LadyNoum            10
 amhacc              10
@@ -1038,6 +1212,7 @@ Lyman Zerga         7
 "Arco" (Ugo Bienvenu, F) [Out Of Competition] Special
  1st, Anim
 
+#critic.de
 #letterboxd
 Spencer             8
 KerArno             7
@@ -1047,6 +1222,7 @@ Stefan Ionescu      6
 "The Wonderers (Qui brille au combat)" (Joséphine Japy) [Out Of Competition] Special
  1st
 
+#critic.de
 #letterboxd
 Mogwai001           8
 DowEchoe            8
@@ -1095,6 +1271,7 @@ Ryan McQuade          https://awardswatch.com/2025-cannes-classics-the-gold-rush
 
 "MY MOM JAYNE" (Mariska Hargitay, US 2025) [Other] Classics
 
+#critic.de
 #letterboxd
 FifthWallBreak      4
 
@@ -1138,6 +1315,7 @@ CINEMA DE LA PLAGE
 "Bardot" (Alain Berliner, F/UK) [Other] Plage
  Doc
 
+#critic.de
 #letterboxd
 leabenatar          5
 manonro             5
@@ -1149,32 +1327,38 @@ emloulunden         2
 
 "A Hidden Life" (Terry Malick, US 2019)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 6058_Ratings	10.0  https://letterboxd.com/film/a-hidden-life-2019/
 
 "Naked Autumn" (François Leterrier, F 1961)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 2_Ratings	3.70  https://letterboxd.com/film/naked-autumn/
 
 "Duel in the Sun" (King Vidor, US 1946)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 4820_Ratings	6.65  https://letterboxd.com/film/duel-in-the-sun/
 
 "Sunset Boulevard" (Billy Wilder, US 1950)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 5982_Ratings	10.0  https://letterboxd.com/film/sunset-boulevard/
 
 "Palombella rossa" (Nanni Moretti, I 1989)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 5952_Ratings	8.18  https://letterboxd.com/film/palombella-rossa/
 
 "Angel’s Egg" (Mamoru Oshii, Jap 1985)  [Other] Plage
  Anim
 
+#critic.de
 #letterboxd
 Letterboxd 6027_Ratings	10.0  https://letterboxd.com/film/angels-egg/
 amonGui_endives     10
@@ -7538,11 +7722,13 @@ jaf4                10
 
 "Darling" (John Schlesinger, UK 1965)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 5646_Ratings	7.21  https://letterboxd.com/film/darling/
 
 "Any Number Can Win" (Henri Verneuil, F 1963)  [Other] Plage
 
+#critic.de
 #letterboxd
 Letterboxd 5239_Ratings	7.37  https://letterboxd.com/film/any-number-can-win/
 exlusiveamours      10
@@ -13440,6 +13626,7 @@ QUINZAINE
 
 Peter Debruge           https://variety.com/2025/film/reviews/enzo-review-robin-campillo-laurent-cantet-1236393807/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/enzo-review-robin-campillo-laurent-cantet-1236211933/
+#critic.de
 #letterboxd
 FilmLandEmpire      10   https://letterboxd.com/filmlandempire/film/enzo-2025/
 Mysterio2000        9
@@ -13520,6 +13707,7 @@ levanallmnt         2   https://letterboxd.com/levanallmnt/film/enzo-2025/
 
 "Death Does Not Exist (La Mort N’Existe Pas)" (Félix Dufour-Laperrière, Can) [Quinzaine]
 
+#critic.de
 #letterboxd
 luceg               10
 domdomwb            10
@@ -13534,6 +13722,7 @@ CharleyJames        4
 "The Girl in the Snow" (Louise Hémon) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 MatteusVult         10
 ohsassou            7
@@ -13546,6 +13735,7 @@ Amrsp               5
 "Brand New Landscape" (Yuiga Danzuka, Japan) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 Simon               10
 NanSLi              6
@@ -13555,6 +13745,7 @@ Potluck Pictures    2
 "The President’s Cake" (Hasan Hadi) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 Titouvaaucine       9
 margothesnail       9
@@ -13582,6 +13773,7 @@ livredimage         3
 
 "Her Will Be Done (Que ma volonté soit faite)" (Julia Kowalski, F/Pol) [Quinzaine]
 
+#critic.de
 #letterboxd
 ADR69               10
 leoiurillo          8
@@ -13596,6 +13788,7 @@ xavmag              3
 "Wild Foxes (La danse des renards)" (Valéry Carnoy) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 myriamD             10
 electrolife         8
@@ -13608,6 +13801,7 @@ Jean-Philippe Guerand 5
 "Mirrors No.3" (Christian Petzold, D) [Quinzaine]
  <i>rejected by Cannes</i>
 
+#critic.de
 #letterboxd
 Rodrigo Oliveira    10
 Laura Pertuy        9
@@ -13616,6 +13810,7 @@ JFRauger            6
 
 "Dangerous Animals" (Sean Byrne) [Quinzaine]
 
+#critic.de
 #letterboxd
 Daniela Urra        3
 StarWars4337        3
@@ -13623,18 +13818,21 @@ fernandatsukada     2
 
 "Kokuho" (Lee Sang-il, Jap) [Quinzaine]
 
+#critic.de
 #letterboxd
 northtucheng        8
 trva                7
 
 "Peak Everything (Amour Apocalypse)" (Anne Émond, Can) [Quinzaine]
 
+#critic.de
 #letterboxd
 PierreNcls          5
 
 "Lucky Lu" (Lloyd Lee Choi) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 Scott Feinberg      8
 Potluck Pictures    5
@@ -13642,6 +13840,7 @@ xavmag              3
 
 "The Party’s Over! (Classe moyenne)" (Antony Cordier, F) [Quinzaine]
 
+#critic.de
 #letterboxd
 Bibou bibou         9
 gatoraround         8
@@ -13651,11 +13850,13 @@ annastr             7
 "Girl on Edge" (Jinghao Zhou, China) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 Dani                1
 
 "Untamable (Indomptables)" (Thomas Ngijol, Kamerun) [Quinzaine]
 
+#critic.de
 #letterboxd
 Margaux             7
 Louis Charpentier   7
@@ -13675,6 +13876,7 @@ Jean-Philippe Guerand 5
 "Militantropos" (Yelizaveta Smith, Alina Gorlova & Simon Mozgovyi) [Quinzaine]
  Doc
 
+#critic.de
 #letterboxd
 mihailik            10
 kerem_akca          6
@@ -13682,6 +13884,7 @@ kerem_akca          6
 "The Girls We Want (Les filles désir)" (Prïncia Car) [Quinzaine]
  1st
 
+#critic.de
 #letterboxd
 ♱⛧𝕾𝔨𝔶⛧♱             10
 roxanefvr           7
@@ -13696,12 +13899,14 @@ Beks                6
 "Yes!" (Nadav Lapid, Isr) [Quinzaine]
  <i>rejected by Cannes</i>
 
+#critic.de
 #letterboxd
 Kodi Franzese       8
 
 "Sorry, Baby" (Eva Victor) [Quinzaine] <i>Sundance</i>
  1st, Closing film
 
+#critic.de
 #letterboxd
 Letterboxd 2289_Ratings	8.35  https://letterboxd.com/film/sorry-baby-2025/
 michael             10
@@ -16706,6 +16911,7 @@ SEMAINE
  <i>Only invited to UCR or Premiere</i>
 
 Peter Debruge           https://variety.com/2025/film/reviews/adams-sake-review-l-interet-d-adam-1236396822/
+#critic.de
 #letterboxd
 MovieAndLove        9
 EnoraAbry           9
@@ -16766,6 +16972,7 @@ AnneHuet            2
 
 "Reedland (Rietland)" (Sven Bresser) [Semaine]
 
+#critic.de
 #letterboxd
 Jeroen Houben       9
 Titi26              8
@@ -16775,6 +16982,7 @@ Potluck Pictures    6
 
 "Left-Handed Girl" (Shih-Ching Tsou) [Semaine]
 
+#critic.de
 #letterboxd
 thoshelb            8
 Gabriel Gurman      7
@@ -16783,6 +16991,7 @@ vdkviv              7
 
 "Kika" (Alexe Poukine) [Semaine]
 
+#critic.de
 #letterboxd
 emtidvx             8
 Mathieu Volpe       8
@@ -16793,6 +17002,7 @@ ohsassou            6
 
 "Baise en ville" (Martin Jauvat, F) [Semaine] Special
 
+#critic.de
 #letterboxd
 hugoth              8
 deadlock            6
@@ -16800,6 +17010,7 @@ Victor Terninck     1
 
 "A Useful Ghost" (Ratchapoom Boonbunchachoke, Thailand) [Semaine]
 
+#critic.de
 #letterboxd
 philemon967         10
 iamxavierpeng       9
@@ -16810,6 +17021,7 @@ Golden_Fang         5
 
 "Love Letters (Des preuves d'amour)" (Alice Douard, F) [Semaine] Special
 
+#critic.de
 #letterboxd
 Lilou               10
 LGlass              7
@@ -16818,6 +17030,7 @@ cinestesia          6
 
 "Nino" (Pauline Loquès, F) [Semaine]
 
+#critic.de
 #letterboxd
 Mltsouw             8
 leane 🪼🌷            8
@@ -16829,6 +17042,7 @@ MarcusAnnaeus       4
 
 "Sleepless City (Ciudad Sin Sueño)" (Guillermo Galoe) [Semaine]
 
+#critic.de
 #letterboxd
 Raphaëlle           7
 annastr             6
@@ -16836,6 +17050,7 @@ Jean-Philippe Guerand 4
 
 "Imago" (Déni Oumar Pitsaev) [Semaine]
 
+#critic.de
 #letterboxd
 ADR69               10
 Golden_Fang         5
@@ -16844,6 +17059,7 @@ Simon Reshevsky     4
 "Dandelion's Odyssey (Planètes)" (Momoko Seto, B/F) [Semaine]
  Closing film
 
+#critic.de
 #letterboxd
 Matchuko            10
 noehohehohe         8
@@ -16854,6 +17070,7 @@ ACID
 
 "L'Aventura" (Sophie Letourneur, F) [ACID]
 
+#critic.de
 #letterboxd
 DavidAnshen1917     10
 ludovicbeot         8
@@ -16864,11 +17081,13 @@ Alice Leparlier     4
 
 "The Black Snake (La Couleuvre Noire)" (Aurélien Vernhes-Lermusiaux, Col) [ACID]
 
+#critic.de
 #letterboxd
 mariegillet         3
 
 "Drunken Noodles" (Lucio Castro, Arg) [ACID]
 
+#critic.de
 #letterboxd
 viv_ioo             6
 VieDeCourgette      5
@@ -16876,6 +17095,7 @@ LorisDL             5
 
 "Entroncamento" (Pedro Cabeleira, Por) [ACID]
 
+#critic.de
 #letterboxd
 Leonor Pacheco      10
 Rui Tendinha        8
@@ -16886,12 +17106,14 @@ cian_mcgrath        6
 
 "Drifting Laurent (Laurent dans le vent)" (Anton Balekdjian, Léo Couture, Mattéo Eustachon, F) [ACID]
 
+#critic.de
 #letterboxd
 mogopine            10
 Alice Leparlier     4
 
 "A Light That Never Goes Out" (Lauri-Matti Parppei, Fin) [ACID]
 
+#critic.de
 #letterboxd
 Enzooo              6
 
@@ -16901,6 +17123,7 @@ Enzooo              6
 "Put Your Soul On Your Hand And Walk" (Sepideh Farsi †, Palestina) [ACID]
  Doc
 
+#critic.de
 #letterboxd
 jmh20               10
 eileen              10
@@ -16909,6 +17132,7 @@ Anthony             5
 "Life After Siham" (Namir Abdel Messeeh) [ACID]
  Doc
 
+#critic.de
 #letterboxd
 yungarno            6
 AnneHuet            4
@@ -16967,6 +17191,7 @@ Alice_le_sang       6
 "The Way of the Wind" (Terrence Malick) [Predictions]
  not submitted
 
+#critic.de
 #letterboxd
 rk2026              10
 urfa7mo             8
@@ -16993,6 +17218,7 @@ plato_destroyed     4
 "Hope" (Na Hong-jin, Kor) [Predictions]
  still in Post
 
+#critic.de
 #letterboxd
 pedro               10
 Maktarik            10
@@ -17019,6 +17245,7 @@ Bennie              2
 "The Smashing Machine" (Bennie Safdie) [Predictions]
  not submitted
 
+#critic.de
 #letterboxd
 #VVSFilms            10
 #emilyxsnowflake     10
@@ -17047,6 +17274,7 @@ Kodi Franzese       6
 "Orphan" (László Nemes) [Predictions]
  <i>rejected by Cannes</i>
 
+#critic.de
 #letterboxd
 _Aranea_            10
 Marius3004          9
@@ -17073,6 +17301,7 @@ Juan Ortiz          8
 "No Other Choice" (Park Chan-wook, Kor) [Predictions]
  still in Post, not submitted. Maybe late addition
 
+#critic.de
 #letterboxd
 Eli                 10
 Cotard_Syndrome     10
@@ -17098,6 +17327,7 @@ M Ⓜ️                2
 "Father Mother Sister Brother" (Jim Jarmusch) [Predictions]
  <i>rejected by Cannes</i>
 
+#critic.de
 #letterboxd
 Ohmygoshmorgo       10
 frdcmbn             10
@@ -17215,6 +17445,7 @@ Pingkrp             7
 "F1" (Joseph Kosinski) [Predictions]
  not submitted
 
+#critic.de
 #letterboxd
 Kevin               9
 regina              9
@@ -17285,6 +17516,7 @@ ukazioa             6
 "Good Boy" (Jan Komasa) [Predictions]
 
 
+#critic.de
 #letterboxd
 Golden_Fang         3
 
@@ -17356,6 +17588,7 @@ Anthony Anthony Akakabota JR. 10
 "Sham" (Takashi Miike) [Predictions]
 
 
+#critic.de
 #letterboxd
 Simon               9
 christytszlam       6
@@ -17399,6 +17632,7 @@ Elias               6
 "My Father's Shadow" (Akinola Davies) [Predictions]
 
 
+#critic.de
 #letterboxd
 ronkus              10
 lisuhhh simpson     10
@@ -17444,6 +17678,7 @@ sofiboum69          6
 "Palestine 36" (Annemarie Jacir) [Predictions]
 
 
+#critic.de
 #letterboxd
 violenttmoon        10
 
@@ -17451,6 +17686,7 @@ violenttmoon        10
 "One Year of School" (Laura Samani, I) [Predictions]
 
 
+#critic.de
 #letterboxd
 drinao              7
 
@@ -17475,6 +17711,7 @@ drinao              7
 "After the Hunt" (Luca Guadagnino, I/USA) [Predictions]
  not submitted
 
+#critic.de
 #letterboxd
 Abraham2021         10
 babydriver          10
@@ -17669,7 +17906,8 @@ Giovanni Marchini Camina (Sight & Sound, USA)
 Rüdiger Suchsland (arteschock, Deutschland)
 ";
 # Le film français 0-4
-# http://www.lefilmfrancais.com/tags/3094/etoiles-de-la-critique
+# https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-1
+# https://www.lefilmfrancais.com/images/Cannes2025_Quot_1_Etoiles.jpg
 $critics_group[$i] = "Le film français";
 $critics[$i++] = "
 Thierry Chèze (Premiere, France)
@@ -17677,7 +17915,7 @@ Julien Rousset (Sud ouest, France)
 Marcos Uzal (Cahiers du cinema, France)
 Eric Neuhoff (Le Figaro, France)
 Philippe Rouyer (Positif, France)
-Mathieu Macheret (Le Monde, France)
+Jaques Mandelbaum (Le Monde, France)
 Guillemette Odicino (Telerama, France)
 Cèline Rouden (La Croix, France)
 Jean-Marc Lalanne (Les Inrockuptibles, France)
