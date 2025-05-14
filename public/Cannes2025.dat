@@ -109,6 +109,17 @@ Sonya Vseliubska
 # chaosreign.fr
 # cahier
 # Chinese @CriticsGrid
+Min Liu                  
+Jenny S.Li               
+Zinc                     
+Bear W                   
+Qin Wan                  
+Peter Cat                
+Lily Gu                  
+RyanS                    
+Harper Die               
+Nanyouki                 
+Lu Hang                  
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
 # caiman
@@ -184,6 +195,17 @@ Sonya Vseliubska
 # chaosreign.fr
 # cahier
 # Chinese @CriticsGrid
+Min Liu                  
+Jenny S.Li               
+Zinc                     
+Bear W                   
+Qin Wan                  
+Peter Cat                
+Lily Gu                  
+RyanS                    
+Harper Die               
+Nanyouki                 
+Lu Hang                  
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
 # caiman
@@ -255,6 +277,17 @@ Sonya Vseliubska
 # chaosreign.fr
 # cahier
 # Chinese @CriticsGrid
+Min Liu                  
+Jenny S.Li               
+Zinc                     
+Bear W                   
+Qin Wan                  
+Peter Cat                
+Lily Gu                  
+RyanS                    
+Harper Die               
+Nanyouki                 
+Lu Hang                  
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
 # caiman
@@ -6803,21 +6836,19 @@ Marcos Uzal (Cahiers du cinéma, France)
 Diego Batlle (Otros Cines, Argentina)
 ";
 $critics_group[$i] = "Chinese Grid";
-# https://twitter.com/hanglutvd
+# https://x.com/hanglutvd
 $critics[$i++] = "
-Min Liu (Sina Movie, China)
+Min Liu (Modern Weekly, China)
 Jenny S.Li (Directube.com, China)
-Xavier (NaiguanFilm, China)
+Zinc (NaiguanFilm, China)
 Bear W (ToroScope, China)
 Qin Wan (ifeng.com, China)
 Peter Cat (DeepFocus, China)
 Lily Gu (Feng Movie, China)
-G. Liankai (Filmlast, China)
+RyanS (Busan Movie)
 Harper Die (, China)
-Kid Y (Tide, China)
 Nanyouki (Sina Movie, China)
 Lu Hang (Toroscope, China)
-Sean Y (Programmer, China)
 ";
 #$critics_group[$i] = "Les Inrockuptibles";
 #$critics[$i++] = "
