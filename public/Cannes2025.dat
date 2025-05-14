@@ -27,11 +27,11 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   https://www.chaosreign.fr/festival-cannes-2025-tableau-etoiles-critique-competition-film/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2025/
 #   https://wask.fr/les-etoiles-wask-2025-jour-par-jour/
-#   https://outnow.ch/News/2025/05/19/OutNow-Jury-Grid-at-Cannes-2025-So-ist-Indiana-Jones-5-angekommen
+#   https://outnow.ch/Thema/Cannes-2025/
 #   http://www.filmneweurope.com/images/FNE%20Critics/cannes2025critics.pdf
 #   https://www.cahiersducinema.com/fr-fr/festivals/festival-de-cannes-2025
-#   https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   https://daily.afisha.ru/cinema/27351-filmy-kannskogo-kinofestivalya-2025-ocenki-rossiyskih-kinokritikov/
+#     https://www.cahiersducinema.com/festivals/cannes-film-par-film
+#   https://daily.afisha.ru/cinema/29265-filmy-kannskogo-kinofestivalya-2025-ocenki-rossiyskih-kinokritikov/
 #   https://www.caimanediciones.es/wp-content/uploads/2025/05/cuadro-critico_CANNES-2025.pdf
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/5
@@ -168,6 +168,18 @@ Lu Hang
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
+Anton Dolin              
+Egor Moskvitin           
+Stanislav Zelvensky      
+Andrey Plakhov           
+Tamara Hodova            
+Anna Strelchuk           
+Dmitry Elagin            
+Denis Vilenkin           
+Daria Tarasova           
+Anton Fomochkin          
+Kira Golubeva            
+Ksenia Balyuk            
 # FIPRESCI
 #letterboxd
 Francisco Zambrano  10   https://letterboxd.com/franzisco/film/sound-of-falling/
@@ -5221,12 +5233,17 @@ Nanako Tsukidate (Nobody Magazine, Japan)
 $critics_group[$i] = "Russian film critics";
 $critics[$i++] = "
 Anton Dolin (Medusa, Latvia)
-Anna Strelchuk (Afisha Daily, Russia)
+Egor Moskvitin (The rules of life, Russia)
+Stanislav Zelvensky (Kinopoisk, Russia)
 Andrey Plakhov (Kommersant, Russia)
 Tamara Hodova (Forbes, Russia)
-Nastasya Gorbachsevskaya (The Film.ru, Russia)
+Anna Strelchuk (Afisha Daily, Russia)
+Dmitry Elagin (Deutsche Welle, Russia)
+Denis Vilenkin (Afisha Daily, Russia)
 Daria Tarasova (Kino-Theatre, Russia)
-Egor Moskvitin (The rules of life, Russia)
+Anton Fomochkin (Kino-TV/SRSLY, Russia)
+Kira Golubeva (Cinemaholis/T-Z, Russia)
+Ksenia Balyuk (Snob, Russia)
 ";
 $critics_group[$i] = "Moiree";
 $critics[$i++] = "
