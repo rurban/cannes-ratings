@@ -193,13 +193,13 @@ Jara Yanez
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
-Anton Dolin              
+Anton Dolin              10
 Egor Moskvitin           
-Stanislav Zelvensky      
+Stanislav Zelvensky      8
 Andrey Plakhov           
-Tamara Hodova            
+Tamara Hodova            7
 Anna Strelchuk           
-Dmitry Elagin            
+Dmitry Elagin            8
 Denis Vilenkin           
 Daria Tarasova           
 Anton Fomochkin          
@@ -663,17 +663,18 @@ Jara Yanez
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
-Anton Dolin              
+Anton Dolin              9
 Egor Moskvitin           
-Stanislav Zelvensky      
+Stanislav Zelvensky      4
+Nastya Gorbachevskaya    7
 Andrey Plakhov           
 Tamara Hodova            
 Anna Strelchuk           
-Dmitry Elagin            
-Denis Vilenkin           
-Daria Tarasova           
+Dmitry Elagin            8
+Denis Vilenkin           3
+Daria Tarasova           5
 Anton Fomochkin          
-Kira Golubeva            
+Kira Golubeva            6
 Ksenia Balyuk            
 # FIPRESCI
 Jessica Kiang           https://variety.com/2025/film/reviews/two-prosecutors-review-1236397478/
@@ -5169,6 +5170,7 @@ OUT OF COMPETITION
 "Bye Bye (Partir un jour)" (Amélie Bonnin, F) [Out of Competition] Opener
  1st. was: Leave One Day
 
+Yannick Bracher       7  https://outnow.ch/Movies/2025/PartirUnJour/Review/
 #critic.de
 Jenny Jecke           6
 Till Kadritzke        4
@@ -9701,6 +9703,7 @@ $critics[$i++] = "
 Anton Dolin (Medusa, Latvia)
 Egor Moskvitin (The rules of life, Russia)
 Stanislav Zelvensky (Kinopoisk, Russia)
+Nastya Gorbachevskaya (, Russia)
 Andrey Plakhov (Kommersant, Russia)
 Tamara Hodova (Forbes, Russia)
 Anna Strelchuk (Afisha Daily, Russia)
