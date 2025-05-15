@@ -377,7 +377,7 @@ annastr             6
 Alicia              6   https://letterboxd.com/aliciaaaaaa/film/sound-of-falling/
 Filip Mańka         6
 elise_crtr          6
-audrey ༄            6
+heroinechic         6
 Buscail             6
 blnmicha            6
 Emmanuel van Elslande 6
@@ -531,6 +531,9 @@ EmilySarahG         1
 
 "Two Prosecutors" (Sergei Loznitsa) [Competition]
 
+Jessica Kiang           https://variety.com/2025/film/reviews/two-prosecutors-review-1236397478/
+Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/two-prosecutors-review-sergei-loznitsa-1236210813/
+Steve Pond              https://www.thewrap.com/two-prosecutors-review-film-about-russian-corruption-is-set-in-1937-but-you-know-its-timely/
 #critic.de
 Jenny Jecke           6
 # Screen Daily
@@ -666,7 +669,7 @@ Jara Yanez
 Anton Dolin              9
 Egor Moskvitin           
 Stanislav Zelvensky      4
-Nastya Gorbachevskaya    7
+Nastassia Gorbachevskaya 7
 Andrey Plakhov           
 Tamara Hodova            
 Anna Strelchuk           
@@ -677,9 +680,6 @@ Anton Fomochkin
 Kira Golubeva            6
 Ksenia Balyuk            
 # FIPRESCI
-Jessica Kiang           https://variety.com/2025/film/reviews/two-prosecutors-review-1236397478/
-Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/two-prosecutors-review-sergei-loznitsa-1236210813/
-Steve Pond              https://www.thewrap.com/two-prosecutors-review-film-about-russian-corruption-is-set-in-1937-but-you-know-its-timely/
 #letterboxd
 zentropa84          10
 Peter Bradshaw      10   https://letterboxd.com/peterbradshaw1/film/two-prosecutors/
@@ -9703,7 +9703,7 @@ $critics[$i++] = "
 Anton Dolin (Medusa, Latvia)
 Egor Moskvitin (The rules of life, Russia)
 Stanislav Zelvensky (Kinopoisk, Russia)
-Nastya Gorbachevskaya (, Russia)
+Nastassia Gorbachevskaya (Okko, Russia)
 Andrey Plakhov (Kommersant, Russia)
 Tamara Hodova (Forbes, Russia)
 Anna Strelchuk (Afisha Daily, Russia)
