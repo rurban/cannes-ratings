@@ -16,12 +16,12 @@ package Cannes::rurban::2025; # -*- perl -*-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
-#   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
+#   https://www.screendaily.com/news/cannes-2025-screens-dailies/5204869.article
 #   http://www.lefilmfrancais.com/cannes2025
 #     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-1
 #     https://www.lefilmfrancais.com/images/FF5_web.pdf
+#   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
 #   http://jury.critic.de/cannes/
-#   https://www.screendaily.com/news/cannes-2025-screens-dailies/5204869.article
 #   https://icsfilm.org/festivals/cannes/2025-cannes/cannes-2025-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/festival-cannes-2025-tableau-etoiles-critique-competition-film/
@@ -160,6 +160,14 @@ Amandine Rebourg
 Philippe Rouyer          4
 Robin Vaz                2
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           1
+Charlotte Garson         1
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         2.5
+Yal Sadat                2.5
+Marcos Uzal              5
 # Chinese @CriticsGrid
 Min Liu                  
 Jenny S.Li               5
@@ -1186,6 +1194,14 @@ Amandine Rebourg         8
 Philippe Rouyer          
 Robin Vaz                4
 # cahier
+Olivie Cooper-Hadjian    2.5
+Fernando Ganzo           5
+Charlotte Garson         7.5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Yal Sadat                7.5
+Marcos Uzal              7.5
 # Chinese @CriticsGrid
 Min Liu                  7.5
 Jenny S.Li               
@@ -2104,6 +2120,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    2.5
+Fernando Ganzo           2.5
+Charlotte Garson         2.5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              2.5
 # Chinese @CriticsGrid
 Min Liu                  
 Jenny S.Li               
@@ -2262,6 +2287,14 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    7.5
+Fernando Ganzo           2.5
+Charlotte Garson         1
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         7.5
+Yal Sadat                7.5
+Marcos Uzal              1
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -2853,6 +2886,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -3055,6 +3097,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -3202,6 +3253,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -3342,6 +3402,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -3490,6 +3559,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -3637,6 +3715,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -3896,6 +3983,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4033,6 +4129,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4180,6 +4285,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4317,6 +4431,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4455,6 +4578,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4595,6 +4727,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4749,6 +4890,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -4902,6 +5052,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -5057,6 +5216,15 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -5117,6 +5285,7 @@ UN CERTAIN REGARD
 "Promised Sky (Promis le ciel)" (Erige Sehiri, Tun) [Un Certain Regard]
  was: Marie & Jolie
 
+Tomris Laffly           https://variety.com/2025/film/reviews/promised-sky-review-promis-le-ciel-1236398617/
 #critic.de
 Till Kadritzke        5
 Josef Lederle         4       https://www.filmdienst.de/artikel/73111/cannes-filmfestival-2025-auftakt
@@ -5182,7 +5351,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
-Tomris Laffly           https://variety.com/2025/film/reviews/promised-sky-review-promis-le-ciel-1236398617/
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           5
+Charlotte Garson         5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 AngelinaUsenia      10
 lulufloflo          10
@@ -5485,6 +5663,7 @@ Paweł Szruba        2   https://letterboxd.com/szrubamove/film/promised-sky/
 "The Mysterious Gaze of the Flamingo" (Diego Céspedes, Chile) [Un Certain Regard]
  1st
 
+Siddhant Adlakha        https://variety.com/2025/film/reviews/the-mysterious-gaze-of-the-flamingo-review-1236399462/
 #critic.de
 # Le film français
 Thierry Chèze            
@@ -5547,7 +5726,15 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
-Siddhant Adlakha        https://variety.com/2025/film/reviews/the-mysterious-gaze-of-the-flamingo-review-1236399462/
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         2.5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         5
+Yal Sadat                
+Marcos Uzal              2.5
 #letterboxd
 ccostina            10
 mecples             10
@@ -5836,6 +6023,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Alice_le_sang       10
 
@@ -5904,6 +6101,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 
 "The Great Arch" (Stéphane Demoustier) [Un Certain Regard]
@@ -5970,6 +6177,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 tatawin             10
 SachKrp             10
@@ -6074,6 +6291,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Cyprien_Caddeo      6
 Tristin Norwell     10
@@ -6151,6 +6378,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 LucileLu            7
 viv_ioo             7
@@ -6227,6 +6464,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Jorge               10   https://letterboxd.com/jorgeusxiv/film/a-pale-view-of-hills/
 alma_smt            10
@@ -6426,6 +6673,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 armonmozaffari      10
 Yahouchast          10
@@ -6498,6 +6755,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Emel-Elizabeth Tuulik 8
 Pavel Sladký        8
@@ -6576,6 +6843,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Max                 10
 Tristin Norwell     10
@@ -6650,6 +6927,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Yusef               8
 ElNabil             4
@@ -6720,6 +7007,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Jorge               10
 Kanis Fatema        10
@@ -6800,6 +7097,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 zatiko              8
 kiddoy              7
@@ -6874,6 +7181,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 kiddoy              5
 Paula C Ferraz      5
@@ -6882,6 +7199,7 @@ LorisDL             5
 "The Plague" (Charlie Polinger, USA) [Un Certain Regard]
  1st
 
+Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/the-plague-review-joel-edgerton-1236215166/
 #critic.de
 # Le film français
 Thierry Chèze            
@@ -6944,7 +7262,15 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
-Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/the-plague-review-joel-edgerton-1236215166/
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           1
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Yal Sadat                5
+Marcos Uzal              
 #letterboxd
 jeannetnn           10   https://letterboxd.com/jeannetnn/film/the-plague-2025/
 itscharlibb         10
@@ -7063,6 +7389,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 niconovo            10
 celineanyways       10
@@ -7132,6 +7468,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Teo Anderson        8
 lise2403            8
@@ -7205,6 +7551,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Simon Reshevsky     9
 abel_th             9
@@ -7278,6 +7634,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 DJLaw               8
 #njstudios           10
@@ -7390,6 +7756,15 @@ Marcos Uzal
 Diego Batlle             
 Gregory Coutaut          1
 # cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 # Chinese @CriticsGrid
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
@@ -7477,6 +7852,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 09051963            10
 chjara lemp         10
@@ -7549,6 +7934,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 clara               9
 Titouvaaucine       7
@@ -7613,6 +8008,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 lisa_pstr           8
 avsilvert           8
@@ -7655,6 +8060,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 skylark218          10
 Kimi Moocean        8
@@ -7680,6 +8095,16 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 bluenwhite          10
 
@@ -7717,6 +8142,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Martineaud          8
 Mathi2              8
@@ -7758,6 +8193,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Letterboxd 30_Ratings	4.18  https://letterboxd.com/film/honey-dont/
 har6mon             10
@@ -7811,6 +8256,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Clara               10
 ScarletCas          8
@@ -7858,6 +8313,25 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         7.5
+Mathilde Grasset         9
+Élodie Tamayo            
+Thierry Méranger         7.5
+Yal Sadat                
+Marcos Uzal              7.5
 #letterboxd
 prunell             8
 louisedesbiens      8
@@ -7877,6 +8351,7 @@ Hhhhhhhh 27         4
 
 "Mission: Impossible – The Final Reckoning" (Christopher McQuarrie) [Out Of Competition]
 
+Owen Gleiberman         https://variety.com/2025/film/reviews/mission-impossible-the-final-reckoning-review-tom-cruise-1236396671/
 #critic.de
 Jenny Jecke           5       https://www.moviepilot.de/news/fast-30-jahre-action-enden-ist-mission-impossible-8-mit-tom-cruise-so-gut-wie-die-vorgaenger-1154417
 Till Kadritzke        6       https://www.critic.de/special/framing-cannes-2025-teil-2-4757/
@@ -7912,7 +8387,15 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
-Owen Gleiberman         https://variety.com/2025/film/reviews/mission-impossible-the-final-reckoning-review-tom-cruise-1236396671/
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           7.5
+Charlotte Garson         7.5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Yal Sadat                5
+Marcos Uzal              7.5
 #letterboxd
 Letterboxd 1485_Ratings	8.09   https://letterboxd.com/rockshock157/film/mission-impossible-the-final-reckoning/
 
@@ -7950,6 +8433,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 lazouz              6
 iceicebabyyy        3
@@ -7988,6 +8481,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 yasmine_bnmt        6
 
@@ -8025,6 +8528,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Sapecaio            1
 Cineception         1
@@ -8052,7 +8565,16 @@ OTHER
 Jenny Jecke           6       https://www.moviepilot.de/news/meisterregisseur-kehrt-mit-kriegsdrama-vor-sagenhafter-kulisse-zurueck-so-gut-ist-amrum-mit-laura-tonke-matthias-schweighoefer-1154481
 Josef Lederle         6
 Michael Meyns         6
-
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 nikinox             10
 Olga                10
@@ -8208,6 +8730,16 @@ totojakotako        2
 "Splitsville" (Michael Angelo Covino, USA) [Out Of Competition] Premiere
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Ann_Hoffman         10
 Jan_Sieradzki       8
@@ -8233,6 +8765,16 @@ Achira_D            2
  Doc
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Jan_Sieradzki       8
 bauk                8
@@ -8242,6 +8784,16 @@ VieDeCourgette      6
 "The Wave" (Sebastián Lelio, Chi) [Out Of Competition] Premiere
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 vinito con frutilla 8
 eleos_rm            8
@@ -8260,15 +8812,48 @@ Daniela Urra        2
 "Love on Trial" (Koji Fukada) [Out Of Competition] Premiere
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 ludovicbeot         6
 AnneLaureB          5
 
 "On Land and Sea" (Hlynur Pálmason) [Out Of Competition] Premiere
 
+#critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
+
 "Magellan" (Lav Diaz, Phi) [Out Of Competition] Premiere
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Jorge               10
 Koba_               10
@@ -8279,6 +8864,16 @@ Chico Fireman       6
 "Ma frère" (Lise Akoka/Romane Gueret) [Out Of Competition] Premiere
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 
 SPECIAL SCREENINGS
@@ -8287,6 +8882,16 @@ SPECIAL SCREENINGS
  1st, Anim
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 LadyNoum            10
 amhacc              10
@@ -8303,10 +8908,33 @@ Lyman Zerga         7
 "Mama" (Or Sinai) [Out Of Competition] Special
  1st
 
+#critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
+
 "Arco" (Ugo Bienvenu, F) [Out Of Competition] Special
  1st, Anim
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Andy Hazel          9   https://letterboxd.com/andyhazel/film/arco/
 Spencer             8
@@ -8318,6 +8946,16 @@ Stefan Ionescu      6
  1st
 
 #critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Andrea Rendón       10
 movie_sunday        10   https://letterboxd.com/movie_sunday/film/the-wonderers/
@@ -8379,11 +9017,35 @@ HBarthe             3   https://letterboxd.com/hbarthe/film/the-wonderers/
 
 "The Man Who Saw the Bear (L’Homme qui a vu l’ours qui a vu l’homme)" (Pierre Richard) [Out Of Competition] Special
 
+#critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Erik Toresson Hellqvist 2
 
 "The Six Billion Dollar Man" (Eugene Jarecki, US) [Out Of Competition] Special
  Assange Doc
+
+#critic.de
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
 
 
 CANNES CLASSICS
@@ -8616,6 +9278,15 @@ Alex Masson              6
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          6
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           2.5
+Charlotte Garson         2.5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         2.5
+Yal Sadat                
+Marcos Uzal              2.5
 #letterboxd
 marylou3            10   https://letterboxd.com/marylou3/film/enzo-2025/
 eloypohu            10
@@ -9080,6 +9751,15 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         2.5
+Élodie Tamayo            
+Thierry Méranger         2.5
+Yal Sadat                1
+Marcos Uzal              
 #letterboxd
 LydiaB              10
 irubendall          10
@@ -9293,7 +9973,7 @@ Mel                 2
 roro - leo mars     2
 Dreamisty           1
 
-"The Girl in the Snow" (Louise Hémon) [Quinzaine]
+"The Girl in the Snow (L'Engloutie)" (Louise Hémon) [Quinzaine]
  1st
 
 #critic.de
@@ -9342,6 +10022,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    2.5
+Fernando Ganzo           5
+Charlotte Garson         5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         7.5
+Alice Leroy              7.5
+Yal Sadat                5
+Marcos Uzal              7.5
 #letterboxd
 renataadna          10   https://letterboxd.com/renataadna/film/the-girl-in-the-snow-2025/
 MatteusVult         10
@@ -9528,6 +10218,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    5
+Fernando Ganzo           2.5
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger
+Alice Leroy              1
+Yal Sadat                2.5
+Marcos Uzal              
 #letterboxd
 Simon               10
 MattPigeon          9   https://letterboxd.com/mattpigeon/film/brand-new-landscape/
@@ -9643,6 +10343,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Léna                10   https://letterboxd.com/lenabc/film/the-presidents-cake/
 margauxpeyr         10
@@ -9751,6 +10461,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 ADR69               10
 leoiurillo          8
@@ -9813,6 +10533,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 myriamD             10
 kevinderidder       8
@@ -9872,6 +10602,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Rodrigo Oliveira    10
 Laura Pertuy        9
@@ -9928,6 +10668,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Omni                6
 Patxi Isasti        4
@@ -9950,6 +10700,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 northtucheng        8
 trva                7
@@ -10053,6 +10813,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Scott Feinberg      8
 Potluck Pictures    5
@@ -10105,6 +10875,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Bibou bibou         9
 gatoraround         8
@@ -10128,6 +10908,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Dani                1
 
@@ -10177,6 +10967,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 dylancinema99       6
 Paula C Ferraz      6
@@ -10242,6 +11042,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 mihailik            10
 Diseasemusic        7
@@ -10295,6 +11105,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 ♱⛧𝕾𝔨𝔶⛧♱             10
 roxanefvr           7
@@ -10353,6 +11173,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Raspou              3
 
@@ -10403,6 +11233,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Letterboxd 2289_Ratings	8.35  https://letterboxd.com/film/sorry-baby-2025/
 
@@ -10457,6 +11297,16 @@ Alex Masson              4
 Chaos Reign              8
 Fabien David             
 Thomas Gastaldi          2
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         2.5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 sarabdc             10
 Achloir             9
@@ -10771,6 +11621,16 @@ Alex Masson              6
 Chaos Reign              4
 Fabien David             
 Thomas Gastaldi          4
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         5
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         5
+Alice Leroy              
+Yal Sadat                5
+Marcos Uzal              
 #letterboxd
 teddddd             10
 Noellegires         10
@@ -10992,6 +11852,8 @@ jeromelachasse      2   https://letterboxd.com/jeromelachasse/film/reedland/
 
 "Left-Handed Girl" (Shih-Ching Tsou) [Semaine]
 
+Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/left-handed-girl-review-sean-baker-shih-ching-tsou-1236214944/
+Jessica Kiang           https://variety.com/2025/film/reviews/left-handed-girl-review-1236398982/
 #critic.de
 Till Kadritzke        4
 # ics
@@ -11037,8 +11899,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
-Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/left-handed-girl-review-sean-baker-shih-ching-tsou-1236214944/
-Jessica Kiang           https://variety.com/2025/film/reviews/left-handed-girl-review-1236398982/
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Apo                 10
 Lucie               10   https://letterboxd.com/luciejzql/film/left-handed-girl/
@@ -11257,6 +12127,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 emtidvx             8
 Mathieu Volpe       8
@@ -11313,6 +12193,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 hugoth              8
 deadlock            6
@@ -11365,6 +12255,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 philemon967         10
 iamxavierpeng       9
@@ -11423,6 +12323,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Lilou               10
 LGlass              7
@@ -11475,6 +12385,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 manondsve           8
 Mltsouw             8
@@ -11538,6 +12458,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Raphaëlle           7
 annastr             6
@@ -11558,6 +12488,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 ADR69               10
 Golden_Fang         5
@@ -11611,6 +12551,16 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi          
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Matchuko            10
 noehohehohe         8
@@ -11740,6 +12690,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 toinoulamenace      7
 dj๑​mel 𖤓           7
@@ -11801,6 +12761,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 viv_ioo             6
 VieDeCourgette      5
@@ -11840,6 +12810,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Leonor Pacheco      10
 Rui Tendinha        8
@@ -11882,6 +12862,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 Antoine_Dartois     10
 Zoé Star            10
@@ -11923,6 +12913,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 leylack             10   https://letterboxd.com/leylack/film/a-light-that-never-goes-out/
 popopitooo          10   https://letterboxd.com/popotitooo/film/a-light-that-never-goes-out/
@@ -11982,6 +12982,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 
 "Put Your Soul On Your Hand And Walk" (Sepideh Farsi †, Palestina) [ACID]
@@ -12102,6 +13112,16 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            
 Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
 #letterboxd
 manondsve           8
 Nino Rigotti        8
@@ -12511,15 +13531,6 @@ Golden_Fang         3
 karaparaask         7
 maxloa              5
 franzhater340       1
-
-"L'Engloutie" (Louise Hémon, F) [Predictions]
-
-
-
-
-#critic.de
-Michael Meyns         6
-Sven von Reden        6
 
 "Our Apprenticeship" (Ryūsuke Hamaguchi, J) [Predictions]
 
@@ -13046,9 +14057,10 @@ $critics[$i++] = "
 Olivie Cooper-Hadjian (Cahiers du cinema, France)
 Fernando Ganzo (Lumiere, España)
 Charlotte Garson (Cahiers du cinema, France)
-Mathilde Grasset
+Mathilde Grasset (Cahiers du cinema, France)
 Élodie Tamayo (Cahiers du cinema, France)
 Thierry Méranger (Cahiers du cinema, France)
+Alice Leroy (Cahiers du cinema, France)
 Yal Sadat (Cahiers du cinema, France)
 Marcos Uzal (Cahiers du cinéma, France)
 ";
