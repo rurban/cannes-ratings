@@ -1241,21 +1241,21 @@ Mathieu Macheret         7.5
 Kong Ritchie             7.5
 Screen International     9
 # Le film français
-Thierry Chèze            
+Thierry Chèze            5
 Julien Rousset           7.5
-Marcos Uzal              
+Marcos Uzal              5
 Eric Neuhoff             5
-Philippe Rouyer          
+Philippe Rouyer          5
 Jaques Mandelbaum        5
 Guillemette Odicino      5
 Cèline Rouden            5
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         2.5
-Philippe Lemoine         
-Barbara Théate           1
-Sandra Onana             
-Catherine Balle          
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         2.5
+Nicolas Schaller         5
+Philippe Lemoine         1
+Barbara Théate           2.5
+Sandra Onana             5
+Catherine Balle          2.5
 # ioncinema
 Leila Amar               6
 Nicholas Bell            6
@@ -2297,21 +2297,21 @@ Mathieu Macheret         2.5
 Kong Ritchie             5
 Screen International     7.5
 # Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
+Thierry Chèze            5
+Julien Rousset           5
+Marcos Uzal              2.5
+Eric Neuhoff             2.5
+Philippe Rouyer          5
+Jaques Mandelbaum        5
+Guillemette Odicino      2.5
+Cèline Rouden            7.5
+Jean-Marc Lalanne        2.5
+Michaël Mélinard         9
+Nicolas Schaller         5
+Philippe Lemoine         5
+Barbara Théate           7.5
+Sandra Onana             5
+Catherine Balle          5
 # ioncinema
 Leila Amar               8
 Nicholas Bell            5
@@ -2470,21 +2470,21 @@ Mathieu Macheret         2.5
 Kong Ritchie             9
 Screen International     7.5
 # Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
+Thierry Chèze            5
+Julien Rousset           9
+Marcos Uzal              1
+Eric Neuhoff             1
+Philippe Rouyer          7.5
+Jaques Mandelbaum        2.5
+Guillemette Odicino      9
+Cèline Rouden            7.5
+Jean-Marc Lalanne        7.5
+Michaël Mélinard         7.5
+Nicolas Schaller         9
+Philippe Lemoine         1
+Barbara Théate           2.5
+Sandra Onana             9
+Catherine Balle          5
 # ioncinema
 Leila Amar               
 Nicholas Bell            9
@@ -3603,21 +3603,21 @@ Mathieu Macheret         2.5
 Kong Ritchie             5
 Screen International     5
 # Le film français
-Thierry Chèze            
-Julien Rousset           
+Thierry Chèze            9
+Julien Rousset           5
 Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
+Eric Neuhoff             1
+Philippe Rouyer          2.5
+Jaques Mandelbaum       2.5
+Guillemette Odicino      7.5
+Cèline Rouden            7.5
+Jean-Marc Lalanne        7.5
+Michaël Mélinard         7.5
 Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
+Philippe Lemoine         7.5
+Barbara Théate           2.5
+Sandra Onana             7.5
+Catherine Balle          5
 # ioncinema
 Leila Amar               
 Nicholas Bell            
@@ -3766,17 +3766,17 @@ Screen International     2.5
 Thierry Chèze            
 Julien Rousset           
 Marcos Uzal              
-Eric Neuhoff             
+Eric Neuhoff             2.5
 Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
+Jaques Mandelbaum        7.5
+Guillemette Odicino      5
 Cèline Rouden            
 Jean-Marc Lalanne        
-Michaël Mélinard         
+Michaël Mélinard         9
 Nicolas Schaller         
-Philippe Lemoine         
+Philippe Lemoine         2.5
 Barbara Théate           
-Sandra Onana             
+Sandra Onana             1
 Catherine Balle          
 # ioncinema
 Leila Amar               
@@ -7156,13 +7156,13 @@ Marcos Uzal
 Eric Neuhoff             
 Philippe Rouyer          5
 Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
+Guillemette Odicino      7.5
+Cèline Rouden            7.5
 Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
+Michaël Mélinard         7.5
+Nicolas Schaller         5
 Philippe Lemoine         
-Barbara Théate           7.5
+Barbara Théate           
 Sandra Onana             
 Catherine Balle          
 # ics
@@ -7576,6 +7576,361 @@ rdroiska            2
 Hang Lu             2   https://letterboxd.com/hanglutvd/film/promised-sky/
 Paweł Szruba        2   https://letterboxd.com/szrubamove/film/promised-sky/
 
+"A Pale View of Hills" (Kei Ishikawa, Jap) [Un Certain Regard]
+
+#critic.de
+# Le film français
+Thierry Chèze            7.5
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      7.5
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut          
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
+#moiree
+Mark Asch                
+Miriam Bale              
+Jordan Cronk             
+Flavia Dima              
+Pedro Bernal             
+Francisco Ferreira       
+Devika Girish            
+Leonardi Goi             
+Daniel Kasman            
+Manuela Lazić            
+Beatrice Loayza          
+Giovanni Marchini Camina 
+Savina Petkova           
+Nicolas Rapold           
+Vadim Rizov              
+Öykü Sofuoğlu            
+Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
+elmacoulon          10
+djbevan613          10
+ivanawhodis         10
+penguinskates       10   https://letterboxd.com/penguinskates/film/a-pale-view-of-hills/
+Xinle Ding          10
+Jorge               10   https://letterboxd.com/jorgeusxiv/film/a-pale-view-of-hills/
+alma_smt            10
+Achille             10
+leSinj              9   https://letterboxd.com/lesinj/film/a-pale-view-of-hills/
+constancelp         9
+miguel_ht21         9
+a_li__ci__a         9
+Morgane             9   https://letterboxd.com/mogoonthego/film/a-pale-view-of-hills/
+jakewhelan          9
+ahpoto              9
+lamercenaire        9
+vgrossmann          8   https://letterboxd.com/vgrossmann/film/a-pale-view-of-hills/
+zzelig              8
+marylou3            8   https://letterboxd.com/marylou3/film/a-pale-view-of-hills/
+Milo UNGARO         8
+JoannaSzymanska     8
+ScommeGuitry        8   https://letterboxd.com/lecrimier/film/a-pale-view-of-hills/
+Juli Jablkowski     8
+JeanLacaille419     8
+sam                 8
+viv_ioo             8
+Hmry                8
+Lola_patin          8
+Clara               8
+Jeremy Marest       8
+Alex K.             8
+Quexington          8   https://letterboxd.com/quexington/film/a-pale-view-of-hills/
+nicopichot          8
+Brygmi              8
+cwl118              8   https://letterboxd.com/cwl118/film/a-pale-view-of-hills/
+clembrunette        8   https://letterboxd.com/clembrunette/film/a-pale-view-of-hills/
+Galahaad_           8
+patrickzen2002      8
+colin vess          8
+sean mcfarland      8   https://letterboxd.com/seandmcfarland/film/a-pale-view-of-hills/
+Bradford            8   https://letterboxd.com/bradfordmoye/film/a-pale-view-of-hills/
+Tristan Ranger      8
+maria ahumada       8
+Julienpjd           8
+Federico Passi      8
+wanderlustmm        8
+Shubhra             8
+Joan                8
+Camelou             8   https://letterboxd.com/camelou/film/a-pale-view-of-hills/
+Gabralr             8
+Ekiatech            8   https://letterboxd.com/ekiatech/film/a-pale-view-of-hills/
+Marie 🫰             8
+katuskaaberuska     8   https://letterboxd.com/katuskaaberuska/film/a-pale-view-of-hills/
+no2mi2              8
+stlmrt              8   https://letterboxd.com/stlmrt/film/a-pale-view-of-hills/
+Léa Dornier         8
+JulienBaud          8
+Eloi Simon          8
+Alex Billington     8
+brandon_kerpel      8
+julesloez           8
+Simon Brocard       8
+ali_lou             8
+Arash Azizi         8
+iName               8
+Giuseppe Montanaro  7
+Titoulgn            7
+Matthew Bergen      7
+Dreamisty           7
+louis_snj           7
+pascaljbonnet       7
+filoute             7   https://letterboxd.com/filoute/film/a-pale-view-of-hills/
+Kirapigeon          7
+goblin_de_luz       7   https://letterboxd.com/goblin_de_luz/film/a-pale-view-of-hills/
+Chab255             7
+pkearne4            7
+czechjulie          7   https://letterboxd.com/czechjulie/film/a-pale-view-of-hills/
+Leah_u              7
+A.A. Dowd           7   https://letterboxd.com/beane_bag/film/a-pale-view-of-hills/
+R0binet             7
+laetitiabllx        7
+Noël Flantier       7   https://letterboxd.com/robynsky/film/a-pale-view-of-hills/
+Macavity11          7
+Ethan               7   https://letterboxd.com/jeantenplurien/film/a-pale-view-of-hills/
+Elio444             7
+roshinmachin        7
+Elliot              7   https://letterboxd.com/dovakh/film/a-pale-view-of-hills/
+DirectorTom         7
+Ignace Maekelbergh  7   https://letterboxd.com/ignacemaek/film/a-pale-view-of-hills/
+maxou               7
+chayma              7   https://letterboxd.com/yymagination/film/a-pale-view-of-hills/
+corentinvlt         7
+Val Scarpaci        7
+Melvin Baduel       7
+GabinW              7   https://letterboxd.com/gabinw/film/a-pale-view-of-hills/
+Arven124            7   https://letterboxd.com/arven124/film/a-pale-view-of-hills/
+stella villaceque   7
+matholde            7
+Jose_Phine          7
+remotetv            7
+Esteban             7
+alicerslt           7
+dear_suzy           7
+KidBB _Boris Bastide_ 7
+Matt_chrs           7   https://letterboxd.com/matt_chrs/film/a-pale-view-of-hills/
+magaligrk           7
+Yannick📽️           7
+Val_gry             7
+Giuseppe Bargagnati 7
+mowerfromlouvre     7
+leylack             7
+Aaro Taina          7
+humzaakbar          7
+Elliot Charrier     7
+sebackland23        7   https://letterboxd.com/sebackland23/film/a-pale-view-of-hills/
+martaluizat         7
+Martin_C            7   https://letterboxd.com/star_ranger/film/a-pale-view-of-hills/
+Nolan_Grando        7
+crowheadd           7
+hrasmussen          7
+Starry_Hope         7
+dimehhhh            7
+Kenn_R              7
+Arjenix             7
+EloRocca            7
+lisonl              7
+Aliki Koutoura      6
+J Taylor-Jones      6
+LuciaForner         6
+hayleycroke         6
+ragingbells         6
+chlocrlt            6
+NightWatchman       6
+Eliot Lischa        6
+anselm              6
+chrispii69          6
+aleseeyaa           6
+sbra                6
+shuuka              6   https://letterboxd.com/shuuka/film/a-pale-view-of-hills/
+leticia             6   https://letterboxd.com/rathag/film/a-pale-view-of-hills/
+Ambrun Kirch        6
+haciseferov         6
+Sophia              6
+JoseMaximiliano     6   https://letterboxd.com/josemaximiliano/film/a-pale-view-of-hills/
+Ariane              6   https://letterboxd.com/arianegdin/film/a-pale-view-of-hills/
+Luca-Gabriel        6
+William Vimber      6
+Barra Mac Ainmhire  6   https://letterboxd.com/uberjebus/film/a-pale-view-of-hills/
+titelynhe           6
+Lisa Chevret        6   https://letterboxd.com/lisaroselou/film/a-pale-view-of-hills/
+burcusari           6
+paupauno            6
+emiliit             6   https://letterboxd.com/emiliit/film/a-pale-view-of-hills/
+gabriellac_         6   https://letterboxd.com/gabriellac_/film/a-pale-view-of-hills/
+yopjcl              6
+Arnia_              6   https://letterboxd.com/arnia_/film/a-pale-view-of-hills/
+popopitooo          6
+annastr             6
+Mateo               6   https://letterboxd.com/mateobradi/film/a-pale-view-of-hills/
+Berend Jan Bockting 6
+Arda Yozbakan       6
+angharad            6
+Parzifall           6
+Yannick VELY        6   https://letterboxd.com/yannickvely/film/a-pale-view-of-hills/
+Vicky_W             6
+milica              6
+Morgana             6
+Maxouchance         6   https://letterboxd.com/maxouchance/film/a-pale-view-of-hills/
+Yao TU              6
+Fred Tsui           6   https://letterboxd.com/fredtsui/film/a-pale-view-of-hills/
+erine               6   https://letterboxd.com/erinechp/film/a-pale-view-of-hills/
+arykle              6
+emcharles           6
+svajotojai          6
+Mauricio Ribeiro    6
+beata_mr            6
+3anjana             6
+Tamara_K            6
+iana                6
+Josefine            6
+Yi-Hsin Shen        6
+Luke Georgiades     6   https://letterboxd.com/lukegeorgiades/film/a-pale-view-of-hills/
+Léon Gallo          6
+Lucas Renaudot      6
+WoodyZales          6
+j_m_a               6
+hugo                6
+Angelina Marilyn    5
+Balint Orosz        5
+lubilatanczyc       5   https://letterboxd.com/lubilatanczyc/film/a-pale-view-of-hills/
+markox              5   https://letterboxd.com/markox/film/a-pale-view-of-hills/
+Federica            5
+Myriam Simonazzi    5
+Anissa_J            5
+enora ☆*:.｡         5
+zuzanna             5   https://letterboxd.com/zteriyaki/film/a-pale-view-of-hills/
+Bastien_D           5
+oscrchrp            5
+itssilka            5
+kya                 5   https://letterboxd.com/awkyard/film/a-pale-view-of-hills/
+kylnnisk            5   https://letterboxd.com/kylnnisk/film/a-pale-view-of-hills/
+lucaew              5
+Max Brodbeck        5
+Oscar Leroux        5
+rosebudshears       5
+Matthew Poole       5
+Abbie George        5
+Saraconterien       5   https://letterboxd.com/saraconterien/film/a-pale-view-of-hills/
+MOMOdu22            5
+capdevilleT         5
+elephante           5
+Omar Franini        5
+Lang LIU            5   https://letterboxd.com/dylwillan/film/a-pale-view-of-hills/
+Quentin Rollet      5
+Edour               5   https://letterboxd.com/edour/film/a-pale-view-of-hills/
+Jayson 🎥🌊           5   https://letterboxd.com/jmoney18/film/a-pale-view-of-hills/
+Johnny Carr         5
+Wiktor Wiertelak    5
+ayyakw              5
+Michael Granados    5
+Imma Pilar          5
+sofianala           5
+stevefair           5   https://letterboxd.com/stevefair/film/a-pale-view-of-hills/
+Zyon                5   https://letterboxd.com/xxxtentazyon/film/a-pale-view-of-hills/
+jacopo              5
+lena2805            5
+peenth              5
+Marlon Schwiersch   5
+Nick Jansen         5
+Champari            5
+yamanka             5
+Souad               4
+asjen               4
+Pavel Sladký        4   https://letterboxd.com/pavelsladky/film/a-pale-view-of-hills/
+Léna                4   https://letterboxd.com/lenabc/film/a-pale-view-of-hills/
+Gabriel Amora       4   https://letterboxd.com/amoragab/film/a-pale-view-of-hills/
+Leyla_Z             4
+tiph                4   https://letterboxd.com/tiphcht/film/a-pale-view-of-hills/
+rdroiska            4
+Liv                 4
+Terry_Malloy        4
+Gaiement            4   https://letterboxd.com/gaiement/film/a-pale-view-of-hills/
+Antoine_Dartois     4   https://letterboxd.com/antoine_dartois/film/a-pale-view-of-hills/
+Eoghan Lyng Lyng    4   https://letterboxd.com/eoghanlyng/film/a-pale-view-of-hills/
+Brian Tallerico     4
+Pierre-Auguste Henry 4   https://letterboxd.com/pahenry/film/a-pale-view-of-hills/
+cléo                4   https://letterboxd.com/cleolqr/film/a-pale-view-of-hills/
+Ulysse22            4   https://letterboxd.com/ulysse22/film/a-pale-view-of-hills/
+jessiedhaliwall     4   https://letterboxd.com/jessiedhaliwall/film/a-pale-view-of-hills/
+Carlos Elorza       4
+Eva Boncour         4
+Stanisław Sobczyk   4
+Feras Almadi        4
+rosefrt             4
+Wearitdown          4
+Achira_D            4   https://letterboxd.com/achira777/film/a-pale-view-of-hills/
+okanacmak           4
+Kinbote75           4
+cel_nb              3   https://letterboxd.com/cel_nb/film/a-pale-view-of-hills/
+ruthgabrat          3
+beeeu               3   https://letterboxd.com/beeeu/film/a-pale-view-of-hills/
+Obmar               3
+GoodluckFindingDori ❤️‍🔥 3
+Vincy Thomas        3
+Pierre Dodin        3
+BenoitPrrier        3
+Teoman Suzer        3
+Jacky Le Breton     3   https://letterboxd.com/jackylebreton/film/a-pale-view-of-hills/
+mongoloid           3
+Patryk              2
+aninerak            2
+Hashim              2
+silverjinx          2   https://letterboxd.com/silverjinx/film/a-pale-view-of-hills/
+Fakhreddine Amri    2
+Luke                2
+NanSLi              2
+Jack Salvadori      2
+Potluck Pictures    1
+
 "The Mysterious Gaze of the Flamingo" (Diego Céspedes, Chile) [Un Certain Regard]
  1st
 
@@ -7584,14 +7939,14 @@ Siddhant Adlakha        https://variety.com/2025/film/reviews/the-mysterious-gaz
 # Le film français
 Thierry Chèze            
 Julien Rousset           
-Marcos Uzal              
+Marcos Uzal              2.5
 Eric Neuhoff             
 Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
+Jaques Mandelbaum        
+Guillemette Odicino      2.5
 Cèline Rouden            
 Jean-Marc Lalanne        
-Michaël Mélinard         
+Michaël Mélinard         2.5
 Nicolas Schaller         
 Philippe Lemoine         
 Barbara Théate           
@@ -8021,96 +8376,21 @@ Pablo Villaça       3
 inxsss              2   https://letterboxd.com/inxsss/film/the-mysterious-gaze-of-the-flamingo/
 charliedsj          2
 
-"Météors" (Hubert Charuel, F) [Un Certain Regard]
-
-#critic.de
-# Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
-# ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
-Daniela Michel           
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
-Diego Batlle             
-Gregory Coutaut          
-# caiman
-Nt Binh                  
-Jean-Michel Frodon       
-Devika Girish            
-Roger Koza               
-Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
-#moiree
-Mark Asch                
-Miriam Bale              
-Jordan Cronk             
-Flavia Dima              
-Pedro Bernal             
-Francisco Ferreira       
-Devika Girish            
-Leonardi Goi             
-Daniel Kasman            
-Manuela Lazić            
-Beatrice Loayza          
-Giovanni Marchini Camina 
-Savina Petkova           
-Nicolas Rapold           
-Vadim Rizov              
-Öykü Sofuoğlu            
-Blake Williams           
-# cahier
-Olivie Cooper-Hadjian    
-Fernando Ganzo           
-Charlotte Garson         
-Mathilde Grasset         
-Élodie Tamayo            
-Thierry Méranger         
-Alice Leroy              
-Yal Sadat                
-Marcos Uzal              
-#letterboxd
-Alice_le_sang       10
-
-"My Fathers Shadow" (Akinola Davies Jr, Nigeria) [Un Certain Regard]
+"The Plague" (Charlie Polinger, USA) [Un Certain Regard]
  1st
 
+Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/the-plague-review-joel-edgerton-1236215166/
 #critic.de
+Jenny Jecke           7.5     https://www.moviepilot.de/news/intensiv-beklemmend-brutal-ehrlich-dieser-teenie-thriller-ueber-das-ferienlager-des-grauens-laesst-niemanden-kalt-1154494
+Rüdiger Suchsland    5
 # Le film français
 Thierry Chèze            
 Julien Rousset           
 Marcos Uzal              
 Eric Neuhoff             
 Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
+Jaques Mandelbaum        
+Guillemette Odicino      2.5
 Cèline Rouden            
 Jean-Marc Lalanne        
 Michaël Mélinard         
@@ -8135,7 +8415,7 @@ Diego Batlle
 Gregory Coutaut          
 # caiman
 Nt Binh                  
-Jean-Michel Frodon       
+Jean-Michel Frodon       7
 Devika Girish            
 Roger Koza               
 Jean-Marc Lalanne        
@@ -8148,34 +8428,202 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 #moiree
-Mark Asch                
-Miriam Bale              
-Jordan Cronk             
-Flavia Dima              
-Pedro Bernal             
-Francisco Ferreira       
-Devika Girish            
-Leonardi Goi             
-Daniel Kasman            
-Manuela Lazić            
-Beatrice Loayza          
-Giovanni Marchini Camina 
-Savina Petkova           
-Nicolas Rapold           
-Vadim Rizov              
-Öykü Sofuoğlu            
-Blake Williams           
+Mark Asch                7
+Blake Williams           3
 # cahier
 Olivie Cooper-Hadjian    
-Fernando Ganzo           
+Fernando Ganzo           1
 Charlotte Garson         
 Mathilde Grasset         
 Élodie Tamayo            
 Thierry Méranger         
-Alice Leroy              
-Yal Sadat                
+Yal Sadat                5
 Marcos Uzal              
 #letterboxd
+sshooman            10
+EverettBlunck       10
+CadenBurris         10   https://letterboxd.com/cadenburris/film/the-plague-2025/
+will™️              10
+Bichonfrise15       10   https://letterboxd.com/bichonfrise15/film/the-plague-2025/
+Phill               10   https://letterboxd.com/sensiblechuckle/film/the-plague-2025/
+Nikki Massoud       10   https://letterboxd.com/nm1776/film/the-plague-2025/
+Jayson 🎥🌊           10   https://letterboxd.com/jmoney18/film/the-plague-2025/
+sophia              10   https://letterboxd.com/fullmoonsophia/film/the-plague-2025/
+cpol9               10
+henryhayes          10
+alkramer491         10
+alison_wav          10
+TheGraduate75       10   https://letterboxd.com/thegraduate75/film/the-plague-2025/
+rachelbjoyce        10
+Mary Neely          10   https://letterboxd.com/maryneely/film/the-plague-2025/
+masha_was_here      10
+NighttimePrayer     10   https://letterboxd.com/nighttimeprayer/film/the-plague-2025/
+cullenconly         10
+ggmm77              10   https://letterboxd.com/ggmm77/film/the-plague-2025/
+Barroul             10   https://letterboxd.com/barroul/film/the-plague-2025/
+Max Olson           10
+ilikedthemoon       10
+Kitty Grady         10
+elohtema            10
+LiuKang             10
+chayouhou           10
+Nellie Gawdenn      10
+areoharewhy         10
+Claire Delany       10
+lizzieshap          10
+licatab             10
+jeannetnn           10   https://letterboxd.com/jeannetnn/film/the-plague-2025/
+itscharlibb         10
+gregory barnes      10   https://letterboxd.com/dougieluv/film/the-plague-2025/
+Yannick📽️           10
+aajeac              10   https://letterboxd.com/aajeac/film/the-plague-2025/
+dcpierson           10   https://letterboxd.com/dcpierson/film/the-plague-2025/
+jgrossano           10
+bmisk               10
+grahamtechler       10
+James               10
+peopleschoice       10
+mpancer             10
+Jakeitorleaveit     10
+Roberto Drilea      9
+eddatainment        9   https://letterboxd.com/eddatainment/film/the-plague-2025/
+Amélie Motard       9   https://letterboxd.com/ameliemotard/film/the-plague-2025/
+Pernille Middelthon 9   https://letterboxd.com/pernillere/film/the-plague-2025/
+blobfishblob        9
+Tamara_K            9
+Saulo Ferreira      9
+Brother Bro         9
+Uku Pärtel Rand     9
+audrey1202          9
+Eloi Simon          9
+Davide              9   https://letterboxd.com/itsddaveyy/film/the-plague-2025/
+humzaakbar          9
+MarinaGE            8   https://letterboxd.com/marinage/film/the-plague-2025/
+Patryk              8
+Daniel Oliva        8
+JoannaSzymanska     8
+Dewboy Reviews      8   https://letterboxd.com/dewboyreviews/film/the-plague-2025/
+Solène              8   https://letterboxd.com/solenepct/film/the-plague-2025/
+JulienBaud          8
+magaligrk           8
+Gabralr             8
+Trase Henricks      8
+Jenny Jecke         8
+kallilhayon         8   https://letterboxd.com/kallilhayon/film/the-plague-2025/
+popopitooo          8   https://letterboxd.com/popotitooo/film/the-plague-2025/
+Luke Hicks          8   https://letterboxd.com/lou_kicks/film/the-plague-2025/
+Drawer              8   https://letterboxd.com/drawer/film/the-plague-2025/
+JessSpoll           8   https://letterboxd.com/jessspoll/film/the-plague-2025/
+Matty               8   https://letterboxd.com/mattydraps/film/the-plague-2025/
+eva 🪩               8   https://letterboxd.com/evadauvergne/film/the-plague-2025/
+NataliaBocanera     8
+Martyc              8
+Pablo Villaça       8
+czechjulie          8   https://letterboxd.com/czechjulie/film/the-plague-2025/
+Jack                8
+emcesar             8   https://letterboxd.com/emcesar/film/the-plague-2025/
+rob1_clln           8   https://letterboxd.com/rob1_clln/film/the-plague-2025/
+beeeu               8
+Alex Billington     8
+Axellenomorph       8   https://letterboxd.com/axellenomorph/film/the-plague-2025/
+hrisimov02          8
+gonza nullo         8
+detectivezinc       8
+Romain3328          8
+Archer              8
+cléo                8
+Éthanol             8
+Nicolas Plouhinec   8
+janabanasova        8
+Lisa                8   https://letterboxd.com/lisalisaa/film/the-plague-2025/
+sam                 8   https://letterboxd.com/itsmesamuelxx/film/the-plague-2025/
+WoodyZales          8
+stephanieyu         8   https://letterboxd.com/stephanieyu/film/the-plague-2025/
+FilmFan1971         8   https://letterboxd.com/filmfan1971/film/the-plague-2025/
+Simon Brocard       8
+MentalBreakDown     8   https://letterboxd.com/mentalbreakdown/film/the-plague-2025/
+hugo                8   https://letterboxd.com/hugobrkfst/film/the-plague-2025/
+Jack Salvadori      8
+Lewis               7
+soymiguelm          7
+daria tarasova      7   https://letterboxd.com/valv0x/film/the-plague-2025/
+Lilla Gyöngyösi     7   https://letterboxd.com/gyolilla/film/the-plague-2025/
+lionelleg           7
+Nikolay Kostinskiy  7
+isaaccinema         7   https://letterboxd.com/isaaccinema/film/the-plague-2025/
+Matt_chrs           7   https://letterboxd.com/matt_chrs/film/the-plague-2025/
+Meliksah Altuntas   7
+Nora                7
+Omar Franini        7
+Chris Schelb        7
+goblin_de_luz       7   https://letterboxd.com/goblin_de_luz/film/the-plague-2025/
+Szymon Śliwa        7   https://letterboxd.com/gusvald/film/the-plague-2025/
+Simon               7   https://letterboxd.com/simonlegendary/film/the-plague-2025/
+Amine /محمد أمين    7
+Christina Birro     7
+PaulDC7             7
+Svet                7
+maxine              7
+Josefine            7   https://letterboxd.com/josefinephway/film/the-plague-2025/
+Luhb                7
+PA27                7   https://letterboxd.com/pa27/film/the-plague-2025/
+amour2cine          7
+Nick                7
+Antonio G. Wagner   7
+VacherinProd        7
+Daniel Bayer        7
+ohemlb              7
+ragingbells         7
+Lucas Renaudot      7
+Matt Neglia         7
+j_m_a               7
+Ryan McQuade        7
+Aaro Taina          7
+Giorgio Viaro       7   https://letterboxd.com/gviaro/film/the-plague-2025/
+cinemalick          7
+th_emma             7
+itsAntoine          7
+e. g.               7
+Lorenzo Giovagnoli  7
+Emmanuel van Elslande 7
+romzerzerzer        6
+Matthew Slingsby    6
+camilla toschi      6
+Cherryfuzz          6
+fancypant           6
+Brian Tallerico     6
+cardigans           6
+lucascd             6   https://letterboxd.com/lucascd/film/the-plague-2025/
+Matheus Farias      6
+Marco Catenacci     6
+Francesco Ruzzier   6
+Crayfish            6
+sarahmartres        6
+iName               6
+gerardy             6
+Noël Flantier       6
+Luca                6   https://letterboxd.com/palum/film/the-plague-2025/
+Mateo               6
+NightWatchman       6
+Nicolas             6
+MemoCanan           6
+thoshelb            6
+Patxi Isasti        6
+Dima Elagin         5
+Fawaz               5
+FilmLandEmpire      5   https://letterboxd.com/filmlandempire/film/the-plague-2025/
+YalSadat            5
+annatomion          5
+Eoghan Lyng Lyng    4   https://letterboxd.com/eoghanlyng/film/the-plague-2025/
+Ettore Dalla Zanna  4
+Michael Ghennam     4
+Luke                4
+Jakob Freudendal    4
+Blake Williams      4
+vladdragne          4
+wanderlustmm        4
+Diego Batlle        3   https://letterboxd.com/diegobatlle/film/the-plague-2025/
+moose1607           3
 
 "The Great Arch" (Stéphane Demoustier) [Un Certain Regard]
 
@@ -8184,11 +8632,11 @@ Sven von Reden        4
 # Le film français
 Thierry Chèze            
 Julien Rousset           
-Marcos Uzal              
+Marcos Uzal              5
 Eric Neuhoff             
-Philippe Rouyer          
+Philippe Rouyer          5
 Jaques Mandelbaum       
-Guillemette Odicino      
+Guillemette Odicino      7.5
 Cèline Rouden            
 Jean-Marc Lalanne        
 Michaël Mélinard         
@@ -8490,6 +8938,425 @@ Potluck Pictures    4
 maxine              2
 Brian Tallerico     2
 
+"The Chronology of Water" (Kristen Stewart, USA) [Un Certain Regard]
+ 1st
+
+Owen Gleiberman         https://variety.com/2025/film/reviews/the-chronology-of-water-review-kristen-stewart-1236400138/
+#critic.de
+# Le film français
+Thierry Chèze            7.5
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum        
+Guillemette Odicino      5
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut          
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       7
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
+#moiree
+Mark Asch                
+Miriam Bale              
+Jordan Cronk             
+Flavia Dima              
+Pedro Bernal             
+Francisco Ferreira       
+Devika Girish            
+Leonardi Goi             
+Daniel Kasman            
+Manuela Lazić            
+Beatrice Loayza          
+Giovanni Marchini Camina 
+Savina Petkova           
+Nicolas Rapold           
+Vadim Rizov              
+Öykü Sofuoğlu            
+Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
+Ophelia             10
+isaferrara          10
+Andrea Rendón       10
+Lauren_Kring        10   https://letterboxd.com/lauren_kring/film/the-chronology-of-water/
+CarolTM             10   https://letterboxd.com/caroltm/film/the-chronology-of-water/
+maria ahumada       10
+Jen Cale            10   https://letterboxd.com/jencale/film/the-chronology-of-water/
+Nosebugs            10
+svajotojai          10
+lisa                10
+elenapope           10
+suhani ꩜            10
+Borja93             9   https://letterboxd.com/borja93/film/the-chronology-of-water/
+Pablo Villaça       9
+alexpillarbox       9
+Imaya Ugwonno       9   https://letterboxd.com/imaya/film/the-chronology-of-water/
+lililbn             9
+Leankon             9
+Lucie               9
+brandon_kerpel      9
+Jayson 🎥🌊           8   https://letterboxd.com/jmoney18/film/the-chronology-of-water/
+_lilaaab            8
+João Fonseca        8
+Liam Delahunt       8   https://letterboxd.com/liamdelahunt7/film/the-chronology-of-water/
+Losing Jenna        8
+Nastasya            8
+Kenn_R              8   https://letterboxd.com/k3nnr/film/the-chronology-of-water/
+selmaselma          8
+marylou3            8   https://letterboxd.com/marylou3/film/the-chronology-of-water/
+Alice Barra         8   https://letterboxd.com/zleci/film/the-chronology-of-water/
+Crayfish            8
+len0                8   https://letterboxd.com/len0o0/film/the-chronology-of-water/
+suchpolina          8
+Ajespe              8   https://letterboxd.com/ajespe/film/the-chronology-of-water/
+Aria                8
+Brian Brennan       8
+suzon_thcd          8   https://letterboxd.com/suzon_thcd/film/the-chronology-of-water/
+KidBB _Boris Bastide_ 8
+Dallas King         8   https://letterboxd.com/champcelluloid/film/the-chronology-of-water/
+Travis Weedon       8
+MovieAndLove        8
+Damian Pietrzak     8
+masha_was_here      8
+Ana_V               8
+JackKras            8
+matholde            8
+fede                8
+Christina Newland   8
+Bianca Dantas       8
+Dima Elagin         8
+Anass               8
+Chase Hutchinson    8
+Gabralr             7
+Brother Bro         7
+NikaKZ              7
+Vavzso              7
+Raf                 7
+janabanasova        7
+katuskaaberuska     7
+claudia             7   https://letterboxd.com/neocloud/film/the-chronology-of-water/
+storiesinmotion     7   https://letterboxd.com/storiesinmotion/film/the-chronology-of-water/
+marine              7
+flaviolet           7
+vdkviv              7
+Thomas_Ver          7
+kraniczbence        7   https://letterboxd.com/kraniczbence/film/the-chronology-of-water/
+Clarissel'ir        7
+Berend Jan Bockting 7
+Corentin            7   https://letterboxd.com/coco0306/film/the-chronology-of-water/
+Ella Kemp           7   https://letterboxd.com/ellakemp/film/the-chronology-of-water/
+Miha                7   https://letterboxd.com/clint_westwood/film/the-chronology-of-water/
+JessSpoll           7   https://letterboxd.com/jessspoll/film/the-chronology-of-water/
+nicoz201            7
+Kirapigeon          7
+Lorenzo             7
+Phil                7
+alemontera          7
+Maria Mont          7
+Matt Neglia         7
+Wearecinephile      7
+iana                7
+Aaro Taina          7
+Douglas Greenwood   7
+David Ehrlich       7
+PellePelle27        6
+Perrinetrl          6
+boratsci            6
+Eddie Bertozzi      6
+lele✨               6
+otroscines          6   https://letterboxd.com/otroscines/film/the-chronology-of-water/
+bcornelius          6
+rcfaustine          6   https://letterboxd.com/rcfaustine/film/the-chronology-of-water/
+Bndkt               6
+Calamity__Jane      6
+julietteleveque     6
+inass               6
+trappi123           6
+Peter Bradshaw      6   https://letterboxd.com/peterbradshaw1/film/the-chronology-of-water/
+Antonio G. Wagner   6
+albus22             6
+zoé                 6
+Martina Barone      6
+Pibou               6
+tory                6
+Tamara_K            6
+EmilySarahG         6
+Diego Batlle        6   https://letterboxd.com/diegobatlle/film/the-chronology-of-water/
+jessiedhaliwall     6
+Josefine            6
+charvoi             6   https://letterboxd.com/charvoi/film/the-chronology-of-water/
+Jblanch             6
+Marco Tulio Pires   6   https://letterboxd.com/marcotuliopf/film/the-chronology-of-water/
+Erik Anderson       6
+Yasmine             6
+Mattias             5
+Fawaz               5
+kirstymw_           5
+Alex Billington     5
+glindaofoz          5
+filmacci            5   https://letterboxd.com/filmacci/film/the-chronology-of-water/
+Domenico            5   https://letterboxd.com/dome_gallo/film/the-chronology-of-water/
+Michael Ghennam     5
+Camelou             5   https://letterboxd.com/camelou/film/the-chronology-of-water/
+annastr             5
+sameideal           5
+JoannaSzymanska     5   https://letterboxd.com/joannaszymanska/film/the-chronology-of-water/
+calista             5   https://letterboxd.com/vaterwitz/film/the-chronology-of-water/
+Jack Salvadori      5
+MiralayPascha       5
+Saulo Ferreira      5
+maxine              5
+Giovanna Alvarez    5
+lehaunie            5
+Lucas Renaudot      5
+Cherryfuzz          5
+Léa Dornier         5
+Arthur Cios Vandenbroucke 5
+Daniel Bayer        5
+Emmanuel van Elslande 5
+Sonya Vseliubska    5
+lady bird           4   https://letterboxd.com/boogienxghts/film/the-chronology-of-water/
+ohemlb              4
+Choekaas            4   https://letterboxd.com/choekaas/film/the-chronology-of-water/
+lfz                 4   https://letterboxd.com/lfz/film/the-chronology-of-water/
+wanderlustmm        4
+mister_t_sam        4
+Giorgio Viaro       4
+lucascd             4
+Ginevra             4
+NightWatchman       4
+Luhb                4
+Simón               4
+Vincy Thomas        4
+Eloi Simon          4
+Constant            4
+Shubhra             4
+Fakhreddine Amri    4
+Hugo Emmerzael      4
+Barroul             3   https://letterboxd.com/barroul/film/the-chronology-of-water/
+VieDeCourgette      3
+Sophie Jansen       3   https://letterboxd.com/sophiejansen/film/the-chronology-of-water/
+FilmFan1971         3
+Ignace Maekelbergh  3   https://letterboxd.com/ignacemaek/film/the-chronology-of-water/
+Nicolas Plouhinec   3
+ChloeValmary        3
+Cinzia Galgano      3
+WoodyZales          3
+Connor _Gar_Field   3
+sorethumb           2
+clotildecolson      2
+Marc Domènech       2
+Matheus Farias      2
+joris_b             2
+Franci              2   https://letterboxd.com/franci45/film/the-chronology-of-water/
+Ephraim_Winslow     2
+Marie-Line          2
+Simon Ribeil        2
+moose1607           2
+Anat_hrd            1
+FrankSerpico99      1
+Patxi Isasti        1
+Clémence            1
+forasgarddd         1
+eleonorastar        1
+
+"Météors" (Hubert Charuel, F) [Un Certain Regard]
+
+#critic.de
+# Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum       
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut          
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
+#moiree
+Mark Asch                
+Miriam Bale              
+Jordan Cronk             
+Flavia Dima              
+Pedro Bernal             
+Francisco Ferreira       
+Devika Girish            
+Leonardi Goi             
+Daniel Kasman            
+Manuela Lazić            
+Beatrice Loayza          
+Giovanni Marchini Camina 
+Savina Petkova           
+Nicolas Rapold           
+Vadim Rizov              
+Öykü Sofuoğlu            
+Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
+Alice_le_sang       10
+
+"My Fathers Shadow" (Akinola Davies Jr, Nigeria) [Un Certain Regard]
+ 1st
+
+#critic.de
+# Le film français
+Thierry Chèze            
+Julien Rousset           
+Marcos Uzal              
+Eric Neuhoff             
+Philippe Rouyer          
+Jaques Mandelbaum       
+Guillemette Odicino      
+Cèline Rouden            
+Jean-Marc Lalanne        
+Michaël Mélinard         
+Nicolas Schaller         
+Philippe Lemoine         
+Barbara Théate           
+Sandra Onana             
+Catherine Balle          
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut          
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
+#moiree
+Mark Asch                
+Miriam Bale              
+Jordan Cronk             
+Flavia Dima              
+Pedro Bernal             
+Francisco Ferreira       
+Devika Girish            
+Leonardi Goi             
+Daniel Kasman            
+Manuela Lazić            
+Beatrice Loayza          
+Giovanni Marchini Camina 
+Savina Petkova           
+Nicolas Rapold           
+Vadim Rizov              
+Öykü Sofuoğlu            
+Blake Williams           
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Alice Leroy              
+Yal Sadat                
+Marcos Uzal              
+#letterboxd
+
 "Urchin" (Harris Dickinson, UK) [Un Certain Regard]
  1st
 
@@ -8751,361 +9618,6 @@ Dim59               5
 manondsve           4
 Tamara_K            4
 AnneHuet            2
-
-"A Pale View of Hills" (Kei Ishikawa, Jap) [Un Certain Regard]
-
-#critic.de
-# Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
-# ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
-Daniela Michel           
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
-Diego Batlle             
-Gregory Coutaut          
-# caiman
-Nt Binh                  
-Jean-Michel Frodon       
-Devika Girish            
-Roger Koza               
-Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
-#moiree
-Mark Asch                
-Miriam Bale              
-Jordan Cronk             
-Flavia Dima              
-Pedro Bernal             
-Francisco Ferreira       
-Devika Girish            
-Leonardi Goi             
-Daniel Kasman            
-Manuela Lazić            
-Beatrice Loayza          
-Giovanni Marchini Camina 
-Savina Petkova           
-Nicolas Rapold           
-Vadim Rizov              
-Öykü Sofuoğlu            
-Blake Williams           
-# cahier
-Olivie Cooper-Hadjian    
-Fernando Ganzo           
-Charlotte Garson         
-Mathilde Grasset         
-Élodie Tamayo            
-Thierry Méranger         
-Alice Leroy              
-Yal Sadat                
-Marcos Uzal              
-#letterboxd
-elmacoulon          10
-djbevan613          10
-ivanawhodis         10
-penguinskates       10   https://letterboxd.com/penguinskates/film/a-pale-view-of-hills/
-Xinle Ding          10
-Jorge               10   https://letterboxd.com/jorgeusxiv/film/a-pale-view-of-hills/
-alma_smt            10
-Achille             10
-leSinj              9   https://letterboxd.com/lesinj/film/a-pale-view-of-hills/
-constancelp         9
-miguel_ht21         9
-a_li__ci__a         9
-Morgane             9   https://letterboxd.com/mogoonthego/film/a-pale-view-of-hills/
-jakewhelan          9
-ahpoto              9
-lamercenaire        9
-vgrossmann          8   https://letterboxd.com/vgrossmann/film/a-pale-view-of-hills/
-zzelig              8
-marylou3            8   https://letterboxd.com/marylou3/film/a-pale-view-of-hills/
-Milo UNGARO         8
-JoannaSzymanska     8
-ScommeGuitry        8   https://letterboxd.com/lecrimier/film/a-pale-view-of-hills/
-Juli Jablkowski     8
-JeanLacaille419     8
-sam                 8
-viv_ioo             8
-Hmry                8
-Lola_patin          8
-Clara               8
-Jeremy Marest       8
-Alex K.             8
-Quexington          8   https://letterboxd.com/quexington/film/a-pale-view-of-hills/
-nicopichot          8
-Brygmi              8
-cwl118              8   https://letterboxd.com/cwl118/film/a-pale-view-of-hills/
-clembrunette        8   https://letterboxd.com/clembrunette/film/a-pale-view-of-hills/
-Galahaad_           8
-patrickzen2002      8
-colin vess          8
-sean mcfarland      8   https://letterboxd.com/seandmcfarland/film/a-pale-view-of-hills/
-Bradford            8   https://letterboxd.com/bradfordmoye/film/a-pale-view-of-hills/
-Tristan Ranger      8
-maria ahumada       8
-Julienpjd           8
-Federico Passi      8
-wanderlustmm        8
-Shubhra             8
-Joan                8
-Camelou             8   https://letterboxd.com/camelou/film/a-pale-view-of-hills/
-Gabralr             8
-Ekiatech            8   https://letterboxd.com/ekiatech/film/a-pale-view-of-hills/
-Marie 🫰             8
-katuskaaberuska     8   https://letterboxd.com/katuskaaberuska/film/a-pale-view-of-hills/
-no2mi2              8
-stlmrt              8   https://letterboxd.com/stlmrt/film/a-pale-view-of-hills/
-Léa Dornier         8
-JulienBaud          8
-Eloi Simon          8
-Alex Billington     8
-brandon_kerpel      8
-julesloez           8
-Simon Brocard       8
-ali_lou             8
-Arash Azizi         8
-iName               8
-Giuseppe Montanaro  7
-Titoulgn            7
-Matthew Bergen      7
-Dreamisty           7
-louis_snj           7
-pascaljbonnet       7
-filoute             7   https://letterboxd.com/filoute/film/a-pale-view-of-hills/
-Kirapigeon          7
-goblin_de_luz       7   https://letterboxd.com/goblin_de_luz/film/a-pale-view-of-hills/
-Chab255             7
-pkearne4            7
-czechjulie          7   https://letterboxd.com/czechjulie/film/a-pale-view-of-hills/
-Leah_u              7
-A.A. Dowd           7   https://letterboxd.com/beane_bag/film/a-pale-view-of-hills/
-R0binet             7
-laetitiabllx        7
-Noël Flantier       7   https://letterboxd.com/robynsky/film/a-pale-view-of-hills/
-Macavity11          7
-Ethan               7   https://letterboxd.com/jeantenplurien/film/a-pale-view-of-hills/
-Elio444             7
-roshinmachin        7
-Elliot              7   https://letterboxd.com/dovakh/film/a-pale-view-of-hills/
-DirectorTom         7
-Ignace Maekelbergh  7   https://letterboxd.com/ignacemaek/film/a-pale-view-of-hills/
-maxou               7
-chayma              7   https://letterboxd.com/yymagination/film/a-pale-view-of-hills/
-corentinvlt         7
-Val Scarpaci        7
-Melvin Baduel       7
-GabinW              7   https://letterboxd.com/gabinw/film/a-pale-view-of-hills/
-Arven124            7   https://letterboxd.com/arven124/film/a-pale-view-of-hills/
-stella villaceque   7
-matholde            7
-Jose_Phine          7
-remotetv            7
-Esteban             7
-alicerslt           7
-dear_suzy           7
-KidBB _Boris Bastide_ 7
-Matt_chrs           7   https://letterboxd.com/matt_chrs/film/a-pale-view-of-hills/
-magaligrk           7
-Yannick📽️           7
-Val_gry             7
-Giuseppe Bargagnati 7
-mowerfromlouvre     7
-leylack             7
-Aaro Taina          7
-humzaakbar          7
-Elliot Charrier     7
-sebackland23        7   https://letterboxd.com/sebackland23/film/a-pale-view-of-hills/
-martaluizat         7
-Martin_C            7   https://letterboxd.com/star_ranger/film/a-pale-view-of-hills/
-Nolan_Grando        7
-crowheadd           7
-hrasmussen          7
-Starry_Hope         7
-dimehhhh            7
-Kenn_R              7
-Arjenix             7
-EloRocca            7
-lisonl              7
-Aliki Koutoura      6
-J Taylor-Jones      6
-LuciaForner         6
-hayleycroke         6
-ragingbells         6
-chlocrlt            6
-NightWatchman       6
-Eliot Lischa        6
-anselm              6
-chrispii69          6
-aleseeyaa           6
-sbra                6
-shuuka              6   https://letterboxd.com/shuuka/film/a-pale-view-of-hills/
-leticia             6   https://letterboxd.com/rathag/film/a-pale-view-of-hills/
-Ambrun Kirch        6
-haciseferov         6
-Sophia              6
-JoseMaximiliano     6   https://letterboxd.com/josemaximiliano/film/a-pale-view-of-hills/
-Ariane              6   https://letterboxd.com/arianegdin/film/a-pale-view-of-hills/
-Luca-Gabriel        6
-William Vimber      6
-Barra Mac Ainmhire  6   https://letterboxd.com/uberjebus/film/a-pale-view-of-hills/
-titelynhe           6
-Lisa Chevret        6   https://letterboxd.com/lisaroselou/film/a-pale-view-of-hills/
-burcusari           6
-paupauno            6
-emiliit             6   https://letterboxd.com/emiliit/film/a-pale-view-of-hills/
-gabriellac_         6   https://letterboxd.com/gabriellac_/film/a-pale-view-of-hills/
-yopjcl              6
-Arnia_              6   https://letterboxd.com/arnia_/film/a-pale-view-of-hills/
-popopitooo          6
-annastr             6
-Mateo               6   https://letterboxd.com/mateobradi/film/a-pale-view-of-hills/
-Berend Jan Bockting 6
-Arda Yozbakan       6
-angharad            6
-Parzifall           6
-Yannick VELY        6   https://letterboxd.com/yannickvely/film/a-pale-view-of-hills/
-Vicky_W             6
-milica              6
-Morgana             6
-Maxouchance         6   https://letterboxd.com/maxouchance/film/a-pale-view-of-hills/
-Yao TU              6
-Fred Tsui           6   https://letterboxd.com/fredtsui/film/a-pale-view-of-hills/
-erine               6   https://letterboxd.com/erinechp/film/a-pale-view-of-hills/
-arykle              6
-emcharles           6
-svajotojai          6
-Mauricio Ribeiro    6
-beata_mr            6
-3anjana             6
-Tamara_K            6
-iana                6
-Josefine            6
-Yi-Hsin Shen        6
-Luke Georgiades     6   https://letterboxd.com/lukegeorgiades/film/a-pale-view-of-hills/
-Léon Gallo          6
-Lucas Renaudot      6
-WoodyZales          6
-j_m_a               6
-hugo                6
-Angelina Marilyn    5
-Balint Orosz        5
-lubilatanczyc       5   https://letterboxd.com/lubilatanczyc/film/a-pale-view-of-hills/
-markox              5   https://letterboxd.com/markox/film/a-pale-view-of-hills/
-Federica            5
-Myriam Simonazzi    5
-Anissa_J            5
-enora ☆*:.｡         5
-zuzanna             5   https://letterboxd.com/zteriyaki/film/a-pale-view-of-hills/
-Bastien_D           5
-oscrchrp            5
-itssilka            5
-kya                 5   https://letterboxd.com/awkyard/film/a-pale-view-of-hills/
-kylnnisk            5   https://letterboxd.com/kylnnisk/film/a-pale-view-of-hills/
-lucaew              5
-Max Brodbeck        5
-Oscar Leroux        5
-rosebudshears       5
-Matthew Poole       5
-Abbie George        5
-Saraconterien       5   https://letterboxd.com/saraconterien/film/a-pale-view-of-hills/
-MOMOdu22            5
-capdevilleT         5
-elephante           5
-Omar Franini        5
-Lang LIU            5   https://letterboxd.com/dylwillan/film/a-pale-view-of-hills/
-Quentin Rollet      5
-Edour               5   https://letterboxd.com/edour/film/a-pale-view-of-hills/
-Jayson 🎥🌊           5   https://letterboxd.com/jmoney18/film/a-pale-view-of-hills/
-Johnny Carr         5
-Wiktor Wiertelak    5
-ayyakw              5
-Michael Granados    5
-Imma Pilar          5
-sofianala           5
-stevefair           5   https://letterboxd.com/stevefair/film/a-pale-view-of-hills/
-Zyon                5   https://letterboxd.com/xxxtentazyon/film/a-pale-view-of-hills/
-jacopo              5
-lena2805            5
-peenth              5
-Marlon Schwiersch   5
-Nick Jansen         5
-Champari            5
-yamanka             5
-Souad               4
-asjen               4
-Pavel Sladký        4   https://letterboxd.com/pavelsladky/film/a-pale-view-of-hills/
-Léna                4   https://letterboxd.com/lenabc/film/a-pale-view-of-hills/
-Gabriel Amora       4   https://letterboxd.com/amoragab/film/a-pale-view-of-hills/
-Leyla_Z             4
-tiph                4   https://letterboxd.com/tiphcht/film/a-pale-view-of-hills/
-rdroiska            4
-Liv                 4
-Terry_Malloy        4
-Gaiement            4   https://letterboxd.com/gaiement/film/a-pale-view-of-hills/
-Antoine_Dartois     4   https://letterboxd.com/antoine_dartois/film/a-pale-view-of-hills/
-Eoghan Lyng Lyng    4   https://letterboxd.com/eoghanlyng/film/a-pale-view-of-hills/
-Brian Tallerico     4
-Pierre-Auguste Henry 4   https://letterboxd.com/pahenry/film/a-pale-view-of-hills/
-cléo                4   https://letterboxd.com/cleolqr/film/a-pale-view-of-hills/
-Ulysse22            4   https://letterboxd.com/ulysse22/film/a-pale-view-of-hills/
-jessiedhaliwall     4   https://letterboxd.com/jessiedhaliwall/film/a-pale-view-of-hills/
-Carlos Elorza       4
-Eva Boncour         4
-Stanisław Sobczyk   4
-Feras Almadi        4
-rosefrt             4
-Wearitdown          4
-Achira_D            4   https://letterboxd.com/achira777/film/a-pale-view-of-hills/
-okanacmak           4
-Kinbote75           4
-cel_nb              3   https://letterboxd.com/cel_nb/film/a-pale-view-of-hills/
-ruthgabrat          3
-beeeu               3   https://letterboxd.com/beeeu/film/a-pale-view-of-hills/
-Obmar               3
-GoodluckFindingDori ❤️‍🔥 3
-Vincy Thomas        3
-Pierre Dodin        3
-BenoitPrrier        3
-Teoman Suzer        3
-Jacky Le Breton     3   https://letterboxd.com/jackylebreton/film/a-pale-view-of-hills/
-mongoloid           3
-Patryk              2
-aninerak            2
-Hashim              2
-silverjinx          2   https://letterboxd.com/silverjinx/film/a-pale-view-of-hills/
-Fakhreddine Amri    2
-Luke                2
-NanSLi              2
-Jack Salvadori      2
-Potluck Pictures    1
 
 "Eleanor the Great" (Scarlett Johansson, USA) [Un Certain Regard]
  1st
@@ -9704,255 +10216,6 @@ kiddoy              5
 Paula C Ferraz      5
 LorisDL             5
 
-"The Plague" (Charlie Polinger, USA) [Un Certain Regard]
- 1st
-
-Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/the-plague-review-joel-edgerton-1236215166/
-#critic.de
-Jenny Jecke           7.5     https://www.moviepilot.de/news/intensiv-beklemmend-brutal-ehrlich-dieser-teenie-thriller-ueber-das-ferienlager-des-grauens-laesst-niemanden-kalt-1154494
-Rüdiger Suchsland    5
-# Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
-# ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
-Daniela Michel           
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
-Diego Batlle             
-Gregory Coutaut          
-# caiman
-Nt Binh                  
-Jean-Michel Frodon       7
-Devika Girish            
-Roger Koza               
-Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
-#moiree
-Mark Asch                7
-Blake Williams           3
-# cahier
-Olivie Cooper-Hadjian    
-Fernando Ganzo           1
-Charlotte Garson         
-Mathilde Grasset         
-Élodie Tamayo            
-Thierry Méranger         
-Yal Sadat                5
-Marcos Uzal              
-#letterboxd
-sshooman            10
-EverettBlunck       10
-CadenBurris         10   https://letterboxd.com/cadenburris/film/the-plague-2025/
-will™️              10
-Bichonfrise15       10   https://letterboxd.com/bichonfrise15/film/the-plague-2025/
-Phill               10   https://letterboxd.com/sensiblechuckle/film/the-plague-2025/
-Nikki Massoud       10   https://letterboxd.com/nm1776/film/the-plague-2025/
-Jayson 🎥🌊           10   https://letterboxd.com/jmoney18/film/the-plague-2025/
-sophia              10   https://letterboxd.com/fullmoonsophia/film/the-plague-2025/
-cpol9               10
-henryhayes          10
-alkramer491         10
-alison_wav          10
-TheGraduate75       10   https://letterboxd.com/thegraduate75/film/the-plague-2025/
-rachelbjoyce        10
-Mary Neely          10   https://letterboxd.com/maryneely/film/the-plague-2025/
-masha_was_here      10
-NighttimePrayer     10   https://letterboxd.com/nighttimeprayer/film/the-plague-2025/
-cullenconly         10
-ggmm77              10   https://letterboxd.com/ggmm77/film/the-plague-2025/
-Barroul             10   https://letterboxd.com/barroul/film/the-plague-2025/
-Max Olson           10
-ilikedthemoon       10
-Kitty Grady         10
-elohtema            10
-LiuKang             10
-chayouhou           10
-Nellie Gawdenn      10
-areoharewhy         10
-Claire Delany       10
-lizzieshap          10
-licatab             10
-jeannetnn           10   https://letterboxd.com/jeannetnn/film/the-plague-2025/
-itscharlibb         10
-gregory barnes      10   https://letterboxd.com/dougieluv/film/the-plague-2025/
-Yannick📽️           10
-aajeac              10   https://letterboxd.com/aajeac/film/the-plague-2025/
-dcpierson           10   https://letterboxd.com/dcpierson/film/the-plague-2025/
-jgrossano           10
-bmisk               10
-grahamtechler       10
-James               10
-peopleschoice       10
-mpancer             10
-Jakeitorleaveit     10
-Roberto Drilea      9
-eddatainment        9   https://letterboxd.com/eddatainment/film/the-plague-2025/
-Amélie Motard       9   https://letterboxd.com/ameliemotard/film/the-plague-2025/
-Pernille Middelthon 9   https://letterboxd.com/pernillere/film/the-plague-2025/
-blobfishblob        9
-Tamara_K            9
-Saulo Ferreira      9
-Brother Bro         9
-Uku Pärtel Rand     9
-audrey1202          9
-Eloi Simon          9
-Davide              9   https://letterboxd.com/itsddaveyy/film/the-plague-2025/
-humzaakbar          9
-MarinaGE            8   https://letterboxd.com/marinage/film/the-plague-2025/
-Patryk              8
-Daniel Oliva        8
-JoannaSzymanska     8
-Dewboy Reviews      8   https://letterboxd.com/dewboyreviews/film/the-plague-2025/
-Solène              8   https://letterboxd.com/solenepct/film/the-plague-2025/
-JulienBaud          8
-magaligrk           8
-Gabralr             8
-Trase Henricks      8
-Jenny Jecke         8
-kallilhayon         8   https://letterboxd.com/kallilhayon/film/the-plague-2025/
-popopitooo          8   https://letterboxd.com/popotitooo/film/the-plague-2025/
-Luke Hicks          8   https://letterboxd.com/lou_kicks/film/the-plague-2025/
-Drawer              8   https://letterboxd.com/drawer/film/the-plague-2025/
-JessSpoll           8   https://letterboxd.com/jessspoll/film/the-plague-2025/
-Matty               8   https://letterboxd.com/mattydraps/film/the-plague-2025/
-eva 🪩               8   https://letterboxd.com/evadauvergne/film/the-plague-2025/
-NataliaBocanera     8
-Martyc              8
-Pablo Villaça       8
-czechjulie          8   https://letterboxd.com/czechjulie/film/the-plague-2025/
-Jack                8
-emcesar             8   https://letterboxd.com/emcesar/film/the-plague-2025/
-rob1_clln           8   https://letterboxd.com/rob1_clln/film/the-plague-2025/
-beeeu               8
-Alex Billington     8
-Axellenomorph       8   https://letterboxd.com/axellenomorph/film/the-plague-2025/
-hrisimov02          8
-gonza nullo         8
-detectivezinc       8
-Romain3328          8
-Archer              8
-cléo                8
-Éthanol             8
-Nicolas Plouhinec   8
-janabanasova        8
-Lisa                8   https://letterboxd.com/lisalisaa/film/the-plague-2025/
-sam                 8   https://letterboxd.com/itsmesamuelxx/film/the-plague-2025/
-WoodyZales          8
-stephanieyu         8   https://letterboxd.com/stephanieyu/film/the-plague-2025/
-FilmFan1971         8   https://letterboxd.com/filmfan1971/film/the-plague-2025/
-Simon Brocard       8
-MentalBreakDown     8   https://letterboxd.com/mentalbreakdown/film/the-plague-2025/
-hugo                8   https://letterboxd.com/hugobrkfst/film/the-plague-2025/
-Jack Salvadori      8
-Lewis               7
-soymiguelm          7
-daria tarasova      7   https://letterboxd.com/valv0x/film/the-plague-2025/
-Lilla Gyöngyösi     7   https://letterboxd.com/gyolilla/film/the-plague-2025/
-lionelleg           7
-Nikolay Kostinskiy  7
-isaaccinema         7   https://letterboxd.com/isaaccinema/film/the-plague-2025/
-Matt_chrs           7   https://letterboxd.com/matt_chrs/film/the-plague-2025/
-Meliksah Altuntas   7
-Nora                7
-Omar Franini        7
-Chris Schelb        7
-goblin_de_luz       7   https://letterboxd.com/goblin_de_luz/film/the-plague-2025/
-Szymon Śliwa        7   https://letterboxd.com/gusvald/film/the-plague-2025/
-Simon               7   https://letterboxd.com/simonlegendary/film/the-plague-2025/
-Amine /محمد أمين    7
-Christina Birro     7
-PaulDC7             7
-Svet                7
-maxine              7
-Josefine            7   https://letterboxd.com/josefinephway/film/the-plague-2025/
-Luhb                7
-PA27                7   https://letterboxd.com/pa27/film/the-plague-2025/
-amour2cine          7
-Nick                7
-Antonio G. Wagner   7
-VacherinProd        7
-Daniel Bayer        7
-ohemlb              7
-ragingbells         7
-Lucas Renaudot      7
-Matt Neglia         7
-j_m_a               7
-Ryan McQuade        7
-Aaro Taina          7
-Giorgio Viaro       7   https://letterboxd.com/gviaro/film/the-plague-2025/
-cinemalick          7
-th_emma             7
-itsAntoine          7
-e. g.               7
-Lorenzo Giovagnoli  7
-Emmanuel van Elslande 7
-romzerzerzer        6
-Matthew Slingsby    6
-camilla toschi      6
-Cherryfuzz          6
-fancypant           6
-Brian Tallerico     6
-cardigans           6
-lucascd             6   https://letterboxd.com/lucascd/film/the-plague-2025/
-Matheus Farias      6
-Marco Catenacci     6
-Francesco Ruzzier   6
-Crayfish            6
-sarahmartres        6
-iName               6
-gerardy             6
-Noël Flantier       6
-Luca                6   https://letterboxd.com/palum/film/the-plague-2025/
-Mateo               6
-NightWatchman       6
-Nicolas             6
-MemoCanan           6
-thoshelb            6
-Patxi Isasti        6
-Dima Elagin         5
-Fawaz               5
-FilmLandEmpire      5   https://letterboxd.com/filmlandempire/film/the-plague-2025/
-YalSadat            5
-annatomion          5
-Eoghan Lyng Lyng    4   https://letterboxd.com/eoghanlyng/film/the-plague-2025/
-Ettore Dalla Zanna  4
-Michael Ghennam     4
-Luke                4
-Jakob Freudendal    4
-Blake Williams      4
-vladdragne          4
-wanderlustmm        4
-Diego Batlle        3   https://letterboxd.com/diegobatlle/film/the-plague-2025/
-moose1607           3
-
 "Love Me Tender" (Anna Cazenave Cambet) [Un Certain Regard]
 
 #critic.de
@@ -10206,269 +10469,6 @@ ayyakw              6
 Rui Tendinha        6
 livredimage         6
 GavinLovesMovie     5
-
-"The Chronology of Water" (Kristen Stewart, USA) [Un Certain Regard]
- 1st
-
-#critic.de
-# Le film français
-Thierry Chèze            
-Julien Rousset           
-Marcos Uzal              
-Eric Neuhoff             
-Philippe Rouyer          
-Jaques Mandelbaum       
-Guillemette Odicino      
-Cèline Rouden            
-Jean-Marc Lalanne        
-Michaël Mélinard         
-Nicolas Schaller         
-Philippe Lemoine         
-Barbara Théate           
-Sandra Onana             
-Catherine Balle          
-# ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
-Daniela Michel           
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
-Diego Batlle             
-Gregory Coutaut          
-# caiman
-Nt Binh                  
-Jean-Michel Frodon       7
-Devika Girish            
-Roger Koza               
-Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
-#moiree
-Mark Asch                
-Miriam Bale              
-Jordan Cronk             
-Flavia Dima              
-Pedro Bernal             
-Francisco Ferreira       
-Devika Girish            
-Leonardi Goi             
-Daniel Kasman            
-Manuela Lazić            
-Beatrice Loayza          
-Giovanni Marchini Camina 
-Savina Petkova           
-Nicolas Rapold           
-Vadim Rizov              
-Öykü Sofuoğlu            
-Blake Williams           
-# cahier
-Olivie Cooper-Hadjian    
-Fernando Ganzo           
-Charlotte Garson         
-Mathilde Grasset         
-Élodie Tamayo            
-Thierry Méranger         
-Alice Leroy              
-Yal Sadat                
-Marcos Uzal              
-Owen Gleiberman         https://variety.com/2025/film/reviews/the-chronology-of-water-review-kristen-stewart-1236400138/
-#letterboxd
-Ophelia             10
-isaferrara          10
-Andrea Rendón       10
-Lauren_Kring        10   https://letterboxd.com/lauren_kring/film/the-chronology-of-water/
-CarolTM             10   https://letterboxd.com/caroltm/film/the-chronology-of-water/
-maria ahumada       10
-Jen Cale            10   https://letterboxd.com/jencale/film/the-chronology-of-water/
-Nosebugs            10
-svajotojai          10
-lisa                10
-elenapope           10
-suhani ꩜            10
-Borja93             9   https://letterboxd.com/borja93/film/the-chronology-of-water/
-Pablo Villaça       9
-alexpillarbox       9
-Imaya Ugwonno       9   https://letterboxd.com/imaya/film/the-chronology-of-water/
-lililbn             9
-Leankon             9
-Lucie               9
-brandon_kerpel      9
-Jayson 🎥🌊           8   https://letterboxd.com/jmoney18/film/the-chronology-of-water/
-_lilaaab            8
-João Fonseca        8
-Liam Delahunt       8   https://letterboxd.com/liamdelahunt7/film/the-chronology-of-water/
-Losing Jenna        8
-Nastasya            8
-Kenn_R              8   https://letterboxd.com/k3nnr/film/the-chronology-of-water/
-selmaselma          8
-marylou3            8   https://letterboxd.com/marylou3/film/the-chronology-of-water/
-Alice Barra         8   https://letterboxd.com/zleci/film/the-chronology-of-water/
-Crayfish            8
-len0                8   https://letterboxd.com/len0o0/film/the-chronology-of-water/
-suchpolina          8
-Ajespe              8   https://letterboxd.com/ajespe/film/the-chronology-of-water/
-Aria                8
-Brian Brennan       8
-suzon_thcd          8   https://letterboxd.com/suzon_thcd/film/the-chronology-of-water/
-KidBB _Boris Bastide_ 8
-Dallas King         8   https://letterboxd.com/champcelluloid/film/the-chronology-of-water/
-Travis Weedon       8
-MovieAndLove        8
-Damian Pietrzak     8
-masha_was_here      8
-Ana_V               8
-JackKras            8
-matholde            8
-fede                8
-Christina Newland   8
-Bianca Dantas       8
-Dima Elagin         8
-Anass               8
-Chase Hutchinson    8
-Gabralr             7
-Brother Bro         7
-NikaKZ              7
-Vavzso              7
-Raf                 7
-janabanasova        7
-katuskaaberuska     7
-claudia             7   https://letterboxd.com/neocloud/film/the-chronology-of-water/
-storiesinmotion     7   https://letterboxd.com/storiesinmotion/film/the-chronology-of-water/
-marine              7
-flaviolet           7
-vdkviv              7
-Thomas_Ver          7
-kraniczbence        7   https://letterboxd.com/kraniczbence/film/the-chronology-of-water/
-Clarissel'ir        7
-Berend Jan Bockting 7
-Corentin            7   https://letterboxd.com/coco0306/film/the-chronology-of-water/
-Ella Kemp           7   https://letterboxd.com/ellakemp/film/the-chronology-of-water/
-Miha                7   https://letterboxd.com/clint_westwood/film/the-chronology-of-water/
-JessSpoll           7   https://letterboxd.com/jessspoll/film/the-chronology-of-water/
-nicoz201            7
-Kirapigeon          7
-Lorenzo             7
-Phil                7
-alemontera          7
-Maria Mont          7
-Matt Neglia         7
-Wearecinephile      7
-iana                7
-Aaro Taina          7
-Douglas Greenwood   7
-David Ehrlich       7
-PellePelle27        6
-Perrinetrl          6
-boratsci            6
-Eddie Bertozzi      6
-lele✨               6
-otroscines          6   https://letterboxd.com/otroscines/film/the-chronology-of-water/
-bcornelius          6
-rcfaustine          6   https://letterboxd.com/rcfaustine/film/the-chronology-of-water/
-Bndkt               6
-Calamity__Jane      6
-julietteleveque     6
-inass               6
-trappi123           6
-Peter Bradshaw      6   https://letterboxd.com/peterbradshaw1/film/the-chronology-of-water/
-Antonio G. Wagner   6
-albus22             6
-zoé                 6
-Martina Barone      6
-Pibou               6
-tory                6
-Tamara_K            6
-EmilySarahG         6
-Diego Batlle        6   https://letterboxd.com/diegobatlle/film/the-chronology-of-water/
-jessiedhaliwall     6
-Josefine            6
-charvoi             6   https://letterboxd.com/charvoi/film/the-chronology-of-water/
-Jblanch             6
-Marco Tulio Pires   6   https://letterboxd.com/marcotuliopf/film/the-chronology-of-water/
-Erik Anderson       6
-Yasmine             6
-Mattias             5
-Fawaz               5
-kirstymw_           5
-Alex Billington     5
-glindaofoz          5
-filmacci            5   https://letterboxd.com/filmacci/film/the-chronology-of-water/
-Domenico            5   https://letterboxd.com/dome_gallo/film/the-chronology-of-water/
-Michael Ghennam     5
-Camelou             5   https://letterboxd.com/camelou/film/the-chronology-of-water/
-annastr             5
-sameideal           5
-JoannaSzymanska     5   https://letterboxd.com/joannaszymanska/film/the-chronology-of-water/
-calista             5   https://letterboxd.com/vaterwitz/film/the-chronology-of-water/
-Jack Salvadori      5
-MiralayPascha       5
-Saulo Ferreira      5
-maxine              5
-Giovanna Alvarez    5
-lehaunie            5
-Lucas Renaudot      5
-Cherryfuzz          5
-Léa Dornier         5
-Arthur Cios Vandenbroucke 5
-Daniel Bayer        5
-Emmanuel van Elslande 5
-Sonya Vseliubska    5
-lady bird           4   https://letterboxd.com/boogienxghts/film/the-chronology-of-water/
-ohemlb              4
-Choekaas            4   https://letterboxd.com/choekaas/film/the-chronology-of-water/
-lfz                 4   https://letterboxd.com/lfz/film/the-chronology-of-water/
-wanderlustmm        4
-mister_t_sam        4
-Giorgio Viaro       4
-lucascd             4
-Ginevra             4
-NightWatchman       4
-Luhb                4
-Simón               4
-Vincy Thomas        4
-Eloi Simon          4
-Constant            4
-Shubhra             4
-Fakhreddine Amri    4
-Hugo Emmerzael      4
-Barroul             3   https://letterboxd.com/barroul/film/the-chronology-of-water/
-VieDeCourgette      3
-Sophie Jansen       3   https://letterboxd.com/sophiejansen/film/the-chronology-of-water/
-FilmFan1971         3
-Ignace Maekelbergh  3   https://letterboxd.com/ignacemaek/film/the-chronology-of-water/
-Nicolas Plouhinec   3
-ChloeValmary        3
-Cinzia Galgano      3
-WoodyZales          3
-Connor _Gar_Field   3
-sorethumb           2
-clotildecolson      2
-Marc Domènech       2
-Matheus Farias      2
-joris_b             2
-Franci              2   https://letterboxd.com/franci45/film/the-chronology-of-water/
-Ephraim_Winslow     2
-Marie-Line          2
-Simon Ribeil        2
-moose1607           2
-Anat_hrd            1
-FrankSerpico99      1
-Patxi Isasti        1
-Clémence            1
-forasgarddd         1
-eleonorastar        1
 
 OUT OF COMPETITION
 
