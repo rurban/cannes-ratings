@@ -32,7 +32,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   https://www.cahiersducinema.com/fr-fr/festivals/festival-de-cannes-2025
 #     https://www.cahiersducinema.com/festivals/cannes-film-par-film
 #   https://daily.afisha.ru/cinema/29265-filmy-kannskogo-kinofestivalya-2025-ocenki-rossiyskih-kinokritikov/
-#   https://www.caimanediciones.es/wp-content/uploads/2025/05/cuadro-critico_CANNES-2025.pdf
+#   https://www.caimanediciones.es/festivales/festival-de-cannes/
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/5
 # Reviews:
@@ -191,19 +191,19 @@ Pragya Mishra            6
 J. Sperling Reich        4
 Stephanie Zacharek       4
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
-Devika Girish            
-Roger Koza               
+Nt Binh                  4
+Jean-Michel Frodon       5
+Devika Girish            5
+Roger Koza               5
 Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Jonathan Romney          8
+Marcos Uzal              6
+Stephanie Zacharek       6
+Carlos F. Heredero       8
+Eulalia Iglesias         9
+Jaime Pena               7
+Angel Quintana           9
+Jara Yanez               7
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -1481,19 +1481,19 @@ Pragya Mishra            8
 J. Sperling Reich        4
 Stephanie Zacharek       6
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
-Devika Girish            
-Roger Koza               
+Nt Binh                  8
+Jean-Michel Frodon       6
+Devika Girish            6
+Roger Koza               7
 Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Jonathan Romney          8
+Marcos Uzal              7
+Stephanie Zacharek       7
+Carlos F. Heredero       6
+Eulalia Iglesias         6
+Jaime Pena               6
+Angel Quintana           6
+Jara Yanez               6
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -2652,19 +2652,19 @@ Pragya Mishra            4
 J. Sperling Reich        6
 Stephanie Zacharek       4
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
+Nt Binh                  6
+Jean-Michel Frodon       7
 Devika Girish            
-Roger Koza               
+Roger Koza               5
 Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Jonathan Romney          6
+Marcos Uzal              5
+Stephanie Zacharek       5
+Carlos F. Heredero       4
+Eulalia Iglesias         7
+Jaime Pena               5
+Angel Quintana           7
+Jara Yanez               6
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -2840,19 +2840,19 @@ Lee Marshall             2
 Pragya Mishra            8
 J. Sperling Reich        4
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
-Devika Girish            
-Roger Koza               
+Nt Binh                  5
+Jean-Michel Frodon       9
+Devika Girish            7
+Roger Koza               7
 Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
+Jonathan Romney          7
+Marcos Uzal              2
+Stephanie Zacharek       5
+Carlos F. Heredero       8
+Eulalia Iglesias         8
 Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Angel Quintana           7
+Jara Yanez               8
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -4266,19 +4266,19 @@ Pragya Mishra            6
 J. Sperling Reich        6
 Stephanie Zacharek       6
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
+Nt Binh                  5
+Jean-Michel Frodon       6
 Devika Girish            
-Roger Koza               
+Roger Koza               6
 Jean-Marc Lalanne        
-Jonathan Romney          
+Jonathan Romney          5
 Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Stephanie Zacharek       7
+Carlos F. Heredero       4
+Eulalia Iglesias         7
+Jaime Pena               6
+Angel Quintana           6
+Jara Yanez               7
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -5718,19 +5718,19 @@ Pragya Mishra            4
 J. Sperling Reich        2
 Stephanie Zacharek       4
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
+Nt Binh                  2
+Jean-Michel Frodon       5
 Devika Girish            
 Roger Koza               
 Jean-Marc Lalanne        
-Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Jonathan Romney          4
+Marcos Uzal              5
+Stephanie Zacharek       5
+Carlos F. Heredero       5
+Eulalia Iglesias         4
+Jaime Pena               4
+Angel Quintana           5
+Jara Yanez               4
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -7225,19 +7225,19 @@ Pragya Mishra            6
 J. Sperling Reich        4
 Stephanie Zacharek       4
 # caiman
-Nt Binh                  
-Jean-Michel Frodon       
+Nt Binh                  5
+Jean-Michel Frodon       4
 Devika Girish            
-Roger Koza               
+Roger Koza               3
 Jean-Marc Lalanne        
 Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
+Marcos Uzal              7
+Stephanie Zacharek       6
 Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
+Eulalia Iglesias         5
+Jaime Pena               6
 Angel Quintana           
-Jara Yanez               
+Jara Yanez               4
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -7853,18 +7853,18 @@ J. Sperling Reich        6
 Stephanie Zacharek       8
 # caiman
 Nt Binh                  
-Jean-Michel Frodon       
+Jean-Michel Frodon       8
 Devika Girish            
-Roger Koza               
+Roger Koza               8
 Jean-Marc Lalanne        
 Jonathan Romney          
-Marcos Uzal              
-Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
-Jara Yanez               
+Marcos Uzal              6
+Stephanie Zacharek       9
+Carlos F. Heredero       6
+Eulalia Iglesias         7
+Jaime Pena               8
+Angel Quintana           6
+Jara Yanez               7
 # cineforum.it
 # sentieriselvaggi.it
 # Académie des Lumières
@@ -8937,7 +8937,7 @@ Amandine Rebourg
 Philippe Rouyer          
 Robin Vaz                
 # cahier
-Olivie Cooper-Hadjian    2.
+Olivie Cooper-Hadjian    2
 Fernando Ganzo           
 Charlotte Garson         1
 Mathilde Grasset         
@@ -8971,15 +8971,15 @@ Stephanie Zacharek       8
 Nt Binh                  
 Jean-Michel Frodon       
 Devika Girish            
-Roger Koza               
+Roger Koza               2
 Jean-Marc Lalanne        
 Jonathan Romney          
 Marcos Uzal              
-Stephanie Zacharek       
+Stephanie Zacharek       7
 Carlos F. Heredero       
-Eulalia Iglesias         
-Jaime Pena               
-Angel Quintana           
+Eulalia Iglesias         4
+Jaime Pena               4
+Angel Quintana           3
 Jara Yanez               
 # cineforum.it
 # sentieriselvaggi.it
@@ -13111,18 +13111,18 @@ Marcos Uzal
 Diego Batlle             
 Gregory Coutaut          6
 # caiman
-Nt Binh                  
+Nt Binh                  6
 Jean-Michel Frodon       7
 Devika Girish            
-Roger Koza               
+Roger Koza               2
 Jean-Marc Lalanne        
-Jonathan Romney          
+Jonathan Romney          5
 Marcos Uzal              
 Stephanie Zacharek       
-Carlos F. Heredero       
-Eulalia Iglesias         
+Carlos F. Heredero       4
+Eulalia Iglesias         5
 Jaime Pena               
-Angel Quintana           
+Angel Quintana           4
 Jara Yanez               
 #moiree
 Giovanni Marchini Camia  6
@@ -13136,6 +13136,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -13617,6 +13631,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -14544,6 +14572,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                5
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -15520,6 +15562,20 @@ Mathilde Grasset         5
 Thierry Méranger         
 Yal Sadat                2.5
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -16051,6 +16107,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -16691,6 +16761,20 @@ Mathilde Grasset         7.5
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -16874,6 +16958,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17132,6 +17230,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17216,6 +17328,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17313,6 +17439,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17397,6 +17537,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17489,6 +17643,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17576,6 +17744,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17665,6 +17847,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17754,6 +17950,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17852,6 +18062,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17943,6 +18167,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18031,6 +18269,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18165,17 +18417,17 @@ Lu Hang
 # OutNow (1 3 5 7 8 10)
 #dkstjernebarometer
 # caiman
-Nt Binh                  
+Nt Binh                  6
 Jean-Michel Frodon       5
 Devika Girish            
 Roger Koza               2
 Jean-Marc Lalanne        
-Jonathan Romney          2
-Marcos Uzal              
-Stephanie Zacharek       
+Jonathan Romney          4
+Marcos Uzal              4
+Stephanie Zacharek       5
 Carlos F. Heredero       2
-Eulalia Iglesias         
-Jaime Pena               
+Eulalia Iglesias         4
+Jaime Pena               4
 Angel Quintana           5
 Jara Yanez               
 #moiree
@@ -18241,6 +18493,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18488,6 +18754,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18582,6 +18862,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18771,6 +19065,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18832,6 +19140,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19186,6 +19508,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19241,6 +19577,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19572,6 +19922,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                5
 Marcos Uzal              7.5
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            4
+Roger Koza               5
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              7
+Stephanie Zacharek       5
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           9
+Jara Yanez               6
 #letterboxd
 Letterboxd 1485_Ratings	8.09   https://letterboxd.com/rockshock157/film/mission-impossible-the-final-reckoning/
 Jusfaitchier        8
@@ -19616,6 +19980,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19765,6 +20143,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19819,6 +20211,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19887,6 +20293,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19952,6 +20372,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -20033,6 +20467,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       7
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 #letterboxd
 becca lane          10   https://letterboxd.com/chowchowslide/film/amrum/
 bexrosemarrow       10   https://letterboxd.com/bexrosemarrow/film/amrum/
@@ -20381,6 +20829,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -20436,6 +20898,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -20489,6 +20965,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -20555,6 +21045,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       5
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       8
+Carlos F. Heredero       7
+Eulalia Iglesias         7
+Jaime Pena               5
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -20795,6 +21299,20 @@ Marcos Uzal
 #moiree
 Flavia Dima              7
 Pedro Bernal             0.5
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               3
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       1
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           4
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21110,6 +21628,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21166,6 +21698,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21359,6 +21905,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21504,6 +22064,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21559,6 +22133,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21623,6 +22211,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21691,6 +22293,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -21959,6 +22575,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -22141,6 +22771,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -22195,6 +22839,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -23100,6 +23758,20 @@ Mathilde Grasset         2.5
 Thierry Méranger         2.5
 Yal Sadat                1
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -23767,6 +24439,20 @@ Thierry Méranger
 Alice Leroy              1
 Yal Sadat                2.5
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -24004,6 +24690,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -24321,6 +25021,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -24617,6 +25331,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -24818,6 +25546,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25058,6 +25800,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25224,6 +25980,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25303,6 +26073,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25377,6 +26161,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25448,6 +26246,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25505,6 +26317,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25571,6 +26397,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25653,6 +26493,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25725,6 +26579,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25802,6 +26670,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25870,6 +26752,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -25942,6 +26838,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -26312,6 +27222,20 @@ Thierry Méranger         5
 Alice Leroy              
 Yal Sadat                5
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -26631,6 +27555,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -26994,6 +27932,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27190,6 +28142,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27381,6 +28347,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27545,6 +28525,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27722,6 +28716,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27834,6 +28842,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27889,6 +28911,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -27959,6 +28995,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28139,6 +29189,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28231,6 +29295,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28294,6 +29372,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28383,6 +29475,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28487,6 +29593,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28575,6 +29695,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28629,6 +29763,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -28775,6 +29923,20 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
