@@ -18,8 +18,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 # Polls:
 #   https://www.screendaily.com/news/cannes-2025-screens-dailies/5204869.article
 #   http://www.lefilmfrancais.com/cannes2025
-#     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-1
-#     https://www.lefilmfrancais.com/images/FF5_web.pdf
+#     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-5
 #   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
 #   http://jury.critic.de/cannes/
 #   https://icsfilm.org/festivals/cannes/2025-cannes/cannes-2025-ics-press-industry-panel/
@@ -10981,7 +10980,7 @@ Julien Rousset           5
 Marcos Uzal              7.5
 Eric Neuhoff             7.5
 Philippe Rouyer          
-Jaques Mandelbaum       7.5
+Jaques Mandelbaum        7.5
 Guillemette Odicino      5
 Cèline Rouden            5
 Jean-Marc Lalanne        2.5
