@@ -35,6 +35,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/5
 #   Critikat: https://x.com/Critikat
+#   https://cineforum.it/focus/Cannes-78/I-voti-di-Cannes-78
 # Reviews:
 #   http://variety.com/c/reviews/
 #   http://www.hollywoodreporter.com/topic/movie-reviews
@@ -205,6 +206,18 @@ Jaime Pena               7
 Angel Quintana           9
 Jara Yanez               7
 # cineforum.it
+Bellavita                8
+Bianchi                  10
+Chimento                 6
+Fornara                  
+Gandini                  7
+Gironi                   6
+Manassero                10
+Martini                  6
+Pedroni                  7
+Rossi                    6
+Ruzzier                  6
+Ucceli                   8
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -1513,6 +1526,18 @@ Jaime Pena               6
 Angel Quintana           6
 Jara Yanez               6
 # cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 7
+Fornara                  
+Gandini                  8
+Gironi                   6
+Manassero                7
+Martini                  7
+Pedroni                  6
+Rossi                    8
+Ruzzier                  6
+Ucceli                   7
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -2704,6 +2729,18 @@ Jaime Pena               5
 Angel Quintana           7
 Jara Yanez               6
 # cineforum.it
+Bellavita                7
+Bianchi                  7
+Chimento                 8
+Fornara                  
+Gandini                  6
+Gironi                   8
+Manassero                6
+Martini                  7
+Pedroni                  8
+Rossi                    8
+Ruzzier                  8
+Ucceli                   8
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -2899,6 +2936,18 @@ Jaime Pena
 Angel Quintana           7
 Jara Yanez               8
 # cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   4
+Manassero                7
+Martini                  
+Pedroni                  6
+Rossi                    8
+Ruzzier                  8
+Ucceli                   8
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -4336,6 +4385,18 @@ Jaime Pena               6
 Angel Quintana           6
 Jara Yanez               7
 # cineforum.it
+Bellavita                4
+Bianchi                  7
+Chimento                 6
+Fornara                  
+Gandini                  
+Gironi                   6
+Manassero                4
+Martini                  4
+Pedroni                  8
+Rossi                    4
+Ruzzier                  4
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -5375,6 +5436,18 @@ Jaime Pena               4
 Angel Quintana           5
 Jara Yanez               4
 # cineforum.it
+Bellavita                2
+Bianchi                  2
+Chimento                 7
+Fornara                  4
+Gandini                  
+Gironi                   4
+Manassero                2
+Martini                  4
+Pedroni                  2
+Rossi                    2
+Ruzzier                  6
+Ucceli                   2
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -6978,6 +7051,18 @@ Jaime Pena               6
 Angel Quintana           
 Jara Yanez               4
 # cineforum.it
+Bellavita                4
+Bianchi                  6
+Chimento                 7
+Fornara                  
+Gandini                  6
+Gironi                   6
+Manassero                6
+Martini                  6
+Pedroni                  4
+Rossi                    6
+Ruzzier                  6
+Ucceli                   4
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -7638,6 +7723,18 @@ Jaime Pena               8
 Angel Quintana           6
 Jara Yanez               7
 # cineforum.it
+Bellavita                6
+Bianchi                  6
+Chimento                 8
+Fornara                  
+Gandini                  6
+Gironi                   8
+Manassero                7
+Martini                  7
+Pedroni                  8
+Rossi                    6
+Ruzzier                  10
+Ucceli                   7
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -8858,6 +8955,18 @@ Jaime Pena               4
 Angel Quintana           3
 Jara Yanez               
 # cineforum.it
+Bellavita                2
+Bianchi                  2
+Chimento                 4
+Fornara                  
+Gandini                  4
+Gironi                   4
+Manassero                4
+Martini                  6
+Pedroni                  6
+Rossi                    
+Ruzzier                  2
+Ucceli                   2
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -10176,6 +10285,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                8
+Bianchi                  
+Chimento                 8
+Fornara                  
+Gandini                  8
+Gironi                   10
+Manassero                8
+Martini                  
+Pedroni                  10
+Rossi                    8
+Ruzzier                  
+Ucceli                   10
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -10842,6 +10963,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                4
+Bianchi                  7
+Chimento                 7
+Fornara                  
+Gandini                  8
+Gironi                   6
+Manassero                6
+Martini                  6
+Pedroni                  6
+Rossi                    4
+Ruzzier                  6
+Ucceli                   4
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -11870,6 +12003,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -12046,6 +12191,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -12232,6 +12389,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -12410,6 +12579,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -12585,6 +12766,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -12761,6 +12954,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -12953,6 +13158,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -13136,6 +13353,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -13309,6 +13538,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -13486,6 +13727,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -13674,6 +13927,18 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 # cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # sentieriselvaggi.it
 # Académie des Lumières
 # Russian film critics
@@ -13825,6 +14090,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -14322,6 +14600,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -14734,6 +15025,19 @@ Mathilde Grasset
 Thierry Méranger         5
 Yal Sadat                
 Marcos Uzal              2.5
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -15271,6 +15575,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -15798,6 +16115,19 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              5
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -16267,6 +16597,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -16807,6 +17150,19 @@ Mathilde Grasset
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17469,6 +17825,19 @@ Mathilde Grasset         7.5
 Thierry Méranger         
 Yal Sadat                
 Marcos Uzal              
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17657,6 +18026,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -17942,6 +18324,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18041,6 +18436,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18223,6 +18631,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18321,6 +18742,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18427,6 +18861,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18528,6 +18975,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18631,6 +19091,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18734,6 +19207,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18846,6 +19332,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -18951,6 +19450,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19053,6 +19565,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -19202,9 +19727,21 @@ Angel Quintana           5
 Jara Yanez               
 #moiree
 # cineforum.it
+Bellavita                2
+Bianchi                  2
+Chimento                 4
+Fornara                  
+Gandini                  4
+Gironi                   
+Manassero                4
+Martini                  4
+Pedroni                  
+Rossi                    4
+Ruzzier                  
+Ucceli                   4
 # sentieriselvaggi.it
 # Académie des Lumières
-# Russian film critics
+# Russian film
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -20677,7 +21214,74 @@ AxelBoug            1
 Halima              1
 AmineT              1
 
-"Colours Of Time (La venue de l'Avenir)" (Cédric Klapisch, F) "Mission: Impossible – The Final Reckoning" (Christopher McQuarrie) [Out Of Competition]
+"Colours Of Time (La venue de l'Avenir)" (Cédric Klapisch, F)
+
+#critic.de
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut          
+#moiree
+# cahier
+Olivie Cooper-Hadjian    
+Fernando Ganzo           
+Charlotte Garson         
+Mathilde Grasset         
+Élodie Tamayo            
+Thierry Méranger         
+Yal Sadat                
+Marcos Uzal              
+# caiman
+Nt Binh                  
+Jean-Michel Frodon       
+Devika Girish            
+Roger Koza               
+Jean-Marc Lalanne        
+Jonathan Romney          
+Marcos Uzal              
+Stephanie Zacharek       
+Carlos F. Heredero       
+Eulalia Iglesias         
+Jaime Pena               
+Angel Quintana           
+Jara Yanez               
+# FIPRESCI
+Alberto Ramos             
+Andrea Martini            
+Barbara Lorey             
+Chin-Yuan Liang           
+Eugenia Voda              
+Eva Peydró                
+Gautaman Bhaskaran        
+Ibrahim Houda             
+Jan Pieter Ekker          
+J. Orcheskowska-Bonis     
+João Antunes              
+Jose Luis Losa            
+Katia Bayer               
+Malik Berkati             
+Marie-Pauline Mollaret    
+Min Liu                   
+Nanako Tsukidate          
+Ninos Mikelides           
+Pamela Jahn               
+Raul Reis                 
+Shahia Nahid              
+Ugo Brusaporco            
+Zsolt Gyenge              
+#letterboxd
+
+"Mission: Impossible – The Final Reckoning" (Christopher McQuarrie) [Out Of Competition]
 
 Owen Gleiberman         https://variety.com/2025/film/reviews/mission-impossible-the-final-reckoning-review-tom-cruise-1236396671/
 #critic.de
@@ -20722,6 +21326,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           9
 Jara Yanez               6
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 #letterboxd
 Letterboxd 1485_Ratings	8.09   https://letterboxd.com/rockshock157/film/mission-impossible-the-final-reckoning/
 Jusfaitchier        8
@@ -22143,6 +22760,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           4
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -22477,6 +23107,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                
+Martini                  
+Pedroni                  
+Rossi                    
+Ruzzier                  
+Ucceli                   
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -22547,6 +23190,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               
+# cineforum.it
+Bellavita                6
+Bianchi                  
+Chimento                 
+Fornara                  
+Gandini                  
+Gironi                   
+Manassero                10
+Martini                  8
+Pedroni                  
+Rossi                    7
+Ruzzier                  7
+Ucceli                   8
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -26449,6 +27105,19 @@ Eulalia Iglesias
 Jaime Pena               
 Angel Quintana           
 Jara Yanez               8
+# cineforum.it
+Bellavita                8
+Bianchi                  8
+Chimento                 6
+Fornara                  
+Gandini                  8
+Gironi                   
+Manassero                8
+Martini                  8
+Pedroni                  8
+Rossi                    8
+Ruzzier                  
+Ucceli                   8
 # FIPRESCI
 Alberto Ramos             
 Andrea Martini            
@@ -32130,6 +32799,21 @@ Marin Gérard (Filmmaker, France)
 Clémence Duhorney (Composer, France)
 Étienne Cimetière-Cano (Critikat, France)
 Pierre-Jean Delvolvé (Filmmaker, France)
+";
+$critics_group[$i] = "cineforum.it";
+$critics[$i++] = "
+Bellavita (cineforum, Italy)
+Bianchi (cineforum, Italy)
+Chimento (cineforum, Italy)
+Fornara (cineforum, Italy)
+Gandini (cineforum, Italy)
+Gironi  (cineforum, Italy)
+Manassero (cineforum, Italy)
+Martini (cineforum, Italy)
+Pedroni (cineforum, Italy)
+Rossi (cineforum, Italy)
+Ruzzier (cineforum, Italy)
+Ucceli (cineforum, Italy)
 ";
 # indiewire + various other press reviewers
 $critics_group[$i] = "Other";
