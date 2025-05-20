@@ -26,6 +26,8 @@ c[12][0-9]/
 /[sbc]2*-auto.sh
 /20*.pl
 *.dat.bak
+/chaosreign.pl
+/chaosreign.dat
 /dkstjernebarometer.pl
 /dkstjernebarometer.dat
 /kinoart.ru.pl
@@ -54,6 +56,8 @@ c[12][0-9]/
 /awardswatch.pl
 /perlentaucher.dat
 /perlentaucher.pl
+/kinoart.ru.pl
+/kinoart.ru.dat
 /moiree.dat
 /moiree.pl
 /letterbox
