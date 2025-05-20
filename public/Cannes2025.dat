@@ -11417,7 +11417,7 @@ Ali Benzekri             4
 Nicholas Bell            2
 Anais Bordages           4
 Daniela Michel           
-Marc van de Klashorst    
+Marc van de Klashorst    3
 Guy Lodge                
 Meredith Taylor          6
 Federica Polidoro        7
@@ -12672,9 +12672,9 @@ Rui Tendinha
 Sonya Vseliubska         
 #moiree
 # ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
+Ali Benzekri             2
+Nicholas Bell            4
+Anais Bordages           6
 Daniela Michel           
 Marc van de Klashorst    
 Guy Lodge                
@@ -12682,7 +12682,7 @@ Meredith Taylor
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
-Marcos Uzal              
+Marcos Uzal              4
 Diego Batlle             
 Gregory Coutaut          
 # chaosreign.fr
@@ -13108,18 +13108,18 @@ Mark Asch                7
 Flavia Dima              0.5
 Pedro Bernal             0.5
 # ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
+Ali Benzekri             3
+Nicholas Bell            2
+Anais Bordages           6
 Daniela Michel           
 Marc van de Klashorst    
-Guy Lodge                
+Guy Lodge                4
 Meredith Taylor          
-Federica Polidoro        
+Federica Polidoro        0.5
 Dubravka Lakić           
 Nanako Tsukidate         
-Marcos Uzal              
-Diego Batlle             
+Marcos Uzal              0.5
+Diego Batlle             5
 Gregory Coutaut          
 # chaosreign.fr
 Ariane Allard            
@@ -20129,11 +20129,11 @@ Anais Bordages
 Daniela Michel           
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          6
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
-Marcos Uzal              
+Marcos Uzal              5
 Diego Batlle             
 Gregory Coutaut          
 # caiman
@@ -20380,7 +20380,7 @@ Federica Polidoro
 Dubravka Lakić           
 Nanako Tsukidate         
 Marcos Uzal              
-Diego Batlle             
+Diego Batlle             6
 Gregory Coutaut          
 # caiman
 Nt Binh                  
@@ -20486,13 +20486,13 @@ Nicholas Bell
 Anais Bordages           
 Daniela Michel           
 Marc van de Klashorst    
-Guy Lodge                
+Guy Lodge                7
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
 Marcos Uzal              
-Diego Batlle             
+Diego Batlle             8
 Gregory Coutaut          
 # caiman
 Nt Binh                  
@@ -21932,7 +21932,7 @@ Anais Bordages
 Daniela Michel           
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
@@ -23246,13 +23246,13 @@ Straightothe        3
 #critic.de
 Michael Meyns         6
 # ics
-Ali Benzekri             
+Ali Benzekri             6
 Nicholas Bell            
 Anais Bordages           
 Daniela Michel           
 Marc van de Klashorst    
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
@@ -24141,12 +24141,12 @@ totojakotako        2
 #critic.de
 Sven von Reden        4
 # ics
-Ali Benzekri             
+Ali Benzekri             7
 Nicholas Bell            
 Anais Bordages           
 Daniela Michel           
 Marc van de Klashorst    
-Guy Lodge                
+Guy Lodge                5
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           
@@ -25051,17 +25051,25 @@ Michael Meyns         6
 # ics
 Ali Benzekri             
 Nicholas Bell            
-Anais Bordages           
+Anais Bordages           6
 Daniela Michel           
-Marc van de Klashorst    
+Marc van de Klashorst    7
 Guy Lodge                
 Meredith Taylor          8
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
 Marcos Uzal              
-Diego Batlle             
+Diego Batlle             6
 Gregory Coutaut          
+#moiree
+Mark Asch                8
+Flavia Dima              9
+Pedro Bernal             7
+Daniel Kasman            7
+Giovanni Marchini Camia  8
+Öykü Sofuoğlu         8
+Blake Williams           7
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -25277,14 +25285,6 @@ sarahmartres        4
 imlost2look         4
 Luke                4
 
-#moiree
-Mark Asch                8
-Flavia Dima              9
-Pedro Bernal             7
-Daniel Kasman            7
-Giovanni Marchini Camia  8
-Öykü Sofuoğlu         8
-Blake Williams           7
 
 "Magellan" (Lav Diaz, Phi) [Out Of Competition] Premiere
 
@@ -25304,8 +25304,8 @@ Federica Polidoro
 Dubravka Lakić           
 Nanako Tsukidate         6
 Marcos Uzal              7
-Diego Batlle             
-Gregory Coutaut          
+Diego Batlle             7
+Gregory Coutaut          6
 #moiree
 Flavia Dima              9
 Pedro Bernal             7
@@ -28954,7 +28954,7 @@ Federica Polidoro
 Dubravka Lakić           
 Nanako Tsukidate         
 Marcos Uzal              8
-Diego Batlle             
+Diego Batlle             8
 Gregory Coutaut          8
 #moiree
 Mark Asch                6
@@ -29506,8 +29506,8 @@ Federica Polidoro
 Dubravka Lakić           
 Nanako Tsukidate         3
 Marcos Uzal              
-Diego Batlle             
-Gregory Coutaut          
+Diego Batlle             8
+Gregory Coutaut          4
 #moiree
 # wask
 Didier Péron             
@@ -32273,15 +32273,15 @@ Ali Benzekri
 Nicholas Bell            
 Anais Bordages           
 Daniela Michel           
-Marc van de Klashorst    
+Marc van de Klashorst    3
 Guy Lodge                
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
 Marcos Uzal              
-Diego Batlle             
-Gregory Coutaut          
+Diego Batlle             8
+Gregory Coutaut          6
 #moiree
 # wask
 Didier Péron             
