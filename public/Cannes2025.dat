@@ -10553,16 +10553,16 @@ Blake Williams           5
 # ics
 Ali Benzekri             7
 Nicholas Bell            8
-Anais Bordages           
+Anais Bordages           7
 Daniela Michel           
 Marc van de Klashorst    7
 Guy Lodge                6
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           8
-Nanako Tsukidate         
+Nanako Tsukidate         5
 Marcos Uzal              8
-Diego Batlle             
+Diego Batlle             8
 Gregory Coutaut          
 # chaosreign.fr
 Ariane Allard            6
@@ -12690,8 +12690,8 @@ Marc van de Klashorst
 Guy Lodge                
 Meredith Taylor          
 Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
+Dubravka Lakić           5
+Nanako Tsukidate         2
 Marcos Uzal              4
 Diego Batlle             
 Gregory Coutaut          
@@ -13135,12 +13135,12 @@ Ali Benzekri             3
 Nicholas Bell            2
 Anais Bordages           6
 Daniela Michel           
-Marc van de Klashorst    
+Marc van de Klashorst    2
 Guy Lodge                4
-Meredith Taylor          
+Meredith Taylor          4
 Federica Polidoro        0.5
-Dubravka Lakić           
-Nanako Tsukidate         
+Dubravka Lakić           4
+Nanako Tsukidate         0.5
 Marcos Uzal              0.5
 Diego Batlle             5
 Gregory Coutaut          
@@ -13644,16 +13644,16 @@ Sonya Vseliubska         7
 #moiree
 # ics
 Ali Benzekri             
-Nicholas Bell            
+Nicholas Bell            6
 Anais Bordages           
-Daniela Michel           
-Marc van de Klashorst    
+Daniela Michel           7
+Marc van de Klashorst    8
 Guy Lodge                
 Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
+Federica Polidoro        5
+Dubravka Lakić           5
+Nanako Tsukidate         4
+Marcos Uzal              4
 Diego Batlle             
 Gregory Coutaut          
 # chaosreign.fr
@@ -13835,16 +13835,16 @@ Sonya Vseliubska
 #moiree
 # ics
 Ali Benzekri             
-Nicholas Bell            
+Nicholas Bell            7
 Anais Bordages           
 Daniela Michel           
-Marc van de Klashorst    
-Guy Lodge                
+Marc van de Klashorst    4
+Guy Lodge                3
 Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
+Federica Polidoro        4
+Dubravka Lakić           4
+Nanako Tsukidate         5
+Marcos Uzal              2
 Diego Batlle             
 Gregory Coutaut          
 # chaosreign.fr
@@ -20760,7 +20760,7 @@ Guy Lodge                7
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           
-Nanako Tsukidate         
+Nanako Tsukidate         4
 Marcos Uzal              
 Diego Batlle             8
 Gregory Coutaut          
@@ -20963,16 +20963,16 @@ Barbara Théate
 Sandra Onana             
 Catherine Balle          
 # ics
-Ali Benzekri             
+Ali Benzekri             2
 Nicholas Bell            
 Anais Bordages           
 Daniela Michel           
-Marc van de Klashorst    
+Marc van de Klashorst    2
 Guy Lodge                
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           
-Nanako Tsukidate         
+Nanako Tsukidate         2
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
@@ -21198,13 +21198,13 @@ Barbara Théate
 Sandra Onana             
 Catherine Balle          
 # ics
-Ali Benzekri             
+Ali Benzekri             7
 Nicholas Bell            
 Anais Bordages           
 Daniela Michel           
-Marc van de Klashorst    
+Marc van de Klashorst    8
 Guy Lodge                
-Meredith Taylor          
+Meredith Taylor          8
 Federica Polidoro        
 Dubravka Lakić           
 Nanako Tsukidate         
@@ -24579,10 +24579,10 @@ Daniela Michel
 Marc van de Klashorst    
 Guy Lodge                
 Meredith Taylor          
-Federica Polidoro        
+Federica Polidoro        8
 Dubravka Lakić           
-Nanako Tsukidate         
-Marcos Uzal              
+Nanako Tsukidate         5
+Marcos Uzal              4
 Diego Batlle             
 Gregory Coutaut          
 # cahier
@@ -29893,7 +29893,7 @@ Guy Lodge
 Meredith Taylor          
 Federica Polidoro        
 Dubravka Lakić           
-Nanako Tsukidate         
+Nanako Tsukidate         5
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
@@ -30059,6 +30059,21 @@ sbra                4
  1st
 
 #critic.de
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    4
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         3
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut
+#moiree
 # wask
 Didier Péron             
 Le Monde                 
@@ -32657,6 +32672,21 @@ Jean-Philippe Guerand 4
 
 #critic.de
 Dunja Bialas          6
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    6
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         6
+Marcos Uzal              
+Diego Batlle             
+Gregory Coutaut          
+#moiree
 # wask
 Didier Péron             
 Le Monde                 
