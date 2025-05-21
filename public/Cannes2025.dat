@@ -17,6 +17,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
 #   https://www.screendaily.com/news/cannes-2025-screens-dailies/5204869.article
+#     https://www.screendaily.com/cannes-jury-grid
 #   http://www.lefilmfrancais.com/cannes2025
 #     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-5
 #   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
@@ -12630,15 +12631,15 @@ Valerie Dirk          6
 Josef Lederle         4
 Michael Meyns         7.5
 # Screen Daily
-Nt Binh                  
+Nt Binh                  7.5
 Tim Robey/Robbie Collin  5
-Katja Nikodemus          
+Katja Nikodemus          2.5
 Ben Kenigsberg           5
 Anton Dolin              5
 Peter Bradshaw           
 Justin Chang             5
 Stephanie Zacharek       5
-Ahmed Shawky             
+Ahmed Shawky             2.5
 Mathieu Macheret         2.5
 Kong Ritchie             2.5
 Screen International     7.5
@@ -13070,18 +13071,18 @@ Michael Meyns         7.5
 Sven von Reden        5
 Rüdiger Suchsland    7.5
 # Screen Daily
-Nt Binh                  
-Tim Robey/Robbie Collin  
-Katja Nikodemus          
-Ben Kenigsberg           
-Anton Dolin              
-Peter Bradshaw           
-Justin Chang             
-Stephanie Zacharek       
-Ahmed Shawky             
-Mathieu Macheret         
-Kong Ritchie             
-Screen International     
+Nt Binh                  7.5
+Tim Robey/Robbie Collin  2.5
+Katja Nikodemus          5
+Ben Kenigsberg           2.5
+Anton Dolin              5
+Peter Bradshaw           1
+Justin Chang             5
+Stephanie Zacharek       2.5
+Ahmed Shawky             5
+Mathieu Macheret         1
+Kong Ritchie             2.5
+Screen International     7.5
 # Le film français
 Thierry Chèze            
 Julien Rousset           2.5
