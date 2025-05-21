@@ -241,8 +241,8 @@ Alberto Ramos             8
 Andrea Martini            6
 Barbara Lorey             
 Chin-Yuan Liang           4
-Eugenia Voda              
-Eva Peydró                
+Eugenia Voda              2
+Eva Peydró                10
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
@@ -252,11 +252,11 @@ Jose Luis Losa            10
 Katia Bayer               
 Malik Berkati             8
 Marie-Pauline Mollaret    
-Min Liu                   
+Min Liu                   6
 Nanako Tsukidate          6
-Ninos Mikelides           
+Ninos Mikelides           8
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 8
 Shahia Nahid              2
 Ugo Brusaporco            8
 Zsolt Gyenge              8
@@ -1576,8 +1576,8 @@ Alberto Ramos             8
 Andrea Martini            8
 Barbara Lorey             
 Chin-Yuan Liang           6
-Eugenia Voda              
-Eva Peydró                
+Eugenia Voda              10
+Eva Peydró                6
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
@@ -1589,7 +1589,7 @@ Malik Berkati             6
 Marie-Pauline Mollaret    
 Min Liu                   6
 Nanako Tsukidate          4
-Ninos Mikelides           
+Ninos Mikelides           6
 Pamela Jahn               
 Raul Reis                 8
 Shahia Nahid              6
@@ -2794,27 +2794,27 @@ Kira Golubeva            5
 Ksenia Balyuk            5
 # FIPRESCI
 Alberto Ramos             6
-Andrea Martini            
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           6
+Eugenia Voda              6
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     6
 João Antunes              6
-Jose Luis Losa            
+Jose Luis Losa            4
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
+Min Liu                   6
 Nanako Tsukidate          2
-Ninos Mikelides           
+Ninos Mikelides           6
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 8
 Shahia Nahid              4
-Ugo Brusaporco            
+Ugo Brusaporco            8
 Zsolt Gyenge              
 # Critikat
 Josué Morel               2.5
@@ -3000,27 +3000,27 @@ Kira Golubeva            9
 Ksenia Balyuk            6
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            4
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           8
+Eugenia Voda              4
+Eva Peydró                10
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
+J. Orcheskowska-Bonis     8
 João Antunes              10
-Jose Luis Losa            
+Jose Luis Losa            10
 Katia Bayer               
-Malik Berkati             
+Malik Berkati             4
 Marie-Pauline Mollaret    
-Min Liu                   
+Min Liu                   8
 Nanako Tsukidate          10
-Ninos Mikelides           
+Ninos Mikelides           8
 Pamela Jahn               
-Raul Reis                 
-Shahia Nahid              8
-Ugo Brusaporco            
+Raul Reis                 6
+Shahia Nahid              6
+Ugo Brusaporco            8
 Zsolt Gyenge              10
 # Critikat
 Josué Morel               5
@@ -4448,28 +4448,28 @@ Anton Fomochkin
 Kira Golubeva            
 Ksenia Balyuk            
 # FIPRESCI
-Alberto Ramos             
-Andrea Martini            
+Alberto Ramos             4
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           2
+Eugenia Voda              2
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     6
+João Antunes              2
+Jose Luis Losa            4
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Min Liu                   4
+Nanako Tsukidate          2
+Ninos Mikelides           6
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 6
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            8
 Zsolt Gyenge              
 # Critikat
 Josué Morel               2.5
@@ -5536,29 +5536,29 @@ Anton Fomochkin          4
 Kira Golubeva            4
 Ksenia Balyuk            
 # FIPRESCI
-Alberto Ramos             
-Andrea Martini            
+Alberto Ramos             8
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           4
+Eugenia Voda              4
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     6
+João Antunes              6
+Jose Luis Losa            2
 Katia Bayer               
-Malik Berkati             
+Malik Berkati             2
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Nanako Tsukidate          4
+Ninos Mikelides           8
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 4
 Shahia Nahid              
-Ugo Brusaporco            
-Zsolt Gyenge              
+Ugo Brusaporco            2
+Zsolt Gyenge              6
 # Critikat
 Josué Morel               5
 Corentin Lê               5
@@ -7220,29 +7220,29 @@ Anton Fomochkin          5
 Kira Golubeva            5
 Ksenia Balyuk            
 # FIPRESCI
-Alberto Ramos             
-Andrea Martini            
+Alberto Ramos             6
+Andrea Martini            8
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
+Chin-Yuan Liang           4
+Eugenia Voda              8
 Eva Peydró                
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
-Katia Bayer               
+J. Orcheskowska-Bonis     4
+João Antunes              4
+Jose Luis Losa            4
+Katia Bayer               6
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Min Liu                   6
+Nanako Tsukidate          2
+Ninos Mikelides           6
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 6
 Shahia Nahid              
-Ugo Brusaporco            
-Zsolt Gyenge              
+Ugo Brusaporco            8
+Zsolt Gyenge              8
 # Critikat
 Josué Morel               1
 Corentin Lê               2.5
@@ -7914,29 +7914,29 @@ Anton Fomochkin          1
 Kira Golubeva            8
 Ksenia Balyuk            
 # FIPRESCI
-Alberto Ramos             
-Andrea Martini            
+Alberto Ramos             4
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           4
+Eugenia Voda              8
+Eva Peydró                8
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     2
+João Antunes              6
+Jose Luis Losa            6
 Katia Bayer               
-Malik Berkati             
+Malik Berkati             6
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Min Liu                   6
+Nanako Tsukidate          2
+Ninos Mikelides           6
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 6
 Shahia Nahid              
-Ugo Brusaporco            
-Zsolt Gyenge              
+Ugo Brusaporco            10
+Zsolt Gyenge              6
 # Critikat
 Josué Morel               2.5
 Corentin Lê               2.5
@@ -9215,28 +9215,28 @@ Kira Golubeva            8
 Ksenia Balyuk            4
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           2
+Eugenia Voda              8
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     8
+João Antunes              2
+Jose Luis Losa            4
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Min Liu                   4
+Nanako Tsukidate          2
+Ninos Mikelides           6
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 4
 Shahia Nahid              
-Ugo Brusaporco            
-Zsolt Gyenge              
+Ugo Brusaporco            4
+Zsolt Gyenge              6
 # Critikat
 Josué Morel               2.5
 Corentin Lê               1
@@ -10654,27 +10654,27 @@ Kira Golubeva
 Ksenia Balyuk            
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            8
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           8
+Eugenia Voda              6
+Eva Peydró                6
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
+J. Orcheskowska-Bonis     6
+João Antunes              6
 Jose Luis Losa            
-Katia Bayer               
+Katia Bayer               6
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Min Liu                   8
+Nanako Tsukidate          6
+Ninos Mikelides           6
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 8
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            6
 Zsolt Gyenge              
 # Critikat
 Josué Morel               2.5
@@ -11521,27 +11521,27 @@ Kira Golubeva
 Ksenia Balyuk            
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           2
+Eugenia Voda              10
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     8
+João Antunes              2
+Jose Luis Losa            2
 Katia Bayer               
-Malik Berkati             
+Malik Berkati             4
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
-Ninos Mikelides           
+Min Liu                   4
+Nanako Tsukidate          4
+Ninos Mikelides           8
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 4
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            8
 Zsolt Gyenge              
 # Critikat
 Josué Morel               7.5
@@ -12788,27 +12788,27 @@ Kira Golubeva
 Ksenia Balyuk            
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            4
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           6
+Eugenia Voda              6
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
-Katia Bayer               
+J. Orcheskowska-Bonis     10
+João Antunes              4
+Jose Luis Losa            2
+Katia Bayer               8
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   8
+Nanako Tsukidate          6
 Ninos Mikelides           
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 4
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            6
 Zsolt Gyenge              
 # Critikat
 Josué Morel               
@@ -13238,28 +13238,28 @@ Kira Golubeva
 Ksenia Balyuk            
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            2
 Barbara Lorey             
-Chin-Yuan Liang           
-Eugenia Voda              
-Eva Peydró                
+Chin-Yuan Liang           2
+Eugenia Voda              2
+Eva Peydró                2
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
+J. Orcheskowska-Bonis     4
 João Antunes              
-Jose Luis Losa            
-Katia Bayer               
-Malik Berkati             
+Jose Luis Losa            4
+Katia Bayer               10
+Malik Berkati             2
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   4
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 6
 Shahia Nahid              
-Ugo Brusaporco            
-Zsolt Gyenge              
+Ugo Brusaporco            10
+Zsolt Gyenge              6
 # Critikat
 Josué Morel               
 Corentin Lê               
@@ -13746,23 +13746,23 @@ Ksenia Balyuk
 Alberto Ramos             
 Andrea Martini            
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           8
 Eugenia Voda              
 Eva Peydró                
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     8
+João Antunes              6
+Jose Luis Losa            6
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 8
 Shahia Nahid              
 Ugo Brusaporco            
 Zsolt Gyenge              
@@ -13943,21 +13943,21 @@ Kira Golubeva
 Ksenia Balyuk            
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           4
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+João Antunes              8
+Jose Luis Losa            2
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
+Min Liu                   4
 Nanako Tsukidate          
 Ninos Mikelides           
 Pamela Jahn               
@@ -15450,7 +15450,7 @@ Andrea Martini
 Barbara Lorey             
 Chin-Yuan Liang           4
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
@@ -15462,7 +15462,7 @@ Malik Berkati
 Marie-Pauline Mollaret    
 Min Liu                   4
 Nanako Tsukidate          2
-Ninos Mikelides           
+Ninos Mikelides           6
 Pamela Jahn               
 Raul Reis                 
 Shahia Nahid              
@@ -15971,14 +15971,14 @@ Eva Peydró
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
+J. Orcheskowska-Bonis     4
 João Antunes              
 Jose Luis Losa            
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          2
+Min Liu                   4
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -16393,7 +16393,7 @@ Ucceli
 Alberto Ramos             
 Andrea Martini            
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           6
 Eugenia Voda              
 Eva Peydró                
 Gautaman Bhaskaran        
@@ -16401,12 +16401,12 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            6
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -16965,7 +16965,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -17507,18 +17507,18 @@ Andrea Martini
 Barbara Lorey             
 Chin-Yuan Liang           6
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                6
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            4
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -18009,13 +18009,13 @@ Eva Peydró
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     4
+João Antunes              6
+Jose Luis Losa            10
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
+Min Liu                   6
 Nanako Tsukidate          
 Ninos Mikelides           
 Pamela Jahn               
@@ -19406,26 +19406,26 @@ Rossi
 Ruzzier                  
 Ucceli                   
 # FIPRESCI
-Alberto Ramos             
+Alberto Ramos             10
 Andrea Martini            
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           8
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                8
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
-João Antunes              
+João Antunes              4
 Jose Luis Losa            
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          8
 Ninos Mikelides           
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 6
 Shahia Nahid              
 Ugo Brusaporco            
 Zsolt Gyenge              
@@ -19639,12 +19639,12 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            6
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -20134,7 +20134,7 @@ Andrea Martini
 Barbara Lorey             
 Chin-Yuan Liang           
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                6
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
@@ -20145,12 +20145,12 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            8
 Zsolt Gyenge              
 #letterboxd
 CaroleMarie         10
@@ -20486,16 +20486,16 @@ Gautaman Bhaskaran
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
-João Antunes              
+João Antunes              6
 Jose Luis Losa            
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   4
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
-Raul Reis                 
+Raul Reis                 8
 Shahia Nahid              
 Ugo Brusaporco            
 Zsolt Gyenge              
@@ -20724,7 +20724,7 @@ Andrea Martini
 Barbara Lorey             
 Chin-Yuan Liang           
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                4
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
@@ -20839,7 +20839,7 @@ Andrea Martini
 Barbara Lorey             
 Chin-Yuan Liang           
 Eugenia Voda              
-Eva Peydró                
+Eva Peydró                6
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
@@ -20850,13 +20850,13 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
 Shahia Nahid              
-Ugo Brusaporco            
-Zsolt Gyenge              
+Ugo Brusaporco            8
+Zsolt Gyenge              10
 #letterboxd
 Zhannat             10
 Naomiama            10
@@ -21059,7 +21059,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -21173,7 +21173,7 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            4
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
@@ -21296,7 +21296,7 @@ Jose Luis Losa
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
+Min Liu                   6
 Nanako Tsukidate          
 Ninos Mikelides           
 Pamela Jahn               
@@ -21768,7 +21768,7 @@ J. Orcheskowska-Bonis
 João Antunes              
 Jose Luis Losa            
 Katia Bayer               
-Malik Berkati             
+Malik Berkati             6
 Marie-Pauline Mollaret    
 Min Liu                   
 Nanako Tsukidate          
@@ -26948,27 +26948,27 @@ Yal Sadat
 Marcos Uzal              2.5
 # FIPRESCI
 Alberto Ramos             
-Andrea Martini            
+Andrea Martini            6
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           8
 Eugenia Voda              
 Eva Peydró                
 Gautaman Bhaskaran        
 Ibrahim Houda             
 Jan Pieter Ekker          
-J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+J. Orcheskowska-Bonis     6
+João Antunes              6
+Jose Luis Losa            8
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            8
 Zsolt Gyenge              
 #letterboxd
 Nabonid             10   https://letterboxd.com/nabonid/film/enzo-2025/
@@ -27929,7 +27929,7 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            2
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
@@ -28480,8 +28480,8 @@ Gautaman Bhaskaran
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+João Antunes              8
+Jose Luis Losa            2
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
@@ -28492,7 +28492,7 @@ Pamela Jahn
 Raul Reis                 
 Shahia Nahid              
 Ugo Brusaporco            
-Zsolt Gyenge              
+Zsolt Gyenge              8
 #letterboxd
 Tido_bahati         10   https://letterboxd.com/tido_bahati/film/the-presidents-cake/
 carla25_            10
@@ -28812,12 +28812,12 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            2
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -29122,12 +29122,12 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            8
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -29349,8 +29349,8 @@ Gautaman Bhaskaran
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
-João Antunes              
-Jose Luis Losa            
+João Antunes              8
+Jose Luis Losa            6
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
@@ -29361,7 +29361,7 @@ Pamela Jahn
 Raul Reis                 
 Shahia Nahid              
 Ugo Brusaporco            
-Zsolt Gyenge              
+Zsolt Gyenge              6
 #letterboxd
 Bruno               10
 Aidan Landrum       10   https://letterboxd.com/aidanlandrum/film/mirrors-no-3/
@@ -29605,7 +29605,7 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            8
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
@@ -29789,7 +29789,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -29887,7 +29887,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -29977,8 +29977,8 @@ Jose Luis Losa
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -30059,7 +30059,7 @@ Jan Pieter Ekker
 J. Orcheskowska-Bonis     
 João Antunes              
 Jose Luis Losa            
-Katia Bayer               
+Katia Bayer               8
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
@@ -30136,7 +30136,7 @@ Jara Yanez
 Alberto Ramos             
 Andrea Martini            
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           4
 Eugenia Voda              
 Eva Peydró                
 Gautaman Bhaskaran        
@@ -30148,8 +30148,8 @@ Jose Luis Losa
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -30235,7 +30235,7 @@ Ninos Mikelides
 Pamela Jahn               
 Raul Reis                 
 Shahia Nahid              
-Ugo Brusaporco            
+Ugo Brusaporco            8
 Zsolt Gyenge              
 #letterboxd
 dylancinema99       6
@@ -30673,7 +30673,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   6
-Nanako Tsukidate          4
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -31057,7 +31057,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          4
+Nanako Tsukidate          6
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -31377,7 +31377,7 @@ Jara Yanez
 Alberto Ramos             
 Andrea Martini            
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           6
 Eugenia Voda              
 Eva Peydró                
 Gautaman Bhaskaran        
@@ -31390,7 +31390,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -31762,18 +31762,18 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            6
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
 Shahia Nahid              
 Ugo Brusaporco            
-Zsolt Gyenge              
+Zsolt Gyenge              4
 #letterboxd
 KristinkaW          10
 mbaelle             10   https://letterboxd.com/mbaelle/film/kika-2025/
@@ -32182,7 +32182,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -32347,7 +32347,7 @@ Jara Yanez
 Alberto Ramos             
 Andrea Martini            
 Barbara Lorey             
-Chin-Yuan Liang           
+Chin-Yuan Liang           6
 Eugenia Voda              
 Eva Peydró                
 Gautaman Bhaskaran        
@@ -32360,7 +32360,7 @@ Katia Bayer
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          2
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -32547,12 +32547,12 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            4
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
-Min Liu                   
-Nanako Tsukidate          
+Min Liu                   6
+Nanako Tsukidate          4
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
@@ -32674,7 +32674,7 @@ Ibrahim Houda
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
 João Antunes              
-Jose Luis Losa            
+Jose Luis Losa            8
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
@@ -32685,7 +32685,7 @@ Pamela Jahn
 Raul Reis                 
 Shahia Nahid              
 Ugo Brusaporco            
-Zsolt Gyenge              
+Zsolt Gyenge              8
 #letterboxd
 BordoffVivien       7   https://letterboxd.com/bordoffvivien/film/sleepless-city/
 Raphaëlle           7
@@ -32758,13 +32758,13 @@ Gautaman Bhaskaran
 Ibrahim Houda             
 Jan Pieter Ekker          
 J. Orcheskowska-Bonis     
-João Antunes              
+João Antunes              6
 Jose Luis Losa            
 Katia Bayer               
 Malik Berkati             
 Marie-Pauline Mollaret    
 Min Liu                   
-Nanako Tsukidate          
+Nanako Tsukidate          6
 Ninos Mikelides           
 Pamela Jahn               
 Raul Reis                 
