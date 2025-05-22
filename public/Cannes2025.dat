@@ -104,8 +104,8 @@ Nicholas Bell            7
 Paola Casela             5
 Manon Dumais             9
 Hugo Emmerzael           7
-Rodrigo Fonseca          
-Leda Galanou             
+Rodrigo Fonseca          4
+Leda Galanou             6
 Thomas Gastaldi          8
 Jean-Philippe Guerand    4
 Carlos F. Heredero       8
@@ -113,10 +113,10 @@ Dubravka Lakic           5
 Eric Lavallée            7
 Fabien Lemercier         7
 Min Liu                  
-Elli Mastorou            
+Elli Mastorou            7
 Rafa Sales Ross          8
 Jordan Ruimy             5
-Kuriko Sato              
+Kuriko Sato              8
 Rui Tendinha             
 Sonya Vseliubska         7
 #moiree
@@ -2671,7 +2671,7 @@ Min Liu                  7
 Elli Mastorou            6
 Rafa Sales Ross          4
 Jordan Ruimy             6
-Kuriko Sato              
+Kuriko Sato              6
 Rui Tendinha             6
 Sonya Vseliubska         4
 #moiree
@@ -5415,11 +5415,11 @@ Dubravka Lakic           7
 Eric Lavallée            5
 Fabien Lemercier         4
 Min Liu                  
-Elli Mastorou            
+Elli Mastorou            4
 Rafa Sales Ross          6
 Jordan Ruimy             6
 Kuriko Sato              3
-Rui Tendinha             
+Rui Tendinha             8
 Sonya Vseliubska         8
 #moiree
 Mark Asch                5
@@ -10529,7 +10529,7 @@ Hugo Emmerzael           5
 Rodrigo Fonseca          10
 Leda Galanou             5
 Thomas Gastaldi          7
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    6
 Carlos F. Heredero       7
 Dubravka Lakic           8
 Eric Lavallée            7
@@ -10537,7 +10537,7 @@ Fabien Lemercier         9
 Min Liu                  9
 Elli Mastorou            7
 Rafa Sales Ross          10
-Jordan Ruimy             
+Jordan Ruimy             6
 Kuriko Sato              7
 Rui Tendinha             8
 Sonya Vseliubska         4
@@ -11397,11 +11397,11 @@ Nicholas Bell            2
 Paola Casela             2
 Manon Dumais             6
 Hugo Emmerzael           2
-Rodrigo Fonseca          
+Rodrigo Fonseca          6
 Leda Galanou             4
 Thomas Gastaldi          4
 Jean-Philippe Guerand    2
-Carlos F. Heredero       
+Carlos F. Heredero       4
 Dubravka Lakic           7
 Eric Lavallée            4
 Fabien Lemercier         4
@@ -13643,16 +13643,16 @@ Nicholas Bell            6
 Paola Casela             8
 Manon Dumais             8
 Hugo Emmerzael           7
-Rodrigo Fonseca          
+Rodrigo Fonseca          6
 Leda Galanou             8
 Thomas Gastaldi          7
-Jean-Philippe Guerand    
+Jean-Philippe Guerand    8
 Carlos F. Heredero       7
 Dubravka Lakic           5
 Eric Lavallée            7
 Fabien Lemercier         6
 Min Liu                  6
-Elli Mastorou            
+Elli Mastorou            9
 Rafa Sales Ross          8
 Jordan Ruimy             7
 Kuriko Sato              8
@@ -13831,16 +13831,16 @@ Barbara Théate
 Sandra Onana             
 Catherine Balle          
 # ioncinema
-Leila Amar               
+Leila Amar               6
 Nicholas Bell            7
 Paola Casela             7
 Manon Dumais             5
 Hugo Emmerzael           
-Rodrigo Fonseca          
+Rodrigo Fonseca          4
 Leda Galanou             4
-Thomas Gastaldi          
+Thomas Gastaldi          0.5
 Jean-Philippe Guerand    0.5
-Carlos F. Heredero       
+Carlos F. Heredero       2
 Dubravka Lakic           4
 Eric Lavallée            
 Fabien Lemercier         4
@@ -13849,7 +13849,7 @@ Elli Mastorou
 Rafa Sales Ross          
 Jordan Ruimy             
 Kuriko Sato              4
-Rui Tendinha             
+Rui Tendinha             8
 Sonya Vseliubska         
 #moiree
 Daniel Kasman            3
@@ -14038,25 +14038,25 @@ Sandra Onana
 Catherine Balle          
 # ioncinema
 Leila Amar               
-Nicholas Bell            
+Nicholas Bell            5
 Paola Casela             
-Manon Dumais             
-Hugo Emmerzael           
+Manon Dumais             6
+Hugo Emmerzael           3
 Rodrigo Fonseca          
-Leda Galanou             
-Thomas Gastaldi          
+Leda Galanou             5
+Thomas Gastaldi          8
 Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
-Fabien Lemercier         
-Min Liu                  
-Elli Mastorou            
-Rafa Sales Ross          
-Jordan Ruimy             
-Kuriko Sato              
+Carlos F. Heredero       8
+Dubravka Lakic           6
+Eric Lavallée            6
+Fabien Lemercier         5
+Min Liu                  6
+Elli Mastorou            10
+Rafa Sales Ross          5
+Jordan Ruimy             6
+Kuriko Sato              5
 Rui Tendinha             
-Sonya Vseliubska         
+Sonya Vseliubska         5
 #moiree
 Mark Asch                6
 Jordan Cronk             6
@@ -14246,25 +14246,25 @@ Barbara Théate
 Sandra Onana             
 Catherine Balle          
 # ioncinema
-Leila Amar               
-Nicholas Bell            
+Leila Amar               6
+Nicholas Bell            6
 Paola Casela             
-Manon Dumais             
-Hugo Emmerzael           
-Rodrigo Fonseca          
-Leda Galanou             
-Thomas Gastaldi          
-Jean-Philippe Guerand    
-Carlos F. Heredero       
-Dubravka Lakic           
-Eric Lavallée            
+Manon Dumais             8
+Hugo Emmerzael           8
+Rodrigo Fonseca          8
+Leda Galanou             5
+Thomas Gastaldi          6
+Jean-Philippe Guerand    4
+Carlos F. Heredero       5
+Dubravka Lakic           6
+Eric Lavallée            6
 Fabien Lemercier         
-Min Liu                  
+Min Liu                  3
 Elli Mastorou            
-Rafa Sales Ross          
-Jordan Ruimy             
+Rafa Sales Ross          4
+Jordan Ruimy             6
 Kuriko Sato              
-Rui Tendinha             
+Rui Tendinha             8
 Sonya Vseliubska         
 #moiree
 Mark Asch                3
@@ -14468,22 +14468,22 @@ Sandra Onana
 Catherine Balle          
 # ioncinema
 Leila Amar               
-Nicholas Bell            
+Nicholas Bell            7
 Paola Casela             
-Manon Dumais             
+Manon Dumais             7
 Hugo Emmerzael           
 Rodrigo Fonseca          
-Leda Galanou             
-Thomas Gastaldi          
-Jean-Philippe Guerand    
+Leda Galanou             7
+Thomas Gastaldi          8
+Jean-Philippe Guerand    6
 Carlos F. Heredero       
 Dubravka Lakic           
-Eric Lavallée            
+Eric Lavallée            6
 Fabien Lemercier         
-Min Liu                  
+Min Liu                  6
 Elli Mastorou            
-Rafa Sales Ross          
-Jordan Ruimy             
+Rafa Sales Ross          5
+Jordan Ruimy             6
 Kuriko Sato              
 Rui Tendinha             
 Sonya Vseliubska         
