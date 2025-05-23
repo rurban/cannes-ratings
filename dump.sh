@@ -36,10 +36,10 @@ test -d "public/$d" || mkdir -p "public/$d"
 #        cd public && ln -s $x$thisyear $x && cd -
 #    fi
 #done
+l=public/$d/no-lb.html
+echo "$l"
+env g=Letterboxd perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
+perl -pi fixuplinks.pl public/$d/*no-lb.html
+
 perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
 perl -pi fixuplinks.pl public/$d/*.html
-
-#l=public/$d/no-lb.html
-#echo "$l"
-#env g=Letterboxd perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
-#perl -pi fixuplinks.pl public/$d/*no-lb.html
