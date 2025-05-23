@@ -24,7 +24,7 @@ package Cannes::rurban::2025; # -*- perl -*-
 #   http://jury.critic.de/cannes/
 #   https://icsfilm.org/festivals/cannes/2025-cannes/cannes-2025-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/festival-cannes-2025-tableau-etoiles-critique-competition-film/
+#   https://www.chaosreign.fr/festival-de-cannes-2025-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2025/
 #   https://wask.fr/les-etoiles-wask-2025-jour-par-jour/
 #   https://outnow.ch/Thema/Cannes-2025/
@@ -9135,7 +9135,7 @@ Alexis Demeyer           4
 Marilou Duponchel        
 Julia Escamez            1
 Jean-Michel Froudon      1
-Matteu Maestracci        6
+Matteu Maestracci        4
 Jordan Mintzer           
 Amandine Rebourg         10
 Philippe Rouyer          6
@@ -10570,7 +10570,7 @@ Marcos Uzal              8
 Diego Batlle             8
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            6
+Ariane Allard            8
 Olivier De Bruyn         10
 Olivia Cooper-Hadjian    6
 Alexis Demeyer           8
@@ -12709,17 +12709,17 @@ Marcos Uzal              4
 Diego Batlle             
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            
+Ariane Allard            4
 Olivier De Bruyn         8
 Olivia Cooper-Hadjian    4
 Alexis Demeyer           6
-Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
+Marilou Duponchel        2
+Julia Escamez            2
+Jean-Michel Froudon      4
 Matteu Maestracci        6
 Jordan Mintzer           6
 Amandine Rebourg         
-Philippe Rouyer          
+Philippe Rouyer          6
 Robin Vaz                
 # cahier
 Olivie Cooper-Hadjian    
@@ -13165,14 +13165,14 @@ Ariane Allard            4
 Olivier De Bruyn         1
 Olivia Cooper-Hadjian    2
 Alexis Demeyer           8
-Marilou Duponchel        
+Marilou Duponchel        2
 Julia Escamez            4
 Jean-Michel Froudon      4
 Matteu Maestracci        4
 Jordan Mintzer           2
 Amandine Rebourg         
-Philippe Rouyer          
-Robin Vaz                
+Philippe Rouyer          8
+Robin Vaz                1
 # cahier
 Olivie Cooper-Hadjian    2.5
 Fernando Ganzo           
@@ -13678,18 +13678,18 @@ Marcos Uzal              4
 Diego Batlle             9
 Gregory Coutaut          6
 # chaosreign.fr
-Ariane Allard            
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
+Ariane Allard            6
+Olivier De Bruyn         10
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           8
 Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
-Matteu Maestracci        
-Jordan Mintzer           
+Julia Escamez            6
+Jean-Michel Froudon      10
+Matteu Maestracci        8
+Jordan Mintzer           8
 Amandine Rebourg         
-Philippe Rouyer          
-Robin Vaz                
+Philippe Rouyer          10
+Robin Vaz                4
 # cahier
 Olivie Cooper-Hadjian    5
 Fernando Ganzo           
@@ -13875,18 +13875,18 @@ Marcos Uzal              2
 Diego Batlle             5
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
-Matteu Maestracci        
-Jordan Mintzer           
+Ariane Allard            2
+Olivier De Bruyn         2
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           4
+Marilou Duponchel        2
+Julia Escamez            2
+Jean-Michel Froudon      8
+Matteu Maestracci        2
+Jordan Mintzer           4
 Amandine Rebourg         
-Philippe Rouyer          
-Robin Vaz                
+Philippe Rouyer          6
+Robin Vaz                2
 # cahier
 Olivie Cooper-Hadjian    1
 Fernando Ganzo           
@@ -14089,18 +14089,18 @@ Marcos Uzal
 Diego Batlle             7
 Gregory Coutaut          8
 # chaosreign.fr
-Ariane Allard            
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
-Matteu Maestracci        
-Jordan Mintzer           
+Ariane Allard            8
+Olivier De Bruyn         6
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           8
+Marilou Duponchel        6
+Julia Escamez            4
+Jean-Michel Froudon      4
+Matteu Maestracci        8
+Jordan Mintzer           4
 Amandine Rebourg         
-Philippe Rouyer          
-Robin Vaz                
+Philippe Rouyer          2
+Robin Vaz                4
 # cahier
 Olivie Cooper-Hadjian    2.5
 Fernando Ganzo           
@@ -14302,18 +14302,18 @@ Marcos Uzal
 Diego Batlle             6
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            
+Ariane Allard            2
 Olivier De Bruyn         
 Olivia Cooper-Hadjian    
-Alexis Demeyer           
-Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
-Matteu Maestracci        
-Jordan Mintzer           
+Alexis Demeyer           2
+Marilou Duponchel        4
+Julia Escamez            2
+Jean-Michel Froudon      6
+Matteu Maestracci        2
+Jordan Mintzer           4
 Amandine Rebourg         
-Philippe Rouyer          
-Robin Vaz                
+Philippe Rouyer          2
+Robin Vaz                1
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           2.5
@@ -14534,17 +14534,17 @@ Marcos Uzal
 Diego Batlle             8
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            
-Olivier De Bruyn         
+Ariane Allard            10
+Olivier De Bruyn         8
 Olivia Cooper-Hadjian    
-Alexis Demeyer           
+Alexis Demeyer           4
 Marilou Duponchel        
 Julia Escamez            
-Jean-Michel Froudon      
-Matteu Maestracci        
-Jordan Mintzer           
+Jean-Michel Froudon      10
+Matteu Maestracci        4
+Jordan Mintzer           6
 Amandine Rebourg         
-Philippe Rouyer          
+Philippe Rouyer          8
 Robin Vaz                
 # cahier
 Olivie Cooper-Hadjian    
@@ -14750,17 +14750,17 @@ Marcos Uzal
 Diego Batlle             
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
+Ariane Allard            2
+Olivier De Bruyn         1
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           6
 Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
+Julia Escamez            6
+Jean-Michel Froudon      2
 Matteu Maestracci        
-Jordan Mintzer           
+Jordan Mintzer           6
 Amandine Rebourg         
-Philippe Rouyer          
+Philippe Rouyer          6
 Robin Vaz                
 # cahier
 Olivie Cooper-Hadjian    
@@ -14954,18 +14954,18 @@ Marcos Uzal              4
 Diego Batlle             
 Gregory Coutaut          
 # chaosreign.fr
-Ariane Allard            
-Olivier De Bruyn         
-Olivia Cooper-Hadjian    
-Alexis Demeyer           
+Ariane Allard            8
+Olivier De Bruyn         2
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           10
 Marilou Duponchel        
-Julia Escamez            
-Jean-Michel Froudon      
-Matteu Maestracci        
-Jordan Mintzer           
+Julia Escamez            10
+Jean-Michel Froudon      8
+Matteu Maestracci        8
+Jordan Mintzer           6
 Amandine Rebourg         
 Philippe Rouyer          
-Robin Vaz                
+Robin Vaz                4
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
