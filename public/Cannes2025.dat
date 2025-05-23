@@ -11444,6 +11444,7 @@ garbaggio           1
 
 Peter Debruge           https://variety.com/2025/film/reviews/the-phoenician-scheme-review-wes-anderson-1236402578/
 Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/the-phoenician-scheme-review-wes-anderson-benicio-del-toro-1236220124/
+#moiree
 Mark Asch                6
 Miriam Bale              5
 Jordan Cronk             7
@@ -11511,19 +11512,6 @@ Jordan Ruimy             4
 Kuriko Sato              6
 Rui Tendinha             4
 Sonya Vseliubska         3
-#moiree
-Mark Asch                6
-Miriam Bale              5
-Jordan Cronk             7
-Flavia Dima              7
-Pedro Bernal             5
-Leonardo Goi             5
-Daniel Kasman            4
-Elena Lazić             6
-Nicolas Rapold           8
-Vadim Rizov              8
-Öykü Sofuoğlu         6
-Blake Williams           4
 # ics
 Ali Benzekri             4
 Nicholas Bell            2
@@ -12732,8 +12720,8 @@ Caleb Hammond           https://thefilmstage.com/cannes-review-eagles-of-the-rep
 Steve Pond              https://www.thewrap.com/eagles-of-the-republic-review-movies-and-politics-dont-mix-says-this-movie-about-politics/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/eagles-of-the-republic-review-movies-collide-with-political-might-in-tarik-salehs-dark-and-clever-conspiracy-thriller-1236221497/
 Owen Gleiberman         https://variety.com/2025/film/reviews/eagles-of-the-republic-review-1236404177/
+#moiree
 Jordan Cronk             4
-Jordan Cronk             3
 #critic.de
 Valerie Dirk          6
 Jenny Jecke           6
@@ -12791,8 +12779,6 @@ Jordan Ruimy             6
 Kuriko Sato              
 Rui Tendinha             4
 Sonya Vseliubska         
-#moiree
-Jordan Cronk             4
 # ics
 Ali Benzekri             2
 Nicholas Bell            4
@@ -13175,6 +13161,18 @@ buttercupb          1
 Peter Debruge           https://variety.com/2025/film/reviews/alpha-review-julia-ducournau-1236402887/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/alpha-review-julia-ducournau-1236221272/
 Luke Hicks              https://thefilmstage.com/cannes-review-alpha-is-a-half-baked-misstep-for-julia-ducournau/
+#moiree
+Mark Asch                7
+Miriam Bale              6
+Jordan Cronk             0.5
+Flavia Dima              0.5
+Pedro Bernal             0.5
+Devika Girish            7
+Daniel Kasman            4
+Elena Lazić             8
+Beatrice Loayza          6
+Öykü Sofuoğlu         4
+Blake Williams           2
 #critic.de
 Dunja Bialas          5
 Valerie Dirk          9
@@ -13233,18 +13231,6 @@ Jordan Ruimy             4
 Kuriko Sato              2
 Rui Tendinha             6
 Sonya Vseliubska         2
-#moiree
-Mark Asch                7
-Miriam Bale              6
-Jordan Cronk             0.5
-Flavia Dima              0.5
-Pedro Bernal             0.5
-Devika Girish            7
-Daniel Kasman            4
-Elena Lazić             8
-Beatrice Loayza          6
-Öykü Sofuoğlu         4
-Blake Williams           2
 # ics
 Ali Benzekri             3
 Nicholas Bell            2
@@ -28100,6 +28086,7 @@ Dreamisty           1
 "The Girl in the Snow (L'Engloutie)" (Louise Hémon) [Quinzaine]
  1st
 
+#moiree
 #critic.de
 Michael Meyns         6
 Sven von Reden        6
@@ -28117,7 +28104,6 @@ Nanako Tsukidate         4
 Marcos Uzal              6
 Diego Batlle             6
 Gregory Coutaut          8
-#moiree
 # wask
 Didier Péron             6
 Le Monde                 8
@@ -28387,8 +28373,10 @@ Potluck Pictures    1
 "Brand New Landscape" (Yuiga Danzuka, Japan) [Quinzaine]
  1st
 
-#critic.de
 Blake Simons            https://thefilmstage.com/cannes-review-brand-new-landscape-is-an-embodied-estrangement-drama-from-a-fresh-perspective/
+#moiree
+Giovanni Marchini Camia  3
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -28403,8 +28391,6 @@ Nanako Tsukidate         3
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Giovanni Marchini Camia  3
 # wask
 Didier Péron             
 Le Monde                 4
@@ -28963,6 +28949,12 @@ livredimage         3
 
 "Her Will Be Done (Que ma volonté soit faite)" (Julia Kowalski, F/Pol) [Quinzaine]
 
+#moiree
+Flavia Dima              2
+Pedro Bernal             2
+Daniel Kasman            3
+Giovanni Marchini Camia  0.5
+Blake Williams           1
 #critic.de
 Dunja Bialas          7.5
 Till Kadritzke        4
@@ -28982,12 +28974,6 @@ Nanako Tsukidate         4
 Marcos Uzal              4
 Diego Batlle             6
 Gregory Coutaut          
-#moiree
-Flavia Dima              2
-Pedro Bernal             2
-Daniel Kasman            3
-Giovanni Marchini Camia  0.5
-Blake Williams           1
 # wask
 Didier Péron             4
 Le Monde                 6
@@ -29278,6 +29264,7 @@ hannah1sab4lle      1
  1st
 
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/wild-foxes-review-samuel-kircher-1236205047/
+#moiree
 Öykü Sofuoğlu         4
 #critic.de
 Dunja Bialas          9
@@ -29297,8 +29284,6 @@ Nanako Tsukidate         3
 Marcos Uzal              4
 Diego Batlle             6
 Gregory Coutaut          4
-#moiree
-Öykü Sofuoğlu         4
 # wask
 Didier Péron             
 Le Monde                 4
@@ -29482,6 +29467,7 @@ henoxxxm            1
 
 Guy Lodge               https://variety.com/2025/film/reviews/miroirs-no-3-review-christian-petzold-1236401482/
 Luke Hicks              https://thefilmstage.com/cannes-review-christian-petzolds-mirrors-no-3-is-an-enigmatic-drama-about-letting-go/
+#moiree
 Mark Asch                6
 Flavia Dima              10
 Pedro Bernal             7
@@ -29513,18 +29499,6 @@ Nanako Tsukidate
 Marcos Uzal              8
 Diego Batlle             8
 Gregory Coutaut          8
-#moiree
-Mark Asch                6
-Flavia Dima              10
-Pedro Bernal             7
-Leonardo Goi             7
-Daniel Kasman            5
-Elena Lazić             6
-Beatrice Loayza          5
-Giovanni Marchini Camia  8
-Savina Petkova           10
-Öykü Sofuoğlu         6
-Blake Williams           5
 # wask
 Didier Péron             2
 Le Monde                 10
@@ -29776,6 +29750,7 @@ Nat                 3   https://letterboxd.com/nata_rjs/film/mirrors-no-3/
 "Dangerous Animals" (Sean Byrne) [Quinzaine]
 
 Peter Debruge           https://variety.com/2025/film/reviews/dangerous-animals-review-shark-1236401561/
+#moiree
 #critic.de
 Jenny Jecke           6
 # ics
@@ -29792,7 +29767,6 @@ Nanako Tsukidate
 Marcos Uzal              3
 Diego Batlle             
 Gregory Coutaut          
-#moiree
 # wask
 Didier Péron             6
 Le Monde                 6
@@ -29956,6 +29930,7 @@ fernandatsukada     2
 
 "Kokuho" (Lee Sang-il, Jap) [Quinzaine]
 
+#moiree
 #critic.de
 # ics
 Ali Benzekri             
@@ -29983,7 +29958,6 @@ Alex Masson
 Chaos Reign              
 Fabien David             
 Thomas Gastaldi
-#moiree
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -30052,6 +30026,7 @@ Tomris Laffly           https://variety.com/2025/film/reviews/peak-everything-re
 Steve Pond              https://www.thewrap.com/peak-everything-review-offbeat-canadian-rom-com-finds-love-in-the-face-of-the-apocalypse/
 Jordan Raup             https://thefilmstage.com/cannes-review-peak-everything-finds-lightness-in-the-anxieties-of-societal-ills/
 Leslie Felperin         https://www.hollywoodreporter.com/movies/movie-reviews/peak-everything-review-piper-perabo-1236220640/
+#moiree
 Savina Petkova           7
 #critic.de
 Till Kadritzke        6
@@ -30070,7 +30045,6 @@ Nanako Tsukidate         3
 Marcos Uzal              
 Diego Batlle             8
 Gregory Coutaut          4
-#moiree
 # wask
 Didier Péron             
 Le Monde                 1
@@ -30141,8 +30115,14 @@ PierreNcls          5
 "Lucky Lu" (Lloyd Lee Choi) [Quinzaine]
  1st
 
-#critic.de
 Jessica Kiang           https://variety.com/2025/film/reviews/lucky-lu-review-1236404459/
+#moiree
+Mark Asch                5
+Leonardo Goi             7
+Daniel Kasman            5
+Giovanni Marchini Camia  5
+Blake Williams           5
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -30157,12 +30137,6 @@ Nanako Tsukidate         5
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Mark Asch                5
-Leonardo Goi             7
-Daniel Kasman            5
-Giovanni Marchini Camia  5
-Blake Williams           5
 # wask
 Didier Péron             
 Le Monde                 6
@@ -30232,6 +30206,7 @@ xavmag              3
 "The Party’s Over! (Classe moyenne)" (Antony Cordier, F) [Quinzaine]
 
 Alissa Simon            https://variety.com/2025/film/reviews/the-partys-over-film-review-1236407349/
+#moiree
 #critic.de
 Michael Meyns         2.5
 # ics
@@ -30248,7 +30223,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
 # wask
 Didier Péron             6
 Le Monde                 2
@@ -30319,6 +30293,7 @@ sbra                4
 "Girl on Edge" (Jinghao Zhou, China) [Quinzaine]
  1st
 
+#moiree
 #critic.de
 # ics
 Ali Benzekri             
@@ -30334,7 +30309,6 @@ Nanako Tsukidate         3
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut
-#moiree
 # wask
 Didier Péron             
 Le Monde                 2
@@ -30399,6 +30373,8 @@ Dani                1
 
 "Untamable (Indomptables)" (Thomas Ngijol, Kamerun) [Quinzaine]
 
+#moiree
+Öykü Sofuoğlu         4
 #critic.de
 Michael Meyns         7.5
 # ics
@@ -30415,8 +30391,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Öykü Sofuoğlu         4
 # wask
 Didier Péron             
 Le Monde                 6
@@ -30496,6 +30470,9 @@ Jean-Philippe Guerand 5
 "Militantropos" (Yelizaveta Smith, Alina Gorlova & Simon Mozgovyi) [Quinzaine]
  Doc
 
+#moiree
+Pedro Bernal             4
+Öykü Sofuoğlu         4
 #critic.de
 Michael Meyns         7.5
 Sven von Reden        7.5
@@ -30513,9 +30490,6 @@ Nanako Tsukidate         4
 Marcos Uzal              
 Diego Batlle             6
 Gregory Coutaut          
-#moiree
-Pedro Bernal             4
-Öykü Sofuoğlu         4
 # wask
 Didier Péron             8
 Le Monde                 8
@@ -30585,6 +30559,7 @@ Crayfish            5
 "The Girls We Want (Les filles désir)" (Prïncia Car) [Quinzaine]
  1st
 
+#moiree
 #critic.de
 Till Kadritzke        6
 Michael Meyns         6
@@ -30602,7 +30577,6 @@ Nanako Tsukidate         2
 Marcos Uzal              
 Diego Batlle             6
 Gregory Coutaut          
-#moiree
 # wask
 Didier Péron             
 Le Monde                 1
@@ -30678,6 +30652,7 @@ electrolife         5
 "Yes!" (Nadav Lapid, Isr) [Quinzaine]
  <i>rejected by Cannes</i>
 
+#moiree
 #critic.de
 Michael Meyns         7.5
 Sven von Reden        9
@@ -30695,7 +30670,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
 # wask
 Didier Péron             
 Le Monde                 
@@ -30765,6 +30739,9 @@ debleksheep         1
 "Sorry, Baby" (Eva Victor) [Quinzaine] <i>Sundance</i>
  1st, Closing film
 
+#moiree
+Pedro Bernal             4
+Giovanni Marchini Camia  3
 #critic.de
 Jenny Jecke           7.5
 # ics
@@ -30781,9 +30758,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Pedro Bernal             4
-Giovanni Marchini Camia  3
 # wask
 Didier Péron             
 Le Monde                 
@@ -30852,6 +30826,8 @@ SEMAINE
  <i>Only invited to UCR or Premiere</i>
 
 Peter Debruge           https://variety.com/2025/film/reviews/adams-sake-review-l-interet-d-adam-1236396822/
+#moiree
+Öykü Sofuoğlu            4
 #critic.de
 Till Kadritzke        6       https://www.critic.de/special/kindeswohl-cannes-2025-4758/
 # ics
@@ -30868,8 +30844,6 @@ Nanako Tsukidate         3
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          6
-#moiree
-Öykü Sofuoğlu            4
 # wask
 Didier Péron             4
 Le Monde                 10
@@ -31232,6 +31206,7 @@ alicefernandez      3
 "Reedland (Rietland)" (Sven Bresser) [Semaine]
 
 Catherine Bray          https://variety.com/2025/film/reviews/reedland-review-1236400346/
+#moiree
 Jordan Cronk             6
 Elena Lazić             4
 Giovanni Marchini Camia  6
@@ -31252,11 +31227,6 @@ Nanako Tsukidate         5
 Marcos Uzal              
 Diego Batlle             7
 Gregory Coutaut          
-#moiree
-Jordan Cronk             6
-Elena Lazić             4
-Giovanni Marchini Camia  6
-Savina Petkova           3
 # wask
 Didier Péron             6
 Le Monde                 4
@@ -31569,6 +31539,7 @@ jeromelachasse      2   https://letterboxd.com/jeromelachasse/film/reedland/
 
 Lovia Gyarkye           https://www.hollywoodreporter.com/movies/movie-reviews/left-handed-girl-review-sean-baker-shih-ching-tsou-1236214944/
 Jessica Kiang           https://variety.com/2025/film/reviews/left-handed-girl-review-1236398982/
+#moiree
 Mark Asch                5
 Jordan Cronk             6
 Giovanni Marchini Camia  4
@@ -31590,12 +31561,6 @@ Nanako Tsukidate         2
 Marcos Uzal              
 Diego Batlle             7
 Gregory Coutaut          
-#moiree
-Mark Asch                5
-Jordan Cronk             6
-Giovanni Marchini Camia  4
-Savina Petkova           7
-Blake Williams           5
 # wask
 Didier Péron             
 Le Monde                 8
@@ -31956,6 +31921,8 @@ AnneHuet            3
 
 "Kika" (Alexe Poukine) [Semaine]
 
+#moiree
+Jordan Cronk             5
 #critic.de
 Dunja Bialas          6
 # ics
@@ -31972,8 +31939,6 @@ Nanako Tsukidate         2
 Marcos Uzal              
 Diego Batlle             7
 Gregory Coutaut          
-#moiree
-Jordan Cronk             5
 # wask
 Didier Péron             6
 Le Monde                 6
@@ -32168,6 +32133,7 @@ Noémie              1   https://letterboxd.com/nwakshot/film/kika-2025/
 
 "Baise en ville" (Martin Jauvat, F) [Semaine] Special
 
+#moiree
 #critic.de
 # ics
 Ali Benzekri             
@@ -32183,7 +32149,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          6
-#moiree
 # wask
 Didier Péron             2
 Le Monde                 6
@@ -32370,6 +32335,7 @@ Jordan Raup             https://thefilmstage.com/cannes-review-a-useful-ghost-te
 Alistair Ryder    4    https://awardswatch.com/a-useful-ghost-review-vacuum-cleaner-love-story-doesnt-suck-c-cannes/
 Leslie Felperin         https://www.hollywoodreporter.com/movies/movie-reviews/a-useful-ghost-thai-sex-comedy-1236222701/
 Catherine Bray          https://variety.com/2025/film/reviews/a-useful-ghost-review-haunted-vacuum-cannes-1236406073/
+#moiree
 Jordan Cronk             6
 Flavia Dima              6
 Daniel Kasman            4
@@ -32390,11 +32356,6 @@ Nanako Tsukidate         3
 Marcos Uzal              5
 Diego Batlle             
 Gregory Coutaut          6
-#moiree
-Jordan Cronk             6
-Flavia Dima              6
-Daniel Kasman            4
-Giovanni Marchini Camia  4
 # wask
 Didier Péron             
 Le Monde                 8
@@ -32556,10 +32517,10 @@ Goaurelie           1
 
 Catherine Bray          https://variety.com/2025/film/reviews/love-letters-review-lesbian-pregnancy-cannes-1236407777/
 Emily Maskell     6    https://awardswatch.com/love-letters-review-a-quietly-powerful-portrait-of-queer-motherhood-b-cannes/
+#moiree
 Elena Lazić             7
 Öykü Sofuoğlu         5
 #critic.de
-Emily Maskell     6    https://awardswatch.com/love-letters-review-a-quietly-powerful-portrait-of-queer-motherhood-b-cannes/
 # ics
 Ali Benzekri             8
 Nicholas Bell            
@@ -32574,9 +32535,6 @@ Nanako Tsukidate         3
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          6
-#moiree
-Elena Lazić             7
-Öykü Sofuoğlu         5
 # wask
 Didier Péron             
 Le Monde                 10
@@ -32751,9 +32709,10 @@ FrankSerpico99      4
 
 "Nino" (Pauline Loquès, F) [Semaine]
 
-#critic.de
+#moiree
 Jordan Cronk             5
 Öykü Sofuoğlu         7
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -32768,9 +32727,6 @@ Nanako Tsukidate         4
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Jordan Cronk             5
-Öykü Sofuoğlu         7
 # wask
 Didier Péron             8
 Le Monde                 8
@@ -32881,8 +32837,9 @@ Titi26              3
 
 "Sleepless City (Ciudad Sin Sueño)" (Guillermo Galoe) [Semaine]
 
-#critic.de
+#moiree
 Jordan Cronk             4
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -32897,8 +32854,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             8
 Gregory Coutaut          6
-#moiree
-Jordan Cronk             4
 # wask
 Didier Péron             4
 Le Monde                 10
@@ -32967,6 +32922,8 @@ Jean-Philippe Guerand 4
 
 "Imago" (Déni Oumar Pitsaev) [Semaine]
 
+#moiree
+Jordan Cronk             4
 #critic.de
 Dunja Bialas          6
 # ics
@@ -32983,8 +32940,6 @@ Nanako Tsukidate         6
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Jordan Cronk             4
 # wask
 Didier Péron             
 Le Monde                 
@@ -33052,6 +33007,7 @@ Simon Reshevsky     4
 "Dandelion's Odyssey (Planètes)" (Momoko Seto, B/F) [Semaine]
  Closing film
 
+#moiree
 #critic.de
 Michael Meyns         6
 # ics
@@ -33068,7 +33024,6 @@ Nanako Tsukidate         3
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          8
-#moiree
 # wask
 Didier Péron             
 Le Monde                 8
@@ -33140,21 +33095,6 @@ ACID
 
 "L'Aventura" (Sophie Letourneur, F) [ACID]
 
-#critic.de
-# ics
-Ali Benzekri             
-Nicholas Bell            
-Anais Bordages           
-Daniela Michel           
-Marc van de Klashorst    
-Guy Lodge                
-Meredith Taylor          
-Federica Polidoro        
-Dubravka Lakić           
-Nanako Tsukidate         4
-Marcos Uzal              8
-Diego Batlle             
-Gregory Coutaut          6
 #moiree
 Mark Asch                
 Miriam Bale              
@@ -33173,6 +33113,21 @@ Nicolas Rapold
 Vadim Rizov              
 Öykü Sofuoğlu            7
 Blake Williams           
+#critic.de
+# ics
+Ali Benzekri             
+Nicholas Bell            
+Anais Bordages           
+Daniela Michel           
+Marc van de Klashorst    
+Guy Lodge                
+Meredith Taylor          
+Federica Polidoro        
+Dubravka Lakić           
+Nanako Tsukidate         4
+Marcos Uzal              8
+Diego Batlle             
+Gregory Coutaut          6
 # cahier
 Charlotte Garson    7.5
 Mathilde Grasset    9
@@ -33260,6 +33215,7 @@ Alonso Yarur        2
 
 "The Black Snake (La Couleuvre Noire)" (Aurélien Vernhes-Lermusiaux, Col) [ACID]
 
+#moiree
 #critic.de
 # ics
 Ali Benzekri             
@@ -33275,7 +33231,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -33362,8 +33317,13 @@ Antoine0708         1
 
 "Drunken Noodles" (Lucio Castro, Arg) [ACID]
 
-#critic.de
 Rory O'Connor           https://thefilmstage.com/cannes-review-drunken-noodles-is-a-sultry-and-strangely-calming-drama/
+#moiree
+Mark Asch                8
+Jordan Cronk             6
+Öykü Sofuoğlu         7
+Blake Williams           5
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -33378,11 +33338,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          6
-#moiree
-Mark Asch                8
-Jordan Cronk             6
-Öykü Sofuoğlu         7
-Blake Williams           5
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -33442,10 +33397,11 @@ LorisDL             5
 
 "Entroncamento" (Pedro Cabeleira, Por) [ACID]
 
-#critic.de
+#moiree
 Mark Asch                4
 Jordan Cronk             6
 Vadim Rizov              7
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -33460,10 +33416,6 @@ Nanako Tsukidate         4
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          2
-#moiree
-Mark Asch                4
-Jordan Cronk             6
-Vadim Rizov              7
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -33550,8 +33502,9 @@ popopitooo          1   https://letterboxd.com/popotitooo/film/entroncamento/
 
 "Drifting Laurent (Laurent dans le vent)" (Anton Balekdjian, Léo Couture, Mattéo Eustachon, F) [ACID]
 
-#critic.de
+#moiree
 Mark Asch                5
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -33566,8 +33519,6 @@ Nanako Tsukidate         3
 Marcos Uzal              7
 Diego Batlle             
 Gregory Coutaut          
-#moiree
-Mark Asch                5
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -33670,6 +33621,8 @@ nana                3
 
 "A Light That Never Goes Out" (Lauri-Matti Parppei, Fin) [ACID]
 
+#moiree
+Jordan Cronk             2
 #critic.de
 Jordan Cronk             2
 # ics
@@ -33686,8 +33639,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          4
-#moiree
-Jordan Cronk             2
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -33774,6 +33725,7 @@ Jocelyn             1
 "Obscure Night – Ain't I a Child?" (Sylvain George, Sui/F/Por) [ACID]
  Doc
 
+#moiree
 #critic.de
 # ics
 Ali Benzekri             
@@ -33789,7 +33741,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
@@ -33844,16 +33795,12 @@ Zsolt Gyenge
 
 Siddhant Adlakha        https://variety.com/2025/film/reviews/put-your-soul-on-your-hand-and-walk-review-1236402772/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/put-your-soul-on-your-hand-and-walk-review-gaza-documentary-1236206777/
-Jordan Cronk             6
-Flavia Dima              5
-Pedro Bernal             6
-Blake Williams           6
-#critic.de
 #moiree
 Jordan Cronk             6
 Flavia Dima              5
 Pedro Bernal             6
 Blake Williams           6
+#critic.de
 # ics
 Ali Benzekri             
 Nicholas Bell            
@@ -34007,6 +33954,7 @@ Teragneau           4
 "Life After Siham" (Namir Abdel Messeeh) [ACID]
  Doc
 
+#moiree
 #critic.de
 # ics
 Ali Benzekri             
@@ -34022,7 +33970,6 @@ Nanako Tsukidate
 Marcos Uzal              
 Diego Batlle             
 Gregory Coutaut          
-#moiree
 # cahier
 Olivie Cooper-Hadjian    
 Fernando Ganzo           
