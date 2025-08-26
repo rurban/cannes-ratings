@@ -24,7 +24,7 @@ ber[12][0-9]/
 sun[12][0-9]/
 ven[12][0-9]/
 c[12][0-9]/
-/[sbc]2*-auto.sh
+/[sbcv]2*-auto.sh
 /20*.pl
 *.dat.bak
 /chaosreign.pl
