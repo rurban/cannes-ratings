@@ -1,0 +1,52 @@
+<div id="page">
+      <div id="sidebar">
+        <ul id="sidebar-items">
+          <li>
+            <h3>Years</h3>
+            <ul class="links">
+              <li><a href="/Venice2025">2025</a></li>
+              <li>&nbsp;</li>
+              <li><small><a href="/Cannes"> =&gt; Cannes</a>,
+                         <a href="/Sundance"> =&gt; Sundance</a>,
+                         <a href="/Berlinale">Berlinale</a></small></li>
+            </ul>
+          </li>
+
+          <% side_details %>
+
+          <li>
+            <h3>References</h3>
+
+            <ul class="links">
+              <li><a href="http://www.ioncinema.com/">www.ioncinema.com</a></li>
+              <li><a href="http://www.lefilmfrancais.com/">www.lefilmfrancais.com</a></li>
+              <li><a href="http://www.screendaily.com/">www.screendaily.com</a></li>
+              <li><a href="http://www.indiewire.com/">www.indiewire.com</a></li>
+              <li><a href="https://github.com/rurban/cannes-ratings/commits/master/public">Ratings history on github</a></li>
+              <li><br/><% year %>: <% numratings %> ratings, <% numreviews %> reviews, <% numc %> critics</li>
+            </ul>
+          </li>
+
+          <li>
+            <h3></h3>
+	    <p><% HEADER %></p>
+          </li>
+        </ul>
+      </div>
+
+      <div id="content">
+        <div id="header">
+          <h1>Cannes <% year %> critics ratings</h1>
+          <h2>Scaled to 0-10</h2>
+        </div>
+
+        <div id="list">
+	  <% out %>
+        </div>
+
+        <div id="footer">
+	  <p><% FOOTER %></p>
+        </div>
+
+      </div>
+</div>
