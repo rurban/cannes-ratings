@@ -461,7 +461,7 @@ sub _dump {
       }
     }
     if ($year >= 2020 or $num) {
-      next if $year >= 2020 and $section =~ /^(Classics)$/;
+      #next if $year >= 2020 and $section =~ /^(Classics)$/;
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
