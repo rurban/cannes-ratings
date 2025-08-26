@@ -239,9 +239,6 @@ sub _dump {
   my @t = @{$_[2]};
   my $year = $_[3];
   my @all = @t;
-  @sections = ($comp_section, "Encounters", "Panorama", "Generation",
-               "Perspektive Deutsches Kino", "Forum", "Forum Expanded",
-               "Special", "Retrospektive", "Forum 50", "Woche der Kritik" );
   if (CORE::time() < $finaldate) {
     push @sections, qw[Predictions];
   }
@@ -373,7 +370,7 @@ sub _dump {
     my $a = sprintf("%0.2f",$title{$t}->{avg});
     next if $n<=3 or $a < 7.5;
     my $l = $title{$t}->{line};
-    next if $title{$t}->{section} =~ /^(Retrospektive|Panorama 40|Forum 50|Predictions|Perspektive Gast|Perspektive Match|Other)$/;
+    next if $title{$t}->{section} =~ /^(Classics|Predictions|Other)$/;
     next if $l =~ / 19\d\d\)/;
     next if $l =~ / 200\d\)/;
     next if $l =~ m{</i>$} and $l !~ m{<i>(Netflix|Amazon)}; # other festivals
@@ -464,7 +461,7 @@ sub _dump {
       }
     }
     if ($year >= 2020 or $num) {
-      next if $year >= 2020 and $section =~ /^(Native|Panorama 40)$/;
+      next if $year >= 2020 and $section =~ /^(Classics)$/;
       my $j=1; my $six=1;
       my $qsection = lc($section);
       $qsection =~ s/\W//g;
