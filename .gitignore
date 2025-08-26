@@ -19,9 +19,10 @@ Critic.de.html
 Critic.de.dat
 insert-[bcs][12][0-9]
 insert
-[bcs][12][0-9].sh
+[bcsv][12][0-9].sh
 ber[12][0-9]/
 sun[12][0-9]/
+ven[12][0-9]/
 c[12][0-9]/
 /[sbc]2*-auto.sh
 /20*.pl
@@ -80,6 +81,7 @@ tmp/
 imdb-ratings.csv
 *-recovery-codes.txt
 public/*20*.dat.bak
+/Venice20*.dat
 /up.sh
 /imdb-*.lst
 /imdb.dat
@@ -96,3 +98,5 @@ sun*.tar.bz
 ber*.tar.bz2
 c*.tar.bz2
 sun*.tar.bz2
+/v25
+/ven25
