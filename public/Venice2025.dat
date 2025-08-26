@@ -31,16 +31,16 @@ our $DATA = <<'EOF';
 
 COMPETITION
 
-"Grace" () [Competition] Opener
+"Grace (La grazia)" (Paolo Sorrentino, I) [Competition] Opener
 
 
-"Orphan" (László Nemes) [Competition]
+"Orphan" (László Nemes, Hu) [Competition]
 
 
-"Bugonia" () [Competition]
+"Bugonia" (Yorgos Lanthimos, UK) [Competition]
 
 
-"Jay Kelly" () [Competition]
+"Jay Kelly" (Noah Baumbach, USA) [Competition]
 
 
 "At Work" () [Competition]
@@ -94,10 +94,10 @@ COMPETITION
 "Silent Friend" () [Competition]
 
 
-"Mother" () [Orrizonti]
+"Mother" (Teona Strugar Mitevska, Bel/North Macedonia) [Orrizonti]
 
 
-"Father (Otec)" (Tereza Nvotová) [Orrizonti]
+"Father (Otec)" (Tereza Nvotová, Slovakia) [Orrizonti]
 
 
 "The Kidnapping of Arabella (Il rapimento di Arabella)" (Carolina Cavalli) [Orrizonti]
@@ -151,7 +151,7 @@ COMPETITION
 "Funeral Casino Blues" () [Orrizonti]
 
 
-"Hijra" () [Spotlight]
+"Hijra" (Shahad Ameen, Saudi Arabia) [Spotlight]
 
 
 "A Loose End" () [Spotlight]
@@ -187,7 +187,8 @@ COMPETITION
 "Francesco De Gregori nevergreen" () [Out of Competition]
 
 
-"Origin, the Venetian Lagoon" () [Out of Competition]
+"Origin, the Venetian Lagoon" (Yann Arthus-Bertrand, F) [Out of Competition]
+ 30m
 
 
 "Boomerang Atomic" () [Out of Competition]
@@ -235,7 +236,7 @@ COMPETITION
 "Notes of a True Criminal" () [Out of Competition]
 
 
-"Director's Diary" () [Out of Competition]
+"Director's Diary" (Aleksandr Sokurov) [Out of Competition]
 
 
 "Back Home" () [Out of Competition]
@@ -274,13 +275,16 @@ COMPETITION
 "Hungry Bird" () [Out of Competition]
 
 
-"Queen Kelly" () [Out of Competition]
+"Secret of a Mountain Serpent" (Nidhi Saxena, India) [Out of Competition]
+ Biennale College Cinema
+
+"Queen Kelly" (Eric von Stroheim, USA 1929) [Classics]
 
 
 "Matador" () [Classics]
 
 
-"Bashu, the Little Stranger" () [Classics]
+"Bashu, the Little Stranger" (Bahram Beyzaì, Iran 1989) [Classics]
 
 
 "Port of Shadows" () [Classics]
@@ -316,7 +320,7 @@ COMPETITION
 "House of Strangers" () [Classics]
 
 
-"The Delicate Delinquent" () [Classics]
+"The Delicate Delinquent" (Don McGuire, USA 1957) [Classics]
 
 
 "The Magnificent Cuckold" () [Classics]
@@ -343,7 +347,8 @@ COMPETITION
 "Memoria de Los Olvidados" () [Classics]
 
 
-"MegaDoc" () [Classics]
+"MegaDoc" (Mike Figgis, USA 2025) [Classics]
+ Doc
 
 
 "Boorman and the Devil" () [Classics]
@@ -391,8 +396,8 @@ COMPETITION
 "A Dance in Vain" () [Critics Week]
 
 
-"Memory" (Vladlena Sandu) [Venice Days]
-
+"Memory" (Vladlena Sandu, F/NL) [Venice Days]
+ Opener
 
 "A Sad and Beautiful World" () [Venice Days]
 
@@ -406,7 +411,7 @@ COMPETITION
 "Inside Amir" () [Venice Days]
 
 
-"La gioia" (Nicolangelo Gelormini) [Venice Days]
+"La gioia (Gioia)" (Nicolangelo Gelormini, I) [Venice Days]
 
 
 "Memory of Princess Mumbi" () [Venice Days]
@@ -433,7 +438,7 @@ COMPETITION
 "I Want Her Dead" () [Venice Days]
 
 
-"Laguna" () [Venice Days]
+"Laguna" (Sharunas Bartas, Lit) [Venice Days]
 
 
 "Who is Still Alive" () [Venice Days]
