@@ -81,6 +81,16 @@ background-position: top left;
 height: 90px;
 vertical-align: bottom;
 }
+#vheader {
+padding-left: 200px;
+//padding-top: 60px;
+background-image: url("../images/venice.png");
+background-repeat: no-repeat;
+background-position: top left;
+//background-color: red;
+height: 90px;
+vertical-align: bottom;
+}
 #header h1, #sheader h1 {
 padding-left: 240px;
 padding-right: 30px;
