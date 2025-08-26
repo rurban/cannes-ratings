@@ -14,6 +14,7 @@ fi
 if [ -z "$1" ]; then
     echo Berlinale201{6,7,8,9} Berlinale202{0,1,2,3,4,5} \
          Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4,5} \
+         Venice2025 \
          Sundance201{5,6,7,8,9} Sundance202{0,1,2,3,4,5} >dirs.txt
     for d in $(cat dirs.txt); do
         ./dump.sh $args "$d"
@@ -27,6 +28,7 @@ case $d in
     Cannes20[0-9][0-9])    fest=Cannes    ;;
     Berlinale20[0-9][0-9]) fest=Berlinale ;;
     Sundance20[0-9][0-9])  fest=Sundance  ;;
+    Venice20[0-9][0-9])  fest=Venice  ;;
     *) exit 1 ;;
 esac
 year="$(perl -le'shift =~ /(20\d\d)/ && print $1' "$d")"

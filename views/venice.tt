@@ -36,7 +36,7 @@
 
       <div id="content">
         <div id="header">
-          <h1>Cannes <% year %> critics ratings</h1>
+          <h1>Venice <% year %> critics ratings</h1>
           <h2>Scaled to 0-10</h2>
         </div>
 

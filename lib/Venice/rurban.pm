@@ -10,9 +10,10 @@ our $VERSION = '0.2';
 our $BASE = 'Venice';
 our @YEARS = (2025);
 our $comp_section = 'Competition';
+our $finaldate = Time::Piece->strptime('26 August 2025', '%d %B %Y')->epoch;
 # "Encounters" 2020+
 our @sections = ($comp_section, "Orrizonti", "Out of Competition", "Spotlight", "Classics",
-                 "Critic's Week", "Venice Days");
+                 "Critics Week", "Venice Days");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
