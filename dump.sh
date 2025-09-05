@@ -28,7 +28,7 @@ case $d in
     Cannes20[0-9][0-9])    fest=Cannes    ;;
     Berlinale20[0-9][0-9]) fest=Berlinale ;;
     Sundance20[0-9][0-9])  fest=Sundance  ;;
-    Venice20[0-9][0-9])  fest=Venice  ;;
+    Venice20[0-9][0-9])    fest=Venice  ;;
     *) exit 1 ;;
 esac
 year="$(perl -le'shift =~ /(20\d\d)/ && print $1' "$d")"
