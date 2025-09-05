@@ -9,6 +9,7 @@ case $d in
     Cannes20[0-9][0-9]) ;;
     Berlinale20[0-9][0-9]) ;;
     Sundance20[0-9][0-9]) ;;
+    Venice20[0-9][0-9]) ;;
     *) exit 1 ;;
 esac
 echo $d
