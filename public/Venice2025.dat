@@ -21,10 +21,9 @@ package Venice::rurban::2025; # -*- perl -*-
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/venice
 #   https://www.indiewire.com/t/venice
-#   https://thefilmstage.com/?tags=venice-2025
+#   https://thefilmstage.com/tag/venice-2025/
 #   https://www.theguardian.com/film/venice-2025
 #   https://www.thewrap.com/
-#   https://awardswatch.com/category/reviews/filmreviews/venice-film-festival/
 
 use utf8;
 our $DATA = <<'EOF';
@@ -19178,12 +19177,11 @@ alonthebaloon       1
 
 "Duse" (Pietro Mercello, I) [Competition]
 
-
 Jessica Kiang           https://variety.com/2025/film/reviews/duse-review-pietro-marcello-1236504048/
 David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/duse-review-valeria-bruni-tedeschi-pietro-marcello-1236361969/
 #moiree
 Devika Girish            5
-Leonardo Goi             6
+Leonardo Goi             6    https://thefilmstage.com/venice-review-pietro-marcellos-duse-serves-a-straightforward-tribute-to-a-legendary-prima-donna/
 Chloe Lizotte            5
 Christopher Small        5
 Öykü Sofuoğlu         4
@@ -44949,7 +44947,6 @@ Gwilym Mumford (Guardian, UK)
 Harry Windsor (The Hollywood Reporter, USA)
 Hemanth Kissoon (Filmaluation, UK)
 Henry Barnes (Guardian, UK)
-Hugo Emmerzael (De Filmkrant, Netherlands)
 Iana Murray (AwardsWatch, UK)
 Ignatiy Vishnevetsky (A.V. Club, USA)
 Isabelle Regnier (Le Monde, France)
