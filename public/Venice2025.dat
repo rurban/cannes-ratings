@@ -44799,22 +44799,15 @@ Zsolt Gyenge (Fipresci)
 #Mariona Borrull (Freelance, España)
 $critics_group[$i] = "Moiree";
 $critics[$i++] = "
-Mark Asch (InsideHook, USA)
-Miriam Bale (W Magazine, USA)
 Jordan Cronk (Artforum, USA)
-Flavia Dima (Films in France, Romania)
-Pedro Bernal (La Ola Cine, Mexico)
+Hugo Emmerzael (Filmkrant, NL)
 Devika Girish (Film Comment, USA)
 Leonardi Goi (MUBI, UK)
-Daniel Kasman (MUBI, USA)
-Manuela Lazić (The Playlist, UK)
-Beatrice Loayza (Film Comment, USA)
-Giovanni Marchini Camina (Sight & Sound, Germany)
+Chloe Lizotte (Notebook, USA)
 Savina Petkova (Cineurope, UK)
 Nicolas Rapold (The Last Thing I Saw, USA)
-Vadim Rizov (Filmmaker Magazine, USA)
 Öykü Sofuoğlu (Altyazi/Sorociné, France)
-Blake Williams (Filmmaker Magazine, USA)
+Sonya Vseliubska (Ukrainska Pravda, UKR)
 ";
 $critics_group[$i] = "cineforum.it";
 $critics[$i++] = "
