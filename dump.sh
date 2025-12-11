@@ -15,7 +15,7 @@ if [ -z "$1" ]; then
     echo Berlinale201{6,7,8,9} Berlinale202{0,1,2,3,4,5} \
          Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4,5} \
          Venice2025 \
-         Sundance201{5,6,7,8,9} Sundance202{0,1,2,3,4,5} >dirs.txt
+         Sundance201{5,6,7,8,9} Sundance202{0,1,2,3,4,5,6} >dirs.txt
     for d in $(cat dirs.txt); do
         ./dump.sh $args "$d"
     done
@@ -40,8 +40,10 @@ test -d "public/$d" || mkdir -p "public/$d"
 #done
 l=public/$d/no-lb.html
 echo "$l"
+echo env g=Letterboxd perl -Ilib -M$fest::rurban -e"\"$fest::rurban::_dump_all($year)\""
 env g=Letterboxd perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
-perl -pi fixuplinks.pl public/$d/*no-lb.html
+ls public/$d/*no-lb.html 2>/dev/null && perl -pi fixuplinks.pl public/$d/*no-lb.html
 
+echo perl -Ilib -M$fest::rurban -e"\"$fest::rurban::_dump_all($year)\""
 perl -Ilib -M$fest::rurban -e"$fest::rurban::_dump_all($year)"
 perl -pi fixuplinks.pl public/$d/*.html
