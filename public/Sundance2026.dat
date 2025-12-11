@@ -1,5 +1,5 @@
-package Sundance::rurban::2025; # -*- perl -*-
-# Sundance 2026 Critics Ratings, 23.1.2025 - 2.2.
+package Sundance::rurban::2026; # -*- perl -*-
+# Sundance 2026 Critics Ratings, 21.1.2025 - 1.2.
 # SLCWeekly: 0-4stars
 #            0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
 
