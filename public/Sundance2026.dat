@@ -1,0 +1,617 @@
+package Sundance::rurban::2025; # -*- perl -*-
+# Sundance 2026 Critics Ratings, 23.1.2025 - 2.2.
+# SLCWeekly: 0-4stars
+#            0.5 - 1.25, 1 - 2.5, 1.5 - 3.75, 2 -> 5, 2.5 - 6.25, 3 - 7.5, 3.5 - 8.75, 4 - 10
+
+use utf8;
+our $DATA= <<'EOF';
+
+U.S. DRAMATIC COMPETITION
+
+"Bedford Park" (Stephanie Ahn) [U.S. Dramatic]
+ — Haunted by an abusive childhood, Audrey, a Korean American woman in her 30s, faces her emotional past. When her mother’s car accident brings her back to her parents’ home, she meets the man responsible for the accident. Their relationship builds, passions ignite, and they form a loving connection. Cast: Moon Choi, Son Sukku, Won Mi Kyung, Kim Eung Soo, Jefferson White. World Premiere.
+
+"Carousel" (Rachel Lambert) [U.S. Dramatic]
+ — A divorced doctor’s carefully constructed life in Cleveland is upended when his daughter’s debate aspirations and the unexpected return of a past love force him to confront his own choices and embrace a second chance. Cast: Chris Pine, Jenny Slate, Abby Ryder Fortson, Sam Waterston, Katey Sagal. World Premiere. Available online for public. 
+
+"The Friend’s House is Here" (Hossein Keshavarz/Maryam Ataei, US/Iran) [U.S. Dramatic]
+ — In Tehran’s underground art scene, two young women build a blissful world of freedom and sisterhood. But when their creative circle is exposed, they must fight to save each other. Cast: Mahshad Bahram, Hana Mana, Farzad Karen, Zohreh Pirnia. World Premiere. Available online for public.
+
+"Ha-Chan, Shake Your Booty!" (Josef Kubota Wladyka) [U.S. Dramatic]
+ — Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly. Cast: Rinko Kikuchi, Alberto Guerra, Alejandro Edda, YOU, Yoh Yoshida, Damián Alcázar. World Premiere. Available online for public. 
+
+"Hot Water" (Ramzi Bashour) [U.S. Dramatic]
+ — After he’s kicked out of his Indiana high school, an American kid and his Lebanese mom hit the road west. Cast: Lubna Azabal, Daniel Zolghadri. World Premiere. Available online for public. 
+
+"Josephine" (Beth de Araújo) [U.S. Dramatic]
+ — After 8-year-old Josephine accidentally witnesses a crime in Golden Gate Park, she acts out in search of a way to regain control of her safety while adults are helpless to console her. Cast: Mason Reeves, Channing Tatum, Gemma Chan, Philip Ettinger, Syra McCarthy, Eleanore Pienta. World Premiere. Available online for public. 
+
+"The Musical" (Giselle Bonilla) [U.S. Dramatic]
+ — When a frustrated playwright and middle school theater teacher finds out his ex-girlfriend has started dating his nemesis, the school’s principal, he decides to ruin the principal’s chances of winning the Blue Ribbon of Academic Excellence. Cast: Will Brill, Gillian Jacobs, Rob Lowe. World Premiere. Available online for public. 
+
+"Run Amok" (NB Mager) [U.S. Dramatic]
+ — A teenage girl stages an elaborate musical about the one day her high school wishes it could forget. Cast: Alyssa Marvin, Patrick Wilson, Margaret Cho, Sophia Torres, Elizabeth Marvel, Molly Ringwald. World Premiere. Available online for public. 
+
+"Take Me Home" (Liz Sargent) [U.S. Dramatic]
+ — Anna, a 38-year-old Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another’s needs. When a Florida heat wave shatters their family and Anna’s routine, her future is uncertain until she creates a world where she can thrive. Cast: Anna Sargent, Victor Slezak, Ali Ahn, Marceline Hugot, Shane Harper. World Premiere. Available online for public. 
+
+"Union County" (Adam Meeks) [U.S. Dramatic]
+ — Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio. Cast: Will Poulter, Noah Centineo, Elise Kibler, Emily Meade, Annette Deao. World Premiere. Available online for public.
+
+U.S. DOCUMENTARY COMPETITION
+
+"American Doctor" (Poh Si Teng, US/Palestine) [U.S. Documentaries]
+ — When three American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth. World Premiere. Available online for public. 
+
+"American Pachuco: The Legend of Luis Valdez" (David Alvarado) [U.S. Documentaries]
+ — Against political resistance and industry skepticism, Luis Valdez pushes Chicano storytelling from the fields to the film screen with Zoot Suit and La Bamba, crafting iconic works that challenge, celebrate, and expand America’s story. World Premiere. Available online for public. 
+
+"Barbara Forever" (Brydie O’Connor) [U.S. Documentaries]
+ — An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer. World Premiere. Available online for public. 
+
+"Joybubbles" (Rachael J. Morrison) [U.S. Documentaries]
+ — Joybubbles discovers he can manipulate the telephone system by whistling a magic tone. Born blind and yearning for connection, his early obsession unwittingly lays the groundwork for a subculture that shapes the future of hacking and technology. World Premiere. Available online for public. 
+
+"The Lake" (Abby Ellis) [U.S. Documentaries]
+ — An environmental nuclear bomb looms in Utah. Two intrepid scientists and a political insider race the clock to save their home from unprecedented catastrophe. World Premiere. Available online for public. 
+
+"Nuisance Bear" (Gabriela Osio Vanden/Jack Weisman, US/Canada) [U.S. Documentaries]
+ — A polar bear is forced to navigate a human world of tourists, wildlife officers, and hunters as its ancient migration collides with modern life. When a sacred predator is branded a nuisance, it becomes unclear who truly belongs in this shared landscape. World Premiere. Available online for public. 
+
+"Public Access" (David Shadrack Smith) [U.S. Documentaries]
+ — An unprecedented look inside one of the greatest media experiments to hijack American screens. Rare archives from New York’s underground capture a world of creators who shattered rules, defied censors, and transformed our televisions into a free-speech battleground where anyone could be a star. World Premiere. Available online for public. 
+
+"Seized" (Sharon Liese, US/Canada) [U.S. Documentaries]
+ — When the small town of Marion, Kansas, is thrust into the international spotlight after a police raid on the Marion County Record and the death of its 98-year-old co-owner, a fierce debate ignites about the abuse of power, journalistic ethics, local journalism, and the United States Constitution. World Premiere. Available online for public.
+
+"Soul Patrol" (J.M. Harper) [U.S. Documentaries]
+ — From deep behind enemy lines, a hidden chapter of American military history is uncovered, prompting the question of whether reckoning with the past can bring peace to those who lived it. The Vietnam War’s first Black special operations team reunites to tell their story. World Premiere. Available online for public. 
+
+"Who Killed Alex Odeh?" (Jason Osder, William Lafi Youmans) [U.S. Documentaries]
+ — The assassination of a beloved Palestinian American activist in Southern California ignites a 40-year quest for justice, revealing the roots of a dangerous political movement that thrives today. World Premiere. Available online for public. 
+
+WORLD CINEMA DRAMATIC COMPETITION
+
+"Big Girls Don’t Cry" (Paloma Schneideman, New Zealand) [World Dramatic]
+ — Over one transformative summer in rural New Zealand in 2006, 14-year-old Sid Bookman discovers desire, identity, and the internet as she imitates the people she longs to be loved by. Cast: Ani Palmer, Rain Spencer, Noah Taylor. World Premiere. Available online for public. 
+
+"How to Divorce During the War" (Andrius Blaževičius, Lithuania) [World Dramatic]
+— In Vilnius in 2022, Marija has a revelation that she wants to divorce her husband, Vytas, right before Russia invades Ukraine. Forced to confront their crumbling relationship, they navigate the process of divorce as it collides with the ongoing war. Cast: Marius Repšys, Žygimantė Elena Jakštaitė, Amelija Adomaitytė, Indrė Patkauskaitė, Gintarė Parulytė. World Premiere. Available online for public.
+
+"Extra Geography" (Molly Manners, UK) [World Dramatic]
+ — In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood — friendship, boys, studies, and growing up — and embark on their school project, falling in love. Cast: Marni Duggan, Galaxie Clear, Alice Englert. World Premiere. Available online for public. 
+
+"Filipiñana" (Rafael Manuel, Singapore) [World Dramatic]
+ — Tee girl Isabel feels strangely drawn to Dr. Palanca, the president of the country club where she works. However, after piecing together a violent picture of what lies beneath the club’s pristine surface, she realizes that what began as an innocent infatuation is actually rooted in a sinister shared history. Cast: Jorrybell Agoto, Carmen Castellanos, Teroy Guzman, Carlitos Siguion-Reyna, Isabel Sicat, Nour Houshmand. World Premiere. Available online for public. 
+
+"HOLD ONTO ME (Κράτα Με)" (Myrsini Aristidou, Cyprus, Denmark, Greece) [World Dramatic]
+ — 11-year-old Iris learns her estranged father, Aris, is back in town for his own father’s funeral. Determined to know him, Iris tracks him down to a dilapidated shipyard, where he’s been keeping to himself. What begins as a stubborn attempt to reconnect slowly unfolds into a fragile bond. Cast: Christos Passalis, Maria Petrova. World Premiere. Available online for public. 
+
+"The Huntress (La Cazadora)" (Suzanne Andrews Correa, Mexico) [World Dramatic]
+ — In the border city of Juárez, Mexico, where violence against women is perpetrated with impunity, an unlikely defender emerges with a desperate call for change. Inspired by true events. Cast: Adriana Paz, Teresa Sánchez, Jennifer Trejo, Eme Malafe, Guillermo Alonso. World Premiere. Available online for public.
+
+"LADY" (Olive Nwosu, UK, Nigeria) [World Dramatic]
+ — In the sprawling African metropolis of Lagos, a fiercely independent young cab driver meets a band of radiantly reckless sex workers whose sisterhood pulls her into danger and joy, setting her on a journey toward her own transformation. Cast: Jessica Gabriel’s Ujah, Amanda Oruh, Tinuade Jemiseye, Binta Ayo Mogaji, Seun Kuti, Bucci Franklin. World Premiere. Available online for public. 
+
+"Levitating" (Wregas Bhanuteja, Indonesia, Singapore, France) [World Dramatic]
+ — In a town where pleasure equals being possessed by spiritual beings, Bayu aspires to be the shaman of a trance party so he can fundraise enough money to prevent an impending eviction. Cast: Angga Yunanda, Anggun C Sasmi, Maudy Ayunda, Bryan Domani, Chicco Kurniawan. World Premiere. Available online for public.
+
+"Shame and Money" (Visar Morina, Screenwriter: Doruntina Basha, Germany, Kosovo, Slovenia, Albania, North Macedonia, Belgium) [World Dramatic]
+ — After losing their livelihood in a village, a Kosovar family is forced to move to the capital in pursuit of a place in a hypercapitalist society. Cast: Astrit Kabashi, Flonja Kodheli, Kumrije Hoxha, Fiona Gllavica, Alban Ukaj. World Premiere. Available online for public.
+
+"Tell Me Everything" (Moshe Rosenthal, Israel, France) [World Dramatic]
+ — Amid the late ’80s pop craze and rising HIV epidemic, 12-year-old Boaz uncovers a devastating secret about the father he idolizes that threatens to tear his family apart. Across a yearslong journey, Boaz seeks to heal the wound and reclaim the father-son bond he never stopped yearning for. Cast: Yair Mazor, Ido Tako, Assi Cohen, Keren Tzur, Mor Dimri, Neta Orbach. World Premiere. Available online for public.
+
+WORLD CINEMA DOCUMENTARY COMPETITION
+
+"All About the Money" (Sinéad O’Shea, Ireland) [World Documentaries]
+ — A son of one of America’s wealthiest families creates a communist revolutionary base in rural Massachusetts as a means of disrupting the capitalist system he grew up in but has now come to despise. It’s the starting point of an astonishing journey. World Premiere. Available online for public.
+
+"Birds of War" (Janay Boulos/Abd Alkader Habak, UK, Syrian Arab Republic, Lebanon) [World Documentaries]
+ — The love story of a London-based Lebanese journalist and a Syrian activist and cameraman as told through 13 years of personal archives across revolutions, war, and exile. World Premiere. Available online for public.
+
+"Closure" (Michał Marczak, Poland) [World Documentaries]
+ — After his teenage son goes missing, Daniel scours the depths of the Vistula River, torn between the dread of a fatal leap and the hope that his son may still be alive. World Premiere. Available online for public.
+
+"Everybody To Kenmure Street" (Felipe Bustos Sierra, UK) [World Documentaries]
+ — In May 2021, a UK Home Office dawn raid triggers one of the most spontaneous and successful acts of civil resistance in recent memory. In Scotland’s most diverse neighborhood, hundreds of residents rush to the streets to stop the deportation of their neighbors. World Premiere. Available online for public.
+
+"Hanging by a Wire" (Mohammed Ali Naqvi, US,UK,Pakistan) [World Documentaries]
+ — A routine school commute turns terrifying when a cable car’s wire snaps, leaving eight passengers — including six schoolboys — dangling 900 feet above a ravine in the remote Himalayan foothills. With 10 hours before the remaining cable is expected to fail, a group of rescuers races to save them. World Premiere. Available online for public.
+
+"Kikuyu Land" (Andrew H. Brown, Bea Wangondu, Kenya) [World Documentaries]
+ — As a Nairobi journalist probes a land battle entangling the local government and a powerful multinational corporation, covered wounds are revealed and family secrets are exposed. World Premiere. Available online for public.
+
+"One In A Million" (Itab Azzam, Jack MacInnes, UK) [World Documentaries]
+ — Filmed over 10 years, one girl’s epic journey from Syria to Germany and back again. She and her family navigate war, exile, and heartbreak in a foreign land, illuminating the complexities of the refugee experience. World Premiere. Available online for public.
+
+"Sentient" (Tony Jones, Australia) [World Documentaries]
+ — An investigation into laboratory research on animals exposes a hidden world in which it’s not just the animals getting hurt. The story of Dr. Lisa Jones Engel, a primatologist turned animal welfare advocate, asks whether harming animals and ourselves in science’s name is justified. World Premiere. Available online for public.
+
+"Silenced" (Selina Miles, Australia) [World Documentaries]
+ — After #MeToo broke the cultural silence on gender violence, international human rights lawyer Jennifer Robinson fights against the weaponization of defamation laws to silence survivors. World Premiere. Available online for public.
+
+"To Hold a Mountain" (Biljana Tutorov, Petar Glomazić, Serbia, France, Montenegro, Slovenia, Croatia) [World Documentaries]
+ — In the remote highlands of Montenegro, a shepherd mother and daughter proudly defend their ancestral mountain from the threat of becoming a NATO military training ground, stirring memories of the violence that shattered their family. World Premiere. Available online for public.
+
+NEXT
+
+"Aanikoobijigan [ancestor/great-grandparent/great-grandchild]" (Adam Khalil, Zack Khalil, US, Denmark) [NEXT]
+ — Trapped in museum archives, Ancestors bend time and space to find their way home. History, spirituality, and the law collide as tribal repatriation specialists fight to return and rebury Indigenous human remains, offering a revealing look at the still-pervasive worldviews that justified collecting them in the first place. World Premiere. Documentary. Available online for public.
+
+"BURN" (Makoto Nagahisa, Japan) [NEXT]
+ — When runaway teen Ju-Ju is embraced by a tribe of misfit youths in Kabukicho, she finds belonging for the first time — until betrayal and despair twist her haven into a prison, and she’s left with one way to take back control. Cast: Nana Mori. World Premiere. Fiction. Available online for public. 
+
+"Ghost in the Machine" (Valerie Veatch) [NEXT]
+ — The untold origins of artificial intelligence lie not in machines but in power, revealing the fantasies behind the hype that got us here and where we go next. World Premiere. Documentary. Available online for public. 
+
+"If I Go Will They Miss Me" (Walter Thompson-Hernández) [NEXT]
+ — Twelve-year-old Lil Ant struggles to connect with his father when he begins to see surreal, almost spectral visions of boys drifting around his neighborhood. Their presence reveals a link between father and son, laying bare the threads that bind family, legacy, and place. Cast: Danielle Brooks, J. Alphonse Nicholson. World Premiere. Fiction. Available online for public. 
+
+"The Incomer" (Louis Paxton, UK) [NEXT]
+ — On a remote Scottish isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them. Cast: Domhnall Gleeson, Gayle Rankin, Grant O’Rourke, Emun Elliott, Michelle Gomez, John Hannah. World Premiere. Fiction. Available online for public. 
+
+"Jaripeo" (Efraín Mojica, Rebecca Zweig, Mexico, US, France) [NEXT]
+ — A journey to Michoacán’s hypermasculine rodeos descends into the subconscious of memory, queer desire, and longing, leading to a reckoning with the wounds and beauty of a home left behind. World Premiere. Documentary. Available online for public. 
+
+"Night Nurse" (Georgia Bernstein) [NEXT]
+ — As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient. Cast: Cemre Paksoy, Bruce McKenzie, Eléonore Hendricks, Colleen Rose Trundy, Mimi Rogers. World Premiere. Fiction. Available online for public. 
+
+"TheyDream" (William David Caballero) [NEXT]
+ — After 20 years of chronicling his Puerto Rican family, a director and his mother face devastating losses. Through tears and laughter, they craft animations that bring their loved ones back to life, discovering that every act of creation is also an act of letting go. World Premiere. Documentary. Available online for public. 
+
+"zi" (Kogonada) [NEXT]
+ — In Hong Kong, a young woman haunted by visions of her future self meets a stranger who changes the course of her night — and possibly her life. Cast: Michelle Mao, Haley Lu Richardson, Jin Ha. World Premiere. Fiction. Available online for public. 
+
+PREMIERES
+
+"The AI Doc: Or How I Became an Apocaloptimist" (Daniel Roher, Charlie Tyrell) [Documentary Premieres]
+ — A father-to-be tries to figure out what is happening with the AI insanity, exploring the existential dangers and stunning promise of this technology that humanity has created. World Premiere. Documentary.
+
+"Antiheroine" (Edward Lovelace, James Hall, UK/US) [Documentary Premieres]
+ — Singer, songwriter, and actor Courtney Love has long had an impact on rock and pop culture. Now sober and set to release new music for the first time in over a decade, Courtney is ready to reveal her story, unfiltered and unapologetic. World Premiere. Documentary.
+
+"The Brittney Griner Story" (Alexandria Stapleton [Documentary Premieres]
+ — Explores the circumstances that led to Brittney Griner playing basketball outside the U.S. despite being one of the best players in the sport, including her harrowing detainment, unwavering determination to secure her freedom, and her advocacy for the release of other wrongful detainees. World Premiere. Documentary. 
+
+"Chasing Summer" (Josephine Decker) [Premieres]
+ — After losing both her job and boyfriend, Jamie retreats to her small Texas hometown, where friends and flings from a fateful high school summer turn her life upside down. Cast: Iliza Shlesinger, Garrett Wareing, Lola Tung, Cassidy Freeman, Tom Welling, Megan Mullally. World Premiere. Fiction. Available online for public. 
+
+"THE DISCIPLE" (Joanna Natasegara, USA, UK) [Documentary Premieres]
+ — An outsider fueled by relentless determination works his way into the inner circle of the Wu-Tang Clan, where his ambition and creativity converge in the making of an album poised to ignite global controversy. World Premiere. Documentary.
+
+"Frank & Louis" (Petra Biondina Volpe, Switzerland, UK) [Premieres]
+ — Frank, serving a life sentence, takes a prison job caring for aging inmates with Alzheimer’s and dementia. What begins as a self-interested bid for parole becomes a profound, transformative bond with fellow inmate Louis, offering Frank a glimpse of redemption in an unforgiving place. Cast: Kingsley Ben-Adir, Rob Morgan, René Pérez Joglar, Rosalind Eleazar, Indira Varma. World Premiere. Fiction.
+
+"Gail Daughtry and the Celebrity Sex Pass" (David Wain) [Premieres]
+ — Midwestern bride-to-be Gail Daughtry has a “free celebrity pass” agreement with her fiancé — who uses it. With her relationship in crisis, Gail sets out on an epic journey through Hollywood to even the scales. Cast: Zoey Deutch, Jon Hamm, John Slattery, Ken Marino, Miles Gutierrez-Riley, Ben Wang. World Premiere. Fiction.
+
+"The Gallerist" (Cathy Yan) [Premieres]
+ — A desperate gallerist conspires to sell a dead body at Art Basel Miami. Cast: Natalie Portman, Jenna Ortega, Sterling K. Brown, Zach Galifianakis, Da’Vine Joy Randolph, Catherine Zeta-Jones. World Premiere. Fiction.
+
+"Give Me the Ball!" (Liz Garbus, Elizabeth Wolff) [Documentary Premieres]
+ — World champion tennis trailblazer Billie Jean King has had a game-changing impact on culture and sports. Rare archive and candid interviews with Billie Jean and those closest to her reveal how one woman put changing the world ahead of saving herself. World Premiere. Documentary. 
+
+"The History of Concrete" (John Wilson) [Documentary Premieres]
+ — After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete. World Premiere. Documentary.
+
+"I Want Your Sex" (Gregg Araki) [Premieres]
+ — When fresh-faced Elliot lands a job with artist and provocateur Erika Tracy, his fantasies come true as she taps him to become her sexual muse. But Elliot finds himself out of his depth as Erika takes him on a journey into a world of sex, obsession, power, betrayal, and murder. Cast: Olivia Wilde, Cooper Hoffman, Mason Gooding, Chase Sui Wonders, Daveed Diggs, Charli xcx. World Premiere. Fiction.
+
+"In The Blink of An Eye" (Andrew Stanton) [Premieres]
+ — Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life. Cast: Rashida Jones, Kate McKinnon, Daveed Diggs, Jorge Vargas, Tanaya Beatty. World Premiere. Fiction. 2026 Alfred P. Sloan Feature Film Prize Winner.
+
+"The Invite" (Olivia Wilde) [Premieres]
+ — Joe and Angela are on thin ice, and tonight might be when it all falls apart. Unfortunately, their upstairs neighbors are about to arrive for dinner, and everything that can go wrong goes worse. Cast: Seth Rogen, Olivia Wilde, Penélope Cruz, Edward Norton. World Premiere. Fiction.
+
+"Jane Elliott Against the World" (Judd Ehrlich) [Premieres]
+ — A rural Iowa schoolteacher becomes a national voice against racism after leading a controversial 1968 lesson in discrimination with her all-white third-grade class. Now nearly 90, she refuses to hold back amid today’s fights about race, history, and power after a lifetime of speaking out. World Premiere. Documentary. Available online for public.
+
+"Knife: The Attempted Murder of Salman Rushdie" (Alex Gibney) [Documentary Premieres]
+ — Previously unseen footage captured by Salman Rushdie’s wife, Rachel Elizabeth Griffiths, documents his journey. Following not just his physical rehabilitation, but also the restoration of his spirit and optimism. Inspired by Rushdie’s memoir Knife: Meditations After an Attempted Murder. World Premiere. Documentary.
+
+"The Last First: Winter K2" (Amir Bar-Lev, US, UK) [Documentary Premieres]
+ — The race to grab the last great prize in mountaineering, K2 in winter, left five dead. It exposed deep fault lines in alpinism today: pressures from commercialization, toxic effects of social media, and long-brewing tensions between those who’ve been marginalized and those who’ve always basked in the sport’s glory. World Premiere. Documentary.
+
+"The Moment" (Aidan Zamiri) [Premieres]
+ — A rising pop star navigates the complexities of fame and industry pressure while preparing for her arena tour debut. Cast: Charli xcx, Rosanna Arquette, Kate Berlant, Jamie Demetriou, Hailey Benton Gates, Alexander Skarsgård. World Premiere. Fiction.
+
+"The Oldest Person in the World" (Sam Green) [Documentary Premieres]
+ — A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive. World Premiere. Documentary. 
+
+"Once Upon A Time In Harlem" (William Greaves, David Greaves) [Documentary Premieres]
+ — A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. World Premiere. Documentary.
+
+"The Only Living Pickpocket in New York" (Noah Segan) [Premieres]
+ — When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim the stolen goods. Cast: John Turturro, Giancarlo Esposito, Will Price, Tatiana Maslany, Steve Buscemi. World Premiere. Fiction.
+
+"Paralyzed by Hope: The Maria Bamford Story" (Judd Apatow, Neil Berkeley) [Documentary Premieres]
+ — Blurring the line between performance and personal crisis, comedian Maria Bamford turns her mental health journey into material that’s riotously funny and ultimately inspiring. What emerges is a portrait of an artist transforming vulnerability into creative strength through honesty. World Premiere. Documentary.
+
+"Queen of Chess" (Rory Kennedy) [Documentary Premieres]
+ — A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time. World Premiere. Documentary. 
+
+"See You When I See You" (Jay Duplass) [Premieres]
+ — With the help of his family, a comedy writer battles PTSD after the tragic death of his sister. Cast: Cooper Raiff, David Duchovny, Kaitlyn Dever, Hope Davis, Lucy Boynton, Ariela Barer. World Premiere. Fiction.
+
+"The Shitheads" (Macon Blair) [Premieres]
+ — When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem. Cast: Dave Franco, O’Shea Jackson Jr., Mason Thames, Kiernan Shipka, Nicholas Braun, Peter Dinklage. World Premiere. Fiction. 
+
+"Time and Water" (Sara Dosa, US, Iceland) [Documentary Premieres]
+ — Facing the death of his country’s glaciers and the loss of his beloved grandparents, Icelandic writer Andri Snær Magnason turns his archives into a time capsule to hold what is slipping away — family, memory, time, and water. World Premiere. Documentary. Available online for public.
+
+"Troublemaker" (Antoine Fuqua, South Africa, US, U.K) [Documentary Premieres]
+ — The struggle against apartheid is recounted through Nelson Mandela’s own voice, drawn from recordings he made while writing his autobiography Long Walk to Freedom. World Premiere. Documentary. 
+
+"The Weight" (Padraic McKinley) [Premieres]
+ — In Oregon in 1933, Samuel Murphy is torn from his daughter and sent to a brutal work camp. Warden Clancy tempts him with early release if he smuggles gold through deadly wilderness, but betrayal festers within the crew, and Murphy questions how far he’ll go to see his child again. Cast: Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash, Sam Hazeldine. World Premiere. Fiction.
+
+"When A Witness Recants" (Dawn Porter) [Documentary Premieres]
+ — In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison — creating a lasting impact on the accused, the witnesses, and their community. World Premiere. Documentary. 
+
+"Wicker" (Eleanor Wilson, Alex Huston Fischer) [Premieres]
+ — A fisherwoman asks a basketmaker to weave her a husband. Cast: Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu, Nabhaan Rizwan. World Premiere. Fiction.
+
+MIDNIGHT
+
+"The Best Summer" (Tamra Davis, U.S.A, Australia, Indonesia, Thailand) [Midnight]
+ — Immersive POV camera footage reveals electric performances, candid interviews, and intimate backstage life with the Beastie Boys, Sonic Youth, Foo Fighters, Pavement, Rancid, Beck, The Amps, and Bikini Kill — an all-access view inside an era-defining moment in music. World Premiere. Documentary. Available online for public. 
+
+"Buddy" (Casper Kelly, Screenwriter: Jamie King [Midnight]
+ — A brave girl and her friends must escape a kids television show. Cast: Cristin Milioti, Delaney Quinn, Topher Grace, Keegan-Michael Key, Michael Shannon, Patton Oswalt. World Premiere. Fiction. 
+
+"Leviticus" (Adrian Chiarella, Australia) [Midnight]
+ — Two star-crossed teenage boys must escape a violent entity that takes the form of the person they desire most — each other. Cast: Joe Bird, Stacy Clausen, Mia Wasikowska, Jeremy Blewitt, Ewen Leslie, Davida McKenzie. World Premiere. Fiction. 
+
+Mum, I’m Alien Pregnant / New Zealand (THUNDERLIPS) Midnight
+ — When a messy millennial underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life. Cast: Hannah Lynch, Yvette Parsons, Arlo Green, Jackie van Beek. World Premiere. Fiction.   
+
+"Rock Springs" (Vera Miao, US, Canada) [Midnight]
+ — After the death of her father, a grieving young girl moves to an isolated house in a new town with her mother and grandmother, only to discover there is something monstrous hidden in the town’s history and the woods behind their new home. Cast: Kelly Marie Tran, Benedict Wong, Jimmy O. Yang, Aria Kim, Fiona Fu. World Premiere. Fiction. Available online for public.
+
+
+"Saccharine" (Natalie Erika James, Australia) [Midnight]
+ — Hana, a lovelorn medical student, becomes terrorized by a hungry ghost after taking part in an obscure weight loss craze: eating human ashes. Cast: Midori Francis, Danielle Macdonald, Madeleine Madden. World Premiere. Fiction. 
+
+"undertone" (Ian Tuason, Canada) [Midnight]
+ — The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way. Cast: Nina Kiri, Adam DiMarco, Michèle Duquet, Keana Lyn Bastidas, Jeff Yung. U.S. Premiere. Fiction.
+
+
+EPISODIC
+
+"BAIT" (Various, UK/USA) [Special Events]
+ — Struggling actor Shah Latif auditions for the role of a lifetime, only to see his life spiral out of control over four frenetic days. Cast: Riz Ahmed, Guz Khan, Sheeba Chaddha, Sajid Hasan, Aasiya Sha. World Premiere. Fiction. Six-episode season, screening first three episodes in person.
+
+"The Screener" (Jim Cummings, PJ McCabe) [Special Events]
+ — An independent film screener leaks from a talent agency. Cast: Shereen Lani Younes, Jon Rudnitsky, B.K. Cannon, Boni Mata, Shaun Brown, Nicolette Doke. World Premiere. Fiction. Five-episode series, screening first three episodes in person.
+
+
+FICTION PILOT SHOWCASE
+
+"FreeLance" (The Turner Brothers) [Special Events]
+ — A young filmmaker documents his journey toward his first movie as he moves in with a friend group of ambitious creatives, all trying to support one another’s dreams in an oversaturated market. This inexperienced crew of 20-somethings takes on unorthodox jobs to build their brand and pay rent. Cast: Spence Moore II, Lou Young, Lou Ratchett, Bernard “B Nard” Clark, René Vaca, Elijah Cooper. World Premiere. Fiction. 
+
+Soft Boil / US (Alec Goldberg) [Special Events]
+ — Lulu takes a job as a nanny only to discover that her new boss isn’t who she expected. Cast: Camille Wormser, John Gemberling, Madison Shamoun, Vivian Kerr, Patrick Tabari. World Premiere. Fiction. 
+
+"Worried" (Nicole Holofcener) [Special Events]
+ — No one is more worried about Jules and Poppy than Jules and Poppy. Cast: Gideon Adlon, Rachel Kaly, Devon Bostick, Cora Kirk. World Premiere. Fiction. 
+
+NONFICTION PILOT SHOWCASE 
+
+"Murder 101" (Stacey Lee) [Special Events]
+ — A case that haunted Tennessee’s best detectives for decades is cracked wide open by the most unlikely of investigators: a high school sociology class. World Premiere. Documentary. 
+
+"The Oligarch and the Art Dealer" (Andreas Dalsgaard, Denmark, France, US) [Special Events]
+ — Yves Bouvier brokers masterpieces, from da Vinci to Rothko, into the private collection of Dmitry Rybolovlev until Bouvier is accused of a billion-dollar betrayal. Rising ambitions, frayed relationships, and bruised egos fuel a decade-long all-out war between the Swiss art dealer and the elusive Russian oligarch. World Premiere. Documentary. 
+
+SPOTLIGHT
+
+"Broken English" (Jane Pollard/Iain Forsyth, UK/USA) [Spotlight]
+ — A portrait of the inimitable singer, songwriter, and icon Marianne Faithfull. U.S. Premiere. Documentary.
+
+
+"Tuner" (Daniel Roher, Canada/U.S.A) [Spotlight]
+ — A gifted piano tuner with a unique auditory condition discovers an unexpected aptitude for cracking safes, turning his life upside down. Cast: Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz, Tovah Feldshuh, Jean Reno. Fiction.
+
+
+FAMILY MATINEE (was KIDS)
+
+"Cookie Queens" (Alysa Nahmias) [Kids]
+ — It’s Girl Scout Cookie season, and four tenacious girls strive to be a top-selling “Cookie Queen,” navigating an $800 million business in which childhood and ambition collide. World Premiere. Documentary. Salt Lake City Celebration Film. 
+
+"Fing!" (Jeffrey Walker, Australia, UK) [Kids]
+ — A demanding little girl and her parents, the Meeks, battle an outrageously entitled viscount to protect their rare, furry, one-eyed Fing from those fixated on exploiting this wondrous creature. Cast: Mia Wasikowska, Blake Harrison, David Walliams, Iona Bell, Penelope Wilton, Taika Waititi. World Premiere. Fiction.
+
+SPECIAL SCREENINGS
+
+"The Story of Documentary Film" (Mark Cousins, UK) [Special Events]
+ — Tracing the evolution of documentary film across time, examining landmark works and hidden treasures, while revealing how the form has helped us see and make sense of our world. World Premiere. Documentary.
+
+PARK CITY LEGACY
+
+"American Dream" (1990) [Special Events]
+
+"Half Nelson" (2006) [Special Events]
+
+"House Party" (1990) [Special Events]
+
+"Humpday" (2009) [Special Events]
+
+"Little Miss Sunshine" (2006) [Special Events]
+
+"Mysterious Skin" (2004) [Special Events]
+
+"Saw" (2004) [Special Events]
+
+"Downhill Racer" (1969) [Special Events]
+
+
+EOF
+
+our (@critics, @critics_group);
+$critics_group[0] = "Critics";
+$critics[0] = "
+A.A. Dowd (The A.V. Club, US)
+Adam Chitwood (Collider, US)
+Adrian Horton (The Guardian, US)
+Alex Billington (FirstShowing.net)
+Alex Heeney (Seventh Row, Canada)
+Alexander Miller (Filmenquiry.com, Battleshippretension.com, US)
+Allan Hunter (Screen International, US)
+Ali Shimkus (Slug Magazine, US)
+Alison Willmore (Vulture, US)
+Alissa Wilkinson (Christianity Today, US)
+Alonso Durade (The Wrap, US)
+Amy Nicholson (Variety, US)
+Amy Kaufman (LA Times, US)
+Andrew Barker (Variety, US)
+Andrew Bundy (The Playlist, US)
+Andrew Crump (The Playlist, US)
+Angie Han (Slashfilm, US)
+Anne Thompson (Indiewire, US)
+Anthony Kaufman (Screen International, US)
+Amber Wilkinson (Screen International, US)
+April Wolfe (The Wrap, US)
+Beandrea July (The Hollywood Reporter, US)
+Ben Delgado (Coral Gables Art Cinema, US)
+Ben Kenigsberg (Variety, US)
+Ben Croll (The Wrap, US)
+Ben Smith (UK)
+Benjamin Lee (The Guardian, US)
+Bilge Ebiri (Vulture, US)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, US)
+Brian Moylan  (The Guardian, UK)
+Brian Tallerico (RogerEbert.com, US)
+Bryan Bishop (The Verge, US)
+Candice Frederick (The Wrap, US)
+Carlos Aguilar (The Wrap, US)
+Chris Evangelista (Slashfilm, US)
+Chris Lindahl (Indiewire, US)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, US)
+Clint Worthington (Consequence of Sound, US)
+Connor Lockie (Slug Magazine, US)
+Damon Wise  (The Guardian, UK)
+Dan Mecca (The Film Stage, US)
+Dan Callahan (The Wrap, US)
+Daniel Fienberg (The Hollywood Reporter, US)
+David Canfield (EW, US)
+David D'Arcy (Screen International, US)
+David Edelstein (New York Magazine Vulture, US)
+David Ehrlich (Time Out New York, US)
+David Rooney  (The Hollywood Reporter, US)
+Dennis Harvey (Variety, US)
+Dilarah Elbir (The Playlist, US)
+Don Simpson (Smells Like Screen Spirit, US)
+Drew McWeeny (HitFix, US)
+Drew Taylor  (The Playlist, US)
+Dustin Putman (TheBluFile, TheFilmFile, TheFrightFile, US)
+Ed Gibbs (The Guardian, UK)
+Edward Douglas (Comingsoon.net, US)
+Eli Fine (The Playlist, US)
+Elizabeth Weitzman (The Wrap, US)
+Emily Yoshida (New York Magazine Vulture, US)
+Erik Childress (eFilmCritic / WGN Radio / WCIU-TV / WHPK-FM / RogerEbert.com / Movies.com, US)
+Eric Kohn  (Indiewire, US)
+Erik Luers (No Film School, IFP, US)
+Evan Saathoff (birthmoviesdeath.com, US)
+Jeremy Smith (birthmoviesdeath.com, US)
+Jean-Christophe Simon (Films Boutique, Germany)
+Fionnuala Halligan (Screen Daily, US)
+Frank Scheck (The Hollywood Reporter, US)
+Geoff Berkshire (Variety, US)
+Gregory Ellwood (The Playlist, HitFix, US)
+Guy Lodge (Variety, US)
+Hemanth Kissoon (Filmaluation, US)
+Jack Giroux (The Film Stage, US)
+Jake Jacobson (Westwood One, MovieJake, US)
+Jake Howell (The Film Stage, US)
+Jared Mobarak (The Film Stage, US)
+Jason Bailey (The Playlist, Flavorwire, US)
+Jenni Miller (The Playlist, US)
+Jessica Kiang (The Playlist, US)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, US)
+Joe Leydon (Variety, US)
+Jonathan Holland (Screen Daily, US)
+John DeFore (The Hollywood Reporter, US)
+John Fink (The Film Stage, US)
+Jon Frosch (The Hollywood Reporter, US)
+Jordan Hoffman (The Guardian, US)
+Jordan Raup  (The Film Stage, US)
+Jordan Ruimy (The Playlist, US)
+Jordan M. Smith (IONCINEMA.com, US)
+Josh Dickey  (Mashable, US)
+Joshua Rothkopf (Time Out New York, Penthouse, US)
+Justin Chang (Variety, US)
+Justin Lowe  (The Hollywood Reporter, US)
+Kate Erbland (Indiewire, US)
+Kathy Rong Zhou (Slug Magazine, US)
+Katie Walsh (The Playlist, US)
+Kees Wamelink (Filmhuis Lisse, NL)
+Kent Turner (Film-Forward.com, School Library Journal, US)
+Keith Simanton (IMDb, US)
+Kevin Jagernauth (The Playlist, US)
+Kevin Wozniak (kevflix.com, US)
+Kimber Myers (The Playlist, US)
+Kyle Kohner (The Playlist, US)
+Kyle Smith (New York Post, US)
+Lanre Bakare (The Guardian, US)
+Leah Greenblatt (EW, US)
+Leslie Felperin  (The Hollywood Reporter, US)
+Lois Brady (Slug Magazine, US)
+Lorry Kikta (filmthreat.com, US)
+Marco Cerritos (The Movielens, US)
+Mark Olsen (LA Times, US)
+Matthew Jacobs (Huffington Post, US)
+Matt Goldberg (Collider, US)
+Matt Hoffman (We Got This Covered, Scene Creek, Canada)
+Matt Neglia (NextBestPicture.com, US)
+Mauricio Costa (Razão de Aspecto, Brazil)
+Mel Valentin (Next Projection, US)
+Michael Rechtshaffen  (The Hollywood Reporter, US)
+Mike d'Angelo (A.V. Club, US)
+Mike Ryan (Uproxx, US)
+Molly Laich (doghatesfilm.com, US)
+Monica Castillo (The Wrap, US)
+Neil Miller (Film School Rejects, US)
+Nick Allen (RogerEbert.com, US)
+Nick Schager (Variety, US)
+Nigel M Smith (The Guardian, US)
+Nikola Grozdanovic (The Playlist, US)
+Noel Murray (The Playlist, US)
+Norman Gidney (filmthreat.com, US)
+Oktay Ege Kozak (The Playlist, US)
+Owen Gleiberman (Variety, US)
+Paige Zuckerman  (Slug Magazine, US)
+Parker Scott Mortensen (Slug Magazine, US)
+Peter Debruge (Variety, US)
+Peter Sciretta (Slashfilm, US)
+Rebecca Martin (Cinema Femme, US)
+Reena Chohan (TIFF, Canada)
+Rob Hunter (Film School Rejects, US)
+Rob Thomas (Madison Movie, US)
+Robert Daniels (The Playlist, US)
+Robert Abele (The Wrap, US)
+Rodrigo Perez  (The Playlist, US)
+Russ Fischer (Slashfilm, US)
+Ryan Lattanzio (TOH!, US)
+Sam Adams (Slate, US)
+Sam Fragoso (The Wrap, Movie Mezzanine, US)
+Sasha Bronner (Huffington Post, US)
+Scott Foundas (Variety, US)
+Scott Porch (The Guardian, US)
+Scott Renshaw (Salt Lake City Weekly, US)
+Sean P. Means (The Salt Lake Tribune, US)
+Siân Melton (Cinefilles, UK)
+Sheri Linden  (The Hollywood Reporter, US)
+Stephen Farber (The Hollywood Reporter, US)
+Stephen Saito (The Moveable Fest, US)
+Stephen Whitty (Screen International, US)
+Steve Pond (The Wrap, US)
+Susannah Gruder (Reverse Shot, US)
+Tasha Robinson (The Verge, Dissolve, A.V. Club, US)
+Tim Grierson (Screen International, Paste, Deadspin, US)
+Tim Robey (The Telegraph, UK)
+Todd McCarthy  (The Hollywood Reporter, US)
+Tomris Laffly (The Wrap, US)
+Vadim Rizov (Filmmaker Magazine, US)
+Victor Morton (Salt Lake City Weekly, US)
+Wendy Ide (Screen International, US)
+Wesley Morris (Grantland, US)
+Dan Callahan (The Wrap, US)
+William Bibbiani (The Wrap, US)
+Zaina Abujebarah (Slug Magazine, US)
+";
+$critics_group[1] = "Other";
+$critics[1] = "
+Aaron Salazar (Filmmaker, US)
+Abbie Porter (Movie Nerd, US)
+Allison Boyer (Writer, Filmmaker, US)
+Allison Stone (Filmmaker, US)
+Amber (Film Student, US)
+Amir Moverman (Producer, US)
+Bare Bard (Film festival worker, US)
+Bill Skaleski (Artist, US)
+Blake Schwarz (Film Student+Blogger, US)
+Brandon Hart (Film Fan, US)
+Daniel Arthur (Public House Cinema, US)
+Danny Hensel (NPR Stateside, Student Editor, US)
+Drew Duncan (Industry, US)
+Eddie White (Filmmaker, Aus)
+Emily Guinto (Local film buff, US)
+flowertwithat (Film Buff, US)
+Jordan Foxworthy (Sundance Circle member, US)
+Gregory S Gardner (Double Exposure Distribution, US)
+Hannah Hembree (Industry, US)
+# Theatre Miami
+Javier (Industry, US)
+Jason Myers (Twitter+Local, US)
+Jason Osia (Film Buff, US)
+Jeremiah Holt (Youtube+Local, US)
+Jon Madsen (Local reviewer, US)
+Kevin Bolger (Local Filmmaker, US)
+Kevin Conner (Industry, US)
+Kevin Dando (Ex-PBS, US)
+Lee Stobby (Producer, US)
+Martin Jacob (Film Student+Blogger, US)
+Matt Cipolla (Freelance, US)
+Matt Wigham (bigcartel.com+Local, US)
+Matthew Reddick (Actor, US)
+Mei Chen (Student, US)
+Nick Kush (moviebabblereviews.com, US)
+Nik Velimirovic (Filmmaker, US)
+Pontus Ridderstedt (Librarian, Sweden)
+p. m. orr (Filmmaker, Volunteer, US)
+Robert Saucedo (Houston Alamo, US)
+Rosalie Kicks (moviejawn.com, US)
+Sachin Dharwadker (Filmmaker, US)
+shane (Actor, US)
+Shelby Slade (Local reporter Daily Herald, US)
+Skye McLennan (Industry, US)
+Stephen (Local film buff, US)
+Stephen Jones (Musician, Lawyer, US)
+Wiktor Krampikowski (Industry, PL)
+Thomas Callahan (Filmstudent, US)
+Tony Donisch (Discover, US)
+";
+$critics_group[2] = "Letterboxd";
+$critics[2] = ""; # dynamically added
+#Jacob (Local, US)
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out.
+<i>(Filtered to help with statistical inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+US Dramatic Competition: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Source & History:
+https://github.com/rurban/cannes-ratings/blob/master/public/Sundance2025.dat
+
+</pre>";
+
+# links:
+# https://letterboxd.com/seanliu/list/sundance-2024/
+# https://letterboxd.com/neperfectionist/list/30th-slamdance-film-festival-2024/
+# https://twitter.com/search?q=%23sundance%20review
+# http://www.theguardian.com/film/sundance-2024
+# http://www.indiewire.com/critic/
+# https://www.latimes.com/topic/sundance-film-festival
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
