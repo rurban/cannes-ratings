@@ -1,0 +1,359 @@
+package Berlinale::rurban::2026; # -*- perl -*-
+# Berlinale 2026 Critics Ratings
+# 12.2. - 22.2.
+# complete lineup: 3.2.
+# Screen Daily 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# https://www.screendaily.com/berlin-jury-grid
+
+use utf8;
+our $DATA= <<'EOF';
+
+WETTBEWERB
+
+
+PANORAMA
+
+"Allegro Pastell" (Anna Roller, D 2026) [Panorama]
+ Autorin Tanja und Webdesigner Jerome, beide Mitte 30, haben sich in ihrer Fernbeziehung im Gleichgewicht zwischen Nähe und Distanz eingerichtet. Als Tanja einen Vorgeschmack von einer gemeinsamen Zukunft bekommt, fragt sie sich, ob sie das wirklich will. WP
+
+"Bucks Harbor" (Pete Muller, USA 2026) [Panorama Dokumente]
+ Das Leben der jungen Männer in Downeast Maine prägen harte Winter, Fischfang und die strengen Regeln ihrer Väter. Der Film erkundet das Aufwachsen in einer Gemeinschaft, in der der Wert eines Mannes oft an der Breite seiner Schultern gemessen wird. WP | 1st | Doc
+
+"Iván & Hadoum" (Ian de la Rosa, Spa/D/Bel 2026) [Panorama]
+ In einer Gewächshausanlage in Südspanien verliebt sich Iván in seine neue Kollegin Hadoum. Doch eine langersehnte Beförderung stellt ihre Beziehung vor Herausforderungen und Iván muss sich darüber klar werden, was für ein Mensch er sein will. WP | 1st
+
+"Jaripeo" (Efraín Mojica, Rebecca Zweig, Mex/USA/F 2026) [Panorama Dokumente]
+ Eine Reise in die hypermaskuline Welt des Rodeos in der mexikanischen Region Michoacán. Es entstehen intime Porträts dreier Leben, die Fragen um Traditionen, Begehren und Identität verhandeln. IP | 1st | Dok
+
+"London" (Sebastian Brameshuber, Österreich) [Panorama]
+ WP
+
+"Mouse" (Kelly O'Sullivan, Alex Thompson, USA 2026) [Panorama]
+ WP
+
+"Shibire (Numb)" (Takuya Uchiyama, Japan 2025) [Panorama]
+ IP. Ein Junge hat aufgehört zu sprechen. Ein tyrannischer Vater und eine Mutter, die er liebt und zugleich ablehnt, haben seine Kindheit geprägt. Auf der Suche nach Zugehörigkeit kehrt er in seine Heimat an der Nordküste Japans zurück.
+
+"Staatsschutz (Prosecution)" (Faraz Shariat, D 2026) [Panorama]
+ WP
+
+"Trop c’est trop (Enough is Enough)" (Elisé Sawasawa, F/Kongo 2026) [Panorama]
+ WP | 1st | Doc. 30 Jahre Krieg, sieben Millionen Vertriebene, zehn Millionen Tote. Trop c’est trop taucht ein in die chaotische Situation in der Stadt
+Goma, der Hauptstadt der Provinz Nord-Kivu in der Demokratischen Republik Kongo.
+
+"Two Mountains Weighing Down My Chest" (Viv Li, D/NL 2026) [Panorama]
+ Panorama | WP | 1st | Doc. Eine aufstrebende chinesische Künstlerin schwankt zwischen der queeren Szene Berlins und ihrer traditionellen Familie in Beijing. Humorvoll und einfühlsam begleitet der Film ihre Suche nach Zugehörigkeit in einer globalisierten und polarisierten Welt.
+
+"Un hiver russe (A Russian Winter)" (Patric Chiha, F 2026) [Panorama]
+ WP | Doc/ Nach der russischen Vollinvasion der Ukraine 2022, weigern sich Margarita, Yuri und ihre Freund*innen, sich dem Regime zu beugen und gehen ins Exil. Danach gibt es für sie keinen Ort, an den sie zurückkehren können, und keinen Ort, an dem sie sich wirklich willkommen fühlen.
+
+GENERATION 14plus
+
+"Black Burns Fast" (Sanduela Asanda, Südafrika 2025) [Generation]
+ 14plus | IP | 1st. Die nerdige Luthando erwartet ein gewöhnliches Schuljahr an einem renommierten Internat, das sie dank eines Stipendiums besucht. Bis eine neue Mitschülerin unterdrückte Sehnsüchte weckt, die Luthandos Selbstbild und Beziehungen auf die Probe stellen.
+
+GENERATION Kplus
+
+"A Fabulosa Máquina do Tempo (The Fabulous Time Machine)" (Eliza Capai, Brasilien 2026) [Generation]
+ Kplus | WP | Doc. Im dürren Hinterland Brasiliens spielen Mädchen miteinander. Sie wissen um die schwierige Vergangenheit ihrer Mütter und hegen kühne Zukunftsträume. Wo Männer gegenüber Frauen noch als Riesen gelten, überschreiten sie die Schwelle von Kindheit zu Jugend.
+
+"Ghost School" (Seemab Gul, Pak/D/Saudi-Arabien 2025) [Generation]
+ Kplus | EP | 1st. Die zehnjährige Rabia will wissen, warum ihre Schule plötzlich schließt. Auf dem Dorf wird wild gemunkelt, und die Behörden helfen nicht weiter. Mutig macht sich Rabia auf die Suche nach der Wahrheit und stößt auf Gerüchte, lokalen Machtmissbrauch und Schweigen.
+
+
+"Papaya" (Priscilla Kellen, Bra 2025) [Generation]
+ Kplus | IP | 1st | Animation. Papaya, ein winziger, flugbegeisterter Samen im Amazonas-Regenwald, möchte am liebsten immer in Bewegung bleiben, um ja nicht
+zu keimen. Doch schließlich entdeckt sie die Kraft ihrer Wurzeln und löst damit eine Revolution aus, die ihre Welt verändert.
+
+"Tegenwoordig heet iedereen Sorry (Everyone's Sorry Nowadays)" (Frederike Migom, Bel/NL/D 2026) [Generation]
+ Kplus | WP. Als sich Bianca an einem heißen Sommertag von ihren Eltern übersehen fühlt, hilft ihr die unerwartete Begegnung mit ihrer Lieblingsschauspielerin Billie King, zu sich zu finden. Eine zarte, fantasievolle Geschichte über Träume und einen eigenen Platz im Leben.
+
+RETROSPEKTIVE
+
+"Allemagne année 90 neuf zéro" (Jean-Luc Godard, F / D 1991) [Retrospektive]
+ Lemmy Caution, Westagent in der DDR, wird auf einer Reise durch das sich auflösende Land von Gespenstern der deutschen Vergangenheit heimgesucht. Eine vielschichtige Ton- und Bildcollage unter Verwendung zahlreicher deutscher Filmklassiker.
+
+"Bamboozled" (Spike Lee, USA 2000) [Retrospektive]
+ Ein Schwarzer Fernsehautor möchte unbedingt gefeuert werden, doch sein Konzept einer umgekehrten Minstrel-Show wird ein großer Publikumserfolg. Mit seiner Mediensatire klagt Spike Lee einen der US-amerikanischen Populärkultur immanenten Rassismus an.
+
+"Berlin, Bahnhof Friedrichstraße 1990" (Konstanze Binder, Lilly Grote, Ulrike Herdin, Julia Kunert, D 1991) [Retrospektive]
+ Doc. Die Weichen werden neu gestellt: Beobachtungen und Interviews mit Grenzbeamt*innen und Pendler*innen am Bahnhof Friedrichstraße im noch frischen Jahr 1990, als die Grenze zwischen Ost und West immer durchlässiger und dort bereits sukzessive
+abgebaut wird.
+
+"Boyz n the Hood" (John Singleton, USA 1991) [Retrospektive]
+ Ein Klassiker des New Black Cinema: In einem denkbar ungünstigen, von Drogen, Raubüberfällen und Schießereien geprägten Umfeld entwickelt ein Jugendlicher eine starke Persönlichkeit, was ihn davor bewahrt, selbst in die Kriminalität abzurutschen.
+
+"Der Kontrolleur (The Border Guard)" (Stefan Trampe, D 1995) [Retrospektive]
+ Psychogramm eines ordnungsfanatischen Borderliners: Ein ehemaliger Grenzer der DDR kann sich mit deren Ende nicht abfinden. Weiterhin „Dienst“ tuend, beschwört der verwitwete Eigenbrötler am stillgelegten Grenzkontrollpunkt Drewitz eine Tragödie herauf.
+
+"D'Est (From the East | Von Osten)" (Chantal Akerman, Bel/F/Por 1993) [Retrospektive]
+ Dokumentarfilm über eine Reise von West nach Ost, aus dem sommerlichen D ins winterlich verschneite Moskau. Ein Roadmovie der Stillleben: Ohne Erzählstimme erforscht die Kamera die Landschaften und die Gesichter der Menschen, die in ihnen leben.
+
+"Bells from the Deep. Faith and Superstition in Russia" (Werner Herzog, D/USA 1993) [Retrospektive]
+ Doc. Beobachtungen unter Gläubigen und religiösen Scharlatanen in Sibirien nach Auflösung der Sowjetunion. Ein faszinierter Werner Herzog trifft auf spirituelle Ergriffenheit und authentische Ekstatiker, doch auch fragwürdige Gesundbeter und Wunderheiler.
+
+"Gorilla Bathes at Noon" (Dušan Makavejev, Ju/D 1993) [Retrospektive]
+ Nach dem Abzug der Roten Armee aus der DDR irrt ein zurückgelassener russischer Major durch Berlin, das er als absurdes Theater erlebt. Eine mit vielen dokumentarischen Aufnahmen und historischem Archivmaterial gespickte post-sozialistische Satire.
+
+
+"Im Glanze dieses Glückes (In the Splendour of Happiness)" (Johann Feindt, Jeanine Meerapfel, Helga Reidemeister, Dieter Schumann, Tamara Trampe, D 1990) [Retrospektive]
+ Doc. Bürgerinnen und Bürger der DDR berichten über ihre Erfahrungen und Empfindungen angesichts der Zukunft ihres Landes als „Beitrittsgebiet“ nach der anstehenden Volkskammerwahl. Trauer, Frust, Empörung prägen den Blick zurück, Ungewissheiten den nach
+vorn.
+
+"Johanna d’Arc of Mongolia" (Ulrike Ottinger, Bundesrepublik D 1989) [Retrospektive]
+ Betörend inszeniert und gleichzeitig dokumentarisch: Von einer Nomaden-Prinzessin in die mongolische Steppe entführt, kommen vier allein reisende Frauen aus Westeuropa und den USA in engen Kontakt mit der Kultur des „gastfreundlichsten Volkes der Welt“.
+
+"Juice" (Ernest R. Dickerson, USA 1992) [Retrospektive]
+ Das Regiedebüt des Spike-Lee-Kameramanns Ernest R. Dickerson. Ein auch mit den Rap-Stars Tupac Shakur und Queen Latifah besetztes Drama um vier Schwarze Jungs in Harlem. Quincy möchte ein erfolgreicher DJ werden, sein Kumpel Bishop ein reicher Gangster.
+
+"La double vie de Véronique" (Krzysztof Kieślowski, F/Pol/Nor 1991) [Retrospektive]
+ Ein ebenso sinnliches wie übersinnliches Drama: Weronika, eine junge Sängerin in Polen, fühlt sich einer Doppelgängerin in Frankreich eng verbunden. Sie entwickelt nach Weronikas Tod ebenso ein unerklärliches Gespür für diese mystische Beziehung.
+
+"Lola rennt (Run Lola Run)" (Tom Tykwer, D 1998) [Retrospektive]
+ Binnen 20 Minuten muss Lola 100.000 Mark besorgen, sonst killt ein Gangster ihren Freund. In drei Durchläufen entwirft der Film drei mögliche Lösungswege für ihr Problem. Ein Flash-Forward-Fotoroman, eine postmoderne Bricolage als filmischer Loop.
+
+"Lola und Bilidikid" (Kutluğ Ataman, D 1999) [Retrospektive]
+ Lola ist Teil der „Gastarbeiterinnen“, einer Truppe türkischer Drag Queens mit triumphalen Auftritten. Der schwule kleine Bruder Murat hingegen steht noch am Anfang seiner Identitätssuche. Ein intensives Familiendrama aus dem „anatolischen“ Kreuzberg.
+
+"Oranzhevye zhilety (Orange Vests | Orange Westen)" (Yury Khashevatsky, Belarus/D 1993) [Retrospektive]
+  Doc. Tabubrechender Filmbrief über Leben und Nöte der Frauen in der zerfallenden Sowjetunion, 1990/91 gedreht in Belarus, Tadschikistan, Ukraine und Sibirien. Interviews und Beobachtungen belegen Ausbeutung und Unterdrückung als konstante patriarchale Doktrin.
+
+"Party Girl" (Daisy von Scherler Mayer, USA 1995) [Retrospektive]
+ Nach ihrer Verhaftung wegen einer illegalen Party soll sich deren exaltierte Organisatorin in der New Yorker Stadtbibliothek bewähren. In der Indie-Version einer Screwball Comedy brilliert Parker Posey als die „Holly Golightly der Generation X“.
+
+"Prinz in Hölleland (Prince in Hell)" (Michael Stock, D 1993) [Retrospektive]
+ Die Heroinsucht eines Kreuzberger Bauwagenbewohners ruiniert zunächst seine Zweierbeziehung und schließlich seine ganze prekäre Existenz. Eine plastische und manchmal drastische Schilderung des queeren Aussteigermilieus im rauen West-Berlin.
+
+"Raspad (Decay | Der Zerfall)" (Mykhailo Belikov, UdSSR/Ukrainische SSR/USA 1990) [Retrospektive]
+ Nach der Reaktorkatastrophe von Tschornobyl bemüht sich ein Journalist darum, vom Unglücksort berichten zu dürfen. Ein ungewöhnlicher Katastrophenfilm, bei dem der Zerfall auf vielen Ebenen wütet und der von verblüffenden Realitätsbrüchen durchsetzt
+
+"Slacker" (Richard Linklater, USA 1990) [Retrospektive]
+ Ein improvisierter Reigen unter rund hundert Mitwirkenden auf den Straßen von Austin, Texas. Die abstrusen Erlebnisse und absurden Dialoge dieser jugendlichen „Slacker“ machten das Kinodebüt von Richard Linklater zum filmischen Manifest der Generation X.
+
+"So schnell es geht nach Istanbul (Shortcut to Istanbul)" (Andreas Dresen, Deutsche Demokratische Republik / D 1991) [Retrospektive]
+ Ein junger Türke aus Westberlin sucht im Osten der Stadt eine Freundin, um als Pendler und ihr Untermieter Geld für die Heimreise nach Istanbul zu sparen. Die mittellange Culture-Clash-Komödie ist Andreas Dresens Abschlussfilm an der HFF „Konrad Wolf“.
+
+"Sunny Point" (Wolf Vogel, D 1995) [Retrospektive]
+ Satire um einen Westberliner Werbefilmproduzenten mit DDR-Vergangenheit: Um die Pleite seiner Firma abzuwenden und noch einmal an westliche Starthilfe zu gelangen, „wiederholt“ er seine Flucht aus Ostberlin – ausgerechnet am Abend des 9. November 1989.
+
+"Tito pro drugi put među Srbima (Tito Among the Serbs for the Second Time)" (Zelimir Zilnik, Jugoslawien 1994) [Retrospektive]
+ Doc. Als ein Schauspieler in der Maske des einstigen jugoslawischen Staatspräsidenten Tito durch Belgrad spaziert, löst dies bei Passanten unterschiedlichste Reaktionen aus. Ein Happening, das kontroverse Diskussionen in Gang bringt und filmisch dokumentiert.
+
+"Videogramme einer Revolution" (Harun Farocki, Andrei Ujica, D 1992) [Retrospektive]
+ Doc. Eine minutengenaue Chronologie der rumänischen Revolution im Dezember 1989 in Bukarest. Die Montage aus Live-Aufnahmen des staatlichen Fernsehens und Material zahlreicher Videoamateure führt zu einer neuen, medialen Geschichtsschreibung.
+
+"Wildwood, NJ" (Ruth Leitman, Carol Weaks Cassidy, USA 1994) [Retrospektive]
+ Doc. Von einer weiblichen Crew auf Super 8 gedreht, katapultiert uns Wildwood, NJ in die Lebenswelten und -entwürfe von jungen Amerikanerinnen in den 1990er-Jahren. Dabei kommen im sonnengefluteten Ferienparadies auch manche Schattenseiten zur Sprache.
+
+
+EOF
+
+
+our (@critics, @critics_group);
+my $i=0;
+$critics_group[$i] = "screendaily";
+$critics[$i++] = "
+Anton Dolin (Meduza/International, Russia)
+Rita Di Santo (The Morning Star, UK)
+Carlos Heli di Almeida (O Globo, Brazil)<
+Martin Horyna (Cinepur, Cz)
+Paolo Bertolin (Rivista del Cinematografo, Italy)
+Barbara Hollender (Rzeczpospolita, Poland)
+Katja Nicodemus (Die Zeit, Germany)
+Kalapaparuek (Bangkok Biznews, Thailand)
+Screen International (Screen International, UK)
+";
+$critics_group[$i] = "critic.de";
+$critics[$i++] = "
+Dunja Bialas (artechock, Deutschland)
+Esther Buss (Jungle World, Deutschland)
+Jérôme d'Estais (73 Obsession, France)
+Lukas Foerster (critic.de, Deutschland)
+Martin Gobbin (Negativ, Deutschland)
+Thomas Groh (Perlentaucher, Deutschland)
+Friederike Horstmann (Perlentaucher, Deutschland)
+David Hudson (Criterion, USA)
+Jenny Jecke (Moviepilot, Deutschland)
+Michael Kienzl (critic.de, Deutschland)
+Leonard Krähmer (critic.de, Deutschland)
+Kamil Moll (Filmstarts, Deutschland)
+Tilman Schumacher (critic.de, Deutschland)
+Christopher Small (Outskirts, UK)
+Pavao Vlajcic (PowWow, Deutschland)
+";
+$critics_group[$i] = "fipresci";
+$critics[$i++] = "
+Alberto Ramos (FIPRESCI, Havana Int. Festival, Cuba)
+Andrea Martini (FIPRESCI, Italy)
+Barbara Lorey (FIPRESCI, France)
+Esin Kucuktepepinar (FIPRESCI, Turkey)
+Kerem Akca (FIPRESCI, Turkey)
+Kirsten Liese (FIPRESCI, Deutschland)
+Leo Bankersen (FIPRESCI, Holland)
+Lulia Blaga (FIPRESCI, Romania)
+Pamela Jahn (FIPRESCI, Deutschland)
+Paolo POR (FIPRESCI, POR)
+Philip Bergson (FIPRESCI, UK)
+Jana Podskalska (FIPRESCI, Czech)
+Steven Yates (FIPRESCI, UK)
+Thomas Abeltshauser (FIPRESCI, Deutschland)
+Ugo Brusaporco (FIPRESCI, Italy)
+Verena Schmöller (FIPRESCI, Deutschland)
+";
+$critics_group[$i] = "Press";
+$critics[$i++] = "
+A.A. Dowd (The A.V. Club, USA)
+Adam Chitwood (Collider, USA)
+Alex Billington (FirstShowing.net)
+Alex Ritman (The Hollywood Reporter, UK)
+Alison Willmore (BuzzFeed, USA)
+Alissa Wilkinson (Christianity Today, USA)
+Allan Hunter (Screen International, UK)
+Andre Simonoveisz	(Filmuforia)
+Angie Han (Slash, USA)
+Anke Westphal (Berliner Zeitung, Deutschland)
+Anne Thompson (Indiewire, USA)
+Anthony Kaufman (Screen International, USA)
+Arman Fatic (Duart.hr, Croatia)
+Barbara Demerov (Adoro cinema, Argentina)
+Beatrice Behn (Kino-Zeit, Deutschland)
+Ben Delgado (Coral Gables Art Cinema, USA)
+Ben Flanagan	(Slant Magazine)
+Ben Kenigsberg (Variety, USA)
+Ben Smith (UK)
+Ben Travers (Indiewire, USA)
+Bilge Ebiri  (Vulture, USA)
+Blake Williams (Cinema Scope, Canada)
+Boyd van Hoeij (The Hollywood Reporter, USA)
+Brian Moylan  (The Guardian, UK)
+Bruno Carmelo (Papo De Cinema, Brasil)
+Bryan Bishop (The Verge, USA)
+Carlos Aguilar (Variety, USA)
+Carmen Paddock	(One Room With A View, UK)
+Carolin Weidner (Tip, Deutschland)
+Chris Knipp	(Writing: Movies)
+Christian Ihle (TAZ Popblog, Deutschland)
+Christopher Campbell (Nonfics, Film School Rejects, Movies.com, USA)
+Damon Wise  (The Guardian, UK)
+Daniel Fienberg (HitFix, USA)
+Daniel Mecca (The Film Stage, USA)
+Darren Hughes (The Public Cinema, Big Ears Festival, USA)
+David D'Arcy (Screen International, USA)
+David Ehrlich (Indiewire, USA)
+David Rooney  (The Hollywood Reporter, USA)
+Deborah Young (The Hollywood Reporter, UK)
+Diego Semerene	(Slant Magazine)
+Ed Gibbs (The Guardian, UK)
+Egor Belikov (kinoart.ru, Russia)
+Fabian Wallmeier (rbb24, Deutschland)
+Fabricio Duque (Vertentes Do Cinema, Brasil)
+Guy Lodge (Variety, USA)
+Harald Mühlbeyer (Kino-Zeit, Deutschland)
+Helena Lindblad (Dagens Nyherer, Schweden)
+James McAllister (Culture Fly, GB)
+Jan Küveler (Welt, Deutschland)
+Jay Weissberg (Variety, Italy)
+Jean-Christophe Simon (Films Boutique, Deutschland)
+Jessica Kiang (The Playlist, USA)
+Joachim Kurz (Kino-Zeit, Deutschland)
+Joe Bendel (Libertas Film Magazine, The Epoch Times, USA)
+Joseph Owen	(The Upcoming)
+Karsten Munt (Berliner Zeitung, Deutschland)
+Keith Uhlich	(Slant Magazine)
+Kevin B. Lee (alsolikelife, USA)
+Laura Clifford	(Reeling Reviews)
+Lee Marshall (Screen International, UK)
+Lilla Gyöngyösi (Ex-Journalist, Hungary)
+Lukas Foerster (Perlentaucher, Deutschland)
+Lukas Stern (critic.de, Deutschland)
+Marc van de Klashorst (International Cinephil Society, Netherlands)
+Maurice Lahde (critic.de, Deutschland)
+Mauricio Ribeiro (Spoilermovies, Brasil)
+Miriam Bale (MUBI, USA)
+Murtada Elfadl  (Variety, USA)
+Nandor Toth (Filmtekercs.hu, Hungary)
+Neil Young (RogerEbert.com, GB)
+Nick James	(Sight & Sound)
+Noel Murray (The Playlist, USA)
+Oliver Johnston (The Upcoming, UK)
+Otto Kylmälä (Loud Silents Festival, Lithuania)
+Owen Gleiberman  (Variety, USA)
+Peter Bradshaw (The Guardian, UK)
+Peter Debruge (Variety, USA)
+Philip Oltermann (The Guardian, UK)
+Redmond Bacon (Cultured Vultures, UK)
+Rendy Jones	(Rendy Reviews)
+Robert Daniels	(812 Film Reviews)
+Rory O’Connor (Film Stage, UK)
+Sarah Ward (Screen International, UK)
+Scout Tafoya	(Roger Ebert)
+Stephen Dalton (The Hollywood Reporter, UK)
+Stephen Farber (The Hollywood Reporter, UK)
+Stephen Whitty	(Screen Daily, UK)
+Thekla Dannenberg (Perlentaucher, Deutschland)
+Theo MacDonald (Scenes Journal, UK)
+Thierry Chervel (Perlentaucher, Deutschland)
+Till Kadritzke (critic.de, Deutschland)
+Wang Muyan (The Paper, China)
+Wellington Almeida (Huffpost Brazil, Deutschland)
+";
+$critics_group[$i] = "Letterboxd";
+$critics[$i++] = "
+Alex Hodge (Film student, Australia)
+Anna Sciamma (cinemvs.tumblr.com blog, Denmark)
+Antonio Dakeyras (Deutschland)
+Aristea Tomopoulou (Filmmaker, Greece)
+Aurel Graf (Maximum Cinema, Schweiz)
+Bradley Porter (Filmmaker, GB)
+Bumstead (Deutschland)
+D W Mault (Filmmaker, UK)
+Eddie Falvey (One Room With A View, GB)
+Felix H. (Dis+Positiv, Deutschland)
+Hannah Woodhead (Little White Lies, UK)
+Hoss Ghonouie (Everyman Cinemas, GB)
+Jasper Behrensdorf (Leibniz Universität Hannover, Deutschland)
+John Tikis (Musician, Greece)
+Konrad Kögler (Das Kulturblog, Deutschland)
+Marvin Meiendresch (Filmmaker, Deutschland)
+Matthias Hopf (dasfilmfeuilleton.de blog, Deutschland)
+Ole Johnny Fossås (Jump Cut, Norway)
+Pablo Villaça (Cinema em Cena, Brasil)
+Ron Junghans (jay-carpet.com, Deutschland)
+Serena Scateni (cinematographe.it, Scotland)
+Siddhant Adlakha (Variety, USA)
+Stavros Tagres (GB)
+Vytenis Galvėnas (Vilnius University, Lithuania)
+Werner Hochbaum-Schrein (negativespace.blogger.de, Deutschland)
+";
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival.
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Wettbewerb: <b>bold</b><br>
+</small><p>
+
+EOF
+#  <br>All sections updated daily during the festival.
+
+our $FOOTER = "
+<pre>
+--
+Lists:
+https://letterboxd.com/seanliu/list/berlinale-2025/
+https://letterboxd.com/rurban/list/berlinale-woche-der-kritik-2025/
+Source & History:
+https://github.com/rurban/cannes-ratings/blob/master/public/Berlinale2025.dat
+
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;
