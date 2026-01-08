@@ -12,9 +12,9 @@ if [ "$1" = "-n" ]; then
     shift
 fi
 if [ -z "$1" ]; then
-    echo Berlinale201{6,7,8,9} Berlinale202{0,1,2,3,4,5} \
-         Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4,5} \
-         Venice2025 \
+    echo Berlinale201{6,7,8,9} Berlinale202{0,1,2,3,4,5,6} \
+         Cannes201{0,1,2,3,4,5,6,7,8,9} Cannes202{0,1,2,3,4,5,6} \
+         Venice202{5,6} \
          Sundance201{5,6,7,8,9} Sundance202{0,1,2,3,4,5,6} >dirs.txt
     for d in $(cat dirs.txt); do
         ./dump.sh $args "$d"
