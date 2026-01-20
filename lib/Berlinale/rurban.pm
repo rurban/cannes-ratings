@@ -263,10 +263,14 @@ sub _dump {
         # show predictions until this date
         $finaldate = Time::Piece->strptime('1 February 2024', '%d %B %Y')->epoch;
       }
-      elsif ($year == 2025) { # Encounters => Perspectives
+      elsif ($year >= 2025) { # Encounters => Perspectives
         @sections = ($comp_section, "Perspectives", "Panorama", "Generation",
                      "Forum", "Forum Expanded", "Special", "Retrospektive", "Woche der Kritik" );
-        $finaldate = Time::Piece->strptime('4 February 2025', '%d %B %Y')->epoch;
+        if ($year == 2025) {
+            $finaldate = Time::Piece->strptime('4 February 2025', '%d %B %Y')->epoch;
+        } elsif ($year == 2026) {
+            $finaldate = Time::Piece->strptime('4 February 2026', '%d %B %Y')->epoch;
+        }
       }
       if (CORE::time() < $finaldate) {
         push @sections, qw[Predictions];
