@@ -7,7 +7,7 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Cannes';
-our @YEARS = (2010..2025);
+our @YEARS = (2010..2026);
 our $comp_section = 'Competition';
 our @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
                  "Semaine", "ACID", "Other"); #, "Predictions"
@@ -775,8 +775,8 @@ sub _dump_all {
   my $FOOTER = ${"$BASE\::rurban::$year\::FOOTER"};
   my @critics = @{"$BASE\::rurban::$year\::critics"};
   my @critics_group = @{"$BASE\::rurban::$year\::critics_group"};
-  if ($year eq '2025') {
-    my $pressdate = Time::Piece->strptime('10 April 2025', '%d %B %Y')->epoch;
+  if ($year eq '2026') {
+    my $pressdate = Time::Piece->strptime('10 April 2026', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
       #@sections = qw[Predictions]; # $comp_section
       @sections = ("Out Of Competition", "Predictions");

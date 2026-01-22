@@ -16,22 +16,22 @@ package Cannes::rurban::2026; # -*- perl -*-
 # critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
 # outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
 # Polls:
-#   https://www.screendaily.com/news/cannes-2025-screens-dailies/5204869.article
+#   https://www.screendaily.com/news/cannes-2026-screens-dailies/5204869.article
 #     https://www.screendaily.com/cannes-jury-grid
-#   http://www.lefilmfrancais.com/cannes2025
-#     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-5
-#   https://www.ioncinema.com/tag/2025-cannes-critic-panel (scaled to 0-10)
+#   http://www.lefilmfrancais.com/cannes2026
+#     https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2026-les-etoiles-de-la-critique-5
+#   https://www.ioncinema.com/tag/2026-cannes-critic-panel (scaled to 0-10)
 #   http://jury.critic.de/cannes/
-#   https://icsfilm.org/festivals/cannes/2025-cannes/cannes-2025-ics-press-industry-panel/
+#   https://icsfilm.org/festivals/cannes/2026-cannes/cannes-2026-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/festival-de-cannes-2025-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
-#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2025/
-#   https://wask.fr/les-etoiles-wask-2025-jour-par-jour/
-#   https://outnow.ch/Thema/Cannes-2025/
-#   http://www.filmneweurope.com/images/FNE%20Critics/cannes2025critics.pdf
-#   https://www.cahiersducinema.com/fr-fr/festivals/festival-de-cannes-2025
+#   https://www.chaosreign.fr/festival-de-cannes-2026-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
+#   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2026/
+#   https://wask.fr/les-etoiles-wask-2026-jour-par-jour/
+#   https://outnow.ch/Thema/Cannes-2026/
+#   http://www.filmneweurope.com/images/FNE%20Critics/cannes2026critics.pdf
+#   https://www.cahiersducinema.com/fr-fr/festivals/festival-de-cannes-2026
 #     https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   https://daily.afisha.ru/cinema/29265-filmy-kannskogo-kinofestivalya-2025-ocenki-rossiyskih-kinokritikov/
+#   https://daily.afisha.ru/cinema/29265-filmy-kannskogo-kinofestivalya-2026-ocenki-rossiyskih-kinokritikov/
 #   https://www.caimanediciones.es/festivales/festival-de-cannes/
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/5
@@ -42,8 +42,8 @@ package Cannes::rurban::2026; # -*- perl -*-
 #   http://www.hollywoodreporter.com/topic/movie-reviews
 #   https://www.screendaily.com/reviews/festivals/cannes
 #   https://www.indiewire.com/t/cannes
-#   https://thefilmstage.com/?tags=cannes-2025
-#   https://www.theguardian.com/film/cannes-2025
+#   https://thefilmstage.com/?tags=cannes-2026
+#   https://www.theguardian.com/film/cannes-2026
 #   https://www.thewrap.com/
 #   https://awardswatch.com/category/reviews/filmreviews/cannes-film-festival/
 
@@ -197,8 +197,8 @@ Giovanni Marchini Camina (Sight & Sound, USA)
 Rüdiger Suchsland (arteschock, Deutschland)
 ";
 # Le film français 0-4
-# https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2025-les-etoiles-de-la-critique-1
-# https://www.lefilmfrancais.com/images/Cannes2025_Quot_1_Etoiles.jpg
+# https://www.lefilmfrancais.com/cinema/171697/palmometre-du-festival-de-cannes-2026-les-etoiles-de-la-critique-1
+# https://www.lefilmfrancais.com/images/Cannes2026_Quot_1_Etoiles.jpg
 $critics_group[$i] = "Le film français";
 $critics[$i++] = "
 Thierry Chèze (Premiere, France)
@@ -258,7 +258,7 @@ Kuriko Sato (Eiga.com, Japan)
 Rui Tendinha (Diario de Noticias, Portugal)
 Sonya Vseliubska (Ukrainska Pravda, Ukraine)
 ";
-# ICSfilm panel (0-5) https://icsfilm.org/festivals/cannes/2025-cannes/yes-we-cannes-the-ics-panelists-for-the-78th-festival-de-cannes/
+# ICSfilm panel (0-5) https://icsfilm.org/festivals/cannes/2026-cannes/yes-we-cannes-the-ics-panelists-for-the-78th-festival-de-cannes/
 $critics_group[$i] = "ICSfilm panel";
 $critics[$i++] = "
 Diego Batlle (Otros Cines, Argentina)
@@ -344,7 +344,7 @@ Zsolt Gyenge (Fipresci)
 #Joannis Raouzaios (Fipresci)
 #Mariona Borrull (Freelance, España)
 $critics_group[$i] = "chaosreign.fr";
-# https://www.chaosreign.fr/festival-de-cannes-2025-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
+# https://www.chaosreign.fr/festival-de-cannes-2026-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
 $critics[$i++] = "
 Ariane Allard (Positif, France)
 Olivier De Bruyn (Les Echos/Marianne, France)
@@ -867,7 +867,7 @@ the danish dtsjernebarometer,
 Moiree,
 good new russian and italian polls,
 OutNow.ch (mainstream),
-https://letterboxd.com/seanliu/list/cannes-2025/ (the industry),
+https://letterboxd.com/seanliu/list/cannes-2026/ (the industry),
 plus the usual press and individual critics on site.<br>
 
 <br>
@@ -888,9 +888,9 @@ our $FOOTER = "
 <pre>
 --
 Lists:
-https://letterboxd.com/seanliu/list/cannes-2025/
+https://letterboxd.com/seanliu/list/cannes-2026/
 Source & History:
-https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2025.dat
+https://github.com/rurban/cannes-ratings/blob/master/public/Cannes2026.dat
 </pre>";
 
 $HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
