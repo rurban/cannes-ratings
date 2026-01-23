@@ -778,8 +778,8 @@ sub _dump_all {
   if ($year eq '2026') {
     my $pressdate = Time::Piece->strptime('10 April 2026', '%d %B %Y')->epoch;
     if (CORE::time() < $pressdate) {
-      #@sections = qw[Predictions]; # $comp_section
-      @sections = ("Out Of Competition", "Predictions");
+      @sections = qw[Predictions]; # $comp_section
+      # @sections = ("Out Of Competition", "Predictions");
     }
   } elsif (@sections == 1) {
     @sections = ($comp_section, "Un Certain Regard", "Out Of Competition", "Quinzaine",
