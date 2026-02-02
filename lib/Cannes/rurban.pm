@@ -240,6 +240,7 @@ sub _dump {
   my %sections = map {$_=>1} @sections;
 
   @t = sort { $b->[1] <=> $a->[1] || $b->[0] cmp $a->[0] } @t;
+  # TODO use this title as index for $i details as this is stable
   for (@t) {
     my ($l,$a,$n,$t) = @{$_};
     $section = '';
@@ -247,7 +248,8 @@ sub _dump {
       $section = $1;
     }
     if (!$section or !$sections{$section}) {
-      $section = ($year == 2025) ? 'Predictions' : 'Other'; # or Predicted?
+      # TODO use current_year
+      $section = ($year == 2026) ? 'Predictions' : 'Other'; # or Predicted?
     }
     $title{$t}->{section} = $section;
     $title{$t}->{avg} = $a;
@@ -365,6 +367,9 @@ sub _dump {
   my $i = 1;
   my $numgood = 0;
   my $list = '';
+  # TODO make the index $i persistant, like using the sorted @titles as keys.
+  # Dont seperate very good, good, rated and unrated, as this will switch the links.
+  # We could use the letterboxd slug.
   for (@t) { # Very Good New Films
     my $t = $_->[3];
     my $n = $title{$t}->{num};
@@ -481,6 +486,8 @@ sub _dump {
       @unrated_titles = sort {
         $sect_t->{$b}->[3] <=> $sect_t->{$a}->[3]
       } @unrated_titles if $num;
+      # TODO make the index $i persistant, like using the sorted @titles as keys.
+      # Dont seperate very, good, rated and unrated, as this will switch the links.
       for (@rated_titles, @unrated_titles)
       {
         my $n=$sect_t->{$_}->[1];
@@ -884,105 +891,42 @@ sub _list {
   }
 }
 
-get '/Cannes' => sub {
-  _list(2025);
-};
-get '/Cannes2025' => sub {
-  _list(2025);
-};
-get '/Cannes2024' => sub {
-  _list(2024);
-};
-get '/Cannes2023' => sub {
-  _list(2023);
-};
-get '/Cannes2022' => sub {
-  _list(2022);
-};
-get '/Cannes2021' => sub {
-  _list(2021);
-};
-get '/Cannes2020' => sub {
-  _list(2020);
-};
-get '/Cannes2019' => sub {
-  _list(2019);
-};
-get '/Cannes2018' => sub {
-  _list(2018);
-};
-get '/Cannes2017' => sub {
-  _list(2017);
-};
-get '/Cannes2016' => sub {
-  _list(2016);
-};
-get '/Cannes2015' => sub {
-  _list(2015);
-};
-get '/Cannes2014' => sub {
-  _list(2014);
-};
-get '/Cannes2013' => sub {
-  _list(2013);
-};
-get '/Cannes2012' => sub {
-  _list(2012);
-};
-get '/Cannes2011' => sub {
-  _list(2011);
-};
-get '/Cannes2010' => sub {
-  _list(2010);
-};
-get '/2010' => sub {
-  _list(2010);
-};
-get '/2011' => sub {
-  _list(2011);
-};
-get '/2012' => sub {
-  _list(2012);
-};
-get '/2013' => sub {
-  _list(2013);
-};
-get '/2014' => sub {
-  _list(2014);
-};
-get '/2015' => sub {
-  _list(2015);
-};
-get '/2016' => sub {
-  _list(2016);
-};
-get '/2017' => sub {
-  _list(2017);
-};
-get '/2018' => sub {
-  _list(2018);
-};
-get '/2019' => sub {
-  _list(2019);
-};
-get '/2020' => sub {
-  _list(2020);
-};
-get '/2021' => sub {
-  _list(2021);
-};
-get '/2022' => sub {
-  _list(2022);
-};
-get '/2023' => sub {
-  _list(2023);
-};
-get '/2024' => sub {
-  _list(2024);
-};
-get '/2025' => sub {
-  _list(2025);
-};
+get '/Cannes' => sub { _list(2026); };
+get '/Cannes2026' => sub { _list(2026); };
+get '/Cannes2025' => sub { _list(2025); };
+get '/Cannes2024' => sub { _list(2024); };
+get '/Cannes2023' => sub { _list(2023); };
+get '/Cannes2022' => sub { _list(2022); };
+get '/Cannes2021' => sub { _list(2021); };
+get '/Cannes2020' => sub { _list(2020); };
+get '/Cannes2019' => sub { _list(2019); };
+get '/Cannes2018' => sub { _list(2018); };
+get '/Cannes2017' => sub { _list(2017); };
+get '/Cannes2016' => sub { _list(2016); };
+get '/Cannes2015' => sub { _list(2015); };
+get '/Cannes2014' => sub { _list(2014); };
+get '/Cannes2013' => sub { _list(2013); };
+get '/Cannes2012' => sub { _list(2012); };
+get '/Cannes2011' => sub { _list(2011); };
+get '/Cannes2010' => sub { _list(2010); };
+get '/2010' => sub { _list(2010); };
+get '/2011' => sub { _list(2011); };
+get '/2012' => sub { _list(2012); };
+get '/2013' => sub { _list(2013); };
+get '/2014' => sub { _list(2014); };
+get '/2015' => sub { _list(2015); };
+get '/2016' => sub { _list(2016); };
+get '/2017' => sub { _list(2017); };
+get '/2018' => sub { _list(2018); };
+get '/2019' => sub { _list(2019); };
+get '/2020' => sub { _list(2020); };
+get '/2021' => sub { _list(2021); };
+get '/2022' => sub { _list(2022); };
+get '/2023' => sub { _list(2023); };
+get '/2024' => sub { _list(2024); };
+get '/2025' => sub { _list(2025); };
+get '/2026' => sub { _list(2026); };
+
 get '/all' => sub {
   my $vars = {}; my (@t, %critic, %title);
   for my $year (@YEARS) {
