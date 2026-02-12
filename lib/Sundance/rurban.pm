@@ -963,6 +963,6 @@ get '/SundanceAll' => sub {
   template lc($BASE).".tt", $all;
 };
 
-get '/' => sub { redirect '/Sundance2026'; };
+#get '/' => sub { redirect '/Sundance2026'; };
 
 1;

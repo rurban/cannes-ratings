@@ -917,7 +917,7 @@ get '/Berlinale2023' => sub { _list(2023) };
 get '/Berlinale2024' => sub { _list(2024) };
 get '/Berlinale2025' => sub { _list(2025) };
 get '/Berlinale2026' => sub { _list(2026) };
-get '/Berlinale'     => sub { _list(2025) };
+get '/Berlinale'     => sub { _list(2026) };
 
 get '/BerlinaleAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
@@ -952,6 +952,6 @@ get '/BerlinaleAll' => sub {
   template lc($BASE).".tt", $all;
 };
 
-#get '/' => sub { redirect '/Berlinale2024'; };
+get '/' => sub { redirect '/Berlinale2026'; };
 
 1;
