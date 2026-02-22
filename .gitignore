@@ -61,6 +61,7 @@ c[12][0-9]/
 /kinoart.ru.dat
 /moiree.dat
 /moiree.pl
+/letterboxd_cookies.txt
 /letterbox
 /letterbox-*.pl
 /letterbox-*.dat
@@ -72,6 +73,7 @@ c[12][0-9]/
 /lettr-*-list.html
 /lettr-*-list-2.html
 lib/*.pm
+lib/Letterboxd
 git_push.sh
 hot_deploy-bump.sh
 logs/
