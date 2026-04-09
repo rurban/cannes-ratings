@@ -50,13 +50,113 @@ package Cannes::rurban::2026; # -*- perl -*-
 use utf8;
 our $DATA = <<'EOF';
 
+COMPETITION
+
+"Parallel Tales (Histoires parallèles)" (Asghar Farhadi, F) [Competition]
+
+"Fjord" (Cristian Mungiu) [Competition]
+
+"The Unknown (L’Inconnu)" (Arthur Harari, F) [Competition]
+
+"All of a Sudden" (Ryūsuke Hamaguchi) [Competition]
+
+"Minotaur" (Andrey Zvyagintsev) [Competition]
+
+"Coward" (Lukas Dhont) [Competition]
+
+"Sheep in the Box" (Hirokazu Kore-eda) [Competition]
+
+"The Beloved (El ser querido)" (Rodrigo Sorogoyen) [Competition]
+
+"The Man I Love" (Ira Sachs) [Competition]
+
+"Fatherland" (Pawel Pawlikowski) [Competition]
+
+"Moulin" (Laszlo Nemes) [Competition]
+
+"Stories Of The Night" (Lea Mysius) [Competition]
+
+"Notre Salut" (Emmanuel Marre) [Competition]
+
+"Gentle Monster" (Marie Kreutzer) [Competition]
+
+"Nagi Notes" (Koji Fukada) [Competition]
+
+"Hope" (Na Hong-jin, Taiwan) [Competition]
+
+"Garance" (Jeanne Herry) [Competition]
+
+"The Dreamed Adventure" (Valeska Grisebach) [Competition]
+
+"The Black Ball" (Javier Ambrossi, Javier Calvo) [Competition]
+
+UN CERTAIN REGARD
+
+"Everytime" (Sandra Wollner) [Un Certain Regard]
+
+"I’ll Be Gone in June" (Katharina Rivilis) [Un Certain Regard]
+
+"Yesterday The Eye Didn’t Sleep" (Rakan Mayasi) [Un Certain Regard]
+
+"The Meltdown" (Manuela Martelli) [Un Certain Regard]
+
+"Club Kid" (Jordan Firstman) [Un Certain Regard]
+
+"Teenage Sex and Death at Camp Miasma" (Jane Schoenbrun) [Un Certain Regard]
+
+"La más dulce" (Laïla Marrakchi) [Un Certain Regard]
+
+OUT OF COMPETITION
+
+"La Vénus électrique" (Pierre Salvadori) [Out of Competition] Opener
+
+"Her Private Hell" (Nicolas Winding Refn) [Out of Competition]
+
+"Diamond" (Andy Garcia) [Out of Competition]
+
+"L’Abandon" (Vincent Garenq) [Out of Competition]
+
+"Karma" (Guillaume Canet) [Out of Competition]
+
+"L’Objet Du Delit" (Agnes Jaoui) [Out of Competition]
+
+"L’Âge de fer" (Antonin Baudry) [Out of Competition]
+
+MIDNIGHT SCREENINGS
+
+"Colony" (Yeon Sang-ho) [Out of Competition] Midnight
+
+"Roma Elastica" (Bertrand Mandico) [Out of Competition] Midnight
+
+"Sanguine" (Marion Le Coroller) [Out of Competition] Midnight
+
+"Full Phil" (Quentin Dupieux) [Out of Competition] Midnight
+
+"Jim Queen" (Nicolas Athane, Marco Nguyen) [Out of Competition] Midnight
+
+CANNES PREMIERE
+
+"Propeller One-Way Night Coach" (John Travolta) [Out Of Competition] Premiere
+
+"Kokurojo: The Samurai and the Prisoner" (Kiyoshi Kurosawa) [Out Of Competition] Premiere
+
+"Heimsuchung" (Volker Schlondorff) [Out Of Competition] Premiere
+
+"The Third Night" (Daniel Auteuil) [Out Of Competition] Premiere
+
+SPECIAL SCREENINGS
+
+"John Lennon: The Last Interview" (Steven Soderbergh) [Out Of Competition] Special
+
+"Avedon" (Ron Howard) [Out Of Competition] Special
+
+"Les Survivants du Che" (Christophe Réveille) [Out Of Competition] Special
+
+"Les Matins Merveilleux" (Avril Besson) [Out Of Competition] Special
+
 PREDICTIONS
 
-"Hope" (Na Hong-jin, Taiwan) [Predictions]
-
 "The Entertainment System Is Down" (Ruben Östlund, Swe) [Predictions]
-
-"The Unknown (L’Inconnu)" (Arthur Harari, F) [Predictions]
 
 "Alpha Gang" (Nathan + David Zellner, UK/USA) [Predictions]
 
@@ -65,10 +165,6 @@ PREDICTIONS
 "The Way of the Wind" (Terrence Malick) [Predictions]
 
 "Bitter Christmas (Amarga Navidad)" (Pedro Almodóvar) [Predictions]
-
-"Parallel Tales (Histoires parallèles)" (Asghar Farhadi, F) [Predictions]
-
-"Fjord" (Cristian Mungiu) [Predictions]
 
 "Paper Tiger" (James Gray) [Predictions]
 
@@ -80,8 +176,6 @@ PREDICTIONS
 
 "The Birthday Party (Histoires de la nuit)" (Léa Mysius) [Predictions]
 
-"Coward" (Lukas Dhont) [Predictions]
-
 "Roma elastica" (Bertrand Mandico) [Predictions]
 
 "Greenland (Banquise)" (Emmanuel Courcol) [Predictions]
@@ -90,12 +184,6 @@ PREDICTIONS
 
 "I'll Forget Your Name (J'oublierai ton nom)" (Yann Gonzalez) [Predictions]
 
-"Her Private Hell" (Nicolas Winding Refn) [Predictions]
-
-"All of a Sudden" (Ryūsuke Hamaguchi) [Predictions]
-
-"Minotaur" (Andrey Zvyagintsev) [Predictions]
-
 "Jack of Spades" (Joel Coen) [Predictions]
 
 "Disclosure Day" (Steven Spielberg) [Predictions]
@@ -103,8 +191,6 @@ PREDICTIONS
 "Colony" (Yeon Sang-ho, South Korea) [Predictions]
 
 "It Will Happen Tonight (Succederà questa notte)" (Nanni Moretti) [Predictions]
-
-"The Beloved (El ser querido)" (Rodrigo Sorogoyen) [Predictions]
 
 "Wake of Umbra (Estela de sombra)" (Carlos Reygadas) [Predictions]
 
@@ -126,8 +212,6 @@ suki                  0
 "Red Rocks (Les Roches Rouges)" (Bruno Dumont) [Predictions]
 
 "Full Phil" (Quentin Dupieux) [Predictions]
-
-"Sheep in the Box" (Hirokazu Kore-eda) [Predictions]
 
 "The Chaperones" (India Donaldson) [Predictions]
 
@@ -159,8 +243,6 @@ suki                  0
  Annie Ernaux autobiography
 
 "Demain, je tombe amoureux" (Martin Provost) [Predictions]
-
-"La Vénus électrique" (Pierre Salvadori) [Predictions]
 
 "Peaches" (Jenny Suen) [Predictions]
 
