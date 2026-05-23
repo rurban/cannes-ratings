@@ -26,12 +26,12 @@ package Cannes::rurban::2026; # -*- perl -*-
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
 #   https://www.chaosreign.fr/festival-de-cannes-2026-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2026/
-#   https://wask.fr/les-etoiles-wask-2026-jour-par-jour/
+#   https://wask.fr/les-etoiles-wask-2026/
 #   https://outnow.ch/Thema/Cannes-2026/
 #   http://www.filmneweurope.com/images/FNE%20Critics/cannes2026critics.pdf
 #   https://www.cahiersducinema.com/fr-fr/festivals/festival-de-cannes-2026
 #     https://www.cahiersducinema.com/festivals/cannes-film-par-film
-#   https://daily.afisha.ru/cinema/29265-filmy-kannskogo-kinofestivalya-2026-ocenki-rossiyskih-kinokritikov/
+#   https://daily.afisha.ru/cinema/31899-filmy-kannskogo-kinofestivalya-2026-ocenki-rossiyskih-kinokritikov/
 #   https://www.caimanediciones.es/festivales/festival-de-cannes/
 #   Académie des Lumières: https://x.com/prixlumieres
 #   Moiree poll: https://moir.ee/editions/Cannes2026
@@ -17527,6 +17527,19 @@ David Jenkins            3
 Jason Tan Liwag          3
 Savina Petkova           6
 Blake Williams           3
+#wask
+Didier Péron             6
+Boris Bastide            6
+Cristina Piccino         6
+Eric Lavallée            
+Léa André-Sarreau        6
+Ludovic Béot             
+Olivia Cooper-Hadjian    4
+Alex Masson              6
+Gautier Roos             6
+Fabien David              
+Marc van de Klashorst    6
+Thomas Gastaldi          2
 #letterboxd
 
 "Dua" (Blerta Basholli) [Semaine] SACD Award
@@ -17607,6 +17620,19 @@ Jordan Cronk             5
 Mónica Delgado          2
 David Jenkins            6
 Sonya Vseliubska         6
+#wask
+Didier Péron             4
+Boris Bastide            8
+Cristina Piccino         6
+Eric Lavallée            6
+Léa André-Sarreau        6
+Ludovic Béot             6
+Olivia Cooper-Hadjian    4
+Alex Masson              4
+Gautier Roos             
+Fabien David             4
+Marc van de Klashorst    6
+Thomas Gastaldi          6
 #letterboxd
 
 "Viva (Alive)" (Aina Clotet) [Semaine] Louis Roederer Foundation Rising Star Award for Aina Clotet
@@ -17687,6 +17713,19 @@ Simone Soranna
 Jordan Cronk             3
 Roger Koza               2
 Diego Lerer              3
+#wask
+Didier Péron             4
+Boris Bastide            4
+Cristina Piccino         
+Eric Lavallée            
+Léa André-Sarreau        6
+Ludovic Béot             8
+Olivia Cooper-Hadjian    4
+Alex Masson              2
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    4
+Thomas Gastaldi          2
 #letterboxd
 
 "A Girl Unknown" (Zou Jing) [Semaine] Gan Foundation Distribution Award
@@ -17765,6 +17804,19 @@ Pavel Sladký
 Simone Soranna           
 #moiree
 Pedro Bernal             2
+#wask
+Didier Péron             
+Boris Bastide            6
+Cristina Piccino         
+Eric Lavallée            8
+Léa André-Sarreau        8
+Ludovic Béot             6
+Olivia Cooper-Hadjian    
+Alex Masson              
+Gautier Roos             
+Fabien David             8
+Marc van de Klashorst    8
+Thomas Gastaldi          8
 #letterboxd
 
 "La Gradiva" (Marine Atlan) [Semaine] Semaine Grand Prize
@@ -17851,6 +17903,19 @@ Roger Koza               8
 Giovanni Marchini Camia  10
 Savina Petkova           8
 Blake Williams           6
+#wask
+Didier Péron             10
+Boris Bastide            10
+Cristina Piccino         6
+Eric Lavallée            8
+Léa André-Sarreau        10
+Ludovic Béot             10
+Olivia Cooper-Hadjian    6
+Alex Masson              6
+Gautier Roos             8
+Fabien David             6
+Marc van de Klashorst    10
+Thomas Gastaldi          10
 #letterboxd
 
 "The Station" (Sara Ishaq) [Semaine]
@@ -17928,6 +17993,19 @@ Simone Soranna
 #moiree
 Jordan Cronk             4
 Diego Lerer              5
+#wask
+Didier Péron             
+Boris Bastide            6
+Cristina Piccino         
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    2
+Alex Masson              4
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    8
+Thomas Gastaldi          
 #letterboxd
 
 "Tin Castle" (Alexander Murphy) [Semaine]
@@ -18003,6 +18081,19 @@ Ninos Mikelides
 Rui Tendinha             
 Pavel Sladký             
 Simone Soranna           
+#wask
+Didier Péron             6
+Boris Bastide            6
+Cristina Piccino         
+Eric Lavallée            
+Léa André-Sarreau        
+Ludovic Béot             8
+Olivia Cooper-Hadjian    4
+Alex Masson              
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    8
+Thomas Gastaldi          
 #letterboxd
 
 "Six Months in a Pink and Blue Building" (Bruno Santamaría Razo) [Semaine]
@@ -18085,6 +18176,19 @@ Pedro Bernal             4
 Roger Koza               7
 Diego Lerer              7
 Giovanni Marchini Camia  6
+#wask
+Didier Péron             
+Boris Bastide            6
+Cristina Piccino         6
+Eric Lavallée            8
+Léa André-Sarreau        6
+Ludovic Béot             8
+Olivia Cooper-Hadjian    
+Alex Masson              
+Gautier Roos             8
+Fabien David             
+Marc van de Klashorst    
+Thomas Gastaldi          8
 #letterboxd
 
 "Made of Flesh and Fuel" (Pierre Le Gall) [Semaine] Special
@@ -18160,6 +18264,19 @@ Ninos Mikelides
 Rui Tendinha             
 Pavel Sladký             
 Simone Soranna           
+#wask
+Didier Péron             6
+Boris Bastide            6
+Cristina Piccino         6
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             8
+Olivia Cooper-Hadjian    
+Alex Masson              
+Gautier Roos             
+Fabien David             4
+Marc van de Klashorst    6
+Thomas Gastaldi          6
 #letterboxd
 
 "The Blow (Le Frappe/Stonewall)" (Julien Gaspar-Oliveri) [Semaine] Special
@@ -18234,6 +18351,19 @@ Ninos Mikelides
 Rui Tendinha             
 Pavel Sladký             
 Simone Soranna           
+#wask
+Didier Péron             
+Boris Bastide            6
+Cristina Piccino         
+Eric Lavallée            
+Léa André-Sarreau        
+Ludovic Béot             8
+Olivia Cooper-Hadjian    
+Alex Masson              4
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "Goodbye Cruel World (Adieu monde cruel)" (Félix de Givry) [Semaine] Closing Special
@@ -18313,6 +18443,19 @@ Simone Soranna
 #moiree
 Jordan Cronk             7
 Giovanni Marchini Camia  4
+#wask
+Didier Péron             
+Boris Bastide            8
+Cristina Piccino         
+Eric Lavallée            
+Léa André-Sarreau        8
+Ludovic Béot             8
+Olivia Cooper-Hadjian    2
+Alex Masson              4
+Gautier Roos             10
+Fabien David             
+Marc van de Klashorst    6
+Thomas Gastaldi          10
 #letterboxd
 
 QUINZAINE
@@ -18417,6 +18560,19 @@ Martini                  8
 Rossi                    6
 Ruzzier                  6
 Uccelli                  8
+#wask
+Didier Péron             2
+Boris Bastide            8
+Cristina Piccino         4
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    2
+Alex Masson              
+Gautier Roos             
+Fabien David             6
+Marc van de Klashorst    6
+Thomas Gastaldi          
 #letterboxd
 suki                        0
 
@@ -18502,6 +18658,19 @@ Pedro Bernal             1
 David Jenkins            5
 Jason Tan Liwag          6
 Savina Petkova           5
+#wask
+Didier Péron             4
+Boris Bastide            6
+Cristina Piccino         6
+Eric Lavallée            
+Léa André-Sarreau        6
+Ludovic Béot             
+Olivia Cooper-Hadjian    8
+Alex Masson              6
+Gautier Roos             8
+Fabien David             6
+Marc van de Klashorst    8
+Thomas Gastaldi          
 #letterboxd
 
 "Gabin" (Maxence Voiseux) [Quinzaine]
@@ -18586,6 +18755,19 @@ David Jenkins            6
 Maja Korbecka            5
 Giovanni Marchini Camia  8
 Sonya Vseliubska         8
+#wask
+Didier Péron             6
+Boris Bastide            8
+Cristina Piccino         6
+Eric Lavallée            
+Léa André-Sarreau        8
+Ludovic Béot             10
+Olivia Cooper-Hadjian    4
+Alex Masson              6
+Gautier Roos             8
+Fabien David             6
+Marc van de Klashorst    8
+Thomas Gastaldi          8
 #letterboxd
 
 "Thanks for Coming" (Alain Cavalier) [Quinzaine]
@@ -18667,6 +18849,19 @@ Pedro Bernal             4
 David Jenkins            7
 Roger Koza               7
 Blake Williams           5
+#wask
+Didier Péron             
+Boris Bastide            10
+Cristina Piccino         10
+Eric Lavallée            
+Léa André-Sarreau        10
+Ludovic Béot             8
+Olivia Cooper-Hadjian    5
+Alex Masson              
+Gautier Roos             8
+Fabien David             6
+Marc van de Klashorst    
+Thomas Gastaldi          6
 #letterboxd
 
 "Atonement" (Reed Van Dyk) [Quinzaine]
@@ -18746,6 +18941,19 @@ Simone Soranna
 #moiree
 Mónica Delgado          2
 David Jenkins            7
+#wask
+Didier Péron             2
+Boris Bastide            6
+Cristina Piccino         4
+Eric Lavallée            6
+Léa André-Sarreau        6
+Ludovic Béot             
+Olivia Cooper-Hadjian    
+Alex Masson              4
+Gautier Roos             
+Fabien David             6
+Marc van de Klashorst    
+Thomas Gastaldi          10
 #letterboxd
 
 "Diary of a Chambermaid" (Radu Jude) [Quinzaine]
@@ -18843,6 +19051,19 @@ Nicolas Rapold           8
 Öykü Sofuoğlu         7
 Blake Williams           7
 Keva York                7
+#wask
+Didier Péron             10
+Boris Bastide            8
+Cristina Piccino         8
+Eric Lavallée            8
+Léa André-Sarreau        10
+Ludovic Béot             
+Olivia Cooper-Hadjian    6
+Alex Masson              6
+Gautier Roos             8
+Fabien David             4
+Marc van de Klashorst    8
+Thomas Gastaldi          8
 #letterboxd
 
 "Shana" (Lila Pinell) [Quinzaine] SACD Award
@@ -18922,6 +19143,19 @@ Diego Lerer              6
 Savina Petkova           4
 Nicolas Rapold           7
 Öykü Sofuoğlu         5
+#wask
+Didier Péron             4
+Boris Bastide            8
+Cristina Piccino         4
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             6
+Olivia Cooper-Hadjian    8
+Alex Masson              2
+Gautier Roos             6
+Fabien David             
+Marc van de Klashorst    
+Thomas Gastaldi          8
 #letterboxd
 
 "Clarissa" (Arie Esiri & Chuko Esiri) [Quinzaine]
@@ -19002,6 +19236,19 @@ Pavel Sladký
 Simone Soranna           
 #moiree
 David Jenkins            7
+#wask
+Didier Péron             
+Boris Bastide            10
+Cristina Piccino         
+Eric Lavallée            
+Léa André-Sarreau        4
+Ludovic Béot             
+Olivia Cooper-Hadjian    6
+Alex Masson              
+Gautier Roos             
+Fabien David             2
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "Double Freedom (La Libertad Doble)" (Lisandro Alonso) [Quinzaine]
@@ -19094,6 +19341,19 @@ Nicolas Rapold           5
 Öykü Sofuoğlu         7
 Blake Williams           8
 Keva York                7
+#wask
+Didier Péron             8
+Boris Bastide            8
+Cristina Piccino         10
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    8
+Alex Masson              2
+Gautier Roos             
+Fabien David             6
+Marc van de Klashorst    8
+Thomas Gastaldi          
 #letterboxd
 
 "Dora" (July Jung, South Korea) [Quinzaine]
@@ -19172,6 +19432,19 @@ Pavel Sladký             4
 Simone Soranna           
 #moiree
 Diego Lerer              2
+#wask
+Didier Péron             0.5
+Boris Bastide            6
+Cristina Piccino         
+Eric Lavallée            8
+Léa André-Sarreau        6
+Ludovic Béot             
+Olivia Cooper-Hadjian    4
+Alex Masson              
+Gautier Roos             4
+Fabien David             8
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "Too Many Beasts" (Sarah Arnold) [Quinzaine] Europa Cinemas Label Award
@@ -19251,6 +19524,19 @@ Simone Soranna
 #moiree
 David Jenkins            10
 Diego Lerer              9
+#wask
+Didier Péron             
+Boris Bastide            6
+Cristina Piccino         
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    2
+Alex Masson              4
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    8
+Thomas Gastaldi          
 #letterboxd
 
 "Once Upon a Time in Harlem" (William Greaves & David Greaves) [Quinzaine] <i>Sundance</i>
@@ -19336,6 +19622,19 @@ Roger Koza               6
 Diego Lerer              7
 Nicolas Rapold           10
 Keva York                6
+#wask
+Didier Péron             6
+Boris Bastide            10
+Cristina Piccino         8
+Eric Lavallée            
+Léa André-Sarreau        10
+Ludovic Béot             
+Olivia Cooper-Hadjian    8
+Alex Masson              6
+Gautier Roos             
+Fabien David             8
+Marc van de Klashorst    
+Thomas Gastaldi          6
 #letterboxd
 Letterboxd 207_Ratings	8.7  https://letterboxd.com/film/once-upon-a-time-in-harlem/
 
@@ -19424,6 +19723,19 @@ Roger Koza               5
 Diego Lerer              6
 Giovanni Marchini Camia  6
 Blake Williams           4
+#wask
+Didier Péron             4
+Boris Bastide            8
+Cristina Piccino         4
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    
+Alex Masson              4
+Gautier Roos             
+Fabien David             8
+Marc van de Klashorst    6
+Thomas Gastaldi          
 #letterboxd
 
 "Viva Carmen" (Sébastien Laudenbach) [Quinzaine]
@@ -19504,6 +19816,19 @@ Simone Soranna           6
 #moiree
 David Jenkins            4
 Jason Tan Liwag          4
+#wask
+Didier Péron             8
+Boris Bastide            6
+Cristina Piccino         8
+Eric Lavallée            
+Léa André-Sarreau        
+Ludovic Béot             4
+Olivia Cooper-Hadjian    8
+Alex Masson              6
+Gautier Roos             
+Fabien David             6
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "Low Expectations" (Eivind Landsvik) [Quinzaine]
@@ -19583,6 +19908,19 @@ Simone Soranna
 Rory O'Connor           https://thefilmstage.com/cannes-review-low-expectations-is-an-accomplished-and-bittersweet-debut/
 #moiree
 David Jenkins            6
+#wask
+Didier Péron             2
+Boris Bastide            6
+Cristina Piccino         4
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             4
+Olivia Cooper-Hadjian    
+Alex Masson              4
+Gautier Roos             
+Fabien David             6
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "9 Temples to Heaven" (Sompot Chidgasornpongse, Thailand) [Quinzaine]
@@ -19665,6 +20003,19 @@ Flavia Dima              7
 Diego Lerer              8
 Giovanni Marchini Camia  9
 Blake Williams           5
+#wask
+Didier Péron             10
+Boris Bastide            6
+Cristina Piccino         4
+Eric Lavallée            
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    
+Alex Masson              2
+Gautier Roos             
+Fabien David             8
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "I See Buildings Fall Like Lightning" (Clio Barnard) [Quinzaine] Audience Award
@@ -19749,6 +20100,19 @@ Simone Soranna
 David Jenkins            9
 Diego Lerer              7
 Savina Petkova           8
+#wask
+Didier Péron             4
+Boris Bastide            8
+Cristina Piccino         
+Eric Lavallée            8
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    6
+Alex Masson              
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    10
+Thomas Gastaldi          
 #letterboxd
 
 "Death Has No Master" (Jorge Thielen Armand) [Quinzaine]
@@ -19831,6 +20195,19 @@ Simone Soranna
 #moiree
 Diego Lerer              3
 Savina Petkova           4
+#wask
+Didier Péron             
+Boris Bastide            4
+Cristina Piccino         
+Eric Lavallée            2
+Léa André-Sarreau        
+Ludovic Béot             2
+Olivia Cooper-Hadjian    2
+Alex Masson              4
+Gautier Roos             
+Fabien David             
+Marc van de Klashorst    8
+Thomas Gastaldi          0.5
 #letterboxd
 
 "Le Vertige (Vertiginous)" (Quentin Dupieux) [Quinzaine] Closing
@@ -19912,6 +20289,19 @@ Simone Soranna
 #moiree
 Maja Korbecka            7
 Blake Williams           6
+#wask
+Didier Péron             4
+Boris Bastide            8
+Cristina Piccino         4
+Eric Lavallée            
+Léa André-Sarreau        
+Ludovic Béot             
+Olivia Cooper-Hadjian    8
+Alex Masson              
+Gautier Roos             
+Fabien David             4
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 "Red Rocks (Les Roches Rouges)" (Bruno Dumont) [Quinzaine]
@@ -20009,6 +20399,19 @@ Manassero                10
 Rossi                    10
 Ruzzier                  8
 Uccelli                  10
+#wask
+Didier Péron             6
+Boris Bastide            10
+Cristina Piccino         6
+Eric Lavallée            6
+Léa André-Sarreau        
+Ludovic Béot             10
+Olivia Cooper-Hadjian    
+Alex Masson              
+Gautier Roos             
+Fabien David             6
+Marc van de Klashorst    
+Thomas Gastaldi          
 #letterboxd
 
 ACID
@@ -20632,17 +21035,19 @@ Marcos Uzal (Cahiers du cinéma, France)
 ";
 $critics_group[$i] = "wask.fr";
 $critics[$i++] = "
-Didier Péron (Liberation, France)
-Boris Bastide, Mathieu Macheret (Le Monde, France)
-Cristina Piccino (Il Manifesto, Italy)
-Eric Lavallée/Nicholas Bell (Ioncinema, CAN/US)
-Joséphine Leroy (Trois Couleurs, France)
-Marilou Duponchel/Bruno Deruisseau (Les Inrockuptibles, France)
-Olivia Cooper-Hadjian (Cinema Cahiers, France)
-Alex Masson (Radio Nova, France)
-Gautier Roos/Morgan Bizet (Chaos Reign, France)
-Thomas Gastaldi (Wask, France)
-Fabien David (Cinema Le Bourguet Forcalquier, France)
+Didier Péron + Olivier Lamm (Libération)
+Boris Bastide + Clarisse Fabre (Le Monde)
+Gautier Roos + Anthony Clerc, Lilou Romans + A. Sarrazin (Chaos Reign)
+Fabien David (Cinéma Le Bourguet Forcalquier)
+Sandra Onana
+Cristina Piccino (Il Manifesto)
+Eric Lavallée + Nicholas Bell (Ioncinema)
+Léa André-Sarreau, C. Blanckaert + Q. Grosset (Trois Couleurs)
+Ludovic Béot, Marilou Duponchel (Les Inrockuptibles)
+Olivia Cooper-Hadjian (Cahiers du Cinéma)
+Alex Masson (Radio Nova)
+Cédric Succivalli, Marc van de Klashorst (International Cinephile Society)
+Thomas Gastaldi (Wask)
 ";
 $critics_group[$i] = "OutNow";
 $critics[$i++] = "
