@@ -2436,18 +2436,18 @@ Thierry Méranger
 Yal Sadat                
 Marcos Uzal              
 # Chinese @CriticsGrid
-Liu Min                  
-Jenny S.Li               
-Zinc                     
-Qin Wan                  
-Peter Cat                
-Rosemary                 
-RyanS                    
-Nanyouki                 
-Lu Hang                  
-Bear W                   
+Liu Min                  7.5
+Jenny S.Li               7.5
+Zinc                     5
+Qin Wan                  7.5
+Peter Cat                9
+Rosemary                 0.5
+RyanS                    0.5
+Nanyouki                 5
+Lu Hang                  2.5
+Bear W                   0.5
 Cao                      
-Harper Die               
+Harper Die               10
 Ka                       
 Wan                      
 8                        
@@ -2789,7 +2789,7 @@ TheTrueBeliever       7
 John Robinson         7
 Alessandro Ritrovato  7
 Anna D.              
-"Sheep in the Box" (Hirokazu Kore-eda) [Competition]
+
 "Sheep in the Box" (Hirokazu Kore-eda) [Competition]
 
 David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/sheep-in-the-box-review-hirokazu-koreeda-1236597517/
@@ -2883,16 +2883,16 @@ Thierry Méranger
 Yal Sadat                
 Marcos Uzal              2.5
 # Chinese @CriticsGrid
-Liu Min                  
+Liu Min                  2.5
 Jenny S.Li               
 Zinc                     
-Qin Wan                  
-Peter Cat                
-Rosemary                 
+Qin Wan                  5
+Peter Cat                2.5
+Rosemary                 0.5
 RyanS                    
-Nanyouki                 
+Nanyouki                 2.5
 Lu Hang                  1
-Bear W                   1
+Bear W                   0.5
 Cao                      4
 Harper Die               8
 Ka                       0.5
@@ -3233,14 +3233,14 @@ Thierry Méranger
 Yal Sadat                5
 Marcos Uzal              5
 # Chinese @CriticsGrid
-Liu Min                  
+Liu Min                  9
 Jenny S.Li               
-Zinc                     
-Qin Wan                  
-Peter Cat                
-Rosemary                 
-RyanS                    
-Nanyouki                 
+Zinc                     2.5
+Qin Wan                  7.5
+Peter Cat                5
+Rosemary                 5
+RyanS                    5
+Nanyouki                 7.5
 Lu Hang                  5
 Bear W                   3
 Cao                      4
@@ -3697,14 +3697,14 @@ Thierry Méranger
 Yal Sadat                5
 Marcos Uzal              5
 # Chinese @CriticsGrid
-Liu Min                  
-Jenny S.Li               
-Zinc                     
-Qin Wan                  
+Liu Min                  5
+Jenny S.Li               7.5
+Zinc                     5
+Qin Wan                  5
 Peter Cat                
-Rosemary                 
-RyanS                    
-Nanyouki                 
+Rosemary                 2.5
+RyanS                    7.5
+Nanyouki                 2.5
 Lu Hang                  4
 Bear W                   5
 Cao                      4
@@ -5035,7 +5035,17 @@ Thierry Méranger
 Yal Sadat                
 Marcos Uzal              
 # Chinese @CriticsGrid
-Lu Hang                  
+Liu Min                  5
+Jenny S.Li               5
+Zinc                     5
+Bear W                   0.5
+Qin Wan                  2.5
+Peter Cat                
+Rosemary                 0.5
+RyanS                    2.5
+Harper Die               0.5
+Nanyouki                 2.5
+Lu Hang                  0.5
 Bear W                   
 Cao                      
 Harper Die               
@@ -5185,14 +5195,17 @@ Thierry Méranger
 Yal Sadat                7.5
 Marcos Uzal              7.5
 # Chinese @CriticsGrid
-Lu Hang                  
-Bear W                   
-Cao                      
-Harper Die               
-Ka                       
-Wan                      
-8                        
-Beoning                  
+Liu Min                  9
+Jenny S.Li               
+Zinc                     5
+Bear W                   7.5
+Qin Wan                  2.5
+Peter Cat                9
+Rosemary                 0.5
+RyanS                    2.5
+Harper Die               7.5
+Nanyouki                 2.5
+Lu Hang                  7.5
 # OutNow (1 3 5 7 8 10)
 # caiman
 Nt Binh                  
@@ -7653,14 +7666,17 @@ Thierry Méranger
 Yal Sadat                
 Marcos Uzal              
 # Chinese @CriticsGrid
-Lu Hang                  
-Bear W                   
-Cao                      
-Harper Die               
-Ka                       
-Wan                      
-8                        
-Beoning                  
+Liu Min                  5
+Jenny S.Li               
+Zinc                     7.5
+Bear W                   7.5
+Qin Wan                  5
+Peter Cat                7.5
+Rosemary                 9
+RyanS                    2.5
+Harper Die               7.5
+Nanyouki                 7.5
+Lu Hang                  7.5
 # OutNow (1 3 5 7 8 10)
 # caiman
 Nt Binh                  
@@ -7794,14 +7810,17 @@ Thierry Méranger
 Yal Sadat                
 Marcos Uzal              
 # Chinese @CriticsGrid
-Lu Hang                  
-Bear W                   
-Cao                      
-Harper Die               
-Ka                       
-Wan                      
-8                        
-Beoning                  
+Liu Min                  7.5
+Jenny S.Li               
+Zinc                     7.5
+Bear W                   5
+Qin Wan                  7.5
+Peter Cat                7.5
+Rosemary                 2.5
+RyanS                    7.5
+Harper Die               9
+Nanyouki                 9
+Lu Hang                  5
 # OutNow (1 3 5 7 8 10)
 # caiman
 Nt Binh                  
@@ -8204,8 +8223,8 @@ Barbara Théate           5
 Sandra Onana             5
 Catherine Balle          5
 # ioncinema
-Leila Amar               
-Janina Perez Arias       
+Leila Amar               6
+Janina Perez Arias       6
 Nicholas Bell            6
 Paola Casela             
 Manon Dumais             6
@@ -8252,7 +8271,17 @@ Thierry Méranger         7.5
 Yal Sadat                
 Marcos Uzal              7.5
 # Chinese @CriticsGrid
-Lu Hang                  4
+Liu Min                  7.5
+Jenny S.Li               2.5
+Zinc                     5
+Bear W                   5
+Qin Wan                  7.5
+Peter Cat                2.5
+Rosemary                 7.5
+RyanS                    2.5
+Harper Die               9
+Nanyouki                 5
+Lu Hang                  5
 Bear W                   5
 Cao                      6
 Harper Die               8
@@ -8911,7 +8940,17 @@ Thierry Méranger         9
 Yal Sadat                7.5
 Marcos Uzal              7.5
 # Chinese @CriticsGrid
-Lu Hang                  8
+Liu Min                  7.5
+Jenny S.Li               7.5
+Zinc                     7.5
+Bear W                   10
+Qin Wan                  5
+Peter Cat                10
+Rosemary                 9
+RyanS                    9
+Harper Die               9
+Nanyouki                 5
+Lu Hang                  10
 Bear W                   8
 Cao                      7
 Harper Die               8
@@ -9655,19 +9694,6 @@ johaaaaa              3
 #critic.de
 Tomris Laffly           https://variety.com/2026/film/reviews/yesterday-the-eye-didnt-sleep-review-1236743969/
 #dkstjernebarometer
-# Screen Daily
-Nt Binh                  
-Tim Robey/Robbie Collin  
-Katja Nikodemus          
-Ben Kenigsberg           
-Anton Dolin              
-Peter Bradshaw           
-Justin Chang             
-Stephanie Zacharek       
-Ahmed Shawky             
-Mathieu Macheret         
-Kong Ritchie             
-Screen International     
 # Le film français
 Thierry Chèze            
 Charlotte Langrand       
@@ -9773,19 +9799,6 @@ Sven von Reden        6
 Rüdiger Suchsland    9       https://www.artechock.de/film/text/artikel/2026/05_17_cannes_tagebuch_04.html
 Pavao Vlajcic         5
 Patrick Wellinski     6
-# Screen Daily
-Nt Binh                  
-Tim Robey/Robbie Collin  
-Katja Nikodemus          
-Ben Kenigsberg           
-Anton Dolin              
-Peter Bradshaw           
-Justin Chang             
-Stephanie Zacharek       
-Ahmed Shawky             
-Mathieu Macheret         
-Kong Ritchie             
-Screen International     
 # Le film français
 Thierry Chèze            
 Charlotte Langrand       
@@ -10045,19 +10058,6 @@ Guy Lodge               https://variety.com/2026/film/reviews/club-kid-review-12
 Erik Anderson     8    https://awardswatch.com/club-kid-review-jordan-firstmans-gay-peter-pan-party-boy-tale-gets-raves-across-the-board-a-cannes/
 #critic.de
 Pavao Vlajcic         6       https://www.critic.de/special/irgendeinen-tod-muss-man-sterben-cannes-notizen-3-4858/
-# Screen Daily
-Nt Binh                  
-Tim Robey/Robbie Collin  
-Katja Nikodemus          
-Ben Kenigsberg           
-Anton Dolin              
-Peter Bradshaw           
-Justin Chang             
-Stephanie Zacharek       
-Ahmed Shawky             
-Mathieu Macheret         
-Kong Ritchie             
-Screen International     
 # Le film français
 Thierry Chèze            
 Charlotte Langrand       
