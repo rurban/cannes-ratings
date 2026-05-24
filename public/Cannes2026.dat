@@ -24,7 +24,7 @@ package Cannes::rurban::2026; # -*- perl -*-
 #   http://jury.critic.de/cannes/
 #   https://icsfilm.org/festivals/cannes/2026-cannes/cannes-2026-ics-press-industry-panel/
 #   https://twitter.com/hanglutvd/ Chinese Critics Grid
-#   https://www.chaosreign.fr/festival-de-cannes-2026-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
+#   https://www.chaosreign.fr/festival-cannes-2026-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
 #   https://www.ekkofilm.dk/stjernebarometer/cannes-filmfestival-2026/
 #   https://wask.fr/les-etoiles-wask-2026/
 #   https://outnow.ch/Thema/Cannes-2026/
@@ -147,7 +147,20 @@ Diego Batlle             4
 Gregory Coutaut          
 Ali Benzekri             4
 Sandra Onana             3
-# chaosreign.fr
+#chaosreign
+Lily Bloom               2
+Olivier De Bruyn         2
+Rita Di Santo            2
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           0.5
+Marilou Duponchel        4
+Jean-Michel Frodon       2
+Marin Gérard             2
+Matteu Maestracci        2
+Jordan Mintzer           4
+Amandine Rebourg         2
+Lilou Romans             2
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -252,6 +265,20 @@ Daria Tarasova           5
 Anton Fomochkin          3
 Tamara Khodova           5
 Marat Shabaev            5
+#chaosreign
+Lily Bloom               2
+Olivier De Bruyn         2
+Rita Di Santo            2
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           0.5
+Marilou Duponchel        4
+Jean-Michel Frodon       2
+Marin Gérard             2
+Matteu Maestracci        2
+Jordan Mintzer           4
+Amandine Rebourg         2
+Lilou Romans             2
+Philippe Rouyer          6
 #letterboxd
 lilimaz                     8
 Alianor                     7
@@ -671,7 +698,20 @@ Diego Batlle             8
 Gregory Coutaut          
 Ali Benzekri             8
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn         6
+Rita Di Santo
+Olivia Cooper-Hadjian    0.5
+Alexis Demeyer
+Marilou Duponchel        0.5
+Jean-Michel Frodon       0.5
+Marin Gérard             2
+Matteu Maestracci        8
+Jordan Mintzer           8
+Amandine Rebourg         8
+Lilou Romans             8
+Philippe Rouyer          8
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -773,6 +813,20 @@ Daria Tarasova           9
 Anton Fomochkin          4
 Tamara Khodova           7
 Marat Shabaev            9
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn         6
+Rita Di Santo
+Olivia Cooper-Hadjian    0.5
+Alexis Demeyer
+Marilou Duponchel        0.5
+Jean-Michel Frodon       0.5
+Marin Gérard             2
+Matteu Maestracci        8
+Jordan Mintzer           8
+Amandine Rebourg         8
+Lilou Romans             8
+Philippe Rouyer          8
 #letterboxd
 Aryan                       9  https://letterboxd.com/aryanbs17/film/fjord-2026/
 Aex__                       8
@@ -1251,7 +1305,20 @@ Diego Batlle             7
 Gregory Coutaut          
 Ali Benzekri             2
 Sandra Onana             8
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            4
+Olivia Cooper-Hadjian
+Alexis Demeyer           8
+Marilou Duponchel
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        6
+Jordan Mintzer           8
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    9
 Fernando Ganzo Cuesta    
@@ -1352,6 +1419,20 @@ Anna Strelchuk           5
 Anton Fomochkin          6
 Tamara Khodova           2
 Marat Shabaev            7
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            4
+Olivia Cooper-Hadjian
+Alexis Demeyer           8
+Marilou Duponchel
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        6
+Jordan Mintzer           8
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer          6
 #letterboxd
 Mliiina                     8
 Camilla                     7  https://letterboxd.com/camibertolotti/film/the-unknown-2026/
@@ -1732,7 +1813,20 @@ Diego Batlle             8
 Gregory Coutaut          6
 Ali Benzekri             8
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               6
+Olivier De Bruyn         8
+Rita Di Santo
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           6
+Marilou Duponchel        6
+Jean-Michel Frodon
+Marin Gérard             8
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    9
@@ -1832,6 +1926,20 @@ Anna Strelchuk           9
 Anton Fomochkin          2
 Tamara Khodova           8
 Marat Shabaev            8
+#chaosreign
+Lily Bloom               6
+Olivier De Bruyn         8
+Rita Di Santo
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           6
+Marilou Duponchel        6
+Jean-Michel Frodon
+Marin Gérard             8
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          6
 #letterboxd
 hyooman                     10
 k.c.                        10  https://letterboxd.com/lilychoochoo/film/all-of-a-sudden-2026/
@@ -2218,7 +2326,20 @@ Diego Batlle             7
 Gregory Coutaut          6
 Ali Benzekri             9
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn
+Rita Di Santo            6
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           8
+Marilou Duponchel        4
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        6
+Jordan Mintzer
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -2323,6 +2444,20 @@ Daria Tarasova           8
 Anton Fomochkin          5
 Tamara Khodova           7
 Marat Shabaev            7
+#chaosreign
+Lily Bloom
+Olivier De Bruyn
+Rita Di Santo            6
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           8
+Marilou Duponchel        4
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        6
+Jordan Mintzer
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer
 #letterboxd
 Dalenogare Criticas 2026    9  https://letterboxd.com/dalebrcriticas/film/minotaur-2026/
 James_G0001                 9
@@ -2552,7 +2687,6 @@ cherichan                   2
 Justin                      2  https://letterboxd.com/justin_aben0ja/film/minotaur-2026/
 robc3366                    2
 emmabloom                   1  https://letterboxd.com/emmabloom/film/minotaur-2026/
-Vince Ken
 
 "Coward" (Lukas Dhont) [Competition] Best Actors, Positive Cinema Prize
 
@@ -2640,7 +2774,20 @@ Diego Batlle             7
 Gregory Coutaut          3
 Ali Benzekri             8
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         0.5
+Rita Di Santo            6
+Olivia Cooper-Hadjian    0.5
+Alexis Demeyer           2
+Marilou Duponchel        4
+Jean-Michel Frodon       6
+Marin Gérard             0.5
+Matteu Maestracci        2
+Jordan Mintzer
+Amandine Rebourg
+Lilou Romans             2
+Philippe Rouyer          2
 # cahier
 Olivia Cooper-Hadjian    0.5
 Fernando Ganzo Cuesta    
@@ -2744,6 +2891,20 @@ Tamara Khodova           8
 Marat Shabaev            6
 Erik Anderson     9    https://awardswatch.com/coward-review-belgian-soldiers-find-love-in-lukas-dhonts-hidden-romance-masterpiece-a-cannes/
 Savina Petkova          https://thefilmstage.com/cannes-review-with-coward-lukas-dhont-sets-queer-love-story-in-trenches-of-wwi/
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         0.5
+Rita Di Santo            6
+Olivia Cooper-Hadjian    0.5
+Alexis Demeyer           2
+Marilou Duponchel        4
+Jean-Michel Frodon       6
+Marin Gérard             0.5
+Matteu Maestracci        2
+Jordan Mintzer
+Amandine Rebourg
+Lilou Romans             2
+Philippe Rouyer          2
 #letterboxd
 cherichan                   10  https://letterboxd.com/cherichan/film/coward-2026/
 clem clem                   10  https://letterboxd.com/clemencedcs/film/coward-2026/
@@ -3121,7 +3282,20 @@ Diego Batlle             4
 Gregory Coutaut          3
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               4
+Olivier De Bruyn         0.5
+Rita Di Santo            6
+Olivia Cooper-Hadjian
+Alexis Demeyer           4
+Marilou Duponchel
+Jean-Michel Frodon       6
+Marin Gérard
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -3220,6 +3394,20 @@ Andrey Plakhov           8
 Daria Tarasova           5
 Tamara Khodova           5
 Marat Shabaev            3
+#chaosreign
+Lily Bloom               4
+Olivier De Bruyn         0.5
+Rita Di Santo            6
+Olivia Cooper-Hadjian
+Alexis Demeyer           4
+Marilou Duponchel
+Jean-Michel Frodon       6
+Marin Gérard
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer          4
 #letterboxd
 Aryan                       7  https://letterboxd.com/aryanbs17/film/sheep-in-the-box/
 Alessia                     6
@@ -3505,7 +3693,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             7
 Sandra Onana             4
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            8
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           6
+Marilou Duponchel
+Jean-Michel Frodon       4
+Marin Gérard
+Matteu Maestracci        8
+Jordan Mintzer           6
+Amandine Rebourg         8
+Lilou Romans             6
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    2.5
@@ -3611,6 +3812,20 @@ Daria Tarasova           7
 Anton Fomochkin          3
 Tamara Khodova           5
 Marat Shabaev            7
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            8
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           6
+Marilou Duponchel
+Jean-Michel Frodon       4
+Marin Gérard
+Matteu Maestracci        8
+Jordan Mintzer           6
+Amandine Rebourg         8
+Lilou Romans             6
+Philippe Rouyer          6
 #letterboxd
 antotortues                 9
 bltsr                       9
@@ -4011,7 +4226,20 @@ Diego Batlle             7
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               6
+Olivier De Bruyn         2
+Rita Di Santo            4
+Olivia Cooper-Hadjian    2
+Alexis Demeyer
+Marilou Duponchel
+Jean-Michel Frodon       4
+Marin Gérard             8
+Matteu Maestracci        8
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -4115,6 +4343,20 @@ Daria Tarasova           5
 Anton Fomochkin          7
 Tamara Khodova           7
 Marat Shabaev            2
+#chaosreign
+Lily Bloom               6
+Olivier De Bruyn         2
+Rita Di Santo            4
+Olivia Cooper-Hadjian    2
+Alexis Demeyer
+Marilou Duponchel
+Jean-Michel Frodon       4
+Marin Gérard             8
+Matteu Maestracci        8
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans
+Philippe Rouyer          4
 #letterboxd
 kampsamantha                9
 Carolina                    8  https://letterboxd.com/carolinamiguel/film/the-man-i-love-2026/
@@ -4528,7 +4770,20 @@ Diego Batlle             7
 Gregory Coutaut          8
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn         8
+Rita Di Santo            8
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           6
+Marilou Duponchel        2
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        8
+Jordan Mintzer           8
+Amandine Rebourg         8
+Lilou Romans             8
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    2.5
@@ -4633,6 +4888,20 @@ Daria Tarasova           5
 Anton Fomochkin          7
 Tamara Khodova           7
 Marat Shabaev            8
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn         8
+Rita Di Santo            8
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           6
+Marilou Duponchel        2
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        8
+Jordan Mintzer           8
+Amandine Rebourg         8
+Lilou Romans             8
+Philippe Rouyer          6
 #letterboxd
 Azmaru                      8
 boogieman63                 8
@@ -5029,7 +5298,20 @@ Diego Batlle             7
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             6
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            8
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           2
+Marilou Duponchel
+Jean-Michel Frodon       0.5
+Marin Gérard             6
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             2
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    2.5
@@ -5128,6 +5410,20 @@ Egor Moskvitin           6
 Andrey Plakhov           7
 Anna Strelchuk           5
 Marat Shabaev            6
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            8
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           2
+Marilou Duponchel
+Jean-Michel Frodon       0.5
+Marin Gérard             6
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             2
+Philippe Rouyer          4
 #letterboxd
 Alex_Leroy_Film             8
 Valentin                    8
@@ -5475,7 +5771,20 @@ Diego Batlle             5
 Gregory Coutaut          
 Ali Benzekri             8
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -5648,7 +5957,20 @@ Diego Batlle             9
 Gregory Coutaut          6
 Ali Benzekri             
 Sandra Onana             10
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            6
+Olivia Cooper-Hadjian    8
+Alexis Demeyer           8
+Marilou Duponchel
+Jean-Michel Frodon       8
+Marin Gérard             6
+Matteu Maestracci
+Jordan Mintzer           8
+Amandine Rebourg
+Lilou Romans
+Philippe Rouyer          8
 # cahier
 Olivia Cooper-Hadjian    9
 Fernando Ganzo Cuesta    9
@@ -5738,6 +6060,20 @@ Andrey Plakhov           6
 Anna Strelchuk           6
 Anton Fomochkin          6
 Marat Shabaev            6
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         2
+Rita Di Santo            6
+Olivia Cooper-Hadjian    8
+Alexis Demeyer           8
+Marilou Duponchel
+Jean-Michel Frodon       8
+Marin Gérard             6
+Matteu Maestracci
+Jordan Mintzer           8
+Amandine Rebourg
+Lilou Romans
+Philippe Rouyer          8
 #letterboxd
 Letterboxd 14_Ratings	6.9  https://letterboxd.com/film/a-man-of-his-time/
 Divardation                 9
@@ -6201,7 +6537,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             5
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               4
+Olivier De Bruyn
+Rita Di Santo            2
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           2
+Marilou Duponchel        4
+Jean-Michel Frodon       2
+Marin Gérard             0.5
+Matteu Maestracci        4
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    2.5
@@ -6304,6 +6653,20 @@ Daria Tarasova           4
 Anton Fomochkin          7
 Tamara Khodova           5
 Marat Shabaev            5
+#chaosreign
+Lily Bloom               4
+Olivier De Bruyn
+Rita Di Santo            2
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           2
+Marilou Duponchel        4
+Jean-Michel Frodon       2
+Marin Gérard             0.5
+Matteu Maestracci        4
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          4
 #letterboxd
 Thib81                      7
 aherrerafilm                6
@@ -6879,7 +7242,20 @@ Diego Batlle             7
 Gregory Coutaut          8
 Ali Benzekri             
 Sandra Onana             2
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         4
+Rita Di Santo            8
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           4
+Marilou Duponchel        4
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        4
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    
@@ -6970,6 +7346,20 @@ Daria Tarasova           5
 Anton Fomochkin          4
 Tamara Khodova           6
 Marat Shabaev            5
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         4
+Rita Di Santo            8
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           4
+Marilou Duponchel        4
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        4
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          4
 #letterboxd
 boogieman63                 7
 clem ☕                      7  https://letterboxd.com/clmrsd/film/nagi-notes/
@@ -7280,7 +7670,20 @@ Diego Batlle             6
 Gregory Coutaut          6
 Ali Benzekri             6
 Sandra Onana             6
-# chaosreign.fr
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn
+Rita Di Santo            8
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           2
+Marilou Duponchel
+Jean-Michel Frodon       6
+Marin Gérard             6
+Matteu Maestracci        8
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    7.5
@@ -7365,6 +7768,20 @@ Daria Tarasova           3
 Anton Fomochkin          1
 Tamara Khodova           4
 Marat Shabaev            7
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn
+Rita Di Santo            8
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           2
+Marilou Duponchel
+Jean-Michel Frodon       6
+Marin Gérard             6
+Matteu Maestracci        8
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans             8
+Philippe Rouyer          4
 #letterboxd
 Letterboxd 23_Ratings	0  https://letterboxd.com/film/hope-2026/
 Auteur Cinema (Joe)         9  https://letterboxd.com/auteurcinema/film/hope-2026/
@@ -7828,7 +8245,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             6
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn         6
+Rita Di Santo            4
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           4
+Marilou Duponchel
+Jean-Michel Frodon       4
+Marin Gérard
+Matteu Maestracci        8
+Jordan Mintzer           4
+Amandine Rebourg
+Lilou Romans             2
+Philippe Rouyer          4
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    2.5
@@ -7916,6 +8346,20 @@ Daria Tarasova           7
 Anton Fomochkin          3
 Tamara Khodova           5
 Marat Shabaev            4
+#chaosreign
+Lily Bloom               8
+Olivier De Bruyn         6
+Rita Di Santo            4
+Olivia Cooper-Hadjian    2
+Alexis Demeyer           4
+Marilou Duponchel
+Jean-Michel Frodon       4
+Marin Gérard
+Matteu Maestracci        8
+Jordan Mintzer           4
+Amandine Rebourg
+Lilou Romans             2
+Philippe Rouyer          4
 #letterboxd
 Alexandre Gasulla           8  https://letterboxd.com/alegas/film/another-day-2026/
 Alexandre Mercenne          8
@@ -8307,7 +8751,20 @@ Diego Batlle             8
 Gregory Coutaut          8
 Ali Benzekri             6
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         6
+Rita Di Santo            4
+Olivia Cooper-Hadjian
+Alexis Demeyer           4
+Marilou Duponchel        4
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    7.5
@@ -8391,6 +8848,20 @@ Anna Strelchuk           5
 Anton Fomochkin          8
 Tamara Khodova           7
 Marat Shabaev            8
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         6
+Rita Di Santo            4
+Olivia Cooper-Hadjian
+Alexis Demeyer           4
+Marilou Duponchel        4
+Jean-Michel Frodon       8
+Marin Gérard             4
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg
+Lilou Romans
+Philippe Rouyer          6
 #letterboxd
 
 
@@ -8472,7 +8943,20 @@ Diego Batlle
 Gregory Coutaut          2
 Ali Benzekri             7
 Sandra Onana             1
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -8946,7 +9430,20 @@ Diego Batlle             8
 Gregory Coutaut          5
 Ali Benzekri             8
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         8
+Rita Di Santo
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           0.5
+Marilou Duponchel        6
+Jean-Michel Frodon
+Marin Gérard
+Matteu Maestracci        6
+Jordan Mintzer           4
+Amandine Rebourg         8
+Lilou Romans
+Philippe Rouyer          6
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    9
@@ -9032,6 +9529,20 @@ Anna Strelchuk           6
 Daria Tarasova           3
 Anton Fomochkin          7
 Marat Shabaev            6
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         8
+Rita Di Santo
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           0.5
+Marilou Duponchel        6
+Jean-Michel Frodon
+Marin Gérard
+Matteu Maestracci        6
+Jordan Mintzer           4
+Amandine Rebourg         8
+Lilou Romans
+Philippe Rouyer          6
 #letterboxd
 Letterboxd 4769_Ratings	8.72  https://letterboxd.com/film/bitter-christmas/
 Dark                        9
@@ -9369,7 +9880,20 @@ Diego Batlle             6
 Gregory Coutaut          3
 Ali Benzekri             8
 Sandra Onana             5
-# chaosreign.fr
+#chaosreign
+Lily Bloom               4
+Olivier De Bruyn         4
+Rita Di Santo            2
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           4
+Marilou Duponchel        6
+Jean-Michel Frodon       2
+Marin Gérard             6
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg         6
+Lilou Romans             4
+Philippe Rouyer          2
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    2.5
@@ -9462,6 +9986,20 @@ Anna Strelchuk           2
 Anton Fomochkin          3
 Tamara Khodova           4
 Marat Shabaev            6
+#chaosreign
+Lily Bloom               4
+Olivier De Bruyn         4
+Rita Di Santo            2
+Olivia Cooper-Hadjian    6
+Alexis Demeyer           4
+Marilou Duponchel        6
+Jean-Michel Frodon       2
+Marin Gérard             6
+Matteu Maestracci        6
+Jordan Mintzer           6
+Amandine Rebourg         6
+Lilou Romans             4
+Philippe Rouyer          2
 #letterboxd
 BeshoyKaldas                7
 kiana_vr                    7
@@ -9663,7 +10201,20 @@ Diego Batlle             8
 Gregory Coutaut          
 Ali Benzekri             7
 Sandra Onana             6
-# chaosreign.fr
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         6
+Rita Di Santo            2
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           8
+Marilou Duponchel
+Jean-Michel Frodon       6
+Marin Gérard             8
+Matteu Maestracci        8
+Jordan Mintzer
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          8
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    7.5
@@ -9762,6 +10313,20 @@ Daria Tarasova           4
 Anton Fomochkin          4
 Tamara Khodova           5
 Marat Shabaev            7
+#chaosreign
+Lily Bloom
+Olivier De Bruyn         6
+Rita Di Santo            2
+Olivia Cooper-Hadjian    4
+Alexis Demeyer           8
+Marilou Duponchel
+Jean-Michel Frodon       6
+Marin Gérard             8
+Matteu Maestracci        8
+Jordan Mintzer
+Amandine Rebourg
+Lilou Romans             6
+Philippe Rouyer          8
 #letterboxd
 kampsamantha                8
 Aryan                       7  https://letterboxd.com/aryanbs17/film/paper-tiger-2026/
@@ -10164,7 +10729,20 @@ Diego Batlle             6
 Gregory Coutaut          10
 Ali Benzekri             9
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -10279,7 +10857,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -10456,7 +11047,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -10567,7 +11171,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    2.5
@@ -10684,7 +11301,20 @@ Diego Batlle             8
 Gregory Coutaut          
 Ali Benzekri             9
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    7.5
@@ -10802,7 +11432,20 @@ Diego Batlle             6
 Gregory Coutaut          9
 Ali Benzekri             
 Sandra Onana             7
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -11225,7 +11868,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -11329,7 +11985,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -11433,7 +12102,20 @@ Diego Batlle
 Gregory Coutaut          4
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    5
@@ -11536,7 +12218,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -11645,7 +12340,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             6
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -11749,7 +12457,20 @@ Diego Batlle             7
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    5
@@ -11856,7 +12577,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    2.5
@@ -11963,7 +12697,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -12068,7 +12815,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             4
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12257,7 +13017,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12370,7 +13143,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12477,7 +13263,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12572,7 +13371,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12753,7 +13565,20 @@ Diego Batlle             5
 Gregory Coutaut          2
 Ali Benzekri             
 Sandra Onana             8
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12832,7 +13657,20 @@ Diego Batlle
 Gregory Coutaut          8
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12897,7 +13735,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -12951,7 +13802,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -13349,7 +14213,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -13491,7 +14368,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -13545,7 +14435,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -13606,7 +14509,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -13762,7 +14678,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -13820,7 +14749,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14433,7 +15375,20 @@ Diego Batlle             5
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14493,7 +15448,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14548,7 +15516,20 @@ Diego Batlle
 Gregory Coutaut          4
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14670,7 +15651,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14790,7 +15784,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14844,7 +15851,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             10
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14935,7 +15955,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -14997,7 +16030,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15052,7 +16098,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15131,7 +16190,20 @@ Diego Batlle             8
 Gregory Coutaut          6
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15240,7 +16312,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15297,7 +16382,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15355,7 +16453,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15418,7 +16529,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15480,7 +16604,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15545,7 +16682,20 @@ Diego Batlle
 Gregory Coutaut          4
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15601,7 +16751,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15658,7 +16821,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15717,7 +16893,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15775,7 +16964,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15860,7 +17062,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15916,7 +17131,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -15975,7 +17203,20 @@ Diego Batlle
 Gregory Coutaut          7
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    2.5
@@ -16055,7 +17296,20 @@ Diego Batlle
 Gregory Coutaut          6
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -16134,7 +17388,20 @@ Diego Batlle             7
 Gregory Coutaut          6
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    2.5
@@ -16213,7 +17480,20 @@ Diego Batlle
 Gregory Coutaut          8
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -16291,7 +17571,20 @@ Diego Batlle
 Gregory Coutaut          9
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -16451,7 +17744,20 @@ Diego Batlle
 Gregory Coutaut          5
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -16540,7 +17846,20 @@ Diego Batlle
 Gregory Coutaut          7
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -16620,7 +17939,20 @@ Diego Batlle
 Gregory Coutaut          6
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -16708,7 +18040,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -16796,7 +18141,20 @@ Diego Batlle
 Gregory Coutaut          8
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    1
 Fernando Ganzo Cuesta    
@@ -16883,7 +18241,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    2.5
@@ -16971,7 +18342,20 @@ Diego Batlle             7
 Gregory Coutaut          7
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    7.5
@@ -17051,7 +18435,20 @@ Diego Batlle
 Gregory Coutaut          5
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -17135,7 +18532,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -17215,7 +18625,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             0.5
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    5
@@ -17300,7 +18723,20 @@ Diego Batlle             8
 Gregory Coutaut          7
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    2.5
@@ -17470,7 +18906,20 @@ Diego Batlle
 Gregory Coutaut          7
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    7.5
@@ -17550,7 +18999,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    7.5
@@ -17637,7 +19099,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -17714,7 +19189,20 @@ Diego Batlle             9
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    
@@ -17793,7 +19281,20 @@ Diego Batlle             8
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    
@@ -17879,7 +19380,20 @@ Diego Batlle             6
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -17964,7 +19478,20 @@ Diego Batlle             5
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             8
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    
@@ -18042,7 +19569,20 @@ Diego Batlle             7
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -18121,7 +19661,20 @@ Diego Batlle             8
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    7.5
@@ -18206,7 +19759,20 @@ Diego Batlle             7
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    5
 Fernando Ganzo Cuesta    
@@ -18287,7 +19853,20 @@ Diego Batlle             5
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    2.5
 Fernando Ganzo Cuesta    
@@ -18368,7 +19947,20 @@ Diego Batlle
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    
 Fernando Ganzo Cuesta    
@@ -18451,7 +20043,20 @@ Diego Batlle             8
 Gregory Coutaut          
 Ali Benzekri             
 Sandra Onana             
-# chaosreign.fr
+#chaosreign
+Lily Bloom               
+Olivier De Bruyn         
+Rita Di Santo            
+Olivia Cooper-Hadjian    
+Alexis Demeyer           
+Marilou Duponchel        
+Jean-Michel Frodon       
+Marin Gérard             
+Matteu Maestracci        
+Jordan Mintzer           
+Amandine Rebourg         
+Lilou Romans             
+Philippe Rouyer          
 # cahier
 Olivia Cooper-Hadjian    7.5
 Fernando Ganzo Cuesta    
@@ -19109,21 +20714,22 @@ Rui Tendinha
 Pavel Sladký
 Simone Soranna
 ";
-$critics_group[$i] = "chaosreign.fr";
+$critics_group[$i] = "chaosreign";
 # https://www.chaosreign.fr/festival-de-cannes-2026-tableau-etoiles-palmometre-critique-presse-competition-film-qui-aura-la-palme-d-or-cette-annee/
 $critics[$i++] = "
-Ariane Allard (Positif, France)
-Olivier De Bruyn (Les Echos/Marianne, France)
+Lily Bloom (Le Cercle/Canal+, France)
+Olivier De Bruyn (Les Echos, France)
+Rita Di Santo (Morning Star, UK)
 Olivia Cooper-Hadjian (Cahiers du cinema, France)
 Alexis Demeyer (France Inter, France)
 Marilou Duponchel (Les Inrocks, France)
-Julia Escamez (Arrêt Caméra, France)
-Jean-Michel Froudon (Slate, France)
+Jean-Michel Frodon (Slate, France)
+Marin Gérard (Critikat, France)
 Matteu Maestracci (France Info, France)
 Jordan Mintzer (The Hollywood Reporter, USA)
 Amandine Rebourg (Nice Matin, France)
+Lilou Romans (étudiante, France)
 Philippe Rouyer (Positif, France)
-Robin Vaz (Critikat)
 ";
 $critics_group[$i] = "cahiers";
 $critics[$i++] = "
@@ -19282,7 +20888,7 @@ $critics_group[$i] = "Critikat";
 $critics[$i++] = "
 Fabrice Fuentes 
 Josué Morel (Critikat, France)
-Marin Gérard (Filmmaker, France)
+Marin Gérard (Critikat, France)
 Juliette Conti
 Robin Vaz (Critikat, France)
 Luca Mongai
