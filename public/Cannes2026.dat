@@ -21621,19 +21621,18 @@ Nanako Tsukidate (Nobody Magazine, Japan)
 ";
 $critics_group[$i] = "Russian film critics";
 $critics[$i++] = "
-Anton Dolin (Medusa, Latvia)
-Egor Moskvitin (The rules of life, Russia)
-Stanislav Zelvensky (Kinopoisk, Russia)
-Andrey Plakhov (Kommersant, Russia)
-Tamara Hosova (Forbes, Russia)
-Nastassia Gorbachevskaya (Okko, Russia)
-Anna Strelchuk (Afisha Daily, Russia)
-Dmitry Elagin (Deutsche Welle, Russia)
 Denis Vilenkin (Afisha Daily, Russia)
-Daria Tarasova (Kino-Theatre, Russia)
-Anton Fomochkin (Kino-TV/SRSLY, Russia)
-Kira Golubeva (Cinemaholis/T-Z, Russia)
-Ksenia Balyuk (Snob, Russia)
+Nastassia Gorbachevskaya (Film.ru, Russia)
+Anton Dolin (Medusa, Latvia)
+Dmitry Elagin (Snob/Deutsche Welle, Russia)
+Stanislav Zelvensky (Kinopoisk, Russia)
+Egor Moskvitin (The Rules of Life, Russia)
+Andrey Plakhov (Kommersant, Russia)
+Anna Strelchuk (SensCritique/Popcorns, Russia)
+Daria Tarasova (Kino-Theatre/KinoTVT, Russia)
+Anton Fomochkin (SRSLY, Russia)
+Tamara Khodova (Forbes, Russia)
+Marat Shabaev (Kinopoisk, Russia)
 ";
 $critics_group[$i] = "Moiree";
 $critics[$i++] = "
