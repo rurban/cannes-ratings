@@ -1,0 +1,583 @@
+package Venice::rurban::2026; # -*- perl -*-
+# Venice 2026 Critics Ratings, Sep 2-12
+# Published at http://cannes-ratings.org/Venice2026
+# History at https://github.com/rurban/cannes-critics-ratings
+# Perl script by Reini Urban (c) 2010-2026
+# US ratings:
+#   A+ 10   A 9   A- 8
+#   B+ 7    B 6   B- 5
+#   C+ 4    C 3   C- 2
+#   D+ 1.5  D 1   D- 1
+#   E 0.5   F 0
+# indiewire does C => 4
+# Le film français+Screen Daily+Media Cine+cahier 0-4: 0: 1, 1: 2.5, 2: 5, 3: 7.5, 4: 9
+# ch,dk,ru,FNE 1-5: x2
+# British 0-5: x2
+# critic.de +++ 9, ++ 7.5, + 6, +- 5, - 4, -- 2.5, --- 1
+# outnow 1-6: 6: 10, 5: 8, 4: 7, 3: 5, 2: 3, 1: 1 (1357810)
+# Polls:
+#   https://www.screendaily.com/venice-jury-grid
+#   http://jury.critic.de/venedig/
+#   https://www.chaosreign.fr/festival-mostra-venise-2026-tableau-etoiles-palmometre-critique-presse-competition/
+#   https://www.ekkofilm.dk/stjernebarometer/venice-filmfestival-2026/
+#   https://wask.fr/les-etoiles-wask-2026/
+#   https://outnow.ch/Thema/Venice-2026/
+#   https://moir.ee/editions/Venice2026
+#   https://cineforum.it/focus/Mostra-del-Cinema-di-Venezia-83
+#   https://www.caimanediciones.es/festivales/festival-de-venecia/
+#   ICS poll: https://icsfilm.org/festivals/venice/2026-venice/venice-2026-ics-press-industry-panel/
+# Reviews:
+#   http://variety.com/c/reviews/
+#   http://www.hollywoodreporter.com/topic/movie-reviews
+#   https://www.screendaily.com/reviews/festivals/venice
+#   https://www.indiewire.com/t/venice
+#   https://thefilmstage.com/tag/venice-2026/
+#   https://www.theguardian.com/film/venice-2026
+#   https://www.thewrap.com/
+#   https://awardswatch.com/category/reviews/filmreviews/venice-film-festival/
+#   https://letterboxd.com/seanliu/list/venice-film-festival-2026-prediction/ (lineup predictions)
+#   https://letterboxd.com/seanliu/list/venice-film-festival-2026/ (festival list)
+#
+# Jury President: Maggie Gyllenhaal
+# Jury: Kaouther Ben Hania, Daniel Blumberg, Francesco Casetti,
+#       Xavier Giannoli, Shahrbanoo Sadat, Johnnie To
+# Golden Lion Lifetime Achievement: George Clooney, Ellen Burstyn
+# Artistic Director: Alberto Barbera
+
+use utf8;
+our $DATA = <<'EOF';
+
+COMPETITION
+
+"Ink" (Danny Boyle, UK) [Competition] Opening Film
+
+
+"Company" (Casey Affleck, USA) [Competition]
+
+
+"Kami Nour (A Bit of Light)" (Ali Asgari, IR) [Competition]
+
+
+"Ritorno a Buenos Aires" (Marco Bechis, I/CL) [Competition]
+
+
+
+"Un Bon Petit Soldat (A Good Little Soldier)" (Stéphane Brizé, F) [Competition]
+
+
+
+"Il Fuoco Che Ti Porti Dentro" (Edoardo De Angelis, I) [Competition]
+
+
+
+"Kvinde Ukendt (Woman Unknown)" (May el-Toukhy, DK/ET) [Competition]
+
+
+
+"Bucking Fastard" (Werner Herzog, D) [Competition]
+
+
+
+"15/18 (A Place to Heal)" (Cédric Kahn, F) [Competition]
+
+
+
+"DAU" (Ilya Khrzhanovsky, UA) [Competition]
+
+
+
+"Look Back" (Hirokazu Koreeda, J) [Competition]
+
+
+
+"Ga-Neung-Han Sa-Rang (Possible Love)" (Lee Chang-dong, ROK) [Competition]
+
+
+
+"Wild Horse Nine" (Martin McDonagh, UK/IRL) [Competition]
+
+
+
+"It Will Happen Tonight (Succederà Questa Notte)" (Nanni Moretti, I) [Competition]
+
+
+
+"Primetime" (Lance Oppenheim, USA) [Competition]
+
+
+
+"The Echo Chamber" (Andrea Pallaoro, I) [Competition]
+
+
+
+"Un Peu Avant Minuit (A Bit Before Midnight)" (Nicolas Pariser, F) [Competition]
+
+
+
+"L'Estranea" (Paolo Strippoli, I) [Competition]
+
+
+
+"Mr. Nelson, Did You Kill People?" (Shinya Tsukamoto, J) [Competition]
+
+
+
+"Bunker" (Florian Zeller, F) [Competition]
+
+
+
+OUT OF COMPETITION — FICTION
+
+"Dio Ride" (Giovanni Veronesi, I) [Out of Competition] Closing Film
+
+
+
+"Nessun Dolore (No Pain)" (Gianni Amelio, I) [Out of Competition]
+
+
+
+"Makikiraan Po (Let Us Through, Dear Ancestors)" (Lav Diaz, PHL) [Out of Competition]
+
+
+
+"Father Joe" (Barthélémy Grossmann, F) [Out of Competition]
+
+
+
+"Scherzetto (Trick)" (Mario Martone, I) [Out of Competition]
+
+
+
+"Place to Be" (Kornél Mundruczó, H) [Out of Competition]
+
+
+
+"No Paradise If You Are Killed by a Woman" (Halkawt Mustafa, N) [Out of Competition]
+
+
+
+"Arrested Memory" (Sabu, J) [Out of Competition]
+
+
+
+"The Basics of Philosophy" (Paul Schrader, USA) [Out of Competition]
+
+
+
+"Un Bon Avocat" (Tristan Séguéla, F) [Out of Competition]
+
+
+
+"Jupiter" (Alexandre Smia, F) [Out of Competition]
+
+
+
+OUT OF COMPETITION — NON-FICTION
+
+"Be Brave" (Francesco Carrozzini, I) [Out of Competition]
+
+
+
+"What Love Builds" (Russell Crowe, AUS) [Out of Competition]
+
+
+
+"Burgundy" (Michael Dweck, Gregory Kershaw, USA) [Out of Competition]
+
+
+
+"Musk" (Alex Gibney, USA) [Out of Competition]
+
+
+
+"The Road to Jericho" (Amos Gitai, IL) [Out of Competition]
+
+
+
+"Al Mowaten Osama (Citizen Osama)" (Ahmed Hassouna, PS) [Out of Competition]
+
+
+
+"Union Town" (Barbara Kopple, USA) [Out of Competition]
+
+
+
+"Holy Wood Dust" (Viktor Kossakovsky, RUS) [Out of Competition]
+
+
+
+"Letters from the Silenced Country" (Andrei Kutsila, BY) [Out of Competition]
+
+
+
+"Biografía de Jorge Luis Borges" (Mariano Llinás, RA) [Out of Competition]
+
+
+
+"My Undesirable Friends: Part II – Exile" (Julia Loktev, USA) [Out of Competition]
+
+
+
+"Boatbuilders" (Luke Lorentzen, USA) [Out of Competition]
+
+
+
+"Imperium" (Sergei Loznitsa, UA) [Out of Competition]
+
+
+
+"Shumei — The Living Legacy of Kabuki" (Takashi Miike, J) [Out of Competition]
+
+
+
+"Queer Edward II" (Theo Rollason, UK) [Out of Competition]
+
+
+
+"Oasis: Don't Look Back in Anger" (Dylan Southern, Will Lovelace, UK) [Out of Competition]
+
+
+
+"Weichen (Dust)" (Tsai Ming-liang, RC) [Out of Competition]
+
+
+
+"Everest: The Other Side" (Elizabeth Chai Vasarhelyi, Jimmy Chin, USA) [Out of Competition]
+
+
+
+"From Inside Out — The Architecture of Peter Zumthor" (Wim Wenders, D) [Out of Competition]
+
+
+
+HORIZONS (ORIZZONTI)
+
+"La Ragazza Con La Leica" (Alina Marazzi, I) [Orizzonti] Opening Film
+
+
+
+"Yak Mai (The Burning Giants)" (Phuttiphong Aroonpheng, T) [Orizzonti]
+
+
+
+"Cudze Rzeczy (What Belongs to Others)" (Grzegorz Dębowski, PL) [Orizzonti]
+
+
+
+"Una Storia" (Anna Foglietta, I) [Orizzonti]
+
+
+
+"La Città Dei Vivi" (Edoardo Gabbriellini, I) [Orizzonti]
+
+
+
+"Moragheb (Falling House)" (Mohsen Gharaei, IR) [Orizzonti]
+
+
+
+"Too Much Sugar" (Robert Greene, USA) [Orizzonti]
+
+
+
+"The Difficult Bride" (Rubaiyat Hossain, BD) [Orizzonti]
+
+
+
+"La Maison du Vent" (Auguste Bernard Kouemo Yanghu, CAM) [Orizzonti]
+
+
+
+"I Figli Della Scimmia" (Tommaso Landucci, I) [Orizzonti]
+
+
+
+"A Day in the Life of Jo: Chapter Phaedra" (Jacqueline Lentzou, GR) [Orizzonti]
+
+
+
+"Oase (Oasis)" (Jannis Lenz, A) [Orizzonti]
+
+
+
+"Until the Day Ends" (Jelena Maksimović, SRB) [Orizzonti]
+
+
+
+"La Moula" (Jérôme Pierrat, F) [Orizzonti]
+
+
+
+"Lovers in the Blue Night" (Anuparna Roy, IND) [Orizzonti]
+
+
+
+"Un Détour Par Diane" (Ann Sirot, Raphaël Balboni, B) [Orizzonti]
+
+
+
+"The Color of the Sun" (Xavier Tera, E) [Orizzonti]
+
+
+
+"Eklipse" (Manuel Wetscher, A) [Orizzonti]
+
+
+
+"Huangyan Shenghuo (Big Little Things)" (Michelle Zhou, PRC) [Orizzonti]
+
+
+
+VENICE SPOTLIGHT
+
+"Sumo: Spirit Weighs Nothing" (Erik Shirai, USA) [Venice Spotlight]
+
+
+
+"Conversation with the Sea" (Muayad Alayan, PS) [Venice Spotlight]
+
+
+
+"Hombre al Agua" (Gael García Bernal, MEX) [Venice Spotlight]
+
+
+
+"Serpenti" (Roberto De Paolis Maino, I) [Venice Spotlight]
+
+
+
+"Furies" (Rami Kodeih, RL) [Venice Spotlight]
+
+
+
+"Guria" (Levan Koguashvili, GE) [Venice Spotlight]
+
+
+
+"Földszint (Ground Floor)" (Gábor Reisz, H) [Venice Spotlight]
+
+
+
+"Eu Contez (I Matter)" (Alina Șerban, RO) [Venice Spotlight]
+
+
+FILMS ON FILMS
+
+"Juso Per Ferie" (Karen Di Porto, I) [Films on Films]
+
+
+
+"Nino – Un Film Su Nino Rota" (Walter Fasano, I) [Films on Films]
+
+
+
+"The Pervert's Guide to Utopias" (Sophie Fiennes, UK) [Films on Films]
+
+
+
+"Joie de Vivre" (Luca Guadagnino, I) [Films on Films]
+
+
+
+"Twist and Shoot Mister Suzuki" (Yves Montmayeur, F) [Films on Films]
+
+
+
+"Intermission" (Yonfan, HK) [Films on Films]
+
+
+
+VENICE DAYS (GIORNATE DEGLI AUTORI)
+
+"My Notes on Mars" (Lili Horvàt, H) [Venice Days] Opening Film
+
+
+
+"Sadness Sometimes, Other Times Revolt" (Maria Aparicio, RA) [Venice Days]
+
+
+
+"Agata the Writer" (Kuba Dorabialski, PL/AUS) [Venice Days]
+
+
+
+"Balcanica" (Nicola Sorcinelli, I) [Venice Days]
+
+
+
+"Camouflage" (Mykyta Gibalenko, UA) [Venice Days]
+
+
+
+"Dear Ajayi" (Damilola Orimogunje, NGR) [Venice Days]
+
+
+
+"I Plant My Hand in the Garden" (Boris Hadžija, Hoda Taheri, HR/IR) [Venice Days]
+
+
+
+"Les Indes" (Pauline Julier, Nicolas Chapoulier, CH) [Venice Days]
+
+
+
+"Salón De Bellezza" (Nathalia Acevedo, MEX) [Venice Days]
+
+
+
+"A Woman Today" (Robert Guédiguian, F) [Venice Days]
+
+
+
+"Man's Skin" (Léa Domenach, F) [Venice Days] Out of Competition
+
+
+
+CRITICS' WEEK (SETTIMANA DELLA CRITICA)
+
+"The End of Times" (Bibiana Rojas Gómez, Juan David Cárdena, CO) [Critics' Week]
+
+
+
+"Meteorite" (Sebastián Múnera, CO) [Critics' Week]
+
+
+
+"The H@llow Man" (Kamel Laaridhi, TN) [Critics' Week]
+
+
+
+"Prima della Guerra" (Tommaso Usberti, I) [Critics' Week]
+
+
+
+"Our Share of Sand" (Shalini Adnani, IND/UK/GR) [Critics' Week]
+
+
+
+"London" (Victor Di Marco, Márcio Picoli, BR) [Critics' Week]
+
+
+
+"Zoom In, Zoom Out" (Dong Jie, PRC) [Critics' Week]
+
+
+
+"Il grande Giaffa" (Marco Santi, I) [Critics' Week] Out of Competition, Opening
+
+
+
+"Rider" (Roan Johnson, Davide Pavanello, I) [Critics' Week] Out of Competition, Closing
+
+
+
+VENICE CLASSICS
+
+"Col cuore in gola (Deadly Sweet)" (Tinto Brass, I, 1967) [Venice Classics] Pre-Opening
+
+
+
+"English, August" (Dev Benegal, IND, 1994) [Venice Classics]
+
+
+
+"Illusion Travels by Streetcar (La Ilusión Viaja en Tranvía)" (Luis Buñuel, MEX, 1954) [Venice Classics]
+
+
+
+"Minnie and Moskowitz" (John Cassavetes, USA, 1971) [Venice Classics]
+
+
+
+"The Uncle from Brooklyn (Lo Zio di Brooklyn)" (Daniele Ciprì, Franco Maresco, I, 1995) [Venice Classics]
+
+
+
+"The Wild Angels" (Roger Corman, USA, 1966) [Venice Classics]
+
+
+
+"Los de la Mesa 10 (Those at Table 10)" (Simón Feldman, RA, 1960) [Venice Classics]
+
+
+
+"The Blue Eyes of Yonta (Udju Azul di Yonta)" (Flora Gomes, GW, 1992) [Venice Classics]
+
+
+
+"The Story of Woo Viet" (Ann Hui, HK, 1981) [Venice Classics]
+
+
+
+"Valerie and Her Week of Wonders" (Jaromil Jireš, CZ, 1970) [Venice Classics]
+
+
+
+"Yesterday Girl (Abschied von Gestern)" (Alexander Kluge, D, 1966) [Venice Classics]
+
+
+
+"To Be or Not to Be" (Ernst Lubitsch, USA, 1942) [Venice Classics]
+
+
+
+"On the Beat (Minjing Gushi)" (Ning Ying, PRC, 1995) [Venice Classics]
+
+
+
+"Cul-de-sac" (Roman Polanski, UK, 1966) [Venice Classics]
+
+
+
+"Journey to Italy (Viaggio in Italia)" (Roberto Rossellini, I, 1953) [Venice Classics]
+
+
+
+"Ugly, Dirty and Bad (Brutti, Sporchi e Cattivi)" (Ettore Scola, I, 1976) [Venice Classics]
+
+
+
+"The Catch (Gyoei no Mure)" (Shinji Sōmai, J, 1983) [Venice Classics]
+
+
+
+"Long Night in '43 (La Lunga Notte del '43)" (Florestano Vancini, I, 1960) [Venice Classics]
+
+
+
+"Ashes and Diamonds (Popiół i Diament)" (Andrzej Wajda, PL, 1958) [Venice Classics]
+
+
+EOF
+
+our $HEADER = <<"EOF";
+
+<small>Collected and updated daily during the festival by Reini Urban from
+various press and individual critics on site.<br>
+
+<br>
+<b>Ratings</b>:<br>
+0-10 points, only &gt;6.00 avg and &gt;3 international critics [avg/num stddev].<br>
+Critics with stddev &gt;2.5: filtered out
+<i>(Filtered to help with inaccuracies with low numbers).</i><br>
+<b>Formatting</b>:<br>
+stddev &gt;2: <i>controversial (italic)</i>.<br>
+&lt;10 ratings: small.<br>
+Competition: <b>bold</b><br>
+ <br>
+All sections updated daily during the festival. </small><p>
+
+EOF
+
+our $FOOTER = "
+<pre>
+--
+Festival: 83rd Venice International Film Festival, Sep 2-12, 2026
+Lists: https://letterboxd.com/seanliu/list/venice-film-festival-2026-prediction/
+Source & History:
+https://github.com/rurban/cannes-ratings/blob/master/public/Venice2026.dat
+</pre>";
+
+$HEADER =~ s{(https?)://(.+?) }{<a href="$1://$2">$2</a> }g;
+$FOOTER =~ s{(https?)://(.+)\n}{<a href="$1://$2">$2</a>\n}g;
+1;

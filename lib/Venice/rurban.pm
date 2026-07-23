@@ -8,12 +8,11 @@ use utf8;
 
 our $VERSION = '0.2';
 our $BASE = 'Venice';
-our @YEARS = (2025);
+our @YEARS = (2025, 2026);
 our $comp_section = 'Competition';
-our $finaldate = Time::Piece->strptime('26 August 2025', '%d %B %Y')->epoch;
-# "Encounters" 2020+
-our @sections = ($comp_section, "Orrizonti", "Out of Competition", "Spotlight", "Classics",
-                 "Critics Week", "Venice Days");
+our $finaldate = Time::Piece->strptime('2 September 2026', '%d %B %Y')->epoch;
+our @sections = ($comp_section, "Orrizonti", "Out of Competition", "Spotlight",
+                 "Classics", "Critics Week", "Venice Days");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
@@ -871,8 +870,9 @@ sub _list {
   }
 }
 
+get '/Venice'     => sub { _list(2026) };
+get '/Venice2026' => sub { _list(2026) };
 get '/Venice2025' => sub { _list(2025) };
-get '/Venice'     => sub { _list(2025) };
 
 get '/VeniceAll' => sub {
   my $vars = {}; my (@t, %critic, %title);
@@ -901,12 +901,12 @@ get '/VeniceAll' => sub {
     $vars->{FOOTER} = $FOOTER;
   }
   my $all = _dump( \%critic, \%title, \@t);
-  $all->{year} = "2025";
+  $all->{year} = "2025-2026";
   $all->{side_details} = _side_details(\%critic, \%title,
                                        \@{"$BASE\::rurban::2025::critics_group"});
   template lc($BASE).".tt", $all;
 };
 
-get '/' => sub { redirect '/Venice2025'; };
+get '/' => sub { redirect '/Venice2026'; };
 
 1;
