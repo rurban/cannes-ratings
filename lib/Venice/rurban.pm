@@ -12,7 +12,7 @@ our @YEARS = (2025, 2026);
 our $comp_section = 'Competition';
 our $finaldate = Time::Piece->strptime('2 September 2026', '%d %B %Y')->epoch;
 our @sections = ($comp_section, "Orrizonti", "Out of Competition", "Spotlight",
-                 "Classics", "Critics Week", "Venice Days");
+                 "Classics", "Critics Week", "Venice Days", "Films on Films");
 
 sub us_rating {
   my $r = {'A+' => 10,  'A' => 9,   'A-' => 8, 
