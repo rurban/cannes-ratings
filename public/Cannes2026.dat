@@ -122,12 +122,12 @@ Rui Tendinha             6
 #moiree
 Jordan Cronk             3
 Flavia Dima              3
-Pedro Bernal             0.5
 David Jenkins            3
 Roger Koza               0.5
 Diego Lerer              2
 Savina Petkova           2
 Nicolas Rapold           4
+Pedro Bernal             0.5
 Öykü Sofuoğlu         4
 Sonya Vseliubska         2
 Blake Williams           7
@@ -727,7 +727,6 @@ Rui Tendinha             8
 Jordan Cronk             3
 Mónica Delgado          4
 Flavia Dima              3
-Pedro Bernal             0.5
 Leonardo Goi             3
 David Jenkins            0.5
 Maja Korbecka            3
@@ -735,6 +734,7 @@ Roger Koza               3
 Diego Lerer              0.5
 Giovanni Marchini Camia  0.5
 Savina Petkova           5
+Pedro Bernal             0.5
 Öykü Sofuoğlu         4
 Sonya Vseliubska         3
 Blake Williams           1
@@ -1335,11 +1335,11 @@ Rui Tendinha             6
 #moiree
 Jordan Cronk             8
 Mónica Delgado          5
-Pedro Bernal             10
 Roger Koza               5
 Diego Lerer              8
 Giovanni Marchini Camia  9
 Savina Petkova           0.5
+Pedro Bernal             10
 Öykü Sofuoğlu         8
 Sonya Vseliubska         10
 Blake Williams           9
@@ -1837,7 +1837,6 @@ Rui Tendinha             6
 #moiree
 Jordan Cronk             8
 Mónica Delgado          8
-Pedro Bernal             6
 Leonardo Goi             8
 David Jenkins            10
 Roger Koza               9
@@ -1846,6 +1845,7 @@ Jason Tan Liwag          7
 Giovanni Marchini Camia  2
 Savina Petkova           10
 Nicolas Rapold           8
+Pedro Bernal             6
 Öykü Sofuoğlu         6
 Sonya Vseliubska         7
 Blake Williams           6
@@ -2390,13 +2390,13 @@ Rui Tendinha
 #moiree
 Jordan Cronk             4
 Mónica Delgado          5
-Pedro Bernal             3
 Leonardo Goi             5
 David Jenkins            6
 Maja Korbecka            5
 Roger Koza               4
 Diego Lerer              5
 Giovanni Marchini Camia  9
+Pedro Bernal             3
 Sonya Vseliubska         8
 Blake Williams           5
 # ics
@@ -2839,11 +2839,11 @@ Kuriko Sato
 Rui Tendinha             
 #moiree
 Jordan Cronk             1
-Pedro Bernal             2
 Maja Korbecka            5
 Roger Koza               5
 Diego Lerer              5
 Savina Petkova           7
+Pedro Bernal             2
 Öykü Sofuoğlu         4
 Sonya Vseliubska         0
 Blake Williams           5
@@ -3759,11 +3759,11 @@ Rui Tendinha             6
 Jordan Cronk             6
 Mónica Delgado          5
 Flavia Dima              6
-Pedro Bernal             6
 Roger Koza               5
 Diego Lerer              6
 Giovanni Marchini Camia  8
 Savina Petkova           7
+Pedro Bernal             6
 Öykü Sofuoğlu         6
 Blake Williams           6
 # ics
@@ -4289,12 +4289,12 @@ Kuriko Sato              8
 Rui Tendinha             8
 #moiree
 Jordan Cronk             5
-Pedro Bernal             3
 Maja Korbecka            4
 Roger Koza               5
 Diego Lerer              6
 Giovanni Marchini Camia  6
 Savina Petkova           8
+Pedro Bernal             3
 Öykü Sofuoğlu         4
 Sonya Vseliubska         4
 Blake Williams           3
@@ -4830,7 +4830,6 @@ Rui Tendinha             6
 Jordan Cronk             5
 Mónica Delgado          10
 Flavia Dima              8
-Pedro Bernal             4
 Leonardo Goi             10
 David Jenkins            8
 Roger Koza               7
@@ -4839,6 +4838,7 @@ Jason Tan Liwag          7
 Giovanni Marchini Camia  5
 Savina Petkova           7
 Nicolas Rapold           9
+Pedro Bernal             4
 Öykü Sofuoğlu         7
 Sonya Vseliubska         9
 Blake Williams           4
@@ -5365,11 +5365,11 @@ Rui Tendinha             8
 Jordan Cronk             3
 Mónica Delgado          2
 Flavia Dima              3
-Pedro Bernal             0.5
 David Jenkins            3
 Roger Koza               5
 Diego Lerer              4
 Giovanni Marchini Camia  3
+Pedro Bernal             0.5
 Öykü Sofuoğlu         2
 Sonya Vseliubska         7
 Blake Williams           3
@@ -5838,12 +5838,12 @@ Kuriko Sato
 Rui Tendinha             
 #moiree
 Jordan Cronk             4
-Pedro Bernal             0.5
 David Jenkins            2
 Maja Korbecka            0.5
 Roger Koza               0.5
 Diego Lerer              3
 Giovanni Marchini Camia  0.5
+Pedro Bernal             0.5
 Öykü Sofuoğlu         2
 Blake Williams           2
 # ics
@@ -6032,11 +6032,11 @@ Kuriko Sato              8
 Rui Tendinha             7
 #moiree
 Jordan Cronk             7
-Pedro Bernal             4
 David Jenkins            5
 Roger Koza               8
 Diego Lerer              8
 Giovanni Marchini Camia  10
+Pedro Bernal             4
 Öykü Sofuoğlu         7
 Blake Williams           3
 # ics
@@ -6619,11 +6619,11 @@ Rui Tendinha             8
 Jordan Cronk             4
 Mónica Delgado          1
 Flavia Dima              0.5
-Pedro Bernal             0.5
 David Jenkins            3
 Roger Koza               0.5
 Diego Lerer              3
 Savina Petkova           7
+Pedro Bernal             0.5
 Öykü Sofuoğlu         4
 Sonya Vseliubska         5
 Blake Williams           1
@@ -7324,13 +7324,13 @@ Rui Tendinha             4
 Jordan Cronk             4
 Mónica Delgado          6
 Flavia Dima              3
-Pedro Bernal             3
 Leonardo Goi             6
 David Jenkins            2
 Roger Koza               6
 Diego Lerer              4
 Jason Tan Liwag          5
 Savina Petkova           6
+Pedro Bernal             3
 Öykü Sofuoğlu         5
 Blake Williams           5
 # ics
@@ -7751,11 +7751,11 @@ Rui Tendinha             8
 Manuel Betancourt        2
 Jordan Cronk             6
 Flavia Dima              10
-Pedro Bernal             2
 Maja Korbecka            5
 Roger Koza               3
 Diego Lerer              4
 Giovanni Marchini Camia  7
+Pedro Bernal             2
 Öykü Sofuoğlu         7
 Sonya Vseliubska         5
 Blake Williams           5
@@ -8842,11 +8842,11 @@ Kuriko Sato
 Rui Tendinha             
 #moiree
 Jordan Cronk             8
-Pedro Bernal             6
 Roger Koza               9
 Diego Lerer              8
 Giovanni Marchini Camia  7
 Savina Petkova           10
+Pedro Bernal             6
 Öykü Sofuoğlu         8
 Sonya Vseliubska         10
 Blake Williams           6
@@ -9530,11 +9530,11 @@ Manuel Betancourt        6
 Jordan Cronk             6
 Mónica Delgado          3
 Flavia Dima              8
-Pedro Bernal             8
 David Jenkins            8
 Maja Korbecka            4
 Roger Koza               6
 Diego Lerer              7
+Pedro Bernal             8
 Blake Williams           5
 Keva York                5
 # ics
@@ -9758,7 +9758,7 @@ Tom Cluzeau                 8
 Tshabalala                  8
 Wimper79                    8
 ૮ ˶ᵔ ᵕ ᵔ˶ ა                 8
-
+"A Woman's Life" (Charline Bourgeois-Tacquet) [Competition]
 "A Woman's Life" (Charline Bourgeois-Tacquet) [Competition]
 
 Guy Lodge               https://variety.com/2026/film/reviews/a-womans-life-review-2-1236737022/
@@ -10155,13 +10155,13 @@ Rui Tendinha             9
 Jordan Cronk             9
 Mónica Delgado          9
 Flavia Dima              3
-Pedro Bernal             10
 David Jenkins            8
 Roger Koza               9
 Diego Lerer              10
 Giovanni Marchini Camia  8
 Savina Petkova           6
 Nicolas Rapold           8
+Pedro Bernal             10
 Öykü Sofuoğlu         7
 Sonya Vseliubska         0.5
 Blake Williams           8
@@ -10798,11 +10798,11 @@ Pavel Sladký             4
 Simone Soranna           8
 #moiree
 Jordan Cronk             8
-Pedro Bernal             6
 David Jenkins            6
 Roger Koza               6
 Diego Lerer              6
 Giovanni Marchini Camia  9
+Pedro Bernal             6
 Blake Williams           6
 Keva York                8
 
@@ -11241,13 +11241,13 @@ Simone Soranna           6
 #moiree
 Jordan Cronk             6
 Mónica Delgado          5
-Pedro Bernal             3
 David Jenkins            5
 Roger Koza               4
 Diego Lerer              5
 Jason Tan Liwag          5
 Giovanni Marchini Camia  6
 Savina Petkova           8
+Pedro Bernal             3
 Sonya Vseliubska         6
 
 "Club Kid" (Jordan Firstman) [Un Certain Regard]
@@ -11512,12 +11512,12 @@ Simone Soranna
 Jordan Cronk             6
 Mónica Delgado          4
 Flavia Dima              6
-Pedro Bernal             6
 Leonardo Goi             8
 David Jenkins            10
 Diego Lerer              8
 Jason Tan Liwag          8
 Savina Petkova           10
+Pedro Bernal             6
 Sonya Vseliubska         8
 Blake Williams           6
 Keva York                8
@@ -13091,10 +13091,10 @@ Rui Tendinha
 Pavel Sladký             
 Simone Soranna           
 #moiree
-Pedro Bernal             0
 Maja Korbecka            2
 Diego Lerer              3
 Giovanni Marchini Camia  0.5
+Pedro Bernal             0
 
 "Titanic Ocean" (Konstantina Kotzamani) [Un Certain Regard]
 
@@ -13212,10 +13212,10 @@ Pavel Sladký
 Simone Soranna           
 #moiree
 Jordan Cronk             3
-Pedro Bernal             1
 David Jenkins            3
 Diego Lerer              6
 Savina Petkova           2
+Pedro Bernal             1
 Blake Williams           0
 
 "Ulysse" (Laetitia Masson) [Un Certain Regard]
@@ -13612,7 +13612,6 @@ Luca Mongai
 # Académie des Lumières
 # Russian film critics
 #moiree
-#letterboxd
 Letterboxd 2755_Ratings	6.5  https://letterboxd.com/film/la-venus-electrique/
 David Jenkins            3
 Roger Koza               4
@@ -13695,11 +13694,11 @@ Jaime Pena
 Angel Quintana           
 Jara Yanez               
 #moiree
-Pedro Bernal             0.5
 Leonardo Goi             1
 David Jenkins            7
 Diego Lerer              0.5
 Giovanni Marchini Camia  7
+Pedro Bernal             0.5
 Blake Williams           0.5
 Keva York                0.5
 
@@ -14788,8 +14787,8 @@ Angel Quintana
 Jara Yanez               
 #moiree
 Letterboxd 1_Ratings	7.0  https://letterboxd.com/film/species-2026/
-Pedro Bernal             0.5
 Savina Petkova           6
+Pedro Bernal             0.5
 
 CHAOS REIGN           6  https://letterboxd.com/chaosreignfr/film/species-2026/
 adelou                6  https://letterboxd.com/adelesw0rld/film/species-2026/
@@ -15219,9 +15218,9 @@ Jaime Pena
 Angel Quintana           6
 Jara Yanez               
 #moiree
-Pedro Bernal             0.5
 Leonardo Goi             4
 Roger Koza               3
+Pedro Bernal             0.5
 Sonya Vseliubska         2
 Blake Williams           3
 Keva York                5
@@ -17262,10 +17261,10 @@ Rui Tendinha
 Pavel Sladký             
 Simone Soranna           
 #moiree
-Pedro Bernal             1
 David Jenkins            3
 Jason Tan Liwag          3
 Savina Petkova           6
+Pedro Bernal             1
 Blake Williams           3
 
 "Dua" (Blerta Basholli) [Semaine] SACD Award
@@ -17633,11 +17632,11 @@ Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/l
 Marya E. Gates      A   https://www.indiewire.com/criticism/movies/la-gradiva-review-marine-atlan-1235195477/
 #moiree
 Jordan Cronk             6
-Pedro Bernal             3
 David Jenkins            5
 Roger Koza               8
 Giovanni Marchini Camia  10
 Savina Petkova           8
+Pedro Bernal             3
 Blake Williams           6
 Martin Tsai             https://thefilmstage.com/cannes-review-la-gradiva-is-a-remarkable-debut-of-extraordinary-sensitivity/
 
@@ -17907,10 +17906,10 @@ Simone Soranna
 #moiree
 Jordan Cronk             7
 Mónica Delgado          5
-Pedro Bernal             4
 Roger Koza               7
 Diego Lerer              7
 Giovanni Marchini Camia  6
+Pedro Bernal             4
 
 "Made of Flesh and Fuel" (Pierre Le Gall) [Semaine] Special
 
@@ -18301,13 +18300,13 @@ Rui Tendinha             4
 Pavel Sladký             4
 Simone Soranna           
 #moiree
-Pedro Bernal             0.5
 Leonardo Goi             4
 David Jenkins            4
 Roger Koza               4
 Diego Lerer              4
 Giovanni Marchini Camia  1
 Savina Petkova           8
+Pedro Bernal             0.5
 Sonya Vseliubska         0.5
 Blake Williams           0.5
 
@@ -18402,10 +18401,10 @@ Rui Tendinha
 Pavel Sladký             
 Simone Soranna           
 #moiree
-Pedro Bernal             1
 David Jenkins            5
 Jason Tan Liwag          6
 Savina Petkova           5
+Pedro Bernal             1
 
 "Gabin" (Maxence Voiseux) [Quinzaine]
 
@@ -18497,10 +18496,10 @@ Simone Soranna
 #moiree
 Manuel Betancourt        8
 Mónica Delgado          8
-Pedro Bernal             4
 David Jenkins            6
 Maja Korbecka            5
 Giovanni Marchini Camia  8
+Pedro Bernal             4
 Sonya Vseliubska         8
 
 "Thanks for Coming" (Alain Cavalier) [Quinzaine]
@@ -18591,9 +18590,9 @@ Rui Tendinha
 Pavel Sladký             
 Simone Soranna           
 #moiree
-Pedro Bernal             4
 David Jenkins            7
 Roger Koza               7
+Pedro Bernal             4
 Blake Williams           5
 
 "Atonement" (Reed Van Dyk) [Quinzaine]
@@ -18785,7 +18784,6 @@ Simone Soranna           8
 #moiree
 Mónica Delgado          5
 Flavia Dima              10
-Pedro Bernal             10
 Leonardo Goi             8
 David Jenkins            8
 Roger Koza               9
@@ -18793,6 +18791,7 @@ Diego Lerer              8
 Jason Tan Liwag          8
 Giovanni Marchini Camia  8
 Nicolas Rapold           8
+Pedro Bernal             10
 Öykü Sofuoğlu         7
 Blake Williams           7
 Keva York                7
@@ -19060,13 +19059,13 @@ Simone Soranna           8
 #moiree
 Mónica Delgado          10
 Flavia Dima              8
-Pedro Bernal             10
 Leonardo Goi             8
 David Jenkins            9
 Roger Koza               9
 Diego Lerer              10
 Giovanni Marchini Camia  10
 Nicolas Rapold           5
+Pedro Bernal             10
 Öykü Sofuoğlu         7
 Blake Williams           8
 Keva York                7
@@ -20110,11 +20109,11 @@ Juliette Conti
 Robin Vaz                
 Luca Mongai              
 #moiree
-Pedro Bernal             7
 David Jenkins            5
 Roger Koza               8
 Diego Lerer              8
 Giovanni Marchini Camia  6
+Pedro Bernal             7
 Öykü Sofuoğlu         8
 Blake Williams           7
 Keva York                6
@@ -20524,6 +20523,8 @@ suki                        0
 "Peaches" (Jenny Suen) [Predictions]
 
 "The Lost Children of Tuam" (Frank Berry) [Predictions]
+
+Guy Lodge               https://variety.com/2026/film/reviews/the-lost-children-of-tuam-review-1236819413/
 
 "Awaiting Birds (Madre pájaro)" (Sofía Quirós, Costa Rica) [Predictions]
 
