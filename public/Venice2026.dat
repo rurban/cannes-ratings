@@ -6933,7 +6933,7 @@ our $FOOTER = "
 <pre>
 --
 Festival: 83rd Venice International Film Festival, Sep 2-12, 2026
-Lists: https://letterboxd.com/seanliu/list/venice-film-festival-2026-prediction/
+Lists: https://letterboxd.com/seanliu/list/venice-film-festival-2026/
 Source & History:
 https://github.com/rurban/cannes-ratings/blob/master/public/Venice2026.dat
 </pre>";
