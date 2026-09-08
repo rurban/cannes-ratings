@@ -51,22 +51,11 @@ COMPETITION
 
 "Ink" (Danny Boyle, UK) [Competition] Opening Film
 
-
 Guy Lodge               https://variety.com/2026/film/reviews/ink-review-1236849047/
 David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/
 Ryan Lattanzio      B   https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/
-#moiree
-Nicholas Bell            5
-Mariona Borrull Zapata   6
-Jordan Cronk             4
-Leonardo Goi             5
-David Katz               5
-Beatrice Loayza          6
-Öykü Sofuoğlu         5
-Nanako Tsukidate         2
 Rory O'Connor           https://thefilmstage.com/venice-review-danny-boyles-ink-is-a-rip-roaring-look-at-the-rise-of-sensationalism/
-
-#moiree.dat
+#moiree
 Nicholas Bell            5
 Mariona Borrull Zapata   6
 Jordan Cronk             4
@@ -804,7 +793,7 @@ apostolodidio       3
 menksenv            3
 Sylvestre           2
 Luce                1
-"Company" (Casey Affleck, USA) [Competition]
+
 "Company" (Casey Affleck, USA) [Competition]
 
 
@@ -825,31 +814,19 @@ Luce                1
 
 "Kvinde Ukendt (Woman Unknown)" (May el-Toukhy, DK/ET) [Competition]
 
-
-
 #moiree
+Miriam Bale              2
 Nicholas Bell            7
+Öykü Sofuoğlu         5
+Nanako Tsukidate         4
+Sonya Vseliubska         9
 
 "Bucking Fastard" (Werner Herzog, D) [Competition]
 
-
-
 Jessica Kiang           https://variety.com/2026/film/reviews/bucking-fastard-review-1236846930/
-#moiree
-Miriam Bale              6
-Nicholas Bell            7
-Mariona Borrull Zapata   8
-Jordan Cronk             7
-Hugo Emmerzael           7
-Leonardo Goi             7
-David Katz               6
-Beatrice Loayza          6
-Öykü Sofuoğlu         6
-Nanako Tsukidate         4
-Sonya Vseliubska         7
 Rory O'Connor           https://thefilmstage.com/venice-review-werner-herzogs-bucking-fastard-is-a-strange-earnestly-heartfelt-oddity/
-
-#moiree.dat
+#moiree
+Miriam Bale              5
 Nicholas Bell            7
 Mariona Borrull Zapata   8
 Jordan Cronk             7
@@ -1207,23 +1184,13 @@ Jan Küveler         1
 teo3112             1
 Volpi_              1
 cicciotraina        1
+
 "15/18 (A Place to Heal)" (Cédric Kahn, F) [Competition]
-
-
 
 Guy Lodge               https://variety.com/2026/film/reviews/a-place-to-heal-review-1236851417/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/a-place-to-heal-review-cedric-kahn-1236682344/
 Miriam Balanescu    A   https://www.indiewire.com/criticism/movies/15-18-a-place-to-heal-movie-review-1235214815/
 #moiree
-Nicholas Bell            4
-Mariona Borrull Zapata   4
-Jordan Cronk             5
-David Katz               4
-Beatrice Loayza          5
-Öykü Sofuoğlu         5
-Nanako Tsukidate         3
-
-#moiree.dat
 Nicholas Bell            4
 Mariona Borrull Zapata   4
 Jordan Cronk             5
@@ -1238,30 +1205,33 @@ Nanako Tsukidate         3
 
 "Look Back" (Hirokazu Koreeda, J) [Competition]
 
-
+David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/look-back-review-hirokazu-koreeda-manga-adaptation-1236693232/
+#moiree
+Nicholas Bell            7
+Jordan Cronk             4
+Nanako Tsukidate         1
+#letterboxd
 
 "Ga-Neung-Han Sa-Rang (Possible Love)" (Lee Chang-dong, ROK) [Competition]
 
-
-
 Jessica Kiang           https://variety.com/2026/film/reviews/possible-love-review-1236846877/
+Rory O'Connor           https://thefilmstage.com/venice-review-possible-love-marks-a-triumphant-return-for-lee-chang-dong/
 #moiree
+Miriam Bale              4
 Nicholas Bell            8
 Mariona Borrull Zapata   10
 Jordan Cronk             9
+Leonardo Goi             9
 David Katz               7
 Beatrice Loayza          8
-Nanako Tsukidate         1
-Rory O'Connor           https://thefilmstage.com/venice-review-possible-love-marks-a-triumphant-return-for-lee-chang-dong/
+Nicolas Rapold           8
+Öykü Sofuoğlu         8
+Nanako Tsukidate         2
+#letterboxd
+i am not sure if we      10
 
-#moiree.dat
-Mariona Borrull Zapata   10
-David Katz               7
-Beatrice Loayza          8
 
 "Wild Horse Nine" (Martin McDonagh, UK/IRL) [Competition]
-
-
 
 Guy Lodge               https://variety.com/2026/film/reviews/wild-horse-nine-review-1236849978/
 #moiree
@@ -1273,18 +1243,7 @@ Hugo Emmerzael           8
 Leonardo Goi             6
 David Katz               5
 Beatrice Loayza          4
-Öykü Sofuoğlu         6
-Nanako Tsukidate         4
-Sonya Vseliubska         7
-
-#moiree.dat
-Nicholas Bell            7
-Mariona Borrull Zapata   4
-Jordan Cronk             5
-Hugo Emmerzael           8
-Leonardo Goi             6
-David Katz               5
-Beatrice Loayza          4
+Nicolas Rapold           6
 Öykü Sofuoğlu         6
 Nanako Tsukidate         4
 Sonya Vseliubska         7
@@ -2031,29 +1990,20 @@ fomochkin_anton     4
 chieftainh02        3
 Philipp Polishchuk  2
 riccardowaldorf     2
-"It Will Happen Tonight (Succederà Questa Notte)" (Nanni Moretti, I) [Competition]
-"It Will Happen Tonight (Succederà Questa Notte)" (Nanni Moretti, I) [Competition]
 
-
+"It Will Happen Tonight (Succederà Questa Notte)" (Nanni Moretti, I) [Competition]
 
 Jay Weissberg           https://variety.com/2026/film/reviews/it-will-happen-tonight-review-1236852720/
 #moiree
 Nicholas Bell            4
 Mariona Borrull Zapata   7
 Jordan Cronk             4
+Leonardo Goi             4
 David Katz               8
 Nanako Tsukidate         3
-
-#moiree.dat
-Nicholas Bell            4
-Mariona Borrull Zapata   7
-Jordan Cronk             4
-David Katz               8
-Nanako Tsukidate         3
+#letterboxd
 
 "Primetime" (Lance Oppenheim, USA) [Competition]
-
-
 
 Jessica Kiang           https://variety.com/2026/film/reviews/primetime-review-robert-pattinson-1236846988/
 #moiree
@@ -2068,38 +2018,29 @@ Beatrice Loayza          5
 Öykü Sofuoğlu         5
 Nanako Tsukidate         3
 Sonya Vseliubska         6
-Rory O'Connor           https://thefilmstage.com/venice-review-lance-oppenheims-primetime-is-a-thrilling-indictment/
-
-#moiree.dat
-Nicholas Bell            6
-Mariona Borrull Zapata   7
-Jordan Cronk             4
-Hugo Emmerzael           8
-Leonardo Goi             6
-David Katz               7
-Beatrice Loayza          5
-Öykü Sofuoğlu         5
-Nanako Tsukidate         3
-Sonya Vseliubska         6
 
 "The Echo Chamber" (Andrea Pallaoro, I) [Competition]
 
-
-
 Jessica Kiang           https://variety.com/2026/film/reviews/the-echo-chamber-review-1236847009/
 Ryan Lattanzio      B+   https://www.indiewire.com/criticism/movies/the-echo-chamber-movie-review-luca-marinelli-1235212896/
+#moiree
+Miriam Bale              7
+Nicholas Bell            7
+Jordan Cronk             6
+Nanako Tsukidate         2
+#letterboxd
 
 "Un Peu Avant Minuit (A Bit Before Midnight)" (Nicolas Pariser, F) [Competition]
 
+#letterboxd
 
 
 "L'Estranea" (Paolo Strippoli, I) [Competition]
 
+#letterboxd
 
 
 "Mr. Nelson, Did You Kill People?" (Shinya Tsukamoto, J) [Competition]
-
-
 
 Siddhant Adlakha    D+   https://www.indiewire.com/criticism/movies/mr-nelson-did-you-kill-people-review-1235214871/
 #moiree
@@ -2111,35 +2052,20 @@ Leonardo Goi             4
 Beatrice Loayza          0
 Nanako Tsukidate         4
 Sonya Vseliubska         6
-
-#moiree.dat
-Nicholas Bell            6
-Mariona Borrull Zapata   5
-Jordan Cronk             0
-Hugo Emmerzael           7
-Leonardo Goi             4
-Beatrice Loayza          0
-Nanako Tsukidate         4
-Sonya Vseliubska         6
+#letterboxd
 
 "Bunker" (Florian Zeller, F) [Competition]
 
+#letterboxd
 
 
 OUT OF COMPETITION — FICTION
 
 "Dio Ride" (Giovanni Veronesi, I) [Out of Competition] Closing Film
 
-
-
 "Nessun Dolore (No Pain)" (Gianni Amelio, I) [Out of Competition]
 
-
-
 #moiree
-Nanako Tsukidate         1
-
-#moiree.dat
 Nanako Tsukidate         1
 #letterboxd
 pit333              8
@@ -2418,6 +2344,9 @@ Daniel Shtam        1
 
 
 
+#moiree
+Hugo Emmerzael           9
+Sonya Vseliubska         9
 #letterboxd
 Not May Lily        7
 Vinci               5
@@ -2425,28 +2354,17 @@ Constant            5
 
 "Arrested Memory" (Sabu, J) [Out of Competition]
 
-
+#moiree
+Hugo Emmerzael           5
+David Katz               5
+Sonya Vseliubska         4
 
 "The Basics of Philosophy" (Paul Schrader, USA) [Out of Competition]
 
-
-
 Jessica Kiang           https://variety.com/2026/film/reviews/the-basics-of-philosophy-review-1236847014/
+Rory O'Connor           https://thefilmstage.com/venice-review-paul-schraders-the-basics-of-philosophy-is-too-inert-to-catch-fire/
 #moiree
 Miriam Bale              3
-Nicholas Bell            5
-Mariona Borrull Zapata   7
-Jordan Cronk             8
-Hugo Emmerzael           4
-Leonardo Goi             4
-David Katz               7
-Beatrice Loayza          7
-Öykü Sofuoğlu         4
-Nanako Tsukidate         4
-Sonya Vseliubska         2
-Rory O'Connor           https://thefilmstage.com/venice-review-paul-schraders-the-basics-of-philosophy-is-too-inert-to-catch-fire/
-
-#moiree.dat
 Nicholas Bell            5
 Mariona Borrull Zapata   7
 Jordan Cronk             8
@@ -2624,14 +2542,6 @@ David Katz               4
 Nanako Tsukidate         3
 Sonya Vseliubska         1
 
-#moiree.dat
-Mariona Borrull Zapata   5
-Jordan Cronk             4
-Hugo Emmerzael           0.5
-David Katz               4
-Nanako Tsukidate         3
-Sonya Vseliubska         1
-
 "Be Brave" (Francesco Carrozzini, I) [Out of Competition]
 
 
@@ -2646,11 +2556,6 @@ Sonya Vseliubska         1
 
 David Rooney            https://www.hollywoodreporter.com/movies/movie-reviews/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1236690777/
 #moiree
-Hugo Emmerzael           5
-Sonya Vseliubska         4
-Rory O'Connor           https://thefilmstage.com/venice-review-burgundy-is-a-light-and-stylish-journey-into-the-world-of-wine/
-
-#moiree.dat
 Hugo Emmerzael           5
 Sonya Vseliubska         4
 #letterboxd
@@ -2691,13 +2596,11 @@ Beatrice            4
 Xtravaganza         2
 thatlean            2
 Alessio Giuffrida   2
-"Musk" (Alex Gibney, USA) [Out of Competition]
-"Musk" (Alex Gibney, USA) [Out of Competition]
 
+"Musk" (Alex Gibney, USA) [Out of Competition]
 
 
 "The Road to Jericho" (Amos Gitai, IL) [Out of Competition]
-
 
 
 #moiree
@@ -2706,21 +2609,10 @@ Hugo Emmerzael           0
 Nanako Tsukidate         2
 Sonya Vseliubska         0
 
-#moiree.dat
-Mariona Borrull Zapata   5
-Hugo Emmerzael           0
-Sonya Vseliubska         0
-
 "Al Mowaten Osama (Citizen Osama)" (Ahmed Hassouna, PS) [Out of Competition]
-
-
 
 Ritesh Mehta        B   https://www.indiewire.com/criticism/movies/citizen-osama-review-1235215076/
 #moiree
-Hugo Emmerzael           8
-Sonya Vseliubska         8
-
-#moiree.dat
 Hugo Emmerzael           8
 Sonya Vseliubska         8
 
@@ -2743,17 +2635,12 @@ Sonya Vseliubska         8
 "My Undesirable Friends: Part II – Exile" (Julia Loktev, USA) [Out of Competition]
 
 
-
 Siddhant Adlakha        https://variety.com/2026/film/reviews/my-undesirable-friends-part-ii-exile-review-1236848647/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/my-undesirable-friends-part-ii-exile-review-julia-loktev-1236680858/
 Rory O'Connor           https://thefilmstage.com/venice-review-my-undesirable-friends-part-ii-exile-is-an-epic-continuation-of-julia-loktevs-fearless-endlessly-compassionate-portrait/
-
 #moiree
 Jordan Cronk             7
-Sonya Vseliubska         1
-
-#moiree.dat
-Jordan Cronk             7
+Nicolas Rapold           9
 Sonya Vseliubska         1
 
 "Boatbuilders" (Luke Lorentzen, USA) [Out of Competition]
@@ -2762,41 +2649,23 @@ Sonya Vseliubska         1
 
 "Imperium" (Sergei Loznitsa, UA) [Out of Competition]
 
-
-
 #moiree
 Jordan Cronk             6
+Leonardo Goi             8
 Beatrice Loayza          8
-Nanako Tsukidate         5
-
-#moiree.dat
-Beatrice Loayza          8
-Nanako Tsukidate         5
+Nicolas Rapold           6
+Nanako Tsukidate         6
 
 "Shumei — The Living Legacy of Kabuki" (Takashi Miike, J) [Out of Competition]
-
-
-
-#moiree
-Nanako Tsukidate         2
 
 #moiree.dat
 Nanako Tsukidate         2
 
 "Queer Edward II" (Theo Rollason, UK) [Out of Competition]
 
-
-
 Sophie Monks Kaufman A-   https://www.indiewire.com/criticism/movies/queer-edward-ii-review-derek-jarman-documentary-1235214808/
 Leslie Felperin         https://www.hollywoodreporter.com/movies/movie-reviews/queer-edward-ii-review-derek-jarman-documentary-1236691778/
-
 #moiree
-Mariona Borrull Zapata   8
-David Katz               7
-Öykü Sofuoğlu         7
-Nanako Tsukidate         3
-
-#moiree.dat
 Mariona Borrull Zapata   8
 David Katz               7
 Öykü Sofuoğlu         7
@@ -2804,17 +2673,12 @@ Nanako Tsukidate         3
 
 "Oasis: Don't Look Back in Anger" (Dylan Southern, Will Lovelace, UK) [Out of Competition]
 
-
-
 Elena Lazic             https://variety.com/2026/film/reviews/oasis-dont-look-back-in-anger-review-1236852875/
 Marshall Shaffer    B   https://www.indiewire.com/criticism/movies/oasis-dont-look-back-in-anger-concert-documentary-review-1235215103/
-
 #moiree
 Miriam Bale              5
 Jordan Cronk             5
-
-#moiree.dat
-Jordan Cronk             5
+Nanako Tsukidate         2
 
 "Weichen (Dust)" (Tsai Ming-liang, RC) [Out of Competition]
 
@@ -2826,21 +2690,19 @@ Jordan Cronk             5
 
 Ryan Lattanzio      B+   https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/
 Guy Lodge               https://variety.com/2026/film/reviews/everest-the-other-side-review-1236852376/
-
 #moiree
 Mariona Borrull Zapata   6
 
 "From Inside Out — The Architecture of Peter Zumthor" (Wim Wenders, D) [Out of Competition]
 
-
-
 Siddhant Adlakha        https://variety.com/2026/film/reviews/from-inside-out-the-architecture-of-peter-zumthor-review-1236853214/
+#moiree
+Hugo Emmerzael           7
+Öykü Sofuoğlu         5
 
 HORIZONS (ORIZZONTI)
 
 "La Ragazza Con La Leica" (Alina Marazzi, I) [Orrizonti] Opening Film
-
-
 
 #moiree
 Nicholas Bell            0
@@ -2848,7 +2710,11 @@ Nanako Tsukidate         0
 
 "Yak Mai (The Burning Giants)" (Phuttiphong Aroonpheng, T) [Orrizonti]
 
-
+#moiree
+Jordan Cronk             4
+Leonardo Goi             6
+David Katz               7
+Nanako Tsukidate         3
 
 "Cudze Rzeczy (What Belongs to Others)" (Grzegorz Dębowski, PL) [Orrizonti]
 
@@ -2864,29 +2730,17 @@ Nanako Tsukidate         0
 
 "Moragheb (Falling House)" (Mohsen Gharaei, IR) [Orrizonti]
 
-
-
 #moiree
 Jordan Cronk             4
 Nanako Tsukidate         2
 
 "Too Much Sugar" (Robert Greene, USA) [Orrizonti]
-"Too Much Sugar" (Robert Greene, USA) [Orrizonti]
-
-
 
 Leonardo Goi            https://thefilmstage.com/venice-review-in-robert-greenes-too-much-sugar-filmmaking-is-a-form-of-therapy/
 Guy Lodge               https://variety.com/2026/film/reviews/too-much-sugar-review-1236849981/
 Rory O'Connor           https://thefilmstage.com/venice-review-in-robert-greenes-too-much-sugar-filmmaking-is-a-form-of-therapy/
 Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/too-much-sugar-review-robert-greene-1236690139/
-
 #moiree
-Jordan Cronk             6
-Hugo Emmerzael           0
-Beatrice Loayza          6
-Nanako Tsukidate         2
-
-#moiree.dat
 Jordan Cronk             6
 Hugo Emmerzael           0
 Beatrice Loayza          6
@@ -3073,6 +2927,9 @@ elsie               1
 
 Miriam Balanescu    C   https://www.indiewire.com/criticism/movies/the-difficult-bride-review-rubaiyat-hossain-1235215181/
 
+#moiree
+Nicholas Bell            5
+
 "La Maison du Vent" (Auguste Bernard Kouemo Yanghu, CAM) [Orrizonti]
 
 
@@ -3085,11 +2942,15 @@ Miriam Balanescu    C   https://www.indiewire.com/criticism/movies/the-difficult
 
 
 
+#moiree
+David Katz               7
+
 "Oase (Oasis)" (Jannis Lenz, A) [Orrizonti]
 
 
 
 #moiree
+Nicholas Bell            6
 Jordan Cronk             4
 Nanako Tsukidate         3
 
@@ -3118,13 +2979,6 @@ Nanako Tsukidate         3
 
 "Eklipse" (Manuel Wetscher, A) [Orrizonti]
 
-
-
-#moiree
-Jordan Cronk             6
-David Katz               4
-Nanako Tsukidate         4
-
 #moiree.dat
 Jordan Cronk             6
 David Katz               4
@@ -3137,7 +2991,6 @@ Nanako Tsukidate         4
 VENICE SPOTLIGHT
 
 "Sumo: Spirit Weighs Nothing" (Erik Shirai, USA) [Spotlight]
-
 
 
 #letterboxd
@@ -3224,6 +3077,11 @@ tom                 3
 
 
 
+Jordan Mintzer          https://www.hollywoodreporter.com/movies/movie-reviews/hombre-al-agua-review-gael-garcia-bernal-1236693204/
+
+#moiree
+Jordan Cronk             3
+
 "Serpenti" (Roberto De Paolis Maino, I) [Spotlight]
 
 
@@ -3259,7 +3117,10 @@ FILMS ON FILMS
 
 "The Pervert's Guide to Utopias" (Sophie Fiennes, UK) [Films on Films]
 
-
+#moiree
+Öykü Sofuoğlu         6
+Nanako Tsukidate         3
+Sonya Vseliubska         9
 
 "Joie de Vivre" (Luca Guadagnino, I) [Films on Films]
 
@@ -3277,16 +3138,9 @@ VENICE DAYS (GIORNATE DEGLI AUTORI)
 
 "My Notes on Mars" (Lili Horvàt, H) [Venice Days] Opening Film
 
-
-
 Siddhant Adlakha        https://variety.com/2026/film/reviews/my-notes-on-mars-review-1236846812/
 Leslie Felperin         https://www.hollywoodreporter.com/movies/movie-reviews/my-notes-on-mars-mackenzie-davis-rupert-friend-lili-horvat-1236687265/
-
 #moiree
-Nicholas Bell            4
-Jordan Cronk             6
-
-#moiree.dat
 Nicholas Bell            4
 Jordan Cronk             6
 #letterboxd
@@ -3353,14 +3207,8 @@ Lottie              3
 Yorick_38           3
 Ettore Dalla Zanna  3
 ianblaken           2
+
 "Sadness Sometimes, Other Times Revolt" (Maria Aparicio, RA) [Venice Days]
-"Sadness Sometimes, Other Times Revolt" (Maria Aparicio, RA) [Venice Days]
-
-
-
-#moiree
-Mariona Borrull Zapata   9
-Jordan Cronk             7
 
 #moiree.dat
 Mariona Borrull Zapata   9
@@ -3368,9 +3216,9 @@ Jordan Cronk             7
 
 "Agata the Writer" (Kuba Dorabialski, PL/AUS) [Venice Days]
 
-
-
 Guy Lodge               https://variety.com/2026/film/reviews/agata-the-writer-review-mia-wasikowska-1236853234/
+#moiree
+Nicholas Bell            5
 
 "Balcanica" (Nicola Sorcinelli, I) [Venice Days]
 
@@ -3385,8 +3233,6 @@ Guy Lodge               https://variety.com/2026/film/reviews/agata-the-writer-r
 
 
 "I Plant My Hand in the Garden" (Boris Hadžija, Hoda Taheri, HR/IR) [Venice Days]
-
-
 
 #letterboxd
 Tem4ik              10
@@ -3439,6 +3285,7 @@ clesfilm            3
 fomochkin_anton     3
 fraffrr             2
 galileo1729         1
+
 "Les Indes" (Pauline Julier, Nicolas Chapoulier, CH) [Venice Days]
 
 
@@ -3482,22 +3329,14 @@ Siddhant Adlakha        https://variety.com/2026/film/reviews/our-share-of-sand-
 #moiree
 David Katz               3
 
-#moiree.dat
-David Katz               3
-
 "London" (Victor Di Marco, Márcio Picoli, BR) [Critics Week]
 
-
+#moiree
+Nicholas Bell            6
 
 "Zoom In, Zoom Out" (Dong Jie, PRC) [Critics Week]
 
-
-
 #moiree
-Jordan Cronk             6
-Nanako Tsukidate         4
-
-#moiree.dat
 Jordan Cronk             6
 Nanako Tsukidate         4
 
@@ -3508,12 +3347,9 @@ Nanako Tsukidate         4
 "Rider" (Roan Johnson, Davide Pavanello, I) [Critics Week] Out of Competition, Closing
 
 
-
 VENICE CLASSICS
 
 "Col cuore in gola (Deadly Sweet)" (Tinto Brass, I, 1967) [Classics] Pre-Opening
-
-
 
 #letterboxd
 Dave Jenkins        10
@@ -4592,7 +4428,6 @@ TudorLazescu        4
 talkingocean        4
 Bronze_Tiger        4
 Marchiaro           4
-♫⃠ ҉s҉c҉h҉w҉a҉r҉z҉w҉ä҉l҉d҉e҉r҉7҉0҉#-1 4
 MarksAngels         4
 JB1993              4
 brian abrams        4
@@ -4779,354 +4614,8 @@ Samik Bhattacharya  1
 chrischr            1
 Christofer Pallu    1
 Carlos Cano         1
-PETER 🍅             8
-⸸کسریٰ⸸             8
-Art istic           8
-Noey Miller         8
-Ciicero11           8
-evgeniia_d          8
-David McMillion     8
-Zack Perez          8
-edGgg               8
-Zwirn_GSN           8
-Firuza              8
-lucaaCTMHATER       8
-jusloe              8
-Realitea            8
-Garota Sem-Nome     8
-solsientateaqui     8
-somebody’s suzanne or طِيف 8
-Stephan73           8
-ahurtadillass       8
-Za22                8
-Lifercita           8
-Ethan               8
-Mr Minio            8
-Sudip_007           8
-syayi               8
-gwagwa500           8
-Mubthadis Sha       8
-verónica            8
-drellaaa            8
-perryhoulgrave      8
-Elvis               8
-Dax Andress         8
-Em_Cotz             8
-Selman Sertkaya     8
-dreamylullaby       8
-Jocelyn Bannon      8
-Amanda Wagner       8
-Pedro Caetano Eboli Nogueira 8
-angel               8
-Tatiana Bakina      8
-Maniloveithere      8
-dmr08               8
-Fulci71             8
-cueboy2k5           8
-ilksenpai           8
-Kurazu              8
-FedericoToni        8
-LeFantastique       8
-JCGavancho          8
-alxdregomes         8
-David Heslin        8
-Da_Le               8
-peiruza             8
-Nick Gatsby         8
-Mahssa              8
-ChasDevlin          8
-Victor Lima         8
-CarmelitaSays       8
-The Movie Journal   8
-John                8
-Matt Winfield 🇨🇦    8
-isitanart           8
-woody73             8
-Tony                8
-openedspace         8
-giammarcor          8
-MrMycroft           8
-EmanuelR9           8
-raimi74             8
-mgbee               8
-DrVertigox          8
-houseofmirrors      8
-K0PFKIN0            8
-MattVW              8
-uplow               8
-Maldone             8
-DenisVilenkin       8
-Freakmaker          8
-_MVR_N3R0_          8
-briab               8
-asha93              8
-A_Xolotl            8
-dargelos616         8
-AlexPalm18          8
-Nick Curnow         8
-bitterduck          8
-Saul Mendez Filho   8
-Ramberto de RAM     8
-Grendelsmovies      8
-Lal 🇵🇸              8
-Jesus GE            8
-RKeaton             8
-ppioppeto           8
-enkiv2              8
-JaumeMuntane        8
-HowToSheep          8
-Darius Azadeh       8
-Oberon              8
-chantalolivia       8
-Lucid Pipedream     8
-tan_corre           8
-David Parker        8
-BellaTar            8
-celineashley        8
-Enrica              8
-Tiina Brown         8
-Amy Green           8
-wendyvortex         8
-Mimuschka           8
-theocecato          8
-Matthew Sweet       8
-Sean Levin          8
-Thainá María        8
-camille2000         8
-Uğur                8
-Edith               8
-Skovmand            8
-thefountman         8
-martianz            8
-TimeTrap            8
-duck                8
-Ernest Mathijs      8
-Mikael Knutsson     8
-Valentín Aman       8
-milkofwildbeats     8
-Artur Ilha Breton   8
-busrauyarimsi       8
-jduralba            8
-pushkinvlad         8
-didi                8
-Brent Nicolaes      8
-Lavinia             8
-Furkan              8
-David Moura         8
-KamilPPP            8
-Ângelo Samuelson    8
-Count Napierkowska  8
-Tobias Sunderdiek   8
-SoyMilker           8
-lindgina            8
-Charly Dreyfuss     8
-deidara             8
-ZincAlloy23         8
-kokki_running       8
-macianci            8
-ελισάβετ            8
-raeoush             8
-gershbec            8
-EvilNed             8
-hermetic_steve      8
-DickScott           8
-katninteau          8
-Chrillshit          8
-Bob Fish            8
-BijitaQ             8
-pallieter           8
-Lefty Sniggins      8
-FritzMagoo          8
-James Tallis        8
-WllmClys            8
-Henry Covert        8
-Amelia🍓             7
-zeglerr             7
-Clelia de Calonne   7
-eva_luc             7
-ilariaing           7
-Max Borg            7
-Elia_Amato          7
-flynn_rider         7
-Federica            7
-Bart                7
-mardalt             7
-Fabgamer2006        7
-Ani                 7
-gugga74             7
-Babel17             7
-Valerio Contu       7
-Jeremy BRZLBZL      7
-9Alter              7
-QuentinDinero       7
-Eurotrash           7
-coasterburn         7
-Dave Starry         7
-marianna            7
-Hausuu              7
-itsyaboii           7
-title54             7
-Gunn                7
-Ian_M               7
-aleksag             7
-Erical              7
-simonespall         7
-Andreas_W           7
-GinoLuzzi           7
-jsc                 7
-sgha                7
-Sergey Afanasyev    7
-Slug68              7
-HongouTakeshi       7
-bugfang             7
-parsakianoush       7
-Daniel Caetano      7
-Kleiton Tariga      7
-d::::.::::          7
-dboon102            7
-erset               7
-wildbillsghost      7
-wiktoria            7
-emilio oliveira     7
-kirilldky           7
-PulpMonkey          7
-miserrimus          7
-NoNeck              7
-EdAmaro1986         7
-Keenan              7
-Wes                 7
-Felpaaaugh          7
-Trasnetul           7
-Guille_Cheti        7
-hereislipe          7
-Aveerdeado          7
-Marchetto13         7
-Elena               7
-bjo                 7
-Mila                7
-Carmen Mezincescu   7
-poorlittlerichgirl  7
-gregor_taar         7
-Karaleigh 💖         7
-lobotomygroupon     7
-uomoverruca         7
-JacolineMaes        7
-davidebrock         7
-Calebe Lopes        7
-Morgan              7
-Alain_Delong        7
-petal               7
-Karold de Woodenshmog 7
-🧸🧁🫧🐇                7
-Gjulia              7
-John Toews          7
-florencia           7
-NeoPneumokok        7
-minkystarshine      7
-auntiegrezilda      7
-8x_x8               7
-John                7
-Fogus               7
-Marble Index        7
-Eleonora_Duse       7
-Kris                7
-thedudefrommars     7
-andreaparigi        7
-Dan                 7
-Simon Moon          7
-Bloody Moon         7
-Kei                 7
-MaviOriB            7
-michael__           7
-Trav Linthicum      7
-FrancescoDoma       7
-Jeff Koch           7
-Christian Scheffel  7
-chamois             7
-bolcott95           7
-Plissken26          7
-Therizzbo           7
-Steve               7
-Ἀντιγόνη            7
-mahoneychops        7
-Gulkaya             7
-Jeannette Gabrielle 7
-glowl               7
-devynnevelynn22     7
-Giallo86            7
-Jason Sutter        7
-jeffmccarty         7
-Açil Teboul         7
-Ayrtondin           7
-Keith McKenney      7
-ScunnerDarkly       7
-Patatuela           7
-Tommasi86           7
-Gerald Kuklinski    7
-myrtillis           7
-Luisa Vieira        7
-Buffi               7
-Gabriele Gessner    7
-the intercostal clavicle 7
-psicopompo93        7
-Sébastien Coutu     7
-SunO2               7
-Klayz               7
-James               7
-Mai Mai💫            7
-Daniel Waldermar    7
-Ben Hecking         7
-Luan César          7
-plmd                7
-Tamiris             7
-BigJDog             7
-Luke Ormsby         7
-KadirFrame          7
-Johnny_M            7
-JLAlbernaz          7
-Tayfun Eker         7
-*Insert film reference* 7
-yagmur              7
-Jacopo Gramegna     7
-Rafael              7
-Felipe              7
-TheThirdPill        7
-Lukas               7
-Spike3o0o           7
-holeintheroad       7
-Ramin S. Khanjani   7
-Andrew              7
-goudgie             7
-Patrick Crain       7
-Peter Webb          7
-Mahjong_Nor         7
-Freddofilms         7
-Gidan               7
-shadowgraphs        7
-Jules               7
-Kevin Kogin         7
-mhisgm              7
-Vladimir            7
-LouisZZZ            7
-Marvin Meiendresch  7
-Juliana Costa       7
-gabragonesi         7
-Black Maria Film Collective 7
-Liam Devitt         7
-DennisAE            7
-jeroenmaes          7
-Denis García        7
-Gino Paoli          7
-Edvards             7
-agneix              7
-DenMicke            7
-lola                7
-petersmeets         7
-Ian West            7
-"English, August" (Dev Benegal, IND, 1994) [Classics]
-"English, August" (Dev Benegal, IND, 1994) [Classics]
 
-
+"English, August" (Dev Benegal, IND, 1994) [Classics]
 
 #letterboxd
 nixton              10
@@ -7370,10 +6859,8 @@ José L.             2
 aalonsogro          1
 reze                1
 IM_A_SAUDI          1
-"Minnie and Moskowitz" (John Cassavetes, USA, 1971) [Classics]
-"Minnie and Moskowitz" (John Cassavetes, USA, 1971) [Classics]
 
-
+"Minnie and Moskowitz" (John Cassavetes, USA, 1971) [Classics]
 
 #letterboxd
 fideligorevich      10
@@ -11209,10 +10696,9 @@ big_rat             10
 Samuel Rafuse       10
 Yousef              10
 Lucas Irusta        10
-"The Uncle from Brooklyn (Lo Zio di Brooklyn)" (Daniele Ciprì, Franco Maresco, I, 1995) [Classics]
-"The Uncle from Brooklyn (Lo Zio di Brooklyn)" (Daniele Ciprì, Franco Maresco, I, 1995) [Classics]
 
 
+"The Uncle from Brooklyn (Lo Zio di Brooklyn)" (Daniele Ciprì, Franco Maresco, I, 1995) [Classics]
 
 #letterboxd
 Alessandro2000      10
@@ -14738,393 +14224,8 @@ Katie               1
 Alex_K              1
 stella              1
 GeorgeAddison       1
-ELDUDE79            10
-wenesuznx           10
-Mike Evans          10
-Antoine Counotte    10
-Fatih_kabir         10
-Matt                10
-Joseph Mccarty      10
-lailagevs4000       10
-lailagevs40000      10
-CR666               10
-A_Graven_Kiss       10
-Shane Christmass    10
-victoria            10
-Shy Tandon          10
-NoSand              10
-greaf_              10
-chadmcbacon         10
-Ze Alexiño          10
-Carlos              10
-StreetTrash86       10
-Will Hush           10
-violenttfemmee      10
-Alex Mountfort      10
-Dpk800              10
-EZ slack            10
-Ankit Mallik        10
-VenerealCurds       10
-NicoleBiagi         10
-lilicook_           10
-BoredtoDeath        10
-jetiton             10
-AndyDuncan2025      10
-Miguel Clark        10
-G.B. Jones          10
-curtis3434          10
-GinoFlori           10
-Joe Kapish          10
-TheStrip            10
-John Brennan        10
-Cabestr O___        10
-Ben Reiss           10
-Rob Kong            10
-FilmFanKill         10
-Lee Lynch           10
-Guztav              10
-gustavv616          10
-Camélia Ferwela     10
-🍁 Sergio Alatorre 🍁 10
-RazorsEdge92        10
-Judahman47          10
-themiddlepillar     10
-Mikey Bowen         10
-mandylyn            10
-Golondrina          10
-GheronTKilla        10
-Dottore_Gonzo       10
-Marcelo Tinoco      10
-¢on man             10
-Kirsan              10
-Gordo               10
-Abel Mennessier     10
-Andy Duncan         10
-𓋹 efruz افروز       10
-Anthony Prieto      10
-pmcalarn17          10
-Hedy Scarlett       10
-robahull            10
-Mona Mo             10
-Andy Petty          10
-Petter Baiestorf    10
-SavageMaster        10
-SleepySpaghetti     10
-Brent Anthony Snyder 10
-happy_kewpie        10
-Ian Zwaschka        10
-Ayal Senior         10
-H Rasmusson         10
-joaopedrofaro       10
-Hamidreza Mozhdehi  10
-ledrew420           10
-mrcritter           10
-69AM69              10
-Timothy             10
-Mak                 10
-Dawn                10
-Sean Kilpatrick     10
-Cody Smith          10
-kim dill            10
-jfd76               10
-nieveboliviana      10
-s1em                10
-Stephen             10
-duncadelic          10
-AtomicDredd77       10
-LuizArthur          10
-valis               10
-lsd                 10
-Wynn                10
-Hallenbeck          10
-si kendrick         10
-Flash Madison       10
-Neil Sarver         10
-guyindo             9
-Junior              9
-maxkrubsack         9
-Todd Nichols        9
-leevancleef00       9
-Scott Andrew Hutchins 9
-drkwanda            9
-lionstail           9
-Victor Torres       9
-Jhonathan Cardoso   9
-Paylayale           9
-Rodrigo Alcantara   9
-prisoner701         9
-JT Lindroos         9
-Jeff                9
-Caleb Bowles        9
-John_M              9
-Brett Gibson        9
-CanailleBleue       9
-bigguy13            9
-Jacksonaux          9
-Silas               9
-Сережа Кулешов      9
-thiago gondim       9
-seldomherd          9
-valentín            9
-hurryonsundownr     9
-DaniellThorr        9
-Vikrant             9
-Syd Sutherland      9
-Nicolás             9
-Mo Rutherford       9
-King Zalman         9
-DaveMugicaRey       9
-Kegan Day           9
-Angus               9
-Occult1986          9
-Rodrigo Coelho      9
-Be.H. Taash.        9
-Jay                 9
-pj_raven            9
-joao guilherme      9
-Iago Seabra Rodrigues 9
-Guilherme Martins   9
-Giants_and_Toys     9
-rafael              9
-Grendelsmovies      9
-valbo               9
-lazymacbeth         9
-Dalton Sherman      9
-Ben Drummond        9
-Madison             9
-jeffdove            9
-Sparks Lowry        9
-David Bax           9
-Spencer Filichia    9
-Isaac Williams      9
-Paul Himmel         9
-Sean Byron          9
-MillsAA             9
-nagoya              9
-Mangloid            9
-Marco Castellaro    8
-AlphaBlaze86        8
-jess                8
-gaтoѕĸυro           8
-0lamine             8
-Reem                8
-William             8
-Derek Estes         8
-IngeniousJezza      8
-psssiccco           8
-Alfie_Morrison      8
-LesterBureau        8
-Don José            8
-PY3                 8
-PaU_M_SZ            8
-wtruchin            8
-Nate                8
-David Walsh         8
-jes52               8
-Cece1265            8
-Vicious_A           8
-michaelpapcun       8
-Aster               8
-kenmorris           8
-loquedo666          8
-That Muggle Struggle 8
-Bob_Ohn             8
-LoserBlues          8
-Justin Head         8
-Kendzi              8
-Johnny              8
-Gonzalo Cámara      8
-David Arrate        8
-Nixon               8
-panchogalan         8
-jmath7              8
-Katie2345           8
-taleran             8
-jhaynes25           8
-L.S.D               8
-tao                 8
-blackwota           8
-Arian               8
-Adamhoughton86      8
-Pinhed01            8
-weensuperfan420     8
-Huginyo             8
-ajgoda              8
-JustAddZombies      8
-BirthOfANewDay      8
-janelledodson       8
-temna_kultura       8
-Pedro               8
-Sigfridmonleon      8
-Vittorio Barbieri   8
-BillMartigan        8
-The Quarry Club     8
-Jvalosky            8
-SloMar666           8
-coffeegirl          8
-Omar M.             8
-gwagwa500           8
-CinemaFairway       8
-tedydeltoro         8
-Kurt237             8
-mario               8
-Rafa                8
-Cortes Cortes       8
-HennisDopper        8
-Sean Katzoti        8
-Millie Harte        8
-Chris Old           8
-elpotelo            8
-Leonardo Silva      8
-slay_rabbit         8
-MateusVogel         8
-brendanspengler     8
-ElFaboP             8
-ChoyingZopa         8
-redchromefish       8
-Eugenio Fronteddu   8
-mateosuarez         8
-Dante080            8
-rinokerin           8
-Suarez              8
-stephanie           8
-newsadist           8
-Chiefmonk           8
-MasqueDemon1960     8
-jubul               8
-Astron_Demian       8
-Lisa Marie Bowman   8
-Zeta                8
-Benjamin Crabtree   8
-willcl_1            8
-JetplaneJordan      8
-littlejazzstain     8
-inafeverdream       8
-Kyle Huffman        8
-Mathieu             8
-Seb Peri            8
-cenobiteoz          8
-August_Alvarado     8
-Christopher Kniep   8
-ZappaRules          8
-Matthew Rivera      8
-Ogenerik            8
-Dennis St.-P.       8
-Tanque95            8
-horizonteazul       8
-Zenel               8
-ArchStanton1958     8
-Nosoki              8
-michadel            8
-stefan_rudigier     8
-LordDescole         8
-M1neava             8
-maxim87             8
-MartinBrown123      8
-josepedro           8
-HunkyKubrick        8
-Maniloveithere      8
-BlackGoogle         8
-JBoneMalone         8
-Russell Henry       8
-Alexa               8
-vladdd1             8
-Kyle W. Sutton      8
-tendermutton        8
-ScaryPeenGame       8
-gabejp              8
-Nahuel Segade       8
-ericlepatron        8
-Jyoji               8
-FilmsInSight        8
-devon0611           8
-JackCarr14          8
-MrPickles7          8
-Matias              8
-bigsmoov            8
-HorrorGod666        8
-Jordan              8
-El DaCosta          8
-Neil Fox            8
-billie123           8
-Krzysztof Ryszard Wojciechowski 8
-deadite666          8
-Jeff Koch           8
-Mikey Flixx         8
-Kevin Casciani Nolan 8
-smiledronecan       8
-MayorOfTheGrove     8
-Jamie Burns         8
-jhodo               8
-Sulo Heikkola       8
-bertalanhuszar      8
-kennelco            8
-normanyoungx        8
-Brai                8
-praki               8
-Robbie Christensen  8
-EmSkellington       8
-dario_rosa          8
-eviltwin72uk        8
-Duane Porter        8
-Harry               8
-Banjamin            8
-Jason               8
-Wish Hsu            8
-Robert ʕ⁎̯͡⁎ʔ༄      8
-DrVertigox          8
-jack___willow       8
-Bee Puncher         8
-kherfromhora        8
-Kaiyu0121           8
-mgoble              8
-Francisca Kinski    8
-Dri Tinoco          8
-JohnMcMinn          8
-Tumppi              8
-Tadeu Bijos         8
-Marius17            8
-Gary Parks          8
-Stephen Gott        8
-Newt Nite           8
-pon                 8
-franny              8
-niko_kris           8
-cllk                8
-ken42               8
-Squid Monk          8
-serge1997           8
-Beatriz             8
-Tex Page            8
-Marcelo Gonzalez    8
-Jack Rourke         8
-sensimilius         8
-Brad                8
-osu941              8
-Aysenur4444         8
-Jason Watson        8
-sa_leao             8
-Nadeem80            8
-Gerry_Grrr          8
-CptMidnight         8
-Adam Neal           8
-Stavronin           8
-tedcogswell         8
-Lucas Teodoro       8
-lilgrandpa69        8
-Bram_Kawa           8
-Maksimushka         8
-eknoper             8
-Açil Teboul         8
-John Dedeke         8
-Pekka Sakari        8
-Mike DeRonda        8
-JakeJarmel          8
-Freakmaker          8
-"Los de la Mesa 10 (Those at Table 10)" (Simón Feldman, RA, 1960) [Classics]
-"Los de la Mesa 10 (Those at Table 10)" (Simón Feldman, RA, 1960) [Classics]
 
-
+"Los de la Mesa 10 (Those at Table 10)" (Simón Feldman, RA, 1960) [Classics]
 
 #letterboxd
 guaaaaaat           10
@@ -15270,10 +14371,8 @@ KmiQueen            4
 karodeluxe          3
 Açil Teboul         3
 brendu              1
-"The Blue Eyes of Yonta (Udju Azul di Yonta)" (Flora Gomes, GW, 1992) [Classics]
-"The Blue Eyes of Yonta (Udju Azul di Yonta)" (Flora Gomes, GW, 1992) [Classics]
 
-
+"The Blue Eyes of Yonta (Udju Azul di Yonta)" (Flora Gomes, GW, 1992) [Classics]
 
 #letterboxd
 Mahmoud             10
@@ -15487,11 +14586,8 @@ Edward Smyth ✨      4
 Ruca_63             2
 heavgal             2
 MundoF              2
-"The Story of Woo Viet" (Ann Hui, HK, 1981) [Classics]
-"The Story of Woo Viet" (Ann Hui, HK, 1981) [Classics]
-"The Story of Woo Viet" (Ann Hui, HK, 1981) [Classics]
 
-
+"The Story of Woo Viet" (Ann Hui, HK, 1981) [Classics]
 
 #letterboxd
 Bror                10
@@ -16504,10 +15600,8 @@ FilmBuffJoe         7
 Trevor              7
 Shadownoketsu       7
 Odsoo               7
-"Valerie and Her Week of Wonders" (Jaromil Jireš, CZ, 1970) [Classics]
-"Valerie and Her Week of Wonders" (Jaromil Jireš, CZ, 1970) [Classics]
 
-
+"Valerie and Her Week of Wonders" (Jaromil Jireš, CZ, 1970) [Classics]
 
 #letterboxd
 🇪█▄ █ ▞▚ █▀█ ▞▚     10
@@ -20069,10 +19163,8 @@ HastingsChurl       10
 riashamay           10
 hebaaaaaa           10
 Akii                10
-"Yesterday Girl (Abschied von Gestern)" (Alexander Kluge, D, 1966) [Classics]
-"Yesterday Girl (Abschied von Gestern)" (Alexander Kluge, D, 1966) [Classics]
 
-
+"Yesterday Girl (Abschied von Gestern)" (Alexander Kluge, D, 1966) [Classics]
 
 #letterboxd
 mylifebadcoffee     10
@@ -22514,10 +21606,8 @@ glcngckn            1
 DrehkickYo          1
 RomyNero            1
 CarlosERM           1
-"To Be or Not to Be" (Ernst Lubitsch, USA, 1942) [Classics]
-"To Be or Not to Be" (Ernst Lubitsch, USA, 1942) [Classics]
 
-
+"To Be or Not to Be" (Ernst Lubitsch, USA, 1942) [Classics]
 
 #letterboxd
 Blanca Figueroa     10
@@ -26304,10 +25394,8 @@ Devin Schneider     10
 Ritz_carl           10
 jofremb             10
 Fiacrebleu          10
-"On the Beat (Minjing Gushi)" (Ning Ying, PRC, 1995) [Classics]
-"On the Beat (Minjing Gushi)" (Ning Ying, PRC, 1995) [Classics]
 
-
+"On the Beat (Minjing Gushi)" (Ning Ying, PRC, 1995) [Classics]
 
 #letterboxd
 Horace Lu           10
@@ -26428,11 +25516,8 @@ Ziv                 4
 forgetDanger        4
 Steve               3
 designermark        2
-"Cul-de-sac" (Roman Polanski, UK, 1966) [Classics]
-"Cul-de-sac" (Roman Polanski, UK, 1966) [Classics]
-"Cul-de-sac" (Roman Polanski, UK, 1966) [Classics]
 
-
+"Cul-de-sac" (Roman Polanski, UK, 1966) [Classics]
 
 #letterboxd
 mukpogle_07         10
@@ -31035,10 +30120,8 @@ zinniaflowerbud     10
 Pigeon Dreadful     10
 mojitoholic         10
 Judith_cf           10
-"Journey to Italy (Viaggio in Italia)" (Roberto Rossellini, I, 1953) [Classics]
-"Journey to Italy (Viaggio in Italia)" (Roberto Rossellini, I, 1953) [Classics]
 
-
+"Journey to Italy (Viaggio in Italia)" (Roberto Rossellini, I, 1953) [Classics]
 
 #letterboxd
 david               10
@@ -35071,10 +34154,8 @@ vitorramalho        10
 Jonathan Morgan     10
 Evandro Fontinele   10
 arthur brandão      10
-"Ugly, Dirty and Bad (Brutti, Sporchi e Cattivi)" (Ettore Scola, I, 1976) [Classics]
-"Ugly, Dirty and Bad (Brutti, Sporchi e Cattivi)" (Ettore Scola, I, 1976) [Classics]
 
-
+"Ugly, Dirty and Bad (Brutti, Sporchi e Cattivi)" (Ettore Scola, I, 1976) [Classics]
 
 #letterboxd
 nello_andrieri      10
@@ -39453,430 +38534,12 @@ Zen                 8
 Luka                8
 Murta               8
 ntoniovskij         8
-BRUTTIeSPORCHI      10
-ZatteoMamuner       10
-Carl                10
-Pedro Réquio        10
-Jorge Cruz          10
-Lara                10
-Claudio Evangelista 10
-interdonatos        10
-frank__99           10
-Francesco Macchi    10
-Fantasma1979        10
-JeremieC            10
-Emanuele Manfrè     10
-errecapitale        10
-_Apache_            10
-Andrea Petrella     10
-Simone Loi          10
-Sardons             10
-Loane Phos          10
-alessandrofigus     10
-Trex1988            10
-chiaragheller       10
-Mohsen Salmani      10
-ivanSte             10
-Latorre             10
-Tommy99             10
-Il Gianlu           10
-Xosé M. Fdez.       10
-unknown             10
-Pablicco            10
-Endkadenz17         10
-fazcuidado          10
-Mikistrangelove     10
-GranTorino1972      10
-Giorgi🌻             10
-mari_vegetal        10
-moisesdaher         10
-leilache            10
-Calamaro_secco      10
-grebanno            10
-__jonas14__         10
-The Super Picchio   10
-Sara                10
-Chocklotte          10
-DiscipleM           10
-Candido Malta Campos 10
-FedericoFloridi     10
-lebaminoba          10
-Dmitrii Ustiantsev  10
-tommasovalenn       10
-gemma 彡☆            10
-Yannis Haouimdi     10
-alebar97            10
-Mouchette1979       10
-braindead04         10
-Sav                 10
-moondayz612         10
-exmaja              10
-Samuele             10
-Tony                10
-Tood                10
-rodolf              10
-readersblock        10
-Lidia_DG            10
-nontipermettere     10
-Gabelele18          10
-Mhdvhmd             10
-alessandro          10
-katcort             10
-osvaldo01           10
-Corviuz_            10
-Mattia Bonanomi     10
-Cristian Puscasu    10
-A_Good_fella        10
-Francesca           10
-cristianooo06       10
-monicelli           10
-romannn00           10
-ElpashevKirill      10
-francobianchi       10
-astrablu            10
-Faby68              10
-raph_TDA            10
-pezima77            10
-elkras              10
-willdeepwebbox      10
-vinceviotti         10
-giogio74            10
-Ceciliano Claro     10
-CorbeauCosmique     10
-lory73              10
-g_fiuza             10
-neverending_        10
-Giu Guerrero        10
-fedkailforzato      10
-Edumetta            10
-GN95cph             10
-TheStrip            10
-Chakra15            10
-fistanhanim         10
-Bertille Zenobie    10
-Melania             10
-Ichitheloverkil     10
-MarcoCaboni         10
-Pino_lv             10
-adam_wilde          10
-arralam             10
-AndreaCiventi       10
-mandariino          10
-m5bb                10
-chiritsubaki        10
-Leolita             10
-riccardoruscio      10
-alemarzia           10
-miguelix1970        10
-Malandaeta          10
-Fernanda_BM         10
-nadia1972_          10
-vicefont            10
-Daniela Panzavolta  10
-Porcoddena          10
-Remedioz            10
-degega              10
-Jus78               10
-danielbombolon      10
-emerydfox           10
-Previmike           10
-Danilo Cannizzaro   10
-Arepa_Fondue        10
-deybi85             10
-MuitosSantos        10
-rens97              10
-devolger            10
-ujm                 10
-BobHC               10
-Marcomon            10
-Lisa                10
-Matteo Russo        10
-Pietro Macaione     10
-pirolo              10
-desar91             10
-Martin Jansson      10
-Nahuel Lerena       10
-OG_Minh             10
-tornituldefresn     10
-555manu             10
-solomoris           10
-victorcharlie       10
-RadioBelina         10
-undergrounduser     10
-stewel              10
-Dradri Manovale     10
-Cintiaodila         10
-vauzze              10
-Emy                 10
-rantun              10
-Filobus             10
-Cultcinecloset      10
-Reni Schneider      10
-Bianca              10
-Federico Capogrosso 10
-ari★                10
-bidon22             10
-ginoxgliamici       10
-toech73             10
-TheLastScene        10
-edoalcinema         10
-CapiTutti           10
-elisa baudoin       10
-pedrosmarques       10
-SamPortera          10
-Gabriel Mariaca     10
-maddfilms           10
-Moura07             10
-Lollus97            10
-dod315              10
-Amanda              10
-paridino            10
-RealBatman31        10
-Lucifaux            10
-edonias             10
-Hoordad             10
-Er Matto Berlusconi 10
-Dan_Ann             10
-leonardoyrn         10
-aurorapi_           10
-Francesco Corleone  10
-Poupouye            10
-Yann_Mikiza         10
-GvantsaUCLA         10
-francisca29         10
-Bread               10
-clement1298         10
-pedropastorius      10
-Eliranos55          10
-Bidule3000          10
-_Sadinger_          10
-jmf7659             10
-Sysyphus            10
-silvanig            10
-jpedromarques       10
-lboudboud           10
-Bailemanito         10
-Frank Accio         10
-Alrose_alrose       10
-andrecinefilo       10
-mimmivarre          10
-Prodbythedude       10
-F_A_C_U_N_D_O       10
-afx_twin            10
-rennyfre            10
-GrregPebble         10
-Iluscine            10
-PaulEswai           10
-catarinasergon      10
-Nioluu              10
-woper               10
-JMorden             10
-CR666               10
-Sergioooooooo       10
-Giorgitripoli       10
-vanjadedic          10
-yardenasheery       10
-pinkopi             10
-Gianlu2001          10
-Doctor_SFD          10
-Andrew              10
-Pilar92             10
-moovie              10
-MattiaBiancucci     10
-candela             10
-SophieK111          10
-Nicolas QUELLIER    10
-tisachigaga         10
-Odasso              10
-Jukamadu            10
-Tom Ate             10
-florbelaespanca     10
-miikeclasico        10
-slonich             10
-GorcaWurdalak       10
-adamb23             10
-annuyashka          10
-honifischer         10
-frankbell66         10
-chicodafita         10
-marcoxantonio       10
-federicoriccitelli  10
-torenz_             10
-Jekuto              10
-Pedro Miranda       10
-Didicomefosseunabambola 10
-babstomorroww       10
-Mat423              10
-riciricio           10
-teomasta            10
-erri22              10
-CapKilgoreTrout     10
-tanix_tanix         10
-Santiago Trejo      10
-blipsich            10
-Vincent Chevalier   10
-samuel mancini      10
-cammarezza          10
-Ilpadrino18         10
-_kole               10
-Gioecheve           10
-apotelthor          10
-mentuchi            10
-malancana           10
-RiveDroite          10
-Irfan               10
-Dolteo              10
-Slavi               10
-André Pouce         10
-Drogonaut           10
-RobZech             10
-FlavioRachele       10
-Mohammed2422        10
-Flaverine           10
-hk67                10
-pietroroberto       10
-Graziela            10
-vlch                10
-Aldo10x             10
-day_by_night        10
-sysdef              10
-samfromhell         10
-luisbordaloesa      10
-PNZ_74              10
-alexgio             10
-MonkeySlutt         10
-Moniak59            10
-claudia             10
-cielo2209           10
-TS0                 10
-IvanGrozny_44       10
-BARREIR0            10
-Muzzip              10
-SavageArt           10
-Pierre_Salich       10
-FloZlo              10
-Sanne Schoenmaker   10
-Antonio Mirizzi     10
-flavia4l            10
-hamed17             10
-Raskolnikov222      10
-notgasparnoe        10
-rafifns             10
-LuigiZottola        10
-Papizia             10
-cinemaniaaa         10
-tajweed29           10
-Koba_222            10
-stefanosr71         10
-Lovecraft83         10
-Jacopo Tassinari    10
-Nikka               10
-Ghost Eyes          10
-josemari1           10
-octavchelaru        10
-Gui Spada           10
-vitormramos         10
-Paolo               10
-Crispintora         10
-Polux313            10
-Kusanagi            10
-_J_B_               10
-odettelgv           10
-alextes75002        10
-Loldu               10
-nostrovatus         10
-sarabhmme           10
-skiletto75          10
-Edoardo             10
-claudia             10
-Stefcapotosti       10
-Francesco           10
-Daniel Sorge        10
-Stratosfear79       10
-alexmcl             10
-carl_odaz           10
-_matiastorres_      10
-Johan Delétang      10
-SoulTides           10
-FraDeKia            10
-Naty                10
-Juliffe75           10
-Irisssssss          10
-Virgi ☾             10
-sorbollano          10
-stonerr78           10
-camiloduarte2       10
-AntonioAmarena      10
-ersambucone         10
-Megapollux          10
-noiseintheframe     10
-scentrata           10
-TeoTosone           10
-Tom                 10
-noapearce           10
-Fabrizio            10
-freyjagaia          10
-randomusernameu     10
-GiuseppeDF          10
-jeanpaul15862       10
-Ivaoreg             10
-svartavatar         10
-Gabriele            10
-loulla              10
-glk35               10
-Пленник Дракона     10
-stefouna            10
-lovre22             10
-tothebrightsun      10
-Alexalegio          10
-matsmagic           10
-RobMitchee          10
-Gio_VK              10
-Stefano Brescia 🇵🇸  10
-titustre            10
-Peter Raou          10
-DrWright            10
-Francesco Ferrante  10
-Diogo Bolinhas      10
-manueldocabo        10
-Mateus Nagime       10
-Roussa              10
-clarinette_r        10
-Arialdouze          10
-melinapodadera      10
-jorgecogollo        10
-Bautista Montenegro 10
-Vladimir            10
-Wilbaux             10
-Lauracipo           10
-PiraHxCx            10
-Jørg SantCross      10
-Frederico Baami     10
-Elenad975           10
-alexg502            10
-Fred Di Giacomo     10
-Gabriela Schmidt    10
-docfaro             10
-erikmans            10
-floot1              10
-Gaetano Cardozo     10
-zzooeeeeee          10
-Martina Lo Piccolo  10
-__a_erre__          10
-AmoAChantal         10
-José Carlos Rodrigues 10
-Noodless96          10
-james59             10
-pabetta             10
-refundido           10
-Tiago Albuquerque   10
-"The Catch (Gyoei no Mure)" (Shinji Sōmai, J, 1983) [Classics]
+
 "The Catch (Gyoei no Mure)" (Shinji Sōmai, J, 1983) [Classics]
 
 #moiree
 Roger Koza               5
 Diego Lerer              5
-
 #letterboxd
 viittoc             10
 readersblock        10
@@ -40625,10 +39288,8 @@ Hikōtei Jidai       6
 GuyAnger            6
 bas                 6
 gtbgoon             6
-"Long Night in '43 (La Lunga Notte del '43)" (Florestano Vancini, I, 1960) [Classics]
-"Long Night in '43 (La Lunga Notte del '43)" (Florestano Vancini, I, 1960) [Classics]
 
-
+"Long Night in '43 (La Lunga Notte del '43)" (Florestano Vancini, I, 1960) [Classics]
 
 #letterboxd
 GraziaGinger        10
@@ -41023,7 +39684,7 @@ Sofia               4
 nbats               4
 GiovanniAcerbi      4
 ‮انس‬               2
-"Ashes and Diamonds (Popiół i Diament)" (Andrzej Wajda, PL, 1958) [Classics]
+
 "Ashes and Diamonds (Popiół i Diament)" (Andrzej Wajda, PL, 1958) [Classics]
 
 
