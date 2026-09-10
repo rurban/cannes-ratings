@@ -54,9 +54,9 @@ sub _read {
     }
     $i++;
   }
-  my ($title_dir,$a,$n,$title,$s,$url);
+  my ($title_dir,$a,$n,$title,$s,$url,$is_lb);
   for (split /\n/, $DATA) { #chomp;
-    if (/^#/) { next; }     #skip
+    if (/^#/) { $is_lb = /letterbox/i ? 1 : 0; next; }     #skip, but track letterboxd sections
     elsif (/^(\(|http|\s+)(\S.*)/ and $title) { # film comments, links
       my $cmt = $1.$2;
       $cmt =~ s{(http\S+)}{<a href="$1">$1</a>};
@@ -66,7 +66,7 @@ sub _read {
       push @t, [$title_dir,$a,$n,$title] if $title_dir;
       $title = $1;
       s/[“”]/"/g; s/ \([\d.,]+\) \d+ votos//;
-      $title_dir = $_; $n = $s = 0;
+      $title_dir = $_; $n = $s = 0; $is_lb = 0;
     } elsif ($title and /\w[\w\)]+ \s+ (\d[\d\.]* | [ABCDEF][\+\-]?) ((?:\s+http\S+)?)$/x) {
       my $x = $1; $url = $2;
       $x = us_rating($x) if $x =~ /^[ABCDEF]/;
@@ -95,6 +95,7 @@ sub _read {
       $critic{$critic}->{title}->{$title} = [$x];
       $title{$title}->{critic}->{$critic} = [$x];
       $title{$title}->{review}->{$critic} = $url if $url;
+      $title{$title}->{lb}->{$critic} = 1 if $is_lb;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
       if (    !exists $critic{$critic}->{mag}
@@ -117,6 +118,7 @@ sub _read {
       $critic =~ s/\s+$//;
       $title{$title}->{critic}->{$critic} = [] unless $title{$title}->{critic}->{$critic};
       $title{$title}->{review}->{$critic} = $url;
+      $title{$title}->{lb}->{$critic} = 1 if $is_lb;
       $critic{$critic}->{cn} = $cn if $cn && !$critic{$critic}->{cn};
       $critic{$critic}->{mag} = $mag if $mag && !$critic{$critic}->{mag};
       if (    !exists $critic{$critic}->{mag}
@@ -274,14 +276,20 @@ sub _dump {
     $params_cn{$_}++ for (@$params_cn);
   }
   my (%params_g, $params_g);
+  my $no_lb = 0;
   if (Dancer::SharedData->request and params->{g}) {
     $params_g = ref(params->{g}) eq 'ARRAY' ? params->{g} : [ params->{g} ];
     $params_g{$_}++ for (@$params_g);
   }
   elsif (!$main::{"Dancer::App"} and $ENV{g}) {
-    # ARRAYREF of groups, split by ':'
-    $params_g = [ split ':', $ENV{g} ];
-    $params_g{$_}++ for (@$params_g);
+    if ($ENV{g} eq 'Letterboxd') {
+      # cmdline no-lb dump: skip ratings flagged as letterboxd (see lb flag in _read)
+      $no_lb = 1;
+    } else {
+      # ARRAYREF of groups, split by ':'
+      $params_g = [ split ':', $ENV{g} ];
+      $params_g{$_}++ for (@$params_g);
+    }
   }
   # find and mark badcritics
   for my $c (keys %critic) {
@@ -354,6 +362,30 @@ sub _dump {
 	$title{$t}->{avg} = $n ? $sum / $n : 0;
         $title{$t}->{critic}->{$c}->[0] = "-$bak" if $bak and $bak !~ /^-/;
       }
+    }
+  }
+  # no-lb mode (cmdline dump.sh no-lb): strike this specific rating when it was
+  # sourced from a #letterboxd section, per (title,critic), not globally by critic name
+  if ($no_lb) {
+    for my $t (keys %title) {
+      my @lbc = grep { $title{$t}->{critic}->{$_} } keys %{$title{$t}->{lb} || {}};
+      next unless @lbc;
+      for my $c (@lbc) {
+        my $bak = $title{$t}->{critic}->{$c}->[0];
+        $title{$t}->{critic}->{$c}->[0] = "-$bak" if defined($bak) and $bak !~ /^-/;
+      }
+      $title{$t}->{numcritics} = scalar keys %{$title{$t}->{critic}};
+      $title{$t}->{numreviews} = scalar keys %{$title{$t}->{review}};
+      my ($n,$sum) = (0,0);
+      for (keys %{$title{$t}->{critic}}) {
+        my $r = $title{$t}->{critic}->{$_}->[0];
+        if ($r and $r =~ /^[0-9]+/ and $r >= 0) {
+          $sum += $r;
+          $n++;
+        }
+      }
+      $title{$t}->{num} = $n;
+      $title{$t}->{avg} = $n ? $sum / $n : 0;
     }
   }
   @t = sort {
@@ -702,16 +734,16 @@ sub _side_details {
   }
   # turn off lb
   else {
+    if (!$main::{"Dancer::App"}) {
+      if (exists $ENV{g} and $ENV{g} eq 'Letterboxd') {
+        $out .= '<a href="index.html">With Letterboxd</a>';
+      } else {
+        $out .= '<a href="no-lb.html">Without Letterboxd</a>';
+      }
+      return $out;
+    }
     my $s = $critics_group[$#critics_group];
     if (defined($s) and $s eq 'Letterboxd') {
-      if (!$main::{"Dancer::App"}) {
-        if (exists $ENV{g} and $ENV{g} eq 'Letterboxd') {
-          $out .= '<a href="index.html">With Letterboxd</a>';
-        } else {
-          $out .= '<a href="no-lb.html">Without Letterboxd</a>';
-        }
-        return $out;
-      }
       my $gbox = "<form><input type=hidden name=t value=\"\">\n";
       for (@critics_group) {
         next if $_ eq $s;
